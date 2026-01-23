@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Hero from '../../components/home/Hero.astro';
+import TrustIndicators from '../../components/home/TrustIndicators.astro';
+import AboutPreview from '../../components/home/AboutPreview.astro';
+import ProductCategories from '../../components/home/ProductCategories.astro';
+import WhyChooseUs from '../../components/home/WhyChooseUs.astro';
+import Applications from '../../components/home/Applications.astro';
+import CTASection from '../../components/home/CTASection.astro';
+
+const lang = 'zh';
+---
+
+<BaseLayout title="优质植物提取物生产商" lang={lang}>
+  <Hero lang={lang} />
+  <TrustIndicators lang={lang} />
+  <AboutPreview lang={lang} />
+  <ProductCategories lang={lang} />
+  <WhyChooseUs lang={lang} />
+  <Applications lang={lang} />
+  <CTASection lang={lang} />
+</BaseLayout>
