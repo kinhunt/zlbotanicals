@@ -1,0 +1,77 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import ProductCard from '../../../components/products/ProductCard.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+
+const lang = 'zh';
+
+const categories = [
+  {
+    title: '植物提取物',
+    description: '标准化植物提取物，活性成分含量稳定',
+    href: getLocalizedPath('/products/botanical-extracts', lang),
+    icon: '🌿',
+  },
+  {
+    title: '草本粉末',
+    description: '严格GMP条件下加工的细磨植物粉末',
+    href: getLocalizedPath('/products/herbal-powders', lang),
+    icon: '🍃',
+  },
+  {
+    title: '定制配方',
+    description: '根据您的需求定制提取和配方服务',
+    href: getLocalizedPath('/products/custom-formulation', lang),
+    icon: '⚗️',
+  },
+];
+
+const featuredProducts = [
+  { name: '甘草提取物', latinName: 'Glycyrrhiza glabra', category: '提取物', specification: '20% 甘草酸', applications: ['饮料', '保健品', '化妆品'], href: '#' },
+  { name: '人参提取物', latinName: 'Panax ginseng', category: '提取物', specification: '10% 人参皂苷', applications: ['保健品', '饮料'], href: '#' },
+  { name: '绿茶提取物', latinName: 'Camellia sinensis', category: '提取物', specification: '95% 茶多酚', applications: ['饮料', '化妆品', '食品'], href: '#' },
+  { name: '姜黄提取物', latinName: 'Curcuma longa', category: '提取物', specification: '95% 姜黄素', applications: ['保健品', '食品'], href: '#' },
+  { name: '银杏叶提取物', latinName: 'Ginkgo biloba', category: '提取物', specification: '24% 黄酮, 6% 内酯', applications: ['保健品'], href: '#' },
+  { name: '紫锥菊提取物', latinName: 'Echinacea purpurea', category: '提取物', specification: '4% 多酚', applications: ['保健品', '饮料'], href: '#' },
+];
+---
+
+<PageLayout
+  title="产品中心"
+  lang={lang}
+  heroTitle="产品中心"
+  heroSubtitle="为全球行业提供优质植物提取物和天然原料"
+>
+  <!-- Categories -->
+  <section class="section-padding bg-off-white">
+    <div class="container-wide">
+      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8">产品类别</h2>
+      <div class="grid md:grid-cols-3 gap-8">
+        {categories.map((cat) => (
+          <a href={cat.href} class="group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-shadow">
+            <div class="aspect-[3/2] bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
+              <span class="text-5xl">{cat.icon}</span>
+            </div>
+            <div class="p-6">
+              <h3 class="text-xl font-semibold text-gray-900">{cat.title}</h3>
+              <p class="mt-2 text-gray-600">{cat.description}</p>
+              <span class="inline-block mt-4 text-primary font-medium">查看详情 →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Products -->
+  <section class="section-padding">
+    <div class="container-wide">
+      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8">主打产品</h2>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {featuredProducts.map((product) => (
+          <ProductCard {...product} lang={lang} />
+        ))}
+      </div>
+    </div>
+  </section>
+</PageLayout>

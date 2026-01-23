@@ -1,0 +1,35 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import ProductCard from '../../../components/products/ProductCard.astro';
+
+const lang = 'zh';
+
+const products = [
+  { name: '甘草提取物', latinName: 'Glycyrrhiza glabra', category: '提取物', specification: '20% 甘草酸', applications: ['饮料', '保健品', '化妆品'], href: '#' },
+  { name: '人参提取物', latinName: 'Panax ginseng', category: '提取物', specification: '10% 人参皂苷', applications: ['保健品', '饮料'], href: '#' },
+  { name: '绿茶提取物', latinName: 'Camellia sinensis', category: '提取物', specification: '95% 茶多酚', applications: ['饮料', '化妆品'], href: '#' },
+  { name: '姜黄提取物', latinName: 'Curcuma longa', category: '提取物', specification: '95% 姜黄素', applications: ['保健品', '食品'], href: '#' },
+  { name: '银杏叶提取物', latinName: 'Ginkgo biloba', category: '提取物', specification: '24% 黄酮', applications: ['保健品'], href: '#' },
+  { name: '紫锥菊提取物', latinName: 'Echinacea purpurea', category: '提取物', specification: '4% 多酚', applications: ['保健品'], href: '#' },
+  { name: '水飞蓟提取物', latinName: 'Silybum marianum', category: '提取物', specification: '80% 水飞蓟素', applications: ['保健品'], href: '#' },
+  { name: '红景天提取物', latinName: 'Rhodiola rosea', category: '提取物', specification: '3% 红景天苷', applications: ['保健品', '饮料'], href: '#' },
+  { name: '越橘提取物', latinName: 'Vaccinium myrtillus', category: '提取物', specification: '25% 花青素', applications: ['保健品', '化妆品'], href: '#' },
+];
+---
+
+<PageLayout
+  title="植物提取物"
+  lang={lang}
+  heroTitle="植物提取物"
+  heroSubtitle="标准化植物提取物，活性成分含量稳定"
+>
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {products.map((product) => (
+          <ProductCard {...product} lang={lang} />
+        ))}
+      </div>
+    </div>
+  </section>
+</PageLayout>

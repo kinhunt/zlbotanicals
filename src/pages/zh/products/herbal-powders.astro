@@ -1,0 +1,32 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import ProductCard from '../../../components/products/ProductCard.astro';
+
+const lang = 'zh';
+
+const products = [
+  { name: '生姜粉', latinName: 'Zingiber officinale', category: '粉末', specification: '100目', applications: ['食品', '饮料'], href: '#' },
+  { name: '肉桂粉', latinName: 'Cinnamomum cassia', category: '粉末', specification: '80目', applications: ['食品', '饮料'], href: '#' },
+  { name: '姜黄粉', latinName: 'Curcuma longa', category: '粉末', specification: '100目', applications: ['食品', '保健品'], href: '#' },
+  { name: '黄芪粉', latinName: 'Astragalus membranaceus', category: '粉末', specification: '80目', applications: ['保健品'], href: '#' },
+  { name: '枸杞粉', latinName: 'Lycium barbarum', category: '粉末', specification: '100目', applications: ['食品', '饮料'], href: '#' },
+  { name: '玛卡粉', latinName: 'Lepidium meyenii', category: '粉末', specification: '100目', applications: ['保健品', '食品'], href: '#' },
+];
+---
+
+<PageLayout
+  title="草本粉末"
+  lang={lang}
+  heroTitle="草本粉末"
+  heroSubtitle="严格GMP条件下加工的细磨植物粉末"
+>
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {products.map((product) => (
+          <ProductCard {...product} lang={lang} />
+        ))}
+      </div>
+    </div>
+  </section>
+</PageLayout>

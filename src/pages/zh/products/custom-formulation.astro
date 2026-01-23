@@ -1,0 +1,49 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+
+const lang = 'zh';
+
+const services = [
+  { title: '定制提取', desc: '根据您对特定活性成分的要求，量身定制提取参数。' },
+  { title: '复配开发', desc: '结合多种植物原料，创造针对特定应用的独特配方。' },
+  { title: '标准化生产', desc: '凭借专业技术确保批次间效价一致。' },
+  { title: '配方支持', desc: '提供技术指导，帮助您将植物原料融入最终产品。' },
+];
+---
+
+<PageLayout
+  title="定制配方"
+  lang={lang}
+  heroTitle="定制配方"
+  heroSubtitle="为您的独特产品需求提供量身定制的植物解决方案"
+>
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="max-w-3xl mb-12">
+        <p class="text-xl text-gray-600 leading-relaxed">
+          我们的研发团队与您紧密合作，开发符合您精确规格的定制植物配方。从小规模试验到全面生产，我们始终提供稳定、高质量的成果。
+        </p>
+      </div>
+
+      <div class="grid md:grid-cols-2 gap-8 mb-16">
+        {services.map((service) => (
+          <div class="p-6 bg-off-white rounded-xl">
+            <h3 class="text-xl font-semibold text-gray-900">{service.title}</h3>
+            <p class="mt-2 text-gray-600">{service.desc}</p>
+          </div>
+        ))}
+      </div>
+
+      <div class="bg-primary text-white rounded-xl p-8 md:p-12 text-center">
+        <h3 class="text-2xl font-display font-bold">有定制项目需求？</h3>
+        <p class="mt-4 text-gray-200 max-w-2xl mx-auto">
+          我们的技术团队随时准备与您讨论需求，为您的产品开发定制解决方案。
+        </p>
+        <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-6 px-8 py-3 bg-accent text-white rounded-lg font-medium hover:bg-accent-dark transition-colors">
+          联系研发团队
+        </a>
+      </div>
+    </div>
+  </section>
+</PageLayout>

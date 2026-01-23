@@ -1,0 +1,32 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import ProductCard from '../../components/products/ProductCard.astro';
+
+const lang = 'en';
+
+const products = [
+  { name: 'Ginger Powder', latinName: 'Zingiber officinale', category: 'Powder', specification: '100 mesh', applications: ['Food', 'Beverage'], href: '#' },
+  { name: 'Cinnamon Powder', latinName: 'Cinnamomum cassia', category: 'Powder', specification: '80 mesh', applications: ['Food', 'Beverage'], href: '#' },
+  { name: 'Turmeric Powder', latinName: 'Curcuma longa', category: 'Powder', specification: '100 mesh', applications: ['Food', 'Nutraceuticals'], href: '#' },
+  { name: 'Astragalus Powder', latinName: 'Astragalus membranaceus', category: 'Powder', specification: '80 mesh', applications: ['Nutraceuticals'], href: '#' },
+  { name: 'Goji Berry Powder', latinName: 'Lycium barbarum', category: 'Powder', specification: '100 mesh', applications: ['Food', 'Beverage'], href: '#' },
+  { name: 'Maca Powder', latinName: 'Lepidium meyenii', category: 'Powder', specification: '100 mesh', applications: ['Nutraceuticals', 'Food'], href: '#' },
+];
+---
+
+<PageLayout
+  title="Herbal Powders"
+  lang={lang}
+  heroTitle="Herbal Powders"
+  heroSubtitle="Fine-ground botanical powders processed under strict GMP conditions"
+>
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {products.map((product) => (
+          <ProductCard {...product} lang={lang} />
+        ))}
+      </div>
+    </div>
+  </section>
+</PageLayout>

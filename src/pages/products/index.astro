@@ -1,0 +1,119 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import ProductCard from '../../components/products/ProductCard.astro';
+import { getLocalizedPath } from '../../i18n/config';
+
+const lang = 'en';
+
+const categories = [
+  {
+    title: 'Botanical Extracts',
+    description: 'Standardized plant extracts with guaranteed active compound levels',
+    href: getLocalizedPath('/products/botanical-extracts', lang),
+    icon: '🌿',
+  },
+  {
+    title: 'Herbal Powders',
+    description: 'Fine-ground botanical powders processed under strict GMP conditions',
+    href: getLocalizedPath('/products/herbal-powders', lang),
+    icon: '🍃',
+  },
+  {
+    title: 'Custom Formulation',
+    description: 'Tailored extraction and formulation services for your unique needs',
+    href: getLocalizedPath('/products/custom-formulation', lang),
+    icon: '⚗️',
+  },
+];
+
+const featuredProducts = [
+  {
+    name: 'Licorice Root Extract',
+    latinName: 'Glycyrrhiza glabra',
+    category: 'Extract',
+    specification: '20% Glycyrrhizic Acid',
+    applications: ['Beverage', 'Nutraceuticals', 'Cosmetics'],
+    href: '#',
+  },
+  {
+    name: 'Ginseng Extract',
+    latinName: 'Panax ginseng',
+    category: 'Extract',
+    specification: '10% Ginsenosides',
+    applications: ['Nutraceuticals', 'Beverage'],
+    href: '#',
+  },
+  {
+    name: 'Green Tea Extract',
+    latinName: 'Camellia sinensis',
+    category: 'Extract',
+    specification: '95% Polyphenols',
+    applications: ['Beverage', 'Cosmetics', 'Food'],
+    href: '#',
+  },
+  {
+    name: 'Turmeric Extract',
+    latinName: 'Curcuma longa',
+    category: 'Extract',
+    specification: '95% Curcuminoids',
+    applications: ['Nutraceuticals', 'Food'],
+    href: '#',
+  },
+  {
+    name: 'Ginkgo Biloba Extract',
+    latinName: 'Ginkgo biloba',
+    category: 'Extract',
+    specification: '24% Flavonoids, 6% Lactones',
+    applications: ['Nutraceuticals'],
+    href: '#',
+  },
+  {
+    name: 'Echinacea Extract',
+    latinName: 'Echinacea purpurea',
+    category: 'Extract',
+    specification: '4% Polyphenols',
+    applications: ['Nutraceuticals', 'Beverage'],
+    href: '#',
+  },
+];
+---
+
+<PageLayout
+  title="Products"
+  lang={lang}
+  heroTitle="Our Products"
+  heroSubtitle="Premium botanical extracts and natural ingredients for global industries"
+>
+  <!-- Categories -->
+  <section class="section-padding bg-off-white">
+    <div class="container-wide">
+      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8">Product Categories</h2>
+      <div class="grid md:grid-cols-3 gap-8">
+        {categories.map((cat) => (
+          <a href={cat.href} class="group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-shadow">
+            <div class="aspect-[3/2] bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
+              <span class="text-5xl">{cat.icon}</span>
+            </div>
+            <div class="p-6">
+              <h3 class="text-xl font-semibold text-gray-900">{cat.title}</h3>
+              <p class="mt-2 text-gray-600">{cat.description}</p>
+              <span class="inline-block mt-4 text-primary font-medium">Explore →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Products -->
+  <section class="section-padding">
+    <div class="container-wide">
+      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8">Featured Products</h2>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {featuredProducts.map((product) => (
+          <ProductCard {...product} lang={lang} />
+        ))}
+      </div>
+    </div>
+  </section>
+</PageLayout>

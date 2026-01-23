@@ -1,0 +1,49 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../i18n/config';
+
+const lang = 'en';
+
+const services = [
+  { title: 'Custom Extraction', desc: 'Tailored extraction parameters to meet your specific active compound requirements.' },
+  { title: 'Blend Development', desc: 'Create unique botanical blends combining multiple ingredients for targeted applications.' },
+  { title: 'Standardization', desc: 'Achieve consistent potency levels across batches with our standardization expertise.' },
+  { title: 'Formulation Support', desc: 'Technical guidance on incorporating botanical ingredients into your final products.' },
+];
+---
+
+<PageLayout
+  title="Custom Formulation"
+  lang={lang}
+  heroTitle="Custom Formulation"
+  heroSubtitle="Tailored botanical solutions for your unique product requirements"
+>
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="max-w-3xl mb-12">
+        <p class="text-xl text-gray-600 leading-relaxed">
+          Our R&D team works closely with you to develop custom botanical formulations that meet your exact specifications. From small-scale trials to full production runs, we deliver consistent, high-quality results.
+        </p>
+      </div>
+
+      <div class="grid md:grid-cols-2 gap-8 mb-16">
+        {services.map((service) => (
+          <div class="p-6 bg-off-white rounded-xl">
+            <h3 class="text-xl font-semibold text-gray-900">{service.title}</h3>
+            <p class="mt-2 text-gray-600">{service.desc}</p>
+          </div>
+        ))}
+      </div>
+
+      <div class="bg-primary text-white rounded-xl p-8 md:p-12 text-center">
+        <h3 class="text-2xl font-display font-bold">Have a Custom Project in Mind?</h3>
+        <p class="mt-4 text-gray-200 max-w-2xl mx-auto">
+          Our technical team is ready to discuss your requirements and develop a customized solution for your product needs.
+        </p>
+        <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-6 px-8 py-3 bg-accent text-white rounded-lg font-medium hover:bg-accent-dark transition-colors">
+          Contact Our R&D Team
+        </a>
+      </div>
+    </div>
+  </section>
+</PageLayout>

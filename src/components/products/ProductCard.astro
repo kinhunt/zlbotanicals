@@ -1,0 +1,53 @@
+---
+interface Props {
+  name: string;
+  latinName?: string;
+  category: string;
+  specification?: string;
+  applications?: string[];
+  href: string;
+  lang: 'en' | 'zh';
+}
+
+const { name, latinName, category, specification, applications, href, lang } = Astro.props;
+const viewText = lang === 'zh' ? '查看详情' : 'View Details';
+---
+
+<div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow overflow-hidden group">
+  <div class="aspect-[4/3] bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
+    <span class="text-primary/30 text-sm">Product Image</span>
+  </div>
+  <div class="p-6">
+    <span class="text-xs font-medium text-accent uppercase tracking-wider">
+      {category}
+    </span>
+    <h3 class="text-lg font-semibold text-gray-900 mt-2">
+      {name}
+    </h3>
+    {latinName && (
+      <p class="text-sm text-gray-500 italic">{latinName}</p>
+    )}
+    {specification && (
+      <p class="text-sm text-gray-600 mt-2">
+        <span class="font-medium">{lang === 'zh' ? '规格：' : 'Spec:'}</span> {specification}
+      </p>
+    )}
+    {applications && applications.length > 0 && (
+      <div class="flex flex-wrap gap-1 mt-3">
+        {applications.slice(0, 3).map((app) => (
+          <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
+            {app}
+          </span>
+        ))}
+      </div>
+    )}
+    <div class="mt-4">
+      <a
+        href={href}
+        class="text-sm font-medium text-primary hover:text-primary-dark"
+      >
+        {viewText} →
+      </a>
+    </div>
+  </div>
+</div>

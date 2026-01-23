@@ -1,0 +1,35 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import ProductCard from '../../components/products/ProductCard.astro';
+
+const lang = 'en';
+
+const products = [
+  { name: 'Licorice Root Extract', latinName: 'Glycyrrhiza glabra', category: 'Extract', specification: '20% Glycyrrhizic Acid', applications: ['Beverage', 'Nutraceuticals', 'Cosmetics'], href: '#' },
+  { name: 'Ginseng Extract', latinName: 'Panax ginseng', category: 'Extract', specification: '10% Ginsenosides', applications: ['Nutraceuticals', 'Beverage'], href: '#' },
+  { name: 'Green Tea Extract', latinName: 'Camellia sinensis', category: 'Extract', specification: '95% Polyphenols', applications: ['Beverage', 'Cosmetics'], href: '#' },
+  { name: 'Turmeric Extract', latinName: 'Curcuma longa', category: 'Extract', specification: '95% Curcuminoids', applications: ['Nutraceuticals', 'Food'], href: '#' },
+  { name: 'Ginkgo Biloba Extract', latinName: 'Ginkgo biloba', category: 'Extract', specification: '24% Flavonoids', applications: ['Nutraceuticals'], href: '#' },
+  { name: 'Echinacea Extract', latinName: 'Echinacea purpurea', category: 'Extract', specification: '4% Polyphenols', applications: ['Nutraceuticals'], href: '#' },
+  { name: 'Milk Thistle Extract', latinName: 'Silybum marianum', category: 'Extract', specification: '80% Silymarin', applications: ['Nutraceuticals'], href: '#' },
+  { name: 'Rhodiola Extract', latinName: 'Rhodiola rosea', category: 'Extract', specification: '3% Rosavins', applications: ['Nutraceuticals', 'Beverage'], href: '#' },
+  { name: 'Bilberry Extract', latinName: 'Vaccinium myrtillus', category: 'Extract', specification: '25% Anthocyanins', applications: ['Nutraceuticals', 'Cosmetics'], href: '#' },
+];
+---
+
+<PageLayout
+  title="Botanical Extracts"
+  lang={lang}
+  heroTitle="Botanical Extracts"
+  heroSubtitle="Standardized plant extracts with guaranteed active compound levels"
+>
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {products.map((product) => (
+          <ProductCard {...product} lang={lang} />
+        ))}
+      </div>
+    </div>
+  </section>
+</PageLayout>
