@@ -1,0 +1,33 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+
+const lang = 'zh';
+
+const faqs = [
+  { q: '你们的最小起订量(MOQ)是多少？', a: 'MOQ因产品而异。样品可提供100g-1kg。生产订单的典型MOQ为25-100kg，具体取决于产品。' },
+  { q: '你们提供样品吗？', a: '是的，我们提供评估样品。可能收取样品费，通常会在首次订单中抵扣。' },
+  { q: '你们有哪些认证？', a: '我们持有GMP、ISO 9001、ISO 22000和HACCP认证。部分产品还有清真和犹太洁食认证。' },
+  { q: '交货期是多久？', a: '标准产品通常2-3周内发货。定制配方可能需要4-6周，具体取决于规格。' },
+  { q: '你们提供定制配方吗？', a: '是的，我们的研发团队可以根据您的具体要求开发定制提取物、复配和配方。' },
+  { q: '你们接受哪些付款方式？', a: '我们接受电汇(T/T)、信用证(L/C)和其他付款方式。具体条款在报价过程中商议。' },
+];
+---
+
+<PageLayout title="常见问题" lang={lang} heroTitle="常见问题" heroSubtitle="常见问题解答">
+  <section class="section-padding">
+    <div class="container-wide max-w-3xl">
+      <div class="space-y-6">
+        {faqs.map((faq) => (
+          <div class="p-6 bg-off-white rounded-xl">
+            <h3 class="font-semibold text-gray-900">{faq.q}</h3>
+            <p class="text-gray-600 mt-2">{faq.a}</p>
+          </div>
+        ))}
+      </div>
+      <p class="mt-8 text-center text-gray-600">
+        还有更多问题？<a href={getLocalizedPath('/contact', lang)} class="text-primary font-medium hover:underline">联系我们</a>
+      </p>
+    </div>
+  </section>
+</PageLayout>

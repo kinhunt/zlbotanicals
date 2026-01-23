@@ -1,0 +1,27 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+
+const lang = 'zh';
+---
+
+<PageLayout title="资源中心" lang={lang} heroTitle="资源中心" heroSubtitle="为合作伙伴提供知识和下载">
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="grid md:grid-cols-3 gap-8">
+        <a href={getLocalizedPath('/resources/blog', lang)} class="p-8 bg-off-white rounded-xl hover:shadow-lg transition-all">
+          <h3 class="text-xl font-semibold text-gray-900">博客</h3>
+          <p class="mt-2 text-gray-600">行业洞察、产品聚焦和公司新闻。</p>
+        </a>
+        <a href={getLocalizedPath('/resources/downloads', lang)} class="p-8 bg-off-white rounded-xl hover:shadow-lg transition-all">
+          <h3 class="text-xl font-semibold text-gray-900">下载中心</h3>
+          <p class="mt-2 text-gray-600">产品目录、规格说明书和技术文档。</p>
+        </a>
+        <a href={getLocalizedPath('/resources/faq', lang)} class="p-8 bg-off-white rounded-xl hover:shadow-lg transition-all">
+          <h3 class="text-xl font-semibold text-gray-900">常见问题</h3>
+          <p class="mt-2 text-gray-600">关于产品和服务的常见问题解答。</p>
+        </a>
+      </div>
+    </div>
+  </section>
+</PageLayout>

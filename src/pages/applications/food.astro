@@ -1,0 +1,30 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../i18n/config';
+
+const lang = 'en';
+
+const products = [
+  'Turmeric Powder', 'Ginger Powder', 'Cinnamon Powder',
+  'Green Tea Extract', 'Licorice Extract', 'Natural Colorants'
+];
+---
+
+<PageLayout title="Food" lang={lang} heroTitle="Food Industry" heroSubtitle="Natural ingredients for food applications">
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="max-w-3xl mb-12">
+        <p class="text-xl text-gray-600 leading-relaxed">
+          From natural flavors and colors to functional ingredients, our botanical products enhance food products naturally.
+        </p>
+      </div>
+      <h3 class="text-xl font-semibold text-gray-900 mb-4">Popular Products for Food</h3>
+      <div class="flex flex-wrap gap-3">
+        {products.map((p) => <span class="px-4 py-2 bg-off-white rounded-lg text-gray-700">{p}</span>)}
+      </div>
+      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-8 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">
+        Discuss Your Project
+      </a>
+    </div>
+  </section>
+</PageLayout>

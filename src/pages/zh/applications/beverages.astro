@@ -1,0 +1,22 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+
+const lang = 'zh';
+const products = ['绿茶提取物', '人参提取物', '甘草提取物', '生姜提取物', '紫锥菊提取物', '红景天提取物'];
+---
+
+<PageLayout title="饮料行业" lang={lang} heroTitle="饮料行业" heroSubtitle="全球饮料市场的功能性原料">
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="max-w-3xl mb-12">
+        <p class="text-xl text-gray-600 leading-relaxed">从功能性茶饮到能量饮料和健康饮品，我们的植物提取物为风味、功能和健康功效提供天然解决方案。</p>
+      </div>
+      <h3 class="text-xl font-semibold text-gray-900 mb-4">饮料行业热门产品</h3>
+      <div class="flex flex-wrap gap-3">
+        {products.map((p) => <span class="px-4 py-2 bg-off-white rounded-lg text-gray-700">{p}</span>)}
+      </div>
+      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-8 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">洽谈您的项目</a>
+    </div>
+  </section>
+</PageLayout>

@@ -1,0 +1,30 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../i18n/config';
+
+const lang = 'en';
+
+const products = [
+  'Green Tea Extract', 'Ginseng Extract', 'Licorice Extract',
+  'Ginger Extract', 'Echinacea Extract', 'Rhodiola Extract'
+];
+---
+
+<PageLayout title="Beverages" lang={lang} heroTitle="Beverage Industry" heroSubtitle="Functional ingredients for the global beverage market">
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="max-w-3xl mb-12">
+        <p class="text-xl text-gray-600 leading-relaxed">
+          From functional teas to energy drinks and wellness beverages, our botanical extracts provide natural solutions for flavor, function, and health benefits.
+        </p>
+      </div>
+      <h3 class="text-xl font-semibold text-gray-900 mb-4">Popular Products for Beverages</h3>
+      <div class="flex flex-wrap gap-3">
+        {products.map((p) => <span class="px-4 py-2 bg-off-white rounded-lg text-gray-700">{p}</span>)}
+      </div>
+      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-8 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">
+        Discuss Your Project
+      </a>
+    </div>
+  </section>
+</PageLayout>

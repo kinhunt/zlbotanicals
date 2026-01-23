@@ -1,0 +1,74 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../i18n/config';
+
+const lang = 'en';
+
+const certifications = [
+  { name: 'GMP', desc: 'Good Manufacturing Practice' },
+  { name: 'ISO 9001', desc: 'Quality Management System' },
+  { name: 'ISO 22000', desc: 'Food Safety Management' },
+  { name: 'HACCP', desc: 'Hazard Analysis Critical Control Points' },
+];
+
+const processes = [
+  { step: '01', title: 'Raw Material Inspection', desc: 'Every batch of raw materials undergoes identity, purity, and contaminant testing.' },
+  { step: '02', title: 'In-Process Controls', desc: 'Continuous monitoring during extraction ensures consistent quality.' },
+  { step: '03', title: 'Final Product Testing', desc: 'Comprehensive analysis including HPLC, GC, and microbial testing.' },
+  { step: '04', title: 'Release & Documentation', desc: 'Full traceability with Certificate of Analysis for every batch.' },
+];
+---
+
+<PageLayout
+  title="Quality Assurance"
+  lang={lang}
+  heroTitle="Quality is Our Foundation"
+  heroSubtitle="Rigorous quality control at every stage of production"
+>
+  <!-- Certifications -->
+  <section class="section-padding bg-off-white">
+    <div class="container-wide">
+      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8 text-center">Our Certifications</h2>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+        {certifications.map((cert) => (
+          <div class="bg-white p-6 rounded-xl text-center shadow-sm">
+            <div class="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg class="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+              </svg>
+            </div>
+            <h3 class="font-semibold text-gray-900">{cert.name}</h3>
+            <p class="text-sm text-gray-600 mt-1">{cert.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Quality Process -->
+  <section class="section-padding">
+    <div class="container-wide">
+      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8 text-center">Quality Control Process</h2>
+      <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+        {processes.map((process) => (
+          <div class="relative">
+            <span class="text-5xl font-display font-bold text-primary/10">{process.step}</span>
+            <h3 class="text-lg font-semibold text-gray-900 mt-2">{process.title}</h3>
+            <p class="text-gray-600 mt-2 text-sm">{process.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="bg-primary py-16">
+    <div class="container-wide text-center">
+      <h3 class="text-2xl font-display font-bold text-white">Need Quality Documentation?</h3>
+      <p class="mt-4 text-gray-200">Request COAs, certifications, or schedule a facility audit.</p>
+      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-6 px-8 py-3 bg-accent text-white rounded-lg font-medium hover:bg-accent-dark transition-colors">
+        Contact Quality Team
+      </a>
+    </div>
+  </section>
+</PageLayout>

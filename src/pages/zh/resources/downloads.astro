@@ -1,0 +1,33 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+
+const lang = 'zh';
+
+const downloads = [
+  { name: '产品目录 2025', desc: '植物提取物和粉末完整列表', size: 'PDF, 2.5 MB' },
+  { name: '公司简介', desc: '振隆药业能力和认证概览', size: 'PDF, 1.2 MB' },
+];
+---
+
+<PageLayout title="下载中心" lang={lang} heroTitle="下载中心" heroSubtitle="技术文档和产品目录">
+  <section class="section-padding">
+    <div class="container-wide max-w-3xl">
+      <div class="space-y-4">
+        {downloads.map((doc) => (
+          <div class="p-6 bg-off-white rounded-xl flex items-center justify-between">
+            <div>
+              <h3 class="font-semibold text-gray-900">{doc.name}</h3>
+              <p class="text-sm text-gray-600 mt-1">{doc.desc}</p>
+              <span class="text-xs text-gray-500">{doc.size}</span>
+            </div>
+            <button class="px-4 py-2 bg-primary text-white rounded-lg text-sm font-medium hover:bg-primary-dark transition-colors">下载</button>
+          </div>
+        ))}
+      </div>
+      <p class="mt-8 text-gray-500 text-sm text-center">
+        需要其他文档？<a href={getLocalizedPath('/contact', lang)} class="text-primary hover:underline">联系我们</a>获取检测报告、规格说明书或定制文档。
+      </p>
+    </div>
+  </section>
+</PageLayout>

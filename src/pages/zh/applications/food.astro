@@ -1,0 +1,22 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+
+const lang = 'zh';
+const products = ['姜黄粉', '生姜粉', '肉桂粉', '绿茶提取物', '甘草提取物', '天然色素'];
+---
+
+<PageLayout title="食品行业" lang={lang} heroTitle="食品行业" heroSubtitle="食品应用的天然原料">
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="max-w-3xl mb-12">
+        <p class="text-xl text-gray-600 leading-relaxed">从天然风味和色素到功能性原料，我们的植物产品天然提升食品品质。</p>
+      </div>
+      <h3 class="text-xl font-semibold text-gray-900 mb-4">食品行业热门产品</h3>
+      <div class="flex flex-wrap gap-3">
+        {products.map((p) => <span class="px-4 py-2 bg-off-white rounded-lg text-gray-700">{p}</span>)}
+      </div>
+      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-8 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">洽谈您的项目</a>
+    </div>
+  </section>
+</PageLayout>

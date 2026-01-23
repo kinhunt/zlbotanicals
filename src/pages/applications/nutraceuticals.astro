@@ -1,0 +1,30 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../i18n/config';
+
+const lang = 'en';
+
+const products = [
+  'Turmeric Extract', 'Ginkgo Biloba Extract', 'Milk Thistle Extract',
+  'Ginseng Extract', 'Echinacea Extract', 'Bilberry Extract'
+];
+---
+
+<PageLayout title="Nutraceuticals" lang={lang} heroTitle="Nutraceuticals Industry" heroSubtitle="Premium extracts for dietary supplements">
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="max-w-3xl mb-12">
+        <p class="text-xl text-gray-600 leading-relaxed">
+          Our standardized botanical extracts meet the highest quality standards for dietary supplements, providing consistent potency and efficacy.
+        </p>
+      </div>
+      <h3 class="text-xl font-semibold text-gray-900 mb-4">Popular Products for Nutraceuticals</h3>
+      <div class="flex flex-wrap gap-3">
+        {products.map((p) => <span class="px-4 py-2 bg-off-white rounded-lg text-gray-700">{p}</span>)}
+      </div>
+      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-8 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">
+        Discuss Your Project
+      </a>
+    </div>
+  </section>
+</PageLayout>

@@ -1,0 +1,22 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+
+const lang = 'zh';
+const products = ['姜黄提取物', '银杏叶提取物', '水飞蓟提取物', '人参提取物', '紫锥菊提取物', '越橘提取物'];
+---
+
+<PageLayout title="保健品行业" lang={lang} heroTitle="保健品行业" heroSubtitle="膳食补充剂的优质提取物">
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="max-w-3xl mb-12">
+        <p class="text-xl text-gray-600 leading-relaxed">我们的标准化植物提取物符合膳食补充剂的最高质量标准，提供稳定的效价和功效。</p>
+      </div>
+      <h3 class="text-xl font-semibold text-gray-900 mb-4">保健品行业热门产品</h3>
+      <div class="flex flex-wrap gap-3">
+        {products.map((p) => <span class="px-4 py-2 bg-off-white rounded-lg text-gray-700">{p}</span>)}
+      </div>
+      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-8 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">洽谈您的项目</a>
+    </div>
+  </section>
+</PageLayout>

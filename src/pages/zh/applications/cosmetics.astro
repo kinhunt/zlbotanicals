@@ -1,0 +1,22 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+
+const lang = 'zh';
+const products = ['绿茶提取物', '甘草提取物', '越橘提取物', '积雪草提取物', '洋甘菊提取物', '芦荟提取物'];
+---
+
+<PageLayout title="化妆品行业" lang={lang} heroTitle="化妆品行业" heroSubtitle="个人护理的天然植物活性成分">
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="max-w-3xl mb-12">
+        <p class="text-xl text-gray-600 leading-relaxed">我们的植物提取物为护肤、护发和个人护理配方提供天然、有效的活性成分。</p>
+      </div>
+      <h3 class="text-xl font-semibold text-gray-900 mb-4">化妆品行业热门产品</h3>
+      <div class="flex flex-wrap gap-3">
+        {products.map((p) => <span class="px-4 py-2 bg-off-white rounded-lg text-gray-700">{p}</span>)}
+      </div>
+      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-8 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">洽谈您的项目</a>
+    </div>
+  </section>
+</PageLayout>
