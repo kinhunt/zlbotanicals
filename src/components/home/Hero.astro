@@ -1,0 +1,51 @@
+---
+import { type Language, getLocalizedPath } from '../../i18n/config';
+import { useTranslations } from '../../i18n/utils';
+import Button from '../common/Button.astro';
+
+interface Props {
+  lang: Language;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+---
+
+<section class="relative bg-primary overflow-hidden">
+  <!-- Background Pattern -->
+  <div class="absolute inset-0 opacity-5">
+    <div class="absolute inset-0 bg-[radial-gradient(circle_at_1px_1px,white_1px,transparent_0)] bg-[length:40px_40px]"></div>
+  </div>
+
+  <div class="container-wide relative">
+    <div class="py-20 md:py-28 lg:py-36">
+      <div class="max-w-3xl">
+        <!-- Badge -->
+        <span class="inline-block px-4 py-2 bg-white/10 text-white/90 rounded-full text-sm font-medium mb-6">
+          {t('hero.badge')}
+        </span>
+
+        <!-- Title -->
+        <h1 class="text-4xl md:text-5xl lg:text-6xl font-display font-bold text-white leading-tight">
+          {t('hero.title')}
+          <span class="text-accent">{t('hero.titleHighlight')}</span>
+        </h1>
+
+        <!-- Subtitle -->
+        <p class="mt-6 text-lg md:text-xl text-gray-200 max-w-2xl">
+          {t('hero.subtitle')}
+        </p>
+
+        <!-- CTAs -->
+        <div class="mt-10 flex flex-wrap gap-4">
+          <Button href={getLocalizedPath('/products', lang)} variant="accent" size="lg">
+            {t('hero.ctaPrimary')}
+          </Button>
+          <Button href={getLocalizedPath('/request-quote', lang)} variant="secondary" size="lg" class="border-white text-white hover:bg-white hover:text-primary">
+            {t('hero.ctaSecondary')}
+          </Button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

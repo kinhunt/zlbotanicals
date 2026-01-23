@@ -1,0 +1,67 @@
+---
+import { type Language, getLocalizedPath } from '../../i18n/config';
+import { useTranslations } from '../../i18n/utils';
+import SectionHeader from '../common/SectionHeader.astro';
+import Button from '../common/Button.astro';
+
+interface Props {
+  lang: Language;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const categories = [
+  {
+    title: t('products.botanicalTitle'),
+    description: t('products.botanicalDesc'),
+    href: getLocalizedPath('/products/botanical-extracts', lang),
+    cta: t('products.viewProducts'),
+    icon: '🌿',
+  },
+  {
+    title: t('products.herbalTitle'),
+    description: t('products.herbalDesc'),
+    href: getLocalizedPath('/products/herbal-powders', lang),
+    cta: t('products.viewProducts'),
+    icon: '🍃',
+  },
+  {
+    title: t('products.customTitle'),
+    description: t('products.customDesc'),
+    href: getLocalizedPath('/products/custom-formulation', lang),
+    cta: t('products.learnMore'),
+    icon: '⚗️',
+  },
+];
+---
+
+<section class="section-padding bg-off-white">
+  <div class="container-wide">
+    <SectionHeader
+      subtitle={t('products.subtitle')}
+      title={t('products.title')}
+    />
+
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {categories.map((category) => (
+        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow overflow-hidden group">
+          <div class="aspect-[3/2] bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
+            <span class="text-5xl">{category.icon}</span>
+          </div>
+          <div class="p-6">
+            <h3 class="text-xl font-semibold text-gray-900">
+              {category.title}
+            </h3>
+            <p class="mt-3 text-gray-600">
+              {category.description}
+            </p>
+            <Button href={category.href} variant="ghost" class="mt-4 p-0">
+              {category.cta} →
+            </Button>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,35 @@
+---
+import { type Language } from '../../i18n/config';
+import { useTranslations } from '../../i18n/utils';
+
+interface Props {
+  lang: Language;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const stats = [
+  { value: '40+', label: t('trust.years') },
+  { value: '20,000+', label: t('trust.tons') },
+  { value: '7', label: t('trust.lines') },
+  { value: '50+', label: t('trust.countries') },
+];
+---
+
+<section class="bg-off-white py-12 md:py-16">
+  <div class="container-wide">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12">
+      {stats.map((stat) => (
+        <div class="text-center">
+          <div class="text-3xl md:text-4xl font-display font-bold text-accent">
+            {stat.value}
+          </div>
+          <div class="mt-2 text-sm md:text-base text-gray-600">
+            {stat.label}
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

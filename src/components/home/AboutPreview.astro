@@ -1,0 +1,50 @@
+---
+import { type Language, getLocalizedPath } from '../../i18n/config';
+import { useTranslations } from '../../i18n/utils';
+import SectionHeader from '../common/SectionHeader.astro';
+
+interface Props {
+  lang: Language;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+---
+
+<section class="section-padding">
+  <div class="container-wide">
+    <div class="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+      <!-- Image -->
+      <div class="relative">
+        <div class="aspect-[4/3] rounded-xl overflow-hidden bg-gray-200">
+          <div class="w-full h-full bg-gradient-to-br from-primary/20 to-primary/5 flex items-center justify-center">
+            <span class="text-primary/40 text-sm">Facility Image</span>
+          </div>
+        </div>
+        <div class="absolute -bottom-6 -right-6 w-32 h-32 bg-accent/20 rounded-xl -z-10"></div>
+      </div>
+
+      <!-- Content -->
+      <div>
+        <SectionHeader
+          subtitle={t('about.subtitle')}
+          title={t('about.title')}
+          align="left"
+          class="mb-6"
+        />
+        <p class="text-gray-600 text-lg leading-relaxed">
+          {t('about.description')}
+        </p>
+        <a
+          href={getLocalizedPath('/about/story', lang)}
+          class="inline-flex items-center gap-2 mt-8 text-primary font-medium hover:text-primary-dark transition-colors"
+        >
+          {t('about.link')}
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,32 @@
+---
+interface Props {
+  subtitle?: string;
+  title: string;
+  description?: string;
+  align?: 'left' | 'center';
+  class?: string;
+  dark?: boolean;
+}
+
+const { subtitle, title, description, align = 'center', class: className = '', dark = false } = Astro.props;
+
+const alignClass = align === 'center' ? 'text-center mx-auto' : 'text-left';
+const textClass = dark ? 'text-white' : 'text-gray-900';
+const descClass = dark ? 'text-gray-200' : 'text-gray-600';
+---
+
+<div class={`max-w-2xl mb-12 ${alignClass} ${className}`}>
+  {subtitle && (
+    <span class="text-accent font-medium uppercase tracking-wider text-sm">
+      {subtitle}
+    </span>
+  )}
+  <h2 class={`text-3xl md:text-4xl font-display font-bold ${textClass} mt-3`}>
+    {title}
+  </h2>
+  {description && (
+    <p class={`${descClass} mt-4 text-lg`}>
+      {description}
+    </p>
+  )}
+</div>
