@@ -1,0 +1,90 @@
+---
+import { type Language, getLocalizedPath } from '../../i18n/config';
+import { useTranslations } from '../../i18n/utils';
+
+interface Props {
+  lang: Language;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const navItems = [
+  {
+    label: t('nav.about'),
+    href: getLocalizedPath('/about', lang),
+    children: [
+      { label: t('nav.aboutStory'), href: getLocalizedPath('/about/story', lang) },
+      { label: t('nav.aboutFacility'), href: getLocalizedPath('/about/facility', lang) },
+      { label: t('nav.aboutCertifications'), href: getLocalizedPath('/about/certifications', lang) },
+    ],
+  },
+  {
+    label: t('nav.products'),
+    href: getLocalizedPath('/products', lang),
+    children: [
+      { label: t('nav.productsBotanical'), href: getLocalizedPath('/products/botanical-extracts', lang) },
+      { label: t('nav.productsHerbal'), href: getLocalizedPath('/products/herbal-powders', lang) },
+      { label: t('nav.productsCustom'), href: getLocalizedPath('/products/custom-formulation', lang) },
+    ],
+  },
+  {
+    label: t('nav.applications'),
+    href: getLocalizedPath('/applications', lang),
+    children: [
+      { label: t('nav.applicationsBeverages'), href: getLocalizedPath('/applications/beverages', lang) },
+      { label: t('nav.applicationsNutraceuticals'), href: getLocalizedPath('/applications/nutraceuticals', lang) },
+      { label: t('nav.applicationsCosmetics'), href: getLocalizedPath('/applications/cosmetics', lang) },
+      { label: t('nav.applicationsFood'), href: getLocalizedPath('/applications/food', lang) },
+    ],
+  },
+  {
+    label: t('nav.quality'),
+    href: getLocalizedPath('/quality', lang),
+  },
+  {
+    label: t('nav.resources'),
+    href: getLocalizedPath('/resources', lang),
+    children: [
+      { label: t('nav.resourcesBlog'), href: getLocalizedPath('/resources/blog', lang) },
+      { label: t('nav.resourcesDownloads'), href: getLocalizedPath('/resources/downloads', lang) },
+      { label: t('nav.resourcesFaq'), href: getLocalizedPath('/resources/faq', lang) },
+    ],
+  },
+  {
+    label: t('nav.contact'),
+    href: getLocalizedPath('/contact', lang),
+  },
+];
+---
+
+<nav class="hidden lg:flex items-center gap-8">
+  {navItems.map((item) => (
+    <div class="relative group">
+      <a
+        href={item.href}
+        class="flex items-center gap-1 text-sm font-medium text-gray-700 hover:text-primary transition-colors py-2"
+      >
+        {item.label}
+        {item.children && (
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
+        )}
+      </a>
+
+      {item.children && (
+        <div class="absolute left-0 mt-0 w-48 bg-white rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+          {item.children.map((child) => (
+            <a
+              href={child.href}
+              class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 hover:text-primary first:rounded-t-lg last:rounded-b-lg"
+            >
+              {child.label}
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+  ))}
+</nav>

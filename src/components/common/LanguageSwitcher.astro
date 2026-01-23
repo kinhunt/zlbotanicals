@@ -1,0 +1,39 @@
+---
+import { languages, type Language, getLocalizedPath } from '../../i18n/config';
+
+interface Props {
+  currentLang: Language;
+  currentPath: string;
+}
+
+const { currentLang, currentPath } = Astro.props;
+
+// Remove language prefix from current path to get base path
+const basePath = currentPath.replace(/^\/(zh)/, '') || '/';
+---
+
+<div class="relative group">
+  <button
+    class="flex items-center gap-1 text-sm font-medium text-gray-700 hover:text-primary transition-colors"
+    aria-label="Select language"
+  >
+    <span>{languages[currentLang]}</span>
+    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+    </svg>
+  </button>
+
+  <div class="absolute right-0 mt-2 w-32 bg-white rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+    {Object.entries(languages).map(([code, name]) => (
+      <a
+        href={getLocalizedPath(basePath, code as Language)}
+        class:list={[
+          "block px-4 py-2 text-sm hover:bg-gray-50 first:rounded-t-lg last:rounded-b-lg",
+          code === currentLang ? "text-primary font-medium" : "text-gray-700"
+        ]}
+      >
+        {name}
+      </a>
+    ))}
+  </div>
+</div>

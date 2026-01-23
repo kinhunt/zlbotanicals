@@ -1,0 +1,54 @@
+---
+import { type Language, getLocalizedPath } from '../../i18n/config';
+import { useTranslations } from '../../i18n/utils';
+import Navigation from './Navigation.astro';
+import MobileMenu from './MobileMenu.astro';
+import LanguageSwitcher from '../common/LanguageSwitcher.astro';
+
+interface Props {
+  lang: Language;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const currentPath = Astro.url.pathname;
+---
+
+<header class="sticky top-0 bg-white/95 backdrop-blur-sm border-b border-gray-100 z-40">
+  <div class="container-wide">
+    <div class="flex items-center justify-between h-16 lg:h-20">
+      <!-- Logo -->
+      <a href={getLocalizedPath('/', lang)} class="flex items-center gap-2">
+        <span class="text-xl lg:text-2xl font-display font-bold text-primary">
+          {t('site.name')}
+        </span>
+      </a>
+
+      <!-- Desktop Navigation -->
+      <Navigation lang={lang} />
+
+      <!-- Right Section -->
+      <div class="flex items-center gap-4">
+        <div class="hidden lg:block">
+          <LanguageSwitcher currentLang={lang} currentPath={currentPath} />
+        </div>
+
+        <a
+          href={getLocalizedPath('/request-quote', lang)}
+          class="hidden lg:inline-flex px-5 py-2.5 bg-accent text-white rounded-lg font-medium hover:bg-accent-dark transition-colors"
+        >
+          {t('nav.requestQuote')}
+        </a>
+
+        <!-- Mobile Menu Button -->
+        <button id="open-menu" class="lg:hidden p-2" aria-label="Open menu">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<MobileMenu lang={lang} currentPath={currentPath} />

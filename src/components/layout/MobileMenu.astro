@@ -1,0 +1,132 @@
+---
+import { type Language, getLocalizedPath, languages } from '../../i18n/config';
+import { useTranslations } from '../../i18n/utils';
+
+interface Props {
+  lang: Language;
+  currentPath: string;
+}
+
+const { lang, currentPath } = Astro.props;
+const t = useTranslations(lang);
+const basePath = currentPath.replace(/^\/(zh)/, '') || '/';
+
+const navItems = [
+  {
+    label: t('nav.about'),
+    href: getLocalizedPath('/about', lang),
+    children: [
+      { label: t('nav.aboutStory'), href: getLocalizedPath('/about/story', lang) },
+      { label: t('nav.aboutFacility'), href: getLocalizedPath('/about/facility', lang) },
+      { label: t('nav.aboutCertifications'), href: getLocalizedPath('/about/certifications', lang) },
+    ],
+  },
+  {
+    label: t('nav.products'),
+    href: getLocalizedPath('/products', lang),
+    children: [
+      { label: t('nav.productsBotanical'), href: getLocalizedPath('/products/botanical-extracts', lang) },
+      { label: t('nav.productsHerbal'), href: getLocalizedPath('/products/herbal-powders', lang) },
+      { label: t('nav.productsCustom'), href: getLocalizedPath('/products/custom-formulation', lang) },
+    ],
+  },
+  {
+    label: t('nav.applications'),
+    href: getLocalizedPath('/applications', lang),
+    children: [
+      { label: t('nav.applicationsBeverages'), href: getLocalizedPath('/applications/beverages', lang) },
+      { label: t('nav.applicationsNutraceuticals'), href: getLocalizedPath('/applications/nutraceuticals', lang) },
+      { label: t('nav.applicationsCosmetics'), href: getLocalizedPath('/applications/cosmetics', lang) },
+      { label: t('nav.applicationsFood'), href: getLocalizedPath('/applications/food', lang) },
+    ],
+  },
+  { label: t('nav.quality'), href: getLocalizedPath('/quality', lang) },
+  {
+    label: t('nav.resources'),
+    href: getLocalizedPath('/resources', lang),
+    children: [
+      { label: t('nav.resourcesBlog'), href: getLocalizedPath('/resources/blog', lang) },
+      { label: t('nav.resourcesDownloads'), href: getLocalizedPath('/resources/downloads', lang) },
+      { label: t('nav.resourcesFaq'), href: getLocalizedPath('/resources/faq', lang) },
+    ],
+  },
+  { label: t('nav.contact'), href: getLocalizedPath('/contact', lang) },
+];
+---
+
+<div id="mobile-menu" class="fixed inset-0 bg-white z-50 transform translate-x-full transition-transform duration-300 lg:hidden">
+  <div class="flex flex-col h-full">
+    <div class="flex items-center justify-between p-4 border-b">
+      <span class="text-xl font-display font-bold text-primary">{t('site.name')}</span>
+      <button id="close-menu" class="p-2" aria-label="Close menu">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
+
+    <nav class="flex-1 overflow-y-auto p-4">
+      {navItems.map((item) => (
+        <div class="mb-4">
+          <a href={item.href} class="block py-2 text-lg font-medium text-gray-900">
+            {item.label}
+          </a>
+          {item.children && (
+            <div class="pl-4 mt-1 space-y-1">
+              {item.children.map((child) => (
+                <a href={child.href} class="block py-1 text-gray-600 hover:text-primary">
+                  {child.label}
+                </a>
+              ))}
+            </div>
+          )}
+        </div>
+      ))}
+    </nav>
+
+    <div class="p-4 border-t">
+      <div class="flex gap-2 mb-4">
+        {Object.entries(languages).map(([code, name]) => (
+          <a
+            href={getLocalizedPath(basePath, code as Language)}
+            class:list={[
+              "flex-1 py-2 text-center rounded-lg text-sm font-medium",
+              code === lang
+                ? "bg-primary text-white"
+                : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+            ]}
+          >
+            {name}
+          </a>
+        ))}
+      </div>
+      <a
+        href={getLocalizedPath('/request-quote', lang)}
+        class="block w-full py-3 bg-accent text-white text-center rounded-lg font-medium hover:bg-accent-dark transition-colors"
+      >
+        {t('nav.requestQuote')}
+      </a>
+    </div>
+  </div>
+</div>
+
+<script>
+  function setupMobileMenu() {
+    const mobileMenu = document.getElementById('mobile-menu');
+    const openButton = document.getElementById('open-menu');
+    const closeButton = document.getElementById('close-menu');
+
+    openButton?.addEventListener('click', () => {
+      mobileMenu?.classList.remove('translate-x-full');
+      document.body.style.overflow = 'hidden';
+    });
+
+    closeButton?.addEventListener('click', () => {
+      mobileMenu?.classList.add('translate-x-full');
+      document.body.style.overflow = '';
+    });
+  }
+
+  setupMobileMenu();
+  document.addEventListener('astro:after-swap', setupMobileMenu);
+</script>
