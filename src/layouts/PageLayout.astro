@@ -1,0 +1,34 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import { type Language, defaultLang } from '../i18n/config';
+
+interface Props {
+  title: string;
+  description?: string;
+  lang?: Language;
+  heroTitle?: string;
+  heroSubtitle?: string;
+}
+
+const { title, description, lang = defaultLang, heroTitle, heroSubtitle } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} lang={lang}>
+  {(heroTitle || heroSubtitle) && (
+    <section class="bg-primary text-white py-16 md:py-24">
+      <div class="container-wide text-center">
+        {heroTitle && (
+          <h1 class="text-3xl md:text-4xl lg:text-5xl font-display font-bold">
+            {heroTitle}
+          </h1>
+        )}
+        {heroSubtitle && (
+          <p class="mt-4 text-lg text-gray-200 max-w-2xl mx-auto">
+            {heroSubtitle}
+          </p>
+        )}
+      </div>
+    </section>
+  )}
+  <slot />
+</BaseLayout>
