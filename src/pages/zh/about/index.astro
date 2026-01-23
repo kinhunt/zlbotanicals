@@ -1,0 +1,39 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+
+const lang = 'zh';
+---
+
+<PageLayout
+  title="关于我们"
+  lang={lang}
+  heroTitle="关于振隆药业"
+  heroSubtitle="自1986年以来，近四十年的植物提取专业经验"
+>
+  <section class="section-padding">
+    <div class="container-wide">
+      <p class="text-xl text-gray-600 leading-relaxed max-w-3xl">
+        振隆药业成立于1986年，总部位于中国广州。从一家本地草药加工厂发展成为全球信赖的优质植物提取物和天然原料供应商。
+      </p>
+
+      <div class="grid md:grid-cols-3 gap-8 mt-12">
+        <a href={getLocalizedPath('/about/story', lang)} class="block p-6 bg-off-white rounded-xl hover:shadow-md transition-shadow">
+          <h3 class="text-xl font-semibold text-gray-900">品牌故事</h3>
+          <p class="mt-2 text-gray-600">了解我们从1986年至今的发展历程。</p>
+          <span class="inline-block mt-4 text-primary font-medium">阅读更多 →</span>
+        </a>
+        <a href={getLocalizedPath('/about/facility', lang)} class="block p-6 bg-off-white rounded-xl hover:shadow-md transition-shadow">
+          <h3 class="text-xl font-semibold text-gray-900">生产设施</h3>
+          <p class="mt-2 text-gray-600">探索我们24,000平方米的生产基地。</p>
+          <span class="inline-block mt-4 text-primary font-medium">查看详情 →</span>
+        </a>
+        <a href={getLocalizedPath('/about/certifications', lang)} class="block p-6 bg-off-white rounded-xl hover:shadow-md transition-shadow">
+          <h3 class="text-xl font-semibold text-gray-900">资质认证</h3>
+          <p class="mt-2 text-gray-600">查看我们的质量认证和标准。</p>
+          <span class="inline-block mt-4 text-primary font-medium">查看全部 →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+</PageLayout>

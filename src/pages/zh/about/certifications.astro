@@ -1,0 +1,48 @@
+---
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+
+const lang = 'zh';
+
+const certifications = [
+  { name: 'GMP', desc: '药品生产质量管理规范 - 中国NMPA认证' },
+  { name: 'ISO 9001', desc: '质量管理体系认证' },
+  { name: 'ISO 22000', desc: '食品安全管理体系认证' },
+  { name: 'HACCP', desc: '危害分析与关键控制点认证' },
+  { name: 'Halal', desc: '清真认证（部分产品）' },
+  { name: 'Kosher', desc: '犹太洁食认证（部分产品）' },
+];
+---
+
+<PageLayout
+  title="资质认证"
+  lang={lang}
+  heroTitle="资质认证"
+  heroSubtitle="符合最高国际标准"
+>
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {certifications.map((cert) => (
+          <div class="p-6 border border-gray-200 rounded-xl hover:border-primary/30 hover:shadow-md transition-all">
+            <div class="w-16 h-16 bg-primary/10 rounded-xl flex items-center justify-center text-primary mb-4">
+              <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-semibold text-gray-900">{cert.name}</h3>
+            <p class="mt-2 text-gray-600">{cert.desc}</p>
+          </div>
+        ))}
+      </div>
+
+      <div class="mt-16 p-8 bg-off-white rounded-xl text-center">
+        <h3 class="text-xl font-semibold text-gray-900">需要认证文件？</h3>
+        <p class="mt-2 text-gray-600">请联系我们索取相关认证文件副本。</p>
+        <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-4 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">
+          联系我们
+        </a>
+      </div>
+    </div>
+  </section>
+</PageLayout>

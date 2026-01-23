@@ -1,0 +1,39 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../i18n/config';
+
+const lang = 'en';
+---
+
+<PageLayout
+  title="About Us"
+  lang={lang}
+  heroTitle="About ZL Botanicals"
+  heroSubtitle="Nearly four decades of botanical excellence since 1986"
+>
+  <section class="section-padding">
+    <div class="container-wide">
+      <p class="text-xl text-gray-600 leading-relaxed max-w-3xl">
+        Founded in 1986 in Guangzhou, China, ZL Botanicals has evolved from a local herbal processing facility into a globally trusted supplier of premium botanical extracts and natural ingredients.
+      </p>
+
+      <div class="grid md:grid-cols-3 gap-8 mt-12">
+        <a href={getLocalizedPath('/about/story', lang)} class="block p-6 bg-off-white rounded-xl hover:shadow-md transition-shadow">
+          <h3 class="text-xl font-semibold text-gray-900">Our Story</h3>
+          <p class="mt-2 text-gray-600">Learn about our journey from 1986 to today.</p>
+          <span class="inline-block mt-4 text-primary font-medium">Read More →</span>
+        </a>
+        <a href={getLocalizedPath('/about/facility', lang)} class="block p-6 bg-off-white rounded-xl hover:shadow-md transition-shadow">
+          <h3 class="text-xl font-semibold text-gray-900">Facility Tour</h3>
+          <p class="mt-2 text-gray-600">Explore our 24,000 m² production facility.</p>
+          <span class="inline-block mt-4 text-primary font-medium">Take a Tour →</span>
+        </a>
+        <a href={getLocalizedPath('/about/certifications', lang)} class="block p-6 bg-off-white rounded-xl hover:shadow-md transition-shadow">
+          <h3 class="text-xl font-semibold text-gray-900">Certifications</h3>
+          <p class="mt-2 text-gray-600">View our quality certifications and standards.</p>
+          <span class="inline-block mt-4 text-primary font-medium">View All →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+</PageLayout>

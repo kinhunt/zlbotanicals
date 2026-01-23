@@ -1,0 +1,47 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+
+const lang = 'en';
+
+const certifications = [
+  { name: 'GMP', desc: 'Good Manufacturing Practice - China NMPA certified' },
+  { name: 'ISO 9001', desc: 'Quality Management System' },
+  { name: 'ISO 22000', desc: 'Food Safety Management' },
+  { name: 'HACCP', desc: 'Hazard Analysis Critical Control Points' },
+  { name: 'Halal', desc: 'Halal Certification (select products)' },
+  { name: 'Kosher', desc: 'Kosher Certification (select products)' },
+];
+---
+
+<PageLayout
+  title="Certifications"
+  lang={lang}
+  heroTitle="Quality Certifications"
+  heroSubtitle="Meeting the highest international standards"
+>
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {certifications.map((cert) => (
+          <div class="p-6 border border-gray-200 rounded-xl hover:border-primary/30 hover:shadow-md transition-all">
+            <div class="w-16 h-16 bg-primary/10 rounded-xl flex items-center justify-center text-primary mb-4">
+              <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-semibold text-gray-900">{cert.name}</h3>
+            <p class="mt-2 text-gray-600">{cert.desc}</p>
+          </div>
+        ))}
+      </div>
+
+      <div class="mt-16 p-8 bg-off-white rounded-xl text-center">
+        <h3 class="text-xl font-semibold text-gray-900">Need certification documents?</h3>
+        <p class="mt-2 text-gray-600">Contact us to request copies of our certifications for your records.</p>
+        <a href="/contact" class="inline-block mt-4 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">
+          Contact Us
+        </a>
+      </div>
+    </div>
+  </section>
+</PageLayout>

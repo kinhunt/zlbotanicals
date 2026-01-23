@@ -1,0 +1,44 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+
+const lang = 'en';
+
+const facilities = [
+  { name: '7 GMP Production Lines', desc: 'Pharmaceutical-grade manufacturing standards' },
+  { name: '24,000 m² Facility', desc: 'Modern production and storage facilities' },
+  { name: '20,000+ Tons Capacity', desc: 'Annual raw material processing capability' },
+  { name: 'Advanced Labs', desc: 'In-house quality testing and R&D' },
+];
+---
+
+<PageLayout
+  title="Facility Tour"
+  lang={lang}
+  heroTitle="Our Facility"
+  heroSubtitle="State-of-the-art production in Guangzhou, China"
+>
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
+        {facilities.map((facility) => (
+          <div class="text-center p-6 bg-off-white rounded-xl">
+            <h3 class="text-lg font-semibold text-gray-900">{facility.name}</h3>
+            <p class="mt-2 text-gray-600 text-sm">{facility.desc}</p>
+          </div>
+        ))}
+      </div>
+
+      <div class="prose prose-lg max-w-none">
+        <h2 class="text-2xl font-display font-bold text-gray-900 mb-4">Production Excellence</h2>
+        <p class="text-gray-600 leading-relaxed">
+          Our Guangzhou facility combines traditional botanical expertise with cutting-edge extraction technology. Every production line is designed to preserve the natural properties of our botanical ingredients while ensuring consistent quality and purity.
+        </p>
+
+        <h2 class="text-2xl font-display font-bold text-gray-900 mt-8 mb-4">Quality Control</h2>
+        <p class="text-gray-600 leading-relaxed">
+          Our on-site laboratory conducts rigorous testing at every stage of production, from raw material inspection to final product analysis. We employ HPLC, GC, and other advanced analytical methods to verify identity, potency, and purity.
+        </p>
+      </div>
+    </div>
+  </section>
+</PageLayout>
