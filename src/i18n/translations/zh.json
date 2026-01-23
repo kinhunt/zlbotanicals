@@ -1,0 +1,136 @@
+{
+  "site": {
+    "name": "振隆药业",
+    "tagline": "优质植物提取物"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "aboutStory": "品牌故事",
+    "aboutFacility": "生产设施",
+    "aboutCertifications": "资质认证",
+    "products": "产品中心",
+    "productsBotanical": "植物提取物",
+    "productsHerbal": "草本粉末",
+    "productsCustom": "定制配方",
+    "applications": "应用领域",
+    "applicationsBeverages": "饮料行业",
+    "applicationsNutraceuticals": "保健品行业",
+    "applicationsCosmetics": "化妆品行业",
+    "applicationsFood": "食品行业",
+    "quality": "品质保证",
+    "resources": "资源中心",
+    "resourcesBlog": "博客",
+    "resourcesDownloads": "下载中心",
+    "resourcesFaq": "常见问题",
+    "contact": "联系我们",
+    "requestQuote": "获取报价"
+  },
+  "hero": {
+    "badge": "始于1986年 • 中国广州",
+    "title": "根植传统，",
+    "titleHighlight": "精研未来。",
+    "subtitle": "为全球食品、饮料和健康产业提供优质植物提取物和天然原料。",
+    "ctaPrimary": "探索产品",
+    "ctaSecondary": "获取报价"
+  },
+  "trust": {
+    "years": "年行业经验",
+    "tons": "吨年处理能力",
+    "lines": "条GMP生产线",
+    "countries": "个服务国家"
+  },
+  "about": {
+    "subtitle": "我们的传承",
+    "title": "近四十年的植物提取专业经验",
+    "description": "振隆药业成立于1986年，总部位于中国广州。从一家本地草药加工厂发展成为全球信赖的优质植物提取物供应商。我们将传统智慧与现代技术相结合，为全球合作伙伴提供稳定、高品质的天然原料。",
+    "link": "了解我们的故事"
+  },
+  "products": {
+    "subtitle": "产品与服务",
+    "title": "产品系列",
+    "botanicalTitle": "植物提取物",
+    "botanicalDesc": "标准化植物提取物，活性成分含量稳定，确保配方效果一致。",
+    "herbalTitle": "草本粉末",
+    "herbalDesc": "在严格GMP条件下加工的细磨植物粉末，保留天然特性。",
+    "customTitle": "定制配方",
+    "customDesc": "根据您的独特产品规格，提供定制提取和配方服务。",
+    "viewProducts": "查看产品",
+    "learnMore": "了解更多"
+  },
+  "whyUs": {
+    "subtitle": "我们的优势",
+    "title": "为什么选择振隆药业",
+    "gmpTitle": "GMP认证生产",
+    "gmpDesc": "7条全认证生产线，确保制药级质量标准。",
+    "traceabilityTitle": "全程可追溯",
+    "traceabilityDesc": "从原料采购到最终交付的完整供应链透明度。",
+    "pricingTitle": "价格优势",
+    "pricingDesc": "厂家直供价格，无中间商加价。",
+    "moqTitle": "灵活起订量",
+    "moqDesc": "从样品到大批量订单，满足您的各种需求。",
+    "rdTitle": "研发支持",
+    "rdDesc": "专业技术团队协助开发定制配方和应用方案。",
+    "turnaroundTitle": "快速交付",
+    "turnaroundDesc": "高效的生产和物流体系，确保可靠的交货时间。"
+  },
+  "applications": {
+    "subtitle": "服务行业",
+    "title": "应用领域",
+    "beverages": "饮料行业",
+    "nutraceuticals": "保健品行业",
+    "cosmetics": "化妆品行业",
+    "food": "食品行业"
+  },
+  "cta": {
+    "title": "准备采购优质植物原料？",
+    "subtitle": "联系我们的团队，获取产品信息、样品或定制报价。",
+    "primary": "获取报价",
+    "secondary": "下载产品目录"
+  },
+  "footer": {
+    "description": "自1986年以来，您值得信赖的植物提取物合作伙伴。",
+    "products": "产品中心",
+    "company": "关于公司",
+    "resources": "资源中心",
+    "aboutUs": "关于我们",
+    "ourStory": "品牌故事",
+    "facility": "生产设施",
+    "careers": "加入我们",
+    "blog": "博客",
+    "downloads": "下载中心",
+    "faq": "常见问题",
+    "contactUs": "联系我们",
+    "support": "技术支持",
+    "copyright": "© 2025 振隆药业 版权所有",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "与我们的团队取得联系",
+    "form": {
+      "company": "公司名称",
+      "name": "联系人",
+      "email": "电子邮箱",
+      "phone": "电话",
+      "country": "国家/地区",
+      "inquiryType": "咨询类型",
+      "message": "留言内容",
+      "submit": "发送消息",
+      "selectCountry": "请选择国家/地区",
+      "selectType": "请选择咨询类型",
+      "typeGeneral": "一般咨询",
+      "typeProduct": "产品信息",
+      "typeSample": "样品申请",
+      "typeQuote": "报价请求"
+    }
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "viewAll": "查看全部",
+    "readMore": "阅读更多",
+    "getQuote": "获取报价",
+    "required": "必填"
+  }
+}

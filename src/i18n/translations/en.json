@@ -1,0 +1,136 @@
+{
+  "site": {
+    "name": "ZL Botanicals",
+    "tagline": "Premium Botanical Extracts"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "aboutStory": "Our Story",
+    "aboutFacility": "Facility Tour",
+    "aboutCertifications": "Certifications",
+    "products": "Products",
+    "productsBotanical": "Botanical Extracts",
+    "productsHerbal": "Herbal Powders",
+    "productsCustom": "Custom Formulation",
+    "applications": "Applications",
+    "applicationsBeverages": "Beverages",
+    "applicationsNutraceuticals": "Nutraceuticals",
+    "applicationsCosmetics": "Cosmetics",
+    "applicationsFood": "Food",
+    "quality": "Quality",
+    "resources": "Resources",
+    "resourcesBlog": "Blog",
+    "resourcesDownloads": "Downloads",
+    "resourcesFaq": "FAQ",
+    "contact": "Contact",
+    "requestQuote": "Request Quote"
+  },
+  "hero": {
+    "badge": "Since 1986 • Guangzhou, China",
+    "title": "Rooted in Tradition.",
+    "titleHighlight": "Refined for Tomorrow.",
+    "subtitle": "Premium botanical extracts and natural ingredients for the global food, beverage, and wellness industries.",
+    "ctaPrimary": "Explore Products",
+    "ctaSecondary": "Request a Quote"
+  },
+  "trust": {
+    "years": "Years Experience",
+    "tons": "Tons Capacity",
+    "lines": "GMP Lines",
+    "countries": "Countries Served"
+  },
+  "about": {
+    "subtitle": "Our Heritage",
+    "title": "Nearly Four Decades of Botanical Excellence",
+    "description": "Founded in 1986 in Guangzhou, China, ZL Botanicals has grown from a local herbal processing facility to a globally trusted supplier of premium botanical extracts. We combine traditional knowledge with modern technology to deliver consistent, high-quality natural ingredients to partners worldwide.",
+    "link": "Learn Our Story"
+  },
+  "products": {
+    "subtitle": "What We Offer",
+    "title": "Our Product Range",
+    "botanicalTitle": "Botanical Extracts",
+    "botanicalDesc": "Standardized plant extracts with guaranteed active compound levels for consistent formulation results.",
+    "herbalTitle": "Herbal Powders",
+    "herbalDesc": "Fine-ground botanical powders processed under strict GMP conditions, preserving natural properties.",
+    "customTitle": "Custom Formulation",
+    "customDesc": "Tailored extraction and formulation services to meet your unique product specifications.",
+    "viewProducts": "View Products",
+    "learnMore": "Learn More"
+  },
+  "whyUs": {
+    "subtitle": "Our Advantages",
+    "title": "Why Partner With ZL Botanicals",
+    "gmpTitle": "GMP Certified Production",
+    "gmpDesc": "7 fully certified production lines ensuring pharmaceutical-grade quality standards.",
+    "traceabilityTitle": "Full Traceability",
+    "traceabilityDesc": "Complete supply chain transparency from raw material sourcing to final delivery.",
+    "pricingTitle": "Competitive Pricing",
+    "pricingDesc": "Direct manufacturer pricing without middleman markups.",
+    "moqTitle": "Flexible MOQ",
+    "moqDesc": "From sample quantities to bulk orders, we accommodate your needs.",
+    "rdTitle": "R&D Support",
+    "rdDesc": "Technical expertise to help develop custom formulations and applications.",
+    "turnaroundTitle": "Fast Turnaround",
+    "turnaroundDesc": "Efficient production and logistics for reliable delivery timelines."
+  },
+  "applications": {
+    "subtitle": "Industries We Serve",
+    "title": "Application Areas",
+    "beverages": "Beverages",
+    "nutraceuticals": "Nutraceuticals",
+    "cosmetics": "Cosmetics & Beauty",
+    "food": "Food Industry"
+  },
+  "cta": {
+    "title": "Ready to Source Premium Botanical Ingredients?",
+    "subtitle": "Get in touch with our team for product information, samples, or a custom quote.",
+    "primary": "Request a Quote",
+    "secondary": "Download Catalog"
+  },
+  "footer": {
+    "description": "Your trusted partner for botanical excellence since 1986.",
+    "products": "Products",
+    "company": "Company",
+    "resources": "Resources",
+    "aboutUs": "About Us",
+    "ourStory": "Our Story",
+    "facility": "Facility",
+    "careers": "Careers",
+    "blog": "Blog",
+    "downloads": "Downloads",
+    "faq": "FAQ",
+    "contactUs": "Contact Us",
+    "support": "Support",
+    "copyright": "© 2025 ZL Botanicals. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "form": {
+      "company": "Company Name",
+      "name": "Contact Person",
+      "email": "Email",
+      "phone": "Phone",
+      "country": "Country",
+      "inquiryType": "Inquiry Type",
+      "message": "Message",
+      "submit": "Send Message",
+      "selectCountry": "Select a country",
+      "selectType": "Select inquiry type",
+      "typeGeneral": "General Inquiry",
+      "typeProduct": "Product Information",
+      "typeSample": "Sample Request",
+      "typeQuote": "Quote Request"
+    }
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "readMore": "Read More",
+    "getQuote": "Get Quote",
+    "required": "Required"
+  }
+}
