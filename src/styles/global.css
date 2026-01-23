@@ -1,1 +1,64 @@
 @import "tailwindcss";
+
+/* =================================
+   ZL Botanicals Brand Theme
+   ================================= */
+
+@theme {
+  /* Primary Colors - Deep Green (Natural, Professional) */
+  --color-primary: #1B4D3E;
+  --color-primary-light: #2D6A4F;
+  --color-primary-dark: #0F2F26;
+
+  /* Accent Colors - Gold (Quality, Heritage) */
+  --color-accent: #C9A227;
+  --color-accent-light: #D4B84A;
+  --color-accent-dark: #A68620;
+
+  /* Neutral Colors */
+  --color-cream: #F5F1E6;
+  --color-off-white: #F8F7F4;
+
+  /* Typography */
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-display: 'Plus Jakarta Sans', 'Inter', sans-serif;
+}
+
+/* =================================
+   Base Styles
+   ================================= */
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    @apply text-gray-900 antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+  }
+}
+
+/* =================================
+   Component Utilities
+   ================================= */
+
+@layer components {
+  .container-wide {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-padding {
+    @apply py-16 md:py-24 lg:py-32;
+  }
+}
+
+/* =================================
+   Google Fonts Import
+   ================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700&display=swap');
