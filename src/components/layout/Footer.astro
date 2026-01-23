@@ -1,0 +1,118 @@
+---
+import { type Language, getLocalizedPath } from '../../i18n/config';
+import { useTranslations } from '../../i18n/utils';
+
+interface Props {
+  lang: Language;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const footerLinks = {
+  products: [
+    { label: t('nav.productsBotanical'), href: getLocalizedPath('/products/botanical-extracts', lang) },
+    { label: t('nav.productsHerbal'), href: getLocalizedPath('/products/herbal-powders', lang) },
+    { label: t('nav.productsCustom'), href: getLocalizedPath('/products/custom-formulation', lang) },
+  ],
+  company: [
+    { label: t('footer.aboutUs'), href: getLocalizedPath('/about', lang) },
+    { label: t('footer.ourStory'), href: getLocalizedPath('/about/story', lang) },
+    { label: t('footer.facility'), href: getLocalizedPath('/about/facility', lang) },
+    { label: t('nav.quality'), href: getLocalizedPath('/quality', lang) },
+  ],
+  resources: [
+    { label: t('footer.blog'), href: getLocalizedPath('/resources/blog', lang) },
+    { label: t('footer.downloads'), href: getLocalizedPath('/resources/downloads', lang) },
+    { label: t('footer.faq'), href: getLocalizedPath('/resources/faq', lang) },
+    { label: t('footer.contactUs'), href: getLocalizedPath('/contact', lang) },
+  ],
+};
+---
+
+<footer class="bg-primary text-white">
+  <div class="container-wide py-16">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
+      <!-- Brand Column -->
+      <div class="lg:col-span-1">
+        <a href={getLocalizedPath('/', lang)} class="text-2xl font-display font-bold">
+          {t('site.name')}
+        </a>
+        <p class="mt-4 text-gray-300 text-sm leading-relaxed">
+          {t('footer.description')}
+        </p>
+        <div class="mt-6 flex gap-4">
+          <a href="#" class="text-gray-300 hover:text-white transition-colors" aria-label="LinkedIn">
+            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+            </svg>
+          </a>
+          <a href="#" class="text-gray-300 hover:text-white transition-colors" aria-label="WeChat">
+            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M8.691 2.188C3.891 2.188 0 5.476 0 9.53c0 2.212 1.17 4.203 3.002 5.55a.59.59 0 01.213.665l-.39 1.48c-.019.07-.048.141-.048.213 0 .163.13.295.295.295a.326.326 0 00.167-.054l1.903-1.114a.864.864 0 01.717-.098 10.16 10.16 0 002.837.403c.276 0 .543-.027.811-.05-.857-2.578.157-4.972 1.932-6.446 1.703-1.415 3.882-1.98 5.853-1.838-.576-3.583-4.196-6.348-8.596-6.348zM5.785 5.991c.642 0 1.162.529 1.162 1.18a1.17 1.17 0 01-1.162 1.178A1.17 1.17 0 014.623 7.17c0-.651.52-1.18 1.162-1.18zm5.813 0c.642 0 1.162.529 1.162 1.18a1.17 1.17 0 01-1.162 1.178 1.17 1.17 0 01-1.162-1.178c0-.651.52-1.18 1.162-1.18zm5.34 2.867c-1.797-.052-3.746.512-5.28 1.786-1.72 1.428-2.687 3.72-1.78 6.22.942 2.453 3.666 4.229 6.884 4.229.826 0 1.622-.12 2.361-.336a.722.722 0 01.598.082l1.584.926a.272.272 0 00.14.045c.134 0 .246-.11.246-.245 0-.06-.024-.118-.04-.177l-.324-1.23a.493.493 0 01.177-.554c1.533-1.137 2.51-2.83 2.51-4.67 0-3.368-3.153-5.963-7.076-6.076zm-4.376 3.277c.535 0 .969.44.969.983a.976.976 0 01-.969.983.976.976 0 01-.969-.983c0-.543.434-.983.969-.983zm4.866 0c.535 0 .969.44.969.983a.976.976 0 01-.969.983.976.976 0 01-.969-.983c0-.543.434-.983.969-.983z"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <!-- Products Column -->
+      <div>
+        <h4 class="font-semibold text-lg mb-4">{t('footer.products')}</h4>
+        <ul class="space-y-3">
+          {footerLinks.products.map((link) => (
+            <li>
+              <a href={link.href} class="text-gray-300 hover:text-white text-sm transition-colors">
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Company Column -->
+      <div>
+        <h4 class="font-semibold text-lg mb-4">{t('footer.company')}</h4>
+        <ul class="space-y-3">
+          {footerLinks.company.map((link) => (
+            <li>
+              <a href={link.href} class="text-gray-300 hover:text-white text-sm transition-colors">
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Resources Column -->
+      <div>
+        <h4 class="font-semibold text-lg mb-4">{t('footer.resources')}</h4>
+        <ul class="space-y-3">
+          {footerLinks.resources.map((link) => (
+            <li>
+              <a href={link.href} class="text-gray-300 hover:text-white text-sm transition-colors">
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom Bar -->
+  <div class="border-t border-white/10">
+    <div class="container-wide py-6 flex flex-col md:flex-row justify-between items-center gap-4">
+      <p class="text-gray-400 text-sm">
+        {t('footer.copyright')}
+      </p>
+      <div class="flex gap-6 text-sm">
+        <a href={getLocalizedPath('/privacy', lang)} class="text-gray-400 hover:text-white transition-colors">
+          {t('footer.privacy')}
+        </a>
+        <a href={getLocalizedPath('/terms', lang)} class="text-gray-400 hover:text-white transition-colors">
+          {t('footer.terms')}
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>
