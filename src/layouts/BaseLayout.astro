@@ -1,0 +1,34 @@
+---
+import '../styles/global.css';
+import { defaultLang, type Language } from '../i18n/config';
+import { useTranslations } from '../i18n/utils';
+
+interface Props {
+  title: string;
+  description?: string;
+  lang?: Language;
+}
+
+const { title, description, lang = defaultLang } = Astro.props;
+const t = useTranslations(lang);
+
+const siteTitle = `${title} | ${t('site.name')}`;
+const siteDescription = description || t('site.tagline');
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={siteDescription} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="alternate" hreflang="en" href="https://zlbotanicals.com/" />
+    <link rel="alternate" hreflang="zh" href="https://zlbotanicals.com/zh/" />
+    <link rel="alternate" hreflang="x-default" href="https://zlbotanicals.com/" />
+    <title>{siteTitle}</title>
+  </head>
+  <body class="min-h-screen bg-white flex flex-col">
+    <slot />
+  </body>
+</html>
