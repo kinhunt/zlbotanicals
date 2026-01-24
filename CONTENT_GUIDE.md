@@ -632,9 +632,11 @@ relatedSolutions:
 > 想了解我们的XXX产品？[联系我们](/zh/contact) 获取样品。
 ```
 
-### 执行示例
+### 执行步骤详解
 
-**第1步：选题搜索**
+#### 第1步：选题
+
+从 `TOPIC_BACKLOG.md` 待执行列表选择，或用 WebSearch 搜索信息源发现新选题：
 
 ```
 WebSearch: site:nutraingredients.com functional mushrooms 2026
@@ -642,19 +644,78 @@ WebSearch: site:cosmeticsdesign.com botanical extracts trends
 WebSearch: site:beveragedaily.com zero sugar natural sweetener
 ```
 
-**第2步：分析选题**
-
+分析选题：
 - 识别热点话题
 - 确认与我们产品的关联性
 - 检查是否与现有 Solutions 重复
-- 记录到 TOPIC_BACKLOG.md
 
-**第3步：内容制作**
+#### 第2步：深入研究
 
-1. 撰写 Blog 文章（引用数据来源）
-2. 设计 Solution 方案（详细配方）
-3. 生成配图
-4. 更新产品关联
+针对选定的选题，搜索更多市场数据：
+
+```
+WebSearch: [选题关键词] market size growth 2026
+WebSearch: [选题关键词] consumer trends research
+```
+
+收集：市场规模、增长率、消费趋势、竞品案例、技术创新点
+
+#### 第3步：创建内容文件
+
+**Blog 文件**（中英文各一个，文件名必须一致）：
+```
+src/content/blog/zh/xxx-market-2026.md
+src/content/blog/en/xxx-market-2026.md
+```
+
+**Solution 文件**（中英文各一个，文件名必须一致）：
+```
+src/content/solutions/zh/xxx-product.md
+src/content/solutions/en/xxx-product.md
+```
+
+#### 第4步：生成配图
+
+使用 image-generation skill 生成配图：
+
+```bash
+python3 ~/.claude/skills/image-generation/scripts/generate_image.py \
+  --prompt "图片描述..." \
+  --aspect-ratio 16:9 \
+  --output /path/to/public/images/blog/xxx.webp
+```
+
+压缩图片（确保 < 100KB）：
+
+```bash
+cd /path/to/image/directory
+sips -Z 1200 xxx.webp --out temp.png
+cwebp -q 85 temp.png -o xxx.webp
+rm temp.png
+```
+
+需要生成的图片：
+- Blog 封面图：`public/images/blog/xxx.webp`
+- Solution 封面图：`public/images/solutions/xxx.webp`
+
+#### 第5步：更新产品关联
+
+编辑相关产品的 md 文件，在 `solutions:` 字段添加新 solution 的 slug：
+
+```yaml
+# src/content/products/zh/turmeric.md
+solutions:
+  - liver-support-gummy
+  - turmeric-golden-latte  # 新增
+```
+
+中英文产品文件都需要更新。
+
+#### 第6步：标记完成
+
+更新 `TOPIC_BACKLOG.md`：
+1. 将选题从"待执行"移至"已完成的 Solutions"
+2. 记录完成日期和关联产品
 
 ---
 
