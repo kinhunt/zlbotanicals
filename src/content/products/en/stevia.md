@@ -3,7 +3,7 @@ name: Stevia Glycoside Extract
 nameEn: Stevia Glycoside Extract
 latinName: Stevia rebaudiana
 lang: en
-description: High-purity stevia glycoside extract (RebA ≥95%), natural zero-calorie sweetener with 200-300x sucrose sweetness. Clean taste, no bitterness. Widely applied in beverages, supplements, and functional foods.
+description: "High-purity stevia glycoside extract (RebA ≥95%), natural zero-calorie sweetener with 200-300x sucrose sweetness. Clean taste, no bitterness. Widely applied in beverages, supplements, and functional foods."
 image: /images/products/stevia.webp
 solutions:
   - botanical-sweetener-rtd

@@ -3,7 +3,7 @@ name: 甜菊糖苷提取物
 nameEn: Stevia Glycoside Extract
 latinName: Stevia rebaudiana
 lang: zh
-description: 高纯度甜菊糖苷提取物（RebA≥95%），天然零卡甜味剂，甜度为蔗糖的200-300倍，口感纯净无苦味，广泛应用于饮料、保健品等功能食品。
+description: "高纯度甜菊糖苷提取物（RebA≥95%），天然零卡甜味剂，甜度为蔗糖的200-300倍，口感纯净无苦味，广泛应用于饮料、保健品等功能食品。"
 image: /images/products/stevia.webp
 solutions:
   - botanical-sweetener-rtd

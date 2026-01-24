@@ -3,7 +3,7 @@ name: 植物基零卡气泡水解决方案
 nameEn: Botanical Zero-Calorie Sparkling Water Solution
 industry: beverages
 lang: zh
-description: 采用高纯度罗汉果苷V（≥50%）+ 甜菊糖苷RebA的植物基双甜味系统，配合绿茶提取物的功能增强，打造口感纯净、无异味、稳定性强的零卡气泡水产品，满足2026年消费者对"植物基+功能化"的需求。
+description: "采用高纯度罗汉果苷V（≥50%）+ 甜菊糖苷RebA的植物基双甜味系统，配合绿茶提取物的功能增强，打造口感纯净、无异味、稳定性强的零卡气泡水产品，满足2026年消费者对'植物基+功能化'的需求。"
 image: /images/solutions/botanical-sweetener-rtd.webp
 ---
 

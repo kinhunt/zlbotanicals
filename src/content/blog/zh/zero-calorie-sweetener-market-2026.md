@@ -4,7 +4,7 @@ lang: zh
 publishDate: "2026-01-24"
 category: market-insights
 tags: [零卡甜味剂, 植物基甜味料, 预制饮料, 功能饮品, 市场趋势, 罗汉果, 甜菊糖, 市场分析]
-description: 全球零卡甜味剂市场在2026年迎来爆发。植物基甜味料（罗汉果、甜菊糖）的市场份额从33%跃升至52%，驱动RTD饮料创新浪潮，预计年增速达+18.7%。
+description: "全球零卡甜味剂市场在2026年迎来爆发。植物基甜味料（罗汉果、甜菊糖）的市场份额从33%跃升至52%，驱动RTD饮料创新浪潮，预计年增速达+18.7%。"
 image: /images/blog/zero-calorie-sweetener-market-2026.webp
 sources:
   - title: "全球零卡甜味剂市场报告2026 - Grand View Research"

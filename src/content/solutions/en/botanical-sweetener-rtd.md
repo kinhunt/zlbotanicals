@@ -3,7 +3,7 @@ name: Botanical Zero-Calorie Sparkling Water Solution
 nameEn: Botanical Zero-Calorie Sparkling Water Solution
 industry: beverages
 lang: en
-description: A next-generation zero-sugar sparkling water using high-purity Monk Fruit Glycoside V (≥50%) + Stevia RebA in dual-sweetener synergy, enhanced with green tea extract (EGCG 40%) and B-complex vitamins. Delivers clean-label credentials, superior taste, and functional positioning for health-conscious consumers in 2026.
+description: "A next-generation zero-sugar sparkling water using high-purity Monk Fruit Glycoside V (≥50%) + Stevia RebA in dual-sweetener synergy, enhanced with green tea extract (EGCG 40%) and B-complex vitamins. Delivers clean-label credentials, superior taste, and functional positioning for health-conscious consumers in 2026."
 image: /images/solutions/botanical-sweetener-rtd.webp
 ---
 
