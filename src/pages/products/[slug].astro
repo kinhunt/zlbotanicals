@@ -2,72 +2,40 @@
 import { getCollection } from 'astro:content';
 import PageLayout from '../../layouts/PageLayout.astro';
 import { getLocalizedPath } from '../../i18n/config';
-import { Leaf, ArrowRight } from '@lucide/astro';
+import { Lightbulb, ArrowRight } from '@lucide/astro';
 
 const lang = 'en';
 
 export async function getStaticPaths() {
-  const ingredients = await getCollection('ingredients', ({ data }) => {
-    return data.lang === 'en' && !data.draft;
-  });
-
   const products = await getCollection('products', ({ data }) => {
     return data.lang === 'en' && !data.draft;
   });
 
-  const ingredientPaths = ingredients.map((ingredient) => ({
-    params: { slug: ingredient.slug.replace('en/', '') },
-    props: { type: 'ingredient', entry: ingredient },
-  }));
-
-  const productPaths = products.map((product) => ({
+  return products.map((product) => ({
     params: { slug: product.slug.replace('en/', '') },
-    props: { type: 'product', entry: product },
+    props: { product },
   }));
-
-  return [...ingredientPaths, ...productPaths];
 }
 
-const { type, entry } = Astro.props;
-const { Content } = await entry.render();
+const { product } = Astro.props;
+const { Content } = await product.render();
 
-// For ingredient pages, get related products
-let relatedProducts: any[] = [];
-if (type === 'ingredient') {
-  const allProducts = await getCollection('products', ({ data }) => {
-    return data.lang === 'en' && !data.draft;
-  });
-  relatedProducts = allProducts.filter(
-    (p) => p.data.ingredient === entry.slug.replace('en/', '')
-  );
-}
+// Get related solutions
+const allSolutions = await getCollection('solutions', ({ data }) => {
+  return data.lang === 'en' && !data.draft;
+});
 
-// For product pages, get related applications and ingredient info
-let relatedApplications: any[] = [];
-let ingredientInfo: any = null;
-if (type === 'product') {
-  const allApplications = await getCollection('applications', ({ data }) => {
-    return data.lang === 'en' && !data.draft;
-  });
-  relatedApplications = allApplications.filter((app) =>
-    entry.data.applications.includes(app.slug.replace('en/', ''))
-  );
-
-  const allIngredients = await getCollection('ingredients', ({ data }) => {
-    return data.lang === 'en' && !data.draft;
-  });
-  ingredientInfo = allIngredients.find(
-    (i) => i.slug.replace('en/', '') === entry.data.ingredient
-  );
-}
+const relatedSolutions = allSolutions.filter((solution) =>
+  product.data.solutions?.includes(solution.slug.replace('en/', ''))
+);
 ---
 
 <PageLayout
-  title={entry.data.name}
-  description={entry.data.description}
+  title={product.data.name}
+  description={product.data.description}
   lang={lang}
-  heroTitle={entry.data.name}
-  heroSubtitle={type === 'ingredient' ? entry.data.latinName : entry.data.specification}
+  heroTitle={product.data.name}
+  heroSubtitle={product.data.latinName}
 >
   <article class="section-padding">
     <div class="container-wide max-w-4xl">
@@ -77,27 +45,17 @@ if (type === 'product') {
           <li><a href={getLocalizedPath('/', lang)} class="hover:text-primary">Home</a></li>
           <li>/</li>
           <li><a href={getLocalizedPath('/products', lang)} class="hover:text-primary">Products</a></li>
-          {type === 'product' && ingredientInfo && (
-            <>
-              <li>/</li>
-              <li>
-                <a href={getLocalizedPath(`/products/${entry.data.ingredient}`, lang)} class="hover:text-primary">
-                  {ingredientInfo.data.name}
-                </a>
-              </li>
-            </>
-          )}
           <li>/</li>
-          <li class="text-gray-900">{entry.data.name}</li>
+          <li class="text-gray-900">{product.data.name}</li>
         </ol>
       </nav>
 
       <!-- Feature Image -->
-      {entry.data.image && (
+      {product.data.image && (
         <div class="mb-8 rounded-2xl overflow-hidden">
           <img
-            src={entry.data.image}
-            alt={entry.data.name}
+            src={product.data.image}
+            alt={product.data.name}
             class="w-full h-64 md:h-80 object-cover"
           />
         </div>
@@ -105,14 +63,9 @@ if (type === 'product') {
 
       <!-- Meta tags -->
       <div class="flex flex-wrap gap-3 mb-8">
-        {type === 'ingredient' && entry.data.latinName && (
+        {product.data.latinName && (
           <span class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm font-medium italic">
-            {entry.data.latinName}
-          </span>
-        )}
-        {type === 'product' && entry.data.specification && (
-          <span class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm font-medium">
-            {entry.data.specification}
+            {product.data.latinName}
           </span>
         )}
       </div>
@@ -122,47 +75,28 @@ if (type === 'product') {
         <Content />
       </div>
 
-      <!-- For Ingredient: Show related products -->
-      {type === 'ingredient' && relatedProducts.length > 0 && (
+      <!-- Related Solutions -->
+      {relatedSolutions.length > 0 && (
         <div class="mt-16 pt-8 border-t border-gray-200">
-          <h3 class="text-xl font-display font-bold text-gray-900 mb-6">Products</h3>
-          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {relatedProducts.map((product) => (
-              <a
-                href={getLocalizedPath(`/products/${product.slug.replace('en/', '')}`, lang)}
-                class="p-5 bg-off-white rounded-xl hover:shadow-md transition-shadow group"
-              >
-                <h4 class="font-semibold text-gray-900 group-hover:text-primary transition-colors">
-                  {product.data.name}
-                </h4>
-                {product.data.specification && (
-                  <span class="inline-block mt-2 px-2 py-0.5 bg-primary/10 text-primary text-xs rounded">
-                    {product.data.specification}
-                  </span>
-                )}
-                {product.data.description && (
-                  <p class="text-sm text-gray-600 mt-2 line-clamp-2">{product.data.description}</p>
-                )}
-              </a>
-            ))}
-          </div>
-        </div>
-      )}
-
-      <!-- For Product: Show related applications -->
-      {type === 'product' && relatedApplications.length > 0 && (
-        <div class="mt-16 pt-8 border-t border-gray-200">
-          <h3 class="text-xl font-display font-bold text-gray-900 mb-6">Related Applications</h3>
+          <h3 class="text-xl font-display font-bold text-gray-900 mb-6 flex items-center gap-2">
+            <Lightbulb class="w-6 h-6 text-accent" />
+            Application Solutions
+          </h3>
           <div class="grid md:grid-cols-2 gap-4">
-            {relatedApplications.map((app) => (
+            {relatedSolutions.map((solution) => (
               <a
-                href={getLocalizedPath(`/applications/${app.slug.replace('en/', '')}`, lang)}
-                class="p-6 bg-off-white rounded-xl hover:shadow-md transition-shadow group"
+                href={getLocalizedPath(`/solutions/${solution.slug.replace('en/', '')}`, lang)}
+                class="group p-6 bg-gradient-to-br from-accent/5 to-accent/10 rounded-xl hover:shadow-md transition-all"
               >
-                <h4 class="font-semibold text-gray-900 group-hover:text-primary transition-colors">
-                  {app.data.name}
+                <h4 class="font-semibold text-gray-900 group-hover:text-accent transition-colors">
+                  {solution.data.name}
                 </h4>
-                <p class="text-sm text-gray-600 mt-2 line-clamp-2">{app.data.description}</p>
+                {solution.data.description && (
+                  <p class="text-sm text-gray-600 mt-2 line-clamp-2">{solution.data.description}</p>
+                )}
+                <span class="inline-flex items-center gap-1 mt-3 text-accent text-sm font-medium">
+                  Learn more <ArrowRight class="w-4 h-4" />
+                </span>
               </a>
             ))}
           </div>
@@ -172,7 +106,7 @@ if (type === 'product') {
       <!-- CTA -->
       <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
         <h3 class="text-xl font-display font-bold text-gray-900">
-          {type === 'ingredient' ? 'Interested in this ingredient?' : 'Interested in this product?'}
+          Interested in this product?
         </h3>
         <p class="text-gray-600 mt-2">Request samples, technical documentation, or pricing information.</p>
         <a

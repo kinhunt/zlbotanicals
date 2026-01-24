@@ -1,0 +1,91 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+import { Calendar, Tag, ArrowRight } from '@lucide/astro';
+
+const lang = 'en';
+
+const posts = await getCollection('blog', ({ data }) => {
+  return data.lang === 'en' && !data.draft;
+});
+
+// Sort by publish date descending
+const sortedPosts = posts.sort((a, b) =>
+  new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime()
+);
+
+const categoryLabels: Record<string, string> = {
+  'market-insights': 'Market Insights',
+  'ingredient-spotlight': 'Ingredient Spotlight',
+  'industry-news': 'Industry News',
+  'research': 'Research',
+};
+---
+
+<PageLayout
+  title="Blog"
+  description="Market insights, ingredient trends, and industry news from ZL Botanicals"
+  lang={lang}
+  heroTitle="Blog"
+  heroSubtitle="Insights & Trends"
+>
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {sortedPosts.map((post) => (
+          <article class="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow">
+            {post.data.image && (
+              <a href={`/resources/blog/${post.slug.replace('en/', '')}`}>
+                <img
+                  src={post.data.image}
+                  alt={post.data.title}
+                  class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+              </a>
+            )}
+            <div class="p-6">
+              <div class="flex items-center gap-3 mb-3">
+                <span class="px-2 py-1 bg-accent/10 text-accent text-xs font-medium rounded">
+                  {categoryLabels[post.data.category]}
+                </span>
+                <span class="text-gray-400 text-sm flex items-center gap-1">
+                  <Calendar class="w-3 h-3" />
+                  {post.data.publishDate}
+                </span>
+              </div>
+              <h2 class="text-xl font-display font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
+                <a href={`/resources/blog/${post.slug.replace('en/', '')}`}>
+                  {post.data.title}
+                </a>
+              </h2>
+              <p class="text-gray-600 text-sm line-clamp-3 mb-4">
+                {post.data.description}
+              </p>
+              <div class="flex flex-wrap gap-2 mb-4">
+                {post.data.tags.slice(0, 3).map((tag) => (
+                  <span class="text-xs text-gray-500 flex items-center gap-1">
+                    <Tag class="w-3 h-3" />
+                    {tag}
+                  </span>
+                ))}
+              </div>
+              <a
+                href={`/resources/blog/${post.slug.replace('en/', '')}`}
+                class="inline-flex items-center gap-1 text-primary font-medium text-sm hover:gap-2 transition-all"
+              >
+                Read more <ArrowRight class="w-4 h-4" />
+              </a>
+            </div>
+          </article>
+        ))}
+      </div>
+
+      {sortedPosts.length === 0 && (
+        <div class="text-center py-16">
+          <p class="text-gray-500">No posts yet. Check back soon!</p>
+        </div>
+      )}
+    </div>
+  </section>
+</PageLayout>

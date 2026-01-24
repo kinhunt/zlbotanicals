@@ -6,8 +6,8 @@ import { Leaf, ArrowRight } from '@lucide/astro';
 
 const lang = 'zh';
 
-// Get all ingredients from Content Collections
-const ingredients = await getCollection('ingredients', ({ data }) => {
+// Get all products from Content Collections
+const products = await getCollection('products', ({ data }) => {
   return data.lang === 'zh' && !data.draft;
 });
 ---
@@ -21,18 +21,18 @@ const ingredients = await getCollection('ingredients', ({ data }) => {
 >
   <section class="section-padding">
     <div class="container-wide">
-      {ingredients.length > 0 ? (
+      {products.length > 0 ? (
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {ingredients.map((ingredient) => (
+          {products.map((product) => (
             <a
-              href={getLocalizedPath(`/products/${ingredient.slug.replace('zh/', '')}`, lang)}
+              href={getLocalizedPath(`/products/${product.slug.replace('zh/', '')}`, lang)}
               class="group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-shadow"
             >
               <div class="aspect-[4/3] overflow-hidden">
-                {ingredient.data.image ? (
+                {product.data.image ? (
                   <img
-                    src={ingredient.data.image}
-                    alt={ingredient.data.name}
+                    src={product.data.image}
+                    alt={product.data.name}
                     class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                   />
                 ) : (
@@ -43,13 +43,13 @@ const ingredients = await getCollection('ingredients', ({ data }) => {
               </div>
               <div class="p-6">
                 <h3 class="text-xl font-semibold text-gray-900 group-hover:text-primary transition-colors">
-                  {ingredient.data.name}
+                  {product.data.name}
                 </h3>
-                {ingredient.data.latinName && (
-                  <p class="text-sm text-gray-500 italic mt-1">{ingredient.data.latinName}</p>
+                {product.data.latinName && (
+                  <p class="text-sm text-gray-500 italic mt-1">{product.data.latinName}</p>
                 )}
-                {ingredient.data.description && (
-                  <p class="text-gray-600 mt-3 line-clamp-2">{ingredient.data.description}</p>
+                {product.data.description && (
+                  <p class="text-gray-600 mt-3 line-clamp-2">{product.data.description}</p>
                 )}
                 <span class="inline-flex items-center gap-1 mt-4 text-primary font-medium">
                   查看产品 <ArrowRight class="w-4 h-4" />

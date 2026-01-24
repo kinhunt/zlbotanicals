@@ -12,12 +12,12 @@ const { lang, currentPath } = Astro.props;
 const t = useTranslations(lang);
 const basePath = currentPath.replace(/^\/(zh)/, '') || '/';
 
-// Get ingredients from Content Collections for products dropdown
-const ingredients = await getCollection('ingredients', ({ data }) => {
+// Get products from Content Collections for products dropdown
+const products = await getCollection('products', ({ data }) => {
   return data.lang === lang && !data.draft;
 });
 
-const productChildren = ingredients.map((ingredient) => ({
+const productChildren = products.map((ingredient) => ({
   label: ingredient.data.name,
   href: getLocalizedPath(`/products/${ingredient.slug.replace(`${lang}/`, '')}`, lang),
 }));
@@ -38,13 +38,13 @@ const navItems = [
     children: productChildren.length > 0 ? productChildren : undefined,
   },
   {
-    label: t('nav.applications'),
-    href: getLocalizedPath('/applications', lang),
+    label: t('nav.solutions'),
+    href: getLocalizedPath('/solutions', lang),
     children: [
-      { label: t('nav.applicationsBeverages'), href: getLocalizedPath('/applications/beverages', lang) },
-      { label: t('nav.applicationsNutraceuticals'), href: getLocalizedPath('/applications/nutraceuticals', lang) },
-      { label: t('nav.applicationsCosmetics'), href: getLocalizedPath('/applications/cosmetics', lang) },
-      { label: t('nav.applicationsFood'), href: getLocalizedPath('/applications/food', lang) },
+      { label: t('nav.solutionsBeverages'), href: getLocalizedPath('/solutions/beverages', lang) },
+      { label: t('nav.solutionsNutraceuticals'), href: getLocalizedPath('/solutions/nutraceuticals', lang) },
+      { label: t('nav.solutionsCosmetics'), href: getLocalizedPath('/solutions/cosmetics', lang) },
+      { label: t('nav.solutionsFood'), href: getLocalizedPath('/solutions/food', lang) },
     ],
   },
   { label: t('nav.quality'), href: getLocalizedPath('/quality', lang) },

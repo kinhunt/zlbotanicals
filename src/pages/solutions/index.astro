@@ -1,0 +1,105 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../i18n/config';
+import { GlassWater, Pill, Sparkles, UtensilsCrossed, ArrowRight } from '@lucide/astro';
+
+const lang = 'en';
+
+const industries = [
+  { title: 'Beverages', desc: 'Functional ingredients for teas, energy drinks, and wellness beverages.', href: getLocalizedPath('/solutions/beverages', lang), icon: 'beverages' },
+  { title: 'Nutraceuticals', desc: 'High-quality extracts for dietary supplements and functional foods.', href: getLocalizedPath('/solutions/nutraceuticals', lang), icon: 'nutraceuticals' },
+  { title: 'Cosmetics', desc: 'Natural botanical actives for skincare and personal care products.', href: getLocalizedPath('/solutions/cosmetics', lang), icon: 'cosmetics' },
+  { title: 'Food', desc: 'Natural flavors, colors, and functional ingredients for food products.', href: getLocalizedPath('/solutions/food', lang), icon: 'food' },
+];
+
+// Get all solutions
+const allSolutions = await getCollection('solutions', ({ data }) => {
+  return data.lang === 'en' && !data.draft;
+});
+
+// Sort by slug (newer files typically have later dates in name)
+const sortedSolutions = allSolutions.sort((a, b) => b.slug.localeCompare(a.slug));
+
+const industryLabels: Record<string, string> = {
+  'beverages': 'Beverages',
+  'nutraceuticals': 'Nutraceuticals',
+  'cosmetics': 'Cosmetics',
+  'food': 'Food',
+};
+---
+
+<PageLayout
+  title="Solutions"
+  description="Botanical extract solutions for beverages, nutraceuticals, cosmetics, and food industries. Functional ingredients for teas, supplements, skincare, and natural food products."
+  lang={lang}
+  heroTitle="Solutions"
+  heroSubtitle="Botanical solutions for diverse industries"
+>
+  <!-- Industry Categories -->
+  <section class="section-padding">
+    <div class="container-wide">
+      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8">By Industry</h2>
+      <div class="grid md:grid-cols-2 gap-8">
+        {industries.map((industry) => (
+          <a href={industry.href} class="group block p-8 bg-off-white rounded-xl hover:shadow-lg transition-all">
+            <div class="w-12 h-12 text-primary">
+              {industry.icon === 'beverages' && <GlassWater class="w-full h-full" strokeWidth={1.5} />}
+              {industry.icon === 'nutraceuticals' && <Pill class="w-full h-full" strokeWidth={1.5} />}
+              {industry.icon === 'cosmetics' && <Sparkles class="w-full h-full" strokeWidth={1.5} />}
+              {industry.icon === 'food' && <UtensilsCrossed class="w-full h-full" strokeWidth={1.5} />}
+            </div>
+            <h3 class="text-2xl font-semibold text-gray-900 mt-4">{industry.title}</h3>
+            <p class="mt-2 text-gray-600">{industry.desc}</p>
+            <span class="inline-block mt-4 text-primary font-medium group-hover:translate-x-2 transition-transform">Learn More →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- All Solutions List -->
+  <section class="section-padding bg-off-white">
+    <div class="container-wide">
+      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8">All Solutions</h2>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {sortedSolutions.map((solution) => (
+          <article class="group bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow">
+            {solution.data.image && (
+              <a href={`/solutions/${solution.slug.replace('en/', '')}`}>
+                <img
+                  src={solution.data.image}
+                  alt={solution.data.name}
+                  class="w-full h-40 object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+              </a>
+            )}
+            <div class="p-5">
+              <span class="px-2 py-1 bg-accent/10 text-accent text-xs font-medium rounded">
+                {industryLabels[solution.data.industry]}
+              </span>
+              <h3 class="text-lg font-display font-bold text-gray-900 mt-3 group-hover:text-primary transition-colors">
+                <a href={`/solutions/${solution.slug.replace('en/', '')}`}>
+                  {solution.data.name}
+                </a>
+              </h3>
+              {solution.data.description && (
+                <p class="text-gray-600 text-sm mt-2 line-clamp-2">{solution.data.description}</p>
+              )}
+              <a
+                href={`/solutions/${solution.slug.replace('en/', '')}`}
+                class="inline-flex items-center gap-1 text-primary font-medium text-sm mt-3 hover:gap-2 transition-all"
+              >
+                View Details <ArrowRight class="w-4 h-4" />
+              </a>
+            </div>
+          </article>
+        ))}
+      </div>
+
+      {sortedSolutions.length === 0 && (
+        <p class="text-gray-500 text-center py-8">No solutions yet. Check back soon!</p>
+      )}
+    </div>
+  </section>
+</PageLayout>

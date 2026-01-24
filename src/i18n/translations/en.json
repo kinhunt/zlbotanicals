@@ -13,11 +13,11 @@
     "productsBotanical": "Botanical Extracts",
     "productsHerbal": "Herbal Powders",
     "productsCustom": "Custom Formulation",
-    "applications": "Applications",
-    "applicationsBeverages": "Beverages",
-    "applicationsNutraceuticals": "Nutraceuticals",
-    "applicationsCosmetics": "Cosmetics",
-    "applicationsFood": "Food",
+    "solutions": "Solutions",
+    "solutionsBeverages": "Beverages",
+    "solutionsNutraceuticals": "Nutraceuticals",
+    "solutionsCosmetics": "Cosmetics",
+    "solutionsFood": "Food",
     "quality": "Quality",
     "resources": "Resources",
     "resourcesBlog": "Blog",
@@ -75,9 +75,9 @@
     "turnaroundTitle": "Fast Turnaround",
     "turnaroundDesc": "Efficient production and logistics for reliable delivery timelines."
   },
-  "applications": {
+  "solutions": {
     "subtitle": "Industries We Serve",
-    "title": "Application Areas",
+    "title": "Solutions",
     "beverages": "Beverages",
     "nutraceuticals": "Nutraceuticals",
     "cosmetics": "Cosmetics & Beauty",

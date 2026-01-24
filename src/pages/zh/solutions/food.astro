@@ -1,0 +1,77 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+import { ArrowRight, UtensilsCrossed } from '@lucide/astro';
+
+const lang = 'zh';
+
+// Get solutions in food industry from Content Collections
+const solutions = await getCollection('solutions', ({ data }) => {
+  return data.lang === 'zh' && data.industry === 'food' && !data.draft;
+});
+---
+
+<PageLayout
+  title="食品行业"
+  lang={lang}
+  heroTitle="食品行业"
+  heroSubtitle="食品应用的天然原料"
+>
+  <section class="section-padding">
+    <div class="container-wide">
+      <div class="max-w-3xl mb-12">
+        <p class="text-xl text-gray-600 leading-relaxed">
+          从天然风味和色素到功能性原料，我们的植物产品天然提升食品品质。
+        </p>
+      </div>
+
+      {solutions.length > 0 ? (
+        <>
+          <h3 class="text-xl font-semibold text-gray-900 mb-6">应用方案</h3>
+          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {solutions.map((app) => (
+              <a
+                href={getLocalizedPath(`/solutions/${app.slug.replace('zh/', '')}`, lang)}
+                class="group block bg-off-white rounded-xl overflow-hidden hover:shadow-md transition-shadow"
+              >
+                <div class="aspect-[16/9] bg-gradient-to-br from-accent/10 to-cream flex items-center justify-center">
+                  {app.data.image ? (
+                    <img src={app.data.image} alt={app.data.name} class="w-full h-full object-cover" />
+                  ) : (
+                    <UtensilsCrossed class="w-12 h-12 text-accent/30" strokeWidth={1} />
+                  )}
+                </div>
+                <div class="p-6">
+                  <h4 class="font-semibold text-gray-900 group-hover:text-primary transition-colors">
+                    {app.data.name}
+                  </h4>
+                  {app.data.description && (
+                    <p class="text-sm text-gray-600 mt-2 line-clamp-2">{app.data.description}</p>
+                  )}
+                  <span class="inline-flex items-center gap-1 mt-4 text-primary text-sm font-medium">
+                    查看方案 <ArrowRight class="w-4 h-4" />
+                  </span>
+                </div>
+              </a>
+            ))}
+          </div>
+        </>
+      ) : (
+        <div class="bg-off-white rounded-xl p-8 text-center">
+          <UtensilsCrossed class="w-12 h-12 text-gray-300 mx-auto mb-4" strokeWidth={1} />
+          <p class="text-gray-500">应用方案即将上线...</p>
+        </div>
+      )}
+
+      <div class="mt-12">
+        <a
+          href={getLocalizedPath('/contact', lang)}
+          class="inline-block px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors"
+        >
+          洽谈您的项目
+        </a>
+      </div>
+    </div>
+  </section>
+</PageLayout>

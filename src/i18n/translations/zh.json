@@ -13,11 +13,11 @@
     "productsBotanical": "植物提取物",
     "productsHerbal": "草本粉末",
     "productsCustom": "定制配方",
-    "applications": "应用领域",
-    "applicationsBeverages": "饮料行业",
-    "applicationsNutraceuticals": "保健品行业",
-    "applicationsCosmetics": "化妆品行业",
-    "applicationsFood": "食品行业",
+    "solutions": "解决方案",
+    "solutionsBeverages": "饮料行业",
+    "solutionsNutraceuticals": "保健品行业",
+    "solutionsCosmetics": "化妆品行业",
+    "solutionsFood": "食品行业",
     "quality": "品质保证",
     "resources": "资源中心",
     "resourcesBlog": "博客",
@@ -75,9 +75,9 @@
     "turnaroundTitle": "快速交付",
     "turnaroundDesc": "高效的生产和物流体系，确保可靠的交货时间。"
   },
-  "applications": {
+  "solutions": {
     "subtitle": "服务行业",
-    "title": "应用领域",
+    "title": "解决方案",
     "beverages": "饮料行业",
     "nutraceuticals": "保健品行业",
     "cosmetics": "化妆品行业",

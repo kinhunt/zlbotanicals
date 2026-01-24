@@ -10,12 +10,12 @@ interface Props {
 const { lang } = Astro.props;
 const t = useTranslations(lang);
 
-// Get ingredients from Content Collections for products links
-const ingredients = await getCollection('ingredients', ({ data }) => {
+// Get products from Content Collections for products links
+const products = await getCollection('products', ({ data }) => {
   return data.lang === lang && !data.draft;
 });
 
-const productLinks = ingredients.map((ingredient) => ({
+const productLinks = products.map((ingredient) => ({
   label: ingredient.data.name,
   href: getLocalizedPath(`/products/${ingredient.slug.replace(`${lang}/`, '')}`, lang),
 }));

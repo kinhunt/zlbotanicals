@@ -1,0 +1,125 @@
+---
+import { getCollection } from 'astro:content';
+import { type Language, getLocalizedPath } from '../../i18n/config';
+import SectionHeader from '../common/SectionHeader.astro';
+import { Calendar, ArrowRight } from '@lucide/astro';
+
+interface Props {
+  lang: Language;
+}
+
+const { lang } = Astro.props;
+
+// Get blog posts for current language
+const posts = await getCollection('blog', ({ data }) => {
+  return data.lang === lang && !data.draft;
+});
+
+// Sort by publish date descending and take top 3
+const latestPosts = posts
+  .sort((a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime())
+  .slice(0, 3);
+
+const categoryLabels: Record<string, Record<string, string>> = {
+  en: {
+    'market-insights': 'Market Insights',
+    'ingredient-spotlight': 'Ingredient Spotlight',
+    'industry-news': 'Industry News',
+    'research': 'Research',
+  },
+  zh: {
+    'market-insights': '市场洞察',
+    'ingredient-spotlight': '原料聚焦',
+    'industry-news': '行业新闻',
+    'research': '研究报告',
+  },
+};
+
+const texts = {
+  en: {
+    subtitle: 'Insights',
+    title: 'Latest from Our Blog',
+    readMore: 'Read more',
+    viewAll: 'View All Articles',
+  },
+  zh: {
+    subtitle: '行业洞察',
+    title: '最新博客文章',
+    readMore: '阅读更多',
+    viewAll: '查看全部文章',
+  },
+};
+
+const t = texts[lang];
+const blogPath = lang === 'zh' ? '/zh/resources/blog' : '/resources/blog';
+---
+
+{latestPosts.length > 0 && (
+  <section class="section-padding bg-off-white">
+    <div class="container-wide">
+      <div class="flex justify-between items-end mb-10">
+        <SectionHeader
+          subtitle={t.subtitle}
+          title={t.title}
+          align="left"
+          class="mb-0"
+        />
+        <a
+          href={blogPath}
+          class="hidden md:inline-flex items-center gap-2 text-primary font-medium hover:text-primary-dark transition-colors"
+        >
+          {t.viewAll}
+          <ArrowRight class="w-4 h-4" />
+        </a>
+      </div>
+
+      <div class="grid md:grid-cols-3 gap-6">
+        {latestPosts.map((post) => (
+          <article class="group bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow">
+            {post.data.image && (
+              <a href={`${blogPath}/${post.slug.replace(`${lang}/`, '')}`}>
+                <img
+                  src={post.data.image}
+                  alt={post.data.title}
+                  class="w-full h-44 object-cover group-hover:scale-105 transition-transform duration-300"
+                  loading="lazy"
+                />
+              </a>
+            )}
+            <div class="p-5">
+              <div class="flex items-center gap-3 mb-3">
+                <span class="px-2 py-1 bg-accent/10 text-accent text-xs font-medium rounded">
+                  {categoryLabels[lang][post.data.category]}
+                </span>
+                <span class="text-gray-400 text-xs flex items-center gap-1">
+                  <Calendar class="w-3 h-3" />
+                  {post.data.publishDate}
+                </span>
+              </div>
+              <h3 class="text-lg font-display font-bold text-gray-900 group-hover:text-primary transition-colors line-clamp-2">
+                <a href={`${blogPath}/${post.slug.replace(`${lang}/`, '')}`}>
+                  {post.data.title}
+                </a>
+              </h3>
+              <p class="text-gray-600 text-sm mt-2 line-clamp-2">{post.data.description}</p>
+              <a
+                href={`${blogPath}/${post.slug.replace(`${lang}/`, '')}`}
+                class="inline-flex items-center gap-1 text-primary font-medium text-sm mt-4 hover:gap-2 transition-all"
+              >
+                {t.readMore} <ArrowRight class="w-4 h-4" />
+              </a>
+            </div>
+          </article>
+        ))}
+      </div>
+
+      <a
+        href={blogPath}
+        class="md:hidden inline-flex items-center gap-2 text-primary font-medium mt-6 hover:text-primary-dark transition-colors"
+      >
+        {t.viewAll}
+        <ArrowRight class="w-4 h-4" />
+      </a>
+    </div>
+  </section>
+)}

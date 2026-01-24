@@ -1,75 +1,122 @@
 ---
+import { getCollection } from 'astro:content';
 import { type Language, getLocalizedPath } from '../../i18n/config';
-import { useTranslations } from '../../i18n/utils';
 import SectionHeader from '../common/SectionHeader.astro';
-import { GlassWater, Pill, Sparkles, UtensilsCrossed } from '@lucide/astro';
+import { ArrowRight } from '@lucide/astro';
 
 interface Props {
   lang: Language;
 }
 
 const { lang } = Astro.props;
-const t = useTranslations(lang);
 
-const applications = [
-  {
-    title: t('applications.beverages'),
-    href: getLocalizedPath('/applications/beverages', lang),
-    icon: 'beverages',
-    color: 'from-blue-500/20 to-blue-600/30',
+// Get solutions for current language
+const allSolutions = await getCollection('solutions', ({ data }) => {
+  return data.lang === lang && !data.draft;
+});
+
+// Sort and take latest 4
+const latestSolutions = allSolutions
+  .sort((a, b) => b.slug.localeCompare(a.slug))
+  .slice(0, 4);
+
+const industryLabels: Record<string, Record<string, string>> = {
+  en: {
+    'beverages': 'Beverages',
+    'nutraceuticals': 'Nutraceuticals',
+    'cosmetics': 'Cosmetics',
+    'food': 'Food',
   },
-  {
-    title: t('applications.nutraceuticals'),
-    href: getLocalizedPath('/applications/nutraceuticals', lang),
-    icon: 'nutraceuticals',
-    color: 'from-green-500/20 to-green-600/30',
+  zh: {
+    'beverages': '饮料',
+    'nutraceuticals': '保健品',
+    'cosmetics': '化妆品',
+    'food': '食品',
   },
-  {
-    title: t('applications.cosmetics'),
-    href: getLocalizedPath('/applications/cosmetics', lang),
-    icon: 'cosmetics',
-    color: 'from-pink-500/20 to-pink-600/30',
+};
+
+const texts = {
+  en: {
+    subtitle: 'Solutions',
+    title: 'Featured Product Solutions',
+    viewDetails: 'View Details',
+    viewAll: 'View All Solutions',
   },
-  {
-    title: t('applications.food'),
-    href: getLocalizedPath('/applications/food', lang),
-    icon: 'food',
-    color: 'from-orange-500/20 to-orange-600/30',
+  zh: {
+    subtitle: '解决方案',
+    title: '精选产品方案',
+    viewDetails: '查看详情',
+    viewAll: '查看全部方案',
   },
-];
+};
+
+const t = texts[lang];
+const solutionsPath = lang === 'zh' ? '/zh/solutions' : '/solutions';
 ---
 
-<section class="section-padding bg-gray-900">
-  <div class="container-wide">
-    <SectionHeader
-      subtitle={t('applications.subtitle')}
-      title={t('applications.title')}
-      dark={true}
-    />
-
-    <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
-      {applications.map((app) => (
+{latestSolutions.length > 0 && (
+  <section class="section-padding bg-gray-900">
+    <div class="container-wide">
+      <div class="flex justify-between items-end mb-10">
+        <SectionHeader
+          subtitle={t.subtitle}
+          title={t.title}
+          dark={true}
+          align="left"
+          class="mb-0"
+        />
         <a
-          href={app.href}
-          class="group relative aspect-[3/4] rounded-xl overflow-hidden bg-gradient-to-br from-gray-800 to-gray-900"
+          href={solutionsPath}
+          class="hidden md:inline-flex items-center gap-2 text-white/80 hover:text-white transition-colors"
         >
-          <div class={`absolute inset-0 bg-gradient-to-br ${app.color} opacity-50 group-hover:opacity-70 transition-opacity`}></div>
-          <div class="absolute inset-0 flex flex-col items-center justify-center p-4">
-            <div class="w-16 h-16 md:w-20 md:h-20 mb-4 text-white">
-              {app.icon === 'beverages' && <GlassWater class="w-full h-full" strokeWidth={1.5} />}
-              {app.icon === 'nutraceuticals' && <Pill class="w-full h-full" strokeWidth={1.5} />}
-              {app.icon === 'cosmetics' && <Sparkles class="w-full h-full" strokeWidth={1.5} />}
-              {app.icon === 'food' && <UtensilsCrossed class="w-full h-full" strokeWidth={1.5} />}
-            </div>
-            <h3 class="text-white text-lg md:text-xl font-semibold text-center">
-              {app.title}
-            </h3>
-            <span class="mt-2 inline-flex items-center text-white/80 text-sm opacity-0 group-hover:opacity-100 transition-opacity">
-              {t('common.learnMore')} →
-            </span>
-          </div>
+          {t.viewAll}
+          <ArrowRight class="w-4 h-4" />
         </a>
-      ))}
+      </div>
+
+      <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+        {latestSolutions.map((solution) => (
+          <article class="group bg-gray-800 rounded-xl overflow-hidden hover:bg-gray-700 transition-colors">
+            {solution.data.image && (
+              <a href={`${solutionsPath}/${solution.slug.replace(`${lang}/`, '')}`}>
+                <img
+                  src={solution.data.image}
+                  alt={solution.data.name}
+                  class="w-full h-40 object-cover group-hover:scale-105 transition-transform duration-300"
+                  loading="lazy"
+                />
+              </a>
+            )}
+            <div class="p-5">
+              <span class="px-2 py-1 bg-white/10 text-white/70 text-xs font-medium rounded">
+                {industryLabels[lang][solution.data.industry]}
+              </span>
+              <h4 class="text-white font-semibold mt-3 line-clamp-2 group-hover:text-accent transition-colors">
+                <a href={`${solutionsPath}/${solution.slug.replace(`${lang}/`, '')}`}>
+                  {solution.data.name}
+                </a>
+              </h4>
+              {solution.data.description && (
+                <p class="text-white/60 text-sm mt-2 line-clamp-2">{solution.data.description}</p>
+              )}
+              <a
+                href={`${solutionsPath}/${solution.slug.replace(`${lang}/`, '')}`}
+                class="inline-flex items-center gap-1 text-accent text-sm mt-4 hover:gap-2 transition-all"
+              >
+                {t.viewDetails} <ArrowRight class="w-3 h-3" />
+              </a>
+            </div>
+          </article>
+        ))}
+      </div>
+
+      <a
+        href={solutionsPath}
+        class="md:hidden inline-flex items-center gap-2 text-white/80 hover:text-white transition-colors mt-6"
+      >
+        {t.viewAll}
+        <ArrowRight class="w-4 h-4" />
+      </a>
     </div>
-  </div>
-</section>
+  </section>
+)}

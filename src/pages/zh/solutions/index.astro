@@ -1,0 +1,105 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+import { GlassWater, Pill, Sparkles, UtensilsCrossed, ArrowRight } from '@lucide/astro';
+
+const lang = 'zh';
+
+const industries = [
+  { title: '饮料行业', desc: '功能性茶饮、能量饮料和健康饮品的原料。', href: getLocalizedPath('/solutions/beverages', lang), icon: 'beverages' },
+  { title: '保健品行业', desc: '膳食补充剂和功能性食品的优质提取物。', href: getLocalizedPath('/solutions/nutraceuticals', lang), icon: 'nutraceuticals' },
+  { title: '化妆品行业', desc: '护肤和个人护理产品的天然植物活性成分。', href: getLocalizedPath('/solutions/cosmetics', lang), icon: 'cosmetics' },
+  { title: '食品行业', desc: '食品的天然风味、色素和功能性原料。', href: getLocalizedPath('/solutions/food', lang), icon: 'food' },
+];
+
+// Get all solutions
+const allSolutions = await getCollection('solutions', ({ data }) => {
+  return data.lang === 'zh' && !data.draft;
+});
+
+// Sort by slug (newer files typically have later dates in name)
+const sortedSolutions = allSolutions.sort((a, b) => b.slug.localeCompare(a.slug));
+
+const industryLabels: Record<string, string> = {
+  'beverages': '饮料',
+  'nutraceuticals': '保健品',
+  'cosmetics': '化妆品',
+  'food': '食品',
+};
+---
+
+<PageLayout
+  title="解决方案"
+  description="植物提取物解决方案：饮料、保健品、化妆品和食品行业。功能性茶饮、膳食补充剂、护肤品和天然食品原料。"
+  lang={lang}
+  heroTitle="解决方案"
+  heroSubtitle="为多元化行业提供植物解决方案"
+>
+  <!-- Industry Categories -->
+  <section class="section-padding">
+    <div class="container-wide">
+      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8">按行业分类</h2>
+      <div class="grid md:grid-cols-2 gap-8">
+        {industries.map((industry) => (
+          <a href={industry.href} class="group block p-8 bg-off-white rounded-xl hover:shadow-lg transition-all">
+            <div class="w-12 h-12 text-primary">
+              {industry.icon === 'beverages' && <GlassWater class="w-full h-full" strokeWidth={1.5} />}
+              {industry.icon === 'nutraceuticals' && <Pill class="w-full h-full" strokeWidth={1.5} />}
+              {industry.icon === 'cosmetics' && <Sparkles class="w-full h-full" strokeWidth={1.5} />}
+              {industry.icon === 'food' && <UtensilsCrossed class="w-full h-full" strokeWidth={1.5} />}
+            </div>
+            <h3 class="text-2xl font-semibold text-gray-900 mt-4">{industry.title}</h3>
+            <p class="mt-2 text-gray-600">{industry.desc}</p>
+            <span class="inline-block mt-4 text-primary font-medium group-hover:translate-x-2 transition-transform">了解更多 →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- All Solutions List -->
+  <section class="section-padding bg-off-white">
+    <div class="container-wide">
+      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8">所有方案</h2>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {sortedSolutions.map((solution) => (
+          <article class="group bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow">
+            {solution.data.image && (
+              <a href={`/zh/solutions/${solution.slug.replace('zh/', '')}`}>
+                <img
+                  src={solution.data.image}
+                  alt={solution.data.name}
+                  class="w-full h-40 object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+              </a>
+            )}
+            <div class="p-5">
+              <span class="px-2 py-1 bg-accent/10 text-accent text-xs font-medium rounded">
+                {industryLabels[solution.data.industry]}
+              </span>
+              <h3 class="text-lg font-display font-bold text-gray-900 mt-3 group-hover:text-primary transition-colors">
+                <a href={`/zh/solutions/${solution.slug.replace('zh/', '')}`}>
+                  {solution.data.name}
+                </a>
+              </h3>
+              {solution.data.description && (
+                <p class="text-gray-600 text-sm mt-2 line-clamp-2">{solution.data.description}</p>
+              )}
+              <a
+                href={`/zh/solutions/${solution.slug.replace('zh/', '')}`}
+                class="inline-flex items-center gap-1 text-primary font-medium text-sm mt-3 hover:gap-2 transition-all"
+              >
+                查看详情 <ArrowRight class="w-4 h-4" />
+              </a>
+            </div>
+          </article>
+        ))}
+      </div>
+
+      {sortedSolutions.length === 0 && (
+        <p class="text-gray-500 text-center py-8">暂无方案，敬请期待！</p>
+      )}
+    </div>
+  </section>
+</PageLayout>

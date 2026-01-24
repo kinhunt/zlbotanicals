@@ -13,13 +13,13 @@ interface Props {
 const { lang } = Astro.props;
 const t = useTranslations(lang);
 
-// Get ingredients from Content Collections
-const allIngredients = await getCollection('ingredients', ({ data }) => {
+// Get products from Content Collections
+const allProducts = await getCollection('products', ({ data }) => {
   return data.lang === lang && !data.draft;
 });
 
-// Show up to 6 featured ingredients on homepage
-const featuredIngredients = allIngredients.slice(0, 6);
+// Show up to 6 featured products on homepage
+const featuredProducts = allProducts.slice(0, 6);
 ---
 
 <section class="section-padding bg-off-white">
@@ -30,7 +30,7 @@ const featuredIngredients = allIngredients.slice(0, 6);
     />
 
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {featuredIngredients.map((ingredient) => (
+      {featuredProducts.map((ingredient) => (
         <a
           href={getLocalizedPath(`/products/${ingredient.slug.replace(`${lang}/`, '')}`, lang)}
           class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all overflow-hidden group"
@@ -70,10 +70,10 @@ const featuredIngredients = allIngredients.slice(0, 6);
       ))}
     </div>
 
-    {allIngredients.length > 6 && (
+    {allProducts.length > 6 && (
       <div class="mt-10 text-center">
         <Button href={getLocalizedPath('/products', lang)} variant="outline">
-          {t('products.viewAll')} ({allIngredients.length})
+          {t('products.viewAll')} ({allProducts.length})
         </Button>
       </div>
     )}

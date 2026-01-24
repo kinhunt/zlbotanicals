@@ -1,7 +1,7 @@
 import { defineCollection, z } from 'astro:content';
 
-// Ingredient collection schema (原料：罗汉果提取物、甘草提取物等)
-const ingredients = defineCollection({
+// Products collection schema (产品：罗汉果提取物、甘草提取物等)
+const products = defineCollection({
   type: 'content',
   schema: z.object({
     name: z.string(),
@@ -11,34 +11,13 @@ const ingredients = defineCollection({
     description: z.string().optional(),
     image: z.string().optional(),
     draft: z.boolean().default(false),
+    // 关联到解决方案
+    solutions: z.array(z.string()).default([]),
   }),
 });
 
-// Product collection schema (具体产品：罗汉果甜味剂等)
-const products = defineCollection({
-  type: 'content',
-  schema: z.object({
-    name: z.string(),
-    nameEn: z.string().optional(),
-    lang: z.enum(['en', 'zh']),
-
-    // 关联到原料
-    ingredient: z.string(),
-
-    // 技术规格
-    specification: z.string().optional(),
-
-    // 关联应用方案
-    applications: z.array(z.string()).default([]),
-
-    description: z.string().optional(),
-    image: z.string().optional(),
-    draft: z.boolean().default(false),
-  }),
-});
-
-// Application collection schema (应用方案：零糖气泡水等)
-const applications = defineCollection({
+// Solutions collection schema (解决方案：零糖气泡水等)
+const solutions = defineCollection({
   type: 'content',
   schema: z.object({
     name: z.string(),
@@ -54,8 +33,30 @@ const applications = defineCollection({
   }),
 });
 
+// Blog collection schema (博客：市场洞察、行业趋势等)
+const blog = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    lang: z.enum(['en', 'zh']),
+    publishDate: z.string(),
+    category: z.enum(['market-insights', 'ingredient-spotlight', 'industry-news', 'research']),
+    tags: z.array(z.string()).default([]),
+    description: z.string(),
+    image: z.string().optional(),
+    sources: z.array(z.object({
+      title: z.string(),
+      url: z.string(),
+    })).optional(),
+    draft: z.boolean().default(false),
+    // 关联到产品和解决方案
+    relatedProducts: z.array(z.string()).default([]),
+    relatedSolutions: z.array(z.string()).default([]),
+  }),
+});
+
 export const collections = {
-  ingredients,
   products,
-  applications,
+  solutions,
+  blog,
 };
