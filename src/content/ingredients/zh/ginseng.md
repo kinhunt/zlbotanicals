@@ -4,7 +4,7 @@ nameEn: Ginseng Extract
 latinName: Panax ginseng
 lang: zh
 description: 人参是名贵的滋补药材，其提取物富含人参皂苷，具有增强免疫、抗疲劳等多种功效。
-image: /images/ingredients/ginseng.jpg
+image: /images/ingredients/ginseng.png
 ---
 
 ## 原料简介

@@ -4,7 +4,7 @@ nameEn: Reishi Mushroom Extract
 latinName: Ganoderma lucidum
 lang: zh
 description: 灵芝提取物富含灵芝多糖和三萜类化合物，是传统名贵药材，具有免疫调节、安神等功效。
-image: /images/ingredients/reishi-mushroom.jpg
+image: /images/ingredients/reishi-mushroom.png
 ---
 
 ## 原料简介

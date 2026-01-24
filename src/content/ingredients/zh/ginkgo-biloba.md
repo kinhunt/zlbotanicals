@@ -4,7 +4,7 @@ nameEn: Ginkgo Biloba Extract
 latinName: Ginkgo biloba
 lang: zh
 description: 银杏叶提取物富含银杏黄酮和萜内酯，是全球最受欢迎的植物提取物之一，广泛用于改善认知和血液循环。
-image: /images/ingredients/ginkgo-biloba.jpg
+image: /images/ingredients/ginkgo-biloba.png
 ---
 
 ## 原料简介

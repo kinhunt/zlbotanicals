@@ -3,7 +3,7 @@ name: Goji Berry Extract
 latinName: Lycium barbarum
 lang: en
 description: Goji berry extract is rich in polysaccharides and carotenoids, a traditional tonic with benefits for eye health and antioxidant support.
-image: /images/ingredients/goji-berry.jpg
+image: /images/ingredients/goji-berry.png
 ---
 
 ## Overview

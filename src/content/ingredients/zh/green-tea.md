@@ -4,7 +4,7 @@ nameEn: Green Tea Extract
 latinName: Camellia sinensis
 lang: zh
 description: 绿茶提取物富含茶多酚和EGCG，是天然抗氧化剂的优质来源，广泛应用于保健品、饮料和化妆品。
-image: /images/ingredients/green-tea.jpg
+image: /images/ingredients/green-tea.png
 ---
 
 ## 原料简介

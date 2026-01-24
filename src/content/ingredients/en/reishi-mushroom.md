@@ -3,7 +3,7 @@ name: Reishi Mushroom Extract
 latinName: Ganoderma lucidum
 lang: en
 description: Reishi mushroom extract is rich in polysaccharides and triterpenes, a precious traditional medicine with immune-modulating and calming properties.
-image: /images/ingredients/reishi-mushroom.jpg
+image: /images/ingredients/reishi-mushroom.png
 ---
 
 ## Overview

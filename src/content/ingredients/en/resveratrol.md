@@ -3,7 +3,7 @@ name: Resveratrol
 latinName: Polygonum cuspidatum
 lang: en
 description: Resveratrol is a natural polyphenolic compound with antioxidant and anti-aging properties, making it a popular functional ingredient.
-image: /images/ingredients/resveratrol.jpg
+image: /images/ingredients/resveratrol.png
 ---
 
 ## Overview

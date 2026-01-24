@@ -3,7 +3,7 @@ name: Green Tea Extract
 latinName: Camellia sinensis
 lang: en
 description: Green tea extract is rich in tea polyphenols and EGCG, an excellent source of natural antioxidants widely used in nutraceuticals, beverages, and cosmetics.
-image: /images/ingredients/green-tea.jpg
+image: /images/ingredients/green-tea.png
 ---
 
 ## Overview

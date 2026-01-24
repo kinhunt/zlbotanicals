@@ -4,7 +4,7 @@ nameEn: Licorice Root Extract
 latinName: Glycyrrhiza glabra
 lang: zh
 description: 甘草是传统中药材之王，其提取物富含甘草酸和甘草黄酮，广泛应用于食品、保健品和化妆品行业。
-image: /images/ingredients/licorice-root.jpg
+image: /images/ingredients/licorice-root.png
 ---
 
 ## 原料简介

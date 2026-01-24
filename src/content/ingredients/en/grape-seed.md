@@ -3,7 +3,7 @@ name: Grape Seed Extract
 latinName: Vitis vinifera
 lang: en
 description: Grape seed extract is rich in oligomeric proanthocyanidins (OPC), a powerful natural antioxidant widely used in nutraceuticals and cosmetics.
-image: /images/ingredients/grape-seed.jpg
+image: /images/ingredients/grape-seed.png
 ---
 
 ## Overview

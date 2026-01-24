@@ -3,7 +3,7 @@ name: Turmeric Extract
 latinName: Curcuma longa
 lang: en
 description: Turmeric extract is rich in curcumin, a natural anti-inflammatory and antioxidant compound widely used in nutraceuticals and functional foods.
-image: /images/ingredients/turmeric.jpg
+image: /images/ingredients/turmeric.png
 ---
 
 ## Overview

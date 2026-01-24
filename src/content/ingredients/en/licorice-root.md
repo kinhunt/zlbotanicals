@@ -3,7 +3,7 @@ name: Licorice Root Extract
 latinName: Glycyrrhiza glabra
 lang: en
 description: Licorice root is one of the most widely used traditional Chinese herbs. Its extract is rich in glycyrrhizic acid and flavonoids, widely applied in food, nutraceuticals, and cosmetics.
-image: /images/ingredients/licorice-root.jpg
+image: /images/ingredients/licorice-root.png
 ---
 
 ## Overview

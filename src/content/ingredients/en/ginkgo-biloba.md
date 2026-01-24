@@ -3,7 +3,7 @@ name: Ginkgo Biloba Extract
 latinName: Ginkgo biloba
 lang: en
 description: Ginkgo biloba extract is rich in flavone glycosides and terpene lactones. It is one of the most popular botanical extracts worldwide, widely used for cognitive and circulatory support.
-image: /images/ingredients/ginkgo-biloba.jpg
+image: /images/ingredients/ginkgo-biloba.png
 ---
 
 ## Overview

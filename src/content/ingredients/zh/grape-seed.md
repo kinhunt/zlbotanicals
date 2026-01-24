@@ -4,7 +4,7 @@ nameEn: Grape Seed Extract
 latinName: Vitis vinifera
 lang: zh
 description: 葡萄籽提取物富含原花青素（OPC），是强效天然抗氧化剂，广泛用于保健品和化妆品。
-image: /images/ingredients/grape-seed.jpg
+image: /images/ingredients/grape-seed.png
 ---
 
 ## 原料简介

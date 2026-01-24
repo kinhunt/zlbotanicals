@@ -3,7 +3,7 @@ name: Ginseng Extract
 latinName: Panax ginseng
 lang: en
 description: Ginseng is a precious tonic herb. Its extract is rich in ginsenosides, offering benefits including immune enhancement and anti-fatigue properties.
-image: /images/ingredients/ginseng.jpg
+image: /images/ingredients/ginseng.png
 ---
 
 ## Overview

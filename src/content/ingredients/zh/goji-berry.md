@@ -4,7 +4,7 @@ nameEn: Goji Berry Extract
 latinName: Lycium barbarum
 lang: zh
 description: 枸杞提取物富含枸杞多糖和类胡萝卜素，是传统滋补佳品，具有明目、抗氧化等多种功效。
-image: /images/ingredients/goji-berry.jpg
+image: /images/ingredients/goji-berry.png
 ---
 
 ## 原料简介

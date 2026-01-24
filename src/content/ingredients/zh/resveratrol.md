@@ -4,7 +4,7 @@ nameEn: Resveratrol
 latinName: Polygonum cuspidatum
 lang: zh
 description: 白藜芦醇是天然多酚类化合物，具有抗氧化、抗衰老等多种生物活性，是热门的功能性原料。
-image: /images/ingredients/resveratrol.jpg
+image: /images/ingredients/resveratrol.png
 ---
 
 ## 原料简介

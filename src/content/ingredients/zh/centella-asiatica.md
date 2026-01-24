@@ -4,7 +4,7 @@ nameEn: Centella Asiatica Extract
 latinName: Centella asiatica
 lang: zh
 description: 积雪草提取物富含积雪草苷和羟基积雪草苷，是化妆品行业热门的修护舒缓成分。
-image: /images/ingredients/centella-asiatica.jpg
+image: /images/ingredients/centella-asiatica.png
 ---
 
 ## 原料简介

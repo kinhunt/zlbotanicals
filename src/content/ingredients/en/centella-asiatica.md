@@ -3,7 +3,7 @@ name: Centella Asiatica Extract
 latinName: Centella asiatica
 lang: en
 description: Centella asiatica extract is rich in asiaticoside and madecassoside, a popular repair and soothing ingredient in the cosmetics industry.
-image: /images/ingredients/centella-asiatica.jpg
+image: /images/ingredients/centella-asiatica.png
 ---
 
 ## Overview

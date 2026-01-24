@@ -4,7 +4,7 @@ nameEn: Turmeric Extract
 latinName: Curcuma longa
 lang: zh
 description: 姜黄提取物富含姜黄素，是天然的抗炎抗氧化成分，在保健品和功能食品领域应用广泛。
-image: /images/ingredients/turmeric.jpg
+image: /images/ingredients/turmeric.png
 ---
 
 ## 原料简介
