@@ -8,6 +8,7 @@ image: /images/products/green-tea.webp
 solutions:
   - white-peach-sparkling
   - green-tea-energy-sparkling
+  - botanical-sweetener-rtd
 ---
 
 ## 原料简介

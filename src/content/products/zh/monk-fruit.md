@@ -7,6 +7,7 @@ description: 天然零卡甜味剂，甜度是蔗糖的150-300倍，适用于无
 image: /images/products/monk-fruit.webp
 solutions:
   - white-peach-sparkling
+  - botanical-sweetener-rtd
 ---
 
 ## 产品概述

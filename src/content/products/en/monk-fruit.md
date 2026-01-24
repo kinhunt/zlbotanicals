@@ -6,6 +6,7 @@ description: Natural zero-calorie sweetener, 150-300x sweeter than sugar. Ideal 
 image: /images/products/monk-fruit.webp
 solutions:
   - white-peach-sparkling
+  - botanical-sweetener-rtd
 ---
 
 ## Product Overview
