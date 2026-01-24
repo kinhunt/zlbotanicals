@@ -1,0 +1,40 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import Button from '../../components/common/Button.astro';
+
+const lang = 'zh';
+---
+
+<PageLayout
+  title="提交成功"
+  description="感谢您联系振隆药业。我们已收到您的消息，将尽快回复。"
+  lang={lang}
+  heroTitle="提交成功！"
+  heroSubtitle="您的消息已成功提交"
+>
+  <section class="section-padding">
+    <div class="container-wide max-w-2xl text-center">
+      <div class="bg-green-50 border border-green-200 rounded-xl p-8 mb-8">
+        <svg class="w-16 h-16 text-green-500 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+        </svg>
+        <h2 class="text-2xl font-semibold text-gray-900 mb-4">我们已收到您的消息</h2>
+        <p class="text-gray-600 mb-6">
+          感谢您联系振隆药业。我们的团队将审核您的咨询，并在1-2个工作日内回复您。
+        </p>
+        <p class="text-gray-600">
+          如有紧急咨询，请直接联系 <a href="mailto:info@zlbotanicals.com" class="text-primary hover:underline">info@zlbotanicals.com</a>
+        </p>
+      </div>
+
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <Button href="/zh" variant="primary">
+          返回首页
+        </Button>
+        <Button href="/zh/products" variant="outline">
+          浏览产品
+        </Button>
+      </div>
+    </div>
+  </section>
+</PageLayout>

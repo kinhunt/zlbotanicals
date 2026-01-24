@@ -17,7 +17,11 @@ const countries = [
 ];
 ---
 
-<form class="space-y-6" action="#" method="POST" id="contact-form">
+<form class="space-y-6" action="https://formsubmit.co/info@zlbotanicals.com" method="POST" id="contact-form">
+  <!-- FormSubmit Configuration -->
+  <input type="hidden" name="_subject" value="New Contact Form Submission - ZL Botanicals" />
+  <input type="hidden" name="_template" value="table" />
+  <input type="hidden" name="_next" value={lang === 'zh' ? 'https://zlbotanicals.com/zh/thank-you' : 'https://zlbotanicals.com/thank-you'} />
   <div class="grid md:grid-cols-2 gap-6">
     <div>
       <label class="block text-sm font-medium text-gray-700 mb-2">
