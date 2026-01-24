@@ -1,8 +1,10 @@
 ---
+import { getCollection } from 'astro:content';
 import { type Language, getLocalizedPath } from '../../i18n/config';
 import { useTranslations } from '../../i18n/utils';
 import SectionHeader from '../common/SectionHeader.astro';
 import Button from '../common/Button.astro';
+import { Leaf } from '@lucide/astro';
 
 interface Props {
   lang: Language;
@@ -11,29 +13,13 @@ interface Props {
 const { lang } = Astro.props;
 const t = useTranslations(lang);
 
-const categories = [
-  {
-    title: t('products.botanicalTitle'),
-    description: t('products.botanicalDesc'),
-    href: getLocalizedPath('/products/botanical-extracts', lang),
-    cta: t('products.viewProducts'),
-    icon: '🌿',
-  },
-  {
-    title: t('products.herbalTitle'),
-    description: t('products.herbalDesc'),
-    href: getLocalizedPath('/products/herbal-powders', lang),
-    cta: t('products.viewProducts'),
-    icon: '🍃',
-  },
-  {
-    title: t('products.customTitle'),
-    description: t('products.customDesc'),
-    href: getLocalizedPath('/products/custom-formulation', lang),
-    cta: t('products.learnMore'),
-    icon: '⚗️',
-  },
-];
+// Get ingredients from Content Collections
+const allIngredients = await getCollection('ingredients', ({ data }) => {
+  return data.lang === lang && !data.draft;
+});
+
+// Show up to 6 featured ingredients on homepage
+const featuredIngredients = allIngredients.slice(0, 6);
 ---
 
 <section class="section-padding bg-off-white">
@@ -43,25 +29,43 @@ const categories = [
       title={t('products.title')}
     />
 
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-      {categories.map((category) => (
-        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow overflow-hidden group">
-          <div class="aspect-[3/2] bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
-            <span class="text-5xl">{category.icon}</span>
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {featuredIngredients.map((ingredient) => (
+        <a
+          href={getLocalizedPath(`/products/${ingredient.slug.replace(`${lang}/`, '')}`, lang)}
+          class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all overflow-hidden group"
+        >
+          <div class="aspect-[3/2] bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center relative overflow-hidden">
+            <div class="w-16 h-16 text-primary/60 group-hover:scale-110 transition-transform">
+              <Leaf class="w-full h-full" strokeWidth={1.5} />
+            </div>
           </div>
           <div class="p-6">
-            <h3 class="text-xl font-semibold text-gray-900">
-              {category.title}
+            <h3 class="text-lg font-semibold text-gray-900 group-hover:text-primary transition-colors">
+              {ingredient.data.name}
             </h3>
-            <p class="mt-3 text-gray-600">
-              {category.description}
-            </p>
-            <Button href={category.href} variant="ghost" class="mt-4 p-0">
-              {category.cta} →
-            </Button>
+            {ingredient.data.latinName && (
+              <p class="text-sm text-gray-500 italic mt-1">{ingredient.data.latinName}</p>
+            )}
+            {ingredient.data.description && (
+              <p class="mt-2 text-gray-600 text-sm line-clamp-2">
+                {ingredient.data.description}
+              </p>
+            )}
+            <span class="inline-block mt-3 text-primary text-sm font-medium group-hover:translate-x-1 transition-transform">
+              {t('products.viewProducts')} →
+            </span>
           </div>
-        </div>
+        </a>
       ))}
     </div>
+
+    {allIngredients.length > 6 && (
+      <div class="mt-10 text-center">
+        <Button href={getLocalizedPath('/products', lang)} variant="outline">
+          {t('products.viewAll')} ({allIngredients.length})
+        </Button>
+      </div>
+    )}
   </div>
 </section>

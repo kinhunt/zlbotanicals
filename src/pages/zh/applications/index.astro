@@ -1,19 +1,21 @@
 ---
 import PageLayout from '../../../layouts/PageLayout.astro';
 import { getLocalizedPath } from '../../../i18n/config';
+import { GlassWater, Pill, Sparkles, UtensilsCrossed } from '@lucide/astro';
 
 const lang = 'zh';
 
 const applications = [
-  { title: '饮料行业', desc: '功能性茶饮、能量饮料和健康饮品的原料。', href: getLocalizedPath('/applications/beverages', lang), icon: '🥤' },
-  { title: '保健品行业', desc: '膳食补充剂和功能性食品的优质提取物。', href: getLocalizedPath('/applications/nutraceuticals', lang), icon: '💊' },
-  { title: '化妆品行业', desc: '护肤和个人护理产品的天然植物活性成分。', href: getLocalizedPath('/applications/cosmetics', lang), icon: '✨' },
-  { title: '食品行业', desc: '食品的天然风味、色素和功能性原料。', href: getLocalizedPath('/applications/food', lang), icon: '🍽️' },
+  { title: '饮料行业', desc: '功能性茶饮、能量饮料和健康饮品的原料。', href: getLocalizedPath('/applications/beverages', lang), icon: 'beverages' },
+  { title: '保健品行业', desc: '膳食补充剂和功能性食品的优质提取物。', href: getLocalizedPath('/applications/nutraceuticals', lang), icon: 'nutraceuticals' },
+  { title: '化妆品行业', desc: '护肤和个人护理产品的天然植物活性成分。', href: getLocalizedPath('/applications/cosmetics', lang), icon: 'cosmetics' },
+  { title: '食品行业', desc: '食品的天然风味、色素和功能性原料。', href: getLocalizedPath('/applications/food', lang), icon: 'food' },
 ];
 ---
 
 <PageLayout
   title="应用领域"
+  description="植物提取物解决方案：饮料、保健品、化妆品和食品行业。功能性茶饮、膳食补充剂、护肤品和天然食品原料。"
   lang={lang}
   heroTitle="应用领域"
   heroSubtitle="为多元化行业提供植物解决方案"
@@ -23,7 +25,12 @@ const applications = [
       <div class="grid md:grid-cols-2 gap-8">
         {applications.map((app) => (
           <a href={app.href} class="group block p-8 bg-off-white rounded-xl hover:shadow-lg transition-all">
-            <span class="text-4xl">{app.icon}</span>
+            <div class="w-12 h-12 text-primary">
+              {app.icon === 'beverages' && <GlassWater class="w-full h-full" strokeWidth={1.5} />}
+              {app.icon === 'nutraceuticals' && <Pill class="w-full h-full" strokeWidth={1.5} />}
+              {app.icon === 'cosmetics' && <Sparkles class="w-full h-full" strokeWidth={1.5} />}
+              {app.icon === 'food' && <UtensilsCrossed class="w-full h-full" strokeWidth={1.5} />}
+            </div>
             <h3 class="text-2xl font-semibold text-gray-900 mt-4">{app.title}</h3>
             <p class="mt-2 text-gray-600">{app.desc}</p>
             <span class="inline-block mt-4 text-primary font-medium group-hover:translate-x-2 transition-transform">了解更多 →</span>

@@ -1,0 +1,176 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getLocalizedPath } from '../../../i18n/config';
+import { Leaf, ArrowRight } from '@lucide/astro';
+
+const lang = 'zh';
+
+export async function getStaticPaths() {
+  const ingredients = await getCollection('ingredients', ({ data }) => {
+    return data.lang === 'zh' && !data.draft;
+  });
+
+  const products = await getCollection('products', ({ data }) => {
+    return data.lang === 'zh' && !data.draft;
+  });
+
+  const ingredientPaths = ingredients.map((ingredient) => ({
+    params: { slug: ingredient.slug.replace('zh/', '') },
+    props: { type: 'ingredient', entry: ingredient },
+  }));
+
+  const productPaths = products.map((product) => ({
+    params: { slug: product.slug.replace('zh/', '') },
+    props: { type: 'product', entry: product },
+  }));
+
+  return [...ingredientPaths, ...productPaths];
+}
+
+const { type, entry } = Astro.props;
+const { Content } = await entry.render();
+
+// For ingredient pages, get related products
+let relatedProducts: any[] = [];
+if (type === 'ingredient') {
+  const allProducts = await getCollection('products', ({ data }) => {
+    return data.lang === 'zh' && !data.draft;
+  });
+  relatedProducts = allProducts.filter(
+    (p) => p.data.ingredient === entry.slug.replace('zh/', '')
+  );
+}
+
+// For product pages, get related applications and ingredient info
+let relatedApplications: any[] = [];
+let ingredientInfo: any = null;
+if (type === 'product') {
+  const allApplications = await getCollection('applications', ({ data }) => {
+    return data.lang === 'zh' && !data.draft;
+  });
+  relatedApplications = allApplications.filter((app) =>
+    entry.data.applications.includes(app.slug.replace('zh/', ''))
+  );
+
+  const allIngredients = await getCollection('ingredients', ({ data }) => {
+    return data.lang === 'zh' && !data.draft;
+  });
+  ingredientInfo = allIngredients.find(
+    (i) => i.slug.replace('zh/', '') === entry.data.ingredient
+  );
+}
+---
+
+<PageLayout
+  title={entry.data.name}
+  description={entry.data.description}
+  lang={lang}
+  heroTitle={entry.data.name}
+  heroSubtitle={type === 'ingredient' ? entry.data.latinName : entry.data.specification}
+>
+  <article class="section-padding">
+    <div class="container-wide max-w-4xl">
+      <!-- Breadcrumb -->
+      <nav class="mb-8 text-sm">
+        <ol class="flex items-center gap-2 text-gray-500">
+          <li><a href={getLocalizedPath('/', lang)} class="hover:text-primary">首页</a></li>
+          <li>/</li>
+          <li><a href={getLocalizedPath('/products', lang)} class="hover:text-primary">产品</a></li>
+          {type === 'product' && ingredientInfo && (
+            <>
+              <li>/</li>
+              <li>
+                <a href={getLocalizedPath(`/products/${entry.data.ingredient}`, lang)} class="hover:text-primary">
+                  {ingredientInfo.data.name}
+                </a>
+              </li>
+            </>
+          )}
+          <li>/</li>
+          <li class="text-gray-900">{entry.data.name}</li>
+        </ol>
+      </nav>
+
+      <!-- Meta tags -->
+      <div class="flex flex-wrap gap-3 mb-8">
+        {type === 'ingredient' && entry.data.latinName && (
+          <span class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm font-medium italic">
+            {entry.data.latinName}
+          </span>
+        )}
+        {type === 'product' && entry.data.specification && (
+          <span class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm font-medium">
+            {entry.data.specification}
+          </span>
+        )}
+      </div>
+
+      <!-- Main Content -->
+      <div class="prose prose-lg max-w-none prose-headings:font-display prose-headings:text-gray-900 prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-table:text-sm">
+        <Content />
+      </div>
+
+      <!-- For Ingredient: Show related products -->
+      {type === 'ingredient' && relatedProducts.length > 0 && (
+        <div class="mt-16 pt-8 border-t border-gray-200">
+          <h3 class="text-xl font-display font-bold text-gray-900 mb-6">产品列表</h3>
+          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {relatedProducts.map((product) => (
+              <a
+                href={getLocalizedPath(`/products/${product.slug.replace('zh/', '')}`, lang)}
+                class="p-5 bg-off-white rounded-xl hover:shadow-md transition-shadow group"
+              >
+                <h4 class="font-semibold text-gray-900 group-hover:text-primary transition-colors">
+                  {product.data.name}
+                </h4>
+                {product.data.specification && (
+                  <span class="inline-block mt-2 px-2 py-0.5 bg-primary/10 text-primary text-xs rounded">
+                    {product.data.specification}
+                  </span>
+                )}
+                {product.data.description && (
+                  <p class="text-sm text-gray-600 mt-2 line-clamp-2">{product.data.description}</p>
+                )}
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <!-- For Product: Show related applications -->
+      {type === 'product' && relatedApplications.length > 0 && (
+        <div class="mt-16 pt-8 border-t border-gray-200">
+          <h3 class="text-xl font-display font-bold text-gray-900 mb-6">相关应用</h3>
+          <div class="grid md:grid-cols-2 gap-4">
+            {relatedApplications.map((app) => (
+              <a
+                href={getLocalizedPath(`/applications/${app.slug.replace('zh/', '')}`, lang)}
+                class="p-6 bg-off-white rounded-xl hover:shadow-md transition-shadow group"
+              >
+                <h4 class="font-semibold text-gray-900 group-hover:text-primary transition-colors">
+                  {app.data.name}
+                </h4>
+                <p class="text-sm text-gray-600 mt-2 line-clamp-2">{app.data.description}</p>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <!-- CTA -->
+      <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
+        <h3 class="text-xl font-display font-bold text-gray-900">
+          {type === 'ingredient' ? '对此原料感兴趣？' : '对此产品感兴趣？'}
+        </h3>
+        <p class="text-gray-600 mt-2">索取样品、技术资料或询价。</p>
+        <a
+          href={getLocalizedPath('/contact', lang)}
+          class="inline-block mt-4 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors"
+        >
+          联系销售
+        </a>
+      </div>
+    </div>
+  </article>
+</PageLayout>

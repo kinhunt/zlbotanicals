@@ -1,4 +1,5 @@
 ---
+import { getCollection } from 'astro:content';
 import { type Language, getLocalizedPath } from '../../i18n/config';
 import { useTranslations } from '../../i18n/utils';
 
@@ -8,6 +9,16 @@ interface Props {
 
 const { lang } = Astro.props;
 const t = useTranslations(lang);
+
+// Get ingredients from Content Collections for products dropdown
+const ingredients = await getCollection('ingredients', ({ data }) => {
+  return data.lang === lang && !data.draft;
+});
+
+const productChildren = ingredients.map((ingredient) => ({
+  label: ingredient.data.name,
+  href: getLocalizedPath(`/products/${ingredient.slug.replace(`${lang}/`, '')}`, lang),
+}));
 
 const navItems = [
   {
@@ -22,11 +33,7 @@ const navItems = [
   {
     label: t('nav.products'),
     href: getLocalizedPath('/products', lang),
-    children: [
-      { label: t('nav.productsBotanical'), href: getLocalizedPath('/products/botanical-extracts', lang) },
-      { label: t('nav.productsHerbal'), href: getLocalizedPath('/products/herbal-powders', lang) },
-      { label: t('nav.productsCustom'), href: getLocalizedPath('/products/custom-formulation', lang) },
-    ],
+    children: productChildren.length > 0 ? productChildren : undefined,
   },
   {
     label: t('nav.applications'),

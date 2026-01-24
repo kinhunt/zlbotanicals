@@ -1,77 +1,83 @@
 ---
+import { getCollection } from 'astro:content';
 import PageLayout from '../../../layouts/PageLayout.astro';
-import ProductCard from '../../../components/products/ProductCard.astro';
 import { getLocalizedPath } from '../../../i18n/config';
+import { Leaf, ArrowRight } from '@lucide/astro';
 
 const lang = 'zh';
 
-const categories = [
-  {
-    title: '植物提取物',
-    description: '标准化植物提取物，活性成分含量稳定',
-    href: getLocalizedPath('/products/botanical-extracts', lang),
-    icon: '🌿',
-  },
-  {
-    title: '草本粉末',
-    description: '严格GMP条件下加工的细磨植物粉末',
-    href: getLocalizedPath('/products/herbal-powders', lang),
-    icon: '🍃',
-  },
-  {
-    title: '定制配方',
-    description: '根据您的需求定制提取和配方服务',
-    href: getLocalizedPath('/products/custom-formulation', lang),
-    icon: '⚗️',
-  },
-];
-
-const featuredProducts = [
-  { name: '甘草提取物', latinName: 'Glycyrrhiza glabra', category: '提取物', specification: '20% 甘草酸', applications: ['饮料', '保健品', '化妆品'], href: '#' },
-  { name: '人参提取物', latinName: 'Panax ginseng', category: '提取物', specification: '10% 人参皂苷', applications: ['保健品', '饮料'], href: '#' },
-  { name: '绿茶提取物', latinName: 'Camellia sinensis', category: '提取物', specification: '95% 茶多酚', applications: ['饮料', '化妆品', '食品'], href: '#' },
-  { name: '姜黄提取物', latinName: 'Curcuma longa', category: '提取物', specification: '95% 姜黄素', applications: ['保健品', '食品'], href: '#' },
-  { name: '银杏叶提取物', latinName: 'Ginkgo biloba', category: '提取物', specification: '24% 黄酮, 6% 内酯', applications: ['保健品'], href: '#' },
-  { name: '紫锥菊提取物', latinName: 'Echinacea purpurea', category: '提取物', specification: '4% 多酚', applications: ['保健品', '饮料'], href: '#' },
-];
+// Get all ingredients from Content Collections
+const ingredients = await getCollection('ingredients', ({ data }) => {
+  return data.lang === 'zh' && !data.draft;
+});
 ---
 
 <PageLayout
   title="产品中心"
+  description="振隆药业优质植物提取物：罗汉果提取物、甘草提取物、人参提取物等。GMP认证，活性成分标准化。"
   lang={lang}
   heroTitle="产品中心"
-  heroSubtitle="为全球行业提供优质植物提取物和天然原料"
+  heroSubtitle="为全球行业提供优质植物提取物"
 >
-  <!-- Categories -->
-  <section class="section-padding bg-off-white">
+  <section class="section-padding">
     <div class="container-wide">
-      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8">产品类别</h2>
-      <div class="grid md:grid-cols-3 gap-8">
-        {categories.map((cat) => (
-          <a href={cat.href} class="group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-shadow">
-            <div class="aspect-[3/2] bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
-              <span class="text-5xl">{cat.icon}</span>
-            </div>
-            <div class="p-6">
-              <h3 class="text-xl font-semibold text-gray-900">{cat.title}</h3>
-              <p class="mt-2 text-gray-600">{cat.description}</p>
-              <span class="inline-block mt-4 text-primary font-medium">查看详情 →</span>
-            </div>
-          </a>
-        ))}
-      </div>
+      {ingredients.length > 0 ? (
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {ingredients.map((ingredient) => (
+            <a
+              href={getLocalizedPath(`/products/${ingredient.slug.replace('zh/', '')}`, lang)}
+              class="group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-shadow"
+            >
+              <div class="aspect-[4/3] bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
+                {ingredient.data.image ? (
+                  <img
+                    src={ingredient.data.image}
+                    alt={ingredient.data.name}
+                    class="w-full h-full object-cover"
+                  />
+                ) : (
+                  <Leaf class="w-16 h-16 text-primary/30" strokeWidth={1} />
+                )}
+              </div>
+              <div class="p-6">
+                <h3 class="text-xl font-semibold text-gray-900 group-hover:text-primary transition-colors">
+                  {ingredient.data.name}
+                </h3>
+                {ingredient.data.latinName && (
+                  <p class="text-sm text-gray-500 italic mt-1">{ingredient.data.latinName}</p>
+                )}
+                {ingredient.data.description && (
+                  <p class="text-gray-600 mt-3 line-clamp-2">{ingredient.data.description}</p>
+                )}
+                <span class="inline-flex items-center gap-1 mt-4 text-primary font-medium">
+                  查看产品 <ArrowRight class="w-4 h-4" />
+                </span>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <div class="text-center py-16">
+          <Leaf class="w-16 h-16 text-gray-300 mx-auto mb-4" strokeWidth={1} />
+          <p class="text-gray-500">产品即将上线...</p>
+        </div>
+      )}
     </div>
   </section>
 
-  <!-- Featured Products -->
-  <section class="section-padding">
-    <div class="container-wide">
-      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8">主打产品</h2>
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {featuredProducts.map((product) => (
-          <ProductCard {...product} lang={lang} />
-        ))}
-      </div>
+  <!-- CTA -->
+  <section class="section-padding bg-off-white">
+    <div class="container-wide text-center">
+      <h2 class="text-2xl font-display font-bold text-gray-900">寻找特定的提取物？</h2>
+      <p class="text-gray-600 mt-3 max-w-2xl mx-auto">
+        我们提供定制提取和配方服务。联系我们讨论您的需求。
+      </p>
+      <a
+        href={getLocalizedPath('/contact', lang)}
+        class="inline-block mt-6 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors"
+      >
+        联系我们
+      </a>
     </div>
   </section>
 </PageLayout>
