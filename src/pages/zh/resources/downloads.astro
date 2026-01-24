@@ -1,33 +1,134 @@
 ---
 import PageLayout from '../../../layouts/PageLayout.astro';
 import { getLocalizedPath } from '../../../i18n/config';
+import { FileText, Download, Mail, BookOpen, FileSpreadsheet, Shield } from '@lucide/astro';
 
 const lang = 'zh';
 
-const downloads = [
-  { name: '产品目录 2025', desc: '植物提取物和粉末完整列表', size: 'PDF, 2.5 MB' },
-  { name: '公司简介', desc: '振隆药业能力和认证概览', size: 'PDF, 1.2 MB' },
+const documents = [
+  {
+    name: '产品目录 2025',
+    desc: '植物提取物和草本粉末完整列表及规格说明',
+    size: 'PDF, 2.5 MB',
+    icon: 'catalog',
+    available: true,
+  },
+  {
+    name: '公司简介',
+    desc: '振隆药业能力、设施和资质认证概览',
+    size: 'PDF, 1.2 MB',
+    icon: 'profile',
+    available: true,
+  },
+  {
+    name: '资质认证文件',
+    desc: 'GMP、ISO 9001、ISO 22000、HACCP、清真、犹太洁食认证',
+    size: 'PDF, 800 KB',
+    icon: 'cert',
+    available: true,
+  },
+  {
+    name: '技术规格书',
+    desc: '单品详细规格说明（按需提供）',
+    size: 'PDF, 不等',
+    icon: 'tech',
+    available: false,
+  },
 ];
+
+const getIcon = (type: string) => {
+  switch(type) {
+    case 'catalog': return BookOpen;
+    case 'profile': return FileText;
+    case 'cert': return Shield;
+    case 'tech': return FileSpreadsheet;
+    default: return FileText;
+  }
+};
 ---
 
-<PageLayout title="下载中心" lang={lang} heroTitle="下载中心" heroSubtitle="技术文档和产品目录">
+<PageLayout
+  title="下载中心"
+  description="下载振隆药业产品目录、公司简介和资质认证文件。技术规格书和检测报告可按需索取。"
+  lang={lang}
+  heroTitle="下载中心"
+  heroSubtitle="技术文档和产品目录"
+>
   <section class="section-padding">
-    <div class="container-wide max-w-3xl">
+    <div class="container-wide max-w-4xl">
+      <!-- Available Documents -->
       <div class="space-y-4">
-        {downloads.map((doc) => (
-          <div class="p-6 bg-off-white rounded-xl flex items-center justify-between">
-            <div>
-              <h3 class="font-semibold text-gray-900">{doc.name}</h3>
-              <p class="text-sm text-gray-600 mt-1">{doc.desc}</p>
-              <span class="text-xs text-gray-500">{doc.size}</span>
+        {documents.map((doc) => {
+          const IconComponent = getIcon(doc.icon);
+          return (
+            <div class="p-6 bg-off-white rounded-xl flex items-center gap-6 hover:shadow-md transition-shadow">
+              <div class="w-14 h-14 rounded-xl bg-primary/10 flex items-center justify-center text-primary flex-shrink-0">
+                <IconComponent class="w-7 h-7" strokeWidth={1.5} />
+              </div>
+              <div class="flex-1 min-w-0">
+                <h3 class="font-semibold text-gray-900">{doc.name}</h3>
+                <p class="text-sm text-gray-600 mt-1">{doc.desc}</p>
+                <span class="text-xs text-gray-500">{doc.size}</span>
+              </div>
+              {doc.available ? (
+                <a
+                  href={getLocalizedPath('/contact', lang)}
+                  class="flex items-center gap-2 px-5 py-2.5 bg-primary text-white rounded-lg text-sm font-medium hover:bg-primary-dark transition-colors flex-shrink-0"
+                >
+                  <Download class="w-4 h-4" />
+                  索取
+                </a>
+              ) : (
+                <a
+                  href={getLocalizedPath('/contact', lang)}
+                  class="flex items-center gap-2 px-5 py-2.5 border border-primary text-primary rounded-lg text-sm font-medium hover:bg-primary/5 transition-colors flex-shrink-0"
+                >
+                  <Mail class="w-4 h-4" />
+                  咨询
+                </a>
+              )}
             </div>
-            <button class="px-4 py-2 bg-primary text-white rounded-lg text-sm font-medium hover:bg-primary-dark transition-colors">下载</button>
-          </div>
-        ))}
+          );
+        })}
       </div>
-      <p class="mt-8 text-gray-500 text-sm text-center">
-        需要其他文档？<a href={getLocalizedPath('/contact', lang)} class="text-primary hover:underline">联系我们</a>获取检测报告、规格说明书或定制文档。
-      </p>
+
+      <!-- COA Section -->
+      <div class="mt-12 p-8 bg-white border border-gray-200 rounded-xl">
+        <div class="flex items-start gap-4">
+          <div class="w-12 h-12 rounded-lg bg-accent/10 flex items-center justify-center text-accent flex-shrink-0">
+            <Shield class="w-6 h-6" />
+          </div>
+          <div>
+            <h3 class="font-semibold text-gray-900 text-lg">检测报告 (COA)</h3>
+            <p class="text-gray-600 mt-2">
+              我们为每批发货产品提供详细的检测报告。请通过销售团队索取特定产品或批次的检测报告。
+            </p>
+            <a
+              href={getLocalizedPath('/contact', lang)}
+              class="inline-flex items-center gap-2 mt-4 text-primary font-medium hover:text-primary-dark transition-colors"
+            >
+              索取检测报告
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Contact Note -->
+      <div class="mt-8 p-6 bg-primary/5 rounded-xl text-center">
+        <p class="text-gray-700">
+          需要其他文档或定制文档？
+        </p>
+        <a
+          href={getLocalizedPath('/contact', lang)}
+          class="inline-flex items-center gap-2 mt-3 text-primary font-medium hover:text-primary-dark transition-colors"
+        >
+          <Mail class="w-4 h-4" />
+          联系我们
+        </a>
+      </div>
     </div>
   </section>
 </PageLayout>

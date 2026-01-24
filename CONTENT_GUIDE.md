@@ -281,12 +281,28 @@ draft: true
 
 ```
 public/images/
-├── ingredients/    # 原料图片
-├── products/       # 产品图片
-└── applications/   # 应用图片
+├── ingredients/    # 原料封面图（推荐尺寸：800x600px 或 4:3 比例）
+├── products/       # 产品封面图
+└── applications/   # 应用方案封面图
 ```
 
-在内容中引用：`image: /images/ingredients/stevia.jpg`
+在 frontmatter 中引用：`image: /images/ingredients/stevia.jpg`
+
+### Q: 图片会显示在哪些位置？
+
+| 位置 | 显示内容 |
+|-----|---------|
+| **首页产品系列** | 显示原料的 `image`，无图片时显示默认图标 |
+| **产品中心列表页** | 显示原料的 `image`，无图片时显示默认图标 |
+| **原料/产品详情页** | 页面顶部显示封面图 |
+| **应用方案页面** | 显示应用的 `image` |
+
+### Q: 图片格式和大小建议？
+
+- **格式**：JPG（照片）、PNG（图标/透明背景）、WebP（推荐）
+- **封面图尺寸**：800×600px 或更大，保持 4:3 或 3:2 比例
+- **文件大小**：建议压缩到 200KB 以内
+- **命名规范**：使用英文小写，与内容 slug 一致（如 `monk-fruit.jpg`）
 
 ### Q: 如何添加产品和应用的关联？
 

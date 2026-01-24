@@ -2,6 +2,7 @@
 import { type Language, getLocalizedPath } from '../../i18n/config';
 import { useTranslations } from '../../i18n/utils';
 import SectionHeader from '../common/SectionHeader.astro';
+import { GlassWater, Pill, Sparkles, UtensilsCrossed } from '@lucide/astro';
 
 interface Props {
   lang: Language;
@@ -14,25 +15,25 @@ const applications = [
   {
     title: t('applications.beverages'),
     href: getLocalizedPath('/applications/beverages', lang),
-    icon: '🥤',
+    icon: 'beverages',
     color: 'from-blue-500/20 to-blue-600/30',
   },
   {
     title: t('applications.nutraceuticals'),
     href: getLocalizedPath('/applications/nutraceuticals', lang),
-    icon: '💊',
+    icon: 'nutraceuticals',
     color: 'from-green-500/20 to-green-600/30',
   },
   {
     title: t('applications.cosmetics'),
     href: getLocalizedPath('/applications/cosmetics', lang),
-    icon: '✨',
+    icon: 'cosmetics',
     color: 'from-pink-500/20 to-pink-600/30',
   },
   {
     title: t('applications.food'),
     href: getLocalizedPath('/applications/food', lang),
-    icon: '🍽️',
+    icon: 'food',
     color: 'from-orange-500/20 to-orange-600/30',
   },
 ];
@@ -54,7 +55,12 @@ const applications = [
         >
           <div class={`absolute inset-0 bg-gradient-to-br ${app.color} opacity-50 group-hover:opacity-70 transition-opacity`}></div>
           <div class="absolute inset-0 flex flex-col items-center justify-center p-4">
-            <span class="text-5xl md:text-6xl mb-4">{app.icon}</span>
+            <div class="w-16 h-16 md:w-20 md:h-20 mb-4 text-white">
+              {app.icon === 'beverages' && <GlassWater class="w-full h-full" strokeWidth={1.5} />}
+              {app.icon === 'nutraceuticals' && <Pill class="w-full h-full" strokeWidth={1.5} />}
+              {app.icon === 'cosmetics' && <Sparkles class="w-full h-full" strokeWidth={1.5} />}
+              {app.icon === 'food' && <UtensilsCrossed class="w-full h-full" strokeWidth={1.5} />}
+            </div>
             <h3 class="text-white text-lg md:text-xl font-semibold text-center">
               {app.title}
             </h3>

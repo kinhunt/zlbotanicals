@@ -92,6 +92,17 @@ if (type === 'product') {
         </ol>
       </nav>
 
+      <!-- Feature Image -->
+      {entry.data.image && (
+        <div class="mb-8 rounded-2xl overflow-hidden">
+          <img
+            src={entry.data.image}
+            alt={entry.data.name}
+            class="w-full h-64 md:h-80 object-cover"
+          />
+        </div>
+      )}
+
       <!-- Meta tags -->
       <div class="flex flex-wrap gap-3 mb-8">
         {type === 'ingredient' && entry.data.latinName && (

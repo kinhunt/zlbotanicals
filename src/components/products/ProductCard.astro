@@ -1,4 +1,6 @@
 ---
+import { Leaf } from '@lucide/astro';
+
 interface Props {
   name: string;
   latinName?: string;
@@ -6,22 +8,33 @@ interface Props {
   specification?: string;
   applications?: string[];
   href: string;
+  image?: string;
   lang: 'en' | 'zh';
 }
 
-const { name, latinName, category, specification, applications, href, lang } = Astro.props;
+const { name, latinName, category, specification, applications, href, image, lang } = Astro.props;
 const viewText = lang === 'zh' ? '查看详情' : 'View Details';
 ---
 
-<div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow overflow-hidden group">
-  <div class="aspect-[4/3] bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
-    <span class="text-primary/30 text-sm">Product Image</span>
+<div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden group">
+  <div class="aspect-[4/3] bg-gradient-to-br from-primary/10 via-cream to-primary/5 flex items-center justify-center relative overflow-hidden">
+    {image ? (
+      <img src={image} alt={name} class="w-full h-full object-cover" loading="lazy" />
+    ) : (
+      <div class="flex flex-col items-center justify-center text-primary/40 group-hover:text-primary/60 transition-colors">
+        <Leaf class="w-16 h-16 mb-2" strokeWidth={1} />
+        <span class="text-xs font-medium tracking-wide uppercase">{category}</span>
+      </div>
+    )}
+    <!-- Decorative elements -->
+    <div class="absolute top-3 right-3 w-2 h-2 rounded-full bg-accent/60"></div>
+    <div class="absolute bottom-4 left-4 w-3 h-3 rounded-full bg-primary/20"></div>
   </div>
   <div class="p-6">
     <span class="text-xs font-medium text-accent uppercase tracking-wider">
       {category}
     </span>
-    <h3 class="text-lg font-semibold text-gray-900 mt-2">
+    <h3 class="text-lg font-semibold text-gray-900 mt-2 group-hover:text-primary transition-colors">
       {name}
     </h3>
     {latinName && (
@@ -44,9 +57,10 @@ const viewText = lang === 'zh' ? '查看详情' : 'View Details';
     <div class="mt-4">
       <a
         href={href}
-        class="text-sm font-medium text-primary hover:text-primary-dark"
+        class="text-sm font-medium text-primary hover:text-primary-dark inline-flex items-center gap-1 group-hover:gap-2 transition-all"
       >
-        {viewText} →
+        {viewText}
+        <span class="transition-transform group-hover:translate-x-1">→</span>
       </a>
     </div>
   </div>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F5F1E6"/>
+      <stop offset="100%" style="stop-color:#E8E4D9"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2D6A4F"/>
+      <stop offset="100%" style="stop-color:#1B4D3E"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <!-- Stylized leaf/botanical icon -->
+  <g transform="translate(150, 100)">
+    <path d="M50 0 C80 30 90 70 50 100 C10 70 20 30 50 0" fill="url(#leaf)" opacity="0.9"/>
+    <path d="M50 20 C65 40 70 60 50 80" stroke="#F5F1E6" stroke-width="2" fill="none"/>
+    <path d="M50 30 L35 50" stroke="#F5F1E6" stroke-width="1.5" fill="none"/>
+    <path d="M50 45 L65 55" stroke="#F5F1E6" stroke-width="1.5" fill="none"/>
+    <path d="M50 55 L40 70" stroke="#F5F1E6" stroke-width="1.5" fill="none"/>
+  </g>
+  <!-- Small decorative elements -->
+  <circle cx="80" cy="60" r="4" fill="#C9A227" opacity="0.6"/>
+  <circle cx="320" cy="240" r="6" fill="#C9A227" opacity="0.4"/>
+  <circle cx="350" cy="80" r="3" fill="#1B4D3E" opacity="0.3"/>
+</svg>
