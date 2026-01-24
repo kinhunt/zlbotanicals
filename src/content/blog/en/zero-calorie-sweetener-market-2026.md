@@ -3,7 +3,7 @@ title: "The Plant-Based Sweetener Explosion: How Botanical Extracts Captured 52%
 lang: en
 publishDate: "2026-01-24"
 category: market-insights
-tags: [zero-calorie sweeteners, plant-based sweeteners, RTD beverages, functional drinks, market trends, monk fruit, stevia, market analysis]
+tags: [zero-calorie sweeteners, plant-based sweeteners, RTD beverages, functional drinks, market trends, monk fruit, stevia]
 description: The global zero-calorie sweetener market surged in 2026 as plant-based alternatives captured 52% market share (up from 33%), driven by consumer distrust of artificial sweeteners and rapid RTD beverage innovation. Expected CAGR: +18.7%.
 image: /images/blog/zero-calorie-sweetener-market-2026.webp
 sources:
