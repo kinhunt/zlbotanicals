@@ -7,6 +7,7 @@ image: /images/products/reishi-mushroom.webp
 solutions:
   - liver-support-gummy
   - reishi-sleep-gummy
+  - deep-sleep-capsule
 ---
 
 ## Overview

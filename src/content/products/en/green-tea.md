@@ -6,6 +6,7 @@ description: Green tea extract is rich in tea polyphenols and EGCG, an excellent
 image: /images/products/green-tea.webp
 solutions:
   - white-peach-sparkling
+  - green-tea-energy-sparkling
 ---
 
 ## Overview

@@ -7,6 +7,7 @@ description: 绿茶提取物富含茶多酚和EGCG，是天然抗氧化剂的优
 image: /images/products/green-tea.webp
 solutions:
   - white-peach-sparkling
+  - green-tea-energy-sparkling
 ---
 
 ## 原料简介
