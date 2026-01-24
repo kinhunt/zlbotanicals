@@ -8,7 +8,7 @@ applications:
   - zero-sugar-sparkling
   - healthy-snacks
 description: 天然零卡甜味剂，甜度是蔗糖的150-300倍，适用于无糖饮料、健康食品等多种应用场景。
-image: /images/products/monk-fruit-sweetener.jpg
+image: /images/products/monk-fruit-sweetener-cover.png
 ---
 
 ## 产品概述

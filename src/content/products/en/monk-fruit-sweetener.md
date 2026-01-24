@@ -7,7 +7,7 @@ applications:
   - zero-sugar-sparkling
   - healthy-snacks
 description: Natural zero-calorie sweetener, 150-300x sweeter than sugar. Ideal for sugar-free beverages, healthy foods, and more.
-image: /images/products/monk-fruit-sweetener.jpg
+image: /images/products/monk-fruit-sweetener-cover.png
 ---
 
 ## Product Overview
