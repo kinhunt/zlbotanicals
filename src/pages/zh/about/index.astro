@@ -1,40 +1,46 @@
 ---
 import PageLayout from '../../../layouts/PageLayout.astro';
 import { getLocalizedPath } from '../../../i18n/config';
-
 const lang = 'zh';
+const cards = [
+  {
+    "title": "公司背景",
+    "description": "了解公司历史，以及供应商准入所需的基本信息。",
+    "href": "/about/story"
+  },
+  {
+    "title": "供应与工艺审核",
+    "description": "针对拟采购产品，确认生产场地、供应来源与各方职责。",
+    "href": "/about/facility"
+  },
+  {
+    "title": "资质文件审核",
+    "description": "核对文件是否适用于对应企业主体、场地、产品及目标市场。",
+    "href": "/about/certifications"
+  }
+];
 ---
-
-<PageLayout
-  title="关于我们"
-  description="了解振隆药业 - 自1986年以来领先的植物提取物制造商。广州24,000平方米GMP认证生产基地，服务全球50多个国家。"
-  lang={lang}
-  heroTitle="关于振隆药业"
-  heroSubtitle="自1986年以来，近四十年的植物提取专业经验"
->
+<PageLayout title="关于振隆药业" description="植物原料合作，从具体产品需求开始. 振隆药业的公司历史始于1986年的中国广州。我们面向食品、饮料、营养补充剂及个护企业，提供植物提取物与天然原料的采购沟通。产品目录用于初步筛选，不代表所有列示原料均在同一工厂生产。" lang={lang} heroTitle="关于振隆药业" heroSubtitle="植物原料合作，从具体产品需求开始">
   <section class="section-padding">
     <div class="container-wide">
-      <p class="text-xl text-gray-600 leading-relaxed max-w-3xl">
-        振隆药业成立于1986年，总部位于中国广州。从一家本地草药加工厂发展成为全球信赖的优质植物提取物和天然原料供应商。
-      </p>
-
-      <div class="grid md:grid-cols-3 gap-8 mt-12">
-        <a href={getLocalizedPath('/about/story', lang)} class="block p-6 bg-off-white rounded-xl hover:shadow-md transition-shadow">
-          <h3 class="text-xl font-semibold text-gray-900">品牌故事</h3>
-          <p class="mt-2 text-gray-600">了解我们从1986年至今的发展历程。</p>
-          <span class="inline-block mt-4 text-primary font-medium">阅读更多 →</span>
-        </a>
-        <a href={getLocalizedPath('/about/facility', lang)} class="block p-6 bg-off-white rounded-xl hover:shadow-md transition-shadow">
-          <h3 class="text-xl font-semibold text-gray-900">生产设施</h3>
-          <p class="mt-2 text-gray-600">探索我们24,000平方米的生产基地。</p>
-          <span class="inline-block mt-4 text-primary font-medium">查看详情 →</span>
-        </a>
-        <a href={getLocalizedPath('/about/certifications', lang)} class="block p-6 bg-off-white rounded-xl hover:shadow-md transition-shadow">
-          <h3 class="text-xl font-semibold text-gray-900">资质认证</h3>
-          <p class="mt-2 text-gray-600">查看我们的质量认证和标准。</p>
-          <span class="inline-block mt-4 text-primary font-medium">查看全部 →</span>
-        </a>
+      <p class="text-lg md:text-xl leading-relaxed text-gray-600 max-w-4xl">振隆药业的公司历史始于1986年的中国广州。我们面向食品、饮料、营养补充剂及个护企业，提供植物提取物与天然原料的采购沟通。产品目录用于初步筛选，不代表所有列示原料均在同一工厂生产。</p>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">
+        {cards.map((card) => (
+          <article class="p-7 rounded-xl bg-off-white border border-primary/10 hover:border-primary/30 transition-colors">
+            <h2 class="text-xl font-display font-bold text-gray-900">{card.title}</h2>
+            <p class="mt-4 text-gray-600 leading-relaxed">{card.description}</p>
+            {card.href && <a href={getLocalizedPath(card.href, lang)} class="inline-flex mt-5 text-primary font-semibold hover:underline">查看详情 →</a>}
+          </article>
+        ))}
       </div>
+    </div>
+  </section>
+  <section class="bg-primary py-16">
+    <div class="container-wide text-center">
+      <h2 class="text-2xl md:text-3xl font-display font-bold text-white">开始产品与文件审核</h2>
+      <p class="mt-4 text-white/80 max-w-2xl mx-auto">请提供原料、规格、应用、目的地及预计数量，并说明样品与文件要求。可供情况及文件范围按具体产品确认。</p>
+      <a href={getLocalizedPath('/request-quote', lang)} class="inline-flex mt-7 px-7 py-3 bg-accent text-white rounded-lg font-semibold hover:bg-accent-dark transition-colors">申请样品与 COA</a>
+      <a href={getLocalizedPath('/products', lang)} class="inline-flex mt-7 ml-4 px-7 py-3 border border-white/50 text-white rounded-lg font-semibold hover:bg-white/10">浏览原料</a>
     </div>
   </section>
 </PageLayout>

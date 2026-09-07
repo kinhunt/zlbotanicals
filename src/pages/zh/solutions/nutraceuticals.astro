@@ -1,22 +1,13 @@
 ---
 import PageLayout from '../../../layouts/PageLayout.astro';
-import { getLocalizedPath } from '../../../i18n/config';
-
-const lang = 'zh';
-const products = ['姜黄提取物', '银杏叶提取物', '水飞蓟提取物', '人参提取物', '紫锥菊提取物', '越橘提取物'];
 ---
-
-<PageLayout title="保健品行业" lang={lang} heroTitle="保健品行业" heroSubtitle="膳食补充剂的优质提取物">
-  <section class="section-padding">
-    <div class="container-wide">
-      <div class="max-w-3xl mb-12">
-        <p class="text-xl text-gray-600 leading-relaxed">我们的标准化植物提取物符合膳食补充剂的最高质量标准，提供稳定的效价和功效。</p>
-      </div>
-      <h3 class="text-xl font-semibold text-gray-900 mb-4">保健品行业热门产品</h3>
-      <div class="flex flex-wrap gap-3">
-        {products.map((p) => <span class="px-4 py-2 bg-off-white rounded-lg text-gray-700">{p}</span>)}
-      </div>
-      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-8 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">洽谈您的项目</a>
-    </div>
-  </section>
+<PageLayout title="营养补充剂" lang="zh" heroTitle="营养补充剂" heroSubtitle="从应用条件到采购规格">
+<section class="section-padding"><div class="container-wide max-w-4xl">
+<p class="text-xl text-gray-600 leading-relaxed mb-10">原料规格应围绕身份鉴别、分析方法和剂型加工表现制定。本页不作治疗或临床功效宣称。</p>
+<h2 class="text-2xl font-display font-bold mb-6">应用排查与验证</h2><div class="space-y-5">
+<div class="p-6 bg-off-white rounded-xl"><h3 class="text-lg font-semibold">含量结果不一致</h3><p class="mt-2 text-gray-600">比较规格或COA前，先确认标志物、报告基准及分析方法。提取比例不能替代实测标志物含量。</p></div>
+<div class="p-6 bg-off-white rounded-xl"><h3 class="text-lg font-semibold">流动性差或装量不一致</h3><p class="mt-2 text-gray-600">比较粒径、堆积密度、水分及载体。在有代表性的设备上进行胶囊、片剂或粉剂试验并制定均匀度标准。</p></div>
+<div class="p-6 bg-off-white rounded-xl"><h3 class="text-lg font-semibold">稳定性或市场准入不确定</h3><p class="mt-2 text-gray-600">通过稳定性研究评估水分与包装兼容性。上市前由法规团队逐一审查目标市场的原料准入、标签和宣称。</p></div>
+</div><div class="mt-10 p-8 bg-primary/5 rounded-xl"><h2 class="text-xl font-semibold">准备哪些信息？</h2><p class="mt-3 text-gray-700">剂型、目标标志物及方法、载体限制、装填工艺、质量限值及销售市场。</p><p class="mt-3 text-gray-600">请同时提供产品、首单数量及所需文件。规格、样品和文件以实际可提供情况为准；认证及合规性需按产品和市场核查。以下建议为评估方向，不是配方或适用性保证。</p><a href="/zh/request-quote?request=application" class="inline-block mt-5 px-6 py-3 bg-primary text-white rounded-lg">提交应用需求</a><a href="/zh/resources/downloads" class="inline-block mt-5 ml-4 text-primary underline">查看采购清单</a></div>
+</div></section>
 </PageLayout>

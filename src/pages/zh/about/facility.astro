@@ -1,45 +1,51 @@
 ---
 import PageLayout from '../../../layouts/PageLayout.astro';
-
+import { getLocalizedPath } from '../../../i18n/config';
 const lang = 'zh';
-
-const facilities = [
-  { name: '7条GMP生产线', desc: '制药级生产标准' },
-  { name: '24,000平方米', desc: '现代化生产与仓储设施' },
-  { name: '20,000+吨产能', desc: '年原料加工能力' },
-  { name: '先进实验室', desc: '内部质检与研发中心' },
+const cards = [
+  {
+    "title": "01 / 明确生产路径",
+    "description": "索取生产场地地址、植物来源、使用部位及产品对应的工艺概述。确认适用的提取溶剂、载体或其他添加成分。",
+    "href": ""
+  },
+  {
+    "title": "02 / 沟通过程控制",
+    "description": "了解该产品的身份识别、交叉接触、清洁、储存及批次隔离管理方式，并确认可供买家审核的记录。",
+    "href": ""
+  },
+  {
+    "title": "03 / 约定检测方案",
+    "description": "确认检测方法、验收限值、检测责任方及实验室信息。询问检测由场内还是外部实验室完成，不应根据设施介绍推定检测能力。",
+    "href": ""
+  },
+  {
+    "title": "04 / 规划供应商审核",
+    "description": "提供供应商调查表或审核要求。提前确认远程审核或现场访问的可安排情况与条件，再确定计划。",
+    "href": ""
+  }
 ];
 ---
-
-<PageLayout
-  title="生产设施"
-  description="探索振隆药业广州24,000平方米GMP认证生产基地。7条生产线、先进实验室、年加工能力超20,000吨。"
-  lang={lang}
-  heroTitle="生产设施"
-  heroSubtitle="位于中国广州的现代化生产基地"
->
+<PageLayout title="供应与工艺审核" description="明确原料由谁生产、如何供应. 生产设施审核应围绕具体报价产品进行。请确认生产场地、生产企业主体及供应链各方职责。请勿默认目录中的全部原料均为自产或在同一场地生产。" lang={lang} heroTitle="供应与工艺审核" heroSubtitle="明确原料由谁生产、如何供应">
   <section class="section-padding">
     <div class="container-wide">
-      <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
-        {facilities.map((facility) => (
-          <div class="text-center p-6 bg-off-white rounded-xl">
-            <h3 class="text-lg font-semibold text-gray-900">{facility.name}</h3>
-            <p class="mt-2 text-gray-600 text-sm">{facility.desc}</p>
-          </div>
+      <p class="text-lg md:text-xl leading-relaxed text-gray-600 max-w-4xl">生产设施审核应围绕具体报价产品进行。请确认生产场地、生产企业主体及供应链各方职责。请勿默认目录中的全部原料均为自产或在同一场地生产。</p>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">
+        {cards.map((card) => (
+          <article class="p-7 rounded-xl bg-off-white border border-primary/10 hover:border-primary/30 transition-colors">
+            <h2 class="text-xl font-display font-bold text-gray-900">{card.title}</h2>
+            <p class="mt-4 text-gray-600 leading-relaxed">{card.description}</p>
+            {card.href && <a href={getLocalizedPath(card.href, lang)} class="inline-flex mt-5 text-primary font-semibold hover:underline">查看详情 →</a>}
+          </article>
         ))}
       </div>
-
-      <div class="prose prose-lg max-w-none">
-        <h2 class="text-2xl font-display font-bold text-gray-900 mb-4">生产卓越</h2>
-        <p class="text-gray-600 leading-relaxed">
-          我们的广州生产基地将传统植物提取专业知识与前沿提取技术相结合。每条生产线都经过精心设计，在确保产品质量和纯度的同时，保留植物原料的天然特性。
-        </p>
-
-        <h2 class="text-2xl font-display font-bold text-gray-900 mt-8 mb-4">质量控制</h2>
-        <p class="text-gray-600 leading-relaxed">
-          我们的内部实验室在生产的每个阶段进行严格检测，从原料检验到成品分析。我们采用HPLC、GC等先进分析方法，验证产品的身份、效价和纯度。
-        </p>
-      </div>
+    </div>
+  </section>
+  <section class="bg-primary py-16">
+    <div class="container-wide text-center">
+      <h2 class="text-2xl md:text-3xl font-display font-bold text-white">开始产品与文件审核</h2>
+      <p class="mt-4 text-white/80 max-w-2xl mx-auto">请提供原料、规格、应用、目的地及预计数量，并说明样品与文件要求。可供情况及文件范围按具体产品确认。</p>
+      <a href={getLocalizedPath('/request-quote', lang)} class="inline-flex mt-7 px-7 py-3 bg-accent text-white rounded-lg font-semibold hover:bg-accent-dark transition-colors">申请样品与 COA</a>
+      <a href={getLocalizedPath('/products', lang)} class="inline-flex mt-7 ml-4 px-7 py-3 border border-white/50 text-white rounded-lg font-semibold hover:bg-white/10">浏览原料</a>
     </div>
   </section>
 </PageLayout>

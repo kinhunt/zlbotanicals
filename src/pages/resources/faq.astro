@@ -1,33 +1,7 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
-import { getLocalizedPath } from '../../i18n/config';
-
-const lang = 'en';
-
-const faqs = [
-  { q: 'What is your minimum order quantity (MOQ)?', a: 'MOQ varies by product. For samples, we can provide 100g-1kg. For production orders, typical MOQ is 25-100kg depending on the product.' },
-  { q: 'Do you provide samples?', a: 'Yes, we provide samples for evaluation. Sample fees may apply and are typically credited toward your first order.' },
-  { q: 'What certifications do you have?', a: 'We hold GMP, ISO 9001, ISO 22000, and HACCP certifications. Select products also have Halal and Kosher certification.' },
-  { q: 'What is your lead time?', a: 'Standard products typically ship within 2-3 weeks. Custom formulations may require 4-6 weeks depending on specifications.' },
-  { q: 'Do you offer custom formulations?', a: 'Yes, our R&D team can develop custom extracts, blends, and formulations to meet your specific requirements.' },
-  { q: 'What payment terms do you accept?', a: 'We accept T/T, L/C, and other payment methods. Terms are discussed during the quotation process.' },
-];
+const faqs = [{"q": "What is the minimum order quantity?", "a": "MOQ depends on the ingredient, grade, packaging and current supply. Share your first order quantity and annual estimate; obtain written confirmation before ordering."}, {"q": "Can I request a sample?", "a": "Submit your evaluation requirements. Sample availability, quantity, fees, freight and any credit against a later order must be agreed individually."}, {"q": "Which certifications are available?", "a": "Specify the product, required standard and market. Copies are subject to availability. Verify the entity, production site, scope and validity; do not assume a certification covers every product."}, {"q": "How is delivery timing established?", "a": "Timing depends on grade, quantity, stock or production scheduling, testing and destination. Share your desired arrival date; confirm dispatch and transit assumptions separately in writing."}, {"q": "How do I request a COA or TDS?", "a": "Choose the document request type in the inquiry form and provide product, grade and batch if known. Review methods and acceptance limits; documents are subject to availability."}, {"q": "Can I request custom specifications or payment terms?", "a": "Send the target specification, application, market and commercial requirements for feasibility review. Capability, pricing, payment methods and trade terms require written agreement."}, {"q": "What happens after I submit?", "a": "The form is processed by third-party FormSubmit. This site does not verify email receipt or promise a response time. You can instead email info@zlbotanicals.com directly."}];
 ---
-
-<PageLayout title="FAQ" lang={lang} heroTitle="Frequently Asked Questions" heroSubtitle="Answers to common questions">
-  <section class="section-padding">
-    <div class="container-wide max-w-3xl">
-      <div class="space-y-6">
-        {faqs.map((faq) => (
-          <div class="p-6 bg-off-white rounded-xl">
-            <h3 class="font-semibold text-gray-900">{faq.q}</h3>
-            <p class="text-gray-600 mt-2">{faq.a}</p>
-          </div>
-        ))}
-      </div>
-      <p class="mt-8 text-center text-gray-600">
-        Have more questions? <a href={getLocalizedPath('/contact', lang)} class="text-primary font-medium hover:underline">Contact us</a>
-      </p>
-    </div>
-  </section>
+<PageLayout title="Purchasing FAQ" lang="en" heroTitle="Purchasing FAQ" heroSubtitle="What to confirm before purchase">
+<section class="section-padding"><div class="container-wide max-w-3xl"><div class="space-y-6">{faqs.map(faq => (<div class="p-6 bg-off-white rounded-xl"><h2 class="font-semibold text-gray-900">{faq.q}</h2><p class="text-gray-600 mt-2">{faq.a}</p></div>))}</div><a href="/request-quote" class="inline-block mt-8 px-6 py-3 bg-primary text-white rounded-lg">Send purchasing requirements</a></div></section>
 </PageLayout>

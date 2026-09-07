@@ -1,108 +1,38 @@
 ---
-name: White Peach Oolong Zero-Sugar Sparkling Water
+name: "White Peach Tea Sparkling Beverage Concept"
 industry: beverages
 lang: en
-description: A zero-sugar sparkling water blending white peach sweetness with oolong tea elegance, powered by high-purity Mogroside V for clean, sugar-like taste.
+description: "A fruit-and-tea flavor development concept. Decide whether the tea base is oolong or green tea: both can derive from Camellia sinensis, but their processing and sensory profiles are not interchangeable."
 image: /images/solutions/white-peach-sparkling.webp
 ---
 
-## Product Concept
+## Application concept and scope
 
-**White Peach Oolong Zero-Sugar Sparkling Water** — A guilt-free sparkling beverage crafted for health-conscious urban consumers.
+A fruit-and-tea flavor development concept. Decide whether the tea base is oolong or green tea: both can derive from Camellia sinensis, but their processing and sensory profiles are not interchangeable.
 
-- **Target Audience**: Health-aware professionals aged 25-40, seeking "delicious without the calories"
-- **Usage Occasions**: Office refreshment, post-workout hydration, light meal pairing
-- **Positioning**: Zero sugar, zero calories, natural plant-based sweetness, layered tea and fruit notes
+This is an application concept, not a validated commercial formula. It is not an offer of finished-goods manufacturing, a dosage recommendation or a performance guarantee. Ingredient availability, specifications and any technical support scope require written confirmation.
 
----
+## Ingredient selection questions
 
-## Formulation Highlights
+1. Specify peach flavoring versus juice or concentrate, and account for sugar and solids. A fruit concentrate does not automatically fit a zero-sugar brief.
 
-### Core Sweetening System: High-Purity Mogroside V Extract
+2. Use the green tea page as a composition checklist, not evidence that green tea is oolong or that an oolong grade is stocked. Confirm the actual tea source.
 
-Unlike conventional monk fruit extracts (mixed mogrosides with bitter aftertaste), we use **membrane separation purification technology** to produce Mogroside V:
+3. Screen monk fruit for sweetness and aftertaste in the actual tea base. Any licorice option requires identity, glycyrrhizin exposure and regulatory review before inclusion.
 
-| Specification | Conventional | ZL Botanicals |
-|--------------|--------------|---------------|
-| Mogroside V Content | 25-40% | **≥50%** |
-| Bitter Aftertaste | Noticeable | Nearly None |
-| Sweetness Quality | Average | Sugar-like |
-| Solubility | Requires heating | Instant at room temp |
+4. Compare aroma loss, haze, sediment and carbonation retention after processing and storage. A process specialist must establish the safe filling and preservation system.
 
-**Why High-Purity Mogroside V?**
+## Development gates before scale-up
 
-Monk fruit contains multiple sweet glycosides (I, II, III, IV, V). **Mogroside V offers the highest sweetness (300× sucrose) with the cleanest taste profile.** Lower-purity extracts containing Mogroside II and III create the "strange aftertaste" that consumers complain about in many zero-sugar beverages.
+- **Brief:** Confirm destination market, product category, intended users, sensory target and ingredient exclusions. Check legal eligibility for each exact material before pilot work.
+- **Raw materials:** Request specifications, batch-specific COAs, full carrier composition, traceability and a risk-based contaminant panel. Agree methods and acceptance criteria, not just marker percentages.
+- **Pilot:** Document actual processing conditions and compare controls with candidate ingredients. The observations above are proposed tests, not results already obtained.
+- **Release:** The finished-product manufacturer and qualified specialists must establish food safety, stability, packaging compatibility, nutrition labeling and any claim substantiation. An ingredient COA cannot validate the finished product.
 
-### Flavor Modification: Glycyrrhizic Acid Synergy
+## Prepare a technical inquiry
 
-When used alone, Mogroside V delivers sweetness quickly but fades fast. We formulate with trace amounts of **Monoammonium Glycyrrhizinate** (only 0.001%) to leverage its "sweetness extension" property:
+Send the target format, market, equipment constraints, sample requirements and quality priorities. Ask which documents and samples can be supplied; confirm services, lead time and commercial terms separately.
 
-- Extends sweetness duration to match sucrose's taste curve
-- Masks the subtle metallic note of Mogroside V
-- Enhances overall flavor roundness
+Related ingredient briefs: [Monk Fruit](/products/monk-fruit) · [Green Tea](/products/green-tea) · [Licorice Root](/products/licorice-root).
 
-### Tea Base: Oolong Tea Extract
-
-Using Fujian Tieguanyin as source material, our **Oolong Tea Extract** preserves tea polyphenols (EGCG ≥15%) while controlling caffeine:
-
-- Tea polyphenols: Antioxidant functional claim support
-- Low caffeine (<2%): Suitable for all-day consumption
-- Natural tea aroma: Creates flavor complexity with white peach
-
----
-
-## Recommended Formula
-
-**Reference Formula for 500ml Finished Product**
-
-| Ingredient | Dosage | Function |
-|-----------|--------|----------|
-| Purified Water | To 500ml | Base |
-| Carbon Dioxide | 3.5-4.0 volumes | Carbonation |
-| Mogroside V Extract (50%) | 0.015% (75mg) | Primary sweetener |
-| Monoammonium Glycyrrhizinate | 0.001% (5mg) | Sweetness modifier |
-| Oolong Tea Extract | 0.08% (400mg) | Tea flavor base |
-| White Peach Concentrate | 0.5% (2.5g) | Fruit flavor |
-| Citric Acid | 0.05% (250mg) | Acidity adjustment |
-| Sodium Citrate | 0.02% (100mg) | Buffer stabilizer |
-
-**Nutrition Facts (per 100ml)**
-- Energy: 0 kJ
-- Carbohydrates: 0 g
-- Sugars: 0 g
-
-### Process Guidelines
-
-1. **Dissolution Sequence**: Dissolve Mogroside V and glycyrrhizic acid in warm water (40-50°C) first, then blend with other ingredients
-2. **Tea Extract Handling**: Use instant-soluble tea powder to prevent sedimentation
-3. **Carbonation Timing**: Carbonate only after all ingredients are mixed and filtered
-4. **Sterilization**: UHT recommended to preserve fresh flavor profile
-
----
-
-## Value We Provide
-
-### Ingredient Specifications
-
-| Product | Recommended Grade | Features |
-|---------|------------------|----------|
-| Mogroside V Extract | MF-V50 / MF-V55 | High purity, clean taste |
-| Monoammonium Glycyrrhizinate | GL-MAG98 | Food grade, highly soluble |
-| Oolong Tea Extract | OT-P40 | 40% polyphenols, low caffeine |
-
-### Technical Services
-
-- **Custom Formulation**: Adjust sweetness intensity and tea character to your preference
-- **Stability Testing**: 6-month accelerated stability data available
-- **Flavor Extension**: Expand to lime, grapefruit, lychee variants
-- **Cost Optimization**: Volume-based ingredient combinations for best ROI
-
-### Regulatory Support
-
-- Complete testing reports (pesticide residue, heavy metals, microbial)
-- Technical documentation for product registration
-- Compliance with FDA GRAS and EU food additive regulations
-
----
-
-> Ready to develop your own zero-sugar sparkling water line? [Contact us](/contact) for samples and detailed technical proposals.
+[Discuss an ingredient brief](/contact).

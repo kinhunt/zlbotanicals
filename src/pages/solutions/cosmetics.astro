@@ -1,30 +1,13 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
-import { getLocalizedPath } from '../../i18n/config';
-
-const lang = 'en';
-
-const products = [
-  'Green Tea Extract', 'Licorice Extract', 'Bilberry Extract',
-  'Centella Asiatica Extract', 'Chamomile Extract', 'Aloe Vera Extract'
-];
 ---
-
-<PageLayout title="Cosmetics" lang={lang} heroTitle="Cosmetics & Beauty" heroSubtitle="Natural botanical actives for personal care">
-  <section class="section-padding">
-    <div class="container-wide">
-      <div class="max-w-3xl mb-12">
-        <p class="text-xl text-gray-600 leading-relaxed">
-          Our botanical extracts provide natural, effective actives for skincare, haircare, and personal care formulations.
-        </p>
-      </div>
-      <h3 class="text-xl font-semibold text-gray-900 mb-4">Popular Products for Cosmetics</h3>
-      <div class="flex flex-wrap gap-3">
-        {products.map((p) => <span class="px-4 py-2 bg-off-white rounded-lg text-gray-700">{p}</span>)}
-      </div>
-      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-8 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">
-        Discuss Your Project
-      </a>
-    </div>
-  </section>
+<PageLayout title="Cosmetics & Personal Care" lang="en" heroTitle="Cosmetics & Personal Care" heroSubtitle="From application conditions to a purchasing specification">
+<section class="section-padding"><div class="container-wide max-w-4xl">
+<p class="text-xl text-gray-600 leading-relaxed mb-10">Select botanical grades against formulation constraints and local cosmetic requirements. Ingredient selection alone does not substantiate finished-product performance claims.</p>
+<h2 class="text-2xl font-display font-bold mb-6">Troubleshooting and validation</h2><div class="space-y-5">
+<div class="p-6 bg-off-white rounded-xl"><h3 class="text-lg font-semibold">Separation or precipitation</h3><p class="mt-2 text-gray-600">Check water/oil phase compatibility, solvent and carrier composition, pH and order of addition. Trial the intended use level in the full emulsion or gel.</p></div>
+<div class="p-6 bg-off-white rounded-xl"><h3 class="text-lg font-semibold">Color, odor or viscosity change</h3><p class="mt-2 text-gray-600">Compare baseline and aged samples under suitable stability conditions in final packaging. Track the extract contribution separately from fragrance and preservatives.</p></div>
+<div class="p-6 bg-off-white rounded-xl"><h3 class="text-lg font-semibold">Safety and documentation gaps</h3><p class="mt-2 text-gray-600">Request composition, relevant impurity limits and available technical information. Finished-product safety, preservation testing and claims assessment remain part of your development process.</p></div>
+</div><div class="mt-10 p-8 bg-primary/5 rounded-xl"><h2 class="text-xl font-semibold">What to include in your brief</h2><p class="mt-3 text-gray-700">Product format, ingredient naming needs, pH, solvent restrictions, use level, process and sales market.</p><p class="mt-3 text-gray-600">Also include the ingredient, first order quantity and documents needed. Grades, samples and documents are subject to availability; certification and regulatory suitability require product- and market-specific review. These are evaluation considerations, not a formulation or suitability guarantee.</p><a href="/request-quote?request=application" class="inline-block mt-5 px-6 py-3 bg-primary text-white rounded-lg">Discuss application requirements</a><a href="/resources/downloads" class="inline-block mt-5 ml-4 text-primary underline">Get the sourcing checklist</a></div>
+</div></section>
 </PageLayout>

@@ -1,39 +1,46 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
-
+import { getLocalizedPath } from '../../i18n/config';
 const lang = 'en';
+const cards = [
+  {
+    "title": "Botanical ingredients for business buyers",
+    "description": "Our catalog brings together botanical extracts and natural ingredients for buyers to compare. Availability, origin and manufacturing arrangements should be confirmed per quotation.",
+    "href": "/products"
+  },
+  {
+    "title": "A practical basis for cooperation",
+    "description": "Tell us your application, target specification and destination market. These details guide the discussion of samples, supporting documents and supply terms.",
+    "href": "/request-quote"
+  },
+  {
+    "title": "Qualify the product, not just the company",
+    "description": "Review the proposed material and manufacturing site, evaluate a sample and agree acceptance criteria before a bulk order.",
+    "href": "/quality"
+  }
+];
 ---
-
-<PageLayout
-  title="Our Story"
-  description="From a local herbal processing facility in 1986 to a global botanical extracts supplier. Discover the ZL Botanicals journey of growth, innovation, and excellence."
-  lang={lang}
-  heroTitle="Our Story"
-  heroSubtitle="From humble beginnings to global reach"
->
+<PageLayout title="Our Story" description="Roots in Guangzhou, since 1986. Our company history begins in 1986 in Guangzhou. That history provides context; each purchasing decision still depends on the identity, specification and documentation of the ingredient being offered." lang={lang} heroTitle="Our Story" heroSubtitle="Roots in Guangzhou, since 1986">
   <section class="section-padding">
-    <div class="container-wide max-w-4xl">
-      <div class="prose prose-lg max-w-none">
-        <h2 class="text-2xl font-display font-bold text-gray-900 mt-8 mb-4">The Beginning (1986)</h2>
-        <p class="text-gray-600 leading-relaxed">
-          In the lush hills of Zhenlong township, Guangzhou, where medicinal herbs have been cultivated for centuries, ZL Botanicals was officially established. Our founders combined generations of herbal knowledge with a vision to share China's botanical treasures with the world.
-        </p>
-
-        <h2 class="text-2xl font-display font-bold text-gray-900 mt-8 mb-4">Growth & Modernization (1990s-2000s)</h2>
-        <p class="text-gray-600 leading-relaxed">
-          We invested heavily in modern extraction technology while preserving traditional knowledge. Our facility expanded to accommodate growing demand, and we achieved our first international quality certifications.
-        </p>
-
-        <h2 class="text-2xl font-display font-bold text-gray-900 mt-8 mb-4">Global Expansion (2007-Present)</h2>
-        <p class="text-gray-600 leading-relaxed">
-          Renamed ZL Botanicals, we expanded our vision to serve the global market. Today, we partner with companies across 50+ countries, delivering premium botanical ingredients for the food, beverage, nutraceutical, and cosmetic industries.
-        </p>
-
-        <h2 class="text-2xl font-display font-bold text-gray-900 mt-8 mb-4">Today</h2>
-        <p class="text-gray-600 leading-relaxed">
-          With 7 GMP-certified production lines, 24,000 m² of facility space, and the capacity to process over 20,000 tons of raw materials annually, we continue our mission: bringing the best of nature to the world.
-        </p>
+    <div class="container-wide">
+      <p class="text-lg md:text-xl leading-relaxed text-gray-600 max-w-4xl">Our company history begins in 1986 in Guangzhou. That history provides context; each purchasing decision still depends on the identity, specification and documentation of the ingredient being offered.</p>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">
+        {cards.map((card) => (
+          <article class="p-7 rounded-xl bg-off-white border border-primary/10 hover:border-primary/30 transition-colors">
+            <h2 class="text-xl font-display font-bold text-gray-900">{card.title}</h2>
+            <p class="mt-4 text-gray-600 leading-relaxed">{card.description}</p>
+            {card.href && <a href={getLocalizedPath(card.href, lang)} class="inline-flex mt-5 text-primary font-semibold hover:underline">Explore further →</a>}
+          </article>
+        ))}
       </div>
+    </div>
+  </section>
+  <section class="bg-primary py-16">
+    <div class="container-wide text-center">
+      <h2 class="text-2xl md:text-3xl font-display font-bold text-white">Start your product & document review</h2>
+      <p class="mt-4 text-white/80 max-w-2xl mx-auto">Share the ingredient, specification, application, destination and expected quantity. Include your sample and document requirements; availability is confirmed per product.</p>
+      <a href={getLocalizedPath('/request-quote', lang)} class="inline-flex mt-7 px-7 py-3 bg-accent text-white rounded-lg font-semibold hover:bg-accent-dark transition-colors">Request Samples & COA</a>
+      <a href={getLocalizedPath('/products', lang)} class="inline-flex mt-7 ml-4 px-7 py-3 border border-white/50 text-white rounded-lg font-semibold hover:bg-white/10">Explore Ingredients</a>
     </div>
   </section>
 </PageLayout>

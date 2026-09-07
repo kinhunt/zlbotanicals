@@ -1,33 +1,7 @@
 ---
 import PageLayout from '../../../layouts/PageLayout.astro';
-import { getLocalizedPath } from '../../../i18n/config';
-
-const lang = 'zh';
-
-const faqs = [
-  { q: '你们的最小起订量(MOQ)是多少？', a: 'MOQ因产品而异。样品可提供100g-1kg。生产订单的典型MOQ为25-100kg，具体取决于产品。' },
-  { q: '你们提供样品吗？', a: '是的，我们提供评估样品。可能收取样品费，通常会在首次订单中抵扣。' },
-  { q: '你们有哪些认证？', a: '我们持有GMP、ISO 9001、ISO 22000和HACCP认证。部分产品还有清真和犹太洁食认证。' },
-  { q: '交货期是多久？', a: '标准产品通常2-3周内发货。定制配方可能需要4-6周，具体取决于规格。' },
-  { q: '你们提供定制配方吗？', a: '是的，我们的研发团队可以根据您的具体要求开发定制提取物、复配和配方。' },
-  { q: '你们接受哪些付款方式？', a: '我们接受电汇(T/T)、信用证(L/C)和其他付款方式。具体条款在报价过程中商议。' },
-];
+const faqs = [{"q": "起订量是多少？", "a": "起订量取决于原料、规格、包装及当前供应情况。请告知首单数量和预计年用量，并在下单前取得书面确认。"}, {"q": "可以申请样品吗？", "a": "可提交评估需求。样品可用性、数量、费用、运费及是否抵扣货款均需单独确认，不作统一承诺。"}, {"q": "可以提供哪些认证？", "a": "请说明产品、所需认证和目标市场。文件以实际可提供情况为准，请核对发证主体、生产场地、产品范围及有效期；不可假定全部产品均覆盖某项认证。"}, {"q": "交期如何确定？", "a": "需结合规格、数量、库存或生产安排、检测及目的地评估。请提供期望到货时间，发货与运输时间应在采购前分别书面确认。"}, {"q": "如何索取 COA 和 TDS？", "a": "通过询盘表单选择文件类型，注明产品、规格及批号（如已知）。请核对检测方法与验收限值；文件以实际可提供情况为准。"}, {"q": "是否支持定制及特殊付款条件？", "a": "请提交目标规格、用途、目标市场和商务要求，以便评估可行性。能力、价格、付款方式及贸易条款均须书面确认。"}, {"q": "提交表单后会怎样？", "a": "表单交由第三方 FormSubmit 处理，本站不确认邮件已送达，也不承诺回复时限。如需其他方式，请直接发送邮件至 info@zlbotanicals.com。"}];
 ---
-
-<PageLayout title="常见问题" lang={lang} heroTitle="常见问题" heroSubtitle="常见问题解答">
-  <section class="section-padding">
-    <div class="container-wide max-w-3xl">
-      <div class="space-y-6">
-        {faqs.map((faq) => (
-          <div class="p-6 bg-off-white rounded-xl">
-            <h3 class="font-semibold text-gray-900">{faq.q}</h3>
-            <p class="text-gray-600 mt-2">{faq.a}</p>
-          </div>
-        ))}
-      </div>
-      <p class="mt-8 text-center text-gray-600">
-        还有更多问题？<a href={getLocalizedPath('/contact', lang)} class="text-primary font-medium hover:underline">联系我们</a>
-      </p>
-    </div>
-  </section>
+<PageLayout title="采购常见问题" lang="zh" heroTitle="采购常见问题" heroSubtitle="采购前需要确认的事项">
+<section class="section-padding"><div class="container-wide max-w-3xl"><div class="space-y-6">{faqs.map(faq => (<div class="p-6 bg-off-white rounded-xl"><h2 class="font-semibold text-gray-900">{faq.q}</h2><p class="text-gray-600 mt-2">{faq.a}</p></div>))}</div><a href="/zh/request-quote" class="inline-block mt-8 px-6 py-3 bg-primary text-white rounded-lg">提交采购需求</a></div></section>
 </PageLayout>

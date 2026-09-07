@@ -2,44 +2,41 @@
 name: Turmeric Extract
 latinName: Curcuma longa
 lang: en
-description: Turmeric extract is rich in curcumin, a natural anti-inflammatory and antioxidant compound widely used in nutraceuticals and functional foods.
+description: "Turmeric extract sourcing, covering curcuminoid profiles, carriers and dispersion testing for powders and beverages."
 image: /images/products/turmeric.webp
 solutions:
   - liver-support-gummy
   - turmeric-golden-latte
 ---
 
-## Overview
+## Material identity and selection
 
-Turmeric (*Curcuma longa*) is a plant in the ginger family, with its rhizome used as a traditional spice and medicine. The main active components are **curcumin** and its analogs, giving turmeric its distinctive golden-yellow color.
+Rhizome extract of *Curcuma longa*. Turmeric powder, concentrated curcuminoids and carrier-based dispersions are different purchasing materials. Define color, flavor and physical format before comparing assays.
 
-## Key Active Compounds
+## Indicative specification brief
 
-| Compound | Content Range | Characteristics |
-|----------|--------------|-----------------|
-| Total Curcuminoids | 10-95% | Anti-inflammatory, antioxidant |
-| Curcumin | 70-80%* | Primary active component |
-| Demethoxycurcumin | 15-20%* | Secondary active component |
-| Bisdemethoxycurcumin | 2-5%* | Secondary active component |
+The following specification topics are indicative, not released specifications, stock availability or actual test results. Grade, numerical limits and methods require written confirmation before purchase.
 
-*Percentage of total curcuminoids
+Request total curcuminoids plus curcumin, demethoxycurcumin and bisdemethoxycurcumin results and the chromatographic method. Confirm reporting basis and carriers; total curcuminoids should not be relabeled as pure curcumin.
 
-## Applications
+For a water-dispersible brief, obtain the full carrier/emulsifier declaration and a defined dispersion test. Use a risk-based panel for identity, unauthorized colorants, elemental contaminants including lead, and solvent residues.
 
-- **Nutraceuticals**: Joint health, anti-inflammatory formulas
-- **Functional Foods**: Health food ingredients
-- **Beverages**: Turmeric lattes, functional drinks
-- **Cosmetics**: Antioxidant, brightening products
+## Application development checks
 
-## Product Specifications
+Curcuminoids have limited water solubility. Test wetting, clumping, sediment and staining in the intended latte or premix; dispersion is not true dissolution. Compare the actual milk or plant base, heat exposure, light and packaging, tracking marker retention as well as appearance.
 
-- Curcuminoids 10%, 20%, 50%, 95%
-- Water-soluble curcumin
-- High bioavailability formulations
+Do not infer improved absorption from particle size, water dispersibility or a carrier system. Such claims need evidence on the exact material and separate regulatory review. Confirm intended-use eligibility before commercialization.
 
-## Quality Standards
+## Documents to request before approval
 
-Our turmeric extracts comply with:
-- Chinese Pharmacopoeia standards
-- USP standards
-- Indian Pharmacopoeia standards
+- A current specification and batch-specific COA tied to the offered lot, including methods, units and acceptance criteria. Distinguish measured from calculated results.
+- Identity, plant part, extraction process and full composition, including carriers and processing aids.
+- A risk-based contaminant panel for relevant pesticides, elemental contaminants, microbiology and residual solvents, with limits agreed for the intended market.
+- Allergen and traceability statements. If certification is required, verify issuer, site, scope and expiry for the exact material; this page does not imply blanket certification.
+- Written packaging, storage, retest or shelf-life basis, sample-to-production equivalence, lead time and change-notification terms.
+
+## Send a useful sourcing brief
+
+Share destination market, application format, intended process, marker priorities, exclusions, sample needs and expected order scale. Request available documentation before trial approval; supply availability and testing scope need confirmation.
+
+[Discuss ingredient sourcing](/contact).

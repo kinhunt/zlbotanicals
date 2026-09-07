@@ -1,39 +1,46 @@
 ---
 import PageLayout from '../../../layouts/PageLayout.astro';
-
+import { getLocalizedPath } from '../../../i18n/config';
 const lang = 'zh';
+const cards = [
+  {
+    "title": "面向企业的植物原料",
+    "description": "目录汇集植物提取物与天然原料，方便买家比较。可供情况、原产地及生产安排应按具体报价确认。",
+    "href": "/products"
+  },
+  {
+    "title": "以实际需求建立合作",
+    "description": "请提供应用方向、目标规格及目的地市场，以便讨论样品、支持文件及供货条款。",
+    "href": "/request-quote"
+  },
+  {
+    "title": "审核公司，更要审核产品",
+    "description": "大货采购前，请核对拟供原料及生产场地，完成样品评估并约定验收标准。",
+    "href": "/quality"
+  }
+];
 ---
-
-<PageLayout
-  title="品牌故事"
-  description="从1986年的本地草药加工厂到全球植物提取物供应商。了解振隆药业的成长、创新与卓越之路。"
-  lang={lang}
-  heroTitle="品牌故事"
-  heroSubtitle="从本土企业到全球供应商的发展历程"
->
+<PageLayout title="公司历史" description="始于1986年，根植广州. 我们的公司历史始于1986年的广州。历史提供合作背景，而具体采购仍应以拟供原料的身份、规格及文件审核为基础。" lang={lang} heroTitle="公司历史" heroSubtitle="始于1986年，根植广州">
   <section class="section-padding">
-    <div class="container-wide max-w-4xl">
-      <div class="prose prose-lg max-w-none">
-        <h2 class="text-2xl font-display font-bold text-gray-900 mt-8 mb-4">创业初期（1986年）</h2>
-        <p class="text-gray-600 leading-relaxed">
-          在广州镇龙这片中药材种植历史悠久的土地上，振隆药业正式成立。我们的创始人将世代相传的草药知识与现代化愿景相结合，立志将中国的植物精华带向世界。
-        </p>
-
-        <h2 class="text-2xl font-display font-bold text-gray-900 mt-8 mb-4">成长与现代化（1990年代-2000年代）</h2>
-        <p class="text-gray-600 leading-relaxed">
-          我们大力投资现代提取技术，同时传承传统智慧。随着需求的增长，设施不断扩建，并取得了首批国际质量认证。
-        </p>
-
-        <h2 class="text-2xl font-display font-bold text-gray-900 mt-8 mb-4">走向全球（2007年至今）</h2>
-        <p class="text-gray-600 leading-relaxed">
-          更名为振隆药业后，我们将目光投向全球市场。如今，我们与50多个国家的企业建立合作关系，为食品、饮料、保健品和化妆品行业提供优质植物原料。
-        </p>
-
-        <h2 class="text-2xl font-display font-bold text-gray-900 mt-8 mb-4">今天</h2>
-        <p class="text-gray-600 leading-relaxed">
-          凭借7条GMP认证生产线、24,000平方米的生产基地，以及每年超过20,000吨的原料加工能力，我们持续践行使命：将自然的精华带给世界。
-        </p>
+    <div class="container-wide">
+      <p class="text-lg md:text-xl leading-relaxed text-gray-600 max-w-4xl">我们的公司历史始于1986年的广州。历史提供合作背景，而具体采购仍应以拟供原料的身份、规格及文件审核为基础。</p>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">
+        {cards.map((card) => (
+          <article class="p-7 rounded-xl bg-off-white border border-primary/10 hover:border-primary/30 transition-colors">
+            <h2 class="text-xl font-display font-bold text-gray-900">{card.title}</h2>
+            <p class="mt-4 text-gray-600 leading-relaxed">{card.description}</p>
+            {card.href && <a href={getLocalizedPath(card.href, lang)} class="inline-flex mt-5 text-primary font-semibold hover:underline">查看详情 →</a>}
+          </article>
+        ))}
       </div>
+    </div>
+  </section>
+  <section class="bg-primary py-16">
+    <div class="container-wide text-center">
+      <h2 class="text-2xl md:text-3xl font-display font-bold text-white">开始产品与文件审核</h2>
+      <p class="mt-4 text-white/80 max-w-2xl mx-auto">请提供原料、规格、应用、目的地及预计数量，并说明样品与文件要求。可供情况及文件范围按具体产品确认。</p>
+      <a href={getLocalizedPath('/request-quote', lang)} class="inline-flex mt-7 px-7 py-3 bg-accent text-white rounded-lg font-semibold hover:bg-accent-dark transition-colors">申请样品与 COA</a>
+      <a href={getLocalizedPath('/products', lang)} class="inline-flex mt-7 ml-4 px-7 py-3 border border-white/50 text-white rounded-lg font-semibold hover:bg-white/10">浏览原料</a>
     </div>
   </section>
 </PageLayout>

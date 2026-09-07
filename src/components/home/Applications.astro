@@ -38,13 +38,13 @@ const industryLabels: Record<string, Record<string, string>> = {
 const texts = {
   en: {
     subtitle: 'Solutions',
-    title: 'Featured Product Solutions',
+    title: 'Explore by Application',
     viewDetails: 'View Details',
     viewAll: 'View All Solutions',
   },
   zh: {
     subtitle: '解决方案',
-    title: '精选产品方案',
+    title: '按应用方向筛选',
     viewDetails: '查看详情',
     viewAll: '查看全部方案',
   },
@@ -74,6 +74,7 @@ const solutionsPath = lang === 'zh' ? '/zh/solutions' : '/solutions';
         </a>
       </div>
 
+      <p class="text-white/70 max-w-3xl mb-8">{lang === 'zh' ? '从配方场景寻找原料方向。具体适用性取决于规格、用量、工艺及目标市场法规，请通过样品与合规审核确认。' : 'Find a starting point for your formulation. Suitability depends on specification, dosage, processing and destination market requirements; confirm through sample evaluation and regulatory review.'}</p>
       <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
         {latestSolutions.map((solution) => (
           <article class="group bg-gray-800 rounded-xl overflow-hidden hover:bg-gray-700 transition-colors">

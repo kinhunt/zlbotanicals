@@ -1,35 +1,26 @@
 ---
+import { getCollection } from 'astro:content';
 import PageLayout from '../../layouts/PageLayout.astro';
-import ProductCard from '../../components/products/ProductCard.astro';
-
+import { getLocalizedPath } from '../../i18n/config';
 const lang = 'en';
-
-const products = [
-  { name: 'Licorice Root Extract', latinName: 'Glycyrrhiza glabra', category: 'Extract', specification: '20% Glycyrrhizic Acid', applications: ['Beverage', 'Nutraceuticals', 'Cosmetics'], href: '#' },
-  { name: 'Ginseng Extract', latinName: 'Panax ginseng', category: 'Extract', specification: '10% Ginsenosides', applications: ['Nutraceuticals', 'Beverage'], href: '#' },
-  { name: 'Green Tea Extract', latinName: 'Camellia sinensis', category: 'Extract', specification: '95% Polyphenols', applications: ['Beverage', 'Cosmetics'], href: '#' },
-  { name: 'Turmeric Extract', latinName: 'Curcuma longa', category: 'Extract', specification: '95% Curcuminoids', applications: ['Nutraceuticals', 'Food'], href: '#' },
-  { name: 'Ginkgo Biloba Extract', latinName: 'Ginkgo biloba', category: 'Extract', specification: '24% Flavonoids', applications: ['Nutraceuticals'], href: '#' },
-  { name: 'Echinacea Extract', latinName: 'Echinacea purpurea', category: 'Extract', specification: '4% Polyphenols', applications: ['Nutraceuticals'], href: '#' },
-  { name: 'Milk Thistle Extract', latinName: 'Silybum marianum', category: 'Extract', specification: '80% Silymarin', applications: ['Nutraceuticals'], href: '#' },
-  { name: 'Rhodiola Extract', latinName: 'Rhodiola rosea', category: 'Extract', specification: '3% Rosavins', applications: ['Nutraceuticals', 'Beverage'], href: '#' },
-  { name: 'Bilberry Extract', latinName: 'Vaccinium myrtillus', category: 'Extract', specification: '25% Anthocyanins', applications: ['Nutraceuticals', 'Cosmetics'], href: '#' },
-];
+const products = await getCollection('products', ({ data }) => data.lang === lang && !data.draft);
 ---
-
-<PageLayout
-  title="Botanical Extracts"
-  lang={lang}
-  heroTitle="Botanical Extracts"
-  heroSubtitle="Standardized plant extracts with guaranteed active compound levels"
->
+<PageLayout title="Botanical Extracts" description="Start with ingredient profiles, then confirm your procurement requirements" lang={lang} heroTitle="Botanical Extracts" heroSubtitle="Start with ingredient profiles, then confirm your procurement requirements">
   <section class="section-padding">
     <div class="container-wide">
+      <p class="max-w-3xl text-lg text-gray-600 mb-10">These published ingredient profiles are a starting point, not a stock list or confirmed sales specification. Availability, assay targets, test methods and market suitability require written confirmation for each inquiry.</p>
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         {products.map((product) => (
-          <ProductCard {...product} lang={lang} />
+          <a href={getLocalizedPath(`/products/${product.slug.replace(`${lang}/`, '')}`, lang)} class="block p-6 rounded-xl bg-off-white hover:shadow-md focus-visible:outline-2 focus-visible:outline-primary">
+            <h2 class="text-xl font-semibold text-gray-900">{product.data.name}</h2>
+            {product.data.latinName && <p class="mt-2 italic text-gray-600">{product.data.latinName}</p>}
+            {product.data.description && <p class="mt-3 text-gray-600">{product.data.description}</p>}
+            <span class="block mt-4 text-primary font-medium">Read ingredient profile →</span>
+          </a>
         ))}
       </div>
+      {products.length === 0 && <p>No ingredient profiles are currently published. Please email your inquiry.</p>}
+      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-10 px-6 py-3 rounded-lg bg-primary text-white">Discuss sourcing requirements</a>
     </div>
   </section>
 </PageLayout>

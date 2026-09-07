@@ -1,35 +1,26 @@
 ---
+import { getCollection } from 'astro:content';
 import PageLayout from '../../../layouts/PageLayout.astro';
-import ProductCard from '../../../components/products/ProductCard.astro';
-
+import { getLocalizedPath } from '../../../i18n/config';
 const lang = 'zh';
-
-const products = [
-  { name: '甘草提取物', latinName: 'Glycyrrhiza glabra', category: '提取物', specification: '20% 甘草酸', applications: ['饮料', '保健品', '化妆品'], href: '#' },
-  { name: '人参提取物', latinName: 'Panax ginseng', category: '提取物', specification: '10% 人参皂苷', applications: ['保健品', '饮料'], href: '#' },
-  { name: '绿茶提取物', latinName: 'Camellia sinensis', category: '提取物', specification: '95% 茶多酚', applications: ['饮料', '化妆品'], href: '#' },
-  { name: '姜黄提取物', latinName: 'Curcuma longa', category: '提取物', specification: '95% 姜黄素', applications: ['保健品', '食品'], href: '#' },
-  { name: '银杏叶提取物', latinName: 'Ginkgo biloba', category: '提取物', specification: '24% 黄酮', applications: ['保健品'], href: '#' },
-  { name: '紫锥菊提取物', latinName: 'Echinacea purpurea', category: '提取物', specification: '4% 多酚', applications: ['保健品'], href: '#' },
-  { name: '水飞蓟提取物', latinName: 'Silybum marianum', category: '提取物', specification: '80% 水飞蓟素', applications: ['保健品'], href: '#' },
-  { name: '红景天提取物', latinName: 'Rhodiola rosea', category: '提取物', specification: '3% 红景天苷', applications: ['保健品', '饮料'], href: '#' },
-  { name: '越橘提取物', latinName: 'Vaccinium myrtillus', category: '提取物', specification: '25% 花青素', applications: ['保健品', '化妆品'], href: '#' },
-];
+const products = await getCollection('products', ({ data }) => data.lang === lang && !data.draft);
 ---
-
-<PageLayout
-  title="植物提取物"
-  lang={lang}
-  heroTitle="植物提取物"
-  heroSubtitle="标准化植物提取物，活性成分含量稳定"
->
+<PageLayout title="植物提取物" description="从原料资料开始，确认采购与应用要求" lang={lang} heroTitle="植物提取物" heroSubtitle="从原料资料开始，确认采购与应用要求">
   <section class="section-padding">
     <div class="container-wide">
+      <p class="max-w-3xl text-lg text-gray-600 mb-10">以下链接来自本站已发布的原料资料，不代表现货目录或已确认的销售规格。供应情况、指标、检测方法及适用市场需逐项书面确认。</p>
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         {products.map((product) => (
-          <ProductCard {...product} lang={lang} />
+          <a href={getLocalizedPath(`/products/${product.slug.replace(`${lang}/`, '')}`, lang)} class="block p-6 rounded-xl bg-off-white hover:shadow-md focus-visible:outline-2 focus-visible:outline-primary">
+            <h2 class="text-xl font-semibold text-gray-900">{product.data.name}</h2>
+            {product.data.latinName && <p class="mt-2 italic text-gray-600">{product.data.latinName}</p>}
+            {product.data.description && <p class="mt-3 text-gray-600">{product.data.description}</p>}
+            <span class="block mt-4 text-primary font-medium">查看原料资料 →</span>
+          </a>
         ))}
       </div>
+      {products.length === 0 && <p>暂无已发布的原料资料，请通过邮箱咨询。</p>}
+      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-10 px-6 py-3 rounded-lg bg-primary text-white">提交采购需求</a>
     </div>
   </section>
 </PageLayout>

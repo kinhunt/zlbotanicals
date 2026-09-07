@@ -2,90 +2,27 @@
 import { type Language, getLocalizedPath } from '../../i18n/config';
 import { useTranslations } from '../../i18n/utils';
 import SectionHeader from '../common/SectionHeader.astro';
-import { Building2 } from '@lucide/astro';
-
-interface Props {
-  lang: Language;
-}
-
+interface Props { lang: Language; }
 const { lang } = Astro.props;
 const t = useTranslations(lang);
+const zh = lang === 'zh';
 ---
-
 <section class="section-padding">
-  <div class="container-wide">
-    <div class="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
-      <!-- Image -->
-      <div class="relative">
-        <div class="aspect-[4/3] rounded-xl overflow-hidden bg-gradient-to-br from-primary/10 via-cream to-primary/5 relative">
-          <img
-            src="/images/hero/lab-research.webp"
-            alt={lang === 'zh' ? '振隆药业生产设施' : 'ZL Botanicals Production Facility'}
-            class="w-full h-full object-cover"
-            loading="lazy"
-          />
-          <!-- Overlay stats -->
-          <div class="absolute bottom-4 left-4 right-4 flex gap-3">
-            <div class="bg-white/95 backdrop-blur-sm rounded-lg px-4 py-3 shadow-lg flex-1">
-              <div class="text-2xl font-bold text-primary">1986</div>
-              <div class="text-xs text-gray-600">{lang === 'zh' ? '成立年份' : 'Founded'}</div>
-            </div>
-            <div class="bg-white/95 backdrop-blur-sm rounded-lg px-4 py-3 shadow-lg flex-1">
-              <div class="text-2xl font-bold text-primary">24K</div>
-              <div class="text-xs text-gray-600">{lang === 'zh' ? '平方米' : 'm² Facility'}</div>
-            </div>
-            <div class="bg-white/95 backdrop-blur-sm rounded-lg px-4 py-3 shadow-lg flex-1">
-              <div class="text-2xl font-bold text-primary">50+</div>
-              <div class="text-xs text-gray-600">{lang === 'zh' ? '服务国家' : 'Countries'}</div>
-            </div>
-          </div>
-        </div>
-        <div class="absolute -bottom-6 -right-6 w-32 h-32 bg-accent/20 rounded-xl -z-10"></div>
-        <div class="absolute -top-4 -left-4 w-20 h-20 bg-primary/10 rounded-full -z-10"></div>
-      </div>
-
-      <!-- Content -->
-      <div>
-        <SectionHeader
-          subtitle={t('about.subtitle')}
-          title={t('about.title')}
-          align="left"
-          class="mb-6"
-        />
-        <p class="text-gray-600 text-lg leading-relaxed">
-          {t('about.description')}
-        </p>
-
-        <!-- Quick highlights -->
-        <div class="mt-8 grid grid-cols-2 gap-4">
-          <div class="flex items-center gap-3">
-            <div class="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
-              <svg class="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-              </svg>
-            </div>
-            <span class="text-sm font-medium text-gray-700">{lang === 'zh' ? 'GMP认证' : 'GMP Certified'}</span>
-          </div>
-          <div class="flex items-center gap-3">
-            <div class="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
-              <svg class="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-              </svg>
-            </div>
-            <span class="text-sm font-medium text-gray-700">{lang === 'zh' ? '全球出口' : 'Global Export'}</span>
-          </div>
-        </div>
-
-        <a
-          href={getLocalizedPath('/about/story', lang)}
-          class="inline-flex items-center gap-2 mt-8 text-primary font-medium hover:text-primary-dark transition-colors group"
-        >
-          {t('about.link')}
-          <svg class="w-5 h-5 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-          </svg>
-        </a>
-      </div>
+  <div class="container-wide grid lg:grid-cols-2 gap-12 items-center">
+    <div>
+      <SectionHeader subtitle={t('about.subtitle')} title={t('about.title')} align="left" class="mb-6" />
+      <p class="text-gray-600 text-lg leading-relaxed">{t('about.description')}</p>
+      <a href={getLocalizedPath('/about', lang)} class="inline-flex mt-6 text-primary font-semibold hover:underline">{t('about.link')} →</a>
+    </div>
+    <div class="rounded-2xl bg-primary text-white p-8 md:p-10 relative overflow-hidden">
+      <p class="text-accent uppercase tracking-widest text-sm font-semibold">{zh ? '采购审核要点' : 'Your qualification checklist'}</p>
+      <h3 class="text-2xl font-display font-bold mt-4">{zh ? '信任建立在具体产品与文件之上' : 'Confidence starts with the right documents'}</h3>
+      <ul class="mt-6 space-y-4 text-white/85">
+        <li>{zh ? '01 / 明确植物来源、部位与目标规格' : '01 / Define botanical identity, plant part and specification'}</li>
+        <li>{zh ? '02 / 审核 COA、检测方法与证书适用范围' : '02 / Review COA, test methods and certificate scope'}</li>
+        <li>{zh ? '03 / 评估样品并确认批次与供货条款' : '03 / Evaluate samples and agree batch and supply terms'}</li>
+      </ul>
+      <a href={getLocalizedPath('/quality', lang)} class="inline-flex mt-8 text-accent font-semibold hover:underline">{zh ? '查看质量审核清单' : 'Explore the quality checklist'} →</a>
     </div>
   </div>
 </section>

@@ -1,48 +1,61 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
-
+import { getLocalizedPath } from '../../i18n/config';
 const lang = 'en';
-
-const certifications = [
-  { name: 'GMP', desc: 'Good Manufacturing Practice - China NMPA certified' },
-  { name: 'ISO 9001', desc: 'Quality Management System' },
-  { name: 'ISO 22000', desc: 'Food Safety Management' },
-  { name: 'HACCP', desc: 'Hazard Analysis Critical Control Points' },
-  { name: 'Halal', desc: 'Halal Certification (select products)' },
-  { name: 'Kosher', desc: 'Kosher Certification (select products)' },
+const cards = [
+  {
+    "title": "Legal entity & site",
+    "description": "Match the certificate holder and site address to the manufacturer identified in your quotation. Request the certificate number and issuing body.",
+    "href": ""
+  },
+  {
+    "title": "Scope & validity",
+    "description": "Read the scope, covered activities, issue date and expiry date. Check current status with the issuer where possible; a logo alone is not sufficient.",
+    "href": ""
+  },
+  {
+    "title": "Quality & food-safety systems",
+    "description": "If your supplier policy requires ISO 9001, ISO 22000, HACCP or GMP-related documentation, specify the scheme and applicable regulatory context. Ask what is available for the proposed site; these schemes are not interchangeable.",
+    "href": ""
+  },
+  {
+    "title": "Product-specific requirements",
+    "description": "If Halal, Kosher or other product certification is required, request a current product schedule and check the exact ingredient, carrier and manufacturing site. Confirm destination-market acceptance.",
+    "href": ""
+  },
+  {
+    "title": "COA is a different document",
+    "description": "A Certificate of Analysis reports results for a stated sample or batch. It is not a management-system certificate or proof that an ingredient is authorized for every use.",
+    "href": "/quality"
+  },
+  {
+    "title": "Build your request",
+    "description": "Include the product, specification, intended use, destination and mandatory certification requirements. Availability and scope need confirmation before purchase.",
+    "href": "/request-quote"
+  }
 ];
 ---
-
-<PageLayout
-  title="Certifications"
-  description="ZL Botanicals quality certifications: GMP, ISO 9001, ISO 22000, HACCP, Halal, and Kosher. Meeting the highest international manufacturing standards."
-  lang={lang}
-  heroTitle="Quality Certifications"
-  heroSubtitle="Meeting the highest international standards"
->
+<PageLayout title="Certification Review" description="Check the document, the scope and the validity. Certification requirements depend on the ingredient, manufacturing site and destination market. Use this checklist to request applicable documents. A certificate covering one site or product does not establish coverage for the whole catalog." lang={lang} heroTitle="Certification Review" heroSubtitle="Check the document, the scope and the validity">
   <section class="section-padding">
     <div class="container-wide">
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {certifications.map((cert) => (
-          <div class="p-6 border border-gray-200 rounded-xl hover:border-primary/30 hover:shadow-md transition-all">
-            <div class="w-16 h-16 bg-primary/10 rounded-xl flex items-center justify-center text-primary mb-4">
-              <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-              </svg>
-            </div>
-            <h3 class="text-xl font-semibold text-gray-900">{cert.name}</h3>
-            <p class="mt-2 text-gray-600">{cert.desc}</p>
-          </div>
+      <p class="text-lg md:text-xl leading-relaxed text-gray-600 max-w-4xl">Certification requirements depend on the ingredient, manufacturing site and destination market. Use this checklist to request applicable documents. A certificate covering one site or product does not establish coverage for the whole catalog.</p>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">
+        {cards.map((card) => (
+          <article class="p-7 rounded-xl bg-off-white border border-primary/10 hover:border-primary/30 transition-colors">
+            <h2 class="text-xl font-display font-bold text-gray-900">{card.title}</h2>
+            <p class="mt-4 text-gray-600 leading-relaxed">{card.description}</p>
+            {card.href && <a href={getLocalizedPath(card.href, lang)} class="inline-flex mt-5 text-primary font-semibold hover:underline">Explore further →</a>}
+          </article>
         ))}
       </div>
-
-      <div class="mt-16 p-8 bg-off-white rounded-xl text-center">
-        <h3 class="text-xl font-semibold text-gray-900">Need certification documents?</h3>
-        <p class="mt-2 text-gray-600">Contact us to request copies of our certifications for your records.</p>
-        <a href="/contact" class="inline-block mt-4 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">
-          Contact Us
-        </a>
-      </div>
+    </div>
+  </section>
+  <section class="bg-primary py-16">
+    <div class="container-wide text-center">
+      <h2 class="text-2xl md:text-3xl font-display font-bold text-white">Start your product & document review</h2>
+      <p class="mt-4 text-white/80 max-w-2xl mx-auto">Share the ingredient, specification, application, destination and expected quantity. Include your sample and document requirements; availability is confirmed per product.</p>
+      <a href={getLocalizedPath('/request-quote', lang)} class="inline-flex mt-7 px-7 py-3 bg-accent text-white rounded-lg font-semibold hover:bg-accent-dark transition-colors">Request Samples & COA</a>
+      <a href={getLocalizedPath('/products', lang)} class="inline-flex mt-7 ml-4 px-7 py-3 border border-white/50 text-white rounded-lg font-semibold hover:bg-white/10">Explore Ingredients</a>
     </div>
   </section>
 </PageLayout>
