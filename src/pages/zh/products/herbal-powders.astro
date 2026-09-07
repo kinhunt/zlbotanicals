@@ -1,32 +1,15 @@
 ---
 import PageLayout from '../../../layouts/PageLayout.astro';
-import ProductCard from '../../../components/products/ProductCard.astro';
-
 const lang = 'zh';
-
-const products = [
-  { name: '生姜粉', latinName: 'Zingiber officinale', category: '粉末', specification: '100目', applications: ['食品', '饮料'], href: '#' },
-  { name: '肉桂粉', latinName: 'Cinnamomum cassia', category: '粉末', specification: '80目', applications: ['食品', '饮料'], href: '#' },
-  { name: '姜黄粉', latinName: 'Curcuma longa', category: '粉末', specification: '100目', applications: ['食品', '保健品'], href: '#' },
-  { name: '黄芪粉', latinName: 'Astragalus membranaceus', category: '粉末', specification: '80目', applications: ['保健品'], href: '#' },
-  { name: '枸杞粉', latinName: 'Lycium barbarum', category: '粉末', specification: '100目', applications: ['食品', '饮料'], href: '#' },
-  { name: '玛卡粉', latinName: 'Lepidium meyenii', category: '粉末', specification: '100目', applications: ['保健品', '食品'], href: '#' },
-];
 ---
-
-<PageLayout
-  title="草本粉末"
-  lang={lang}
-  heroTitle="草本粉末"
-  heroSubtitle="严格GMP条件下加工的细磨植物粉末"
->
-  <section class="section-padding">
-    <div class="container-wide">
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {products.map((product) => (
-          <ProductCard {...product} lang={lang} />
-        ))}
-      </div>
+<PageLayout title="植物粉末采购咨询" description="以采购需求为起点，而非固定规格目录" lang={lang} heroTitle="植物粉末采购咨询" heroSubtitle="以采购需求为起点，而非固定规格目录">
+  <section class="section-padding"><div class="container-wide">
+    <p class="max-w-3xl text-lg text-gray-600 mb-10">请说明所需的植物粉末。每项需求均须先进行可行性评估；本页不确认现货、加工能力或可供应等级。</p>
+    <div class="grid md:grid-cols-3 gap-6"><article class="bg-off-white rounded-xl p-6"><h2 class="text-xl font-semibold">明确原料身份</h2><p class="mt-3 text-gray-600">提供植物中文名与拉丁名、使用部位、产地偏好，并说明需要全植物研磨粉还是粉末状提取物。</p></article>
+<article class="bg-off-white rounded-xl p-6"><h2 class="text-xl font-semibold">提出验收要求</h2><p class="mt-3 text-gray-600">说明目标粒度及检测方法、水分限值、微生物与污染物要求，以及载体或添加剂限制。</p></article>
+<article class="bg-off-white rounded-xl p-6"><h2 class="text-xl font-semibold">补充采购背景</h2><p class="mt-3 text-gray-600">提供目标市场、用途、试用数量、预计采购量、包装与时间要求。</p></article></div>
+    <div class="mt-10 max-w-3xl"><p class="text-gray-600">供应情况、样品、检测文件、价格及交期取决于具体原料与供应方评估。下单前须以书面确认规格及商务条件，本页不构成供货承诺。</p>
+      <a href="/zh/contact" class="inline-block mt-6 px-6 py-3 rounded-lg bg-primary text-white">提交需求以评估可行性</a>
     </div>
-  </section>
+  </div></section>
 </PageLayout>

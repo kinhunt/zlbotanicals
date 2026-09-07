@@ -1,40 +1,13 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
-import Button from '../components/common/Button.astro';
-
 const lang = 'en';
 ---
-
-<PageLayout
-  title="Thank You"
-  description="Thank you for contacting ZL Botanicals. We have received your message and will respond shortly."
-  lang={lang}
-  heroTitle="Thank You!"
-  heroSubtitle="Your message has been successfully submitted"
->
-  <section class="section-padding">
-    <div class="container-wide max-w-2xl text-center">
-      <div class="bg-green-50 border border-green-200 rounded-xl p-8 mb-8">
-        <svg class="w-16 h-16 text-green-500 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-        </svg>
-        <h2 class="text-2xl font-semibold text-gray-900 mb-4">We've Received Your Message</h2>
-        <p class="text-gray-600 mb-6">
-          Thank you for reaching out to ZL Botanicals. Our team will review your inquiry and get back to you within 1-2 business days.
-        </p>
-        <p class="text-gray-600">
-          If you have urgent inquiries, please contact us directly at <a href="mailto:info@zlbotanicals.com" class="text-primary hover:underline">info@zlbotanicals.com</a>
-        </p>
-      </div>
-
-      <div class="flex flex-col sm:flex-row gap-4 justify-center">
-        <Button href="/" variant="primary">
-          Back to Homepage
-        </Button>
-        <Button href="/products" variant="outline">
-          Browse Products
-        </Button>
-      </div>
+<PageLayout title="Inquiry Next Steps" description="How to check and follow up on your inquiry" lang={lang} heroTitle="Inquiry Next Steps" heroSubtitle="How to check and follow up on your inquiry">
+  <section class="section-padding"><div class="container-wide max-w-3xl">
+    <div class="bg-off-white rounded-xl p-8 space-y-5">
+      <p class="text-gray-600">Thank you for considering ZL Botanicals. This is a public static page that anyone can visit; it does not confirm that a form was sent or an email reached the inbox.</p><p class="text-gray-600">If you just used FormSubmit, complete any verification steps it requests. Form processing, mailbox activation and email delivery depend on that third-party service; this website cannot check delivery status.</p><p class="text-gray-600">To check an inquiry or follow up if you have not heard back, email directly with the date of your original inquiry, the ingredient and your requirements. Response timing depends on the inquiry; no fixed reply time is promised here.</p>
+      <a href="mailto:info@zlbotanicals.com" class="inline-block text-primary underline break-all">info@zlbotanicals.com</a>
     </div>
-  </section>
+    <a href="/contact" class="inline-block mt-8 px-6 py-3 bg-primary text-white rounded-lg">Return to contact page</a>
+  </div></section>
 </PageLayout>

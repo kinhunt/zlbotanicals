@@ -19,10 +19,11 @@ const t = useTranslations(lang);
     <p class="mt-4 text-lg text-gray-200 max-w-2xl mx-auto">
       {t('cta.subtitle')}
     </p>
-    <div class="mt-8">
+    <div class="mt-8 flex flex-wrap justify-center gap-4">
       <Button href={getLocalizedPath('/request-quote', lang)} variant="accent" size="lg">
         {t('cta.primary')}
       </Button>
+      <Button href={getLocalizedPath('/quality', lang)} variant="secondary" size="lg" class="border-white text-white hover:bg-white hover:!text-primary">{t('cta.secondary')}</Button>
     </div>
   </div>
 </section>

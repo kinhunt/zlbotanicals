@@ -1,49 +1,61 @@
 ---
 import PageLayout from '../../../layouts/PageLayout.astro';
 import { getLocalizedPath } from '../../../i18n/config';
-
 const lang = 'zh';
-
-const certifications = [
-  { name: 'GMP', desc: '药品生产质量管理规范 - 中国NMPA认证' },
-  { name: 'ISO 9001', desc: '质量管理体系认证' },
-  { name: 'ISO 22000', desc: '食品安全管理体系认证' },
-  { name: 'HACCP', desc: '危害分析与关键控制点认证' },
-  { name: 'Halal', desc: '清真认证（部分产品）' },
-  { name: 'Kosher', desc: '犹太洁食认证（部分产品）' },
+const cards = [
+  {
+    "title": "企业主体与场地",
+    "description": "将证书持有人及场地地址与报价中的生产企业进行核对，索取证书编号与签发机构信息。",
+    "href": ""
+  },
+  {
+    "title": "适用范围与有效期",
+    "description": "核对认证范围、覆盖活动、签发日期及有效期；条件允许时向签发机构确认当前状态。标识本身不能替代有效文件。",
+    "href": ""
+  },
+  {
+    "title": "质量与食品安全体系",
+    "description": "若准入政策要求 ISO 9001、ISO 22000、HACCP 或 GMP 相关资料，请说明具体体系及法规背景，并询问拟供场地可提供哪些文件；不同体系不可互相替代。",
+    "href": ""
+  },
+  {
+    "title": "产品专项要求",
+    "description": "如需 Halal、Kosher 或其他产品认证，请索取现行产品清单，核对具体原料、载体与生产场地，并确认目的地市场的接受情况。",
+    "href": ""
+  },
+  {
+    "title": "COA 与认证证书不同",
+    "description": "COA（分析检测报告）记录指定样品或批次的检测结果，并非管理体系证书，也不能证明原料适用于所有用途。",
+    "href": "/quality"
+  },
+  {
+    "title": "准备文件申请",
+    "description": "提供产品、规格、用途、目的地及必须满足的认证要求。采购前确认可供文件及其适用范围。",
+    "href": "/request-quote"
+  }
 ];
 ---
-
-<PageLayout
-  title="资质认证"
-  description="振隆药业资质认证：GMP、ISO 9001、ISO 22000、HACCP、清真、犹太洁食认证。符合最高国际生产标准。"
-  lang={lang}
-  heroTitle="资质认证"
-  heroSubtitle="符合最高国际标准"
->
+<PageLayout title="资质文件审核" description="核对文件、适用范围与有效期. 资质要求取决于原料、生产场地及目的地市场。请依照本清单索取适用文件。某一场地或产品的证书，并不代表覆盖整个产品目录。" lang={lang} heroTitle="资质文件审核" heroSubtitle="核对文件、适用范围与有效期">
   <section class="section-padding">
     <div class="container-wide">
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {certifications.map((cert) => (
-          <div class="p-6 border border-gray-200 rounded-xl hover:border-primary/30 hover:shadow-md transition-all">
-            <div class="w-16 h-16 bg-primary/10 rounded-xl flex items-center justify-center text-primary mb-4">
-              <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-              </svg>
-            </div>
-            <h3 class="text-xl font-semibold text-gray-900">{cert.name}</h3>
-            <p class="mt-2 text-gray-600">{cert.desc}</p>
-          </div>
+      <p class="text-lg md:text-xl leading-relaxed text-gray-600 max-w-4xl">资质要求取决于原料、生产场地及目的地市场。请依照本清单索取适用文件。某一场地或产品的证书，并不代表覆盖整个产品目录。</p>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">
+        {cards.map((card) => (
+          <article class="p-7 rounded-xl bg-off-white border border-primary/10 hover:border-primary/30 transition-colors">
+            <h2 class="text-xl font-display font-bold text-gray-900">{card.title}</h2>
+            <p class="mt-4 text-gray-600 leading-relaxed">{card.description}</p>
+            {card.href && <a href={getLocalizedPath(card.href, lang)} class="inline-flex mt-5 text-primary font-semibold hover:underline">查看详情 →</a>}
+          </article>
         ))}
       </div>
-
-      <div class="mt-16 p-8 bg-off-white rounded-xl text-center">
-        <h3 class="text-xl font-semibold text-gray-900">需要认证文件？</h3>
-        <p class="mt-2 text-gray-600">请联系我们索取相关认证文件副本。</p>
-        <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-4 px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">
-          联系我们
-        </a>
-      </div>
+    </div>
+  </section>
+  <section class="bg-primary py-16">
+    <div class="container-wide text-center">
+      <h2 class="text-2xl md:text-3xl font-display font-bold text-white">开始产品与文件审核</h2>
+      <p class="mt-4 text-white/80 max-w-2xl mx-auto">请提供原料、规格、应用、目的地及预计数量，并说明样品与文件要求。可供情况及文件范围按具体产品确认。</p>
+      <a href={getLocalizedPath('/request-quote', lang)} class="inline-flex mt-7 px-7 py-3 bg-accent text-white rounded-lg font-semibold hover:bg-accent-dark transition-colors">申请样品与 COA</a>
+      <a href={getLocalizedPath('/products', lang)} class="inline-flex mt-7 ml-4 px-7 py-3 border border-white/50 text-white rounded-lg font-semibold hover:bg-white/10">浏览原料</a>
     </div>
   </section>
 </PageLayout>

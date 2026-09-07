@@ -2,38 +2,36 @@
 name: Ginseng Extract
 latinName: Panax ginseng
 lang: en
-description: Ginseng is a precious tonic herb. Its extract is rich in ginsenosides, offering benefits including immune enhancement and anti-fatigue properties.
+description: "Ginseng extract sourcing, covering species, plant part, ginsenoside methods and application testing."
 image: /images/products/ginseng.webp
 ---
 
-## Overview
+## Material identity and selection
 
-Ginseng (*Panax ginseng*), known as the "King of Herbs," is a precious traditional Chinese medicine. The main active compounds are ginsenosides, with over 30 different types identified to date.
+Extract of *Panax ginseng*. Confirm root versus other parts and steamed versus unsteamed processing. Other Panax species are not equivalent inputs.
 
-## Key Active Compounds
+## Indicative specification brief
 
-| Compound | Content Range | Characteristics |
-|----------|--------------|-----------------|
-| Total Ginsenosides | 5-80% | Overall activity indicator |
-| Ginsenoside Rg1 | 0.5-10% | Mental alertness |
-| Ginsenoside Rb1 | 0.5-10% | Calming effects |
-| Ginsenoside Re | 0.3-5% | Antioxidant |
+The following specification topics are indicative, not released specifications, stock availability or actual test results. Grade, numerical limits and methods require written confirmation before purchase.
 
-## Applications
+Ask for an individual ginsenoside profile, including Rg1, Re and Rb1 as appropriate, and the definition of total ginsenosides. Colorimetric and chromatographic totals may not be comparable.
 
-- **Nutraceuticals**: Immune support, anti-fatigue formulas
-- **Functional Beverages**: Energy drinks, tonic beverages
-- **Cosmetics**: Anti-aging, revitalizing skincare
-- **Pharmaceutical**: Qi-tonifying preparations
+Request plant-part traceability, processing history and a risk-based pesticide panel. Confirm carriers and whether sugars are introduced during processing.
 
-## Product Specifications
+## Application development checks
 
-- Total ginsenosides 5%, 10%, 20%, 80%
-- Organic certified products available
+Evaluate bitterness, color and sediment in beverages; for dry blends, check moisture pickup and flow. Intended-use eligibility and label claims require separate review, not inference from ginsenoside content.
 
-## Quality Standards
+## Documents to request before approval
 
-Our ginseng extracts comply with:
-- Chinese Pharmacopoeia standards
-- Korean Pharmacopoeia standards
-- USP standards
+- A current specification and batch-specific COA tied to the offered lot, including methods, units and acceptance criteria. Distinguish measured from calculated results.
+- Identity, plant part, extraction process and full composition, including carriers and processing aids.
+- A risk-based contaminant panel for relevant pesticides, elemental contaminants, microbiology and residual solvents, with limits agreed for the intended market.
+- Allergen and traceability statements. If certification is required, verify issuer, site, scope and expiry for the exact material; this page does not imply blanket certification.
+- Written packaging, storage, retest or shelf-life basis, sample-to-production equivalence, lead time and change-notification terms.
+
+## Send a useful sourcing brief
+
+Share destination market, application format, intended process, marker priorities, exclusions, sample needs and expected order scale. Request available documentation before trial approval; supply availability and testing scope need confirmation.
+
+[Discuss ingredient sourcing](/contact).

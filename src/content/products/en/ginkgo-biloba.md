@@ -2,38 +2,36 @@
 name: Ginkgo Biloba Extract
 latinName: Ginkgo biloba
 lang: en
-description: Ginkgo biloba extract is rich in flavone glycosides and terpene lactones. It is one of the most popular botanical extracts worldwide, widely used for cognitive and circulatory support.
+description: "Ginkgo leaf extract sourcing, with guidance on glycosides, lactones, ginkgolic acid controls and identity testing."
 image: /images/products/ginkgo-biloba.webp
 ---
 
-## Overview
+## Material identity and selection
 
-Ginkgo (*Ginkgo biloba*) is one of the oldest tree species on Earth, often called a "living fossil." Ginkgo leaf extract is one of the best-selling botanical extracts globally, with flavone glycosides and terpene lactones as its main active components.
+Leaf extract of *Ginkgo biloba*, not a seed ingredient. Establish leaf identity and extraction details before comparing assay values.
 
-## Key Active Compounds
+## Indicative specification brief
 
-| Compound | Content Range | Characteristics |
-|----------|--------------|-----------------|
-| Total Flavone Glycosides | 24% | Antioxidant, vascular protection |
-| Total Terpene Lactones | 6% | Improved circulation |
-| Ginkgolides A/B/C | 2.8-3.4% | Neuroprotection |
-| Bilobalide | 2.6-3.2% | Cognitive support |
+The following specification topics are indicative, not released specifications, stock availability or actual test results. Grade, numerical limits and methods require written confirmation before purchase.
 
-## Applications
+Define flavone glycosides and terpene lactones separately. Request the glycoside calculation method and individual lactone profile. Agree a ginkgolic acid limit and a suitably sensitive method.
 
-- **Nutraceuticals**: Memory improvement, brain health formulas
-- **Pharmaceutical**: Cardiovascular preparations
-- **Functional Foods**: Cognitive health products
-- **Cosmetics**: Antioxidant skincare
+Ask how identity testing screens for enrichment with unrelated flavonoids. Review solvents, pesticide residues and microbiological testing rather than relying on a headline ratio.
 
-## Product Specifications
+## Application development checks
 
-- Standard extract: 24% flavone glycosides / 6% terpene lactones
-- High-purity products available upon request
+For capsules, compare flow, bulk density, moisture pickup and blend uniformity. Have a qualified reviewer assess intended-use restrictions, interactions and warnings before selecting the material.
 
-## Quality Standards
+## Documents to request before approval
 
-Our ginkgo biloba extracts comply with:
-- European Pharmacopoeia standards
-- USP standards
-- Chinese Pharmacopoeia standards
+- A current specification and batch-specific COA tied to the offered lot, including methods, units and acceptance criteria. Distinguish measured from calculated results.
+- Identity, plant part, extraction process and full composition, including carriers and processing aids.
+- A risk-based contaminant panel for relevant pesticides, elemental contaminants, microbiology and residual solvents, with limits agreed for the intended market.
+- Allergen and traceability statements. If certification is required, verify issuer, site, scope and expiry for the exact material; this page does not imply blanket certification.
+- Written packaging, storage, retest or shelf-life basis, sample-to-production equivalence, lead time and change-notification terms.
+
+## Send a useful sourcing brief
+
+Share destination market, application format, intended process, marker priorities, exclusions, sample needs and expected order scale. Request available documentation before trial approval; supply availability and testing scope need confirmation.
+
+[Discuss ingredient sourcing](/contact).

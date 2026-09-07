@@ -2,41 +2,38 @@
 name: Centella Asiatica Extract
 latinName: Centella asiatica
 lang: en
-description: Centella asiatica extract is rich in asiaticoside and madecassoside, a popular repair and soothing ingredient in the cosmetics industry.
+description: "Centella extract sourcing for cosmetic development, covering triterpene identity, composition and formulation compatibility."
 image: /images/products/centella-asiatica.webp
 ---
 
-## Overview
+## Material identity and selection
 
-Centella asiatica, also known as Gotu Kola or Tiger Grass, is a perennial herb in the parsley family. With a long history in Asian traditional medicine, it has gained significant popularity in cosmetics due to its excellent skin repair properties.
+Extract of *Centella asiatica*. Confirm the plant part and whether the material is a whole extract, a standardized triterpene fraction or an isolated constituent; these need different purchasing specifications.
 
-## Key Active Compounds
+## Indicative specification brief
 
-| Compound | Content Range | Characteristics |
-|----------|--------------|-----------------|
-| Total Triterpenes | 10-90% | Overall activity indicator |
-| Asiaticoside | 20-40%* | Promotes collagen synthesis |
-| Madecassoside | 25-50%* | Soothing, anti-inflammatory |
-| Asiatic Acid | 20-35%* | Wound healing |
+The following specification topics are indicative, not released specifications, stock availability or actual test results. Grade, numerical limits and methods require written confirmation before purchase.
 
-*Percentage of total triterpenes
+Define asiaticoside, madecassoside, asiatic acid and madecassic acid separately. Ask how total triterpenes are calculated, which reference standards are used and whether percentages describe the whole powder or only the triterpene fraction.
 
-## Applications
+Request a chromatographic identity profile and constituent assay method. For a liquid or dispersible grade, obtain the full solvent, carrier and preservative composition. A TECA-style description does not establish equivalence to another supplier or published study material.
 
-- **Cosmetics**: Repair serums, soothing creams, scar treatment products
-- **Nutraceuticals**: Vein health, cognitive support formulas
-- **Pharmaceutical**: Wound healing preparations
-- **Functional Foods**: Beauty food ingredients
+## Application development checks
 
-## Product Specifications
+For cosmetics, distinguish dissolution from dispersion in the intended water/oil phases. Check precipitation, color, odor, viscosity and preservative compatibility across the intended pH range. Finished-product stability and preservation testing remain necessary.
 
-- Total triterpenes 10%, 40%, 80%, 90%
-- TECA (Titrated Extract of Centella Asiatica)
-- Water-soluble products
+Confirm ingredient naming and destination-market restrictions before labeling. Oral use requires a separate assessment; cosmetic suitability is not food authorization. Marker composition does not substantiate wound-treatment claims.
 
-## Quality Standards
+## Documents to request before approval
 
-Our Centella asiatica extracts comply with:
-- European Pharmacopoeia standards
-- USP standards
-- International cosmetic ingredient standards
+- A current specification and batch-specific COA tied to the offered lot, including methods, units and acceptance criteria. Distinguish measured from calculated results.
+- Identity, plant part, extraction process and full composition, including carriers and processing aids.
+- A risk-based contaminant panel for relevant pesticides, elemental contaminants, microbiology and residual solvents, with limits agreed for the intended market.
+- Allergen and traceability statements. If certification is required, verify issuer, site, scope and expiry for the exact material; this page does not imply blanket certification.
+- Written packaging, storage, retest or shelf-life basis, sample-to-production equivalence, lead time and change-notification terms.
+
+## Send a useful sourcing brief
+
+Share destination market, application format, intended process, marker priorities, exclusions, sample needs and expected order scale. Request available documentation before trial approval; supply availability and testing scope need confirmation.
+
+[Discuss ingredient sourcing](/contact).

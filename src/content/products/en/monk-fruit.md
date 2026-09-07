@@ -2,105 +2,41 @@
 name: Monk Fruit Extract
 latinName: Siraitia grosvenorii
 lang: en
-description: Natural zero-calorie sweetener, 150-300x sweeter than sugar. Ideal for sugar-free beverages, healthy foods, and more.
+description: "Monk fruit extract sourcing, with Mogroside V specifications, carrier review and beverage sweetener trial guidance."
 image: /images/products/monk-fruit.webp
 solutions:
   - white-peach-sparkling
   - botanical-sweetener-rtd
 ---
 
-## Product Overview
+## Material identity and selection
 
-Monk fruit (*Siraitia grosvenorii*), also known as Luo Han Guo or Buddha fruit, is a perennial vine in the gourd family, primarily cultivated in the Guilin region of Guangxi, China. Monk Fruit Extract is a natural high-intensity sweetener extracted from this fruit. The primary active compound is Mogroside V. As a zero-calorie, zero-glycemic-index natural sweetener, it's experiencing rapid growth in the global sugar-free food and beverage market.
+Fruit extract of *Siraitia grosvenorii*. Mogroside V is a useful procurement marker, but its percentage does not describe the full sweetener composition or taste. Distinguish concentrated extract from carrier-based blends.
 
-## Technical Specifications
+## Indicative specification brief
 
-| Parameter | Specification |
-|-----------|--------------|
-| Mogroside V Content | 25% / 40% / 50% / 55% |
-| Appearance | Light yellow to white powder |
-| Moisture | ≤5.0% |
-| Ash | ≤2.0% |
-| Heavy Metals (as Pb) | ≤1.0 ppm |
-| Microbial Limits | Complies with USP |
+The following specification topics are indicative, not released specifications, stock availability or actual test results. Grade, numerical limits and methods require written confirmation before purchase.
 
-We offer various purity grades based on customer requirements, up to **55% Mogroside V**.
+Request a defined Mogroside V HPLC assay and, where relevant, the wider mogroside profile. Confirm dry-basis versus as-is reporting and the identity and proportion of every carrier or added sweetener.
 
-## Available Grades
+Compare color, odor, dissolution, moisture and microbiology using agreed methods. Ask for extraction and purification solvent declarations and a relevant residue panel; natural origin is not evidence of solvent-free processing.
 
-| Product Code | Mogroside V Content | Recommended Applications |
-|-------------|---------------------|-------------------------|
-| MF-25       | 25%                 | Beverages, baking |
-| MF-40       | 40%                 | Functional drinks, supplements |
-| MF-50       | 50%                 | Premium formulations |
-| MF-55       | 55%                 | Pharmaceutical grade |
+## Application development checks
 
-## Manufacturing Process
+Run blinded comparisons at matched perceived sweetness in the actual acid, tea or dairy base. Record onset, lingering sweetness, bitterness and interactions with other sweeteners. Repeat after heat treatment and storage; a higher marker assay does not guarantee preferred taste.
 
-```
-Fresh Monk Fruit → Washing & Sorting → Hot Water Extraction →
-Membrane Filtration → Resin Adsorption → Elution & Concentration →
-Spray Drying → Quality Testing → Packaging
-```
+Confirm permission for the exact extract and use category in the destination market. Zero-sugar and calorie labels depend on the complete finished product, including carriers and fruit ingredients; ingredient identity does not establish a blood-glucose outcome.
 
-### Process Advantages
+## Documents to request before approval
 
-1. **Premium Raw Materials**: Sourced from Guilin, Guangxi - the origin of authentic monk fruit
-2. **Clean Extraction**: Water-based extraction, no organic solvent residues
-3. **Efficient Purification**: Macroporous resin adsorption technology for high-purity separation
-4. **Quality Control**: HPLC testing for every batch ensures precise content control
+- A current specification and batch-specific COA tied to the offered lot, including methods, units and acceptance criteria. Distinguish measured from calculated results.
+- Identity, plant part, extraction process and full composition, including carriers and processing aids.
+- A risk-based contaminant panel for relevant pesticides, elemental contaminants, microbiology and residual solvents, with limits agreed for the intended market.
+- Allergen and traceability statements. If certification is required, verify issuer, site, scope and expiry for the exact material; this page does not imply blanket certification.
+- Written packaging, storage, retest or shelf-life basis, sample-to-production equivalence, lead time and change-notification terms.
 
-## Applications
+## Send a useful sourcing brief
 
-### Sugar-Free Beverages
-- Zero-sugar carbonated drinks
-- Functional beverages
-- Ready-to-drink teas
-- Plant-based protein drinks
+Share destination market, application format, intended process, marker priorities, exclusions, sample needs and expected order scale. Request available documentation before trial approval; supply availability and testing scope need confirmation.
 
-### Healthy Foods
-- Sugar-free baked goods
-- Meal replacement powders
-- Protein bars
-- Low-sugar jams
-
-### Nutraceuticals
-- Dietary supplements
-- Chewable tablets
-- Instant drink mixes
-
-## Product Advantages
-
-- **Zero Calories**: Provides no calories, suitable for sugar-controlled diets
-- **Zero Glycemic Index**: Does not affect blood sugar levels
-- **Natural Source**: Not artificially synthesized, high consumer acceptance
-- **Heat Stable**: Suitable for baking and high-temperature processing
-- **Synergistic Effects**: Blending with other sweeteners improves taste profile
-
-## Customization Services
-
-We offer flexible customization options:
-
-- **Purity Grades**: 25%-55% various specifications
-- **Blended Products**: Mogroside + Stevia blends for improved flavor profile
-- **Dosage Forms**: Powder, granules, liquid concentrates
-- **Packaging**: 1kg sample packs / 25kg drums / Custom packaging
-
-## Quality Certifications
-
-- GMP Manufacturing
-- ISO 9001 / ISO 22000
-- HACCP
-- Halal / Kosher
-- Organic (available upon request)
-
-## Packaging & Storage
-
-- **Packaging**: PE liner in fiber drums or cartons
-- **Sizes**: 1kg / 5kg / 25kg
-- **Storage**: Cool, dry place, protected from light, sealed
-- **Shelf Life**: 24 months
-
----
-
-> For samples, technical documentation, or pricing, please [contact our sales team](/en/contact).
+[Discuss ingredient sourcing](/contact).

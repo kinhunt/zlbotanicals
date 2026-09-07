@@ -37,14 +37,14 @@ const categoryLabels: Record<string, Record<string, string>> = {
 
 const texts = {
   en: {
-    subtitle: 'Insights',
-    title: 'Latest from Our Blog',
+    subtitle: 'Buyer Resources',
+    title: 'Buyer Guides & Ingredient Insights',
     readMore: 'Read more',
     viewAll: 'View All Articles',
   },
   zh: {
-    subtitle: '行业洞察',
-    title: '最新博客文章',
+    subtitle: '采购资源',
+    title: '采购指南与原料参考',
     readMore: '阅读更多',
     viewAll: '查看全部文章',
   },
@@ -73,6 +73,12 @@ const blogPath = lang === 'zh' ? '/zh/resources/blog' : '/resources/blog';
         </a>
       </div>
 
+      <p class="text-gray-600 mb-6 max-w-3xl">{lang === 'zh' ? '先明确规格与文件要求，再参考原料文章。应用资料用于采购与研发讨论，不替代产品评估。' : 'Start with specification and sourcing requirements, then explore ingredient articles. Application reading supports purchasing and development discussions, not product approval.'}</p>
+      <div class="grid md:grid-cols-3 gap-4 mb-8">
+        <a href={getLocalizedPath('/quality', lang)} class="p-5 rounded-xl border border-primary/20 text-primary font-semibold bg-white hover:shadow-md">{lang === 'zh' ? 'COA 与规格审核清单' : 'COA & specification checklist'} →</a>
+        <a href={getLocalizedPath('/resources/faq', lang)} class="p-5 rounded-xl border border-primary/20 text-primary font-semibold bg-white hover:shadow-md">{lang === 'zh' ? '样品、起订量与交期问题' : 'Samples, MOQ & lead-time questions'} →</a>
+        <a href={getLocalizedPath('/resources/downloads', lang)} class="p-5 rounded-xl border border-primary/20 text-primary font-semibold bg-white hover:shadow-md">{lang === 'zh' ? '采购资料与文件申请' : 'Sourcing resources & document requests'} →</a>
+      </div>
       <div class="grid md:grid-cols-3 gap-6">
         {latestPosts.map((post) => (
           <article class="group bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow">

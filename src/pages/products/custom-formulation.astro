@@ -1,49 +1,15 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
-import { getLocalizedPath } from '../../i18n/config';
-
 const lang = 'en';
-
-const services = [
-  { title: 'Custom Extraction', desc: 'Tailored extraction parameters to meet your specific active compound requirements.' },
-  { title: 'Blend Development', desc: 'Create unique botanical blends combining multiple ingredients for targeted applications.' },
-  { title: 'Standardization', desc: 'Achieve consistent potency levels across batches with our standardization expertise.' },
-  { title: 'Formulation Support', desc: 'Technical guidance on incorporating botanical ingredients into your final products.' },
-];
 ---
-
-<PageLayout
-  title="Custom Formulation"
-  lang={lang}
-  heroTitle="Custom Formulation"
-  heroSubtitle="Tailored botanical solutions for your unique product requirements"
->
-  <section class="section-padding">
-    <div class="container-wide">
-      <div class="max-w-3xl mb-12">
-        <p class="text-xl text-gray-600 leading-relaxed">
-          Our R&D team works closely with you to develop custom botanical formulations that meet your exact specifications. From small-scale trials to full production runs, we deliver consistent, high-quality results.
-        </p>
-      </div>
-
-      <div class="grid md:grid-cols-2 gap-8 mb-16">
-        {services.map((service) => (
-          <div class="p-6 bg-off-white rounded-xl">
-            <h3 class="text-xl font-semibold text-gray-900">{service.title}</h3>
-            <p class="mt-2 text-gray-600">{service.desc}</p>
-          </div>
-        ))}
-      </div>
-
-      <div class="bg-primary text-white rounded-xl p-8 md:p-12 text-center">
-        <h3 class="text-2xl font-display font-bold">Have a Custom Project in Mind?</h3>
-        <p class="mt-4 text-gray-200 max-w-2xl mx-auto">
-          Our technical team is ready to discuss your requirements and develop a customized solution for your product needs.
-        </p>
-        <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-6 px-8 py-3 bg-accent text-white rounded-lg font-medium hover:bg-accent-dark transition-colors">
-          Contact Our R&D Team
-        </a>
-      </div>
+<PageLayout title="Custom Formulation Inquiry" description="Start with a feasibility review of your project brief" lang={lang} heroTitle="Custom Formulation Inquiry" heroSubtitle="Start with a feasibility review of your project brief">
+  <section class="section-padding"><div class="container-wide">
+    <p class="max-w-3xl text-lg text-gray-600 mb-10">Describe the application and constraints before choosing an ingredient or blend. We can review your inquiry to clarify requirements and possible next steps; this is not a commitment to manufacture or achieve a particular result.</p>
+    <div class="grid md:grid-cols-3 gap-6"><article class="bg-off-white rounded-xl p-6"><h2 class="text-xl font-semibold">Application brief</h2><p class="mt-3 text-gray-600">Share the product format, intended market, ingredient restrictions and target sensory or functional properties. Avoid sending confidential formula details through the public form.</p></article>
+<article class="bg-off-white rounded-xl p-6"><h2 class="text-xl font-semibold">Technical questions</h2><p class="mt-3 text-gray-600">Identify the variables that need evaluation: solubility, taste, color, stability, ingredient interactions and proposed test methods.</p></article>
+<article class="bg-off-white rounded-xl p-6"><h2 class="text-xl font-semibold">Evidence and decision points</h2><p class="mt-3 text-gray-600">Discuss whether samples or trials are feasible, what evidence would support acceptance, and who will validate the finished product.</p></article></div>
+    <div class="mt-10 max-w-3xl"><p class="text-gray-600">Any proposed development, sampling or production work requires a separate written scope, feasibility confirmation and agreed acceptance criteria. Scale-up, stability, regulatory suitability and batch performance cannot be inferred from a website concept.</p>
+      <a href="/contact" class="inline-block mt-6 px-6 py-3 rounded-lg bg-primary text-white">Send a brief for feasibility review</a>
     </div>
-  </section>
+  </div></section>
 </PageLayout>

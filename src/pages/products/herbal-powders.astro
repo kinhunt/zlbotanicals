@@ -1,32 +1,15 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
-import ProductCard from '../../components/products/ProductCard.astro';
-
 const lang = 'en';
-
-const products = [
-  { name: 'Ginger Powder', latinName: 'Zingiber officinale', category: 'Powder', specification: '100 mesh', applications: ['Food', 'Beverage'], href: '#' },
-  { name: 'Cinnamon Powder', latinName: 'Cinnamomum cassia', category: 'Powder', specification: '80 mesh', applications: ['Food', 'Beverage'], href: '#' },
-  { name: 'Turmeric Powder', latinName: 'Curcuma longa', category: 'Powder', specification: '100 mesh', applications: ['Food', 'Nutraceuticals'], href: '#' },
-  { name: 'Astragalus Powder', latinName: 'Astragalus membranaceus', category: 'Powder', specification: '80 mesh', applications: ['Nutraceuticals'], href: '#' },
-  { name: 'Goji Berry Powder', latinName: 'Lycium barbarum', category: 'Powder', specification: '100 mesh', applications: ['Food', 'Beverage'], href: '#' },
-  { name: 'Maca Powder', latinName: 'Lepidium meyenii', category: 'Powder', specification: '100 mesh', applications: ['Nutraceuticals', 'Food'], href: '#' },
-];
 ---
-
-<PageLayout
-  title="Herbal Powders"
-  lang={lang}
-  heroTitle="Herbal Powders"
-  heroSubtitle="Fine-ground botanical powders processed under strict GMP conditions"
->
-  <section class="section-padding">
-    <div class="container-wide">
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {products.map((product) => (
-          <ProductCard {...product} lang={lang} />
-        ))}
-      </div>
+<PageLayout title="Herbal Powder Sourcing" description="A procurement inquiry, not a fixed powder catalogue" lang={lang} heroTitle="Herbal Powder Sourcing" heroSubtitle="A procurement inquiry, not a fixed powder catalogue">
+  <section class="section-padding"><div class="container-wide">
+    <p class="max-w-3xl text-lg text-gray-600 mb-10">Tell us which botanical powder you need. Each request begins with a feasibility review; this page does not confirm stock, processing capability or an available grade.</p>
+    <div class="grid md:grid-cols-3 gap-6"><article class="bg-off-white rounded-xl p-6"><h2 class="text-xl font-semibold">Identify the material</h2><p class="mt-3 text-gray-600">Provide the botanical and Latin name, plant part, origin preferences and whether you need a milled whole plant or a powdered extract.</p></article>
+<article class="bg-off-white rounded-xl p-6"><h2 class="text-xl font-semibold">Define acceptance criteria</h2><p class="mt-3 text-gray-600">Share target particle size and test method, moisture limits, microbial and contaminant requirements, and any carrier or additive restrictions.</p></article>
+<article class="bg-off-white rounded-xl p-6"><h2 class="text-xl font-semibold">Set the purchasing context</h2><p class="mt-3 text-gray-600">Include destination market, intended use, trial quantity, expected order volume, packaging and timing.</p></article></div>
+    <div class="mt-10 max-w-3xl"><p class="text-gray-600">Availability, samples, testing documents, price and lead time depend on the material and supplier review. Agree the specification and commercial conditions in writing before ordering; only written confirmation establishes an offer.</p>
+      <a href="/contact" class="inline-block mt-6 px-6 py-3 rounded-lg bg-primary text-white">Send a brief for feasibility review</a>
     </div>
-  </section>
+  </div></section>
 </PageLayout>

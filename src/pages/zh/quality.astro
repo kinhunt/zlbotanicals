@@ -1,75 +1,61 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
 import { getLocalizedPath } from '../../i18n/config';
-
 const lang = 'zh';
-
-const certifications = [
-  { name: 'GMP', desc: '药品生产质量管理规范' },
-  { name: 'ISO 9001', desc: '质量管理体系' },
-  { name: 'ISO 22000', desc: '食品安全管理体系' },
-  { name: 'HACCP', desc: '危害分析与关键控制点' },
-];
-
-const processes = [
-  { step: '01', title: '原料检验', desc: '每批原料均进行身份鉴定、纯度和污染物检测。' },
-  { step: '02', title: '过程控制', desc: '提取过程中持续监控，确保质量稳定。' },
-  { step: '03', title: '成品检测', desc: '包括HPLC、GC和微生物在内的全面分析。' },
-  { step: '04', title: '放行与文档', desc: '每批产品均提供完整追溯性的检测报告。' },
+const cards = [
+  {
+    "title": "01 / 明确原料身份",
+    "description": "确认植物学名称、使用部位、原产地，以及适用的提取比例或指标成分含量、溶剂和载体。产品名称不能替代完整规格。",
+    "href": ""
+  },
+  {
+    "title": "02 / 约定验收标准",
+    "description": "根据应用与市场要求，约定身份、含量、物理性质及相关污染物限值。确认检测方法与报告单位；按需纳入微生物、重金属、农残或溶剂残留要求。",
+    "href": ""
+  },
+  {
+    "title": "03 / 审核 COA 与样品",
+    "description": "区分代表性 COA 与对应批次 COA，核对产品代码、批号、日期、方法、限值与结果。在实际配方中评估样品，并确认其是否代表拟供批次。",
+    "href": ""
+  },
+  {
+    "title": "04 / 核对证书",
+    "description": "索取适用证书，审核签发机构、场地、产品范围与有效期。认证不能替代批次验收检测或特定市场的法规评估。",
+    "href": "/about/certifications"
+  },
+  {
+    "title": "05 / 确认放行文件",
+    "description": "下单前确认批次 COA、包装、储存条件、保质期、追溯信息及目标市场所需声明，将适用要求写入报价与采购约定。",
+    "href": ""
+  },
+  {
+    "title": "06 / 放行前解决差异",
+    "description": "若结果、方法或文件与约定规格不符，应在出货前解决。买家需根据终产品及目的地评估原料适用性与法规状态。",
+    "href": ""
+  }
 ];
 ---
-
-<PageLayout
-  title="品质保证"
-  description="振隆药业品质保证：GMP、ISO 9001、ISO 22000、HACCP认证。HPLC、GC分析检测。每批产品均有完整追溯和检测报告。"
-  lang={lang}
-  heroTitle="品质是我们的基石"
-  heroSubtitle="生产每个环节的严格质量控制"
->
-  <!-- Certifications -->
-  <section class="section-padding bg-off-white">
-    <div class="container-wide">
-      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8 text-center">资质认证</h2>
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
-        {certifications.map((cert) => (
-          <div class="bg-white p-6 rounded-xl text-center shadow-sm">
-            <div class="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
-              <svg class="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-              </svg>
-            </div>
-            <h3 class="font-semibold text-gray-900">{cert.name}</h3>
-            <p class="text-sm text-gray-600 mt-1">{cert.desc}</p>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- Quality Process -->
+<PageLayout title="质量与文件审核" description="采购前，先约定规格. 有效的质量审核应将拟供原料、生产场地、检测方法与批次文件联系起来。初步审核可索取代表性 COA，再约定实际出货批次应提供的文件。" lang={lang} heroTitle="质量与文件审核" heroSubtitle="采购前，先约定规格">
   <section class="section-padding">
     <div class="container-wide">
-      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8 text-center">质量控制流程</h2>
-      <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-        {processes.map((process) => (
-          <div class="relative">
-            <span class="text-5xl font-display font-bold text-primary/10">{process.step}</span>
-            <h3 class="text-lg font-semibold text-gray-900 mt-2">{process.title}</h3>
-            <p class="text-gray-600 mt-2 text-sm">{process.desc}</p>
-          </div>
+      <p class="text-lg md:text-xl leading-relaxed text-gray-600 max-w-4xl">有效的质量审核应将拟供原料、生产场地、检测方法与批次文件联系起来。初步审核可索取代表性 COA，再约定实际出货批次应提供的文件。</p>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">
+        {cards.map((card) => (
+          <article class="p-7 rounded-xl bg-off-white border border-primary/10 hover:border-primary/30 transition-colors">
+            <h2 class="text-xl font-display font-bold text-gray-900">{card.title}</h2>
+            <p class="mt-4 text-gray-600 leading-relaxed">{card.description}</p>
+            {card.href && <a href={getLocalizedPath(card.href, lang)} class="inline-flex mt-5 text-primary font-semibold hover:underline">查看详情 →</a>}
+          </article>
         ))}
       </div>
     </div>
   </section>
-
-  <!-- CTA -->
   <section class="bg-primary py-16">
     <div class="container-wide text-center">
-      <h3 class="text-2xl font-display font-bold text-white">需要质量文档？</h3>
-      <p class="mt-4 text-gray-200">索取检测报告、认证文件或预约工厂审核。</p>
-      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-6 px-8 py-3 bg-accent text-white rounded-lg font-medium hover:bg-accent-dark transition-colors">
-        联系质量团队
-      </a>
+      <h2 class="text-2xl md:text-3xl font-display font-bold text-white">开始产品与文件审核</h2>
+      <p class="mt-4 text-white/80 max-w-2xl mx-auto">请提供原料、规格、应用、目的地及预计数量，并说明样品与文件要求。可供情况及文件范围按具体产品确认。</p>
+      <a href={getLocalizedPath('/request-quote', lang)} class="inline-flex mt-7 px-7 py-3 bg-accent text-white rounded-lg font-semibold hover:bg-accent-dark transition-colors">申请样品与 COA</a>
+      <a href={getLocalizedPath('/products', lang)} class="inline-flex mt-7 ml-4 px-7 py-3 border border-white/50 text-white rounded-lg font-semibold hover:bg-white/10">浏览原料</a>
     </div>
   </section>
 </PageLayout>

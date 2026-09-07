@@ -1,0 +1,48 @@
+---
+interface Props { lang: 'en' | 'zh' }
+const { lang } = Astro.props;
+const zh = lang === 'zh';
+const fieldClass = 'w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-primary focus:border-transparent bg-white';
+---
+<div class="mb-8 p-6 bg-primary/5 rounded-xl space-y-3 text-gray-700">
+  <h2 class="text-xl font-semibold">{zh ? '提交前请了解' : 'Before you send'}</h2>
+  <p>{zh ? '请提供产品、规格、用途和目标市场。我们需要先核对可供规格、文件及商业条件；样品、价格、最小起订量和交期均以书面确认为准。' : 'Share your product, specification, application and target market. Available grades, documents and commercial terms need review; samples, pricing, MOQ and delivery are subject to written confirmation.'}</p>
+  <p id="form-privacy">{zh ? '此表单通过第三方服务 FormSubmit 处理，提交后将离开本站。您填写的信息会发送给该服务并用于业务询盘。请勿上传敏感个人信息或保密配方。邮件投递及服务激活状态尚未核实，本站不会显示已送达确认。' : 'This form is processed by FormSubmit, a third-party service; submission takes you off this site. Your entries are sent to that service for this business inquiry. Do not include sensitive personal data or confidential formulas. Email delivery and service activation have not been verified; this site does not confirm receipt.'}</p>
+  <p><a class="text-primary underline" href="https://formsubmit.co/privacy.pdf" target="_blank" rel="noopener noreferrer">{zh ? 'FormSubmit 隐私政策（英文，外部链接）' : 'FormSubmit privacy policy (external)'}</a></p>
+  <p>{zh ? '也可使用您自己的邮箱直接发送需求：' : 'Alternatively, send your requirements from your own email client: '}<a class="text-primary underline" href="mailto:info@zlbotanicals.com">info@zlbotanicals.com</a></p>
+</div>
+<form class="space-y-8" action="https://formsubmit.co/info@zlbotanicals.com" method="POST" aria-describedby="form-privacy">
+  <input type="hidden" name="_subject" value="Procurement inquiry - ZL Botanicals" />
+  <input type="hidden" name="_template" value="table" />
+  <p class="text-sm text-gray-600">{zh ? '* 为必填项；不确定的选填项目可注明“待确认”。' : '* Required. For optional details that are not yet known, enter “to be confirmed”.'}</p>
+  <div><label for="request" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '请求类型 *' : 'Request type *'}</label>
+    <select id="request" name="request" required class={fieldClass}>
+      <option value="quote">{zh ? '报价' : 'Quote'}</option><option value="sample">{zh ? '样品评估' : 'Sample evaluation'}</option><option value="COA">{zh ? '分析证书 (COA)' : 'Certificate of Analysis (COA)'}</option><option value="TDS">{zh ? '技术数据表 (TDS)' : 'Technical Data Sheet (TDS)'}</option><option value="certification">{zh ? '认证文件核查' : 'Certification copy review'}</option><option value="application">{zh ? '应用需求讨论' : 'Application discussion'}</option>
+    </select>
+  </div>
+  <div class="grid md:grid-cols-2 gap-6">
+    <div><label for="company" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '公司名称 *' : 'Company name *'}</label><input id="company" name="company" type="text" required class={fieldClass} /></div>
+    <div><label for="name" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '联系人 *' : 'Contact name *'}</label><input id="name" name="name" type="text" required class={fieldClass} /></div>
+    <div><label for="email" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '业务邮箱 *' : 'Business email *'}</label><input id="email" name="email" type="email" required class={fieldClass} /></div>
+    <div><label for="phone" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '电话（选填）' : 'Phone (optional)'}</label><input id="phone" name="phone" type="tel"  class={fieldClass} /></div>
+    <div><label for="country" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '公司所在国家或地区 *' : 'Company country / region *'}</label><input id="country" name="country" type="text" required class={fieldClass} /></div>
+    <div><label for="product" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '产品名称 / 规格 *' : 'Product / specification *'}</label><input id="product" name="product" type="text" required class={fieldClass} /></div>
+    <div><label for="market" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '目标销售市场 *' : 'Target sales market *'}</label><input id="market" name="market" type="text" required class={fieldClass} /></div>
+    <div><label for="first_order_quantity" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '首单数量及单位' : 'First order quantity and unit'}</label><input id="first_order_quantity" name="first_order_quantity" type="text"  class={fieldClass} /></div>
+    <div><label for="volume" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '预计年用量及单位' : 'Estimated annual volume and unit'}</label><input id="volume" name="volume" type="text"  class={fieldClass} /></div>
+    <div><label for="application" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '应用 / 终端产品' : 'Application / finished product'}</label><input id="application" name="application" type="text"  class={fieldClass} /></div>
+    <div><label for="certifications" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '认证要求（或无 / 待确认）' : 'Certification requirements (or none / unsure)'}</label><input id="certifications" name="certifications" type="text"  class={fieldClass} /></div>
+    <div><label for="desired_delivery" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '期望交付日期 / 时间范围（非交付承诺）' : 'Desired delivery date / window (not a commitment)'}</label><input id="desired_delivery" name="desired_delivery" type="text"  class={fieldClass} /></div>
+  </div>
+  <div><label for="requirements" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '其他要求 / 文件范围 / 收货目的地' : 'Additional requirements / document scope / delivery destination'}</label><textarea id="requirements" name="requirements" rows="5" class={fieldClass}></textarea></div>
+  <button type="submit" class="w-full py-4 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">{zh ? '通过 FormSubmit 发送询盘' : 'Send inquiry via FormSubmit'}</button>
+</form>
+<script is:inline>
+  const params = new URLSearchParams(window.location.search);
+  const productField = document.getElementById('product');
+  const requestField = document.getElementById('request');
+  const productValue = params.get('product');
+  const requestValue = params.get('request');
+  if (productField && productValue) productField.value = productValue.slice(0, 500);
+  if (requestField && Array.from(requestField.options).some(option => option.value === requestValue)) requestField.value = requestValue;
+</script>

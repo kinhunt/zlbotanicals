@@ -2,7 +2,7 @@
 name: Reishi Mushroom Extract
 latinName: Ganoderma lucidum
 lang: en
-description: Reishi mushroom extract is rich in polysaccharides and triterpenes, a precious traditional medicine with immune-modulating and calming properties.
+description: "Reishi extract sourcing, with guidance on species, fungal part, beta-glucan methods and application fit."
 image: /images/products/reishi-mushroom.webp
 solutions:
   - liver-support-gummy
@@ -10,36 +10,32 @@ solutions:
   - deep-sleep-capsule
 ---
 
-## Overview
+## Material identity and selection
 
-Reishi mushroom (*Ganoderma lucidum*), known as the "Mushroom of Immortality," is a precious traditional Chinese medicine. Its main active components include **polysaccharides** and **triterpenes (ganoderic acids)**, offering a wide range of health benefits.
+Reishi is a trade name covering different Ganoderma materials. This page identifies *Ganoderma lucidum*; require species evidence for the supplied lot and distinguish fruiting body, mycelium and spores.
 
-## Key Active Compounds
+## Indicative specification brief
 
-| Compound | Content Range | Characteristics |
-|----------|--------------|-----------------|
-| Polysaccharides | 10-50% | Immune modulation |
-| Triterpenes | 1-8% | Liver protection, research applications |
-| β-Glucan | 10-40% | Immune support |
-| Ganoderic Acids | 0.5-4% | Comprehensive wellness |
+The following specification topics are indicative, not released specifications, stock availability or actual test results. Grade, numerical limits and methods require written confirmation before purchase.
 
-## Applications
+Specify beta-glucan separately from total polysaccharides, with a method accounting for alpha-glucan or starch where relevant. Define the triterpene assay and reference standard if required.
 
-- **Nutraceuticals**: Immune support, sleep aid formulas
-- **Functional Foods**: Reishi coffee, reishi tea
-- **Pharmaceutical**: Immune-modulating preparations
-- **Cosmetics**: Antioxidant, repair products
+Ask about growth substrate, residual substrate, extraction solvents, carriers and identity tests. An extract ratio alone does not establish beta-glucan content or authenticity.
 
-## Product Specifications
+## Application development checks
 
-- Polysaccharides 10%, 20%, 30%, 50%
-- Triterpenes 1%, 2%, 4%
-- Shell-broken spore powder
-- Organic certified products available
+Compare bitterness, dispersibility and sediment in beverage or gummy prototypes. Review heat exposure and marker retention in the actual process. Composition data do not establish sleep effects or replace safety assessment.
 
-## Quality Standards
+## Documents to request before approval
 
-Our reishi mushroom extracts comply with:
-- Chinese Pharmacopoeia standards
-- USP dietary supplement standards
-- Organic certification standards (optional)
+- A current specification and batch-specific COA tied to the offered lot, including methods, units and acceptance criteria. Distinguish measured from calculated results.
+- Identity, plant part, extraction process and full composition, including carriers and processing aids.
+- A risk-based contaminant panel for relevant pesticides, elemental contaminants, microbiology and residual solvents, with limits agreed for the intended market.
+- Allergen and traceability statements. If certification is required, verify issuer, site, scope and expiry for the exact material; this page does not imply blanket certification.
+- Written packaging, storage, retest or shelf-life basis, sample-to-production equivalence, lead time and change-notification terms.
+
+## Send a useful sourcing brief
+
+Share destination market, application format, intended process, marker priorities, exclusions, sample needs and expected order scale. Request available documentation before trial approval; supply availability and testing scope need confirmation.
+
+[Discuss ingredient sourcing](/contact).

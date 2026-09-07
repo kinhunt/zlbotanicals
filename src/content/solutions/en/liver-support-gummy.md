@@ -1,135 +1,38 @@
 ---
-name: Herbal Liver Support Gummy
+name: "Multi-Botanical Gummy Development Concept"
 industry: nutraceuticals
 lang: en
-description: A functional gummy for busy professionals, combining Goji polysaccharides, Reishi triterpenes, and nano-curcumin for triple-action liver support.
+description: "A feasibility framework for a botanical gummy using goji, reishi or turmeric ingredients. The legacy URL does not substantiate liver support, alcohol protection or treatment; those are not claims for this concept."
 image: /images/solutions/liver-support-gummy.webp
 ---
 
-## Product Concept
+## Application concept and scope
 
-**Herbal Liver Support Gummy** — Daily liver care designed for modern professionals who work late and socialize often.
+A feasibility framework for a botanical gummy using goji, reishi or turmeric ingredients. The legacy URL does not substantiate liver support, alcohol protection or treatment; those are not claims for this concept.
 
-- **Target Audience**: Professionals aged 25-45 with demanding schedules, frequent business dinners, late nights
-- **Usage Occasions**: Desk essential, travel companion, before/after social drinking
-- **Positioning**: Traditional herbal wisdom in a modern gummy format, 2 gummies daily for effortless liver care
+This is an application concept, not a validated commercial formula. It is not an offer of finished-goods manufacturing, a dosage recommendation or a performance guarantee. Ingredient availability, specifications and any technical support scope require written confirmation.
 
-### Market Insights
+## Ingredient selection questions
 
-Functional gummies are the fastest-growing supplement format globally:
+1. Screen each botanical separately before combining. Define goji sugars and carriers, reishi species and beta-glucan methods, and turmeric curcuminoid profile and dispersion system.
 
-- Global functional gummy market projected to reach **$9.8 billion by 2027**
-- Liver health supplement category growing at **15%+ annually** in Asia
-- **68%** of younger consumers prefer gummies over tablets/capsules
+2. Check whether licorice is needed for the flavor brief at all; any inclusion needs glycyrrhizin exposure and safety review. Do not add ingredients merely to support an organ-health narrative.
 
----
+3. Pilot gel setting, bitterness, color, particle distribution, water activity, stickiness and syneresis. Test marker recovery and unit-to-unit uniformity after cooking.
 
-## Formulation Highlights
+4. Set microbial, stability, packaging and label acceptance criteria with the finished-product team. No serving amount or liver-protection positioning is established by this page.
 
-### Triple-Action Liver Support System
+## Development gates before scale-up
 
-Based on Traditional Chinese Medicine principles combined with modern pharmacology, we've developed a **"Cleanse-Protect-Repair" triple-action system**:
+- **Brief:** Confirm destination market, product category, intended users, sensory target and ingredient exclusions. Check legal eligibility for each exact material before pilot work.
+- **Raw materials:** Request specifications, batch-specific COAs, full carrier composition, traceability and a risk-based contaminant panel. Agree methods and acceptance criteria, not just marker percentages.
+- **Pilot:** Document actual processing conditions and compare controls with candidate ingredients. The observations above are proposed tests, not results already obtained.
+- **Release:** The finished-product manufacturer and qualified specialists must establish food safety, stability, packaging compatibility, nutrition labeling and any claim substantiation. An ingredient COA cannot validate the finished product.
 
-#### 1. Goji Polysaccharides — Free Radical Scavenging
+## Prepare a technical inquiry
 
-Lycium Barbarum Polysaccharides (LBP) are the core bioactive in goji berries. Our **low-temperature water extraction + ethanol precipitation** process preserves polysaccharide activity:
+Send the target format, market, equipment constraints, sample requirements and quality priorities. Ask which documents and samples can be supplied; confirm services, lead time and commercial terms separately.
 
-| Specification | ZL Botanicals Grade |
-|--------------|---------------------|
-| Polysaccharide Content | ≥40% |
-| Molecular Weight | 10-50 kDa (optimal absorption) |
-| Protein Residue | <3% (low allergenicity) |
+Related ingredient briefs: [Goji Berry](/products/goji-berry) · [Reishi Mushroom](/products/reishi-mushroom) · [Turmeric](/products/turmeric) · [Licorice Root](/products/licorice-root) · [Monk Fruit](/products/monk-fruit).
 
-**Mechanism**: LBP activates the Nrf2 pathway, upregulating hepatic antioxidant enzymes (SOD, GSH-Px) to neutralize excess free radicals from late nights and alcohol consumption.
-
-#### 2. Reishi Triterpenes — Hepatocyte Protection
-
-Reishi triterpenes (the "bitter compounds") are the core liver-protective actives. Our **supercritical CO₂ extraction** concentrates these compounds:
-
-| Specification | ZL Botanicals Grade |
-|--------------|---------------------|
-| Total Triterpenes | ≥8% |
-| Ganoderic Acid A | ≥1.5% |
-| Heavy Metals | Pharmacopoeia compliant |
-
-**Mechanism**: Reishi triterpenes inhibit CYP2E1 enzyme activity, reducing acetaldehyde-induced hepatocyte damage from alcohol metabolism; simultaneously activate AMPK pathway to promote hepatic lipid metabolism.
-
-#### 3. Nano-Curcumin — Liver Damage Repair
-
-Curcumin is a potent natural anti-inflammatory. Our **nano-emulsion technology** solves the bioavailability challenge:
-
-| Specification | Standard Curcumin | ZL Nano-Curcumin |
-|--------------|-------------------|------------------|
-| Curcumin Content | 95% | 95% |
-| Particle Size | >10μm | <200nm |
-| Bioavailability | 1× (baseline) | **27×** |
-
-**Mechanism**: Curcumin inhibits the NF-κB pathway, reducing hepatic inflammation; promotes hepatic stellate cell apoptosis, reversing early-stage fibrosis.
-
-### Synergistic Enhancement: Glycyrrhizic Acid
-
-We add **Glycyrrhizic Acid** from licorice root as a synergistic component:
-
-- **Solubilization**: Improves curcumin dissolution in the GI tract
-- **Synergistic Protection**: Glycyrrhizic acid itself has anti-inflammatory, hepatoprotective activity
-- **Taste Masking**: Balances the bitterness of Reishi triterpenes
-
----
-
-## Recommended Formula
-
-**Per Gummy (3g) Reference Formula**
-
-| Ingredient | Per Gummy | Daily Intake (2 gummies) |
-|-----------|-----------|-------------------------|
-| Goji Extract (LBP ≥40%) | 150mg | 300mg |
-| Reishi Extract (Triterpenes ≥8%) | 100mg | 200mg |
-| Nano-Curcumin (95% curcuminoids) | 50mg | 100mg |
-| Licorice Extract (Glycyrrhizic acid ≥20%) | 25mg | 50mg |
-| Mogroside V (sweetener) | 3mg | 6mg |
-| Pectin (gelling agent) | As needed | - |
-| Citric Acid (acidulant) | As needed | - |
-| Natural Flavor (honey lemon) | As needed | - |
-
-**Suggested Product Specifications**
-- Per bottle: 60 gummies (30-day supply)
-- Per gummy weight: 3g
-- Suggested retail: $25-40
-
-### Process Guidelines
-
-1. **Active Pre-mixing**: Blend goji, reishi, curcumin extracts with portion of pectin solution
-2. **Temperature Control**: Keep cooking temperature below 85°C to preserve active compounds
-3. **Molding**: Starch mold recommended; light sugar coating prevents sticking
-4. **Packaging**: Light-protected, sealed; individual sachets recommended for freshness
-
----
-
-## Value We Provide
-
-### Ingredient Specifications
-
-| Product | Recommended Grade | Features |
-|---------|------------------|----------|
-| Goji Extract | GB-LBP40 | LBP ≥40%, low-temp extraction |
-| Reishi Extract | RL-T8 | Triterpenes ≥8%, supercritical CO₂ |
-| Nano-Curcumin | TM-NC95 | 27× bioavailability |
-| Licorice Extract | GL-GA20 | Glycyrrhizic acid ≥20% |
-| Mogroside V | MF-V50 | Clean sweetness, zero calories |
-
-### Technical Services
-
-- **Formula Optimization**: Adjust active ingredient ratios based on cost targets
-- **Flavor Development**: Honey lemon, blueberry, green apple options available
-- **Stability Validation**: Stability data for actives in gummy matrix
-- **Efficacy Support**: In vitro/animal study data to support product claims
-
-### Regulatory Support
-
-- All ingredients compliant with dietary supplement regulations
-- Complete testing reports and manufacturing certificates
-- Assistance with NDI notifications and product registration
-
----
-
-> Ready to create your liver support gummy line? [Contact us](/contact) for samples and complete technical proposals.
+[Discuss an ingredient brief](/contact).

@@ -9,6 +9,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
+    "test": "npm run build && node --test tests/*.test.mjs",
+    "test:browser": "node scripts/browser-smoke.mjs",
     "astro": "astro"
   },
   "dependencies": {

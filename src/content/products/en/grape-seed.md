@@ -2,38 +2,36 @@
 name: Grape Seed Extract
 latinName: Vitis vinifera
 lang: en
-description: Grape seed extract is rich in oligomeric proanthocyanidins (OPC), a powerful natural antioxidant widely used in nutraceuticals and cosmetics.
+description: "Grape seed extract sourcing, covering OPC methods, identity verification and liquid or dry-blend compatibility."
 image: /images/products/grape-seed.webp
 ---
 
-## Overview
+## Material identity and selection
 
-Grape seed extract is derived from the seeds of grapes (*Vitis vinifera*) and is one of the most potent natural antioxidants known. Its main active component is **oligomeric proanthocyanidins (OPC)**, with antioxidant capacity 20 times that of vitamin C and 50 times that of vitamin E.
+Seed extract of *Vitis vinifera*. Confirm seed identity and distinguish it from grape skin or mixed grape extracts.
 
-## Key Active Compounds
+## Indicative specification brief
 
-| Compound | Content Range | Characteristics |
-|----------|--------------|-----------------|
-| OPC | 40-98% | Superior antioxidant |
-| Polyphenols | 70-95% | Comprehensive antioxidant |
-| Catechin/Epicatechin | 5-15% | Vascular protection |
+The following specification topics are indicative, not released specifications, stock availability or actual test results. Grade, numerical limits and methods require written confirmation before purchase.
 
-## Applications
+Define OPC or proanthocyanidins, including assay method and reference standard. Total polyphenols and oligomeric proanthocyanidins are not interchangeable specifications.
 
-- **Nutraceuticals**: Antioxidant, cardiovascular health formulas
-- **Cosmetics**: Anti-aging, brightening skincare
-- **Functional Foods**: Antioxidant food ingredients
-- **Pharmaceutical**: Vascular protection preparations
+Request an identity fingerprint and explanation of adulteration controls. Agree solvent-residue and contaminant testing appropriate to the process.
 
-## Product Specifications
+## Application development checks
 
-- OPC 40%, 60%, 80%, 95%
-- Polyphenols 80%, 95%
-- Water-soluble products
+Assess astringency, color and haze, especially in protein-containing liquids. For capsules, check density and blend uniformity. Compare lots using the same method, not antioxidant marketing rankings.
 
-## Quality Standards
+## Documents to request before approval
 
-Our grape seed extracts comply with:
-- European Pharmacopoeia standards
-- USP standards
-- French origin standards
+- A current specification and batch-specific COA tied to the offered lot, including methods, units and acceptance criteria. Distinguish measured from calculated results.
+- Identity, plant part, extraction process and full composition, including carriers and processing aids.
+- A risk-based contaminant panel for relevant pesticides, elemental contaminants, microbiology and residual solvents, with limits agreed for the intended market.
+- Allergen and traceability statements. If certification is required, verify issuer, site, scope and expiry for the exact material; this page does not imply blanket certification.
+- Written packaging, storage, retest or shelf-life basis, sample-to-production equivalence, lead time and change-notification terms.
+
+## Send a useful sourcing brief
+
+Share destination market, application format, intended process, marker priorities, exclusions, sample needs and expected order scale. Request available documentation before trial approval; supply availability and testing scope need confirmation.
+
+[Discuss ingredient sourcing](/contact).

@@ -1,7 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Hero from '../../components/home/Hero.astro';
-import TrustIndicators from '../../components/home/TrustIndicators.astro';
 import LatestBlogs from '../../components/home/LatestBlogs.astro';
 import AboutPreview from '../../components/home/AboutPreview.astro';
 import ProductCategories from '../../components/home/ProductCategories.astro';
@@ -12,13 +11,12 @@ import CTASection from '../../components/home/CTASection.astro';
 const lang = 'zh';
 ---
 
-<BaseLayout title="优质植物提取物生产商" lang={lang}>
+<BaseLayout title="企业植物原料采购" description="为企业采购筛选植物原料，审核产品对应质量资料，申请样品与 COA。" lang={lang}>
   <Hero lang={lang} />
-  <TrustIndicators lang={lang} />
-  <LatestBlogs lang={lang} />
-  <AboutPreview lang={lang} />
   <ProductCategories lang={lang} />
+  <AboutPreview lang={lang} />
   <WhyChooseUs lang={lang} />
   <Applications lang={lang} />
+  <LatestBlogs lang={lang} />
   <CTASection lang={lang} />
 </BaseLayout>

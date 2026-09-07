@@ -1,75 +1,61 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
 import { getLocalizedPath } from '../i18n/config';
-
 const lang = 'en';
-
-const certifications = [
-  { name: 'GMP', desc: 'Good Manufacturing Practice' },
-  { name: 'ISO 9001', desc: 'Quality Management System' },
-  { name: 'ISO 22000', desc: 'Food Safety Management' },
-  { name: 'HACCP', desc: 'Hazard Analysis Critical Control Points' },
-];
-
-const processes = [
-  { step: '01', title: 'Raw Material Inspection', desc: 'Every batch of raw materials undergoes identity, purity, and contaminant testing.' },
-  { step: '02', title: 'In-Process Controls', desc: 'Continuous monitoring during extraction ensures consistent quality.' },
-  { step: '03', title: 'Final Product Testing', desc: 'Comprehensive analysis including HPLC, GC, and microbial testing.' },
-  { step: '04', title: 'Release & Documentation', desc: 'Full traceability with Certificate of Analysis for every batch.' },
+const cards = [
+  {
+    "title": "01 / Define material identity",
+    "description": "Confirm botanical name, plant part, origin, extraction ratio or marker assay, solvent and carrier where relevant. A product name alone is not a complete specification.",
+    "href": ""
+  },
+  {
+    "title": "02 / Set acceptance criteria",
+    "description": "Agree identity, assay, physical properties and relevant contaminant limits for your application and market. Confirm analytical methods and reporting units; include microbiology, metals, pesticides or residual solvents where required.",
+    "href": ""
+  },
+  {
+    "title": "03 / Review COA & samples",
+    "description": "Distinguish a representative COA from a batch-specific COA. Check product code, lot number, dates, methods, limits and results. Evaluate the sample in your formulation; confirm whether it represents the supply batch.",
+    "href": ""
+  },
+  {
+    "title": "04 / Check certificates",
+    "description": "Request applicable certificates and verify issuer, site, product scope and validity. Certification does not replace batch acceptance testing or market-specific regulatory review.",
+    "href": "/about/certifications"
+  },
+  {
+    "title": "05 / Agree release documents",
+    "description": "Before ordering, confirm the batch COA, packaging, storage, shelf life, traceability information and any declarations needed for your market. Document which requirements are included in the quotation.",
+    "href": ""
+  },
+  {
+    "title": "06 / Resolve questions before release",
+    "description": "If a result, method or document does not meet the agreed specification, resolve it before shipment. Buyers should assess suitability and regulatory status for their final product and destination.",
+    "href": ""
+  }
 ];
 ---
-
-<PageLayout
-  title="Quality Assurance"
-  description="ZL Botanicals quality assurance: GMP, ISO 9001, ISO 22000, HACCP certified. Rigorous testing with HPLC, GC analysis. Full traceability and COA for every batch."
-  lang={lang}
-  heroTitle="Quality is Our Foundation"
-  heroSubtitle="Rigorous quality control at every stage of production"
->
-  <!-- Certifications -->
-  <section class="section-padding bg-off-white">
-    <div class="container-wide">
-      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8 text-center">Our Certifications</h2>
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
-        {certifications.map((cert) => (
-          <div class="bg-white p-6 rounded-xl text-center shadow-sm">
-            <div class="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
-              <svg class="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-              </svg>
-            </div>
-            <h3 class="font-semibold text-gray-900">{cert.name}</h3>
-            <p class="text-sm text-gray-600 mt-1">{cert.desc}</p>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- Quality Process -->
+<PageLayout title="Quality & Documentation" description="Agree the specification before the purchase. A useful quality review connects the proposed ingredient, its manufacturing site, the test methods and the batch documents. Request a representative COA for initial review, then agree what must accompany the actual shipment." lang={lang} heroTitle="Quality & Documentation" heroSubtitle="Agree the specification before the purchase">
   <section class="section-padding">
     <div class="container-wide">
-      <h2 class="text-2xl font-display font-bold text-gray-900 mb-8 text-center">Quality Control Process</h2>
-      <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-        {processes.map((process) => (
-          <div class="relative">
-            <span class="text-5xl font-display font-bold text-primary/10">{process.step}</span>
-            <h3 class="text-lg font-semibold text-gray-900 mt-2">{process.title}</h3>
-            <p class="text-gray-600 mt-2 text-sm">{process.desc}</p>
-          </div>
+      <p class="text-lg md:text-xl leading-relaxed text-gray-600 max-w-4xl">A useful quality review connects the proposed ingredient, its manufacturing site, the test methods and the batch documents. Request a representative COA for initial review, then agree what must accompany the actual shipment.</p>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">
+        {cards.map((card) => (
+          <article class="p-7 rounded-xl bg-off-white border border-primary/10 hover:border-primary/30 transition-colors">
+            <h2 class="text-xl font-display font-bold text-gray-900">{card.title}</h2>
+            <p class="mt-4 text-gray-600 leading-relaxed">{card.description}</p>
+            {card.href && <a href={getLocalizedPath(card.href, lang)} class="inline-flex mt-5 text-primary font-semibold hover:underline">Explore further →</a>}
+          </article>
         ))}
       </div>
     </div>
   </section>
-
-  <!-- CTA -->
   <section class="bg-primary py-16">
     <div class="container-wide text-center">
-      <h3 class="text-2xl font-display font-bold text-white">Need Quality Documentation?</h3>
-      <p class="mt-4 text-gray-200">Request COAs, certifications, or schedule a facility audit.</p>
-      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-6 px-8 py-3 bg-accent text-white rounded-lg font-medium hover:bg-accent-dark transition-colors">
-        Contact Quality Team
-      </a>
+      <h2 class="text-2xl md:text-3xl font-display font-bold text-white">Start your product & document review</h2>
+      <p class="mt-4 text-white/80 max-w-2xl mx-auto">Share the ingredient, specification, application, destination and expected quantity. Include your sample and document requirements; availability is confirmed per product.</p>
+      <a href={getLocalizedPath('/request-quote', lang)} class="inline-flex mt-7 px-7 py-3 bg-accent text-white rounded-lg font-semibold hover:bg-accent-dark transition-colors">Request Samples & COA</a>
+      <a href={getLocalizedPath('/products', lang)} class="inline-flex mt-7 ml-4 px-7 py-3 border border-white/50 text-white rounded-lg font-semibold hover:bg-white/10">Explore Ingredients</a>
     </div>
   </section>
 </PageLayout>

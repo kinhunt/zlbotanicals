@@ -17,6 +17,11 @@ const t = useTranslations(lang);
 
 const siteTitle = `${title} | ${t('site.name')}`;
 const siteDescription = description || t('site.tagline');
+const path = Astro.url.pathname.replace(/\/$/, '') || '/';
+const englishPath = path.replace(/^\/zh(?=\/|$)/, '') || '/';
+const chinesePath = englishPath === '/' ? '/zh/' : `/zh${englishPath}`;
+const origin = 'https://zlbotanicals.com';
+const canonical = `${origin}${path === '/zh' ? '/zh/' : path}`;
 ---
 
 <!doctype html>
@@ -29,9 +34,17 @@ const siteDescription = description || t('site.tagline');
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700&display=swap" rel="stylesheet" />
-    <link rel="alternate" hreflang="en" href="https://zlbotanicals.com/" />
-    <link rel="alternate" hreflang="zh" href="https://zlbotanicals.com/zh/" />
-    <link rel="alternate" hreflang="x-default" href="https://zlbotanicals.com/" />
+    <link rel="canonical" href={canonical} />
+    <link rel="alternate" hreflang="en" href={`${origin}${englishPath}`} />
+    <link rel="alternate" hreflang="zh-CN" href={`${origin}${chinesePath}`} />
+    <link rel="alternate" hreflang="x-default" href={`${origin}${englishPath}`} />
+    <meta property="og:title" content={siteTitle} />
+    <meta property="og:description" content={siteDescription} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={t('site.name')} />
+    <meta name="twitter:card" content="summary" />
+    {path.endsWith('/thank-you') && <meta name="robots" content="noindex, follow" />}
     <title>{siteTitle}</title>
   </head>
   <body class="min-h-screen bg-white flex flex-col">
