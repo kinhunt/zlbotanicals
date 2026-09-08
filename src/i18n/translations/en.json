@@ -4,6 +4,14 @@
     "tagline": "Premium Botanical Extracts"
   },
   "nav": {
+    "plantExtracts": "Plant Extracts",
+    "extracts_basics": "Plant extract basics",
+    "extracts_ingredients": "Ingredient encyclopedia",
+    "extracts_processes": "Extraction processes",
+    "extracts_equipment": "Extraction equipment guide",
+    "extracts_applications": "Plant extract applications",
+    "extracts_standards": "Standards and regulatory references",
+    "extracts_insights": "Research and industry insights",
     "home": "Home",
     "about": "About",
     "aboutStory": "Our Story",

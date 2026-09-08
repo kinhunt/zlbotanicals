@@ -4,6 +4,14 @@
     "tagline": "优质植物提取物"
   },
   "nav": {
+    "plantExtracts": "植物提取物",
+    "extracts_basics": "植物提取物基础",
+    "extracts_ingredients": "原料成分百科",
+    "extracts_processes": "提取工艺",
+    "extracts_equipment": "提取设备指南",
+    "extracts_applications": "植物提取物应用",
+    "extracts_standards": "标准与法规参考",
+    "extracts_insights": "研究与行业观察",
     "home": "首页",
     "about": "关于振隆",
     "aboutStory": "品牌故事",

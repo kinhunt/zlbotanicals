@@ -1,0 +1,23 @@
+---
+import steps from '../data/extraction-video.json';
+interface Props {lang:'en'|'zh'}
+const {lang}=Astro.props;
+const zh=lang==='zh';
+---
+<section class="video-guide" aria-labelledby="video-heading">
+ <h2 id="video-heading">{zh?'40秒看懂提取路线':'The extraction route in 40 seconds'}</h2>
+ <p>{zh?'无声教学动画，含屏幕文字、可选字幕和下方完整文字稿。示意不是真实厂房，也不是通用生产规程。':'Silent educational animation with on-screen text, optional captions and a full transcript below. This is not a real facility or a universal production procedure.'}</p>
+ <video controls playsinline preload="none" width="1280" height="720" poster={`/media/extraction-${lang}.webp`} aria-label={zh?'植物提取路线概念动画':'Conceptual plant extraction route animation'} aria-describedby="video-transcript">
+  <source src={`/media/extraction-${lang}.mp4`} type="video/mp4" />
+  <track kind="captions" src={`/media/extraction-${lang}.vtt`} srclang={lang} label={zh?'中文字幕':'English captions'} />
+  <p>{zh?'浏览器不支持视频，请阅读下方文字稿。':'Your browser does not support video. Read the transcript below.'}</p>
+ </video>
+ <p><a href={`/media/extraction-${lang}.mp4`} download>{zh?'下载 MP4':'Download MP4'}</a> · <a href={`/media/extraction-${lang}.vtt`} download>{zh?'下载字幕':'Download captions'}</a></p>
+ <details id="video-transcript"><summary>{zh?'完整文字稿与视觉说明':'Full transcript and visual description'}</summary>
+  <p>{zh?'浅绿色背景中的编号圆点依次标记八个场景；底部进度条随步骤推进。动画仅表达下列文字，没有额外音频信息。':'Numbered circles on a pale green background identify eight scenes; a progress strip advances beneath them. The animation communicates the following text and contains no additional audio information.'}</p>
+  <ol>{steps[lang].map(([title,text],i)=><li><strong>{i*5}–{(i+1)*5}s · {title}</strong><p>{text}</p></li>)}</ol>
+ </details>
+</section>
+<style>
+.video-guide{max-width:1000px;margin:3rem 0}h2{font-size:1.65rem;font-weight:700;margin-bottom:1rem}p{line-height:1.8;margin:1rem 0}video{display:block;width:100%;height:auto;border-radius:10px;background:#edf3e8;border:1px solid #bdcdb5}a{text-decoration:underline;color:#345a27}summary{cursor:pointer;font-weight:600;padding:1rem 0}li{margin:1rem 0}details{border-bottom:1px solid #ccd8c4}a:focus-visible,summary:focus-visible,video:focus-visible{outline:3px solid #587943;outline-offset:4px}
+</style>

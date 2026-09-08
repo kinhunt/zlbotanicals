@@ -37,13 +37,13 @@ test('shared navigation exposes the bilingual buyer taxonomy and localized desti
     const ingredient = { label: 'Example ingredient', href: localize('/products/example') };
     const items = getSiteNavigation(t, localize, [ingredient]);
     assert.deepEqual(items.map(({ label }) => label), lang === 'en'
-      ? ['Products', 'Applications', 'Resources', 'Quality & Documents', 'About', 'Contact']
-      : ['产品中心', '行业应用', '技术与采购指南', '质量与文件', '关于振隆', '联系我们']);
-    assert.deepEqual(items.map(({ href }) => href), ['/products', '/solutions', '/resources', '/quality', '/about', '/contact'].map(localize));
-    assert.deepEqual(items[0].children.map(({ href }) => href), ['/products/example', '/products/herbal-powders', '/products/custom-formulation'].map(localize));
-    assert.deepEqual(items[2].children.map(({ href }) => href), ['/resources/ingredient-guides', '/resources/application-guides', '/resources/quality-guides', '/resources/sourcing-guides', '/resources/faq', '/resources/downloads', '/resources/blog'].map(localize));
-    assert.deepEqual(items[3].children.map(({ href }) => href), ['/quality', '/about/certifications', '/resources/downloads', '/request-quote?request=TDS'].map(localize));
-    assert.deepEqual(items[4].children.map(({ href }) => href), ['/about/story', '/about/facility'].map(localize));
+      ? ['Plant Extracts', 'Products', 'Applications', 'Resources', 'Quality & Documents', 'About', 'Contact']
+      : ['植物提取物', '产品中心', '行业应用', '技术与采购指南', '质量与文件', '关于振隆', '联系我们']);
+    assert.deepEqual(items.map(({ href }) => href), ['/plant-extracts', '/products', '/solutions', '/resources', '/quality', '/about', '/contact'].map(localize));
+    assert.deepEqual(items[1].children.map(({ href }) => href), ['/products/example', '/products/herbal-powders', '/products/custom-formulation'].map(localize));
+    assert.deepEqual(items[3].children.map(({ href }) => href), ['/resources/ingredient-guides', '/resources/application-guides', '/resources/quality-guides', '/resources/sourcing-guides', '/resources/faq', '/resources/downloads', '/resources/blog'].map(localize));
+    assert.deepEqual(items[4].children.map(({ href }) => href), ['/quality', '/about/certifications', '/resources/downloads', '/request-quote?request=TDS'].map(localize));
+    assert.deepEqual(items[5].children.map(({ href }) => href), ['/about/story', '/about/facility'].map(localize));
     for (const item of items) for (const child of item.children ?? []) {
       assert.ok(child.label && !child.label.startsWith('nav.'), 'every link has a translated label');
       if (lang === 'zh' && child !== ingredient) assert.match(child.label, /[\u3400-\u9fff]/);

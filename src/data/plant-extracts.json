@@ -1,0 +1,1212 @@
+{
+  "checked": "2026-09-08",
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sources": {
+
+  "ema": {
+    "title": "EMA — Quality of herbal medicinal products, Revision 3 (final, 2022)",
+    "url": "https://www.ema.europa.eu/en/quality-herbal-medicinal-products-traditional-herbal-medicinal-products-scientific-guideline",
+    "scope": {
+      "en": "Current effective version listed by EMA: Revision 3. Sections 3–5 address declaration, manufacture and control; medicinal-product scope, not general food authorization.",
+      "zh": "EMA列明的现行有效版本为第3修订版。第3至5节涉及标示、生产与控制，适用于药品，不是普通食品授权。"
+    }
+  },
+  "cosmetics": {
+    "title": "European Commission — Cosmetics legislation",
+    "url": "https://single-market-economy.ec.europa.eu/sectors/cosmetics/legislation_en",
+    "scope": {
+      "en": "EU finished cosmetics: Regulation (EC) 1223/2009 framework, safety report and claims references. Consult current amendments and ingredient restrictions for the specific formula.",
+      "zh": "欧盟成品化妆品：第1223/2009号法规框架、安全报告和声称参考。具体配方须查阅现行修订及原料限制。"
+    }
+  },
+  "spray": {
+    "title": "BUCHI — Spray drying: process principles",
+    "url": "https://buchi.com/en/spray-drying",
+    "scope": {
+      "en": "Manufacturer technical explanation of droplet formation and drying. Equipment examples and performance claims are not claims about ZL Botanicals.",
+      "zh": "制造商关于液滴形成与干燥的技术说明。设备示例和性能声称不代表振隆情况。"
+    }
+  },
+  "freeze": {
+    "title": "BUCHI — Freeze drying",
+    "url": "https://buchi.com/en/freeze-drying",
+    "scope": {
+      "en": "Manufacturer explanation of sublimation, vacuum and freeze-drying systems; not evidence of our equipment or validated settings.",
+      "zh": "制造商对升华、真空及冻干系统的说明，不是本企业设备或经验证参数的证据。"
+    }
+  }
+,
+    "who": {
+      "title": "WHO — Quality control methods for herbal materials (2011)",
+      "url": "https://www.who.int/publications/i/item/9789241500739",
+      "scope": {
+        "en": "Published technical manual, not a product authorization or a universal finished-extract specification.",
+        "zh": "已出版的技术手册，不是产品许可，也不是所有成品提取物的统一规格。"
+      }
+    },
+    "review": {
+      "title": "Zhang et al. — Techniques for extraction and isolation of natural products (2018)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5905184/",
+      "scope": {
+        "en": "Peer-reviewed methods review. Laboratory examples are not validated commercial recipes.",
+        "zh": "同行评审的方法综述。实验室示例不等于经过验证的商业生产配方。"
+      }
+    },
+    "gea": {
+      "title": "GEA — Plant Extracts",
+      "url": "https://www.gea.com/en/pharma-healthcare/nutraceuticals/plant-extracts/",
+      "scope": {
+        "en": "Equipment manufacturer explanation of unit operations; not evidence of equipment at ZL Botanicals.",
+        "zh": "设备制造商对单元操作的说明；不证明振隆拥有该设备。"
+      }
+    },
+    "ndi": {
+      "title": "FDA — New Dietary Ingredient Notification Process",
+      "url": "https://www.fda.gov/food/dietary-supplements/new-dietary-ingredients-ndi-notification-process",
+      "scope": {
+        "en": "US dietary supplements. Official index lists final procedural guidance (2024) separately from draft guidance (2016, 2022, 2024). Notification is not general product approval.",
+        "zh": "美国膳食补充剂。官方索引将2024年程序正式指南与2016、2022、2024年指南草案分开列示。通知不等于产品的普遍批准。"
+      }
+    },
+    "eu": {
+      "title": "European Commission — Novel Food status Catalogue",
+      "url": "https://food.ec.europa.eu/food-safety/novel-food/novel-food-status-catalogue_en",
+      "scope": {
+        "en": "EU reference tool, not an exhaustive authorization list. Supplement-only history does not automatically cover conventional foods.",
+        "zh": "欧盟参考工具，并非完整的授权清单。仅用于补充剂的食用历史不自动涵盖普通食品。"
+      }
+    },
+    "gras": {
+      "title": "FDA — Generally Recognized as Safe (GRAS)",
+      "url": "https://www.fda.gov/food/food-ingredients-packaging/generally-recognized-safe-gras",
+      "scope": {
+        "en": "US food uses under specified conditions. FDA describes an August 10, 2026 proposed rule: proposal, not final rule. Recheck the docket before relying on procedural requirements.",
+        "zh": "美国特定条件下的食品用途。FDA页面说明2026年8月10日的拟议规则：属于提案，不是最终规则。依赖程序要求前须重新核对案卷。"
+      }
+    },
+    "samr": {
+      "title": "SAMR — Plant extracts terminology, project 20213493-T-424",
+      "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=A60F061C0CDAACCCE05397BE0A0AFFE8",
+      "scope": {
+        "en": "This URL is a recommended national-standard PROJECT record. It is not sufficient evidence of the current final standard number or effective status; those remain unverified here.",
+        "zh": "此链接是推荐性国家标准项目记录，不能单独证明现行正式标准编号或实施状态；本页未核实这些信息。"
+      }
+    }
+  },
+  "sections": [
+    {
+      "slug": "basics",
+      "translations": {
+        "en": {
+          "title": "Plant extract basics",
+          "description": "Learn what an extract describes—and what a ratio, marker or powder format cannot establish.",
+          "blocks": [
+            {
+              "heading": "Start with the material identity",
+              "text": "A plant extract is a preparation obtained by transferring selected constituents from botanical material into a suitable medium, often followed by separation or concentration. The botanical species, plant part and preparation matter: a leaf water extract is not interchangeable with a seed oil or a whole-plant powder. Extraction changes the composition presented to the next manufacturing step; it does not turn a botanical name into a complete specification."
+            },
+            {
+              "heading": "Classify on more than one axis",
+              "text": "Describe the starting material, extraction medium, physical form and compositional control separately. Liquid, soft and dry extracts describe physical form. Water or hydroalcoholic extraction describes a process choice. A marker assay describes a measurement. None of these independently establishes safety, efficacy or eligibility for a food, supplement or cosmetic use."
+            },
+            {
+              "heading": "Read the documents together",
+              "text": "A useful comparison pairs the technical data sheet with the manufacturing summary and a batch-specific certificate of analysis. Ask whether carriers are included, how results are expressed, and which identity method is used. If two materials have the same headline ratio but different plant parts, solvents or test methods, treat them as different candidates until equivalence is demonstrated."
+            }
+          ]
+        },
+        "zh": {
+          "title": "植物提取物基础",
+          "description": "理解提取物的含义，以及比例、标志成分和粉末形态不能证明什么。",
+          "blocks": [
+            {
+              "heading": "从原料身份开始",
+              "text": "植物提取物是把植物原料中的部分成分转移到适宜介质中，常经分离或浓缩得到的制备物。植物物种、使用部位和制备方法都很重要：叶部水提物不能与种子油或全草粉直接互换。提取改变了进入后续生产环节的组成；植物名称本身并不是完整规格。"
+            },
+            {
+              "heading": "用多个维度分类",
+              "text": "应分别描述起始原料、提取介质、物理形态及组成控制。液体、稠膏和干燥提取物描述形态；水提或水醇提取描述工艺选择；标志成分含量描述测量结果。这些信息中的任何一项都不能单独证明安全性、功效或食品、补充剂、化妆品用途的合规性。"
+            },
+            {
+              "heading": "联合阅读文件",
+              "text": "有效比较应结合技术资料、工艺摘要和批次检测报告。询问是否含载体、结果采用何种计量基准、使用什么鉴别方法。即使两种原料标示比例相同，只要部位、溶剂或检测方法不同，就应先作为不同候选材料评价，而不能假设等同。"
+            }
+          ]
+        }
+      },
+      "references": [
+        "who",
+        "review"
+      ]
+    },
+    {
+      "slug": "ingredients",
+      "translations": {
+        "en": {
+          "title": "Ingredient encyclopedia",
+          "description": "Compare botanical identity and chemistry before comparing commercial grades.",
+          "blocks": [
+            {
+              "heading": "A botanical name is only the beginning",
+              "text": "An ingredient entry should connect an accepted scientific name, plant part, processing history and relevant analytical markers. Common names can cover different materials. Preserve the supplier’s traceable botanical identity and resolve synonyms before deciding whether published information applies to a candidate extract."
+            },
+            {
+              "heading": "Separate chemistry from benefit claims",
+              "text": "Polyphenols, glycosides and polysaccharides are broad chemical groupings, not interchangeable purchase grades or clinical outcomes. A total-content assay can hide differences in individual constituents. Ask for the method, reference standard and a fingerprint when appropriate. A measured marker can support consistency without proving the performance of a finished formulation."
+            },
+            {
+              "heading": "Use the supply catalogue for procurement",
+              "text": "These encyclopedia entries explain how to evaluate materials. Existing product pages remain the place to start a supply enquiry, with current availability and documents confirmed in writing. Mushroom materials appear in the wider botanical supply catalogue but are fungi, not plants; taxonomy should not be flattened for marketing convenience."
+            }
+          ]
+        },
+        "zh": {
+          "title": "原料成分百科",
+          "description": "先比较植物身份与化学组成，再比较商业等级。",
+          "blocks": [
+            {
+              "heading": "植物名称只是起点",
+              "text": "原料条目应关联科学名称、植物部位、加工历史和相关分析标志物。俗名可能涵盖不同材料。应保留供应商可追溯的植物身份，并先厘清异名，再判断文献信息是否适用于候选提取物。"
+            },
+            {
+              "heading": "区分成分与功效声称",
+              "text": "多酚、糖苷和多糖是宽泛的化学类别，不是可互换的采购等级，也不是临床结果。总量检测可能掩盖具体组分差异。应索取方法、对照品以及适用时的指纹图谱。标志物测量可以支持一致性评价，但不能证明成品配方的实际表现。"
+            },
+            {
+              "heading": "采购信息请查产品目录",
+              "text": "本百科说明如何评价材料。供货咨询仍应从现有产品页面开始，现行供货情况与文件需书面确认。广义植物原料目录中也有真菌原料，但蘑菇属于真菌而不是植物；不应为了营销方便而混淆分类。"
+            }
+          ]
+        }
+      },
+      "references": [
+        "who",
+        "review"
+      ]
+    },
+    {
+      "slug": "processes",
+      "translations": {
+        "en": {
+          "title": "Extraction processes",
+          "description": "Understand the purpose, trade-offs and validation boundary of each unit operation.",
+          "blocks": [
+            {
+              "heading": "Follow the separation objective",
+              "text": "An extraction route begins with a defined material and target composition. Pretreatment can include drying and size reduction; extraction then transfers soluble constituents into the selected medium. Filtration or centrifugation removes suspended solids. Concentration, further purification and drying may follow, but liquid products and volatile fractions can follow different routes."
+            },
+            {
+              "heading": "More yield is not always better",
+              "text": "Temperature, time, particle size and solvent composition interact with mass transfer and constituent stability. Increasing the mass recovered can also recover more unwanted material. Compare recovery of the relevant constituents, selectivity, energy and solvent demand, and downstream handling rather than treating gross yield as the only objective."
+            },
+            {
+              "heading": "Scale-up requires evidence",
+              "text": "Laboratory conditions do not directly establish plant-scale performance. Mixing, residence-time distribution, filter loading and heat transfer change with equipment and batch size. The schematic below deliberately omits temperatures, pressure, solvent ratios and operating instructions: each route needs qualified engineering, safety review and product-specific validation."
+            }
+          ]
+        },
+        "zh": {
+          "title": "提取工艺",
+          "description": "了解各单元操作的目的、权衡和验证边界。",
+          "blocks": [
+            {
+              "heading": "围绕分离目标选择工艺",
+              "text": "提取路线始于明确的原料与目标组成。前处理可包括干燥和粒度调整，提取使可溶成分进入所选介质，过滤或离心去除悬浮固体。此后可能浓缩、进一步纯化及干燥，但液体产品和挥发性组分可能采用不同路线。"
+            },
+            {
+              "heading": "得率更高不一定更好",
+              "text": "温度、时间、粒度和溶剂组成会共同影响传质与成分稳定性。回收质量增加也可能意味着更多不需要的物质被带出。应比较目标组分回收率、选择性、能源与溶剂需求及后续处理，而不是把总得率作为唯一目标。"
+            },
+            {
+              "heading": "放大需要证据",
+              "text": "实验室条件不能直接证明工厂规模表现。混合、停留时间分布、过滤负荷和传热会随设备及批量变化。下方示意有意省略温度、压力、溶剂比例和操作指令：每条路线都需要专业工程、安全审查和产品特定验证。"
+            }
+          ]
+        }
+      },
+      "references": [
+        "review",
+        "gea"
+      ]
+    },
+    {
+      "slug": "equipment",
+      "translations": {
+        "en": {
+          "title": "Extraction equipment guide",
+          "description": "Equipment education—not equipment sales or a claim about our facility.",
+          "blocks": [
+            {
+              "heading": "Match equipment to the operation",
+              "text": "An extraction vessel provides controlled contact between material and medium. Filters and centrifuges address solid–liquid separation; evaporators remove solvent; dryers convert suitable feeds into dry material. These roles can overlap within integrated systems, but one machine name does not define an entire extraction process."
+            },
+            {
+              "heading": "Ask about the actual feed",
+              "text": "Selection depends on solids loading, particle distribution, viscosity, solvent compatibility and cleaning requirements. A polishing separator is not automatically the right first step for a heavy slurry. Ask the equipment specialist to assess representative feed and define acceptance measures rather than accepting a brochure capacity as a guarantee."
+            },
+            {
+              "heading": "Keep safety and ownership claims separate",
+              "text": "Pressure systems, flammable solvents, dust and cleaning chemicals require qualified hazard assessment and applicable local controls. This guide does not provide operating procedures. The illustrations describe generic functions; no equipment model, throughput, in-house installation or certification is asserted for ZL Botanicals."
+            }
+          ]
+        },
+        "zh": {
+          "title": "提取设备指南",
+          "description": "设备知识介绍，不是设备销售，也不是本企业厂房配置声明。",
+          "blocks": [
+            {
+              "heading": "设备须匹配单元操作",
+              "text": "提取容器让原料与介质在受控条件下接触；过滤器与离心机承担固液分离；蒸发器去除溶剂；干燥器把适宜进料转为干燥物料。集成系统中功能可能交叉，但一个设备名称不能定义完整的提取工艺。"
+            },
+            {
+              "heading": "先了解真实进料",
+              "text": "选型取决于固体负荷、粒径分布、黏度、溶剂相容性与清洁要求。精分离设备不一定适合作为高固含浆料的第一道处理。应让设备专业人员评价代表性进料并制定验收指标，而不是把宣传册产能当作保证。"
+            },
+            {
+              "heading": "区分安全与设备归属声明",
+              "text": "压力系统、易燃溶剂、粉尘和清洗化学品需要专业危害评估及适用的当地控制措施。本指南不提供操作规程。示意图描述通用功能，不声明振隆拥有任何设备型号、处理量、内部安装或认证。"
+            }
+          ]
+        }
+      },
+      "references": [
+        "gea",
+        "review"
+      ]
+    },
+    {
+      "slug": "applications",
+      "translations": {
+        "en": {
+          "title": "Plant extract applications",
+          "description": "Move from an ingredient specification to a market-specific finished-product test plan.",
+          "blocks": [
+            {
+              "heading": "The finished matrix changes the question",
+              "text": "A dry extract that looks suitable on paper can behave differently in a clear beverage, gummy, capsule or emulsion. Solubility, dispersibility, taste, colour and physical stability should be evaluated in the actual matrix. A supplier assay does not replace formulation trials or finished-product safety assessment."
+            },
+            {
+              "heading": "Define measurable acceptance criteria",
+              "text": "Record the intended process, packaging, storage conditions and analytical method before testing. Compare colour, sediment, marker retention and sensory change over the proposed shelf-life study. Do not derive a shelf life or dosage from an encyclopedia entry. Existing solution pages are development concepts, not validated ready-to-manufacture recipes."
+            },
+            {
+              "heading": "Choose the legal category early",
+              "text": "Food, supplement and cosmetic uses require different reviews. A botanical’s history in one category or region does not establish permission for another preparation or use. Confirm identity, extraction method and intended conditions with a qualified regulatory specialist before finalizing labels, claims or commercial launch plans."
+            }
+          ]
+        },
+        "zh": {
+          "title": "植物提取物应用",
+          "description": "从原料规格走向针对目标市场的成品测试计划。",
+          "blocks": [
+            {
+              "heading": "成品基质改变评价问题",
+              "text": "纸面规格看似合适的干燥提取物，在透明饮料、软糖、胶囊或乳液中可能表现不同。应在真实基质中评价溶解性、分散性、味道、颜色和物理稳定性。供应商含量检测不能代替配方试验或成品安全评价。"
+            },
+            {
+              "heading": "制定可测量的验收标准",
+              "text": "测试前记录拟采用工艺、包装、储存条件与分析方法。在拟定的货架期研究中比较颜色、沉淀、标志成分保留和感官变化。不能从百科条目推导保质期或用量。现有方案页面属于开发概念，不是经过验证可直接生产的配方。"
+            },
+            {
+              "heading": "尽早确定法律类别",
+              "text": "食品、补充剂与化妆品用途需要不同审查。某植物在一个类别或地区的使用历史，并不能证明另一种制备物或用途获准。确定标签、声称和上市计划前，应请具备资质的法规人员核对身份、提取方法及预期使用条件。"
+            }
+          ]
+        }
+      },
+      "references": [
+        "eu",
+        "ndi",
+        "gras"
+      ]
+    },
+    {
+      "slug": "standards",
+      "translations": {
+        "en": {
+          "title": "Standards and regulatory references",
+          "description": "A scoped reference register with checked dates, not a blanket compliance badge.",
+          "blocks": [
+            {
+              "heading": "Identify jurisdiction and document type",
+              "text": "A technical manual, voluntary terminology standard, binding regulation and draft guidance have different roles. Begin with the intended market and product category, then identify the document, version, scope and legal status. Terminology helps people describe a material consistently; it does not authorize that material for every food or health use."
+            },
+            {
+              "heading": "Check the current official record",
+              "text": "The register below separates published references from proposals and unresolved status. In particular, the linked Chinese terminology record is a standard project record, not proof of a current GB/T number. We do not promote a 2022 consultation article into a current standard. Obtain the final official record and applicable text before citing a standard in a purchase contract."
+            },
+            {
+              "heading": "Separate organization credentials from product evidence",
+              "text": "A management-system certificate applies to its named entity, site and scope. It is not a batch COA or proof that a specific extract is eligible in a destination market. Request current scoped documents, verify the issuer and validity, and separately agree analytical acceptance criteria for the actual material and application."
+            }
+          ]
+        },
+        "zh": {
+          "title": "标准与法规参考",
+          "description": "提供范围和核查日期的参考登记，不是普遍合规标识。",
+          "blocks": [
+            {
+              "heading": "确定司法辖区与文件类型",
+              "text": "技术手册、自愿性术语标准、强制法规和指南草案作用不同。应从目标市场及产品类别开始，确定文件、版本、范围和法律状态。术语有助于一致描述材料，但不代表材料在所有食品或健康用途都获得许可。"
+            },
+            {
+              "heading": "核对现行官方记录",
+              "text": "下方登记区分已出版参考、提案及尚未解决的状态问题。特别是，中国术语链接属于标准项目记录，不证明当前GB/T编号。本页不把2022年的征求意见报道当作现行标准。采购合同引用标准前，应取得正式官方记录与适用文本。"
+            },
+            {
+              "heading": "区分组织资质与产品证据",
+              "text": "管理体系证书适用于列明的主体、场所和范围。它不是批次检测报告，也不证明某提取物在目的地市场具有使用资格。应索取现行范围明确的文件、核查签发方和有效期，并为实际材料及用途单独约定分析验收标准。"
+            }
+          ]
+        }
+      },
+      "references": [
+        "who",
+        "ndi",
+        "eu",
+        "gras",
+        "samr"
+      ]
+    },
+    {
+      "slug": "insights",
+      "translations": {
+        "en": {
+          "title": "Research and industry insights",
+          "description": "Learn to interpret evidence, regulatory updates and process comparisons without hype.",
+          "blocks": [
+            {
+              "heading": "Read what a study actually tested",
+              "text": "Extract composition, test system and endpoint determine what a paper can support. A solvent-screening study may inform method development, but it is not a human efficacy trial. Even human research on one defined preparation does not automatically transfer to a differently processed ingredient with the same common plant name."
+            },
+            {
+              "heading": "Compare processes with a common boundary",
+              "text": "A claim such as “greener extraction” needs a defined comparison. Solvent recovery, energy, water, yield, purification and waste handling can change the conclusion. A shorter extraction step is not necessarily a lower-impact complete route. Ask what was measured, at what scale, and which downstream operations were excluded."
+            },
+            {
+              "heading": "Updates need status, not headlines",
+              "text": "Our initial insights are evergreen reading guides rather than invented market news. The regulatory register links official records and distinguishes proposals from final documents. When a source changes, retain the previous check date, record the new scope and revisit affected pages; do not turn a consultation into a claim of current universal compliance."
+            }
+          ]
+        },
+        "zh": {
+          "title": "研究与行业观察",
+          "description": "不夸大地解读证据、法规更新与工艺比较。",
+          "blocks": [
+            {
+              "heading": "看研究实际测试了什么",
+              "text": "提取物组成、试验系统和终点决定论文能够支持什么。溶剂筛选研究可为方法开发提供线索，但不是人体功效试验。即使针对特定制备物的人体研究，也不能自动适用于同俗名但加工不同的原料。"
+            },
+            {
+              "heading": "在同一边界内比较工艺",
+              "text": "“更绿色的提取”需要明确比较对象。溶剂回收、能源、水、得率、纯化和废弃物处理都可能改变结论。提取步骤更短不一定意味着完整路线影响更低。应询问测量了什么、在何种规模下测量、排除了哪些后续操作。"
+            },
+            {
+              "heading": "更新需要状态而不是标题",
+              "text": "首批观察内容是长期适用的阅读指南，而不是虚构市场新闻。法规登记链接官方记录并区分提案与正式文件。来源变化时，应保留上次核查日期、记录新范围并复核受影响页面；不要把征求意见变成现行普遍合规声明。"
+            }
+          ]
+        }
+      },
+      "references": [
+        "review",
+        "gras",
+        "ndi"
+      ]
+    }
+  ],
+  "topics": [
+  {
+    "section": "basics",
+    "slug": "extract-ratio-vs-assay",
+    "references": [
+      "ema",
+      "who"
+    ],
+    "relatedLinks": [],
+    "translations": {
+      "en": {
+        "title": "Extract ratio vs marker assay",
+        "description": "Why a ratio and an analytical result answer different questions.",
+        "blocks": [
+          {
+            "heading": "What the ratio describes",
+            "text": "An extract ratio describes a relationship between starting botanical material and extract under a stated definition. Ask whether the starting material is dry, whether the denominator is native extract or the commercial mixture, and whether carriers are included. Without these definitions a headline such as 10:1 is ambiguous and should not be used to rank two suppliers."
+          },
+          {
+            "heading": "What an assay measures",
+            "text": "A marker assay measures a defined constituent or group using a specified analytical method. The result depends on reference standards, sample preparation and reporting basis. A dry-basis result cannot be compared directly with an as-is result without moisture information. A high ratio does not establish a high marker content, and neither measurement alone establishes clinical benefit."
+          },
+          {
+            "heading": "A fair comparison checklist",
+            "text": "Request the ratio definition, extraction medium, carrier percentage if present, marker method and batch-specific result together. Check that the botanical species and plant part match. If these differ, record the materials as separate candidates and evaluate them against the same finished-product acceptance plan rather than converting the ratio into a presumed dose equivalence."
+          },
+          {
+            "heading": "Comparison record",
+            "text": "Keep the two candidate specifications side by side and highlight every unmatched definition before asking for a sample."
+          }
+        ]
+      },
+      "zh": {
+        "title": "提取比例与标志成分含量",
+        "description": "为什么比例与分析结果回答的是不同问题。",
+        "blocks": [
+          {
+            "heading": "比例描述什么",
+            "text": "提取比例描述在特定定义下起始植物原料与提取物的关系。应询问起始原料是否为干燥状态，分母指原生提取物还是商品混合物，以及是否包括载体。没有这些定义，10:1之类的标示就有歧义，不应据此给供应商排名。"
+          },
+          {
+            "heading": "含量检测测量什么",
+            "text": "标志成分检测通过指定分析方法测量某种成分或成分组。结果取决于对照品、样品制备及报告基准。没有水分信息，干基结果不能与原样基结果直接比较。高比例不能证明标志成分含量高，而这两种测量都不能单独证明临床益处。"
+          },
+          {
+            "heading": "公平比较清单",
+            "text": "应同时索取比例定义、提取介质、载体比例（如有）、标志成分方法和批次结果。核对物种与植物部位是否一致。如有差异，应作为不同候选材料记录，并按同一成品验收计划评价，不要把比例换算成假定的用量等效关系。"
+          },
+          {
+            "heading": "比较记录",
+            "text": "把两份候选规格并排记录，在索取样品前标出所有定义不一致之处。保留书面答复，并让质量人员确认比较是否仍有意义。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "section": "basics",
+    "slug": "identity-and-traceability",
+    "references": [
+      "who",
+      "ema"
+    ],
+    "relatedLinks": [],
+    "translations": {
+      "en": {
+        "title": "Botanical identity and traceability",
+        "description": "Build an identity chain from raw material to the commercial extract.",
+        "blocks": [
+          {
+            "heading": "Resolve the name and part",
+            "text": "Record the scientific name, relevant synonym, plant part and source lot before assessing a preparation. A common name can refer to more than one botanical material. Leaf, root, fruit and seed are not administrative details: they identify different starting materials. Preserve the original records rather than replacing them with a broad marketing category such as herbal complex."
+          },
+          {
+            "heading": "Use methods suited to processing",
+            "text": "WHO describes identity and quality examination of herbal materials. An extract may no longer retain the anatomical features used to identify whole material, so the test plan must account for processing. Ask how the raw material was authenticated and which chemical comparison or other suitable method supports extract identity; one universal identity method is not assumed here."
+          },
+          {
+            "heading": "Connect documents to the lot",
+            "text": "The supplier specification, manufacturing summary and COA should identify the material consistently and connect to a traceable lot. Investigate mismatched botanical names, plant parts or batch identifiers before approval. Traceability makes an investigation possible; it does not by itself show that every contaminant was tested or that the finished application is authorized."
+          },
+          {
+            "heading": "Receiving review",
+            "text": "Confirm that the lot label, delivery document and laboratory sample refer to the same material before release."
+          }
+        ]
+      },
+      "zh": {
+        "title": "植物身份与可追溯性",
+        "description": "建立从起始原料到商业提取物的身份链。",
+        "blocks": [
+          {
+            "heading": "明确名称与部位",
+            "text": "评价制备物前，记录科学名称、相关异名、部位与来源批号。一个俗名可能指多种植物材料。叶、根、果实和种子并非无关紧要的行政信息，而是不同的起始材料。应保留原始记录，不要用“草本复合物”这样的宽泛营销类别代替。"
+          },
+          {
+            "heading": "采用适合加工状态的方法",
+            "text": "WHO介绍了植物材料的鉴别和质量检查。提取物可能不再保留完整药材用于鉴别的形态特征，因此检测计划必须考虑加工状态。应询问原料如何鉴定，以及采用何种化学比较或其他适宜方法支持提取物鉴别；本页不假设存在通用鉴别方法。"
+          },
+          {
+            "heading": "把文件关联到批次",
+            "text": "供应商规格、工艺摘要与检测报告应一致识别材料，并关联可追溯批次。批准前，应调查植物名称、部位或批号不一致的问题。可追溯性使调查成为可能，但本身不能说明已检测所有污染物，也不能说明成品用途已经获准。"
+          },
+          {
+            "heading": "来料复核",
+            "text": "放行前确认批次标签、交付文件及实验室样品对应同一材料。任何身份不一致都应先调查，不要仅凭外观或气味判断可以替代。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "section": "ingredients",
+    "slug": "polyphenols-and-catechins",
+    "references": [
+      "review",
+      "who"
+    ],
+    "relatedLinks": [
+      "/products/green-tea",
+      "/resources/blog/green-tea-energy-beverage-2026"
+    ],
+    "translations": {
+      "en": {
+        "title": "Polyphenols and catechins",
+        "description": "Read total-polyphenol and individual-marker results without conflating them.",
+        "blocks": [
+          {
+            "heading": "A family is not one molecule",
+            "text": "Polyphenols describe a broad group of plant constituents. Catechins are a more specific group encountered in tea and other materials. The analytical question must be clear: a total-polyphenol result and an individual catechin result do not describe the same composition. Keep the identity of the tested preparation attached to the result rather than using the plant name alone."
+          },
+          {
+            "heading": "Compare methods before numbers",
+            "text": "Colour-based group assays and chromatographic methods can have different selectivity and reference conventions. Ask the laboratory which compounds the result represents and how the calibration was established. Do not silently translate a group assay into a sum of individually measured molecules, or interpret antioxidant activity in a test system as a demonstrated human outcome."
+          },
+          {
+            "heading": "Apply the information to formulation",
+            "text": "For a tea-extract project, pair the marker profile with the intended caffeine specification, sensory needs and physical-stability plan. Check behaviour in the actual beverage or other matrix and retain a representative sample for comparison. The linked green-tea supply page and existing beverage buyer guide are procurement starting points, not confirmation of a current batch or clinical claim."
+          },
+          {
+            "heading": "Analytical brief",
+            "text": "Name the individual compounds or group result required in the test request and retain the method reference."
+          }
+        ]
+      },
+      "zh": {
+        "title": "多酚与儿茶素",
+        "description": "正确区分总多酚与单体标志成分结果。",
+        "blocks": [
+          {
+            "heading": "一类成分不是一个分子",
+            "text": "多酚是植物成分中的宽泛类别，儿茶素则是在茶等材料中存在的更具体成分组。必须明确分析问题：总多酚结果和单体儿茶素结果并不描述同一种组成。结果应关联具体受测制备物的身份，而不是只标注植物名称。"
+          },
+          {
+            "heading": "先比较方法再比较数值",
+            "text": "基于显色的类成分测定与色谱方法可能具有不同选择性和对照基准。应询问实验室该结果代表哪些化合物及如何建立校准。不要把类成分检测直接当作逐个分子实测总和，也不要把某测试系统中的抗氧化活性解释成人体效果已经得到证实。"
+          },
+          {
+            "heading": "把信息用于配方评价",
+            "text": "对于茶提取物项目，应把标志成分谱与拟定咖啡因规格、感官需求和物理稳定性计划结合。在实际饮料或其他基质中检查表现，并保留代表样品用于比较。下方绿茶供货页面和既有饮料采购指南只是采购起点，不证明当前批次状况或临床声称。"
+          },
+          {
+            "heading": "分析需求",
+            "text": "检测委托中应写明需要测量的单体或类成分，并保留方法引用。若供应商更换方法或对照品，应重新审查历史批次数据的可比性。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "section": "ingredients",
+    "slug": "glycosides-and-sweetener-identity",
+    "references": [
+      "gras",
+      "eu",
+      "review"
+    ],
+    "relatedLinks": [
+      "/products/stevia",
+      "/products/monk-fruit",
+      "/resources/blog/zero-calorie-sweetener-market-2026"
+    ],
+    "translations": {
+      "en": {
+        "title": "Glycosides and sweetener identity",
+        "description": "Why botanical origin does not define a sweetener grade or legal use.",
+        "blocks": [
+          {
+            "heading": "Describe the actual preparation",
+            "text": "A glycoside contains a sugar portion linked to another chemical group; the category covers many different substances. Steviol glycosides and monk-fruit preparations should therefore be described by their actual composition and processing, not grouped as interchangeable natural sweeteners. A plant origin tells only part of the story needed to evaluate a commercial material."
+          },
+          {
+            "heading": "Legal scope follows the defined material",
+            "text": "For a food use, review the identity, purity or composition description and conditions in the applicable official record. A record for one defined preparation does not automatically cover a whole-leaf powder, another extraction route or every food category. FDA explains GRAS in relation to conditions of intended use; the EU catalogue likewise warns against transferring supplement history to other foods."
+          },
+          {
+            "heading": "Evaluate the finished taste system",
+            "text": "Document the proposed matrix, processing and sensory acceptance criteria. Sweetness onset, lingering notes and interactions with acids or other ingredients require actual trials; this page provides no universal replacement ratio. Use the established sweetener buyer guide and product pages to prepare questions, then confirm the proposed ingredient and use with current documents."
+          },
+          {
+            "heading": "Project record",
+            "text": "Keep legal review and sensory development records separate so neither is mistaken for evidence of the other."
+          }
+        ]
+      },
+      "zh": {
+        "title": "糖苷与甜味原料身份",
+        "description": "为什么植物来源不能定义甜味原料等级或合法用途。",
+        "blocks": [
+          {
+            "heading": "描述实际制备物",
+            "text": "糖苷含有与其他化学基团连接的糖部分，这个类别包括许多不同物质。因此，甜菊糖苷与罗汉果制备物应按实际组成和加工描述，不能笼统视为可互换的天然甜味剂。植物来源只是评价商业材料所需信息的一部分。"
+          },
+          {
+            "heading": "法律范围随具体材料而定",
+            "text": "用于食品时，应审查适用官方记录中的身份、纯度或组成描述及使用条件。某一制备物的记录不会自动涵盖全叶粉、另一种提取路线或所有食品类别。FDA按预期使用条件解释GRAS；欧盟目录也提醒不能把补充剂食用历史直接转用于其他食品。"
+          },
+          {
+            "heading": "评价完整甜味体系",
+            "text": "记录拟用基质、加工和感官验收标准。甜味起始、后味及与酸或其他成分的相互作用需要实际试验，本页不提供通用替糖比例。利用现有甜味剂采购指南和产品页面准备问题，再依据现行文件确认拟用原料和用途。"
+          },
+          {
+            "heading": "项目记录",
+            "text": "把法规审查与感官开发记录分开保存，避免将一个环节通过误认为另一个环节通过。更换材料等级后，应重新确认适用范围和配方表现。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "section": "processes",
+    "slug": "water-and-ethanol-extraction",
+    "references": [
+      "review",
+      "gea"
+    ],
+    "relatedLinks": [],
+    "translations": {
+      "en": {
+        "title": "Water and ethanol extraction",
+        "description": "Understand solvent selection without treating a laboratory method as a factory recipe.",
+        "blocks": [
+          {
+            "heading": "Select for the target composition",
+            "text": "Water and water–ethanol mixtures are common extraction media, but they do not recover identical constituent profiles. Solvent composition interacts with the material and target compounds. Published method comparisons can guide screening; they cannot identify a single best solvent for every botanical or establish that a particular commercial extract was made by that method."
+          },
+          {
+            "heading": "Control interacting variables",
+            "text": "Particle size, contact time, temperature and solvent-to-material relationship influence extraction alongside solvent choice. A finer powder may improve contact while complicating subsequent separation. Record the screening design and analytical objective so that higher gross yield is not mistaken for higher recovery of the desired constituent or better stability."
+          },
+          {
+            "heading": "Plan recovery and verification",
+            "text": "A solvent-based route needs suitable recovery, residual-solvent assessment where applicable, compatible equipment and qualified safety controls. This educational guide intentionally gives no operating temperature, concentration or solvent ratio. Request the actual manufacturing summary and agree testing for the intended material and jurisdiction before using a candidate in development."
+          },
+          {
+            "heading": "Change control",
+            "text": "A change in solvent history should trigger a review of composition, testing and suitability rather than a name-only substitution."
+          }
+        ]
+      },
+      "zh": {
+        "title": "水与乙醇提取",
+        "description": "理解溶剂选择，不把实验室方法当作工厂配方。",
+        "blocks": [
+          {
+            "heading": "按目标组成选择",
+            "text": "水及水乙醇混合物是常见提取介质，但得到的成分谱并不相同。溶剂组成与原料及目标化合物相互影响。发表的方法比较可帮助筛选，但不能确定所有植物的唯一最佳溶剂，也不能证明某商业提取物采用了该方法。"
+          },
+          {
+            "heading": "控制相互影响的变量",
+            "text": "除溶剂选择外，粒度、接触时间、温度和溶剂与原料关系也影响提取。更细粉末可能改善接触，却增加后续分离难度。应记录筛选设计和分析目标，避免把总得率增加误认为目标成分回收率提高或稳定性改善。"
+          },
+          {
+            "heading": "规划回收与验证",
+            "text": "溶剂路线需要适宜回收、适用时的残留溶剂评价、相容设备和专业安全控制。本教育指南有意不提供操作温度、浓度或溶剂比例。将候选原料用于开发前，应索取实际工艺摘要，并按材料与司法辖区约定检测。"
+          },
+          {
+            "heading": "变更控制",
+            "text": "溶剂历史改变后，应复核组成、检测和适用性，而不是只按相同名称替换。将工艺变更及代表样品信息交给质量与开发人员共同评价。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "section": "processes",
+    "slug": "concentration-vs-purification",
+    "references": [
+      "review",
+      "gea"
+    ],
+    "relatedLinks": [],
+    "translations": {
+      "en": {
+        "title": "Concentration vs purification",
+        "description": "Removing solvent is not the same as selectively separating constituents.",
+        "blocks": [
+          {
+            "heading": "Concentration changes the solvent balance",
+            "text": "Concentration usually removes part of the solvent to increase solids content. It does not automatically separate an unwanted dissolved constituent from a wanted one. A concentrated liquid can carry forward both. Read the process summary carefully when a sales description uses concentrated as though it meant purified, and ask what analytical evidence supports the intended composition."
+          },
+          {
+            "heading": "Purification adds selectivity",
+            "text": "Purification methods exploit differences such as partitioning, adsorption or other separation behaviour. The appropriate method depends on the target and accompanying matrix. Additional stages can change recovery and introduce new process controls. A more complex route is not automatically preferable; compare the resulting profile, losses and downstream requirements against the actual specification."
+          },
+          {
+            "heading": "Verify the material after processing",
+            "text": "Ask which assays or fingerprints are applied before and after the relevant steps, whether the product is a liquid or dry extract, and whether formulation carriers are added later. Do not infer purity from colour or powder appearance. For procurement, the accepted composition and test method should be in the written specification and linked to actual batch results."
+          },
+          {
+            "heading": "Document question",
+            "text": "Ask which step delivers the stated selectivity and which result demonstrates that the accepted material was obtained."
+          }
+        ]
+      },
+      "zh": {
+        "title": "浓缩与纯化",
+        "description": "去除溶剂与选择性分离成分不是同一件事。",
+        "blocks": [
+          {
+            "heading": "浓缩改变溶剂平衡",
+            "text": "浓缩通常去除部分溶剂以提高固形物含量，并不会自动把不需要的溶解成分与目标成分分开。浓缩液可能同时保留两者。销售描述把浓缩当作纯化时，应仔细阅读工艺摘要，并询问哪些分析证据支持目标组成。"
+          },
+          {
+            "heading": "纯化增加选择性",
+            "text": "纯化方法利用分配、吸附或其他分离行为差异。适宜方法取决于目标成分和伴随基质。增加步骤可能改变回收率并引入新的工艺控制。更复杂的路线不一定更好，应按实际规格比较最终成分谱、损失和后续要求。"
+          },
+          {
+            "heading": "加工后核验材料",
+            "text": "询问相关步骤前后采用哪些含量检测或指纹图谱，产品是液体还是干燥提取物，以及后续是否加入配制载体。不要根据颜色或粉末外观推断纯度。采购时，验收组成和检测方法应写入规格并关联真实批次结果。"
+          },
+          {
+            "heading": "文件问题",
+            "text": "应询问哪一步实现所声称的选择性，以及哪项结果证明得到符合要求的材料。文件只写“高纯”而未定义成分和方法时，应要求补充说明。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "section": "equipment",
+    "slug": "filtration-and-centrifugation",
+    "references": [
+      "gea",
+      "review"
+    ],
+    "relatedLinks": [],
+    "translations": {
+      "en": {
+        "title": "Filtration and centrifugation",
+        "description": "Two solid–liquid separation approaches with different feed requirements.",
+        "blocks": [
+          {
+            "heading": "Different separation mechanisms",
+            "text": "Filtration uses a porous barrier to retain material while liquid passes through; centrifugation accelerates separation according to the behaviour of phases in a rotating field. Neither term guarantees complete clarification. The target may be a clarified liquid, recovered solids or both, so the selection question must begin with the desired streams and their acceptance criteria."
+          },
+          {
+            "heading": "Test a representative feed",
+            "text": "Solids loading, particle size, viscosity and temperature can change separation performance. A laboratory clear sample does not prove stable operation over a full production campaign. Equipment vendors should evaluate representative feed and cleaning needs; brochure throughput without feed conditions is not a defensible guarantee for a botanical slurry."
+          },
+          {
+            "heading": "Keep polishing distinct from primary separation",
+            "text": "GEA describes decanters and polishing separators within extraction systems. This illustrates why staged separation may be useful, not a recommendation of a particular installation. Consider recovery, residual suspended material, product losses and cleaning verification together. ZL Botanicals makes no claim here about owning these machines or offering equipment engineering services."
+          },
+          {
+            "heading": "Acceptance discussion",
+            "text": "Agree how clarified-liquid quality and product recovery will be measured before discussing equipment capacity."
+          }
+        ]
+      },
+      "zh": {
+        "title": "过滤与离心",
+        "description": "两种对进料要求不同的固液分离方式。",
+        "blocks": [
+          {
+            "heading": "不同分离机制",
+            "text": "过滤利用多孔屏障截留物料并使液体通过；离心利用旋转场中各相的行为加速分离。这两个术语都不能保证完全澄清。目标可能是澄清液、回收固体或两者，因此选型问题须从所需物流及其验收标准开始。"
+          },
+          {
+            "heading": "测试代表性进料",
+            "text": "固体负荷、粒度、黏度和温度可改变分离表现。实验室清澈样品不能证明整个生产周期稳定运行。设备供应商应评价代表性进料及清洗要求；没有进料条件的宣传册处理量，不是植物浆料的可靠保证。"
+          },
+          {
+            "heading": "区分初分离与精澄清",
+            "text": "GEA介绍了提取系统中的卧螺离心机和精分离设备。这说明分级分离可能有用，但不是对某种安装方案的推荐。应综合考虑回收率、残余悬浮物、产品损失及清洁验证。振隆在此不声明拥有这些机器，也不表示提供设备工程服务。"
+          },
+          {
+            "heading": "验收讨论",
+            "text": "讨论设备处理量前，先约定如何测量澄清液质量与产品回收。进料发生变化时，应重新评估分离效果和清洗要求，不可照搬原条件。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "section": "equipment",
+    "slug": "spray-and-freeze-drying",
+    "references": [
+      "spray",
+      "freeze",
+      "review"
+    ],
+    "relatedLinks": [],
+    "translations": {
+      "en": {
+        "title": "Spray drying and freeze drying",
+        "description": "Compare drying objectives, feed constraints and resulting powder properties.",
+        "blocks": [
+          {
+            "heading": "Two ways to remove liquid",
+            "text": "Spray drying disperses a suitable liquid feed into droplets for drying; freeze drying removes frozen solvent through sublimation under reduced pressure. They place different demands on feed preparation and process control. Neither label alone establishes preservation of every constituent or proves that a powder meets an intended application specification."
+          },
+          {
+            "heading": "The carrier is part of the material",
+            "text": "A drying or formulation carrier may affect handling and the reported composition of a commercial powder. Ask which carrier is used, whether it is included in the declared extract ratio and how the marker assay is expressed. A free-flowing powder should not be assumed to be pure native extract, and a more expensive drying route should not be assumed superior without relevant data."
+          },
+          {
+            "heading": "Measure the result that matters",
+            "text": "Compare moisture-related specifications, marker retention, dispersibility and stability under defined packaging and storage conditions. Assess representative lots and the actual finished matrix before setting acceptance criteria. This page gives no dryer settings or promised retention percentage; those require qualified process development and product-specific verification."
+          },
+          {
+            "heading": "Sample comparison",
+            "text": "Compare like-for-like carrier and assay bases before attributing a difference solely to the drying technology."
+          }
+        ]
+      },
+      "zh": {
+        "title": "喷雾干燥与冷冻干燥",
+        "description": "比较干燥目标、进料限制及所得粉末性质。",
+        "blocks": [
+          {
+            "heading": "两种去除液体的方法",
+            "text": "喷雾干燥把适宜液体进料分散成液滴进行干燥；冷冻干燥在减压条件下通过升华去除冻结溶剂。两者对进料制备和工艺控制有不同要求。任何一个名称都不能单独证明所有成分得到保留，也不能证明粉末符合预期应用规格。"
+          },
+          {
+            "heading": "载体是材料的一部分",
+            "text": "干燥或配制载体可能影响商品粉末的操作性及报告组成。应询问使用何种载体、标示提取比例是否包含载体，以及标志成分含量如何表达。流动性好的粉末不应被假设为纯原生提取物，成本更高的干燥路线也不应在缺少相关数据时被视为更优。"
+          },
+          {
+            "heading": "测量真正重要的结果",
+            "text": "应在明确包装和储存条件下，比较水分相关规格、标志成分保留、分散性及稳定性。制定验收标准前，评价代表批次和实际成品基质。本页不提供干燥器设置或承诺保留百分比，这些需要专业工艺开发和产品特定核验。"
+          },
+          {
+            "heading": "样品比较",
+            "text": "应在载体和检测基准一致时比较样品，再判断差异是否来自干燥技术。储存与开封条件也应记录，避免把处理差异误当作技术优劣。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "section": "applications",
+    "slug": "beverage-compatibility",
+    "references": [
+      "eu",
+      "gras",
+      "review"
+    ],
+    "relatedLinks": [
+      "/solutions/beverages",
+      "/resources/blog/green-tea-energy-beverage-2026"
+    ],
+    "translations": {
+      "en": {
+        "title": "Beverage compatibility testing",
+        "description": "Plan clarity, taste and stability checks in the actual beverage.",
+        "blocks": [
+          {
+            "heading": "Soluble is not a complete specification",
+            "text": "A supplier description of water solubility does not describe behaviour in every beverage. Acidity, dissolved salts, other ingredients and processing can change appearance and stability. State whether the target is a clear drink, cloudy suspension or emulsion, and define acceptable sediment and colour before evaluating samples from different grades."
+          },
+          {
+            "heading": "Test the intended route",
+            "text": "Use the proposed matrix and representative processing, packaging and storage conditions. Record sampling times, visual observations, sensory changes and suitable analytical endpoints. A clear beaker on the day of mixing does not establish shelf life. The development team should design the study and acceptance criteria rather than borrowing them from an unrelated ingredient example."
+          },
+          {
+            "heading": "Connect compatibility and legal review",
+            "text": "Technical compatibility and legal eligibility are separate gates. Confirm the exact preparation and proposed food use before launch, then align labels and claims with applicable requirements. Existing beverage solution concepts and the green-tea buyer guide can help organize a project brief; they do not supply a validated formula or substantiate a finished-product benefit."
+          },
+          {
+            "heading": "Study records",
+            "text": "Retain the formulation version and ingredient lot so a later stability result can be traced to the actual trial."
+          }
+        ]
+      },
+      "zh": {
+        "title": "饮料相容性测试",
+        "description": "在实际饮料中规划澄清度、口味与稳定性检查。",
+        "blocks": [
+          {
+            "heading": "可溶不是完整规格",
+            "text": "供应商关于水溶性的描述不能说明所有饮料中的表现。酸度、溶解盐、其他配料及加工都可能改变外观和稳定性。应说明目标是透明饮料、浑浊悬浮液还是乳液，并在比较不同等级样品前定义可接受沉淀与颜色。"
+          },
+          {
+            "heading": "测试拟定路线",
+            "text": "使用拟定基质以及有代表性的加工、包装和储存条件。记录取样时间、视觉观察、感官变化和适宜分析终点。混合当天烧杯中清澈不能证明保质期。开发团队应设计研究与验收标准，而不是从无关原料示例借用。"
+          },
+          {
+            "heading": "关联相容性与法规审查",
+            "text": "技术相容性和法律资格是两个独立关卡。上市前确认具体制备物和拟用食品用途，再使标签与声称符合适用要求。现有饮料方案概念和绿茶采购指南可帮助组织项目需求，但不提供经过验证的配方，也不证明成品益处。"
+          },
+          {
+            "heading": "研究记录",
+            "text": "保留配方版本与原料批号，使后续稳定性结果可以追溯到实际试验。更改酸度、包装或加工条件后，应由开发团队判断是否需要重做研究。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "section": "applications",
+    "slug": "cosmetic-development-boundaries",
+    "references": [
+      "cosmetics",
+      "review"
+    ],
+    "relatedLinks": [
+      "/solutions/cosmetics",
+      "/products/centella-asiatica"
+    ],
+    "translations": {
+      "en": {
+        "title": "Cosmetic development boundaries",
+        "description": "Separate an ingredient listing from finished-cosmetic safety and claims.",
+        "blocks": [
+          {
+            "heading": "Identify the preparation precisely",
+            "text": "For a cosmetic development brief, record the botanical identity, plant part, extraction medium, carrier or preservative if present, and intended function. A botanical common name does not fully identify the supplied mixture. Resolve the appropriate ingredient naming and destination-market requirements with qualified specialists rather than assuming that a food-grade description settles cosmetic use."
+          },
+          {
+            "heading": "Assess the complete formula",
+            "text": "An extract can change the colour, odour or physical behaviour of an emulsion or other base. Compatibility and stability must be checked in the actual formula and package. Raw-material quality documents support that work but do not replace the finished-product safety assessment or the evaluation of microbiological protection required for the proposed product."
+          },
+          {
+            "heading": "Do not borrow medical conclusions",
+            "text": "A paper discussing botanical activity does not substantiate a cosmetic claim for a different commercial extract or finished formula. Match evidence to the preparation, endpoint and allowed claim category in the target jurisdiction. Our cosmetics page is a development starting point; it is not a promise of clinical performance, a regulatory opinion or a ready-to-market formulation."
+          },
+          {
+            "heading": "Change review",
+            "text": "When a botanical grade changes, revisit the actual composition and the finished-product assessment rather than only the label name."
+          }
+        ]
+      },
+      "zh": {
+        "title": "化妆品开发边界",
+        "description": "区分原料列名与成品化妆品安全及声称。",
+        "blocks": [
+          {
+            "heading": "精确识别制备物",
+            "text": "化妆品开发需求应记录植物身份、部位、提取介质、载体或防腐剂（如有）及预期功能。植物俗名不能完全识别所供混合物。应与专业人员确认适当原料命名及目的地要求，不要假设食品级描述就解决了化妆品用途问题。"
+          },
+          {
+            "heading": "评价完整配方",
+            "text": "提取物可改变乳液或其他基质的颜色、气味或物理表现。相容性与稳定性必须在实际配方和包装中检查。原料质量文件可以支持这项工作，但不能代替成品安全评价，或拟用产品所需的微生物保护评价。"
+          },
+          {
+            "heading": "不要借用医疗结论",
+            "text": "讨论植物活性的论文不能为不同商业提取物或成品配方的化妆品声称提供充分依据。应让证据匹配制备物、终点及目标司法辖区允许的声称类别。本站化妆品页面是开发起点，不是临床表现承诺、法规意见或可直接上市的配方。"
+          },
+          {
+            "heading": "变更审查",
+            "text": "植物原料等级改变时，应复核实际组成与成品评价，而不只是标签名称。记录供应商对载体、防腐体系或提取介质变更的通知和内部处理决定。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "section": "standards",
+    "slug": "coa-vs-specification",
+    "references": [
+      "who",
+      "ema"
+    ],
+    "relatedLinks": [
+      "/resources/downloads",
+      "/quality"
+    ],
+    "translations": {
+      "en": {
+        "title": "COA vs specification",
+        "description": "Distinguish acceptance requirements from actual batch results.",
+        "blocks": [
+          {
+            "heading": "A specification sets the target",
+            "text": "A specification defines the material and acceptance requirements, including relevant methods and reporting conventions. It may describe identity, marker content, physical characteristics and selected contaminant controls. It is a decision framework, not evidence that a particular lot was sampled or tested. An unsigned list of typical values should not silently become an approved purchase specification."
+          },
+          {
+            "heading": "A COA reports a specific lot",
+            "text": "A certificate of analysis should identify the sample or batch and the actual reported results with appropriate methods and units. Check that it matches the ordered material and agreed specification revision. A result expressed only as complies may require clarification where a numerical value is necessary for your acceptance decision or destination requirements."
+          },
+          {
+            "heading": "Review gaps rather than inventing data",
+            "text": "Ask about sampling, test frequency, subcontracted work and how untested attributes are controlled. A COA does not prove that every possible hazard has been excluded, and a management-system certificate is not a replacement for lot evidence. The existing document checklist helps request real records; this site does not generate fictional COAs or claim access to certificates not supplied by the business."
+          },
+          {
+            "heading": "Approval trail",
+            "text": "Retain the agreed specification revision and document who reviewed any deviation from the acceptance criteria."
+          }
+        ]
+      },
+      "zh": {
+        "title": "检测报告与规格书",
+        "description": "区分验收要求与真实批次结果。",
+        "blocks": [
+          {
+            "heading": "规格书设定目标",
+            "text": "规格书定义材料和验收要求，包括相关方法与报告惯例。它可描述鉴别、标志成分含量、物理特征及选定污染物控制。它是决策框架，不是某批次已取样或检测的证据。未签署的典型值清单不应在无明确同意时变成已批准采购规格。"
+          },
+          {
+            "heading": "检测报告针对具体批次",
+            "text": "检测报告应识别样品或批次，并使用适当方法和单位列出实际报告结果。核对它是否对应所订材料及约定规格版本。当验收决策或目的地要求需要数值时，仅写“符合”的结果可能需要进一步澄清。"
+          },
+          {
+            "heading": "审查缺口而非补造数据",
+            "text": "应询问取样、检测频次、外包工作及未检测属性如何受控。检测报告不能证明排除了所有可能危害，管理体系证书也不能代替批次证据。现有文件检查表帮助索取真实记录，本站不生成虚构检测报告，也不声称取得企业尚未提供的证书。"
+          },
+          {
+            "heading": "批准记录",
+            "text": "保留约定规格版本，并记录谁审查了验收要求的任何偏差。不完整文件应作为待解决事项，不能由采购人员自行填写假定数值来补齐。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "section": "standards",
+    "slug": "food-vs-supplement-status",
+    "references": [
+      "ndi",
+      "eu",
+      "gras"
+    ],
+    "relatedLinks": [],
+    "translations": {
+      "en": {
+        "title": "Food vs supplement status",
+        "description": "Do not transfer one category’s history or notification to another use.",
+        "blocks": [
+          {
+            "heading": "The intended use matters",
+            "text": "The same botanical name can sit within different legal questions depending on preparation and intended use. Review species, plant part, extraction process, composition and conditions of use together. A food-additive authorization, GRAS conclusion, supplement notification and cosmetic ingredient listing are not interchangeable forms of permission. Avoid an unqualified approved ingredient label."
+          },
+          {
+            "heading": "US and EU examples illustrate the boundary",
+            "text": "FDA describes an NDI notification process for certain new dietary ingredients in supplements and separately explains GRAS food uses under intended conditions. The European Commission catalogue notes that a history exclusively in supplements does not automatically cover new uses in other foods. These are starting points for review, not a determination about any product listed on this website."
+          },
+          {
+            "heading": "Track drafts and current requirements",
+            "text": "The linked FDA pages distinguish draft guidance from final procedural guidance. Its GRAS overview also describes a 2026 proposed rule, which must not be called a final rule. Record the check date and ask a qualified regulatory reviewer to confirm current requirements, the exact preparation and proposed label before commercial decisions. No universal compliance conclusion is made here."
+          },
+          {
+            "heading": "Review handoff",
+            "text": "Give the regulatory reviewer the full material description and intended use, not just a common name or a supplier claim."
+          }
+        ]
+      },
+      "zh": {
+        "title": "食品与补充剂身份",
+        "description": "不要把一个类别的历史或通知直接转移到另一用途。",
+        "blocks": [
+          {
+            "heading": "预期用途很重要",
+            "text": "同一植物名称会因制备方式和预期用途面对不同法律问题。应联合审查物种、部位、提取工艺、组成与使用条件。食品添加剂授权、GRAS结论、补充剂通知和化妆品原料列名不是可互换的许可形式。应避免无范围限定的“已批准原料”标签。"
+          },
+          {
+            "heading": "美国与欧盟示例说明边界",
+            "text": "FDA介绍针对补充剂中某些新膳食成分的NDI通知程序，并另行解释预期条件下的GRAS食品用途。欧盟委员会目录指出，仅用于补充剂的历史不自动涵盖其他食品的新用途。这些是审查起点，不是对本站任何产品的资格判定。"
+          },
+          {
+            "heading": "跟踪草案与现行要求",
+            "text": "所链接FDA页面区分指南草案与正式程序指南。其GRAS概述还介绍2026年拟议规则，不能称为最终规则。应记录核查日期，并在商业决策前让专业法规人员确认现行要求、具体制备物及拟用标签。本页不作普遍合规结论。"
+          },
+          {
+            "heading": "交接审查",
+            "text": "向法规审查人员提供完整材料描述和预期用途，而不是仅提供俗名或供应商宣传。记录意见所针对的市场、类别与日期，变更用途时重新审查。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "section": "insights",
+    "slug": "reading-extraction-research",
+    "references": [
+      "review"
+    ],
+    "relatedLinks": [],
+    "translations": {
+      "en": {
+        "title": "How to read extraction research",
+        "description": "Evaluate methods, material identity and endpoints before using a paper.",
+        "blocks": [
+          {
+            "heading": "Find the tested material",
+            "text": "Start with the methods section: species, plant part, source, pretreatment and extraction conditions define what was tested. If those details are missing, the study may not support a comparison with your candidate extract. A title naming a plant is not enough to demonstrate equivalence between the research preparation and a commercial powder with carriers or a different solvent history."
+          },
+          {
+            "heading": "Separate analytical and biological endpoints",
+            "text": "Extraction yield, marker recovery and a laboratory activity result answer different questions. Look for controls, repeat measurements and a clearly defined reporting basis. A method that recovers more solids may not improve selectivity. An in-vitro activity measurement does not establish clinical benefit, a safe consumer dose or the performance of a finished beverage or cosmetic."
+          },
+          {
+            "heading": "Use research to design questions",
+            "text": "The linked peer-reviewed review maps conventional and modern extraction methods and their limitations. Use it to frame a screening plan with qualified process and analytical specialists, not to copy a laboratory recipe into production. Record uncertainty, scale and excluded operations when communicating findings to procurement, and keep source dates visible as evidence evolves."
+          },
+          {
+            "heading": "Evidence notes",
+            "text": "Record what the paper can answer and what remains untested before using it in a supplier discussion."
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何阅读提取研究",
+        "description": "使用论文前先评价方法、材料身份与终点。",
+        "blocks": [
+          {
+            "heading": "找到实际受测材料",
+            "text": "先读方法部分：物种、部位、来源、前处理和提取条件定义受测对象。如果缺少这些信息，研究可能无法支持与候选提取物的比较。标题中出现某植物，不足以证明研究制备物与含载体或溶剂历史不同的商品粉末等同。"
+          },
+          {
+            "heading": "区分分析与生物学终点",
+            "text": "提取得率、标志成分回收率和实验室活性结果回答不同问题。应查看对照、重复测量和明确报告基准。回收更多固体的方法未必提高选择性。体外活性测量不能证明临床益处、安全消费剂量，或成品饮料及化妆品表现。"
+          },
+          {
+            "heading": "用研究设计问题",
+            "text": "所链接同行评审综述梳理传统与现代提取方法及限制。应与专业工艺及分析人员用它制定筛选计划，而不是把实验室配方复制到生产。向采购传达发现时，应记录不确定性、规模和被排除的操作，并随证据变化保留来源日期。"
+          },
+          {
+            "heading": "证据笔记",
+            "text": "与供应商讨论前，记录论文能够回答什么以及哪些问题仍未测试。把研究结果、研究局限和本项目待验证假设分开，避免在转述时增强声称。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "section": "insights",
+    "slug": "evaluating-green-extraction",
+    "references": [
+      "review",
+      "gea"
+    ],
+    "relatedLinks": [],
+    "translations": {
+      "en": {
+        "title": "Evaluating green extraction claims",
+        "description": "A process comparison needs a defined system boundary and measured inputs.",
+        "blocks": [
+          {
+            "heading": "Define the comparison boundary",
+            "text": "Before accepting greener or sustainable as a process description, ask what is being compared and which stages are counted. Extraction time alone excludes pretreatment, solvent recovery, purification, drying and waste handling. Compare equivalent product quality and usable output; otherwise a low-input process producing a different material may not be a meaningful alternative."
+          },
+          {
+            "heading": "Ask for measured inputs and outputs",
+            "text": "Relevant evidence can include solvent consumption and recovery, energy, water, recovery of the target constituents and waste streams under stated conditions. The peer-reviewed extraction review describes method trade-offs but does not certify the environmental performance of a commercial facility. Do not translate a laboratory efficiency improvement into a company-wide environmental claim."
+          },
+          {
+            "heading": "Keep uncertainty visible",
+            "text": "Record the scale of the comparison, assumptions and data gaps, then ask whether the downstream route still delivers the required material. A process with a shorter extraction stage may shift burdens elsewhere. This encyclopedia does not publish invented carbon savings, market forecasts or factory efficiency figures; quantified claims require traceable measurements and an appropriate assessment method."
+          },
+          {
+            "heading": "Claims review",
+            "text": "Require a traceable calculation and review boundary before publishing any numerical environmental comparison."
+          }
+        ]
+      },
+      "zh": {
+        "title": "评价绿色提取声称",
+        "description": "工艺比较需要明确系统边界与实测投入。",
+        "blocks": [
+          {
+            "heading": "定义比较边界",
+            "text": "接受“更绿色”或“可持续”工艺描述前，应询问比较对象及计入哪些步骤。仅看提取时间会排除前处理、溶剂回收、纯化、干燥和废弃物处理。应比较等效产品质量与可用产出，否则低投入却生成不同材料的工艺可能不是有意义的替代方案。"
+          },
+          {
+            "heading": "索取实测投入与产出",
+            "text": "相关证据可包括指定条件下的溶剂消耗与回收、能源、水、目标组分回收及废物流。同行评审提取综述介绍方法权衡，但不认证商业设施的环境表现。不要把实验室效率改善转化为整个企业的环境声称。"
+          },
+          {
+            "heading": "保留不确定性",
+            "text": "应记录比较规模、假设和数据缺口，再询问后续路线是否仍交付所需材料。提取步骤较短的工艺可能把负担转移到其他环节。本百科不发布虚构碳减排、市场预测或工厂效率数字；量化声称需要可追溯测量和适当评价方法。"
+          },
+          {
+            "heading": "声称审查",
+            "text": "发布任何定量环境比较前，应要求可追溯计算和明确评价边界。若缺乏完整数据，可提出待研究的问题，不应自行填补碳排放或节能百分比。"
+          }
+        ]
+      }
+    }
+  }
+]
+}

@@ -1,0 +1,9 @@
+---
+import PlantEncyclopedia from '../../../components/PlantEncyclopedia.astro';
+import data from '../../../data/plant-extracts.json';
+export function getStaticPaths() {
+ return [{params:{path:undefined},props:{}},...data.sections.map(s=>({params:{path:s.slug},props:{section:s.slug}})),...data.topics.map((t:any)=>({params:{path:`${t.section}/${t.slug}`},props:{section:t.section,topic:t.slug}}))];
+}
+const {section,topic}=Astro.props;
+---
+<PlantEncyclopedia lang="zh" section={section} topic={topic} />
