@@ -3,6 +3,8 @@ title: "Reishi Extract Procurement: Identity, Beta-Glucan and COA Review"
 lang: en
 publishDate: "2026-09-07"
 category: "ingredient-spotlight"
+guideCategory: "quality-guides"
+relatedIndustries: ["beverages", "food", "nutraceuticals"]
 tags: ["procurement", "ingredient selection", "application testing"]
 description: "A buyer’s checklist for comparing reishi materials by species, fungal part, analytical method and batch documentation."
 image: /images/blog/functional-mushroom-market.webp

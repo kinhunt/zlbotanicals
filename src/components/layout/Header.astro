@@ -16,10 +16,10 @@ const currentPath = Astro.url.pathname;
 
 <header class="sticky top-0 bg-white/95 backdrop-blur-sm border-b border-gray-100 z-40">
   <div class="container-wide">
-    <div class="flex items-center justify-between h-16 lg:h-20">
+    <div class="flex items-center justify-between gap-3 h-16 lg:h-20">
       <!-- Logo -->
-      <a href={getLocalizedPath('/', lang)} class="flex items-center gap-2">
-        <span class="text-xl lg:text-2xl font-display font-bold text-primary">
+      <a href={getLocalizedPath('/', lang)} class="flex items-center gap-2 shrink-0">
+        <span class="text-xl lg:text-lg xl:text-2xl whitespace-nowrap font-display font-bold text-primary">
           {t('site.name')}
         </span>
       </a>
@@ -28,20 +28,20 @@ const currentPath = Astro.url.pathname;
       <Navigation lang={lang} />
 
       <!-- Right Section -->
-      <div class="flex items-center gap-4">
+      <div class="flex items-center gap-2 xl:gap-3 shrink-0">
         <div class="hidden lg:block">
           <LanguageSwitcher currentLang={lang} currentPath={currentPath} />
         </div>
 
         <a
           href={getLocalizedPath('/request-quote', lang)}
-          class="hidden lg:inline-flex px-5 py-2.5 bg-accent text-white rounded-lg font-medium hover:bg-accent-dark transition-colors"
+          class="hidden lg:inline-flex whitespace-nowrap text-xs xl:text-sm px-3 xl:px-4 py-2.5 bg-accent text-white rounded-lg font-medium hover:bg-accent-dark transition-colors"
         >
           {t('nav.requestQuote')}
         </a>
 
         <!-- Mobile Menu Button -->
-        <button id="open-menu" class="lg:hidden p-2" aria-label="Open menu">
+        <button id="open-menu" class="lg:hidden p-2 focus-visible:outline-2" aria-label={t('nav.openMenu')} aria-controls="mobile-menu" aria-expanded="false">
           <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
           </svg>
@@ -52,3 +52,10 @@ const currentPath = Astro.url.pathname;
 </header>
 
 <MobileMenu lang={lang} currentPath={currentPath} />
+
+<style>
+  header :global(.group:focus-within > .invisible) {
+    visibility: visible;
+    opacity: 1;
+  }
+</style>

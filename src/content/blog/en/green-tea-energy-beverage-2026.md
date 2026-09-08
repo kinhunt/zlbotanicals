@@ -3,6 +3,8 @@ title: "Buying Green Tea Extract for RTD Beverages: A Practical Checklist"
 lang: en
 publishDate: "2026-09-07"
 category: "ingredient-spotlight"
+guideCategory: "application-guides"
+relatedIndustries: ["beverages"]
 tags: ["procurement", "ingredient selection", "application testing"]
 description: "How to compare EGCG, caffeine, sensory quality and processing fit before choosing a green tea extract for beverages."
 image: /images/blog/green-tea-energy-beverage-2026.webp

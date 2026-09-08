@@ -3,6 +3,8 @@ title: "灵芝提取物采购：身份、β-葡聚糖与 COA 审查"
 lang: zh
 publishDate: "2026-09-07"
 category: "ingredient-spotlight"
+guideCategory: "quality-guides"
+relatedIndustries: ["beverages", "food", "nutraceuticals"]
 tags: ["采购", "原料选型", "应用测试"]
 description: "按物种、使用部位、检测方法和批次文件比较灵芝原料的采购检查表。"
 image: /images/blog/functional-mushroom-market.webp

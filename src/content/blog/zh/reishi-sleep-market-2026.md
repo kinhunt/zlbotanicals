@@ -3,6 +3,8 @@ title: "灵芝软糖采购指南：从原料需求到中试审核"
 lang: zh
 publishDate: "2026-09-07"
 category: "ingredient-spotlight"
+guideCategory: "application-guides"
+relatedIndustries: ["nutraceuticals"]
 tags: ["采购", "原料选型", "应用测试"]
 description: "区分组成、感官试验与睡眠宣称，评价软糖开发所需的灵芝原料。"
 image: /images/blog/reishi-sleep-market-2026.webp

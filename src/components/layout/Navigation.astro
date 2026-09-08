@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import { type Language, getLocalizedPath } from '../../i18n/config';
 import { useTranslations } from '../../i18n/utils';
+import { getSiteNavigation } from '../../data/site-navigation';
 
 interface Props {
   lang: Language;
@@ -20,72 +21,30 @@ const productChildren = products.map((ingredient) => ({
   href: getLocalizedPath(`/products/${ingredient.slug.replace(`${lang}/`, '')}`, lang),
 }));
 
-const navItems = [
-  {
-    label: t('nav.about'),
-    href: getLocalizedPath('/about', lang),
-    children: [
-      { label: t('nav.aboutStory'), href: getLocalizedPath('/about/story', lang) },
-      { label: t('nav.aboutFacility'), href: getLocalizedPath('/about/facility', lang) },
-      { label: t('nav.aboutCertifications'), href: getLocalizedPath('/about/certifications', lang) },
-    ],
-  },
-  {
-    label: t('nav.products'),
-    href: getLocalizedPath('/products', lang),
-    children: productChildren.length > 0 ? productChildren : undefined,
-  },
-  {
-    label: t('nav.solutions'),
-    href: getLocalizedPath('/solutions', lang),
-    children: [
-      { label: t('nav.solutionsBeverages'), href: getLocalizedPath('/solutions/beverages', lang) },
-      { label: t('nav.solutionsNutraceuticals'), href: getLocalizedPath('/solutions/nutraceuticals', lang) },
-      { label: t('nav.solutionsCosmetics'), href: getLocalizedPath('/solutions/cosmetics', lang) },
-      { label: t('nav.solutionsFood'), href: getLocalizedPath('/solutions/food', lang) },
-    ],
-  },
-  {
-    label: t('nav.quality'),
-    href: getLocalizedPath('/quality', lang),
-  },
-  {
-    label: t('nav.resources'),
-    href: getLocalizedPath('/resources', lang),
-    children: [
-      { label: t('nav.resourcesBlog'), href: getLocalizedPath('/resources/blog', lang) },
-      { label: t('nav.resourcesDownloads'), href: getLocalizedPath('/resources/downloads', lang) },
-      { label: t('nav.resourcesFaq'), href: getLocalizedPath('/resources/faq', lang) },
-    ],
-  },
-  {
-    label: t('nav.contact'),
-    href: getLocalizedPath('/contact', lang),
-  },
-];
+const navItems = getSiteNavigation(t, (path) => getLocalizedPath(path, lang), productChildren);
 ---
 
-<nav class="hidden lg:flex items-center gap-8">
+<nav aria-label={t('nav.mainNavigation')} class="hidden lg:flex items-center gap-2 xl:gap-4 2xl:gap-6 shrink-0">
   {navItems.map((item) => (
     <div class="relative group">
       <a
         href={item.href}
-        class="flex items-center gap-1 text-sm font-medium text-gray-700 hover:text-primary transition-colors py-2"
+        class="flex items-center gap-0.5 xl:gap-1 whitespace-nowrap text-xs xl:text-sm font-medium text-gray-700 hover:text-primary transition-colors py-2 focus-visible:outline-2 focus-visible:outline-primary focus-visible:outline-offset-4"
       >
         {item.label}
         {item.children && (
-          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <svg aria-hidden="true" class="w-3 h-3 xl:w-4 xl:h-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
           </svg>
         )}
       </a>
 
       {item.children && (
-        <div class="absolute left-0 mt-0 w-48 bg-white rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+        <div class="absolute left-0 top-full w-64 max-h-[calc(100dvh-6rem)] overflow-y-auto bg-white rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible group-focus-within:opacity-100 group-focus-within:visible transition-all duration-200 z-50">
           {item.children.map((child) => (
             <a
               href={child.href}
-              class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 hover:text-primary first:rounded-t-lg last:rounded-b-lg"
+              class="block break-words px-4 py-2 text-sm focus-visible:outline-2 focus-visible:outline-primary focus-visible:-outline-offset-2 text-gray-700 hover:bg-gray-50 hover:text-primary first:rounded-t-lg last:rounded-b-lg"
             >
               {child.label}
             </a>

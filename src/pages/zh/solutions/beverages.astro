@@ -1,5 +1,6 @@
 ---
 import PageLayout from '../../../layouts/PageLayout.astro';
+import IndustryResources from '../../../components/IndustryResources.astro';
 ---
 <PageLayout title="饮料" lang="zh" heroTitle="饮料" heroSubtitle="从应用条件到采购规格">
 <section class="section-padding"><div class="container-wide max-w-4xl">
@@ -10,4 +11,5 @@ import PageLayout from '../../../layouts/PageLayout.astro';
 <div class="p-6 bg-off-white rounded-xl"><h3 class="text-lg font-semibold">工艺不匹配</h3><p class="mt-2 text-gray-600">中试应覆盖巴氏杀菌或热灌装条件。由配方与质量团队评估保质期及微生物控制。</p></div>
 </div><div class="mt-10 p-8 bg-primary/5 rounded-xl"><h2 class="text-xl font-semibold">准备哪些信息？</h2><p class="mt-3 text-gray-700">饮料类型、pH、加工温度及时间、透明度目标、添加量和目标市场。</p><p class="mt-3 text-gray-600">请同时提供产品、首单数量及所需文件。规格、样品和文件以实际可提供情况为准；认证及合规性需按产品和市场核查。以下建议为评估方向，不是配方或适用性保证。</p><a href="/zh/request-quote?request=application" class="inline-block mt-5 px-6 py-3 bg-primary text-white rounded-lg">提交应用需求</a><a href="/zh/resources/downloads" class="inline-block mt-5 ml-4 text-primary underline">查看采购清单</a></div>
 </div></section>
+<IndustryResources lang="zh" industry="beverages" />
 </PageLayout>
