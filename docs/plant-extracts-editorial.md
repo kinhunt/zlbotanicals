@@ -44,6 +44,6 @@ node scripts/browser-smoke.mjs
 node scripts/resource-browser-smoke.mjs
 ```
 
-The media verifier uses ffprobe and checks exact 40-second, 1280×720, 30fps H.264 silent faststart files, bounded sizes, eight captions and text parity. Browser smoke checks all 44 new routes at four widths, metadata, localized links, actual media playback/caption loading and no-JS access. It makes no external sales submission.
+The media verifier uses ffprobe and checks metadata-aligned duration, 1280×720, 30fps H.264/AAC narrated faststart files, per-scene audibility and silence, bounded sizes, eight captions and text parity. Browser smoke checks all 44 new routes at four widths, metadata, localized links, actual media playback/caption loading and no-JS access. It makes no external sales submission.
 
 Independent review remains a parent-agent responsibility before merge: this implementation subagent cannot spawn reviewers. Self-review and passing tests are not represented as independent approval. The unchanged root dependency audit baseline is 14 advisories (11 high, 2 moderate, 1 low); the isolated Remotion scaffold reported two low advisories. A separate tested dependency update is still needed.

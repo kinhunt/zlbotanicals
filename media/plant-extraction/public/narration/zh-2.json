@@ -1,0 +1,7 @@
+{
+  "sha256": "114ece02ee9d06ba249c905863492d9729fe385ef6a3cfccea60404f02d38c8d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "text": "前处理。干燥或粒度调整可为提取准备原料。",
+  "provider": "edge-tts",
+  "version": "7.2.8"
+}

@@ -1,21 +1,22 @@
 ---
 import steps from '../data/extraction-video.json';
+import timing from '../data/extraction-timing.json';
 interface Props {lang:'en'|'zh'}
 const {lang}=Astro.props;
 const zh=lang==='zh';
 ---
 <section class="video-guide" aria-labelledby="video-heading">
- <h2 id="video-heading">{zh?'40秒看懂提取路线':'The extraction route in 40 seconds'}</h2>
- <p>{zh?'无声教学动画，含屏幕文字、可选字幕和下方完整文字稿。示意不是真实厂房，也不是通用生产规程。':'Silent educational animation with on-screen text, optional captions and a full transcript below. This is not a real facility or a universal production procedure.'}</p>
+ <h2 id="video-heading">{zh?'植物提取路线：普通话旁白':'The extraction route: English narration'}</h2>
+ <p>{zh?'含普通话旁白的教学动画，配有屏幕文字、可选字幕和下方完整文字稿。示意不是真实厂房，也不是通用生产规程。':'Educational animation with English narration, on-screen text, optional captions and a full transcript below. This is not a real facility or a universal production procedure.'}</p>
  <video controls playsinline preload="none" width="1280" height="720" poster={`/media/extraction-${lang}.webp`} aria-label={zh?'植物提取路线概念动画':'Conceptual plant extraction route animation'} aria-describedby="video-transcript">
-  <source src={`/media/extraction-${lang}.mp4`} type="video/mp4" />
-  <track kind="captions" src={`/media/extraction-${lang}.vtt`} srclang={lang} label={zh?'中文字幕':'English captions'} />
+  <source src={`/media/extraction-${lang}.mp4?v=${timing.version}`} type="video/mp4" />
+  <track kind="captions" src={`/media/extraction-${lang}.vtt?v=${timing.version}`} srclang={lang} label={zh?'中文字幕':'English captions'} />
   <p>{zh?'浏览器不支持视频，请阅读下方文字稿。':'Your browser does not support video. Read the transcript below.'}</p>
  </video>
- <p><a href={`/media/extraction-${lang}.mp4`} download>{zh?'下载 MP4':'Download MP4'}</a> · <a href={`/media/extraction-${lang}.vtt`} download>{zh?'下载字幕':'Download captions'}</a></p>
+ <p><a href={`/media/extraction-${lang}.mp4?v=${timing.version}`} download>{zh?'下载 MP4':'Download MP4'}</a> · <a href={`/media/extraction-${lang}.vtt?v=${timing.version}`} download>{zh?'下载字幕':'Download captions'}</a></p>
  <details id="video-transcript"><summary>{zh?'完整文字稿与视觉说明':'Full transcript and visual description'}</summary>
-  <p>{zh?'浅绿色背景中的编号圆点依次标记八个场景；底部进度条随步骤推进。动画仅表达下列文字，没有额外音频信息。':'Numbered circles on a pale green background identify eight scenes; a progress strip advances beneath them. The animation communicates the following text and contains no additional audio information.'}</p>
-  <ol>{steps[lang].map(([title,text],i)=><li><strong>{i*5}–{(i+1)*5}s · {title}</strong><p>{text}</p></li>)}</ol>
+  <p>{zh?'浅绿色背景中的编号圆点依次标记八个场景；底部进度条随步骤推进。旁白朗读下列标题与文字，不添加额外技术信息。':'Numbered circles on a pale green background identify eight scenes; a progress strip advances beneath them. The narration reads the following headings and text, without additional technical claims.'}</p>
+  <ol>{steps[lang].map(([title,text],i)=><li><strong>{(timing.scenes[i].startFrame/timing.fps).toFixed(1)}–{((timing.scenes[i].startFrame+timing.scenes[i].durationInFrames)/timing.fps).toFixed(1)}s · {title}</strong><p>{text}</p></li>)}</ol>
  </details>
 </section>
 <style>

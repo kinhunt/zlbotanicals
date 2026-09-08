@@ -40,7 +40,8 @@ test('bilingual process video has accessible opt-in playback, captions, poster a
    assert.match(html,/<video[^>]*preload="none"/);
    assert.doesNotMatch(html,/<video[^>]*autoplay/);
    assert.match(html,/<track[^>]*kind="captions"/);
-   assert.ok(html.includes(`extraction-${lang}.mp4`));
+   assert.match(html,new RegExp(`extraction-${lang}\\.mp4\\?v=[a-f0-9]+`));
+   assert.doesNotMatch(html,/Silent educational|无声教学|contains no additional audio/);
    assert.ok(html.includes(`extraction-${lang}.webp`));
    assert.match(html,/id="video-transcript"/);
   }

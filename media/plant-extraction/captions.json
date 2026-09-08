@@ -3,56 +3,56 @@
     {
       "text": "Material identity. Confirm the species, plant part and traceable starting lot.",
       "startMs": 0,
-      "endMs": 5000,
+      "endMs": 7800,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "Pretreatment. Drying or size reduction may prepare the material for extraction.",
-      "startMs": 5000,
-      "endMs": 10000,
+      "startMs": 7800,
+      "endMs": 15133,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "Extraction. A selected medium transfers soluble constituents from the material.",
-      "startMs": 10000,
-      "endMs": 15000,
+      "startMs": 15133,
+      "endMs": 22733,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "Separation. Filtration or centrifugation can remove suspended solids.",
-      "startMs": 15000,
-      "endMs": 20000,
+      "startMs": 22733,
+      "endMs": 30167,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "Concentrate / purify. Remove solvent; use selective separation only where needed.",
-      "startMs": 20000,
-      "endMs": 25000,
+      "startMs": 30167,
+      "endMs": 38467,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "Dry / formulate. Some routes produce powders; others remain liquid.",
-      "startMs": 25000,
-      "endMs": 30000,
+      "startMs": 38467,
+      "endMs": 45833,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "Quality review. Check identity, composition and agreed acceptance criteria.",
-      "startMs": 30000,
-      "endMs": 35000,
+      "startMs": 45833,
+      "endMs": 53633,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "No universal recipe. Steps vary by product. This schematic is not a real facility.",
-      "startMs": 35000,
-      "endMs": 40000,
+      "startMs": 53633,
+      "endMs": 62700,
       "timestampMs": null,
       "confidence": null
     }
@@ -61,56 +61,56 @@
     {
       "text": "原料身份. 确认物种、植物部位与可追溯的起始批次。",
       "startMs": 0,
-      "endMs": 5000,
+      "endMs": 7800,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "前处理. 干燥或粒度调整可为提取准备原料。",
-      "startMs": 5000,
-      "endMs": 10000,
+      "startMs": 7800,
+      "endMs": 15133,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "提取. 所选介质使可溶成分从原料转移出来。",
-      "startMs": 10000,
-      "endMs": 15000,
+      "startMs": 15133,
+      "endMs": 22733,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "固液分离. 过滤或离心可去除悬浮固体。",
-      "startMs": 15000,
-      "endMs": 20000,
+      "startMs": 22733,
+      "endMs": 30167,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "浓缩／纯化. 去除溶剂；按需要进行选择性分离。",
-      "startMs": 20000,
-      "endMs": 25000,
+      "startMs": 30167,
+      "endMs": 38467,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "干燥／配制. 部分路线制成粉末，其他路线保留液体形态。",
-      "startMs": 25000,
-      "endMs": 30000,
+      "startMs": 38467,
+      "endMs": 45833,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "质量复核. 检查身份、组成与约定的验收指标。",
-      "startMs": 30000,
-      "endMs": 35000,
+      "startMs": 45833,
+      "endMs": 53633,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "不存在通用配方. 步骤随产品变化。本示意不是真实厂房。",
-      "startMs": 35000,
-      "endMs": 40000,
+      "startMs": 53633,
+      "endMs": 62700,
       "timestampMs": null,
       "confidence": null
     }
