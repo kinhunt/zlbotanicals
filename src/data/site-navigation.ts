@@ -13,6 +13,9 @@ export function getSiteNavigation(
   products: NavigationLink[] = [],
 ): NavigationLink[] {
   return [
+    { label: t('nav.plantExtracts'), href: localize('/plant-extracts'),
+      children: ['basics','ingredients','processes','equipment','applications','standards','insights'].map(slug => ({label: t(`nav.extracts_${slug}`), href: localize(`/plant-extracts/${slug}`)})),
+    },
     {
       label: t('nav.products'), href: localize('/products'),
       children: [
