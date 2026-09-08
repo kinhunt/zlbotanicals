@@ -4,7 +4,7 @@ nameEn: Stevia Glycoside Extract
 latinName: Stevia rebaudiana
 lang: zh
 description: "甜菊糖苷采购指南，涵盖组成、生产路线及食品饮料开发感官试验。"
-image: /images/products/diagrams/stevia.svg
+image: /images/products/stevia.webp
 solutions:
   - botanical-sweetener-rtd
 ---

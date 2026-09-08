@@ -3,7 +3,7 @@ name: Centella Asiatica Extract
 latinName: Centella asiatica
 lang: en
 description: "Centella extract sourcing for cosmetic development, covering triterpene identity, composition and formulation compatibility."
-image: /images/products/diagrams/centella-asiatica.svg
+image: /images/products/centella-asiatica.webp
 ---
 
 ## Material identity and selection

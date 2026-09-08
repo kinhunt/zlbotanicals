@@ -29,19 +29,18 @@ test('research cards render evidence and subset counts from current reviewed rec
  }
 });
 
-test('all twelve diagrams have bilingual visible and accessible boundaries in product and catalog contexts',()=>{
+test('all twelve original illustrations have bilingual visible and accessible boundaries',()=>{
  const records=JSON.parse(readFileSync('src/data/research.json','utf8'));
  const slugs=[...new Set(records.flatMap(r=>r.products))];assert.equal(slugs.length,12);
  for(const slug of slugs){
- const svg=readFileSync(`public/images/products/diagrams/${slug}.svg`,'utf8');
- assert.match(svg,/<title[^>]*>[^<]*原料示意图/);assert.match(svg,/<desc[^>]*>[^<]*非批次样品/);assert.ok(svg.includes('身份 → 规格核查'));assert.ok(svg.includes('原料示意图 · 非批次样品'));
+ assert.ok(readFileSync(`public/images/products/${slug}.webp`).length>10000);
  for(const prefix of ['','zh/']){
  const page=html(`${prefix}products/${slug}/`);
- assert.match(page,prefix? /alt="[^"]*原料示意图，非批次样品/ : /alt="[^"]*ingredient diagram, not a batch sample/);
+ assert.match(page,prefix? /alt="[^"]*概念插画，非批次样品/ : /alt="[^"]*concept illustration, not a batch sample/);
  }
  }
  for(const prefix of ['','zh/'])for(const route of ['', 'products/']){
- const page=html(prefix+route);const images=[...page.matchAll(/<img[^>]+src="\/images\/products\/diagrams\/[^>]+>/g)];assert.ok(images.length>0);
- for(const [img] of images)assert.match(img,prefix?/alt="[^"]*原料示意图，非批次样品/:/alt="[^"]*ingredient diagram, not a batch sample/);
+ const page=html(prefix+route);const images=[...page.matchAll(/<img[^>]+src="\/images\/products\/[^>]+>/g)];assert.ok(images.length>0);
+ for(const [img] of images)assert.match(img,prefix?/alt="[^"]*概念插画，非批次样品/:/alt="[^"]*concept illustration, not a batch sample/);
  }
 });

@@ -3,7 +3,7 @@ name: Turmeric Extract
 latinName: Curcuma longa
 lang: en
 description: "Turmeric extract sourcing, covering curcuminoid profiles, carriers and dispersion testing for powders and beverages."
-image: /images/products/diagrams/turmeric.svg
+image: /images/products/turmeric.webp
 solutions:
   - liver-support-gummy
   - turmeric-golden-latte

@@ -4,7 +4,7 @@ nameEn: Turmeric Extract
 latinName: Curcuma longa
 lang: zh
 description: "姜黄提取物采购指南，涵盖姜黄素类组成、载体及粉末和饮料分散测试。"
-image: /images/products/diagrams/turmeric.svg
+image: /images/products/turmeric.webp
 solutions:
   - liver-support-gummy
   - turmeric-golden-latte

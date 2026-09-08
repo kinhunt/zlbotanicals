@@ -22,7 +22,8 @@ const products = await getCollection('products', ({ data }) => {
   <section class="section-padding">
     <div class="container-wide">
       {products.length > 0 ? (
-        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <p class="text-sm text-gray-600 mb-6">{lang === 'zh' ? '图片为概念插画，非批次样品或规格。图中标签文字不构成纯度、等级或认证承诺；请以确认的现行 TDS 和批次 COA 为准。' : 'Images are concept illustrations, not batch samples or specifications. Printed label wording does not establish purity, grade or certification; confirm the current TDS and batch COA.'}</p>
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {products.map((product) => (
             <a
               href={getLocalizedPath(`/products/${product.slug.replace('en/', '')}`, lang)}
@@ -32,8 +33,8 @@ const products = await getCollection('products', ({ data }) => {
                 {product.data.image ? (
                   <img
                     src={product.data.image}
-                    alt={`${product.data.name} — ingredient diagram, not a batch sample`}
-                    class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-300"
+                    alt={`${product.data.name} — concept illustration, not a batch sample`}
+                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                   />
                 ) : (
                   <div class="w-full h-full bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">

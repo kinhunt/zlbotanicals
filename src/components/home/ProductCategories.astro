@@ -29,6 +29,7 @@ const featuredProducts = allProducts.slice(0, 6);
       title={t('products.title')}
     />
 
+    <p class="text-sm text-gray-600 mb-6">{lang === 'zh' ? '图片为概念插画，非批次样品或规格。图中标签文字不构成纯度、等级或认证承诺；请以确认的现行 TDS 和批次 COA 为准。' : 'Images are concept illustrations, not batch samples or specifications. Printed label wording does not establish purity, grade or certification; confirm the current TDS and batch COA.'}</p>
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
       {featuredProducts.map((ingredient) => (
         <a
@@ -39,8 +40,8 @@ const featuredProducts = allProducts.slice(0, 6);
             {ingredient.data.image ? (
               <img
                 src={ingredient.data.image}
-                alt={`${ingredient.data.name} — ${lang === 'zh' ? '原料示意图，非批次样品' : 'ingredient diagram, not a batch sample'}`}
-                class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-300"
+                alt={`${ingredient.data.name} — ${lang === 'zh' ? '概念插画，非批次样品' : 'concept illustration, not a batch sample'}`}
+                class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
             ) : (
               <div class="w-full h-full bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
