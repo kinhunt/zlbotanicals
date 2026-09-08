@@ -4,7 +4,7 @@ nameEn: Licorice Root Extract
 latinName: Glycyrrhiza glabra
 lang: zh
 description: "甘草根提取物采购指南，涵盖甘草酸、物种身份、风味评价及用途审核。"
-image: /images/products/licorice-root.webp
+image: /images/products/diagrams/licorice-root.svg
 solutions:
   - white-peach-sparkling
   - liver-support-gummy

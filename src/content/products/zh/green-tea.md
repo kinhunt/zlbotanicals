@@ -4,7 +4,7 @@ nameEn: Green Tea Extract
 latinName: Camellia sinensis
 lang: zh
 description: "绿茶叶提取物采购指南，涵盖 EGCG、儿茶素、咖啡因及饮料适配性。"
-image: /images/products/green-tea.webp
+image: /images/products/diagrams/green-tea.svg
 solutions:
   - white-peach-sparkling
   - green-tea-energy-sparkling

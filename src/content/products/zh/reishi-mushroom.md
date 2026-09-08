@@ -4,7 +4,7 @@ nameEn: Reishi Mushroom Extract
 latinName: Ganoderma lucidum
 lang: zh
 description: "灵芝提取物采购指南，关注物种、使用部位、β-葡聚糖方法及应用适配。"
-image: /images/products/reishi-mushroom.webp
+image: /images/products/diagrams/reishi-mushroom.svg
 solutions:
   - liver-support-gummy
   - reishi-sleep-gummy

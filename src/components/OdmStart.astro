@@ -1,0 +1,28 @@
+---
+import {getLocalizedPath,type Language} from '../i18n/config';
+interface Props {lang:Language; brief:string; concept:string}
+const {lang,brief,concept}=Astro.props; const zh=lang==='zh';
+const quote=(transfer:boolean)=>getLocalizedPath('/request-quote',lang)+'?'+new URLSearchParams({request:transfer?'odm-transfer':'odm',product:zh?'植物饮品项目':'Botanical beverage project',concept,application:brief}).toString();
+const outputs=zh?[
+ ['需求梳理｜直接协调','拟定需求书、目标市场与未知项清单；由客户确认范围。'],
+ ['原料选型｜直接协调','拟定候选原料表、规格／文件请求清单及可行性问题。'],
+ ['研发与包装｜执行方待确认','拟定打样与稳定性验证方案、包装方向、验收标准；合作研发／检测／设计方经核查后执行。'],
+ ['转移与生产｜书面确认后推进','拟定工艺转移差距表、中试方案、责任分工及交付文件清单；合作产线、价格、数量与排期另行确认。']
+]:[
+ ['Brief review | direct coordination','Proposed brief, target market and open-question list, with scope confirmed by the customer.'],
+ ['Ingredient selection | direct coordination','Proposed candidate-material table, specification/document requests and feasibility questions.'],
+ ['R&D & packaging | executor to confirm','Proposed prototype and stability protocol, packaging direction and acceptance criteria; qualified R&D, testing and design partners to be reviewed before execution.'],
+ ['Transfer & production | written agreement','Proposed transfer-gap review, pilot plan, responsibility matrix and delivery-document list; partner line, price, quantity and schedule require confirmation.']
+];
+---
+<section id="odm-start">
+ <h2 class="text-2xl font-bold">{zh?'您从哪一步开始？':'Where are you starting?'}</h2>
+ <p class="mt-3 text-gray-700">{zh?'面向品牌创始人、产品经理及已有配方的研发／采购团队。先组织可评估的项目范围，再确认执行方与报价。':'For brand founders, product managers and R&D / procurement teams with an existing formula. Define a reviewable scope first, then confirm executors and a quote.'}</p>
+ <div class="grid md:grid-cols-2 gap-5 mt-6">
+  <div class="p-6 rounded-xl bg-primary/5"><h3 class="text-xl font-bold">{zh?'只有一个想法':'I have an early idea'}</h3><p class="mt-3">{zh?'提供受众、饮用场景、口味偏好和市场方向；预算、包装或用量不确定可写“待讨论”。':'Share the audience, occasion, flavor preferences and market direction; budget, packaging and volume can be “to discuss”.'}</p><a data-odm-intent="idea" href={quote(false)} class="inline-block mt-5 px-5 py-3 bg-primary text-white rounded-lg">{zh?'梳理我的产品想法':'Shape my product idea'}</a></div>
+  <div class="p-6 rounded-xl bg-primary/5"><h3 class="text-xl font-bold">{zh?'已有配方，寻找生产协作':'I have a formula to transfer'}</h3><p class="mt-3">{zh?'提供非保密的剂型、工艺阶段、包装及目标市场，说明配方权属与现有试验情况。保密配方须先商定保密与技术交接方式，不通过此表单发送。':'Share nonconfidential format, process stage, packaging and market; describe formula ownership and completed trials. Agree confidentiality and technical handover before sharing a formula, not through this form.'}</p><a data-odm-intent="transfer" href={quote(true)} class="inline-block mt-5 px-5 py-3 bg-primary text-white rounded-lg">{zh?'评估配方转移需求':'Review formula transfer needs'}</a></div>
+ </div>
+ <h2 class="text-2xl font-bold mt-10">{zh?'拟定阶段交付物':'Proposed stage deliverables'}</h2>
+ <p class="mt-2 text-sm text-gray-600">{zh?'下列为讨论提纲，不是已承接研发或制造承诺；具体成果、执行方与费用由项目书面约定。':'These are discussion outputs, not an accepted R&D or manufacturing commitment; deliverables, executors and fees are agreed in writing per project.'}</p>
+ <ol class="grid md:grid-cols-2 gap-5 mt-5">{outputs.map(([title,body])=><li class="p-5 border rounded-xl"><h3 class="font-semibold">{title}</h3><p class="mt-2 text-sm text-gray-700">{body}</p></li>)}</ol>
+</section>

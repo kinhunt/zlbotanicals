@@ -1,20 +1,62 @@
 ---
 import research from '../data/research.json';
+import {applications,readingApplications} from '../data/research-facets';
+import {getCollection} from 'astro:content';
 import { getLocalizedPath, type Language } from '../i18n/config';
 interface Props { lang: Language; products?: string[] }
 const {lang,products=[]}=Astro.props;
 const zh=lang==='zh';
 const rows=research.filter(r=>r.status==='reviewed' && (!products.length || r.products.some(p=>products.includes(p))));
+const ingredients=await getCollection('products',({data})=>data.lang===lang&&!data.draft);
+const name=(slug:string)=>ingredients.find(p=>p.slug===`${lang}/${slug}`)?.data.name || slug;
+const ingredientKeys=[...new Set(rows.flatMap(r=>r.products))];
+const tags=(r:typeof rows[number])=>[...new Set(r.products.flatMap(p=>readingApplications[p] || []))];
+const applicationKeys=[...new Set(rows.flatMap(tags))];
+const evidenceKeys=[...new Set(rows.map(r=>r.evidenceType[lang]))];
 ---
-<section id="research" class="mt-12 space-y-6">
+<section id="research" data-research-library data-lang={lang} class="mt-12 space-y-6">
  <div><p class="text-sm uppercase tracking-widest text-primary">{zh?'文献 · 材料 · 边界':'Literature · materials · boundaries'}</p><h2 class="text-2xl font-bold mt-2">{zh?'研究阅读卡':'Research reading cards'}</h2><p class="mt-3 text-gray-600">{zh?'精选文献，不是实时检索或系统综述。编辑核查截至 2026-09-08；摘要层级阅读，不批准医疗或监管宣称。':'Selected literature, not a live feed or systematic review. Editorial check: 2026-09-08; abstract-level reading, not medical or regulatory claim approval.'}</p></div>
- {rows.map((r)=><article class="border border-gray-200 rounded-2xl p-5 md:p-7 bg-white" id={r.id.replace(':','-')}>
-  <p class="text-sm text-primary">{r.evidenceType[lang]} · {r.year}</p>
+ <details id="research-caveats" class="text-sm bg-gray-50 rounded-xl p-4"><summary class="cursor-pointer font-semibold">{zh?'共通阅读边界：非成品功效依据，无用量建议':'Shared reading limits: not finished-product efficacy evidence; no dose advice'}</summary><p class="mt-3">{research[0].limitations[lang]}</p><p class="mt-2">{research[0].doseContext[lang]}</p><p class="mt-2">{zh?'应用筛选表示文献的实际阅读用途，不表示原料适用性或当地法规许可。当前 12 篇均为文献综述，没有独立人体试验条目。':'Application filters describe reading relevance, not material suitability or local authorization. All 12 current entries are literature reviews; there are no standalone human-trial entries.'}</p></details>
+ {!products.length && <div data-research-controls hidden class="rounded-xl border p-5">
+  <div class="grid sm:grid-cols-3 gap-4">
+   <label class="text-sm font-semibold">{zh?'原料':'Ingredient'}<select data-research-filter="ingredient" class="block w-full border rounded-lg p-3 mt-2"><option value="">{zh?'全部原料':'All ingredients'}</option>{ingredientKeys.map(p=><option value={p}>{name(p)}</option>)}</select></label>
+   <label class="text-sm font-semibold">{zh?'应用 / 阅读用途':'Application / reading use'}<select data-research-filter="application" class="block w-full border rounded-lg p-3 mt-2"><option value="">{zh?'全部用途':'All reading uses'}</option>{applicationKeys.map(k=><option value={k}>{applications[k][lang]}</option>)}</select></label>
+   <label class="text-sm font-semibold">{zh?'证据类型':'Evidence type'}<select data-research-filter="evidence" class="block w-full border rounded-lg p-3 mt-2"><option value="">{zh?'全部类型':'All evidence types'}</option>{evidenceKeys.map((label,i)=><option value={i===0?'review':`type-${i}`}>{label}</option>)}</select></label>
+  </div><div class="flex flex-wrap items-center gap-4 mt-4"><button type="button" data-research-reset class="border rounded-lg px-4 py-2 underline">{zh?'重置筛选':'Reset filters'}</button><p data-research-count role="status" aria-live="polite"></p></div>
+ </div>}
+ <p data-research-empty hidden class="p-5 bg-gray-50 rounded-xl">{zh?'没有符合组合条件的文献。请重置筛选或更换条件。':'No papers match these combined filters. Reset filters or change a selection.'}</p>
+ <div class="grid md:grid-cols-2 gap-5">{rows.map((r)=><article data-research-card data-ingredient={r.products.join(' ')} data-application={tags(r).join(' ')} data-evidence={evidenceKeys.indexOf(r.evidenceType[lang])===0?'review':`type-${evidenceKeys.indexOf(r.evidenceType[lang])}`} class="border border-gray-200 rounded-xl p-5 bg-white min-w-0" id={r.id.replace(':','-')}>
+  <p class="text-sm text-primary">{zh?'文献综述':'Literature review'} · {r.year}</p>
   <h3 class="text-lg font-semibold mt-2 break-words"><a href={r.sourceUrl} class="underline" rel="noopener noreferrer">{r.title}</a></h3>
-  <p class="text-sm text-gray-600 mt-2">{r.authors}</p>
-  <p class="text-sm mt-2 break-words">PMID: <a class="underline" href={r.sourceUrl}>{r.pmid}</a> · DOI: <a class="underline" href={`https://doi.org/${r.doi}`}>{r.doi}</a></p>
-  <dl class="space-y-3 mt-5 text-sm leading-relaxed">{[['scope',zh?'为何阅读':'Why read'],['material',zh?'物种与研究材料':'Species & study material'],['doseContext',zh?'剂量与研究条件':'Dose & study context'],['limitations',zh?'证据边界':'Evidence boundary']].map(([key,label])=><div><dt class="font-semibold">{label}</dt><dd class="text-gray-700">{r[key][lang]}</dd></div>)}</dl>
-  <div class="flex flex-wrap gap-3 mt-4">{r.products.map(p=><a class="underline text-primary text-sm" href={getLocalizedPath(`/products/${p}`,lang)}>{zh?'原料采购档案':'Ingredient dossier'} · {p}</a>)}</div>
- </article>)}
- <a class="inline-block underline text-primary" href={getLocalizedPath('/resources/research',lang)}>{zh?'浏览全部研究与编辑方法':'All research & editorial method'} →</a>
+  <p class="mt-3 text-sm text-gray-700">{r.scope[lang]}</p>
+  <details data-evidence-details class="mt-4 text-sm"><summary class="cursor-pointer font-semibold text-primary">{zh?'展开材料、研究条件与来源':'Study material, context & sources'}</summary>
+   <p class="text-gray-600 mt-3">{r.authors}</p><p class="mt-2 break-words">PMID: <a class="underline" href={r.sourceUrl}>{r.pmid}</a> · DOI: <a class="underline" href={`https://doi.org/${r.doi}`}>{r.doi}</a></p>
+   <dl class="space-y-3 mt-4 leading-relaxed"><div><dt class="font-semibold">{zh?'物种与研究材料 / 特定边界':'Species & study material / specific limits'}</dt><dd>{r.material[lang]}</dd></div>{r.doseContext[lang]!==research[0].doseContext[lang]&&<div><dt>{zh?'研究条件':'Study context'}</dt><dd>{r.doseContext[lang]}</dd></div>}{r.limitations[lang]!==research[0].limitations[lang]&&<div><dt>{zh?'特定限制':'Specific limitations'}</dt><dd>{r.limitations[lang]}</dd></div>}</dl>
+  </details>
+  <div class="flex flex-wrap gap-3 mt-4">{r.products.map(p=><a class="underline text-primary text-sm" href={getLocalizedPath(`/products/${p}`,lang)}>{name(p)} →</a>)}</div>
+ </article>)}</div>
+ {products.length>0 && <a class="inline-block underline text-primary" href={getLocalizedPath('/resources/research',lang)}>{zh?'浏览全部研究与编辑方法':'All research & editorial method'} →</a>}
 </section>
+<script>
+ for(const library of document.querySelectorAll<HTMLElement>('[data-research-library]')){
+  const controls=library.querySelector<HTMLElement>('[data-research-controls]');
+  if(!controls)continue;
+  const selects=[...controls.querySelectorAll<HTMLSelectElement>('select')];
+  const cards=[...library.querySelectorAll<HTMLElement>('[data-research-card]')];
+  const count=library.querySelector<HTMLElement>('[data-research-count]');
+  const empty=library.querySelector<HTMLElement>('[data-research-empty]');
+  const update=()=>{
+   let visible=0;
+   for(const card of cards){
+    card.hidden=!selects.every(select=>!select.value||(card.dataset[select.dataset.researchFilter!]?.split(' ') || []).includes(select.value));
+    if(!card.hidden)visible++;
+   }
+   if(count)count.textContent=library.dataset.lang==='zh'?`显示 ${visible} / ${cards.length} 篇文献`:`Showing ${visible} of ${cards.length} papers`;
+   if(empty)empty.hidden=visible>0;
+  };
+  selects.forEach(select=>select.addEventListener('change',update));
+  controls.querySelector('[data-research-reset]')?.addEventListener('click',()=>{selects.forEach(select=>select.value='');update();});
+  controls.hidden=false;
+  update();
+ }
+</script>

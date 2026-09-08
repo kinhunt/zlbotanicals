@@ -4,7 +4,7 @@ nameEn: Stevia Glycoside Extract
 latinName: Stevia rebaudiana
 lang: en
 description: "Stevia glycoside sourcing, covering composition, production route and sensory trials for food and beverage development."
-image: /images/products/stevia.webp
+image: /images/products/diagrams/stevia.svg
 solutions:
   - botanical-sweetener-rtd
 ---

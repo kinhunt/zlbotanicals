@@ -4,7 +4,7 @@ nameEn: Resveratrol
 latinName: Polygonum cuspidatum
 lang: zh
 description: "白藜芦醇采购指南，涵盖植物来源、反式异构体检测、杂质控制及分散测试。"
-image: /images/products/resveratrol.webp
+image: /images/products/diagrams/resveratrol.svg
 ---
 
 ## 原料身份与选型

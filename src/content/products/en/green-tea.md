@@ -3,7 +3,7 @@ name: Green Tea Extract
 latinName: Camellia sinensis
 lang: en
 description: "Green tea leaf extract sourcing, with guidance on EGCG, catechins, caffeine and beverage compatibility."
-image: /images/products/green-tea.webp
+image: /images/products/diagrams/green-tea.svg
 solutions:
   - white-peach-sparkling
   - green-tea-energy-sparkling

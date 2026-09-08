@@ -3,7 +3,7 @@ name: Resveratrol
 latinName: Polygonum cuspidatum
 lang: en
 description: "Resveratrol sourcing, covering botanical origin, trans-isomer assays, impurity controls and dispersion testing."
-image: /images/products/resveratrol.webp
+image: /images/products/diagrams/resveratrol.svg
 ---
 
 ## Material identity and selection

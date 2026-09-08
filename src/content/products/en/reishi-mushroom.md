@@ -3,7 +3,7 @@ name: Reishi Mushroom Extract
 latinName: Ganoderma lucidum
 lang: en
 description: "Reishi extract sourcing, with guidance on species, fungal part, beta-glucan methods and application fit."
-image: /images/products/reishi-mushroom.webp
+image: /images/products/diagrams/reishi-mushroom.svg
 solutions:
   - liver-support-gummy
   - reishi-sleep-gummy

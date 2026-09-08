@@ -36,13 +36,14 @@ const t = useTranslations(lang);
           {t('hero.subtitle')}
         </p>
 
+        <p class="mt-5 text-white/90">{lang === 'zh' ? '采购、研发与质量团队：核对原料规格与文件。品牌创始人或已有配方团队：从想法梳理或配方转移评估开始。' : 'Purchasing, R&D and quality teams: review ingredient specifications and documents. Brand founders and formula owners: start with a concept brief or transfer assessment.'}</p>
         <!-- CTAs -->
         <div class="mt-8 flex flex-col sm:flex-row gap-4">
           <Button href={getLocalizedPath('/products', lang)} variant="accent" size="lg" class="w-full sm:w-auto">
-            {t('hero.ctaPrimary')}
+            {lang === 'zh' ? '原料采购 · 浏览产品' : 'Ingredient sourcing · browse products'}
           </Button>
-          <Button href={getLocalizedPath('/request-quote', lang)} variant="secondary" size="lg" class="w-full sm:w-auto border-white text-white hover:bg-white hover:!text-primary">
-            {t('hero.ctaSecondary')}
+          <Button href={getLocalizedPath('/odm', lang)} variant="secondary" size="lg" class="w-full sm:w-auto border-white text-white hover:bg-white hover:!text-primary">
+            {lang === 'zh' ? '品牌产品开发 · ODM' : 'Brand product development · ODM'}
           </Button>
         </div>
       </div>
