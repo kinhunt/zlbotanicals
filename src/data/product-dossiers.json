@@ -1,0 +1,206 @@
+[
+  {
+    "slug": "green-tea",
+    "heading": {
+      "en": "Tea polyphenols, catechins and caffeine",
+      "zh": "茶多酚、儿茶素与咖啡因"
+    },
+    "process": {
+      "en": "Ask whether water or aqueous ethanol is used at each extraction and fractionation stage, how caffeine is separated, and whether the supplied powder contains a carrier. Compare EGCG recovery with the chromatographic profile rather than inferring purification from an extract ratio.",
+      "zh": "询问提取及分级各阶段是否使用水或含水乙醇、咖啡因如何分离、交付粉末是否含载体。将 EGCG 回收与色谱图谱结合评估，不根据提取比推断纯化程度。"
+    },
+    "application": {
+      "en": "Set separate trial criteria for astringency, clarity, caffeine and catechin retention. A late-evening concept should begin with a caffeine exposure brief, not an energy claim. Test the intended water, pH, oxygen and heat cycle before selecting packaging.",
+      "zh": "分别设置涩感、澄清度、咖啡因及儿茶素保留的试验指标。晚间场景应从咖啡因暴露需求开始，而不是能量宣称。选定包装前在目标用水、pH、氧暴露与热处理条件下试验。"
+    },
+    "topic": "ingredients/polyphenols-and-catechins",
+    "industry": "beverages"
+  },
+  {
+    "slug": "turmeric",
+    "heading": {
+      "en": "Curcuminoids versus whole-rhizome extract",
+      "zh": "姜黄素类与全根茎提取物"
+    },
+    "process": {
+      "en": "Request the extraction solvent sequence, curcuminoid profile and details of any emulsifier, dispersant or encapsulation system. A dispersible grade and a high-assay powder are different procurement objects; carrier mass must be included in formulation calculations.",
+      "zh": "索取提取溶剂顺序、姜黄素类组分及乳化剂、分散剂或包埋体系信息。易分散规格与高含量粉末是不同采购对象；配方核算须纳入载体质量。"
+    },
+    "application": {
+      "en": "Use a colored or cloudy format as an initial screening option rather than promise a clear beverage. Compare settling, light exposure, stain transfer and heat history. Define a sampling method before comparing marker retention in a suspension.",
+      "zh": "可先筛选有色或浑浊体系，不承诺澄清饮料效果。比较沉降、光照、染色与热历史；悬浮体系比较标志物保留前须定义取样方法。"
+    },
+    "topic": "applications/beverage-compatibility",
+    "industry": "beverages"
+  },
+  {
+    "slug": "reishi-mushroom",
+    "heading": {
+      "en": "Fungal identity and fraction selection",
+      "zh": "真菌身份与组分选择"
+    },
+    "process": {
+      "en": "Ask for species verification, fungal part and substrate disclosure before discussing water extraction, ethanol fractionation or a combined process. Request separate beta-glucan and alpha-glucan treatment in the analytical method; a total sugar result cannot identify fungal origin.",
+      "zh": "讨论水提、乙醇分级或组合工艺前，先核查物种、真菌部位与培养基。要求检测方法分别处理 β-葡聚糖与 α-葡聚糖；总糖结果不能鉴定真菌来源。"
+    },
+    "application": {
+      "en": "Map bitterness and insoluble material to the intended drink, powder or capsule format. Compare filtered and unfiltered samples with a mass balance; a clearer liquid may have a different composition. Do not position an illustrative evening beverage as a sleep treatment.",
+      "zh": "将苦味与不溶物评价对应到饮料、粉剂或胶囊。结合质量平衡比较过滤前后样品；更澄清的液体可能已有不同成分。晚间饮料概念不能定位为睡眠治疗。"
+    },
+    "topic": "standards/assay-method-comparability",
+    "industry": "nutraceuticals"
+  },
+  {
+    "slug": "ginseng",
+    "heading": {
+      "en": "Species, plant part and processing history",
+      "zh": "物种、部位与加工历史"
+    },
+    "process": {
+      "en": "Distinguish root, leaf and other parts and request the steam-processing history. Ask how the chosen solvent, concentration and drying process relates to the supplied ginsenoside fingerprint. A total saponin value is not a substitute for named-ginsenoside results.",
+      "zh": "区分根、叶及其他部位，索取蒸制加工历史。询问溶剂、浓缩和干燥过程与交付人参皂苷指纹之间的对应关系。总皂苷数值不能替代具体人参皂苷的检测结果。"
+    },
+    "application": {
+      "en": "Screen earthy notes, bitterness and haze at the proposed matrix conditions. Review local permission for the exact species, part and use; food and supplement eligibility may differ. Avoid a stimulant-duration promise or a claim that the extract offsets sleep loss.",
+      "zh": "在拟用体系条件下筛选土腥味、苦味与浑浊。核查具体物种、部位和用途的当地许可；食品与补充剂适用性可能不同。不承诺提神持续时间或抵消缺觉。"
+    },
+    "topic": "basics/identity-and-traceability",
+    "industry": "nutraceuticals"
+  },
+  {
+    "slug": "ginkgo-biloba",
+    "heading": {
+      "en": "Leaf extract is not leaf polysaccharide research",
+      "zh": "叶提取物不等于叶多糖研究"
+    },
+    "process": {
+      "en": "Ask for the leaf identification method, extraction and purification stages, named flavone/terpene assays and a specific unwanted-constituent control plan. Read leaf-polysaccharide papers as a distinct fraction; their extraction yields cannot specify a flavone/terpene SKU.",
+      "zh": "询问叶片鉴别、提取纯化阶段、具体黄酮／萜内酯检测与特定不期望成分的控制计划。叶多糖论文描述的是另一类组分，其提取得率不能定义黄酮／萜内酯商品规格。"
+    },
+    "application": {
+      "en": "Treat this as a market-specific supplement evaluation, not a default beverage ingredient. Request a qualified assessment of restrictions and interactions before formulation. Commercial composition and use conditions must match the material reviewed.",
+      "zh": "按目标市场开展补充剂评估，不将其默认视为饮料原料。配方前请合格人员评估限制与相互作用。商业成分及使用条件必须与已评估材料相符。"
+    },
+    "topic": "standards/food-vs-supplement-status",
+    "industry": "nutraceuticals"
+  },
+  {
+    "slug": "grape-seed",
+    "heading": {
+      "en": "Seed, skin and polyphenol assay boundaries",
+      "zh": "籽、皮与多酚检测边界"
+    },
+    "process": {
+      "en": "Request seed-versus-skin identity, any defatting stage and the extraction solvent sequence. Specify the proanthocyanidin method and reference material; results from different colorimetric assays cannot automatically be converted to one OPC percentage.",
+      "zh": "索取籽与皮的身份、是否脱脂及提取溶剂顺序。明确原花青素检测方法与对照品；不同显色方法结果不能自动换算为统一 OPC 百分比。"
+    },
+    "application": {
+      "en": "For food or beverage development, compare astringency, color and protein interactions in the intended matrix. Research on antimicrobial packaging films is not proof that adding extract preserves a drink; preservation and packaging compatibility require separate validation.",
+      "zh": "食品或饮料开发须比较目标体系中的涩感、颜色与蛋白相互作用。抗菌包装膜研究不能证明添加提取物可为饮料防腐；防腐体系及包材相容性需单独验证。"
+    },
+    "topic": "standards/assay-method-comparability",
+    "industry": "food"
+  },
+  {
+    "slug": "goji-berry",
+    "heading": {
+      "en": "Fruit powder, juice solids and polysaccharide fractions",
+      "zh": "全果粉、果汁固形物与多糖组分"
+    },
+    "process": {
+      "en": "Ask whether the material is milled fruit, dried juice or an extracted fraction. Review concentration, filtration and drying records alongside native solids and carrier content. Define how free sugars and other interfering substances are handled in a polysaccharide method.",
+      "zh": "询问材料是果实粉碎物、干燥果汁还是提取组分。结合原生固形物及载体比例核查浓缩、过滤和干燥记录。多糖方法须明确游离糖及其他干扰物的处理方式。"
+    },
+    "application": {
+      "en": "For an unsweetened tea brief, distinguish no added sweetener from legally permitted sugar claims. Native sugars, carriers and all other ingredients still need label review. Check color drift, sediment and microbiological control in the intended dry or liquid format.",
+      "zh": "无额外甜味配料的茶概念须区分“不添加甜味剂”与依法可用的糖声称。天然糖、载体和其他配料仍须核查标签。按干品或液体形式检查颜色漂移、沉淀与微生物控制。"
+    },
+    "topic": "basics/carriers-and-native-extract-content",
+    "industry": "beverages"
+  },
+  {
+    "slug": "licorice-root",
+    "heading": {
+      "en": "Species and glycyrrhizin disclosure",
+      "zh": "物种与甘草酸披露"
+    },
+    "process": {
+      "en": "Request the exact Glycyrrhiza species and root identity, extraction solvents and glycyrrhizin method. A deglycyrrhizinated description requires a measurable residual specification; it is not proof of zero content or general suitability.",
+      "zh": "索取具体甘草物种、根部身份、提取溶剂与甘草酸检测方法。脱甘草酸描述须有可测量的残留规格；不代表零含量或普遍适用。"
+    },
+    "application": {
+      "en": "Evaluate the characteristic taste only after safety and use-condition review. Agree an exposure assessment for the whole formula and warnings where required. The linked G. uralensis review cannot establish equivalence with a G. glabra lot or permission in a beverage.",
+      "zh": "先评估安全性与使用条件，再评价特征风味。确定完整配方的暴露评估及必要警示。所链接乌拉尔甘草综述不能证明与光果甘草批次等同，也不能确立饮料许可。"
+    },
+    "topic": "standards/food-vs-supplement-status",
+    "industry": "food"
+  },
+  {
+    "slug": "centella-asiatica",
+    "heading": {
+      "en": "Triterpene profile and route of use",
+      "zh": "三萜图谱与使用途径"
+    },
+    "process": {
+      "en": "Request botanical part, extraction solvents, and individual asiaticoside, madecassoside and aglycone results where these are part of the brief. Clarify whether a total triterpene result is a sum of resolved peaks or another assay and disclose carriers.",
+      "zh": "索取植物部位、提取溶剂，以及需求中涉及的积雪草苷、羟基积雪草苷及苷元结果。明确总三萜是分离峰求和还是其他检测，并披露载体。"
+    },
+    "application": {
+      "en": "For a topical brief, assess compatibility with the actual pH, preservative, emulsion and packaging system. A wound-care paper may involve drug-like delivery devices and patient populations; it cannot support ordinary cosmetic or oral claims without separate review.",
+      "zh": "外用需求应在实际 pH、防腐剂、乳化与包装体系下评估相容性。创面护理论文可能涉及药物递送装置及患者群体；未经另行审核，不能支持普通化妆品或口服宣称。"
+    },
+    "topic": "applications/cosmetic-development-boundaries",
+    "industry": "cosmetics"
+  },
+  {
+    "slug": "monk-fruit",
+    "heading": {
+      "en": "Mogroside profile and sweetness system",
+      "zh": "罗汉果甜苷图谱与甜味体系"
+    },
+    "process": {
+      "en": "Separate fruit extract, mogroside-enriched extract and a blended tabletop sweetener in the purchasing brief. Ask for extraction, purification and drying stages, mogroside V and total mogroside methods, and the full blend composition.",
+      "zh": "采购需求须区分果实提取物、富集甜苷提取物与复配餐桌甜味剂。索取提取、纯化与干燥阶段、罗汉果甜苷 V 及总甜苷检测方法，并披露完整复配成分。"
+    },
+    "application": {
+      "en": "Compare sweetness onset, lingering taste and botanical notes across acid and heat conditions. A fruit review does not establish the authorization of every enriched grade. This material is optional for a sweetened concept and deliberately excluded from the unsweetened tea concept.",
+      "zh": "在不同酸度与热处理条件下比较甜味起始、后味及植物风味。果实综述不代表每个富集规格均被许可。此材料可供有甜味概念讨论，但明确不纳入无甜味剂茶概念。"
+    },
+    "topic": "ingredients/glycosides-and-sweetener-identity",
+    "industry": "beverages"
+  },
+  {
+    "slug": "stevia",
+    "heading": {
+      "en": "Individual steviol glycosides and origin",
+      "zh": "具体甜菊糖苷与来源"
+    },
+    "process": {
+      "en": "Specify the individual glycoside profile and whether the offered material is leaf-extracted, enzymatically modified or produced through another route. Confirm extraction and purification solvents and the composition of any blend; a common sweetener name does not resolve process identity.",
+      "zh": "指定具体糖苷图谱，并明确材料属于叶片提取、酶改性还是其他生产路线。确认提取纯化溶剂及复配成分；通用甜味剂名称不能解决工艺身份问题。"
+    },
+    "application": {
+      "en": "Use a sensory comparison in the actual acid, aroma and carbonation system before selecting a glycoside blend. Confirm local eligibility for that production route and grade. It is not an ingredient in the unsweetened tea concept and is not presented as a glucose-management product.",
+      "zh": "选定糖苷组合前，先在实际酸度、香气和碳酸体系中开展感官比较。确认该生产路线及规格的当地资格。此原料不纳入无甜味剂茶概念，也不定位为血糖管理产品。"
+    },
+    "topic": "ingredients/glycosides-and-sweetener-identity",
+    "industry": "beverages"
+  },
+  {
+    "slug": "resveratrol",
+    "heading": {
+      "en": "Molecule identity versus botanical source",
+      "zh": "分子身份与植物来源"
+    },
+    "process": {
+      "en": "Request trans/cis identity, the source organism or synthesis route, purification stages and source-specific impurity controls. Distinguish pure compound, botanical extract and encapsulated grade, including all excipients, rather than matching only a headline assay.",
+      "zh": "索取顺反式身份、来源生物或合成路线、纯化阶段及来源相关杂质控制。应区分纯化合物、植物提取物与包埋规格并披露辅料，而不只是比较醒目的含量值。"
+    },
+    "application": {
+      "en": "Screen dispersion, light exposure and precipitation in the actual matrix. Encapsulation studies investigate defined carriers and conditions; their results cannot be attributed to a plain powder. Confirm the intended oral or topical regulatory pathway before selecting a grade.",
+      "zh": "在实际体系中筛选分散性、光照与析出。包埋研究针对特定载体和条件，其结果不能归于普通粉末。选型前确认拟定口服或外用途径的监管要求。"
+    },
+    "topic": "processes/concentration-vs-purification",
+    "industry": "nutraceuticals"
+  }
+]

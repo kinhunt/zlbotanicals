@@ -1,0 +1,7 @@
+---
+import OdmPage from '../../components/OdmPage.astro';
+import concepts from '../../data/odm.json';
+export function getStaticPaths() { return [{params:{slug:undefined}},...concepts.map(c=>({params:{slug:c.slug}}))]; }
+const {slug}=Astro.params;
+---
+<OdmPage lang="en" slug={slug} />

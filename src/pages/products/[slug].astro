@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import ProductDossier from '../../components/ProductDossier.astro';
 import RelatedGuides from '../../components/RelatedGuides.astro';
 import PageLayout from '../../layouts/PageLayout.astro';
 import { getLocalizedPath } from '../../i18n/config';
@@ -77,6 +78,8 @@ const relatedSolutions = allSolutions.filter((solution) =>
       </div>
 
       <RelatedGuides lang={lang} productSlug={product.slug.replace('en/', '')} />
+
+      <ProductDossier lang={lang} slug={product.slug.replace('en/', '')} />
 
       <!-- Related Solutions -->
       {relatedSolutions.length > 0 && (
