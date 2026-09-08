@@ -42,7 +42,10 @@
     "qualityRequestDocuments": "索取产品文件",
     "openMenu": "打开菜单",
     "closeMenu": "关闭菜单",
-    "mainNavigation": "主导航"
+    "mainNavigation": "主导航",
+    "odm": "ODM 项目协作",
+    "research": "研究文献",
+    "news": "行业与监管事件"
   },
   "hero": {
     "badge": "植物原料采购合作 • 中国广州",

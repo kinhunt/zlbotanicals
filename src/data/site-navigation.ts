@@ -27,6 +27,7 @@ export function getSiteNavigation(
     {
       label: t('nav.solutions'), href: localize('/solutions'),
       children: [
+        { label: t('nav.odm'), href: localize('/odm') },
         { label: t('nav.solutionsBeverages'), href: localize('/solutions/beverages') },
         { label: t('nav.solutionsNutraceuticals'), href: localize('/solutions/nutraceuticals') },
         { label: t('nav.solutionsCosmetics'), href: localize('/solutions/cosmetics') },
@@ -36,6 +37,8 @@ export function getSiteNavigation(
     {
       label: t('nav.resources'), href: localize('/resources'),
       children: [
+        { label: t('nav.research'), href: localize('/resources/research') },
+        { label: t('nav.news'), href: localize('/resources/news') },
         { label: t('nav.resourcesIngredients'), href: localize('/resources/ingredient-guides') },
         { label: t('nav.resourcesApplications'), href: localize('/resources/application-guides') },
         { label: t('nav.resourcesQuality'), href: localize('/resources/quality-guides') },

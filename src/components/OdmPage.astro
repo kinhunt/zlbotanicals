@@ -1,0 +1,50 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import concepts from '../data/odm.json';
+import ResearchCards from './ResearchCards.astro';
+import {getCollection} from 'astro:content';
+import {getLocalizedPath,type Language} from '../i18n/config';
+interface Props {lang:Language;slug?:string}
+const {lang,slug}=Astro.props;const zh=lang==='zh';const concept=concepts.find(c=>c.slug===slug);
+const local=(p:string)=>getLocalizedPath(p,lang);
+const title=concept?.title[lang] || (zh?'植物饮品一站式 ODM 项目协作':'One-stop botanical beverage ODM coordination');
+const description=concept?.summary[lang] || (zh?'从模糊想法到原料筛选、研发验证计划、包装与合作生产；按项目确认能力与责任，不承诺未经验证的成品表现。':'From an early idea to ingredient selection, R&D validation planning, packaging and partner production, with project-specific capability and responsibility checks.');
+const products=await getCollection('products',({data})=>data.lang===lang&&!data.draft);
+const productName=(s:string)=>products.find(p=>p.slug===`${lang}/${s}`)?.data.name || s;
+const brief=concept ? `${concept.title[lang]} — ${concept.summary[lang]}` : (zh?'植物饮品 ODM 项目需求':'Botanical beverage ODM project brief');
+const quote=local('/request-quote')+'?'+new URLSearchParams({request:'odm',product:concept?.title[lang]||'Botanical beverage ODM',concept:concept?.slug||'custom',application:brief}).toString();
+const steps=zh?[
+ ['概念需求书','明确受众、场景、市场、口味、排除配料、包装倾向与预算范围。输出可审核需求书，不预设功效。'],
+ ['原料与可行性','以植物提取物业务为起点，对物种、部位、规格、工艺、文件及使用资格进行核查。输出候选清单与待解决事项。'],
+ ['研发、风味与稳定性计划','商定原型、感官比较、pH、溶解／分散、沉淀、标志物、微生物及包装相容性检查。明确执行方、方案、验收标准与失效处理后再开展。'],
+ ['包装、视觉与供应链','将包装设计、标签文案、物料打样及供应商选择并行推进。核查食品接触、商标、设计权属与目标市场标签规则。'],
+ ['中试、生产与质量交付','拟定合格合作方筛选、工艺转移、中试、批次放行、追溯、运输及交付文件。产线、责任主体、数量和排期经书面确认后方可锁定。']
+]:[
+ ['Concept brief','Define audience, occasion, market, flavor, excluded ingredients, packaging direction and budget range. Deliver a reviewable brief without presupposing efficacy.'],
+ ['Ingredient & feasibility review','Start with the extract business: review species, part, specification, process, documents and use eligibility. Deliver candidate materials and open questions.'],
+ ['R&D, flavor & stability plan','Agree prototypes, sensory comparisons, pH, dissolution/dispersion, sediment, markers, microbiology and packaging compatibility checks. Name the executor, protocol, acceptance criteria and failure actions before testing.'],
+ ['Packaging, visual identity & sourcing','Develop packaging direction, label copy, material samples and supplier selection together. Review food contact, trademarks, artwork ownership and destination-market labeling.'],
+ ['Pilot, production, QA & delivery','Plan qualified partner selection, process transfer, pilot runs, batch release, traceability, transport and delivery documents. Lock the line, responsible entity, quantities and schedule only through written confirmation.']
+];
+const schema={'@context':'https://schema.org','@type':'WebPage',name:title,description,inLanguage:lang,url:`https://zlbotanicals.com${local('/odm'+(slug?'/'+slug:''))}`,isPartOf:{'@type':'WebSite',name:'ZL Botanicals',url:'https://zlbotanicals.com'}};
+---
+<PageLayout lang={lang} title={title} description={description} heroTitle={title} heroSubtitle={description}>
+<script type="application/ld+json" set:html={JSON.stringify(schema).replace(/</g,'\\u003c')} />
+<div class="container-wide max-w-6xl py-10 md:py-16">
+ <nav class="text-sm mb-8 flex flex-wrap gap-3" aria-label={zh?'路径导航':'Breadcrumb'}><a class="underline" href={local('/products')}>{zh?'原料产品':'Ingredients'}</a><span>/</span><a class="underline" href={local('/odm')}>ODM</a>{concept&&<><span>/</span><span>{concept.title[lang]}</span></>}</nav>
+ <div class="p-6 rounded-xl border border-amber-200 bg-amber-50"><strong>{zh?'概念示意 · 非已上市产品':'Illustrative concepts · not launched products'}</strong><p class="mt-2">{zh?'这些页面用于组织需求与讨论，不是验证配方、客户案例、临床结果或已确定的生产报价。无起订量、剂量、交付时间、减重、降糖或提神时长承诺。':'These pages organize a brief and discussion. They are not validated formulas, customer cases, clinical results or confirmed manufacturing quotes. No MOQ, dose, delivery date, weight-loss, glucose-lowering or stimulant-duration promise is made.'}</p></div>
+ <figure class="mt-8 overflow-hidden rounded-2xl bg-stone-100"><img src="/images/odm/packaging-concepts.webp" width="1536" height="1024" class="w-full h-auto" alt={zh?'AI 生成的植物饮品包装概念示意：绿色罐、米白色茶盒与琥珀色瓶，非实际商品。':'AI-generated botanical packaging concepts: green can, ivory tea carton and amber bottle; not actual goods.'} /><figcaption class="p-4 text-sm text-gray-700">{zh?'AI 生成包装／视觉方向图，非实物照片、上市产品或包装供应承诺。图中文字为暂定设计文案，须另行商标与标签审核。':'AI-generated packaging / visual direction, not a product photograph, launched range or packaging supply commitment. Wording is provisional design copy requiring trademark and label review.'}</figcaption></figure>
+ {concept ? <>
+  <div class="grid md:grid-cols-2 gap-6 mt-10">{[['brief',zh?'场景与需求':'Occasion & brief'],['selection',zh?'候选原料与取舍':'Candidate ingredients & trade-offs'],['validation',zh?'拟定研发验证计划':'Proposed R&D validation plan'],['packaging',zh?'包装与视觉方向':'Packaging & visual direction']].map(([key,label])=><section class="p-6 rounded-xl bg-gray-50"><h2 class="text-xl font-bold">{label}</h2><p class="mt-3 leading-relaxed text-gray-700">{concept[key][lang]}</p></section>)}</div>
+  <section class="mt-10"><h2 class="text-2xl font-bold">{zh?'从概念回到原料与技术依据':'Connect the concept to ingredients & technical reading'}</h2><div class="flex flex-wrap gap-3 mt-5">{concept.products.map(p=><a class="p-3 border rounded-lg underline text-primary" href={local(`/products/${p}`)}>{productName(p)}</a>)}<a class="p-3 border rounded-lg underline text-primary" href={local('/solutions/beverages')}>{zh?'饮料行业应用':'Beverage industry applications'}</a><a class="p-3 border rounded-lg underline text-primary" href={local('/plant-extracts/applications/beverage-compatibility')}>{zh?'饮料相容性知识':'Beverage compatibility guide'}</a><a class="p-3 border rounded-lg underline text-primary" href={local('/plant-extracts/standards/food-vs-supplement-status')}>{zh?'食品与补充剂资格':'Food vs supplement status'}</a></div></section>
+ </> : <section class="mt-12"><h2 class="text-2xl font-bold">{zh?'三个起点，同一套审查路径':'Three starting points, one review pathway'}</h2><div class="grid md:grid-cols-3 gap-6 mt-6">{concepts.map((c,i)=><a href={local(`/odm/${c.slug}`)} class="block rounded-xl border p-6 hover:border-primary focus-visible:outline-2"><p class="text-primary text-sm">0{i+1} · {c.visualName}</p><h3 class="font-bold text-xl mt-3">{c.title[lang]}</h3><p class="text-gray-600 mt-3">{c.summary[lang]}</p><span class="inline-block underline mt-5 text-primary">{zh?'阅读概念需求':'Read concept brief'} →</span></a>)}</div></section>}
+ <section id="capability-boundaries" class="mt-12"><h2 class="text-2xl font-bold">{zh?'谁负责什么：能力与责任边界':'Who does what: capability & responsibility boundaries'}</h2><div class="grid md:grid-cols-3 gap-6 mt-6">
+ <div class="border rounded-xl p-6"><h3 class="font-bold">{zh?'直接沟通范围':'Direct coordination scope'}</h3><p class="mt-3 text-gray-700">{zh?'需求梳理、植物提取物选型与采购文件沟通，以公司提取物业务为基础。每个 SKU 的自产、合作供应或定制来源须另行确认；目录本身不是自产证明。':'Brief development, extract selection and procurement-document discussion, grounded in the extract business. Own production, partner supply or custom sourcing must be confirmed per SKU; a listing does not prove in-house manufacture.'}</p></div>
+ <div class="border rounded-xl p-6"><h3 class="font-bold">{zh?'可对接合作方':'Potential partner workstreams'}</h3><p class="mt-3 text-gray-700">{zh?'可讨论研发执行、检测、视觉设计、包装物料及灌装制造合作方。合作方选择、资质、设备与合同须项目核查，未在本站宣称已有经验证的合作产能。':'Discuss potential R&D execution, testing, design, packaging-material and filling/manufacturing partners. Selection, qualifications, equipment and contracts require project review; no verified partner capacity is represented here.'}</p></div>
+ <div class="border rounded-xl p-6"><h3 class="font-bold">{zh?'必须项目确认':'Requires project confirmation'}</h3><p class="mt-3 text-gray-700">{zh?'自有研发实验室、灌装线、认证、临床测试、货架期及交付条件均未在此核实。研发成果、放行责任、配方与设计权属、失败成本及运输条件须书面约定。':'An owned R&D lab, filling line, certifications, clinical testing, shelf-life and delivery terms are not verified here. Agree outputs, release responsibility, formula/design ownership, failure costs and shipping terms in writing.'}</p></div>
+ </div></section>
+ <section class="mt-12"><h2 class="text-2xl font-bold">{zh?'从需求到交付的项目流程':'Project workflow from brief to delivery'}</h2><ol class="mt-6 space-y-4">{steps.map(([heading,body],i)=><li class="flex gap-4 p-5 rounded-xl bg-primary/5"><span class="font-bold text-primary">0{i+1}</span><div><h3 class="font-semibold text-lg">{heading}</h3><p class="mt-2 text-gray-700">{body}</p></div></li>)}</ol></section>
+ <section class="mt-12 bg-primary text-white p-7 md:p-10 rounded-2xl"><h2 class="text-2xl font-bold">{zh?'不需要先有完整配方':'You do not need a finished formula to start'}</h2><p class="mt-3">{zh?'带上场景、目标市场、口味、排除项和包装想法即可。下一步为可行性讨论；请勿在表单中发送保密配方。':'Bring the occasion, market, flavor preferences, exclusions and packaging idea. The next step is a feasibility discussion; do not send confidential formulas through the form.'}</p><a data-odm-quote href={quote} class="inline-block bg-white text-primary px-6 py-3 rounded-lg font-semibold mt-5">{zh?'携带此需求进入询盘':'Discuss this brief'} →</a></section>
+ {concept && <ResearchCards lang={lang} products={concept.products} />}
+</div>
+</PageLayout>

@@ -18,8 +18,10 @@ const fieldClass = 'w-full px-4 py-3 rounded-lg border border-gray-300 focus:rin
   <div><label for="request" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '请求类型 *' : 'Request type *'}</label>
     <select id="request" name="request" required class={fieldClass}>
       <option value="quote">{zh ? '报价' : 'Quote'}</option><option value="sample">{zh ? '样品评估' : 'Sample evaluation'}</option><option value="COA">{zh ? '分析证书 (COA)' : 'Certificate of Analysis (COA)'}</option><option value="TDS">{zh ? '技术数据表 (TDS)' : 'Technical Data Sheet (TDS)'}</option><option value="certification">{zh ? '认证文件核查' : 'Certification copy review'}</option><option value="application">{zh ? '应用需求讨论' : 'Application discussion'}</option>
+      <option value="odm">{zh ? 'ODM 项目可行性讨论' : 'ODM project feasibility discussion'}</option>
     </select>
   </div>
+  <div><label for="concept" class="block text-sm font-medium text-gray-700 mb-2">{zh ? 'ODM 概念 / 项目背景（选填，可修改）' : 'ODM concept / project context (optional, editable)'}</label><input id="concept" name="concept" maxlength="500" type="text" class={fieldClass} /></div>
   <div class="grid md:grid-cols-2 gap-6">
     <div><label for="company" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '公司名称 *' : 'Company name *'}</label><input id="company" name="company" type="text" required class={fieldClass} /></div>
     <div><label for="name" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '联系人 *' : 'Contact name *'}</label><input id="name" name="name" type="text" required class={fieldClass} /></div>
@@ -39,6 +41,11 @@ const fieldClass = 'w-full px-4 py-3 rounded-lg border border-gray-300 focus:rin
 </form>
 <script is:inline>
   const params = new URLSearchParams(window.location.search);
+  for (const key of ['concept', 'application']) {
+    const field = document.getElementById(key);
+    const value = params.get(key);
+    if (field && value) field.value = value.slice(0, 500);
+  }
   const productField = document.getElementById('product');
   const requestField = document.getElementById('request');
   const productValue = params.get('product');

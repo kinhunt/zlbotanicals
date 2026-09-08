@@ -1,0 +1,20 @@
+---
+import research from '../data/research.json';
+import { getLocalizedPath, type Language } from '../i18n/config';
+interface Props { lang: Language; products?: string[] }
+const {lang,products=[]}=Astro.props;
+const zh=lang==='zh';
+const rows=research.filter(r=>r.status==='reviewed' && (!products.length || r.products.some(p=>products.includes(p))));
+---
+<section id="research" class="mt-12 space-y-6">
+ <div><p class="text-sm uppercase tracking-widest text-primary">{zh?'文献 · 材料 · 边界':'Literature · materials · boundaries'}</p><h2 class="text-2xl font-bold mt-2">{zh?'研究阅读卡':'Research reading cards'}</h2><p class="mt-3 text-gray-600">{zh?'精选文献，不是实时检索或系统综述。编辑核查截至 2026-09-08；摘要层级阅读，不批准医疗或监管宣称。':'Selected literature, not a live feed or systematic review. Editorial check: 2026-09-08; abstract-level reading, not medical or regulatory claim approval.'}</p></div>
+ {rows.map((r)=><article class="border border-gray-200 rounded-2xl p-5 md:p-7 bg-white" id={r.id.replace(':','-')}>
+  <p class="text-sm text-primary">{r.evidenceType[lang]} · {r.year}</p>
+  <h3 class="text-lg font-semibold mt-2 break-words"><a href={r.sourceUrl} class="underline" rel="noopener noreferrer">{r.title}</a></h3>
+  <p class="text-sm text-gray-600 mt-2">{r.authors}</p>
+  <p class="text-sm mt-2 break-words">PMID: <a class="underline" href={r.sourceUrl}>{r.pmid}</a> · DOI: <a class="underline" href={`https://doi.org/${r.doi}`}>{r.doi}</a></p>
+  <dl class="space-y-3 mt-5 text-sm leading-relaxed">{[['scope',zh?'为何阅读':'Why read'],['material',zh?'物种与研究材料':'Species & study material'],['doseContext',zh?'剂量与研究条件':'Dose & study context'],['limitations',zh?'证据边界':'Evidence boundary']].map(([key,label])=><div><dt class="font-semibold">{label}</dt><dd class="text-gray-700">{r[key][lang]}</dd></div>)}</dl>
+  <div class="flex flex-wrap gap-3 mt-4">{r.products.map(p=><a class="underline text-primary text-sm" href={getLocalizedPath(`/products/${p}`,lang)}>{zh?'原料采购档案':'Ingredient dossier'} · {p}</a>)}</div>
+ </article>)}
+ <a class="inline-block underline text-primary" href={getLocalizedPath('/resources/research',lang)}>{zh?'浏览全部研究与编辑方法':'All research & editorial method'} →</a>
+</section>

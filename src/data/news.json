@@ -1,0 +1,22 @@
+[
+  {
+    "id": "eu:2022/2340",
+    "kind": "news",
+    "status": "reviewed",
+    "eventDate": "2022-11-30",
+    "reviewedAt": "2026-09-08",
+    "products": [
+      "green-tea"
+    ],
+    "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2022/2340/oj/eng",
+    "title": {
+      "en": "EU adopted Regulation 2022/2340 concerning green-tea extracts containing EGCG",
+      "zh": "欧盟通过涉及含 EGCG 绿茶提取物的法规 2022/2340"
+    },
+    "summary": {
+      "en": "The Commission adopted an amendment to Annex III of Regulation 1925/2006 on 30 November 2022. This is a dated regulatory milestone, not new 2026 news or a compliance opinion. Review the official text, any amendments and the exact extract/use conditions with a qualified adviser before market entry.",
+      "zh": "欧盟委员会于 2022 年 11 月 30 日通过修订法规 1925/2006 附件 III 的法规。这是注明时间的监管历史事件，不是 2026 年新消息或合规意见。进入市场前须与合格顾问核查官方文本、后续修订及具体提取物和使用条件。"
+    },
+    "reviewScope": "official event identity and adoption date only; no market authorization assessment"
+  }
+]

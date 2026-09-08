@@ -1,0 +1,422 @@
+[
+  {
+    "id": "pmid:37776575",
+    "pmid": "37776575",
+    "doi": "10.1016/j.ejmech.2023.115820",
+    "title": "Tea-break with epigallocatechin gallate derivatives - Powerful polyphenols of great potential for medicine.",
+    "authors": "Bakun P, Mlynarczyk DT, Koczorowski T, Cerbin-Koczorowska M, Piwowarczyk L, Kolasiński E, Stawny M, Kuźmińska J, Jelińska A, Goslinski T.",
+    "year": 2023,
+    "products": [
+      "green-tea"
+    ],
+    "evidenceType": {
+      "en": "Literature review • abstract-level editorial assessment",
+      "zh": "文献综述 · 摘要层级编辑核查"
+    },
+    "scope": {
+      "en": "EGCG derivatives and stability, not a trial of a commercial green-tea beverage.",
+      "zh": "EGCG 衍生物与稳定性的文献综述，并非商业绿茶饮料试验。"
+    },
+    "material": {
+      "en": "Camellia sinensis EGCG and chemically modified derivatives; not interchangeable with leaf extract.",
+      "zh": "茶树 EGCG 与化学修饰衍生物；不能与普通茶叶提取物混为一谈。"
+    },
+    "doseContext": {
+      "en": "Review of heterogeneous studies: no single dose, population or duration is established by this card. Individual protocols and full text must be assessed before use. No serving dose is recommended.",
+      "zh": "综述涵盖不同研究；本卡片不确立统一剂量、受试人群或持续时间。使用前须核查原文与各项研究方案，不提供每份用量建议。"
+    },
+    "limitations": {
+      "en": "Ingredient literature is not evidence of efficacy or safety for our extract or any finished product. No clinical validation, disease claim or market authorization is implied.",
+      "zh": "原料文献不是本公司提取物或任何成品的功效与安全性证据，不表示已完成临床验证、获得疾病宣称依据或目标市场许可。"
+    },
+    "sourceUrl": "https://europepmc.org/article/MED/37776575",
+    "status": "reviewed",
+    "reviewedAt": "2026-09-08",
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+  },
+  {
+    "id": "pmid:39614566",
+    "pmid": "39614566",
+    "doi": "10.1016/j.foodres.2024.115079",
+    "title": "Improving curcumin bioavailability: Targeted delivery of curcumin and loading systems in intestinal inflammation.",
+    "authors": "Zhao J, Jia W, Zhang R, Wang X, Zhang L.",
+    "year": 2024,
+    "products": [
+      "turmeric"
+    ],
+    "evidenceType": {
+      "en": "Literature review • abstract-level editorial assessment",
+      "zh": "文献综述 · 摘要层级编辑核查"
+    },
+    "scope": {
+      "en": "Delivery systems and physicochemical barriers; formulation context, not a finished-drink efficacy claim.",
+      "zh": "递送体系与理化障碍的综述；用于配方背景阅读，不支持成品饮料功效宣称。"
+    },
+    "material": {
+      "en": "Curcumin and carrier/loading systems discussed for intestinal inflammation research.",
+      "zh": "姜黄素及其载体与负载体系，研究背景为肠道炎症；并非本公司商品。"
+    },
+    "doseContext": {
+      "en": "Review of heterogeneous studies: no single dose, population or duration is established by this card. Individual protocols and full text must be assessed before use. No serving dose is recommended.",
+      "zh": "综述涵盖不同研究；本卡片不确立统一剂量、受试人群或持续时间。使用前须核查原文与各项研究方案，不提供每份用量建议。"
+    },
+    "limitations": {
+      "en": "Ingredient literature is not evidence of efficacy or safety for our extract or any finished product. No clinical validation, disease claim or market authorization is implied.",
+      "zh": "原料文献不是本公司提取物或任何成品的功效与安全性证据，不表示已完成临床验证、获得疾病宣称依据或目标市场许可。"
+    },
+    "sourceUrl": "https://europepmc.org/article/MED/39614566",
+    "status": "reviewed",
+    "reviewedAt": "2026-09-08",
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+  },
+  {
+    "id": "pmid:39435114",
+    "pmid": "39435114",
+    "doi": "10.1016/j.heliyon.2024.e36987",
+    "title": "Bioactivities and industrial standardization status of Ganoderma lucidum: A comprehensive review.",
+    "authors": "Wu P, Zhang C, Yin Y, Zhang X, Li Q, Yuan L, Sun Y, Zhou S, Ying S, Wu J.",
+    "year": 2024,
+    "products": [
+      "reishi-mushroom"
+    ],
+    "evidenceType": {
+      "en": "Literature review • abstract-level editorial assessment",
+      "zh": "文献综述 · 摘要层级编辑核查"
+    },
+    "scope": {
+      "en": "Industrial standardization and composition; biological discussion is not evidence for sleep beverages.",
+      "zh": "产业标准化与成分综述；其中生物活性讨论不是助眠饮料的功效证据。"
+    },
+    "material": {
+      "en": "Ganoderma lucidum polysaccharides and triterpenes across heterogeneous materials.",
+      "zh": "灵芝多糖与三萜，涵盖不同材料；不可直接等同于特定批次的商业提取物。"
+    },
+    "doseContext": {
+      "en": "Review of heterogeneous studies: no single dose, population or duration is established by this card. Individual protocols and full text must be assessed before use. No serving dose is recommended.",
+      "zh": "综述涵盖不同研究；本卡片不确立统一剂量、受试人群或持续时间。使用前须核查原文与各项研究方案，不提供每份用量建议。"
+    },
+    "limitations": {
+      "en": "Ingredient literature is not evidence of efficacy or safety for our extract or any finished product. No clinical validation, disease claim or market authorization is implied.",
+      "zh": "原料文献不是本公司提取物或任何成品的功效与安全性证据，不表示已完成临床验证、获得疾病宣称依据或目标市场许可。"
+    },
+    "sourceUrl": "https://europepmc.org/article/MED/39435114",
+    "status": "reviewed",
+    "reviewedAt": "2026-09-08",
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+  },
+  {
+    "id": "pmid:39606259",
+    "pmid": "39606259",
+    "doi": "10.1016/j.chmed.2024.08.005",
+    "title": "Research progress on chemical diversity of saponins in Panax ginseng.",
+    "authors": "Geng X, Wang J, Liu Y, Liu L, Liu X, Zhao Y, Wang C, Liu J.",
+    "year": 2024,
+    "products": [
+      "ginseng"
+    ],
+    "evidenceType": {
+      "en": "Literature review • abstract-level editorial assessment",
+      "zh": "文献综述 · 摘要层级编辑核查"
+    },
+    "scope": {
+      "en": "Chemical diversity across plant parts and steam processing; useful for identity and fingerprint questions.",
+      "zh": "不同部位及蒸制加工下的化学多样性；用于提出身份与指纹图谱核查问题。"
+    },
+    "material": {
+      "en": "Panax ginseng plant parts, red ginseng and black ginseng; composition differs by processing.",
+      "zh": "人参不同部位、红参与黑参；加工背景不同，不能用一个总含量概括所有材料。"
+    },
+    "doseContext": {
+      "en": "Review of heterogeneous studies: no single dose, population or duration is established by this card. Individual protocols and full text must be assessed before use. No serving dose is recommended.",
+      "zh": "综述涵盖不同研究；本卡片不确立统一剂量、受试人群或持续时间。使用前须核查原文与各项研究方案，不提供每份用量建议。"
+    },
+    "limitations": {
+      "en": "Ingredient literature is not evidence of efficacy or safety for our extract or any finished product. No clinical validation, disease claim or market authorization is implied.",
+      "zh": "原料文献不是本公司提取物或任何成品的功效与安全性证据，不表示已完成临床验证、获得疾病宣称依据或目标市场许可。"
+    },
+    "sourceUrl": "https://europepmc.org/article/MED/39606259",
+    "status": "reviewed",
+    "reviewedAt": "2026-09-08",
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+  },
+  {
+    "id": "pmid:39368588",
+    "pmid": "39368588",
+    "doi": "10.1016/j.ijbiomac.2024.136280",
+    "title": "Extraction, purification, structural characterization, and bioactivities of Ginkgo biloba leave polysaccharides: A review.",
+    "authors": "Nie S, Zhang S, Wang Y, Zhu M, Chen X, Wang X, Huang P.",
+    "year": 2024,
+    "products": [
+      "ginkgo-biloba"
+    ],
+    "evidenceType": {
+      "en": "Literature review • abstract-level editorial assessment",
+      "zh": "文献综述 · 摘要层级编辑核查"
+    },
+    "scope": {
+      "en": "Extraction and characterization of leaf polysaccharides; not evidence for standardized flavone/terpene grades.",
+      "zh": "叶多糖的提取与表征；不是标准化黄酮／萜内酯规格的直接证据。"
+    },
+    "material": {
+      "en": "Ginkgo biloba leaf polysaccharide fractions, not whole leaf or all commercial extracts.",
+      "zh": "银杏叶多糖组分，不是全叶材料，也不能代表所有商业银杏叶提取物。"
+    },
+    "doseContext": {
+      "en": "Review of heterogeneous studies: no single dose, population or duration is established by this card. Individual protocols and full text must be assessed before use. No serving dose is recommended.",
+      "zh": "综述涵盖不同研究；本卡片不确立统一剂量、受试人群或持续时间。使用前须核查原文与各项研究方案，不提供每份用量建议。"
+    },
+    "limitations": {
+      "en": "Ingredient literature is not evidence of efficacy or safety for our extract or any finished product. No clinical validation, disease claim or market authorization is implied.",
+      "zh": "原料文献不是本公司提取物或任何成品的功效与安全性证据，不表示已完成临床验证、获得疾病宣称依据或目标市场许可。"
+    },
+    "sourceUrl": "https://europepmc.org/article/MED/39368588",
+    "status": "reviewed",
+    "reviewedAt": "2026-09-08",
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+  },
+  {
+    "id": "pmid:39065146",
+    "pmid": "39065146",
+    "doi": "10.3390/microorganisms12071378",
+    "title": "Antimicrobial Polymer Films with Grape Seed and Skin Extracts for Food Packaging.",
+    "authors": "Ivanov Y, Godjevargova T.",
+    "year": 2024,
+    "products": [
+      "grape-seed"
+    ],
+    "evidenceType": {
+      "en": "Literature review • abstract-level editorial assessment",
+      "zh": "文献综述 · 摘要层级编辑核查"
+    },
+    "scope": {
+      "en": "Packaging-material research, not a clinical study or proof of beverage preservation.",
+      "zh": "包装材料研究综述，而非临床试验，也不是饮料防腐效果的验证。"
+    },
+    "material": {
+      "en": "Grape seed and skin extracts incorporated into biopolymer packaging films.",
+      "zh": "葡萄籽及葡萄皮提取物用于生物聚合物包装膜；与口服饮料材料的用途不同。"
+    },
+    "doseContext": {
+      "en": "Review of heterogeneous studies: no single dose, population or duration is established by this card. Individual protocols and full text must be assessed before use. No serving dose is recommended.",
+      "zh": "综述涵盖不同研究；本卡片不确立统一剂量、受试人群或持续时间。使用前须核查原文与各项研究方案，不提供每份用量建议。"
+    },
+    "limitations": {
+      "en": "Ingredient literature is not evidence of efficacy or safety for our extract or any finished product. No clinical validation, disease claim or market authorization is implied.",
+      "zh": "原料文献不是本公司提取物或任何成品的功效与安全性证据，不表示已完成临床验证、获得疾病宣称依据或目标市场许可。"
+    },
+    "sourceUrl": "https://europepmc.org/article/MED/39065146",
+    "status": "reviewed",
+    "reviewedAt": "2026-09-08",
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+  },
+  {
+    "id": "pmid:39137472",
+    "pmid": "39137472",
+    "doi": "10.1016/j.carres.2024.109230",
+    "title": "A review of Lycium barbarum polysaccharides: Extraction, purification, structural-property relationships, and bioactive molecular mechanisms.",
+    "authors": "Wang J, Li S, Zhang H, Zhang X.",
+    "year": 2024,
+    "products": [
+      "goji-berry"
+    ],
+    "evidenceType": {
+      "en": "Literature review • abstract-level editorial assessment",
+      "zh": "文献综述 · 摘要层级编辑核查"
+    },
+    "scope": {
+      "en": "Extraction, purification and structure-property relationships; a starting point for polysaccharide methods.",
+      "zh": "提取、纯化与结构性质关系；可用于梳理多糖检测方法问题，不代表成品功效。"
+    },
+    "material": {
+      "en": "Lycium barbarum polysaccharide fractions; not equivalent to fruit powder or juice.",
+      "zh": "枸杞多糖组分；不能与枸杞全果粉、果汁或任一商业规格直接等同。"
+    },
+    "doseContext": {
+      "en": "Review of heterogeneous studies: no single dose, population or duration is established by this card. Individual protocols and full text must be assessed before use. No serving dose is recommended.",
+      "zh": "综述涵盖不同研究；本卡片不确立统一剂量、受试人群或持续时间。使用前须核查原文与各项研究方案，不提供每份用量建议。"
+    },
+    "limitations": {
+      "en": "Ingredient literature is not evidence of efficacy or safety for our extract or any finished product. No clinical validation, disease claim or market authorization is implied.",
+      "zh": "原料文献不是本公司提取物或任何成品的功效与安全性证据，不表示已完成临床验证、获得疾病宣称依据或目标市场许可。"
+    },
+    "sourceUrl": "https://europepmc.org/article/MED/39137472",
+    "status": "reviewed",
+    "reviewedAt": "2026-09-08",
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+  },
+  {
+    "id": "pmid:39625590",
+    "pmid": "39625590",
+    "doi": "10.1007/s12272-024-01522-0",
+    "title": "Biological insights and therapeutic potential of Glycyrrhiza uralensis and its bioactive compounds: an updated review.",
+    "authors": "Shaikh S, Ahmad K, Lim JH, Ahmad SS, Lee EJ, Choi I.",
+    "year": 2024,
+    "products": [
+      "licorice-root"
+    ],
+    "evidenceType": {
+      "en": "Literature review • abstract-level editorial assessment",
+      "zh": "文献综述 · 摘要层级编辑核查"
+    },
+    "scope": {
+      "en": "Species-specific review including safety; do not transfer conclusions between licorice species.",
+      "zh": "包含安全性讨论的物种特定综述；不同甘草物种间不能直接转移结论。"
+    },
+    "material": {
+      "en": "Glycyrrhiza uralensis constituents including saponins and flavonoids; not G. glabra equivalence.",
+      "zh": "乌拉尔甘草及其皂苷、黄酮等成分；不表示与光果甘草材料完全等同。"
+    },
+    "doseContext": {
+      "en": "Review of heterogeneous studies: no single dose, population or duration is established by this card. Individual protocols and full text must be assessed before use. No serving dose is recommended.",
+      "zh": "综述涵盖不同研究；本卡片不确立统一剂量、受试人群或持续时间。使用前须核查原文与各项研究方案，不提供每份用量建议。"
+    },
+    "limitations": {
+      "en": "Ingredient literature is not evidence of efficacy or safety for our extract or any finished product. No clinical validation, disease claim or market authorization is implied.",
+      "zh": "原料文献不是本公司提取物或任何成品的功效与安全性证据，不表示已完成临床验证、获得疾病宣称依据或目标市场许可。"
+    },
+    "sourceUrl": "https://europepmc.org/article/MED/39625590",
+    "status": "reviewed",
+    "reviewedAt": "2026-09-08",
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+  },
+  {
+    "id": "pmid:39458583",
+    "pmid": "39458583",
+    "doi": "10.3390/pharmaceutics16101252",
+    "title": "Topical Application of Centella asiatica in Wound Healing: Recent Insights into Mechanisms and Clinical Efficacy.",
+    "authors": "Witkowska K, Paczkowska-Walendowska M, Garbiec E, Cielecka-Piontek J.",
+    "year": 2024,
+    "products": [
+      "centella-asiatica"
+    ],
+    "evidenceType": {
+      "en": "Literature review • abstract-level editorial assessment",
+      "zh": "文献综述 · 摘要层级编辑核查"
+    },
+    "scope": {
+      "en": "Topical wound-care literature; not evidence for food, oral beverages or general cosmetic claims.",
+      "zh": "外用创面护理文献；不是食品、口服饮料或普通化妆品宣称的直接证据。"
+    },
+    "material": {
+      "en": "Centella asiatica triterpenes and topical delivery systems, including hydrogels and microneedles.",
+      "zh": "积雪草三萜及水凝胶、微针等外用递送体系；给药途径与饮料不同。"
+    },
+    "doseContext": {
+      "en": "Review of heterogeneous studies: no single dose, population or duration is established by this card. Individual protocols and full text must be assessed before use. No serving dose is recommended.",
+      "zh": "综述涵盖不同研究；本卡片不确立统一剂量、受试人群或持续时间。使用前须核查原文与各项研究方案，不提供每份用量建议。"
+    },
+    "limitations": {
+      "en": "Ingredient literature is not evidence of efficacy or safety for our extract or any finished product. No clinical validation, disease claim or market authorization is implied.",
+      "zh": "原料文献不是本公司提取物或任何成品的功效与安全性证据，不表示已完成临床验证、获得疾病宣称依据或目标市场许可。"
+    },
+    "sourceUrl": "https://europepmc.org/article/MED/39458583",
+    "status": "reviewed",
+    "reviewedAt": "2026-09-08",
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+  },
+  {
+    "id": "pmid:39063362",
+    "pmid": "39063362",
+    "doi": "10.3390/foods13142278",
+    "title": "Recent Advances in the Distribution, Chemical Composition, Health Benefits, and Application of the Fruit of Siraitia grosvenorii.",
+    "authors": "Guo Q, Shi M, Sarengaowa, Xiao Z, Xiao Y, Feng K.",
+    "year": 2024,
+    "products": [
+      "monk-fruit"
+    ],
+    "evidenceType": {
+      "en": "Literature review • abstract-level editorial assessment",
+      "zh": "文献综述 · 摘要层级编辑核查"
+    },
+    "scope": {
+      "en": "Fruit chemistry and applications; the review does not establish local food permission or finished-product benefits.",
+      "zh": "果实化学与应用综述；不能据此确定当地食品许可或成品的健康作用。"
+    },
+    "material": {
+      "en": "Siraitia grosvenorii fruit constituents, with attention to mogrosides; grades are heterogeneous.",
+      "zh": "罗汉果果实成分，重点包括罗汉果甜苷；不同材料与商品规格并不相同。"
+    },
+    "doseContext": {
+      "en": "Review of heterogeneous studies: no single dose, population or duration is established by this card. Individual protocols and full text must be assessed before use. No serving dose is recommended.",
+      "zh": "综述涵盖不同研究；本卡片不确立统一剂量、受试人群或持续时间。使用前须核查原文与各项研究方案，不提供每份用量建议。"
+    },
+    "limitations": {
+      "en": "Ingredient literature is not evidence of efficacy or safety for our extract or any finished product. No clinical validation, disease claim or market authorization is implied.",
+      "zh": "原料文献不是本公司提取物或任何成品的功效与安全性证据，不表示已完成临床验证、获得疾病宣称依据或目标市场许可。"
+    },
+    "sourceUrl": "https://europepmc.org/article/MED/39063362",
+    "status": "reviewed",
+    "reviewedAt": "2026-09-08",
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+  },
+  {
+    "id": "pmid:38761729",
+    "pmid": "38761729",
+    "doi": "10.1016/j.foodchem.2024.139622",
+    "title": "Properties, extraction and purification technologies of Stevia rebaudiana steviol glycosides: A review.",
+    "authors": "Huang C, Wang Y, Zhou C, Fan X, Sun Q, Han J, Hua C, Li Y, Niu Y, Emeka Okonkwo C, Yao D, Song L, Otu P.",
+    "year": 2024,
+    "products": [
+      "stevia"
+    ],
+    "evidenceType": {
+      "en": "Literature review • abstract-level editorial assessment",
+      "zh": "文献综述 · 摘要层级编辑核查"
+    },
+    "scope": {
+      "en": "Extraction and purification technologies; operational choices require scale-specific validation.",
+      "zh": "提取与纯化技术综述；工艺选择仍需按具体规模和目标产品进行验证。"
+    },
+    "material": {
+      "en": "Stevia rebaudiana steviol glycosides and separation processes, not a tested finished formulation.",
+      "zh": "甜叶菊来源甜菊糖苷及分离工艺；并非经过验证的本公司终端配方。"
+    },
+    "doseContext": {
+      "en": "Review of heterogeneous studies: no single dose, population or duration is established by this card. Individual protocols and full text must be assessed before use. No serving dose is recommended.",
+      "zh": "综述涵盖不同研究；本卡片不确立统一剂量、受试人群或持续时间。使用前须核查原文与各项研究方案，不提供每份用量建议。"
+    },
+    "limitations": {
+      "en": "Ingredient literature is not evidence of efficacy or safety for our extract or any finished product. No clinical validation, disease claim or market authorization is implied.",
+      "zh": "原料文献不是本公司提取物或任何成品的功效与安全性证据，不表示已完成临床验证、获得疾病宣称依据或目标市场许可。"
+    },
+    "sourceUrl": "https://europepmc.org/article/MED/38761729",
+    "status": "reviewed",
+    "reviewedAt": "2026-09-08",
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+  },
+  {
+    "id": "pmid:38675230",
+    "pmid": "38675230",
+    "doi": "10.3390/pharmaceutics16040569",
+    "title": "Enhancing the Bioavailability of Resveratrol: Combine It, Derivatize It, or Encapsulate It?",
+    "authors": "Salla M, Karaki N, El Kaderi B, Ayoub AJ, Younes S, Abou Chahla MN, Baksh S, El Khatib S.",
+    "year": 2024,
+    "products": [
+      "resveratrol"
+    ],
+    "evidenceType": {
+      "en": "Literature review • abstract-level editorial assessment",
+      "zh": "文献综述 · 摘要层级编辑核查"
+    },
+    "scope": {
+      "en": "Bioavailability approaches including derivatives and encapsulation; not proof of a standard powder performance.",
+      "zh": "包括衍生化与包埋的生物利用度策略；不是普通粉末性能的验证依据。"
+    },
+    "material": {
+      "en": "Resveratrol, modified molecules and carrier systems; laboratory and preclinical contexts vary.",
+      "zh": "白藜芦醇、修饰分子及载体体系；实验室与临床前条件不同，材料不可混同。"
+    },
+    "doseContext": {
+      "en": "Review of heterogeneous studies: no single dose, population or duration is established by this card. Individual protocols and full text must be assessed before use. No serving dose is recommended.",
+      "zh": "综述涵盖不同研究；本卡片不确立统一剂量、受试人群或持续时间。使用前须核查原文与各项研究方案，不提供每份用量建议。"
+    },
+    "limitations": {
+      "en": "Ingredient literature is not evidence of efficacy or safety for our extract or any finished product. No clinical validation, disease claim or market authorization is implied.",
+      "zh": "原料文献不是本公司提取物或任何成品的功效与安全性证据，不表示已完成临床验证、获得疾病宣称依据或目标市场许可。"
+    },
+    "sourceUrl": "https://europepmc.org/article/MED/38675230",
+    "status": "reviewed",
+    "reviewedAt": "2026-09-08",
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+  }
+]
