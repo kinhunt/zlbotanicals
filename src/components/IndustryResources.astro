@@ -1,0 +1,23 @@
+---
+import {getCollection} from 'astro:content';
+import {getLocalizedPath, type Language} from '../i18n/config';
+import RelatedGuides from './RelatedGuides.astro';
+interface Props {lang: Language; industry: 'beverages'|'food'|'cosmetics'|'nutraceuticals';}
+const {lang,industry} = Astro.props;
+const zh=lang==='zh';
+const candidates = {
+ beverages:['green-tea','monk-fruit','stevia','licorice-root'],
+ food:['turmeric','monk-fruit','stevia','goji-berry'],
+ cosmetics:['centella-asiatica','licorice-root','green-tea','grape-seed'],
+ nutraceuticals:['reishi-mushroom','ginseng','turmeric','grape-seed'],
+};
+const products=(await getCollection('products',({data})=>data.lang===lang&&!data.draft)).filter(p=>candidates[industry].includes(p.slug.replace(`${lang}/`,'')));
+const concepts=(await getCollection('solutions',({data})=>data.lang===lang&&!data.draft&&data.industry===industry));
+---
+<section class="section-padding bg-off-white"><div class="container-wide max-w-4xl">
+<h2 class="text-2xl font-display font-bold">{zh?'原料选型参考':'Ingredients to evaluate'}</h2>
+<p class="mt-4 text-gray-600">{zh?'以下为选型方向，不代表任何规格均适用于该行业。请按具体产品、配方条件和目标市场确认。':'These are starting points for selection, not confirmation that every grade is suitable. Confirm the exact product, formulation conditions and destination market.'}</p>
+<div class="grid sm:grid-cols-2 gap-4 mt-6">{products.map(p=><a href={getLocalizedPath(`/products/${p.slug.replace(`${lang}/`,'')}`,lang)} class="p-5 bg-white rounded-xl text-primary font-semibold hover:underline">{p.data.name} →</a>)}</div>
+<RelatedGuides lang={lang} industry={industry}/>
+{concepts.length>0&&<section class="mt-12"><h2 class="text-2xl font-display font-bold">{zh?'应用概念与开发参考':'Application concepts & development references'}</h2><p class="mt-3 text-gray-600">{zh?'概念资料不等于已验证配方或客户案例。':'Concepts are not validated formulas or customer case studies.'}</p><ul class="mt-5 space-y-3">{concepts.map(c=><li><a class="text-primary underline" href={getLocalizedPath(`/solutions/${c.slug.replace(`${lang}/`,'')}`,lang)}>{c.data.name}</a></li>)}</ul></section>}
+</div></section>

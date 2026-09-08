@@ -1,0 +1,51 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../../layouts/PageLayout.astro';
+import GuideList from './GuideList.astro';
+import { guideCategories } from '../../data/resource-guides';
+import { getLocalizedPath } from '../../i18n/config';
+interface Props { lang: 'en' | 'zh' }
+const { lang } = Astro.props;
+const zh = lang === 'zh';
+const posts = await getCollection('blog', ({ data }) => data.lang === lang && !data.draft);
+const products = await getCollection('products', ({ data }) => data.lang === lang && !data.draft);
+const categories = guideCategories.filter(category => posts.some(post => post.data.guideCategory === category.slug));
+const title = zh ? '植物原料资源中心' : 'Botanical Ingredient Resource Center';
+const description = zh ? '按原料、应用、质量和采购主题浏览指南，准备试样、规格审核及询价需求。' : 'Explore ingredient, application, quality and sourcing guides to prepare sample trials, specification reviews and quote requests.';
+const support = [
+  { path: '/resources/faq', title: zh ? '常见问题' : 'FAQ', text: zh ? '了解采购、试样和文件申请常见问题。' : 'Review common sourcing, sampling and documentation questions.' },
+  { path: '/resources/downloads', title: zh ? '下载与文件申请' : 'Downloads & document requests', text: zh ? '获取采购检查表，并申请现行规格及批次文件。' : 'Access buyer checklists and request current specifications and batch documents.' },
+  { path: '/quality', title: zh ? '质量与文件审核' : 'Quality & documentation', text: zh ? '了解应核实哪些质量证据及文件范围。' : 'Understand which quality evidence and document scope to verify.' },
+];
+---
+<PageLayout title={title} description={description} lang={lang} heroTitle={title} heroSubtitle={description}>
+  <section class="section-padding">
+    <div class="container-wide">
+      <h2 class="text-2xl font-display font-bold mb-6">{zh ? '按主题浏览指南' : 'Browse guides by topic'}</h2>
+      <div class="grid md:grid-cols-2 gap-6">
+        {categories.map(category => <a data-guide-category={category.slug} href={getLocalizedPath(`/resources/${category.slug}`, lang)} class="p-6 bg-off-white rounded-xl hover:shadow-md">
+          <h3 class="text-xl font-semibold">{category[lang].title}</h3>
+          <p class="mt-3 text-gray-600">{category[lang].description}</p>
+          <p class="mt-4 text-primary font-medium">{posts.filter(post => post.data.guideCategory === category.slug).length} {zh ? '篇指南 →' : 'guides →'}</p>
+        </a>)}
+      </div>
+    </div>
+  </section>
+  <section class="section-padding bg-off-white">
+    <div class="container-wide">
+      <div class="flex flex-wrap justify-between items-center gap-4 mb-8">
+        <h2 class="text-2xl font-display font-bold">{zh ? '全部指南' : 'All guides'}</h2>
+        <a href={getLocalizedPath('/resources/blog', lang)} class="text-primary hover:underline">{zh ? '查看文章归档 →' : 'View article archive →'}</a>
+      </div>
+      <GuideList posts={posts} products={products} lang={lang} filterable />
+    </div>
+  </section>
+  <section class="section-padding">
+    <div class="container-wide">
+      <h2 class="text-2xl font-display font-bold mb-6">{zh ? '采购支持' : 'Buyer support'}</h2>
+      <div class="grid md:grid-cols-3 gap-6">
+        {support.map(item => <a href={getLocalizedPath(item.path, lang)} class="p-6 border border-gray-200 rounded-xl hover:shadow-md"><h3 class="text-xl font-semibold">{item.title}</h3><p class="mt-3 text-gray-600">{item.text}</p></a>)}
+      </div>
+    </div>
+  </section>
+</PageLayout>

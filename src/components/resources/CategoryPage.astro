@@ -1,0 +1,38 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import PageLayout from '../../layouts/PageLayout.astro';
+import GuideList from './GuideList.astro';
+import { guideCategories, type GuideCategorySlug } from '../../data/resource-guides';
+import { getLocalizedPath } from '../../i18n/config';
+interface Props { lang: 'en' | 'zh'; slug: GuideCategorySlug; posts: CollectionEntry<'blog'>[] }
+const { lang, slug, posts } = Astro.props;
+const zh = lang === 'zh';
+const category = guideCategories.find(category => category.slug === slug)!;
+const allProducts = await getCollection('products', ({ data }) => data.lang === lang && !data.draft);
+const products = allProducts.filter(product => posts.some(post => post.data.relatedProducts.includes(product.slug.replace(`${lang}/`, ''))));
+---
+<PageLayout title={category[lang].title} description={category[lang].description} lang={lang} heroTitle={category[lang].title} heroSubtitle={zh ? '植物原料采购与开发知识' : 'Botanical procurement and development knowledge'}>
+  <section class="section-padding">
+    <div class="container-wide">
+      <nav aria-label={zh ? '面包屑导航' : 'Breadcrumb'} class="mb-8 text-sm">
+        <ol class="flex flex-wrap gap-2"><li><a href={getLocalizedPath('/', lang)} class="text-primary hover:underline">{zh ? '首页' : 'Home'}</a></li><li aria-hidden="true">/</li><li><a href={getLocalizedPath('/resources', lang)} class="text-primary hover:underline">{zh ? '资源中心' : 'Resources'}</a></li><li aria-hidden="true">/</li><li aria-current="page">{category[lang].title}</li></ol>
+      </nav>
+      <p class="max-w-4xl text-lg text-gray-600 mb-6">{category[lang].description}</p>
+      <p class="max-w-4xl text-gray-600 mb-10">{zh ? '这些指南帮助准备与供应商及成品生产方的讨论，不代表特定批次获批或功效已验证。请结合目的地法规和实际工艺制定验收标准，并申请与拟采购原料对应的现行文件。' : 'Use these guides to prepare discussions with suppliers and finished-product manufacturers, not as proof of batch approval or efficacy. Set acceptance criteria for your destination market and actual process, and request current documents for the material you intend to buy.'}</p>
+      <h2 class="text-2xl font-display font-bold mb-6">{category[lang].title} <span class="text-gray-500">({posts.length})</span></h2>
+      <GuideList posts={posts} lang={lang} />
+      {products.length > 0 && <div class="mt-12">
+        <h2 class="text-2xl font-display font-bold mb-6">{zh ? '相关原料' : 'Related ingredients'}</h2>
+        <ul class="flex flex-wrap gap-4">{products.map(product => <li><a class="inline-block rounded-lg bg-off-white px-5 py-3 text-primary hover:underline" href={getLocalizedPath(`/products/${product.slug.replace(`${lang}/`, '')}`, lang)}>{product.data.name}</a></li>)}</ul>
+      </div>}
+      <div class="mt-12 p-8 bg-off-white rounded-xl">
+        <h2 class="text-2xl font-display font-bold">{zh ? '下一步：准备采购需求' : 'Next step: prepare your sourcing brief'}</h2>
+        <p class="mt-3 text-gray-600">{zh ? '提供目标市场、产品形态、工艺条件和文件要求。现行规格、样品、批次 COA 及供货情况需确认。' : 'Share your target market, product format, process conditions and documentation needs. Current specifications, samples, batch COAs and availability require confirmation.'}</p>
+        <div class="flex flex-wrap gap-6 mt-5">
+          <a href={getLocalizedPath('/resources/downloads', lang)} class="text-primary font-medium hover:underline">{zh ? '下载检查表与申请文件 →' : 'Buyer downloads & document requests →'}</a>
+          <a href={getLocalizedPath('/request-quote', lang)} class="text-primary font-medium hover:underline">{zh ? '申请报价 →' : 'Request a quote →'}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</PageLayout>

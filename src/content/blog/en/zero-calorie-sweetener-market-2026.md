@@ -3,6 +3,8 @@ title: "Monk Fruit and Stevia: A Buyer’s Guide to Beverage Sweetener Trials"
 lang: en
 publishDate: "2026-09-07"
 category: "ingredient-spotlight"
+guideCategory: "sourcing-guides"
+relatedIndustries: ["beverages"]
 tags: ["procurement", "ingredient selection", "application testing"]
 description: "Compare sweetener composition, carriers, aftertaste and destination-market requirements before approving a beverage blend."
 image: /images/blog/zero-calorie-sweetener-market-2026.webp

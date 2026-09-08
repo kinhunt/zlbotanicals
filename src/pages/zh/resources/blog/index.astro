@@ -1,91 +1,16 @@
 ---
 import { getCollection } from 'astro:content';
 import PageLayout from '../../../../layouts/PageLayout.astro';
+import GuideList from '../../../../components/resources/GuideList.astro';
 import { getLocalizedPath } from '../../../../i18n/config';
-import { Calendar, Tag, ArrowRight } from '@lucide/astro';
-
 const lang = 'zh';
-
-const posts = await getCollection('blog', ({ data }) => {
-  return data.lang === 'zh' && !data.draft;
-});
-
-// Sort by publish date descending
-const sortedPosts = posts.sort((a, b) =>
-  new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime()
-);
-
-const categoryLabels: Record<string, string> = {
-  'market-insights': '市场洞察',
-  'ingredient-spotlight': '成分聚焦',
-  'industry-news': '行业动态',
-  'research': '研究报告',
-};
+const posts = await getCollection('blog', ({ data }) => data.lang === lang && !data.draft);
+const products = await getCollection('products', ({ data }) => data.lang === lang && !data.draft);
 ---
-
-<PageLayout
-  title="博客"
-  description="振隆药业市场洞察、成分趋势与行业动态"
-  lang={lang}
-  heroTitle="博客"
-  heroSubtitle="洞察与趋势"
->
-  <section class="section-padding">
-    <div class="container-wide">
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {sortedPosts.map((post) => (
-          <article class="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow">
-            {post.data.image && (
-              <a href={getLocalizedPath(`/resources/blog/${post.slug.replace('zh/', '')}`, lang)}>
-                <img
-                  src={post.data.image}
-                  alt={post.data.title}
-                  class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
-                />
-              </a>
-            )}
-            <div class="p-6">
-              <div class="flex items-center gap-3 mb-3">
-                <span class="px-2 py-1 bg-accent/10 text-accent text-xs font-medium rounded">
-                  {categoryLabels[post.data.category]}
-                </span>
-                <span class="text-gray-400 text-sm flex items-center gap-1">
-                  <Calendar class="w-3 h-3" />
-                  {post.data.publishDate}
-                </span>
-              </div>
-              <h2 class="text-xl font-display font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
-                <a href={getLocalizedPath(`/resources/blog/${post.slug.replace('zh/', '')}`, lang)}>
-                  {post.data.title}
-                </a>
-              </h2>
-              <p class="text-gray-600 text-sm line-clamp-3 mb-4">
-                {post.data.description}
-              </p>
-              <div class="flex flex-wrap gap-2 mb-4">
-                {post.data.tags.slice(0, 3).map((tag) => (
-                  <span class="text-xs text-gray-500 flex items-center gap-1">
-                    <Tag class="w-3 h-3" />
-                    {tag}
-                  </span>
-                ))}
-              </div>
-              <a
-                href={getLocalizedPath(`/resources/blog/${post.slug.replace('zh/', '')}`, lang)}
-                class="inline-flex items-center gap-1 text-primary font-medium text-sm hover:gap-2 transition-all"
-              >
-                阅读更多 <ArrowRight class="w-4 h-4" />
-              </a>
-            </div>
-          </article>
-        ))}
-      </div>
-
-      {sortedPosts.length === 0 && (
-        <div class="text-center py-16">
-          <p class="text-gray-500">暂无文章，敬请期待！</p>
-        </div>
-      )}
-    </div>
-  </section>
+<PageLayout title="全部指南归档" description="汇总植物原料、应用、质量与采购指南。浏览全部文章，或按原料筛选相关内容。" lang={lang} heroTitle="全部指南归档" heroSubtitle="植物原料、应用、质量与采购文章">
+  <section class="section-padding"><div class="container-wide">
+    <nav aria-label="面包屑导航" class="mb-8"><a href={getLocalizedPath('/resources', lang)} class="text-primary hover:underline">资源中心</a> / <span aria-current="page">全部指南归档</span></nav>
+    <h2 class="text-2xl font-display font-bold mb-6">浏览全部文章</h2>
+    <GuideList posts={posts} products={products} lang={lang} filterable />
+  </div></section>
 </PageLayout>

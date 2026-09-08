@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import { type Language, getLocalizedPath } from '../../i18n/config';
 import { useTranslations } from '../../i18n/utils';
+import { getSiteNavigation } from '../../data/site-navigation';
 
 interface Props {
   lang: Language;
@@ -20,28 +21,14 @@ const productLinks = products.map((ingredient) => ({
   href: getLocalizedPath(`/products/${ingredient.slug.replace(`${lang}/`, '')}`, lang),
 }));
 
-const footerLinks = {
-  products: productLinks,
-  company: [
-    { label: t('footer.aboutUs'), href: getLocalizedPath('/about', lang) },
-    { label: t('footer.ourStory'), href: getLocalizedPath('/about/story', lang) },
-    { label: t('footer.facility'), href: getLocalizedPath('/about/facility', lang) },
-    { label: t('nav.quality'), href: getLocalizedPath('/quality', lang) },
-  ],
-  resources: [
-    { label: t('footer.blog'), href: getLocalizedPath('/resources/blog', lang) },
-    { label: t('footer.downloads'), href: getLocalizedPath('/resources/downloads', lang) },
-    { label: t('footer.faq'), href: getLocalizedPath('/resources/faq', lang) },
-    { label: t('footer.contactUs'), href: getLocalizedPath('/contact', lang) },
-  ],
-};
+const navItems = getSiteNavigation(t, (path) => getLocalizedPath(path, lang), productLinks);
 ---
 
 <footer class="bg-primary text-white">
   <div class="container-wide py-16">
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
       <!-- Brand Column -->
-      <div class="lg:col-span-1">
+      <div class="md:col-span-2 lg:col-span-3 xl:col-span-4">
         <a href={getLocalizedPath('/', lang)} class="text-2xl font-display font-bold">
           {t('site.name')}
         </a>
@@ -92,47 +79,27 @@ const footerLinks = {
         </div>
       </div>
 
-      <!-- Products Column -->
-      <div>
-        <h4 class="font-semibold text-lg mb-4">{t('footer.products')}</h4>
-        <ul class="space-y-3">
-          {footerLinks.products.map((link) => (
-            <li>
-              <a href={link.href} class="text-gray-300 hover:text-white text-sm transition-colors">
-                {link.label}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
-
-      <!-- Company Column -->
-      <div>
-        <h4 class="font-semibold text-lg mb-4">{t('footer.company')}</h4>
-        <ul class="space-y-3">
-          {footerLinks.company.map((link) => (
-            <li>
-              <a href={link.href} class="text-gray-300 hover:text-white text-sm transition-colors">
-                {link.label}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
-
-      <!-- Resources Column -->
-      <div>
-        <h4 class="font-semibold text-lg mb-4">{t('footer.resources')}</h4>
-        <ul class="space-y-3">
-          {footerLinks.resources.map((link) => (
-            <li>
-              <a href={link.href} class="text-gray-300 hover:text-white text-sm transition-colors">
-                {link.label}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
+      {navItems.map((item) => (
+        <div class="min-w-0">
+          <h4 class="font-semibold text-lg mb-4">
+            <a href={item.href} class="hover:underline focus-visible:outline-2 focus-visible:outline-white">{item.label}</a>
+          </h4>
+          {item.children && (
+            <ul class="space-y-3">
+              {item.children.map((link) => (
+                <li>
+                  <a href={link.href} class="text-gray-300 hover:text-white text-sm transition-colors break-words focus-visible:outline-2 focus-visible:outline-white">
+                    {link.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          )}
+          {!item.children && (
+            <a href={getLocalizedPath('/request-quote', lang)} class="text-gray-300 hover:text-white text-sm break-words focus-visible:outline-2 focus-visible:outline-white">{t('nav.requestQuote')}</a>
+          )}
+        </div>
+      ))}
     </div>
   </div>
 

@@ -3,6 +3,8 @@ title: "罗汉果与甜菊糖苷：饮料甜味剂采购与试样指南"
 lang: zh
 publishDate: "2026-09-07"
 category: "ingredient-spotlight"
+guideCategory: "sourcing-guides"
+relatedIndustries: ["beverages"]
 tags: ["采购", "原料选型", "应用测试"]
 description: "采购饮料甜味复配料前，比较糖苷组成、载体、后味及目的地要求。"
 image: /images/blog/zero-calorie-sweetener-market-2026.webp

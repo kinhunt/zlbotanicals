@@ -41,6 +41,8 @@ const blog = defineCollection({
     lang: z.enum(['en', 'zh']),
     publishDate: z.string(),
     category: z.enum(['market-insights', 'ingredient-spotlight', 'industry-news', 'research']),
+    guideCategory: z.enum(['ingredient-guides', 'application-guides', 'quality-guides', 'sourcing-guides']),
+    relatedIndustries: z.array(z.enum(['beverages', 'food', 'cosmetics', 'nutraceuticals'])).default([]),
     tags: z.array(z.string()).default([]),
     description: z.string(),
     image: z.string().optional(),

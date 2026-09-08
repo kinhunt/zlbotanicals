@@ -1,0 +1,14 @@
+---
+import { getCollection } from 'astro:content';
+import { guideCategories } from '../../data/resource-guides';
+import CategoryPage from '../../components/resources/CategoryPage.astro';
+export async function getStaticPaths() {
+  const posts = await getCollection('blog', ({ data }) => data.lang === 'en' && !data.draft);
+  return guideCategories.filter(category => posts.some(post => post.data.guideCategory === category.slug)).map(category => ({
+    params: { category: category.slug },
+    props: { slug: category.slug, posts: posts.filter(post => post.data.guideCategory === category.slug) },
+  }));
+}
+const { slug, posts } = Astro.props;
+---
+<CategoryPage lang="en" slug={slug} posts={posts} />

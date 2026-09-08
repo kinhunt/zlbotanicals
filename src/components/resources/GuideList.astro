@@ -1,0 +1,79 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { guideCategories } from '../../data/resource-guides';
+import { getLocalizedPath } from '../../i18n/config';
+interface Props {
+  posts: CollectionEntry<'blog'>[];
+  products?: CollectionEntry<'products'>[];
+  lang: 'en' | 'zh';
+  filterable?: boolean;
+}
+const { posts, products = [], lang, filterable = false } = Astro.props;
+const zh = lang === 'zh';
+const sortedPosts = [...posts].sort((a, b) => b.data.publishDate.localeCompare(a.data.publishDate) || a.slug.localeCompare(b.slug));
+const ingredients = products.filter(product => posts.some(post => post.data.relatedProducts.includes(product.slug.replace(`${lang}/`, ''))));
+---
+<div data-guide-list data-count-suffix={zh ? '篇指南' : 'guides'}>
+  {filterable && (
+    <div class="mb-6 flex flex-wrap items-end gap-4" data-filter-controls hidden>
+      <div>
+        <label for="ingredient-filter" class="block font-medium mb-2">{zh ? '按原料筛选' : 'Filter by ingredient'}</label>
+        <select id="ingredient-filter" class="border border-gray-300 rounded-lg px-4 py-3 bg-white text-gray-900">
+          <option value="">{zh ? '全部原料' : 'All ingredients'}</option>
+          {ingredients.map(product => <option value={product.slug.replace(`${lang}/`, '')}>{product.data.name}</option>)}
+        </select>
+      </div>
+      <button type="button" data-filter-reset class="px-4 py-3 rounded-lg border border-gray-300 hover:bg-gray-100">{zh ? '重置筛选' : 'Reset filter'}</button>
+    </div>
+  )}
+  <p class="text-gray-600 mb-6" aria-live="polite" aria-atomic="true" data-filter-count>{posts.length} {zh ? '篇指南' : 'guides'}</p>
+  <p data-filter-empty hidden class="p-6 bg-off-white rounded-xl mb-6">{zh ? '没有匹配的指南，请重置筛选以查看全部文章。' : 'No matching guides. Reset the filter to see all articles.'}</p>
+  <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+    {sortedPosts.map(post => {
+      const category = guideCategories.find(category => category.slug === post.data.guideCategory)!;
+      const href = getLocalizedPath(`/resources/blog/${post.slug.replace(`${lang}/`, '')}`, lang);
+      return (
+        <article data-guide-card data-products={post.data.relatedProducts.join(' ')} class="bg-white rounded-xl overflow-hidden border border-gray-200 shadow-sm">
+          {post.data.image && <a href={href} tabindex="-1" aria-hidden="true"><img src={post.data.image} alt="" loading="lazy" width="640" height="360" class="w-full h-40 object-cover" /></a>}
+          <div class="p-6">
+            <a href={getLocalizedPath(`/resources/${category.slug}`, lang)} class="text-primary text-sm font-medium hover:underline">{category[lang].title}</a>
+            <h3 class="text-xl font-display font-bold mt-3"><a href={href} class="hover:text-primary">{post.data.title}</a></h3>
+            <p class="text-gray-600 mt-3">{post.data.description}</p>
+            <time datetime={post.data.publishDate} class="block text-sm text-gray-500 mt-4">{post.data.publishDate}</time>
+          </div>
+        </article>
+      );
+    })}
+  </div>
+</div>
+<style>
+  [hidden] { display: none !important; }
+</style>
+<script>
+  document.querySelectorAll<HTMLElement>('[data-guide-list]').forEach(list => {
+    const select = list.querySelector<HTMLSelectElement>('#ingredient-filter');
+    if (!select) return;
+    const cards = Array.from(list.querySelectorAll<HTMLElement>('[data-guide-card]'));
+    const count = list.querySelector<HTMLElement>('[data-filter-count]');
+    const empty = list.querySelector<HTMLElement>('[data-filter-empty]');
+    const controls = list.querySelector<HTMLElement>('[data-filter-controls]');
+    const update = () => {
+      let visible = 0;
+      cards.forEach(card => {
+        const matches = !select.value || (card.dataset.products || '').split(' ').includes(select.value);
+        card.hidden = !matches;
+        if (matches) visible++;
+      });
+      if (count) count.textContent = `${visible} ${list.dataset.countSuffix}`;
+      if (empty) empty.hidden = visible !== 0;
+    };
+    select.addEventListener('change', update);
+    list.querySelector('[data-filter-reset]')?.addEventListener('click', () => {
+      select.value = '';
+      update();
+      select.focus();
+    });
+    if (controls) controls.hidden = false;
+    update();
+  });
+</script>

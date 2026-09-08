@@ -3,6 +3,8 @@ title: "姜黄拿铁预调粉采购：粉末、提取物还是分散体？"
 lang: zh
 publishDate: "2026-09-07"
 category: "ingredient-spotlight"
+guideCategory: "ingredient-guides"
+relatedIndustries: ["beverages", "food"]
 tags: ["采购", "原料选型", "应用测试"]
 description: "围绕姜黄身份、姜黄素类检测、载体和冲调测试，建立拿铁开发采购要求。"
 image: /images/blog/turmeric-golden-milk-market.webp

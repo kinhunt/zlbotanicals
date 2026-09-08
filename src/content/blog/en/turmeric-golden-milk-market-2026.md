@@ -3,6 +3,8 @@ title: "Choosing Turmeric for Latte Premixes: Powder, Extract or Dispersion?"
 lang: en
 publishDate: "2026-09-07"
 category: "ingredient-spotlight"
+guideCategory: "ingredient-guides"
+relatedIndustries: ["beverages", "food"]
 tags: ["procurement", "ingredient selection", "application testing"]
 description: "A practical guide to turmeric identity, curcuminoid assays, carriers and reconstitution testing for latte development."
 image: /images/blog/turmeric-golden-milk-market.webp

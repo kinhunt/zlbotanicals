@@ -3,6 +3,8 @@ title: "Reishi Gummy Buyer’s Guide: From Ingredient Brief to Pilot Review"
 lang: en
 publishDate: "2026-09-07"
 category: "ingredient-spotlight"
+guideCategory: "application-guides"
+relatedIndustries: ["nutraceuticals"]
 tags: ["procurement", "ingredient selection", "application testing"]
 description: "How to evaluate reishi ingredients for gummy development without confusing composition, sensory trials and sleep claims."
 image: /images/blog/reishi-sleep-market-2026.webp

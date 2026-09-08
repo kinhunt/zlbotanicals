@@ -3,6 +3,8 @@ title: "即饮饮料用绿茶提取物采购检查表"
 lang: zh
 publishDate: "2026-09-07"
 category: "ingredient-spotlight"
+guideCategory: "application-guides"
+relatedIndustries: ["beverages"]
 tags: ["采购", "原料选型", "应用测试"]
 description: "从 EGCG、咖啡因、感官与工艺适配性比较即饮饮料用绿茶提取物。"
 image: /images/blog/green-tea-energy-beverage-2026.webp
