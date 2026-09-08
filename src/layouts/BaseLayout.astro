@@ -15,7 +15,8 @@ interface Props {
 const { title, description, lang = defaultLang, includeHeaderFooter = true } = Astro.props;
 const t = useTranslations(lang);
 
-const siteTitle = `${title} | ${t('site.name')}`;
+const isPlantExtractsHub = /^\/(?:zh\/)?plant-extracts\/?$/.test(Astro.url.pathname);
+const siteTitle = isPlantExtractsHub ? title : `${title} | ${t('site.name')}`;
 const siteDescription = description || t('site.tagline');
 const path = Astro.url.pathname.replace(/\/$/, '') || '/';
 const englishPath = path.replace(/^\/zh(?=\/|$)/, '') || '/';

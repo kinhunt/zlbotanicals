@@ -11,7 +11,7 @@ const root=local('/plant-extracts');
 const branch=data.sections.find(s=>s.slug===section);
 const entry=(data.topics as any[]).find(t=>t.slug===topic);
 const content=entry?.translations[lang] || branch?.translations[lang];
-const title=content?.title || (zh?'植物提取物百科':'Plant extracts encyclopedia');
+const title=content?.title || (zh?'植物提取物':'Plant Extracts');
 const description=content?.description || (zh?'从植物身份、成分和提取工艺，到设备、应用与法规：面向采购和开发的双语知识库。':'A bilingual reference for botanical identity, ingredients, extraction, equipment, applications and regulatory review.');
 const references=entry?.references || branch?.references || ['who','review','gea','ndi','eu'];
 const children=(data.topics as any[]).filter(t=>t.section===section);
