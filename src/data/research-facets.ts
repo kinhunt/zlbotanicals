@@ -8,9 +8,3 @@ export const applications = {
   topical: {en:'Topical research',zh:'外用研究'},
   sweeteners: {en:'Sweetener evaluation',zh:'甜味原料评估'},
 };
-export const readingApplications: Record<string,(keyof typeof applications)[]> = {
- 'green-tea':['formulation'], turmeric:['formulation'], 'reishi-mushroom':['identity'], ginseng:['identity'],
- 'ginkgo-biloba':['extraction','identity'], 'grape-seed':['packaging'], 'goji-berry':['extraction','identity'],
- 'licorice-root':['safety','identity'], 'centella-asiatica':['topical'], 'monk-fruit':['sweeteners','identity'],
- stevia:['extraction','sweeteners'], resveratrol:['formulation'],
-};

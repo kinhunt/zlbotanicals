@@ -1,0 +1,228 @@
+{
+  "version": "2026-09-08",
+  "notice": {
+    "en": "Public planning template, not a COA, TDS, certificate, approved specification or manufacturing commitment. Fill only nonconfidential requirements; unknowns may be “to discuss”. Keep confidential formulas out of public forms. Documents, supply, executors, costs and schedule require written confirmation.",
+    "zh": "公开规划模板，并非 COA、TDS、证书、已批准规格或制造承诺。仅填写非保密需求，未知项可写“待讨论”。请勿通过公开表单发送保密配方。文件、供货、执行方、费用与排期须书面确认。"
+  },
+  "tools": [
+    {
+      "id": "sourcing-checklist",
+      "title": {
+        "en": "Ingredient sourcing brief & supplier document review",
+        "zh": "原料采购简报与供应商文件审核"
+      },
+      "sections": [
+        {
+          "title": {
+            "en": "Buyer requirements",
+            "zh": "采购需求"
+          },
+          "fields": [
+            {
+              "en": "Company / contact / email; project reference and date",
+              "zh": "公司／联系人／邮箱；项目编号及日期"
+            },
+            {
+              "en": "Ingredient / botanical identity / plant part; proposed SKU if known",
+              "zh": "原料／植物身份／部位；已知拟购 SKU"
+            },
+            {
+              "en": "Target marker, method and limits requested; solvent / carrier / origin requirements",
+              "zh": "拟要求的标志物、方法及限值；溶剂／载体／产地要求"
+            },
+            {
+              "en": "Application, target countries, intended use level; pH / heat process / packaging",
+              "zh": "应用、目标国家、拟添加量；pH／热处理／包装"
+            },
+            {
+              "en": "Sample quantity and acceptance criteria; first order / annual estimate with units",
+              "zh": "样品数量及验收标准；首单／年用量估计及单位"
+            },
+            {
+              "en": "Destination, desired date, budget currency; packaging / Incoterms to discuss",
+              "zh": "目的地、期望日期、预算币种；待议包装／贸易术语"
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Supplier document review — record evidence, not assumptions",
+            "zh": "供应商文件审核——记录证据，不作推断"
+          },
+          "fields": [
+            {
+              "en": "For each requested file record: document name / SKU or lot / version-date / issuer / received date / reviewer / gap / next action",
+              "zh": "每份所需文件记录：名称／SKU或批次／版本日期／出具方／收到日期／审核人／缺口／下一步"
+            },
+            {
+              "en": "TDS: match identity, composition, methods, limits, storage and shelf-life basis to offered SKU",
+              "zh": "TDS：核对拟供SKU的身份、组成、方法、限值、储存及保质期依据"
+            },
+            {
+              "en": "Genuine lot COA: match lot and specification; review actual results, units, methods and applicable contaminant limits. A sample COA does not release a future lot",
+              "zh": "真实批次COA：匹配批次及规格；审核实际结果、单位、方法和适用污染物限值。样例COA不代表后续批次放行"
+            },
+            {
+              "en": "Certification if required: holder, legal entity, site, scope, issuer, number, validity and verification source. A logo is not evidence",
+              "zh": "如需认证：持有人、法人、场地、范围、机构、编号、有效期及核实来源。标识不是证据"
+            },
+            {
+              "en": "Traceability / allergen / residual-solvent / import documents: list applicable requests and missing items",
+              "zh": "追溯／过敏原／溶剂残留／进口文件：列出适用请求及缺失项"
+            },
+            {
+              "en": "Disposition: pending evidence / clarify / acceptable for stated review scope / not acceptable; reviewer and date. Do not equate document review with shipment release",
+              "zh": "结论：待证据／需澄清／在注明审核范围内可接受／不可接受；审核人及日期。文件审核不等于货物放行"
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Written next-step agreement",
+            "zh": "书面确认下一步"
+          },
+          "fields": [
+            {
+              "en": "Confirm source (own / partner / custom), availability, sample fees/freight, MOQ, lead time, quote validity, payment and responsible contact before ordering",
+              "zh": "下单前确认来源（自产／合作／定制）、可用性、样品费用及运费、MOQ、交期、报价有效期、付款及负责人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "odm-concept-brief",
+      "title": {
+        "en": "Concept-stage ODM project brief",
+        "zh": "概念阶段 ODM 项目简报"
+      },
+      "sections": [
+        {
+          "title": {
+            "en": "Nonconfidential starting point",
+            "zh": "非保密项目起点"
+          },
+          "fields": [
+            {
+              "en": "Company / contact / email; project reference and date",
+              "zh": "公司／联系人／邮箱；项目编号及日期"
+            },
+            {
+              "en": "Target audience, occasion and target countries; intended product category",
+              "zh": "受众、使用场景及目标国家；拟定产品类别"
+            },
+            {
+              "en": "Beverage format, flavor and sweetness preferences; reference concept (not a validated formula)",
+              "zh": "饮料形式、口味与甜度偏好；参考概念（不是已验证配方）"
+            },
+            {
+              "en": "Candidate ingredients / exclusions / allergens; claims needing local review (not approved claims)",
+              "zh": "候选原料／排除项／过敏原；需当地审核的宣称（非已获准宣称）"
+            },
+            {
+              "en": "Packaging direction, desired shelf life and storage conditions to validate",
+              "zh": "包装方向、待验证的期望保质期及储存条件"
+            },
+            {
+              "en": "Budget currency / range, initial quantity with units and desired timing; unknowns to discuss",
+              "zh": "预算币种／范围、首批数量及单位、期望时间；未知项待议"
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Proposed stage gates — agree before execution",
+            "zh": "拟定阶段门槛——执行前约定"
+          },
+          "fields": [
+            {
+              "en": "Brief review: customer approves scope, unknowns and candidate-material document requests",
+              "zh": "需求审核：客户确认范围、未知项及候选原料文件请求"
+            },
+            {
+              "en": "Prototype: name R&D executor; agree fees, iterations, sensory criteria and safety/market review before work",
+              "zh": "打样：确定研发执行方；开工前约定费用、迭代次数、感官标准及安全／市场审核"
+            },
+            {
+              "en": "Validation: name testing executor; agree protocol, packaging, stability criteria, records and stop/go decision owner",
+              "zh": "验证：确定检测执行方；约定方案、包装、稳定性标准、记录及停止／继续决策人"
+            },
+            {
+              "en": "Production feasibility: confirm qualified partner/site/line, pilot criteria, IP, release responsibility, costs and delivery scope in writing",
+              "zh": "生产可行性：书面确认合格合作方／场地／产线、中试标准、知识产权、放行责任、费用及交付范围"
+            },
+            {
+              "en": "Next action / owner / due date / evidence needed; no project is accepted by completing this template",
+              "zh": "下一步／负责人／期限／所需证据；填写本模板不代表项目已获承接"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "formula-transfer-checklist",
+      "title": {
+        "en": "Existing-formula transfer review checklist",
+        "zh": "成熟配方转移审核清单"
+      },
+      "sections": [
+        {
+          "title": {
+            "en": "Public first-contact summary",
+            "zh": "公开初次沟通摘要"
+          },
+          "fields": [
+            {
+              "en": "Company / contact / email; project reference and date",
+              "zh": "公司／联系人／邮箱；项目编号及日期"
+            },
+            {
+              "en": "Nonconfidential format, target countries, packaging, process stage and completed trials",
+              "zh": "非保密的剂型、目标国家、包装、工艺阶段及已完成试验"
+            },
+            {
+              "en": "Formula ownership or authorization status; NDA contact and approved secure handover method to agree before sharing",
+              "zh": "配方权属或授权状态；分享前约定保密协议联系人及获准的安全交接方式"
+            },
+            {
+              "en": "Initial volume with units, schedule and budget currency; known transfer constraints",
+              "zh": "首批数量及单位、排期和预算币种；已知转移约束"
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Controlled technical handover — inventory only, no formula here",
+            "zh": "受控技术交接——仅列资料目录，不在此填写配方"
+          },
+          "fields": [
+            {
+              "en": "Record owner / version / availability / gap for formula and BOM, raw-material specifications, process flow and critical parameters",
+              "zh": "记录配方与BOM、原料规格、工艺流程及关键参数的负责人／版本／可用性／缺口"
+            },
+            {
+              "en": "Inventory trial reports, analytical methods, packaging specifications and stability evidence; agree secure access after confidentiality approval",
+              "zh": "列出现有试验报告、分析方法、包装规格及稳定性证据；保密获批后约定安全访问"
+            },
+            {
+              "en": "Compare proposed executor/site/line capability with process and packaging needs; document gaps rather than assume compatibility",
+              "zh": "将拟执行方／场地／产线能力与工艺及包装要求比对；记录差距，不假定适配"
+            },
+            {
+              "en": "Agree pilot plan, change control, deviations, acceptance/rejection criteria and stop/go owner",
+              "zh": "约定中试方案、变更控制、偏差处理、接受／拒绝标准及停止／继续决策人"
+            },
+            {
+              "en": "Assign market/label review, testing, batch release, traceability, IP and retained-record responsibilities",
+              "zh": "分配市场／标签审核、检测、批次放行、追溯、知识产权及记录保存责任"
+            },
+            {
+              "en": "Written feasibility outcome: pending evidence / pilot review / not feasible; named executor, quote, MOQ and schedule remain to confirm",
+              "zh": "书面可行性结论：待证据／中试审核／不可行；具体执行方、报价、MOQ及排期仍须确认"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

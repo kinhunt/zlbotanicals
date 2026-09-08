@@ -46,13 +46,13 @@ test('localized product CTAs route to quote with an encoded product', () => {
 
 test('downloads provide an actual bilingual checklist and scoped document request routes', () => {
  for (const prefix of ['', 'zh/']) {
-  const s = read(`src/pages/${prefix}resources/downloads.astro`);
+  const s = read(`dist/${prefix}resources/downloads/index.html`);
   assert.match(s, /\/downloads\/sourcing-checklist.txt/);
   for (const type of ['COA','TDS','certification']) assert.ok(s.includes(`request=${type}`));
-  assert.doesNotMatch(s, /2025|2.5 MB|800 KB/);
+  assert.doesNotMatch(s.split('<main')[1].split('</main>')[0], /2025|2.5 MB|800 KB/);
  }
- const s = read('public/downloads/sourcing-checklist.txt');
- assert.match(s, /Sourcing checklist/); assert.match(s, /采购清单/);
+ const s = read('dist/downloads/sourcing-checklist.txt');
+ assert.match(s, /Ingredient sourcing brief/); assert.match(s, /原料采购简报/);
 });
 
 test('FAQ and industry pages replace unsupported promises with evaluation guidance', () => {

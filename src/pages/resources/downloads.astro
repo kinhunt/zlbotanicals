@@ -1,9 +1,10 @@
 ---
+import BuyerTools from '../../components/BuyerTools.astro';
 import PageLayout from '../../layouts/PageLayout.astro';
 ---
 <PageLayout title="Sourcing Resources & Downloads" lang="en" heroTitle="Sourcing Resources & Downloads" heroSubtitle="A public checklist and documents to request for review">
 <section class="section-padding"><div class="container-wide max-w-4xl space-y-6">
-<div class="p-8 bg-primary/5 rounded-xl"><h2 class="text-xl font-semibold">Botanical sourcing checklist (English / 中文)</h2><p class="mt-3 text-gray-600">A public plain-text planning aid, available to download now. This checklist is not a company credential, COA or product specification.</p><a href="/downloads/sourcing-checklist.txt" download class="inline-block mt-4 px-6 py-3 bg-primary text-white rounded-lg">Download sourcing checklist (TXT)</a></div>
+<BuyerTools lang="en" />
 <p class="text-gray-600">The documents below must be requested by product and intended use, subject to availability and applicable scope. No downloadable certificates or product catalogue are published here.</p>
 <div class="p-6 bg-off-white rounded-xl"><h2 class="text-lg font-semibold">Certificate of Analysis (COA)</h2><p class="mt-2 text-gray-600">Specify product, grade and batch if known. Request the relevant batch tests, limits, results and methods; an example is not evidence for a future shipment.</p><a href="/request-quote?request=COA" class="inline-block mt-4 text-primary underline">Request review: Certificate of Analysis (COA)</a></div>
 <div class="p-6 bg-off-white rounded-xl"><h2 class="text-lg font-semibold">Technical Data Sheet (TDS)</h2><p class="mt-2 text-gray-600">Specify assay, method, carrier, solubility and use case to request the technical information for the relevant grade.</p><a href="/request-quote?request=TDS" class="inline-block mt-4 text-primary underline">Request review: Technical Data Sheet (TDS)</a></div>
