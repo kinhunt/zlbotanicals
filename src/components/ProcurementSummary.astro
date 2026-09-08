@@ -24,5 +24,6 @@ const checks=zh?[
  <p class="text-sm mt-3 text-gray-700">{zh?'目录提供原料身份与选型背景，不是已批准的 SKU 规格或库存证明。下文技术指标为询价核查主题，具体数值与可供文件须确认。':'The catalog provides ingredient identity and selection context, not an approved SKU specification or inventory record. Technical topics below guide your request; exact values and available documents need confirmation.'}</p>
  <div class="flex flex-wrap gap-3 mt-5">{[['TDS',zh?'索取规格 / TDS':'Request specification / TDS'],['sample',zh?'咨询样品':'Ask about samples'],['quote',zh?'获取报价':'Request quote']].map(([request,label])=><a data-procurement-action={request} href={quote(request)} class="px-4 py-3 bg-primary text-white rounded-lg font-medium">{label}</a>)}</div>
  <dl class="grid md:grid-cols-2 gap-5 mt-6">{checks.map(([heading,body])=><div><dt class="font-semibold">{heading}</dt><dd class="text-sm text-gray-700 mt-1">{body}</dd></div>)}</dl>
+ <a data-buyer-brief href={getLocalizedPath('/resources/downloads',lang)+'#sourcing-checklist'} class="block underline text-primary mt-5">{zh?'填写采购简报与供应商文件审核清单':'Prepare sourcing brief & supplier document review'}</a>
  <a href="#processing-dossier" class="inline-block underline text-primary mt-5">{zh?'继续阅读工艺、应用与研究依据':'Continue to process, application & research context'} ↓</a>
 </section>

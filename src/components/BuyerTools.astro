@@ -1,0 +1,20 @@
+---
+import data from '../data/buyer-tools.json';
+import type {Language} from '../i18n/config';
+interface Props {lang:Language}
+const {lang}=Astro.props;const zh=lang==='zh';
+---
+<section data-buyer-tools class="space-y-6">
+ <h2 class="text-2xl font-bold">{zh?'可填写的采购与项目工具':'Editable sourcing & project tools'}</h2>
+ <p>{data.notice[lang]}</p>
+ <p class="text-sm">{zh?'使用方式：下载 Markdown，用文本编辑器填写并保存；也可直接阅读或使用浏览器打印。无需注册，不在网页收集或保存填写内容。':'Download Markdown, fill it in a text editor and save; or read here and use your browser’s Print command. No registration; this page does not collect or save your answers.'}</p>
+ <nav aria-label={zh?'工具目录':'Tool contents'} class="flex flex-wrap gap-4">{data.tools.map(tool=><a class="underline text-primary" href={`#${tool.id}`}>{tool.title[lang]}</a>)}</nav>
+ {data.tools.map(tool=><article id={tool.id} class="rounded-xl border p-5 md:p-8 scroll-mt-24">
+  <h3 class="text-xl font-bold">{tool.title[lang]}</h3>
+  <p class="text-sm mt-2">{zh?'版本':'Version'}: {data.version}</p>
+  <a data-brief-download href={`/downloads/${tool.id}-${lang}.md`} download class="inline-block my-4 px-5 py-3 bg-primary text-white rounded-lg">{zh?'下载可填写模板 (Markdown)':'Download editable template (Markdown)'}</a>
+  {tool.id==='sourcing-checklist'&&<a class="inline-block m-3 underline text-primary" href="/downloads/sourcing-checklist.txt" download>{zh?'双语采购清单 (TXT)':'Bilingual sourcing checklist (TXT)'}</a>}
+  {tool.sections.map(section=><section class="mt-5"><h4 class="font-semibold">{section.title[lang]}</h4><ul class="list-disc pl-5 space-y-3 mt-3">{section.fields.map(field=><li>{field[lang]}<span class="block text-gray-500" aria-label={zh?'填写区域':'Answer space'}>________________</span></li>)}</ul></section>)}
+ </article>)}
+</section>
+<style>@media print {a[data-brief-download],nav{display:none}article{break-before:page;border:0}li{break-inside:avoid}}</style>

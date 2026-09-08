@@ -32,8 +32,8 @@ const products = await getCollection('products', ({ data }) => {
                 {product.data.image ? (
                   <img
                     src={product.data.image}
-                    alt={product.data.name}
-                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                    alt={`${product.data.name} — ingredient diagram, not a batch sample`}
+                    class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-300"
                   />
                 ) : (
                   <div class="w-full h-full bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">

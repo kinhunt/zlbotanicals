@@ -32,7 +32,11 @@
     "sourceUrl": "https://europepmc.org/article/MED/37776575",
     "status": "reviewed",
     "reviewedAt": "2026-09-08",
-    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval",
+    "evidenceKey": "review",
+    "readingUses": [
+      "formulation"
+    ]
   },
   {
     "id": "pmid:39614566",
@@ -67,7 +71,11 @@
     "sourceUrl": "https://europepmc.org/article/MED/39614566",
     "status": "reviewed",
     "reviewedAt": "2026-09-08",
-    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval",
+    "evidenceKey": "review",
+    "readingUses": [
+      "formulation"
+    ]
   },
   {
     "id": "pmid:39435114",
@@ -102,7 +110,11 @@
     "sourceUrl": "https://europepmc.org/article/MED/39435114",
     "status": "reviewed",
     "reviewedAt": "2026-09-08",
-    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval",
+    "evidenceKey": "review",
+    "readingUses": [
+      "identity"
+    ]
   },
   {
     "id": "pmid:39606259",
@@ -137,7 +149,11 @@
     "sourceUrl": "https://europepmc.org/article/MED/39606259",
     "status": "reviewed",
     "reviewedAt": "2026-09-08",
-    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval",
+    "evidenceKey": "review",
+    "readingUses": [
+      "identity"
+    ]
   },
   {
     "id": "pmid:39368588",
@@ -172,7 +188,12 @@
     "sourceUrl": "https://europepmc.org/article/MED/39368588",
     "status": "reviewed",
     "reviewedAt": "2026-09-08",
-    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval",
+    "evidenceKey": "review",
+    "readingUses": [
+      "extraction",
+      "identity"
+    ]
   },
   {
     "id": "pmid:39065146",
@@ -207,7 +228,11 @@
     "sourceUrl": "https://europepmc.org/article/MED/39065146",
     "status": "reviewed",
     "reviewedAt": "2026-09-08",
-    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval",
+    "evidenceKey": "review",
+    "readingUses": [
+      "packaging"
+    ]
   },
   {
     "id": "pmid:39137472",
@@ -242,7 +267,12 @@
     "sourceUrl": "https://europepmc.org/article/MED/39137472",
     "status": "reviewed",
     "reviewedAt": "2026-09-08",
-    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval",
+    "evidenceKey": "review",
+    "readingUses": [
+      "extraction",
+      "identity"
+    ]
   },
   {
     "id": "pmid:39625590",
@@ -277,7 +307,12 @@
     "sourceUrl": "https://europepmc.org/article/MED/39625590",
     "status": "reviewed",
     "reviewedAt": "2026-09-08",
-    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval",
+    "evidenceKey": "review",
+    "readingUses": [
+      "safety",
+      "identity"
+    ]
   },
   {
     "id": "pmid:39458583",
@@ -312,7 +347,11 @@
     "sourceUrl": "https://europepmc.org/article/MED/39458583",
     "status": "reviewed",
     "reviewedAt": "2026-09-08",
-    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval",
+    "evidenceKey": "review",
+    "readingUses": [
+      "topical"
+    ]
   },
   {
     "id": "pmid:39063362",
@@ -347,7 +386,12 @@
     "sourceUrl": "https://europepmc.org/article/MED/39063362",
     "status": "reviewed",
     "reviewedAt": "2026-09-08",
-    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval",
+    "evidenceKey": "review",
+    "readingUses": [
+      "sweeteners",
+      "identity"
+    ]
   },
   {
     "id": "pmid:38761729",
@@ -382,7 +426,12 @@
     "sourceUrl": "https://europepmc.org/article/MED/38761729",
     "status": "reviewed",
     "reviewedAt": "2026-09-08",
-    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval",
+    "evidenceKey": "review",
+    "readingUses": [
+      "extraction",
+      "sweeteners"
+    ]
   },
   {
     "id": "pmid:38675230",
@@ -417,6 +466,10 @@
     "sourceUrl": "https://europepmc.org/article/MED/38675230",
     "status": "reviewed",
     "reviewedAt": "2026-09-08",
-    "reviewScope": "bibliographic metadata and abstract; no medical claim approval"
+    "reviewScope": "bibliographic metadata and abstract; no medical claim approval",
+    "evidenceKey": "review",
+    "readingUses": [
+      "formulation"
+    ]
   }
 ]

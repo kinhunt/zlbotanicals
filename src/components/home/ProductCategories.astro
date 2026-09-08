@@ -39,7 +39,7 @@ const featuredProducts = allProducts.slice(0, 6);
             {ingredient.data.image ? (
               <img
                 src={ingredient.data.image}
-                alt={ingredient.data.name}
+                alt={`${ingredient.data.name} — ${lang === 'zh' ? '原料示意图，非批次样品' : 'ingredient diagram, not a batch sample'}`}
                 class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-300"
               />
             ) : (
