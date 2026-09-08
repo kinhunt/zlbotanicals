@@ -3,7 +3,7 @@ name: Ginseng Extract
 latinName: Panax ginseng
 lang: en
 description: "Ginseng extract sourcing, covering species, plant part, ginsenoside methods and application testing."
-image: /images/products/ginseng.webp
+image: /images/products/diagrams/ginseng.svg
 ---
 
 ## Material identity and selection

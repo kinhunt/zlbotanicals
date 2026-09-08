@@ -4,7 +4,7 @@ nameEn: Goji Berry Extract
 latinName: Lycium barbarum
 lang: zh
 description: "枸杞原料采购指南，涵盖粉末形态、多糖方法、糖含量及软糖试样。"
-image: /images/products/goji-berry.webp
+image: /images/products/diagrams/goji-berry.svg
 solutions:
   - liver-support-gummy
 ---

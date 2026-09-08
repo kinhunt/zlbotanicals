@@ -3,7 +3,7 @@ name: Grape Seed Extract
 latinName: Vitis vinifera
 lang: en
 description: "Grape seed extract sourcing, covering OPC methods, identity verification and liquid or dry-blend compatibility."
-image: /images/products/grape-seed.webp
+image: /images/products/diagrams/grape-seed.svg
 ---
 
 ## Material identity and selection

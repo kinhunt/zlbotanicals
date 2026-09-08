@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import ProcurementSummary from '../../components/ProcurementSummary.astro';
 import ProductDossier from '../../components/ProductDossier.astro';
 import RelatedGuides from '../../components/RelatedGuides.astro';
 import PageLayout from '../../layouts/PageLayout.astro';
@@ -52,14 +53,17 @@ const relatedSolutions = allSolutions.filter((solution) =>
         </ol>
       </nav>
 
+      <ProcurementSummary lang={lang} name={product.data.name} latinName={product.data.latinName} description={product.data.description} />
+
       <!-- Feature Image -->
       {product.data.image && (
         <div class="mb-8 rounded-2xl overflow-hidden">
           <img
             src={product.data.image}
             alt={product.data.name}
-            class="w-full h-64 md:h-80 object-cover"
+            class="w-full h-auto"
           />
+          <p class="text-sm p-3 bg-gray-50">Ingredient diagram, not a batch sample; no actual appearance, purity or grade is represented.</p>
         </div>
       )}
 

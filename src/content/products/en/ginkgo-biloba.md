@@ -3,7 +3,7 @@ name: Ginkgo Biloba Extract
 latinName: Ginkgo biloba
 lang: en
 description: "Ginkgo leaf extract sourcing, with guidance on glycosides, lactones, ginkgolic acid controls and identity testing."
-image: /images/products/ginkgo-biloba.webp
+image: /images/products/diagrams/ginkgo-biloba.svg
 ---
 
 ## Material identity and selection

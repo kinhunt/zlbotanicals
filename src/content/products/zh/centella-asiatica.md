@@ -4,7 +4,7 @@ nameEn: Centella Asiatica Extract
 latinName: Centella asiatica
 lang: zh
 description: "积雪草提取物采购指南，关注三萜身份、组成及化妆品配方兼容性。"
-image: /images/products/centella-asiatica.webp
+image: /images/products/diagrams/centella-asiatica.svg
 ---
 
 ## 原料身份与选型

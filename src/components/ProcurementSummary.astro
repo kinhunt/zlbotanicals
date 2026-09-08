@@ -1,0 +1,28 @@
+---
+import {getLocalizedPath,type Language} from '../i18n/config';
+interface Props {lang:Language; name:string; latinName?:string; description?:string}
+const {lang,name,latinName,description}=Astro.props;
+const zh=lang==='zh';
+const quote=(request:string)=>getLocalizedPath('/request-quote',lang)+'?'+new URLSearchParams({product:name,request}).toString();
+const checks=zh?[
+ ['身份与组成','确认物种、部位、提取工艺、载体与溶剂声明。'],
+ ['规格与质量文件','索取当前 TDS、检测方法及拟供批次真实 COA；按用途核对污染物限值。'],
+ ['供货与商业条件','自产／合作／定制来源、样品、包装、MOQ、交期与报价：待书面确认。'],
+ ['目标市场与追溯','提交用途及目的地；确认使用资格、证书范围、储存与保质期依据。']
+]:[
+ ['Identity & composition','Confirm species, plant part, extraction process, carriers and solvent declarations.'],
+ ['Specification & quality documents','Request current TDS, test methods and genuine COA for the offered lot; agree use-specific contaminant limits.'],
+ ['Supply & commercial terms','Own / partner / custom source, samples, packaging, MOQ, lead time and price: Requires written confirmation.'],
+ ['Market & traceability','Share application and destination; check use eligibility, certificate scope, storage and shelf-life basis.']
+];
+---
+<section id="procurement-summary" class="mb-8 rounded-2xl border border-primary/20 bg-primary/5 p-5 md:p-7">
+ <p class="text-sm font-semibold text-primary">{zh?'原料采购 · 规格与文件核对':'INGREDIENT SOURCING · SPECIFICATION & DOCUMENT REVIEW'}</p>
+ <h2 class="text-2xl font-bold mt-2">{name}</h2>
+ {latinName && <p class="italic mt-1">{latinName}</p>}
+ {description && <p class="mt-3 text-gray-700">{description}</p>}
+ <p class="text-sm mt-3 text-gray-700">{zh?'目录提供原料身份与选型背景，不是已批准的 SKU 规格或库存证明。下文技术指标为询价核查主题，具体数值与可供文件须确认。':'The catalog provides ingredient identity and selection context, not an approved SKU specification or inventory record. Technical topics below guide your request; exact values and available documents need confirmation.'}</p>
+ <div class="flex flex-wrap gap-3 mt-5">{[['TDS',zh?'索取规格 / TDS':'Request specification / TDS'],['sample',zh?'咨询样品':'Ask about samples'],['quote',zh?'获取报价':'Request quote']].map(([request,label])=><a data-procurement-action={request} href={quote(request)} class="px-4 py-3 bg-primary text-white rounded-lg font-medium">{label}</a>)}</div>
+ <dl class="grid md:grid-cols-2 gap-5 mt-6">{checks.map(([heading,body])=><div><dt class="font-semibold">{heading}</dt><dd class="text-sm text-gray-700 mt-1">{body}</dd></div>)}</dl>
+ <a href="#processing-dossier" class="inline-block underline text-primary mt-5">{zh?'继续阅读工艺、应用与研究依据':'Continue to process, application & research context'} ↓</a>
+</section>

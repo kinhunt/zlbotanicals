@@ -6,8 +6,8 @@ const fieldClass = 'w-full px-4 py-3 rounded-lg border border-gray-300 focus:rin
 ---
 <div class="mb-8 p-6 bg-primary/5 rounded-xl space-y-3 text-gray-700">
   <h2 class="text-xl font-semibold">{zh ? '提交前请了解' : 'Before you send'}</h2>
-  <p>{zh ? '请提供产品、规格、用途和目标市场。我们需要先核对可供规格、文件及商业条件；样品、价格、最小起订量和交期均以书面确认为准。' : 'Share your product, specification, application and target market. Available grades, documents and commercial terms need review; samples, pricing, MOQ and delivery are subject to written confirmation.'}</p>
-  <p id="form-privacy">{zh ? '此表单通过第三方服务 FormSubmit 处理，提交后将离开本站。您填写的信息会发送给该服务并用于业务询盘。请勿上传敏感个人信息或保密配方。邮件投递及服务激活状态尚未核实，本站不会显示已送达确认。' : 'This form is processed by FormSubmit, a third-party service; submission takes you off this site. Your entries are sent to that service for this business inquiry. Do not include sensitive personal data or confidential formulas. Email delivery and service activation have not been verified; this site does not confirm receipt.'}</p>
+  <p>{zh ? '原料采购请提供已知规格、用途和目标市场；ODM 项目可先描述想法或配方转移阶段，未知项填写待讨论。我们需要先核对可供规格、文件及商业条件；样品、价格、最小起订量和交期均以书面确认为准。' : 'For sourcing, share known specifications, application and market. For ODM, describe your idea or formula-transfer stage; unknown details can be undecided. Available grades, documents and commercial terms need review; samples, pricing, MOQ and delivery are subject to written confirmation.'}</p>
+  <p id="form-privacy">{zh ? '此表单通过第三方服务 FormSubmit 处理，提交后将离开本站。您填写的信息会发送给该服务并用于业务询盘。请勿上传敏感个人信息或保密配方。提交不代表已送达；请保留下方备用邮箱，必要时直接联系。' : 'This form is processed by FormSubmit, a third-party service; submission takes you off this site. Your entries are sent to that service for this business inquiry. Do not include sensitive personal data or confidential formulas. Submission does not confirm receipt; keep the alternative email below and contact us directly if needed.'}</p>
   <p><a class="text-primary underline" href="https://formsubmit.co/privacy.pdf" target="_blank" rel="noopener noreferrer">{zh ? 'FormSubmit 隐私政策（英文，外部链接）' : 'FormSubmit privacy policy (external)'}</a></p>
   <p>{zh ? '也可使用您自己的邮箱直接发送需求：' : 'Alternatively, send your requirements from your own email client: '}<a class="text-primary underline" href="mailto:info@zlbotanicals.com">info@zlbotanicals.com</a></p>
 </div>
@@ -18,6 +18,7 @@ const fieldClass = 'w-full px-4 py-3 rounded-lg border border-gray-300 focus:rin
   <div><label for="request" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '请求类型 *' : 'Request type *'}</label>
     <select id="request" name="request" required class={fieldClass}>
       <option value="quote">{zh ? '报价' : 'Quote'}</option><option value="sample">{zh ? '样品评估' : 'Sample evaluation'}</option><option value="COA">{zh ? '分析证书 (COA)' : 'Certificate of Analysis (COA)'}</option><option value="TDS">{zh ? '技术数据表 (TDS)' : 'Technical Data Sheet (TDS)'}</option><option value="certification">{zh ? '认证文件核查' : 'Certification copy review'}</option><option value="application">{zh ? '应用需求讨论' : 'Application discussion'}</option>
+      <option value="odm-transfer">{zh ? '已有配方转移 / 生产协作评估' : 'Existing formula transfer / production review'}</option>
       <option value="odm">{zh ? 'ODM 项目可行性讨论' : 'ODM project feasibility discussion'}</option>
     </select>
   </div>
@@ -28,8 +29,8 @@ const fieldClass = 'w-full px-4 py-3 rounded-lg border border-gray-300 focus:rin
     <div><label for="email" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '业务邮箱 *' : 'Business email *'}</label><input id="email" name="email" type="email" required class={fieldClass} /></div>
     <div><label for="phone" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '电话（选填）' : 'Phone (optional)'}</label><input id="phone" name="phone" type="tel"  class={fieldClass} /></div>
     <div><label for="country" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '公司所在国家或地区 *' : 'Company country / region *'}</label><input id="country" name="country" type="text" required class={fieldClass} /></div>
-    <div><label for="product" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '产品名称 / 规格 *' : 'Product / specification *'}</label><input id="product" name="product" type="text" required class={fieldClass} /></div>
-    <div><label for="market" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '目标销售市场 *' : 'Target sales market *'}</label><input id="market" name="market" type="text" required class={fieldClass} /></div>
+    <div><label for="product" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '产品或项目方向 *（规格可待讨论）' : 'Product or project direction * (specification can be undecided)'}</label><input id="product" name="product" type="text" required class={fieldClass} /></div>
+    <div><label for="market" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '目标销售市场 *' : 'Target sales market *'}</label><input id="market" name="market" type="text" required placeholder={zh ? '未确定可写待讨论' : 'Enter undecided if not yet known'} class={fieldClass} /></div>
     <div><label for="first_order_quantity" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '首单数量及单位' : 'First order quantity and unit'}</label><input id="first_order_quantity" name="first_order_quantity" type="text"  class={fieldClass} /></div>
     <div><label for="volume" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '预计年用量及单位' : 'Estimated annual volume and unit'}</label><input id="volume" name="volume" type="text"  class={fieldClass} /></div>
     <div><label for="application" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '应用 / 终端产品' : 'Application / finished product'}</label><input id="application" name="application" type="text"  class={fieldClass} /></div>
