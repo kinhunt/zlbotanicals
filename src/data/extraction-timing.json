@@ -1,0 +1,131 @@
+{
+  "fps": 30,
+  "durationInFrames": 1881,
+  "duration": 62.7,
+  "leadSeconds": 0.4,
+  "scenes": [
+    {
+      "startFrame": 0,
+      "durationInFrames": 234
+    },
+    {
+      "startFrame": 234,
+      "durationInFrames": 220
+    },
+    {
+      "startFrame": 454,
+      "durationInFrames": 228
+    },
+    {
+      "startFrame": 682,
+      "durationInFrames": 223
+    },
+    {
+      "startFrame": 905,
+      "durationInFrames": 249
+    },
+    {
+      "startFrame": 1154,
+      "durationInFrames": 221
+    },
+    {
+      "startFrame": 1375,
+      "durationInFrames": 234
+    },
+    {
+      "startFrame": 1609,
+      "durationInFrames": 272
+    }
+  ],
+  "voices": {
+    "en": "en-US-AriaNeural",
+    "zh": "zh-CN-XiaoxiaoNeural"
+  },
+  "segments": {
+    "en": [
+      {
+        "file": "en-1.mp3",
+        "duration": 6.792,
+        "text": "Material identity. Confirm the species, plant part and traceable starting lot."
+      },
+      {
+        "file": "en-2.mp3",
+        "duration": 6.312,
+        "text": "Pretreatment. Drying or size reduction may prepare the material for extraction."
+      },
+      {
+        "file": "en-3.mp3",
+        "duration": 6.6,
+        "text": "Extraction. A selected medium transfers soluble constituents from the material."
+      },
+      {
+        "file": "en-4.mp3",
+        "duration": 6.408,
+        "text": "Separation. Filtration or centrifugation can remove suspended solids."
+      },
+      {
+        "file": "en-5.mp3",
+        "duration": 7.296,
+        "text": "Concentrate / purify. Remove solvent; use selective separation only where needed."
+      },
+      {
+        "file": "en-6.mp3",
+        "duration": 6.36,
+        "text": "Dry / formulate. Some routes produce powders; others remain liquid."
+      },
+      {
+        "file": "en-7.mp3",
+        "duration": 6.768,
+        "text": "Quality review. Check identity, composition and agreed acceptance criteria."
+      },
+      {
+        "file": "en-8.mp3",
+        "duration": 8.04,
+        "text": "No universal recipe. Steps vary by product. This schematic is not a real facility."
+      }
+    ],
+    "zh": [
+      {
+        "file": "zh-1.mp3",
+        "duration": 5.904,
+        "text": "原料身份。确认物种、植物部位与可追溯的起始批次。"
+      },
+      {
+        "file": "zh-2.mp3",
+        "duration": 5.208,
+        "text": "前处理。干燥或粒度调整可为提取准备原料。"
+      },
+      {
+        "file": "zh-3.mp3",
+        "duration": 5.496,
+        "text": "提取。所选介质使可溶成分从原料转移出来。"
+      },
+      {
+        "file": "zh-4.mp3",
+        "duration": 4.824,
+        "text": "固液分离。过滤或离心可去除悬浮固体。"
+      },
+      {
+        "file": "zh-5.mp3",
+        "duration": 5.664,
+        "text": "浓缩／纯化。去除溶剂；按需要进行选择性分离。"
+      },
+      {
+        "file": "zh-6.mp3",
+        "duration": 6.288,
+        "text": "干燥／配制。部分路线制成粉末，其他路线保留液体形态。"
+      },
+      {
+        "file": "zh-7.mp3",
+        "duration": 5.376,
+        "text": "质量复核。检查身份、组成与约定的验收指标。"
+      },
+      {
+        "file": "zh-8.mp3",
+        "duration": 6.816,
+        "text": "不存在通用配方。步骤随产品变化。本示意不是真实厂房。"
+      }
+    ]
+  },
+  "version": "819c2ac2f20c"
+}

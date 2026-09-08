@@ -1,0 +1,7 @@
+{
+  "sha256": "74345c138dc071731682d0d00f8b6989c8e860cb2b0e11ec201148fbe286e363",
+  "voice": "en-US-AriaNeural",
+  "text": "Material identity. Confirm the species, plant part and traceable starting lot.",
+  "provider": "edge-tts",
+  "version": "7.2.8"
+}

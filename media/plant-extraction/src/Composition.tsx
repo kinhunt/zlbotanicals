@@ -1,13 +1,15 @@
 import React from 'react';
-import {AbsoluteFill, useCurrentFrame, interpolate} from 'remotion';
+import {AbsoluteFill, Audio, staticFile, useCurrentFrame, interpolate} from 'remotion';
+import timing from './timing.json';
 import steps from './steps.json';
 export const Extraction: React.FC<{lang:'en'|'zh'}> = ({lang}) => {
  const frame=useCurrentFrame();
- const index=Math.min(7,Math.floor(frame/150));
- const local=frame%150;
+ const index=timing.scenes.findIndex(scene=>frame < scene.startFrame+scene.durationInFrames);
+ const local=frame-timing.scenes[index].startFrame;
  const zh=lang==='zh';
  const [title,description]=steps[lang][index];
  return <AbsoluteFill style={{background:'#edf3e8',color:'#193b2c',fontFamily:'"Noto Sans CJK SC", Arial, sans-serif',padding:64}}>
+  <Audio src={staticFile(`narration/${lang}.m4a`)} />
   <div style={{fontSize:21,letterSpacing:2,fontWeight:700}}>ZL BOTANICALS / {zh?'植物知识库':'EXTRACTION EXPLAINED'}</div>
   <div style={{position:'absolute',right:64,top:64,fontSize:21}}>{String(index+1).padStart(2,'0')} / 08</div>
   <div style={{display:'flex',gap:42,alignItems:'center',height:420,opacity:interpolate(local,[0,12],[0,1],{extrapolateRight:'clamp'})}}>
