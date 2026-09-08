@@ -3,7 +3,7 @@ name: Goji Berry Extract
 latinName: Lycium barbarum
 lang: en
 description: "Goji fruit ingredient sourcing, covering powder formats, polysaccharide methods, sugar content and gummy trials."
-image: /images/products/diagrams/goji-berry.svg
+image: /images/products/goji-berry.webp
 solutions:
   - liver-support-gummy
 ---

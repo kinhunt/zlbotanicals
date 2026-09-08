@@ -4,7 +4,7 @@ nameEn: Monk Fruit Extract
 latinName: Siraitia grosvenorii
 lang: zh
 description: "罗汉果提取物采购指南，涵盖罗汉果苷 V 规格、载体审核与饮料甜味试样。"
-image: /images/products/diagrams/monk-fruit.svg
+image: /images/products/monk-fruit.webp
 solutions:
   - white-peach-sparkling
   - botanical-sweetener-rtd

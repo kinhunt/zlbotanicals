@@ -4,7 +4,7 @@ nameEn: Grape Seed Extract
 latinName: Vitis vinifera
 lang: zh
 description: "葡萄籽提取物采购指南，涵盖 OPC 方法、身份核验及液体或干混体系兼容性。"
-image: /images/products/diagrams/grape-seed.svg
+image: /images/products/grape-seed.webp
 ---
 
 ## 原料身份与选型

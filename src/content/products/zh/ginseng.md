@@ -4,7 +4,7 @@ nameEn: Ginseng Extract
 latinName: Panax ginseng
 lang: zh
 description: "人参提取物采购指南，关注物种、使用部位、人参皂苷方法及应用测试。"
-image: /images/products/diagrams/ginseng.svg
+image: /images/products/ginseng.webp
 ---
 
 ## 原料身份与选型

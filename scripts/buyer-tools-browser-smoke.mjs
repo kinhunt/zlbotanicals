@@ -23,7 +23,7 @@ try{
  await page.locator('#sourcing-checklist').screenshot({path:`${out}/${lang}-${width}-brief.png`});
  await page.emulateMedia({media:'print'});assert.ok(await page.locator('#formula-transfer-checklist').isVisible());assert.equal(await page.locator('[data-brief-download]').first().isVisible(),false);await page.emulateMedia({media:'screen'});
  }
- if(route==='/products/green-tea')await page.locator('img[src*="diagrams"]').screenshot({path:`${out}/${lang}-${width}-diagram.png`});
+ if(route==='/products/green-tea')await page.locator('img[src="/images/products/green-tea.webp"]').screenshot({path:`${out}/${lang}-${width}-product-illustration.png`});
  }
  await page.goto(base+prefix+'/products/green-tea');await page.locator('[data-buyer-brief]').click();assert.equal(new URL(page.url()).hash,'#sourcing-checklist');
  for(const id of ['odm-concept-brief','formula-transfer-checklist']){await page.goto(base+prefix+'/odm');await page.locator(`[data-buyer-brief][href$="#${id}"]`).click();assert.equal(new URL(page.url()).hash,'#'+id);assert.ok(await page.locator('#'+id).isVisible());}

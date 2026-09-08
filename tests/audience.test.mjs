@@ -22,11 +22,11 @@ test('all product pages put procurement confirmation and actions before technica
  }
 });
 
-test('product artwork is an explicitly labeled original diagram, not grade-bearing sample photography',()=>{
+test('product artwork preserves original illustrations with explicit non-specification captions',()=>{
  for(const prefix of ['','zh/']) for(const slug of ['ginseng','reishi-mushroom','turmeric']){
  const page=html(`${prefix}products/${slug}/`);
- assert.ok(page.includes(`/images/products/diagrams/${slug}.svg`));
- assert.ok(page.includes(prefix?'原料示意图，非批次样品':'Ingredient diagram, not a batch sample'));
+ assert.ok(page.includes(`/images/products/${slug}.webp`));
+ assert.ok(page.includes(prefix?'概念插画，非批次样品':'Concept illustration, not a batch sample'));
  }
 });
 
@@ -69,8 +69,8 @@ test('quote privacy distinguishes submission from receipt without stale activati
  }
 });
 
-test('catalog cards contain neutral diagrams without cropping their disclaimers',()=>{
+test('catalog cards restore original photographic illustration framing',()=>{
  for(const file of ['src/components/products/ProductCard.astro','src/components/home/ProductCategories.astro']){
- const source=readFileSync(file,'utf8');assert.ok(source.includes('object-contain'));assert.ok(!source.includes('object-cover'));
+ const source=readFileSync(file,'utf8');assert.ok(source.includes('object-cover'));
  }
 });

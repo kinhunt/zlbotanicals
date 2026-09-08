@@ -17,9 +17,10 @@ const viewText = lang === 'zh' ? '查看详情' : 'View Details';
 ---
 
 <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden group">
+  <p class="text-xs text-gray-600 p-3">{lang === 'zh' ? '图片为概念插画，非批次样品或规格。图中标签文字不构成纯度、等级或认证承诺；请以确认的现行 TDS 和批次 COA 为准。' : 'Images are concept illustrations, not batch samples or specifications. Printed label wording does not establish purity, grade or certification; confirm the current TDS and batch COA.'}</p>
   <div class="aspect-[4/3] bg-gradient-to-br from-primary/10 via-cream to-primary/5 flex items-center justify-center relative overflow-hidden">
     {image ? (
-      <img src={image} alt={`${name} — ${lang === 'zh' ? '原料示意图，非批次样品' : 'ingredient diagram, not a batch sample'}`} class="w-full h-full object-contain" loading="lazy" />
+      <img src={image} alt={`${name} — ${lang === 'zh' ? '概念插画，非批次样品' : 'concept illustration, not a batch sample'}`} class="w-full h-full object-cover" loading="lazy" />
     ) : (
       <div class="flex flex-col items-center justify-center text-primary/40 group-hover:text-primary/60 transition-colors">
         <Leaf class="w-16 h-16 mb-2" strokeWidth={1} />
