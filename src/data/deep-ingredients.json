@@ -950,7 +950,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "已读取的证据形成三条不同证据链：EFSA给出申请材料工艺、模型稳定性与安全评估；FDA及FSA说明特定用途或特定材料的监管记录；原始III E论文摘要展示结构转化与树脂纯化的实验结果。[5][6][7]"
+              "text": "已读取的证据形成三条不同证据链：EFSA给出申请材料工艺、模型稳定性与安全评估；FDA及FSA说明特定用途或特定材料的监管记录。[5][6][7] 原始III E论文摘要展示结构转化与树脂纯化的实验结果。[8]"
             },
             {
               "type": "paragraph",
@@ -1149,7 +1149,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "The retrieved evidence forms distinct chains: EFSA records applicant manufacturing, model stability and safety assessment; FDA/FSA describe specified notified uses or material status; the original III E abstract reports structural conversion and resin purification.[5][6][7]"
+              "text": "The retrieved evidence forms distinct chains: EFSA records applicant manufacturing, model stability and safety assessment; FDA/FSA describe specified notified uses or material status.[5][6][7] The original III E abstract reports structural conversion and resin purification.[8]"
             },
             {
               "type": "paragraph",
@@ -3252,7 +3252,7 @@
             },
             {
               "type": "paragraph",
-              "text": "**路线C，超声强化释放的实验依据。** 多模式超声原始研究在20 g/600 mL、60°C、30 min条件下比较设备模式，固定声功率密度300 W/L及脉冲方式；单频28 kHz条件报告粗多糖得率26.38%，能量聚集逆流双频20/40 kHz报告38.93%。[39] 这些是该方法定义的“粗多糖得率”，不能当作果实含有38.93%的纯结构多糖。由于研究目标和分离方式不同，不应拿它与另一研究的高纯组分得率直接排名。对工程团队的价值是说明声场、频率组合、循环与冷却控制有研究意义，而不是给吨级提取机一个可复制产能数字。"
+              "text": "**路线C，超声强化释放的实验依据。** 摘要报告，传统单频超声筛选得到30 min、60°C、20 g/600 mL、300 W/L及28 kHz的条件；随后比较不同超声构型，能量聚集逆流双频的粗多糖得率为38.93%，对置双频为33.60%，能量聚集逆流单频为26.38%。本次保留的摘要和引言片段未给出各构型完整频率组合或脉冲设置，不能将26.38%直接标作传统28 kHz模式的结果。[39] 这些是该方法定义的“粗多糖得率”，不能当作果实含有38.93%的纯结构多糖。由于研究目标和分离方式不同，不应拿它与另一研究的高纯组分得率直接排名。对工程团队的价值是说明声场、频率组合、循环与冷却控制有研究意义，而不是给吨级提取机一个可复制产能数字。"
             }
           ]
         },
@@ -3284,8 +3284,8 @@
                 [
                   "循环双频超声单元",
                   "空化和循环传质强化",
-                  "功率密度、频率、占空比、声场分布与独立冷却",
-                  "20 g/600 mL原始比较，不是工厂验证[39]"
+                  "工程建议变量：功率密度、频率、占空比、声场分布与独立冷却；不是已核实的脉冲设置",
+                  "研究报告的优化背景：20 g/600 mL；各构型完整设置未取得，不是工厂验证[39]"
                 ],
                 [
                   "乙醇沉淀罐与固液分离",
@@ -3427,8 +3427,8 @@
                 ],
                 [
                   "原始多模式超声研究",
-                  "20 g/600 mL，60°C，30 min，300 W/L；比较频率/构型",
-                  "双频模式提升该体系粗多糖得率",
+                  "传统单频优化背景：20 g/600 mL，60°C，30 min，300 W/L，28 kHz；后续构型完整频率/脉冲设置未取得",
+                  "能量聚集逆流双频38.93%、对置双频33.60%、能量聚集逆流单频26.38%粗多糖得率",
                   "粗得率不是纯多糖含量或吨级产能[39]"
                 ],
                 [
@@ -3493,7 +3493,7 @@
             },
             {
               "type": "paragraph",
-              "text": "**Route C—ultrasound-assisted release.** An original multimode-ultrasound study compared modes at 20 g/600 mL, 60°C and 30 minutes, with 300 W/L and controlled pulsing. It reported 26.38% crude-polysaccharide yield for 28 kHz single-frequency operation and 38.93% for energy-aggregation counterflow dual-frequency operation at 20/40 kHz.[39] These are the study's crude-yield results, not proof that fruit contains 38.93% purified structural polysaccharide. Different isolation/assay endpoints prevent direct ranking against purified-fraction yields. The engineering value concerns field geometry, frequency, circulation and cooling, not a transferable industrial capacity figure."
+              "text": "**Route C—ultrasound-assisted release.** The abstract reports an optimized traditional single-frequency treatment of 30 min, 60°C, 20 g/600 mL, 300 W/L and 28 kHz. In subsequent configuration comparisons, energy-aggregation counterflow dual-frequency yielded 38.93%, opposite-sit dual-frequency yielded 33.60%, and energy-aggregation counterflow single-frequency yielded 26.38% crude polysaccharides. The retained abstract/introduction does not establish complete frequency pairs or pulse settings for each configuration.[39] These are the study's crude-yield results, not proof that fruit contains 38.93% purified structural polysaccharide. Different isolation/assay endpoints prevent direct ranking against purified-fraction yields. The engineering value concerns field geometry, frequency, circulation and cooling, not a transferable industrial capacity figure."
             }
           ]
         },
@@ -3525,8 +3525,8 @@
                 [
                   "Recirculating dual-frequency ultrasound",
                   "Cavitation and enhanced contact",
-                  "Power density, frequencies, duty cycle, field and independent cooling",
-                  "Original 20 g/600 mL comparison, not factory validation[39]"
+                  "Proposed engineering variables: power density, frequencies, duty cycle, field and independent cooling; not verified pulse settings",
+                  "Reported optimization context: 20 g/600 mL; complete per-apparatus settings unavailable, not factory validation[39]"
                 ],
                 [
                   "Ethanol precipitation vessel/separator",
@@ -3668,8 +3668,8 @@
                 ],
                 [
                   "Original multimode ultrasound",
-                  "20 g/600 mL, 60°C, 30 min, 300 W/L",
-                  "Dual-frequency configuration improved crude yield in that system",
+                  "Traditional single-frequency optimization context: 20 g/600 mL, 60°C, 30 min, 300 W/L, 28 kHz; full subsequent configuration frequency/pulse settings unavailable",
+                  "Crude yields: energy-aggregation counterflow dual-frequency 38.93%; opposite-sit dual-frequency 33.60%; energy-aggregation counterflow single-frequency 26.38%",
                   "Pure-polysaccharide content or ton-scale capacity[39]"
                 ],
                 [
