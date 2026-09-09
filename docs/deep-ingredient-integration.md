@@ -57,4 +57,6 @@ These pages deliberately do not claim exhaustive 2026 regulatory clearance, supp
 - Original twelve WebP byte contents compared against `git show 80a53da:...`; all identical. SHA-256 manifest is `deep-ingredient-artwork-baseline.json`. No public media files changed.
 - Product imagery browser smoke: 56 page checks, including all 48 EN/ZH product/width cases passed.
 - Narration browser smoke: both 62.7-second videos passed unmuted decoded-audio energy and all eight caption cues.
-- Longform and anchor browser results are recorded in the PR after completion. Local preview is not a production deployment verification.
+- Final longform browser sweep: 192 cases passed (12 ingredients × EN/ZH × 360/390/768/1440 × JS on/off), checking actual rendered table counts, captions/headers, focusable scroll regions, citation/TOC targets and no page overflow. Screenshots inspected; mobile scroll hints added.
+- Final anchor browser: 120 route checks and 600 actual dimension-link journeys passed (EN/ZH, 390/1440, JS on/off). Earlier harness navigation abort/crash was resolved by awaiting page load and releasing each ingredient page; final suites ran serially.
+- PR #13 Vercel checks passed; preview deployment 6346680189 succeeded for `8e3c65eb5a7a53f1e9ac595d800d77146036f407`. Protected preview returned SSO HTTP 302, not content. Local preview tests are not production deployment verification. Parent independent review/merge and production verification remain outstanding.
