@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9328406/",
+    "title": "Fujioka et al. — Edible Green Solvent for Optimized Catechins Extraction (2022)",
+    "scope": "Retrieved institutional text or research text; not ZL specification or market clearance.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 2,
+    "url": "https://www.fda.gov/media/107808/download",
+    "title": "FDA — Response to GRAS Notice GRN 000706 (2017)",
+    "scope": "Retrieved institutional text or research text; not ZL specification or market clearance.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 3,
+    "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food",
+    "title": "FDA — Aspartame and Other Sweeteners in Food",
+    "scope": "Retrieved institutional text or research text; not ZL specification or market clearance.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 4,
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/ginseng-radix",
+    "title": "EMA — Ginseng radix",
+    "scope": "Retrieved institutional text or research text; not ZL specification or market clearance.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 5,
+    "url": "https://www.nccih.nih.gov/health/licorice-root",
+    "title": "NCCIH — Licorice Root",
+    "scope": "Retrieved institutional text or research text; not ZL specification or market clearance.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 6,
+    "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5239",
+    "title": "EFSA — Safety of green tea catechins (2018)",
+    "scope": "Retrieved institutional text or research text; not ZL specification or market clearance.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 7,
+    "url": "https://www.fda.gov/food/dietary-supplements/new-dietary-ingredients-ndi-notification-process",
+    "title": "New Dietary Ingredient (NDI) Notification Process",
+    "scope": "Framework/reference; exact material and current use conditions need qualified review.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 8,
+    "url": "https://food.ec.europa.eu/food-safety/novel-food/novel-food-status-catalogue_en",
+    "title": "Novel Food status Catalogue",
+    "scope": "Framework/reference; exact material and current use conditions need qualified review.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 9,
+    "url": "https://single-market-economy.ec.europa.eu/sectors/cosmetics/legislation_en",
+    "title": "Legislation - Internal Market, Industry, Entrepreneurship and SMEs",
+    "scope": "Framework/reference; exact material and current use conditions need qualified review.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 10,
+    "url": "https://buchi.com/en/spray-drying",
+    "title": "Spray drying | Buchi.com",
+    "scope": "Framework/reference; exact material and current use conditions need qualified review.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 11,
+    "url": "https://www.nccih.nih.gov/health/ginkgo",
+    "title": "Ginkgo: Usefulness and Safety | NCCIH",
+    "scope": "Framework/reference; exact material and current use conditions need qualified review.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 12,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8586240/",
+    "title": "Green extraction optimization of triterpenoid glycoside-enriched Centella asiatica extract (2021)",
+    "scope": "Laboratory extraction experiment on selected tetraploid plant material; no factory scale validation.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 13,
+    "url": "https://europepmc.org/article/MED/37776575",
+    "title": "Tea-break with epigallocatechin gallate derivatives - Powerful polyphenols of great potential for medicine.",
+    "scope": "Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 14,
+    "url": "https://europepmc.org/article/MED/39614566",
+    "title": "Improving curcumin bioavailability: Targeted delivery of curcumin and loading systems in intestinal inflammation.",
+    "scope": "Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 15,
+    "url": "https://europepmc.org/article/MED/39435114",
+    "title": "Bioactivities and industrial standardization status of Ganoderma lucidum: A comprehensive review.",
+    "scope": "Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 16,
+    "url": "https://europepmc.org/article/MED/39606259",
+    "title": "Research progress on chemical diversity of saponins in Panax ginseng.",
+    "scope": "Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 17,
+    "url": "https://europepmc.org/article/MED/39368588",
+    "title": "Extraction, purification, structural characterization, and bioactivities of Ginkgo biloba leave polysaccharides: A review.",
+    "scope": "Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 18,
+    "url": "https://europepmc.org/article/MED/39065146",
+    "title": "Antimicrobial Polymer Films with Grape Seed and Skin Extracts for Food Packaging.",
+    "scope": "Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 19,
+    "url": "https://europepmc.org/article/MED/39137472",
+    "title": "A review of Lycium barbarum polysaccharides: Extraction, purification, structural-property relationships, and bioactive molecular mechanisms.",
+    "scope": "Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 20,
+    "url": "https://europepmc.org/article/MED/39625590",
+    "title": "Biological insights and therapeutic potential of Glycyrrhiza uralensis and its bioactive compounds: an updated review.",
+    "scope": "Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 21,
+    "url": "https://europepmc.org/article/MED/39458583",
+    "title": "Topical Application of Centella asiatica in Wound Healing: Recent Insights into Mechanisms and Clinical Efficacy.",
+    "scope": "Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 22,
+    "url": "https://europepmc.org/article/MED/39063362",
+    "title": "Recent Advances in the Distribution, Chemical Composition, Health Benefits, and Application of the Fruit of Siraitia grosvenorii.",
+    "scope": "Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 23,
+    "url": "https://europepmc.org/article/MED/38761729",
+    "title": "Properties, extraction and purification technologies of Stevia rebaudiana steviol glycosides: A review.",
+    "scope": "Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 24,
+    "url": "https://europepmc.org/article/MED/38675230",
+    "title": "Enhancing the Bioavailability of Resveratrol: Combine It, Derivatize It, or Encapsulate It?",
+    "scope": "Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.",
+    "accessed": "2026-09-09"
+  }
+]

@@ -1,0 +1,305 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9328406",
+      "title": "Fujioka et al. — Edible Green Solvent for Optimized Catechins Extraction (2022)",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "After homogenization it was sonicated using a ultrasonication probe at 80 μm amplitude (Q55, Qsonica LLC, Newtown, CT, USA) for 10 min. The mixture was double filtered using 45 μm and 22 μm membrane filters; and a clear golden solution was obtained. The solution was transferred into freeze drying vessels, frozen at −80 °C overnight, and lyophilized (MD85, Millerick technology, Kingston, NY, USA) to obtain green tea extract powder [13,14].",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.fda.gov/media/107808/download",
+      "title": "FDA — Response to GRAS Notice GRN 000706 (2017)",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "Hunan Nutramax describes the manufacturing process for SGFE. Unpeeled S. grosvenorii Swingle fruits are washed and crushed. The crushed fruits are extracted in hot water, and then the extract is cooled, centrifuged, and filtered. The extract is passed through an adsorption resin, which is washed and then desorbed with aqueous ethanol. The eluate is concentrated and spray dried to yield SGFE containing 18-32% mogroside V. Alternatively, the elua",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food",
+      "title": "FDA — Aspartame and Other Sweeteners in Food",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "The FDA prohibits the use of cyclamates and their salts (such as calcium cyclamate, sodium cyclamate, magnesium cyclamate, and potassium cyclamate) in the U.S. Whole-leaf and crude stevia extracts are subject to an [Import Alert](https://www.accessdata.fda.gov/cms_ia/importalert_119.html) . They are also not permitted for use as sweeteners. These forms of stevia differ from certain highly purified steviol glycosides obtained from stevia leaves, which have been the subjects of GRAS notices; the FDA has not objected to the use as sweeteners of these highly refined substances.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.ema.europa.eu/en/medicines/herbal/ginseng-radix",
+      "title": "EMA — Ginseng radix",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "Other products, like food, food supplements, cosmetic products or medical devices do not follow the same criteria and regulatory requirements as medicinal products and are excluded from this summary.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://www.nccih.nih.gov/health/licorice-root",
+      "title": "NCCIH — Licorice Root",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "Licorice contains a component called glycyrrhizin, or glycyrrhizic acid, that can cause serious adverse effects, such as irregular heartbeat and cardiac arrest, especially when consumed in large amounts or in the long term. Even small amounts of glycyrrhizin from licorice root products have been linked to severe adverse effects in people who consume a lot of salt, in people with hypertension, and in people with heart or kidney conditions. - Oral licorice products that do not contain glycyrrhizin (deglycyrrhizinated licorice) might be safe for up to 4 months. - Topical licorice root ma",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5239",
+      "title": "EFSA — Safety of green tea catechins (2018)",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "The Panel based this assessment on the content of EGCG in green tea extracts and infusions due to the fact that this is the major catechin found in green tea, it is present in plasma in the unconjugated form after oral intake, and it is the most cytotoxic catechin (compared to EGC and ECG) in primary rat hepatocytes.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://www.fda.gov/food/dietary-supplements/new-dietary-ingredients-ndi-notification-process",
+      "title": "New Dietary Ingredient (NDI) Notification Process",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "new dietary ingredients\" notify the Food and Drug Administration (FDA) about these ingredients.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://food.ec.europa.eu/food-safety/novel-food/novel-food-status-catalogue_en",
+      "title": "Novel Food status Catalogue",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "non-binding tool that lists products of animal and plant origin, algal and fungal species, cultures of micro-organisms and other substances subject to the Novel Food Regulation, based on information provided by the EU Member States. This should be read in conjunction with the [Union list of novel foods](/food-safety/novel-food/authorisations/union-list-novel-foods_en)",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://single-market-economy.ec.europa.eu/sectors/cosmetics/legislation_en",
+      "title": "Legislation - Internal Market, Industry, Entrepreneurship and SMEs",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "safety report prior to placing a product on the market. * **Introduction of the notion of 'responsible person'** Only cosmetic products for which a legal or natural person is designated within the EU as a 'responsible person' can be placed on the market. The new cosmetics regulation allows the precise identification of the responsible person is and clearly outlines their obligations. * **Centralised notification of all cosmetic products placed on the EU market** Manufacturers will need to notify their products only once – via the EU cosmetic products notification portal (CPNP). * **Introduction of reporting of serious undesirable effects (SUE)** A responsible person will have an obligation to notify serious undesirable effects to national authorities. The authorities will also collect information coming from users, health professionals, and others. They will be obliged to share the information with other EU countries. More information on reporting of SUE . * **New rules for the use of nanomaterials in cosmetic products** Colourants, preservatives and UV-filters, including those that are nanomaterials , must be explicitly authorised.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "url": "https://buchi.com/en/spray-drying",
+      "title": "Spray drying | Buchi.com",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "atomizes a liquid feed into fine droplets and evaporates the organic solvent or water by means of a hot drying gas.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://www.nccih.nih.gov/health/ginkgo",
+      "title": "Ginkgo: Usefulness and Safety | NCCIH",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "no conclusive evidence that ginkgo is helpful for any health condition. - Ginkgo has not been shown to be beneficial for preventing or slowing the progression of dementia. In three large studies in older adults with normal cognitive function or mild cognitive impairment, supplementation with ginkgo extract did not reduce the risk of dementia. One of these studies was the Ginkgo Evaluation of Memory (GEM) study, funded by the National Center for Complementary and Integrative Health and the National Institute on Aging. In this study, more than 3,000 people age 75 or older with normal cognitive function or mild cognitive impairment were randomly assigned to take a ginkgo supplement or a placebo for a median of 6 years. There was no difference between the gingko and placebo groups in the rates at which participants developed dementia of any type or Alzheimerâs disease. - Ginkgo extract may have a modest benefit for dementia symptoms, particularly at relatively high doses, but the evidence is inconsistent. Itâs unclear whether ginkgo is helpful for symptoms of milder cognitive impairment. - Although dietary supplements containing ginkgo have been marketed for âbrain health,â itâs uncertain whether they actually influence cognitive performance in healthy people. Much of the research on this topic is of low quality. - For various health conditions, including anxiety, PMS, schizophrenia, and vertigo, a small amount of evidence suggests a benefit from taking ginkgo orally (b",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8586240",
+      "title": "Green extraction optimization of triterpenoid glycoside-enriched Centella asiatica extract (2021)",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "The percent of ethanol was the major factor that had a significant effect on C. asiatica yield and glycoside and aglycone content during MAE and UAE. The maximum triterpenoids content in extract; 7.332 ± 0.386% w/w madecassoside and 4.560 ± 0.153% w/w asiaticoside 0.357 ± 0.013% w/w madecassic acid and 0.209 ± 0.025% w/w asiatic acid were obtained by MAE with 80% ethanol at 100 watts for 7.5 min, whereas the optimal conditions for highest total triterpenoids extraction from dry plant was UAE with 80% ethanol, temperature 48 °C, 50 min enhanced 2.262 ± 0.046% w/w madecassoside, 1.325 ± 0.062% w/w asiaticoside, 0.082 ± 0.009% w/w madecassic acid and 0.052 ± 0.007% w/w asiatic acid as secondary",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "url": "https://europepmc.org/article/MED/37776575",
+      "title": "Tea-break with epigallocatechin gallate derivatives - Powerful polyphenols of great potential for medicine.",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "Epigallocatechin gallate (EGCG) is a polyphenol present in green tea (Camellia sinensis), which has revealed anti-cancer effects toward a variety of cancer cells in vitro and protective potential against neurodegenerative diseases such as Alzheimer's and Parkinson's. Unfortunately, EGCG presents disappointing bioavailability after oral administration, primarily due to its chemical instability and poor absorption. Due to these limitations, EGCG is currently not used in medication, but only as a dietary supplement in the form of green tea extract. Therefore, it needs further modifications before being considered suitable for extensive medical applications. In this article, we review the scientific literature about EGCG derivatives focusing on their biological properties and potential medical applications. The most common chemical modifications of epigallocatechin gallate rely on introducing fatty acid chains or sugar molecules to its chemical structure to modify solubility. Another frequently employed procedure is based on blocking EGCG's hydroxyl groups with various substituents. Novel derivatives reveal interesting properties, of which, antioxidant, anti-inflammatory, antitumor and antimicrobial, are especially important. It is worth noting that the most promising EGCG derivatives present higher stability and activity than base EGCG.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://europepmc.org/article/MED/39614566",
+      "title": "Improving curcumin bioavailability: Targeted delivery of curcumin and loading systems in intestinal inflammation.",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "Curcumin is a natural food ingredient and has the potential to alleviate inflammation and combat cancer. The incidence of intestinal inflammation has been increasing and poses a severe risk to human health. Due to low absorption and bioavailability, curcumin's anti-inflammatory ability is ineffective. To improve the bioavailability of curcumin, descriptions of the intestinal barrier, signaling pathways, and transport mechanisms are reviewed. Blocking the signaling pathways lowers the number of inflammatory cytokines produced, which is the primary mechanism by which curcumin relieves inflammatory symptoms. The bioavailability of curcumin is not only related to physicochemical properties but also to the nature of the carrier material. Environmental indicators also have an impact on the improvement of curcumin bioavailability in applications. There is a need to develop multifunctional and more stable nanomaterial targeting systems to improve curcumin bioavailability and achieve better results in nanotechnology research and targeted inflammation therapy.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "url": "https://europepmc.org/article/MED/39435114",
+      "title": "Bioactivities and industrial standardization status of Ganoderma lucidum: A comprehensive review.",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "<i>Ganoderma lucidum</i> (GL) is a potent source of bioactive compounds with diverse nutritional and pharmacological benefits. Its popularity as a dietary supplement, herbal remedy, and wellness product is steadily on the rise. Furthermore, the standardized advancement of the GL industry has facilitated reliable sourcing of raw materials and quality control measures, enhancing its utilization and endorsement in the realms of nutritional science and pharmaceutical research. This article provides a comprehensive overview of the recent advancements in research pertaining to the bioactive components of GL, particularly polysaccharides (GLP) and triterpenes (GLTs) as well as highlights the latest findings regarding their beneficial effects on human diseases, including anticancer, antidiabetes, liver protection and other aspects (such as regulating gut microbiota, antioxidant, antimicrobial, antiinflammatory and immune regulation). Furthermore, we summarized the potential applications of GL in the food and pharmaceutical sectors, while also examining the current status of standardization throughout the entire industrial chain of GL, both domestically and internationally. These information offer an insight and guidance for the prospects of industrial development and the innovative advancement of GL within the global health industry.",
+          "added": "2026-09-09"
+        },
+        {
+          "text": "The main methods include ethanol precipitation [31], microwave-assisted extraction (MAE) [32], enzyme extraction [33], membrane filtration (MF), fractional precipitation method (FPM) and other methods [29,30]. The extraction and purification process and structural characterization analysis diagram are shown in Fig. 3.Fig. 3Flow chart of extraction, purification and structural characterization analysis of GLP [25,37].Fig. 3 Flow chart of extraction, purification and structural characterization analysis of GLP [25,37]. Different extraction and separation processes for GL will have different effects. Z. S et al. proposed an ultrasound assisted co extraction (UACE) process that the antioxidant capacity of the obtained polysaccharides is higher than that of traditional hot water extraction methods [34]. In a study using response surface methodology to optimize ultrasound assisted enzymatic extraction (UAEE) for extracting polysaccharides f",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "url": "https://europepmc.org/article/MED/39606259",
+      "title": "Research progress on chemical diversity of saponins in Panax ginseng.",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "Saponins, the major bioactive components of <i>Panax ginseng</i> C. A. Mey., are gradually emerging as research hotspots owing to the possession of various pharmacological activities. This review updates the ginsenosides list from <i>P. ginseng</i> and the steam-processed ginseng (red ginseng and black ginseng) up to 271 by June of 2024, encompassing 243 saponins from different parts of <i>P. ginseng</i> (roots, stems, leaves, flowers, berries, and seeds), 103 from red ginseng, and 65 from black ginseng, respectively. Among 271 saponins, there are a total of 249 (<b>1</b>-<b>249</b>) dammarane type (with <b><i>a</i></b> - <b><i>z</i></b> subtypes) tetracyclic triterpene saponins reported from each part of <i>P. ginseng</i> and steam-processed ginseng, two (<b>250</b>-<b>251</b>) lanostane type tetracyclic triterpene saponins identified from red ginseng, 18 (<b>252</b>-<b>269</b>) oleanane type pentacyclic triterpenoid saponins discovered from each part of <i>P. ginseng</i> and steam-processed ginseng, and two (<b>270</b>-<b>271</b>) ursane type pentacyclic triterpenoid saponins reported from red ginseng. Overall, this review expounds on the chemical diversity of ginsenosides in various aspects, such as chemical structure, spatial distribution and subtype comparison, processed products, and transformation. This facilitates more in-depth research on ginsenosides and contributes to the future development of ginseng.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "url": "https://europepmc.org/article/MED/39368588",
+      "title": "Extraction, purification, structural characterization, and bioactivities of Ginkgo biloba leave polysaccharides: A review.",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "Ginkgo biloba, a deciduous tree from the Ginkgoaceae family, is widely cultivated globally. In China, it predominantly grows in the eastern and southern regions. The leaves can be harvested multiple times throughout the growing season, presenting a significant resource potential. Ginkgo biloba leaves are considered as a living fossil with both medicinal and edible properties in traditional Chinese medicine. Polysaccharides, the primary bioactive compounds in these leaves, exhibit numerous biological activities, including antioxidant, antitumor, anti-inflammatory, immunoregulatory activity, antidepressant effects, hepatoprotective, hypoglycemic activity and hair-growth promoting effect. This review highlights the advancements in the extraction separation purification, structural elucidation, and functional analysis of polysaccharides derived from Ginkgo biloba leaves over the past decade, aiming to provide valuable insights for future development and commercialization of Ginkgo biloba leave polysaccharides.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "url": "https://europepmc.org/article/MED/39065146",
+      "title": "Antimicrobial Polymer Films with Grape Seed and Skin Extracts for Food Packaging.",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "The development of antimicrobial food packaging is a very important and current goal, but it still difficult to implement in practice. Reducing microbial contamination and preserving food quality are very important tasks for food manufacturers as the use of antimicrobial packaging can preserve the health of consumers. On the other hand, the difficulty of degrading packaging materials, leading to environmental pollution, is also an important problem. These problems can be solved by using biodegradable biopolymers and antimicrobial agents in the production of food packaging. Very suitable antimicrobial agents are grape seed and skin extracts as they have high antioxidant and antimicrobial capacity and are obtained from grape pomace, a waste product of winemaking. The present review presents the valuable bioactive compounds contained in grape seeds and skins, the methods used to obtain the extracts, and their antimicrobial and antioxidant properties. Then, the application of grape seed and skin extracts for the production of antimicrobial packaging is reviewed. Emphasis is placed on antimicrobial packaging based on various biopolymers. Special attention is also paid to the application of the extract of grape skins to obtain intelligent indicator packages for the continuous monitoring of the freshness and quality of foods. The focus is mainly placed on the antimicrobial properties of the packaging against different types of microorganisms and their applications for food packaging",
+          "added": "2026-09-09"
+        },
+        {
+          "text": "Conventional and unconventional extraction methods are used [29,30]. One of the conventional methods, the most commonly used technique for isolating phenolic compounds from plant material, is solid–liquid extraction (SLE), [22,29]. The following solvents are used to conduct SLE: ethanol, methanol, acetone, diethyl ether, and ethyl acetate mixed with water in different ratios. Ethanol is non-toxic, and only this solvent has been recognized as safe by the European Food Safety Authority and the FAO/WHO Expert Committee on Food Additives. This method allows for the very good extraction of phenolic compounds from grapes, but the use of large amounts of organic solvents poses health risks and is unfavorable for the environment. Several improved non-conventional methods for extracting phenols from grapes have been developed, such as supercritical fluid (SFE), pressurized liquid (PLE), ultrasound-assisted (UAE), and microwave-assisted (MAE) ext",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "url": "https://europepmc.org/article/MED/39137472",
+      "title": "A review of Lycium barbarum polysaccharides: Extraction, purification, structural-property relationships, and bioactive molecular mechanisms.",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "Lycium barbarum L. is of great significance medicinal and edible plant, which is native to N. & Central China. The extensive health benefits of L. barbarum have earned it great respect in traditional medicine for centuries. Lycium barbarum polysaccharides (LBPs) being recognized as one of the most crucial bioactive compounds found within this plant, with it exhibit a diverse range of pharmacological activities and nutritional functions, thereby generating substantial market demand and broad application prospects. To gain a more comprehensive understanding of LBPs, the review discussed the extraction, purification and structural-property relationships of these compounds. In addition, this review provides a comprehensive summary of the potential mechanisms underlying various biological activities attributed to LBPs, including immune modulation, antioxidant effects, neuroprotection, hepatoprotection, and antitumor properties. The application status and the future research directions of LBPs were subsequently presented. This review will establish a robust foundation and serve as an invaluable resource for future research and advancements in the field of LBPs.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "url": "https://europepmc.org/article/MED/39625590",
+      "title": "Biological insights and therapeutic potential of Glycyrrhiza uralensis and its bioactive compounds: an updated review.",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "The recent resurgence of traditional medicines, driven by a renewed interest in the medicinal use of plant extracts, has garnered significant scientific attention for their therapeutic efficacy in treating a wide range of diseases. Glycyrrhiza species, commonly known as licorice, are widely recognized both as herbal remedies and as natural sweeteners. Among these, Glycyrrhiza uralensis stands out for its exceptional therapeutic potential, particularly in enhancing muscle regeneration, slowing muscle aging, and promoting skeletal muscle myogenesis. This review explores the traditional uses and biological effects of G. uralensis, highlighting the biological significance of its bioactive constituents, such as saponins and flavonoids. The hepatoprotective, antibacterial, antioxidant, anticancer, antidiabetic, antiobesity, anti-inflammatory, skeletal muscle-enhancing and cardiovascular effects of G. uralensis are reviewed, along with its toxicity and safety profile. Additionally, we propose directions for future clinical and scientific investigations, advocating for using G. uralensis as a natural therapeutic agent. The primary aim of this review is to contribute to the incorporation of this ancient medicine into modern clinical practice.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "url": "https://europepmc.org/article/MED/39458583",
+      "title": "Topical Application of Centella asiatica in Wound Healing: Recent Insights into Mechanisms and Clinical Efficacy.",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "<i>Centella asiatica</i>, widely known as <i>Gotu kola</i>, is a traditional herb celebrated for its benefits in skin health and wound healing. Recent research has provided new insights into its efficacy, particularly through topical applications. This review highlights the plant's mechanisms, focusing on its active compounds such as asiaticoside, madecassoside, asiatic acid, and madecassic acid, which enhance collagen synthesis, modulate inflammation, and offer antioxidant protection. Clinical trials have been collected and summarized that innovative delivery systems, such as hydrogels, nanostructures or microneedles, can accelerate wound healing, reduce wound size, and improve recovery times in various wound types, including diabetic ulcers and burns. Future research will likely refine these technologies and explore new applications, reinforcing the role of <i>C. asiatica</i> in contemporary wound care. Advances in formulation and delivery will continue to enhance the plant's therapeutic potential, offering promising solutions for effective wound management.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "url": "https://europepmc.org/article/MED/39063362",
+      "title": "Recent Advances in the Distribution, Chemical Composition, Health Benefits, and Application of the Fruit of Siraitia grosvenorii.",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "The fruits of <i>Siraitia grosvenorii</i> (<i>S. grosvenorii</i>) have attracted a lot of scientific interest as part of the current healthy diet. <i>S. grosvenorii</i> has diverse health-promoting effects, including antioxidant, anti-inflammatory, antimicrobial, respiratory modulation, metabolic modulation, antitumor, and neuroprotective effects, as well as gastrointestinal function modulation. As a plant resource, <i>S. grosvenorii</i> has broad application prospects, which promotes the development of the horticultural industry. Moreover, Mogroside has attracted much attention as an important active ingredient of <i>S. grosvenorii</i>. This review provides an in-depth exploration of the distribution, chemical composition, health benefits, and application of <i>S. grosvenorii</i>, particularly Mogroside. This comprehensive exploration highlights the important therapeutic potential of <i>S. grosvenorii</i>, prompting further research into its applications. As value-added functional ingredients, <i>S. grosvenorii</i> and its constituents have significant potential for disease prevention and are widely used in the development of food and health supplements.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "url": "https://europepmc.org/article/MED/38761729",
+      "title": "Properties, extraction and purification technologies of Stevia rebaudiana steviol glycosides: A review.",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "For health and safety reasons, the search for green, healthy, and low-calorie sweeteners with good taste has become the demand of many consumers. Furthermore, the need for sugar substitutes of natural origin has increased dramatically. In this review, we briefly discussed the safety and health benefits of stevia sweeteners and enumerated some examples of physiological functions of steviol glycosides (SGs), such as anti-inflammatory, anti-obesity, antihypertensive, anti-diabetes, and anticaries, citing various evidence related to their application in the food industry. The latest advances in emerging technologies for extracting and purifying SGs and the process variables and operational strategies were discussed. The impact of the extraction methods and their comparison against the conventional techniques have also been demonstrated. These technologies use minimal energy solvents and simplify subsequent purification stages, making viable alternatives suitable for a possible industrial application. Furthermore, we also elucidated the potential for advancing and applying the natural sweeteners SGs.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "url": "https://europepmc.org/article/MED/38675230",
+      "title": "Enhancing the Bioavailability of Resveratrol: Combine It, Derivatize It, or Encapsulate It?",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "Overcoming the limited bioavailability and extensive metabolism of effective in vitro drugs remains a challenge that limits the translation of promising drugs into clinical trials. Resveratrol, despite its well-reported therapeutic benefits, is not metabolically stable and thus has not been utilized as an effective clinical drug. This is because it needs to be consumed in large amounts to overcome the burdens of bioavailability and conversion into less effective metabolites. Herein, we summarize the more relevant approaches to modify resveratrol, aiming to increase its biological and therapeutic efficacy. We discuss combination therapies, derivatization, and the use of resveratrol nanoparticles. Interestingly, the combination of resveratrol with established chemotherapeutic drugs has shown promising therapeutic effects on colon cancer (with oxaliplatin), liver cancer (with cisplatin, 5-FU), and gastric cancer (with doxorubicin). On the other hand, derivatizing resveratrol, including hydroxylation, amination, amidation, imidation, methoxylation, prenylation, halogenation, glycosylation, and oligomerization, differentially modifies its bioavailability and could be used for preferential therapeutic outcomes. Moreover, the encapsulation of resveratrol allows its trapping within different forms of shells for targeted therapy. Depending on the nanoparticle used, it can enhance its solubility and absorption, increasing its bioavailability and efficacy. These include polymers, metals",
+          "added": "2026-09-09"
+        },
+        {
+          "text": "Usually, the preparation of an emulsion is carried out using high-pressure homogenizers, high shear stirring, or ultrasound generators as external forces to promote the release and absorption of the drug after digestion while improving targeted drug delivery [207]. For example, RSV nanoemulsion-based gels have been developed for the topical delivery of the antioxidant RSV for the prevention of UV-induced oxidative skin damage due to the RSV-enhanced skin permeability and retention effect [208]. RSV-nanoemulsions have been used in the treatment of diseases such as cancer, autoimmune disease, parasitic infections, and others. For instance, methotrexate-RSV loaded nanoemulsions have been developed to surmount the bioavailability problems and the adverse effects of rheumatoid arthritis monotherapy. This nanoformulation loaded with RSV showed 79% inhibition in inflammation and better anti-arthritic effects [209]. In another study, RSV-base",
+          "added": "2026-09-09"
+        }
+      ]
+    }
+  ]
+}

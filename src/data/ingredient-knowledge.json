@@ -1,0 +1,926 @@
+[
+  {
+    "productId": "green-tea",
+    "canonicalPath": "/plant-extracts/ingredients/green-tea",
+    "name": {
+      "en": "Tea polyphenols, catechins and caffeine",
+      "zh": "茶多酚、儿茶素与咖啡因"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Tea polyphenols, catechins and caffeine",
+          "zh": "提取工艺：茶多酚、儿茶素与咖啡因"
+        },
+        "text": {
+          "en": "Ask whether water or aqueous ethanol is used at each extraction and fractionation stage, how caffeine is separated, and whether the supplied powder contains a carrier. Compare EGCG recovery with the chromatographic profile rather than inferring purification from an extract ratio. A laboratory comparison used different solvents and conventional versus microwave/ultrasound-assisted extraction, then filtration and freeze drying. Changing solvent composition changes the material being compared. Treat the published optimization as a sample-specific experiment; separately disclose any caffeine-reduction stage rather than assuming it from catechin assay.",
+          "zh": "询问提取及分级各阶段是否使用水或含水乙醇、咖啡因如何分离、交付粉末是否含载体。将 EGCG 回收与色谱图谱结合评估，不根据提取比推断纯化程度。 实验室比较采用不同溶剂以及常规、微波／超声辅助提取，再过滤冻干。改变溶剂组成会改变比较材料。文献优化属于样品特定实验；任何降咖啡因步骤都需单独披露，不能从儿茶素含量推断。"
+        },
+        "citations": [
+          1
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Compare extraction energy and downstream stabilization",
+          "zh": "比较提取能量与后段稳定化"
+        },
+        "text": {
+          "en": "A 2022 laboratory study compared conventional, microwave and ultrasound-assisted extraction using several solvent systems, followed by membrane filtration and freeze drying. The result belongs to those leaf samples and solvent compositions, not to every tea powder. For a catechin brief, ask a processor to compare a temperature-controlled extraction vessel with assisted extraction on the same raw material, measuring EGCG, caffeine and the full profile rather than just dry yield. Request oxygen/temperature history and drying-carrier disclosure; a freeze dryer in a paper is not evidence of an installed ZL line.",
+          "zh": "2022年实验室研究比较常规、微波及超声辅助提取，使用多种溶剂体系，随后膜过滤并冻干。结果属于相应茶叶样品与溶剂组成，不能推广到所有茶粉。针对儿茶素需求，建议要求加工方用同批原料比较控温提取罐与辅助提取，检测 EGCG、咖啡因及完整图谱，而不只比较干物得率。索取氧暴露、温度历史与干燥载体资料；论文使用冻干机不证明振隆配置了该生产线。"
+        },
+        "citations": [
+          1
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Tea polyphenols, catechins and caffeine",
+          "zh": "应用试验：茶多酚、儿茶素与咖啡因"
+        },
+        "text": {
+          "en": "Set separate trial criteria for astringency, clarity, caffeine and catechin retention. A late-evening concept should begin with a caffeine exposure brief, not an energy claim. Test the intended water, pH, oxygen and heat cycle before selecting packaging. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Camellia sinensis EGCG and chemically modified derivatives; not interchangeable with leaf extract.",
+          "zh": "分别设置涩感、澄清度、咖啡因及儿茶素保留的试验指标。晚间场景应从咖啡因暴露需求开始，而不是能量宣称。选定包装前在目标用水、pH、氧暴露与热处理条件下试验。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：茶树 EGCG 与化学修饰衍生物；不能与普通茶叶提取物混为一谈。"
+        },
+        "citations": [
+          13
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "EFSA safety context and destination-market review",
+          "zh": "EFSA 安全背景与目的地复核"
+        },
+        "text": {
+          "en": "EFSA’s 2018 opinion distinguishes green-tea infusions from concentrated catechin exposure. For an EU brief, record the exact extract, EGCG and caffeine composition, serving conditions and the relevant current restrictions and warnings; a safety opinion is not a marketing authorization. The dated EU event in the filtered record below is historical, not a live compliance check. For a US supplement brief, separately review the ingredient’s NDI history and the actual manufacturing changes. Neither route is cleared by the name “green tea”.",
+          "zh": "EFSA 2018年意见区分绿茶浸泡液与浓缩儿茶素暴露。欧盟需求应记录具体提取物、EGCG 与咖啡因组成、食用条件及相关现行限制和警示；安全意见不是上市许可。下方筛选事件中的欧盟记录属于历史，不是实时合规核查。美国补充剂需求另须核查新膳食成分历史及实际工艺变化。两条路径都不能仅凭“绿茶”名称获得许可。"
+        },
+        "citations": [
+          6,
+          7
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Tea polyphenols, catechins and caffeine",
+          "zh": "研究观察：茶多酚、儿茶素与咖啡因"
+        },
+        "text": {
+          "en": "Camellia sinensis EGCG and chemically modified derivatives; not interchangeable with leaf extract. EGCG derivatives and stability, not a trial of a commercial green-tea beverage. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit. EGCG belongs to the catechin discussion, but modified derivatives are not leaf extract.",
+          "zh": "茶树 EGCG 与化学修饰衍生物；不能与普通茶叶提取物混为一谈。EGCG 衍生物与稳定性的文献综述，并非商业绿茶饮料试验。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。 EGCG 属于儿茶素讨论范围，但化学修饰衍生物不能等同于茶叶提取物。"
+        },
+        "citations": [
+          13
+        ]
+      }
+    }
+  },
+  {
+    "productId": "turmeric",
+    "canonicalPath": "/products/turmeric",
+    "name": {
+      "en": "Curcuminoids versus whole-rhizome extract",
+      "zh": "姜黄素类与全根茎提取物"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Curcuminoids versus whole-rhizome extract",
+          "zh": "提取工艺：姜黄素类与全根茎提取物"
+        },
+        "text": {
+          "en": "Request the extraction solvent sequence, curcuminoid profile and details of any emulsifier, dispersant or encapsulation system. A dispersible grade and a high-assay powder are different procurement objects; carrier mass must be included in formulation calculations. Compare the plain curcuminoid material separately from a loaded carrier system; the delivery review identifies carrier composition as a variable, not a guarantee of powder behavior. Require separate solvent and excipient records so that an improved dispersion sample is not mistaken for a more efficiently extracted rhizome.",
+          "zh": "索取提取溶剂顺序、姜黄素类组分及乳化剂、分散剂或包埋体系信息。易分散规格与高含量粉末是不同采购对象；配方核算须纳入载体质量。 应将普通姜黄素类材料与载体负载体系分开比较；递送综述将载体组成列为变量，不保证粉末表现。 要求分别记录溶剂与辅料，避免将分散改善样品误认为根茎提取效率提高。"
+        },
+        "citations": [
+          14
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Separate extraction from dispersion equipment",
+          "zh": "区分提取设备与分散设备"
+        },
+        "text": {
+          "en": "The curcumin review identifies carrier material and physicochemical properties as delivery variables. For a rhizome-extract purchase, first request the extraction and purification train. If a dispersible grade is needed, separately ask whether a proposed high-shear mixer, homogenizer or drying/encapsulation step is part of formulation rather than extraction. Require the actual emulsifier/carrier composition, particle or dispersion measurements and a settling test in the intended matrix. The abstract does not identify a universally best machine or prove that a high-assay powder disperses; equipment choice remains a pilot-validation question.",
+          "zh": "姜黄素综述将载体材料与理化性质列为递送变量。根茎提取物采购应先索取提取与纯化流程。如需易分散规格，应另问拟用高剪切混合机、均质机或干燥／包埋步骤属于配方还是提取。要求实际乳化剂／载体组成、粒子或分散测量及目标体系沉降试验。摘要不指定普遍最佳设备，也不证明高含量粉末易分散；设备选择仍需中试验证。"
+        },
+        "citations": [
+          14,
+          10
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Curcuminoids versus whole-rhizome extract",
+          "zh": "应用试验：姜黄素类与全根茎提取物"
+        },
+        "text": {
+          "en": "Use a colored or cloudy format as an initial screening option rather than promise a clear beverage. Compare settling, light exposure, stain transfer and heat history. Define a sampling method before comparing marker retention in a suspension. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Curcumin and carrier/loading systems discussed for intestinal inflammation research.",
+          "zh": "可先筛选有色或浑浊体系，不承诺澄清饮料效果。比较沉降、光照、染色与热历史；悬浮体系比较标志物保留前须定义取样方法。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：姜黄素及其载体与负载体系，研究背景为肠道炎症；并非本公司商品。"
+        },
+        "citations": [
+          14
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "Curcumin delivery systems require their own market review",
+          "zh": "姜黄素递送体系须独立市场复核"
+        },
+        "text": {
+          "en": "The linked curcumin review discusses carrier-dependent delivery, not food authorization. For an EU project distinguish rhizome extract, isolated curcuminoids and an engineered delivery system when reviewing novel-food status and the permitted use category. The Commission catalogue is only a reference tool, not an exhaustive authorization list. For a US supplement, evaluate the exact preparation and changes under the NDI framework. Do not adopt therapeutic intestinal-inflammation wording or assume a nanoparticle carrier has the same status as a culinary spice.",
+          "zh": "所链接姜黄素综述讨论依赖载体的递送，不是食品授权。欧盟项目在复核新食品状态和允许使用类别时，应区分根茎提取物、分离姜黄素类与工程化递送体系。委员会目录只是参考工具，并非完整授权清单。美国补充剂须按新膳食成分框架评估具体制备物及变化。不可采用治疗肠道炎症措辞，也不能假设纳米载体与烹饪香料具有相同状态。"
+        },
+        "citations": [
+          14,
+          8,
+          7
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Curcuminoids versus whole-rhizome extract",
+          "zh": "研究观察：姜黄素类与全根茎提取物"
+        },
+        "text": {
+          "en": "Curcumin and carrier/loading systems discussed for intestinal inflammation research. Delivery systems and physicochemical barriers; formulation context, not a finished-drink efficacy claim. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "姜黄素及其载体与负载体系，研究背景为肠道炎症；并非本公司商品。递送体系与理化障碍的综述；用于配方背景阅读，不支持成品饮料功效宣称。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          14
+        ]
+      }
+    }
+  },
+  {
+    "productId": "reishi-mushroom",
+    "canonicalPath": "/products/reishi-mushroom",
+    "name": {
+      "en": "Fungal identity and fraction selection",
+      "zh": "真菌身份与组分选择"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Fungal identity and fraction selection",
+          "zh": "提取工艺：真菌身份与组分选择"
+        },
+        "text": {
+          "en": "Ask for species verification, fungal part and substrate disclosure before discussing water extraction, ethanol fractionation or a combined process. Request separate beta-glucan and alpha-glucan treatment in the analytical method; a total sugar result cannot identify fungal origin. The review distinguishes polysaccharide precipitation and purification from triterpene extraction. Keep their yields, retained streams and assays separate when comparing a water-only and a combined-process sample; a higher dry yield does not prove higher beta-glucan recovery.",
+          "zh": "讨论水提、乙醇分级或组合工艺前，先核查物种、真菌部位与培养基。要求检测方法分别处理 β-葡聚糖与 α-葡聚糖；总糖结果不能鉴定真菌来源。 综述区分多糖沉淀纯化与三萜提取。比较单独水提与组合工艺样品时，应分开记录各自得率、保留物流和检测；更高干物得率不证明 β-葡聚糖回收更高。"
+        },
+        "citations": [
+          15
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Polysaccharide separation is not triterpene fractionation",
+          "zh": "多糖分离不是三萜分级"
+        },
+        "text": {
+          "en": "The Ganoderma review discusses ethanol precipitation and membrane filtration for polysaccharides, alongside separate triterpene extraction and chromatography. These routes target different fractions. Ask a processor whether an extraction tank, precipitation vessel and solids separator are intended to recover the polysaccharide fraction, and which streams are retained. For a triterpene brief, request the distinct solvent and purification train. Compare beta/alpha-glucan methods and triterpene fingerprints before judging equipment by powder yield; membrane cutoff and losses should be pilot-review questions, not assumed settings.",
+          "zh": "灵芝综述讨论多糖的乙醇沉淀与膜过滤，另述三萜提取和色谱分离；这些路线针对不同组分。应询问加工方提取罐、沉淀罐及固液分离设备是否用于回收多糖、保留了哪些物流。三萜需求须另索取溶剂与纯化流程。评价设备不能只看粉末得率，应结合 β／α-葡聚糖方法与三萜指纹；膜截留范围和损失应作为中试复核问题，不预设参数。"
+        },
+        "citations": [
+          15
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Fungal identity and fraction selection",
+          "zh": "应用试验：真菌身份与组分选择"
+        },
+        "text": {
+          "en": "Map bitterness and insoluble material to the intended drink, powder or capsule format. Compare filtered and unfiltered samples with a mass balance; a clearer liquid may have a different composition. Do not position an illustrative evening beverage as a sleep treatment. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Ganoderma lucidum polysaccharides and triterpenes across heterogeneous materials.",
+          "zh": "将苦味与不溶物评价对应到饮料、粉剂或胶囊。结合质量平衡比较过滤前后样品；更澄清的液体可能已有不同成分。晚间饮料概念不能定位为睡眠治疗。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：灵芝多糖与三萜，涵盖不同材料；不可直接等同于特定批次的商业提取物。"
+        },
+        "citations": [
+          15
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "Fungal part and fraction define the regulatory question",
+          "zh": "真菌部位与组分决定监管问题"
+        },
+        "text": {
+          "en": "The Ganoderma standardization review covers polysaccharides and triterpenes across different materials; it is not a legal permission list. For an EU brief, distinguish fruiting body, mycelium, spores and extracted fractions before checking current novel-food status and the intended food/supplement category. The Commission catalogue is non-binding and non-exhaustive. For US supplements, review NDI history for the actual preparation and manufacturing changes. A total-glucan result cannot establish species, substrate absence or permission to make a sleep claim.",
+          "zh": "灵芝标准化综述涉及不同材料的多糖与三萜，不是法律许可清单。欧盟需求须先区分子实体、菌丝体、孢子与提取组分，再核对现行新食品状态及拟用食品／补充剂类别。委员会目录无约束力且非穷尽。美国补充剂须核查实际制备物及工艺变更的新膳食成分历史。总葡聚糖结果不能确立物种、无培养基或助眠声称资格。"
+        },
+        "citations": [
+          15,
+          8,
+          7
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Fungal identity and fraction selection",
+          "zh": "研究观察：真菌身份与组分选择"
+        },
+        "text": {
+          "en": "Ganoderma lucidum polysaccharides and triterpenes across heterogeneous materials. Industrial standardization and composition; biological discussion is not evidence for sleep beverages. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "灵芝多糖与三萜，涵盖不同材料；不可直接等同于特定批次的商业提取物。产业标准化与成分综述；其中生物活性讨论不是助眠饮料的功效证据。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          15
+        ]
+      }
+    }
+  },
+  {
+    "productId": "ginseng",
+    "canonicalPath": "/products/ginseng",
+    "name": {
+      "en": "Species, plant part and processing history",
+      "zh": "物种、部位与加工历史"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Species, plant part and processing history",
+          "zh": "提取工艺：物种、部位与加工历史"
+        },
+        "text": {
+          "en": "Distinguish root, leaf and other parts and request the steam-processing history. Ask how the chosen solvent, concentration and drying process relates to the supplied ginsenoside fingerprint. A total saponin value is not a substitute for named-ginsenoside results. The chemical-diversity review covers root and other parts as well as red/black ginseng. Preserve that starting-material and steam-history identity throughout sampling; changing the solvent and changing the preprocessed root are different comparisons.",
+          "zh": "区分根、叶及其他部位，索取蒸制加工历史。询问溶剂、浓缩和干燥过程与交付人参皂苷指纹之间的对应关系。总皂苷数值不能替代具体人参皂苷的检测结果。 化学多样性综述涉及根及其他部位，也涉及红参／黑参。应在整个取样过程中保持起始材料与蒸制历史身份；变更溶剂与变更前处理根材料属于不同的比较。"
+        },
+        "citations": [
+          16
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Steam history before extraction-vessel selection",
+          "zh": "先核查蒸制历史，再选提取设备"
+        },
+        "text": {
+          "en": "The Panax review distinguishes plant parts and steam-processed red and black ginseng. Accordingly, an equipment brief should separate steam treatment from extraction and concentration. If a steamed material is requested, ask how the steaming chamber records time and temperature and how the resulting ginsenoside fingerprint is checked; do not infer the same material from an unsteamed-root extractor. Compare controlled extraction and drying options using named ginsenosides and mass balance. These are proposed scale-up questions, not published settings or confirmation that a supplier owns a steaming line.",
+          "zh": "人参综述区分不同植物部位以及蒸制红参、黑参。因此设备需求应将蒸制与提取浓缩分开。如需蒸制材料，应询问蒸制装置如何记录时间和温度、如何核查所得人参皂苷指纹；未经蒸制根的提取设备不能证明交付材料相同。建议以具体人参皂苷和质量平衡比较控温提取及干燥选项。这是放大复核建议，不是文献设定参数，也不确认供应商拥有蒸制线。"
+        },
+        "citations": [
+          16
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Species, plant part and processing history",
+          "zh": "应用试验：物种、部位与加工历史"
+        },
+        "text": {
+          "en": "Screen earthy notes, bitterness and haze at the proposed matrix conditions. Review local permission for the exact species, part and use; food and supplement eligibility may differ. Avoid a stimulant-duration promise or a claim that the extract offsets sleep loss. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Panax ginseng plant parts, red ginseng and black ginseng; composition differs by processing. Preserve steam-processing identity in the ginsenoside comparison.",
+          "zh": "在拟用体系条件下筛选土腥味、苦味与浑浊。核查具体物种、部位和用途的当地许可；食品与补充剂适用性可能不同。不承诺提神持续时间或抵消缺觉。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：人参不同部位、红参与黑参；加工背景不同，不能用一个总含量概括所有材料。 人参皂苷比较应保持蒸制加工身份一致。"
+        },
+        "citations": [
+          16
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "EMA root monograph versus food/supplement classification",
+          "zh": "EMA 根部专论与食品／补充剂分类"
+        },
+        "text": {
+          "en": "EMA’s Ginseng radix material concerns Panax ginseng root in herbal medicinal products. It is not authorization of ginseng leaf, every steamed extract or a conventional beverage. In an EU sourcing brief identify root versus other parts and white/red/black processing history before comparing the applicable preparation and legal category. A US supplement brief needs its own NDI and safety review. Do not copy medicinal indications, preparation strengths or dosing into a food label merely because the plant name matches.",
+          "zh": "EMA 人参根资料涉及草药药品中的人参根，并非人参叶、所有蒸制提取物或普通饮料的许可。欧盟采购需求应先区分根与其他部位以及白参／红参／黑参加工历史，再比较适用制备物与法律类别。美国补充剂需求须另行开展新膳食成分与安全复核。不能因为植物名称相同，就将药品适应证、制备物浓度或用量照搬到食品标签。"
+        },
+        "citations": [
+          4,
+          7,
+          16
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Species, plant part and processing history",
+          "zh": "研究观察：物种、部位与加工历史"
+        },
+        "text": {
+          "en": "Panax ginseng plant parts, red ginseng and black ginseng; composition differs by processing. Chemical diversity across plant parts and steam processing; useful for identity and fingerprint questions. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "人参不同部位、红参与黑参；加工背景不同，不能用一个总含量概括所有材料。不同部位及蒸制加工下的化学多样性；用于提出身份与指纹图谱核查问题。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          16
+        ]
+      }
+    }
+  },
+  {
+    "productId": "ginkgo-biloba",
+    "canonicalPath": "/products/ginkgo-biloba",
+    "name": {
+      "en": "Leaf extract is not leaf polysaccharide research",
+      "zh": "叶提取物不等于叶多糖研究"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Leaf extract is not leaf polysaccharide research",
+          "zh": "提取工艺：叶提取物不等于叶多糖研究"
+        },
+        "text": {
+          "en": "Ask for the leaf identification method, extraction and purification stages, named flavone/terpene assays and a specific unwanted-constituent control plan. Read leaf-polysaccharide papers as a distinct fraction; their extraction yields cannot specify a flavone/terpene SKU. The cited review is limited to leaf polysaccharide extraction and characterization. Use it to ask about that fraction only; specify a separate chromatographic identity and unwanted-constituent review for a flavone/terpene project.",
+          "zh": "询问银杏叶片鉴别、提取纯化阶段、具体黄酮／萜内酯检测与特定不期望成分的控制计划。叶多糖论文描述的是另一类组分，其提取得率不能定义黄酮／萜内酯商品规格。 引用综述限于叶多糖提取与表征，只应用来询问该组分；黄酮／萜内酯项目应另行规定色谱身份及不期望成分复核。不同组分的得率、纯化目的与验收方法不能混用。"
+        },
+        "citations": [
+          17
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Specify the fraction before the separation train",
+          "zh": "先明确组分，再讨论分离设备"
+        },
+        "text": {
+          "en": "The linked extraction review is about Ginkgo leaf polysaccharides, not a flavone-glycoside/terpene-lactone grade. A proposed equipment review must therefore name the target fraction before discussing solid–liquid separation, membrane fractionation or a purification column. Ask for evidence showing where unwanted constituents are removed and which assays verify the retained fraction. Do not transfer a polysaccharide extraction yield to a standardized leaf extract or select a purification train from a botanical name alone. The review abstract does not establish commercial equipment settings.",
+          "zh": "所链接提取综述研究银杏叶多糖，不是黄酮苷／萜内酯规格。因此建议的设备复核应先明确目标组分，再讨论固液分离、膜分级或纯化柱。索取在哪一阶段去除不期望成分、以哪些检测确认保留组分的证据。不能将多糖提取得率套用到标准化叶提取物，也不能仅凭植物名称选纯化流程。综述摘要不确立商业设备参数。"
+        },
+        "citations": [
+          17
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Leaf extract is not leaf polysaccharide research",
+          "zh": "应用试验：叶提取物不等于叶多糖研究"
+        },
+        "text": {
+          "en": "Treat this as a market-specific supplement evaluation, not a default beverage ingredient. Request a qualified assessment of restrictions and interactions before formulation. Commercial composition and use conditions must match the material reviewed. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Ginkgo biloba leaf polysaccharide fractions, not whole leaf or all commercial extracts.",
+          "zh": "按目标市场开展补充剂评估，不将其默认视为饮料原料。配方前请合格人员评估限制与相互作用。商业成分及使用条件必须与已评估材料相符。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：银杏叶多糖组分，不是全叶材料，也不能代表所有商业银杏叶提取物。"
+        },
+        "citations": [
+          17
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "Ginkgo safety review before supplement positioning",
+          "zh": "补充剂定位前先核查银杏安全性"
+        },
+        "text": {
+          "en": "NCCIH’s Ginkgo overview is a US evidence and safety reference, not a product approval. Its cautionary evidence context makes a memory or dementia-prevention promise inappropriate for this buyer guide. Specify leaf extract versus polysaccharide fraction and obtain a qualified interactions and unwanted-constituent review. In the US assess NDI requirements for the actual preparation; in the EU distinguish food/supplement status from a medicinal-product route. An extraction paper or a named flavone/terpene assay does not settle those classifications.",
+          "zh": "NCCIH 银杏概览是美国证据与安全参考，不是产品批准。其谨慎的证据背景意味着本采购指南不应承诺增强记忆或预防痴呆。应明确叶提取物与多糖组分，取得合格人员的相互作用及不期望成分复核。美国须评估具体制备物的新膳食成分要求；欧盟须区分食品／补充剂状态与药品路径。提取论文或黄酮／萜内酯检测不能解决这些分类问题。"
+        },
+        "citations": [
+          11,
+          7,
+          8
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Leaf extract is not leaf polysaccharide research",
+          "zh": "研究观察：叶提取物不等于叶多糖研究"
+        },
+        "text": {
+          "en": "Ginkgo biloba leaf polysaccharide fractions, not whole leaf or all commercial extracts. Extraction and characterization of leaf polysaccharides; not evidence for standardized flavone/terpene grades. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "银杏叶多糖组分，不是全叶材料，也不能代表所有商业银杏叶提取物。叶多糖的提取与表征；不是标准化黄酮／萜内酯规格的直接证据。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          17
+        ]
+      }
+    }
+  },
+  {
+    "productId": "grape-seed",
+    "canonicalPath": "/products/grape-seed",
+    "name": {
+      "en": "Seed, skin and polyphenol assay boundaries",
+      "zh": "籽、皮与多酚检测边界"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Seed, skin and polyphenol assay boundaries",
+          "zh": "提取工艺：籽、皮与多酚检测边界"
+        },
+        "text": {
+          "en": "Request seed-versus-skin identity, any defatting stage and the extraction solvent sequence. Specify the proanthocyanidin method and reference material; results from different colorimetric assays cannot automatically be converted to one OPC percentage. The seed/skin extraction review compares several solvent and assisted methods; procurement should preserve the seed identity and assay basis across trials rather than treating all grape pomace extracts as OPC equivalents. Track any defatting and fraction selection alongside the named proanthocyanidin method.",
+          "zh": "索取籽与皮的身份、是否脱脂及提取溶剂顺序。明确原花青素检测方法与对照品；不同显色方法结果不能自动换算为统一 OPC 百分比。 籽／皮提取综述比较多种溶剂和辅助方法；采购试验须保持籽身份及检测基准，不将所有葡萄渣提取物视为 OPC 等同物。 应将脱脂和组分选择与明确的原花青素方法一并追踪，不能把总多酚得率当作具体原花青素含量。"
+        },
+        "citations": [
+          18
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Match seed polyphenols to extraction and solvent recovery",
+          "zh": "葡萄籽多酚对应的提取与溶剂回收"
+        },
+        "text": {
+          "en": "The grape seed/skin review compares solid–liquid, ultrasound, microwave, pressurized-liquid and supercritical-fluid extraction, and reports that comparisons depend on the compounds and endpoints measured. Seed and skin are not interchangeable feedstocks. For a seed proanthocyanidin brief, propose a same-lot comparison of a stirred extraction vessel and an assisted process with a compatible solvent-recovery system; request recovery and assay comparability, not a universal “best” machine. Packaging-film casting equipment discussed in the review serves a different downstream use from beverage blending.",
+          "zh": "葡萄籽／皮综述比较固液、超声、微波、加压液体及超临界流体提取，并指出比较取决于所测化合物和终点。籽与皮不是可互换的投料。针对籽原花青素需求，建议同批比较搅拌提取罐与辅助工艺及相容的溶剂回收系统，索取回收率和方法可比性，不宣称某设备普遍最佳。综述中的包装膜成膜设备对应另一后段用途，不是饮料混配设备。"
+        },
+        "citations": [
+          18
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Seed, skin and polyphenol assay boundaries",
+          "zh": "应用试验：籽、皮与多酚检测边界"
+        },
+        "text": {
+          "en": "For food or beverage development, compare astringency, color and protein interactions in the intended matrix. Research on antimicrobial packaging films is not proof that adding extract preserves a drink; preservation and packaging compatibility require separate validation. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Grape seed and skin extracts incorporated into biopolymer packaging films.",
+          "zh": "食品或饮料开发须比较目标体系中的涩感、颜色与蛋白相互作用。抗菌包装膜研究不能证明添加提取物可为饮料防腐；防腐体系及包材相容性需单独验证。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：葡萄籽及葡萄皮提取物用于生物聚合物包装膜；与口服饮料材料的用途不同。"
+        },
+        "citations": [
+          18
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "Ingested seed extract and food-contact film are different uses",
+          "zh": "食用籽提取物与食品接触膜是不同用途"
+        },
+        "text": {
+          "en": "The linked grape review addresses seed/skin extracts in packaging films. That use cannot authorize an ingested OPC ingredient or establish preservative status in a beverage. For an EU food brief, check the precise seed preparation and history against the current novel-food framework; a film project additionally needs its own food-contact assessment. For US supplements review the actual extract and NDI history. Require a named proanthocyanidin assay method so that the material assessed is the material purchased; no universal OPC limit is asserted here.",
+          "zh": "所链接葡萄综述涉及籽／皮提取物包装膜。该用途不能授权食用 OPC 原料，也不能确立饮料防腐剂身份。欧盟食品需求应按现行新食品框架核查具体籽制备物与历史；包装膜项目另需食品接触评估。美国补充剂须核查实际提取物及新膳食成分历史。要求明确原花青素检测方法，使被评估材料与所购材料一致；本文不设通用 OPC 限值。"
+        },
+        "citations": [
+          18,
+          8,
+          7
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Seed, skin and polyphenol assay boundaries",
+          "zh": "研究观察：籽、皮与多酚检测边界"
+        },
+        "text": {
+          "en": "Grape seed and skin extracts incorporated into biopolymer packaging films. Packaging-material research, not a clinical study or proof of beverage preservation. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "葡萄籽及葡萄皮提取物用于生物聚合物包装膜；与口服饮料材料的用途不同。包装材料研究综述，而非临床试验，也不是饮料防腐效果的验证。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          18
+        ]
+      }
+    }
+  },
+  {
+    "productId": "goji-berry",
+    "canonicalPath": "/products/goji-berry",
+    "name": {
+      "en": "Fruit powder, juice solids and polysaccharide fractions",
+      "zh": "全果粉、果汁固形物与多糖组分"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Fruit powder, juice solids and polysaccharide fractions",
+          "zh": "提取工艺：全果粉、果汁固形物与多糖组分"
+        },
+        "text": {
+          "en": "Ask whether the material is milled fruit, dried juice or an extracted fraction. Review concentration, filtration and drying records alongside native solids and carrier content. Define how free sugars and other interfering substances are handled in a polysaccharide method. The cited review addresses polysaccharide extraction and purification; it does not specify a fruit-powder process. Ask which fraction is retained during separation and how free-sugar removal is demonstrated before comparing a polysaccharide-enriched sample with juice solids.",
+          "zh": "询问材料是果实粉碎物、干燥果汁还是提取组分。结合原生固形物及载体比例核查浓缩、过滤和干燥记录。多糖方法须明确游离糖及其他干扰物的处理方式。 引用综述涉及多糖提取纯化，不指定果粉工艺。比较富集多糖样品与果汁固形物前，应问分离时保留了哪个组分、如何证明游离糖去除。干燥前后须维持原生固形物与载体的独立质量记录。"
+        },
+        "citations": [
+          19
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Juice drying versus polysaccharide fractionation",
+          "zh": "果汁干燥与多糖分级的不同任务"
+        },
+        "text": {
+          "en": "The Lycium review concerns extracted and purified polysaccharides, not simply dried fruit juice. In a proposed equipment brief, separate a fruit mill or juice press from an extraction vessel and a fractionation step. Ask whether a filter or membrane retains the fraction being purchased and how free sugars and carrier solids enter the mass balance. If a juice-based powder is proposed, request a spray-drying trial with the actual feed and carrier; drying a juice does not itself purify polysaccharides. Neither the review abstract nor a dryer principle establishes the correct cutoff, temperature or installed equipment.",
+          "zh": "枸杞综述涉及提取纯化多糖，并非简单干燥果汁。建议的设备需求应区分果实粉碎机或榨汁机、提取罐以及分级步骤。询问过滤或膜处理是否保留所采购组分、游离糖和载体固形物如何计入质量平衡。如提供果汁粉，索取实际进料与载体的喷干试验；干燥果汁本身不等于纯化多糖。综述摘要或干燥原理均不能确立适合的截留范围、温度或现有设备。"
+        },
+        "citations": [
+          19,
+          10
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Fruit powder, juice solids and polysaccharide fractions",
+          "zh": "应用试验：全果粉、果汁固形物与多糖组分"
+        },
+        "text": {
+          "en": "For an unsweetened tea brief, distinguish no added sweetener from legally permitted sugar claims. Native sugars, carriers and all other ingredients still need label review. Check color drift, sediment and microbiological control in the intended dry or liquid format. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Lycium barbarum polysaccharide fractions; not equivalent to fruit powder or juice.",
+          "zh": "无额外甜味配料的茶概念须区分“不添加甜味剂”与依法可用的糖声称。天然糖、载体和其他配料仍须核查标签。按干品或液体形式检查颜色漂移、沉淀与微生物控制。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：枸杞多糖组分；不能与枸杞全果粉、果汁或任一商业规格直接等同。"
+        },
+        "citations": [
+          19
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "Edible fruit history does not settle a purified fraction",
+          "zh": "果实食用历史不解决纯化组分资格"
+        },
+        "text": {
+          "en": "A Lycium polysaccharide research material is not the same as a juice or whole-fruit powder. For an EU brief, assess the exact concentrated/purified preparation under the current novel-food framework rather than relying only on fruit consumption history. The Commission notes that its catalogue is a non-binding, non-exhaustive tool. For a US supplement, separately review NDI obligations. Native sugars, added carriers and the complete formula must be included in any proposed sugar-label review; a polysaccharide assay cannot establish a sugar-free claim.",
+          "zh": "枸杞多糖研究材料不同于果汁或全果粉。欧盟需求应依据现行新食品框架评估具体浓缩／纯化制备物，不能只依赖果实食用历史。委员会指出其目录是无约束力、非穷尽工具。美国补充剂需另行复核新膳食成分义务。拟定糖标示复核必须纳入天然糖、添加载体和完整配方；多糖检测不能确立无糖声称。"
+        },
+        "citations": [
+          19,
+          8,
+          7
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Fruit powder, juice solids and polysaccharide fractions",
+          "zh": "研究观察：全果粉、果汁固形物与多糖组分"
+        },
+        "text": {
+          "en": "Lycium barbarum polysaccharide fractions; not equivalent to fruit powder or juice. Extraction, purification and structure-property relationships; a starting point for polysaccharide methods. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "枸杞多糖组分；不能与枸杞全果粉、果汁或任一商业规格直接等同。提取、纯化与结构性质关系；可用于梳理多糖检测方法问题，不代表成品功效。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          19
+        ]
+      }
+    }
+  },
+  {
+    "productId": "licorice-root",
+    "canonicalPath": "/products/licorice-root",
+    "name": {
+      "en": "Species and glycyrrhizin disclosure",
+      "zh": "物种与甘草酸披露"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Species and glycyrrhizin disclosure",
+          "zh": "提取工艺：物种与甘草酸披露"
+        },
+        "text": {
+          "en": "Request the exact Glycyrrhiza species and root identity, extraction solvents and glycyrrhizin method. A deglycyrrhizinated description requires a measurable residual specification; it is not proof of zero content or general suitability. Keep glycyrrhizin reduction separate from ordinary concentration. Request before/after results and confirm the species rather than accepting a deglycyrrhizinated label as a process record. Safety context makes residual glycyrrhizin a separate question from extract ratio.",
+          "zh": "索取具体甘草物种、根部身份、提取溶剂与甘草酸检测方法。脱甘草酸描述须有可测量的残留规格；不代表零含量或普遍适用。 应将甘草酸降低与普通浓缩区分。索取前后结果并确认物种，不将脱甘草酸标签视为工艺记录。 安全背景决定残留甘草酸应独立于提取比核查；同样的提取比不能证明相同残留量或适用人群。"
+        },
+        "citations": [
+          20
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Verify removal performance, not a DGL machine label",
+          "zh": "核查去除效果，不看“脱甘草酸设备”标签"
+        },
+        "text": {
+          "en": "A Glycyrrhiza uralensis review covers saponins and flavonoids, while NCCIH separately flags glycyrrhizin-related safety concerns. For a deglycyrrhizinated brief, ask a processor to identify the selective separation stage, whether a column or another validated operation, and measure glycyrrhizin before and after it. Concentration or drying alone should not be accepted as evidence of selective removal. Request a residual assay, solvent history and species identity with any equipment proposal. This is an engineering review question, not a validated DGL process or a claim of zero glycyrrhizin.",
+          "zh": "乌拉尔甘草综述涉及皂苷与黄酮，NCCIH 另指出甘草酸相关安全问题。脱甘草酸需求应要求加工方明确选择性分离步骤：是柱分离还是其他已验证操作，并检测前后甘草酸。不能仅凭浓缩或干燥就认定完成选择性去除。任何设备方案均应附残留检测、溶剂历史与物种身份。这是工程复核问题，不是已验证的脱甘草酸工艺，也不声称甘草酸为零。"
+        },
+        "citations": [
+          20,
+          5
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Species and glycyrrhizin disclosure",
+          "zh": "应用试验：物种与甘草酸披露"
+        },
+        "text": {
+          "en": "Evaluate the characteristic taste only after safety and use-condition review. Agree an exposure assessment for the whole formula and warnings where required. The linked G. uralensis review cannot establish equivalence with a G. glabra lot or permission in a beverage. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Glycyrrhiza uralensis constituents including saponins and flavonoids; not G. glabra equivalence. Glycyrrhizin exposure must be assessed before sensory selection.",
+          "zh": "先评估安全性与使用条件，再评价特征风味。确定完整配方的暴露评估及必要警示。所链接乌拉尔甘草综述不能证明与光果甘草批次等同，也不能确立饮料许可。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：乌拉尔甘草及其皂苷、黄酮等成分；不表示与光果甘草材料完全等同。 感官选型前须评估甘草酸暴露。"
+        },
+        "citations": [
+          20
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "Glycyrrhizin exposure and species-specific use conditions",
+          "zh": "甘草酸暴露与物种特定使用条件"
+        },
+        "text": {
+          "en": "NCCIH warns that glycyrrhizin can cause serious adverse effects, especially with large or long-term exposure and in susceptible people. A deglycyrrhizinated label is not a substitute for a residual result and whole-formula exposure review. For US food flavoring versus supplement projects, identify the actual species and preparation and obtain the corresponding use-condition and labeling assessment; the NDI pathway concerns supplements, not a blanket food permission. The G. uralensis research record cannot establish equivalence with a G. glabra lot or a safe serving.",
+          "zh": "NCCIH 警示甘草酸可能导致严重不良反应，尤其涉及大量、长期暴露及易感人群。“脱甘草酸”标签不能替代残留结果与完整配方暴露评估。美国食品调味与补充剂项目应明确实际物种及制备物，并取得对应使用条件和标示评估；新膳食成分路径涉及补充剂，不是普遍食品许可。乌拉尔甘草研究记录不能确立与光果甘草批次等同或某份量安全。"
+        },
+        "citations": [
+          5,
+          7,
+          20
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Species and glycyrrhizin disclosure",
+          "zh": "研究观察：物种与甘草酸披露"
+        },
+        "text": {
+          "en": "Glycyrrhiza uralensis constituents including saponins and flavonoids; not G. glabra equivalence. Species-specific review including safety; do not transfer conclusions between licorice species. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "乌拉尔甘草及其皂苷、黄酮等成分；不表示与光果甘草材料完全等同。包含安全性讨论的物种特定综述；不同甘草物种间不能直接转移结论。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          20
+        ]
+      }
+    }
+  },
+  {
+    "productId": "centella-asiatica",
+    "canonicalPath": "/plant-extracts/ingredients/centella-asiatica",
+    "name": {
+      "en": "Triterpene profile and route of use",
+      "zh": "三萜图谱与使用途径"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Triterpene profile and route of use",
+          "zh": "提取工艺：三萜图谱与使用途径"
+        },
+        "text": {
+          "en": "Request botanical part, extraction solvents, and individual asiaticoside, madecassoside and aglycone results where these are part of the brief. Clarify whether a total triterpene result is a sum of resolved peaks or another assay and disclose carriers. In the 2021 experiment, ethanol percentage, time and microwave power or ultrasound temperature affected recovery and the glycoside/aglycone profile. Maximum powder yield and maximum named-triterpene recovery were different targets. The selected tetraploid plant and laboratory conditions limit transfer to other lots; ask for a four-marker comparison when changing the route.",
+          "zh": "索取植物部位、提取溶剂，以及需求中涉及的积雪草苷、羟基积雪草苷及苷元结果。明确总三萜是分离峰求和还是其他检测，并披露载体。 2021年实验中，乙醇比例、时间及微波功率或超声温度影响回收和糖苷／苷元图谱。最大粉末得率与具体三萜最大回收是不同目标。所选多倍体植物及实验室条件限制对其他批次的推广；变更路线时应索取四标志物比较。"
+        },
+        "citations": [
+          12
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Microwave or ultrasound: optimize named triterpenes",
+          "zh": "微波还是超声：按具体三萜优化"
+        },
+        "text": {
+          "en": "The 2021 Centella experiment used microwave-assisted and ultrasound-assisted extraction with aqueous ethanol and HPLC measurement of four triterpenes. It found different optima for extract composition and recovery from dry plant. Thus the equipment comparison should state its objective: total powder yield, glycoside enrichment or recovery of individual markers. Ask for temperature distribution, solvent handling and a pilot-scale mass balance before selecting a microwave unit, ultrasonic reactor or conventional extraction vessel. A topical homogenizer or microneedle device belongs to formulation/delivery, not extraction; none is asserted to be ZL equipment.",
+          "zh": "2021年积雪草实验使用含水乙醇进行微波与超声辅助提取，并以 HPLC 测定四种三萜。研究中提取物组成与干植物中成分回收的最优条件不同。因此设备比较须先定义目标：粉末总得率、糖苷富集还是具体标志物回收。选微波装置、超声反应器或常规提取罐前，索取温度分布、溶剂管理与中试质量平衡。外用均质机或微针装置属于配方／递送，不是提取设备；此处均不表示振隆拥有这些设备。"
+        },
+        "citations": [
+          12
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Triterpene profile and route of use",
+          "zh": "应用试验：三萜图谱与使用途径"
+        },
+        "text": {
+          "en": "For a topical brief, assess compatibility with the actual pH, preservative, emulsion and packaging system. A wound-care paper may involve drug-like delivery devices and patient populations; it cannot support ordinary cosmetic or oral claims without separate review. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Centella asiatica triterpenes and topical delivery systems, including hydrogels and microneedles.",
+          "zh": "外用需求应在实际 pH、防腐剂、乳化与包装体系下评估相容性。创面护理论文可能涉及药物递送装置及患者群体；未经另行审核，不能支持普通化妆品或口服宣称。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：积雪草三萜及水凝胶、微针等外用递送体系；给药途径与饮料不同。"
+        },
+        "citations": [
+          21
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "EU cosmetic safety dossier is not a wound-treatment authorization",
+          "zh": "欧盟化妆品安全档案不是创面治疗许可"
+        },
+        "text": {
+          "en": "For an EU topical cosmetic, the Commission’s cosmetics framework points to a product safety report and claims requirements. Record the exact Centella part, extract composition, solvent and carrier in the finished formula assessment, alongside preservation and exposure. A triterpene assay or wound-care publication cannot replace that assessment. A wound-treatment presentation or an oral supplement is a separate classification and evidence question; check the destination’s applicable route rather than treating an INCI-style ingredient name as blanket permission.",
+          "zh": "欧盟外用化妆品需按委员会化妆品框架关注产品安全报告与声称要求。在成品配方评估中记录具体积雪草部位、提取物组成、溶剂与载体，并评估防腐和暴露。三萜检测或创面护理论文不能替代该评估。创面治疗定位或口服补充剂属于另一个分类和证据问题；应核对目的地适用路径，不能把类似 INCI 的原料名视为普遍许可。"
+        },
+        "citations": [
+          9,
+          21
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Triterpene profile and route of use",
+          "zh": "研究观察：三萜图谱与使用途径"
+        },
+        "text": {
+          "en": "Centella asiatica triterpenes and topical delivery systems, including hydrogels and microneedles. Topical wound-care literature; not evidence for food, oral beverages or general cosmetic claims. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "积雪草三萜及水凝胶、微针等外用递送体系；给药途径与饮料不同。外用创面护理文献；不是食品、口服饮料或普通化妆品宣称的直接证据。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          21
+        ]
+      }
+    }
+  },
+  {
+    "productId": "monk-fruit",
+    "canonicalPath": "/plant-extracts/ingredients/monk-fruit",
+    "name": {
+      "en": "Mogroside profile and sweetness system",
+      "zh": "罗汉果甜苷图谱与甜味体系"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Mogroside profile and sweetness system",
+          "zh": "提取工艺：罗汉果甜苷图谱与甜味体系"
+        },
+        "text": {
+          "en": "Separate fruit extract, mogroside-enriched extract and a blended tabletop sweetener in the purchasing brief. Ask for extraction, purification and drying stages, mogroside V and total mogroside methods, and the full blend composition. GRN 000706 describes one notifier’s water extraction and resin/ethanol purification before concentration and drying. Juice concentrate, enriched extract and formulated sweetener therefore must not be treated as a single route. Ask what is retained or removed in each stream, then compare mogroside V, other mogrosides, sugars and blend ingredients. The notice is not a universal manufacturing protocol.",
+          "zh": "采购需求须区分果实提取物、富集甜苷提取物与复配餐桌甜味剂。索取提取、纯化与干燥阶段、罗汉果甜苷 V 及总甜苷检测方法，并披露完整复配成分。 GRN 000706 描述一家申报方的水提与树脂／乙醇纯化，再浓缩干燥。果汁浓缩液、富集提取物和复配甜味剂不能视为同一路线。应问每股物流保留或去除什么，再比较甜苷 V、其他甜苷、糖及复配成分。通知不是通用生产规程。"
+        },
+        "citations": [
+          2
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Separate clarification, adsorption and drying duties",
+          "zh": "区分澄清、吸附与干燥任务"
+        },
+        "text": {
+          "en": "FDA’s GRN 000706 response describes the notifier’s hot-water extraction, filtration, adsorption-resin treatment, ethanol elution, concentration and spray drying; it is a specific disclosed route, not a recipe for all monk-fruit grades. In a supplier review, ask how a filter handles fruit solids and how a resin column changes the mogroside profile and removes accompanying material. An evaporator removes solvent; it does not replace selective adsorption. Compare liquid concentrate and spray-dried options against the intended blend, carrier and sensory brief. Request eluent recovery and resin-use documentation without assuming that ZL owns the equipment.",
+          "zh": "FDA 的 GRN 000706 回复描述申报方的热水提取、过滤、吸附树脂处理、乙醇洗脱、浓缩与喷雾干燥；这是特定披露路线，不是所有罗汉果规格的生产配方。供应商复核应询问过滤器如何处理果实固形物、树脂柱如何改变甜苷图谱并去除伴随物。蒸发器用于除去溶剂，不能替代选择性吸附。按复配组成、载体和感官目标比较浓缩液与喷干选项。索取洗脱剂回收和树脂使用记录，不假设振隆拥有这些设备。"
+        },
+        "citations": [
+          2
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Mogroside profile and sweetness system",
+          "zh": "应用试验：罗汉果甜苷图谱与甜味体系"
+        },
+        "text": {
+          "en": "Compare sweetness onset, lingering taste and botanical notes across acid and heat conditions. A fruit review does not establish the authorization of every enriched grade. This material is optional for a sweetened concept and deliberately excluded from the unsweetened tea concept. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Siraitia grosvenorii fruit constituents, with attention to mogrosides; grades are heterogeneous.",
+          "zh": "在不同酸度与热处理条件下比较甜味起始、后味及植物风味。果实综述不代表每个富集规格均被许可。此材料可供有甜味概念讨论，但明确不纳入无甜味剂茶概念。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：罗汉果果实成分，重点包括罗汉果甜苷；不同材料与商品规格并不相同。"
+        },
+        "citations": [
+          22
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "US notice-specific use is not global monk-fruit permission",
+          "zh": "美国通知特定用途不等于罗汉果全球许可"
+        },
+        "text": {
+          "en": "FDA’s GRN 000706 letter addresses the notifier’s extract and intended sweetener uses, with infant formula and USDA-jurisdiction foods excluded. It records FDA’s response to a GRAS conclusion, not approval of ZL material. Compare the proposed fruit extract, mogroside profile and blend against the actual notice before using it as regulatory background. The FDA sweetener overview does not establish EU or Chinese eligibility; for EU work consult the current novel-food route and exact preparation rather than translating a US letter into global permission.",
+          "zh": "FDA 的 GRN 000706 函针对申报方提取物及拟定甜味剂用途，排除婴儿配方和美国农业部管辖食品。它记录 FDA 对 GRAS 结论的回复，不是振隆材料批准。作为法规背景使用前，应将拟用果实提取物、甜苷图谱与复配组成对照具体通知。FDA 甜味剂概览不确立欧盟或中国资格；欧盟项目须核对现行新食品路径与具体制备物，不能将美国函件转译成全球许可。"
+        },
+        "citations": [
+          2,
+          3,
+          8
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Mogroside profile and sweetness system",
+          "zh": "研究观察：罗汉果甜苷图谱与甜味体系"
+        },
+        "text": {
+          "en": "Siraitia grosvenorii fruit constituents, with attention to mogrosides; grades are heterogeneous. Fruit chemistry and applications; the review does not establish local food permission or finished-product benefits. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "罗汉果果实成分，重点包括罗汉果甜苷；不同材料与商品规格并不相同。果实化学与应用综述；不能据此确定当地食品许可或成品的健康作用。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          22
+        ]
+      }
+    }
+  },
+  {
+    "productId": "stevia",
+    "canonicalPath": "/products/stevia",
+    "name": {
+      "en": "Individual steviol glycosides and origin",
+      "zh": "具体甜菊糖苷与来源"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Individual steviol glycosides and origin",
+          "zh": "提取工艺：具体甜菊糖苷与来源"
+        },
+        "text": {
+          "en": "Specify the individual glycoside profile and whether the offered material is leaf-extracted, enzymatically modified or produced through another route. Confirm extraction and purification solvents and the composition of any blend; a common sweetener name does not resolve process identity. The extraction review addresses process variables, while FDA distinguishes leaf/crude material from certain refined glycosides. A change in glycoside production route requires a fresh identity comparison rather than treating all stevia-derived powders as the same extract.",
+          "zh": "指定具体糖苷图谱，并明确材料属于叶片提取、酶改性还是其他生产路线。确认提取纯化溶剂及复配成分；通用甜味剂名称不能解决工艺身份问题。 提取综述讨论工艺变量，FDA 则区分叶／粗提材料与某些精制糖苷。糖苷生产路线变化后须重新比较身份，不能将所有甜菊来源粉末视为同一种提取物。具体糖苷分布与复配记录应贯穿样品变更。"
+        },
+        "citations": [
+          23
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Leaf extraction and alternative glycoside routes need different briefs",
+          "zh": "叶提取与其他糖苷路线需不同设备需求"
+        },
+        "text": {
+          "en": "The 2024 steviol-glycoside review covers extraction and purification technologies but its abstract does not establish equipment settings. First distinguish leaf extraction from fermentation-based or modified-glycoside production. For a leaf-derived brief, ask how solids separation and a proposed purification system change the individual glycoside profile, and request solvent recovery and drying-carrier information. Do not specify an extraction tank for a fermentation route or assume a dryer changes Reb A into Reb M. Compare pilot samples in the intended sweetener blend before accepting an equipment proposal.",
+          "zh": "2024年甜菊糖苷综述涵盖提取纯化技术，但摘要不确立设备参数。首先区分叶片提取与发酵或改性糖苷生产。针对叶提需求，询问固液分离及拟用纯化系统如何改变具体糖苷图谱，并索取溶剂回收与干燥载体信息。不能为发酵路线直接指定叶提罐，也不能认为干燥机可把 Reb A 变成 Reb M。接受设备方案前，应在拟用甜味剂复配体系中比较中试样品。"
+        },
+        "citations": [
+          23,
+          3
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Individual steviol glycosides and origin",
+          "zh": "应用试验：具体甜菊糖苷与来源"
+        },
+        "text": {
+          "en": "Use a sensory comparison in the actual acid, aroma and carbonation system before selecting a glycoside blend. Confirm local eligibility for that production route and grade. It is not an ingredient in the unsweetened tea concept and is not presented as a glucose-management product. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Stevia rebaudiana steviol glycosides and separation processes, not a tested finished formulation.",
+          "zh": "选定糖苷组合前，先在实际酸度、香气和碳酸体系中开展感官比较。确认该生产路线及规格的当地资格。此原料不纳入无甜味剂茶概念，也不定位为血糖管理产品。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：甜叶菊来源甜菊糖苷及分离工艺；并非经过验证的本公司终端配方。"
+        },
+        "citations": [
+          23
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "US refined glycosides are not crude stevia leaf",
+          "zh": "美国精制糖苷不等于粗制甜叶菊"
+        },
+        "text": {
+          "en": "FDA distinguishes certain high-purity steviol glycosides covered by GRAS notices from stevia leaf and crude extracts, which are not permitted as sweeteners in the US. Match the individual glycosides, production route and intended use to the relevant record; do not transfer a leaf-extract notice to every fermentation or modified grade. For EU or China projects request a separate additive/category and specification review. A supplier’s assay percentage is not evidence that the finished blend meets local labeling and use conditions.",
+          "zh": "FDA 区分 GRAS 通知涉及的某些高纯甜菊糖苷与甜叶菊叶及粗提物；后两者不允许在美国作为甜味剂使用。应将具体糖苷、生产路线和用途对照相关记录，不能把叶提通知推广到所有发酵或改性规格。欧盟或中国项目须另行开展添加剂类别与规格复核。供应商含量百分比不能证明成品复配符合当地标示与使用条件。"
+        },
+        "citations": [
+          3
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Individual steviol glycosides and origin",
+          "zh": "研究观察：具体甜菊糖苷与来源"
+        },
+        "text": {
+          "en": "Stevia rebaudiana steviol glycosides and separation processes, not a tested finished formulation. Extraction and purification technologies; operational choices require scale-specific validation. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "甜叶菊来源甜菊糖苷及分离工艺；并非经过验证的本公司终端配方。提取与纯化技术综述；工艺选择仍需按具体规模和目标产品进行验证。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          23
+        ]
+      }
+    }
+  },
+  {
+    "productId": "resveratrol",
+    "canonicalPath": "/products/resveratrol",
+    "name": {
+      "en": "Molecule identity versus botanical source",
+      "zh": "分子身份与植物来源"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Molecule identity versus botanical source",
+          "zh": "提取工艺：分子身份与植物来源"
+        },
+        "text": {
+          "en": "Request trans/cis identity, the source organism or synthesis route, purification stages and source-specific impurity controls. Distinguish pure compound, botanical extract and encapsulated grade, including all excipients, rather than matching only a headline assay. The delivery review covers derivatization and encapsulation as well as resveratrol itself. A chemically modified molecule is not simply a more concentrated botanical extract; a carrier-loaded powder needs an excipient and process record distinct from the purified compound.",
+          "zh": "索取顺反式身份、来源生物或合成路线、纯化阶段及来源相关杂质控制。应区分纯化合物、植物提取物与包埋规格并披露辅料，而不只是比较醒目的含量值。 递送综述除白藜芦醇本身，还涉及衍生化与包埋。化学修饰分子不是简单浓度更高的植物提取物；负载载体粉末需有区别于纯化合物的辅料及工艺记录。来源变化还应触发相应杂质项目复核。"
+        },
+        "citations": [
+          24
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Purification equipment and encapsulation equipment answer different questions",
+          "zh": "纯化与包埋设备回答不同问题"
+        },
+        "text": {
+          "en": "The resveratrol review describes solvent-evaporation nanoparticle methods and homogenization for emulsion systems; it also notes scale-up problems for some laboratory carriers. These are delivery approaches, not proof that a plain trans-resveratrol powder is dispersible. Ask separately about source-specific purification and a proposed homogenizer or encapsulation step, including solvent removal, excipients and particle characterization. Compare the formulated material against unformulated resveratrol under matched light and matrix conditions. Do not infer an installed nano-production line or clinical performance from the review.",
+          "zh": "白藜芦醇综述描述溶剂蒸发纳米粒方法及乳液均质，也指出某些实验室载体的放大问题。这些是递送策略，不证明普通反式白藜芦醇粉末易分散。应分别询问来源相关纯化与拟用均质／包埋步骤，包括溶剂去除、辅料与粒子表征。在相同光照和基质条件下比较配制材料与未配制白藜芦醇。不能从综述推断已安装纳米生产线或具备临床效果。"
+        },
+        "citations": [
+          24
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Molecule identity versus botanical source",
+          "zh": "应用试验：分子身份与植物来源"
+        },
+        "text": {
+          "en": "Screen dispersion, light exposure and precipitation in the actual matrix. Encapsulation studies investigate defined carriers and conditions; their results cannot be attributed to a plain powder. Confirm the intended oral or topical regulatory pathway before selecting a grade. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Resveratrol, modified molecules and carrier systems; laboratory and preclinical contexts vary.",
+          "zh": "在实际体系中筛选分散性、光照与析出。包埋研究针对特定载体和条件，其结果不能归于普通粉末。选型前确认拟定口服或外用途径的监管要求。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：白藜芦醇、修饰分子及载体体系；实验室与临床前条件不同，材料不可混同。"
+        },
+        "citations": [
+          24
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "Source, isomer and carrier belong in the regulatory identity",
+          "zh": "来源、异构体与载体应纳入监管身份"
+        },
+        "text": {
+          "en": "For an EU oral brief, verify the exact trans-resveratrol material and current novel-food authorization conditions rather than treating a botanical extract, synthesized compound and encapsulated grade as one authorization. The Commission catalogue cannot replace that check. For a US supplement, assess the preparation and manufacturing history under the NDI framework. The delivery review includes modified molecules and preclinical systems; it cannot establish that any of those materials are lawful food ingredients or support a disease claim.",
+          "zh": "欧盟口服需求应核查具体反式白藜芦醇材料及现行新食品授权条件，不能将植物提取物、合成化合物与包埋规格视作同一授权。委员会目录不能替代该核查。美国补充剂须按新膳食成分框架评估制备物及生产历史。递送综述包括修饰分子与临床前体系，不能确立其中材料均为合法食品原料，也不支持疾病声称。"
+        },
+        "citations": [
+          8,
+          7,
+          24
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Molecule identity versus botanical source",
+          "zh": "研究观察：分子身份与植物来源"
+        },
+        "text": {
+          "en": "Resveratrol, modified molecules and carrier systems; laboratory and preclinical contexts vary. Bioavailability approaches including derivatives and encapsulation; not proof of a standard powder performance. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "白藜芦醇、修饰分子及载体体系；实验室与临床前条件不同，材料不可混同。包括衍生化与包埋的生物利用度策略；不是普通粉末性能的验证依据。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          24
+        ]
+      }
+    }
+  }
+]

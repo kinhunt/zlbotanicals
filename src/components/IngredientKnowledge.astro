@@ -1,0 +1,14 @@
+---
+import {getIngredientKnowledge,dimensions} from '../data/ingredient-knowledge';
+import sources from '../data/ingredient-sources.json';
+import type {Language} from '../i18n/config';
+const {productId,lang}=Astro.props as {productId:string;lang:Language};
+const k=getIngredientKnowledge(productId);const zh=lang==='zh';
+const cited=[...new Set(dimensions.flatMap(d=>k.sections[d].citations))];
+---
+<div class="ingredient-knowledge" data-ingredient-content={k.productId}>
+ <p class="scope">{zh?'原料专属阅读 · 来源核查 2026-09-09。工艺与设备为文献实例或明确标示的供应商复核建议，不是本企业产线、通用规程或市场准入保证。':'Ingredient-specific reading · sources checked 2026-09-09. Processes and equipment are literature examples or explicitly proposed supplier-review questions, not our installed lines, universal procedures or market clearance.'}</p>
+ {dimensions.map(d=><section id={d} data-knowledge-dimension={d}><h2>{k.sections[d].heading[lang]}</h2><p>{k.sections[d].text[lang]} {k.sections[d].citations.map(n=><a href={`#ingredient-source-${n}`}>[{n}]</a>)}</p></section>)}
+ <section class="ingredient-sources"><h2>{zh?'本原料五维阅读来源':'Sources for this ingredient’s five dimensions'}</h2><p>{zh?'文献结果与编辑提出的采购问题应分开理解。摘要核查不等于逐项重评原始试验；机构指南不等于本产品获得许可。英文来源保留原始标题。':'Distinguish published results from editorial procurement questions. Abstract review is not reassessment of every underlying experiment; institutional guidance is not permission for this product. Original source titles are retained.'}</p><ol>{cited.map(n=>{const s=sources.find(s=>s.id===n)!;return <li id={`ingredient-source-${n}`} value={n}><a href={s.url} rel="noopener noreferrer">{s.title}</a> · {s.accessed}</li>})}</ol></section>
+</div>
+<style>.ingredient-knowledge{max-width:850px;line-height:1.85;margin-top:2rem}.ingredient-knowledge section{scroll-margin-top:7rem;margin:2rem 0}.ingredient-knowledge h2{font-size:1.45rem;font-weight:700;margin-bottom:.8rem}.ingredient-knowledge a{color:#345a27;text-decoration:underline;overflow-wrap:anywhere}.ingredient-knowledge ol{list-style:decimal;padding-left:1.5rem}.ingredient-knowledge li{margin:.65rem 0;scroll-margin-top:7rem}.scope{color:#53644e;font-size:.9rem}</style>
