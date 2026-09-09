@@ -36,7 +36,7 @@ test('three botanical science profiles have material boundaries, citations and I
   assert.ok(page.includes('data-research-card'));
   const cards=[...page.matchAll(/data-research-card data-ingredient="([^"]+)"/g)];
   assert.ok(cards.length && cards.every(c=>c[1].split(' ').includes(slug)));
-  assert.ok(page.includes('href="#science-source-'));
+  assert.ok(page.includes('href="#research-'));
   assert.ok(html(`${lang}products/${slug}`).includes(`href="/${path}"`),'product links back to its science profile');
   assert.ok(html(`${lang}research`).includes(`href="/${path}"`),'hub links to profile');
  }

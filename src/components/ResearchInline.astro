@@ -1,0 +1,6 @@
+---
+// Deliberately small inline grammar: everything else is rendered as escaped text.
+const {text,namespace}=Astro.props as {text:string;namespace:string};
+const parts=text.split(/(\[\d+\]|\*\*[^*]+\*\*)/g);
+---
+{parts.map(part=>/^\[\d+\]$/.test(part)?<a class="research-citation" href={`#${namespace}-${part.slice(1,-1)}`}>{part}</a>:part.startsWith('**')&&part.endsWith('**')?<strong>{part.slice(2,-2)}</strong>:part)}
