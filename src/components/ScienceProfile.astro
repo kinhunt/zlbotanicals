@@ -4,6 +4,8 @@ import sources from '../data/science-sources.json';
 import dossiers from '../data/product-dossiers.json';
 import concepts from '../data/odm.json';
 import ResearchCards from './ResearchCards.astro';
+import NewsCards from './NewsCards.astro';
+import IngredientKnowledge from './IngredientKnowledge.astro';
 import {getLocalizedPath,type Language} from '../i18n/config';
 const {id,lang}=Astro.props as {id:string;lang:Language};
 const profile=profiles.find(p=>p.id===id)!;
@@ -15,6 +17,7 @@ const cited=[...new Set(profile.blocks.flatMap(b=>b.citations))];
 <article class="science-profile reading">
  <p>{zh?'科学档案核查：2026-09-09。下述建议是编辑提出的比较与试验问题，不是供货规格或本公司试验结果。':'Science profile checked: 2026-09-09. Suggested comparisons and trial questions below are editorial proposals, not supply specifications or results of our own experiments.'}</p>
  {profile.blocks.map(b=><section id={b.id}><h2>{b.heading[lang]}</h2><p>{b.text[lang]}{b.citations.map(n=><a href={`#science-source-${n}`}>[{n}]</a>)}</p></section>)}
+ <IngredientKnowledge productId={id} lang={lang} />
  <section><h2>{zh?'从科学问题进入项目复核':'From scientific questions to project review'}</h2><ul>
   {profile.family&&<li><a href={local(`/plant-extracts/ingredients/${profile.family}`)}>{zh?'相关成分家族：定义与检测边界':'Related constituent family: definitions & assay boundaries'}</a></li>}
   <li><a href={local('/plant-extracts/basics/identity-and-traceability')}>{zh?'身份与追溯':'Identity & traceability'}</a></li>
@@ -28,4 +31,5 @@ const cited=[...new Set(profile.blocks.flatMap(b=>b.citations))];
  <section><h2>{zh?'档案来源与阅读范围':'Profile sources & reading scope'}</h2><p>{zh?'引用指向原始机构文件或论文记录。文献综述不是原始试验；未逐项重评底层研究。监管文件的引用只限材料与文件身份，不替代现行市场审查。':'Citations point to original institutional documents or paper records. Reviews are not primary experiments; underlying studies have not each been reassessed. Regulatory references identify materials and documents, not current market clearance.'}</p><ol>{cited.map(n=>{const r=sources.find(s=>s.id===n)!;return <li id={`science-source-${n}`} value={n}><a href={r.url} rel="noopener noreferrer">{r.title}</a> · {r.accessed}</li>})}</ol></section>
 </article>
 <ResearchCards lang={lang} products={[id]} />
+<NewsCards lang={lang} products={[id]} />
 <style>.science-profile{line-height:1.85}.science-profile section{scroll-margin-top:7rem;margin-top:2rem}.science-profile h2{font-size:1.45rem;font-weight:700;margin-bottom:.8rem}.science-profile a{color:var(--color-primary);text-decoration:underline}.science-profile ul{list-style:disc;padding-left:1.5rem}.science-profile li{margin-top:.6rem}.science-profile p{margin-top:.8rem}</style>

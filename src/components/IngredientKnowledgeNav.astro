@@ -1,0 +1,11 @@
+---
+import {getIngredientKnowledge,dimensions,dimensionLabels} from '../data/ingredient-knowledge';
+import {getLocalizedPath,type Language} from '../i18n/config';
+const {productId,lang}=Astro.props as {productId:string;lang:Language};
+const k=getIngredientKnowledge(productId);const zh=lang==='zh';
+---
+<nav data-ingredient-nav={k.productId} aria-label={zh?'本原料知识导航':'This ingredient’s knowledge'} class="ingredient-nav">
+ <p><strong>{zh?'本原料知识':'This ingredient’s knowledge'} — {k.name[lang]}</strong></p>
+ <div>{dimensions.map(d=><a href={`${getLocalizedPath(k.canonicalPath,lang)}#${d}`}>{dimensionLabels[d][lang]}</a>)}</div>
+</nav>
+<style>.ingredient-nav{margin:1.5rem 0}.ingredient-nav p{margin-bottom:.8rem}.ingredient-nav div{display:flex;flex-wrap:wrap;gap:.65rem}.ingredient-nav a{padding:.65rem .8rem;border:1px solid #b8cbb1;border-radius:6px;color:#345a27;text-decoration:underline;font-size:.9rem}</style>

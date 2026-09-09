@@ -1,0 +1,7 @@
+---
+import data from '../data/plant-extracts.json';
+import {getLocalizedPath,type Language} from '../i18n/config';
+const {lang}=Astro.props as {lang:Language};const zh=lang==='zh';
+---
+<details class="general-guides"><summary>{zh?'全部原料通用指南':'General guides for all ingredients'}</summary><p>{zh?'跨原料的原理与分类，不是本原料专属工艺。':'Cross-ingredient principles and taxonomy, not this ingredient’s specific process.'}</p><nav aria-label={zh?'全部原料通用指南':'General guides for all ingredients'}>{data.sections.map(s=><a href={getLocalizedPath(`/plant-extracts/${s.slug}`,lang)}>{s.translations[lang].title}</a>)}</nav></details>
+<style>.general-guides{margin:1.5rem 0 2rem;padding:1rem;border:1px solid #d2ddcd;border-radius:6px}.general-guides summary{cursor:pointer;font-weight:600}.general-guides p{margin:.7rem 0}.general-guides nav{display:flex;flex-wrap:wrap;gap:.7rem}.general-guides a{text-decoration:underline;color:#345a27;font-size:.85rem}</style>

@@ -1,6 +1,8 @@
 ---
 import ExtractionVideo from './ExtractionVideo.astro';
 import ScienceProfile from './ScienceProfile.astro';
+import IngredientKnowledgeNav from './IngredientKnowledgeNav.astro';
+import GeneralIngredientGuides from './GeneralIngredientGuides.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import data from '../data/plant-extracts.json';
 import {getLocalizedPath} from '../i18n/config';
@@ -32,7 +34,8 @@ const tasks=zh?['确认物种、部位和起始原料追溯','记录溶剂、载
    </div>
   </section>
   <div class="container-wide knowledge-body">
-   <nav class="section-tabs" aria-label={zh?'百科栏目':'Encyclopedia sections'}>{data.sections.map(s=><a href={`${root}/${s.slug}`} aria-current={section===s.slug?'true':undefined}>{s.translations[lang].title}</a>)}</nav>
+   <!-- Ingredient reading is primary; taxonomy remains discoverable but explicitly general. -->
+   {entry?.scienceId?<><IngredientKnowledgeNav productId={entry.scienceId} lang={lang} /><GeneralIngredientGuides lang={lang} /></>:<nav class="section-tabs" aria-label={zh?'百科栏目':'Encyclopedia sections'}>{data.sections.map(s=><a href={`${root}/${s.slug}`} aria-current={section===s.slug?'true':undefined}>{s.translations[lang].title}</a>)}</nav>}
    {!section&&<>
     <section class="reading"><h2>{zh?'什么是植物提取物？':'What is a plant extract?'}</h2>
      <p>{zh?'植物提取物是利用适宜介质把植物原料中的部分成分转移出来，常经分离、浓缩或干燥形成的制备物。它不是一个具有固定组成的单一类别。物种、植物部位、提取介质和后续加工共同影响最终材料。':'A plant extract is a preparation made by transferring selected constituents from botanical material into a suitable medium, often followed by separation, concentration or drying. It is not one category with a fixed composition. Species, plant part, extraction medium and downstream processing shape the resulting material.'} <a href={`${root}/basics`}>{zh?'阅读基础指南 →':'Read the basics →'}</a></p>

@@ -8,6 +8,7 @@ const rows=news.filter(n=>n.status==='reviewed' && (!products.length || n.produc
 <section id="industry-updates" class="mt-12 border-t pt-8">
  <h2 class="text-2xl font-bold">{zh?'行业与监管事件记录':'Industry & regulatory event record'}</h2>
  <p class="text-gray-600 mt-3">{zh?'非实时新闻流。当前未发布经核实的近期行业新闻；以下旧事件如有展示，均标明发生日期，不代表最新法规状态。':'Not a live news feed. No verified recent industry news is currently published. Historical events, where shown below, carry their event date and do not establish current regulatory status.'}</p>
+ {products.length>0&&rows.length===0&&<p class="mt-4 text-gray-600">{zh?'暂无与本原料匹配的已核查事件记录。可查看全部原料事件档案，但不应将其他原料的事件视为本原料动态。':'No reviewed event records match this ingredient. The all-ingredient archive remains available; events for other ingredients are not updates about this one.'}</p>}
  {rows.map(n=><article class="mt-5 p-6 bg-amber-50 rounded-xl"><p class="text-sm text-gray-700">{zh?'历史事件':'Historical event'} · <time datetime={n.eventDate}>{n.eventDate}</time> · {zh?'来源核查':'Source checked'} {n.reviewedAt}</p><h3 class="font-semibold text-lg mt-2"><a href={n.sourceUrl} class="underline">{n.title[lang]}</a></h3><p class="mt-3 text-gray-700">{n.summary[lang]}</p></article>)}
  <a class="inline-block mt-4 underline text-primary" href={getLocalizedPath('/resources/news',lang)}>{zh?'事件档案与更新原则':'Event archive & update policy'} →</a>
 </section>
