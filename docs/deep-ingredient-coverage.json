@@ -1,0 +1,296 @@
+[
+  {
+    "productId": "green-tea",
+    "pack": "group-a/green-tea.md",
+    "sourceIds": [
+      "a:1",
+      "a:2"
+    ],
+    "coverage": {
+      "en": {
+        "characters": 14264,
+        "han": 0,
+        "tables": 1,
+        "sections": 5
+      },
+      "zh": {
+        "characters": 5155,
+        "han": 3313,
+        "tables": 1,
+        "sections": 5
+      }
+    }
+  },
+  {
+    "productId": "centella-asiatica",
+    "pack": "group-a/centella.md",
+    "sourceIds": [
+      "a:3",
+      "a:4"
+    ],
+    "coverage": {
+      "en": {
+        "characters": 15434,
+        "han": 0,
+        "tables": 1,
+        "sections": 5
+      },
+      "zh": {
+        "characters": 5587,
+        "han": 3606,
+        "tables": 1,
+        "sections": 5
+      }
+    }
+  },
+  {
+    "productId": "monk-fruit",
+    "pack": "group-a/monk-fruit.md",
+    "sourceIds": [
+      "a:5",
+      "a:6",
+      "a:7",
+      "a:8"
+    ],
+    "coverage": {
+      "en": {
+        "characters": 16420,
+        "han": 0,
+        "tables": 1,
+        "sections": 5
+      },
+      "zh": {
+        "characters": 6083,
+        "han": 3947,
+        "tables": 1,
+        "sections": 5
+      }
+    }
+  },
+  {
+    "productId": "turmeric",
+    "pack": "group-b/turmeric.md",
+    "sourceIds": [
+      "b:4",
+      "b:7",
+      "b:10",
+      "b:11",
+      "b:13"
+    ],
+    "coverage": {
+      "en": {
+        "characters": 12772,
+        "han": 0,
+        "tables": 1,
+        "sections": 5
+      },
+      "zh": {
+        "characters": 4620,
+        "han": 3037,
+        "tables": 1,
+        "sections": 5
+      }
+    }
+  },
+  {
+    "productId": "reishi-mushroom",
+    "pack": "group-b/reishi.md",
+    "sourceIds": [
+      "b:5",
+      "b:9",
+      "b:12",
+      "b:13"
+    ],
+    "coverage": {
+      "en": {
+        "characters": 14028,
+        "han": 0,
+        "tables": 1,
+        "sections": 5
+      },
+      "zh": {
+        "characters": 4950,
+        "han": 3389,
+        "tables": 1,
+        "sections": 5
+      }
+    }
+  },
+  {
+    "productId": "ginseng",
+    "pack": "group-b/ginseng.md",
+    "sourceIds": [
+      "b:3",
+      "b:6",
+      "b:13",
+      "b:14",
+      "b:15"
+    ],
+    "coverage": {
+      "en": {
+        "characters": 14585,
+        "han": 0,
+        "tables": 1,
+        "sections": 5
+      },
+      "zh": {
+        "characters": 5243,
+        "han": 3560,
+        "tables": 1,
+        "sections": 5
+      }
+    }
+  },
+  {
+    "productId": "ginkgo-biloba",
+    "pack": "group-c/ginkgo-biloba.md",
+    "sourceIds": [
+      "c:2",
+      "c:4",
+      "c:21",
+      "c:28",
+      "c:46"
+    ],
+    "coverage": {
+      "en": {
+        "characters": 12370,
+        "han": 0,
+        "tables": 3,
+        "sections": 5
+      },
+      "zh": {
+        "characters": 4833,
+        "han": 3229,
+        "tables": 3,
+        "sections": 5
+      }
+    }
+  },
+  {
+    "productId": "grape-seed",
+    "pack": "group-c/grape-seed.md",
+    "sourceIds": [
+      "c:14",
+      "c:33",
+      "c:34",
+      "c:52"
+    ],
+    "coverage": {
+      "en": {
+        "characters": 12885,
+        "han": 0,
+        "tables": 3,
+        "sections": 5
+      },
+      "zh": {
+        "characters": 5183,
+        "han": 3399,
+        "tables": 3,
+        "sections": 5
+      }
+    }
+  },
+  {
+    "productId": "goji-berry",
+    "pack": "group-c/goji-berry.md",
+    "sourceIds": [
+      "c:9",
+      "c:10",
+      "c:20",
+      "c:37",
+      "c:39",
+      "c:43"
+    ],
+    "coverage": {
+      "en": {
+        "characters": 14614,
+        "han": 0,
+        "tables": 3,
+        "sections": 5
+      },
+      "zh": {
+        "characters": 5678,
+        "han": 3587,
+        "tables": 3,
+        "sections": 5
+      }
+    }
+  },
+  {
+    "productId": "licorice-root",
+    "pack": "group-d/licorice-root.md",
+    "sourceIds": [
+      "d:4",
+      "d:21",
+      "d:28",
+      "d:44",
+      "d:48"
+    ],
+    "coverage": {
+      "en": {
+        "characters": 10145,
+        "han": 0,
+        "tables": 3,
+        "sections": 5
+      },
+      "zh": {
+        "characters": 4876,
+        "han": 3204,
+        "tables": 3,
+        "sections": 5
+      }
+    }
+  },
+  {
+    "productId": "stevia",
+    "pack": "group-d/stevia.md",
+    "sourceIds": [
+      "d:6",
+      "d:7",
+      "d:8",
+      "d:24",
+      "d:34",
+      "d:36",
+      "d:37"
+    ],
+    "coverage": {
+      "en": {
+        "characters": 11155,
+        "han": 0,
+        "tables": 4,
+        "sections": 5
+      },
+      "zh": {
+        "characters": 5388,
+        "han": 3356,
+        "tables": 4,
+        "sections": 5
+      }
+    }
+  },
+  {
+    "productId": "resveratrol",
+    "pack": "group-d/resveratrol.md",
+    "sourceIds": [
+      "d:18",
+      "d:19",
+      "d:20",
+      "d:30",
+      "d:41"
+    ],
+    "coverage": {
+      "en": {
+        "characters": 12827,
+        "han": 0,
+        "tables": 4,
+        "sections": 5
+      },
+      "zh": {
+        "characters": 5976,
+        "han": 3736,
+        "tables": 4,
+        "sections": 5
+      }
+    }
+  }
+]

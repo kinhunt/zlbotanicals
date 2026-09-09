@@ -1,0 +1,1342 @@
+[
+  {
+    "namespace": "a:1",
+    "id": 1,
+    "ingredient": "green-tea",
+    "url": "https://doi.org/10.1002/fsn3.4161",
+    "access_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11266887/fullTextXML",
+    "title": "Green tea waste extraction comparison (2024)",
+    "type": "primary laboratory research",
+    "material_and_evidence_scope": "Dried Guiding Niaowang tea-processing waste; not spent infusion leaves; lab extraction; absolute batch charge not stated in inspected methods.",
+    "retrieved_on": "2026-09-09",
+    "evidence_file": "/data/hermes/research/deep-ingredients/group-a/evidence/source-1.txt",
+    "verbatim_evidence": "The HWE method involved subjecting the ground green tea waste to an extraction temperature of 80°C for 20 min. In the case of UAE, the sample was exposed to ultrasonic waves during the extraction process at the same temperature (80°C), frequency (20 kHz), power (120 W), and time (20 min). These conditions were chosen to ensure optimal extraction of the target polyphenolic compounds, particularly catechins, while minimizing the degradation of heat‐sensitive components. On the other hand, ethanol "
+  },
+  {
+    "namespace": "a:2",
+    "id": 2,
+    "ingredient": "green-tea",
+    "url": "https://eur-lex.europa.eu/eli/reg/2022/2340",
+    "access_url": "https://eur-lex.europa.eu/eli/reg/2022/2340",
+    "title": "Commission Regulation (EU) 2022/2340",
+    "type": "official legislation",
+    "material_and_evidence_scope": "EGCG-containing green tea extracts in food; exclusions and labelling in original 2022 act.",
+    "retrieved_on": "2026-09-09",
+    "evidence_file": "/data/hermes/research/deep-ingredients/group-a/evidence/source-2.txt",
+    "verbatim_evidence": "Daily portion of food shall contain less than 800 mg of (-)-epigallocatechin-3-gallate The label shall provide the maximum number of portions of the food for daily consumption and a warning not to consume a daily amount of 800 mg of (-)-epigallocatechin-3-gallate or more. The label shall indicate the content of (-)- epigallocatechin-3-gallate per portion of the food. The label shall include the following warnings: “Should not be consumed if you are consuming other products containing green tea o"
+  },
+  {
+    "namespace": "a:3",
+    "id": 3,
+    "ingredient": "centella",
+    "url": "https://doi.org/10.1016/j.ultsonch.2024.107091",
+    "access_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11490722/fullTextXML",
+    "title": "Ultrasound-assisted solvent extraction of Centella leaves (2024)",
+    "type": "primary laboratory research",
+    "material_and_evidence_scope": "Authenticated Pakistan leaves; 2 g / 50 mL; five solvents; methanol is not an edible-process recommendation.",
+    "retrieved_on": "2026-09-09",
+    "evidence_file": "/data/hermes/research/deep-ingredients/group-a/evidence/source-3.txt",
+    "verbatim_evidence": "each 2 g of leaf powder was mixed with 50 ml of five different solvents (Chloroform, Hexane, Methanol, Ethyl acetate, and Water), separately in a 100 ml flask. The general processing conditions of ultrasonicator were 40 kHz frequency, 25 °C temperature, and 15 min time. Theoretically, the energy input of the ultrasonicator was 250 W. For regulation of temperature of each sample, a water bath was used. After sonication, each sample was centrifuged at 25 °C and the resultant supernatants were filt"
+  },
+  {
+    "namespace": "a:4",
+    "id": 4,
+    "ingredient": "centella",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-report/assessment-report-centella-asiatica-l-urb-herba-revision-1_en.pdf",
+    "access_url": "https://www.ema.europa.eu/en/documents/herbal-report/assessment-report-centella-asiatica-l-urb-herba-revision-1_en.pdf",
+    "title": "EMA Centella assessment report revision 1 (2022)",
+    "type": "official assessment",
+    "material_and_evidence_scope": "Herbal aerial parts, preparations, named refined fractions; pharmacopoeia 10th edition quoted by EMA, not independent access to current monograph.",
+    "retrieved_on": "2026-09-09",
+    "evidence_file": "/data/hermes/research/deep-ingredients/group-a/evidence/source-4.txt",
+    "verbatim_evidence": "According to the European Pharmacopoeia the herbal substance consists of the dried, fragmented \naerial parts, containing minimum 6% of total triterpenoid derivatives, expressed as asiaticoside \n(C48H78O19; Mr 959.15) (IUPAC name: O-6-Deoxy-α-L-mannopyranosyl-(1→4)-O-β-D-glucopyranosyl-\n(1→6)-β-D-glucopyranosyl 2α,3β,23-trihydroxy-4α-urs-12-en-28-oate) (Ph. Eur. 10th ed., ref.: 1498). \nIn addition to about 0.1% essential oils and other volatile constituents, Centella asiatica contains a \nwide ran"
+  },
+  {
+    "namespace": "a:5",
+    "id": 5,
+    "ingredient": "monk-fruit",
+    "url": "https://doi.org/10.2903/j.efsa.2019.5921",
+    "access_url": "https://pdfs.semanticscholar.org/b54c/8ce99ea0d1ced656cacc1ace1d43a7af06fb.pdf",
+    "title": "EFSA monk fruit additive assessment (2019)",
+    "type": "official scientific assessment",
+    "material_and_evidence_scope": "Applicant extracts 25–55% mogroside V; manufacturing and model stability from dossier, not independently inspected production.",
+    "retrieved_on": "2026-09-09",
+    "evidence_file": "/data/hermes/research/deep-ingredients/group-a/evidence/source-5.txt",
+    "verbatim_evidence": "The removal of saccharides in the monk fruit extracts occurs during the removal of impurities at the\nresin\nadsorption\nand\nelution\nsteps.\nDuring\nthe\nmanufacturing\nprocess,\nMonk\nfruit-25%,\nthe\nconcentrated liquid goes only through resin adsorption process that does not completely remove all\nsaccharides, therefore it still contains 3–6% of saccharides, including glucose, fructose and sucrose.\nThe manufacturing process for monk fruit extracts richer in mogroside V has a puriﬁcation step\nthrough an a"
+  },
+  {
+    "namespace": "a:6",
+    "id": 6,
+    "ingredient": "monk-fruit",
+    "url": "https://hfpappexternal.fda.gov/scripts/fdcc/index.cfm?id=301&set=grasnotices",
+    "access_url": "https://hfpappexternal.fda.gov/scripts/fdcc/index.cfm?id=301&set=grasnotices",
+    "title": "FDA GRN 301 record",
+    "type": "official regulatory record",
+    "material_and_evidence_scope": "Specific notified SGFE intended uses and FDA no-questions closure; not blanket approval.",
+    "retrieved_on": "2026-09-09",
+    "evidence_file": "/data/hermes/research/deep-ingredients/group-a/evidence/source-6.txt",
+    "verbatim_evidence": "For use as a sweetener and flavor enhancer in foods, excluding meat and poultry products, at levels determined by current good manufacturing practice, as well as use as a table top sweetener"
+  },
+  {
+    "namespace": "a:7",
+    "id": 7,
+    "ingredient": "monk-fruit",
+    "url": "https://www.food.gov.uk/other/non-selective-aqueous-decoctions-of-monk-fruit-determination-of-the-status-of-a-novel-food-pursuant-to-article-42-of-assimilated",
+    "access_url": "https://www.food.gov.uk/other/non-selective-aqueous-decoctions-of-monk-fruit-determination-of-the-status-of-a-novel-food-pursuant-to-article-42-of-assimilated",
+    "title": "FSA non-selective monk fruit decoctions decision (2024)",
+    "type": "official determination",
+    "material_and_evidence_scope": "England and Wales; non-selective aqueous fresh/dried-fruit decoctions only.",
+    "retrieved_on": "2026-09-09",
+    "evidence_file": "/data/hermes/research/deep-ingredients/group-a/evidence/source-7.txt",
+    "verbatim_evidence": "The FSA determines that non-selective aqueous decoctions of monk fruit (made from the fresh and dried fruit of the plant Siraitia grosvenorii) are **not a novel food**.\n\n## Reasons statement\n\nThe FSA was provided with evidence of a history of consumption of non-selective aqueous decoctions of monk fruit (made from the fresh and dried fruit of the plant Siraitia grosvenorii) within the UK and the EU.\n\nThe evidence, considered in its totality, was deemed sufficient to demonstrate a significant his"
+  },
+  {
+    "namespace": "a:8",
+    "id": 8,
+    "ingredient": "monk-fruit",
+    "url": "https://doi.org/10.1016/j.jfda.2019.05.001",
+    "access_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1016/j.jfda.2019.05.001&format=json&resultType=core",
+    "title": "Biotransformation and MG III E resin purification (2020)",
+    "type": "primary research abstract",
+    "material_and_evidence_scope": "Ganoderma biotransformed fruit extract; HP-20; abstract-level results only; 17.38 g reported harvest not industrial validation.",
+    "retrieved_on": "2026-09-09",
+    "evidence_file": "/data/hermes/research/deep-ingredients/group-a/evidence/source-8.txt",
+    "verbatim_evidence": "The purity of MG III E was increased from 11.71% to 54.19%, with a 70%-76% recovery rate, and the scaled-up purification process allowed us to harvest 17.38 g of MG III E with 55.14% purity and a 74.71% of recovery rate. Therefore, our low cost, time-saving, easy to scale-up procedure for isolating MG III E could be applicable in industrial processes."
+  },
+  {
+    "namespace": "b:3",
+    "id": 3,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6190498",
+    "title": "Influence of organic acids and heat treatment on ginsenoside conversion - PMC",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "equal amounts of ginseng and crude saponin powder (0.5 g) were first weighed in their respective capped glass vials, prior to adding 3.0 mL distilled water. In order to induce more changes than the general processing temperatures (below 100°C), these samples were then heated in an oil bath with a temperature controller (Changshin Science Co., Seoul, Korea) at 130°C for 1–5 h. Ginsenoside Rb 1  standard was prepared according to the following procedure: 100 μL of a 0.5mM ginsenoside Rb 1  solutio",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "ginsenoside Rb 1  standard with different organic acids were treated at 130°C, and the chemical components, including ginsenosides and organic acids, were analyzed. Results The organic acid content in raw ginseng was 5.55%. Organic acids were not detected in crude saponin that was not subjected to heat treatment, whereas organic acids were found in crude saponin subjected to heat treatment. Major ginsenosides (Rb 1 , Re, and Rg 1 ) in ginseng and crude saponin were converted to minor ginsenoside",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "5.55%. Organic acids were not detected in crude saponin that was not subjected to heat treatment, whereas organic acids were found in crude saponin subjected to heat treatment. Major ginsenosides (Rb 1 , Re, and Rg 1 ) in ginseng and crude saponin were converted to minor ginsenosides at 130°C; the ginsenoside Rb 1  standard was very stable in the absence of organic acids and was converted into minor ginsenosides in the presence of organic acids at high temperatures. Conclusion The major factor a",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "100 μL of a 0.5mM ginsenoside Rb 1  solution with 2mM citric, malic, and succinic acids was placed in a 100-μL microcapillary glass pipet (Kimble Chase Life Science and Research Products LLC., Rockwood, TN, USA), and the pipet was sealed using a torch lamp; the pipets containing the ginsenoside solutions were used as the samples. The pipets containing the ginsenoside solutions were heated in an oil bath with a temperature controller (Changshin Science Co., Seoul, Korea) at 130°C for 1 h. The ginsenoside composition of these samples was analyzed. 2.6. Organic acid contents of ginseng and crude saponin upon heat treatment The organic acid content of the samples was analyzed  [19] . Five grams of raw and heated ginseng was extracted with 40 mL of distilled water using a sonicator at 40°C for 1 h; crude and heated crude saponin samples were d",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Forty milliliters of an 80% (v/v) ethanol/water solution was added to flasks containing ginseng; the flasks were sonicated at 40°C for 30 min using an ultrasonicator (WUC-D22H; Daihan Scientific, Wonju-si, South Korea). Three replicate extracts were combined and evaporated using an evaporator (N-1000; Eyela, Tokyo, Japan) at 40°C. The resulting residue was dissolved in 40 mL distilled water and defatted with diethyl ether in a separatory funnel. The defatted aqueous layer was extracted three times with 40 mL water-saturated  n -butyl alcohol. The  n -butanol layer was evaporated at 50°C, and the resulting residue was dissolved in distilled water. The dissolved extract was dried using a freeze dryer (FD5508; Ilshin BioBase, Yangju, Korea), and the dried extract was subjected to analysis. The crude saponin content (mg/g ginseng) and ginseno",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "malonyl ginsenosides and neutral ginsenosides comprised 51.24% and 48.76% of the total ginsenoside content (34.78 mg/g), respectively. The malonyl ginsenoside Rb 1  (m-Rb 1 ), m-Rc, m-Rb 2 , m-Rb 3 , m-Rd, Rg 1 , Re, Rf, Rb 1 , Rc, Rg 2 (S), Rb 2 , Rb 3 , and Rd contents in raw ginseng were 9.27 mg/g, 3.98 mg/g, 2.47 mg/g, 0.45 mg/g, 1.65 mg/g, 3.29 mg/g, 4.31 mg/g, 1.21 mg/g, 4.56 mg/g, 0.63 mg/g, 1.32 mg/g, 0.88 mg/g, 0.17 mg/g, and 0.59 mg/g, respectively. Malonyl ginsenosides, which have a malonyl group at C-3 in protopanaxadiol, are unstable at high temperatures, and are readily converted into neutral ginsenosides through demalonylation upon thermal treatment  [20] . Therefore, the neutral ginsenoside content may increase because of the demalonylation of malonyl ginsenosides. Fig. 2 Ginsenoside composition of raw ginseng without heat",
+        "added": "2026-09-09"
+      }
+    ],
+    "evidence_file": "evidence-3.txt",
+    "kind": "primary laboratory study",
+    "ingredients": [
+      "ginseng"
+    ],
+    "retrieval": "Europe PMC fullTextXML API after partial PMC extraction",
+    "retrieval_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6190498/fullTextXML",
+    "material": "Four-year-old P. ginseng purchased in Jeungpyeong Korea in 2013; washed, frozen −18°C 24 h, freeze-dried, hammer-milled; crude saponin fraction and Rb1 standard separately studied.",
+    "scale": "0.5 g powder + 3.0 mL water in capped glass vials, oil bath 130°C 1–5 h. Standard: 100 μL of 0.5 mM Rb1 with 2 mM individual organic acids, sealed microcapillary, 130°C 1 h.",
+    "supports": [
+      "Organic-acid-dependent conversion",
+      "Malonyl/neutral ginsenoside distinction",
+      "Analytical fractionation solvents and method",
+      "5.55% organic acids in this raw material"
+    ],
+    "not_supports": [
+      "Industrial whole-root steaming recipe",
+      "Any other Panax species",
+      "Clinical benefit",
+      "Starting solid mass for the crude-saponin extraction subsection is not explicit"
+    ],
+    "used_in_drafts": true
+  },
+  {
+    "namespace": "b:4",
+    "id": 4,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215",
+    "title": "Ostwald Ripening Stability of Curcumin-Loaded MCT Nanoemulsion: Influence of Various Emulsifiers",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Preparation of curcumin-loaded nanoemulsions Emulsions were prepared using the modified method of Ahmed et al. ( 33 ). The emulsifier systems used were based on the results of Park et al. ( 32 ) and were as follows: 10 wt% Tween-20 (control), 4 wt% SM+6 wt% Tween-20, and 4 wt% SL+6 wt% Tween-20. The total amount of each emulsifier (Tween-20, SM, and SL) was fixed at 10 wt%, and each was dissolved into the appropriate phase (aqueous or oil) depending on its polarity. An aqueous phase was prepared",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "89.08 nm for the nanoemulsion with 10 wt% Tween-20 (control), and when Tween-20 was partially replaced with SM and SL, the size decreased: 73.43 nm with 4 wt% SM+6 wt% Tween-20 and 67.68 nm with 4 wt% SL+6 wt% Tween-20 (prepared at 15,000 psi). When the nanoemulsions were stored for 28 days at room temperature, the droplet size increased as the storage time increased. The largest increase was observed for the control nanoemulsion, followed by the 4 wt% SL+6 wt% Tween-20 and 4 wt% SM+6 wt% Tween-",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "The aqueous and oil phases were premixed using a L4RT mixer (L4RT, Silverson Machines Ltd., Chesham, UK) at 8,000 rpm for 5 min. This premix was homogenized by M-110Y (Microfluidics, Newton, MA, USA) at various pressures (5,000, 10,000, and 15,000 psi) for 4 cycles to prepare the final O/W nanoemulsions (10 wt% emulsifier, 10 wt% oil, and 20 mM bis-tris buffer). Measurements of droplet size in curcumin-loaded nanoemulsions The droplet size in the curcumin-loaded nanoemulsions was measured by dynamic light scattering using a laser particle size analyzer (Zetasizer Nano ZS, Malvern Instruments Ltd., Malvern, UK). Emulsion samples were diluted 1,000-fold with 20 mM bis-tris buffer (0.02 wt% sodium azide, pH 7.0) to avoid multiple light scattering. The measurements were performed in triplicate at room temperature. Emulsion stability measureme",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "89.08 nm for the nanoemulsion with 10 wt% Tween-20 (control), and when Tween-20 was partially replaced with SM and SL, the size decreased: 73.43 nm with 4 wt% SM+6 wt% Tween-20 and 67.68 nm with 4 wt% SL+6 wt% Tween-20 (prepared at 15,000 psi). When the nanoemulsions were stored for 28 days at room temperature, the droplet size increased as the storage time increased. The largest increase was observed for the control nanoemulsion, followed by the 4 wt% SL+6 wt% Tween-20 and 4 wt% SM+6 wt% Tween-20 systems. The Turbiscan dispersion stability results strongly supported the relationship between droplet size and storage time. The time-dependent increase in droplet size was attributed to the Ostwald ripening phenomenon. Thus, the Ostwald ripening stability of curcumin-loaded MCT nanoemulsions with Tween-20 was considerably improved by partiall",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "0.02 wt% sodium azide, pH 7.0) and the hydrophilic emulsifier (Tween-20). Curcumin (0.15 wt% in emulsion) was added to the MCT oil and dissolved at 70°C with constant stirring and sonication. The lipophilic emulsifiers (SM and SL) were added to a curcumin-containing oil phase, which was then stirred at 70°C for 30 min. The aqueous and oil phases were premixed using a L4RT mixer (L4RT, Silverson Machines Ltd., Chesham, UK) at 8,000 rpm for 5 min. This premix was homogenized by M-110Y (Microfluidics, Newton, MA, USA) at various pressures (5,000, 10,000, and 15,000 psi) for 4 cycles to prepare the final O/W nanoemulsions (10 wt% emulsifier, 10 wt% oil, and 20 mM bis-tris buffer). Measurements of droplet size in curcumin-loaded nanoemulsions The droplet size in the curcumin-loaded nanoemulsions was measured by dynamic light scattering using a",
+        "added": "2026-09-09"
+      }
+    ],
+    "evidence_file": "evidence-4.txt",
+    "kind": "primary formulation laboratory study",
+    "ingredients": [
+      "turmeric"
+    ],
+    "retrieval": "Europe PMC fullTextXML API; original PMC extraction empty",
+    "retrieval_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5063215/fullTextXML",
+    "material": "Purchased curcumin in MCT model emulsions; 0.15 wt% curcumin, 10 wt% oil, 10 wt% emulsifier; bis-tris pH 7 buffer containing sodium azide.",
+    "scale": "Total batch mass not stated. Premix 8000 rpm 5 min; 5000/10000/15000 psi four cycles.",
+    "supports": [
+      "Emulsifier-dependent initial droplet size",
+      "28-day room-temperature growth",
+      "Extraction versus dispersion distinction"
+    ],
+    "not_supports": [
+      "Edible commercial recipe: contains 0.02 wt% sodium azide",
+      "Industrial capacity",
+      "Human absorption",
+      "Clear acidic beverage or commercial heat-process stability"
+    ],
+    "used_in_drafts": true
+  },
+  {
+    "namespace": "b:5",
+    "id": 5,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26957216",
+    "title": "Measurement of β-Glucan in Mushrooms and Mycelial Products",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Total glucan (plus free glucose and glucose from sucrose) was measured using controlled acid hydrolysis with H2SO4 and the glucose released specifically was measured using glucose oxidase/peroxidase reagent. α-Glucan (starch/glycogen) plus free glucose and glucose from sucrose were specifically measured after hydrolysis of starch/glycogen to glucose with glucoamylase and sucrose to glucose plus fructose with invertase and the glucose specifically measured with GOPOD reagent. β-Glucan was determi",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "β-Glucan was determined by the difference. Several acid and enzyme-based methods for the hydrolysis of the β-glucan were compared, and the best option was the method using H2SO4. For most samples, similar β-glucan values were obtained with both the optimized HCl and H2SO4 PROCEDURES: However, in the case of certain samples, specifically Ganoderma lucidum and Poria cocus, the H2SO4 procedure resulted in significantly higher values. Hydrolysis with 2 N trifluoroacetic acid at 120°C was found to be",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "For most samples, similar β-glucan values were obtained with both the optimized HCl and H2SO4 PROCEDURES: However, in the case of certain samples, specifically Ganoderma lucidum and Poria cocus, the H2SO4 procedure resulted in significantly higher values. Hydrolysis with 2 N trifluoroacetic acid at 120°C was found to be much less effective than either of the other two acids evaluated. Assays based totally on enzymatic hydrolysis, in general, yielded much lower values than those obtained with the H2SO4 procedure. MeSH terms Hydrolysis Reishi / chemistry* Reishi / metabolism Wolfiporia / chemistry* Wolfiporia / metabolism beta-Glucans / analysis* beta-Glucans / metabolism Substances beta-Glucans",
+        "added": "2026-09-09"
+      }
+    ],
+    "evidence_file": "evidence-5.txt",
+    "kind": "primary analytical method paper, abstract",
+    "ingredients": [
+      "reishi"
+    ],
+    "retrieval": "PubMed extracted abstract",
+    "material": "Mushrooms and mycelial products; abstract specifically names G. lucidum and Poria examples.",
+    "scale": "Analytical-method comparison; individual sample masses not available in retrieved abstract.",
+    "supports": [
+      "Beta-glucan determined by total-minus-alpha framework",
+      "Acid and enzymatic hydrolysis method effects"
+    ],
+    "not_supports": [
+      "Universal beta-glucan specification",
+      "Species or substrate authentication from one assay",
+      "Full SOP or current method-version equivalence"
+    ],
+    "used_in_drafts": true
+  },
+  {
+    "namespace": "b:6",
+    "id": 6,
+    "url": "https://ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+    "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "White ginseng: \na) Comminuted herbal substance \nb) Powdered herbal substance \nc) Dry extract (DER 2-7:1), extraction solvent \nethanol 34-40% V/V \nd) Dry extract (DER 3-7:1), extraction \nsolvent ethanol 40% V/V, containing 4% \nginsenosides (sum of Rb1, Rb2, Rc, Rd, Re, \nRf, Rg1, Rg2) \ne) Dry extract (DER 3-7:1), extraction \nsolvent ethanol 57.9% V/V (=50% \nm/m)-60% V/V \nf) Dry extract (DER 3.3-5:1), extraction \nsolvent methanol 60% V/V \ng) Soft extract (DER 1.7-3.2:1), \nextraction solvent ethanol",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Red Ginseng: \nk) Powdered herbal substance \nl) Dry extract (DER 2-4.5:1), extraction \nsolvent ethanol 60% V/V \nm) Soft extract (DER 2.5-3.2:1), extraction \nsolvent ethanol 60% V/V \n3.  Pharmaceutical form \n \nWell-established use  Traditional use  \n Comminuted herbal substance (herbal \npreparation a)) as herbal tea for oral use.  \nHerbal preparations f), k), l) in solid dosage \nforms for oral use.  \nHerbal preparations g), h), i), j), m) in liquid \ndosage forms for oral use.  \nHerbal preparations",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "4% \nginsenosides (sum of Rb1, Rb2, Rc, Rd, Re, \nRf, Rg1, Rg2) \ne) Dry extract (DER 3-7:1), extraction \nsolvent ethanol 57.9% V/V (=50% \nm/m)-60% V/V \nf) Dry extract (DER 3.3-5:1), extraction \nsolvent methanol 60% V/V \ng) Soft extract (DER 1.7-3.2:1), \nextraction solvent ethanol 60%-70% \nV/V \nh) Soft extract (DER 2-6:1), extraction \nsolvent methanol 30% V/V \ni) Liquid extract (DER 1: 0.8-1.2), \nextraction solvent ethanol 30.5% V/V \n \n1 The declaration of the active substance(s) for an individual",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "White ginseng: \na) Comminuted herbal substance \nb) Powdered herbal substance \nc) Dry extract (DER 2-7:1), extraction solvent \nethanol 34-40% V/V \nd) Dry extract (DER 3-7:1), extraction \nsolvent ethanol 40% V/V, containing 4% \nginsenosides (sum of Rb1, Rb2, Rc, Rd, Re, \nRf, Rg1, Rg2) \ne) Dry extract (DER 3-7:1), extraction \nsolvent ethanol 57.9% V/V (=50% \nm/m)-60% V/V \nf) Dry extract (DER 3.3-5:1), extraction \nsolvent methanol 60% V/V \ng) Soft extract (DER 1.7-3.2:1), \nextraction solvent ethanol 60%-70% \nV/V \nh) Soft extract (DER 2-6:1), extraction \nsolvent methanol 30% V/V \ni) Liquid extract (DER 1: 0.8-1.2), \nextraction solvent ethanol 30.5% V/V \n \n1 The declaration of the active substance(s) for an individual finished product should be in accordance with relevant herbal \nquality guidance. \n2 The material complies with the Ph. Eur. mono",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Red Ginseng: \nk) Powdered herbal substance \nl) Dry extract (DER 2-4.5:1), extraction \nsolvent ethanol 60% V/V \nm) Soft extract (DER 2.5-3.2:1), extraction \nsolvent ethanol 60% V/V \n3.  Pharmaceutical form \n \nWell-established use  Traditional use  \n Comminuted herbal substance (herbal \npreparation a)) as herbal tea for oral use.  \nHerbal preparations f), k), l) in solid dosage \nforms for oral use.  \nHerbal preparations g), h), i), j), m) in liquid \ndosage forms for oral use.  \nHerbal preparations b), c), d), e) in solid and \nliquid dosage forms for oral use.  \nThe pharmaceutical form should be described by \nthe European Pharmacopoeia full standard term. \n4.  Clinical particulars  \n4.1.  Therapeutic indications \nWell-established use  Traditional use  \n Traditional herbal medicinal product for \nsymptoms of asthenia such as fatigue and \nweakn",
+        "added": "2026-09-09"
+      }
+    ],
+    "evidence_file": "evidence-6.txt",
+    "kind": "official herbal medicinal monograph",
+    "ingredients": [
+      "ginseng"
+    ],
+    "retrieval": "Official PDF downloaded and fully parsed with pypdf after truncated web extraction",
+    "material": "P. ginseng root, listed white/red medicinal preparations",
+    "scale": "Not an experiment; 29 May 2024 final revision 1.",
+    "supports": [
+      "Specific DER/solvent definitions",
+      "Explicit eight-ginsenoside sum for one 4% white-ginseng preparation",
+      "Traditional-use legal context"
+    ],
+    "not_supports": [
+      "Conventional food authorization",
+      "Black ginseng blanket coverage",
+      "Recommended factory extraction conditions",
+      "Beverage dose or fatigue claim"
+    ],
+    "used_in_drafts": true
+  },
+  {
+    "namespace": "b:7",
+    "id": 7,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953",
+    "title": "Extractability of Curcuminoids Is Enhanced with Milk and Aqueous-Alcohol Mixtures",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "turmeric samples (100 ± 0.5 mg) were placed into disposable 15 mL centrifuge tubes and extracted with 5 mL of different kinds of ambient and warm milks (70–80 °C) and various aqueous ethanol (ambient) solvent mixtures (ambient temperature) in triplicates. All samples were vortexed for about 15 s and extracted for 5 min using ultrasound-assisted extraction. All extracts were centrifuged for 10 min at 4000×  g  and filtered through a 0.45 μm PVDF syringe filter prior to the analysis. For milk extr",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "32.22 mg/g), as it was comparable to that of 100% ethanol (34.26 mg/g). Figure 2 Extractability of three bioactive curcuminoids, curcumin (CUR), demethoxycurcumin (DMC), and bisdemethoxycurcumin (BMC) in different aqueous-alcohol solutions (0, 4, 10, 20, 30, 40, 50, and 100% aq. alcohols). The error bars denote the standard deviation of triplicates. Levels not represented by the same letter (a, b, c, d, e, or f) are significantly different based on one-way ANOVA. In this study, we also evaluated",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "50% ethanol (32.22 mg/g), as it was comparable to that of 100% ethanol (34.26 mg/g). Figure 2 Extractability of three bioactive curcuminoids, curcumin (CUR), demethoxycurcumin (DMC), and bisdemethoxycurcumin (BMC) in different aqueous-alcohol solutions (0, 4, 10, 20, 30, 40, 50, and 100% aq. alcohols). The error bars denote the standard deviation of triplicates. Levels not represented by the same letter (a, b, c, d, e, or f) are significantly different based on one-way ANOVA. In this study, we also evaluated the solubility of individual curcuminoids to that of total curcuminoids, with various aq. ethanol mixtures (4–100%) The number of individual curcuminoids extracted varied significantly with different aqueous-alcohol mixtures. For instance, the % of CUR, DMC, and BMC extracted in 4% ethanol were 21, 24, and 55%, respectively. Similarly",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "3.1. Materials All chemicals, solvents, milk (homogenized/whole milk (10% DV (daily value) fat), 2% reduced-fat (6% DV fat) milk, low-fat (3% DV fat) milk, fat-free milk, soy milk, almond milk, coconut milk, and milkadamia milk), and turmeric powder were purchased from commercial sources and used without purification. CUR, DMC, and BMC standards were purchased from Sigma-Aldrich Chemical Co. (St. Louis, MO, USA). Deionized water (18 Ω) was obtained using a Millipore Milli-Q purification system (New Bedford, MA, USA). LC−MS grade acetonitrile and water were purchased from Fischer Scientific (Pittsburg, PA, USA). HPLC grade pure ethanol 200-proof was purchased from Sigma-Aldrich Chemical Co. (St. Louis, MO, USA).  Table 2  contains the nutrient label data on the milk samples. Extractions were carried out in 15 mL disposable polypropylene ce",
+        "added": "2026-09-09"
+      }
+    ],
+    "evidence_file": "evidence-7.txt",
+    "kind": "primary analytical extraction study",
+    "ingredients": [
+      "turmeric"
+    ],
+    "retrieval": "Europe PMC fullTextXML API after partial PMC extraction",
+    "retrieval_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9369953/fullTextXML",
+    "material": "Commercial turmeric powder and commercial milk products, without purification; individual CUR/DMC/BMC standards.",
+    "scale": "100±0.5 mg powder, 5 mL solvent, 15 mL tubes, 15 s vortex, 5 min ultrasound; aqueous ethanols at ambient temperature; 4000×g 10 min; 0.45 μm PVDF filter.",
+    "supports": [
+      "32.22 versus 34.26 mg/g recovery at 50% versus 100% ethanol",
+      "Solvent-dependent component distribution",
+      "HPLC-DAD assay and milk protein precipitation"
+    ],
+    "not_supports": [
+      "Industrial optimum",
+      "Crystalline purity",
+      "Human bioavailability",
+      "32% potency interpretation"
+    ],
+    "used_in_drafts": true
+  },
+  {
+    "namespace": "b:9",
+    "id": 9,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27044336",
+    "title": "Distinguishing commercially grown Ganoderma lucidum from Ganoderma lingzhi from Europe and East Asia on the basis of morphology, molecular phylogeny, and triterpenic acid profiles",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "triterpenic acids (ganoderic acids), ganoderiols, ganolucidic acids, lucidones, and lucidenic acids. They differ from each other by their oxidation states (Cole et al., 2003).\n\nThe species Ganoderma lucidum (Curtis) P. Karst. (Ganodermataceae, Polyporales, Basidiomycota) was originally described as Boletus lucidus Curtis based on specimens found in England (Curtis, 1781). Later, the name G. lucidum was erroneously applied to morphologically somewhat similar Ganoderma collections with laccate pil",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "morphologically somewhat similar Ganoderma collections with laccate pilei from many countries all over the world, including the Ling-zhi fungus in East Asia. Although about 20 years ago it was shown that specimens named G. lucidum from Europe and East Asia mostly are not conspecific (Moncalvo et al., 1995a,b), Ling-zhi isolates employed in medicinal, chemical, or genomic studies as well as commercially cultivated strains are still referred to as G. lucidum (Baby et al., 2015;Chen et al., 2012;Ke",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "M9720 and M9724, from a professional spawn and mycelium culture supplier in Belgium (Mycelia bvba) (Fig. 1). For the first time, here, a combined approach was used, including morphological characteristics of the basidiocarps, molecular phylogenetic analyses, and triterpenic acid profiling.\n\n## Results and discussion\n\n\n### 2.1. Morphology\n\n\nThe macro-and micromorphological analysis of the basidiocarps of M9720 and M9724 yielded data on distinctive characteristics showing that M9720 represents Ganoderma lucidum s.str. and M9724 Ganoderma lingzhi. Distinctive characteristics published in literature mainly by Cao et al. (2012), Yao et al. (2013), andZhou et al. (2015) are complemented by own observations (Fig. 2 and Table 1).\n\nAt the start of the present project, mushroom cultivators noticed that the basidiocarp powder and the alcoholic extra",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "triterpenic acids (ganoderic acids), ganoderiols, ganolucidic acids, lucidones, and lucidenic acids. They differ from each other by their oxidation states (Cole et al., 2003).\n\nThe species Ganoderma lucidum (Curtis) P. Karst. (Ganodermataceae, Polyporales, Basidiomycota) was originally described as Boletus lucidus Curtis based on specimens found in England (Curtis, 1781). Later, the name G. lucidum was erroneously applied to morphologically somewhat similar Ganoderma collections with laccate pilei from many countries all over the world, including the Ling-zhi fungus in East Asia. Although about 20 years ago it was shown that specimens named G. lucidum from Europe and East Asia mostly are not conspecific (Moncalvo et al., 1995a,b), Ling-zhi isolates employed in medicinal, chemical, or genomic studies as well as commercially cultivated stra",
+        "added": "2026-09-09"
+      }
+    ],
+    "evidence_file": "evidence-9.txt",
+    "kind": "primary taxonomic and chemical comparison",
+    "ingredients": [
+      "reishi"
+    ],
+    "retrieval": "Extracted article-body content via PubMed URL",
+    "material": "European G. lucidum and East Asian G. lingzhi compared using morphology, phylogeny and triterpenic acid profiles.",
+    "scale": "Identity/chemical-comparison study, not manufacturing trial; no production conditions borrowed.",
+    "supports": [
+      "Trade-name/species ambiguity",
+      "Need to connect identity and chemical profile"
+    ],
+    "not_supports": [
+      "Reidentification of the 2020 extraction paper sample",
+      "Universal Ganoderma composition",
+      "Current taxonomic priority resolution"
+    ],
+    "used_in_drafts": true
+  },
+  {
+    "namespace": "b:10",
+    "id": 10,
+    "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf",
+    "title": "Microsoft Word - 2004-02-24 CTA 61 Curcumin.doc",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "oleoresin with colouring \nmatter content in the region of 25-35 percent along with volatile oils and other resinous extractives. The \noleoresin so obtained is subjected to further washes using selective solvents that can extract the curcumin \npigment from the oleoresin. This process yields a powdered, purified food colour, known as curcumin \npowder, with over 90 percent colouring matter content and very little volatile oil and other dry matter of \nnatural origin. The selection of solvents is don",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "crystallization.  \n\nColouring principles are present to the extent of 3-5 percent in turmeric. The product consists essentially of \ncolouring principles 1,7-bis-(4-hydroxy-3-methoxy-phenyl)-hepta-1,6-diene-3,5-dione (also known as \ncurcumin) and its desmethoxy- and bis-desmethoxy-derivatives in varying proportions. Minor amounts of \noils and resins naturally occurring in turmeric may be present. Functional use of curcumin as a food \nadditive is a colour. Current JECFA specifications for curcumin",
+        "added": "2026-09-09"
+      }
+    ],
+    "evidence_file": "evidence-10.txt",
+    "kind": "official historical chemical and technical assessment",
+    "ingredients": [
+      "turmeric"
+    ],
+    "retrieval": "FAO technical PDF text extraction",
+    "material": "Natural turmeric-derived curcumin food colour and traditional oleoresin/purification route.",
+    "scale": "61st JECFA technical assessment, historical general manufacturing narrative; no experimental load.",
+    "supports": [
+      "Solvent extraction to oleoresin, selective purification and crystallization",
+      "Historical 25–35% oleoresin colouring matter and >90% purified colour description"
+    ],
+    "not_supports": [
+      "Current industry market share or current CO2 adoption",
+      "Supplier-owned equipment",
+      "Universal commercial potency ranges",
+      "Current local solvent permission"
+    ],
+    "used_in_drafts": true
+  },
+  {
+    "namespace": "b:11",
+    "id": 11,
+    "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf",
+    "title": "JECFA Specifications Template",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Not less than 90 % total colouring matters \nDESCRIPTION  Orange-yellow crystalline powder \n \nFUNCTIONAL USES Colour \n \nCHARACTERISTICS \n \n \nIDENTIFICATION  \n \nSolubility (Vol. 4) Insoluble in water and in diethyl ether; soluble in ethanol and in glacial \nacetic acid. \n \nColour reactions A solution of the sample in ethanol is characterized by a pure yellow colour \nand a light green fluorescence; addition of this ethanol extract to \nconcentrated sulfuric acid produces a deep crimson colour.  \n \nTr",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Acetone: Not more than 30 mg/kg \nHexane: Not more than 25 mg/kg \nMethanol: \nEthanol: \nIsopropanol: \nEthyl acetate: \n} \nNot more than 50 mg/kg \nResidual solvents (Vol. 4) \n \nSee description in Volume 4 \n \nLead (Vol. 4) Not more than 2 mg/kg \nDetermine using an atomic absorption technique appropriate to the \nspecified level. The selection of sample size and method of sample \npreparation may be based on the principles of the method described in \nVolume 4 , “Instrumental Methods.” \n \nMETHOD OF  \nASS",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "PURITY  \n \nAcetone: Not more than 30 mg/kg \nHexane: Not more than 25 mg/kg \nMethanol: \nEthanol: \nIsopropanol: \nEthyl acetate: \n} \nNot more than 50 mg/kg \nResidual solvents (Vol. 4) \n \nSee description in Volume 4 \n \nLead (Vol. 4) Not more than 2 mg/kg \nDetermine using an atomic absorption technique appropriate to the \nspecified level. The selection of sample size and method of sample \npreparation may be based on the principles of the method described in \nVolume 4 , “Instrumental Methods.” \n \nMETHOD OF  \nASSAY \nAccurately weigh about 0.08 g of the sample in a 200-ml volumetric flask \nand dissolve by shaking with ethanol. Make up to volume with ethanol and \nmix. Pipette 1.0 ml of solution into a 100-ml volumetric flask and make up to \nvolume with ethanol. \n \nDetermine the absorbance (A) at 425 nm in a 1-cm cell. Calculate the total \ncolourin",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Assay Not less than 90 % total colouring matters \nDESCRIPTION  Orange-yellow crystalline powder \n \nFUNCTIONAL USES Colour \n \nCHARACTERISTICS \n \n \nIDENTIFICATION  \n \nSolubility (Vol. 4) Insoluble in water and in diethyl ether; soluble in ethanol and in glacial \nacetic acid. \n \nColour reactions A solution of the sample in ethanol is characterized by a pure yellow colour \nand a light green fluorescence; addition of this ethanol extract to \nconcentrated sulfuric acid produces a deep crimson colour.  \n \nTreat an aqueous or dilute ethanolic solution of the sample with \nhydrochloric acid until a slightly orange colour begins to appear. Divide the \nmixture into 2 parts and add some boric acid powder or crystals to one \nportion. A marked reddening will be quickly apparent, best seen by \ncomparison with the portion to which the boric acid has not b",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "METHOD OF  \nASSAY \nAccurately weigh about 0.08 g of the sample in a 200-ml volumetric flask \nand dissolve by shaking with ethanol. Make up to volume with ethanol and \nmix. Pipette 1.0 ml of solution into a 100-ml volumetric flask and make up to \nvolume with ethanol. \n \nDetermine the absorbance (A) at 425 nm in a 1-cm cell. Calculate the total \ncolouring matters content of the sample using the following equation. \n% Total Colouring matters: \n \n                                            1607W x \n100 x 200A x  \nwhere \nA = absorbance of sample \nW = weight of sample (g) \n1607 = specific absorbance of the curcumin standard in ethanol at 425 nm \n \nThe determination must be performed without delay, because the colour \nfades.",
+        "added": "2026-09-09"
+      }
+    ],
+    "evidence_file": "evidence-11.txt",
+    "kind": "official food-colour specification",
+    "ingredients": [
+      "turmeric"
+    ],
+    "retrieval": "Official FAO PDF downloaded and fully parsed with pypdf",
+    "material": "Curcumin INS 100(i) as defined in the 2003 JECFA specification consolidated in Monograph 1.",
+    "scale": "Not an experiment; analytical assay includes about 0.08 g sample and ethanol dilution; no production batch.",
+    "supports": [
+      "At least 90% total colouring matters, not single curcumin",
+      "Water insolubility and ethanol solubility",
+      "Crystallization definition",
+      "Named residual-solvent and lead limits",
+      "425 nm total-colour assay"
+    ],
+    "not_supports": [
+      "All turmeric supplements governed by these limits",
+      "HPLC three-component equivalence",
+      "Local product use authorization",
+      "Carrier-powder potency inherits crystal potency"
+    ],
+    "used_in_drafts": true
+  },
+  {
+    "namespace": "b:12",
+    "id": 12,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0244749",
+    "title": "Optimization of ultrasonic-assisted extraction of polysaccharides and triterpenoids from the medicinal mushroom Ganoderma lucidum and evaluation of their in vitro antioxidant capacities | PLOS One",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "The treated powder (1 g) was mixed with 40 mL of deionized water in a 150 mL flask, and extracted for 2 h at 95C. The extraction procedure was repeated once. The extract was centrifuged at 8000 × g for 10 min. The combined supernatants were used for the estimation of crude polysaccharides or for further purification by ethanol precipitation when used in the assay of antioxidant activity. Ethanol maceration for extraction of triterpenoids A fine powder (1 g) of G . lucidum was extracted with 40 m",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "210 W, extraction temperature of 80C, ratio of liquid to solid of 50 mL/g, and 100 min extraction time, using aqueous ethanol (50%, v/v) as the extracting solvent. Under the optimal conditions, the extraction yields of polysaccharides and triterpenoids reached 0.63% and 0.38%, respectively. On the basis of the scavenging capacity of 2,2-diphenyl-1-picrylhydrazyl and evaluation of reducing power, the antioxidant capacities of the polysaccharides obtained by optimal UACE process were higher than t",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "vanillin-glacial acetic acid method was used for analysis of the triterpenoid with ursolic acid as the standard [ 24 ], and expressed as the equivalent amount of ursolic acid. The polysaccharides were measured by the phenol-sulfuric acid method using d- glucose as the standard [ 31 ]. The standard curves for estimation of both components are shown in S1 Fig . DPPH radical scavenging activity assay DPPH radical scavenging activity was determined using a method as described previously by Blois [ 3",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "The polysaccharides yield of G . lucidum obtained by conventional HWE (two numbers of extraction) was 1.52%. For triterpenoids extraction using the conventional maceration method, an extraction yield of 0.59% was obtained using two extraction times. Preliminary optimization by one-factor-at-a-time approach Effect of extraction temperature on the yields of polysaccharides and triterpenoids. As presented in Fig 1A , the yield of polysaccharides slowly increased with increasing extraction temperature within the tested range from 40 to 90C. The highest polysaccharide yield was 0.41% at 90C. The triterpenoid yield increased from 0.11% to 0.15% as extraction temperature changed from 40 to 80C, and then decreased above 80C. As to the combined performance, the D value increased with the increase of extraction temperature and reached the maximum v",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "final ethanol concentration of 75% and kept for 12 h at 4C for polysaccharide precipitation. After centrifugation, the resulting supernatant was used to determine the concentration of triterpenoids, and the precipitate was washed twice with 95% ethanol, dissolved in distilled water, and used for assay of the polysaccharides. The vanillin-glacial acetic acid method was used for analysis of the triterpenoid with ursolic acid as the standard [ 24 ], and expressed as the equivalent amount of ursolic acid. The polysaccharides were measured by the phenol-sulfuric acid method using d- glucose as the standard [ 31 ]. The standard curves for estimation of both components are shown in S1 Fig . DPPH radical scavenging activity assay DPPH radical scavenging activity was determined using a method as described previously by Blois [ 32 ] with some modif",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "The vanillin-glacial acetic acid method was used for analysis of the triterpenoid with ursolic acid as the standard [ 24 ], and expressed as the equivalent amount of ursolic acid. The polysaccharides were measured by the phenol-sulfuric acid method using d- glucose as the standard [ 31 ]. The standard curves for estimation of both components are shown in S1 Fig . DPPH radical scavenging activity assay DPPH radical scavenging activity was determined using a method as described previously by Blois [ 32 ] with some modifications. Two milliliters of 0.2 mM DPPH in ethanol was added to 2 mL sample at different polysaccharide or triterpenoid concentrations in the range of 0.1−0.5 mg/mL. After vortexing, the mixture was kept for 15 min in the dark at 30C. The absorbance was measured at 517 nm using a UV-Vis spectrophotometer (TU-1810, Beijing Pu",
+        "added": "2026-09-09"
+      }
+    ],
+    "evidence_file": "evidence-12.txt",
+    "kind": "primary extraction and chemical antioxidant laboratory study",
+    "ingredients": [
+      "reishi"
+    ],
+    "retrieval": "Direct PLOS publisher HTML downloaded and parsed; PMC counterpart was truncated",
+    "material": "Dried G. lucidum as named by authors, from Kang-Bai-Jia pharmacy Fujian China; 40-mesh powder; HWE control pretreated with 80% ethanol.",
+    "scale": "1 g powder/150 mL flask. HWE:40 mL water,95°C,2 h twice after pretreatment. Ethanol control:40 mL 95% ethanol,30°C,6 h twice. UACE:50% ethanol,50 mL/g,80°C,100 min,210 W,40 kHz,3 L bath usable capacity.",
+    "supports": [
+      "Joint optimization at equal desirability weights",
+      "0.63% polysaccharide and 0.38% triterpenoid-equivalent yields versus 1.52%/0.59% separate conventional controls",
+      "75% final ethanol precipitation,4°C,12 h; distinct precipitate and supernatant streams",
+      "Glucose-equivalent phenol-sulfuric acid and ursolic-acid-equivalent colorimetry"
+    ],
+    "not_supports": [
+      "Beta-glucan yield",
+      "HPLC sum of ganoderic acids",
+      "Industrial linear power scaling",
+      "Higher joint yields than separate controls",
+      "Clinical immune or sleep effects"
+    ],
+    "used_in_drafts": true
+  },
+  {
+    "namespace": "b:13",
+    "id": 13,
+    "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70",
+    "title": "21 CFR 111.70 -- What specifications must you establish?",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "For each component that you use in the manufacture of a dietary supplement, you must establish component specifications as follows:\n\n(1) You must establish an identity specification;\n\n(2) You must establish component specifications that are necessary to ensure that specifications for the purity, strength and composition of dietary supplements manufactured using the components are met; and\n\n(3) You must establish limits on those types of contamination that may adulterate or may lead to adulterati",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "identity specification;\n\n(2) You must establish component specifications that are necessary to ensure that specifications for the purity, strength and composition of dietary supplements manufactured using the components are met; and\n\n(3) You must establish limits on those types of contamination that may adulterate or may lead to adulteration of the finished batch of the dietary supplement to ensure the quality of the dietary supplement.\n\n(c) For the in-process production:\n\n(1) You must establish",
+        "added": "2026-09-09"
+      }
+    ],
+    "evidence_file": "evidence-13.txt",
+    "kind": "official US manufacturing regulation",
+    "ingredients": [
+      "turmeric",
+      "reishi",
+      "ginseng"
+    ],
+    "retrieval": "eCFR section extraction",
+    "material": "Dietary-supplement components, process controls and finished products under 21 CFR 111.70.",
+    "scale": "Not experimental; retrieved 2026-09-09.",
+    "supports": [
+      "Requirement to establish identity and necessary quality/contaminant specifications"
+    ],
+    "not_supports": [
+      "Ingredient authorization",
+      "Universal percentage for any of these botanicals",
+      "Numeric nano-size or beta-glucan limits"
+    ],
+    "used_in_drafts": true
+  },
+  {
+    "namespace": "b:14",
+    "id": 14,
+    "url": "https://khu.elsevierpure.com/en/publications/optimization-of-the-manufacturing-process-for-black-ginseng-2",
+    "title": "Optimization of the manufacturing process for black ginseng\n      -  Kyung Hee University",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Black ginseng is derived from a repeated steaming/drying process; however, the black ginseng manufacturing process is not well established.\nTo determine the steaming and drying optimum conditions for producing high levels of biologically active substances such as acidic polysaccharides, ginsenoside Rg3, and polyphenols and low levels of benzopyrene, response surface methodology was used with temperature and time as independent variables.\nAs steaming temperature/time increased, acid polysaccharid",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "benzopyrene, response surface methodology was used with temperature and time as independent variables.\nAs steaming temperature/time increased, acid polysaccharide, polyphenol, and benzopyrene content increased; ginsenoside Rg3 levels increased with steaming time at temperatures ≥100oC. As drying temperature/time increased, ginsenoside Rg3, benzopyrene, and acidic polysaccharide content also increased.\n\n...\n\nOptimum conditions were determined to be steaming at 113.04°C for 18 h and drying at 100°",
+        "added": "2026-09-09"
+      }
+    ],
+    "evidence_file": "evidence-14.txt",
+    "kind": "primary study institutional abstract only",
+    "ingredients": [
+      "ginseng"
+    ],
+    "retrieval": "Kyung Hee University research record",
+    "material": "Black ginseng repeated steaming/drying; material loading not verified from abstract.",
+    "scale": "Unknown sample load and apparatus; optimization settings deliberately not reused as operating conditions.",
+    "supports": [
+      "Joint consideration of Rg3, polysaccharides, polyphenols and benzopyrene",
+      "Need for multi-objective heat-processing optimization"
+    ],
+    "not_supports": [
+      "Reproducible scale-up recipe",
+      "Current product contaminant limit",
+      "General guarantee of safety or efficacy"
+    ],
+    "used_in_drafts": true
+  },
+  {
+    "namespace": "b:15",
+    "id": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38353635",
+    "title": "Phytochemistry of Red Ginseng, a Steam-Processed <i>Panax ginseng</i>.",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "White ginseng is prepared by air-drying fresh Asian ginseng roots after harvest. Red ginseng is prepared by steaming roots in controlled conditions using fresh or raw Asian ginseng. Red ginseng is commonly used in Asian countries due to its unique chemical profile, different therapeutic efficacy, and increased stability. Compared with the widespread research on white ginseng, the study of red ginseng is relatively limited. In this paper, after a botanical feature description, the structures of d",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Additionally, a brief phytochemical profile comparison has been made between white ginseng and black ginseng, and the latter is another type of processed ginseng prepared from white or red ginseng by steaming several times. In conclusion, to ensure the safe and effective use of red ginseng, phytochemical and analytical studies of its constituents are necessary and even crucial.",
+        "added": "2026-09-09"
+      }
+    ],
+    "evidence_file": "evidence-15.txt",
+    "kind": "2024 phytochemical review abstract",
+    "ingredients": [
+      "ginseng"
+    ],
+    "retrieval": "Europe PMC core search API abstract after empty PubMed extraction",
+    "retrieval_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38353635&format=json&resultType=core",
+    "material": "P. ginseng white/red roots and discussion of repeated-steamed black ginseng.",
+    "scale": "Review abstract, not an individual batch experiment.",
+    "supports": [
+      "White/red/black processing distinctions",
+      "Non-ginsenoside constituents including Maillard products",
+      "Profile-based authentication"
+    ],
+    "not_supports": [
+      "Numeric steaming conditions",
+      "Clinical superiority",
+      "Every possible commercial black-ginseng definition"
+    ],
+    "used_in_drafts": true
+  },
+  {
+    "namespace": "c:2",
+    "id": 2,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29506293",
+    "title": "Ginkgo biloba Food Supplements on the European Market - Adulteration Patterns Revealed by Quality Control of Selected Samples",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Therapy with preparations of Ginkgo biloba L. (Ginkgoaceae) can be traced back to the origins of ancient Chinese herbal medicine. Ginkgo seeds and, to a lesser extent, Ginkgo leaves were used for medicinal purposes in China, mostly for treating problems of the heart and lungs. The seeds are also eaten at weddings and during tea ceremonies in Japan [1,2]. Products prepared from Ginkgo leaf dry extracts are top-selling herbal medicinal products, especially in Europe, as well as major botanical food supplements on the world market. In Western allopathic medicine, G. biloba medications underwent strict evaluations of their clinical therapeutic use, e.g., by the European Medical Agency (EMA), with the following results: the Ginkgo leaf herbal medicinal dry extract is indicated for the \"improvement of (age-associated) cognitive impairment and of quality of life in mild dementia\" [3], and the powdered leaf herbal substance is beneficial for the \"relief of heaviness of legs and the sensation of cold hands and feet associated with minor circulatory disorders\" [3]. The whole array of indications is well supported by in-depth studies on a number of defined chemical constituents in G. biloba. The best known are flavonoids and terpene lactones (several diterpenes, e.g., ginkgolides A, B, C, and the pentanorditerpene bilobalide), but they also include allergenic (ginkgolic acid) and toxic compounds (ginkgotoxin) [4][5][6][7][8][9][10][11][12][13][14][15][16][17][18].",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "The aim of this study was to prove whether Ginkgo biloba food supplements on the European market comply with pharmaceutical quality, and whether their composition satisfies the European Pharmacopoeia criteria. Medicinal products containing a standardised Ginkgo leaf extract are used for the improvement of cognitive impairment and quality of life in mild dementia. Further, Ginkgonis folium is used for the treatment of peripheral circulation disorders. Pharmacopoeial Ginkgo dry extract contains 22.0-27.0 % flavonoids and 5.4-6.6 % terpene lactones (ginkgolides, bilobalide). In addition to its widespread use as an herbal medicine (herbal medicinal product), the same extract can be an ingredient in food supplements. The content of active secondary metabolites was quantified in a number of European food supplements containing Ginkgo dry extract or Ginkgo leaf. Flavonoids were quantified using a modified pharmacopoeial HPLC-UV method, and terpene lactones (ginkgolides A, B, C, and bilobalide) using LC-MS/MS. Some Ginkgo leaf supplement samples were also analysed by microscopy. The quality of food supplements on the European market is dubious. In this paper, we present selected examples of several methods of adulteration and falsification, including higher/lower doses of Ginkgo dry extract or Ginkgo leaf than declared and the addition of undeclared extraneous materials. These examples reveal several patterns in the manufacturing of adulterated products.",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "When analysing the quality of extracts used, whether in herbal medicinal products or in food supplements, variation in the manufacturing procedures should be taken into consideration. Refined and quantified Ginkgo leaf dry extracts, e.g., EGb 761, are manufactured according to a specific process involving a considerable number of steps. Dried leaves of G. biloba are first subjected to extraction using a mixture of acetone and water. After evaporating the acetone, a further series of procedures (about 18) are applied both to eliminate unwanted substances (e.g., ginkgolic acids and biflavones) and to enrich the extract in substances considered to be relevant to clinical efficacy (e.g., flavone glycosides, terpene lactones). All procedures are rigorously controlled and standardised [19]. The pharmacopoeial refined and quantified Ginkgo dry extract is produced from dried leaves by extraction with acetone and water (drug : extract ratio 35-67 : 1) and contains 22.0-27.0 % flavone glycosides (M r 756.7) and 5.4-6.6 % terpene lactones, of which 2.8-3.4 % are ginkgolides A, B, and C, and 2.6-3.2 % is bilobalide. The level of ginkgolic acids is below 5 ppm [20,21]. Corresponding dry extracts used as botanical preparations in food supplement products are often marked as \"24/6\", reflecting the approximate ratio of flavonoids and terpenes. Herbal medicinal products dosed as coated tablets and solutions for oral administration are prepared from the pharmacopoeial refined and quantified dry extract. For many years, Ginkgo extracts obtained by other manufacturing processes have been commercially available in several countries as well. These products differ to a varying extent with respect to the qualitative and quantitative compositions of their individual components. The quality control of herbal medicinal products containing Ginkgo dry extracts is essential and well regulated by the legislation on medicinal products. Food products including food supplements should be safe for the consumer, however, precise controls for their chemical composition are not directly foreseen in the legislation. Doubts have arisen about the identity and quality of complex botanical materials in f",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "full text via extraction",
+    "study_material_and_scale": "Market analytical study; 11 illustrative supplements and 1 medicinal control, selected from a larger purchase pool",
+    "local_evidence_file": "page-1.txt",
+    "sha256": "15f2e4c3deba653e9031e15046a866402b620b4edd34437b42d629e61a156e3a",
+    "used_by": [
+      "ginkgo-biloba"
+    ]
+  },
+  {
+    "namespace": "c:4",
+    "id": 4,
+    "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8059750",
+    "title": "Safety and efficacy of a feed additive consisting of a dried extract from the leaves of __Ginkgo biloba__ L. (__G. biloba__ dry extract) for use in cats and dogs (C.I.A.M.)",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Following a request from the European Commission, the EFSA Panel on Additives and Products or Substances used in Animal Feed (FEEDAP) was asked to deliver a scientific opinion on the safety and efficacy of a dried extract prepared from the leaves of",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "dry extract is specified to contain at least 24% flavonol glycosides, at least 6% terpene lactones and less than 5 ppm ginkgolic acids. Since uncertainty remains concerning the nature of up to 75% of the extract, the additive is not sufficiently characterised to allow an assessment based on the individual components. In view of the indication of potential carcinogenicity from the results of studies by the National Toxicology Program of the USA, obtained with a",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "extract comparable with the additive under assessment, the FEEDAP Panel concludes that the additive cannot be considered safe for cats and dogs. In the absence of data, no conclusions can be drawn on the safety for the user. In the absence of evidence that the extract acts as a flavour in animal feed or has an effect on palatability, the FEEDAP Panel was unable to conclude on the efficacy of the additive.",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "by extended extraction with ethanol at 30°C. After extraction, the insoluble plant biomass is removed by centrifugation and the ethanol extract passed through resin columns able to absorb flavones and terpene lactones. Columns are eluted with ethanol, and the collected liquor is subsequently concentrated by evaporation and spray‐dried. Maltodextrin is then added to the dried extract and the mix is ground, sieved and packed for distribution.\n3.2.\nCharacterisation\n3.2.1.\nCharacterisation of the extract\n\n\nG. biloba\n dry extract is identified by the Chemical Abstract Service (CAS) number 90045‐36‐6 and the European Inventory of Existing Commercial chemical Substances (EINECS) number 289‐896‐4. The additive is described as a brown fine powder, with a characteristic odour. It has a density of 450–650 kg/m\n3\n. The additive is partially soluble in water and organic solvents.\nAccording to the specification proposed by the applicant, \nG. biloba\n dry extract contains ≥ 24% flavonol glycosides (mainly quercetin glycosides), ≥ 6% terpene lactones (including ginkgolides A, B and C and bilobalide) and ≤ 5 ppm ginkgolic acids. All these components were selected as the marker compounds. Loss on drying is specified to be ≤ 5%, and ash ≤ 5%. Data were provided for seven batches of the \nG. biloba\n d",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "full text recovered through Europe PMC XML",
+    "study_material_and_scale": "EFSA assessment of applicant feed additive; manufacturing scale undisclosed",
+    "local_evidence_file": "page-2.txt",
+    "sha256": "9d0b914224a1aaac4e671c3f7c1a470a3641f4b6884137469d4764cf6f94f830",
+    "used_by": [
+      "ginkgo-biloba"
+    ],
+    "retrieval_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8059750/fullTextXML"
+  },
+  {
+    "namespace": "c:9",
+    "id": 9,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10745962",
+    "title": "Bioactive Components of Lycium barbarum and Deep-Processing Fermentation Products - PMC",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": ", a homology of medicine and food, contains many active ingredients including polysaccharides, polyphenol, betaine, and carotenoids, which has health benefits and economic value. The bioactive components in",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "has been paid more and more attention with the increase in health awareness. A variety of nutrients and bioactive components in wolfberry can be retained or increased using modern fermentation technology. Through fermentation, the products have better flavor and health function, which better meet the needs of market diversification. The main products related to wolfberry fermentation include wolfberry fruit wine, wolfberry fruit vinegar, and lactic acid fermented beverage. In this review, the mainly bioactive components of",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "This study was financially supported by the Key Research and Development Program of Ningxia (2022BBF02010); the Open Project Program of State Key Laboratory of Food Nutrition and Safety, Tianjin University of Science & Technology (SKLFNS-KF-202318); Tianjin Graduate Research Innovation Project (2022SKYZ067); and the foundation of Shanxi Provincial Key Laboratory for Vinegar Fermentation Science and Engineering, P.R. China (No. 20220401931002).",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "full text recovered through Europe PMC XML",
+    "study_material_and_scale": "Review; composition and processing context only",
+    "local_evidence_file": "page-11.txt",
+    "sha256": "5cb54ef8544ed66c092ad63b5b6f05a818c7933d562f430501bd31f90310159d",
+    "used_by": [
+      "goji-berry"
+    ],
+    "retrieval_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10745962/fullTextXML"
+  },
+  {
+    "namespace": "c:10",
+    "id": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34968548",
+    "title": "A polysaccharide from Lycium barbarum L.: Structure and ...",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Lycium barbarum polysaccharides (LBPs) are beneficial for vision; however, relevant research has mainly focused on entire crude polysaccharides, with the basis and exact structure of the polysaccharide rarely explored. In this study, LICP009-3F-2a, a novel polysaccharide from Lycium barbarum L., was separated and then purified using anion-exchange and size-exclusion chromatography. Structural characteristics were investigated using chemical and spectroscopic methods, which revealed that LICP009-3F-2a has an Mw of 13720 Da and is an acidic heteropolysaccharide composed of rhamnose (39.1%), arabinose (7.4%), galactose (22.5%), glucose (8.3%), galacturonic acid (13.7%), and glucuronic acid (4.0%). Linkage and NMR data revealed that LICP009-3F-2a has the following backbone: →2)-α-L-Rha-(1 → 2,4)-α-L-Rha-(1 → 4)-α-D-GalAp-(1 → 3,6)-β-D-Galp-(1 → 3,6)-β-D-Galp-(1 → 6)-β-D-Galp-(1→, with three main branches, including: α-L-Araf-(1 → 5)-α-L-Araf-(1 → 6)-β-D-Glcp-(1 → 2,4)-α-L-Rha-(1→, β-D-Glcp-(1 → 4)-β-D-Glcp-(1 → 3,6)-β-D-Galp-(1→, and β-D-Galp-(1 → 3)-β-D-Galp-(1 → 3,6)-β-D-Galp-(1 → . Differential scanning colorimetry and thermogravimetric analysis showed that LICP009-3F-2a is thermally stable, while X-ray diffractometry showed that LICP009-3F-2a has a semi-crystalline structure. In addition, LICP009-3F-2a protects ARPE-19 cells from H2O2-induced oxidative damage by regulating the expression of antioxidant SOD1 and CAT enzymes and down-regulating MMP2 expression. Moreover, LICP009-3F-2a promotes the proliferation of ARPE-19 cells in a concentration-dependent manner, and protects ARPE-19 cells from hyperglycemia by inhibiting apoptosis.",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "abstract",
+    "study_material_and_scale": "Original structure/cell study; isolated LICP009-3F-2a; input mass unavailable",
+    "local_evidence_file": "page-5.txt",
+    "sha256": "f6e7acbb3e260cbb4c252094615e1cfd07582aac9e90b57793909772d435a760",
+    "used_by": [
+      "goji-berry"
+    ]
+  },
+  {
+    "namespace": "c:14",
+    "id": 14,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8877132",
+    "title": "Optimization of the Extraction of Proanthocyanidins from Grape Seeds Using Ultrasonication-Assisted Aqueous Ethanol and Evaluation of Anti-Steatosis Activity In Vitro - PMC",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Conventional extraction methods of proanthocyanidins (PAC) are based on toxic organic solvents, which can raise concerns about the use of extracts in supplemented food and nutraceuticals. Thus, a PAC extraction method was developed for grape seeds (GS) and grape seed powder using food-grade ethanol by optimizing the extraction conditions to generate the maximum yield of PAC. Extraction parameters, % ethanol, solvent: solid (s:s) ratio, sonication time, and temperature were optimized by the central composite design of the response surface method. The yields of PAC under different extraction conditions were quantified by the methylcellulose precipitable tannin assay. The final optimum conditions were 47% ethanol, 10:1 s:s ratio (",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "), 53 min sonication time, and 60 °C extraction temperature. High-performance liquid chromatography analysis revealed the presence of catechin, procyanidin B2, oligomeric and polymeric PAC in the grape seed-proanthocyanidin extracts (GS-PAC). GS-PAC significantly reduced reactive oxygen species and lipid accumulation in the palmitic-acid-induced mouse hepatocytes (AML12) model of steatosis. About 50% of the PAC of the GS was found to be retained in the by-product of wine fermentation. Therefore, the developed ethanol-based extraction method is suitable to produce PAC-rich functional ingredients from grape by-products to be used in supplemented food and nutraceuticals.",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Proanthocyanidins (PAC), also known as condensed tannins, are the oligomers or polymers of flavan-3-ol molecules linked together through interflavan linkages. Oligomeric and polymeric PAC predominantly consist of catechin and epicatechin monomers [",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "GS or GSP (1.0 g) were weighed into 50 mL plastic tubes. Anhydrous ethanol was mixed with deionized (DI) water to prepare the ethanol-based extraction solvent at different levels (0, 20.24, 50, 79.76, and 100 %), agreeing with the CCD. GS and GSP were mixed with the ethanol extraction solvent (10, 16.07, 25, 33.92, or 40 mL) in 50 mL plastic tubes. The extraction process was performed for different periods (24, 62.86, 120, 177.14, or 216 h) while slowly shaking (50 rpm) the tubes at 20 °C. The optimum conditions for the extraction process were statistically determined by the CCD of RSM.\nA second PAC extraction was performed to reduce the extraction time and extraction solvent volume by introducing ultrasonication and heating into the extraction process. Only GS were used in this extraction process, as a large difference was not observed between GS and GSP for the PAC yields and optimum conditions of the tested parameters. Based on the first optimization approach, the ethanol level was set at 47% during this second optimization. Similar to the first extraction, GS (1.0 g) was weighed into 50 mL plastic tubes and mixed with different volumes of 47% ethanol in DI water (4, 5.62, 8, 10.38, or 12 mL). The extraction process was performed at different temperatures (20, 28.1, 40, 51.9,",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "full text recovered through Europe PMC XML",
+    "study_material_and_scale": "Original 1 g seed extraction/50 mL tube and AML12 cell study; mixed commercial Vitis species/hybrids",
+    "local_evidence_file": "page-3.txt",
+    "sha256": "2466bbc1b967e1983ff3b4b085241a862274b1cbde1e3cca73dc98791eee89b0",
+    "used_by": [
+      "grape-seed"
+    ],
+    "retrieval_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8877132/fullTextXML"
+  },
+  {
+    "namespace": "c:20",
+    "id": 20,
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0260877403001717",
+    "title": "Effect of addition of maltodextrin on drying kinetics and stickiness of sugar and acid-rich foods during convective drying: experiments and modelling",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "The effect of addition of maltodextrin on drying kinetics of drops containing fructose, glucose, sucrose and citric acid individually and in mixtures was studied experimentally using single drop drying experiments and numerically by solving appropriate mass and heat transfer equations.",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Get full-text access by signing in with your organisation [Access through **your organization**](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0260877403001717)",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "This work aimed the induction of crystallization on powder mango juice during the process of spray drying and the correlation of the microstructure of the powder obtained with the functional properties of stickiness and solubility.",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "publisher abstract/limited preview",
+    "study_material_and_scale": "Original model sugar/acid single-droplet drying; NOT goji juice",
+    "local_evidence_file": "page-7.txt",
+    "sha256": "41dabebd4be2540b16ef64a74b6442eae7b815335f9d78c233762f0387499c73",
+    "used_by": [
+      "goji-berry"
+    ]
+  },
+  {
+    "namespace": "c:21",
+    "id": 21,
+    "url": "https://doi.org/10.1021/np400821r",
+    "title": "Efficient Purification of Ginkgolic Acids from Ginkgo biloba Leaves by Selective Adsorption on Fe3O4 Magnetic Nanoparticles",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Ginkgolic acids (GAs; anacardic acids; 6-alkylsalicylic acids) are both unwanted constituents in standardized Ginkgo biloba (Ginkgo) extracts and desirable constituents for pharmacological assays. Thus, for the quality control of Ginkgo extracts, the availability of pure GAs is important. In this investigation, inexpensive and easily prepared Fe3O4 magnetic nanoparticles (MNPs) in methanol were used to selectively adsorb GAs from crude petroleum ether extracts of Ginkgo leaves in the presence of various lipids including other alkylphenols (cardanols and cardols). The adsorption capacity of the MNPs is high, at 4-5% (w/w). The moiety responsible for the adsorption is the salicylic acid group, which binds strongly to Fe(III). Desorption with acidified methanol gave an extract with a GA content of 73%. This could be further separated by preparative HPLC on a C8 column. In total, eight different GAs were captured by MNPs. The MNP adsorption step can replace more traditional column chromatography and liquid-liquid extraction steps and is superior in terms of solvent consumption, selectivity, labor, and energy consumption. MNPs might become an efficient separation technique for selected high-value phytochemicals that contain a salicylic acid moiety.",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "- Mahadevappa Hemshekhar, M. Sebastin Santhosh, Kempaiah Kemparaju, Kesturu S. Girish. Emerging Roles of Anacardic Acid and Its Derivatives: A Pharmacological Overview. Basic & Clinical Pharmacology & Toxicology. 2011;110(2):122-132. doi:10.1111/j.1742-7843.2011.00833.x.",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "- Teris A. van Beek, Paola Montoro. Chemical analysis and quality control of Ginkgo biloba leaves, extracts, and phytopharmaceuticals. Journal of Chromatography A. 2009;1216(11):2002-2032. doi:10.1016/j.chroma.2009.01.013.",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "abstract",
+    "study_material_and_scale": "Original magnetic isolation of ginkgolic acids; leaf petroleum ether crude extract, methanol; input mass unavailable",
+    "local_evidence_file": "page-6.txt",
+    "sha256": "ad8062f7eb2ce17c64b5ca3f500dd22d7b76557b698555cb78ec4e81a7488333",
+    "used_by": [
+      "ginkgo-biloba"
+    ]
+  },
+  {
+    "namespace": "c:28",
+    "id": 28,
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/ginkgo-folium",
+    "title": "Ginkgo folium - herbal medicinal product | European Medicines Agency (EMA)",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "This is a summary of the scientific conclusions reached by the Committee on Herbal Medicinal Products (HMPC) on the medicinal uses of ginkgo leaf. The HMPC conclusions are taken into account by EU Member States when evaluating applications for the licensing of herbal medicines containing ginkgo leaf.",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "This summary is not intended to provide practical advice on how to use medicines containing ginkgo leaf. For practical information about using ginkgo leaf medicines, patients should read the package leaflet that comes with the medicine or contact their doctor or pharmacist.",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "This summary covers ginkgo leaf medicines containing a specific herbal preparation made by powdering the dried leaf or as dry extract. The dry extract is prepared using a technique to extract compounds from plant material by dissolving them in acetone which is then evaporated to obtain the dry extract.",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "institutional current product page",
+    "study_material_and_scale": "EMA preparation-specific assessment; linked final PDF blocked",
+    "local_evidence_file": "page-12.txt",
+    "sha256": "6af6227e98f1f1770dc9bf2d8bb02ea2e436d45f538d15c6b73637bcee7ebedc",
+    "used_by": [
+      "ginkgo-biloba"
+    ]
+  },
+  {
+    "namespace": "c:33",
+    "id": 33,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25306345",
+    "title": "Chemical investigation of commercial grape seed derived products to assess quality and detect adulteration",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Nine products were adulterated, found to contain peanut skin extract.",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "abstract",
+    "study_material_and_scale": "Original 21-commercial-product authentication survey; nine adulterated samples",
+    "local_evidence_file": "page-13.txt",
+    "sha256": "53357db990ffd85c57d59d07c85bf0e1380587275cb401ca683a274bfce2a862",
+    "used_by": [
+      "grape-seed"
+    ]
+  },
+  {
+    "namespace": "c:34",
+    "id": 34,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8716858",
+    "title": "Chemical, Manufacturing, and Standardization Controls of Grape Polyphenol Dietary Supplements in Support of a Clinical Study: Mass Uniformity, Polyphenol Dosage, and Profiles",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "New Use Agriculture and Natural Plant Products Program, Department of Plant Biology and Center for Agricultural Food Ecosystems, Institute of Food, Nutrition & Health, Rutgers University",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+        "added": "2026-09-09"
+      },
+      {
+        "text": ") have been used in Dietary Supplements (DSs) with the aim to prevent numerous diseases, including cardiovascular and neurodegenerative diseases, and to reduce depression and anxiety. Given prior recognition that DSs can be quality challenged from the purity, authentication, adulteration, and actual concentration of targeted bioactives, to ensure consumer health protection as well as the quality and safety of grape polyphenol-based DSs, the present investigation was aimed at establishing a comprehensive quality control (QC) approach for grape polyphenol-based DSs in support of a human clinical study. In this study, the manufactured grape seed polyphenol extract (GSPE) and",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "full text recovered through Europe PMC XML",
+    "study_material_and_scale": "Original clinical-supply CMC; not efficacy outcomes",
+    "local_evidence_file": "page-14.txt",
+    "sha256": "0b56cf0e51ce4d7e4ed8704ffbc363c21a4d70faca05e0862db7708830174714",
+    "used_by": [
+      "grape-seed"
+    ],
+    "retrieval_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8716858/fullTextXML"
+  },
+  {
+    "namespace": "c:37",
+    "id": 37,
+    "url": "https://doi.org/10.3390/molecules28020701",
+    "title": "Comparative Study on the Structural Properties and Bioactivities of Three Different Molecular Weights of Lycium barbarum Polysaccharides",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Polysaccharides are chain-like polymers of biological origin (including animals, plants, and fungi), usually composed of more than 10 monosaccharides joined by α- and/or β-glycosidic linkages by dehydration [1]. Numerous studies have shown that polysaccharides have a variety of bioactivities, including anticancer [2], antioxidant [3], anti-aging [4], immunomodulation [5,6], and so on. They are also utilized as drug carriers [7]. In recent years, polysaccharides have garnered a great deal of interest due to their rising prevalence in functional foods, pharmaceuticals, cosmetics, etc. [1].",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "The bioactivities of polysaccharides are dependent on their molecular weight [8,9,10], the triple-helix conformation [11], the monosaccharide content, the glycosidic bonds mode [10], and the polysaccharide conjugates [12]. __Lycium barbarum__ polysaccharides (LBPs) are water-soluble glycoconjugates isolated from Goji berry or wolfberry (Solanaceae), one of the most popular traditional medicine materials. Phytochemical studies have revealed that LBPs are the most important group of substances in this herbal medicine, responsible for the majority of the pharmacological properties, including antioxidant, immunomodulatory, anticancer, and neuroprotective actions [13,14,15]. Feng et al. investigated the immunomodulatory effects of LBPs with varying molecular weights [16], but information on the structural properties is scant. Due to the complexity and diversity of their structures, it is challenging to determine which structural characteristics of LBPs may influence their biological activity. It would be beneficial to understand the molecular mechanism of these macromolecules to characterize their structural characteristics as thoroughly as possible while describing their biological effects.",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Using response surface methodology (RSM), the influence of several extraction parameters (extraction temperature, duration, and water-to-raw material ratio) on the yield of LBPs was evaluated in this work. One oligosaccharide (LBPs-1), and two polysaccharides (LBPs-2 and LBPs-3) were separated from LBPs by graded ethanol precipitation and ultrafiltration membrane separation. The polysaccharide fractions were then characterized using high-performance size exclusion chromatography–refractory index detector–multi-angle laser light scattering (HPSEC-RID-MALLS), high-performance anion exchange chromatography with pulsed amperometric detection (HPAEC-PAD), Fourier transform infrared spectroscopy (FTIR), atomic force microscopy (AFM), and nuclear magnetic resonance (NMR). Furthermore, the in vitro antioxidant activities of three polysaccharides with different molecular weights, including the oxygen radical absorbance capacity (ORAC), the ABTS^+^ radical scavenging capacity, and the superoxide dismutase (SOD) activity, were evaluated. Finally, the immunoregulatory activity of LBPs-2 and LBPs-3 in the T-lymphocyte and macrophage damage models caused by vinorelbine tartrate injection (VTI) in zebrafish were examined.",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "The crude polysaccharides (10 g) were dissolved in 60 mL of distilled water. After thoroughly dissolving the crude polysaccharides, the monosaccharides and some oligosaccharides were removed using a 1 kDa ultrafiltration tube (Pall Corp., NewYork, NY, USA). The polysaccharide fractions over 1 kDa were then separated again by ultrafiltration tubes of 3 k and 10 kDa (Merck Millipore Co., Ltd., Darmstadt, Germany), and the liquid from each fraction was collected and lyophilized to obtain LBPs-1 (1–3 kDa), LBPs-2 (3–10 kDa), and LBPs-3 (>10 kDa), respectively.\n\n### 3.4. Molecular Weight Analysis\n\nAs previously described by Hu et al. [73], the molecular weight was measured by the HPSEC-RID-MALLS system. The system was equipped with a liquid phase (U3000, Thermo Fisher Scientific, Waltham, MA, USA), a differential detector (OPTILAB T-REX, Wyatt Technology Corp., Santa Barbara, CA, USA), a laser light scattering detector (DAWN HELIOS Ⅱ, Wyatt Technology Corp., Santa Barbara, CA, USA), and an Ohpak SB series gel exclusion column (300 × 8 mm, Shodex Co., Ltd., Tokyo, Japan).\n\nThe samples were dissolved in 0.1 M NaNO~3~ aqueous solution (containing 0.02% NaN~3~, __w__/__w__) to a final concentration of 1 mg/mL and filtered through a 0.45 μm microporous filtering film (Pall Corp., New York,",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "full text extraction",
+    "study_material_and_scale": "Original Zhongning fruit polysaccharide fractionation; 10 g crude/60 mL ultrafiltration",
+    "local_evidence_file": "page-9.txt",
+    "sha256": "9a4dd5d478e80dfbbe220fd25510c25a6068f7a2c81adae29d8649f554d942b8",
+    "used_by": [
+      "goji-berry"
+    ]
+  },
+  {
+    "namespace": "c:39",
+    "id": 39,
+    "url": "https://doi.org/10.1590/1678-457x.14417",
+    "title": "Effect of multimode ultrasound assisted extraction on the yield of crude polysaccharides from Lycium Barbarum (Goji)",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "The goals of this exploration were to find out the optimum conditions of ultrasound assisted extraction (UAE) of L. Barbarum crude polysaccharides. Furthermore, to research the impacts of three multi-frequency ultrasound assisted extraction modes on the yield of L. Barbarum crude polysaccharides. The results showed that by applying the traditional single-frequency UAE mode, the optimum extraction time was 30 min, extraction temperature of 60 Â°C, and solid/liquid ratio of 20 g/600 mL, at a power density of 300 W/L, and ultrasound frequency of 28 kHz. Secondly; a comparison was carried out between three UAE modes using the optimum extraction conditions obtained previously. The energy aggregation counter flow dual-frequency UAE mode gave the highest yield of 38.93% of crude polysaccharides. Followed by the Dpposite-sit dual-frequency UAE mode and the energy aggregation counter flow single-frequency UAE mode with yields of 33.60%, and 26.38% of crude polysaccharides, respectively. As a result the ultrasound assisted extraction with dual-frequency mode is more effective for the extraction of L. Barbarum crude polysaccharides. Furthermore, the yield of crude polysaccharides increased by 73.41% using the dual-frequency ultrasound extraction compared to traditional hot water extraction.",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Lycium (Boxthorn) is a class of the nightshade family (Solanaceae), containing around 80 types of plants local all through the temperate and subtropical areas of the world (Xin et al., 2013) . Lycium Barbarum, commonly named Wolfberry, Goji (Gouqi) in Chinese, is mostly found in dry, semi-saline environments. An extensive variety of Lycium Barbarum products have been produced in types of cosmetic products, dietary supplements, tea (Amagase, 2014) , milk, juice, seed oil, and so on (Potterat, 2010) . For more than 4000 years Lycium Barbarum has been consumed as nourishment and in traditional prescription (Amagase & Farnsworth, 2011) . Furthermore, the agriculture of Lycium Barbarum has been recorded for over 600 years in the Northwestern region of China, particularly Ningxia province which is additionally the authentic district of Chinese medication Lycii Fructus (Li, 2007; Potterat, 2010) . Within the chemical composition of Lycium Barbarum, water-soluble glyco",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "abstract and partial article",
+    "study_material_and_scale": "Original ultrasound comparison; 20 g/600 mL, crude yield endpoint",
+    "local_evidence_file": "page-10.txt",
+    "sha256": "5bb615d21b50678c289a7e5f7067147758a98e9ad2c48132c8888686b0357acd",
+    "used_by": [
+      "goji-berry"
+    ]
+  },
+  {
+    "namespace": "c:43",
+    "id": 43,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8708314",
+    "title": "Goji Berry Intake Increases Macular Pigment Optical Density in Healthy Adults: A Randomized Pilot Trial",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Age-related macular degeneration (AMD) is the third leading cause of blindness worldwide. Macular pigment optical density (MPOD), a biomarker for AMD, is a non-invasive measure to assess risk. The macula xanthophyll pigments lutein (L) and zeaxanthin (Z) protect against blue light and provide oxidant defense, which can be indexed by MPOD. This study examined the effects of Z-rich goji berry intake on MPOD and skin carotenoids in healthy individuals. A randomized, unmasked, parallel-arm study was conducted with 27 participants, aged 45–65, who consumed either 28 g of goji berries or a supplement containing 6 mg L and 4 mg Z (LZ), five times weekly for 90 days. After 90 days, MPOD was significantly increased in the goji berry group at 0.25 and 1.75 retinal eccentricities (",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Age-related macular degeneration (AMD) is the leading cause of blindness among seniors in developed countries, and third worldwide after uncorrected refractive errors and cataracts [",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "]. In early stages, the disease is characterized by small to intermediate drusen with pigmentary changes that may progress rapidly to more advanced forms such as choroidal neovascularization or central geographic atrophy with loss of central vision [",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "27 participants, aged 45–65, who consumed either 28 g of goji berries or a supplement containing 6 mg L and 4 mg Z (LZ), five times weekly for 90 days. After 90 days, MPOD was significantly increased in the goji berry group at 0.25 and 1.75 retinal eccentricities (\np\n = 0.029 and \np\n = 0.044, respectively), while no changes were noted in the LZ group. Skin carotenoids were significantly increased in the goji berry group at day 45 (\np\n = 0.025) and day 90 (\np\n = 0.006), but not in the LZ group. Regular intake of goji berries in a healthy middle-aged population increases MPOD may help prevent or delay the development of AMD.\ngoji berry\nzeaxanthin\nlutein\ncarotenoids\nage-related macular degeneration\nmacular pigment optical density\npmc-status-qastatus\n0\npmc-status-live\nyes\npmc-status-embargo\nno\npmc-status-released\nyes\npmc-prop-open-access\nyes\npmc-prop-olf\nno\npmc-prop-manuscript\nno\npmc-prop-legally-suppressed\nno\npmc-prop-has-pdf\nyes\npmc-prop-has-supplement\nyes\npmc-prop-pdf-only\nno\npmc-prop-suppress-copyright\nno\npmc-prop-is-real-version\nno\npmc-prop-is-scanned-article\nno\npmc-prop-preprint\nno\npmc-prop-in-epmc\nyes\npmc-license-ref\nCC BY\n1. Introduction\nAge-related macular degeneration (AMD) is the leading cause of blindness among seniors in developed countries, and third worldwide after unc",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "full text recovered through Europe PMC XML",
+    "study_material_and_scale": "Original randomized unmasked pilot; 27 participants, 28 g whole fruit five times/week 90 days",
+    "local_evidence_file": "page-15.txt",
+    "sha256": "90850388d4aa9c9055d371c951ba598438a4a5f27b06c9283a5b7aafc1a705c8",
+    "used_by": [
+      "goji-berry"
+    ],
+    "retrieval_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8708314/fullTextXML"
+  },
+  {
+    "namespace": "c:46",
+    "id": 46,
+    "url": "https://doi.org/10.1001/jama.2008.683",
+    "title": "<emph type=\"ital\">Ginkgo biloba</emph> for Prevention of Dementia<subtitle>A Randomized Controlled Trial</subtitle>",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "CONTEXT: Ginkgo biloba is widely used for its potential effects on memory and cognition. To date, adequately powered clinical trials testing the effect of G. biloba on dementia incidence are lacking. OBJECTIVE: To determine effectiveness of G. biloba vs placebo in reducing the incidence of all-cause dementia and Alzheimer disease (AD) in elderly individuals with normal cognition and those with mild cognitive impairment (MCI). DESIGN, SETTING, AND PARTICIPANTS: Randomized, double-blind, placebo-controlled clinical trial conducted in 5 academic medical centers in the United States between 2000 and 2008 with a median follow-up of 6.1 years. Three thousand sixty-nine community volunteers aged 75 years or older with normal cognition (n = 2587) or MCI (n = 482) at study entry were assessed every 6 months for incident dementia. INTERVENTION: Twice-daily dose of 120-mg extract of G. biloba (n = 1545) or placebo (n = 1524). MAIN OUTCOME MEASURES: Incident dementia and AD determined by expert panel consensus. RESULTS: Five hundred twenty-three individuals developed dementia (246 receiving placebo and 277 receiving G. biloba) with 92% of the dementia cases classified as possible or probable AD, or AD with evidence of vascular disease of the brain. Rates of dropout and loss to follow-up were low (6.3%), and the adverse effect profiles were similar for both groups. The overall dementia rate was 3.3 per 100 person-years in participants assigned to G. biloba and 2.9 per 100 person-years in the placebo group. The hazard ratio (HR) for G. biloba compared with placebo for all-cause dementia was 1.12 (95% confidence interval [CI], 0.94-1.33; P = .21) and for AD, 1.16 (95% CI, 0.97-1.39; P = .11). G. biloba also had no effect on the rate of progression to dementia in participants with MCI (HR, 1.13; 95% CI, 0.85-1.50; P = .39). CONCLUSIONS: In this study, G. biloba at 120 mg twice a day was not effective in reducing either the overall incidence rate of dementia or AD incidence in elderly individuals with normal cognition or those with MCI. Trial Registration clinicaltrials.gov Identifier: NCT00010803.",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "abstract",
+    "study_material_and_scale": "Original GEM RCT; 3069 adults >=75 years, 120 mg twice daily, median 6.1 years",
+    "local_evidence_file": "page-19.txt",
+    "sha256": "025e676242c9d0095c113ec0433048facee50d015cf1d58b2abe4539992ac2e6",
+    "used_by": [
+      "ginkgo-biloba"
+    ]
+  },
+  {
+    "namespace": "c:52",
+    "id": 52,
+    "url": "https://www.ajevonline.org/content/51/4/383",
+    "title": "A Comparison of Methods For Quantifying Oligomeric Proanthocyanidins From Grape Seed Extracts | American Journal of Enology and Viticulture",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "The common colorimetric methods for analyzing the procyanidin concentration and/or composition of grape seed extracts and products containing it can give only crude information on the distribution of the sizes of the components.",
+        "added": "2026-09-09"
+      }
+    ],
+    "retrieval_level": "abstract",
+    "study_material_and_scale": "Original analytical-method comparison; sample count unavailable in abstract",
+    "local_evidence_file": "page-17.txt",
+    "sha256": "24d30164abcc5ede8969c77b8fc347e01a1e1e378b775a23ceb6f34f1b3e1cac",
+    "used_by": [
+      "grape-seed"
+    ]
+  },
+  {
+    "namespace": "d:4",
+    "id": 4,
+    "url": "https://sciencedirect.com/science/article/abs/pii/S0021967305012033",
+    "title": "The application of macroporous resins in the separation of licorice flavonoids and glycyrrhizic acid",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "The sorption and desorption properties of LF and GA on macroporous resins including XDA-1, LSA-10, D101 and LSA-20 have been compared. The adsorption capacity was found to depend strongly on the pH of the feed solution.\nXDA-1 offers much higher adsorption capacity for GA and LF than other resins, and its adsorption data fit the best to the Freundlich isotherm. XDA-1 also shows much higher adsorption affinity towards LF than that of GA based on calculated results from the measured adsorption isotherms .\nDynamic adsorption and desorption experiments have been carried out on a XDA-1 resin packed column to obtain optimal parameters for separating GA and LF. An enriched LF extract (about 21.9% purity) free of GA, and an enriched GA extract with 66% purity can be separated from crude licorice extract in one run.\n\n...\n\n## Effect of initial solution pH\nAs shown in Table 2, Table 3, for all the resins studied, the adsorption capacities and adsorption ratio of XDA-1 towards both GA and LF are th",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "abstract_and_publisher_excerpts"
+  },
+  {
+    "namespace": "d:6",
+    "id": 6,
+    "url": "https://apps.who.int/food-additives-contaminants-jecfa-database/chemical.aspx?chemID=267",
+    "title": "JECFA â Steviol glycosides",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "At the present meeting, the Committee determined that no safety issues exist for steviol\nglycosides produced by any one of four methods (see FAO JECFA Monograph) resulting in products with ≥95% steviol glycosides\nas per existing specifications. The Committee indicated that the ADI of 0–4 mg/kg bw established at\n\n...\n\n#### Evaluation year: 2017\nADI:\n0–4 mg/kg bw\nComments:\nConsidered for specification only.\nMeeting:\n84\nSpecs Code:\nR\nReport:\nTRS 1007-JECFA 84/67\nSpecification:\n[FAO JECFA Monographs 20/50](http://www.fao.org/3/a-i8147e.pdf=51)\n\n...\n\n#### Evaluation year: 2016\nConsidering the conservative nature of the dietary exposure estimate, based on maximum use levels applied\nto all food consumed from categories with permissions for use in the countries assessed, steviol glycosides are not likely to present a health concern for any age group.\nMeeting:\n82\nSpecs Code:\nN, T\nReport:\n[\">TRS 1000-JECFA 82/54](http://apps.who.int/iris/bitstream/10665/250277/1/9789241210003-eng.pdf=66)\nTox Mon",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "institutional_database_excerpt"
+  },
+  {
+    "namespace": "d:7",
+    "id": 7,
+    "url": "https://www.foodstandards.gov.au/sites/default/files/food-standards-code/applications/Documents/A1222%20Application_Redacted.pdf",
+    "title": "APPLICATION FOR THE APPROVAL OF STEVIOL GLYCOSIDES FROM YARROWIA LIPOLYTICA UNDER THE AUSTRALIA NEW ZEALAND FOOD STANDARDS CODE â STANDARD 1.3.1 â FOOD ADDITIVES",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "B.5.1 Overview ................................................ .............................................................. 24 \nB.5.2 Raw Materials, Processing A ids, and Equipment Specifications ......................... 26 \nB.5.3 Manufacturi ng Process ........................................................................................ 28 \nB.6 Specification for Identity and Purity of Reb MD ........... .................................................... 28 \nB.6.1 Existing Specifications for Steviol Glycosides .......... ............................................ 28 \nB.6.2 Proposed Specifi cations for Reb MD ................................................................... 30 \nB.6.3 Product Analysis ........................................ ........................................................... 30 \nB.6.4 Other Chem ical Analysis ...................................................................................... 31 \nB.7 Information fo r Food Labelling ...............",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "fermentation process is maintained at pH 4.5 \nto 6.5 using potassium hydroxide, phosphoric acid, or ammonium hydroxide.  The fermentation broth \nundergoes heat treatment (75 to 95°C, 5 minutes to 1 hour) to stop fermentation and kill the yeast cells.  \nOptionally, the pH of the broth is adjusted to <4.5 with phosphoric acid, hydrochloric acid, sulfuric acid, or \ncitric acid and the yeast biomass is subsequently removed from the dissolved product by any combination \nof centrifugation, microfiltration, or clarification.  The product stream may be purified by ultrafiltration to \nfurther remove dissolved proteins and other nitrogen-containing compounds.  Preservatives such as \npotassium sorbate and sodium benzoate may be added to the filtrate and the pH of the filtrate may be \nlowered to <4.2 to minimise microbial contamination downstream.  The filtrate may undergo typical \npurification processes used for steviol glycosides extracted from S. rebaudiana Bertoni leaves.  \nAdditionally, the optional drying steps described below can be utilised to vary the percentages of the \nindividual steviol glycosides in the final product. \nThe filtrate may be passed through an adsorption resin, retaining steviol glycosides, thus separating them \nfrom other constituents that may be present in the filtrate.  The resin is subsequently washed with ethanol \nor water to elute steviol glycosides.  The el",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "B.2.2 Composition ............................................. ............................................................ 23 \nB.3 Information on the Chemical and Physical Properties of Reb MD ................................... 23 \nB.4 Information on the Im purity Profile of Reb MD ............................................................... 24 \nB.5 Manufacturing P rocess of Reb MD ................................................................................... 24 \nB.5.1 Overview ................................................ .............................................................. 24 \nB.5.2 Raw Materials, Processing A ids, and Equipment Specifications ......................... 26 \nB.5.3 Manufacturi ng Process ........................................................................................ 28 \nB.6 Specification for Identity and Purity of Reb MD ........... .................................................... 28 \nB.6.1 Existing Specifications for Steviol Glycosides .......... ............................................ 28 \nB.6.2 Proposed Specifi cations for Reb MD ................................................................... 30 \nB.6.3 Product Analysis ........................................ ........................................................... 30 \nB.6.4 Other Chem ical Analysis ...............................................................",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "full_applicant_PDF"
+  },
+  {
+    "namespace": "d:8",
+    "id": 8,
+    "url": "https://www.foodstandards.gov.au/sites/default/files/2023-11/A1268%20Approval%20Report.pdf",
+    "title": "Approval report â Application A1268",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "As noted in section 1.2 of this report above, Monograph 26 includes steviol \nglycosides, being the (Framework for) Steviol Glycosides. This includes annex 3 which is the \nform of manufacture ‘Enzyme modified’ [bioconversion] steviol glycosides relevant to this \napplication. The gazettal of amendments to the Code approved via P1061 occurred on 19 \nJuly 2023, which was before the final consideration of this application. As also noted earlier \nin the report the applicant’s steviol glycosides do not comply with the JECFA framework. \n \nSection S3—35 of Schedule 3 provides a specification for steviol glycosides produced by \nenzymatic conversion which is relevant to this application and so is required to be amended.   \n\n1.3.1.5 Labelling requirements \n\nParagraph 1.1.1—10(8) of the Code provides that food for sale must comply with all relevant \nlabelling requirements in the Code. \n \nStandard 1.2.1 sets out the labelling requirements for food for sale.  \n \nStandard 1.2.4 generally requires pack",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "approval_report_long_extract"
+  },
+  {
+    "namespace": "d:18",
+    "id": 18,
+    "url": "https://eur-lex.europa.eu/eli/reg_impl/2022/672",
+    "title": "Implementing regulation - 2022/672 - EN - EUR-Lex",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Commission Implementing Regulation (EU) 2022/672 of 22 April 2022 amending Implementing Regulation (EU) 2017/2470 as regards the specifications of the novel food trans-resveratrol (from microbial source) (Text with EEA relevance)\n\nCommission Implementing Regulation (EU) 2022/672 of 22 April 2022 amending Implementing Regulation (EU) 2017/2470 as regards the specifications of the novel food trans-resveratrol (from microbial source) (Text with EEA relevance)\n\nC/2022/2360\n\nOJ L 122, , pp. 24â26 (BG, ES, CS, DA, DE, ET, EL, EN, FR, GA, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)\n\nIn force\n\nExpand all\n\nCollapse all\n\nLanguages, formats and link to OJ\n\nHTML\n\nEN\n\nPDF\n\nEN\n\nOfficial Journal\n\nEN\n\nMultilingual display\n\nEnglish (en) Bulgarian (bg) Spanish (es) Czech (cs) Danish (da) German (de) Estonian (et) Greek (el) English (en) French (fr) Irish (ga) Croatian (hr) Italian (it) Latvian (lv) Lithuanian (lt) Hungarian (hu) Maltese (mt) Dutch (nl) Polish (pl) Portuguese (pt) Romanian",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "legal_identity_partial_text_only_no_annex"
+  },
+  {
+    "namespace": "d:19",
+    "id": 19,
+    "url": "https://www.legislation.gov.uk/eudn/2016/1190/pdfs/eudn_20161190_adopted_en.pdf",
+    "title": "COMMISSION  IMPLEMENTING  DECISION  (EU)  2016/  1190  -  of  19  July  2016  -  authorising  the  placing  on  the  market  of  trans-resveratrol  as  a novel  food  ingredient  under  Regulation  (EC)  No 258  /  97  of  the  European  Parliament  and  of  the  Council  -  (notified  under  document  C(2016)  4567)  -  (Only  the  English  text  is  authentic)",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "Article 1 \nTrans-resveratrol as specified in the Annex to this Decision may be placed on the market in the Union as a novel food \ningredient to be used in food supplements in capsule or tablet form intended for adult population only with \na maximum dose of 150 mg per day without prejudice to the provisions of Directive 2002/46/EC. \nArticle 2 \n1. The designation of trans-resveratrol authorised by this Decision on the labelling of the foodstuffs containing it shall \nbe ‘trans-resveratrol’. \n2. The labelling of food supplements containing trans-resveratrol shall bear a statement that people using medicines \nshould only consume the product under medical supervision. \nArticle 3 \nThis Decision is addressed to DSM Nutritional Products Ltd, Heanor Gate Ind. Est. Heanor, Derbyshire, United Kingdom. \nDone at Brussels, 19 July 2016. \nFor the Commission \nVytenis ANDRIUKAITIS \nMember of the Commission  \n21.7.2016 L 196/54 Official Journal of the European Union EN     \nANNEX \nSPECIFICATION OF TRANS-RESVERATROL \nDefinition: \nChemical name 5-[(E)-2-(4-hydroxyphenyl)ethenyl]benzene-1,3-diol \nChemical formula C14H12O3 \nMolecular weight 228,25 Da \nCAS No 501-36-0  \nDescription: Trans-resveratrol is off-white to beige crystals. \nPurity: \nTrans-resveratrol Not less than 99 % \nTotal by-products (related substances) Not more than 0,5 % \nAny single related substance Not more than 0,1 % \nLead Not more than 1 ppm \nMercury Not more than 0,1 ppm \nCadmium Not more than 0,5 ppm \nArsenic Not more than 1 ppm \nLoss on drying Not more than 0,5 % \nSulphated ash Not more than 0,1 % \nDiisopropylamine Not more than 50 mg/kg   \n21.7.2016 L 196/55 Official Journal of the European Union EN",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "full_official_historical_decision_PDF"
+  },
+  {
+    "namespace": "d:20",
+    "id": 20,
+    "url": "https://www.bfr.bund.de/cm/343/efsa-opinion-on-the-safety-of-synthetic-resveratrol.pdf",
+    "title": "EFSA opinion on the safety of synthetic resveratrol vom 15.12.2015",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "The specifications are provided in Table 1. Test results for three batches show compliance with the \nspecification limits apart for the values for mercury (Table 2).  \nSafety of synthetic trans-resveratrol \n \n \n \nwww.efsa.europa.eu/efsajournal 9 EFSA Journal 2016;14(1):4368 \n \nNo certificate has been provided regarding accreditation of the applicants’ laboratory. However, the \nanalyses of resveratrol and its by-products have been carried out using a validated HPLC method. \nTable 1:  Specifications of the Novel Food  \nParameter Target Method of detection \nAppearance Off-white to beige crystals  \ntrans-Resveratrol ≥ 99% HPLC-MS, HPLC-UV \nTotal by-products (related substances)  0.5% HPLC-UV \n   Pinostilbene    0.1% \n   Pinostilbene isomers  0.1% \n   Pterostilbene   0.1% \n   2-Methylresveratrol  0.1% \n   3-Methylresveratrol  0.1% \n   ‘Homo’-resveratrol(a)  0.1% \n    Unknown impurities  0.1% \nHeavy metals ≤ 10 ppm AAS (Ph.Eur) \n   Lead ≤ 1 ppm  \n   Mercury ≤ 0.1 ppm  \n   Cadmium ≤ 0",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Mercury ≤ 0.1 mg/kg ≤ 1.0 ≤ 1.0 ≤ 1.0 \nDiisopropylamine ≤ 50 mg/kg 2 4 4 \nTotal aerobic count  ≤ 1000 cfu/g 70 10 < 10 \nTotal combined \nyeast and mould  ≤ 100 cfu/g < 10 < 10 < 10 \nEnterobacteria ≤ 10 cfu/g < 10 < 10 < 10 \nEscherichia coli  neg in 10 g neg neg neg \nStaphylococcus  \naureus  neg in 10 g neg neg neg \nPseudomonas \naeruginosa  neg in 10 g neg neg neg \nSalmonella subsp. neg in 25 g neg neg neg \nIsopropyl alcohol  150 mg/kg nd nd nd \nTetrahydrofuran  50 mg/kg 1 nd nd \nEthyl acetate  50 mg/kg nd nd nd \nMethanol  50 mg/kg nd 3 3 \nToluene  50 mg/kg 1 6 4 \nEthanol  1500 mg/kg 322 164 223 \nDiisopropylamine  50 mg/kg 2 4 4 \n(a) not detected \n(b) 5-[(1E,3E)-4-(4-hydroxyphenyl)-1,3-butadien-1-yl]-1,3-benzenediol, its CAS number is 945484-65-1 \n \nTesting for potential residual aluminium for three batches (other than those in Table 2) with induced \ncouple plasma mass spectrometry (ICP/MS) resulted to levels of below the limit of quantification \n(< 1 ppm). \nAdditional impurities that can be present at very low concentrations are residual solvents including \ndiisopropylamine. The applicant proposes a limit of 50 mg/kg for diisopropylamine by taking into \nconsideration that according to the threshold of toxicological concern (TTC) scheme diisopropylamine \nis assigned to Cramer Class III with TTC of 90 µg/day. A supplemental dose of the maximum \nproposed dose of 150 mg/day w",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "3.2. Effect of the production process applied to the novel food ................................................... 10 \n3.3. History of the organism used as a source of the novel food ................................................. 11 \n3.4. Anticipated intake/extent of use of the novel food ............................................................... 11 \n3.5. Information from previous exposure to the novel food or its source ..................................... 11 \n3.6. Nutritional information on the novel food ............................................................................ 12 \n3.7. Microbiological information on the novel food ..................................................................... 12 \n3.8. Toxicological information on the novel food ........................................................................ 12 \n3.8.1. Absorption, distribution, metabolism and excretion (ADME) ................................................. 12 \n3.8.2. Genotoxicity and carcinogenicity ........................................................................................ 13 \n3.8.3. Subacute, subchronic and chronic toxicity ........................................................................... 14 \n3.8.4. Chronic toxicity/carcinogenicity studies ............................................................................... 16 \n3.8.5. Developmental toxicity ..",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "full_EFSA_opinion_via_BfR_PDF"
+  },
+  {
+    "namespace": "d:21",
+    "id": 21,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12143567",
+    "title": "Overestimated cytotoxicity and underestimated whitening efficacy of glabridin: A result of its poor solubility in DMSO - PMC",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "### Stability assay\n\nGlabridin was dissolved in DMSO to prepare a 20 mg/mL solution. Similarly, a 20 mg/mL solution of CD-encapsulated glabridin was also prepared in PBS. Both solutions were diluted with PBS to a final concentration of 100 µg/mL. These dilutions were incubated at room temperature for 0, 5, 10, 15, 30, 60, and 120 min, respectively. The solutions were filtered using a 0.22-µm filter and then diluted with 9 times the volume of methanol. Then, the concentration of glabridin in the supernatant was quantified using a ZORBAX Stable Bond C18 column (4.6 × 250 mm, 5 μm, Agilent Technologies) linked to a high-performance liquid chromatography (HPLC) system equipped with a diode array detector (DAD, Agilent 1100). The column temperature was maintained at 25 °C, and the flow rate was maintained at 1 mL/min. The mobile phase consisted of acetonitrile and water (4:1 v:v). Glabridin with a purity of 99.7% (FUJIFILM Wako Pure Chemical Corporation, Japan) was used as the standard [19]",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "original_research_long_extract"
+  },
+  {
+    "namespace": "d:24",
+    "id": 24,
+    "url": "https://www.accessdata.fda.gov/cms_ia/importalert_119.html",
+    "title": "Import Alert 45-06",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "With regard to use in conventional foods, stevia leaf, or its crude extract, is not\nan approved food additive and is not considered GRAS due to inadequate toxicological information.\nWith regard to use in dietary supplements, dietary ingredients (including stevia)\nare not subject to food additive regulations.\nStevia leaf-derived products are approved for use as sweeteners in foods in Japan, Brazil, Australia, New Zealand, and other countries. Said products are used in a variety of foods, including teas, and are commonly used as table-top sweeteners.\nHistorically, stevia leaves and stevia leaf-derived products have been offered for entry both in bulk and in finished products such as teas, drinks, seafood, fruits, vegetables and candies.\nStevia leaves are known to contain high intensity sweetener compounds, which are collectively called steviol glycosides, and are approximately 200-300 times sweeter than sucrose. Steviol glycosides differ from stevia leaves in that they are purified extracts obtained from the leaves.\nStevioside, rebaudioside A, rebaudioside D, rebaudioside M, enzyme-mod",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "official_import_alert"
+  },
+  {
+    "namespace": "d:28",
+    "id": 28,
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-glycyrrhiza-glabra-l-andor-glycyrrhiza-inflata-bat-andor-glycyrrhiza-uralensis-fisch-radix-first-version_en.pdf",
+    "title": "Community herbal monograph on Glycyrrhiza glabra L. and/or ...",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "# Superseded\nCommunity herbal monograph on _Glycyrrhiza_ _glabra_ L. and/or _Glycyrrhiza_ _inflata_ Bat. and/or _Glycyrrhiza_ _uralensis_ Fisch., radix\nEMA/HMPC/571119/2010 Page 2/8\n\n...\n\n## **Community herbal monograph on** **_Glycyrrhiza glabra_** **L. and/or** **_Glycyrrhiza inflata_** **Bat. and/or** **_Glycyrrhiza uralensis_** **Fisch., radix**\n### **2.** **Qualitative and quantitative composition** ¹ **,** ²\n**Well-established use Traditional use**\nWith regard to the registration application of\nArticle 16d(1) of Directive 2001/83/EC as\namended\n_Glycyrrhiza glabra_ L _._ and/or _Glycyrrhiza inflata_\nBat. and/or _Glycyrrhiza uralensis_ Fisch., radix\n(liquorice root)\ni) Herbal substance\nNot applicable.\nii) Herbal preparations\na) Comminuted herbal substance\nb) Soft extract (DER 1:0.4-0.5), extraction\nsolvent water\nc) Soft extract (DER 3:1), extraction solvent\nwater\nd) Dry extracts that correspond to preparations mentioned under b) and c)\n\n### **3.** **Pharmaceutical form**\n**Well-established use Traditional use**\nComminuted herbal substance as a herbal tea for\noral use.\nHerbal prep",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "superseded_monograph_excerpt"
+  },
+  {
+    "namespace": "d:30",
+    "id": 30,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25864442",
+    "title": "Stability and solubility of trans-resveratrol are strongly influenced by pH and temperature",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "In acidic pH trans-RSV was stable, whereas its degradation started to increase exponentially above pH 6.8. Consequently, it is worthwhile to note that special consideration has to be dedicated to long dissolution testing or biological assays on cell lines in order to obtain relevant data.\nMeasurements were done by validated UV/VIS spectroscopy, HPLC, and newly developed UPLC methods. Specificity was confirmed for HPLC and UPLC method, whereas UV/VIS spectroscopy resulted in false higher trans-RSV concentrations in conditions under which it was not stable (alkaline pH, light, increased temperature).\nThe study is of interest because it draws attention to the importance of careful selected experimental conditions, their influence on the trans-RSV stability and the implications this has for formulation development, storage, and maintenance of therapeutic doses.\n\n...\n\n## Similar articles\n[See all similar articles](https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed&from_uid=25864442)\n\n## Cited by\n* De Novo Synthesis of Resveratrol from Sucrose by Metabolically Engineered _Yarrowia lip",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "original_study_abstract_only"
+  },
+  {
+    "namespace": "d:34",
+    "id": 34,
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S030881462401272X",
+    "title": "Properties, extraction and purification technologies of Stevia rebaudiana steviol glycosides: A review - ScienceDirect",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "*Stevia rebaudiana* (Bertoni) Hemsl., also known as honey chrysanthemum and stevia grass, is a dicotyledonous perennial herb of the Asteraceae family, native to Paraguay and Brazil in South America. Its leaves are rich in steviol glycosides (SGs), protein, fiber, amino acids, lipids, carotenoids, ascorbic acid, and bioactive compounds (Lemus-Mondaca et al., 2012). Substances with sweetening activity in Stevia rebaudiana are collectively known as SGs (Jaitak, 2015), and their main sweet components are Stevioside (Stv) and Rebaudioside A (Reb A). The content of the two accounts for about 14–18 % of the total dry matter composition of stevia leaves, and the sweetness is pure long. It tastes like sucrose, is 300 times sweeter than table sugar, and is heat stable, acid-base stable, and non-fermentable (Robles et al., 2016). Therefore, SGs are a high-quality medicinal and food resource with no health risks to consumers. With increasing demand for SGs, Stevia rebaudiana cultivation is now common in Canada, Europe, and several Asian countries: China, Singapore, South Korea, Malaysia, and Tha",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "review_long_extract"
+  },
+  {
+    "namespace": "d:36",
+    "id": 36,
+    "url": "https://doi.org/10.3390/molecules30163416",
+    "title": "Ultrasound-Assisted Coupled with Resin-Based Purification for Sustainable Extraction of Steviosides from Stevia rebaudiana Leaves",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "The extraction method was refined using 20% ethanol as the solvent, an optimal temperature of 50 â¢ C, and a 1:10 material-to-liquid ratio, increasing the steviol glycoside yield from 32.0% to 49.1%. Decolorization employing a combination of resins D940 and T5 achieved decolorization rates of 89-92% with minimized steviol glycoside loss, surpassing the non-selective adsorption limitations of activated carbon. For decontamination, calcium hydroxide (Ca(OH) 2 ) outperformed diatomaceous earth, attaining a 98% protein removal rate while maintaining steviol glycoside loss below 20%. The desalting resin LXP-016 demonstrated superior performance at 40 â¢ C, enhancing the ability of ionic impurity removal. These optimizations collectively improve the efficiency, sustainability, and quality of steviol glycoside production, offering a promising framework for industrial-scale applications.\n\n## Introduction\n\nStevia rebaudiana Bertoni, commonly known as stevia, is a natural sweetener plant valued for its potent sweetness and negligible caloric content. Its primary sweetening compounds, stevios",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "abstract_only_no_batch_size"
+  },
+  {
+    "namespace": "d:37",
+    "id": 37,
+    "url": "https://doi.org/10.1007/s00253-021-11306-x",
+    "title": "Synthesis and production of steviol glycosides: recent research trends and perspectives",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "## Steviol glycosides: biosynthetic pathway, chemical diversity and function\n**Fig. 1**\nFull size image\n\n...\n\n**Fig. 2**\nFull size image\nComparison of the sweetness potential of the principal steviol glycosides found in stevia leaves (compared to sucrose). Scheme prepared by Agata Rębilas\n\n...\n\n**Fig. 3**\nFull size image\nSchematic representation of steviol glycosides biosynthetic pathway with possible alternative routes (marked with different colours) of their biosynthesis. Scheme prepared by the authors\n\n...\n\n```\n. Moreover, 124 cytochrome P450 monooxygenases and 45 UGTs have been identified as potential targets in plant engineering to upscale SvGls biosynthesis and to implement molecular breeding strategies to enhance the plant genetically. Recently, full-length _S. \n```\n\n...\n\n## **_Stevia rebaudiana_** (Bertoni) biology and agronomy\n```\n            \") ).\n```\n**Fig. 4**\nFull size image\n\n...\n\n**Fig. 5**\nFull size image\nFollowing steps of _Stevia rebaudiana_ micropropagation. (source: unpublished photos by Marta Libik-Konieczny)\n\n...\n\nFull access to light is crucial, because even par",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "review_partial_extract"
+  },
+  {
+    "namespace": "d:41",
+    "id": 41,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5760951/fullTextXML",
+    "title": "PMC5760951 full-text XML, Europe PMC",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "2.5.1 Preparation of the 95% ethanol extract from P. cuspidatum by reflux extraction Extraction of resveratrol from  P. cuspidatum  was performed with 95% ethanol by reflux extraction according to the method reported in literature  [19] . In this process, the dried roots of  P. cuspidatum  were ground to powder (about 40 mesh) by using FZ102 plant disintegrator. One hundred grams of powder were placed in distillation flask. After adding 95% ethanol in a proportion of 1:6 (powder: 95% ethanol, g/mL), the mixture was left to rest approximately 12 h at room temperature. Then the soaked powder of  P. cuspidatum  was extracted by refluxing extraction at about 80 °C. This extraction procedure was repeated three times and 1 h for each time. The extract solutions obtained were combined and evaporated to dryness by a rotary evaporator under vacuum at 65 °C. The yield was calculated dividing the mass of recovered dry extract ( m r ) by the initial mass of  P. cuspidatum  powder ( m i ) (see Eq.  (1) ) and the content of resveratrol was detected by HPLC. (1) Yield ( % ) = ( m r / m i ) × 100 %",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "3.3 Hydrolyzing In order to improve the yield of resveratrol, we used a glycoside hydrolysis pathway. First we used sulfuric acid (pH=1), both resveratrol and polydatin can be easily oxidized in this condition. Therefore, we finally used the reflux-hydrolysis approach under hydrochloric acid condition (pH=1). TLC results showed that after reflux-hydrolyzing for 8 h, polydatin was hydrolyzed completely. Fig. 3 (D) shows the chromatogram of aqueous solution after hydrolyzed in acidic solution (pH=1) for 6 h. It was clear that most polydatin was transformed to resveratrol. 3.4 Liquid–liquid extraction 3.4.1 Selection of extraction solvent Any components will be distributed between two phases according to the distribution constant, temperature, and the relative volumes of two phases. Therefore, the selection of extractants is one of the most important factors in solvent extraction. Four solvents [ethyl acetate, ethyl acetate:petroleum ether (1:1), petroleum ether and methyl tert-butyl ether] were tested in their extraction efficiency, and the extraction recoveries acquried were 81.8±7.3%, 91.7±6.5%, 10.6±4.3%, 92.6±9.2% (mean±SD,  n =3), respectively. For methyl tert-butyl ether, the extraction recovery of resveratrol was the significantly highest among the four extractants (Analysis of variance:  F =93.55,  P =0.0001), thus it was finally selected as extraction solvent. Similar re",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "3.2.1 Roles of filtration Fig. 3 (A) shows the chromatogram of 95% ethanol extract,  Fig. 3 (B and C) are the chromatograms of residue and aqueous solution after filtering, respectively. It is very clear that resveratrol (peak3) and other compounds with  T R  15 min were mostly remained in aqueous phase, while the non polar or less polar compounds with  T R  21 min were mostly or completely left in residue. The 95% ethanol extract contains some non polar or less polar compounds such as physcion, chrysophanol, emodin and so on. To remove these compounds and debris fragments from the extract, the efficiency of two different filtering approaches was compared. The first one used direct filtration method. The extracting solution acquired from  P. cuspidatum  by refluxing extraction was concentrated under low pressure until ethanol was mostly or completely evaporated. After that it was diluted with water and then filtrated. It was found that those non polar or less polar compounds, which might exist in single molecular form, were still found in the filtrate and could not be easily removed. However, compared with the first one, the second method was very effective in eliminating the non polar or less polar compounds. The cause might be that these compounds existed in molecular aggregation form and thus could be easily removed by filtering (figures were not given here). 3.2.2 Effect of",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "2.5.2 Filtering and hydrolyzing The 95% ethanol extract mentioned above was pulverized into powder form (less than 0.9 mm). A milled sample and water in a proportion of 1:30 (w/v, g/mL) were sealed in a vessel and placed into the ultrasonic cleaning bath for 20 min at 50 °C. The mixture finally becomes a uniform suspension solution, and was immediately filtered at lower pressure. The aqueous solution and the residue acquired were used for HPLC detection. In order to hydrolyze polydatin to resveratrol, the aqueous solution was adjusted with hydrochloric acid to pH=1, and hydrolyzed by refluxing in water bath for 8 h at 75 °C. 2.5.3 Liquid–liquid extraction Liquid–liquid extraction was carried out in a separating funnel. The aqueous solution mentioned above was mixed with the same volume of extraction solvent, and the separation between the aqueous and organic phases was carried out by gravitational sedimentation. To achieve a high recovery extraction was repeated three times. The volumes of aqueous and organic phases were measured and concentrations of resveratrol in each phase were analyzed with HPLC (see Eq.  (2) ). (2) Extraction recovery of resveratrol ( % ) = ( V 0 C 0 / V i C i ) × 100 % where  V 0  and  C 0  are the volume and concentration of resveratrol in organic phase after extraction respectively,  V i  and  C i  are the initial volume and initial concentration of re",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "full_original_article_Europe_PMC_XML"
+  },
+  {
+    "namespace": "d:44",
+    "id": 44,
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK590484",
+    "title": "Licorice - LiverTox® - NCBI Bookshelf",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "### Introduction\n\nLicorice is the common name of the plant *Glycyrrhiza glabra*, the roots of which are widely used as a flavoring in food, candy and tobacco, and extracts of which have been used in traditional medicine for the treatment of many conditions, including gastrointestinal disorders, upper respiratory infections, and symptoms of menopause and premenstrual tension. Licorice when given in high doses has many serious adverse events, but has not been reported to cause serum aminotransferase elevations or clinically apparent liver injury.\n\n### Background\n\nLicorice is a flavoring agent as well as an herbal supplement prepared from the roots and runners of *Glycyrrhiza glabra*, a herbaceous flowering plant found in Mediterranean areas of Europe and Africa, the Middle East, and Asia. The roots of *Glycyrrhiza glabra* have a sweet aroma, and extracts are used to sweeten and flavor tobacco, food, and candy. Extracts of licorice root have also been used in traditional medicine for a variety of conditions including ulcer disease, constipation, nausea, upper respiratory illnesses, coug",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "hypokalemia, sodium and water retention, muscle weakness, paralysis, and cardiac arrhythmias. Deaths from hypermineralocorticoidal effects have been reported in patients taking high doses of oral licorice in teas or as extracts in capsules or tablets. Licorice is also an abortifacient and has estrogenic and corticosteroid effects that can result in fetal toxicity or loss and should not be used during pregnancy.\n\n### Hepatotoxicity\n\nIn multiple clinical studies of different preparations of licorice or glycyrrhizin in conventional doses, adverse side effects were usually described as uncommon and transient. In studies that included measurements of routine liver tests, there were no episodes of serious elevations in serum [ALT](/books/n/livertox/glossary/def-item/glossary.alanine-aminotransferase-alt-/) or [AST](/books/n/livertox/glossary/def-item/glossary.aspartate-aminotransferase-ast-/) and no instances of clinically apparent liver injury. There have been no single case reports of liver injury due to licorice and large case series and registries of drug- and dietary supplement induced liver injury, and licorice has not been listed as an implicated agent.\n\n[Likelihood score](/books/n/livertox/glossary/def-item/glossary.likelihood-score/): E (unlikely cause of clinically apparent liver injury).\n\n### Mechanism of Injury\n\nThe mechanism by which licorice extracts and glycyrrhizin mi",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "NIH_LiverTox_full_extract"
+  },
+  {
+    "namespace": "d:48",
+    "id": 48,
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC3795865/unicode",
+    "title": "Simmler et al glabridin review, NCBI BioC full text",
+    "accessed": "2026-09-09",
+    "quotes": [
+      {
+        "text": "2.3 Isolation from its natural source/purification processes\nMost of the techniques reported for the isolation of Glab require a minimum of three chromatographic steps, including at least one step of liquid/liquid (L/L) partition and two steps of silica gel chromatography with the frequent use of benzene/ether as final eluent (Figure 3). Considering the chemical complexity of G. Glabra roots, it is understandable that purifying this prenylated isoflavan in less than three to four chromatographic steps remains a challenging task. In addition to silica gel, the second type of stationary phase which has been frequently used was polyamide, although both materials are known for unwanted properties such as irreversible adsorption and chemical modification through oxidation. In summary, Saito et al. were able to isolate Glab after two steps of silica gel chromatography and one final purification on polyamide using MeOH as eluent. After L/L partition of the crude extract, Vaya et al. isolated Glab from the organic layer, following one step of aluminum oxide chromatography and two steps of si",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "2.6 Glabridin stability: prodrugs and formulation\nAo et al. have evaluated various factors influencing Glab stability, such as temperature, pH, light exposure, and humidity. While Glab was found to be unstable under basic conditions (pH > 7), it remained stable at neutral pH. Glab was stable between 4 and 60 °C, and started to degrade only at temperatures above 60 °C. Moreover, degradation was shown to occur at room temperature under natural light. It was finally concluded that, for long term storage, Glab has to be kept in a dry, dark, and low oxygen environment. The structural identity of degradation products remains yet unknown.\nIn order to enhance Glab solubility in aqueous media, but also to increase its stability in formulations, two different techniques have been developed. One approach consists of synthetizing 2′,4′-diester or -diether derivatives, the second utilizes a physical protection of Glab through encapsulation. Ether or ester derivatives of Glab can be considered as pro-drugs, especially when taking into account that 2′,4′-dimethoxyglabridin undergoes demethylation in vivo, as indicated by Rosenblat et al.. Glabridin 2′,4′-O-di-β-D-glucopyranoside was synthetized as UVB absorber for sunscreen formulation, as tyrosinase inhibitor for a skin whitening formulation, and as anti-irritant. The 2′,4′-dihydroxyl functions can also be protected through an etherification",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Subsequently, Xu et al. have developed an enrichment method by studying the adsorption and desorption properties of Glab on different macroporous resins including HPD100, HPD300, HPD800, NKA and H103. The content of Glab in the final enriched fraction, after using HPD100, was ~150-fold higher than in the starting crude extract. One major drawback of these enrichment techniques is the necessity to employ a solid phase interaction step, which is known to lead to potential irreversible adsorption. For example, the recovery of Glab after passage through HPD100 was 80%, indicating that 20% of Glab remains on the resin. On the other hand, the cited SPE techniques, using MIPs or macroporous resins, are well suited for the enrichment and subsequent isolation of Glab.\n2.3 Isolation from its natural source/purification processes\nMost of the techniques reported for the isolation of Glab require a minimum of three chromatographic steps, including at least one step of liquid/liquid (L/L) partition and two steps of silica gel chromatography with the frequent use of benzene/ether as final eluent (Figure 3). Considering the chemical complexity of G. Glabra roots, it is understandable that purifying this prenylated isoflavan in less than three to four chromatographic steps remains a challenging task. In addition to silica gel, the second type of stationary phase which has been frequently used w",
+        "added": "2026-09-09"
+      },
+      {
+        "text": "Interestingly, Glab has been demonstrated to be localized only in the cork layer and the decayed part of the roots of G. glabra, representing 0.08 to 0.35% of the roots’ dry weight. In 1978, Glab was identified as a species-specific secondary metabolite of G. glabra, and this designation was later confirmed by Kondo et al. through the comparative analysis of genetic and chemical markers from the three principal licorice species: G. uralensis Fisch. ex DC., G. glabra L., and G. inflata Batalin.\nConsidering the established role of Glab as a phytoalexin, its quantity in the investigated material may reflect the environmental stress to which producing parts of G. glabra were exposed. Accordingly, Glab content may fluctuate between samples depending on the type of cultivation and the geographical area from which the roots were harvested.\n2.2 Methods for G. glabra extraction and enrichment in glabridin\nGlab is generally not consumed as a single chemical entity but rather as constituent of G. glabra crude extract. This reveals the importance of method development dedicated to the extraction of G. glabra roots and the enrichment in Glab. Most licorice extracts are produced for commercialization in the cosmetic, food or DSs markets, hence requiring the use of non-toxic solvents and environmentally safe methodologies. Extraction with ethanol (EtOH), aqueous EtOH, supercritical fluid CO2,",
+        "added": "2026-09-09"
+      }
+    ],
+    "cited_in_deliverable": true,
+    "access_scope": "full_review_NCBI_BioC_API"
+  }
+]

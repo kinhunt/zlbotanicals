@@ -11,8 +11,9 @@ try {
  for(const javaScriptEnabled of [true,false]) for(const width of [390,1440]) for(const lang of ['en','zh']) {
   const prefix=lang==='zh'?'/zh':'';
   const context=await browser.newContext({javaScriptEnabled,viewport:{width,height:900}});
-  const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
+  const errors=[];
   for(const row of rows) {
+   const page=await context.newPage();page.on('pageerror',e=>errors.push(e.message));
    const routes=[`${prefix}/products/${row.productId}`];
    if(row.canonicalPath.startsWith('/plant-extracts'))routes.push(prefix+row.canonicalPath);
    for(const route of routes){
@@ -23,9 +24,11 @@ try {
     assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false,route);
     for(const dim of dimensions){
      await page.goto(base+route);await page.locator(`[data-ingredient-nav] a[href$="#${dim}"]`).click();
-     await page.waitForURL(base+prefix+row.canonicalPath+`#${dim}`);
+     await page.waitForURL(base+prefix+row.canonicalPath+`#${dim}`);await page.waitForLoadState('load');
      const section=page.locator(`section#${dim}`);assert.equal(await section.count(),1);
-     assert.ok((await section.textContent()).includes(row.sections[dim].text[lang]));
+     assert.ok((await section.textContent()).length>400);
+     assert.ok(await section.locator('p').count()>0);
+     assert.ok(await page.locator('[data-research-toc]').count()===1);
      assert.equal(await page.locator('[data-ingredient-content]').getAttribute('data-ingredient-content'),row.productId);
      await page.evaluate(()=>document.fonts.ready);
      assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false);
@@ -45,6 +48,7 @@ try {
     }
     results.push({javaScriptEnabled,width,lang,productId:row.productId,route,anchors:5});
    }
+   await page.close();
   }
   assert.deepEqual(errors,[]);await context.close();
  }

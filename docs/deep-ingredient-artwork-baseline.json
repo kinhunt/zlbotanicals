@@ -1,0 +1,50 @@
+[
+  {
+    "file": "centella-asiatica.webp",
+    "sha256": "24ea3a4ad234572c1d518b488ec8a48529e4a5c9851928527ec84cca8e37bfed"
+  },
+  {
+    "file": "ginkgo-biloba.webp",
+    "sha256": "6f03ba13970fb63479f7444a7abd606b39ea568ce15a5800ea5188ceb4545bba"
+  },
+  {
+    "file": "ginseng.webp",
+    "sha256": "7476d7317fe56d0f233324fc11ed8fa82fc27c8c4a4ed530f1028b2c528118e9"
+  },
+  {
+    "file": "goji-berry.webp",
+    "sha256": "b9ccf2d366aafc8e1490a44b2504d59d8e8c87f60ca3da9a7a7ee1aae3600bc5"
+  },
+  {
+    "file": "grape-seed.webp",
+    "sha256": "d52a9277c553306130986bd5fc8843ea71a097bab1ffcc49436b77113cf91cd0"
+  },
+  {
+    "file": "green-tea.webp",
+    "sha256": "6da34bad4252b0748b824ab793f92dd30ec6e1417880779303bfa4f7b2d43801"
+  },
+  {
+    "file": "licorice-root.webp",
+    "sha256": "ece57a68907f8dd285df684f51b3a407f109a0fe58a5db243b4bc80dc13d9f58"
+  },
+  {
+    "file": "monk-fruit.webp",
+    "sha256": "d2fa303214d9a6e88baaa28c0c1bc2ef85bf300521f51e09d479c6328025cbae"
+  },
+  {
+    "file": "reishi-mushroom.webp",
+    "sha256": "e1faf2a639d444d057f815976d932bc125479410cf20c57beebe9692dd74f66b"
+  },
+  {
+    "file": "resveratrol.webp",
+    "sha256": "9cf3019b9260b4bbf4301d0cd7ec4323cead54ba809b1ba5f5ce912b83eff963"
+  },
+  {
+    "file": "stevia.webp",
+    "sha256": "7fc50c948215c7d9aaa6362f9fb2c0ae916bac4cd9ad2b0c5e3f82f5d361f152"
+  },
+  {
+    "file": "turmeric.webp",
+    "sha256": "d53818db71fabf986440c5b75d16ec8bc42a5d45742da20275c8ee285592b1e9"
+  }
+]
