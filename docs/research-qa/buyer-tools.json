@@ -1,0 +1,67 @@
+{
+  "passed": true,
+  "base": "http://127.0.0.1:4331",
+  "results": [
+    {
+      "lang": "en",
+      "width": 390,
+      "downloads": 3,
+      "print": true,
+      "paths": true
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "downloads": 3,
+      "print": true,
+      "paths": true
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "downloads": 3,
+      "print": true,
+      "paths": true
+    },
+    {
+      "lang": "zh",
+      "width": 768,
+      "downloads": 3,
+      "print": true,
+      "paths": true
+    },
+    {
+      "lang": "en",
+      "width": 1024,
+      "downloads": 3,
+      "print": true,
+      "paths": true
+    },
+    {
+      "lang": "zh",
+      "width": 1024,
+      "downloads": 3,
+      "print": true,
+      "paths": true
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "downloads": 3,
+      "print": true,
+      "paths": true
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "downloads": 3,
+      "print": true,
+      "paths": true
+    }
+  ],
+  "noJavaScript": [
+    "en",
+    "zh"
+  ],
+  "submissions": 0
+}

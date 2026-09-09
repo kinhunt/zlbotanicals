@@ -37,10 +37,11 @@ test('shared navigation exposes the bilingual buyer taxonomy and localized desti
     const ingredient = { label: 'Example ingredient', href: localize('/products/example') };
     const items = getSiteNavigation(t, localize, [ingredient]);
     assert.deepEqual(items.map(({ label }) => label), lang === 'en'
-      ? ['Products', 'Botanical ODM', 'Plant Extracts', 'Resources', 'Quality & Documents', 'About']
-      : ['产品中心', '植物饮品 ODM', '植物提取物', '技术与采购指南', '质量与文件', '关于振隆']);
-    assert.deepEqual(items.map(({ href }) => href), ['/products', '/odm', '/plant-extracts', '/resources', '/quality', '/about'].map(localize));
-    assert.ok(items[0].children.some(c=>c.href===ingredient.href));
+      ? ['Products', 'Botanical ODM', 'Research', 'Quality & Documents', 'About']
+      : ['产品中心', '植物饮品 ODM', '研究与应用', '质量与文件', '关于振隆']);
+    assert.deepEqual(items.map(({ href }) => href), ['/products', '/odm', '/research', '/quality', '/about'].map(localize));
+    assert.ok(!items[0].children.some(c=>c.href===ingredient.href));
+    assert.equal(items[0].children.length,3);
     assert.ok(items[3].children.length <= 5);
     for (const item of items) for (const child of item.children ?? []) {
       assert.ok(child.label && !child.label.startsWith('nav.'), 'every link has a translated label');

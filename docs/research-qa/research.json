@@ -1,0 +1,75 @@
+{
+  "passed": true,
+  "base": "http://127.0.0.1:4331",
+  "results": [
+    {
+      "width": 390,
+      "lang": "en",
+      "routes": 5,
+      "navigation": true,
+      "filters": true,
+      "productRoundTrip": true
+    },
+    {
+      "width": 390,
+      "lang": "zh",
+      "routes": 5,
+      "navigation": true,
+      "filters": true,
+      "productRoundTrip": true
+    },
+    {
+      "width": 768,
+      "lang": "en",
+      "routes": 5,
+      "navigation": true,
+      "filters": true,
+      "productRoundTrip": true
+    },
+    {
+      "width": 768,
+      "lang": "zh",
+      "routes": 5,
+      "navigation": true,
+      "filters": true,
+      "productRoundTrip": true
+    },
+    {
+      "width": 1024,
+      "lang": "en",
+      "routes": 5,
+      "navigation": true,
+      "filters": true,
+      "productRoundTrip": true
+    },
+    {
+      "width": 1024,
+      "lang": "zh",
+      "routes": 5,
+      "navigation": true,
+      "filters": true,
+      "productRoundTrip": true
+    },
+    {
+      "width": 1440,
+      "lang": "en",
+      "routes": 5,
+      "navigation": true,
+      "filters": true,
+      "productRoundTrip": true
+    },
+    {
+      "width": 1440,
+      "lang": "zh",
+      "routes": 5,
+      "navigation": true,
+      "filters": true,
+      "productRoundTrip": true
+    }
+  ],
+  "noJavaScript": [
+    "en",
+    "zh"
+  ],
+  "submissions": 0
+}

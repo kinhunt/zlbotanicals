@@ -1,0 +1,246 @@
+[
+  {
+    "id": "green-tea",
+    "title": {
+      "en": "Green tea science: catechins, EGCG and material identity",
+      "zh": "绿茶科学档案：儿茶素、EGCG 与材料身份"
+    },
+    "description": {
+      "en": "Understand tea leaves, infusions, concentrated extracts and isolated EGCG before comparing assays or designing an application trial.",
+      "zh": "比较含量或设计应用试验前，先理解茶叶、浸泡茶、浓缩提取物与分离 EGCG 的区别。"
+    },
+    "family": "polyphenols-and-catechins",
+    "blocks": [
+      {
+        "id": "identity",
+        "heading": {
+          "en": "One botanical name, different study materials",
+          "zh": "同一植物名称，不同研究材料"
+        },
+        "text": {
+          "en": "Read green tea as a material description, not a single chemical. The EFSA opinion distinguishes green tea leaves, infusions, reconstituted drinks and concentrated supplement extracts, and notes substantial compositional variability. Its assessment uses EGCG content to compare otherwise different preparations.",
+          "zh": "绿茶是材料描述，不是单一化学物。EFSA 意见区分茶叶、浸泡茶、复原饮料与补充剂用浓缩提取物，并指出组成存在明显差异；评价以 EGCG 含量比较不同制备物。"
+        },
+        "citations": [
+          1
+        ]
+      },
+      {
+        "id": "specification",
+        "heading": {
+          "en": "Do not collapse three assay questions into one",
+          "zh": "不要将三种检测问题合并"
+        },
+        "text": {
+          "en": "For an educational comparison sheet, keep total polyphenols, total catechins and EGCG in separate fields. Ask for the named analytes, method, reference standards, reporting basis, caffeine result and carrier declaration. EFSA specifically recommends labels include catechins and the proportion of EGCG; this recommendation is not our released specification.",
+          "zh": "制作教育用途对照表时，将总多酚、总儿茶素与 EGCG 分栏。索取分析物名称、方法、对照品、计量基准、咖啡因结果及载体声明。EFSA 特别建议标示儿茶素含量和 EGCG 比例；该建议不是本公司的放行规格。"
+        },
+        "citations": [
+          1
+        ]
+      },
+      {
+        "id": "process",
+        "heading": {
+          "en": "Compare exposure after processing, not only leaf content",
+          "zh": "比较加工后暴露，不只看茶叶含量"
+        },
+        "text": {
+          "en": "EFSA notes uncertainty in estimating actual EGCG exposure from dry-leaf content because concentrations change during preparation and storage. Development question: what survives the proposed extraction, dilution, heat cycle and storage period in the actual matrix? Record sampling time and assay basis before comparing retention. Do not infer a commercial extraction recipe from this opinion.",
+          "zh": "EFSA 指出制备和储存期间浓度会变化，因此用干茶叶含量估算实际 EGCG 暴露存在不确定性。开发问题是：目标基质经提取、稀释、热处理和储存后保留什么？比较保留率前记录取样时间和检测基准，不从这份意见推导商业提取配方。"
+        },
+        "citations": [
+          1
+        ]
+      },
+      {
+        "id": "application",
+        "heading": {
+          "en": "A beverage trial is not an efficacy experiment",
+          "zh": "饮料试验不是功效实验"
+        },
+        "text": {
+          "en": "Proposed workflow: define the intended serving and consumption occasion, obtain caffeine and catechin data, then agree acceptance criteria for taste, appearance and analytical stability with the formulator. Compare matched samples at the proposed pH, water composition and heat history. These are study-design questions, not completed ZL tests, a validated dose or a shelf-life promise.",
+          "zh": "建议流程：明确每份量与饮用场景，取得咖啡因和儿茶素资料，再与配方师约定口味、外观及分析稳定性的验收指标。使用目标 pH、用水组成和热历史下的匹配样品比较。这些是试验设计问题，不是振隆已完成的试验、已验证剂量或保质期承诺。"
+        },
+        "citations": []
+      },
+      {
+        "id": "evidence",
+        "heading": {
+          "en": "Safety assessment ≠ benefit claim",
+          "zh": "安全评价不等于获益宣称"
+        },
+        "text": {
+          "en": "Evidence type: EFSA scientific safety opinion synthesizing literature, human interventions and toxicological data, not a trial of a ZL product. The opinion discusses rat-hepatocyte experiments separately from human exposure. A cell result cannot establish a beverage benefit; a concentrated extract cannot inherit an infusion’s context simply because both are called green tea. No serving-dose recommendation is made here.",
+          "zh": "证据类型：EFSA 科学安全意见，综合文献、人体干预和毒理数据，不是振隆产品试验。意见将大鼠肝细胞实验与人体暴露分开讨论。细胞结果不能确立饮料获益；浓缩提取物不能因为同称绿茶就继承浸泡茶的使用背景。本文不推荐每份用量。"
+        },
+        "citations": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "centella-asiatica",
+    "title": {
+      "en": "Centella asiatica science: triterpenes and topical evidence",
+      "zh": "积雪草科学档案：三萜与外用证据"
+    },
+    "description": {
+      "en": "Separate Centella extracts, named triterpenes and delivery systems; understand why wound-care literature does not validate an oral or cosmetic product.",
+      "zh": "区分积雪草提取物、特定三萜和递送体系，理解为何创面护理文献不能验证口服产品或普通化妆品。"
+    },
+    "family": null,
+    "blocks": [
+      {
+        "id": "identity",
+        "heading": {
+          "en": "Name the compound and the preparation",
+          "zh": "明确化合物与制备物"
+        },
+        "text": {
+          "en": "The reviewed paper identifies asiaticoside, madecassoside, asiatic acid and madecassic acid as compounds of interest in Centella asiatica. Its abstract also discusses hydrogels, nanostructures and microneedles. A plant extract, an individual compound and a delivery system are different experimental materials, even when a title uses the same botanical name.",
+          "zh": "所读论文将积雪草苷、羟基积雪草苷、积雪草酸与羟基积雪草酸列为关注成分；摘要还讨论水凝胶、纳米结构和微针。植物提取物、单一化合物与递送体系是不同实验材料，即使标题使用相同植物名称。"
+        },
+        "citations": [
+          5
+        ]
+      },
+      {
+        "id": "specification",
+        "heading": {
+          "en": "Translate “total triterpenes” into a question",
+          "zh": "将“总三萜”转化成可核查问题"
+        },
+        "text": {
+          "en": "For a comparison, ask which triterpenes are included in the reported total and how each is quantified. Keep botanical identity, plant part, extraction solvent, marker profile, carrier and microbiological requirements separate. A single total does not document the composition of a study material. These are requested fields, not analytical results for a stocked grade.",
+          "zh": "比较时询问总量包含哪些三萜、各成分如何定量。将植物身份、部位、提取溶剂、标志成分图谱、载体和微生物要求分开记录。一个总量无法完整记录研究材料组成。这些是索取字段，不是库存规格的实测结果。"
+        },
+        "citations": []
+      },
+      {
+        "id": "process",
+        "heading": {
+          "en": "Extraction and delivery are different operations",
+          "zh": "提取与递送是不同操作"
+        },
+        "text": {
+          "en": "A microneedle paper cited in the review concerns dermal delivery of Centella asiatica, not ordinary bulk-powder dissolution. When reading a formulation paper, record whether a result belongs to the extract, a carrier system or their combination. Ask the supplier separately about extraction and fractionation; do not assume the reviewed delivery technology is present in a commercial ingredient.",
+          "zh": "综述引用的一篇微针论文涉及积雪草经皮递送，不是普通大宗粉末溶解。阅读配方论文时记录结果属于提取物、载体体系还是二者组合。另向供应商核查提取和分级，不假设商业原料具备论文所述递送技术。"
+        },
+        "citations": [
+          2
+        ]
+      },
+      {
+        "id": "application",
+        "heading": {
+          "en": "Choose the route before the claim",
+          "zh": "先明确使用途径，再讨论声称"
+        },
+        "text": {
+          "en": "For a cosmetic development brief, define a topical format, intended market and permissible claims for qualified review; ask for compatibility, preservation and safety work specific to the final formula. An oral beverage is a separate assessment, not a translation of a topical project. The site does not offer a wound-treatment formula or certify that an ingredient is permitted in a destination market.",
+          "zh": "化妆品开发简报应明确外用形态、目的地和待专业复核的允许声称，并提出最终配方特定的相容性、防腐及安全评价工作。口服饮料是另一项评估，不是外用项目的直接转用。本站不提供创面治疗配方，也不确认某原料已获目的地许可。"
+        },
+        "citations": []
+      },
+      {
+        "id": "evidence",
+        "heading": {
+          "en": "Review, animal study and clinical system are not interchangeable",
+          "zh": "综述、动物研究与临床体系不可互换"
+        },
+        "text": {
+          "en": "Evidence type: a 2024 literature review, not one controlled trial. Retrieved sections describe rat dermal-wound work, while the abstract discusses collected clinical trials and delivery systems. We checked the abstract and selected full-text passages, not every underlying protocol or risk of bias. Do not apply a rat-wound result or a specialized topical delivery outcome to a drink, normal skincare claim or untested ZL powder.",
+          "zh": "证据类型：2024 年文献综述，不是单项对照试验。已检索章节描述大鼠皮肤创面研究，摘要讨论所收集的临床试验和递送体系。本次核查摘要及部分全文段落，未逐项审查底层方案或偏倚风险。不可将大鼠创面或专用外用递送结果转用于饮料、普通护肤声称或未经测试的振隆粉末。"
+        },
+        "citations": [
+          2,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "monk-fruit",
+    "title": {
+      "en": "Monk fruit science: mogrosides, extract identity and sweetness",
+      "zh": "罗汉果科学档案：甜苷、提取物身份与甜味"
+    },
+    "description": {
+      "en": "Distinguish fruit-derived mixtures, mogroside V assay and application context before interpreting a sweetener notice or planning a sensory trial.",
+      "zh": "解读甜味剂通知或规划感官试验前，区分果实来源混合物、罗汉果甜苷 V 检测与应用背景。"
+    },
+    "family": "glycosides-and-sweetener-identity",
+    "blocks": [
+      {
+        "id": "identity",
+        "heading": {
+          "en": "Fruit extract is a mixture, not a single assay number",
+          "zh": "果实提取物是混合物，不是一个含量数字"
+        },
+        "text": {
+          "en": "FDA’s response to GRN 000706 describes the notifier’s material as a mixture of compounds extracted from Siraitia grosvenorii fruit. The letter concerns specified sweetener uses and explicitly records exclusions for infant formula and foods under USDA jurisdiction. It does not describe a ZL material.",
+          "zh": "FDA 对 GRN 000706 的回复将申报材料描述为罗汉果果实提取的化合物混合物。该函涉及特定甜味剂用途，并明确记录排除婴儿配方及美国农业部管辖食品；它不描述振隆材料。"
+        },
+        "citations": [
+          3
+        ]
+      },
+      {
+        "id": "specification",
+        "heading": {
+          "en": "Ask what the mogroside result measures",
+          "zh": "先问甜苷结果测量了什么"
+        },
+        "text": {
+          "en": "For procurement comparison, distinguish a mogroside V result from a total-mogroside result, and request the chromatographic method and reporting basis. Record carriers, moisture and any other ingredients in a blend. Do not infer the total composition or a finished drink’s sugar status from one marker value. No purity, calorie or sweetness guarantee is established here.",
+          "zh": "采购比较应区分罗汉果甜苷 V 与总甜苷结果，并索取色谱方法和计量基准。记录载体、水分及复配中的其他原料。不要凭单一标志物推断总组成或成品饮料含糖状态。本文不确立纯度、热量或甜度保证。"
+        },
+        "citations": []
+      },
+      {
+        "id": "process",
+        "heading": {
+          "en": "Keep the study material aligned with the supplied material",
+          "zh": "保持研究材料与交付材料的一致性"
+        },
+        "text": {
+          "en": "Development questions: is the proposed material a fruit extract or a formulated blend; which extraction, purification and drying stages are disclosed; and what changed between samples? Request evidence of composition before and after a process change. A published review of fruit chemistry and applications is a map for questions, not a validated production procedure.",
+          "zh": "开发问题：目标材料是果实提取物还是复配物？已披露哪些提取、纯化与干燥阶段？不同样品间发生了什么变化？工艺变更前后应索取组成证据。果实化学与应用综述可用于梳理问题，但不是已验证的生产规程。"
+        },
+        "citations": [
+          5
+        ]
+      },
+      {
+        "id": "application",
+        "heading": {
+          "en": "Evaluate the whole sweetness system",
+          "zh": "评价完整甜味体系"
+        },
+        "text": {
+          "en": "Proposed sensory plan: compare coded samples against the chosen benchmark in the actual beverage or food matrix; record sweetness onset, persistence, off-notes and interactions with acids or flavors. Use the same serving temperature and blinded assessment protocol. Confirm labeling and destination-market suitability separately. This plan is a suggested review workflow, not an assertion that trials or a commercial formula already exist.",
+          "zh": "建议感官计划：在实际饮料或食品基质中，将编码样品与选定对照比较，记录起甜、持续、异味及与酸味或香气的交互；使用相同食用温度和盲评方案。标示和目的地适用性需单独确认。此处是建议的复核流程，不表示已有试验或商业配方。"
+        },
+        "citations": []
+      },
+      {
+        "id": "evidence",
+        "heading": {
+          "en": "A notice and a review answer different questions",
+          "zh": "通知与综述回答不同问题"
+        },
+        "text": {
+          "en": "Evidence types: an FDA response letter about a notifier’s GRAS conclusion, and a 2024 review of fruit chemistry and applications. Neither is a clinical trial of this supplier’s sweetener. Exposure estimates described in the letter are not serving-dose recommendations. The review’s broad health language is not adopted as a product claim; no glucose-control, weight-loss or disease benefit is inferred.",
+          "zh": "证据类型：FDA 关于申报方 GRAS 结论的回复函，以及2024年果实化学与应用综述。二者均不是本供应商甜味剂的临床试验。函中暴露估计不是每份用量建议；本站不采纳综述中的广泛健康措辞作为产品声称，不推导控糖、减重或疾病获益。"
+        },
+        "citations": [
+          3,
+          5
+        ]
+      }
+    ]
+  }
+]

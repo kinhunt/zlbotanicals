@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5239",
+      "title": "EFSA — Scientific opinion on the safety of green tea catechins (2018)",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "Labels of green tea products (with particular reference to food supplements) should include content of catechins and the proportion of EGCG.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11510310",
+      "title": "Witkowska et al. — Topical Application of Centella asiatica in Wound Healing (2024)",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "Chitosan-based microneedle arrays for dermal delivery of Centella asiatica.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.fda.gov/media/107808/download",
+      "title": "FDA — Response to GRAS Notice GRN 000706 (2017)",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "Hunan Nutramax states that the intended use of SGFE excludes infant formula and foods under the U.S. Department of Agriculture’s jurisdiction.",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://wits.worldbank.org/wits/wits/witshelp/Content/Data_Retrieval/T/Intro/B2.Imports_Exports_and_Mirror.htm",
+      "title": "World Bank WITS — Imports, Exports and Mirror Data",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "In UN COMTRADE, imports are recorded cif (cost insurance and freight) while exports are fob (free on board).",
+          "added": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39458583%20OR%20EXT_ID:39063362&format=json&resultType=core",
+      "title": "Europe PMC core metadata and abstracts for PMID 39458583 and 39063362",
+      "accessed": "2026-09-09",
+      "quotes": [
+        {
+          "text": "This review highlights the plant's mechanisms, focusing on its active compounds such as asiaticoside, madecassoside, asiatic acid, and madecassic acid",
+          "added": "2026-09-09"
+        }
+      ]
+    }
+  ]
+}

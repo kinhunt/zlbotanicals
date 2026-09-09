@@ -45,7 +45,11 @@
     "mainNavigation": "主导航",
     "odm": "植物饮品 ODM",
     "research": "研究文献",
-    "news": "行业与监管事件"
+    "news": "行业与监管事件",
+    "researchHub": "研究与应用",
+    "scienceIngredients": "科学原料",
+    "scienceApplications": "应用与方法",
+    "marketInsights": "市场洞察"
   },
   "hero": {
     "badge": "植物原料采购合作 • 中国广州",

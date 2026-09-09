@@ -1,0 +1,471 @@
+{
+  "version": "6.9",
+  "hitCount": 2,
+  "request": {
+    "queryString": "EXT_ID:39458583 OR EXT_ID:39063362",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "39458583",
+        "source": "MED",
+        "pmid": "39458583",
+        "pmcid": "PMC11510310",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC11510310"
+          ]
+        },
+        "doi": "10.3390/pharmaceutics16101252",
+        "title": "Topical Application of <i>Centella asiatica</i> in Wound Healing: Recent Insights into Mechanisms and Clinical Efficacy.",
+        "authorString": "Witkowska K, Paczkowska-Walendowska M, Garbiec E, Cielecka-Piontek J.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Witkowska K",
+              "firstName": "Katarzyna",
+              "lastName": "Witkowska",
+              "initials": "K",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Pharmacognosy and Biomaterials, Poznan University of Medical Sciences, Rokietnicka 3, 60-806 Poznan, Poland."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Paczkowska-Walendowska M",
+              "firstName": "Magdalena",
+              "lastName": "Paczkowska-Walendowska",
+              "initials": "M",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-0418-9336"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Pharmacognosy and Biomaterials, Poznan University of Medical Sciences, Rokietnicka 3, 60-806 Poznan, Poland."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Garbiec E",
+              "firstName": "Ewa",
+              "lastName": "Garbiec",
+              "initials": "E",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9249-3495"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Pharmacognosy and Biomaterials, Poznan University of Medical Sciences, Rokietnicka 3, 60-806 Poznan, Poland."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Cielecka-Piontek J",
+              "firstName": "Judyta",
+              "lastName": "Cielecka-Piontek",
+              "initials": "J",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-0891-5419"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Pharmacognosy and Biomaterials, Poznan University of Medical Sciences, Rokietnicka 3, 60-806 Poznan, Poland."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-9249-3495"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-0418-9336"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-0891-5419"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "10",
+          "volume": "16",
+          "journalIssueId": 3842787,
+          "dateOfPublication": "2024 Sep",
+          "monthOfPublication": 9,
+          "yearOfPublication": 2024,
+          "printPublicationDate": "2024-09-01",
+          "journal": {
+            "title": "Pharmaceutics",
+            "medlineAbbreviation": "Pharmaceutics",
+            "isoabbreviation": "Pharmaceutics",
+            "essn": "1999-4923",
+            "issn": "1999-4923",
+            "nlmid": "101534003"
+          }
+        },
+        "pubYear": "2024",
+        "pageInfo": "1252",
+        "abstractText": "<i>Centella asiatica</i>, widely known as <i>Gotu kola</i>, is a traditional herb celebrated for its benefits in skin health and wound healing. Recent research has provided new insights into its efficacy, particularly through topical applications. This review highlights the plant's mechanisms, focusing on its active compounds such as asiaticoside, madecassoside, asiatic acid, and madecassic acid, which enhance collagen synthesis, modulate inflammation, and offer antioxidant protection. Clinical trials have been collected and summarized that innovative delivery systems, such as hydrogels, nanostructures or microneedles, can accelerate wound healing, reduce wound size, and improve recovery times in various wound types, including diabetic ulcers and burns. Future research will likely refine these technologies and explore new applications, reinforcing the role of <i>C. asiatica</i> in contemporary wound care. Advances in formulation and delivery will continue to enhance the plant's therapeutic potential, offering promising solutions for effective wound management.",
+        "affiliation": "Department of Pharmacognosy and Biomaterials, Poznan University of Medical Sciences, Rokietnicka 3, 60-806 Poznan, Poland.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "review-article",
+            "Review",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "grantId": "2020/39/D/NZ7/01824",
+              "agency": "National Science Center",
+              "orderIn": 0
+            },
+            {
+              "grantId": "2020/39/D/NZ7/01824",
+              "agency": "National Science Center (Poland)",
+              "orderIn": 0
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Wound healing",
+            "Centella asiatica",
+            "asiaticoside",
+            "Gotu Kola"
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "doi",
+              "site": "Unpaywall",
+              "url": "https://doi.org/10.3390/pharmaceutics16101252"
+            },
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.3390/pharmaceutics16101252"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC11510310"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC11510310?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 34,
+        "hasData": "Y",
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "license": "cc by",
+        "hasEvaluations": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCreation": "2024-10-26",
+        "firstIndexDate": "2024-10-27",
+        "fullTextReceivedDate": "2025-02-05",
+        "dateOfRevision": "2024-10-28",
+        "electronicPublicationDate": "2024-09-26",
+        "firstPublicationDate": "2024-09-26"
+      },
+      {
+        "id": "39063362",
+        "source": "MED",
+        "pmid": "39063362",
+        "pmcid": "PMC11275593",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC11275593"
+          ]
+        },
+        "doi": "10.3390/foods13142278",
+        "title": "Recent Advances in the Distribution, Chemical Composition, Health Benefits, and Application of the Fruit of <i>Siraitia grosvenorii</i>.",
+        "authorString": "Guo Q, Shi M, Sarengaowa, Xiao Z, Xiao Y, Feng K.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Guo Q",
+              "firstName": "Qihan",
+              "lastName": "Guo",
+              "initials": "Q",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0000-9869-6867"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Medical Science Division, Macau University of Science and Technology, Macao 999078, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Shi M",
+              "firstName": "Minke",
+              "lastName": "Shi",
+              "initials": "M",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Medical Science Division, Macau University of Science and Technology, Macao 999078, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Sarengaowa",
+              "lastName": "Sarengaowa",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "College of Life Science, Zhuhai College of Science and Technology, Zhuhai 519041, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Xiao Z",
+              "firstName": "Zhewen",
+              "lastName": "Xiao",
+              "initials": "Z",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Medical Science Division, Macau University of Science and Technology, Macao 999078, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Xiao Y",
+              "firstName": "Ying",
+              "lastName": "Xiao",
+              "initials": "Y",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Medical Science Division, Macau University of Science and Technology, Macao 999078, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Feng K",
+              "firstName": "Ke",
+              "lastName": "Feng",
+              "initials": "K",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Medical Science Division, Macau University of Science and Technology, Macao 999078, China."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0009-0000-9869-6867"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "14",
+          "volume": "13",
+          "journalIssueId": 3805013,
+          "dateOfPublication": "2024 Jul",
+          "monthOfPublication": 7,
+          "yearOfPublication": 2024,
+          "printPublicationDate": "2024-07-01",
+          "journal": {
+            "title": "Foods (Basel, Switzerland)",
+            "medlineAbbreviation": "Foods",
+            "isoabbreviation": "Foods",
+            "essn": "2304-8158",
+            "issn": "2304-8158",
+            "nlmid": "101670569"
+          }
+        },
+        "pubYear": "2024",
+        "pageInfo": "2278",
+        "abstractText": "The fruits of <i>Siraitia grosvenorii</i> (<i>S. grosvenorii</i>) have attracted a lot of scientific interest as part of the current healthy diet. <i>S. grosvenorii</i> has diverse health-promoting effects, including antioxidant, anti-inflammatory, antimicrobial, respiratory modulation, metabolic modulation, antitumor, and neuroprotective effects, as well as gastrointestinal function modulation. As a plant resource, <i>S. grosvenorii</i> has broad application prospects, which promotes the development of the horticultural industry. Moreover, Mogroside has attracted much attention as an important active ingredient of <i>S. grosvenorii</i>. This review provides an in-depth exploration of the distribution, chemical composition, health benefits, and application of <i>S. grosvenorii</i>, particularly Mogroside. This comprehensive exploration highlights the important therapeutic potential of <i>S. grosvenorii</i>, prompting further research into its applications. As value-added functional ingredients, <i>S. grosvenorii</i> and its constituents have significant potential for disease prevention and are widely used in the development of food and health supplements.",
+        "affiliation": "Medical Science Division, Macau University of Science and Technology, Macao 999078, China.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "review-article",
+            "Review",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "grantId": "FRG-24-024-FMD",
+              "agency": "Science and Technology Development Fund, Macau SAR",
+              "orderIn": 0
+            },
+            {
+              "grantId": "0067/2020/A2",
+              "agency": "The Science and Technology Development Fund",
+              "orderIn": 0
+            },
+            {
+              "grantId": "FDCT 0067/2020/A2",
+              "agency": "Science and Technology Development Fund, Macau SAR",
+              "orderIn": 0
+            },
+            {
+              "grantId": "FRG-24-024-FMD",
+              "agency": "Faculty Research Grants of Macau University of Sci-ence and Technology",
+              "orderIn": 0
+            },
+            {
+              "grantId": "FRG-24-024-FMD",
+              "agency": "Faculty Research Grants of Macau University of Science and Technology",
+              "orderIn": 0
+            },
+            {
+              "grantId": "FDCT 0067/2020/A2",
+              "agency": "Faculty Research Grants of Macau University of Science and Technology",
+              "orderIn": 0
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Chemical composition",
+            "Application",
+            "Siraitia grosvenorii",
+            "Health benefits"
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.3390/foods13142278"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC11275593"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC11275593?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 17,
+        "hasData": "Y",
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "license": "cc by",
+        "hasEvaluations": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCreation": "2024-07-27",
+        "firstIndexDate": "2024-07-28",
+        "fullTextReceivedDate": "2024-07-31",
+        "dateOfRevision": "2024-07-29",
+        "electronicPublicationDate": "2024-07-19",
+        "firstPublicationDate": "2024-07-19"
+      }
+    ]
+  }
+}

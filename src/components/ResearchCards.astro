@@ -1,4 +1,5 @@
 ---
+import profiles from '../data/science-profiles.json';
 import research from '../data/research.json';
 import {applications} from '../data/research-facets';
 import {getCollection} from 'astro:content';
@@ -36,6 +37,7 @@ const evidenceLabel=(key:string)=>rows.find(r=>r.evidenceKey===key)!.evidenceTyp
    <dl class="space-y-3 mt-4 leading-relaxed"><div><dt class="font-semibold">{zh?'物种与研究材料 / 特定边界':'Species & study material / specific limits'}</dt><dd>{r.material[lang]}</dd></div>{r.doseContext[lang]!==research[0].doseContext[lang]&&<div><dt>{zh?'研究条件':'Study context'}</dt><dd>{r.doseContext[lang]}</dd></div>}{r.limitations[lang]!==research[0].limitations[lang]&&<div><dt>{zh?'特定限制':'Specific limitations'}</dt><dd>{r.limitations[lang]}</dd></div>}</dl>
   </details>
   <div class="flex flex-wrap gap-3 mt-4">{r.products.map(p=><a class="underline text-primary text-sm" href={getLocalizedPath(`/products/${p}`,lang)}>{name(p)} →</a>)}</div>
+  {r.products.filter(p=>profiles.some(s=>s.id===p)).map(p=><a class="inline-block mt-3 underline text-primary text-sm" href={getLocalizedPath(`/plant-extracts/ingredients/${p}`,lang)}>{zh?'对应原料科学档案':'Related ingredient science profile'} →</a>)}
  </article>)}</div>
  {products.length>0 && <a class="inline-block underline text-primary" href={getLocalizedPath('/resources/research',lang)}>{zh?'浏览全部研究与编辑方法':'All research & editorial method'} →</a>}
 </section>

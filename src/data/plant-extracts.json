@@ -1936,6 +1936,60 @@
           ]
         }
       }
+    },
+    {
+      "section": "ingredients",
+      "slug": "green-tea",
+      "scienceId": "green-tea",
+      "references": [],
+      "translations": {
+        "en": {
+          "title": "Green tea science: catechins, EGCG and material identity",
+          "description": "Understand tea leaves, infusions, concentrated extracts and isolated EGCG before comparing assays or designing an application trial.",
+          "blocks": []
+        },
+        "zh": {
+          "title": "绿茶科学档案：儿茶素、EGCG 与材料身份",
+          "description": "比较含量或设计应用试验前，先理解茶叶、浸泡茶、浓缩提取物与分离 EGCG 的区别。",
+          "blocks": []
+        }
+      }
+    },
+    {
+      "section": "ingredients",
+      "slug": "centella-asiatica",
+      "scienceId": "centella-asiatica",
+      "references": [],
+      "translations": {
+        "en": {
+          "title": "Centella asiatica science: triterpenes and topical evidence",
+          "description": "Separate Centella extracts, named triterpenes and delivery systems; understand why wound-care literature does not validate an oral or cosmetic product.",
+          "blocks": []
+        },
+        "zh": {
+          "title": "积雪草科学档案：三萜与外用证据",
+          "description": "区分积雪草提取物、特定三萜和递送体系，理解为何创面护理文献不能验证口服产品或普通化妆品。",
+          "blocks": []
+        }
+      }
+    },
+    {
+      "section": "ingredients",
+      "slug": "monk-fruit",
+      "scienceId": "monk-fruit",
+      "references": [],
+      "translations": {
+        "en": {
+          "title": "Monk fruit science: mogrosides, extract identity and sweetness",
+          "description": "Distinguish fruit-derived mixtures, mogroside V assay and application context before interpreting a sweetener notice or planning a sensory trial.",
+          "blocks": []
+        },
+        "zh": {
+          "title": "罗汉果科学档案：甜苷、提取物身份与甜味",
+          "description": "解读甜味剂通知或规划感官试验前，区分果实来源混合物、罗汉果甜苷 V 检测与应用背景。",
+          "blocks": []
+        }
+      }
     }
   ]
 }
