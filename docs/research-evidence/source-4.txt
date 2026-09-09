@@ -1,0 +1,12 @@
+Imports, Exports and Mirror Data with UN COMTRADE
+In a perfect world, country A reported imports from country B would match with country B reported exports to country A. Consequently, this would make mirroring (using information from the partner when a country does not report its trade) a transparent and error-free process.
+
+...
+
+* In UN COMTRADE, imports are recorded cif (cost insurance and freight) while exports are fob (free on board). This may represent a 10% to 20% difference.
+* Despite all efforts made by national and international agencies, data quality may vary among countries.
+* For a given country, imports are usually recorded with more accuracy than exports because imports generally generate tariff revenues while exports don't.
+* At a detailed level, a same good may be recorded in different categories by the exporter and the importer.
+For example, in 2001 Pakistan reported US$ 236 millions exports to China while China was reporting US$ 557 millions.
+There will be cases where you can't avoid using mirror data. In such cases, it is recommended to use reporters for which you believe statistics are the most accurate and to keep using the same reporter for the full period if you build time series.
+For example, if Rwanda's imports from USA are missing for some selected years and you want a complete time series, it is better to rely on USA exports to Rwanda for each and every year, even if Rwanda's imports from USA is available for some of them.

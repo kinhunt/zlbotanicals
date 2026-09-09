@@ -1,0 +1,38 @@
+---
+import profiles from '../data/science-profiles.json';
+import PageLayout from '../layouts/PageLayout.astro';
+import {getLocalizedPath, type Language} from '../i18n/config';
+const {lang}=Astro.props as {lang:Language};
+const zh=lang==='zh';
+const local=(p:string)=>getLocalizedPath(p,lang);
+const title=zh?'研究与应用':'Research';
+const description=zh?'从原料身份、应用方法、论文证据与市场口径，到采购和 ODM 的下一步。':'Connect ingredient identity, application methods, paper evidence and market definitions to procurement and ODM decisions.';
+const sections=[
+ {id:'ingredients',title:zh?'科学原料':'Ingredient science',path:'/plant-extracts/ingredients',text:zh?'先区分植物、粗提物、纯化组分与商品规格。成分家族知识与单一植物档案互相补充，不替代产品规格书。':'Distinguish the plant, crude extract, purified fraction and commercial specification. Constituent-family guides complement botanical profiles; neither substitutes for a product specification.'},
+ {id:'applications',title:zh?'应用与方法':'Applications & methods',path:'/plant-extracts/applications',text:zh?'从饮料相容性和化妆品边界开始，提出有条件、可复核的试验问题，而不是复制实验室结论。':'Start with beverage compatibility and cosmetic boundaries. Frame conditional, reviewable trial questions rather than copying laboratory conclusions.'},
+ {id:'papers',title:zh?'论文与证据':'Papers & evidence',path:'/resources/research',text:zh?'独立文献库保留按原料、阅读用途和证据类型筛选。现有条目是精选综述的摘要层级阅读，不是临床证明或系统综述。':'The separate papers library retains ingredient, reading-use and evidence-type filters. Existing cards are selected reviews assessed at abstract level, not clinical proof or a systematic review.'},
+];
+---
+<PageLayout lang={lang} title={title} description={description} heroTitle={title} heroSubtitle={description}>
+ <div class="container-wide max-w-5xl py-12 space-y-12 research-hub">
+  <p class="p-5 rounded-xl bg-primary/5">{zh?'独立教育内容，不是振隆自有研究、医疗建议、供货承诺或成品功效证明。':'Independent educational reading—not proprietary ZL research, medical advice, a supply commitment or finished-product efficacy evidence.'}</p>
+  <nav aria-label={zh?'研究栏目':'Research sections'} class="flex flex-wrap gap-4">{[...sections,{id:'market',title:zh?'市场洞察':'Market insights'},{id:'news',title:zh?'新闻与法规记录':'News & regulatory records'}].map(s=><a href={`#${s.id}`} class="underline text-primary">{s.title}</a>)}</nav>
+  {sections.map(s=><section id={s.id} class="scroll-mt-28 border-t pt-8"><h2 class="text-2xl font-bold">{s.title}</h2><p class="mt-4">{s.text}</p>{s.id==='ingredients'&&<div class="grid sm:grid-cols-3 gap-4 mt-5">{profiles.map(p=><a class="p-4 border rounded-xl underline text-primary" href={local(`/plant-extracts/ingredients/${p.id}`)}>{p.title[lang]}</a>)}</div>}<a class="inline-block mt-4 underline text-primary" href={local(s.path)}>{zh?'浏览完整栏目':'Explore the full section'} →</a></section>)}
+  <section id="market" class="scroll-mt-28 border-t pt-8 space-y-4">
+   <h2 class="text-2xl font-bold">{zh?'市场洞察：贸易信号不是原料市场规模':'Market insights: trade signals are not ingredient market size'}</h2>
+   <p>{zh?'分析范围：跨境商品贸易数据的可比性；方法来源为世界银行 WITS 对 UN Comtrade 的解释。本文不估算绿茶、积雪草或罗汉果的零售或原料市场规模，也没有下载贸易时间序列。':'Scope: comparability of cross-border merchandise trade data, using World Bank WITS explanations of UN Comtrade. This analysis does not estimate retail or ingredient market size for tea, centella or monk fruit; no trade time series was downloaded.'}</p>
+   <h3 class="font-semibold text-lg">{zh?'为何同一贸易流会出现两个数字？':'Why can one trade flow produce two figures?'}</h3>
+   <p>{zh?'WITS 说明进口一般按 CIF（成本、保险与运费）、出口按 FOB（离岸价）记录；同一商品还可能被进出口方分入不同类别。镜像数据利用贸易伙伴的报告，并不自动等于本国报告。':'WITS explains that imports are recorded CIF (cost, insurance and freight), while exports are FOB (free on board); the same good may also be classified differently by exporter and importer. Mirror data uses the partner’s report and is not automatically equivalent to the reporter’s own data.'}<a href="#market-source" class="underline">[4]</a></p>
+   <h3 class="font-semibold text-lg">{zh?'对采购判断的影响':'What this changes in a sourcing decision'}</h3>
+   <p>{zh?'分析推论：把进口值与出口值直接相减，不能把差额全部解释为需求增长；把金额除以重量所得的平均单价，也不能直接当作某一含量提取物的报价。混合规格、载体与运输计价的变化都应作为待检验解释，而非已证实的市场趋势。':'Analytical implication: subtracting import and export values cannot assign the entire gap to demand growth; dividing value by mass does not yield a quote for a specific extract assay. Changing grade mix, carriers and valuation should be tested as explanations, not asserted as proven market trends.'}</p>
+   <h3 class="font-semibold text-lg">{zh?'复核一份市场报告的最小记录':'Minimum record for reviewing a market report'}</h3>
+   <ul class="list-disc pl-6 space-y-2">{(zh?['先写明问题：原料采购、成品零售，还是跨境贸易？','记录商品编码及版本、原料覆盖范围、报告方与伙伴、年度、币种、净重单位、提取日期及修订状态。','时间序列固定报告方与镜像方法；WITS 建议避免随年份切换数据来源。[4]','要求报告提供编码清单与排除项；用同等物种、部位、含量、方法、载体、交付条款的供应商报价核查商业相关性。']:['State the question first: ingredient procurement, finished retail sales or cross-border trade?','Record commodity code and revision, ingredient coverage, reporter and partner, years, currency, net-mass unit, extraction date and revision status.','Keep the reporter and mirroring method consistent across a time series; WITS advises against switching the source between years.[4]','Request code lists and exclusions; check commercial relevance against supplier quotes matched by species, part, assay, method, carrier and delivery terms.']).map(t=><li>{t}</li>)}</ul>
+   <p id="market-source">[4] <a class="underline break-words" href="https://wits.worldbank.org/wits/wits/witshelp/Content/Data_Retrieval/T/Intro/B2.Imports_Exports_and_Mirror.htm">World Bank WITS — Imports, Exports and Mirror Data with UN COMTRADE</a>. {zh?'核查日期：2026-09-09；方法说明，不是植物提取物市场报告。':'Checked 2026-09-09; methodological guidance, not a botanical-extract market report.'}</p>
+   <a class="underline text-primary" href={local('/resources/sourcing-guides')}>{zh?'将分析转成采购复核问题':'Turn analysis into sourcing review questions'} →</a>
+  </section>
+  <section id="news" class="scroll-mt-28 border-t pt-8 space-y-4"><h2 class="text-2xl font-bold">{zh?'新闻与法规记录':'News & regulatory records'}</h2><p>{zh?'当前已发布的记录为 2022-11-30 欧盟法规采纳事件。它是明确标注日期的历史记录，不是最新新闻，也不是现行合规结论。及时线索只有在核查原始来源及生效状态后才会发布。':'The published record concerns EU regulation adoption on 2022-11-30. It is dated historical context, not latest news or a current compliance determination. Timely candidates are published only after original-source and status review.'}</p><a class="underline text-primary" href={local('/resources/news')}>{zh?'阅读有日期的事件与来源':'Read dated events and sources'} →</a></section>
+  <section class="border-t pt-8 space-y-4"><h2 class="text-2xl font-bold">{zh?'按工作任务继续':'Continue by task'}</h2><div class="grid sm:grid-cols-2 gap-4">{[
+ ['/products',zh?'采购：核对商品规格与供货问题':'Procurement: specifications & supply questions'],['/plant-extracts/applications',zh?'配方开发：定义基质与试验条件':'Formulators: matrix & trial conditions'],['/resources/downloads',zh?'质量团队：证据审查与文件工具':'QA: evidence review & document tools'],['/odm',zh?'概念品牌：建立 ODM 项目简报':'Concept brands: build an ODM brief'],['/products/custom-formulation',zh?'配方转移：确认职责与变更边界':'Formula transfer: responsibilities & change control'],['/plant-extracts/standards',zh?'进口商：目的地与材料分类复核':'Importers: destination & material classification']].map(([p,label])=><a class="border rounded-xl p-4 underline text-primary" href={local(p)}>{label}</a>)}</div><p><a class="underline" href={local('/plant-extracts')}>{zh?'植物提取物':'Plant Extracts'}</a> · <a class="underline" href={local('/resources')}>{zh?'全部实务指南':'All practical guides'}</a></p></section>
+ </div>
+</PageLayout>
+<style>.research-hub{line-height:1.8}.research-hub section{overflow-wrap:anywhere}</style>

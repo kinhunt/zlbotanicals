@@ -1,5 +1,6 @@
 ---
 import ExtractionVideo from './ExtractionVideo.astro';
+import ScienceProfile from './ScienceProfile.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import data from '../data/plant-extracts.json';
 import {getLocalizedPath} from '../i18n/config';
@@ -39,7 +40,8 @@ const tasks=zh?['确认物种、部位和起始原料追溯','记录溶剂、载
     </section>
     <section><h2>{zh?'七个栏目，从问题出发':'Seven ways into the subject'}</h2><div class="knowledge-grid">{data.sections.map((s,i)=><a class="knowledge-card" href={`${root}/${s.slug}`}><span class="card-number">0{i+1}</span><h3>{s.translations[lang].title}</h3><p>{s.translations[lang].description}</p><span class="read-link">{zh?'阅读栏目指南 →':'Explore the guide →'}</span></a>)}</div></section>
    </>}
-   {content&&<article class="reading">{content.blocks.map((b:any)=><section><h2>{b.heading}</h2><p>{b.text}</p></section>)}</article>}
+   {entry?.scienceId&&<ScienceProfile id={entry.scienceId} lang={lang} />}
+   {content&&!entry?.scienceId&&<article class="reading">{content.blocks.map((b:any)=><section><h2>{b.heading}</h2><p>{b.text}</p></section>)}</article>}
    {(!section||section==='processes')&&!topic&&<section class="process-panel"><h2>{zh?'典型提取路线：概念示意':'A typical extraction route: conceptual schematic'}</h2><ol class="process-flow">{(zh?['原料身份','前处理','提取','固液分离','浓缩／纯化','干燥／配制','质量复核']:['Material identity','Pretreatment','Extraction','Separation','Concentration / purification','Drying / formulation','Quality review']).map((s,i)=><li><span>{i+1}</span>{s}</li>)}</ol><p>{zh?'原创教学示意，不是真实厂房或经过验证的通用工艺。有些产品省略、重复或重新安排步骤。':'Original educational illustration—not a real facility or a validated universal process. Some products omit, repeat or reorder steps.'}</p></section>}
    {(!section||section==='processes')&&!topic&&<ExtractionVideo lang={lang} />}
    {children.length>0&&<section><h2>{zh?'深入主题':'Explore individual topics'}</h2><div class="knowledge-grid">{children.map(t=><a class="knowledge-card" href={`${root}/${section}/${t.slug}`}><h3>{t.translations[lang].title}</h3><p>{t.translations[lang].description}</p><span class="read-link">{zh?'阅读全文 →':'Read the topic →'}</span></a>)}</div></section>}
@@ -48,7 +50,7 @@ const tasks=zh?['确认物种、部位和起始原料追溯','记录溶剂、载
    {!section&&<section class="reading"><h2>{zh?'常见问题':'Frequently asked questions'}</h2>{(zh?[
     ['提取物是否一定比原植物更安全？','不是。加工可能改变组成和暴露水平，安全评价须针对实际材料、用途及使用条件。天然来源不是安全保证。'],['比例能说明有效成分含量吗？','不能单独说明。需了解比例定义、起始原料状态、载体以及标志成分检测方法。'],['设备栏目表示振隆出售设备吗？','不表示。设备内容仅解释通用原理，不是设备销售或厂房配置证明。'],['食品用途能直接推广到其他市场吗？','不能。物种、部位、加工与用途都可能影响法律分类，须核对目的地的现行官方要求。']]:[
     ['Is an extract always safer than its starting plant?','No. Processing can change composition and exposure. Assess the actual material, use and conditions; natural origin is not a safety guarantee.'],['Does an extract ratio tell me marker content?','Not on its own. Ask how the ratio is defined, the starting-material basis, carriers and the marker assay method.'],['Does the equipment guide mean ZL sells equipment?','No. It explains generic functions, not equipment sales or evidence of installed machinery.'],['Can a food use be transferred to another market?','Not automatically. Species, plant part, processing and intended use can affect legal classification. Check current destination-market requirements.']]).map(([q,a])=><details><summary>{q}</summary><p>{a}</p></details>)}</section>}
-   <section class="references reading"><h2>{zh?'参考来源与适用范围':'References and scope'}</h2><p>{zh?'来源核查日期':'Sources checked'}: <time datetime={data.checked}>{data.checked}</time>. {zh?'英文来源保留原始标题。状态反映本次核查，不代替上市前复核。':'Source titles are retained as published. Status reflects this check, not a substitute for pre-market review.'}</p><ol>{references.map((id:string)=>{const s=(data.sources as any)[id];return <li><a href={s.url} rel="noopener noreferrer">{s.title}</a><p>{s.scope[lang]}</p></li>})}</ol></section>
+   {!entry?.scienceId&&<section class="references reading"><h2>{zh?'参考来源与适用范围':'References and scope'}</h2><p>{zh?'来源核查日期':'Sources checked'}: <time datetime={data.checked}>{data.checked}</time>. {zh?'英文来源保留原始标题。状态反映本次核查，不代替上市前复核。':'Source titles are retained as published. Status reflects this check, not a substitute for pre-market review.'}</p><ol>{references.map((id:string)=>{const s=(data.sources as any)[id];return <li><a href={s.url} rel="noopener noreferrer">{s.title}</a><p>{s.scope[lang]}</p></li>})}</ol></section>}
    <aside class="next-step"><h2>{zh?'从知识到具体采购需求':'From knowledge to a specific sourcing brief'}</h2><p>{zh?'百科帮助建立问题清单；现有产品和方案页面用于进一步讨论。供货、规格和适用性需要书面确认。':'The encyclopedia helps frame the questions; existing product and solution pages support the next discussion. Availability, specifications and suitability require written confirmation.'}</p><div class="section-tabs">{[['/products',zh?'产品目录':'Product catalogue'],['/solutions',zh?'应用方案':'Application concepts'],['/resources/ingredient-guides',zh?'原料采购指南':'Ingredient buyer guides'],['/resources/quality-guides',zh?'质量指南':'Quality guides'],['/resources/downloads',zh?'文件检查表':'Document checklist']].map(([p,label])=><a href={local(p)}>{label} →</a>)}</div></aside>
   </div>
  </div>

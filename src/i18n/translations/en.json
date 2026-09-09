@@ -45,7 +45,11 @@
     "mainNavigation": "Main navigation",
     "odm": "Botanical ODM",
     "research": "Research library",
-    "news": "Industry & regulatory events"
+    "news": "Industry & regulatory events",
+    "researchHub": "Research",
+    "scienceIngredients": "Ingredient science",
+    "scienceApplications": "Applications & methods",
+    "marketInsights": "Market insights"
   },
   "hero": {
     "badge": "Botanical ingredients • Guangzhou",

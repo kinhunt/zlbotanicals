@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5239",
+    "title": "EFSA — Scientific opinion on the safety of green tea catechins (2018)",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 2,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11510310",
+    "title": "Witkowska et al. — Topical Application of Centella asiatica in Wound Healing (2024)",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 3,
+    "url": "https://www.fda.gov/media/107808/download",
+    "title": "FDA — Response to GRAS Notice GRN 000706 (2017)",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 4,
+    "url": "https://wits.worldbank.org/wits/wits/witshelp/Content/Data_Retrieval/T/Intro/B2.Imports_Exports_and_Mirror.htm",
+    "title": "World Bank WITS — Imports, Exports and Mirror Data",
+    "accessed": "2026-09-09"
+  },
+  {
+    "id": 5,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39458583%20OR%20EXT_ID:39063362&format=json&resultType=core",
+    "title": "Europe PMC core metadata and abstracts for PMID 39458583 and 39063362",
+    "accessed": "2026-09-09"
+  }
+]

@@ -1,5 +1,4 @@
 ---
-import { getCollection } from 'astro:content';
 import { type Language, getLocalizedPath } from '../../i18n/config';
 import { useTranslations } from '../../i18n/utils';
 import { getSiteNavigation } from '../../data/site-navigation';
@@ -11,17 +10,7 @@ interface Props {
 const { lang } = Astro.props;
 const t = useTranslations(lang);
 
-// Get products from Content Collections for products dropdown
-const products = await getCollection('products', ({ data }) => {
-  return data.lang === lang && !data.draft;
-});
-
-const productChildren = products.map((ingredient) => ({
-  label: ingredient.data.name,
-  href: getLocalizedPath(`/products/${ingredient.slug.replace(`${lang}/`, '')}`, lang),
-}));
-
-const navItems = getSiteNavigation(t, (path) => getLocalizedPath(path, lang), productChildren);
+const navItems = getSiteNavigation(t, (path) => getLocalizedPath(path, lang));
 ---
 
 <nav aria-label={t('nav.mainNavigation')} class="hidden lg:flex items-center gap-2 xl:gap-4 2xl:gap-6 shrink-0">

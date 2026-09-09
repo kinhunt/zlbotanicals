@@ -1,0 +1,342 @@
+{
+  "passed": true,
+  "base": "http://127.0.0.1:4331",
+  "results": [
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/",
+      "images": 6
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/products",
+      "images": 12
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/products/centella-asiatica",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/products/ginkgo-biloba",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/products/ginseng",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/products/goji-berry",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/products/grape-seed",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/products/green-tea",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/products/licorice-root",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/products/monk-fruit",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/products/reishi-mushroom",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/products/resveratrol",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/products/stevia",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "/products/turmeric",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/",
+      "images": 6
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/products",
+      "images": 12
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/products/centella-asiatica",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/products/ginkgo-biloba",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/products/ginseng",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/products/goji-berry",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/products/grape-seed",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/products/green-tea",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/products/licorice-root",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/products/monk-fruit",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/products/reishi-mushroom",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/products/resveratrol",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/products/stevia",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "route": "/products/turmeric",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/",
+      "images": 6
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/products",
+      "images": 12
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/products/centella-asiatica",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/products/ginkgo-biloba",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/products/ginseng",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/products/goji-berry",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/products/grape-seed",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/products/green-tea",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/products/licorice-root",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/products/monk-fruit",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/products/reishi-mushroom",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/products/resveratrol",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/products/stevia",
+      "images": 1
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "route": "/products/turmeric",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/",
+      "images": 6
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/products",
+      "images": 12
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/products/centella-asiatica",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/products/ginkgo-biloba",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/products/ginseng",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/products/goji-berry",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/products/grape-seed",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/products/green-tea",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/products/licorice-root",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/products/monk-fruit",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/products/reishi-mushroom",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/products/resveratrol",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/products/stevia",
+      "images": 1
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "route": "/products/turmeric",
+      "images": 1
+    }
+  ]
+}
