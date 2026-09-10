@@ -77,7 +77,7 @@
   },
   {
     "productId": "turmeric",
-    "canonicalPath": "/products/turmeric",
+    "canonicalPath": "/plant-extracts/ingredients/turmeric",
     "name": {
       "en": "Curcuminoids versus whole-rhizome extract",
       "zh": "姜黄素类与全根茎提取物"
@@ -155,7 +155,7 @@
   },
   {
     "productId": "reishi-mushroom",
-    "canonicalPath": "/products/reishi-mushroom",
+    "canonicalPath": "/plant-extracts/ingredients/reishi-mushroom",
     "name": {
       "en": "Fungal identity and fraction selection",
       "zh": "真菌身份与组分选择"
@@ -232,7 +232,7 @@
   },
   {
     "productId": "ginseng",
-    "canonicalPath": "/products/ginseng",
+    "canonicalPath": "/plant-extracts/ingredients/ginseng",
     "name": {
       "en": "Species, plant part and processing history",
       "zh": "物种、部位与加工历史"
@@ -309,7 +309,7 @@
   },
   {
     "productId": "ginkgo-biloba",
-    "canonicalPath": "/products/ginkgo-biloba",
+    "canonicalPath": "/plant-extracts/ingredients/ginkgo-biloba",
     "name": {
       "en": "Leaf extract is not leaf polysaccharide research",
       "zh": "叶提取物不等于叶多糖研究"
@@ -386,7 +386,7 @@
   },
   {
     "productId": "grape-seed",
-    "canonicalPath": "/products/grape-seed",
+    "canonicalPath": "/plant-extracts/ingredients/grape-seed",
     "name": {
       "en": "Seed, skin and polyphenol assay boundaries",
       "zh": "籽、皮与多酚检测边界"
@@ -463,7 +463,7 @@
   },
   {
     "productId": "goji-berry",
-    "canonicalPath": "/products/goji-berry",
+    "canonicalPath": "/plant-extracts/ingredients/goji-berry",
     "name": {
       "en": "Fruit powder, juice solids and polysaccharide fractions",
       "zh": "全果粉、果汁固形物与多糖组分"
@@ -541,7 +541,7 @@
   },
   {
     "productId": "licorice-root",
-    "canonicalPath": "/products/licorice-root",
+    "canonicalPath": "/plant-extracts/ingredients/licorice-root",
     "name": {
       "en": "Species and glycyrrhizin disclosure",
       "zh": "物种与甘草酸披露"
@@ -772,7 +772,7 @@
   },
   {
     "productId": "stevia",
-    "canonicalPath": "/products/stevia",
+    "canonicalPath": "/plant-extracts/ingredients/stevia",
     "name": {
       "en": "Individual steviol glycosides and origin",
       "zh": "具体甜菊糖苷与来源"
@@ -848,7 +848,7 @@
   },
   {
     "productId": "resveratrol",
-    "canonicalPath": "/products/resveratrol",
+    "canonicalPath": "/plant-extracts/ingredients/resveratrol",
     "name": {
       "en": "Molecule identity versus botanical source",
       "zh": "分子身份与植物来源"

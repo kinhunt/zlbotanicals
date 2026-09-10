@@ -1,7 +1,7 @@
 ---
 import profiles from '../data/science-profiles.json';
 import IngredientKnowledgeNav from './IngredientKnowledgeNav.astro';
-import IngredientKnowledge from './IngredientKnowledge.astro';
+import {getIngredientKnowledge,dimensions,dimensionLabels} from '../data/ingredient-knowledge';
 import GeneralIngredientGuides from './GeneralIngredientGuides.astro';
 import concepts from '../data/odm.json';
 import dossiers from '../data/product-dossiers.json';
@@ -11,6 +11,7 @@ import { getLocalizedPath, type Language } from '../i18n/config';
 interface Props {lang:Language; slug:string}
 const {lang,slug}=Astro.props;
 const d=dossiers.find(d=>d.slug===slug);
+const knowledge=getIngredientKnowledge(slug);
 const zh=lang==='zh';
 const local=(p:string)=>getLocalizedPath(p,lang);
 const industries={beverages:{en:'Beverage development',zh:'饮料开发'},food:{en:'Food applications',zh:'食品应用'},nutraceuticals:{en:'Supplement evaluation',zh:'营养补充剂评估'},cosmetics:{en:'Cosmetic development',zh:'化妆品开发'}};
@@ -32,7 +33,7 @@ const industries={beverages:{en:'Beverage development',zh:'饮料开发'},food:{
  </nav>
  {concepts.some(c=>c.products.includes(slug)) && <section class="mt-8"><h3 class="font-semibold text-lg">{zh?'相关 ODM 概念 · 尚未验证':'Related ODM concepts · not validated'}</h3><div class="flex flex-wrap gap-3 mt-3">{concepts.filter(c=>c.products.includes(slug)).map(c=><a class="p-3 border rounded-lg underline text-primary" href={local(`/odm/${c.slug}`)}>{c.title[lang]}</a>)}</div></section>}
  <GeneralIngredientGuides lang={lang} />
- {!profiles.some(p=>p.id===slug)&&<IngredientKnowledge productId={slug} lang={lang} />}
+ <div data-commercial-knowledge-summary class="mt-8 space-y-6">{dimensions.map(dimension=><section id={dimension} class="scroll-mt-28 border-t pt-5"><h3 class="font-semibold text-lg">{dimensionLabels[dimension][lang]}</h3><p class="mt-3 leading-relaxed text-gray-700">{knowledge.sections[dimension].text[lang]}</p><a class="inline-block mt-3 underline text-primary" href={local(`${knowledge.canonicalPath}#${dimension}`)}>{zh?'阅读本原料百科：完整讨论与来源':'Read this ingredient encyclopedia: full discussion & sources'} →</a></section>)}</div>
  <ResearchCards lang={lang} products={[slug]} />
  <NewsCards lang={lang} products={[slug]} />
 </section>}

@@ -1,0 +1,117 @@
+{
+  "baseline": "ca51f73",
+  "canonicalScienceProfiles": 24,
+  "commercialPages": 24,
+  "newRoutes": 18,
+  "retainedPriorTopicRoutes": 48,
+  "mappings": [
+    {
+      "productId": "green-tea",
+      "science": "/plant-extracts/ingredients/green-tea",
+      "commercial": "/products/green-tea",
+      "locales": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "productId": "turmeric",
+      "science": "/plant-extracts/ingredients/turmeric",
+      "commercial": "/products/turmeric",
+      "locales": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "productId": "reishi-mushroom",
+      "science": "/plant-extracts/ingredients/reishi-mushroom",
+      "commercial": "/products/reishi-mushroom",
+      "locales": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "productId": "ginseng",
+      "science": "/plant-extracts/ingredients/ginseng",
+      "commercial": "/products/ginseng",
+      "locales": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "productId": "ginkgo-biloba",
+      "science": "/plant-extracts/ingredients/ginkgo-biloba",
+      "commercial": "/products/ginkgo-biloba",
+      "locales": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "productId": "grape-seed",
+      "science": "/plant-extracts/ingredients/grape-seed",
+      "commercial": "/products/grape-seed",
+      "locales": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "productId": "goji-berry",
+      "science": "/plant-extracts/ingredients/goji-berry",
+      "commercial": "/products/goji-berry",
+      "locales": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "productId": "licorice-root",
+      "science": "/plant-extracts/ingredients/licorice-root",
+      "commercial": "/products/licorice-root",
+      "locales": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "productId": "centella-asiatica",
+      "science": "/plant-extracts/ingredients/centella-asiatica",
+      "commercial": "/products/centella-asiatica",
+      "locales": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "productId": "monk-fruit",
+      "science": "/plant-extracts/ingredients/monk-fruit",
+      "commercial": "/products/monk-fruit",
+      "locales": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "productId": "stevia",
+      "science": "/plant-extracts/ingredients/stevia",
+      "commercial": "/products/stevia",
+      "locales": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "productId": "resveratrol",
+      "science": "/plant-extracts/ingredients/resveratrol",
+      "commercial": "/products/resveratrol",
+      "locales": [
+        "en",
+        "zh"
+      ]
+    }
+  ]
+}

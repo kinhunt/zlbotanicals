@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 const dossiers=JSON.parse(readFileSync('src/data/product-dossiers.json'));
-const science=new Set(['green-tea','centella-asiatica','monk-fruit']);
+const science=new Set(dossiers.map(d=>d.slug));
 const dimensions=['processes','equipment','applications','standards','insights'];
 const html=p=>readFileSync(`dist${p}/index.html`,'utf8');
 test('all 12 bilingual products link five dimensions to their own substantive canonical content',()=>{

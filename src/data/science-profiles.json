@@ -2,12 +2,12 @@
   {
     "id": "green-tea",
     "title": {
-      "en": "Green tea science: catechins, EGCG and material identity",
-      "zh": "绿茶科学档案：儿茶素、EGCG 与材料身份"
+      "en": "Green Tea Extract",
+      "zh": "绿茶提取物"
     },
     "description": {
-      "en": "Understand tea leaves, infusions, concentrated extracts and isolated EGCG before comparing assays or designing an application trial.",
-      "zh": "比较含量或设计应用试验前，先理解茶叶、浸泡茶、浓缩提取物与分离 EGCG 的区别。"
+      "en": "Green tea extract is a preparation derived from Camellia sinensis leaves. Dried tea, processing fines and spent brewing residue have different starting compositions.",
+      "zh": "绿茶提取物是来源于茶树 Camellia sinensis 叶的制备物。干茶、加工碎末与冲泡后茶渣的起始组成不同。"
     },
     "family": "polyphenols-and-catechins",
     "blocks": [
@@ -84,12 +84,12 @@
   {
     "id": "centella-asiatica",
     "title": {
-      "en": "Centella asiatica science: triterpenes and topical evidence",
-      "zh": "积雪草科学档案：三萜与外用证据"
+      "en": "Centella Asiatica Extract",
+      "zh": "积雪草提取物"
     },
     "description": {
-      "en": "Separate Centella extracts, named triterpenes and delivery systems; understand why wound-care literature does not validate an oral or cosmetic product.",
-      "zh": "区分积雪草提取物、特定三萜和递送体系，理解为何创面护理文献不能验证口服产品或普通化妆品。"
+      "en": "Centella asiatica herb; the cited laboratory experiment used authenticated mature leaves, not an unspecified whole-plant commercial powder.",
+      "zh": "积雪草 Centella asiatica 草本原料；所引实验使用经鉴定的成熟叶，不是不明部位的全草商品粉。"
     },
     "family": null,
     "blocks": [
@@ -165,12 +165,12 @@
   {
     "id": "monk-fruit",
     "title": {
-      "en": "Monk fruit science: mogrosides, extract identity and sweetness",
-      "zh": "罗汉果科学档案：甜苷、提取物身份与甜味"
+      "en": "Monk Fruit Extract",
+      "zh": "罗汉果提取物"
     },
     "description": {
-      "en": "Distinguish fruit-derived mixtures, mogroside V assay and application context before interpreting a sweetener notice or planning a sensory trial.",
-      "zh": "解读甜味剂通知或规划感官试验前，区分果实来源混合物、罗汉果甜苷 V 检测与应用背景。"
+      "en": "Siraitia grosvenorii fruit. Non-selective fruit decoctions, refined mogroside extracts and carrier-containing blends are different inputs.",
+      "zh": "罗汉果 Siraitia grosvenorii 果实；非选择性果实煎煮液、精制甜苷提取物与含载体复配物是不同原料。"
     },
     "family": "glycosides-and-sweetener-identity",
     "blocks": [
@@ -242,5 +242,122 @@
         ]
       }
     ]
+  },
+  {
+    "id": "turmeric",
+    "family": null,
+    "blocks": [],
+    "description": {
+      "en": "Curcuma longa rhizomes, commonly dried and milled before extraction; ground turmeric is not purified curcumin.",
+      "zh": "姜黄 Curcuma longa 根茎，提取前通常干燥粉碎；姜黄粉不是纯化姜黄素。"
+    },
+    "title": {
+      "en": "Turmeric Extract",
+      "zh": "姜黄提取物"
+    }
+  },
+  {
+    "id": "reishi-mushroom",
+    "family": null,
+    "blocks": [],
+    "description": {
+      "en": "Ganoderma fungal materials: verify species (including G. lingzhi versus G. lucidum), fruiting body, mycelium or spores and cultivation substrate. Reishi is a fungus, not a plant.",
+      "zh": "灵芝属 Ganoderma 真菌原料：核对物种（包括 G. lingzhi 与 G. lucidum）、子实体、菌丝或孢子及培养基质。灵芝是真菌，不是植物。"
+    },
+    "title": {
+      "en": "Reishi Mushroom Extract",
+      "zh": "灵芝提取物"
+    }
+  },
+  {
+    "id": "ginseng",
+    "family": null,
+    "blocks": [],
+    "description": {
+      "en": "Panax ginseng roots. Fresh roots, dried white ginseng, steamed red ginseng and repeatedly steamed black ginseng have different processing identities; other Panax species and leaves are not interchangeable.",
+      "zh": "人参 Panax ginseng 的根；鲜根、干燥白参、蒸制红参与反复蒸制黑参的加工身份不同，其他人参属物种及叶不可互换。"
+    },
+    "title": {
+      "en": "Ginseng Extract",
+      "zh": "人参提取物"
+    }
+  },
+  {
+    "id": "ginkgo-biloba",
+    "family": null,
+    "blocks": [],
+    "description": {
+      "en": "Ginkgo biloba leaves; leaf powder, refined leaf extract, seed kernels and outer seed coats are different materials.",
+      "zh": "银杏 Ginkgo biloba 的叶；叶粉、精制叶提取物、种仁与外种皮是不同材料。"
+    },
+    "title": {
+      "en": "Ginkgo Biloba Extract",
+      "zh": "银杏叶提取物"
+    }
+  },
+  {
+    "id": "grape-seed",
+    "family": null,
+    "blocks": [],
+    "description": {
+      "en": "Vitis seeds, with species, fermentation history and defatting recorded. Grape skins, grape-seed oil and resveratrol are not grape-seed polyphenol extract.",
+      "zh": "葡萄属 Vitis 的籽，记录物种、发酵历史和脱脂情况。葡萄皮、葡萄籽油与白藜芦醇不是葡萄籽多酚提取物。"
+    },
+    "title": {
+      "en": "Grape Seed Extract",
+      "zh": "葡萄籽提取物"
+    }
+  },
+  {
+    "id": "goji-berry",
+    "family": null,
+    "blocks": [],
+    "description": {
+      "en": "Lycium barbarum fruit. Whole-fruit powder, juice solids, polysaccharide fractions and carotenoid-oriented materials must remain distinct; leaf studies do not identify fruit extracts.",
+      "zh": "枸杞 Lycium barbarum 果实；全果粉、果汁固形物、多糖组分与类胡萝卜素导向材料须区分，叶研究不能界定果实提取物。"
+    },
+    "title": {
+      "en": "Goji Berry Extract",
+      "zh": "枸杞提取物"
+    }
+  },
+  {
+    "id": "licorice-root",
+    "family": null,
+    "blocks": [],
+    "description": {
+      "en": "Glycyrrhiza roots and stolons; identify the species rather than relying on the common name. Glabridin-oriented material specifically requires authenticated G. glabra.",
+      "zh": "甘草属 Glycyrrhiza 的根及根茎类原料；须鉴定物种而非只依靠俗名。光甘草定导向材料尤其需要经鉴定的 G. glabra。"
+    },
+    "title": {
+      "en": "Licorice Root Extract",
+      "zh": "甘草提取物"
+    }
+  },
+  {
+    "id": "stevia",
+    "family": null,
+    "blocks": [],
+    "description": {
+      "en": "Stevia rebaudiana leaves are the botanical input for leaf extraction. Fermentation-derived and enzyme-converted glycosides have different starting materials and cannot simply be described as leaf extracts.",
+      "zh": "甜叶菊 Stevia rebaudiana 的叶是叶提路线的植物原料。发酵来源及酶转化糖苷的起始材料不同，不能一概称为叶提取物。"
+    },
+    "title": {
+      "en": "Stevia Extract",
+      "zh": "甜菊提取物"
+    }
+  },
+  {
+    "id": "resveratrol",
+    "family": null,
+    "blocks": [],
+    "description": {
+      "en": "Resveratrol names a molecule, not one plant extract. Botanical knotweed roots/rhizomes, synthetic trans-resveratrol and microbial material require different source records; grape-seed extract is not synonymous.",
+      "zh": "白藜芦醇是分子名称，不是单一植物提取物。虎杖根及根茎来源、合成反式白藜芦醇与微生物材料需要不同来源记录，不能等同于葡萄籽提取物。"
+    },
+    "title": {
+      "en": "Resveratrol",
+      "zh": "白藜芦醇"
+    }
   }
 ]

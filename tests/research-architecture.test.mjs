@@ -26,8 +26,8 @@ test('Research hubs separate five populated reading paths and method-aware marke
  }
 });
 
-test('three botanical science profiles have material boundaries, citations and ID-matched product/paper links in both languages',()=>{
- for(const lang of ['', 'zh/']) for(const slug of ['green-tea','centella-asiatica','monk-fruit']){
+test('twelve ingredient encyclopedias have material boundaries, citations and ID-matched product/paper links in both languages',()=>{
+ for(const lang of ['', 'zh/']) for(const {id:slug} of JSON.parse(readFileSync('src/data/science-profiles.json'))){
   const path=`${lang}plant-extracts/ingredients/${slug}`;
   assert.ok(existsSync(`dist/${path}/index.html`),`science profile ${path}`);
   const page=html(path);

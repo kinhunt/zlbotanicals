@@ -1,0 +1,331 @@
+[
+  {
+    "productId": "green-tea",
+    "citations": [
+      1,
+      2
+    ],
+    "identity": {
+      "en": "Green tea extract is a preparation derived from Camellia sinensis leaves. Dried tea, processing fines and spent brewing residue have different starting compositions.",
+      "zh": "绿茶提取物是来源于茶树 Camellia sinensis 叶的制备物。干茶、加工碎末与冲泡后茶渣的起始组成不同。"
+    },
+    "components": {
+      "en": "Total polyphenols, individual catechins (including EGCG) and caffeine are separate measurements.",
+      "zh": "总多酚、具体儿茶素（包括 EGCG）与咖啡因须分别检测。"
+    },
+    "applications": {
+      "en": "Beverages, protein systems and oral solid development.",
+      "zh": "饮料、蛋白体系与口服固体制剂开发。"
+    },
+    "endProducts": {
+      "en": "Ready-to-drink tea, instant drink powders, capsules and tablets.",
+      "zh": "即饮茶、速溶饮品粉、胶囊与片剂。"
+    },
+    "processChoices": {
+      "en": "For a tea-like drink, investigate aqueous extraction and clarification with flavour and catechin retention. A catechin-enriched capsule requires separate selective enrichment and caffeine/exposure review; evaporating more water does not establish that profile.",
+      "zh": "茶风味饮料可研究水提和澄清，同时考察风味与儿茶素保留；儿茶素富集胶囊需要另行选择性富集并复核咖啡因及暴露，单纯多蒸发水分不能确立该图谱。"
+    }
+  },
+  {
+    "productId": "centella-asiatica",
+    "citations": [
+      3,
+      4
+    ],
+    "identity": {
+      "en": "Centella asiatica herb; the cited laboratory experiment used authenticated mature leaves, not an unspecified whole-plant commercial powder.",
+      "zh": "积雪草 Centella asiatica 草本原料；所引实验使用经鉴定的成熟叶，不是不明部位的全草商品粉。"
+    },
+    "components": {
+      "en": "Asiaticoside and madecassoside are glycosides; asiatic acid and madecassic acid are aglycones. Their distributions matter beyond a total-triterpene number.",
+      "zh": "积雪草苷与羟基积雪草苷为糖苷，积雪草酸与羟基积雪草酸为苷元；不能仅看总三萜。"
+    },
+    "applications": {
+      "en": "Topical formulation development; oral and medicinal uses need separate assessment.",
+      "zh": "外用配方开发；口服和药用须分别评价。"
+    },
+    "endProducts": {
+      "en": "Serums, hydrogels, creams and emulsions as development concepts, not wound treatments.",
+      "zh": "作为开发概念的精华、水凝胶、乳霜与乳液，不是创面治疗产品。"
+    },
+    "processChoices": {
+      "en": "A broad liquid extract and a glycoside-rich clear serum need different fractionation and colour-control targets. Enriching an aglycone changes dispersion requirements. The methanol laboratory screen is not a food or cosmetic manufacturing recipe.",
+      "zh": "广谱液体提取物与糖苷富集透明精华的分级及脱色目标不同；富集苷元会改变分散要求。实验室甲醇筛选不能作为食品或化妆品生产配方。"
+    }
+  },
+  {
+    "productId": "monk-fruit",
+    "citations": [
+      5,
+      7
+    ],
+    "identity": {
+      "en": "Siraitia grosvenorii fruit. Non-selective fruit decoctions, refined mogroside extracts and carrier-containing blends are different inputs.",
+      "zh": "罗汉果 Siraitia grosvenorii 果实；非选择性果实煎煮液、精制甜苷提取物与含载体复配物是不同原料。"
+    },
+    "components": {
+      "en": "Mogroside V, total mogrosides, native sugars and added bulking ingredients must be distinguished.",
+      "zh": "须区分罗汉果甜苷 V、总甜苷、天然糖及外加填充组分。"
+    },
+    "applications": {
+      "en": "Sweetness-system development for drinks, fermented foods and reduced-sugar foods.",
+      "zh": "饮品、发酵食品与减糖食品的甜味体系开发。"
+    },
+    "endProducts": {
+      "en": "Reduced-sugar drinks, yoghurt, frozen desserts, bakery products and tabletop blends.",
+      "zh": "减糖饮品、酸奶、冷冻甜品、烘焙食品与餐桌甜味复配物。"
+    },
+    "processChoices": {
+      "en": "A decoction retains a broader fruit-solids profile. Refined sweetener development adds selective adsorption and washing to separate sugars from mogrosides; concentration alone enriches both. Bakery and frozen products also need bulk and texture design.",
+      "zh": "煎煮液保留更广的果实固形物；精制甜味剂开发利用选择性吸附与洗涤分离糖和甜苷，单纯浓缩会同时富集两者。烘焙和冷冻产品还须另行设计体积与质构。"
+    }
+  },
+  {
+    "productId": "turmeric",
+    "citations": [
+      7,
+      10
+    ],
+    "identity": {
+      "en": "Curcuma longa rhizomes, commonly dried and milled before extraction; ground turmeric is not purified curcumin.",
+      "zh": "姜黄 Curcuma longa 根茎，提取前通常干燥粉碎；姜黄粉不是纯化姜黄素。"
+    },
+    "components": {
+      "en": "Curcumin, demethoxycurcumin and bisdemethoxycurcumin form the principal curcuminoid group; volatile oils and resins belong to a different fraction.",
+      "zh": "姜黄素、去甲氧基姜黄素与双去甲氧基姜黄素为主要姜黄素类；挥发油与树脂属于另一组分。"
+    },
+    "applications": {
+      "en": "Spice/colour ingredient development, oral solids and formulated dispersions.",
+      "zh": "香辛料与着色原料、口服固体制剂及配方分散体系开发。"
+    },
+    "endProducts": {
+      "en": "Spice oleoresins, capsule/tablet concepts and opaque beverage dispersions.",
+      "zh": "香辛料油树脂、胶囊片剂概念与浑浊饮料分散体系。"
+    },
+    "processChoices": {
+      "en": "Retain flavour and volatile fractions for a spice oleoresin; use selective washing/crystallization for a concentrated pigment. A beverage dispersion then needs a separate carrier/emulsion development step, not a claim that crystals dissolve in water.",
+      "zh": "香辛料油树脂需保留风味和挥发组分；浓缩色素采用选择性洗涤与结晶。饮料分散物还需另行开展载体或乳化开发，不能声称晶体因此溶于水。"
+    }
+  },
+  {
+    "productId": "reishi-mushroom",
+    "citations": [
+      9,
+      12
+    ],
+    "identity": {
+      "en": "Ganoderma fungal materials: verify species (including G. lingzhi versus G. lucidum), fruiting body, mycelium or spores and cultivation substrate. Reishi is a fungus, not a plant.",
+      "zh": "灵芝属 Ganoderma 真菌原料：核对物种（包括 G. lingzhi 与 G. lucidum）、子实体、菌丝或孢子及培养基质。灵芝是真菌，不是植物。"
+    },
+    "components": {
+      "en": "Water-extractable polysaccharides and alcohol-oriented triterpenoid fractions differ; total sugars are not beta-glucan identity.",
+      "zh": "水提多糖与偏向醇提的三萜组分不同；总糖不能代表 β-葡聚糖身份。"
+    },
+    "applications": {
+      "en": "Powder, oral-solid and beverage formulation development with fraction-specific testing.",
+      "zh": "按组分检测的粉剂、口服固体制剂与饮料配方开发。"
+    },
+    "endProducts": {
+      "en": "Capsules, tablets, mushroom drink powders and suspension concepts.",
+      "zh": "胶囊、片剂、灵芝饮品粉与悬浮饮料概念。"
+    },
+    "processChoices": {
+      "en": "A polysaccharide-oriented powder and a triterpenoid-oriented fraction need different solvent selectivity. Sequential or parallel extraction and blending must identify retained streams; a dual-extraction label does not mean maximal recovery of everything.",
+      "zh": "多糖导向粉末与三萜导向组分需要不同的溶剂选择性。顺序提取、平行提取及混合须说明保留物流；双提取标签不代表所有成分同时最大回收。"
+    }
+  },
+  {
+    "productId": "ginseng",
+    "citations": [
+      3,
+      15
+    ],
+    "identity": {
+      "en": "Panax ginseng roots. Fresh roots, dried white ginseng, steamed red ginseng and repeatedly steamed black ginseng have different processing identities; other Panax species and leaves are not interchangeable.",
+      "zh": "人参 Panax ginseng 的根；鲜根、干燥白参、蒸制红参与反复蒸制黑参的加工身份不同，其他人参属物种及叶不可互换。"
+    },
+    "components": {
+      "en": "Individual ginsenosides, their malonyl precursors and heat-conversion products should be tracked separately from a total-saponin assay.",
+      "zh": "具体人参皂苷、丙二酰基前体与受热转化产物应与总皂苷检测分开追踪。"
+    },
+    "applications": {
+      "en": "Beverages, concentrated liquids and oral-solid development.",
+      "zh": "饮料、浓缩液与口服固体制剂开发。"
+    },
+    "endProducts": {
+      "en": "Ginseng drinks, liquid concentrates, capsules and tablets.",
+      "zh": "人参饮品、浓缩液、胶囊与片剂。"
+    },
+    "processChoices": {
+      "en": "Fix white/red/black root identity before extraction. A beverage brief needs flavour and heat/acid profile retention; a converted-ginsenoside target needs controlled conversion and precursor/product accounting, not merely longer evaporation.",
+      "zh": "提取前先固定白参、红参或黑参身份。饮料须考虑风味及受热酸化后的图谱保留；转化皂苷目标需受控转化与前体产物核算，而非仅延长蒸发。"
+    }
+  },
+  {
+    "productId": "ginkgo-biloba",
+    "citations": [
+      2,
+      28
+    ],
+    "identity": {
+      "en": "Ginkgo biloba leaves; leaf powder, refined leaf extract, seed kernels and outer seed coats are different materials.",
+      "zh": "银杏 Ginkgo biloba 的叶；叶粉、精制叶提取物、种仁与外种皮是不同材料。"
+    },
+    "components": {
+      "en": "Flavone glycosides, individual terpene lactones and unwanted ginkgolic acids need separate analytical controls.",
+      "zh": "黄酮醇苷、具体萜内酯与不需要的银杏酸须分别控制。"
+    },
+    "applications": {
+      "en": "Defined oral dosage-form development; beverage suitability is a separate solubility and safety question.",
+      "zh": "明确材料的口服剂型开发；饮料适用性是另一项溶解性和安全问题。"
+    },
+    "endProducts": {
+      "en": "Capsules and tablets; liquid combinations only as separately assessed development concepts.",
+      "zh": "胶囊与片剂；液体复配仅作为另行评价的开发概念。"
+    },
+    "processChoices": {
+      "en": "A refined quantified leaf extract needs selective unwanted-constituent removal alongside marker enrichment. Simple leaf extraction or leaf-polysaccharide research cannot substitute for that route. Solid dosage forms then need uniformity and release tests.",
+      "zh": "精制定量叶提取物须在富集标志成分时选择性去除不需要的物质。简单叶提取或叶多糖研究不能替代该路线；固体剂型还需均匀性与释放试验。"
+    }
+  },
+  {
+    "productId": "grape-seed",
+    "citations": [
+      14,
+      34,
+      52
+    ],
+    "identity": {
+      "en": "Vitis seeds, with species, fermentation history and defatting recorded. Grape skins, grape-seed oil and resveratrol are not grape-seed polyphenol extract.",
+      "zh": "葡萄属 Vitis 的籽，记录物种、发酵历史和脱脂情况。葡萄皮、葡萄籽油与白藜芦醇不是葡萄籽多酚提取物。"
+    },
+    "components": {
+      "en": "Proanthocyanidins span monomers/oligomers/polymers; OPC needs a size definition, assay and reference standard.",
+      "zh": "原花青素体系涉及单体、低聚体与聚合体；OPC 需明确聚合度范围、方法及对照品。"
+    },
+    "applications": {
+      "en": "Oral solids, beverage/protein systems, gummies and cosmetic development.",
+      "zh": "口服固体制剂、饮料蛋白体系、软糖与化妆品开发。"
+    },
+    "endProducts": {
+      "en": "Capsules, tablets, gummies and trial beverage or emulsion formats.",
+      "zh": "胶囊、片剂、软糖以及试验饮料或乳液形态。"
+    },
+    "processChoices": {
+      "en": "Separate oil recovery from aqueous-ethanol polyphenol recovery. Refining for a defined size profile is a different target from maximum powder yield; beverage work must assess astringency and protein haze, while capsules need profile-specific release testing.",
+      "zh": "将油脂回收与水醇多酚回收分开。精制到特定聚合度图谱不同于最大粉末得率；饮料需评价涩味及蛋白浑浊，胶囊需按组分图谱检测释放。"
+    }
+  },
+  {
+    "productId": "goji-berry",
+    "citations": [
+      9,
+      37
+    ],
+    "identity": {
+      "en": "Lycium barbarum fruit. Whole-fruit powder, juice solids, polysaccharide fractions and carotenoid-oriented materials must remain distinct; leaf studies do not identify fruit extracts.",
+      "zh": "枸杞 Lycium barbarum 果实；全果粉、果汁固形物、多糖组分与类胡萝卜素导向材料须区分，叶研究不能界定果实提取物。"
+    },
+    "components": {
+      "en": "Free sugars, polysaccharide size/composition, betaine and carotenoids are separate targets.",
+      "zh": "游离糖、多糖分子量与组成、甜菜碱及类胡萝卜素是不同目标。"
+    },
+    "applications": {
+      "en": "Fruit-flavour foods and drinks, gummies and separately characterized research fractions.",
+      "zh": "果味食品饮品、软糖及另行表征的研究组分。"
+    },
+    "endProducts": {
+      "en": "Instant drink powders, juice-based gummies and polysaccharide powder concepts.",
+      "zh": "速溶饮品粉、果汁型软糖与多糖粉概念。"
+    },
+    "processChoices": {
+      "en": "Juice powder targets flavour, colour and reconstitution without removing all sugars. A polysaccharide concentrate instead requires sugar removal and fractionation; a zeaxanthin target needs a separate pigment recovery and stability plan.",
+      "zh": "果汁粉目标是风味、色泽和复溶，不必去除全部糖；多糖浓缩物需脱除游离糖并分级；玉米黄质目标还需单独的色素回收与稳定性方案。"
+    }
+  },
+  {
+    "productId": "licorice-root",
+    "citations": [
+      4,
+      28,
+      44,
+      48
+    ],
+    "identity": {
+      "en": "Glycyrrhiza roots and stolons; identify the species rather than relying on the common name. Glabridin-oriented material specifically requires authenticated G. glabra.",
+      "zh": "甘草属 Glycyrrhiza 的根及根茎类原料；须鉴定物种而非只依靠俗名。光甘草定导向材料尤其需要经鉴定的 G. glabra。"
+    },
+    "components": {
+      "en": "Glycyrrhizin/glycyrrhizic acid, deglycyrrhizinated licorice (DGL), total flavonoids and glabridin are different identities.",
+      "zh": "甘草酸、脱甘草酸甘草（DGL）、总黄酮与光甘草定是不同材料身份。"
+    },
+    "applications": {
+      "en": "Flavour formulation, oral-solid development and separately assessed topical glabridin systems.",
+      "zh": "调味配方、口服固体制剂及另行评价的外用光甘草定体系。"
+    },
+    "endProducts": {
+      "en": "Flavour concentrates, DGL capsule/tablet concepts and glabridin cream or emulsion concepts.",
+      "zh": "调味浓缩物、DGL 胶囊片剂概念与光甘草定乳霜乳液概念。"
+    },
+    "processChoices": {
+      "en": "Conventional extract retains a mixed profile; DGL separates glycyrrhizic acid from desired constituents and needs a numerical residual assay. Glabridin enrichment is another fractionation target, followed by dispersion testing for topical use.",
+      "zh": "常规提取物保留混合图谱；DGL 分离甘草酸与目标成分并需要数值化残留检测。光甘草定富集是另一分级目标，外用还需分散性试验。"
+    }
+  },
+  {
+    "productId": "stevia",
+    "citations": [
+      7,
+      8,
+      34
+    ],
+    "identity": {
+      "en": "Stevia rebaudiana leaves are the botanical input for leaf extraction. Fermentation-derived and enzyme-converted glycosides have different starting materials and cannot simply be described as leaf extracts.",
+      "zh": "甜叶菊 Stevia rebaudiana 的叶是叶提路线的植物原料。发酵来源及酶转化糖苷的起始材料不同，不能一概称为叶提取物。"
+    },
+    "components": {
+      "en": "Total steviol glycosides, individual Reb A/D/M proportions and manufacturing origin are separate identity fields.",
+      "zh": "总甜菊糖苷、Reb A/D/M 具体比例与制造来源是独立身份字段。"
+    },
+    "applications": {
+      "en": "Sweetness-system development for beverages, dairy/protein foods, baking and powder blends.",
+      "zh": "饮料、乳品蛋白食品、烘焙与粉末复配的甜味体系开发。"
+    },
+    "endProducts": {
+      "en": "Reduced-sugar beverages, baked foods and tabletop sweetener blends.",
+      "zh": "减糖饮料、烘焙食品与餐桌甜味剂复配物。"
+    },
+    "processChoices": {
+      "en": "Leaf extraction recovers existing glycosides; selective crystallization changes proportions. A minor-glycoside target may instead involve enzyme conversion or fermentation with distinct residual and regulatory checks. Sugar replacement also needs solids/texture design.",
+      "zh": "叶提回收已有糖苷，选择性结晶改变比例。少量糖苷目标可能采用酶转化或发酵，须分别复核残留和法规；替糖还需要固形物及质构设计。"
+    }
+  },
+  {
+    "productId": "resveratrol",
+    "citations": [
+      20,
+      30,
+      41
+    ],
+    "identity": {
+      "en": "Resveratrol names a molecule, not one plant extract. Botanical knotweed roots/rhizomes, synthetic trans-resveratrol and microbial material require different source records; grape-seed extract is not synonymous.",
+      "zh": "白藜芦醇是分子名称，不是单一植物提取物。虎杖根及根茎来源、合成反式白藜芦醇与微生物材料需要不同来源记录，不能等同于葡萄籽提取物。"
+    },
+    "components": {
+      "en": "Trans/cis identity, polydatin/piceid precursor, emodin and other source-specific impurities matter beyond main-peak purity.",
+      "zh": "反式与顺式身份、虎杖苷前体、大黄素及其他来源特定杂质均重要，不能只看主峰纯度。"
+    },
+    "applications": {
+      "en": "Oral solids, suspensions/emulsions and topical development, with route-specific evidence.",
+      "zh": "按使用途径区分证据的口服固体制剂、悬浮乳化体系与外用开发。"
+    },
+    "endProducts": {
+      "en": "Capsules/tablets and separately tested dispersion or topical concepts; a clear drink is not assured.",
+      "zh": "胶囊片剂及另行测试的分散物或外用概念；不保证适用于透明饮料。"
+    },
+    "processChoices": {
+      "en": "Botanical recovery must distinguish free compound extraction from precursor hydrolysis and remove source-specific coextractives. Purified crystals for capsules and carrier preparations for dispersions need different downstream work; higher purity does not establish aqueous solubility.",
+      "zh": "植物来源回收须区分游离物提取与前体水解并去除特定共提杂质。胶囊纯化晶体与分散用载体制备物的下游工作不同；更高纯度不能证明水溶性。"
+    }
+  }
+]
