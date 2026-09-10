@@ -2,8 +2,11 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {existsSync,readFileSync} from 'node:fs';
 const data=JSON.parse(readFileSync('src/data/plant-extracts.json','utf8'));
-test('twenty-four topics retain legacy guides and add three aligned science profiles',()=>{
- assert.equal(data.topics.length,24);
+test('thirty-three topics retain all legacy guides and twelve aligned science profiles',()=>{
+ assert.equal(data.topics.length,33);
+ assert.equal(data.topics.filter(t=>t.scienceId).length,12);
+ assert.equal(data.topics.filter(t=>!t.scienceId).length,21);
+ const deep=JSON.parse(readFileSync('src/data/deep-ingredients.json','utf8'));
  const profiles=JSON.parse(readFileSync('src/data/science-profiles.json','utf8'));
  const sources=JSON.parse(readFileSync('src/data/science-sources.json','utf8'));
  for(const t of data.topics) {
@@ -12,7 +15,9 @@ test('twenty-four topics retain legacy guides and add three aligned science prof
   if(science) assert.ok(science.blocks.flatMap(b=>b.citations).every(n=>sources.some(s=>s.id===n)));
   else assert.ok(t.references.length>0 && t.references.every(r=>data.sources[r]));
   for(const lang of data.locales){
-   const c=science?{title:science.title[lang],description:science.description[lang],blocks:science.blocks.map(b=>({text:b.text[lang]}))}:t.translations[lang];
+   const research=science?deep.find(d=>d.productId===science.id):null;
+   if(science) { assert.ok(research); assert.equal(research.content[lang].length,5); }
+   const c=science?{title:science.title[lang],description:science.description[lang],blocks:research.content[lang].map(s=>({text:JSON.stringify(s.blocks)}))}:t.translations[lang];
    assert.ok(c.title && c.description && c.blocks.length>=3);
    assert.ok(c.blocks.map(b=>b.text).join('').length>(lang==='en'?950:300),t.slug+' '+lang+' substantive body');
    const p=`dist/${lang==='zh'?'zh/':''}plant-extracts/${t.section}/${t.slug}/index.html`;

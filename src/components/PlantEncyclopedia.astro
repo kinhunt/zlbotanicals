@@ -1,10 +1,9 @@
 ---
 import ExtractionVideo from './ExtractionVideo.astro';
 import ScienceProfile from './ScienceProfile.astro';
-import IngredientKnowledgeNav from './IngredientKnowledgeNav.astro';
-import GeneralIngredientGuides from './GeneralIngredientGuides.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import data from '../data/plant-extracts.json';
+import profiles from '../data/science-profiles.json';
 import {getLocalizedPath} from '../i18n/config';
 interface Props {lang:'en'|'zh'; section?:string; topic?:string}
 const {lang,section,topic}=Astro.props;
@@ -35,7 +34,7 @@ const tasks=zh?['确认物种、部位和起始原料追溯','记录溶剂、载
   </section>
   <div class="container-wide knowledge-body">
    <!-- Ingredient reading is primary; taxonomy remains discoverable but explicitly general. -->
-   {entry?.scienceId?<><IngredientKnowledgeNav productId={entry.scienceId} lang={lang} /><GeneralIngredientGuides lang={lang} /></>:<nav class="section-tabs" aria-label={zh?'百科栏目':'Encyclopedia sections'}>{data.sections.map(s=><a href={`${root}/${s.slug}`} aria-current={section===s.slug?'true':undefined}>{s.translations[lang].title}</a>)}</nav>}
+   {!entry?.scienceId&&<nav class="section-tabs" aria-label={zh?'百科栏目':'Encyclopedia sections'}>{data.sections.map(s=><a href={`${root}/${s.slug}`} aria-current={section===s.slug?'true':undefined}>{s.translations[lang].title}</a>)}</nav>}
    {!section&&<>
     <section class="reading"><h2>{zh?'什么是植物提取物？':'What is a plant extract?'}</h2>
      <p>{zh?'植物提取物是利用适宜介质把植物原料中的部分成分转移出来，常经分离、浓缩或干燥形成的制备物。它不是一个具有固定组成的单一类别。物种、植物部位、提取介质和后续加工共同影响最终材料。':'A plant extract is a preparation made by transferring selected constituents from botanical material into a suitable medium, often followed by separation, concentration or drying. It is not one category with a fixed composition. Species, plant part, extraction medium and downstream processing shape the resulting material.'} <a href={`${root}/basics`}>{zh?'阅读基础指南 →':'Read the basics →'}</a></p>
@@ -44,10 +43,11 @@ const tasks=zh?['确认物种、部位和起始原料追溯','记录溶剂、载
     <section><h2>{zh?'七个栏目，从问题出发':'Seven ways into the subject'}</h2><div class="knowledge-grid">{data.sections.map((s,i)=><a class="knowledge-card" href={`${root}/${s.slug}`}><span class="card-number">0{i+1}</span><h3>{s.translations[lang].title}</h3><p>{s.translations[lang].description}</p><span class="read-link">{zh?'阅读栏目指南 →':'Explore the guide →'}</span></a>)}</div></section>
    </>}
    {entry?.scienceId&&<ScienceProfile id={entry.scienceId} lang={lang} />}
+   {section==='ingredients'&&!topic&&<section id="extract-directory"><h2>{zh?'按提取物浏览':'Browse extracts'}</h2><div class="knowledge-grid">{profiles.map(p=><a class="knowledge-card" data-extract-id={p.id} href={`${root}/ingredients/${p.id}`}><h3>{p.title[lang]}</h3><p>{p.description[lang]}</p></a>)}</div></section>}
    {content&&!entry?.scienceId&&<article class="reading">{content.blocks.map((b:any)=><section><h2>{b.heading}</h2><p>{b.text}</p></section>)}</article>}
    {(!section||section==='processes')&&!topic&&<section class="process-panel"><h2>{zh?'典型提取路线：概念示意':'A typical extraction route: conceptual schematic'}</h2><ol class="process-flow">{(zh?['原料身份','前处理','提取','固液分离','浓缩／纯化','干燥／配制','质量复核']:['Material identity','Pretreatment','Extraction','Separation','Concentration / purification','Drying / formulation','Quality review']).map((s,i)=><li><span>{i+1}</span>{s}</li>)}</ol><p>{zh?'原创教学示意，不是真实厂房或经过验证的通用工艺。有些产品省略、重复或重新安排步骤。':'Original educational illustration—not a real facility or a validated universal process. Some products omit, repeat or reorder steps.'}</p></section>}
    {(!section||section==='processes')&&!topic&&<ExtractionVideo lang={lang} />}
-   {children.length>0&&<section><h2>{zh?'深入主题':'Explore individual topics'}</h2><div class="knowledge-grid">{children.map(t=><a class="knowledge-card" href={`${root}/${section}/${t.slug}`}><h3>{t.translations[lang].title}</h3><p>{t.translations[lang].description}</p><span class="read-link">{zh?'阅读全文 →':'Read the topic →'}</span></a>)}</div></section>}
+   {children.some(t=>!t.scienceId)&&<section id={section==='ingredients'?'constituent-families':undefined}><h2>{section==='ingredients'?(zh?'延伸阅读：成分家族与概念':'Further reading: constituent families & concepts'):(zh?'深入主题':'Explore individual topics')}</h2><div class="knowledge-grid">{children.filter(t=>!t.scienceId).map(t=><a class="knowledge-card" href={`${root}/${section}/${t.slug}`}><h3>{t.translations[lang].title}</h3><p>{t.translations[lang].description}</p><span class="read-link">{zh?'阅读全文 →':'Read the topic →'}</span></a>)}</div></section>}
    {entry?.relatedLinks?.length>0&&<section class="reading"><h2>{zh?'相关原料、方案与采购指南':'Related ingredients, applications and buyer guides'}</h2><ul>{entry.relatedLinks.map((p:string)=><li><a href={local(p)}>{relatedLabels[p]?.[zh?1:0] || p}</a></li>)}</ul></section>}
    <section class="reading"><h2>{zh?'如何使用这份知识':'Turn reading into a review plan'}</h2><ul>{tasks.map(t=><li>{t}</li>)}</ul><p>{zh?'以书面规格与真实批次证据作决定。本文讨论的检查项目不是振隆已经完成的试验或持有的认证；设备与工艺说明不是本企业制造能力声明。':'Make decisions using written specifications and genuine batch evidence. The checks described here are not claims of tests already performed or certificates held by ZL Botanicals; equipment and process explanations do not assert our manufacturing capabilities.'}</p></section>
    {!section&&<section class="reading"><h2>{zh?'常见问题':'Frequently asked questions'}</h2>{(zh?[

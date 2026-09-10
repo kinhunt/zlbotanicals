@@ -1,5 +1,7 @@
 # Deep ingredient research integration — 2026-09-09
 
+> Historical PR #13 record. The subsequent encyclopedia correction moves all twelve canonical research bodies to `/plant-extracts/ingredients/{productId}` while preserving product URLs and meaningful summary anchors. See `ingredient-encyclopedia-mapping.json` and `ingredient-encyclopedia-release.md` for current architecture. The mapping below describes the PR #13 release, not the current canonical state.
+
 ## Release scope
 
 Baseline `80a53da` (PR #12), branch `feat/deep-ingredient-research`.

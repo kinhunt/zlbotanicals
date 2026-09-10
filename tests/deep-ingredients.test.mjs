@@ -30,7 +30,7 @@ test('source data retains all five dimensions in both locales with matching tabl
 });
 
 test('science profiles lead with deep reading instead of duplicate shallow dossiers',()=>{
- for(const slug of ['green-tea','centella-asiatica','monk-fruit']){
+ for(const {productId:slug} of meta){
   const html=readFileSync(`dist/plant-extracts/ingredients/${slug}/index.html`,'utf8');
   assert.ok(!html.includes('Science profile checked:'));
   for(const id of ['identity','specification','process','application','evidence']) assert.ok(html.includes(`id="${id}"`));

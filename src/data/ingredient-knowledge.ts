@@ -13,7 +13,8 @@ const schema = z.array(z.object({productId:z.enum(productIds),canonicalPath:z.st
 export const knowledge = schema.parse(raw);
 if (new Set(knowledge.map(k=>k.productId)).size !== productIds.length) throw new Error('Duplicate ingredient knowledge ID');
 for (const k of knowledge) {
- const expected=profiles.some(p=>p.id===k.productId)?`/plant-extracts/ingredients/${k.productId}`:`/products/${k.productId}`;
+ const expected=`/plant-extracts/ingredients/${k.productId}`;
+ if (!profiles.some(p=>p.id===k.productId)) throw new Error(`Missing science profile: ${k.productId}`);
  if(k.canonicalPath!==expected || !dossiers.some(d=>d.slug===k.productId)) throw new Error(`Invalid canonical ingredient mapping: ${k.productId}`);
  for(const d of dimensions) if(k.sections[d].citations.some(n=>!sources.some(s=>s.id===n))) throw new Error(`Unknown ingredient source: ${k.productId}/${d}`);
 }
