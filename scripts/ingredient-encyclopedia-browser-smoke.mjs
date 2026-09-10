@@ -7,9 +7,10 @@ const out=process.env.QA_OUTPUT||'/tmp/zl-encyclopedia-qa';mkdirSync(out,{recurs
 const browser=await chromium.launch({headless:true,args:['--no-sandbox']});const results=[];
 const anchors=['raw-material','components','applications','end-products','processes','equipment','standards','insights'];
 try{
- for(const js of [true,false]) for(const width of [390,1440]) for(const lang of ['en','zh']){
+ for(const js of (process.env.QA_JS==='off'?[false]:process.env.QA_JS==='on'?[true]:[true,false])) for(const width of [390,1440]) for(const lang of ['en','zh']){
   const prefix=lang==='zh'?'/zh':'';
   const context=await browser.newContext({javaScriptEnabled:js,viewport:{width,height:900}});
+  context.setDefaultTimeout(15000);
   const errors=[];context.on('page',page=>page.on('pageerror',e=>errors.push(e.message)));
   const index=await context.newPage();
   assert.equal((await index.goto(`${base}${prefix}/plant-extracts/ingredients`)).status(),200);
@@ -19,9 +20,10 @@ try{
   if(js) await index.screenshot({path:`${out}/index-${lang}-${width}.png`,fullPage:true});
   results.push({kind:'index',lang,width,js});await index.close();
   for(const profile of profiles){
+   console.log(JSON.stringify({checking:profile.id,lang,width,js}));
    const page=await context.newPage();const path=`${prefix}/plant-extracts/ingredients/${profile.id}`;
    assert.equal((await page.goto(base+path)).status(),200);await page.evaluate(()=>document.fonts.ready);
-   await page.addStyleTag({content:'html { scroll-behavior: auto !important; }'});
+   await page.evaluate(()=>{const style=document.createElement('style');style.textContent='html { scroll-behavior: auto !important; }';document.head.appendChild(style);});
    assert.equal(await page.locator('h1').innerText(),profile.title[lang]);
    assert.ok(await page.locator('#identity').innerText());
    for(const anchor of anchors){
@@ -38,13 +40,14 @@ try{
    const product=`${prefix}/products/${profile.id}`;
    assert.equal((await page.goto(base+product)).status(),200);await page.evaluate(()=>document.fonts.ready);
    assert.equal(await page.locator('[data-deep-research]').count(),0);
-   const image=page.locator('img[src^="/images/products/"]');await image.scrollIntoViewIfNeeded();
-   await image.evaluate(el=>el.decode());assert.ok(await image.evaluate(el=>el.complete&&el.naturalWidth>0));
+   const image=page.locator('img[src^="/images/products/"]');await image.evaluate(el=>el.scrollIntoView({behavior:'instant',block:'center'}));
+   await image.waitFor({state:'visible'});
+   await page.waitForFunction(()=>{const el=document.querySelector('img[src^="/images/products/"]');return el?.complete&&el.naturalWidth>0;});assert.ok(await image.evaluate(el=>el.complete&&el.naturalWidth>0));
    assert.match(await image.getAttribute('src'),/\.webp$/);
    for(const anchor of ['processes','equipment','applications','standards','insights']){
     await page.goto(`${base}${product}#${anchor}`);await page.waitForLoadState('load');
-    await page.addStyleTag({content:'html { scroll-behavior: auto !important; }'});
-    const section=page.locator(`section#${anchor}`);await section.scrollIntoViewIfNeeded();
+    await page.evaluate(()=>{const style=document.createElement('style');style.textContent='html { scroll-behavior: auto !important; }';document.head.appendChild(style);});
+    const section=page.locator(`section#${anchor}`);await section.evaluate(el=>el.scrollIntoView({behavior:'instant',block:'center'}));
     assert.ok((await section.innerText()).length>100);
     await section.locator(`a[href="${path}#${anchor}"]`).click();await page.waitForLoadState('load');
     assert.equal(new URL(page.url()).pathname.replace(/\/$/,''),path);

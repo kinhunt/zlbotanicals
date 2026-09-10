@@ -22,7 +22,9 @@ Overview citations resolve to the ingredient's existing research-pack namespace 
 - Full build: **200 static pages**.
 - `npm test`: **87 passed, 0 failed**. Expanded previous three-only science tests to all twelve and replaced the obsolete 24-topic assertion with 33 topics (21 retained general topics + 12 science profiles). No old assertions about actual longform text, sources, imagery, audio, static links, language alternates or material hazards were removed.
 - `npm ci`: completed; existing dependency tree reports 14 advisories (1 critical, 11 high, 1 moderate, 1 low). No dependency or lockfile changes. npm also reports existing pending install-script approval warnings.
-- Browser QA results are recorded separately after execution. The new suite covers bilingual index/science/product journeys at mobile/desktop with JS on/off; existing deep-table and original-imagery suites remain in use.
+- Encyclopedia browser journeys: **200 cases passed** (96 science, 96 commercial product, 8 index). All twelve IDs in both languages at 390/1440, JS on/off, including actual eight-section TOC clicks and all five legacy-commercial-anchor → science-section journeys. Original WebPs decode on all product cases. Results: `ingredient-encyclopedia-browser-results.json`.
+- Mobile Chinese directory and mobile/desktop science screenshots visually inspected: plain names readable, hierarchy intact, no clipping.
+- Harness corrections: disable smooth scrolling using a DOM-inserted style rather than Playwright `addStyleTag` (which waited indefinitely with JS disabled); explicit instant scrolling avoids no-JS action-stability waits. Locale-aware short overview length checks preserve substantive paragraph assertions without imposing English character lengths on Chinese.
 
 ## Review / publication boundary
 
