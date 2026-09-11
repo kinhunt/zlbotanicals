@@ -12,7 +12,7 @@ const block=z.discriminatedUnion('type',[
 ]);
 const blocks=z.array(block).min(1);
 const section=z.object({id:text,heading:text,blocks,legacy:z.boolean().optional()}).strict();
-const image=z.object({src:z.string().regex(/^\/images\/ingredient-plans\/[a-z0-9-]+\/[a-z0-9-]+\.webp$/),caption:localized,alt:localized,width:z.number().int().positive(),height:z.number().int().positive()}).strict();
+const image=z.object({src:z.string().regex(/^\/images\/ingredient-plans\/landscape\/[a-z0-9-]+\/[a-z0-9-]+\.webp$/),caption:localized,alt:localized,width:z.number().int().positive(),height:z.number().int().positive()}).strict();
 const plan=z.object({id:z.string().regex(/^[a-z0-9-]+$/),title:localized,content:z.object({en:blocks,zh:blocks}).strict(),image:image.optional()}).strict();
 const schema=z.array(z.object({productId:text,approval:z.literal('editorial-reviewed'),sourcePack:text,content:z.object({en:z.array(section),zh:z.array(section)}).strict(),plans:z.array(plan).length(3),sources:z.array(z.object({id:z.number().int().positive(),title:text,url:z.string().url().startsWith('https://'),accessed:z.string().regex(/^\d{4}-\d{2}-\d{2}$/)}).strict()).min(1)}).strict()).length(11);
 export const ingredientReaderPacks=schema.parse(raw);

@@ -1,0 +1,457 @@
+[
+  {
+    "id": "public/images/blog/functional-mushroom-market.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "4f54bbec062d4483d8bbcf24eea9f87e60ec84329aaf2821cba5a06040b037bf",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/blog/green-tea-energy-beverage-2026.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "5e7e61a2de44cb5526d67948614c0bc788a4aec08dec2fdfa8cf00d7772233c4",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/blog/reishi-sleep-market-2026.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "6a1513391903374d830c10f824bb8c5bed8d6495dacbd327bc8a8efbff392f07",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/blog/turmeric-golden-milk-market.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "a47e7dd28d6af84a83001fc140f2ae3b51c89fc3813ee7b1db2c64edf932457e",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/blog/zero-calorie-sweetener-market-2026.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "87291a304262c0cc55fbc05d8971b49619d17557747565f4bcc0076ff68cccf8",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/hero/lab-research.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "398b8810f8bc486e773b25e68ee0abcece2e351e522324971e55af81bc6d1da9",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/ingredient-plans/centella-asiatica/hydrating-serum.webp",
+    "width": 508,
+    "height": 1024,
+    "sha256": "7bfcbc73ca4bba7d713d64ec4fbb006003d391edcc9be65189ab2eebc55e8024",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/centella-asiatica/lipid-cream.webp",
+    "width": 506,
+    "height": 1024,
+    "sha256": "3be40309f3a668aa2253070bc73e0d1f629e17a49f96c0dcae21fad7120ebf09",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/centella-asiatica/washable-gel.webp",
+    "width": 506,
+    "height": 1024,
+    "sha256": "463416af9206afc6adc54530f93a813ffb16bf9e95109b902d0efef4e10fe9f0",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/ginkgo-biloba/capsule.webp",
+    "width": 509,
+    "height": 1024,
+    "sha256": "ccd730ee3ebcdc18149c50f7a552374ce8d380d56bb5babddb957b38a93b7406",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/ginkgo-biloba/suspension.webp",
+    "width": 509,
+    "height": 1024,
+    "sha256": "4ca2c30a0bd4a882b268d28419d3bc83aa0765e868ba436444637fe7182749a8",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/ginkgo-biloba/tablet.webp",
+    "width": 509,
+    "height": 1024,
+    "sha256": "f2453ea21cd06fd409d24f09208097aac01277f791a94aa255c1dd640023a363",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/ginseng/capsule.webp",
+    "width": 506,
+    "height": 1024,
+    "sha256": "b1732b2fa039790cc0d09855c657f03dd7ef75487b2903a35ae96eef2d168c3c",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/ginseng/citrus-drink.webp",
+    "width": 506,
+    "height": 1024,
+    "sha256": "a58b1a0abb72f632bccbd5ad873f0939c7aa10ec26a187d711ad2fb925a41717",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/ginseng/instant-sachet.webp",
+    "width": 504,
+    "height": 1024,
+    "sha256": "4cf6d32f9867b76480a7f3339d95de24bb76cc05d00ad10413d57b48357e14e8",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/goji-berry/fruit-gummy.webp",
+    "width": 510,
+    "height": 1024,
+    "sha256": "5475d6158375dff9ff5cbead449d0a1eff692bf068dd032cd63408a102526e14",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/goji-berry/instant-drink.webp",
+    "width": 509,
+    "height": 1024,
+    "sha256": "3bec97e9b35539dd324e6fe7b449f1201bfaa1621df90b280ca6e333f046156f",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/goji-berry/polysaccharide-capsule.webp",
+    "width": 509,
+    "height": 1024,
+    "sha256": "bd2b4652842c541fd16141287148b4064fa5b394453b8bf703760cc6dd1125dc",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/grape-seed/berry-drink.webp",
+    "width": 508,
+    "height": 1024,
+    "sha256": "b2be46f00ff3a749ac6c3271f9d1be6009d2591d61a123dc9b534121a739958c",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/grape-seed/capsule.webp",
+    "width": 509,
+    "height": 1024,
+    "sha256": "d3026289cf422fa9f7f774ffddcfc3c704feaa871a8635ac0185faad9b725788",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/grape-seed/serum.webp",
+    "width": 510,
+    "height": 1024,
+    "sha256": "36aeb0f9df068a6cff8ea9148b7236d53ae1887ee370a87004010b83589ae168",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/green-tea/citrus-tea.webp",
+    "width": 554,
+    "height": 941,
+    "sha256": "f387658d772d9a827b3c90e728bb650eacbf49737e4753f444d713c6f7c102d2",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/green-tea/instant-tea.webp",
+    "width": 553,
+    "height": 941,
+    "sha256": "c4a9601265d60ca9ab2b17192f4ef8e42d0cc0b1869670b91c77247a00a17e14",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/green-tea/oat-latte.webp",
+    "width": 556,
+    "height": 941,
+    "sha256": "23bd3ab398cab3d3a435bad83f0bf395df5697b43d05947960439cd7c59ae1a1",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/licorice-root/dgl-chewable.webp",
+    "width": 508,
+    "height": 1024,
+    "sha256": "922d4989ea6074b09b8ca1d62df61ce635bad248ba6b1e9154054faf81585aa3",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/licorice-root/flavor-concentrate.webp",
+    "width": 510,
+    "height": 1024,
+    "sha256": "17b2c4ded47af2824babe3c1a4b7d726c7653e0ec38ee6b5bf630f56f8295763",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/licorice-root/glabridin-emulsion.webp",
+    "width": 512,
+    "height": 1024,
+    "sha256": "e3bde090a72f92a32579309b922409c0b22f0345bf98bd80e906f2d6e41c50cf",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/monk-fruit/citrus-sparkling.webp",
+    "width": 585,
+    "height": 887,
+    "sha256": "bb7985f4b641b101496c65f7ce018103d897831e67d30e8eb05dc4fb3620c3d8",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/monk-fruit/cultured-dessert.webp",
+    "width": 590,
+    "height": 887,
+    "sha256": "6906e97826b2f9c27db7ac09cc11467f0c46deb6f624588f885d451ee564070e",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/monk-fruit/oat-cookie.webp",
+    "width": 583,
+    "height": 887,
+    "sha256": "f004367eb10c9343903dfdf5138889a898d8b313ab3539c94c08b83fb44568b1",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/reishi-mushroom/cocoa-oat.webp",
+    "width": 508,
+    "height": 1024,
+    "sha256": "b88c405f642527f7fc2b199d6e49b2f27eaa389c0e015a0230912c9c59311188",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/reishi-mushroom/cultured-yogurt.webp",
+    "width": 509,
+    "height": 1024,
+    "sha256": "f565e8246b8ab77ceb2dc27c84f034c9ca6b6046a48f0324f5ed3de00353c293",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/reishi-mushroom/defined-capsule.webp",
+    "width": 508,
+    "height": 1024,
+    "sha256": "6f6e44e2ffb0ccc15a21511a0d9aafc977b88321a27488f99d11d1b932c75f5f",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/resveratrol/capsule.webp",
+    "width": 506,
+    "height": 1024,
+    "sha256": "e2cfe13db30c5cd359d8a2fb8a5f800f8db491c439957a364e50b9c9ace13773",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/resveratrol/reconstitution.webp",
+    "width": 503,
+    "height": 1024,
+    "sha256": "f0167ce3d29a0930738be480f60ab045ea19f6acfa039c9388078aee8b27d59c",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/resveratrol/topical.webp",
+    "width": 512,
+    "height": 1024,
+    "sha256": "5b7227ccc2e44a30ef904a8270fac8b326125318a2c30c266239736b59640ddd",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/stevia/citrus-beverage.webp",
+    "width": 507,
+    "height": 1024,
+    "sha256": "eb66b4e0929af878638c1ce375ab074147c5d58dfbb801fe922a3cf238c7ee92",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/stevia/protein-drink.webp",
+    "width": 507,
+    "height": 1024,
+    "sha256": "0c5903a4daa8b1e0dde40b88709b55e8d19649bcfe1cb629762bc4afa5063685",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredient-plans/stevia/tabletop-sachet.webp",
+    "width": 506,
+    "height": 1024,
+    "sha256": "44061f524adcc73e2e75ec9935b74d3e68b53272d787b425ea2ff036f56923a7",
+    "action": "preserve source; landscape derivative"
+  },
+  {
+    "id": "public/images/ingredients/turmeric-applications-concept.webp",
+    "width": 1672,
+    "height": 941,
+    "sha256": "35f8c7dc124a8c2742c02a14f485c7c108d67d629435fa160d7d30210c8cf7ad",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/ingredients/turmeric-capsule-tablet-concept.webp",
+    "width": 762,
+    "height": 506,
+    "sha256": "d9f9ff61a327c5d5440d4d403507c7c48c8bc464ec6d9bcdf073ffa83ee0cb27",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/ingredients/turmeric-instant-powder-concept.webp",
+    "width": 762,
+    "height": 506,
+    "sha256": "0b8b4dd21816749007c1a565000d17b92925dec8e5d1eb4112cf6d42da5c50f6",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/ingredients/turmeric-material-forms-concept.webp",
+    "width": 2172,
+    "height": 724,
+    "sha256": "d308733353acb2ce5a9881a769ecf991f4d6bc91a70bce676a0f1c9d03d02b15",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/ingredients/turmeric-plant-latte-concept.webp",
+    "width": 762,
+    "height": 506,
+    "sha256": "6fd1f96dc16c73f628baaa59dabab580c1cf22ebac646837539c3c70c13c5c65",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/ingredients/turmeric-seasoning-food-concept.webp",
+    "width": 762,
+    "height": 506,
+    "sha256": "ea58dda16ff9e90c157d3db2116b93da07c4a9cc7a7a0b3fc842905e2546cff6",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/odm/packaging-concepts.webp",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "a2df3166730b74028c8ab66307a9e9d256cc51e6b9f107d2d41358101e663d97",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/products/centella-asiatica.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "24ea3a4ad234572c1d518b488ec8a48529e4a5c9851928527ec84cca8e37bfed",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/products/ginkgo-biloba.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "6f03ba13970fb63479f7444a7abd606b39ea568ce15a5800ea5188ceb4545bba",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/products/ginseng.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "7476d7317fe56d0f233324fc11ed8fa82fc27c8c4a4ed530f1028b2c528118e9",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/products/goji-berry.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "b9ccf2d366aafc8e1490a44b2504d59d8e8c87f60ca3da9a7a7ee1aae3600bc5",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/products/grape-seed.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "d52a9277c553306130986bd5fc8843ea71a097bab1ffcc49436b77113cf91cd0",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/products/green-tea.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "6da34bad4252b0748b824ab793f92dd30ec6e1417880779303bfa4f7b2d43801",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/products/licorice-root.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "ece57a68907f8dd285df684f51b3a407f109a0fe58a5db243b4bc80dc13d9f58",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/products/monk-fruit.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "d2fa303214d9a6e88baaa28c0c1bc2ef85bf300521f51e09d479c6328025cbae",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/products/reishi-mushroom.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "e1faf2a639d444d057f815976d932bc125479410cf20c57beebe9692dd74f66b",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/products/resveratrol.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "9cf3019b9260b4bbf4301d0cd7ec4323cead54ba809b1ba5f5ce912b83eff963",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/products/stevia.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "7fc50c948215c7d9aaa6362f9fb2c0ae916bac4cd9ad2b0c5e3f82f5d361f152",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/products/turmeric.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "d53818db71fabf986440c5b75d16ec8bc42a5d45742da20275c8ee285592b1e9",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/solutions/botanical-sweetener-rtd.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "9025cc65352535a731ca408ebe85bc054fc89e61fccbf5bafec7e876a317946c",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/solutions/deep-sleep-capsule.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "4416c143f03bceceee3abb06bac08f4461a80b25502ea7c7024afdf9cfd7acb3",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/solutions/green-tea-energy-sparkling.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "5e7e61a2de44cb5526d67948614c0bc788a4aec08dec2fdfa8cf00d7772233c4",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/solutions/liver-support-gummy.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "915fe8781d1fdb201c9a1ea8238c45d0731a5c1693af3128f3e18b289ef2ffa3",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/solutions/reishi-sleep-gummy.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "ae945bf9b9db47a4caf04b51b51d6744ec2e6f70275e00d594d262bcf3c7861f",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/solutions/turmeric-golden-latte.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "6c574b1201a1c40c7d9a20389b66846218bb7f156e6b848668fbb5ba3be207e4",
+    "action": "retain original landscape"
+  },
+  {
+    "id": "public/images/solutions/white-peach-sparkling.webp",
+    "width": 1200,
+    "height": 654,
+    "sha256": "6331d0281cc4bd22bd47378b0e8b5e71b4a3a6c60ddc74dd622a4df76ff53994",
+    "action": "retain original landscape"
+  }
+]
