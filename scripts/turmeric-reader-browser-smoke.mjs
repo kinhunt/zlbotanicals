@@ -31,7 +31,7 @@ try{
   assert.equal(await body.locator('[data-application-matrix] tbody tr').count(),5);
   for(const img of await body.locator('.concept-figure img').all()) {
    await img.scrollIntoViewIfNeeded();await img.evaluate(el=>el.decode());assert.ok(await img.evaluate(el=>el.naturalWidth>0));
-   const caption=await img.locator('..').locator('figcaption').innerText();assert.ok(caption.includes('AI'));assert.ok(caption.length<150);
+   const caption=await img.locator('..').locator('figcaption').innerText();assert.doesNotMatch(caption,/AI|绘制/);assert.ok(caption.trim().length>0);assert.ok(caption.length<150);
   }
   for(const details of await body.locator('[data-study-box]').all()) {
    await details.locator('summary').click();assert.equal(await details.getAttribute('open'),'');

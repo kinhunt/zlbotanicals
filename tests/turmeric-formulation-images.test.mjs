@@ -15,7 +15,7 @@ for(const lang of ['en','zh']) test(`${lang}: four product-specific optimized fo
   const bytes=readFileSync('public'+src),meta=await sharp(bytes).metadata();
   assert.equal(meta.format,'webp');assert.ok(meta.width>=700&&meta.height>=450);assert.ok(bytes.length<150000);
   assert.ok(tag.includes(`width="${meta.width}"`));assert.ok(tag.includes(`height="${meta.height}"`));
-  assert.match(card,lang==='zh'?/应用示意（AI绘制）/:/application concept \(AI illustration\)/);
+  assert.match(card,lang==='zh'?/应用示意/:/application concept/);
  }
  assert.equal(new Set(paths).size,4);
 });

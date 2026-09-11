@@ -1,0 +1,30 @@
+---
+import profiles from '../data/science-profiles.json';
+import dossiers from '../data/product-dossiers.json';
+import concepts from '../data/odm.json';
+import {getLocalizedPath,type Language} from '../i18n/config';
+const {id,lang}=Astro.props as {id:string;lang:Language};
+const profile=profiles.find(p=>p.id===id)!;
+const dossier=dossiers.find(p=>p.slug===id)!;
+const zh=lang==='zh';
+const local=(p:string)=>getLocalizedPath(p,lang);
+const technical=[
+ ['/plant-extracts/basics/identity-and-traceability',zh?'身份与追溯':'Identity & traceability'],
+ ['/plant-extracts/standards/assay-method-comparability',zh?'检测方法可比性':'Assay method comparability'],
+ ['/plant-extracts/processes/solvent-stages-and-process-disclosure',zh?'溶剂与工艺披露':'Solvents & process disclosure'],
+];
+---
+<section class="ingredient-resources" data-related-resources aria-labelledby="related-resources-title">
+ <h2 id="related-resources-title">{zh?'相关产品与技术资料':'Related products and technical resources'}</h2>
+ <div class="resource-cards" data-resource-cards>
+  <a class="resource-card" href={local(`/products/${id}`)}><span class="resource-label">{zh?'原料采购':'Ingredient sourcing'}</span><h3>{profile.title[lang]}</h3><p>{zh?'规格、样品与供货条件':'Specifications, samples and supply terms'} →</p></a>
+  <a class="resource-card" href={local(`/solutions/${dossier.industry}`)}><span class="resource-label">{zh?'应用开发':'Application development'}</span><h3>{zh?'从原料到终端产品':'From ingredient to end product'}</h3><p>{zh?'配方适配与测试方向':'Formulation fit and testing priorities'} →</p></a>
+ </div>
+ <ul class="technical-links">{technical.map(([path,label])=><li><a href={local(path)}>{label} →</a></li>)}</ul>
+ <div class="development-links"><a href={local('/odm')}>{zh?'ODM 项目复核':'ODM project review'} →</a>{concepts.filter(c=>c.products.includes(id)).map(c=><a href={local(`/odm/${c.slug}`)}>{c.title[lang]} · {zh?'开发概念':'development concept'} →</a>)}</div>
+ {profile.family&&<p class="family-link"><a href={local(`/plant-extracts/ingredients/${profile.family}`)}>{zh?'相关成分家族：定义与检测边界':'Related constituent family: definitions & assay boundaries'} →</a></p>}
+</section>
+<style>
+.ingredient-resources{max-width:820px;margin:3rem auto;border-top:1px solid #d8e1d0;padding-top:2rem;line-height:1.65;min-width:0}
+h2{font-size:1.4rem;font-weight:700;margin-bottom:1.2rem;line-height:1.4}.resource-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}.resource-card{border:1px solid #d8e1d0;border-radius:8px;padding:1.1rem 1.2rem;display:block;background:#fafbf8;text-decoration:none}.resource-card:hover{background:#f0f5eb}.resource-label{font-size:.75rem;color:#626d61}h3{font-size:1.1rem;font-weight:650;margin:.4rem 0}.resource-card p{font-size:.9rem;margin:.5rem 0 0}a{color:#345a27;overflow-wrap:anywhere}a:focus-visible{outline:3px solid #345a27;outline-offset:4px}.technical-links{display:flex;flex-wrap:wrap;gap:.6rem 1.5rem;list-style:none;padding:0;margin:1.3rem 0;font-size:.9rem}.technical-links a,.development-links a,.family-link a{text-decoration:underline;text-underline-offset:3px}.development-links{display:flex;flex-wrap:wrap;gap:.6rem 1.5rem;font-size:.85rem}.family-link{font-size:.85rem;margin-top:1rem}@media(max-width:600px){.resource-cards{grid-template-columns:1fr}h2{font-size:1.25rem}}
+</style>
