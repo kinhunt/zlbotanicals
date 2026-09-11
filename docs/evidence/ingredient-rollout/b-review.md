@@ -189,15 +189,15 @@ French
 1. Procédé de préparation d'un extrait de feuilles de Ginkgo biloba, lequel comprend les étapes successives suivantes:
 i. extraction de fragments secs de feuilles de Ginkgo biloba dans de l'éthanol contenant au ma"
 [5] https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf
-    > "Concomitant use of Ginkgo biloba containing 
-products and efavirenz is not recommended (see 
-section 4.5). 
-4.5.  Interactions with other medicinal products and other forms of 
-interaction 
-Well-established use  
-Traditional use  
+    > "Concomitant use of Ginkgo biloba containing
+products and efavirenz is not recommended (see
+section 4.5).
+4.5.  Interactions with other medicinal products and other forms of
+interaction
+Well-established use
+Traditional use
 If the medicinal pr"
 [6] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3629193/fullTextXML
-    > "total NRS score, but they were not statistically significant compared with placebo (P>0.05). Mental NRS score was significantly improved by 
+    > "total NRS score, but they were not statistically significant compared with placebo (P>0.05). Mental NRS score was significantly improved by
 P. ginseng
  administrations as 20.4±5.0 to 15.1±6.5 [95% CI 2.3∼8.2] for 1 g and 20.7±6.3 to 13.8±6.2 [95% CI"

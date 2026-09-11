@@ -129,19 +129,19 @@ Citation numbers below reuse the existing `a/ledger.json` mapping; no source IDs
 ## Sources
 
 [4] https://www.ema.europa.eu/en/documents/herbal-report/assessment-report-centella-asiatica-l-urb-herba-revision-1_en.pdf — https://www.ema.europa.eu/en/documents/herbal-report/assessment-report-centella-asiatica-l-urb-herba-revision-1_en.pdf
-[9] https://patents.google.com/patent/WO2001056586A1/en — WO2001056586A1 - Method for the isolation of caffeine-free catechins from green tea 
+[9] https://patents.google.com/patent/WO2001056586A1/en — WO2001056586A1 - Method for the isolation of caffeine-free catechins from green tea
         - Google Patents
-[10] https://patents.google.com/patent/WO2015144495A1/en — WO2015144495A1 - Decaffeination methods and systems 
+[10] https://patents.google.com/patent/WO2015144495A1/en — WO2015144495A1 - Decaffeination methods and systems
         - Google Patents
-[11] https://patents.google.com/patent/US8486900B2/en — US8486900B2 - Method for preparing a Centella asiatica extract rich in madecassoside and in terminoloside 
+[11] https://patents.google.com/patent/US8486900B2/en — US8486900B2 - Method for preparing a Centella asiatica extract rich in madecassoside and in terminoloside
         - Google Patents
-[12] https://patents.google.com/patent/US10980851B2/en — US10980851B2 - Topical skincare compositions comprising Centella asiatica selected triterpenes 
+[12] https://patents.google.com/patent/US10980851B2/en — US10980851B2 - Topical skincare compositions comprising Centella asiatica selected triterpenes
         - Google Patents
-[13] https://patents.google.com/patent/WO2015168779A1/en — WO2015168779A1 - Methods of extraction and purification of luo han guo mogroside v, natural sweetener compositions therewith and uses of said composition 
+[13] https://patents.google.com/patent/WO2015168779A1/en — WO2015168779A1 - Methods of extraction and purification of luo han guo mogroside v, natural sweetener compositions therewith and uses of said composition
         - Google Patents
-[14] https://patents.google.com/patent/BR112015002139B1/en — BR112015002139B1 - 
+[14] https://patents.google.com/patent/BR112015002139B1/en — BR112015002139B1 -
         Sweetening composition comprising monk fruit extract comprising mogroside v, rebaudioside a and rebaudioside b, and food or drink composition
-       
+
       - Google Patents
 [15] https://www.cochrane.org/evidence/CD008650_green-tea-weight-loss-and-weight-maintenance-overweight-or-obese-adults — Green tea for weight loss and weight maintenance in overweight or obese adults | Cochrane
 [16] https://doi.org/10.1038/s41598-017-09823-9 — Effects of Centella asiatica (L.) Urb. on cognitive function and mood related outcomes: A Systematic Review and Meta-analysis | Scientific Reports
