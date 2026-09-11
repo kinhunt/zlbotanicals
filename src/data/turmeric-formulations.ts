@@ -1,9 +1,56 @@
 // Turmeric-only editorial concepts. References resolve in their own citation namespace.
 export const formulationSources = [
+  {id:5,title:'WO2007143635A1 — Method to prepare pure curcumin; published claim 1',url:'https://patents.google.com/patent/WO2007143635A1/en'},
   {id:1,title:'WO2007101551A2 — Phospholipid complexes of curcumin having improved bioavailability; claims 1–9',url:'https://patents.google.com/patent/WO2007101551A2/en'},
   {id:2,title:'US10245238B2 — Composition for oral intake; granted claims 1–11',url:'https://patents.google.com/patent/US10245238B2/en'},
   {id:3,title:'WO2012156979A1 — A water soluble composition comprising curcumin having enhanced bioavailability and process thereof; claims 1–15',url:'https://patents.google.com/patent/WO2012156979A1/en'},
 ];
+export const formulationImages: Record<string, {src:string;alt:{en:string;zh:string};caption:{en:string;zh:string}}> = {
+  "plant-latte": {
+    "src": "/images/ingredients/turmeric-plant-latte-concept.webp",
+    "alt": {
+      "en": "Golden oat latte with oats, cinnamon and ginger",
+      "zh": "金黄色燕麦拿铁，配燕麦、肉桂与姜片"
+    },
+    "caption": {
+      "en": "Plant latte application concept (AI illustration).",
+      "zh": "植物拿铁应用示意（AI绘制）。"
+    }
+  },
+  "instant-powder": {
+    "src": "/images/ingredients/turmeric-instant-powder-concept.webp",
+    "alt": {
+      "en": "Instant powder pouch, sachet, scoop and reconstituted drink",
+      "zh": "冲调粉袋、条包、粉勺与冲调后的饮品"
+    },
+    "caption": {
+      "en": "Instant powder application concept (AI illustration).",
+      "zh": "冲调粉应用示意（AI绘制）。"
+    }
+  },
+  "capsule-tablet": {
+    "src": "/images/ingredients/turmeric-capsule-tablet-concept.webp",
+    "alt": {
+      "en": "Unlabelled amber bottle with golden capsules and pale tablets",
+      "zh": "无标签棕色瓶，配金黄色胶囊与浅色片剂"
+    },
+    "caption": {
+      "en": "Capsules and tablets application concept (AI illustration).",
+      "zh": "胶囊与片剂应用示意（AI绘制）。"
+    }
+  },
+  "seasoning-food": {
+    "src": "/images/ingredients/turmeric-seasoning-food-concept.webp",
+    "alt": {
+      "en": "Golden curry sauce, whole spices and savory baked crackers",
+      "zh": "金黄色咖喱酱、整粒香辛料与咸味烘焙饼干"
+    },
+    "caption": {
+      "en": "Seasoned food application concept (AI illustration).",
+      "zh": "调味食品应用示意（AI绘制）。"
+    }
+  }
+};
 export const formulationConcepts = {
  en:[
   {id:'plant-latte',title:'Plant latte or opaque beverage',combination:'Oat or soy base + a food-suitable curcumin dispersion + optional ginger or cinnamon for a spice-led flavour. A dispersion-development route pairs curcumin with MCT oil and an emulsifier system; lecithin is one candidate, not a guarantee of stability.',basis:'Kim et al. studied curcumin in MCT with Tween-20 alone or with soy lecithin or sorbitan monooleate. Their aqueous phase contained sodium azide and bis-tris buffer: use the work to understand phase preparation and droplet growth, not as a beverage recipe.[4]',process:'Trial sequence: prepare the pigment-containing oil phase and hydrate or disperse each emulsifier in its appropriate phase; premix, then homogenize. When using a purchased dispersion, first dilute it in a portion of the beverage base before blending into the batch. Compare the actual base before and after its intended heat treatment.',checks:'Keep the plant protein, salt level and acidity in the test matrix. Check flocculation, oil rings, sediment and particle growth through storage; compare bitterness, spice intensity and mouth coating against an uncoloured base. Choose light-protective packaging after a light-exposure comparison. Do not alkalize the drink just to dissolve the pigment.[10]'},
@@ -23,6 +70,7 @@ export const ingredientRoles = {
  zh:[['姜黄粉 / 油树脂 / 色素','香辛风味与着色的不同选择','按风味与最终含量选择，三者组成不同。[10]'],['MCT油 + 乳化剂体系','油相与油水界面','比较分相配制和液滴增长；所引缓冲液实验不是食品配方。[4]'],['磷脂','形成复合物的配伍成分','溶剂介导的复合加工与末端干混不同。[1]'],['HPMC / HPC','预制复合物的纤维素载体','牌号、溶液加工与溶剂去除会影响所制材料。[2]'],['可溶性淀粉 + 生育酚 + 脂肪','亲水载体、抗氧化剂与脂质组分','加工粉体的披露选择；原辅料许可与溶剂残留需另行审查。[3]']]
 };
 export const patentFamilies = [
+ {"id": "WO2007143635A1", "source": 5, "applicant": "Darick S. Kim (WIPO cover; indexed as Darrick S. Kim)", "inventors": "Darick S. Kim (WIPO cover)", "priority": "2006-06-05", "filed": "2007-06-05", "published": "2007-12-13", "kind": {"en": "PCT application publication (A1)", "zh": "PCT申请公开（A1）"}, "title": {"en": "Selective purification through phenol protection and crystallization", "zh": "酚基保护与结晶的选择性纯化"}, "scope": {"en": "Published claim 1 starts with impure curcumin containing curcuminoids and up to about 75% curcumin by weight. It uses a phenol-protecting reagent and optional catalyst to control hydroxyl-group reactivity, then crystallizes the mixture in at least one organic solvent to obtain crystals containing at least about 99% curcumin by weight. These percentages define the published claim, not a supplier specification.[5]", "zh": "公开权利要求1以含其他姜黄素类、姜黄素重量纯度最高约75%的不纯物料为起点，使用提供酚保护基的试剂及可选催化剂控制羟基反应性，再于至少一种有机溶剂中结晶，得到姜黄素重量纯度至少约99%的晶体。这些百分比用于描述公开权利要求，不是供应商规格。[5]"}, "relevance": {"en": "An upstream purification route distinct from carrier formulation. It helps frame questions about separating curcumin from related curcuminoids, chemical modification of impurities, and subsequent impurity and solvent controls. It is not simple rhizome extraction or a finished-food recipe; food suitability and scale-up performance are not established by the publication.", "zh": "这是一条不同于载体配方的上游纯化路线，可用于梳理姜黄素与其他姜黄素类的分离、杂质化学修饰以及后续杂质和溶剂控制问题。它不是简单根茎提取或终端食品配方；公开文本不代表食品适用性或放大性能已获验证。"}},
  {id:'WO2007101551A2',source:1,applicant:'Indena S.p.A.',inventors:'Andrea Giori; Federico Franceschi',priority:'2006-03-09',filed:'2007-02-21',published:'2007-09-13',kind:{en:'PCT application publication (A2)',zh:'PCT申请公开（A2）'},title:{en:'Curcumin–phospholipid complexes',zh:'姜黄素–磷脂复合物'},scope:{en:'Published claim 1 concerns phospholipid complexes of curcumin or extracts containing it. Claims 2–3 identify soy phospholipids, including phosphatidylcholine, phosphatidylserine and phosphatidylethanolamine. Claim 6 describes reaction of a hydroalcoholic turmeric-rhizome extract with phospholipids in an alcoholic solvent, followed by concentration and drying.[1]',zh:'公开权利要求1涉及姜黄素或含姜黄素提取物的磷脂复合物；权利要求2–3列出大豆磷脂，包括磷脂酰胆碱、磷脂酰丝氨酸和磷脂酰乙醇胺。权利要求6描述姜黄根茎水醇提取物与磷脂在醇溶剂中反应，再浓缩、干燥。[1]'},relevance:{en:'Useful for comparing a prepared phospholipid carrier with plain extract in capsule development. The disclosed process is more specific than adding lecithin to a latte. Claims 8–9 also address pharmaceutical compositions and chemopreventive use; this is not evidence for such effects in a finished food.',zh:'可用于胶囊开发中比较预制磷脂载体与普通提取物。披露工艺比在拿铁中加入卵磷脂更具体。权利要求8–9还涉及药物组合物和化学预防用途，但并不证明终端食品有这些效果。'}},
  {id:'US10245238B2',source:2,applicant:'Theravalues Corporation (original assignee)',inventors:'Hirofumi Takeuchi; Kohei Tahara; Atsushi Imaizumi; Tsukasa Takahashi; Takato Matsui; Hitomi Ozawa',priority:'2014-05-15',filed:'2015-05-14',published:'2019-04-02',kind:{en:'US patent grant (B2); application US20170239194A1 published 2017-08-24',zh:'美国授权专利（B2）；申请US20170239194A1于2017-08-24公开'},title:{en:'Solution-processed HPMC/HPC complexes',zh:'溶液加工的HPMC/HPC复合物'},scope:{en:'Granted claims 1–2 specify curcumin and/or an analog with HPMC, HPC or their mixture, an A/B weight ratio of 0.02–10, dissolution in a water/organic-solvent system (together or separately), and removal of both solvents. Claim 3 covers the complex prepared by those methods; claim 8 covers a composition suitable for oral intake containing that complex. The ratio describes claim scope, not a suggested formula.[2]',zh:'授权权利要求1–2限定姜黄素及/或其类似物与HPMC、HPC或二者混合物，A/B重量比为0.02–10，经水/有机溶剂体系共同或分别溶解，再除去两类溶剂。权利要求3涉及按这些方法制得的复合物；权利要求8涉及含该复合物的口服组合物。该比例用于说明权利要求范围，不是建议配方。[2]'},relevance:{en:'A route for prepared powders that can be assessed for solid dosage forms. Compare solvent residues, solid state and release, rather than assuming cellulose addition alone reproduces the material. The grant page identifies Theravalues as original assignee; it is not presented here as a current ownership determination.',zh:'这是一条可供固体剂型评价的预制粉体路线。需比较溶剂残留、固态性质与释放，不能认为加入纤维素就得到相同材料。授权页面将Theravalues列为原始受让人，本页不据此判断当前权属。'}},
  {id:'WO2012156979A1',source:3,applicant:'OmniActive Health Technologies Ltd.',inventors:'Deshpande Jayant Venkatesh; Kulkarni Shrinivas Krishnarao',priority:'2011-05-16',filed:'2011-07-22',published:'2012-11-22',kind:{en:'PCT application publication (A1)',zh:'PCT申请公开（A1）'},title:{en:'Curcumin with antioxidant, hydrophilic carrier and fat',zh:'姜黄素与抗氧化剂、亲水载体和脂肪'},scope:{en:'Published claim 1 combines curcumin, at least one antioxidant, a hydrophilic carrier and fat, with stated depression-treatment utility. Claims 7–9 list choices including tocopherols, soluble starch and MCT. Process claim 10 combines the components in solvent, warms the mass, removes solvent by evaporation and pulverizes the dry mass.[3]',zh:'公开权利要求1将姜黄素、至少一种抗氧化剂、亲水载体与脂肪组合，并表述了抑郁症治疗用途。权利要求7–9列出包括生育酚、可溶性淀粉和MCT的选择。工艺权利要求10将组分在溶剂中合并、加温，蒸发除溶剂后粉碎干料。[3]'},relevance:{en:'Relevant to carrier-powder development and the order of ingredient incorporation, not proof that a dry mix of the four components is equivalent. Solvent selection, removal and powder reconstitution require verification. The stated therapeutic use is part of the disclosure, not a health claim for an instant drink.',zh:'可参考载体粉开发与组分加入顺序，但不证明四种组分直接干混就等效。溶剂选择、去除与粉体复水都需验证。所述治疗用途属于披露内容，不是冲调饮料的健康宣称。'}}

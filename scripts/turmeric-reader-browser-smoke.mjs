@@ -54,8 +54,24 @@ try{
    assert.ok((await page.locator(`#${anchor}`).innerText()).length>30);
   }
   assert.equal(await body.locator('[data-formulation-concept]').count(),4);
-  assert.equal(await body.locator('[data-patent-family]').count(),3);
-  for(const [n,id] of [[1,'WO2007101551A2'],[2,'US10245238B2'],[3,'WO2012156979A1']]){
+  const productImages=[];
+  for(const card of await body.locator('[data-formulation-concept]').all()) {
+   const id=await card.getAttribute('data-formulation-concept'),img=card.locator('img');
+   assert.equal(await img.count(),1);await img.scrollIntoViewIfNeeded();await img.evaluate(el=>el.decode());
+   assert.equal(await img.getAttribute('loading'),'lazy');
+   assert.deepEqual(await img.evaluate(el=>[el.naturalWidth,el.naturalHeight]),[762,506]);
+   const src=await img.getAttribute('src');assert.ok(src.includes(id));productImages.push(src);
+   const b=await card.boundingBox(),ib=await img.boundingBox();
+   assert.ok(b.width<=820.5&&ib.width<=b.width&&ib.x>=0&&ib.x+ib.width<=width);
+   if(width===1440) assert.ok(Math.abs(b.x+b.width/2-width/2)<2,'card centered');
+   if(js){await img.evaluate(el=>el.scrollIntoView({behavior:'instant',block:'center'}));await page.screenshot({path:`${out}/${lang}-${width}-${id}.png`});}
+  }
+  assert.equal(new Set(productImages).size,4);
+  assert.deepEqual(await body.evaluate(el=>Array.from(el.children).filter(e=>e.tagName==='SECTION').slice(-3).map(e=>e.id)),['insights','patents','research-turmeric-references']);
+  const allIds=await page.locator('[id]').evaluateAll(els=>els.map(el=>el.id));assert.equal(new Set(allIds).size,allIds.length);
+
+  assert.equal(await body.locator('[data-patent-family]').count(),4);
+  for(const [n,id] of [[1,'WO2007101551A2'],[2,'US10245238B2'],[3,'WO2012156979A1'],[5,'WO2007143635A1']]){
    const target=`#research-turmeric-formulation-source-${n}`;
    await body.locator(`a[href="${target}"]`).first().click();assert.equal(new URL(page.url()).hash,target);
    assert.equal(await page.locator(target+' a').getAttribute('href'),`https://patents.google.com/patent/${id}/en`);
@@ -89,7 +105,7 @@ try{
    assert.equal(new URL(page.url()).pathname,route);assert.equal(new URL(page.url()).hash,`#${anchor}`);
    assert.ok((await page.locator(`section#${anchor}`).innerText()).length>130);
   }
-  assert.deepEqual(errors,[]);results.push({lang,width,js,boxes,citations,productJourneys:5,originalImage:true});await context.close();
+  assert.deepEqual(errors,[]);results.push({lang,width,js,boxes,citations,productImages,patentsLast:true,productJourneys:5,originalImage:true});await context.close();
  }
  writeFileSync(`${out}/results.json`,JSON.stringify({passed:true,base,results},null,2));console.log(JSON.stringify({passed:true,cases:results.length,out}));
 }finally{await browser.close();}
