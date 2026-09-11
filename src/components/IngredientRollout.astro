@@ -1,0 +1,33 @@
+---
+import {buildReviewedReaderSections} from '../data/ingredient-reader.mjs';
+import {getIngredientReaderPack} from '../data/ingredient-reader-packs';
+import {getDeepIngredient} from '../data/deep-ingredients';
+import {getIngredientOverview} from '../data/ingredient-overviews';
+import ResearchBlocks from './ResearchBlocks.astro';
+import ResearchInline from './ResearchInline.astro';
+import type {Language} from '../i18n/config';
+const {productId,lang}=Astro.props as {productId:string;lang:Language};
+const p=getIngredientReaderPack(productId)!;const k=getDeepIngredient(productId);const o=getIngredientOverview(productId);const zh=lang==='zh';
+const namespace=`research-${productId}-rollout-source`,legacy=`research-${k.group}-${productId}-source`;
+const sections=buildReviewedReaderSections(p,lang);
+const aliases=(id:string)=>k.content[lang].filter(s=>s.id===id||(id==='processes'&&s.id==='equipment')).flatMap(s=>s.blocks.flatMap((b,i)=>b.type==='heading'?[`research-${productId}-${s.id}-${i}`]:[]));
+const dimensions={processes:'process',applications:'application',standards:'specification',insights:'evidence'};
+---
+<div class="ingredient-knowledge" data-ingredient-content={productId} data-deep-research={lang} data-rollout-article>
+ {sections.map((s,index)=><>
+  <section id={s.id} data-knowledge-dimension={s.id}>
+   {dimensions[s.id]&&<span id={dimensions[s.id]} class="legacy-anchor" aria-hidden="true"/>}
+   {aliases(s.id).map(id=><span id={id} class="legacy-anchor" aria-hidden="true"/>)}
+   <h2>{s.heading}</h2>
+   {s.id==='identity'&&<div id="raw-material"><p><ResearchInline text={o.identity[lang]} namespace={legacy}/></p></div>}
+   {s.id==='components'&&<p><ResearchInline text={o.components[lang]} namespace={legacy}/></p>}
+   {s.id==='processes'&&<p><ResearchInline text={o.processChoices[lang]} namespace={legacy}/>{o.citations.map(n=><a href={`#${legacy}-${n}`}>[{n}] </a>)}</p>}
+   {s.id==='processes'?<section id="equipment"><ResearchBlocks section={{...s,id:`rollout-${s.id}`}} productId={productId} namespace={s.legacy?legacy:namespace} zh={zh}/></section>:<ResearchBlocks section={{...s,id:`rollout-${s.id}`}} productId={productId} namespace={s.legacy?legacy:namespace} zh={zh}/> }
+   {s.id==='applications'&&<ul>{p.plans.map(plan=><li><a href={`#formulation-${plan.id}`}>{plan.title[lang]}</a> · {plan.content[lang][0].type==='paragraph'?plan.content[lang][0].text.split(/[。.!]/)[0]:''}</li>)}</ul>}
+   {s.id==='applications'&&<div id="end-products"><h3>{zh?'终端产品选择':'End-product selection'}</h3><p>{o.endProducts[lang]}</p><p>{o.applications[lang]}</p></div>}
+   {s.id==='formulations'&&p.plans.map(plan=><section id={`formulation-${plan.id}`} data-formulation-plan={plan.id}><h3>{plan.title[lang]}</h3><ResearchBlocks section={{id:`plan-${plan.id}`,heading:plan.title[lang],blocks:plan.content[lang]}} productId={productId} namespace={namespace} zh={zh}/>{plan.image&&<figure><img src={plan.image.src} alt={plan.image.caption[lang]} width="762" height="506" loading="lazy" decoding="async"/><figcaption>{plan.image.caption[lang]}</figcaption></figure>}</section>)}
+  </section>
+  {index===0&&<nav data-encyclopedia-toc data-research-toc aria-label={zh?'原料百科目录':'Ingredient encyclopedia contents'}><h2>{zh?'本页目录':'On this page'}</h2><ol>{sections.map(s=><li><a href={`#${s.id}`}>{s.heading}</a></li>)}<li><a href="#raw-material">{zh?'原料来源':'Raw material'}</a></li><li><a href="#end-products">{zh?'终端产品':'End products'}</a></li><li><a href="#equipment">{zh?'设备选择':'Equipment selection'}</a></li><li><a href={`#research-${productId}-references`}>{zh?'参考来源':'References'}</a></li></ol></nav>}
+ </>)}
+ <section class="ingredient-sources" id={`research-${productId}-references`}><h2>{zh?'参考来源':'References'}</h2><ol>{p.sources.map(s=><li id={`${namespace}-${s.id}`} value={s.id}><a href={s.url} rel="noopener noreferrer">{s.title}</a> · {s.accessed}</li>)}</ol><h3>{zh?'基础材料与工艺来源':'Material and processing background sources'}</h3><ol>{k.sources.map(s=><li id={`${legacy}-${s.id}`} value={s.id}><a href={s.url} rel="noopener noreferrer">{s.title}</a> · {s.accessed}</li>)}</ol></section>
+</div>

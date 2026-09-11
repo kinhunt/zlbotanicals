@@ -37,6 +37,17 @@ test('every dimension renders its actual longform data rather than obsolete shal
  for(const k of knowledge) for(const lang of ['en','zh']){
   const data=deep.find(d=>d.productId===k.productId);
   const page=html(`${lang==='zh'?'/zh':''}${k.canonicalPath}`);
+  const rollout=JSON.parse(readFileSync('src/data/ingredient-reader-packs.json')).find(p=>p.productId===k.productId);
+  if(rollout){
+   // The approved replacement is the rendering contract; retained legacy data remains
+   // separately tested, rather than forcing the duplicate old article onto the page.
+   const all=[...rollout.content[lang].flatMap(s=>s.blocks),...rollout.plans.flatMap(p=>p.content[lang])];
+   for(const b of all){
+    const texts=b.type==='table'?[...b.headers,...b.rows.flat()]:b.type==='list'?b.items:[b.text];
+    for(const text of texts) for(const part of text.split(/(\[\d+\])/g)) if(part&&!/^\[\d+\]$/.test(part)) assert.ok(page.includes(escape(part)),`${k.productId}: replacement text missing`);
+   }
+   continue;
+  }
   for(const s of data.content[lang]){
    const section=page.match(new RegExp(`<section[^>]*id="${s.id}"[^>]*>([\\s\\S]*?)</section>`));
    assert.ok(section);
