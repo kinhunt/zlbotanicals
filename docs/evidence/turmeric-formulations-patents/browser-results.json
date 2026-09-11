@@ -1,0 +1,726 @@
+{
+  "passed": true,
+  "base": "http://127.0.0.1:4321",
+  "results": [
+    {
+      "lang": "en",
+      "width": 390,
+      "js": true,
+      "boxes": {
+        "h1": {
+          "x": 24,
+          "y": 183.171875,
+          "width": 342,
+          "height": 35.828125
+        },
+        "#identity": {
+          "x": 24,
+          "y": 507.671875,
+          "width": 342,
+          "height": 513.78125
+        },
+        "[data-encyclopedia-toc]": {
+          "x": 24,
+          "y": 1061.453125,
+          "width": 342,
+          "height": 435.0625
+        },
+        "#research-turmeric-references": {
+          "x": 24,
+          "y": 24725.453125,
+          "width": 342,
+          "height": 1207.9375
+        }
+      },
+      "citations": [
+        {
+          "id": 4,
+          "label": "[4]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215"
+        },
+        {
+          "id": 7,
+          "label": "[7]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953"
+        },
+        {
+          "id": 10,
+          "label": "[10]",
+          "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf"
+        },
+        {
+          "id": 11,
+          "label": "[11]",
+          "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf"
+        },
+        {
+          "id": 13,
+          "label": "[13]",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70"
+        }
+      ],
+      "productJourneys": 5,
+      "originalImage": true
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "js": true,
+      "boxes": {
+        "h1": {
+          "x": 24,
+          "y": 183.171875,
+          "width": 342,
+          "height": 35.828125
+        },
+        "#identity": {
+          "x": 24,
+          "y": 448.921875,
+          "width": 342,
+          "height": 301.046875
+        },
+        "[data-encyclopedia-toc]": {
+          "x": 24,
+          "y": 789.96875,
+          "width": 342,
+          "height": 435.0625
+        },
+        "#research-turmeric-references": {
+          "x": 24,
+          "y": 17053.375,
+          "width": 342,
+          "height": 1207.9375
+        }
+      },
+      "citations": [
+        {
+          "id": 4,
+          "label": "[4]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215"
+        },
+        {
+          "id": 7,
+          "label": "[7]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953"
+        },
+        {
+          "id": 10,
+          "label": "[10]",
+          "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf"
+        },
+        {
+          "id": 11,
+          "label": "[11]",
+          "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf"
+        },
+        {
+          "id": 13,
+          "label": "[13]",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70"
+        }
+      ],
+      "productJourneys": 5,
+      "originalImage": true
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "js": true,
+      "boxes": {
+        "h1": {
+          "x": 24,
+          "y": 183.171875,
+          "width": 720,
+          "height": 35.828125
+        },
+        "#identity": {
+          "x": 24,
+          "y": 419.546875,
+          "width": 720,
+          "height": 321.703125
+        },
+        "[data-encyclopedia-toc]": {
+          "x": 24,
+          "y": 797.25,
+          "width": 720,
+          "height": 265.71875
+        },
+        "#research-turmeric-references": {
+          "x": 24,
+          "y": 17209.53125,
+          "width": 720,
+          "height": 856.859375
+        }
+      },
+      "citations": [
+        {
+          "id": 4,
+          "label": "[4]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215"
+        },
+        {
+          "id": 7,
+          "label": "[7]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953"
+        },
+        {
+          "id": 10,
+          "label": "[10]",
+          "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf"
+        },
+        {
+          "id": 11,
+          "label": "[11]",
+          "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf"
+        },
+        {
+          "id": 13,
+          "label": "[13]",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70"
+        }
+      ],
+      "productJourneys": 5,
+      "originalImage": true
+    },
+    {
+      "lang": "zh",
+      "width": 768,
+      "js": true,
+      "boxes": {
+        "h1": {
+          "x": 24,
+          "y": 183.171875,
+          "width": 720,
+          "height": 35.828125
+        },
+        "#identity": {
+          "x": 24,
+          "y": 419.546875,
+          "width": 720,
+          "height": 192.515625
+        },
+        "[data-encyclopedia-toc]": {
+          "x": 24,
+          "y": 668.0625,
+          "width": 720,
+          "height": 265.71875
+        },
+        "#research-turmeric-references": {
+          "x": 24,
+          "y": 13398.53125,
+          "width": 720,
+          "height": 856.859375
+        }
+      },
+      "citations": [
+        {
+          "id": 4,
+          "label": "[4]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215"
+        },
+        {
+          "id": 7,
+          "label": "[7]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953"
+        },
+        {
+          "id": 10,
+          "label": "[10]",
+          "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf"
+        },
+        {
+          "id": 11,
+          "label": "[11]",
+          "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf"
+        },
+        {
+          "id": 13,
+          "label": "[13]",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70"
+        }
+      ],
+      "productJourneys": 5,
+      "originalImage": true
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "js": true,
+      "boxes": {
+        "h1": {
+          "x": 310,
+          "y": 199.171875,
+          "width": 820,
+          "height": 53.75
+        },
+        "#identity": {
+          "x": 310,
+          "y": 453.46875,
+          "width": 820,
+          "height": 289.40625
+        },
+        "[data-encyclopedia-toc]": {
+          "x": 310,
+          "y": 798.875,
+          "width": 820,
+          "height": 265.71875
+        },
+        "#research-turmeric-references": {
+          "x": 310,
+          "y": 16404,
+          "width": 820,
+          "height": 833.09375
+        }
+      },
+      "citations": [
+        {
+          "id": 4,
+          "label": "[4]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215"
+        },
+        {
+          "id": 7,
+          "label": "[7]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953"
+        },
+        {
+          "id": 10,
+          "label": "[10]",
+          "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf"
+        },
+        {
+          "id": 11,
+          "label": "[11]",
+          "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf"
+        },
+        {
+          "id": 13,
+          "label": "[13]",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70"
+        }
+      ],
+      "productJourneys": 5,
+      "originalImage": true
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "js": true,
+      "boxes": {
+        "h1": {
+          "x": 310,
+          "y": 199.171875,
+          "width": 820,
+          "height": 53.75
+        },
+        "#identity": {
+          "x": 310,
+          "y": 453.46875,
+          "width": 820,
+          "height": 192.515625
+        },
+        "[data-encyclopedia-toc]": {
+          "x": 310,
+          "y": 701.984375,
+          "width": 820,
+          "height": 265.71875
+        },
+        "#research-turmeric-references": {
+          "x": 310,
+          "y": 12891.921875,
+          "width": 820,
+          "height": 833.09375
+        }
+      },
+      "citations": [
+        {
+          "id": 4,
+          "label": "[4]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215"
+        },
+        {
+          "id": 7,
+          "label": "[7]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953"
+        },
+        {
+          "id": 10,
+          "label": "[10]",
+          "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf"
+        },
+        {
+          "id": 11,
+          "label": "[11]",
+          "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf"
+        },
+        {
+          "id": 13,
+          "label": "[13]",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70"
+        }
+      ],
+      "productJourneys": 5,
+      "originalImage": true
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "js": false,
+      "boxes": {
+        "h1": {
+          "x": 24,
+          "y": 183.171875,
+          "width": 342,
+          "height": 35.828125
+        },
+        "#identity": {
+          "x": 24,
+          "y": 507.671875,
+          "width": 342,
+          "height": 513.78125
+        },
+        "[data-encyclopedia-toc]": {
+          "x": 24,
+          "y": 1061.453125,
+          "width": 342,
+          "height": 435.0625
+        },
+        "#research-turmeric-references": {
+          "x": 24,
+          "y": 24725.453125,
+          "width": 342,
+          "height": 1207.9375
+        }
+      },
+      "citations": [
+        {
+          "id": 4,
+          "label": "[4]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215"
+        },
+        {
+          "id": 7,
+          "label": "[7]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953"
+        },
+        {
+          "id": 10,
+          "label": "[10]",
+          "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf"
+        },
+        {
+          "id": 11,
+          "label": "[11]",
+          "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf"
+        },
+        {
+          "id": 13,
+          "label": "[13]",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70"
+        }
+      ],
+      "productJourneys": 5,
+      "originalImage": true
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "js": false,
+      "boxes": {
+        "h1": {
+          "x": 24,
+          "y": 183.171875,
+          "width": 342,
+          "height": 35.828125
+        },
+        "#identity": {
+          "x": 24,
+          "y": 448.921875,
+          "width": 342,
+          "height": 301.046875
+        },
+        "[data-encyclopedia-toc]": {
+          "x": 24,
+          "y": 789.96875,
+          "width": 342,
+          "height": 435.0625
+        },
+        "#research-turmeric-references": {
+          "x": 24,
+          "y": 17053.375,
+          "width": 342,
+          "height": 1207.9375
+        }
+      },
+      "citations": [
+        {
+          "id": 4,
+          "label": "[4]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215"
+        },
+        {
+          "id": 7,
+          "label": "[7]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953"
+        },
+        {
+          "id": 10,
+          "label": "[10]",
+          "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf"
+        },
+        {
+          "id": 11,
+          "label": "[11]",
+          "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf"
+        },
+        {
+          "id": 13,
+          "label": "[13]",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70"
+        }
+      ],
+      "productJourneys": 5,
+      "originalImage": true
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "js": false,
+      "boxes": {
+        "h1": {
+          "x": 24,
+          "y": 183.171875,
+          "width": 720,
+          "height": 35.828125
+        },
+        "#identity": {
+          "x": 24,
+          "y": 419.546875,
+          "width": 720,
+          "height": 321.703125
+        },
+        "[data-encyclopedia-toc]": {
+          "x": 24,
+          "y": 797.25,
+          "width": 720,
+          "height": 265.71875
+        },
+        "#research-turmeric-references": {
+          "x": 24,
+          "y": 17209.53125,
+          "width": 720,
+          "height": 856.859375
+        }
+      },
+      "citations": [
+        {
+          "id": 4,
+          "label": "[4]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215"
+        },
+        {
+          "id": 7,
+          "label": "[7]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953"
+        },
+        {
+          "id": 10,
+          "label": "[10]",
+          "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf"
+        },
+        {
+          "id": 11,
+          "label": "[11]",
+          "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf"
+        },
+        {
+          "id": 13,
+          "label": "[13]",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70"
+        }
+      ],
+      "productJourneys": 5,
+      "originalImage": true
+    },
+    {
+      "lang": "zh",
+      "width": 768,
+      "js": false,
+      "boxes": {
+        "h1": {
+          "x": 24,
+          "y": 183.171875,
+          "width": 720,
+          "height": 35.828125
+        },
+        "#identity": {
+          "x": 24,
+          "y": 419.546875,
+          "width": 720,
+          "height": 192.515625
+        },
+        "[data-encyclopedia-toc]": {
+          "x": 24,
+          "y": 668.0625,
+          "width": 720,
+          "height": 265.71875
+        },
+        "#research-turmeric-references": {
+          "x": 24,
+          "y": 13398.53125,
+          "width": 720,
+          "height": 856.859375
+        }
+      },
+      "citations": [
+        {
+          "id": 4,
+          "label": "[4]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215"
+        },
+        {
+          "id": 7,
+          "label": "[7]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953"
+        },
+        {
+          "id": 10,
+          "label": "[10]",
+          "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf"
+        },
+        {
+          "id": 11,
+          "label": "[11]",
+          "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf"
+        },
+        {
+          "id": 13,
+          "label": "[13]",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70"
+        }
+      ],
+      "productJourneys": 5,
+      "originalImage": true
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "js": false,
+      "boxes": {
+        "h1": {
+          "x": 310,
+          "y": 199.171875,
+          "width": 820,
+          "height": 53.75
+        },
+        "#identity": {
+          "x": 310,
+          "y": 453.46875,
+          "width": 820,
+          "height": 289.40625
+        },
+        "[data-encyclopedia-toc]": {
+          "x": 310,
+          "y": 798.875,
+          "width": 820,
+          "height": 265.71875
+        },
+        "#research-turmeric-references": {
+          "x": 310,
+          "y": 16404,
+          "width": 820,
+          "height": 833.09375
+        }
+      },
+      "citations": [
+        {
+          "id": 4,
+          "label": "[4]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215"
+        },
+        {
+          "id": 7,
+          "label": "[7]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953"
+        },
+        {
+          "id": 10,
+          "label": "[10]",
+          "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf"
+        },
+        {
+          "id": 11,
+          "label": "[11]",
+          "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf"
+        },
+        {
+          "id": 13,
+          "label": "[13]",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70"
+        }
+      ],
+      "productJourneys": 5,
+      "originalImage": true
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "js": false,
+      "boxes": {
+        "h1": {
+          "x": 310,
+          "y": 199.171875,
+          "width": 820,
+          "height": 53.75
+        },
+        "#identity": {
+          "x": 310,
+          "y": 453.46875,
+          "width": 820,
+          "height": 192.515625
+        },
+        "[data-encyclopedia-toc]": {
+          "x": 310,
+          "y": 701.984375,
+          "width": 820,
+          "height": 265.71875
+        },
+        "#research-turmeric-references": {
+          "x": 310,
+          "y": 12891.921875,
+          "width": 820,
+          "height": 833.09375
+        }
+      },
+      "citations": [
+        {
+          "id": 4,
+          "label": "[4]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215"
+        },
+        {
+          "id": 7,
+          "label": "[7]",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953"
+        },
+        {
+          "id": 10,
+          "label": "[10]",
+          "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf"
+        },
+        {
+          "id": 11,
+          "label": "[11]",
+          "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf"
+        },
+        {
+          "id": 13,
+          "label": "[13]",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70"
+        }
+      ],
+      "productJourneys": 5,
+      "originalImage": true
+    }
+  ]
+}

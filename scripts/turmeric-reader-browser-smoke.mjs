@@ -31,7 +31,7 @@ try{
   assert.equal(await body.locator('[data-application-matrix] tbody tr').count(),5);
   for(const img of await body.locator('.concept-figure img').all()) {
    await img.scrollIntoViewIfNeeded();await img.evaluate(el=>el.decode());assert.ok(await img.evaluate(el=>el.naturalWidth>0));
-   assert.ok((await img.locator('..').locator('figcaption').innerText()).length>(lang==='zh'?35:60));
+   const caption=await img.locator('..').locator('figcaption').innerText();assert.ok(caption.includes('AI'));assert.ok(caption.length<150);
   }
   for(const details of await body.locator('[data-study-box]').all()) {
    await details.locator('summary').click();assert.equal(await details.getAttribute('open'),'');
@@ -49,10 +49,18 @@ try{
   }
   const paragraphs=await body.locator('p').allTextContents();
   assert.equal(new Set(paragraphs).size,paragraphs.length,'no repeated paragraphs');
-  for(const anchor of ['identity','effects','components','applications','processes','standards','faq','insights']){
+  for(const anchor of ['identity','effects','components','applications','formulations','patents','processes','standards','faq','insights']){
    await body.locator(`nav a[href="#${anchor}"]`).click();assert.equal(new URL(page.url()).hash,`#${anchor}`);
    assert.ok((await page.locator(`#${anchor}`).innerText()).length>30);
   }
+  assert.equal(await body.locator('[data-formulation-concept]').count(),4);
+  assert.equal(await body.locator('[data-patent-family]').count(),3);
+  for(const [n,id] of [[1,'WO2007101551A2'],[2,'US10245238B2'],[3,'WO2012156979A1']]){
+   const target=`#research-turmeric-formulation-source-${n}`;
+   await body.locator(`a[href="${target}"]`).first().click();assert.equal(new URL(page.url()).hash,target);
+   assert.equal(await page.locator(target+' a').getAttribute('href'),`https://patents.google.com/patent/${id}/en`);
+  }
+  assert.ok((await page.locator('#formulations').boundingBox()).width<=820.5);
   const citations=[];
   for(const n of [4,7,10,11,13]){
    const target=`#research-b-turmeric-source-${n}`,entry=page.locator(target);
@@ -67,7 +75,7 @@ try{
   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false);
   if(js){
    await body.locator('.research-table').evaluateAll(els=>els.forEach(el=>el.scrollLeft=0));
-   for(const [name,selector] of [['intro','#identity'],['effects','#effects'],['applications','#applications'],['forms','#components'],['process','#processes'],['equipment','#equipment'],['case','#research-turmeric-insights-8'],['references','#research-turmeric-references']]){
+   for(const [name,selector] of [['intro','#identity'],['effects','#effects'],['applications','#applications'],['formulations','#formulations'],['patents','#patents'],['forms','#components'],['process','#processes'],['equipment','#equipment'],['case','#research-turmeric-insights-8'],['references','#research-turmeric-references']]){
     await page.locator(selector).evaluate(el=>el.scrollIntoView({behavior:'instant',block:'start'}));
     await page.screenshot({path:`${out}/${lang}-${width}-${name}.png`});
    }
