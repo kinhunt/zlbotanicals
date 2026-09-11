@@ -1242,7 +1242,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "设备按处理功能区分：提取设备促进成分从植物组织进入溶剂，分离设备除去固体或富集色素，配方设备控制液滴或粉体性质。下表介绍可选工艺单元，不描述企业已安装的设施。[4][10]"
+              "text": "设备按处理功能区分：提取设备促进成分从植物组织进入溶剂，分离设备除去固体或富集色素，配方设备控制液滴或粉体性质。[4][10]"
             },
             {
               "type": "table",
@@ -1300,7 +1300,7 @@
             },
             {
               "type": "paragraph",
-              "text": "油树脂保留部分与姜黄风味有关的挥发油和树脂；浓缩结晶色素中姜黄素类比例较高，伴随组分较少。选用哪种形态取决于产品对香辛风味、颜色或两者的需要。所引JECFA规范针对食品色素，具体用途是否允许仍需按目标市场核查。[10][11]"
+              "text": "油树脂保留部分与姜黄风味有关的挥发油和树脂；浓缩结晶色素中姜黄素类比例较高，伴随组分较少。选用哪种形态取决于产品对香辛风味、颜色或两者的需要。2003年JECFA《姜黄素》专论规定了食品色素的身份和纯度指标，属于FAO/WHO的国际技术规范。[10][11]"
             },
             {
               "type": "heading",
@@ -1308,7 +1308,7 @@
             },
             {
               "type": "paragraph",
-              "text": "不透明乳饮或植物饮可考虑分散型原料，评价颜色均匀性、沉降、粗颗粒和油圈。澄清饮料中，加入油滴或悬浮颗粒可能增加浊度。按实际添加量试配时，还需考虑酸度、盐、热处理、包装和储存条件。这些是配方评价项目，并非已经验证的饮料配方。"
+              "text": "不透明乳饮或植物饮可考虑分散型原料，评价颜色均匀性、沉降、粗颗粒和油圈。澄清饮料中，加入油滴或悬浮颗粒可能增加浊度。按实际添加量试配时，还需考虑酸度、盐、热处理、包装和储存条件。"
             },
             {
               "type": "paragraph",
@@ -1334,7 +1334,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "规格中的百分比需要对应明确的原料名称和形态。原料资料应将产品名称、批次检验报告、检测方法及所加载体组成关联起来。下表列出应索取或核查的信息，不是某一在售批次的质量规格。[11][13]"
+              "text": "规格中的百分比需要对应明确的原料名称和形态。原料资料应将产品名称、批次检验报告、检测方法及所加载体组成关联起来。其中，身份鉴别回答“是什么”，含量测定回答“有多少”，污染物检测评价非目标物质。[11][13]"
             },
             {
               "type": "table",
@@ -1371,7 +1371,7 @@
             },
             {
               "type": "paragraph",
-              "text": "该食品色素专论列出丙酮30 mg/kg、己烷25 mg/kg的上限，甲醇／乙醇／异丙醇／乙酸乙酯归入50 mg/kg限值组，铅上限为2 mg/kg。这些是特定年份、特定材料的参考值，不是全部姜黄原料和补充剂的统一限量。实际用途应核查目标市场的现行要求。[11]"
+              "text": "该食品色素专论列出丙酮30 mg/kg、己烷25 mg/kg的上限，甲醇／乙醇／异丙醇／乙酸乙酯归入50 mg/kg限值组，铅上限为2 mg/kg。这些数值适用于2003年JECFA食品色素专论所定义的姜黄素。该国际规范提供身份和纯度标准，食品类别及使用条件由各司法辖区的法规规定。[11]"
             },
             {
               "type": "paragraph",
@@ -1441,7 +1441,7 @@
             },
             {
               "type": "paragraph",
-              "text": "2004年FAO/JECFA《姜黄素：化学与技术评估》第3.2节描述的油树脂约含25–35%着色物，纯化粉超过90%。这些数字对应文件所述的历史路线，不是所有“姜黄提取物”的通用组成区间。该工艺资料与2003年规范用于解释色素分离和身份，不能证明供应商的设施配置或当前市场准入。[10][11]"
+              "text": "2004年FAO/JECFA《姜黄素：化学与技术评估》第3.2节描述的油树脂约含25–35%着色物，纯化粉超过90%。这些数字对应文件所述的历史路线，不是所有“姜黄提取物”的通用组成区间。油树脂与纯化粉的组成差异，反映了分离过程对色素的富集。[10][11]"
             }
           ]
         }
@@ -1475,7 +1475,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Equipment is described here by function. Extraction equipment transfers constituents from plant tissue; separation equipment removes solids or enriches pigment; formulation equipment controls droplets or powder properties. The following units are process options, not a description of installed facilities.[4][10]"
+              "text": "Equipment is described here by function. Extraction equipment transfers constituents from plant tissue; separation equipment removes solids or enriches pigment; formulation equipment controls droplets or powder properties.[4][10]"
             },
             {
               "type": "table",
@@ -1533,7 +1533,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Oleoresins retain some of the volatile oils and resins associated with turmeric flavour. Concentrated crystalline pigment contains a larger proportion of curcuminoids and less of those accompanying fractions. The choice depends on whether the product needs spice character, colour, or both. The cited JECFA specification concerns the food colour; permission for a particular use depends on the destination market.[10][11]"
+              "text": "Oleoresins retain some of the volatile oils and resins associated with turmeric flavour. Concentrated crystalline pigment contains a larger proportion of curcuminoids and less of those accompanying fractions. The choice depends on whether the product needs spice character, colour, or both. The 2003 JECFA Curcumin monograph defines identity and purity for the food colour as an international FAO/WHO technical specification.[10][11]"
             },
             {
               "type": "heading",
@@ -1541,7 +1541,7 @@
             },
             {
               "type": "paragraph",
-              "text": "A dispersion may be considered for opaque dairy or plant beverages, where colour uniformity, sediment, coarse particles and an oil ring are useful observations. In clear drinks, added oil droplets or suspended particles may increase turbidity. Evaluation at the intended addition rate should include acidity, salts, heat treatment, packaging and storage conditions. These are formulation considerations, not validated beverage recipes."
+              "text": "A dispersion may be considered for opaque dairy or plant beverages, where colour uniformity, sediment, coarse particles and an oil ring are useful observations. In clear drinks, added oil droplets or suspended particles may increase turbidity. Evaluation at the intended addition rate should include acidity, salts, heat treatment, packaging and storage conditions."
             },
             {
               "type": "paragraph",
@@ -1567,7 +1567,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "The specification should identify the material being purchased before giving a percentage. A useful document set links the ingredient name and form to a batch certificate of analysis, test methods and the composition of added carriers. The fields below are items to request or verify, not specifications for a listed commercial batch.[11][13]"
+              "text": "The specification should identify the material being purchased before giving a percentage. A useful document set links the ingredient name and form to a batch certificate of analysis, test methods and the composition of added carriers. Identity testing establishes what the material is; an assay measures how much of the specified constituent it contains; contaminant tests assess unwanted substances.[11][13]"
             },
             {
               "type": "table",
@@ -1604,7 +1604,7 @@
             },
             {
               "type": "paragraph",
-              "text": "That food-colour monograph gives limits of 30 mg/kg for acetone, 25 mg/kg for hexane, 50 mg/kg in the listed methanol/ethanol/isopropanol/ethyl acetate group, and 2 mg/kg for lead. These are dated, material-specific reference values, not universal limits for every turmeric ingredient or supplement. Current requirements must be checked for the market and intended use.[11]"
+              "text": "That food-colour monograph gives limits of 30 mg/kg for acetone, 25 mg/kg for hexane, 50 mg/kg in the listed methanol/ethanol/isopropanol/ethyl acetate group, and 2 mg/kg for lead. These values apply to curcumin as defined in the 2003 JECFA food-colour monograph. This international specification sets identity and purity criteria; national or regional legislation defines food categories and conditions of use.[11]"
             },
             {
               "type": "paragraph",
@@ -1674,7 +1674,7 @@
             },
             {
               "type": "paragraph",
-              "text": "The 2004 FAO/JECFA Chemical and Technical Assessment describes oleoresin with about 25–35% colouring matter and purified powder with over 90%. These figures describe the historical route in section 3.2, not a general composition range for all products sold as turmeric extract. Its process account and the 2003 specification explain pigment separation and identity, but do not establish a supplier’s facilities or current market authorization.[10][11]"
+              "text": "The 2004 FAO/JECFA Chemical and Technical Assessment describes oleoresin with about 25–35% colouring matter and purified powder with over 90%. These figures describe the historical route in section 3.2, not a general composition range for all products sold as turmeric extract. The compositional difference between oleoresin and purified powder illustrates pigment enrichment during separation.[10][11]"
             }
           ]
         }
