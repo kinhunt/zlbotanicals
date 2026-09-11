@@ -10,9 +10,11 @@ interface Props {
   description?: string;
   lang?: Language;
   includeHeaderFooter?: boolean;
+  socialImage?: {src:string; width:number; height:number; alt:string};
+  ogType?: 'website' | 'article';
 }
 
-const { title, description, lang = defaultLang, includeHeaderFooter = true } = Astro.props;
+const { title, description, lang = defaultLang, includeHeaderFooter = true, socialImage, ogType = 'website' } = Astro.props;
 const t = useTranslations(lang);
 
 const isPlantExtractsHub = /^\/(?:zh\/)?plant-extracts\/?$/.test(Astro.url.pathname);
@@ -22,6 +24,7 @@ const path = Astro.url.pathname.replace(/\/$/, '') || '/';
 const englishPath = path.replace(/^\/zh(?=\/|$)/, '') || '/';
 const chinesePath = englishPath === '/' ? '/zh/' : `/zh${englishPath}`;
 const origin = 'https://zlbotanicals.com';
+const imageUrl = socialImage ? new URL(socialImage.src, origin).href : undefined;
 const canonical = `${origin}${path === '/zh' ? '/zh/' : path}`;
 ---
 
@@ -42,9 +45,19 @@ const canonical = `${origin}${path === '/zh' ? '/zh/' : path}`;
     <meta property="og:title" content={siteTitle} />
     <meta property="og:description" content={siteDescription} />
     <meta property="og:url" content={canonical} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:site_name" content={t('site.name')} />
-    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:card" content={socialImage ? 'summary_large_image' : 'summary'} />
+    {socialImage && <>
+      <meta property="og:image" content={imageUrl} />
+      <meta property="og:image:width" content={socialImage.width} />
+      <meta property="og:image:height" content={socialImage.height} />
+      <meta property="og:image:alt" content={socialImage.alt} />
+      <meta name="twitter:title" content={siteTitle} />
+      <meta name="twitter:description" content={siteDescription} />
+      <meta name="twitter:image" content={imageUrl} />
+      <meta name="twitter:image:alt" content={socialImage.alt} />
+    </>}
     {path.endsWith('/thank-you') && <meta name="robots" content="noindex, follow" />}
     <title>{siteTitle}</title>
   </head>

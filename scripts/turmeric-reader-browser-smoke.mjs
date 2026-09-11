@@ -5,15 +5,34 @@ const base=process.argv[2]||'http://127.0.0.1:4321';
 const out=process.env.QA_OUTPUT||'/tmp/turmeric-reader-qa';mkdirSync(out,{recursive:true});
 const browser=await chromium.launch({headless:true,args:['--no-sandbox']});const results=[];
 try{
- for(const js of [true,false]) for(const width of [390,1440]) for(const lang of ['en','zh']){
+ for(const js of [true,false]) for(const width of [390,768,1440]) for(const lang of ['en','zh']){
   const prefix=lang==='zh'?'/zh':'',route=`${prefix}/plant-extracts/ingredients/turmeric`;
   const context=await browser.newContext({javaScriptEnabled:js,viewport:{width,height:900}}),page=await context.newPage();
   const errors=[];page.on('pageerror',e=>errors.push(e.message));
   assert.equal((await page.goto(base+route)).status(),200);await page.evaluate(()=>document.fonts.ready);
   await page.evaluate(()=>{document.documentElement.style.scrollBehavior='auto';});
   assert.equal(await page.locator('link[rel="canonical"]').getAttribute('href'),`https://zlbotanicals.com${route}`);
+  const head=page.locator('head');
+  for(const key of ['og:title','og:description','og:url','og:image','og:image:width','og:image:height','og:image:alt']) assert.equal(await head.locator(`meta[property="${key}"]`).count(),1);
+  const imageURL=await head.locator('meta[property="og:image"]').getAttribute('content');
+  assert.ok(imageURL.startsWith('https://zlbotanicals.com/'));
+  assert.equal((await page.request.get(base+new URL(imageURL).pathname)).status(),200);
+  assert.equal(await head.locator('meta[property="og:url"]').getAttribute('content'),`https://zlbotanicals.com${route}`);
+  assert.equal(await page.locator('h1').count(),1);
+  const boxes={};
+  for(const selector of ['h1','#identity','[data-encyclopedia-toc]','#research-turmeric-references']) {
+   boxes[selector]=await page.locator(selector).boundingBox();
+   if(width===1440){const b=boxes[selector];assert.ok(b.width>=760&&b.width<=860,selector);assert.ok(Math.abs(b.x+b.width/2-width/2)<2,selector+' centered');}
+  }
+  const first=page.locator('[data-encyclopedia-toc] a').first();await first.focus();await page.keyboard.press('Enter');assert.equal(new URL(page.url()).hash,'#raw-material');
+  assert.equal(await page.locator('[data-process-branches] .flow-option').count(),2);
   const body=page.locator('[data-deep-research]');
   assert.equal(await body.locator('nav').count(),1);
+  for(const region of await body.locator('.research-table').all()) {
+   const hint=await region.locator('.table-hint').boundingBox(),box=await region.boundingBox();
+   assert.ok(hint.width<=box.width-16,'scroll hint fits region');
+   if(width===390) {await region.focus();await page.keyboard.press('ArrowRight');await page.waitForTimeout(150);assert.ok(await region.evaluate(el=>el.scrollLeft>0),'keyboard table scroll');}
+  }
   const paragraphs=await body.locator('p').allTextContents();
   assert.equal(new Set(paragraphs).size,paragraphs.length,'no repeated paragraphs');
   for(const anchor of ['raw-material','components','processes','equipment','applications','end-products','standards','insights']){
@@ -33,7 +52,7 @@ try{
   }
   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false);
   if(js){
-   for(const [name,selector] of [['intro','#identity'],['forms','#components'],['equipment','#equipment'],['case','#research-turmeric-insights-8'],['references','#research-turmeric-references']]){
+   for(const [name,selector] of [['intro','#identity'],['forms','#components'],['process','#processes'],['equipment','#equipment'],['case','#research-turmeric-insights-8'],['references','#research-turmeric-references']]){
     await page.locator(selector).evaluate(el=>el.scrollIntoView({behavior:'instant',block:'start'}));
     await page.screenshot({path:`${out}/${lang}-${width}-${name}.png`});
    }
@@ -47,7 +66,7 @@ try{
    assert.equal(new URL(page.url()).pathname,route);assert.equal(new URL(page.url()).hash,`#${anchor}`);
    assert.ok((await page.locator(`section#${anchor}`).innerText()).length>130);
   }
-  assert.deepEqual(errors,[]);results.push({lang,width,js,citations,productJourneys:5,originalImage:true});await context.close();
+  assert.deepEqual(errors,[]);results.push({lang,width,js,boxes,citations,productJourneys:5,originalImage:true});await context.close();
  }
  writeFileSync(`${out}/results.json`,JSON.stringify({passed:true,base,results},null,2));console.log(JSON.stringify({passed:true,cases:results.length,out}));
 }finally{await browser.close();}
