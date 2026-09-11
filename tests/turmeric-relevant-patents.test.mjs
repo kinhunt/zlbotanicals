@@ -8,6 +8,8 @@ for (const lang of ['en','zh']) test(`${lang}: relevant patents close the articl
  assert.match(section,lang==='zh'?/相关专利/:/Relevant patents/);
  assert.equal((section.match(/<section/g)||[]).length,1,'only references opening follows patents');
  assert.match(section,/WO2007143635A1/);
+ assert.doesNotMatch(section,/\bDarick\b|indexed as Darrick|WIPO cover;/,'no invented cover/index name distinction');
+ assert.equal((section.match(/Darrick S\. Kim/g)||[]).length,2,'primary-cover name appears for both applicant and inventor');
  assert.match(section,lang==='zh'?/纯化/:/purification/);
  assert.match(section,lang==='zh'?/技术相关性/:/technical relevance/);
 });

@@ -6,6 +6,16 @@
       "url": "https://patents.google.com/patent/WO2007143635A1/en",
       "title": "WO2007143635A1 — purification",
       "accessed": "2026-09-11",
+      "primary_cover": {
+        "file": "WO2007143635A1.pdf",
+        "page": 1,
+        "image": "patent-cover.jpg",
+        "fields": "(71) Applicant and (72) Inventor",
+        "name_verbatim": "KIM, Darrick, S.",
+        "applicant": "Darrick S. Kim",
+        "inventor": "Darrick S. Kim",
+        "verification": "Original PDF cover name visually rechecked on 2026-09-11: Darrick has two r letters and agrees with the index; no spelling distinction."
+      },
       "quotes": [
         {
           "text": "Claims What is claimed is: 1. A method of obtaining purified curcumin comprising the steps of : a) admixing (1) impure curcumin comprising curcumin and curcuminoids and having a curcumin purity up to about 75% by weight, (2) a reagent which provides a phenol protecting group, and (3) an optional catalyst under conditions sufficient to control reactivity of the hydroxyl groups of the curcuminoids and the reagent which provides a phenol protecting group to form a mixture of curcumin and at least one curcuminoid having at least one phenol protecting group; b) crystallizing the mixture of step (a) in at least one organic solvent to form curcumin crystals, wherein the curcumin crystals have a curcumin purity of at least about 99% by weight.",

@@ -6,7 +6,7 @@ Base: `d6f8302a6b0132245ef45df116835d4c74839cf3` (PR #18), clean at branch creat
 
 WO2007143635A1 is a distinct upstream purification family, not a carrier formulation. Published claim 1 requires up to about 75 wt% starting curcumin, phenol protection of at least one curcuminoid and organic-solvent crystallization to at least about 99 wt% curcumin crystals.[1]
 
-Retrieved the original WIPO PDF from the Download PDF link; the saved PDF has 24 pages and no text layer. Read its cover and PDF page 18 (printed page 17, claim 1) with vision. The cover lists applicant/inventor “KIM, Darick, S.” whereas the index spells Darrick. Display uses cover spelling with the index variation identified. Cover confirms PCT/US2007/070379, priority US60/811041 dated 2006-06-05, filing 2007-06-05, publication 2007-12-13. This is an application publication, not a grant. The HTML claims text and quote-checked task ledger are saved alongside the original PDF and page images. The existing three scoped entries and prior evidence remain unchanged. Only one additional family was selected; no quantity padding or valuation claim.
+Retrieved the original WIPO PDF from the Download PDF link; the saved PDF has 24 pages and no text layer. Read its cover and PDF page 18 (printed page 17, claim 1) with vision. The original PDF cover, fields (71)/(72), lists applicant/inventor “KIM, Darrick, S.” (two r letters). The site displays Darrick S. Kim for both roles, consistent with the index; there is no cover/index spelling distinction. The cover name was rechecked against the original-PDF name crop during the PR #19 bibliography correction. Cover confirms PCT/US2007/070379, priority US60/811041 dated 2006-06-05, filing 2007-06-05, publication 2007-12-13. This is an application publication, not a grant. The HTML claims text and quote-checked task ledger are saved alongside the original PDF and page images. The existing three scoped entries and prior evidence remain unchanged. Only one additional family was selected; no quantity padding or valuation claim.
 
 Source number 1 in this task ledger maps to source 5 in the site's existing formulation namespace (4 remains reserved to avoid colliding with the inherited MCT citation routing). Existing source IDs remain stable.
 
@@ -17,6 +17,8 @@ Actual image_generate result: provider claw-max, model gpt-image-2-high. Tool re
 Vision inspected the source contact sheet, actual food WebP, EN mobile latte/capsules, ZH mobile powder/food, and ZH desktop patents. Main objects and captions are legible. The mobile table above the latte was horizontally scrolled by the keyboard test: contained scroll is intentional, has a visible instruction when its caption is in view, and passed actual keyboard movement and page-overflow assertions. No layout change is needed for that screenshot observation.
 
 ## Checks
+
+- PR #19 bibliography correction: both EN/ZH rendered-name regressions failed before the fix and passed afterward. They require Darrick S. Kim twice (applicant and inventor) and reject the incorrect single-r spelling and invented cover/index distinction. Fresh `npm test` rebuilt 200 pages and passed 101/101 tests. This correction changes bibliography text, evidence and tests only; original images and image provenance are unchanged. Independent re-review of the corrected commit remains pending.
 
 - RED: 2 patent-order tests failed on the baseline, then passed after implementation.
 - RED: 2 image tests failed because cards lacked images, then passed after implementation.
