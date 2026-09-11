@@ -50,9 +50,10 @@ test('encyclopedias identify materials before contents, retain eight readable se
 });
 
 test('visible section order follows the identity-first encyclopedia contents',()=>{
- const expected=['identity','raw-material','components','applications','end-products','processes','equipment','standards','insights'];
+ const standard=['identity','raw-material','components','applications','end-products','processes','equipment','standards','insights'];
  for(const prefix of ['', '/zh']) for(const id of Object.keys(names)){
   const page=read(`${prefix}/plant-extracts/ingredients/${id}`);
+  const expected=id==='turmeric'?['identity','raw-material','components','processes','equipment','applications','end-products','standards','insights']:standard;
   for(let n=1;n<expected.length;n++) assert.ok(page.indexOf(`id="${expected[n-1]}"`)<page.indexOf(`id="${expected[n]}"`),`${id}: ${expected[n-1]} precedes ${expected[n]}`);
  }
 });

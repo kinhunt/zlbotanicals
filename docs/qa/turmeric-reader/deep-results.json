@@ -1,0 +1,1349 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "route": "/plant-extracts/ingredients/green-tea",
+      "lang": "en",
+      "width": 360,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/green-tea",
+      "lang": "zh",
+      "width": 360,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/turmeric",
+      "lang": "en",
+      "width": 360,
+      "js": true,
+      "tables": 2
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/turmeric",
+      "lang": "zh",
+      "width": 360,
+      "js": true,
+      "tables": 2
+    },
+    {
+      "route": "/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "en",
+      "width": 360,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "zh",
+      "width": 360,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginseng",
+      "lang": "en",
+      "width": 360,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginseng",
+      "lang": "zh",
+      "width": 360,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "en",
+      "width": 360,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "zh",
+      "width": 360,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/grape-seed",
+      "lang": "en",
+      "width": 360,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/grape-seed",
+      "lang": "zh",
+      "width": 360,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/goji-berry",
+      "lang": "en",
+      "width": 360,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/goji-berry",
+      "lang": "zh",
+      "width": 360,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/licorice-root",
+      "lang": "en",
+      "width": 360,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/licorice-root",
+      "lang": "zh",
+      "width": 360,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/centella-asiatica",
+      "lang": "en",
+      "width": 360,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/centella-asiatica",
+      "lang": "zh",
+      "width": 360,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/monk-fruit",
+      "lang": "en",
+      "width": 360,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/monk-fruit",
+      "lang": "zh",
+      "width": 360,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/stevia",
+      "lang": "en",
+      "width": 360,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/stevia",
+      "lang": "zh",
+      "width": 360,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/resveratrol",
+      "lang": "en",
+      "width": 360,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/resveratrol",
+      "lang": "zh",
+      "width": 360,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/green-tea",
+      "lang": "en",
+      "width": 390,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/green-tea",
+      "lang": "zh",
+      "width": 390,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/turmeric",
+      "lang": "en",
+      "width": 390,
+      "js": true,
+      "tables": 2
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/turmeric",
+      "lang": "zh",
+      "width": 390,
+      "js": true,
+      "tables": 2
+    },
+    {
+      "route": "/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "en",
+      "width": 390,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "zh",
+      "width": 390,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginseng",
+      "lang": "en",
+      "width": 390,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginseng",
+      "lang": "zh",
+      "width": 390,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "en",
+      "width": 390,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "zh",
+      "width": 390,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/grape-seed",
+      "lang": "en",
+      "width": 390,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/grape-seed",
+      "lang": "zh",
+      "width": 390,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/goji-berry",
+      "lang": "en",
+      "width": 390,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/goji-berry",
+      "lang": "zh",
+      "width": 390,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/licorice-root",
+      "lang": "en",
+      "width": 390,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/licorice-root",
+      "lang": "zh",
+      "width": 390,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/centella-asiatica",
+      "lang": "en",
+      "width": 390,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/centella-asiatica",
+      "lang": "zh",
+      "width": 390,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/monk-fruit",
+      "lang": "en",
+      "width": 390,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/monk-fruit",
+      "lang": "zh",
+      "width": 390,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/stevia",
+      "lang": "en",
+      "width": 390,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/stevia",
+      "lang": "zh",
+      "width": 390,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/resveratrol",
+      "lang": "en",
+      "width": 390,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/resveratrol",
+      "lang": "zh",
+      "width": 390,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/green-tea",
+      "lang": "en",
+      "width": 768,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/green-tea",
+      "lang": "zh",
+      "width": 768,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/turmeric",
+      "lang": "en",
+      "width": 768,
+      "js": true,
+      "tables": 2
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/turmeric",
+      "lang": "zh",
+      "width": 768,
+      "js": true,
+      "tables": 2
+    },
+    {
+      "route": "/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "en",
+      "width": 768,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "zh",
+      "width": 768,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginseng",
+      "lang": "en",
+      "width": 768,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginseng",
+      "lang": "zh",
+      "width": 768,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "en",
+      "width": 768,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "zh",
+      "width": 768,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/grape-seed",
+      "lang": "en",
+      "width": 768,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/grape-seed",
+      "lang": "zh",
+      "width": 768,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/goji-berry",
+      "lang": "en",
+      "width": 768,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/goji-berry",
+      "lang": "zh",
+      "width": 768,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/licorice-root",
+      "lang": "en",
+      "width": 768,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/licorice-root",
+      "lang": "zh",
+      "width": 768,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/centella-asiatica",
+      "lang": "en",
+      "width": 768,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/centella-asiatica",
+      "lang": "zh",
+      "width": 768,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/monk-fruit",
+      "lang": "en",
+      "width": 768,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/monk-fruit",
+      "lang": "zh",
+      "width": 768,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/stevia",
+      "lang": "en",
+      "width": 768,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/stevia",
+      "lang": "zh",
+      "width": 768,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/resveratrol",
+      "lang": "en",
+      "width": 768,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/resveratrol",
+      "lang": "zh",
+      "width": 768,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/green-tea",
+      "lang": "en",
+      "width": 1440,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/green-tea",
+      "lang": "zh",
+      "width": 1440,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/turmeric",
+      "lang": "en",
+      "width": 1440,
+      "js": true,
+      "tables": 2
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/turmeric",
+      "lang": "zh",
+      "width": 1440,
+      "js": true,
+      "tables": 2
+    },
+    {
+      "route": "/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "en",
+      "width": 1440,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "zh",
+      "width": 1440,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginseng",
+      "lang": "en",
+      "width": 1440,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginseng",
+      "lang": "zh",
+      "width": 1440,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "en",
+      "width": 1440,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "zh",
+      "width": 1440,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/grape-seed",
+      "lang": "en",
+      "width": 1440,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/grape-seed",
+      "lang": "zh",
+      "width": 1440,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/goji-berry",
+      "lang": "en",
+      "width": 1440,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/goji-berry",
+      "lang": "zh",
+      "width": 1440,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/licorice-root",
+      "lang": "en",
+      "width": 1440,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/licorice-root",
+      "lang": "zh",
+      "width": 1440,
+      "js": true,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/centella-asiatica",
+      "lang": "en",
+      "width": 1440,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/centella-asiatica",
+      "lang": "zh",
+      "width": 1440,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/monk-fruit",
+      "lang": "en",
+      "width": 1440,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/monk-fruit",
+      "lang": "zh",
+      "width": 1440,
+      "js": true,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/stevia",
+      "lang": "en",
+      "width": 1440,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/stevia",
+      "lang": "zh",
+      "width": 1440,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/resveratrol",
+      "lang": "en",
+      "width": 1440,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/resveratrol",
+      "lang": "zh",
+      "width": 1440,
+      "js": true,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/green-tea",
+      "lang": "en",
+      "width": 360,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/green-tea",
+      "lang": "zh",
+      "width": 360,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/turmeric",
+      "lang": "en",
+      "width": 360,
+      "js": false,
+      "tables": 2
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/turmeric",
+      "lang": "zh",
+      "width": 360,
+      "js": false,
+      "tables": 2
+    },
+    {
+      "route": "/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "en",
+      "width": 360,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "zh",
+      "width": 360,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginseng",
+      "lang": "en",
+      "width": 360,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginseng",
+      "lang": "zh",
+      "width": 360,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "en",
+      "width": 360,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "zh",
+      "width": 360,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/grape-seed",
+      "lang": "en",
+      "width": 360,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/grape-seed",
+      "lang": "zh",
+      "width": 360,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/goji-berry",
+      "lang": "en",
+      "width": 360,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/goji-berry",
+      "lang": "zh",
+      "width": 360,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/licorice-root",
+      "lang": "en",
+      "width": 360,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/licorice-root",
+      "lang": "zh",
+      "width": 360,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/centella-asiatica",
+      "lang": "en",
+      "width": 360,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/centella-asiatica",
+      "lang": "zh",
+      "width": 360,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/monk-fruit",
+      "lang": "en",
+      "width": 360,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/monk-fruit",
+      "lang": "zh",
+      "width": 360,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/stevia",
+      "lang": "en",
+      "width": 360,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/stevia",
+      "lang": "zh",
+      "width": 360,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/resveratrol",
+      "lang": "en",
+      "width": 360,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/resveratrol",
+      "lang": "zh",
+      "width": 360,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/green-tea",
+      "lang": "en",
+      "width": 390,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/green-tea",
+      "lang": "zh",
+      "width": 390,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/turmeric",
+      "lang": "en",
+      "width": 390,
+      "js": false,
+      "tables": 2
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/turmeric",
+      "lang": "zh",
+      "width": 390,
+      "js": false,
+      "tables": 2
+    },
+    {
+      "route": "/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "en",
+      "width": 390,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "zh",
+      "width": 390,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginseng",
+      "lang": "en",
+      "width": 390,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginseng",
+      "lang": "zh",
+      "width": 390,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "en",
+      "width": 390,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "zh",
+      "width": 390,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/grape-seed",
+      "lang": "en",
+      "width": 390,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/grape-seed",
+      "lang": "zh",
+      "width": 390,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/goji-berry",
+      "lang": "en",
+      "width": 390,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/goji-berry",
+      "lang": "zh",
+      "width": 390,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/licorice-root",
+      "lang": "en",
+      "width": 390,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/licorice-root",
+      "lang": "zh",
+      "width": 390,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/centella-asiatica",
+      "lang": "en",
+      "width": 390,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/centella-asiatica",
+      "lang": "zh",
+      "width": 390,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/monk-fruit",
+      "lang": "en",
+      "width": 390,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/monk-fruit",
+      "lang": "zh",
+      "width": 390,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/stevia",
+      "lang": "en",
+      "width": 390,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/stevia",
+      "lang": "zh",
+      "width": 390,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/resveratrol",
+      "lang": "en",
+      "width": 390,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/resveratrol",
+      "lang": "zh",
+      "width": 390,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/green-tea",
+      "lang": "en",
+      "width": 768,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/green-tea",
+      "lang": "zh",
+      "width": 768,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/turmeric",
+      "lang": "en",
+      "width": 768,
+      "js": false,
+      "tables": 2
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/turmeric",
+      "lang": "zh",
+      "width": 768,
+      "js": false,
+      "tables": 2
+    },
+    {
+      "route": "/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "en",
+      "width": 768,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "zh",
+      "width": 768,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginseng",
+      "lang": "en",
+      "width": 768,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginseng",
+      "lang": "zh",
+      "width": 768,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "en",
+      "width": 768,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "zh",
+      "width": 768,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/grape-seed",
+      "lang": "en",
+      "width": 768,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/grape-seed",
+      "lang": "zh",
+      "width": 768,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/goji-berry",
+      "lang": "en",
+      "width": 768,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/goji-berry",
+      "lang": "zh",
+      "width": 768,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/licorice-root",
+      "lang": "en",
+      "width": 768,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/licorice-root",
+      "lang": "zh",
+      "width": 768,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/centella-asiatica",
+      "lang": "en",
+      "width": 768,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/centella-asiatica",
+      "lang": "zh",
+      "width": 768,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/monk-fruit",
+      "lang": "en",
+      "width": 768,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/monk-fruit",
+      "lang": "zh",
+      "width": 768,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/stevia",
+      "lang": "en",
+      "width": 768,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/stevia",
+      "lang": "zh",
+      "width": 768,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/resveratrol",
+      "lang": "en",
+      "width": 768,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/resveratrol",
+      "lang": "zh",
+      "width": 768,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/green-tea",
+      "lang": "en",
+      "width": 1440,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/green-tea",
+      "lang": "zh",
+      "width": 1440,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/turmeric",
+      "lang": "en",
+      "width": 1440,
+      "js": false,
+      "tables": 2
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/turmeric",
+      "lang": "zh",
+      "width": 1440,
+      "js": false,
+      "tables": 2
+    },
+    {
+      "route": "/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "en",
+      "width": 1440,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/reishi-mushroom",
+      "lang": "zh",
+      "width": 1440,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginseng",
+      "lang": "en",
+      "width": 1440,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginseng",
+      "lang": "zh",
+      "width": 1440,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "en",
+      "width": 1440,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/ginkgo-biloba",
+      "lang": "zh",
+      "width": 1440,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/grape-seed",
+      "lang": "en",
+      "width": 1440,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/grape-seed",
+      "lang": "zh",
+      "width": 1440,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/goji-berry",
+      "lang": "en",
+      "width": 1440,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/goji-berry",
+      "lang": "zh",
+      "width": 1440,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/licorice-root",
+      "lang": "en",
+      "width": 1440,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/licorice-root",
+      "lang": "zh",
+      "width": 1440,
+      "js": false,
+      "tables": 3
+    },
+    {
+      "route": "/plant-extracts/ingredients/centella-asiatica",
+      "lang": "en",
+      "width": 1440,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/centella-asiatica",
+      "lang": "zh",
+      "width": 1440,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/monk-fruit",
+      "lang": "en",
+      "width": 1440,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/monk-fruit",
+      "lang": "zh",
+      "width": 1440,
+      "js": false,
+      "tables": 1
+    },
+    {
+      "route": "/plant-extracts/ingredients/stevia",
+      "lang": "en",
+      "width": 1440,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/stevia",
+      "lang": "zh",
+      "width": 1440,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/plant-extracts/ingredients/resveratrol",
+      "lang": "en",
+      "width": 1440,
+      "js": false,
+      "tables": 4
+    },
+    {
+      "route": "/zh/plant-extracts/ingredients/resveratrol",
+      "lang": "zh",
+      "width": 1440,
+      "js": false,
+      "tables": 4
+    }
+  ]
+}
