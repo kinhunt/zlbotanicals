@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-11",
+  "baseHead": "44dba2e835412838e3043ad30c87ffd371fe7536",
+  "buildPages": 200,
+  "npmTests": 137,
+  "npmFailures": 0,
+  "browser": {
+    "sharedReader": 96,
+    "planImages": 144,
+    "deepTables": 192,
+    "turmeric": 12,
+    "originalImagery": 56,
+    "total": 500,
+    "uniqueDecodedPlanImages": 33,
+    "all24Pages": true,
+    "javaScriptOnOff": true,
+    "imageWidths": [
+      390,
+      820,
+      1440
+    ]
+  },
+  "preservation": {
+    "checkedFiles": 62,
+    "changes": 0
+  },
+  "evidence": {
+    "claimSpecificRecords": 20,
+    "blanketCoverageClaim": false
+  },
+  "independentReview": "Parent to run after push; not a merge approval"
+}

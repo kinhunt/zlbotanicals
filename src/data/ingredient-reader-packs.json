@@ -89,7 +89,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "These are pilot-development proposals. Ingredient roles, addition order and acceptance tests must be qualified in the final product."
+              "text": "These pilot-development concepts set out ingredient roles, addition order and test points. Establish flavour and analytical targets in the intended product matrix."
             }
           ]
         },
@@ -281,7 +281,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "以下为中试开发方案。原料作用、加入顺序与验收测试需在终端产品中验证。"
+              "text": "以下中试开发方案列出原料作用、加入顺序与检测项目。风味和分析目标应在预定产品基底中确定。"
             }
           ]
         },
@@ -425,6 +425,19 @@
               "text": "同时测定冷藏浑浊、沉降、颜色和儿茶素保留，并评价酸味、苦味与涩感。使用实际生产水的矿物质条件，比较氧气和光照包装因素。EFSA讨论了pH和加工对儿茶素的影响；新鲜样透明不等于已证明货架期稳定。[25]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/green-tea/citrus-tea.webp",
+          "width": 554,
+          "height": 941,
+          "alt": {
+            "en": "Citrus green tea with tea leaves and citrus slices.",
+            "zh": "柑橘绿茶、茶叶与柑橘切片。"
+          },
+          "caption": {
+            "en": "Citrus green tea with tea leaves and citrus slices.",
+            "zh": "柑橘绿茶、茶叶与柑橘切片。"
+          }
         }
       },
       {
@@ -462,6 +475,19 @@
               "text": "检查砂感、沉淀再分散性、热处理后絮凝及储存风味。在真实蛋白质、盐和pH条件下设置同基底对照。EFSA评估讨论了茶多酚与蛋白质的相互作用，但具体燕麦基底中的表现仍需直接测定。[25]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/green-tea/oat-latte.webp",
+          "width": 556,
+          "height": 941,
+          "alt": {
+            "en": "Green tea oat latte with oats, tea powder and a whisk.",
+            "zh": "绿茶燕麦拿铁、燕麦、茶粉与茶筅。"
+          },
+          "caption": {
+            "en": "Green tea oat latte with oats, tea powder and a whisk.",
+            "zh": "绿茶燕麦拿铁、燕麦、茶粉与茶筅。"
+          }
         }
       },
       {
@@ -499,6 +525,19 @@
               "text": "测定溶解、泡沫和杯底沉淀时，固定水温、水量及搅拌方式。受潮储存后复测，并检查结块、香气损失和每包咖啡因／EGCG。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/green-tea/instant-tea.webp",
+          "width": 553,
+          "height": 941,
+          "alt": {
+            "en": "Instant tea stick packs with soluble powder and prepared tea.",
+            "zh": "速溶茶条包、可溶茶粉与冲调茶汤。"
+          },
+          "caption": {
+            "en": "Instant tea stick packs with soluble powder and prepared tea.",
+            "zh": "速溶茶条包、可溶茶粉与冲调茶汤。"
+          }
         }
       }
     ],
@@ -647,7 +686,7 @@
             },
             {
               "type": "paragraph",
-              "text": "For a dry powder, concentration and drying must retain the intended profile while producing manageable moisture and flow. Drying equipment is selected around this material requirement. An ultrasonic bath in a two-gram extraction experiment is an extraction aid, not evidence of a complete manufacturing line or a finished cream’s performance.[19]"
+              "text": "For a dry powder, concentration and drying must retain the intended profile while producing manageable moisture and flow. Drying equipment is selected around this material requirement. The cited two-gram study evaluates an ultrasonic extraction step; drying and finished-product manufacture require separate process development.[19]"
             }
           ]
         },
@@ -747,7 +786,7 @@
             },
             {
               "type": "paragraph",
-              "text": "护肤开发应围绕最终精华液或乳液选择提取物，而不是只看植物名称。水／多元醇原料是带有自身载体与防腐体系的预制溶液；富集干粉可能需要不同的溶剂或分散路线。传统食叶用途也不能证明精制化妆品原料适合加入饮料。[4]"
+              "text": "护肤开发应围绕最终精华液或乳液选择提取物，而不是只看植物名称。对于预制水／多元醇原料，应核对载体组成及已声明的防腐剂；富集干粉可能需要不同的溶剂或分散路线。传统食叶用途也不能证明精制化妆品原料适合加入饮料。[4]"
             }
           ]
         },
@@ -843,7 +882,7 @@
             },
             {
               "type": "paragraph",
-              "text": "干粉需在浓缩干燥中保留目标组成，同时形成可管理的水分与流动性；干燥设备围绕这些物料要求选择。两克实验中的超声浴属于提取辅助工具，不代表完整制造产线，也不证明面霜成品的表现。[19]"
+              "text": "干粉需在浓缩干燥中保留目标组成，同时形成可管理的水分与流动性；干燥设备围绕这些物料要求选择。所引两克级研究评价了超声提取步骤；干燥与终端产品制造需另行开发工艺。[19]"
             }
           ]
         },
@@ -969,6 +1008,19 @@
               "text": "检查冷藏结晶、延迟浑浊、拉丝和颜色漂移；在精华成品中测定四种三萜标志物，并分析沉淀。随后进行防腐挑战、包装相容性试验，以及针对具体舒适度或保湿宣称的人体使用评价。提取研究中的溶剂选择性说明，单看总提取物浓度不足以判断相容性。[19]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/centella-asiatica/hydrating-serum.webp",
+          "width": 508,
+          "height": 1024,
+          "alt": {
+            "en": "Centella serum with a clear gel sample and fresh leaves.",
+            "zh": "积雪草精华、透明凝胶样品与鲜叶。"
+          },
+          "caption": {
+            "en": "Centella serum with a clear gel sample and fresh leaves.",
+            "zh": "积雪草精华、透明凝胶样品与鲜叶。"
+          }
         }
       },
       {
@@ -1006,6 +1058,19 @@
               "text": "通过冷热循环和储存评价乳滴增长、分层、颗粒感及结晶。跟踪剪切后黏度恢复、四标志物回收、防腐效力和包装出料。设置不含积雪草的同基底对照，区分植物组分作用与霜基本身提供的保湿效果。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/centella-asiatica/lipid-cream.webp",
+          "width": 506,
+          "height": 1024,
+          "alt": {
+            "en": "Centella cream with oats and a rich white cream texture.",
+            "zh": "积雪草面霜、燕麦与丰润白色霜体。"
+          },
+          "caption": {
+            "en": "Centella cream with oats and a rich white cream texture.",
+            "zh": "积雪草面霜、燕麦与丰润白色霜体。"
+          }
         }
       },
       {
@@ -1018,7 +1083,7 @@
           "en": [
             {
               "type": "paragraph",
-              "text": "Combine a compatible broad Centella liquid extract with glycerol and a washable hydrocolloid gel base. A slightly botanical tint can be acceptable here, reducing the need to select a highly purified fraction merely for a colourless appearance. The gel supports spread and contact; it does not prove transdermal delivery."
+              "text": "Combine a compatible broad Centella liquid extract with glycerol and a washable hydrocolloid gel base. A slightly botanical tint can be acceptable here, reducing the need to select a highly purified fraction merely for a colourless appearance. Glycerol contributes humectancy, while the gel controls spread and contact during use."
             },
             {
               "type": "paragraph",
@@ -1043,6 +1108,19 @@
               "text": "检测铺展、水洗残留、黏感、析水和储存黏度，确认微生物防护与目标标志物回收，并按实际接触和冲洗流程评价皮肤耐受性。不能用小伤口药用证据支持在受损皮肤上的使用。[4]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/centella-asiatica/washable-gel.webp",
+          "width": 506,
+          "height": 1024,
+          "alt": {
+            "en": "Centella rinse-off gel mask with a gel applicator.",
+            "zh": "积雪草水洗凝胶面膜与凝胶取用工具。"
+          },
+          "caption": {
+            "en": "Centella rinse-off gel mask with a gel applicator.",
+            "zh": "积雪草水洗凝胶面膜与凝胶取用工具。"
+          }
         }
       }
     ],
@@ -1174,7 +1252,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "These are pilot-development proposals. Ingredient roles, addition order and acceptance tests must be qualified in the final product."
+              "text": "These pilot concepts separate sweetness replacement from the bulk and texture functions of sugar. Compare each finished product with a sucrose control at the same serving temperature."
             }
           ]
         },
@@ -1310,7 +1388,7 @@
             },
             {
               "type": "paragraph",
-              "text": "蔗糖饮料引起的早期血糖和胰岛素反应较大，但非营养性甜味剂组午餐后反应更高。四种处理的三小时血糖和胰岛素曲线下面积无显著差异；饮料中减少的能量在后续进食中得到补偿，全天能量摄入也无差异。该研究说明，减少一杯饮料中的糖与证明总体代谢获益是两回事；它不是糖尿病人群的长期试验。[22]"
+              "text": "蔗糖饮料引起的早期血糖和胰岛素反应较大，但非营养性甜味剂组午餐后反应更高。四种处理的三小时血糖和胰岛素曲线下面积无显著差异；饮料中减少的能量在后续进食中得到补偿，全天能量摄入也无差异。该急性研究测量了健康男性的反应，未评价长期结局或糖尿病人群。[22]"
             },
             {
               "type": "paragraph",
@@ -1375,7 +1453,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "以下为中试开发方案。原料作用、加入顺序与验收测试需在终端产品中验证。"
+              "text": "以下中试方案分别处理甜度替代与糖的填充、质构作用。各成品应与蔗糖对照在相同食用温度下比较。"
             }
           ]
         },
@@ -1523,6 +1601,19 @@
               "text": "与蔗糖比较起甜、峰值甜度及后味，并纳入酸感和碳酸刺激。按目标货架期检查浑浊、颜色、甜苷回收及风味。EFSA记录了原料与模型体系稳定性，同时指出申报资料未提供食品中分析方法；应在真实饮料中验证检测回收。[20]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/monk-fruit/citrus-sparkling.webp",
+          "width": 585,
+          "height": 887,
+          "alt": {
+            "en": "Sparkling citrus drink with monk fruit and citrus peel.",
+            "zh": "柑橘气泡饮、罗汉果与柑橘皮。"
+          },
+          "caption": {
+            "en": "Sparkling citrus drink with monk fruit and citrus peel.",
+            "zh": "柑橘气泡饮、罗汉果与柑橘皮。"
+          }
         }
       },
       {
@@ -1560,6 +1651,19 @@
               "text": "测定乳清析出、黏度、勺取质地、酸度与储存甜味。在冷藏食用温度下比较后味，并确认香草不是只在新鲜样中掩盖了难以接受的拖尾甜感。营养计算需包含乳糖、保留糖及全部填充成分。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/monk-fruit/cultured-dessert.webp",
+          "width": 590,
+          "height": 887,
+          "alt": {
+            "en": "Vanilla cultured dairy dessert with monk fruit.",
+            "zh": "香草发酵乳甜品与罗汉果。"
+          },
+          "caption": {
+            "en": "Vanilla cultured dairy dessert with monk fruit.",
+            "zh": "香草发酵乳甜品与罗汉果。"
+          }
         }
       },
       {
@@ -1597,6 +1701,19 @@
               "text": "与含糖对照比较摊展、厚度、断裂力、表面颜色、水分活度和储存酥脆度。甜度应在烘烤成品中评价，而不是生面团。用于填充的糖醇或纤维还需独立评价胃肠耐受、营养和市场使用要求，这些性质不能归到罗汉果本身。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/monk-fruit/oat-cookie.webp",
+          "width": 583,
+          "height": 887,
+          "alt": {
+            "en": "Oat cookies with monk fruit and sweetener powder.",
+            "zh": "燕麦饼干、罗汉果与甜味粉。"
+          },
+          "caption": {
+            "en": "Oat cookies with monk fruit and sweetener powder.",
+            "zh": "燕麦饼干、罗汉果与甜味粉。"
+          }
         }
       }
     ],
@@ -1685,7 +1802,7 @@
             },
             {
               "type": "paragraph",
-              "text": "The total numeric fatigue score did not improve significantly relative to placebo. Mental-fatigue scores improved in the ginseng groups, and the visual analogue fatigue score improved significantly only with the 2 g/day treatment. Reporting only the favourable measures would hide the mixed result. The short study does not establish treatment of chronic fatigue syndrome or an effect in healthy consumers.[19]"
+              "text": "The total numeric fatigue score did not improve significantly relative to placebo. Mental-fatigue scores improved in the ginseng groups, and the visual analogue fatigue score improved significantly only with the 2 g/day treatment. The short study does not establish treatment of chronic fatigue syndrome or an effect in healthy consumers.[19]"
             },
             {
               "type": "paragraph",
@@ -1771,7 +1888,7 @@
             },
             {
               "type": "paragraph",
-              "text": "For the first prototype, keep the ginseng source fixed and vary one support system at a time. Compare flavour, dispersibility and analytical recovery in the complete product, not only in the ingredient supplier’s water test. Set acceptance criteria before making the trial batches; the plans list what to measure, without inventing a passing specification."
+              "text": "For the first prototype, keep the ginseng source fixed and vary one support system at a time. Compare flavour, dispersibility and analytical recovery in the complete product, not only in the ingredient supplier’s water test. Set acceptance criteria before making the trial batches; the plans list the measurements needed."
             }
           ]
         },
@@ -1825,7 +1942,7 @@
             },
             {
               "type": "paragraph",
-              "text": "EMA does not recommend the monograph preparations for people under 18, or during pregnancy or breastfeeding, because adequate data are lacking. It reports gastrointestinal complaints, hypersensitivity reactions and insomnia, with frequencies unknown. These cautions should remain visible rather than being buried behind a general wellness description.[11]"
+              "text": "EMA does not recommend the monograph preparations for people under 18, or during pregnancy or breastfeeding, because adequate data are lacking. It reports gastrointestinal complaints, hypersensitivity reactions and insomnia, with frequencies unknown.[11]"
             },
             {
               "type": "paragraph",
@@ -1958,7 +2075,7 @@
             },
             {
               "type": "paragraph",
-              "text": "总疲劳数字评分相对安慰剂未达到统计学显著改善。人参组的精神疲劳评分有所改善，视觉模拟疲劳评分只有每日2克组达到显著改善。只摘取有利指标会掩盖结果的不一致。这项短期研究不能证明可治疗慢性疲劳综合征，也不能直接证明健康消费者会获得同样效果。[19]"
+              "text": "总疲劳数字评分相对安慰剂未达到统计学显著改善。人参组的精神疲劳评分有所改善，视觉模拟疲劳评分只有每日2克组达到显著改善。这项短期研究不能证明可治疗慢性疲劳综合征，也不能直接证明健康消费者会获得同样效果。[19]"
             },
             {
               "type": "paragraph",
@@ -2044,7 +2161,7 @@
             },
             {
               "type": "paragraph",
-              "text": "首轮打样固定人参来源，每次只调整一个辅助体系。应在完整成品中比较风味、分散表现和分析回收，而不是只看供应商的清水溶解试验。打样前预先制定接受标准；下列方案说明测什么，不虚构合格限值。"
+              "text": "首轮打样固定人参来源，每次只调整一个辅助体系。应在完整成品中比较风味、分散表现和分析回收，而不是只看供应商的清水溶解试验。打样前预先制定接受标准；下列方案列出需要测定的项目。"
             }
           ]
         },
@@ -2098,7 +2215,7 @@
             },
             {
               "type": "paragraph",
-              "text": "EMA因缺乏充分数据，不建议18岁以下人群、孕期及哺乳期使用专论所列制剂。已报告胃肠道不适、超敏反应与失眠，发生频率不明。这些注意事项应清楚呈现，不能藏在泛泛的健康描述后面。[11]"
+              "text": "EMA因缺乏充分数据，不建议18岁以下人群、孕期及哺乳期使用专论所列制剂。已报告胃肠道不适、超敏反应与失眠，发生频率不明。[11]"
             },
             {
               "type": "paragraph",
@@ -2227,6 +2344,19 @@
               "text": "以相同人参基液、不加辅助体系的样品作为对照，比较苦味和后味；同时跟踪加工及贮存后的浑浊、沉淀、颜色和标志物回收。酸热对皂苷的作用值得检查，但实验室转化研究没有提供可直接套用的饮料pH或货架期目标。[21]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/ginseng/citrus-drink.webp",
+          "width": 506,
+          "height": 1024,
+          "alt": {
+            "en": "Ginseng citrus drink with a root and citrus peel.",
+            "zh": "人参柑橘饮料、人参根与柑橘皮。"
+          },
+          "caption": {
+            "en": "Ginseng citrus drink with a root and citrus peel.",
+            "zh": "人参柑橘饮料、人参根与柑橘皮。"
+          }
         }
       },
       {
@@ -2264,6 +2394,19 @@
               "text": "分别测试目标热水冲调和较冷水的偏离使用条件，记录浮粉、结团、沉淀与口感。贮存中跟踪结块、吸湿、装量一致性和标志物回收。每份人参量应通过安全与法规评估确定，不能照抄试验提取物质量。[19]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/ginseng/instant-sachet.webp",
+          "width": 504,
+          "height": 1024,
+          "alt": {
+            "en": "Ginseng ginger instant sachets with powder and prepared infusion.",
+            "zh": "人参姜味冲调条包、粉体与冲调饮品。"
+          },
+          "caption": {
+            "en": "Ginseng ginger instant sachets with powder and prepared infusion.",
+            "zh": "人参姜味冲调条包、粉体与冲调饮品。"
+          }
         }
       },
       {
@@ -2301,6 +2444,19 @@
               "text": "结合拟定包装评价囊壳与内容物的水分相容性、流动性、装量变化、崩解与标志物回收。按实际补充剂销售法域制定组分及成品规范。疲劳论文中的试验剂量仅对应其自身提取物，不对应本胶囊构想。[12][19]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/ginseng/capsule.webp",
+          "width": 506,
+          "height": 1024,
+          "alt": {
+            "en": "Ginseng hard capsules beside a plain container and root.",
+            "zh": "人参硬胶囊、素面容器与人参根。"
+          },
+          "caption": {
+            "en": "Ginseng hard capsules beside a plain container and root.",
+            "zh": "人参硬胶囊、素面容器与人参根。"
+          }
         }
       }
     ],
@@ -2669,7 +2825,7 @@
             },
             {
               "type": "paragraph",
-              "text": "The paper’s methods list 0.1% and 0.2% w/v, whereas Table 1 identifies 1% and 2% treatments. We have not resolved this tenfold discrepancy. The useful development lesson is to compare powder versus extract, acidification, syneresis and viable counts; do not reproduce a dose from this paper until the authors or corrected publication resolves the conflict. No factory validation or commercial sales case was verified.[31]"
+              "text": "The methods assign 0.1% to powder and 0.2% to extract, respectively, while Table 1 lists 1% and 2% for both. The treatment levels remain unresolved; obtain author clarification before replication. This laboratory application compares powder versus extract, acidification, syneresis and viable counts.[31]"
             }
           ]
         },
@@ -3009,7 +3165,7 @@
             },
             {
               "type": "paragraph",
-              "text": "论文方法标0.1%与0.2% w/v，表1却将处理组写成1%与2%，这一十倍差异尚未解决。可借鉴的是粉体／提取物比较、酸化、析乳清与菌数测定；作者或更正稿澄清前，不应照搬添加量。此次未核实工厂验证或商业销售案例。[31]"
+              "text": "方法部分将菌粉和提取物添加量分别写为0.1%与0.2%，表1却为两种材料均列1%和2%。处理水平尚不明确，复现前需向作者核实。该实验室应用比较了粉体与提取物、酸化、析乳清及活菌数。[31]"
             }
           ]
         },
@@ -3089,6 +3245,19 @@
               "text": "建议质量关口：记录润湿时间、干芯团块、规定静置后的沉淀、苦味与结块；取混合物上中下样，并比较整杯重分散样与上清。先做基质空白与回收率，不能将测得β葡聚糖全部归于灵芝；燕麦与菌源糖类不能简单等同。可可饮品不是助眠治疗，灵芝补充剂反而有失眠不良反应报告。[23][33]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/reishi-mushroom/cocoa-oat.webp",
+          "width": 508,
+          "height": 1024,
+          "alt": {
+            "en": "Cocoa-oat reishi drink with a powder sachet and oats.",
+            "zh": "可可燕麦灵芝饮品、冲调粉袋与燕麦。"
+          },
+          "caption": {
+            "en": "Cocoa-oat reishi drink with a powder sachet and oats.",
+            "zh": "可可燕麦灵芝饮品、冲调粉袋与燕麦。"
+          }
         }
       },
       {
@@ -3126,6 +3295,19 @@
               "text": "建议质量关口：跟踪酸化曲线、目标冷藏货架期内的菌株活菌数、析乳清、黏度、砂感与风味；设置纯乳和仅加菌种的对照，按明示固形物基准比较提取物与菌粉。不要照搬论文添加量：方法写0.1%／0.2%，表1却标1%／2%，复现实验前需向作者核实。其20名训练评委也不是大规模消费者试验。[31]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/reishi-mushroom/cultured-yogurt.webp",
+          "width": 509,
+          "height": 1024,
+          "alt": {
+            "en": "Reishi cultured yogurt with a spoonful of smooth yogurt.",
+            "zh": "灵芝发酵酸奶与一勺细腻酸奶。"
+          },
+          "caption": {
+            "en": "Reishi cultured yogurt with a spoonful of smooth yogurt.",
+            "zh": "灵芝发酵酸奶与一勺细腻酸奶。"
+          }
         }
       },
       {
@@ -3163,6 +3345,19 @@
               "text": "建议质量关口：测单粒装量、混合物及成品标志物均匀性、崩解、微生物限度与实际包装的水分变化；用经基质验证的方法测葡聚糖，声明三萜时另测其标志物。来源不明提取物即使装量合格也应拒收。标签审查要处理抗凝药相关出血风险及免疫抑制剂使用问题；装量准确不代表对这些人群安全。[12][33]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/reishi-mushroom/defined-capsule.webp",
+          "width": 508,
+          "height": 1024,
+          "alt": {
+            "en": "Reishi extract capsules with tan powder and a sample vial.",
+            "zh": "灵芝提取物胶囊、棕褐色粉体与样品瓶。"
+          },
+          "caption": {
+            "en": "Reishi extract capsules with tan powder and a sample vial.",
+            "zh": "灵芝提取物胶囊、棕褐色粉体与样品瓶。"
+          }
         }
       }
     ],
@@ -3275,7 +3470,7 @@
             },
             {
               "type": "paragraph",
-              "text": "EMA accepts well-established medicinal use for the specified preparation and indication, whereas NCCIH’s February 2025 synthesis says dementia symptom benefit may be modest but evidence is inconsistent, and healthy-person cognitive benefit is uncertain.[1][10][13] The assessments should both remain visible: a national medicinal authorization framework, a broad evidence summary and a negative prevention trial answer different questions.[1][10][13]"
+              "text": "EMA accepts well-established medicinal use for the specified preparation and indication, whereas NCCIH’s February 2025 synthesis says dementia symptom benefit may be modest but evidence is inconsistent, and healthy-person cognitive benefit is uncertain.[1][10][13] The negative prevention trial does not answer the same question as treatment of existing symptoms.[1][10][13]"
             },
             {
               "type": "paragraph",
@@ -3459,7 +3654,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "For the specific dry extract, EMA lists pregnancy as a contraindication, does not recommend use during lactation, and warns about bleeding tendency, anticoagulants and antiplatelet medicines.[13] It advises discontinuation 3–4 days before surgery as a precaution and notes that further seizures in people with epilepsy cannot be excluded.[13] Individual medication and surgical decisions require the treating clinician; a product page is not a prescribing service.[13]"
+              "text": "For the specific dry extract, EMA lists pregnancy as a contraindication, does not recommend use during lactation, and warns about bleeding tendency, anticoagulants and antiplatelet medicines.[13] It advises discontinuation 3–4 days before surgery as a precaution and notes that further seizures in people with epilepsy cannot be excluded.[13] Individual medication and surgical decisions require the treating clinician.[13]"
             },
             {
               "type": "paragraph",
@@ -3599,7 +3794,7 @@
             },
             {
               "type": "paragraph",
-              "text": "EMA认可特定制剂与适应证的已有充分使用依据药用类别，而NCCIH在2025年2月综述中指出，痴呆症状获益可能较小且证据不一致，健康人群认知获益尚不明确。[1][10][13] 应同时保留这些判断：国家药品许可框架、广泛证据综述和预防发病阴性试验回答的不是同一问题。[1][10][13]"
+              "text": "EMA认可特定制剂与适应证的已有充分使用依据药用类别，而NCCIH在2025年2月综述中指出，痴呆症状获益可能较小且证据不一致，健康人群认知获益尚不明确。[1][10][13] 预防发病的阴性试验与既有症状的治疗评价回答不同问题。[1][10][13]"
             },
             {
               "type": "paragraph",
@@ -3789,7 +3984,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "针对该特定干提取物，EMA将妊娠列为禁忌，不建议哺乳期使用，并对出血倾向、抗凝药和抗血小板药合用提出警示。[13] 专论建议术前3–4天停用作为预防措施，并指出不能排除癫痫患者再次发作的可能。[13] 个人用药和手术安排应由治疗医生决定，产品网页不能代替处方服务。[13]"
+              "text": "针对该特定干提取物，EMA将妊娠列为禁忌，不建议哺乳期使用，并对出血倾向、抗凝药和抗血小板药合用提出警示。[13] 专论建议术前3–4天停用作为预防措施，并指出不能排除癫痫患者再次发作的可能。[13] 个人用药和手术安排应由治疗医生决定。[13]"
             },
             {
               "type": "paragraph",
@@ -3937,6 +4132,19 @@
               "text": "先测振实密度再选胶囊规格；对灌装初、中、末段同时测两个标志物组，不能只称重。比较崩解、标志物释放、吸湿与稳定性；若分层或过度润滑导致释放改变则退回优化。仅使用目标类别允许的辅料。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/ginkgo-biloba/capsule.webp",
+          "width": 509,
+          "height": 1024,
+          "alt": {
+            "en": "Ginkgo extract hard capsules with a plain container and leaf.",
+            "zh": "银杏提取物硬胶囊、素面容器与银杏叶。"
+          },
+          "caption": {
+            "en": "Ginkgo extract hard capsules with a plain container and leaf.",
+            "zh": "银杏提取物硬胶囊、素面容器与银杏叶。"
+          }
         }
       },
       {
@@ -3974,6 +4182,19 @@
               "text": "在不同压力下检测抗张强度、脆碎度、崩解及黄酮和萜内酯释放；记录包衣过程暴露、杂质谱与包装后稳定性。若机械强度改善却损害释放，应停止并调整；硬度不是唯一终点。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/ginkgo-biloba/tablet.webp",
+          "width": 509,
+          "height": 1024,
+          "alt": {
+            "en": "Ginkgo coated tablets with blister packaging.",
+            "zh": "银杏包衣片与泡罩包装。"
+          },
+          "caption": {
+            "en": "Ginkgo coated tablets with blister packaging.",
+            "zh": "银杏包衣片与泡罩包装。"
+          }
         }
       },
       {
@@ -4011,6 +4232,19 @@
               "text": "EFSA申请人的提取物仅部分溶解，因此必须区分混悬液与澄清溶液。[4] 检测沉降、再分散、黏度、实际摇匀后给药均匀性、冷藏及受热后标志物回收、容器吸附；多剂量产品还应开展微生物挑战试验。不能不检查标志物损失就通过过滤追求澄清。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/ginkgo-biloba/suspension.webp",
+          "width": 509,
+          "height": 1024,
+          "alt": {
+            "en": "Ginkgo oral suspension bottle with a small dosing cup.",
+            "zh": "银杏口服混悬液瓶与小量杯。"
+          },
+          "caption": {
+            "en": "Ginkgo oral suspension bottle with a small dosing cup.",
+            "zh": "银杏口服混悬液瓶与小量杯。"
+          }
         }
       }
     ],
@@ -4166,7 +4400,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "These are pilot-development proposals. Ingredient roles, addition order and acceptance tests must be qualified in the final product."
+              "text": "These are pilot-development plans. Set ingredient levels and acceptance criteria for the selected market, then verify compatibility, safety and stability in the finished product."
             }
           ]
         },
@@ -4393,7 +4627,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "以下为中试开发方案。原料作用、加入顺序与验收测试需在终端产品中验证。"
+              "text": "以下为小试开发方案。按目标市场确定添加量和验收标准，再验证成品的相容性、安全性与稳定性。"
             }
           ]
         },
@@ -4591,6 +4825,19 @@
               "text": "在配制后、加工后，以及目标储存条件和加速条件下，比较涩感、颜色、浊度和沉淀。检测饮品中标志成分的回收率，不能只检测原粉。需要澄清时，应对过滤前后取样测定，排查目标多酚随过滤被去除的情况。当天清澈不能证明长期稳定。蛋白、钙或铁的加入应另设相容性试验，未测试不承诺相容；饮品的微生物控制不能由抗氧化测定代替。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/grape-seed/berry-drink.webp",
+          "width": 508,
+          "height": 1024,
+          "alt": {
+            "en": "Berry-flavoured grape seed drink with berries, seeds and extract powder.",
+            "zh": "莓果风味葡萄籽饮品、莓果、葡萄籽与提取粉。"
+          },
+          "caption": {
+            "en": "Berry-flavoured grape seed drink with berries, seeds and extract powder.",
+            "zh": "莓果风味葡萄籽饮品、莓果、葡萄籽与提取粉。"
+          }
         }
       },
       {
@@ -4628,6 +4875,19 @@
               "text": "同时设定装量和标志成分均匀度要求；胶囊等重不代表多酚剂量一致。储存后检查水分、粉体流动性、分层和囊壳完整性，并评价崩解及有依据的标志成分溶出或释放方法。原始质量研究以没食子酸、儿茶素、原花青素B2和表儿茶素作为葡萄籽胶囊标志物，采用UHPLC-QQQ/MS定量；这可作为方法开发起点，但不能直接视为另一款产品已经完成的方法验证。[11]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/grape-seed/capsule.webp",
+          "width": 509,
+          "height": 1024,
+          "alt": {
+            "en": "Grape seed extract capsules with brown powder and seeds.",
+            "zh": "葡萄籽提取物胶囊、棕色粉体与葡萄籽。"
+          },
+          "caption": {
+            "en": "Grape seed extract capsules with brown powder and seeds.",
+            "zh": "葡萄籽提取物胶囊、棕色粉体与葡萄籽。"
+          }
         }
       },
       {
@@ -4665,6 +4925,19 @@
               "text": "在冷热循环及拟用包装的储存试验中，跟踪颜色、气味、pH、黏度、可见颗粒和标志成分保留率；包装选择涉及光照时，应设置明暗对照。对最终防腐配方进行挑战试验，在消费者测试前评价刺激性和暴露。皮肤功效宣称需要成品证据；化学抗氧化结果和口服临床试验都不能证明皮肤渗透、美白、胶原保护或防晒性能。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/grape-seed/serum.webp",
+          "width": 510,
+          "height": 1024,
+          "alt": {
+            "en": "Grape seed gel serum in a pump bottle with a translucent gel sample.",
+            "zh": "葡萄籽凝胶精华泵瓶与半透明凝胶样品。"
+          },
+          "caption": {
+            "en": "Grape seed gel serum in a pump bottle with a translucent gel sample.",
+            "zh": "葡萄籽凝胶精华泵瓶与半透明凝胶样品。"
+          }
         }
       }
     ],
@@ -4806,7 +5079,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "These are pilot-development proposals. Ingredient roles, addition order and acceptance tests must be qualified in the final product."
+              "text": "These are bench-development plans. Set ratios, pH, processing conditions and shelf life through testing of the specified ingredient and finished product."
             }
           ]
         },
@@ -5009,7 +5282,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Evidence limitations: the DGL paper was available as abstract and excerpts, not a complete dynamic-column method. Glabridin coverage uses a recovered full review and a 2025 original study; secondary-reported yields are not independently audited batch records. No supplier facilities, capacity, specification or health benefit is inferred."
+              "text": "Evidence limitations: the DGL paper was available as abstract and excerpts, not a complete dynamic-column method. Glabridin coverage uses a full review and a 2025 original study; secondary-reported yields are not independently audited batch records. No supplier facilities, capacity, specification or health benefit is inferred."
             }
           ],
           "legacy": true
@@ -5129,7 +5402,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "以下为中试开发方案。原料作用、加入顺序与验收测试需在终端产品中验证。"
+              "text": "以下为小试开发方案。针对所选原料和成品，通过试验确定配比、pH、加工条件与保质期。"
             }
           ]
         },
@@ -5184,7 +5457,7 @@
             },
             {
               "type": "paragraph",
-              "text": "光甘草定纯化中，“倍数增加”和“总回收”必须一起看。该综述转述 HPD100 树脂研究的富集倍数约150倍、回收约80%，提示高倍富集仍伴随目标物损失；分子印迹聚合物研究的回收仅42%—56%，洗涤段也发现光甘草定。[1] 这些数值来自综述所汇集的实验，当前不是独立复核的吨级运行结果，也不能据此选定本公司的树脂。采购若只问成品纯度，会漏掉影响真实成本的每批目标物损失。"
+              "text": "光甘草定纯化中，“倍数增加”和“总回收”必须一起看。该综述转述 HPD100 树脂研究的富集倍数约150倍、回收约80%，提示高倍富集仍伴随目标物损失；分子印迹聚合物研究的回收仅42%—56%，洗涤段也发现光甘草定。[1] 这些数值来自综述所汇集的实验，当前不是独立复核的吨级运行结果，树脂选型仍需中试验证。采购若只问成品纯度，会漏掉影响真实成本的每批目标物损失。"
             },
             {
               "type": "table",
@@ -5237,7 +5510,7 @@
             },
             {
               "type": "paragraph",
-              "text": "工程建议：采用带粒径进料控制的搅拌提取罐、监测压差的过滤单元及可分段取样的吸附柱系统，不按提取比指定设备。真空蒸发与溶剂回收配套；标准化大宗粉体可评估喷雾干燥，热敏馏分可评估真空干燥。中试应确认出口／物料温度、停留时间、水分、标志物保持率、粉体收率和粘壁损失。使用易燃溶剂时应配置密闭物料系统、相应通风及防爆措施；不能假定膜澄清会选择性去除甘草酸。"
+              "text": "工程建议：采用带粒径进料控制的搅拌提取罐、监测压差的过滤单元及可分段取样的吸附柱系统，不按提取比指定设备。真空蒸发与溶剂回收配套；标准化大宗粉体可评估喷雾干燥，热敏组分可评估真空干燥。中试应确认出口／物料温度、停留时间、水分、标志物保持率、粉体收率和粘壁损失。使用易燃溶剂时应配置密闭物料系统、相应通风及防爆措施；不能假定膜澄清会选择性去除甘草酸。"
             }
           ]
         },
@@ -5357,11 +5630,11 @@
             },
             {
               "type": "paragraph",
-              "text": "权利要求1：以水提后水不溶性甘草根药渣为起点，在pH低于10条件下碱提，再酸化至约pH 2—6并分离，将酸不溶残渣于约pH 8至低于10条件重新碱溶，回收基本不含甘草酸的酸溶与碱溶馏分。[9]权利要求1还限定所得组分不具甘草特征风味。[9]"
+              "text": "权利要求1：以水提后水不溶性甘草根药渣为起点，在pH低于10条件下碱提，再酸化至约pH 2—6并分离，将酸不溶残渣于约pH 8至低于10条件重新碱溶，回收基本不含甘草酸的酸溶与碱溶组分。[9]权利要求1还限定所得组分不具甘草特征风味。[9]"
             },
             {
               "type": "paragraph",
-              "text": "与风味馏分和副产物利用有关的分级工艺发明，并非临床DGL规格。[9]"
+              "text": "与风味组分和副产物利用有关的分级工艺发明，并非临床DGL规格。[9]"
             },
             {
               "type": "heading",
@@ -5443,13 +5716,26 @@
               "text": "按每日最大食用份量计算甘草酸残留暴露，并合计其他甘草配料；不能以辅料稀释后的低含量代替选择性脱除证明。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/licorice-root/dgl-chewable.webp",
+          "width": 508,
+          "height": 1024,
+          "alt": {
+            "en": "DGL chewable tablets with root pieces and blister packaging.",
+            "zh": "DGL咀嚼片、甘草根段与泡罩包装。"
+          },
+          "caption": {
+            "en": "DGL chewable tablets with root pieces and blister packaging.",
+            "zh": "DGL咀嚼片、甘草根段与泡罩包装。"
+          }
         }
       },
       {
         "id": "glabridin-emulsion",
         "title": {
           "en": "Glabridin + glycerin + emollient oil-in-water lotion",
-          "zh": "光甘草定＋甘油＋润肤油水包油乳液"
+          "zh": "光甘草定、甘油与润肤油的水包油乳液"
         },
         "content": {
           "en": [
@@ -5504,6 +5790,19 @@
               "text": "进行防腐挑战、包装相容及成品皮肤耐受试验，不能从申请公开文件中的酶实验推定防晒保护或已证实的抗皱功效。[10]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/licorice-root/glabridin-emulsion.webp",
+          "width": 512,
+          "height": 1024,
+          "alt": {
+            "en": "Glabridin lotion with a white lotion sample and licorice root.",
+            "zh": "光甘草定乳液、白色乳液样品与甘草根。"
+          },
+          "caption": {
+            "en": "Glabridin lotion with a white lotion sample and licorice root.",
+            "zh": "光甘草定乳液、白色乳液样品与甘草根。"
+          }
         }
       },
       {
@@ -5520,7 +5819,7 @@
             },
             {
               "type": "paragraph",
-              "text": "A stabilizer is proposed to suspend cocoa, not to remove glycyrrhizin. Historical patent examples include cocoa and vanilla with a particular deglycyrrhizinated fraction; that fraction is not interchangeable with the conventional extract proposed here.[9]"
+              "text": "A stabilizer is proposed to suspend cocoa, not to remove glycyrrhizin. The historical patent combines cocoa and vanilla with essentially glycyrrhizin-free fractions that lack licorice’s characteristic flavor. Those fractions are distinct from the conventional extract used here for a licorice note.[9]"
             },
             {
               "type": "paragraph",
@@ -5537,10 +5836,6 @@
             {
               "type": "paragraph",
               "text": "If a DGL flavor fraction is substituted, rework the sensory target rather than increasing dose to recover missing sweetness. Verify the destination-market permission for the actual extract and food category before commercialization."
-            },
-            {
-              "type": "paragraph",
-              "text": "The historical patent combines cocoa and vanilla with essentially glycyrrhizin-free fractions that lack licorice’s characteristic flavor. Those fractions are distinct from the conventional extract used here for a licorice note.[9]"
             }
           ],
           "zh": [
@@ -5550,7 +5845,7 @@
             },
             {
               "type": "paragraph",
-              "text": "建议稳定剂承担可可悬浮功能，并不能脱除甘草酸。历史专利实例有可可、香草与特定脱甘草酸馏分的组合，但该馏分与本方案的常规提取物不能互换。[9]"
+              "text": "建议稳定剂承担可可悬浮功能，并不能脱除甘草酸。历史专利将可可、香草与基本不含甘草酸、且不具甘草特征风味的组分配合使用。该组分不同于本方案用于提供甘草风味的常规提取物。[9]"
             },
             {
               "type": "paragraph",
@@ -5566,13 +5861,22 @@
             },
             {
               "type": "paragraph",
-              "text": "若替换为DGL风味馏分，应重新调整感官目标，而非增加投量追补失去的甜味。商业化前核查实际提取物在目标市场及食品类别中的使用许可。"
-            },
-            {
-              "type": "paragraph",
-              "text": "历史专利将可可、香草与基本不含甘草酸、且不具甘草特征风味的组分配合使用。该组分不同于本方案用于提供甘草风味的常规提取物。[9]"
+              "text": "若替换为DGL风味组分，应重新调整感官目标，而非增加投量追补失去的甜味。商业化前核查实际提取物在目标市场及食品类别中的使用许可。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/licorice-root/flavor-concentrate.webp",
+          "width": 510,
+          "height": 1024,
+          "alt": {
+            "en": "Licorice cocoa vanilla concentrate with a thick chocolate-coloured texture.",
+            "zh": "甘草可可香草浓缩基料与浓稠巧克力色质地。"
+          },
+          "caption": {
+            "en": "Licorice cocoa vanilla concentrate with a thick chocolate-coloured texture.",
+            "zh": "甘草可可香草浓缩基料与浓稠巧克力色质地。"
+          }
         }
       }
     ],
@@ -6143,6 +6447,19 @@
               "text": "设置蔗糖对照、未补糖苷的减糖对照，以及达到等甜度的两种糖苷谱候选。固定酸体系和香精，记录甜味时间强度、苦／金属／甘草样后味，以及既定热处理和冷藏／常温储存后的pH、浑浊、沉淀及糖苷谱。母液与稀释后饮料都要检查析出。按事先参照对照样设定的感官和物性限值判断；这些测试不能代替微生物货架期验证。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/stevia/citrus-beverage.webp",
+          "width": 507,
+          "height": 1024,
+          "alt": {
+            "en": "Stevia citrus drink with citrus slices and green leaves.",
+            "zh": "甜菊柑橘饮料、柑橘切片与绿叶。"
+          },
+          "caption": {
+            "en": "Stevia citrus drink with citrus slices and green leaves.",
+            "zh": "甜菊柑橘饮料、柑橘切片与绿叶。"
+          }
         }
       },
       {
@@ -6180,6 +6497,19 @@
               "text": "首轮固定蛋白来源、矿物盐负荷、pH与热历史。检查热处理及储存后的蛋白沉淀、乳脂上浮、黏度、粒径和甜味。用无甜基底与蔗糖参照区分蛋白本底苦味及糖苷后味。加量同时增加甜味与苦味，并不就是改善。依据书面产品目标确认沉淀、黏度漂移及感官代价可接受；不能由室温手工混合推断UHT稳定性或货架期。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/stevia/protein-drink.webp",
+          "width": 507,
+          "height": 1024,
+          "alt": {
+            "en": "Stevia vanilla protein drink with protein powder and vanilla pods.",
+            "zh": "甜菊香草蛋白饮料、蛋白粉与香草荚。"
+          },
+          "caption": {
+            "en": "Stevia vanilla protein drink with protein powder and vanilla pods.",
+            "zh": "甜菊香草蛋白饮料、蛋白粉与香草荚。"
+          }
         }
       },
       {
@@ -6217,6 +6547,19 @@
               "text": "比较粒径、密度、吸湿、流动性及振动后的分层。除平均装量外还要测每袋糖苷量；袋重一致也可能甜度不均。分别在热茶与冷水中测试溶解和凉感，再评起甜及余甜。声明完整配料，并评估载体耐受性及目标市场使用条件。不能把小袋称为纯甜菊糖苷，也不能从专利配方推断当前阿洛酮糖准入。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/stevia/tabletop-sachet.webp",
+          "width": 506,
+          "height": 1024,
+          "alt": {
+            "en": "Tabletop sweetener sachets with white granules and a teaspoon.",
+            "zh": "桌面甜味剂小袋、白色颗粒与茶匙。"
+          },
+          "caption": {
+            "en": "Tabletop sweetener sachets with white granules and a teaspoon.",
+            "zh": "桌面甜味剂小袋、白色颗粒与茶匙。"
+          }
         }
       }
     ],
@@ -6601,7 +6944,7 @@
             },
             {
               "type": "paragraph",
-              "text": "PCT application publication A1. Original applicant/assignee: Pharmascience Inc.; US-only inventor/applicants Pascale Clément and Mikaela Teris. Priority / filing / publication: 2008-04-25 / 2009-04-24 / 2009-10-29.[7]"
+              "text": "PCT application publication A1. Applicants for designated states except the US: Pharmascience Inc.; US-only inventor/applicants Pascale Clément and Mikaela Teris. Priority / filing / publication: 2008-04-25 / 2009-04-24 / 2009-10-29.[7]"
             },
             {
               "type": "paragraph",
@@ -6617,7 +6960,7 @@
             },
             {
               "type": "paragraph",
-              "text": "PCT application publication A1. Original applicant/assignee: União Brasileira de Educacao e Assistencia-Mantenedora da PUCRS; Eurofarma Laboratórios Ltda.; US-only inventor/applicant André Arigony Souto. Priority / filing / publication: 2007-07-23 / 2008-07-23 / 2009-01-29.[8]"
+              "text": "PCT application publication A1. Applicants for designated states except the US: União Brasileira de Educacao e Assistencia-Mantenedora da PUCRS; Eurofarma Laboratórios Ltda.; US-only inventor/applicant André Arigony Souto. Priority / filing / publication: 2007-07-23 / 2008-07-23 / 2009-01-29.[8]"
             },
             {
               "type": "paragraph",
@@ -6719,7 +7062,7 @@
             },
             {
               "type": "paragraph",
-              "text": "这些是应用实验方案，不是已做完的本公司配方。对于载体包埋，必须将“负载率”“包封率”“每份trans投料量”“可检出的游离trans”分开定义；否则两个都写“10%”的规格可能一个指质量分数，另一个指包封效率。供应商应提供测法与物料组成，品牌则应以成品证据决定任何功能叙述。配方中增加抗氧化辅助物或避光包装也不自动免除稳定性检测，因为目标物可能发生异构化或其他降解。[4]"
+              "text": "这些是建议开展的开发试验，尚未验证为生产配方。对于载体包埋，必须将“负载率”“包封率”“每份trans投料量”“可检出的游离trans”分开定义；否则两个都写“10%”的规格可能一个指质量分数，另一个指包封效率。供应商应提供测法与物料组成，品牌则应以成品证据决定任何功能叙述。配方中增加抗氧化辅助物或避光包装也不自动免除稳定性检测，因为目标物可能发生异构化或其他降解。[4]"
             },
             {
               "type": "paragraph",
@@ -6867,7 +7210,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "QA的真实案例比空泛“符合标准”更有用。EFSA合成来源意见表2中三批汞结果以≤1.0 mg/kg报告，而对应规格为≤0.1 mg/kg，意见明确指出批检结果不能满足该规格。[3] 这不应被改写为“已经测得每批汞都实际超标1 mg/kg”：报告值的粒度不足以证明符合较低限量，是否真实超标需更低定量限方法复测。可直接落实为供应商验收规则：实验室方法/报告限应足以判断规格，不能拿一个高于规格的“未超过”数字作合格证明。"
+              "text": "汞检测报告限与规格不匹配。EFSA合成来源意见表2中三批汞结果以≤1.0 mg/kg报告，而对应规格为≤0.1 mg/kg，意见明确指出批检结果不能满足该规格。[3] 这不应被改写为“已经测得每批汞都实际超标1 mg/kg”：报告值的粒度不足以证明符合较低限量，是否真实超标需更低定量限方法复测。可直接落实为供应商验收规则：实验室方法/报告限应足以判断规格，不能拿一个高于规格的“未超过”数字作合格证明。"
             },
             {
               "type": "paragraph",
@@ -6956,7 +7299,7 @@
             },
             {
               "type": "paragraph",
-              "text": "PCT application publication A1. 原始申请人／受让人: Pharmascience Inc.; US-only inventor/applicants Pascale Clément and Mikaela Teris. 优先权日／申请日／公开日: 2008-04-25 / 2009-04-24 / 2009-10-29.[7]"
+              "text": "PCT国际申请公开文本（A1）。除美国外各指定国的申请人： Pharmascience Inc.; 仅对美国指定的发明人兼申请人 Pascale Clément and Mikaela Teris. 优先权日／申请日／公开日: 2008-04-25 / 2009-04-24 / 2009-10-29.[7]"
             },
             {
               "type": "paragraph",
@@ -6972,7 +7315,7 @@
             },
             {
               "type": "paragraph",
-              "text": "PCT application publication A1. 原始申请人／受让人: União Brasileira de Educacao e Assistencia-Mantenedora da PUCRS; Eurofarma Laboratórios Ltda.; US-only inventor/applicant André Arigony Souto. 优先权日／申请日／公开日: 2007-07-23 / 2008-07-23 / 2009-01-29.[8]"
+              "text": "PCT国际申请公开文本（A1）。除美国外各指定国的申请人： União Brasileira de Educacao e Assistencia-Mantenedora da PUCRS; Eurofarma Laboratórios Ltda.; 仅对美国指定的发明人兼申请人 André Arigony Souto. 优先权日／申请日／公开日: 2007-07-23 / 2008-07-23 / 2009-01-29.[8]"
             },
             {
               "type": "paragraph",
@@ -7022,6 +7365,19 @@
               "text": "比较不同粒度的分层、混合均匀度、装量及trans专属方法测得的溶出；检查壳体水分迁移与储存辅料相容性。不能仅凭原料含量放行；固体补充剂剂型出现在特定EFSA资料中，不代表本建议配方已获准。[3][4]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/resveratrol/capsule.webp",
+          "width": 506,
+          "height": 1024,
+          "alt": {
+            "en": "Resveratrol dry capsules with an amber container and white powder.",
+            "zh": "白藜芦醇干粉胶囊、棕色容器与白色粉体。"
+          },
+          "caption": {
+            "en": "Resveratrol dry capsules with an amber container and white powder.",
+            "zh": "白藜芦醇干粉胶囊、棕色容器与白色粉体。"
+          }
         }
       },
       {
@@ -7042,7 +7398,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Check crystal formation after dilution/cooling, microscopy, droplet growth, phase separation, preservative efficacy and final-formula skin tolerability. Compare carrier blank and unformulated control; screen packaging and trans retention. Do not assume extra solvent or emulsifier improves tolerability. Review relevant claims before commercialization.[4][7]"
+              "text": "Check crystal formation after dilution/cooling, microscopy, droplet growth, phase separation, preservative efficacy and final-formula skin tolerability. Compare carrier blank and unformulated control; screen packaging and trans retention. Do not assume extra solvent or emulsifier improves tolerability. Review relevant claims before commercialization.[4][7] Unformulated controls are analytical/physical controls, not automatically suitable for human skin application."
             }
           ],
           "zh": [
@@ -7056,9 +7412,22 @@
             },
             {
               "type": "paragraph",
-              "text": "检查稀释/冷却析晶、显微形态、液滴长大、分层、防腐有效性及成品皮肤耐受性；设置载体空白与未配制对照，比较包装及trans保持率。不能假设增加溶剂或乳化剂必然提高耐受性；商业化前须审查相关权利要求。[4][7]"
+              "text": "检查稀释/冷却析晶、显微形态、液滴长大、分层、防腐有效性及成品皮肤耐受性；设置载体空白与未配制对照，比较包装及trans保持率。不能假设增加溶剂或乳化剂必然提高耐受性；商业化前须审查相关权利要求。[4][7]未配制对照仅用于分析和物理比较，并非可直接用于人体皮肤的材料。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/resveratrol/topical.webp",
+          "width": 512,
+          "height": 1024,
+          "alt": {
+            "en": "Resveratrol topical emulsion with a pump bottle and white lotion sample.",
+            "zh": "白藜芦醇外用乳液、泵瓶与白色乳液样品。"
+          },
+          "caption": {
+            "en": "Resveratrol topical emulsion with a pump bottle and white lotion sample.",
+            "zh": "白藜芦醇外用乳液、泵瓶与白色乳液样品。"
+          }
         }
       },
       {
@@ -7075,11 +7444,11 @@
             },
             {
               "type": "paragraph",
-              "text": "Qualify a supplied complex with measured loading, or develop a separate legally reviewed complexation process → dry and assay → blend with bulking/flavor ingredients → fill moisture/light-protective sachets → test reconstitution at intended dilution. The cited patent describes heating, solvent addition, slow cooling and crystal isolation; dry blending alone does not prove inclusion complex formation.[8]"
+              "text": "For a supplied dry complex, verify loading before blending. For an in-house process, complete legally reviewed complexation, isolation, drying and assay first. Blend the qualified dry complex with bulking/flavor ingredients, fill moisture/light-protective sachets, and test reconstitution at intended dilution. The cited patent describes heating, solvent addition, slow cooling and crystal isolation; dry blending alone does not prove inclusion complex formation.[8]"
             },
             {
               "type": "paragraph",
-              "text": "Test free/total trans, loading basis, residual solvent, water content and redispersion; measure supernatant after cooling and standing. Screen acid/flavor competition and carrier ratio rather than assume compatibility. Release on retained trans plus physical stability, not initial clarity. No human absorption or benefit advantage is established for this proposed product.[4][8]"
+              "text": "Test free/total trans, loading basis, residual solvent, water content and redispersion; measure supernatant after cooling and standing. Screen acid/flavor competition and carrier ratio rather than assume compatibility. Release on retained trans plus physical stability, not initial clarity. No human absorption or benefit advantage is established for this proposed product.[4][8] If claiming an inclusion complex, establish a method that distinguishes inclusion from a physical mixture."
             }
           ],
           "zh": [
@@ -7089,13 +7458,26 @@
             },
             {
               "type": "paragraph",
-              "text": "先确认外购复合物的实测载量，或另行开发经法律审查的复合工艺→干燥并定量→加入填充与香味成分混合→防潮避光条包充填→按实际稀释条件测试复溶。所引专利描述加热、加溶剂、缓冷和晶体分离；单纯干混不能证明形成包合物。[8]"
+              "text": "外购干燥复合物应先核实载量再混配；自制路线则先完成经法律审查的包合、分离、干燥及含量检测。将合格干燥复合物与填充、香味成分混合，采用防潮避光条包充填，并按实际稀释条件测试复溶。所引专利描述加热、加溶剂、缓冷和晶体分离；单纯干混不能证明形成包合物。[8]"
             },
             {
               "type": "paragraph",
-              "text": "检测游离/总trans、载量基准、残留溶剂、水分及再分散性；测冷却静置后上清含量。筛选酸味/香味成分竞争作用及载体比例，不预设相容。放行须看trans保持与物态稳定，不仅是初始澄清。本建议产品未证明人体吸收或获益优势。[4][8]"
+              "text": "检测游离/总trans、载量基准、残留溶剂、水分及再分散性；测冷却静置后上清含量。筛选酸味/香味成分竞争作用及载体比例，不预设相容。放行须看trans保持与物态稳定，不仅是初始澄清。本建议产品未证明人体吸收或获益优势。[4][8]若声称形成包合物，应建立可区分包合与物理混合的方法。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/resveratrol/reconstitution.webp",
+          "width": 503,
+          "height": 1024,
+          "alt": {
+            "en": "Resveratrol reconstitution sachets with powder and a cloudy prepared liquid.",
+            "zh": "白藜芦醇复溶条包、粉体与微浑浊复溶液。"
+          },
+          "caption": {
+            "en": "Resveratrol reconstitution sachets with powder and a cloudy prepared liquid.",
+            "zh": "白藜芦醇复溶条包、粉体与微浑浊复溶液。"
+          }
         }
       }
     ],
@@ -7459,7 +7841,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Granted claim 1 is a water-only preparation method: soak wolfberry fruit and centrifuge; heat the first extract to flocculate insolubles and centrifuge to a second extract with at least 50% transmittance at 400 nm; ultrafilter using a 1000–2000 Da cutoff, concentrate and dry the cut-off solution. Claim 11 adds continuous water supply during ultrafiltration and collection when conductivity is below 1000 us/cm and sugar degree below 1.2. These are claim limitations, not general goji specifications.[7]"
+              "text": "Granted claim 1 is a water-only preparation method: soak wolfberry fruit and centrifuge; heat the first extract to flocculate insolubles and centrifuge to a second extract with at least 50% transmittance at 400 nm; ultrafilter using a 1000–2000 Da cutoff, concentrate and dry the retentate (the patent’s “cut-off solution”). Claim 11 adds continuous water supply during ultrafiltration and collection when conductivity is below 1000 us/cm and sugar degree below 1.2. These are claim limitations, not general goji specifications.[7]"
             },
             {
               "type": "paragraph",
@@ -7475,7 +7857,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Claim 1 sets out dried goji particles, enzymatic extraction and water extraction. Dependent claim 3 specifies powder/water 1:15, 40°C, 0.01% cellulase, 30 min and heating to 85°C for enzyme inactivation. Claim 4 describes additional water, 60°C for 80 min, 150-mesh filtration, centrifugation and drying. The Chinese claim 4 itself says “酶解茶多糖溶解液” (enzymatically hydrolyzed tea-polysaccharide solution); this source wording is an inconsistency, not a translation correction to conceal.[8]"
+              "text": "Claim 1 sets out dried goji particles, enzymatic extraction and water extraction. Dependent claim 3 specifies powder:water 1:15, 40°C, “0.01% concentration” cellulase without an explicit concentration basis, 30 min and heating to 85°C for enzyme inactivation. Claim 4 states a further 1:2 water-addition step, 60°C for 80 min, 150-mesh filtration, centrifugation and drying; its “酶解茶多糖溶解液” (enzymatically hydrolyzed tea-polysaccharide solution) wording is an internal source inconsistency.[8]"
             },
             {
               "type": "paragraph",
@@ -7709,7 +8091,7 @@
             },
             {
               "type": "paragraph",
-              "text": "工程建议的可比性协议。 让供应商同时提交原样与去游离糖后两种结果、载体空白以及实际回收率；若添加麦芽糊精，还应确认前处理是否同样保留它，不能把“乙醇沉淀后测糖”视为自动排除载体。方法转移须记录水解酸、温度时间、检测器与标准物。多糖分子量不同，溶解与过滤损失也可能不同，因此前处理造成的选择性损失需要进入方法不确定度。正式食品/提取物合同还要以适用市场核定污染物、微生物、亚硫酸盐处理信息与标签要求；本次未获得一套覆盖三类材料的现行法定统一标准，不能擅自补出数值。"
+              "text": "工程建议的可比性协议。 让供应商同时提交原样与去游离糖后两种结果、载体空白以及实际回收率；若添加麦芽糊精，还应确认前处理是否同样保留它，不能把“乙醇沉淀后测糖”视为自动排除载体。方法转移须记录水解酸、温度时间、检测器与标准物。多糖分子量不同，溶解与过滤损失也可能不同，因此前处理造成的选择性损失需要进入方法不确定度。正式食品/提取物合同还要以适用市场核定污染物、微生物、亚硫酸盐处理信息与标签要求；应按明确的原料类别和目标市场制定污染物、微生物与标签要求。"
             }
           ]
         },
@@ -7804,7 +8186,7 @@
             },
             {
               "type": "paragraph",
-              "text": "权利要求1列出枸杞干燥颗粒制作、酶提及水提。从属权利要求3限定粉水比1:15、40°C、0.01%纤维素酶、30 min，随后升温至85°C灭酶。权利要求4描述加水、60°C处理80 min、150目过滤、离心和干燥。中文权利要求4本身写有“酶解茶多糖溶解液”，属于原文不一致，不能悄悄改写成枸杞而隐去问题。[8]"
+              "text": "权利要求1列出枸杞干颗粒、酶提和水提。权利要求3写粉水比1:15、40°C及“0.01%浓度的纤维素酶”，未明确浓度计量基础，处理30分钟后升至85°C灭酶。权利要求4另写按1:2加水、60°C处理80分钟、150目过滤、离心与干燥，其中“酶解茶多糖溶解液”为原文内部不一致。[8]"
             },
             {
               "type": "paragraph",
@@ -7850,6 +8232,19 @@
               "text": "酸度筛选同时考察风味、颜色及沉淀，不套用其他果实的pH。记录润湿、结团、可溶固形物、色差、吸湿、水活度及包装储存表现。核对果实固形物与载体质量；总可溶固形物和总糖均不能直接作为多糖声称。试验前确定感官及复溶合格标准。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/goji-berry/instant-drink.webp",
+          "width": 509,
+          "height": 1024,
+          "alt": {
+            "en": "Goji instant drink sachets with orange powder and prepared drink.",
+            "zh": "枸杞即溶饮料条包、橙色粉体与冲调饮品。"
+          },
+          "caption": {
+            "en": "Goji instant drink sachets with orange powder and prepared drink.",
+            "zh": "枸杞即溶饮料条包、橙色粉体与冲调饮品。"
+          }
         }
       },
       {
@@ -7887,6 +8282,19 @@
               "text": "在水分与固形物平衡一致的条件下比较无枸杞空白和果汁粉试验。检测浇注性、凝固时间、凝胶强度、黏附、析水、颜色、水活度及储存变化。若研究多糖富集物，另设系列并测黏度；等质量不代表功能或临床等效。"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/goji-berry/fruit-gummy.webp",
+          "width": 510,
+          "height": 1024,
+          "alt": {
+            "en": "Goji fruit gummies with dried berries and a plain pouch.",
+            "zh": "枸杞果味软糖、干枸杞与素面包装袋。"
+          },
+          "caption": {
+            "en": "Goji fruit gummies with dried berries and a plain pouch.",
+            "zh": "枸杞果味软糖、干枸杞与素面包装袋。"
+          }
         }
       },
       {
@@ -7924,6 +8332,19 @@
               "text": "按目标要求监测游离糖、蛋白/多酚谱、分子量分布、水分、流动性及混合均匀性。分别考察胶囊壳相容性、崩解和聚合物分析回收率，储存后比较原料与释放组分。细胞或斑马鱼结果及整果黄斑色素试验均不能验证该胶囊的健康声称。[13][24]"
             }
           ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/goji-berry/polysaccharide-capsule.webp",
+          "width": 509,
+          "height": 1024,
+          "alt": {
+            "en": "Goji polysaccharide-fraction capsules with pale powder.",
+            "zh": "枸杞多糖组分胶囊与浅色粉体。"
+          },
+          "caption": {
+            "en": "Goji polysaccharide-fraction capsules with pale powder.",
+            "zh": "枸杞多糖组分胶囊与浅色粉体。"
+          }
         }
       }
     ],
