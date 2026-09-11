@@ -1,0 +1,38 @@
+---
+import {getDeepIngredient} from '../data/deep-ingredients';
+import {getIngredientOverview} from '../data/ingredient-overviews';
+import ResearchInline from './ResearchInline.astro';
+import type {Language} from '../i18n/config';
+const {lang}=Astro.props as {lang:Language};
+const zh=lang==='zh', k=getDeepIngredient('turmeric'), overview=getIngredientOverview('turmeric');
+const namespace='research-b-turmeric-source';
+const sections=k.content[lang];
+const contents=[['raw-material',zh?'定义与来源':'Definition and source'],['components',zh?'主要成分与形态':'Components and forms'],...sections.slice(0,2).map(s=>[s.id,s.heading]),['applications',zh?'应用与配方':'Applications and formulation'],['end-products',zh?'终端产品类别':'End-product categories'],...sections.slice(3).map(s=>[s.id,s.heading]),['research-turmeric-references',zh?'参考来源':'References']];
+const forms=zh?[
+ ['姜黄粉','根茎直接粉碎而成，仍含植物组织，是香辛料和提取起始物。'],
+ ['姜黄油树脂','溶剂提取并除去溶剂后的组分，保留部分挥发油和树脂。'],
+ ['结晶色素','通过纯化富集姜黄素类的橙黄色粉末，风味组分与油树脂不同。'],
+ ['含载体分散粉','将色素与载体等辅料配制成粉体；含量需按最终混合粉计算。']
+]:[
+ ['Ground turmeric','Milled rhizomes retain plant tissue and serve as a spice or starting material for extraction.'],
+ ['Turmeric oleoresin','A solvent extract after solvent removal, retaining some volatile oils and resins.'],
+ ['Crystalline pigment','An orange-yellow powder enriched in curcuminoids by purification, with a different flavour fraction from oleoresin.'],
+ ['Carrier-containing dispersible powder','Pigment formulated with carriers or other ingredients; its assay refers to the final blend.']
+];
+---
+<div class="ingredient-knowledge turmeric-knowledge" data-ingredient-content="turmeric" data-deep-research={lang}>
+ <section id="identity"><h2>{zh?'姜黄提取物是什么':'What is turmeric extract?'}</h2><div id="raw-material"><p>{overview.identity[lang]} <ResearchInline text="[10][11]" namespace={namespace}/></p></div></section>
+ <nav data-encyclopedia-toc data-research-toc aria-label={zh?'姜黄百科目录':'Turmeric encyclopedia contents'}><h2>{zh?'本页目录':'On this page'}</h2><ol>{contents.map(([id,label])=><li><a href={`#${id}`}>{label}</a></li>)}</ol></nav>
+ <section id="components"><h2>{zh?'主要成分与常见形态':'Principal components and common forms'}</h2><p>{overview.components[lang]} <ResearchInline text="[10][11]" namespace={namespace}/></p><dl>{forms.map(([term,description])=><div><dt>{term}</dt><dd>{description}</dd></div>)}</dl><p><ResearchInline text={zh?'姜黄粉与经过提取的原料有不同组成。所引JECFA规范中的结晶色素不溶于水；含载体的原料能分散于水，不表示色素分子已经溶解。[10][11]':'Ground turmeric differs in composition from extracted ingredients. The crystalline colour in the cited JECFA specification is insoluble in water; a carrier-containing ingredient can disperse without the pigment molecules dissolving.[10][11]'} namespace={namespace}/></p></section>
+ {sections.map(s=><section id={s.id} data-knowledge-dimension={s.id}>
+  {(s.id==='processes'?['process']:s.id==='standards'?['specification']:s.id==='applications'?['application']:s.id==='insights'?['evidence']:[]).map(id=><span id={id} class="legacy-anchor" aria-hidden="true"/>)}
+  <h2>{s.heading}</h2>
+  {s.id==='processes'&&<p>{overview.processChoices[lang]} <ResearchInline text="[4][10]" namespace={namespace}/></p>}
+  {s.id==='applications'&&<><p>{overview.applications[lang]}</p><div id="end-products"><p>{overview.endProducts[lang]}</p></div></>}
+  {s.blocks.map((b,i)=>b.type==='heading'?<h3 id={`research-turmeric-${s.id}-${i}`}>{b.text}</h3>:b.type==='paragraph'?<p><ResearchInline text={b.text} namespace={namespace}/></p>:b.type==='list'?<ul>{b.items.map(item=><li><ResearchInline text={item} namespace={namespace}/></li>)}</ul>:<div class="research-table" role="region" tabindex="0" aria-label={`${s.heading} — ${zh?'对照表':'comparison table'} ${i+1}`}><table><caption>{s.heading}<span class="table-hint">{zh?'左右滑动查看所有列；键盘可聚焦后使用方向键。':'Scroll horizontally to see all columns; focus this region to use arrow keys.'}</span></caption><thead><tr>{b.headers.map(h=><th scope="col">{h}</th>)}</tr></thead><tbody>{b.rows.map(row=><tr>{row.map((cell,j)=>j===0?<th scope="row"><ResearchInline text={cell} namespace={namespace}/></th>:<td><ResearchInline text={cell} namespace={namespace}/></td>)}</tr>)}</tbody></table></div>)}
+ </section>)}
+ <section class="ingredient-sources" id="research-turmeric-references"><h2>{zh?'参考来源':'References'}</h2><p class="scope">{zh?'本文介绍原料知识及已发表研究，不提供供应商实测规格、设施证明、食用配方或医疗建议。法规资料按所引版本和用途理解，使用前需核对现行要求。':'This article describes ingredient properties and published studies, not supplier-tested specifications, evidence of facilities, food recipes or medical advice. Regulatory references apply to the cited version and use; check current requirements before use.'}</p><ol>{k.sources.map(s=><li id={`${namespace}-${s.id}`} value={s.id}><span class="source-number">[{s.id}]</span> <a href={s.url} rel="noopener noreferrer">{s.title}</a> · {s.accessed}</li>)}</ol></section>
+</div>
+<style>
+.turmeric-knowledge{max-width:850px;min-width:0;line-height:1.85;overflow-wrap:anywhere}.turmeric-knowledge section{scroll-margin-top:7rem;margin:2.5rem 0}.turmeric-knowledge h2{font-size:1.45rem;font-weight:700;margin:1.5rem 0 .8rem}.turmeric-knowledge h3{font-size:1.15rem;font-weight:650;margin:1.6rem 0 .65rem;scroll-margin-top:7rem}.turmeric-knowledge p{margin:.9rem 0}.turmeric-knowledge :global(a){color:#345a27;text-decoration:underline;overflow-wrap:anywhere}.turmeric-knowledge ol{list-style:decimal;padding-left:1.5rem}.turmeric-knowledge ul{list-style:disc;padding-left:1.5rem}.turmeric-knowledge li{margin:.6rem 0;scroll-margin-top:7rem}.turmeric-knowledge dt{font-weight:650}.turmeric-knowledge dl>div{margin:1rem 0}.scope{color:#53644e;font-size:.9rem}nav{background:#f3f6ef;border:1px solid #d8e1d0;border-radius:.6rem;padding:1rem 1.3rem}nav h2{margin-top:0!important}.research-table{max-width:100%;overflow-x:auto;margin:1.5rem 0;border:1px solid #d8e1d0;border-radius:.4rem}.research-table:focus-visible{outline:3px solid #345a27;outline-offset:3px}table{border-collapse:collapse;width:100%;min-width:580px;font-size:.92rem;line-height:1.65;overflow-wrap:normal;word-break:normal}caption{text-align:left;padding:.8rem;font-weight:600;background:#f3f6ef}th,td{padding:.75rem;text-align:left;vertical-align:top;border:1px solid #d8e1d0;min-width:120px}.table-hint{display:block;font-weight:400;font-size:.85rem;margin-top:.35rem;max-width:28rem}.legacy-anchor,#end-products{display:block;scroll-margin-top:7rem}thead th{background:#edf2e6}tbody th{font-weight:600}tbody tr:nth-child(even){background:#f8faf5}.turmeric-knowledge .ingredient-sources ol{list-style:none;padding-left:0}.source-number{font-weight:650}@media(max-width:600px){.turmeric-knowledge h2{font-size:1.25rem}nav{padding:.7rem}th,td{padding:.6rem}}
+</style>

@@ -33,9 +33,15 @@ test('twelve ingredient encyclopedias have material boundaries, citations and ID
   const page=html(path);
   for(const id of ['identity','specification','process','application','evidence']) assert.ok(page.includes(`id="${id}"`),id);
   assert.ok(page.includes(`href="/${lang}products/${slug}"`));
-  assert.ok(page.includes('data-research-card'));
-  const cards=[...page.matchAll(/data-research-card data-ingredient="([^"]+)"/g)];
-  assert.ok(cards.length && cards.every(c=>c[1].split(' ').includes(slug)));
+  if(slug==='turmeric'){
+   assert.ok(page.includes('id="research-turmeric-references"'));
+   assert.ok(page.includes('PMC5063215') && page.includes('PMC9369953'));
+   assert.ok(page.includes(`href="/${lang}resources/research"`));
+  }else{
+   assert.ok(page.includes('data-research-card'));
+   const cards=[...page.matchAll(/data-research-card data-ingredient="([^"]+)"/g)];
+   assert.ok(cards.length && cards.every(c=>c[1].split(' ').includes(slug)));
+  }
   assert.ok(page.includes('href="#research-'));
   assert.ok(html(`${lang}products/${slug}`).includes(`href="/${path}"`),'product links back to its science profile');
   assert.ok(html(`${lang}research`).includes(`href="/${path}"`),'hub links to profile');

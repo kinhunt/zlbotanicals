@@ -83,28 +83,28 @@
   {
     "productId": "turmeric",
     "citations": [
-      7,
-      10
+      10,
+      11
     ],
     "identity": {
-      "en": "Curcuma longa rhizomes, commonly dried and milled before extraction; ground turmeric is not purified curcumin.",
-      "zh": "姜黄 Curcuma longa 根茎，提取前通常干燥粉碎；姜黄粉不是纯化姜黄素。"
+      "en": "Turmeric extract is a processed ingredient obtained by extracting the rhizomes of Curcuma longa L. It includes oleoresins and concentrated pigments; purified curcuminoid colour is an orange-yellow crystalline powder. Dispersible formats contain additional formulation ingredients.",
+      "zh": "姜黄提取物是以姜黄（Curcuma longa L.）根茎为原料，经提取获得的加工原料，包括油树脂和浓缩色素等形态；纯化姜黄素类色素呈橙黄色结晶粉末，分散型原料则另含配方辅料。"
     },
     "components": {
-      "en": "Curcumin, demethoxycurcumin and bisdemethoxycurcumin form the principal curcuminoid group; volatile oils and resins belong to a different fraction.",
-      "zh": "姜黄素、去甲氧基姜黄素与双去甲氧基姜黄素为主要姜黄素类；挥发油与树脂属于另一组分。"
+      "en": "Curcumin is a single compound. Curcuminoids is the collective name for curcumin, demethoxycurcumin and bisdemethoxycurcumin, the three principal colouring components. Their proportions vary with the material. Volatile oils and resins are accompanying fractions rather than part of that three-compound total.",
+      "zh": "姜黄素是单体化合物；姜黄素类是姜黄素、去甲氧基姜黄素和双去甲氧基姜黄素等成分的统称，三者是主要着色组分，其比例随材料而异。挥发油和树脂是伴随组分，不属于这三种成分的含量加和。"
     },
     "applications": {
-      "en": "Spice/colour ingredient development, oral solids and formulated dispersions.",
-      "zh": "香辛料与着色原料、口服固体制剂及配方分散体系开发。"
+      "en": "The intended use determines which properties need evaluation: spice character and colour in seasonings, dispersion in beverages, or powder handling in capsules and tablets.",
+      "zh": "用途决定需要评价的性质：调味食品关注香辛风味和颜色，饮料关注分散表现，胶囊与片剂还需考虑粉体加工性。"
     },
     "endProducts": {
-      "en": "Spice oleoresins, capsule/tablet concepts and opaque beverage dispersions.",
-      "zh": "香辛料油树脂、胶囊片剂概念与浑浊饮料分散体系。"
+      "en": "Seasonings and sauces, opaque beverages, capsules, tablets and reconstituted powders are application categories discussed below.",
+      "zh": "下文涉及调味料与酱汁、不透明饮料、胶囊、片剂及冲调粉等应用类别。"
     },
     "processChoices": {
-      "en": "Retain flavour and volatile fractions for a spice oleoresin; use selective washing/crystallization for a concentrated pigment. A beverage dispersion then needs a separate carrier/emulsion development step, not a claim that crystals dissolve in water.",
-      "zh": "香辛料油树脂需保留风味和挥发组分；浓缩色素采用选择性洗涤与结晶。饮料分散物还需另行开展载体或乳化开发，不能声称晶体因此溶于水。"
+      "en": "An oleoresin retains some flavour-related oils and resins. A concentrated pigment requires selective purification; a dispersible format may need emulsification or carrier-assisted drying.",
+      "zh": "油树脂保留部分与风味有关的油和树脂；浓缩色素需要选择性纯化，分散型原料则可能采用乳化或加载体干燥。"
     }
   },
   {

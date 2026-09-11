@@ -14,7 +14,7 @@ const local=(p:string)=>getLocalizedPath(p,lang);
 ---
 <article class="science-profile reading">
  <IngredientKnowledge productId={id} lang={lang} />
- <section><h2>{zh?'从科学问题进入项目复核':'From scientific questions to project review'}</h2><ul>
+ <section><h2>{id==='turmeric'?(zh?'相关产品与技术资料':'Related products and technical resources'):(zh?'从科学问题进入项目复核':'From scientific questions to project review')}</h2><ul>
   {profile.family&&<li><a href={local(`/plant-extracts/ingredients/${profile.family}`)}>{zh?'相关成分家族：定义与检测边界':'Related constituent family: definitions & assay boundaries'}</a></li>}
   <li><a href={local('/plant-extracts/basics/identity-and-traceability')}>{zh?'身份与追溯':'Identity & traceability'}</a></li>
   <li><a href={local('/plant-extracts/standards/assay-method-comparability')}>{zh?'检测方法可比性':'Assay method comparability'}</a></li>
@@ -25,6 +25,5 @@ const local=(p:string)=>getLocalizedPath(p,lang);
   <li><a href={local('/odm')}>{zh?'建立或转移配方：ODM 项目复核':'Build or transfer a formula: ODM project review'}</a></li>
  </ul></section>
 </article>
-<ResearchCards lang={lang} products={[id]} />
-<NewsCards lang={lang} products={[id]} />
+{id==='turmeric'?<section id="research"><span id="research-caveats"/><span id="pmid-39614566"/><span id="industry-updates"/><p><a href={local('/resources/research')}>{zh?'更多文献与检索资料':'More literature and research resources'} →</a></p></section>:<><ResearchCards lang={lang} products={[id]} /><NewsCards lang={lang} products={[id]} /></>}
 <style>.science-profile{line-height:1.85}.science-profile section{scroll-margin-top:7rem;margin-top:2rem}.science-profile h2{font-size:1.45rem;font-weight:700;margin-bottom:.8rem}.science-profile a{color:var(--color-primary);text-decoration:underline}.science-profile ul{list-style:disc;padding-left:1.5rem}.science-profile li{margin-top:.6rem}.science-profile p{margin-top:.8rem}</style>

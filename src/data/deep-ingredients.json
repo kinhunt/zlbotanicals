@@ -1216,146 +1216,232 @@
       "zh": [
         {
           "id": "processes",
-          "heading": "工艺：先定义要保留什么，再决定如何提取",
+          "heading": "提取、纯化与分散工艺",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "姜黄粉、油树脂、结晶姜黄素类与含载体分散粉是四种不同物料。FAO/JECFA 技术评估描述的传统路线是干根茎粉碎、溶剂选择性提取、蒸馏除溶剂得到油树脂，再用选择性溶剂洗涤并结晶得到浓缩色素；该历史资料给出的油树脂色素含量约为25–35%，纯化粉超过90%。这是工艺类型的说明，不是所有商业产品的天然组成区间。[10] 研发需要把“保留姜黄风味及挥发性组分”和“提高三种主要姜黄素类比例”分成两个项目：为色素纯化而排除的油和树脂，在香辛料油树脂项目中可能正是希望保留的部分。[10]"
+              "text": "提取利用溶剂将干燥、粉碎根茎中的可溶性组分转入液相。溶剂组成、温度、接触时间和液固比影响目标成分的回收，也影响一同提取的油和树脂。FAO/JECFA的工艺描述包括除去溶剂得到油树脂；需要浓缩色素时，再采用选择性分离和结晶。[10]"
             },
             {
               "type": "paragraph",
-              "text": "第一步的核心是建立原料基准。对干根茎粉取代表样，记录含水量、粒径分布，以及 curcumin、demethoxycurcumin、bisdemethoxycurcumin 的单项含量。随后按干基记录进料总量和各标志物总量，避免湿原料的含水差异被误算成提取效率。三种组分可以用色谱分开定量，溶剂组成也会改变它们的相对回收比例。[7] 工程上粉碎是缩短扩散路径，而非越细越好：过多细粉会提高过滤阻力并增加固体夹带。这一权衡宜用实际滤饼压差、洗涤用液和残渣标志物数据选择，不把目数当成独立质量目标。"
+              "text": "粉碎缩短溶剂和溶出成分在植物组织内的传递距离。细粉过多会增加过滤阻力，并使部分提取液留在滤饼中。因此，评价提取条件时，既要测回收的姜黄素类，也要观察固液分离表现。原料含水量和起始姜黄素类含量，是比较不同根茎批次的基础。[7]"
             },
             {
               "type": "paragraph",
-              "text": "第二步是用溶剂组成与液固比调节传质和选择性。一个有清晰尺度的实验使用商业姜黄粉100±0.5 mg、5 mL 溶剂、15 mL 离心管，涡旋约15秒后超声5分钟；水乙醇混合液在室温下提取，之后4000×g离心10分钟、0.45 μm PVDF过滤，再用HPLC-DAD检测。50%乙醇约提得32.22 mg/g姜黄素类，纯乙醇约34.26 mg/g；这是该粉末和短时分析提取中的每克原料回收量，不是32%的提取物含量，也不是50%乙醇在所有工厂都最优。[7] 它真正值得工程团队借鉴的是：溶剂强度增加到某一点后，新增回收可能很小，仍需付出溶剂回收、消防、浓缩负荷和共提物变化的代价。"
+              "text": "浓缩主要减少溶剂；纯化则提高色素在提取物中的比例。结晶时，色素形成晶体，部分其他组分留在母液中，母液即结晶后剩余的液体。洗晶除去附着的母液，干燥降低残留溶剂。晶体含量与色素总回收量是两个不同指标：晶体纯度提高的同时，也可能有较多色素留在液体部分。[10][11]"
             },
             {
               "type": "paragraph",
-              "text": "第三步把萃取和纯化分账。澄清液浓缩只会同时提高其中各种非挥发物浓度；要提高色素相对于油树脂杂质的比例，需要选择性分离。结晶利用溶解度和过饱和度差别，使目标色素进入晶体、部分杂质留在母液；洗晶再移走附着母液，随后干燥除残溶。JECFA定义明确写到由提取物结晶纯化，并允许少量天然油和树脂存在。[11] 建议中试同时称量原液、晶体、洗液和母液并测三种组分，分别报告晶体纯度和标志物总回收。只展示晶体含量而不交代母液损失，会把“高纯低收率”误包装成“高效提取”。母液回用应以杂质积累和组分偏移决定批次数，而不是机械无限循环。"
-            },
-            {
-              "type": "paragraph",
-              "text": "第四步才是分散工程。把已提纯色素加入油相、乳化形成液滴，或再与壁材干燥制粉，解决的是疏水物在目标配方中的分布与稳定，不再是从根茎中抽提出更多色素。JECFA描述姜黄素色素不溶于水、可溶于乙醇；因此将高含量晶体直接搅入水中并不能通过“提高纯度”消除物理沉降。[11] 可润湿、可分散、胶体稳定和分子溶解需要分别测量；“水溶性姜黄素”若实际是乳化体系，应明确其载体、油相和分散形态。"
+              "text": "需要分散型原料时，可采用油相、乳化剂或干燥载体进行配方处理。乳化使油以液滴形式分布在水中，载体则可用于制备干燥粉体。这些处理改变原料混入产品后的状态。油树脂、结晶色素和分散粉所需的操作组合不同，结晶与乳化并非每一种形态的必经步骤。[4][10]"
             }
           ]
         },
         {
           "id": "equipment",
-          "heading": "设备：两条生产线，不用一台均质机解释全部",
+          "heading": "主要设备及作用",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "下表是基于上述分离原理和乳化研究的工程选型建议，设备能力、能耗及尺寸需要在目标物料上验证，不是设备厂商性能承诺。[4][10]"
+              "text": "设备按处理功能区分：提取设备促进成分从植物组织进入溶剂，分离设备除去固体或富集色素，配方设备控制液滴或粉体性质。下表介绍可选工艺单元，不描述企业已安装的设施。[4][10]"
             },
             {
               "type": "table",
               "headers": [
-                "单元与候选设备",
-                "选择理由",
-                "主要代价或失败模式",
-                "应交付的验证数据"
+                "单元",
+                "在工艺中的作用",
+                "评价项目"
               ],
               "rows": [
                 [
-                  "带搅拌夹套提取罐＋冷凝回收",
-                  "独立调溶剂强度、时间和温度，便于分批洗涤",
-                  "提取后段收益递减；细粉夹带；可燃蒸气管理",
-                  "每次提取标志物回收、残渣含量、溶剂质量平衡"
+                  "粉碎机与搅拌提取罐",
+                  "减小根茎粒径，使粉末润湿并与溶剂接触；夹套用于控制温度。",
+                  "粒径分布、提取时间、温度、残渣中的姜黄素类含量。"
                 ],
                 [
-                  "超声辅助提取",
-                  "可用于筛选短时强化传质",
-                  "实验槽功率不是物料实际声能；放大存在声场不均",
-                  "液体温升、有效处理体积、相同能耗下回收与过滤表现"
+                  "冷凝与溶剂回收装置",
+                  "将提取或浓缩产生的溶剂蒸气冷凝收集。",
+                  "溶剂收支、回收液组成、可燃蒸气的安全管理。"
                 ],
                 [
-                  "离心机或过滤器",
-                  "将根茎残渣与富集液分开",
-                  "滤饼夹液丢失色素；洗得太多增加蒸发量",
-                  "固液两相色谱、洗液回收、压差或离心通量"
+                  "过滤器或离心机",
+                  "分开根茎残渣与提取液；过滤器也可用于收集和洗涤晶体。",
+                  "固体夹带液量、洗液中色素、过滤阻力及处理量。"
                 ],
                 [
-                  "真空浓缩＋控温结晶＋晶体过滤洗涤",
-                  "分离溶剂回收与色素纯化两项任务",
-                  "过快成核造成细晶、夹杂母液、残溶不均",
-                  "晶体粒径、纯度、母液损失、干燥残溶分布"
+                  "真空蒸发器与结晶器",
+                  "减压除去溶剂；需要纯化色素时控制晶体形成。",
+                  "受热情况、晶体粒径和含量、母液中色素及残留溶剂。"
                 ],
                 [
-                  "转子定子预乳化＋高压均质/微射流",
-                  "将油相破碎为较小液滴",
-                  "循环升温、界面不足导致重新聚并；不能替代提取",
-                  "每循环温度、流量、粒径分布、未稀释体系稳定性"
+                  "转子定子混合器与高压均质机",
+                  "预混油水两相，并在乳液中将油破碎为更小液滴。",
+                  "温升、液滴分布、实际配方浓度下的稳定性。"
                 ],
                 [
-                  "喷雾干燥或冻干的配方后处理",
-                  "将分散体系转为便于计量的粉体",
-                  "壁材稀释、黏壁、复水团聚；冻干并非必然易分散",
-                  "物料收率、载体比例、复水粒径、标志物保留"
+                  "喷雾干燥机或冻干机",
+                  "从配方分散液中除去水分，制成粉体。",
+                  "粉体回收量、载体比例、色素保留及复水分散表现。"
                 ]
               ]
             },
             {
               "type": "paragraph",
-              "text": "有用的乳化实验不是一句“高压可提高吸收”，而是完整配方与操作的组合。MCT研究使用最终乳液0.15 wt%姜黄素、10 wt% MCT、10 wt%乳化剂；乳化剂为10% Tween-20，或4%单油酸山梨坦＋6% Tween-20，或4%大豆卵磷脂＋6% Tween-20。油相中姜黄素在70°C搅拌并超声溶入，预混8000 rpm、5分钟，再经微射流5000、10000或15000 psi、4次循环；批次总质量未报告，故不能推算小时产量。[4] 在15000 psi下三组初始粒径分别为89.08、73.43、67.68 nm，室温储存28天仍观察到随时间增大，说明小初始粒径不等于货架期不变。[4]"
-            },
-            {
-              "type": "paragraph",
-              "text": "该实验水相是20 mM bis-tris、pH 7.0，并含0.02 wt%叠氮化钠；它是用于物理稳定性研究的实验体系，不能作为可食用饮料配方复制。去掉研究防腐剂、换食品乳化剂、改变油量或将体系稀释到实际饮料后，需要重新评价稳定性。[4] 这条材料边界应与工况一起保留，不能只摘录纳米粒径而隐去配方。"
+              "text": "超声可在实验室提取中促进接触与传质，效果取决于处理体积、容器几何形状和实际传入物料的能量。超声槽的额定功率不足以确定处理强度，也不能直接预测放大后的产量。同样，均质压力只是一项操作条件，不等于设备生产能力。[4][7]"
             }
           ]
         },
         {
           "id": "applications",
-          "heading": "应用：按成品矩阵设定成功，而非追求漂亮水杯样",
+          "heading": "应用与配方要求",
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "对不透明乳饮或植物饮，第一目标可设为给定添加量下的颜色均匀、无粗颗粒、无可感知油圈，并同时测量完整瓶样的标志物保留。对澄清酸性饮料，则需先确定允许的色深和浊度；把脂质载体带入原本透明体系，本身就改变产品外观，不能只用“易溶”作为验收词。MCT研究提供的是液滴稳定性证据，不含澄清饮料的巴氏处理、酸盐体系或商业包装验证。[4] 研发建议用实际配方的pH、离子环境、热历程、包装透光性和货架温度构成试验矩阵，并保留无姜黄素载体空白，分清油相变化与色素降解。"
+              "type": "heading",
+              "text": "香辛料与着色原料"
             },
             {
               "type": "paragraph",
-              "text": "对胶囊或片剂，高色素比例可能有利于降低单份填充量，但应从成品填充与崩解需要选择粒径、流动性及润湿方式，不能把饮料纳米乳化的结果转成胶囊效果承诺。采购比较建议同时列“每千克原料价格”和“每克经同法实测标志物的价格”；含壁材分散粉另列载体质量与实际每份油/乳化剂负荷。同等标志物量下比较口感和稳定性，比等量粉末盲测更能判断真实配方价值。"
+              "text": "油树脂保留部分与姜黄风味有关的挥发油和树脂；浓缩结晶色素中姜黄素类比例较高，伴随组分较少。选用哪种形态取决于产品对香辛风味、颜色或两者的需要。所引JECFA规范针对食品色素，具体用途是否允许仍需按目标市场核查。[10][11]"
+            },
+            {
+              "type": "heading",
+              "text": "饮料"
             },
             {
               "type": "paragraph",
-              "text": "过滤也是容易隐藏损失的应用步骤。研究中的乳样先提取、再通过乙醇沉淀蛋白，最终色谱检测；报告的是经该前处理得到的可提取姜黄素类，而不是人体吸收率。[7] 在商品开发中，若滤掉可见沉淀后只测上清，既可能把物理沉降误判为化学降解，也可能把被滤掉的色素从质量平衡中抹去。应先对整瓶再分散取样测总量，再分别测上清、沉淀和容器冲洗液，形成可解释的失效路径。"
+              "text": "不透明乳饮或植物饮可考虑分散型原料，评价颜色均匀性、沉降、粗颗粒和油圈。澄清饮料中，加入油滴或悬浮颗粒可能增加浊度。按实际添加量试配时，还需考虑酸度、盐、热处理、包装和储存条件。这些是配方评价项目，并非已经验证的饮料配方。"
+            },
+            {
+              "type": "paragraph",
+              "text": "乳液研究有助于解释液滴尺寸如何随组成和处理条件变化，但不能给出采用不同原料的饮料货架期。使用允许食用的配方原料后，还需评价稀释及热处理后的稳定性。[4]"
+            },
+            {
+              "type": "heading",
+              "text": "胶囊、片剂与冲调粉"
+            },
+            {
+              "type": "paragraph",
+              "text": "胶囊与片剂中，姜黄素类含量影响每份所需的原料质量；粉体流动性、填充一致性、润湿性和崩解表现也会影响成品。含载体分散粉若要提供与结晶色素相同的实测姜黄素类量，可能需要更多粉体。比较时需使用相同含量方法，并明确实际载体组成。"
+            },
+            {
+              "type": "paragraph",
+              "text": "需要加水冲调的粉末，应关注复水后的润湿时间、可见团块、沉降及颜色均匀性，这些表现可能随干燥和储存而变化。粉末与液体分散物应在相同色素浓度下比较，干燥前测得的液滴尺寸不能代表复水产品。[4]"
             }
           ]
         },
         {
           "id": "standards",
-          "heading": "标准与QA：方法定义决定“90%”到底代表什么",
+          "heading": "质量与采购规格",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "JECFA所引姜黄素规范由2003年会议制定、收于合并专论，规定总着色物不少于90%，其测定是乙醇体系425 nm吸光度法，并提醒颜色会褪去、应及时测定。[11] 这个数值不能自动写成“单体curcumin不少于90%”，也不能与三组分HPLC加和当作完全相同的指标。采购/QA应在规格中并列名称、计量基准、方法、三种成分分布及适用产品形态；含载体的最终粉体不应继承未稀释晶体的含量值。"
+              "text": "规格中的百分比需要对应明确的原料名称和形态。原料资料应将产品名称、批次检验报告、检测方法及所加载体组成关联起来。下表列出应索取或核查的信息，不是某一在售批次的质量规格。[11][13]"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "规格字段",
+                "需要的信息"
+              ],
+              "rows": [
+                [
+                  "身份与形态",
+                  "植物身份、根茎来源、提取物或油树脂／晶体／分散物形态，以及批次追溯信息。"
+                ],
+                [
+                  "姜黄素类含量",
+                  "单体姜黄素或姜黄素类／总着色物；计量基准、方法及各成分分布。"
+                ],
+                [
+                  "载体与配方辅料",
+                  "载体、油和乳化剂的名称与比例；最终混合物的实测含量。"
+                ],
+                [
+                  "溶剂与污染物",
+                  "提取和纯化所用溶剂、残留溶剂结果、相关元素及其他污染物限量、微生物要求。"
+                ],
+                [
+                  "物理性质",
+                  "水分、粒径，以及适用时在明确条件下测得的流动性或复水结果。"
+                ]
+              ]
             },
             {
               "type": "paragraph",
-              "text": "同一文件规定丙酮不超过30 mg/kg、己烷不超过25 mg/kg；甲醇、乙醇、异丙醇、乙酸乙酯列在50 mg/kg限值组，铅不超过2 mg/kg。[11] 这些数字适用于该食品色素专论，不应扩写为所有市场所有姜黄补充剂统一标准。工艺溶剂清单要贯穿提取、纯化、洗晶及回用，不宜只检测最后一次洗涤所用溶剂；采用合适的顶空GC方法时，应验证当前树脂/油/壁材基质下的回收和定量限。质量计划还应覆盖原料真实性、污染物及批次微生物，而不是凭颜色判断身份。"
+              "text": "所引《姜黄素》规范由2003年第61次JECFA会议制定，要求总着色物不少于90%。该含量采用乙醇中425 nm吸光度法测定，因颜色会褪去，文件要求及时测量。这是总着色物指标，不是单体姜黄素90%的声称。高效液相色谱（HPLC）可分离三种主要姜黄素类，分别报告或加和；不同方法的结果需评价可比性。[7][11]"
             },
             {
               "type": "paragraph",
-              "text": "美国补充剂制造的21 CFR 111.70要求对组分建立身份规格，并按需要建立纯度、强度、组成及污染限量；也要求在必要的过程阶段建立控制规格。[13] 因此研发定义的乳液粒径或晶体回收率，并不等同于法规已给出同一数字的限值。QA应把法定底线、客户合同标准和本项目工艺控制界限分开管理，品牌使用“标准化”时写清到底标准化到哪一种检测指标。"
+              "text": "该食品色素专论列出丙酮30 mg/kg、己烷25 mg/kg的上限，甲醇／乙醇／异丙醇／乙酸乙酯归入50 mg/kg限值组，铅上限为2 mg/kg。这些是特定年份、特定材料的参考值，不是全部姜黄原料和补充剂的统一限量。实际用途应核查目标市场的现行要求。[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "美国膳食补充剂制造的21 CFR 111.70要求建立组分身份规格，并按需要建立纯度、强度、组成及污染限量，也规定在相关工艺阶段设置控制规格。合同标准和内部工艺目标需要与法定要求区分。含载体的最终混合粉应有自身的含量结果，不能沿用混合前色素的检测值。[13]"
             }
           ]
         },
         {
           "id": "insights",
-          "heading": "研究价值与典型失败：把分析、过程和应用连起来",
+          "heading": "常见应用问题与文献案例",
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "优先研究之一是“溶剂选择性—结晶回收—载体负载”的串联质量平衡。50%与纯乙醇的分析提取差异较小，只能提示减少溶剂强度的试验方向；如果前者多带入亲水杂质，后续结晶和干燥费用可能抵消上游节省。[7][10] 建议以合格交付粉体中的标志物质量除以起始干根茎标志物质量作为贯穿指标，同时展示原料量、溶剂回收量、晶体损失和载体稀释，工程与采购才能看到真正成本。"
+              "type": "heading",
+              "text": "色素为什么沉降，乳液为什么分层？"
             },
             {
               "type": "paragraph",
-              "text": "第二个方向是把“粒径增大”和“色素减少”分开建模。MCT研究将随时间液滴增大讨论为奥斯特瓦尔德熟化，并用动态光散射与未稀释样品的Turbiscan观察相互补充。[4] 建议同时追踪液滴分布、瓶高方向透射/背散射、色差及HPLC含量：液滴变大而总色素保持，优先改界面与油相；粒径稳定但色素减少，优先查光、氧、pH和热过程；仅取样层浓度改变，优先查分层和取样。"
+              "text": "结晶姜黄素色素不溶于水。悬浮晶体可能沉降，乳液中的液滴则可能增大或在液体中迁移。肉眼可见的分散不等于分子溶解。供货形态以及油相或载体的组成，有助于判断应采用哪些检测方法。[4][11]"
+            },
+            {
+              "type": "heading",
+              "text": "颜色变浅是否表示姜黄素类降解？"
             },
             {
               "type": "paragraph",
-              "text": "第三个方向是研究粉体化是否保留乳化优势。干燥前的小液滴可以在脱水、储存和复水后失去原分布，故不能用液态半成品粒径替代干粉复溶数据。建议研发在相同色素剂量下比较晶体悬浮、液体乳化和复水粉，工程报告粉体损失与清洗难度，采购核算壁材负担，QA确认批次取样方法，品牌只表达已测得的颜色或分散表现。这样每个岗位都围绕一个可交付结果协作，而不是继续堆砌“高纯、先进、纳米”的形容词。"
+              "text": "色素进入沉淀或附着在容器上，以及化学变化，都可能改变样品颜色。排查时，可比较充分再分散后取得的整瓶代表样与上清、沉淀和容器冲洗液。仅测沉降后的上层液体，可能低估总色素量。合适的色谱含量测定可与颜色、粒径观察相互补充。[7]"
+            },
+            {
+              "type": "heading",
+              "text": "分散液干燥后为什么复水结团？"
+            },
+            {
+              "type": "paragraph",
+              "text": "干燥、储存和润湿过程会改变颗粒间的聚集状态。粉体应在明确的混合条件下复水评价，并观察静置后是否有沉淀。液态半成品中的小液滴，不能证明干燥后仍保持原分布。色泽保留发生变化时，也需评估光照、酸度和热处理的影响。[4][10]"
+            },
+            {
+              "type": "heading",
+              "text": "文献案例：水乙醇分析提取"
+            },
+            {
+              "type": "paragraph",
+              "text": "2022年研究使用100±0.5 mg商业姜黄粉，在15 mL离心管中加入5 mL溶剂。水乙醇提取在室温下进行，约15秒涡旋后超声5分钟，再以4000×g离心10分钟，经0.45 μm PVDF过滤。带二极管阵列检测器的高效液相色谱（HPLC-DAD）测得，50%乙醇与纯乙醇分别提取约32.22和34.26 mg/g姜黄素类。单位表示该分析提取条件下每克受试粉末回收的姜黄素类量，既不是工业收率，也不是成品提取物纯度。[7]"
+            },
+            {
+              "type": "heading",
+              "text": "文献案例：姜黄素MCT乳液"
+            },
+            {
+              "type": "paragraph",
+              "text": "2016年研究以购入的姜黄素和中链甘油三酯（MCT）油为起始材料。最终乳液含0.15 wt%姜黄素、10 wt% MCT及10 wt%乳化剂，比较三种乳化剂组合：10% Tween-20；4%单油酸山梨坦加6% Tween-20；4%大豆卵磷脂加6% Tween-20。[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "水相含20 mM bis-tris缓冲液，pH 7.0，并含0.02 wt%叠氮化钠。这是实验室物理稳定性模型，不能作为可食用饮料配方，不得食用或照搬为食品配方。改用允许食用的原料或改变稀释条件后，需要重新测试。[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "姜黄素在70°C搅拌和超声条件下溶入油相；加入亲油乳化剂后，油相在70°C搅拌30分钟。油水两相以8000 rpm预混5分钟，再以5000、10000或15000 psi微射流处理4次循环。论文未报告批次总质量，因此不能据此确定小时产量。[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "15000 psi条件下，三组第1天液滴尺寸依次为89.08、73.43和67.68 nm。动态光散射（DLS）测量前，样品用相同的含叠氮化钠bis-tris缓冲液稀释1000倍，在室温下测量三次。室温储存28天的粒径比较显示液滴随时间增大。另一项Turbiscan检测对未稀释乳液观察3天，记录透射和背散射变化。3天Turbiscan观察与28天粒径比较是不同测试，两者均不能直接给出商业饮料货架期。[4]"
+            },
+            {
+              "type": "heading",
+              "text": "历史工艺资料"
+            },
+            {
+              "type": "paragraph",
+              "text": "2004年FAO/JECFA《姜黄素：化学与技术评估》第3.2节描述的油树脂约含25–35%着色物，纯化粉超过90%。这些数字对应文件所述的历史路线，不是所有“姜黄提取物”的通用组成区间。该工艺资料与2003年规范用于解释色素分离和身份，不能证明供应商的设施配置或当前市场准入。[10][11]"
             }
           ]
         }
@@ -1363,146 +1449,232 @@
       "en": [
         {
           "id": "processes",
-          "heading": "Processes: define the retained fraction before selecting extraction",
+          "heading": "Extraction, purification and dispersion",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Turmeric powder, oleoresin, crystalline curcuminoids and carrier-containing dispersible powders are different materials. The FAO/JECFA technical assessment describes grinding dried rhizomes, selective solvent extraction, solvent distillation to obtain oleoresin, and further selective washing and crystallization to obtain concentrated pigment. Its historical description gives approximately 25–35% colouring matter in oleoresin and over 90% in purified powder. These are descriptions of that manufacturing route, not universal commercial composition ranges.[10] R&D should separate a project intended to retain turmeric flavour and volatile constituents from one intended to enrich the three principal curcuminoids: oils and resins rejected during pigment purification can be desirable in a spice oleoresin.[10]"
+              "text": "The extraction solvent carries soluble constituents out of milled, dried rhizomes. Solvent composition, temperature, contact time and the amount of solvent relative to solids affect recovery and the accompanying oils and resins. The FAO/JECFA manufacturing account describes removing solvent to obtain an oleoresin, followed by selective separation and crystallization when a concentrated pigment is required.[10]"
             },
             {
               "type": "paragraph",
-              "text": "Start with a representative incoming sample, moisture, particle-size distribution and individual curcumin, demethoxycurcumin and bisdemethoxycurcumin measurements. Express incoming solids and marker mass on a dry basis so moisture differences do not masquerade as extraction efficiency. Chromatography can distinguish these compounds, and solvent composition can change their relative recovery.[7] As an engineering decision, milling should shorten diffusion distance without producing unnecessary fines. Select the distribution against actual cake pressure drop, wash demand and residual markers rather than treating mesh size as an independent quality target."
+              "text": "Milling shortens the distance that solvent and dissolved compounds travel through plant tissue. Very fine particles can make filtration slower and retain extract in the filter cake. Extraction trials therefore need both a measurement of recovered curcuminoids and an assessment of solid–liquid separation. Moisture and starting curcuminoid content provide the basis for comparing different rhizome batches.[7]"
             },
             {
               "type": "paragraph",
-              "text": "A traceable laboratory example used 100±0.5 mg commercial turmeric powder with 5 mL solvent in 15 mL centrifuge tubes, approximately 15 seconds of vortexing and five minutes of ultrasound. Aqueous ethanol extractions were at ambient temperature, followed by centrifugation at 4000×g for ten minutes, 0.45 μm PVDF filtration and HPLC-DAD. Recoveries were approximately 32.22 mg/g with 50% ethanol and 34.26 mg/g with pure ethanol. These are recovered curcuminoids per gram of that powder under short analytical extraction conditions—not 32% extract potency and not proof that 50% ethanol is universally optimal.[7] The engineering lesson is to test whether a small incremental recovery justifies higher solvent-recovery duty, flammability controls and different coextractives."
+              "text": "Concentration removes solvent; purification changes the proportion of pigment relative to other extracted substances. During crystallization, pigment forms crystals while some other constituents remain in the mother liquor, the liquid left after crystal formation. Washing removes adhering mother liquor, and drying reduces residual solvent. Crystal assay and total pigment recovery describe different outcomes: a purer crystal fraction can still leave substantial pigment in the liquid fractions.[10][11]"
             },
             {
               "type": "paragraph",
-              "text": "Keep extraction and purification accounts separate. Concentrating clarified liquid raises the concentrations of its nonvolatile constituents together; enrichment relative to oleoresin impurities requires selective separation. Crystallization uses solubility and supersaturation differences to move target pigment into crystals while leaving part of the impurities in mother liquor. Crystal washing removes adhering mother liquor, and drying removes solvent. JECFA explicitly defines purification by crystallization while allowing minor naturally occurring oils and resins.[11] A proposed pilot mass balance should assay feed liquor, crystals, washings and mother liquor for all three markers. Report crystal purity and overall marker recovery separately: high purity with substantial mother-liquor loss is not high extraction efficiency. Set mother-liquor reuse by impurity accumulation and profile drift rather than unlimited recycling."
-            },
-            {
-              "type": "paragraph",
-              "text": "Only after this comes dispersion engineering. Dissolving purified pigment in oil, emulsifying it, and optionally drying it with wall material changes its distribution and stability in a formulation; it does not extract more pigment from rhizomes. JECFA describes the colour as insoluble in water and soluble in ethanol, so greater crystalline purity does not remove the physical challenge of mixing it into water.[11] Wettability, dispersibility, colloidal stability and molecular solubility need separate measurements. A product called “water-soluble curcumin” should identify its carrier, oil phase and dispersed form when it is actually an emulsion system."
+              "text": "For a dispersible ingredient, formulation may include an oil phase, emulsifiers or a drying carrier. Emulsification distributes oil as droplets in water, while a carrier can support a dried formulation. These treatments change how the ingredient mixes into a product. Oleoresins, crystalline pigments and dispersible powders can require different combinations of operations; crystallization and emulsification are not compulsory stages for every form.[4][10]"
             }
           ]
         },
         {
           "id": "equipment",
-          "heading": "Equipment: separate the extraction train from the delivery-system train",
+          "heading": "Equipment and its role",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "This is a proposed engineering comparison based on the separation routes and emulsion research, not a statement of vendor performance or installed manufacturing capability.[4][10]"
+              "text": "Equipment is described here by function. Extraction equipment transfers constituents from plant tissue; separation equipment removes solids or enriches pigment; formulation equipment controls droplets or powder properties. The following units are process options, not a description of installed facilities.[4][10]"
             },
             {
               "type": "table",
               "headers": [
-                "Unit and options",
-                "Reason to select",
-                "Cost or failure mechanism",
-                "Validation output"
+                "Unit",
+                "Role in processing",
+                "What to evaluate"
               ],
               "rows": [
                 [
-                  "Jacketed stirred extractor with condenser/recovery",
-                  "Independent solvent-strength, time and temperature control; staged washes",
-                  "Diminishing late-stage recovery, entrained fines, combustible vapour management",
-                  "Stage recovery, residue assay, solvent balance"
+                  "Mill and stirred extraction vessel",
+                  "Reduce rhizome size, wet the powder and maintain solvent contact. A jacket controls temperature.",
+                  "Particle-size distribution, extraction time, temperature and curcuminoids remaining in the residue."
                 ],
                 [
-                  "Ultrasound-assisted extraction",
-                  "Screening short-time mass-transfer intensification",
-                  "Bath rating is not energy delivered to material; nonuniform fields on scale-up",
-                  "Temperature rise, effective volume, recovery and filtration at comparable energy"
+                  "Condenser and solvent recovery",
+                  "Condense solvent vapour from extraction or concentration for controlled collection.",
+                  "Solvent balance, recovered-solvent composition and safe handling of flammable vapours."
                 ],
                 [
-                  "Centrifuge or filter",
-                  "Separates rhizome solids from extract",
-                  "Marker-containing liquor retained in cake; excessive washing adds evaporation",
-                  "Assays of both phases, washing recovery, pressure drop or throughput"
+                  "Filter or centrifuge",
+                  "Separate rhizome solids from extract; filters can also collect and wash crystals.",
+                  "Liquid retained by solids, pigment in washings, filtration resistance and throughput."
                 ],
                 [
-                  "Vacuum concentration, controlled crystallization and crystal washing",
-                  "Separates solvent recovery from pigment enrichment",
-                  "Fine crystals, mother-liquor inclusion, uneven residual solvent",
-                  "Crystal size, purity, mother-liquor loss, residual-solvent distribution"
+                  "Vacuum evaporator and crystallizer",
+                  "Remove solvent at reduced pressure, then control crystal formation where pigment purification is needed.",
+                  "Heat exposure, crystal size, assay, pigment remaining in mother liquor and residual solvent."
                 ],
                 [
-                  "Rotor–stator premixing plus high-pressure homogenization/microfluidization",
-                  "Breaks an oil phase into smaller droplets",
-                  "Pass-related heating and recoalescence when interfaces are inadequately covered",
-                  "Temperature and flow per pass, size distribution, undiluted stability"
+                  "Rotor–stator mixer and high-pressure homogenizer",
+                  "Premix oil and water, then break oil into smaller droplets in an emulsion.",
+                  "Temperature rise, droplet distribution and stability at the intended formulation concentration."
                 ],
                 [
-                  "Spray drying or freeze drying after formulation",
-                  "Produces a measurable powder format",
-                  "Carrier dilution, wall deposition, reconstitution aggregation",
-                  "Solids yield, carrier fraction, reconstituted size, marker retention"
+                  "Spray dryer or freeze dryer",
+                  "Remove water from a formulated dispersion to produce a powder.",
+                  "Powder recovery, carrier proportion, pigment retention and dispersion after reconstitution."
                 ]
               ]
             },
             {
               "type": "paragraph",
-              "text": "An informative MCT experiment used 0.15 wt% curcumin, 10 wt% MCT and 10 wt% emulsifier in the final emulsion. The emulsifier systems were 10% Tween-20, 4% sorbitan monooleate plus 6% Tween-20, or 4% soy lecithin plus 6% Tween-20. Curcumin was dissolved in oil with stirring and sonication at 70°C; premixing was at 8000 rpm for five minutes, followed by four microfluidization cycles at 5000, 10000 or 15000 psi. Total batch mass was not stated, so hourly capacity cannot be inferred.[4] At 15000 psi, initial sizes for the three systems were 89.08, 73.43 and 67.68 nm, respectively, but size still increased during 28 days at room temperature. Small initial droplets did not establish invariant shelf-life performance.[4]"
-            },
-            {
-              "type": "paragraph",
-              "text": "The aqueous phase contained 20 mM bis-tris buffer at pH 7.0 and 0.02 wt% sodium azide. This was a physical-stability research system, not an edible beverage recipe. Removing the experimental preservative, substituting food-use emulsifiers, changing oil loading or diluting into a beverage requires new stability work.[4] These material boundaries should travel with the pressure and size figures rather than being omitted from a nano-size success story."
+              "text": "Ultrasound can assist laboratory extraction by improving contact and mass transfer. Its effectiveness depends on the volume, geometry and energy reaching the material. A bath power rating alone does not specify treatment intensity or predict larger-scale output. Similarly, homogenizing pressure describes one operating condition rather than production capacity.[4][7]"
             }
           ]
         },
         {
           "id": "applications",
-          "heading": "Applications: define success in the finished matrix",
+          "heading": "Applications and formulation requirements",
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "For opaque dairy or plant beverages, proposed early targets are uniform colour, no coarse particles and no noticeable oil ring, alongside whole-container marker retention. For clear acidic drinks, first define permissible colour depth and turbidity: a lipid delivery system changes the visual brief, so “soluble” is an inadequate acceptance term. The MCT study provides droplet-stability evidence, not validation of pasteurization, acid/salt beverage matrices or commercial packaging.[4] Design trials around the actual pH, ionic environment, thermal history, light transmission and storage temperature, including a carrier-only blank to distinguish oil-system changes from pigment degradation."
+              "type": "heading",
+              "text": "Spice and colour ingredients"
             },
             {
               "type": "paragraph",
-              "text": "In capsules and tablets, a higher pigment fraction may reduce required filling mass, but particle size, flow and wettability should follow filling and disintegration requirements rather than beverage-emulsion results. Procurement should compare both price per kilogram and price per gram of markers determined by the same method. For dispersible powders, additionally list carrier mass and actual oil/emulsifier intake per serving. Compare sensory and stability performance at equal marker dose rather than equal powder mass."
+              "text": "Oleoresins retain some of the volatile oils and resins associated with turmeric flavour. Concentrated crystalline pigment contains a larger proportion of curcuminoids and less of those accompanying fractions. The choice depends on whether the product needs spice character, colour, or both. The cited JECFA specification concerns the food colour; permission for a particular use depends on the destination market.[10][11]"
+            },
+            {
+              "type": "heading",
+              "text": "Beverages"
             },
             {
               "type": "paragraph",
-              "text": "Filtration can conceal losses. In the turmeric extraction study, milk extracts underwent ethanol protein precipitation before chromatographic analysis; the result was extractability under that preparation, not human absorption.[7] In product development, testing only supernatant after removing sediment can confuse settling with degradation and omit discarded pigment from the balance. First redisperse and assay the whole container; then measure supernatant, sediment and container rinses separately to identify the loss pathway."
+              "text": "A dispersion may be considered for opaque dairy or plant beverages, where colour uniformity, sediment, coarse particles and an oil ring are useful observations. In clear drinks, added oil droplets or suspended particles may increase turbidity. Evaluation at the intended addition rate should include acidity, salts, heat treatment, packaging and storage conditions. These are formulation considerations, not validated beverage recipes."
+            },
+            {
+              "type": "paragraph",
+              "text": "Emulsion studies can explain how droplet size changes with formulation and processing. They do not establish the shelf life of a drink made with different ingredients. A formulation using permitted food ingredients needs its own stability assessment after dilution and thermal processing.[4]"
+            },
+            {
+              "type": "heading",
+              "text": "Capsules, tablets and reconstituted powders"
+            },
+            {
+              "type": "paragraph",
+              "text": "For capsules and tablets, curcuminoid concentration affects the mass of ingredient needed per serving. Powder flow, filling consistency, wettability and disintegration also affect the finished dosage form. A carrier-containing powder may require more material than a crystalline pigment to provide the same measured curcuminoid amount. Comparisons should use the same assay method and the actual carrier composition."
+            },
+            {
+              "type": "paragraph",
+              "text": "For powders intended to be mixed with water, performance after reconstitution matters: wetting time, visible clumps, sediment and colour uniformity can change after drying and storage. Compare powders and liquid dispersions at the same pigment concentration. Droplet sizes measured before drying do not describe the reconstituted product.[4]"
             }
           ]
         },
         {
           "id": "standards",
-          "heading": "Standards and QA: define what “90%” measures",
+          "heading": "Quality and purchasing specifications",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "The cited JECFA curcumin specification was prepared in 2003 and included in the combined monograph. It requires at least 90% total colouring matter, measured by absorbance at 425 nm in ethanol, and instructs analysts to work without delay because colour fades.[11] That value is not automatically “at least 90% single-compound curcumin,” nor is it methodologically identical to an HPLC sum of three components. Specifications should state analyte name, reporting basis, method, component distribution and product form. A carrier-containing powder must not inherit the undiluted crystal assay."
+              "text": "The specification should identify the material being purchased before giving a percentage. A useful document set links the ingredient name and form to a batch certificate of analysis, test methods and the composition of added carriers. The fields below are items to request or verify, not specifications for a listed commercial batch.[11][13]"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Specification field",
+                "Information needed"
+              ],
+              "rows": [
+                [
+                  "Identity and form",
+                  "Botanical identity, rhizome source, extract or oleoresin/crystal/dispersion form, and traceability to the batch."
+                ],
+                [
+                  "Curcuminoid assay",
+                  "Single-compound curcumin or total curcuminoids/colouring matter; reporting basis, method and component profile."
+                ],
+                [
+                  "Carriers and formulation ingredients",
+                  "Identity and proportion of carriers, oils and emulsifiers; assay of the final blend."
+                ],
+                [
+                  "Solvents and contaminants",
+                  "Solvents used in extraction and purification, residual-solvent results, relevant elemental and other contaminant limits, and microbiological requirements."
+                ],
+                [
+                  "Physical properties",
+                  "Moisture, particle size and, where relevant, flow or reconstitution results under stated test conditions."
+                ]
+              ]
             },
             {
               "type": "paragraph",
-              "text": "The same document limits acetone to 30 mg/kg and hexane to 25 mg/kg; methanol, ethanol, isopropanol and ethyl acetate appear in the 50 mg/kg limit group, and lead is limited to 2 mg/kg.[11] These figures belong to that food-colour monograph, not a universal rule for every turmeric supplement and market. Solvent records should cover extraction, purification, crystal washing and recycling rather than just the final wash. A suitable headspace-GC method needs matrix-appropriate recovery and quantification limits for resin, oil or wall material. Identity, contaminants and microbiology remain part of the quality plan; appearance alone is not identity."
+              "text": "The cited Curcumin specification, prepared at the 61st JECFA in 2003, requires at least 90% total colouring matter. Its assay uses absorbance at 425 nm in ethanol, with prompt measurement because the colour fades. This is a total colouring-matter result, not a claim of 90% single-compound curcumin. High-performance liquid chromatography (HPLC) can separate the three principal curcuminoids and report them individually or as a sum; results from different methods require a comparability assessment.[7][11]"
             },
             {
               "type": "paragraph",
-              "text": "For US dietary-supplement manufacturing, 21 CFR 111.70 requires component identity specifications and, as necessary, purity, strength, composition and contaminant limits, together with controls at process stages where required.[13] A development target for droplet size or crystal recovery is therefore not automatically a statutory limit. Keep legal requirements, contractual specifications and internal process limits distinct. When a brand uses “standardized,” identify the actual analytical attribute being standardized."
+              "text": "That food-colour monograph gives limits of 30 mg/kg for acetone, 25 mg/kg for hexane, 50 mg/kg in the listed methanol/ethanol/isopropanol/ethyl acetate group, and 2 mg/kg for lead. These are dated, material-specific reference values, not universal limits for every turmeric ingredient or supplement. Current requirements must be checked for the market and intended use.[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "For US dietary-supplement manufacturing, 21 CFR 111.70 requires component identity specifications and, as necessary, specifications for purity, strength, composition and contaminant limits, as well as controls at relevant process stages. Contractual specifications and internal process targets need to be distinguished from statutory requirements. The final carrier-containing blend needs its own assay rather than the assay of the pigment before blending.[13]"
             }
           ]
         },
         {
           "id": "insights",
-          "heading": "Research priorities and failure diagnosis",
+          "heading": "Common formulation questions and literature cases",
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "A useful first research programme links solvent selectivity, crystallization recovery and carrier loading through one mass balance. The modest difference between 50% and pure ethanol in the analytical experiment suggests a solvent-strength screening direction, but additional hydrophilic coextractives could offset upstream savings through downstream purification or drying.[7][10] Track marker mass in accepted final powder divided by marker mass in incoming dry rhizomes, and disclose solvent recovery, crystal losses and carrier dilution so engineering and procurement see the full cost."
+              "type": "heading",
+              "text": "Why does pigment settle or an emulsion separate?"
             },
             {
               "type": "paragraph",
-              "text": "Second, model droplet growth separately from pigment loss. The MCT paper discusses time-dependent growth as Ostwald ripening and combines dynamic light scattering with Turbiscan observations of undiluted samples.[4] A proposed development panel combines size distribution, vertical transmission/backscatter, colour difference and HPLC. Growing droplets with retained pigment point first to interface/oil-phase design; stable size with falling assay directs attention to light, oxygen, pH and heat; concentration differences between sampling layers point to separation and sampling."
+              "text": "Crystalline curcumin colour is insoluble in water. Suspended crystals may settle, while droplets in an emulsion may grow or migrate through the liquid. A material that disperses visibly is not necessarily molecularly dissolved. The supplied form and the composition of its oil phase or carrier help determine which measurements are relevant.[4][11]"
+            },
+            {
+              "type": "heading",
+              "text": "Does a paler sample mean that curcuminoids have degraded?"
             },
             {
               "type": "paragraph",
-              "text": "Third, determine whether powder conversion preserves the benefit of the liquid system. Reconstitution must be tested rather than inferred from the predrying droplet size. Compare crystal suspension, liquid emulsion and reconstituted powder at equal pigment dose. R&D should report application performance, engineering should report powder losses and cleaning demands, procurement should quantify carrier burden, QA should fix representative sampling, and the brand should describe measured colour or dispersion performance. This produces a shared deliverable rather than a string of “high-purity,” “advanced” and “nano” adjectives."
+              "text": "Colour can change because pigment has moved into sediment or onto the container, as well as because of chemical change. For troubleshooting, compare a representative, redispersed whole-container sample with the supernatant, sediment and container rinse. Measuring only the liquid above settled solids can understate total pigment. A suitable chromatographic assay complements visual colour and particle-size measurements.[7]"
+            },
+            {
+              "type": "heading",
+              "text": "Why can a dried dispersion form clumps on mixing?"
+            },
+            {
+              "type": "paragraph",
+              "text": "Drying, storage and wetting can alter how particles associate. Assess a powder after reconstitution under stated mixing conditions, including any sediment left after standing. A liquid intermediate with small droplets is not evidence of the same distribution after drying. Light exposure, acidity and heat also merit assessment when colour retention changes.[4][10]"
+            },
+            {
+              "type": "heading",
+              "text": "Literature case: analytical extraction with aqueous ethanol"
+            },
+            {
+              "type": "paragraph",
+              "text": "A 2022 study used 100±0.5 mg commercial turmeric powder and 5 mL solvent in a 15 mL centrifuge tube. Aqueous ethanol extractions were at room temperature, with approximately 15 seconds of vortexing and 5 minutes of ultrasound, followed by centrifugation at 4000×g for 10 minutes and filtration through 0.45 μm PVDF. HPLC with diode-array detection (HPLC-DAD) measured approximately 32.22 mg/g curcuminoids with 50% ethanol and 34.26 mg/g with pure ethanol. The unit is recovered curcuminoids per gram of the tested powder under analytical extraction conditions; these values are neither industrial yields nor finished-extract purity.[7]"
+            },
+            {
+              "type": "heading",
+              "text": "Literature case: curcumin in an MCT emulsion"
+            },
+            {
+              "type": "paragraph",
+              "text": "A 2016 study started with purchased curcumin and medium-chain triglyceride (MCT) oil. Final emulsions contained 0.15 wt% curcumin, 10 wt% MCT and 10 wt% emulsifier. Three emulsifier systems were compared: 10% Tween-20; 4% sorbitan monooleate plus 6% Tween-20; and 4% soy lecithin plus 6% Tween-20.[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "The aqueous phase contained 20 mM bis-tris buffer at pH 7.0 and 0.02 wt% sodium azide. This is a laboratory physical-stability model, not an edible beverage recipe; it must not be consumed or copied as a food formulation. Substituting permitted food ingredients or changing dilution requires new testing.[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Curcumin was dissolved in oil with stirring and sonication at 70°C. After adding lipophilic emulsifiers, the oil phase was stirred at 70°C for 30 minutes. Oil and water phases were premixed at 8000 rpm for 5 minutes, then microfluidized at 5000, 10000 or 15000 psi for 4 cycles. Total batch mass was not reported, so the study does not establish hourly output.[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "At 15000 psi, the three systems had day 1 droplet sizes of 89.08, 73.43 and 67.68 nm, respectively. Dynamic light scattering (DLS) measurements were made at room temperature in triplicate after 1000-fold dilution with the same bis-tris buffer containing sodium azide. Droplet-size comparisons over 28 days at room temperature showed growth during storage. Separately, Turbiscan monitored undiluted emulsions for 3 days by changes in transmission and backscattering. The 3-day Turbiscan observation and 28-day droplet-size comparison are distinct tests; neither supplies a commercial beverage shelf life.[4]"
+            },
+            {
+              "type": "heading",
+              "text": "Historical manufacturing reference"
+            },
+            {
+              "type": "paragraph",
+              "text": "The 2004 FAO/JECFA Chemical and Technical Assessment describes oleoresin with about 25–35% colouring matter and purified powder with over 90%. These figures describe the historical route in section 3.2, not a general composition range for all products sold as turmeric extract. Its process account and the 2003 specification explain pigment separation and identity, but do not establish a supplier’s facilities or current market authorization.[10][11]"
             }
           ]
         }
@@ -1525,14 +1697,14 @@
       },
       {
         "id": 10,
-        "title": "Microsoft Word - 2004-02-24 CTA 61 Curcumin.doc",
+        "title": "Curcumin — Chemical and Technical Assessment, 61st JECFA (FAO, 2004), sections 2–3",
         "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf",
         "accessed": "2026-09-09",
         "scope": "official historical chemical and technical assessment"
       },
       {
         "id": 11,
-        "title": "JECFA Specifications Template",
+        "title": "Curcumin — JECFA specification, 61st meeting (2003), FNP 52 Add. 11; Definition, Assay and Purity",
         "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf",
         "accessed": "2026-09-09",
         "scope": "official food-colour specification"
