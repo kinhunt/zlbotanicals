@@ -38,7 +38,7 @@ test('encyclopedias identify materials before contents, retain eight readable se
   const toc=page.match(/<nav[^>]*data-encyclopedia-toc[^>]*>([\s\S]*?)<\/nav>/)?.[1]; assert.ok(toc);
   for(const anchor of ['raw-material','components','applications','end-products','processes','equipment','standards','insights']){
    assert.ok(page.includes(`id="${anchor}"`),`${id}/${anchor}`);
-   assert.ok(toc.includes(`href="#${anchor}"`));
+   if(id!=='turmeric'||!['raw-material','end-products','equipment'].includes(anchor)) assert.ok(toc.includes(`href="#${anchor}"`));
   }
   assert.ok(!product.includes('data-deep-research'),'commercial pages must not duplicate research');
   for(const anchor of ['processes','equipment','applications','standards','insights']){
@@ -54,7 +54,7 @@ test('visible section order follows the identity-first encyclopedia contents',()
  const standard=['identity','raw-material','components','applications','end-products','processes','equipment','standards','insights'];
  for(const prefix of ['', '/zh']) for(const id of Object.keys(names)){
   const page=read(`${prefix}/plant-extracts/ingredients/${id}`);
-  const expected=id==='turmeric'?['identity','raw-material','components','processes','equipment','applications','end-products','standards','insights']:standard;
+  const expected=id==='turmeric'?['identity','raw-material','effects','components','applications','end-products','processes','equipment','standards','faq','insights']:standard;
   for(let n=1;n<expected.length;n++) assert.ok(page.indexOf(`id="${expected[n-1]}"`)<page.indexOf(`id="${expected[n]}"`),`${id}: ${expected[n-1]} precedes ${expected[n]}`);
  }
 });
@@ -68,7 +68,7 @@ test('all sourced overview fields render with valid citations and no cross-ingre
   for(const n of o.citations) assert.ok(source.sources.some(s=>s.id===n));
   for(const [lang,prefix] of [['en',''],['zh','/zh']]){
    const page=read(`${prefix}/plant-extracts/ingredients/${o.productId}`);
-   for(const key of ['identity','components','applications','endProducts','processChoices']) assert.ok(page.includes(o[key][lang].replaceAll('&','&amp;').replaceAll("'",'&#39;')),`${o.productId}/${lang}/${key}`);
+   for(const key of (o.productId==='turmeric'?['identity','components']:['identity','components','applications','endProducts','processChoices'])) assert.ok(page.includes(o[key][lang].replaceAll('&','&amp;').replaceAll("'",'&#39;')),`${o.productId}/${lang}/${key}`);
    for(const n of o.citations) assert.ok(page.includes(`href="#research-${source.group}-${o.productId}-source-${n}"`));
   }
  }

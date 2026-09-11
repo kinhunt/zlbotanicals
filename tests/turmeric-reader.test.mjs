@@ -5,11 +5,11 @@ import {createHash} from 'node:crypto';
 const data=JSON.parse(readFileSync('src/data/deep-ingredients.json')).find(x=>x.productId==='turmeric');
 const overview=JSON.parse(readFileSync('src/data/ingredient-overviews.json')).find(x=>x.productId==='turmeric');
 const read=lang=>readFileSync(`dist${lang==='zh'?'/zh':''}/plant-extracts/ingredients/turmeric/index.html`,'utf8');
-test('turmeric has one definition, process-before-use order, retained anchors and scoped cases',()=>{
+test('turmeric has one definition, application-first order, retained anchors and scoped cases',()=>{
  for(const lang of ['en','zh']){
   const html=read(lang), text=html.replace(/<[^>]+>/g,' ');
   assert.equal(text.split(overview.identity[lang]).length-1,1,'definition appears once');
-  const order=['identity','components','processes','equipment','applications','standards','insights'];
+  const order=['identity','effects','components','applications','processes','equipment','standards','faq','insights'];
   for(let i=1;i<order.length;i++) assert.ok(html.indexOf(`id="${order[i-1]}"`)<html.indexOf(`id="${order[i]}"`),'reader order');
   for(const id of ['raw-material','end-products','process','application','specification','evidence','research','research-caveats','pmid-39614566','industry-updates']) assert.ok(html.includes(`id="${id}"`),id);
   assert.doesNotMatch(text,/Microsoft Word|JECFA Specifications Template/);

@@ -24,10 +24,24 @@ try{
    boxes[selector]=await page.locator(selector).boundingBox();
    if(width===1440){const b=boxes[selector];assert.ok(b.width>=760&&b.width<=860,selector);assert.ok(Math.abs(b.x+b.width/2-width/2)<2,selector+' centered');}
   }
-  const first=page.locator('[data-encyclopedia-toc] a').first();await first.focus();await page.keyboard.press('Enter');assert.equal(new URL(page.url()).hash,'#raw-material');
+  const first=page.locator('[data-encyclopedia-toc] a').first();await first.focus();await page.keyboard.press('Enter');assert.equal(new URL(page.url()).hash,'#identity');
   assert.equal(await page.locator('[data-process-branches] .flow-option').count(),2);
   const body=page.locator('[data-deep-research]');
   assert.equal(await body.locator('nav').count(),1);
+  assert.equal(await body.locator('[data-application-matrix] tbody tr').count(),5);
+  for(const img of await body.locator('.concept-figure img').all()) {
+   await img.scrollIntoViewIfNeeded();await img.evaluate(el=>el.decode());assert.ok(await img.evaluate(el=>el.naturalWidth>0));
+   assert.ok((await img.locator('..').locator('figcaption').innerText()).length>(lang==='zh'?35:60));
+  }
+  for(const details of await body.locator('[data-study-box]').all()) {
+   await details.locator('summary').click();assert.equal(await details.getAttribute('open'),'');
+   assert.ok((await details.innerText()).includes('WOMAC'));await details.locator('summary').click();
+  }
+  for(const n of [1,2]) {
+   const target=`#research-turmeric-clinical-source-${n}`;
+   await body.locator(`a[href="${target}"]`).first().click();assert.equal(new URL(page.url()).hash,target);
+   assert.ok((await page.locator(target).innerText()).length>80);
+  }
   for(const region of await body.locator('.research-table').all()) {
    const hint=await region.locator('.table-hint').boundingBox(),box=await region.boundingBox();
    assert.ok(hint.width<=box.width-16,'scroll hint fits region');
@@ -35,7 +49,7 @@ try{
   }
   const paragraphs=await body.locator('p').allTextContents();
   assert.equal(new Set(paragraphs).size,paragraphs.length,'no repeated paragraphs');
-  for(const anchor of ['raw-material','components','processes','equipment','applications','end-products','standards','insights']){
+  for(const anchor of ['identity','effects','components','applications','processes','standards','faq','insights']){
    await body.locator(`nav a[href="#${anchor}"]`).click();assert.equal(new URL(page.url()).hash,`#${anchor}`);
    assert.ok((await page.locator(`#${anchor}`).innerText()).length>30);
   }
@@ -52,7 +66,8 @@ try{
   }
   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false);
   if(js){
-   for(const [name,selector] of [['intro','#identity'],['forms','#components'],['process','#processes'],['equipment','#equipment'],['case','#research-turmeric-insights-8'],['references','#research-turmeric-references']]){
+   await body.locator('.research-table').evaluateAll(els=>els.forEach(el=>el.scrollLeft=0));
+   for(const [name,selector] of [['intro','#identity'],['effects','#effects'],['applications','#applications'],['forms','#components'],['process','#processes'],['equipment','#equipment'],['case','#research-turmeric-insights-8'],['references','#research-turmeric-references']]){
     await page.locator(selector).evaluate(el=>el.scrollIntoView({behavior:'instant',block:'start'}));
     await page.screenshot({path:`${out}/${lang}-${width}-${name}.png`});
    }

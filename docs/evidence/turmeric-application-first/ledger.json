@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://research.monash.edu/en/publications/effectiveness-of-curcuma-longa-extract-for-the-treatment-of-sympt",
+      "title": "Wang et al. 2020 randomized trial, institutional abstract",
+      "accessed": "2026-09-11",
+      "quotes": [
+        {
+          "text": "RESULTS: CL improved VAS pain compared with placebo by -9.1 mm (95% CI, -17.8 to -0.4 mm [P = 0.039]) but did not change effusion-synovitis volume (3.2 mL [CI, -0.3 to 6.8 mL]). CL also improved WOMAC knee pain (-47.2 mm [CI, -81.2 to -13.2 mm]; P = 0.006) but not lateral femoral cartilage T2 relaxation time (-0.4 ms [CI, -1.1 to 0.3 ms]). The incidence of adverse events was similar in the CL (n = 14 [39%]) and placebo (n = 18 [53%]) groups (P = 0.16); 2 events in the CL group and 5 in the placebo group may have been treatment related.",
+          "added": "2026-09-11"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9580113/fullTextXML",
+      "title": "Feng et al. 2022 systematic review, full text",
+      "accessed": "2026-09-11",
+      "quotes": [
+        {
+          "text": "Fifteen studies with 1670 patients were included.",
+          "added": "2026-09-11"
+        },
+        {
+          "text": "The principal finding of our study was that CURs were associated with better effectiveness than placebo and not inferior to NSAIDs in terms of pain reduction and functional promotion for knee OA. The pooled analyses found that CURs were more effective than placebo in the improvement of VAS for pain, WOMAC total score, WOMAC pain score, WOMAC function score and WOMAC stiffness score, while there was no significant difference found between CURs and NSAIDs. We used the MCID as a threshold in this meta-analysis to assess the clinical significance of the difference between CURs and the control groups, instead of rely solely on the statistical significance. The MCID can be calculated by anchor-based and distribution-based methods, we applied the anchor-based method to set the threshold at 20% based on previous research [27, 33–36]. The significance test of clinical benefits found that only VAS for pain and WOMAC total score achieved clinical significance by exceeding their MCID, while WOMAC pain score, WOMAC function score and WOMAC stiffness score did not. We also found that CURs did not induce an increase of AEs compared with placebo and NSAIDs. The total incidences of AEs in CURs and control groups were 25.06% and 35.57%. Diarrhea and/or constipation and stomach pain (5.8% and 8.17%) were the most frequent mild AEs in CURs and control groups respectively (Table 4).",
+          "added": "2026-09-11"
+        }
+      ]
+    }
+  ]
+}
