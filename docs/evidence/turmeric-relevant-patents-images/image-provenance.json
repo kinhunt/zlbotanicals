@@ -1,0 +1,72 @@
+{
+  "tool": "image_generate",
+  "modelReturned": "gpt-image-2-high",
+  "providerReturned": "claw-max",
+  "requestedAspectRatio": "square",
+  "reportedSize": "1024x1024",
+  "decodedSourceSize": [
+    1536,
+    1024
+  ],
+  "sourcePath": "/data/hermes/cache/images/claw_max_gpt-image-2-high_20260911_053432_3cad2fe9.png",
+  "sourceSHA256": "1a8905a9362d35445cec33682e160cff390c6d92f6847d228e84e4817994106d",
+  "optimization": "Pillow WebP quality 84 method 6, crop only; no enlargement",
+  "assets": [
+    {
+      "id": "plant-latte",
+      "path": "/images/ingredients/turmeric-plant-latte-concept.webp",
+      "crop": [
+        0,
+        0,
+        762,
+        506
+      ],
+      "width": 762,
+      "height": 506,
+      "bytes": 48754,
+      "sha256": "6fd1f96dc16c73f628baaa59dabab580c1cf22ebac646837539c3c70c13c5c65"
+    },
+    {
+      "id": "instant-powder",
+      "path": "/images/ingredients/turmeric-instant-powder-concept.webp",
+      "crop": [
+        774,
+        0,
+        1536,
+        506
+      ],
+      "width": 762,
+      "height": 506,
+      "bytes": 30870,
+      "sha256": "0b8b4dd21816749007c1a565000d17b92925dec8e5d1eb4112cf6d42da5c50f6"
+    },
+    {
+      "id": "capsule-tablet",
+      "path": "/images/ingredients/turmeric-capsule-tablet-concept.webp",
+      "crop": [
+        0,
+        518,
+        762,
+        1024
+      ],
+      "width": 762,
+      "height": 506,
+      "bytes": 45624,
+      "sha256": "d9f9ff61a327c5d5440d4d403507c7c48c8bc464ec6d9bcdf073ffa83ee0cb27"
+    },
+    {
+      "id": "seasoning-food",
+      "path": "/images/ingredients/turmeric-seasoning-food-concept.webp",
+      "crop": [
+        774,
+        518,
+        1536,
+        1024
+      ],
+      "width": 762,
+      "height": 506,
+      "bytes": 64654,
+      "sha256": "ea58dda16ff9e90c157d3db2116b93da07c4a9cc7a7a0b3fc842905e2546cff6"
+    }
+  ]
+}

@@ -12,12 +12,12 @@ test('turmeric offers linked formulation and patent sections with concise image 
  }
 });
 
-test('four concrete combinations and three distinct patent families render with claim scope and citations',()=>{
+test('four concrete combinations and four distinct patent families render with claim scope and citations',()=>{
  for(const lang of ['en','zh']){
   const h=read(lang);
   assert.equal((h.match(/data-formulation-concept=/g)||[]).length,4);
-  assert.equal((h.match(/data-patent-family=/g)||[]).length,3);
-  for(const id of ['WO2007101551A2','US10245238B2','WO2012156979A1']) assert.ok(h.includes(`href="https://patents.google.com/patent/${id}/en"`),id);
+  assert.equal((h.match(/data-patent-family=/g)||[]).length,4);
+  for(const id of ['WO2007101551A2','US10245238B2','WO2012156979A1','WO2007143635A1']) assert.ok(h.includes(`href="https://patents.google.com/patent/${id}/en"`),id);
   for(const word of ['HPMC','HPC','MCT','Indena','Theravalues','OmniActive','2006-03-09','2014-05-15','2011-05-16','2019-04-02']) assert.ok(h.includes(word),word);
   assert.ok(h.includes('data-formulation-roles'));
   const ids=[...h.matchAll(/\sid="([^"]+)"/g)].map(m=>m[1]);assert.equal(ids.length,new Set(ids).size);
