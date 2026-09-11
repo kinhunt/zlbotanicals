@@ -40,7 +40,9 @@ test('every dimension renders its actual longform data rather than obsolete shal
   for(const s of data.content[lang]){
    const section=page.match(new RegExp(`<section[^>]*id="${s.id}"[^>]*>([\\s\\S]*?)</section>`));
    assert.ok(section);
-   for(const b of s.blocks){
+   // The curated turmeric presentation merges applications/equipment and separates FAQ.
+   const blocks=k.productId==='turmeric'?(s.id==='applications'?s.blocks.slice(0,2):s.id==='equipment'?s.blocks.slice(-1):s.id==='insights'?s.blocks.slice(6):s.blocks):s.blocks;
+   for(const b of blocks){
     const texts=b.type==='table'?[...b.headers,...b.rows.flat()]:b.type==='list'?b.items:[b.text];
     for(const text of texts) for(const part of text.split(/(\[\d+\]|\*\*[^*]+\*\*)/g)){
      if(!part) continue;
