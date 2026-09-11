@@ -1,0 +1,103 @@
+# Per-asset checklist
+
+## 33 replacement derivatives
+- [x] `green-tea/citrus-tea` — 768×512; source preserved; visual + browser checked.
+- [x] `green-tea/oat-latte` — 768×512; source preserved; visual + browser checked.
+- [x] `green-tea/instant-tea` — 768×512; source preserved; visual + browser checked.
+- [x] `centella-asiatica/hydrating-serum` — 768×512; source preserved; visual + browser checked.
+- [x] `centella-asiatica/lipid-cream` — 768×512; source preserved; visual + browser checked.
+- [x] `centella-asiatica/washable-gel` — 768×512; source preserved; visual + browser checked.
+- [x] `monk-fruit/citrus-sparkling` — 768×512; source preserved; visual + browser checked.
+- [x] `monk-fruit/cultured-dessert` — 768×512; source preserved; visual + browser checked.
+- [x] `monk-fruit/oat-cookie` — 768×512; source preserved; visual + browser checked.
+- [x] `ginseng/citrus-drink` — 768×512; source preserved; visual + browser checked.
+- [x] `ginseng/instant-sachet` — 768×512; source preserved; visual + browser checked.
+- [x] `ginseng/capsule` — 768×512; source preserved; visual + browser checked.
+- [x] `reishi-mushroom/cocoa-oat` — 768×512; source preserved; visual + browser checked.
+- [x] `reishi-mushroom/cultured-yogurt` — 768×512; source preserved; visual + browser checked.
+- [x] `reishi-mushroom/defined-capsule` — 768×512; source preserved; visual + browser checked.
+- [x] `ginkgo-biloba/capsule` — 768×512; source preserved; visual + browser checked.
+- [x] `ginkgo-biloba/tablet` — 768×512; source preserved; visual + browser checked.
+- [x] `ginkgo-biloba/suspension` — 768×512; source preserved; visual + browser checked.
+- [x] `grape-seed/berry-drink` — 768×512; source preserved; visual + browser checked.
+- [x] `grape-seed/capsule` — 768×512; source preserved; visual + browser checked.
+- [x] `grape-seed/serum` — 768×512; source preserved; visual + browser checked.
+- [x] `licorice-root/dgl-chewable` — 768×512; source preserved; visual + browser checked.
+- [x] `licorice-root/glabridin-emulsion` — 768×512; source preserved; visual + browser checked.
+- [x] `licorice-root/flavor-concentrate` — 768×512; source preserved; visual + browser checked.
+- [x] `stevia/citrus-beverage` — 768×512; source preserved; visual + browser checked.
+- [x] `stevia/protein-drink` — 768×512; source preserved; visual + browser checked.
+- [x] `stevia/tabletop-sachet` — 768×512; source preserved; visual + browser checked.
+- [x] `resveratrol/capsule` — 768×512; source preserved; visual + browser checked.
+- [x] `resveratrol/topical` — 768×512; source preserved; visual + browser checked.
+- [x] `resveratrol/reconstitution` — 768×512; source preserved; visual + browser checked.
+- [x] `goji-berry/instant-drink` — 768×512; source preserved; visual + browser checked.
+- [x] `goji-berry/fruit-gummy` — 768×512; source preserved; visual + browser checked.
+- [x] `goji-berry/polysaccharide-capsule` — 768×512; source preserved; visual + browser checked.
+
+## 65 baseline public rasters
+- [x] `public/images/blog/functional-mushroom-market.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/blog/green-tea-energy-beverage-2026.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/blog/reishi-sleep-market-2026.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/blog/turmeric-golden-milk-market.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/blog/zero-calorie-sweetener-market-2026.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/hero/lab-research.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/ingredient-plans/centella-asiatica/hydrating-serum.webp` — 508×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/centella-asiatica/lipid-cream.webp` — 506×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/centella-asiatica/washable-gel.webp` — 506×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/ginkgo-biloba/capsule.webp` — 509×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/ginkgo-biloba/suspension.webp` — 509×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/ginkgo-biloba/tablet.webp` — 509×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/ginseng/capsule.webp` — 506×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/ginseng/citrus-drink.webp` — 506×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/ginseng/instant-sachet.webp` — 504×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/goji-berry/fruit-gummy.webp` — 510×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/goji-berry/instant-drink.webp` — 509×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/goji-berry/polysaccharide-capsule.webp` — 509×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/grape-seed/berry-drink.webp` — 508×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/grape-seed/capsule.webp` — 509×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/grape-seed/serum.webp` — 510×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/green-tea/citrus-tea.webp` — 554×941; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/green-tea/instant-tea.webp` — 553×941; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/green-tea/oat-latte.webp` — 556×941; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/licorice-root/dgl-chewable.webp` — 508×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/licorice-root/flavor-concentrate.webp` — 510×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/licorice-root/glabridin-emulsion.webp` — 512×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/monk-fruit/citrus-sparkling.webp` — 585×887; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/monk-fruit/cultured-dessert.webp` — 590×887; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/monk-fruit/oat-cookie.webp` — 583×887; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/reishi-mushroom/cocoa-oat.webp` — 508×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/reishi-mushroom/cultured-yogurt.webp` — 509×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/reishi-mushroom/defined-capsule.webp` — 508×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/resveratrol/capsule.webp` — 506×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/resveratrol/reconstitution.webp` — 503×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/resveratrol/topical.webp` — 512×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/stevia/citrus-beverage.webp` — 507×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/stevia/protein-drink.webp` — 507×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredient-plans/stevia/tabletop-sachet.webp` — 506×1024; preserve source; landscape derivative; baseline hash verified.
+- [x] `public/images/ingredients/turmeric-applications-concept.webp` — 1672×941; retain original landscape; baseline hash verified.
+- [x] `public/images/ingredients/turmeric-capsule-tablet-concept.webp` — 762×506; retain original landscape; baseline hash verified.
+- [x] `public/images/ingredients/turmeric-instant-powder-concept.webp` — 762×506; retain original landscape; baseline hash verified.
+- [x] `public/images/ingredients/turmeric-material-forms-concept.webp` — 2172×724; retain original landscape; baseline hash verified.
+- [x] `public/images/ingredients/turmeric-plant-latte-concept.webp` — 762×506; retain original landscape; baseline hash verified.
+- [x] `public/images/ingredients/turmeric-seasoning-food-concept.webp` — 762×506; retain original landscape; baseline hash verified.
+- [x] `public/images/odm/packaging-concepts.webp` — 1536×1024; retain original landscape; baseline hash verified.
+- [x] `public/images/products/centella-asiatica.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/products/ginkgo-biloba.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/products/ginseng.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/products/goji-berry.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/products/grape-seed.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/products/green-tea.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/products/licorice-root.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/products/monk-fruit.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/products/reishi-mushroom.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/products/resveratrol.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/products/stevia.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/products/turmeric.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/solutions/botanical-sweetener-rtd.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/solutions/deep-sleep-capsule.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/solutions/green-tea-energy-sparkling.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/solutions/liver-support-gummy.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/solutions/reishi-sleep-gummy.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/solutions/turmeric-golden-latte.webp` — 1200×654; retain original landscape; baseline hash verified.
+- [x] `public/images/solutions/white-peach-sparkling.webp` — 1200×654; retain original landscape; baseline hash verified.

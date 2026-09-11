@@ -32,7 +32,7 @@ const dimensions={processes:'process',applications:'application',standards:'spec
  <section class="ingredient-sources" id={`research-${productId}-references`}><h2>{zh?'参考来源':'References'}</h2><ol>{p.sources.map(s=><li id={`${namespace}-${s.id}`} value={s.id}><a href={s.url} rel="noopener noreferrer">{s.title}</a> · {s.accessed}</li>)}</ol><h3>{zh?'基础材料与工艺来源':'Material and processing background sources'}</h3><ol>{k.sources.map(s=><li id={`${legacy}-${s.id}`} value={s.id}><a href={s.url} rel="noopener noreferrer">{s.title}</a> · {s.accessed}</li>)}</ol></section>
 </div>
 <style>
- .plan-illustration { width:min(100%, 360px); margin:1.5rem auto; }
- .plan-illustration img { display:block; width:100%; height:360px; object-fit:contain; background:#eee9df; border-radius:12px; }
+ .plan-illustration { width:min(100%, 768px); margin:1.5rem auto; }
+ .plan-illustration img { display:block; width:100%; height:auto; aspect-ratio:3 / 2; object-fit:contain; border-radius:12px; }
  .plan-illustration figcaption { margin-top:.6rem; font-size:.875rem; line-height:1.5; color:#556050; }
 </style>

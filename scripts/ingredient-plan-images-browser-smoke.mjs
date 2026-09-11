@@ -26,13 +26,19 @@ try {
      assert.equal(await section.locator('figcaption').innerText(),plan.image.caption[lang]);
      const dimensions=await image.evaluate(el=>({w:el.naturalWidth,h:el.naturalHeight}));
      assert.deepEqual(dimensions,{w:plan.image.width,h:plan.image.height});decoded.add(plan.image.src);
-     const imageBox=await image.boundingBox();assert.ok(imageBox.width<=360.5&&imageBox.height<=360.5,`${route}/${plan.id}: image too large`);
+     const imageBox=await image.boundingBox();assert.ok(imageBox.width<=768.5&&imageBox.width>imageBox.height&&Math.abs(imageBox.width/imageBox.height-1.5)<0.02,`${route}/${plan.id}: image too large`);
      assert.equal(await image.evaluate(el=>getComputedStyle(el).objectFit),'contain');
     }
     if(js&&lang==='en'&&['green-tea','ginseng','goji-berry','resveratrol'].includes(profile.id)){
      await page.locator('.plan-illustration').first().evaluate(el=>el.scrollIntoView({block:'center',behavior:'instant'}));
      await page.screenshot({path:`${out}/${profile.id}-${width}.png`});
     }
+   }
+   for(const image of await page.locator('[data-ingredient-content] img').all()){
+    await image.evaluate(el=>el.scrollIntoView({block:'center',behavior:'instant'}));await image.evaluate(el=>el.decode());
+    const d=await image.evaluate(el=>({w:el.naturalWidth,h:el.naturalHeight}));const b=await image.boundingBox();
+    assert.ok(d.w>d.h,`${route}: non-landscape decoded article image`);assert.ok(b.width>b.height,`${route}: non-landscape rendered article image`);
+    assert.ok(b.width<=820.5&&b.height<=550,`${route}: oversized article illustration`);
    }
    for(const a of await page.locator('[data-ingredient-content] a[href^="#"]').all())assert.equal(await page.locator(await a.getAttribute('href')).count(),1);
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false,route);

@@ -1,0 +1,1639 @@
+{
+  "passed": true,
+  "cases": 152,
+  "routes": 38,
+  "results": [
+    {
+      "route": "/odm/botanical-refreshing-beverage",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/odm/everyday-unsweetened-botanical-tea",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/odm/late-evening-botanical-beverage",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/functional-mushroom-market-2026",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/functional-mushroom-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/green-tea-energy-beverage-2026",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/green-tea-energy-beverage-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/reishi-sleep-market-2026",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/reishi-sleep-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/turmeric-golden-milk-market-2026",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/turmeric-golden-milk-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/zero-calorie-sweetener-market-2026",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/zero-calorie-sweetener-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/beverages",
+      "width": 390,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/solutions/botanical-sweetener-rtd",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/botanical-sweetener-rtd.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/cosmetics",
+      "width": 390,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/solutions/deep-sleep-capsule",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/deep-sleep-capsule.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/food",
+      "width": 390,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/solutions/green-tea-energy-sparkling",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/green-tea-energy-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/liver-support-gummy",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/liver-support-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/nutraceuticals",
+      "width": 390,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/solutions/reishi-sleep-gummy",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/reishi-sleep-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/turmeric-golden-latte",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/turmeric-golden-latte.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/white-peach-sparkling",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/white-peach-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/odm/botanical-refreshing-beverage",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/zh/odm/everyday-unsweetened-botanical-tea",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/zh/odm/late-evening-botanical-beverage",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/functional-mushroom-market-2026",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/functional-mushroom-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/green-tea-energy-beverage-2026",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/green-tea-energy-beverage-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/reishi-sleep-market-2026",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/reishi-sleep-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/turmeric-golden-milk-market-2026",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/turmeric-golden-milk-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/zero-calorie-sweetener-market-2026",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/zero-calorie-sweetener-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/beverages",
+      "width": 390,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/botanical-sweetener-rtd",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/botanical-sweetener-rtd.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/cosmetics",
+      "width": 390,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/deep-sleep-capsule",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/deep-sleep-capsule.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/food",
+      "width": 390,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/green-tea-energy-sparkling",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/green-tea-energy-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/liver-support-gummy",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/liver-support-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/nutraceuticals",
+      "width": 390,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/reishi-sleep-gummy",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/reishi-sleep-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/turmeric-golden-latte",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/turmeric-golden-latte.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/white-peach-sparkling",
+      "width": 390,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/white-peach-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/odm/botanical-refreshing-beverage",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/odm/everyday-unsweetened-botanical-tea",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/odm/late-evening-botanical-beverage",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/functional-mushroom-market-2026",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/functional-mushroom-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/green-tea-energy-beverage-2026",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/green-tea-energy-beverage-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/reishi-sleep-market-2026",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/reishi-sleep-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/turmeric-golden-milk-market-2026",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/turmeric-golden-milk-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/zero-calorie-sweetener-market-2026",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/zero-calorie-sweetener-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/beverages",
+      "width": 1440,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/solutions/botanical-sweetener-rtd",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/botanical-sweetener-rtd.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/cosmetics",
+      "width": 1440,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/solutions/deep-sleep-capsule",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/deep-sleep-capsule.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/food",
+      "width": 1440,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/solutions/green-tea-energy-sparkling",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/green-tea-energy-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/liver-support-gummy",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/liver-support-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/nutraceuticals",
+      "width": 1440,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/solutions/reishi-sleep-gummy",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/reishi-sleep-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/turmeric-golden-latte",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/turmeric-golden-latte.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/white-peach-sparkling",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/white-peach-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/odm/botanical-refreshing-beverage",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/zh/odm/everyday-unsweetened-botanical-tea",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/zh/odm/late-evening-botanical-beverage",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/functional-mushroom-market-2026",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/functional-mushroom-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/green-tea-energy-beverage-2026",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/green-tea-energy-beverage-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/reishi-sleep-market-2026",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/reishi-sleep-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/turmeric-golden-milk-market-2026",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/turmeric-golden-milk-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/zero-calorie-sweetener-market-2026",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/blog/zero-calorie-sweetener-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/beverages",
+      "width": 1440,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/botanical-sweetener-rtd",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/botanical-sweetener-rtd.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/cosmetics",
+      "width": 1440,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/deep-sleep-capsule",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/deep-sleep-capsule.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/food",
+      "width": 1440,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/green-tea-energy-sparkling",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/green-tea-energy-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/liver-support-gummy",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/liver-support-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/nutraceuticals",
+      "width": 1440,
+      "js": true,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/reishi-sleep-gummy",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/reishi-sleep-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/turmeric-golden-latte",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/turmeric-golden-latte.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/white-peach-sparkling",
+      "width": 1440,
+      "js": true,
+      "images": [
+        {
+          "src": "/images/solutions/white-peach-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/odm/botanical-refreshing-beverage",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/odm/everyday-unsweetened-botanical-tea",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/odm/late-evening-botanical-beverage",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/functional-mushroom-market-2026",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/functional-mushroom-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/green-tea-energy-beverage-2026",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/green-tea-energy-beverage-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/reishi-sleep-market-2026",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/reishi-sleep-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/turmeric-golden-milk-market-2026",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/turmeric-golden-milk-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/zero-calorie-sweetener-market-2026",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/zero-calorie-sweetener-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/beverages",
+      "width": 390,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/solutions/botanical-sweetener-rtd",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/botanical-sweetener-rtd.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/cosmetics",
+      "width": 390,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/solutions/deep-sleep-capsule",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/deep-sleep-capsule.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/food",
+      "width": 390,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/solutions/green-tea-energy-sparkling",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/green-tea-energy-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/liver-support-gummy",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/liver-support-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/nutraceuticals",
+      "width": 390,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/solutions/reishi-sleep-gummy",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/reishi-sleep-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/turmeric-golden-latte",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/turmeric-golden-latte.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/white-peach-sparkling",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/white-peach-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/odm/botanical-refreshing-beverage",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/zh/odm/everyday-unsweetened-botanical-tea",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/zh/odm/late-evening-botanical-beverage",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/functional-mushroom-market-2026",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/functional-mushroom-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/green-tea-energy-beverage-2026",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/green-tea-energy-beverage-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/reishi-sleep-market-2026",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/reishi-sleep-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/turmeric-golden-milk-market-2026",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/turmeric-golden-milk-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/zero-calorie-sweetener-market-2026",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/zero-calorie-sweetener-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/beverages",
+      "width": 390,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/botanical-sweetener-rtd",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/botanical-sweetener-rtd.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/cosmetics",
+      "width": 390,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/deep-sleep-capsule",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/deep-sleep-capsule.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/food",
+      "width": 390,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/green-tea-energy-sparkling",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/green-tea-energy-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/liver-support-gummy",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/liver-support-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/nutraceuticals",
+      "width": 390,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/reishi-sleep-gummy",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/reishi-sleep-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/turmeric-golden-latte",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/turmeric-golden-latte.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/white-peach-sparkling",
+      "width": 390,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/white-peach-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/odm/botanical-refreshing-beverage",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/odm/everyday-unsweetened-botanical-tea",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/odm/late-evening-botanical-beverage",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/functional-mushroom-market-2026",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/functional-mushroom-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/green-tea-energy-beverage-2026",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/green-tea-energy-beverage-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/reishi-sleep-market-2026",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/reishi-sleep-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/turmeric-golden-milk-market-2026",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/turmeric-golden-milk-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/resources/blog/zero-calorie-sweetener-market-2026",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/zero-calorie-sweetener-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/beverages",
+      "width": 1440,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/solutions/botanical-sweetener-rtd",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/botanical-sweetener-rtd.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/cosmetics",
+      "width": 1440,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/solutions/deep-sleep-capsule",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/deep-sleep-capsule.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/food",
+      "width": 1440,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/solutions/green-tea-energy-sparkling",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/green-tea-energy-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/liver-support-gummy",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/liver-support-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/nutraceuticals",
+      "width": 1440,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/solutions/reishi-sleep-gummy",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/reishi-sleep-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/turmeric-golden-latte",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/turmeric-golden-latte.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/solutions/white-peach-sparkling",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/white-peach-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/odm/botanical-refreshing-beverage",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/zh/odm/everyday-unsweetened-botanical-tea",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/zh/odm/late-evening-botanical-beverage",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/odm/packaging-concepts.webp",
+          "w": 1536,
+          "h": 1024
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/functional-mushroom-market-2026",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/functional-mushroom-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/green-tea-energy-beverage-2026",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/green-tea-energy-beverage-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/reishi-sleep-market-2026",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/reishi-sleep-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/turmeric-golden-milk-market-2026",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/turmeric-golden-milk-market.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/resources/blog/zero-calorie-sweetener-market-2026",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/blog/zero-calorie-sweetener-market-2026.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/beverages",
+      "width": 1440,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/botanical-sweetener-rtd",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/botanical-sweetener-rtd.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/cosmetics",
+      "width": 1440,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/deep-sleep-capsule",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/deep-sleep-capsule.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/food",
+      "width": 1440,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/green-tea-energy-sparkling",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/green-tea-energy-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/liver-support-gummy",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/liver-support-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/nutraceuticals",
+      "width": 1440,
+      "js": false,
+      "images": []
+    },
+    {
+      "route": "/zh/solutions/reishi-sleep-gummy",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/reishi-sleep-gummy.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/turmeric-golden-latte",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/turmeric-golden-latte.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    },
+    {
+      "route": "/zh/solutions/white-peach-sparkling",
+      "width": 1440,
+      "js": false,
+      "images": [
+        {
+          "src": "/images/solutions/white-peach-sparkling.webp",
+          "w": 1200,
+          "h": 654
+        }
+      ]
+    }
+  ]
+}
