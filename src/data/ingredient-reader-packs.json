@@ -7398,7 +7398,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Check crystal formation after dilution/cooling, microscopy, droplet growth, phase separation, preservative efficacy and final-formula skin tolerability. Compare carrier blank and unformulated control; screen packaging and trans retention. Do not assume extra solvent or emulsifier improves tolerability. Review relevant claims before commercialization.[4][7] Unformulated controls are analytical/physical controls, not automatically suitable for human skin application."
+              "text": "Check crystal formation after dilution/cooling, microscopy, droplet growth, phase separation, preservative efficacy and final-formula skin tolerability. Use carrier blanks and unformulated material as analytical and physical controls; do not assume these controls are suitable for application to human skin. Screen packaging and trans retention. Do not assume extra solvent or emulsifier improves tolerability. Review relevant claims before commercialization.[4][7]"
             }
           ],
           "zh": [
@@ -7412,7 +7412,7 @@
             },
             {
               "type": "paragraph",
-              "text": "检查稀释/冷却析晶、显微形态、液滴长大、分层、防腐有效性及成品皮肤耐受性；设置载体空白与未配制对照，比较包装及trans保持率。不能假设增加溶剂或乳化剂必然提高耐受性；商业化前须审查相关权利要求。[4][7]未配制对照仅用于分析和物理比较，并非可直接用于人体皮肤的材料。"
+              "text": "检查稀释/冷却析晶、显微形态、液滴长大、分层、防腐有效性及成品皮肤耐受性；载体空白与未配制原料用于分析和物性对照，不应默认这些对照适合直接用于人体皮肤。比较包装及trans保持率。不能假设增加溶剂或乳化剂必然提高耐受性；商业化前须审查相关权利要求。[4][7]"
             }
           ]
         },
@@ -7664,10 +7664,10 @@
                   "Two aqueous extractions are documented; tank design is proposed[24]"
                 ],
                 [
-                  "Recirculating dual-frequency ultrasound",
+                  "Laboratory ultrasound modes; scale-up unit to be selected",
                   "Cavitation and enhanced contact",
                   "Frequency pair, pulse timing, cooling, field geometry and circulation",
-                  "The study compared three ultrasound modes at 20 g fruit powder/600 mL water, 60°C for 30 minutes, 300 W/L, and 5 seconds on/2 seconds off. Reported crude-polysaccharide yields were 38.93% for counterflow dual-frequency ultrasound at 20/40 kHz, 33.60% for opposite-sit dual-frequency ultrasound at 16/20 kHz, and 26.38% for counterflow single-frequency ultrasound at 28 kHz. These are laboratory crude-recovery values, not purified-polysaccharide content or industrial capacity.[18]"
+                  "Laboratory comparison: 20/40 kHz counterflow dual, 16/20 kHz opposite-sit dual, and 28 kHz counterflow single; operating conditions described above.[18]"
                 ],
                 [
                   "Ethanol precipitation vessel/separator",
@@ -7784,7 +7784,7 @@
             },
             {
               "type": "paragraph",
-              "text": "The study compared three ultrasound modes at 20 g fruit powder/600 mL water, 60°C for 30 minutes, 300 W/L, and 5 seconds on/2 seconds off. Reported crude-polysaccharide yields were 38.93% for counterflow dual-frequency ultrasound at 20/40 kHz, 33.60% for opposite-sit dual-frequency ultrasound at 16/20 kHz, and 26.38% for counterflow single-frequency ultrasound at 28 kHz. These are laboratory crude-recovery values, not purified-polysaccharide content or industrial capacity.[18]"
+              "text": "The 38.93% crude recovery belongs to the 20/40 kHz counterflow dual-frequency mode; the 28 kHz single-frequency mode yielded 26.38%.[18]"
             },
             {
               "type": "paragraph",
@@ -7813,7 +7813,7 @@
                 ],
                 [
                   "Original multimode ultrasound",
-                  "The study compared three ultrasound modes at 20 g fruit powder/600 mL water, 60°C for 30 minutes, 300 W/L, and 5 seconds on/2 seconds off. Reported crude-polysaccharide yields were 38.93% for counterflow dual-frequency ultrasound at 20/40 kHz, 33.60% for opposite-sit dual-frequency ultrasound at 16/20 kHz, and 26.38% for counterflow single-frequency ultrasound at 28 kHz. These are laboratory crude-recovery values, not purified-polysaccharide content or industrial capacity.[18]",
+                  "20 g fruit powder/600 mL water; 60°C, 30 minutes, 300 W/L; 5 seconds on/2 seconds off.[18]",
                   "Crude yields: energy-aggregation counterflow dual-frequency 38.93%; opposite-sit dual-frequency 33.60%; energy-aggregation counterflow single-frequency 26.38%",
                   "Pure-polysaccharide content or ton-scale capacity[18]"
                 ],
@@ -7993,10 +7993,10 @@
                   "水提两次是原始研究步骤；大罐配置为建议[24]"
                 ],
                 [
-                  "循环双频超声单元",
+                  "实验室超声模式；放大设备待选型",
                   "空化和循环传质强化",
                   "频率组合、脉冲时序、冷却、声场与循环",
-                  "研究在20 g果粉/600 mL水、60°C、30分钟、300 W/L及开启5秒／关闭2秒条件下比较三种超声模式。报告粗多糖得率分别为：20/40 kHz能量聚集逆流双频38.93%，16/20 kHz对置双频33.60%，28 kHz能量聚集逆流单频26.38%。这些是实验室粗提回收值，不是纯多糖含量或工业产能。[18]"
+                  "实验室比较：20/40 kHz逆流双频、16/20 kHz对置双频及28 kHz逆流单频；操作条件见上文。[18]"
                 ],
                 [
                   "乙醇沉淀罐与固液分离",
@@ -8113,7 +8113,7 @@
             },
             {
               "type": "paragraph",
-              "text": "研究在20 g果粉/600 mL水、60°C、30分钟、300 W/L及开启5秒／关闭2秒条件下比较三种超声模式。报告粗多糖得率分别为：20/40 kHz能量聚集逆流双频38.93%，16/20 kHz对置双频33.60%，28 kHz能量聚集逆流单频26.38%。这些是实验室粗提回收值，不是纯多糖含量或工业产能。[18]"
+              "text": "38.93%的粗提回收值对应20/40 kHz逆流双频模式；28 kHz单频模式为26.38%。[18]"
             },
             {
               "type": "paragraph",
@@ -8142,7 +8142,7 @@
                 ],
                 [
                   "原始多模式超声研究",
-                  "研究在20 g果粉/600 mL水、60°C、30分钟、300 W/L及开启5秒／关闭2秒条件下比较三种超声模式。报告粗多糖得率分别为：20/40 kHz能量聚集逆流双频38.93%，16/20 kHz对置双频33.60%，28 kHz能量聚集逆流单频26.38%。这些是实验室粗提回收值，不是纯多糖含量或工业产能。[18]",
+                  "20 g果粉/600 mL水；60°C、30分钟、300 W/L；开启5秒／关闭2秒。[18]",
                   "能量聚集逆流双频38.93%、对置双频33.60%、能量聚集逆流单频26.38%粗多糖得率",
                   "粗得率不是纯多糖含量或吨级产能[18]"
                 ],
