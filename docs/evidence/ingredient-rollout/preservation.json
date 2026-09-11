@@ -1,0 +1,6 @@
+{
+  "baseline": "7d0286c",
+  "checkedFiles": 62,
+  "changed": [],
+  "scope": "All baseline public files plus deep-ingredients.json, ingredient-overviews.json, turmeric-formulations.ts and TurmericKnowledge.astro; compared actual bytes through git show."
+}

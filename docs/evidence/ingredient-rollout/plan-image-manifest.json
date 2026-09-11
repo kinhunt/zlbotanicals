@@ -1,0 +1,567 @@
+{
+  "imageCount": 33,
+  "actualModel": "gpt-image-2-high",
+  "images": [
+    {
+      "ingredient": "green-tea",
+      "planId": "citrus-tea",
+      "src": "/images/ingredient-plans/green-tea/citrus-tea.webp",
+      "width": 554,
+      "height": 941,
+      "alt": {
+        "en": "Citrus green tea with tea leaves and citrus slices.",
+        "zh": "柑橘绿茶、茶叶与柑橘切片。"
+      },
+      "caption": {
+        "en": "Citrus green tea with tea leaves and citrus slices.",
+        "zh": "柑橘绿茶、茶叶与柑橘切片。"
+      },
+      "bytes": 70670,
+      "sha256": "f387658d772d9a827b3c90e728bb650eacbf49737e4753f444d713c6f7c102d2"
+    },
+    {
+      "ingredient": "green-tea",
+      "planId": "oat-latte",
+      "src": "/images/ingredient-plans/green-tea/oat-latte.webp",
+      "width": 556,
+      "height": 941,
+      "alt": {
+        "en": "Green tea oat latte with oats, tea powder and a whisk.",
+        "zh": "绿茶燕麦拿铁、燕麦、茶粉与茶筅。"
+      },
+      "caption": {
+        "en": "Green tea oat latte with oats, tea powder and a whisk.",
+        "zh": "绿茶燕麦拿铁、燕麦、茶粉与茶筅。"
+      },
+      "bytes": 85230,
+      "sha256": "23bd3ab398cab3d3a435bad83f0bf395df5697b43d05947960439cd7c59ae1a1"
+    },
+    {
+      "ingredient": "green-tea",
+      "planId": "instant-tea",
+      "src": "/images/ingredient-plans/green-tea/instant-tea.webp",
+      "width": 553,
+      "height": 941,
+      "alt": {
+        "en": "Instant tea stick packs with soluble powder and prepared tea.",
+        "zh": "速溶茶条包、可溶茶粉与冲调茶汤。"
+      },
+      "caption": {
+        "en": "Instant tea stick packs with soluble powder and prepared tea.",
+        "zh": "速溶茶条包、可溶茶粉与冲调茶汤。"
+      },
+      "bytes": 67522,
+      "sha256": "c4a9601265d60ca9ab2b17192f4ef8e42d0cc0b1869670b91c77247a00a17e14"
+    },
+    {
+      "ingredient": "centella-asiatica",
+      "planId": "hydrating-serum",
+      "src": "/images/ingredient-plans/centella-asiatica/hydrating-serum.webp",
+      "width": 508,
+      "height": 1024,
+      "alt": {
+        "en": "Centella serum with a clear gel sample and fresh leaves.",
+        "zh": "积雪草精华、透明凝胶样品与鲜叶。"
+      },
+      "caption": {
+        "en": "Centella serum with a clear gel sample and fresh leaves.",
+        "zh": "积雪草精华、透明凝胶样品与鲜叶。"
+      },
+      "bytes": 63574,
+      "sha256": "7bfcbc73ca4bba7d713d64ec4fbb006003d391edcc9be65189ab2eebc55e8024"
+    },
+    {
+      "ingredient": "centella-asiatica",
+      "planId": "lipid-cream",
+      "src": "/images/ingredient-plans/centella-asiatica/lipid-cream.webp",
+      "width": 506,
+      "height": 1024,
+      "alt": {
+        "en": "Centella cream with oats and a rich white cream texture.",
+        "zh": "积雪草面霜、燕麦与丰润白色霜体。"
+      },
+      "caption": {
+        "en": "Centella cream with oats and a rich white cream texture.",
+        "zh": "积雪草面霜、燕麦与丰润白色霜体。"
+      },
+      "bytes": 75734,
+      "sha256": "3be40309f3a668aa2253070bc73e0d1f629e17a49f96c0dcae21fad7120ebf09"
+    },
+    {
+      "ingredient": "centella-asiatica",
+      "planId": "washable-gel",
+      "src": "/images/ingredient-plans/centella-asiatica/washable-gel.webp",
+      "width": 506,
+      "height": 1024,
+      "alt": {
+        "en": "Centella rinse-off gel mask with a gel applicator.",
+        "zh": "积雪草水洗凝胶面膜与凝胶取用工具。"
+      },
+      "caption": {
+        "en": "Centella rinse-off gel mask with a gel applicator.",
+        "zh": "积雪草水洗凝胶面膜与凝胶取用工具。"
+      },
+      "bytes": 92890,
+      "sha256": "463416af9206afc6adc54530f93a813ffb16bf9e95109b902d0efef4e10fe9f0"
+    },
+    {
+      "ingredient": "monk-fruit",
+      "planId": "citrus-sparkling",
+      "src": "/images/ingredient-plans/monk-fruit/citrus-sparkling.webp",
+      "width": 585,
+      "height": 887,
+      "alt": {
+        "en": "Sparkling citrus drink with monk fruit and citrus peel.",
+        "zh": "柑橘气泡饮、罗汉果与柑橘皮。"
+      },
+      "caption": {
+        "en": "Sparkling citrus drink with monk fruit and citrus peel.",
+        "zh": "柑橘气泡饮、罗汉果与柑橘皮。"
+      },
+      "bytes": 97172,
+      "sha256": "bb7985f4b641b101496c65f7ce018103d897831e67d30e8eb05dc4fb3620c3d8"
+    },
+    {
+      "ingredient": "monk-fruit",
+      "planId": "cultured-dessert",
+      "src": "/images/ingredient-plans/monk-fruit/cultured-dessert.webp",
+      "width": 590,
+      "height": 887,
+      "alt": {
+        "en": "Vanilla cultured dairy dessert with monk fruit.",
+        "zh": "香草发酵乳甜品与罗汉果。"
+      },
+      "caption": {
+        "en": "Vanilla cultured dairy dessert with monk fruit.",
+        "zh": "香草发酵乳甜品与罗汉果。"
+      },
+      "bytes": 77448,
+      "sha256": "6906e97826b2f9c27db7ac09cc11467f0c46deb6f624588f885d451ee564070e"
+    },
+    {
+      "ingredient": "monk-fruit",
+      "planId": "oat-cookie",
+      "src": "/images/ingredient-plans/monk-fruit/oat-cookie.webp",
+      "width": 583,
+      "height": 887,
+      "alt": {
+        "en": "Oat cookies with monk fruit and sweetener powder.",
+        "zh": "燕麦饼干、罗汉果与甜味粉。"
+      },
+      "caption": {
+        "en": "Oat cookies with monk fruit and sweetener powder.",
+        "zh": "燕麦饼干、罗汉果与甜味粉。"
+      },
+      "bytes": 111346,
+      "sha256": "f004367eb10c9343903dfdf5138889a898d8b313ab3539c94c08b83fb44568b1"
+    },
+    {
+      "ingredient": "ginseng",
+      "planId": "citrus-drink",
+      "src": "/images/ingredient-plans/ginseng/citrus-drink.webp",
+      "width": 506,
+      "height": 1024,
+      "alt": {
+        "en": "Ginseng citrus drink with a root and citrus peel.",
+        "zh": "人参柑橘饮料、人参根与柑橘皮。"
+      },
+      "caption": {
+        "en": "Ginseng citrus drink with a root and citrus peel.",
+        "zh": "人参柑橘饮料、人参根与柑橘皮。"
+      },
+      "bytes": 58348,
+      "sha256": "a58b1a0abb72f632bccbd5ad873f0939c7aa10ec26a187d711ad2fb925a41717"
+    },
+    {
+      "ingredient": "ginseng",
+      "planId": "instant-sachet",
+      "src": "/images/ingredient-plans/ginseng/instant-sachet.webp",
+      "width": 504,
+      "height": 1024,
+      "alt": {
+        "en": "Ginseng ginger instant sachets with powder and prepared infusion.",
+        "zh": "人参姜味冲调条包、粉体与冲调饮品。"
+      },
+      "caption": {
+        "en": "Ginseng ginger instant sachets with powder and prepared infusion.",
+        "zh": "人参姜味冲调条包、粉体与冲调饮品。"
+      },
+      "bytes": 63760,
+      "sha256": "4cf6d32f9867b76480a7f3339d95de24bb76cc05d00ad10413d57b48357e14e8"
+    },
+    {
+      "ingredient": "ginseng",
+      "planId": "capsule",
+      "src": "/images/ingredient-plans/ginseng/capsule.webp",
+      "width": 506,
+      "height": 1024,
+      "alt": {
+        "en": "Ginseng hard capsules beside a plain container and root.",
+        "zh": "人参硬胶囊、素面容器与人参根。"
+      },
+      "caption": {
+        "en": "Ginseng hard capsules beside a plain container and root.",
+        "zh": "人参硬胶囊、素面容器与人参根。"
+      },
+      "bytes": 47524,
+      "sha256": "b1732b2fa039790cc0d09855c657f03dd7ef75487b2903a35ae96eef2d168c3c"
+    },
+    {
+      "ingredient": "reishi-mushroom",
+      "planId": "cocoa-oat",
+      "src": "/images/ingredient-plans/reishi-mushroom/cocoa-oat.webp",
+      "width": 508,
+      "height": 1024,
+      "alt": {
+        "en": "Cocoa-oat reishi drink with a powder sachet and oats.",
+        "zh": "可可燕麦灵芝饮品、冲调粉袋与燕麦。"
+      },
+      "caption": {
+        "en": "Cocoa-oat reishi drink with a powder sachet and oats.",
+        "zh": "可可燕麦灵芝饮品、冲调粉袋与燕麦。"
+      },
+      "bytes": 79406,
+      "sha256": "b88c405f642527f7fc2b199d6e49b2f27eaa389c0e015a0230912c9c59311188"
+    },
+    {
+      "ingredient": "reishi-mushroom",
+      "planId": "cultured-yogurt",
+      "src": "/images/ingredient-plans/reishi-mushroom/cultured-yogurt.webp",
+      "width": 509,
+      "height": 1024,
+      "alt": {
+        "en": "Reishi cultured yogurt with a spoonful of smooth yogurt.",
+        "zh": "灵芝发酵酸奶与一勺细腻酸奶。"
+      },
+      "caption": {
+        "en": "Reishi cultured yogurt with a spoonful of smooth yogurt.",
+        "zh": "灵芝发酵酸奶与一勺细腻酸奶。"
+      },
+      "bytes": 42700,
+      "sha256": "f565e8246b8ab77ceb2dc27c84f034c9ca6b6046a48f0324f5ed3de00353c293"
+    },
+    {
+      "ingredient": "reishi-mushroom",
+      "planId": "defined-capsule",
+      "src": "/images/ingredient-plans/reishi-mushroom/defined-capsule.webp",
+      "width": 508,
+      "height": 1024,
+      "alt": {
+        "en": "Reishi extract capsules with tan powder and a sample vial.",
+        "zh": "灵芝提取物胶囊、棕褐色粉体与样品瓶。"
+      },
+      "caption": {
+        "en": "Reishi extract capsules with tan powder and a sample vial.",
+        "zh": "灵芝提取物胶囊、棕褐色粉体与样品瓶。"
+      },
+      "bytes": 46202,
+      "sha256": "6f6e44e2ffb0ccc15a21511a0d9aafc977b88321a27488f99d11d1b932c75f5f"
+    },
+    {
+      "ingredient": "ginkgo-biloba",
+      "planId": "capsule",
+      "src": "/images/ingredient-plans/ginkgo-biloba/capsule.webp",
+      "width": 509,
+      "height": 1024,
+      "alt": {
+        "en": "Ginkgo extract hard capsules with a plain container and leaf.",
+        "zh": "银杏提取物硬胶囊、素面容器与银杏叶。"
+      },
+      "caption": {
+        "en": "Ginkgo extract hard capsules with a plain container and leaf.",
+        "zh": "银杏提取物硬胶囊、素面容器与银杏叶。"
+      },
+      "bytes": 31164,
+      "sha256": "ccd730ee3ebcdc18149c50f7a552374ce8d380d56bb5babddb957b38a93b7406"
+    },
+    {
+      "ingredient": "ginkgo-biloba",
+      "planId": "tablet",
+      "src": "/images/ingredient-plans/ginkgo-biloba/tablet.webp",
+      "width": 509,
+      "height": 1024,
+      "alt": {
+        "en": "Ginkgo coated tablets with blister packaging.",
+        "zh": "银杏包衣片与泡罩包装。"
+      },
+      "caption": {
+        "en": "Ginkgo coated tablets with blister packaging.",
+        "zh": "银杏包衣片与泡罩包装。"
+      },
+      "bytes": 50044,
+      "sha256": "f2453ea21cd06fd409d24f09208097aac01277f791a94aa255c1dd640023a363"
+    },
+    {
+      "ingredient": "ginkgo-biloba",
+      "planId": "suspension",
+      "src": "/images/ingredient-plans/ginkgo-biloba/suspension.webp",
+      "width": 509,
+      "height": 1024,
+      "alt": {
+        "en": "Ginkgo oral suspension bottle with a small dosing cup.",
+        "zh": "银杏口服混悬液瓶与小量杯。"
+      },
+      "caption": {
+        "en": "Ginkgo oral suspension bottle with a small dosing cup.",
+        "zh": "银杏口服混悬液瓶与小量杯。"
+      },
+      "bytes": 38166,
+      "sha256": "4ca2c30a0bd4a882b268d28419d3bc83aa0765e868ba436444637fe7182749a8"
+    },
+    {
+      "ingredient": "grape-seed",
+      "planId": "berry-drink",
+      "src": "/images/ingredient-plans/grape-seed/berry-drink.webp",
+      "width": 508,
+      "height": 1024,
+      "alt": {
+        "en": "Berry-flavoured grape seed drink with berries, seeds and extract powder.",
+        "zh": "莓果风味葡萄籽饮品、莓果、葡萄籽与提取粉。"
+      },
+      "caption": {
+        "en": "Berry-flavoured grape seed drink with berries, seeds and extract powder.",
+        "zh": "莓果风味葡萄籽饮品、莓果、葡萄籽与提取粉。"
+      },
+      "bytes": 72992,
+      "sha256": "b2be46f00ff3a749ac6c3271f9d1be6009d2591d61a123dc9b534121a739958c"
+    },
+    {
+      "ingredient": "grape-seed",
+      "planId": "capsule",
+      "src": "/images/ingredient-plans/grape-seed/capsule.webp",
+      "width": 509,
+      "height": 1024,
+      "alt": {
+        "en": "Grape seed extract capsules with brown powder and seeds.",
+        "zh": "葡萄籽提取物胶囊、棕色粉体与葡萄籽。"
+      },
+      "caption": {
+        "en": "Grape seed extract capsules with brown powder and seeds.",
+        "zh": "葡萄籽提取物胶囊、棕色粉体与葡萄籽。"
+      },
+      "bytes": 62960,
+      "sha256": "d3026289cf422fa9f7f774ffddcfc3c704feaa871a8635ac0185faad9b725788"
+    },
+    {
+      "ingredient": "grape-seed",
+      "planId": "serum",
+      "src": "/images/ingredient-plans/grape-seed/serum.webp",
+      "width": 510,
+      "height": 1024,
+      "alt": {
+        "en": "Grape seed gel serum in a pump bottle with a translucent gel sample.",
+        "zh": "葡萄籽凝胶精华泵瓶与半透明凝胶样品。"
+      },
+      "caption": {
+        "en": "Grape seed gel serum in a pump bottle with a translucent gel sample.",
+        "zh": "葡萄籽凝胶精华泵瓶与半透明凝胶样品。"
+      },
+      "bytes": 45008,
+      "sha256": "36aeb0f9df068a6cff8ea9148b7236d53ae1887ee370a87004010b83589ae168"
+    },
+    {
+      "ingredient": "licorice-root",
+      "planId": "dgl-chewable",
+      "src": "/images/ingredient-plans/licorice-root/dgl-chewable.webp",
+      "width": 508,
+      "height": 1024,
+      "alt": {
+        "en": "DGL chewable tablets with root pieces and blister packaging.",
+        "zh": "DGL咀嚼片、甘草根段与泡罩包装。"
+      },
+      "caption": {
+        "en": "DGL chewable tablets with root pieces and blister packaging.",
+        "zh": "DGL咀嚼片、甘草根段与泡罩包装。"
+      },
+      "bytes": 97776,
+      "sha256": "922d4989ea6074b09b8ca1d62df61ce635bad248ba6b1e9154054faf81585aa3"
+    },
+    {
+      "ingredient": "licorice-root",
+      "planId": "glabridin-emulsion",
+      "src": "/images/ingredient-plans/licorice-root/glabridin-emulsion.webp",
+      "width": 512,
+      "height": 1024,
+      "alt": {
+        "en": "Glabridin lotion with a white lotion sample and licorice root.",
+        "zh": "光甘草定乳液、白色乳液样品与甘草根。"
+      },
+      "caption": {
+        "en": "Glabridin lotion with a white lotion sample and licorice root.",
+        "zh": "光甘草定乳液、白色乳液样品与甘草根。"
+      },
+      "bytes": 38960,
+      "sha256": "e3bde090a72f92a32579309b922409c0b22f0345bf98bd80e906f2d6e41c50cf"
+    },
+    {
+      "ingredient": "licorice-root",
+      "planId": "flavor-concentrate",
+      "src": "/images/ingredient-plans/licorice-root/flavor-concentrate.webp",
+      "width": 510,
+      "height": 1024,
+      "alt": {
+        "en": "Licorice cocoa vanilla concentrate with a thick chocolate-coloured texture.",
+        "zh": "甘草可可香草浓缩基料与浓稠巧克力色质地。"
+      },
+      "caption": {
+        "en": "Licorice cocoa vanilla concentrate with a thick chocolate-coloured texture.",
+        "zh": "甘草可可香草浓缩基料与浓稠巧克力色质地。"
+      },
+      "bytes": 101694,
+      "sha256": "17b2c4ded47af2824babe3c1a4b7d726c7653e0ec38ee6b5bf630f56f8295763"
+    },
+    {
+      "ingredient": "stevia",
+      "planId": "citrus-beverage",
+      "src": "/images/ingredient-plans/stevia/citrus-beverage.webp",
+      "width": 507,
+      "height": 1024,
+      "alt": {
+        "en": "Stevia citrus drink with citrus slices and green leaves.",
+        "zh": "甜菊柑橘饮料、柑橘切片与绿叶。"
+      },
+      "caption": {
+        "en": "Stevia citrus drink with citrus slices and green leaves.",
+        "zh": "甜菊柑橘饮料、柑橘切片与绿叶。"
+      },
+      "bytes": 45900,
+      "sha256": "eb66b4e0929af878638c1ce375ab074147c5d58dfbb801fe922a3cf238c7ee92"
+    },
+    {
+      "ingredient": "stevia",
+      "planId": "protein-drink",
+      "src": "/images/ingredient-plans/stevia/protein-drink.webp",
+      "width": 507,
+      "height": 1024,
+      "alt": {
+        "en": "Stevia vanilla protein drink with protein powder and vanilla pods.",
+        "zh": "甜菊香草蛋白饮料、蛋白粉与香草荚。"
+      },
+      "caption": {
+        "en": "Stevia vanilla protein drink with protein powder and vanilla pods.",
+        "zh": "甜菊香草蛋白饮料、蛋白粉与香草荚。"
+      },
+      "bytes": 42922,
+      "sha256": "0c5903a4daa8b1e0dde40b88709b55e8d19649bcfe1cb629762bc4afa5063685"
+    },
+    {
+      "ingredient": "stevia",
+      "planId": "tabletop-sachet",
+      "src": "/images/ingredient-plans/stevia/tabletop-sachet.webp",
+      "width": 506,
+      "height": 1024,
+      "alt": {
+        "en": "Tabletop sweetener sachets with white granules and a teaspoon.",
+        "zh": "桌面甜味剂小袋、白色颗粒与茶匙。"
+      },
+      "caption": {
+        "en": "Tabletop sweetener sachets with white granules and a teaspoon.",
+        "zh": "桌面甜味剂小袋、白色颗粒与茶匙。"
+      },
+      "bytes": 40988,
+      "sha256": "44061f524adcc73e2e75ec9935b74d3e68b53272d787b425ea2ff036f56923a7"
+    },
+    {
+      "ingredient": "resveratrol",
+      "planId": "capsule",
+      "src": "/images/ingredient-plans/resveratrol/capsule.webp",
+      "width": 506,
+      "height": 1024,
+      "alt": {
+        "en": "Resveratrol dry capsules with an amber container and white powder.",
+        "zh": "白藜芦醇干粉胶囊、棕色容器与白色粉体。"
+      },
+      "caption": {
+        "en": "Resveratrol dry capsules with an amber container and white powder.",
+        "zh": "白藜芦醇干粉胶囊、棕色容器与白色粉体。"
+      },
+      "bytes": 37654,
+      "sha256": "e2cfe13db30c5cd359d8a2fb8a5f800f8db491c439957a364e50b9c9ace13773"
+    },
+    {
+      "ingredient": "resveratrol",
+      "planId": "topical",
+      "src": "/images/ingredient-plans/resveratrol/topical.webp",
+      "width": 512,
+      "height": 1024,
+      "alt": {
+        "en": "Resveratrol topical emulsion with a pump bottle and white lotion sample.",
+        "zh": "白藜芦醇外用乳液、泵瓶与白色乳液样品。"
+      },
+      "caption": {
+        "en": "Resveratrol topical emulsion with a pump bottle and white lotion sample.",
+        "zh": "白藜芦醇外用乳液、泵瓶与白色乳液样品。"
+      },
+      "bytes": 28762,
+      "sha256": "5b7227ccc2e44a30ef904a8270fac8b326125318a2c30c266239736b59640ddd"
+    },
+    {
+      "ingredient": "resveratrol",
+      "planId": "reconstitution",
+      "src": "/images/ingredient-plans/resveratrol/reconstitution.webp",
+      "width": 503,
+      "height": 1024,
+      "alt": {
+        "en": "Resveratrol reconstitution sachets with powder and a cloudy prepared liquid.",
+        "zh": "白藜芦醇复溶条包、粉体与微浑浊复溶液。"
+      },
+      "caption": {
+        "en": "Resveratrol reconstitution sachets with powder and a cloudy prepared liquid.",
+        "zh": "白藜芦醇复溶条包、粉体与微浑浊复溶液。"
+      },
+      "bytes": 32880,
+      "sha256": "f0167ce3d29a0930738be480f60ab045ea19f6acfa039c9388078aee8b27d59c"
+    },
+    {
+      "ingredient": "goji-berry",
+      "planId": "instant-drink",
+      "src": "/images/ingredient-plans/goji-berry/instant-drink.webp",
+      "width": 509,
+      "height": 1024,
+      "alt": {
+        "en": "Goji instant drink sachets with orange powder and prepared drink.",
+        "zh": "枸杞即溶饮料条包、橙色粉体与冲调饮品。"
+      },
+      "caption": {
+        "en": "Goji instant drink sachets with orange powder and prepared drink.",
+        "zh": "枸杞即溶饮料条包、橙色粉体与冲调饮品。"
+      },
+      "bytes": 69626,
+      "sha256": "3bec97e9b35539dd324e6fe7b449f1201bfaa1621df90b280ca6e333f046156f"
+    },
+    {
+      "ingredient": "goji-berry",
+      "planId": "fruit-gummy",
+      "src": "/images/ingredient-plans/goji-berry/fruit-gummy.webp",
+      "width": 510,
+      "height": 1024,
+      "alt": {
+        "en": "Goji fruit gummies with dried berries and a plain pouch.",
+        "zh": "枸杞果味软糖、干枸杞与素面包装袋。"
+      },
+      "caption": {
+        "en": "Goji fruit gummies with dried berries and a plain pouch.",
+        "zh": "枸杞果味软糖、干枸杞与素面包装袋。"
+      },
+      "bytes": 49248,
+      "sha256": "5475d6158375dff9ff5cbead449d0a1eff692bf068dd032cd63408a102526e14"
+    },
+    {
+      "ingredient": "goji-berry",
+      "planId": "polysaccharide-capsule",
+      "src": "/images/ingredient-plans/goji-berry/polysaccharide-capsule.webp",
+      "width": 509,
+      "height": 1024,
+      "alt": {
+        "en": "Goji polysaccharide-fraction capsules with pale powder.",
+        "zh": "枸杞多糖组分胶囊与浅色粉体。"
+      },
+      "caption": {
+        "en": "Goji polysaccharide-fraction capsules with pale powder.",
+        "zh": "枸杞多糖组分胶囊与浅色粉体。"
+      },
+      "bytes": 53728,
+      "sha256": "bd2b4652842c541fd16141287148b4064fa5b394453b8bf703760cc6dd1125dc"
+    }
+  ]
+}

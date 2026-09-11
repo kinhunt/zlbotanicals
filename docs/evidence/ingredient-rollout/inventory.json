@@ -1,0 +1,463 @@
+[
+  {
+    "productId": "green-tea",
+    "input": "a/green-tea/article.json",
+    "sourceIds": [
+      9,
+      10,
+      15,
+      18,
+      25
+    ],
+    "originalSourceIds": [
+      9,
+      10,
+      15,
+      18,
+      25
+    ],
+    "plans": [
+      {
+        "id": "citrus-tea",
+        "expectedPath": "/images/ingredient-plans/green-tea/citrus-tea.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "oat-latte",
+        "expectedPath": "/images/ingredient-plans/green-tea/oat-latte.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "instant-tea",
+        "expectedPath": "/images/ingredient-plans/green-tea/instant-tea.webp",
+        "status": "integrated-decoded-webp"
+      }
+    ]
+  },
+  {
+    "productId": "centella-asiatica",
+    "input": "a/centella-asiatica/article.json",
+    "sourceIds": [
+      4,
+      11,
+      12,
+      16,
+      19
+    ],
+    "originalSourceIds": [
+      4,
+      11,
+      12,
+      16,
+      19
+    ],
+    "plans": [
+      {
+        "id": "hydrating-serum",
+        "expectedPath": "/images/ingredient-plans/centella-asiatica/hydrating-serum.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "lipid-cream",
+        "expectedPath": "/images/ingredient-plans/centella-asiatica/lipid-cream.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "washable-gel",
+        "expectedPath": "/images/ingredient-plans/centella-asiatica/washable-gel.webp",
+        "status": "integrated-decoded-webp"
+      }
+    ]
+  },
+  {
+    "productId": "monk-fruit",
+    "input": "a/monk-fruit/article.json",
+    "sourceIds": [
+      13,
+      14,
+      20,
+      21,
+      22,
+      26
+    ],
+    "originalSourceIds": [
+      13,
+      14,
+      20,
+      21,
+      22,
+      26
+    ],
+    "plans": [
+      {
+        "id": "citrus-sparkling",
+        "expectedPath": "/images/ingredient-plans/monk-fruit/citrus-sparkling.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "cultured-dessert",
+        "expectedPath": "/images/ingredient-plans/monk-fruit/cultured-dessert.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "oat-cookie",
+        "expectedPath": "/images/ingredient-plans/monk-fruit/oat-cookie.webp",
+        "status": "integrated-decoded-webp"
+      }
+    ]
+  },
+  {
+    "productId": "ginseng",
+    "input": "b/ginseng/article.json",
+    "sourceIds": [
+      1,
+      2,
+      11,
+      12,
+      13,
+      14,
+      19,
+      21,
+      29,
+      10
+    ],
+    "originalSourceIds": [
+      1,
+      2,
+      11,
+      12,
+      13,
+      14,
+      19,
+      21,
+      29,
+      10
+    ],
+    "plans": [
+      {
+        "id": "citrus-drink",
+        "expectedPath": "/images/ingredient-plans/ginseng/citrus-drink.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "instant-sachet",
+        "expectedPath": "/images/ingredient-plans/ginseng/instant-sachet.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "capsule",
+        "expectedPath": "/images/ingredient-plans/ginseng/capsule.webp",
+        "status": "integrated-decoded-webp"
+      }
+    ]
+  },
+  {
+    "productId": "reishi-mushroom",
+    "input": "b/reishi-mushroom/article.json",
+    "sourceIds": [
+      3,
+      4,
+      7,
+      12,
+      15,
+      20,
+      23,
+      28,
+      31,
+      33,
+      34,
+      35
+    ],
+    "originalSourceIds": [
+      3,
+      4,
+      7,
+      12,
+      15,
+      20,
+      23,
+      28,
+      31,
+      33,
+      34,
+      35
+    ],
+    "plans": [
+      {
+        "id": "cocoa-oat",
+        "expectedPath": "/images/ingredient-plans/reishi-mushroom/cocoa-oat.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "cultured-yogurt",
+        "expectedPath": "/images/ingredient-plans/reishi-mushroom/cultured-yogurt.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "defined-capsule",
+        "expectedPath": "/images/ingredient-plans/reishi-mushroom/defined-capsule.webp",
+        "status": "integrated-decoded-webp"
+      }
+    ]
+  },
+  {
+    "productId": "ginkgo-biloba",
+    "input": "b/ginkgo-biloba/article.json",
+    "sourceIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      13
+    ],
+    "originalSourceIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      13
+    ],
+    "plans": [
+      {
+        "id": "capsule",
+        "expectedPath": "/images/ingredient-plans/ginkgo-biloba/capsule.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "tablet",
+        "expectedPath": "/images/ingredient-plans/ginkgo-biloba/tablet.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "suspension",
+        "expectedPath": "/images/ingredient-plans/ginkgo-biloba/suspension.webp",
+        "status": "integrated-decoded-webp"
+      }
+    ]
+  },
+  {
+    "productId": "grape-seed",
+    "input": "c/grape-seed/article.json",
+    "sourceIds": [
+      2,
+      5,
+      6,
+      10,
+      11,
+      15,
+      20,
+      8,
+      9
+    ],
+    "originalSourceIds": [
+      2,
+      5,
+      6,
+      10,
+      11,
+      15,
+      20,
+      8,
+      9
+    ],
+    "plans": [
+      {
+        "id": "berry-drink",
+        "expectedPath": "/images/ingredient-plans/grape-seed/berry-drink.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "capsule",
+        "expectedPath": "/images/ingredient-plans/grape-seed/capsule.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "serum",
+        "expectedPath": "/images/ingredient-plans/grape-seed/serum.webp",
+        "status": "integrated-decoded-webp"
+      }
+    ]
+  },
+  {
+    "productId": "licorice-root",
+    "input": "c/licorice-root/article.json",
+    "sourceIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "originalSourceIds": [
+      "licorice-root:1",
+      "licorice-root:2",
+      "licorice-root:3",
+      "licorice-root:4",
+      "licorice-root:5",
+      "licorice-root:6",
+      "licorice-root:7",
+      "licorice-root:8",
+      "licorice-root:9",
+      "licorice-root:10"
+    ],
+    "plans": [
+      {
+        "id": "dgl-chewable",
+        "expectedPath": "/images/ingredient-plans/licorice-root/dgl-chewable.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "glabridin-emulsion",
+        "expectedPath": "/images/ingredient-plans/licorice-root/glabridin-emulsion.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "flavor-concentrate",
+        "expectedPath": "/images/ingredient-plans/licorice-root/flavor-concentrate.webp",
+        "status": "integrated-decoded-webp"
+      }
+    ]
+  },
+  {
+    "productId": "stevia",
+    "input": "d/stevia/article.json",
+    "sourceIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "originalSourceIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "plans": [
+      {
+        "id": "citrus-beverage",
+        "expectedPath": "/images/ingredient-plans/stevia/citrus-beverage.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "protein-drink",
+        "expectedPath": "/images/ingredient-plans/stevia/protein-drink.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "tabletop-sachet",
+        "expectedPath": "/images/ingredient-plans/stevia/tabletop-sachet.webp",
+        "status": "integrated-decoded-webp"
+      }
+    ]
+  },
+  {
+    "productId": "resveratrol",
+    "input": "d/resveratrol/article.json",
+    "sourceIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "originalSourceIds": [
+      "resveratrol:1",
+      "resveratrol:2",
+      "resveratrol:3",
+      "resveratrol:4",
+      "resveratrol:5",
+      "resveratrol:6",
+      "resveratrol:7",
+      "resveratrol:8"
+    ],
+    "plans": [
+      {
+        "id": "capsule",
+        "expectedPath": "/images/ingredient-plans/resveratrol/capsule.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "topical",
+        "expectedPath": "/images/ingredient-plans/resveratrol/topical.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "reconstitution",
+        "expectedPath": "/images/ingredient-plans/resveratrol/reconstitution.webp",
+        "status": "integrated-decoded-webp"
+      }
+    ]
+  },
+  {
+    "productId": "goji-berry",
+    "input": "c/goji-berry-recovery/goji-berry.json",
+    "sourceIds": [
+      7,
+      8,
+      12,
+      13,
+      18,
+      21,
+      24
+    ],
+    "originalSourceIds": [
+      "c-goji-7",
+      "c-goji-8",
+      "c-goji-12",
+      "c-goji-13",
+      "c-goji-18",
+      "c-goji-21",
+      "c-goji-24"
+    ],
+    "plans": [
+      {
+        "id": "instant-drink",
+        "expectedPath": "/images/ingredient-plans/goji-berry/instant-drink.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "fruit-gummy",
+        "expectedPath": "/images/ingredient-plans/goji-berry/fruit-gummy.webp",
+        "status": "integrated-decoded-webp"
+      },
+      {
+        "id": "polysaccharide-capsule",
+        "expectedPath": "/images/ingredient-plans/goji-berry/polysaccharide-capsule.webp",
+        "status": "integrated-decoded-webp"
+      }
+    ]
+  }
+]

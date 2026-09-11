@@ -14,8 +14,15 @@ try{
    const route=`${lang==='zh'?'/zh':''}${k.canonicalPath}`;
    assert.equal((await page.goto(base+route)).status(),200);await page.evaluate(()=>document.fonts.ready);
    const doc=page.locator('[data-deep-research]');assert.equal(await doc.getAttribute('data-deep-research'),lang);
-   const expected=data.find(d=>d.productId===k.productId).content[lang];
-   const tables=doc.locator('table');assert.equal(await tables.count(),expected.flatMap(s=>s.blocks).filter(b=>b.type==='table').length);
+   const rollout=JSON.parse(readFileSync('src/data/ingredient-reader-packs.json')).find(p=>p.productId===k.productId);
+   const expected=rollout?rollout.content[lang]:data.find(d=>d.productId===k.productId).content[lang];
+   const tables=doc.locator('table');
+   if(k.productId==='turmeric'){
+    // Dedicated renderer: human findings, material forms, application choices,
+    // ingredient combinations and quality; the legacy pack has only two tables.
+    assert.equal(await tables.count(),5);
+    for(const section of ['effects','components','applications','formulations','standards']) assert.ok(await page.locator(`#${section} table`).count()>0,`turmeric/${section}: expected current table`);
+   } else assert.equal(await tables.count(),expected.flatMap(s=>s.blocks).filter(b=>b.type==='table').length);
    for(const table of await tables.all()){
     assert.ok(await table.locator('caption').count());assert.ok(await table.locator('th[scope="col"]').count()>1);
     const region=table.locator('..');assert.equal(await region.getAttribute('tabindex'),'0');
