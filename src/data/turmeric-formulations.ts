@@ -13,8 +13,8 @@ export const formulationImages: Record<string, {src:string;alt:{en:string;zh:str
       "zh": "金黄色燕麦拿铁，配燕麦、肉桂与姜片"
     },
     "caption": {
-      "en": "Plant latte application concept (AI illustration).",
-      "zh": "植物拿铁应用示意（AI绘制）。"
+      "en": "Plant latte application concept.",
+      "zh": "植物拿铁应用示意。"
     }
   },
   "instant-powder": {
@@ -24,8 +24,8 @@ export const formulationImages: Record<string, {src:string;alt:{en:string;zh:str
       "zh": "冲调粉袋、条包、粉勺与冲调后的饮品"
     },
     "caption": {
-      "en": "Instant powder application concept (AI illustration).",
-      "zh": "冲调粉应用示意（AI绘制）。"
+      "en": "Instant powder application concept.",
+      "zh": "冲调粉应用示意。"
     }
   },
   "capsule-tablet": {
@@ -35,8 +35,8 @@ export const formulationImages: Record<string, {src:string;alt:{en:string;zh:str
       "zh": "无标签棕色瓶，配金黄色胶囊与浅色片剂"
     },
     "caption": {
-      "en": "Capsules and tablets application concept (AI illustration).",
-      "zh": "胶囊与片剂应用示意（AI绘制）。"
+      "en": "Capsules and tablets application concept.",
+      "zh": "胶囊与片剂应用示意。"
     }
   },
   "seasoning-food": {
@@ -46,8 +46,8 @@ export const formulationImages: Record<string, {src:string;alt:{en:string;zh:str
       "zh": "金黄色咖喱酱、整粒香辛料与咸味烘焙饼干"
     },
     "caption": {
-      "en": "Seasoned food application concept (AI illustration).",
-      "zh": "调味食品应用示意（AI绘制）。"
+      "en": "Seasoned food application concept.",
+      "zh": "调味食品应用示意。"
     }
   }
 };

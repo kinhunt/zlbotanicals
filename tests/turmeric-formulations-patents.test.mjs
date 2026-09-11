@@ -8,7 +8,7 @@ test('turmeric offers linked formulation and patent sections with concise image 
   for(const id of ['formulations','patents']) {assert.ok(h.includes(`id="${id}"`),id);assert.ok(h.includes(`href="#${id}"`),id);}
   assert.doesNotMatch(h,/不是上市产品、客户案例或已验证配方|not marketed products, customer cases or validated formulas/);
   const captions=[...h.matchAll(/<figcaption[^>]*>(.*?)<\/figcaption>/gs)].map(m=>m[1].replace(/<[^>]+>/g,''));
-  for(const c of captions.filter(c=>/AI/.test(c))) assert.ok(c.length<150,c);
+  for(const c of captions) { assert.doesNotMatch(c,/AI|绘制/); assert.ok(c.length<150,c); }
  }
 });
 

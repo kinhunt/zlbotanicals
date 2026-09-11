@@ -1,0 +1,6 @@
+---
+import ResearchInline from './ResearchInline.astro';
+import type {ResearchBlock} from '../data/deep-ingredients';
+const {section:s,productId,namespace,zh}=Astro.props as {section:{id:string;heading:string;blocks:ResearchBlock[]};productId:string;namespace:string;zh:boolean};
+---
+{s.blocks.map((b,i)=>b.type==='heading'?<h3 id={`research-${productId}-${s.id}-${i}`}>{b.text}</h3>:b.type==='paragraph'?<p><ResearchInline text={b.text} namespace={namespace}/></p>:b.type==='list'?<ul>{b.items.map(item=><li><ResearchInline text={item} namespace={namespace}/></li>)}</ul>:<div class="research-table" role="region" tabindex="0" aria-label={`${s.heading} — ${zh?'对照表':'comparison table'} ${i+1}`}><table><caption>{s.heading} · {zh?'对照表':'Comparison'} {i+1}<span class="table-hint">{zh?'左右滑动查看所有列；键盘可聚焦表格区域后使用方向键。':'Scroll horizontally to see all columns; keyboard users can focus this region and use arrow keys.'}</span></caption><thead><tr>{b.headers.map(h=><th scope="col"><ResearchInline text={h} namespace={namespace}/></th>)}</tr></thead><tbody>{b.rows.map(row=><tr>{row.map((cell,j)=>j===0?<th scope="row"><ResearchInline text={cell} namespace={namespace}/></th>:<td><ResearchInline text={cell} namespace={namespace}/></td>)}</tr>)}</tbody></table></div>)}
