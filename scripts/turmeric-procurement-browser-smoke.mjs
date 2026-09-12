@@ -34,6 +34,7 @@ for(const js of [true,false]) for(const width of [390,1440]) for(const lang of [
  await page.locator('nav a[href="#why-choose-us"]').click();
  const benefits=page.locator('#why-choose-us');
  assert.equal(await benefits.locator('h3').count(),4);
+ assert.deepEqual(await benefits.locator('h3').allTextContents(),lang==='zh'?['有竞争力的采购价格','重视品质与批次一致性','认证与准入资料支持','可靠交付协同']:['Competitive pricing','A focus on quality and consistency','Certification and qualification support','Reliable delivery coordination']);
  assert.equal((await benefits.locator('h2').innerText()).trim(),lang==='zh'?'为什么选择振隆':'Why choose ZL Botanicals');
  await benefits.evaluate(e=>e.scrollIntoView({behavior:'instant',block:'start'}));
  await benefits.screenshot({path:`${out}/${lang}-${width}-${js?'js':'nojs'}-why.png`});
@@ -45,6 +46,8 @@ for(const js of [true,false]) for(const width of [390,1440]) for(const lang of [
   assert.equal(await page.locator('#product').inputValue(),lang==='zh'?'姜黄提取物':'Turmeric Extract');
   assert.equal(await page.locator('#request').inputValue(),'application');
   assert.equal(await page.locator('#application').inputValue(),briefURL.searchParams.get('application'));
+  await page.locator('#application').fill(lang==='zh'?'姜黄采购：请按目标规格讨论报价与交付。':'Turmeric sourcing: discuss pricing and delivery for our target specification.');
+  assert.match(await page.locator('#application').inputValue(),lang==='zh'?/报价与交付/:/pricing and delivery/);
  }else{assert.ok(await page.locator('a[href="mailto:info@zlbotanicals.com"]').first().isVisible());}
  if(js){for(const request of ['quote','sample','TDS']){
   await page.goto(base+route);await page.locator(`[data-procurement-action="${request}"]`).click();await page.waitForURL('**/request-quote?**');

@@ -113,39 +113,39 @@ The written quotation should identify the supply source and relationship, confir
 
 ## Why choose ZL Botanicals
 
-Bring your turmeric application to ZL Botanicals before fixing a grade. Our inquiry process connects ingredient selection, specification questions and project requirements in one brief.
+ZL Botanicals supports turmeric extract sourcing with competitive pricing, a focus on quality, certification support and reliable delivery coordination. Build your purchase around your budget, approval requirements and production schedule.
 
 <div class="procurement-benefits">
 
 <div class="procurement-benefit">
 
-### Start with your application
+### Competitive pricing
 
-Discuss the finished product, colour or flavour target and processing conditions with us. These details give the selection conversation a practical starting point, even when your target assay is still undecided.
-
-</div>
-
-<div class="procurement-benefit">
-
-### Make specifications and samples comparable
-
-Use our sourcing checklist to bring assay basis, carriers, sample references and acceptance criteria into the same discussion. Your procurement and R&D teams can compare candidates against the same requirements.
+Keep your ingredient budget in focus with competitive turmeric extract pricing. We clarify the specification, order quantity and shipping terms behind your quote so you can compare costs on the same basis.
 
 </div>
 
 <div class="procurement-benefit">
 
-### Connect sourcing with an ODM brief
+### A focus on quality and consistency
 
-If your turmeric ingredient is part of a beverage project, we can discuss sourcing questions alongside ODM feasibility. Include the product format, packaging idea and development stage so the conversation covers both the ingredient and the next project decision.
+We put material quality and batch consistency at the centre of turmeric sourcing. Your agreed specification and acceptance criteria guide the purchase, giving QA and production a clear basis for incoming material review and repeat orders.
 
 </div>
 
 <div class="procurement-benefit">
 
-### Give the next team a usable brief
+### Certification and qualification support
 
-Our English and Chinese technical guides and buyer tools help you record material choices and trial questions. Add document needs, open decisions and the person responsible for approval so procurement, R&D and production contacts can pick up the same brief.
+Get support with certification and quality documentation for supplier qualification. We help match the document requirements to your selected material and target market so your QA team can focus its review on what matters for approval.
+
+</div>
+
+<div class="procurement-benefit">
+
+### Reliable delivery coordination
+
+Plan your turmeric purchases with dependable order and delivery coordination. We work with your quantities, destination and required dates to clarify shipment arrangements and support your production and replenishment planning.
 
 </div>
 
