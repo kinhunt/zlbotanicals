@@ -45,9 +45,9 @@ test('event cards remain dated historical records and renderers exclude drafts',
 test('all bilingual product pages provide research, processing dossier and topic-specific paths',()=>{
  for(const lang of ['','zh/']) for(const slug of ['green-tea','turmeric','reishi-mushroom','ginseng','ginkgo-biloba','grape-seed','goji-berry','licorice-root','centella-asiatica','monk-fruit','stevia','resveratrol']){
   const html=fs.readFileSync(`dist/${lang}products/${slug}/index.html`,'utf8');
-  if(slug!=='turmeric') assert.ok(html.includes('id="research"'),`${lang}${slug} research cards`);
+  if(slug!=='turmeric') { assert.ok(html.includes(`data-extract-sales="${slug}"`)); assert.ok(!html.includes('id="research"'), 'sales page does not duplicate research cards'); }
   assert.ok(html.includes('id="processing-dossier"'));
-  if(slug!=='turmeric') assert.ok(html.includes(`/${lang}resources/research`));
+  if(slug!=='turmeric') assert.ok(html.includes(`/${lang}plant-extracts/ingredients/${slug}#insights`));
   assert.ok(html.includes(`/${lang}plant-extracts/`));
   assert.ok(!html.includes('"@type":"Offer"'));
  }

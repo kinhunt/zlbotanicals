@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 const read = p => readFileSync(`dist${p}/index.html`, 'utf8');
-test('turmeric-only why choose section connects buyer decisions to a localized project brief', () => {
+test('turmeric why choose section connects buyer decisions to a localized project brief', () => {
  for (const [prefix, heading, product] of [['', 'Why choose ZL Botanicals', 'Turmeric Extract'], ['/zh', '为什么选择振隆', '姜黄提取物']]) {
   const html = read(`${prefix}/products/turmeric`);
   const section = html.match(/<section id="why-choose-us">([\s\S]*?)<\/section>/)?.[1];
@@ -29,6 +29,6 @@ test('turmeric-only why choose section connects buyer decisions to a localized p
   assert.doesNotMatch(section, /own factory|in-house lab|certified|exclusive patent|in stock|free samples|lowest price|worldwide customers|guaranteed|自有工厂|自建实验室|认证齐全|独家专利|现货|免费样品|最低价|全球客户|保证交付/i);
   // Check visible prose, not percent-encoded query parameters in the preserved CTA.
   assert.doesNotMatch(section.replace(/<[^>]*>/g, ''), /\b(?:ISO|GMP|FDA|organic|warehouse)\b|\d+\s*(?:%|hours?|days?|小时|天)|best quality|every batch tested|approved worldwide|manufacturer.direct|有机认证|每批.*检测|全球.*准入|工厂直供|最优品质/i);
-  for (const route of ['/products/botanical-extracts', '/plant-extracts/ingredients/turmeric', '/products/green-tea']) assert.ok(!read(prefix + route).includes('id="why-choose-us"'), route);
+  for (const route of ['/products/botanical-extracts', '/plant-extracts/ingredients/turmeric']) assert.ok(!read(prefix + route).includes('id="why-choose-us"'), route);
  }
 });

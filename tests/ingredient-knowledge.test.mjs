@@ -18,14 +18,15 @@ test('all 12 bilingual products link five dimensions to their own substantive ca
    assert.ok(section,`${target}#${dimension} missing section`);
    assert.ok(section[1].replace(/<[^>]*>/g,'').length>130,`${target}#${dimension} lacks substance`);
   }
-  if(d.slug!=='turmeric') assert.ok(page.includes(lang==='zh'?'全部原料通用指南':'General guides for all ingredients'));
+  if(d.slug!=='turmeric') assert.ok(!page.includes(lang==='zh'?'全部原料通用指南':'General guides for all ingredients'), 'generic guide matrix stays off sales pages');
  }
 });
 
-test('unmatched ingredient news explicitly says no matching reviewed records',()=>{
+test('sales pages omit empty news panels rather than presenting absence as content',()=>{
  for(const prefix of ['', '/zh']) {
   const page=html(`${prefix}/products/centella-asiatica`);
-  assert.ok(page.includes(prefix?'暂无与本原料匹配的已核查事件记录':'No reviewed event records match this ingredient'));
+  assert.ok(!page.includes(prefix?'暂无与本原料匹配的已核查事件记录':'No reviewed event records match this ingredient'));
+  assert.ok(page.includes('data-extract-sales="centella-asiatica"'));
   assert.ok(!page.includes('2022/2340'));
  }
 });

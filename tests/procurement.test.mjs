@@ -34,13 +34,13 @@ test('URL prefill treats product as plain text and only accepts supported reques
  assert.equal(run('').product.value, '');
 });
 
-test('localized product CTAs route to quote with an encoded product', () => {
- for (const prefix of ['', 'zh/']) {
-  const s = read(`src/pages/${prefix}products/[slug].astro`);
-  assert.match(s, /getLocalizedPath\('\/request-quote', lang\)/);
-  assert.match(s, /encodeURIComponent\(product.data.name\)/);
-  assert.match(s, /request=sample/);
-  assert.match(s, /request=COA/);
+test('localized product CTAs carry the actual product and supported request types', () => {
+ for(const prefix of ['', 'zh/'])for(const id of ['green-tea','centella-asiatica','monk-fruit','ginseng','reishi-mushroom','ginkgo-biloba','grape-seed','goji-berry','licorice-root','stevia','resveratrol']){
+  const page=read(`dist/${prefix}products/${id}/index.html`);
+  for(const request of ['quote','sample','TDS','COA']){
+   const links=[...page.matchAll(/href="([^"]*request-quote[^"]*)"/g)].map(m=>new URL(m[1].replace(/&(?:amp|#x26|#38);/g,'&'),'https://zlbotanicals.com'));
+   assert.ok(links.some(u=>u.pathname===`/${prefix}request-quote`&&u.searchParams.get('request')===request&&u.searchParams.get('product')));
+  }
  }
 });
 

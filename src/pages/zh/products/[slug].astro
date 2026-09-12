@@ -1,12 +1,10 @@
 ---
 import { getCollection } from 'astro:content';
 import TurmericProcurementIntro from '../../../components/TurmericProcurementIntro.astro';
-import ProcurementSummary from '../../../components/ProcurementSummary.astro';
-import ProductDossier from '../../../components/ProductDossier.astro';
-import RelatedGuides from '../../../components/RelatedGuides.astro';
+import ExtractSales from '../../../components/ExtractSales.astro';
+import {getExtractSale,salesTitle} from '../../../data/extract-sales';
 import PageLayout from '../../../layouts/PageLayout.astro';
 import { getLocalizedPath } from '../../../i18n/config';
-import { Lightbulb, ArrowRight } from '@lucide/astro';
 
 const lang = 'zh';
 
@@ -23,107 +21,17 @@ export async function getStaticPaths() {
 
 const { product } = Astro.props;
 const isTurmeric = product.slug === 'zh/turmeric';
+const sale = getExtractSale(product.slug.replace('zh/',''));
 const { Content } = await product.render();
 
-// Get related solutions
-const allSolutions = await getCollection('solutions', ({ data }) => {
-  return data.lang === 'zh' && !data.draft;
-});
-
-const relatedSolutions = allSolutions.filter((solution) =>
-  product.data.solutions?.includes(solution.slug.replace('zh/', ''))
-);
 ---
 
-<PageLayout
-  title={isTurmeric ? '姜黄提取物采购：供应商、批量价格与 HPLC 规格' : product.data.name}
-  description={product.data.description}
-  lang={lang}
-  heroTitle={isTurmeric ? undefined : product.data.name}
-  heroSubtitle={isTurmeric ? undefined : product.data.latinName}
->
-  <article class={isTurmeric ? undefined : "section-padding"}>
-    <div class={isTurmeric ? "turmeric-shell" : "container-wide max-w-4xl"}>
-      <!-- Breadcrumb -->
-      <nav class="mb-8 text-sm">
-        <ol class="flex items-center gap-2 text-gray-500">
-          <li><a href={getLocalizedPath('/', lang)} class="hover:text-primary">首页</a></li>
-          <li>/</li>
-          <li><a href={getLocalizedPath('/products', lang)} class="hover:text-primary">产品</a></li>
-          <li>/</li>
-          <li class="text-gray-900">{product.data.name}</li>
-        </ol>
-      </nav>
-
-      {isTurmeric ? <TurmericProcurementIntro lang={lang} /> : <ProcurementSummary lang={lang} name={product.data.name} latinName={product.data.latinName} description={product.data.description} />}
-
-      <!-- Feature Image -->
-      {!isTurmeric && product.data.image && (
-        <div class="mb-8 rounded-2xl overflow-hidden">
-          <img
-            src={product.data.image}
-            alt={`${product.data.name}——概念插画，非批次样品`}
-            class="w-full h-64 md:h-80 object-contain bg-gray-50"
-          />
-          <p class="text-sm p-3 bg-gray-50">概念插画，非批次样品或规格。图中标签文字不构成纯度、等级或认证承诺；请以确认的现行 TDS 和批次 COA 为准。</p>
-        </div>
-      )}
-
-      <!-- Meta tags -->
-      <div class="flex flex-wrap gap-3 mb-8">
-        {!isTurmeric && product.data.latinName && (
-          <span class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm font-medium italic">
-            {product.data.latinName}
-          </span>
-        )}
-      </div>
-
-      <!-- Main Content -->
-      <div data-turmeric-procurement={isTurmeric || undefined} class="prose prose-lg max-w-none prose-headings:font-display prose-headings:text-gray-900 prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-table:text-sm">
-        <Content />
-      </div>
-
-      {!isTurmeric && <RelatedGuides lang={lang} productSlug={product.slug.replace('zh/', '')} />}
-
-      {!isTurmeric && <ProductDossier lang={lang} slug={product.slug.replace('zh/', '')} />}
-
-      <!-- Related Solutions -->
-      {!isTurmeric && relatedSolutions.length > 0 && (
-        <div class="mt-16 pt-8 border-t border-gray-200">
-          <h3 class="text-xl font-display font-bold text-gray-900 mb-6 flex items-center gap-2">
-            <Lightbulb class="w-6 h-6 text-accent" />
-            应用解决方案
-          </h3>
-          <div class="grid md:grid-cols-2 gap-4">
-            {relatedSolutions.map((solution) => (
-              <a
-                href={getLocalizedPath(`/solutions/${solution.slug.replace('zh/', '')}`, lang)}
-                class="group p-6 bg-gradient-to-br from-accent/5 to-accent/10 rounded-xl hover:shadow-md transition-all"
-              >
-                <h4 class="font-semibold text-gray-900 group-hover:text-accent transition-colors">
-                  {solution.data.name}
-                </h4>
-                {solution.data.description && (
-                  <p class="text-sm text-gray-600 mt-2 line-clamp-2">{solution.data.description}</p>
-                )}
-                <span class="inline-flex items-center gap-1 mt-3 text-accent text-sm font-medium">
-                  了解更多 <ArrowRight class="w-4 h-4" />
-                </span>
-              </a>
-            ))}
-          </div>
-        </div>
-      )}
-
-      {!isTurmeric && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
-        <h2 class="text-xl font-display font-bold text-gray-900">评估此产品的采购适配性</h2>
-        <p class="text-gray-600 mt-2">请注明规格与目标市场。样品及文件以实际可提供情况为准；订货条件须书面确认。</p>
-        <div class="flex flex-wrap justify-center gap-3 mt-4">
-          <a href={`${getLocalizedPath('/request-quote', lang)}?product=${encodeURIComponent(product.data.name)}&request=quote`} class="px-6 py-3 bg-primary text-white rounded-lg font-medium">获取报价</a>
-          <a href={`${getLocalizedPath('/request-quote', lang)}?product=${encodeURIComponent(product.data.name)}&request=sample`} class="px-6 py-3 border border-primary text-primary rounded-lg font-medium">咨询样品</a>
-          <a href={`${getLocalizedPath('/request-quote', lang)}?product=${encodeURIComponent(product.data.name)}&request=COA`} class="px-6 py-3 border border-primary text-primary rounded-lg font-medium">索取 COA / 技术资料</a>
-        </div>
-      </div>}
-    </div>
-  </article>
+<PageLayout title={isTurmeric ? '姜黄提取物采购：供应商、批量价格与 HPLC 规格' : sale ? salesTitle(sale,lang)+'：批量供应、价格与规格' : product.data.name} description={sale ? sale.offer[lang] : product.data.description} lang={lang}>
+ <article class={sale ? 'sales-shell' : undefined}>
+  <div class={isTurmeric ? 'turmeric-shell' : undefined}>
+   <nav class="mb-8 text-sm" aria-label="面包屑"><a href={getLocalizedPath('/',lang)}>首页</a> / <a href={getLocalizedPath('/products',lang)}>产品</a> / {product.data.name}</nav>
+   {sale ? <ExtractSales id={sale.id} lang={lang}/> : <><TurmericProcurementIntro lang={lang}/><div data-turmeric-procurement class="prose prose-lg max-w-none prose-headings:font-display prose-headings:text-gray-900 prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-table:text-sm"><Content/></div></>}
+  </div>
+ </article>
 </PageLayout>
+<style>.sales-shell{max-width:1168px;margin:auto;padding:1.5rem 24px 4rem}@media(max-width:700px){.sales-shell{padding-inline:18px}}</style>

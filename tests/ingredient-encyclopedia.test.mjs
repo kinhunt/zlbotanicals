@@ -45,7 +45,7 @@ test('encyclopedias identify materials before contents, retain eight readable se
    const section=product.match(new RegExp(`<section[^>]*id="${anchor}"[^>]*>([\\s\\S]*?)</section>`))?.[1];
    assert.ok(section,`legacy commercial anchor ${id}/${anchor}`);
    // Chinese summaries carry equivalent meaning with fewer characters.
-   assert.ok(section.replace(/<[^>]*>/g,'').length>(prefix && id==='turmeric'?45:100));
+   assert.ok(section.replace(/<[^>]*>/g,'').length>(prefix?45:100));
    assert.ok(section.includes(`href="${science}#${anchor}"`));
   }
  }
