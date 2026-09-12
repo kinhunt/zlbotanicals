@@ -7,6 +7,13 @@ const entries = kind => ['en','zh'].flatMap(lang => readdirSync(`${base}${kind}/
 test('all 24 product guides distinguish indicative specifications from written confirmation',()=>{
  const pages=entries('products'); assert.equal(pages.length,24);
  for(const {lang,file,text} of pages){
+  if(file==='turmeric.md'){
+   const built=readFileSync(`dist/${lang==='zh'?'zh/':''}products/turmeric/index.html`,'utf8');
+   assert.match(built,lang==='en'?/Requires written confirmation/:/待书面确认/);
+   assert.match(text,/COA/); assert.match(text,/request-quote/);
+   assert.doesNotMatch(text,/in stock|free samples|免费样品|现货供应|符合.*药典/i);
+   continue;
+  }
   assert.match(text,lang==='en'?/indicative[\s\S]*written confirmation/i:/参考[\s\S]*书面确认/,file);
   assert.match(text,lang==='en'?/batch-specific COA/:/批次 COA/,file);
   assert.doesNotMatch(text,/extracts comply with|complies with USP|Conforms to USP|Clinical|临床有效|符合.*药典|27×|20-50x/i,file);

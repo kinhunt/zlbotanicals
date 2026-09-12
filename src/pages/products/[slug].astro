@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import TurmericProcurementIntro from '../../components/TurmericProcurementIntro.astro';
 import ProcurementSummary from '../../components/ProcurementSummary.astro';
 import ProductDossier from '../../components/ProductDossier.astro';
 import RelatedGuides from '../../components/RelatedGuides.astro';
@@ -21,6 +22,7 @@ export async function getStaticPaths() {
 }
 
 const { product } = Astro.props;
+const isTurmeric = product.slug === 'en/turmeric';
 const { Content } = await product.render();
 
 // Get related solutions
@@ -34,10 +36,10 @@ const relatedSolutions = allSolutions.filter((solution) =>
 ---
 
 <PageLayout
-  title={product.data.name}
+  title={isTurmeric ? 'Turmeric Extract Procurement: Specs, Samples & Quotes' : product.data.name}
   description={product.data.description}
   lang={lang}
-  heroTitle={product.data.name}
+  heroTitle={isTurmeric ? 'Turmeric Extract Procurement' : product.data.name}
   heroSubtitle={product.data.latinName}
 >
   <article class="section-padding">
@@ -53,7 +55,7 @@ const relatedSolutions = allSolutions.filter((solution) =>
         </ol>
       </nav>
 
-      <ProcurementSummary lang={lang} name={product.data.name} latinName={product.data.latinName} description={product.data.description} />
+      {isTurmeric ? <TurmericProcurementIntro lang={lang} /> : <ProcurementSummary lang={lang} name={product.data.name} latinName={product.data.latinName} description={product.data.description} />}
 
       <!-- Feature Image -->
       {product.data.image && (
@@ -77,16 +79,16 @@ const relatedSolutions = allSolutions.filter((solution) =>
       </div>
 
       <!-- Main Content -->
-      <div class="prose prose-lg max-w-none prose-headings:font-display prose-headings:text-gray-900 prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-table:text-sm">
+      <div data-turmeric-procurement={isTurmeric || undefined} class="prose prose-lg max-w-none prose-headings:font-display prose-headings:text-gray-900 prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-table:text-sm">
         <Content />
       </div>
 
-      <RelatedGuides lang={lang} productSlug={product.slug.replace('en/', '')} />
+      {!isTurmeric && <RelatedGuides lang={lang} productSlug={product.slug.replace('en/', '')} />}
 
-      <ProductDossier lang={lang} slug={product.slug.replace('en/', '')} />
+      {!isTurmeric && <ProductDossier lang={lang} slug={product.slug.replace('en/', '')} />}
 
       <!-- Related Solutions -->
-      {relatedSolutions.length > 0 && (
+      {!isTurmeric && relatedSolutions.length > 0 && (
         <div class="mt-16 pt-8 border-t border-gray-200">
           <h3 class="text-xl font-display font-bold text-gray-900 mb-6 flex items-center gap-2">
             <Lightbulb class="w-6 h-6 text-accent" />
@@ -113,7 +115,7 @@ const relatedSolutions = allSolutions.filter((solution) =>
         </div>
       )}
 
-      <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
+      {!isTurmeric && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
         <h2 class="text-xl font-display font-bold text-gray-900">Evaluate this product for your purchase</h2>
         <p class="text-gray-600 mt-2">Specify the grade and target market. Samples and documents are subject to availability; order terms require written confirmation.</p>
         <div class="flex flex-wrap justify-center gap-3 mt-4">
@@ -121,7 +123,7 @@ const relatedSolutions = allSolutions.filter((solution) =>
           <a href={`${getLocalizedPath('/request-quote', lang)}?product=${encodeURIComponent(product.data.name)}&request=sample`} class="px-6 py-3 border border-primary text-primary rounded-lg font-medium">Ask about samples</a>
           <a href={`${getLocalizedPath('/request-quote', lang)}?product=${encodeURIComponent(product.data.name)}&request=COA`} class="px-6 py-3 border border-primary text-primary rounded-lg font-medium">Request COA / technical documents</a>
         </div>
-      </div>
+      </div>}
     </div>
   </article>
 </PageLayout>
