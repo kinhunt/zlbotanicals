@@ -36,14 +36,14 @@ const relatedSolutions = allSolutions.filter((solution) =>
 ---
 
 <PageLayout
-  title={isTurmeric ? '姜黄提取物采购：规格选型、样品与询价' : product.data.name}
+  title={isTurmeric ? '姜黄提取物采购：供应商、批量价格与 HPLC 规格' : product.data.name}
   description={product.data.description}
   lang={lang}
-  heroTitle={isTurmeric ? '姜黄提取物采购' : product.data.name}
-  heroSubtitle={product.data.latinName}
+  heroTitle={isTurmeric ? undefined : product.data.name}
+  heroSubtitle={isTurmeric ? undefined : product.data.latinName}
 >
-  <article class="section-padding">
-    <div class="container-wide max-w-4xl">
+  <article class={isTurmeric ? undefined : "section-padding"}>
+    <div class={isTurmeric ? "turmeric-shell" : "container-wide max-w-4xl"}>
       <!-- Breadcrumb -->
       <nav class="mb-8 text-sm">
         <ol class="flex items-center gap-2 text-gray-500">
@@ -58,7 +58,7 @@ const relatedSolutions = allSolutions.filter((solution) =>
       {isTurmeric ? <TurmericProcurementIntro lang={lang} /> : <ProcurementSummary lang={lang} name={product.data.name} latinName={product.data.latinName} description={product.data.description} />}
 
       <!-- Feature Image -->
-      {product.data.image && (
+      {!isTurmeric && product.data.image && (
         <div class="mb-8 rounded-2xl overflow-hidden">
           <img
             src={product.data.image}
@@ -71,7 +71,7 @@ const relatedSolutions = allSolutions.filter((solution) =>
 
       <!-- Meta tags -->
       <div class="flex flex-wrap gap-3 mb-8">
-        {product.data.latinName && (
+        {!isTurmeric && product.data.latinName && (
           <span class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm font-medium italic">
             {product.data.latinName}
           </span>

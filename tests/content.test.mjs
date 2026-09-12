@@ -9,7 +9,8 @@ test('all 24 product guides distinguish indicative specifications from written c
  for(const {lang,file,text} of pages){
   if(file==='turmeric.md'){
    const built=readFileSync(`dist/${lang==='zh'?'zh/':''}products/turmeric/index.html`,'utf8');
-   assert.match(built,lang==='en'?/Requires written confirmation/:/待书面确认/);
+   // Owner confirmed turmeric supply scope on 2026-09-12; order-specific terms remain quoted.
+   assert.match(built,lang==='en'?/confirmed for the selected specification/:/在报价中确认/);
    assert.match(text,/COA/); assert.match(text,/request-quote/);
    assert.doesNotMatch(text,/in stock|free samples|免费样品|现货供应|符合.*药典/i);
    continue;

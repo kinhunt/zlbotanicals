@@ -18,7 +18,10 @@ test('all product pages put procurement confirmation and actions before technica
  assert.ok(page.indexOf('id="procurement-summary"')<page.indexOf('id="processing-dossier"'));
  const panel=page.split('id="procurement-summary"')[1].split('</section>')[0];
  for(const request of ['TDS','sample','quote'])assert.ok(panel.includes(`request=${request}`));
- assert.ok(panel.includes(prefix?'待书面确认':'Requires written confirmation'));
+ if(slug==='turmeric') {
+   assert.ok(panel.includes(prefix?'振隆供应姜黄提取物':'ZL Botanicals supplies turmeric extract'));
+   assert.ok(page.includes(prefix?'在报价中确认':'confirmed for the selected specification'));
+  } else assert.ok(panel.includes(prefix?'待书面确认':'Requires written confirmation'));
  }
 });
 
