@@ -20,7 +20,7 @@ test('research cards render evidence and subset counts from current reviewed rec
  const records=JSON.parse(readFileSync('src/data/research.json','utf8')).filter(r=>r.status==='reviewed');
  for(const lang of ['en','zh']){
  const prefix=lang==='zh'?'zh/':'';
- for(const scope of ['resources/research/','products/green-tea/']){
+ for(const scope of ['resources/research/','plant-extracts/ingredients/green-tea/']){
  const selected=records.filter(r=>scope.startsWith('resources')||r.products.includes('green-tea'));
  const page=html(prefix+scope);
  assert.ok(page.includes(`data-research-total="${selected.length}"`));

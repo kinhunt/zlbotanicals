@@ -1,0 +1,266 @@
+[
+  {
+    "id": "green-tea",
+    "lang": "en",
+    "description": "ZL Botanicals supplies green tea extract for tea beverages, instant blends and standardized ingredient projects. Match tea flavour and cold-water performance to your drink, or specify a catechin profile for a dry blend.",
+    "canonical": "https://zlbotanicals.com/products/green-tea",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/green-tea",
+      "zh-CN": "https://zlbotanicals.com/zh/products/green-tea",
+      "x-default": "https://zlbotanicals.com/products/green-tea"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "centella-asiatica",
+    "lang": "en",
+    "description": "ZL Botanicals supplies Centella extract for cosmetic ingredient projects. Build a serum or cream around a defined triterpene composition, with colour, carrier and handling requirements included in the quotation.",
+    "canonical": "https://zlbotanicals.com/products/centella-asiatica",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/centella-asiatica",
+      "zh-CN": "https://zlbotanicals.com/zh/products/centella-asiatica",
+      "x-default": "https://zlbotanicals.com/products/centella-asiatica"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "monk-fruit",
+    "lang": "en",
+    "description": "ZL Botanicals supplies monk fruit extract for sweetener and flavour projects. Specify Mogroside V, fruit character and carrier composition to build a reduced-sugar formula without overlooking taste or bulk.",
+    "canonical": "https://zlbotanicals.com/products/monk-fruit",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/monk-fruit",
+      "zh-CN": "https://zlbotanicals.com/zh/products/monk-fruit",
+      "x-default": "https://zlbotanicals.com/products/monk-fruit"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "ginseng",
+    "lang": "en",
+    "description": "ZL Botanicals supplies ginseng extract for powder blends, capsules and beverage development. Define white or red ginseng processing and the required ginsenoside profile for a specification that fits your product.",
+    "canonical": "https://zlbotanicals.com/products/ginseng",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/ginseng",
+      "zh-CN": "https://zlbotanicals.com/zh/products/ginseng",
+      "x-default": "https://zlbotanicals.com/products/ginseng"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "reishi-mushroom",
+    "lang": "en",
+    "description": "ZL Botanicals supplies reishi extract for defined fungal-ingredient projects. Separate polysaccharide-oriented and triterpenoid-oriented requirements, with species, fruiting body or mycelium identity included from the first quote.",
+    "canonical": "https://zlbotanicals.com/products/reishi-mushroom",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/reishi-mushroom",
+      "zh-CN": "https://zlbotanicals.com/zh/products/reishi-mushroom",
+      "x-default": "https://zlbotanicals.com/products/reishi-mushroom"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "ginkgo-biloba",
+    "lang": "en",
+    "description": "ZL Botanicals supplies ginkgo leaf extract for qualified ingredient projects. Build your quotation around flavonoid glycosides, terpene lactones and ginkgolic-acid controls, with destination requirements agreed before sample approval.",
+    "canonical": "https://zlbotanicals.com/products/ginkgo-biloba",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/ginkgo-biloba",
+      "zh-CN": "https://zlbotanicals.com/zh/products/ginkgo-biloba",
+      "x-default": "https://zlbotanicals.com/products/ginkgo-biloba"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "grape-seed",
+    "lang": "en",
+    "description": "ZL Botanicals supplies grape seed extract for polyphenol ingredient projects. Compare offers on a defined OPC method and botanical fingerprint, then select the handling profile for your capsule, drink or topical formula.",
+    "canonical": "https://zlbotanicals.com/products/grape-seed",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/grape-seed",
+      "zh-CN": "https://zlbotanicals.com/zh/products/grape-seed",
+      "x-default": "https://zlbotanicals.com/products/grape-seed"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "goji-berry",
+    "lang": "en",
+    "description": "ZL Botanicals supplies goji fruit extracts for fruit-flavour and polysaccharide projects. Choose fruit solids for flavour and colour, or define an enriched fraction for a composition-led powder product.",
+    "canonical": "https://zlbotanicals.com/products/goji-berry",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/goji-berry",
+      "zh-CN": "https://zlbotanicals.com/zh/products/goji-berry",
+      "x-default": "https://zlbotanicals.com/products/goji-berry"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "licorice-root",
+    "lang": "en",
+    "description": "ZL Botanicals supplies licorice extract for flavour and specialist ingredient projects. Conventional extract, DGL and glabridin-oriented material receive separate composition briefs so the product matches its intended use.",
+    "canonical": "https://zlbotanicals.com/products/licorice-root",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/licorice-root",
+      "zh-CN": "https://zlbotanicals.com/zh/products/licorice-root",
+      "x-default": "https://zlbotanicals.com/products/licorice-root"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "stevia",
+    "lang": "en",
+    "description": "ZL Botanicals supplies stevia glycoside ingredients for reduced-sugar products. Set the Reb A, Reb D or Reb M profile around sweetness quality, dissolution and cost in use rather than a total assay alone.",
+    "canonical": "https://zlbotanicals.com/products/stevia",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/stevia",
+      "zh-CN": "https://zlbotanicals.com/zh/products/stevia",
+      "x-default": "https://zlbotanicals.com/products/stevia"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "resveratrol",
+    "lang": "en",
+    "description": "ZL Botanicals supplies resveratrol for assay-led ingredient projects. Specify the trans isomer, source and impurity controls, then match powder handling or dispersion needs to your capsule or topical development.",
+    "canonical": "https://zlbotanicals.com/products/resveratrol",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/resveratrol",
+      "zh-CN": "https://zlbotanicals.com/zh/products/resveratrol",
+      "x-default": "https://zlbotanicals.com/products/resveratrol"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "green-tea",
+    "lang": "zh",
+    "description": "振隆供应绿茶提取物，服务茶饮、速溶粉及标准化原料项目。饮料侧重茶感与冷水表现，干粉配方可按儿茶素组成选型。",
+    "canonical": "https://zlbotanicals.com/zh/products/green-tea",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/green-tea",
+      "zh-CN": "https://zlbotanicals.com/zh/products/green-tea",
+      "x-default": "https://zlbotanicals.com/products/green-tea"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "centella-asiatica",
+    "lang": "zh",
+    "description": "振隆供应面向化妆品原料项目的积雪草提取物。精华或面霜可按明确的三萜组成选型，将色泽、载体和使用方式纳入报价。",
+    "canonical": "https://zlbotanicals.com/zh/products/centella-asiatica",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/centella-asiatica",
+      "zh-CN": "https://zlbotanicals.com/zh/products/centella-asiatica",
+      "x-default": "https://zlbotanicals.com/products/centella-asiatica"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "monk-fruit",
+    "lang": "zh",
+    "description": "振隆供应面向甜味剂及风味项目的罗汉果提取物。围绕罗汉果甜苷 V、果味与载体选型，让减糖配方同时兼顾口感和体积。",
+    "canonical": "https://zlbotanicals.com/zh/products/monk-fruit",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/monk-fruit",
+      "zh-CN": "https://zlbotanicals.com/zh/products/monk-fruit",
+      "x-default": "https://zlbotanicals.com/products/monk-fruit"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "ginseng",
+    "lang": "zh",
+    "description": "振隆供应人参提取物，服务粉剂、胶囊及饮料开发。明确白参或红参加工方式与人参皂苷组成，为产品匹配规格。",
+    "canonical": "https://zlbotanicals.com/zh/products/ginseng",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/ginseng",
+      "zh-CN": "https://zlbotanicals.com/zh/products/ginseng",
+      "x-default": "https://zlbotanicals.com/products/ginseng"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "reishi-mushroom",
+    "lang": "zh",
+    "description": "振隆供应灵芝提取物，服务身份明确的真菌原料项目。多糖型与三萜型需求分别选型，首轮报价即纳入物种、子实体或菌丝体身份。",
+    "canonical": "https://zlbotanicals.com/zh/products/reishi-mushroom",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/reishi-mushroom",
+      "zh-CN": "https://zlbotanicals.com/zh/products/reishi-mushroom",
+      "x-default": "https://zlbotanicals.com/products/reishi-mushroom"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "ginkgo-biloba",
+    "lang": "zh",
+    "description": "振隆供应银杏叶提取物，服务经用途评估的原料项目。报价围绕黄酮苷、萜内酯及银杏酸控制展开，样品确认前明确目的地要求。",
+    "canonical": "https://zlbotanicals.com/zh/products/ginkgo-biloba",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/ginkgo-biloba",
+      "zh-CN": "https://zlbotanicals.com/zh/products/ginkgo-biloba",
+      "x-default": "https://zlbotanicals.com/products/ginkgo-biloba"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "grape-seed",
+    "lang": "zh",
+    "description": "振隆供应葡萄籽提取物，服务多酚原料项目。以明确的 OPC 方法及植物指纹比较报价，再为胶囊、饮品或外用配方匹配使用表现。",
+    "canonical": "https://zlbotanicals.com/zh/products/grape-seed",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/grape-seed",
+      "zh-CN": "https://zlbotanicals.com/zh/products/grape-seed",
+      "x-default": "https://zlbotanicals.com/products/grape-seed"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "goji-berry",
+    "lang": "zh",
+    "description": "振隆供应枸杞果实提取物，服务果味及多糖项目。风味色泽需求侧重果实固形物，成分型粉剂则采用明确的富集组分要求。",
+    "canonical": "https://zlbotanicals.com/zh/products/goji-berry",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/goji-berry",
+      "zh-CN": "https://zlbotanicals.com/zh/products/goji-berry",
+      "x-default": "https://zlbotanicals.com/products/goji-berry"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "licorice-root",
+    "lang": "zh",
+    "description": "振隆供应甘草提取物，服务风味及专项原料项目。常规提取物、DGL 和光甘草定型原料分别确定组成要求，按用途匹配产品。",
+    "canonical": "https://zlbotanicals.com/zh/products/licorice-root",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/licorice-root",
+      "zh-CN": "https://zlbotanicals.com/zh/products/licorice-root",
+      "x-default": "https://zlbotanicals.com/products/licorice-root"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "stevia",
+    "lang": "zh",
+    "description": "振隆供应甜菊糖苷原料，服务减糖产品。围绕甜味表现、溶解性及使用成本确定 Reb A、Reb D 或 Reb M 组成，而非只看总含量。",
+    "canonical": "https://zlbotanicals.com/zh/products/stevia",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/stevia",
+      "zh-CN": "https://zlbotanicals.com/zh/products/stevia",
+      "x-default": "https://zlbotanicals.com/products/stevia"
+    },
+    "title": "Email"
+  },
+  {
+    "id": "resveratrol",
+    "lang": "zh",
+    "description": "振隆供应白藜芦醇，服务以含量为重点的原料项目。明确反式异构体、来源及杂质控制，再为胶囊或外用开发匹配粉体或分散需求。",
+    "canonical": "https://zlbotanicals.com/zh/products/resveratrol",
+    "hreflang": {
+      "en": "https://zlbotanicals.com/products/resveratrol",
+      "zh-CN": "https://zlbotanicals.com/zh/products/resveratrol",
+      "x-default": "https://zlbotanicals.com/products/resveratrol"
+    },
+    "title": "Email"
+  }
+]
