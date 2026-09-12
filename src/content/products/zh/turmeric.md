@@ -110,6 +110,51 @@ solutions:
 书面报价应列明供货来源及关系、确认的材料与规格、MOQ、可供数量、包装净重与内包装、样品费用和寄送安排、商业订单交期及贸易条款。还需约定运输与储存条件、保质期或复验期依据、到货剩余期限，以及目的地需要的运输或清关文件。包装规格不一定等于起订量，发货日期也不等于到货日期。
 
 </section>
+<section id="why-choose-us">
+
+## 为什么选择振隆
+
+带着姜黄产品的用途来与振隆讨论，再确定原料规格。我们的询盘流程把原料选型、规格问题与项目需求放在同一份简报中。
+
+<div class="procurement-benefits">
+
+<div class="procurement-benefit">
+
+### 从你的应用出发选型
+
+与我们讨论成品形态、颜色或风味目标，以及加工条件。即使还没有确定含量要求，也能从这些具体需求开始判断选型方向。
+
+</div>
+
+<div class="procurement-benefit">
+
+### 让规格与样品有共同的比较依据
+
+借助我们的采购清单，将含量基准、载体、样品编号与验收要求放进同一次讨论。采购和研发可以按同一组条件比较候选材料。
+
+</div>
+
+<div class="procurement-benefit">
+
+### 把原料采购接入 ODM 项目讨论
+
+如果姜黄原料用于饮品项目，可以与我们一并讨论采购问题和 ODM 可行性。在需求中写明成品形态、包装想法与开发阶段，让原料选择衔接下一步项目决策。
+
+</div>
+
+<div class="procurement-benefit">
+
+### 让后续团队接得住项目需求
+
+我们的中英文技术指南与采购工具可帮助你记录原料选择和试样问题。补充所需文件、待定事项与审批负责人，便于采购、研发及生产对接人员沿用同一份简报。
+
+</div>
+
+</div>
+
+<a data-why-choose-brief href="/zh/request-quote?product=%E5%A7%9C%E9%BB%84%E6%8F%90%E5%8F%96%E7%89%A9&amp;request=application&amp;application=%E5%A7%9C%E9%BB%84%E9%A1%B9%E7%9B%AE%EF%BC%9A%E5%BA%94%E7%94%A8%E9%80%89%E5%9E%8B%E3%80%81%E8%A7%84%E6%A0%BC%E4%B8%8E%E6%A0%B7%E5%93%81%E6%AF%94%E8%BE%83%EF%BC%8C%E4%BB%A5%E5%8F%8A%E9%80%82%E7%94%A8%E6%97%B6%E7%9A%84+ODM+%E9%9C%80%E6%B1%82">讨论我的姜黄项目 →</a>
+
+</section>
 <section id="quote">
 <span id="如何提交采购需求"></span>
 
