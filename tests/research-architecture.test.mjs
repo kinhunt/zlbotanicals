@@ -43,7 +43,7 @@ test('twelve ingredient encyclopedias have material boundaries, citations and ID
    assert.ok(cards.length && cards.every(c=>c[1].split(' ').includes(slug)));
   }
   assert.ok(page.includes('href="#research-'));
-  assert.ok(html(`${lang}products/${slug}`).includes(`href="/${path}"`),'product links back to its science profile');
+  assert.ok(html(`${lang}products/${slug}`).includes(`href="/${path}${slug==='turmeric'?'#forms':''}"`),'product links back to its science profile');
   assert.ok(html(`${lang}research`).includes(`href="/${path}"`),'hub links to profile');
  }
 });

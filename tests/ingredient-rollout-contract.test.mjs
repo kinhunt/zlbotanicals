@@ -34,9 +34,15 @@ test('all rollout and legacy source IDs resolve to the ingredient-local HTTPS re
   assert.doesNotMatch(h,/Logged in as|\bDraw ingredient|No image generated/);
  }
 });
-test('retained assets, shared packs and turmeric renderer are byte-identical to PR20',()=>{
+test('retained assets and scientific renderer remain identical apart from procurement links and forms alias',()=>{
  const files=execFileSync('git',['ls-tree','-r','--name-only','7d0286c','public','src/components/TurmericKnowledge.astro','src/data/turmeric-formulations.ts','src/data/deep-ingredients.json','src/data/ingredient-overviews.json']).toString().trim().split('\n');
  assert.ok(files.filter(f=>/^public\/images\/products\/.*\.webp$/.test(f)).length===12);
  assert.ok(files.some(f=>/\.mp4$/.test(f)));
- for(const file of files) assert.deepEqual(readFileSync(file),execFileSync('git',['show',`7d0286c:${file}`],{maxBuffer:30*1024*1024}),file);
+ for(const file of files){
+  const baseline=execFileSync('git',['show',`7d0286c:${file}`],{maxBuffer:30*1024*1024});
+  if(file==='src/components/TurmericKnowledge.astro'){
+   const normalize=s=>s.replace(/<span id="forms" class="legacy-anchor"\/>/g,'').replace(/\{s.id==='standards'&&<p data-procurement-link>[\s\S]*?<\/p>\}/g,'').replace(/<p data-procurement-link>[\s\S]*?<\/p>/g,'').replace(/\s+/g,' ').replace(/> </g,'><').trim();
+   assert.equal(normalize(readFileSync(file,'utf8')),normalize(baseline.toString()),file);
+  }else assert.deepEqual(readFileSync(file),baseline,file);
+ }
 });

@@ -48,6 +48,10 @@ const canonical = `${origin}${path === '/zh' ? '/zh/' : path}`;
     <meta property="og:type" content={ogType} />
     <meta property="og:site_name" content={t('site.name')} />
     <meta name="twitter:card" content={socialImage ? 'summary_large_image' : 'summary'} />
+    {!socialImage && /^\/(?:zh\/)?products\/turmeric$/.test(path) && <>
+      <meta name="twitter:title" content={siteTitle} />
+      <meta name="twitter:description" content={siteDescription} />
+    </>}
     {socialImage && <>
       <meta property="og:image" content={imageUrl} />
       <meta property="og:image:width" content={socialImage.width} />
