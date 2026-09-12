@@ -18,7 +18,7 @@ for(const js of [true,false]) for(const width of [390,1440]) for(const lang of [
  assert.equal(await page.locator('[data-research-card],[data-news-card],[data-commercial-knowledge-summary]').count(),0);
  const paragraphs=await body.locator('p').allTextContents();assert.equal(new Set(paragraphs).size,paragraphs.length,'duplicate paragraphs');
  const ids=await page.locator('[id]').evaluateAll(els=>els.map(e=>e.id));assert.equal(ids.length,new Set(ids).size,'duplicate IDs');
- for(const id of ['material-selection','specifications','cost-comparison','samples','qualification','supply-terms','quote','processes','equipment','applications','standards','insights']){
+ for(const id of ['material-selection','specifications','cost-comparison','samples','qualification','supply-terms','why-choose-us','quote','processes','equipment','applications','standards','insights']){
   assert.equal(await page.locator('#'+id).count(),1);await page.locator('#'+id).evaluate(e=>e.scrollIntoView({behavior:'instant',block:'start'}));
   assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),`${lang}/${width}/${id}: overflow`);
  }
@@ -31,6 +31,21 @@ for(const js of [true,false]) for(const width of [390,1440]) for(const lang of [
   await page.goto(base+science);await page.evaluate(()=>{document.documentElement.style.scrollBehavior='auto';});await page.evaluate(()=>document.fonts.ready);const link=page.locator(`[data-procurement-link] a[href="${route}#${id}"]`);await link.evaluate(e=>e.scrollIntoView({behavior:'instant',block:'center'}));await link.click();await page.waitForURL('**'+route+'#'+id);assert.equal(await page.locator('#'+id).count(),1);
  }
  await page.goto(base+route);await page.evaluate(()=>document.fonts.ready);await page.screenshot({path:`${out}/${lang}-${width}-${js?'js':'nojs'}-full.png`,fullPage:true});
+ await page.locator('nav a[href="#why-choose-us"]').click();
+ const benefits=page.locator('#why-choose-us');
+ assert.equal(await benefits.locator('h3').count(),4);
+ assert.equal((await benefits.locator('h2').innerText()).trim(),lang==='zh'?'为什么选择振隆':'Why choose ZL Botanicals');
+ await benefits.evaluate(e=>e.scrollIntoView({behavior:'instant',block:'start'}));
+ await benefits.screenshot({path:`${out}/${lang}-${width}-${js?'js':'nojs'}-why.png`});
+ const briefLink=benefits.locator('[data-why-choose-brief]');
+ const briefURL=new URL(await briefLink.getAttribute('href'),base);
+ await briefLink.focus();await page.keyboard.press('Enter');await page.waitForURL('**/request-quote?**');await page.waitForLoadState('load');
+ assert.equal(new URL(page.url()).pathname,`${prefix}/request-quote`);
+ if(js){
+  assert.equal(await page.locator('#product').inputValue(),lang==='zh'?'姜黄提取物':'Turmeric Extract');
+  assert.equal(await page.locator('#request').inputValue(),'application');
+  assert.equal(await page.locator('#application').inputValue(),briefURL.searchParams.get('application'));
+ }else{assert.ok(await page.locator('a[href="mailto:info@zlbotanicals.com"]').first().isVisible());}
  if(js){for(const request of ['quote','sample','TDS']){
   await page.goto(base+route);await page.locator(`[data-procurement-action="${request}"]`).click();await page.waitForURL('**/request-quote?**');
   const values=await page.locator('form').first().evaluate(f=>Object.fromEntries(new FormData(f)));assert.equal(values.product,lang==='zh'?'姜黄提取物':'Turmeric Extract');

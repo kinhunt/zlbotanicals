@@ -109,6 +109,51 @@ Separate sample quantity, trial-order quantity, first commercial order and expec
 The written quotation should identify the supply source and relationship, confirmed material and specification, MOQ, available quantity, net pack weight and liner, sample cost and dispatch arrangements, commercial lead time and trade terms. Agree transport and storage conditions, shelf-life or retest basis, required remaining life at arrival and destination-specific shipping or clearance documents. Pack size is not necessarily MOQ, and dispatch date is not arrival date.
 
 </section>
+<section id="why-choose-us">
+
+## Why choose ZL Botanicals
+
+Bring your turmeric application to ZL Botanicals before fixing a grade. Our inquiry process connects ingredient selection, specification questions and project requirements in one brief.
+
+<div class="procurement-benefits">
+
+<div class="procurement-benefit">
+
+### Start with your application
+
+Discuss the finished product, colour or flavour target and processing conditions with us. These details give the selection conversation a practical starting point, even when your target assay is still undecided.
+
+</div>
+
+<div class="procurement-benefit">
+
+### Make specifications and samples comparable
+
+Use our sourcing checklist to bring assay basis, carriers, sample references and acceptance criteria into the same discussion. Your procurement and R&D teams can compare candidates against the same requirements.
+
+</div>
+
+<div class="procurement-benefit">
+
+### Connect sourcing with an ODM brief
+
+If your turmeric ingredient is part of a beverage project, we can discuss sourcing questions alongside ODM feasibility. Include the product format, packaging idea and development stage so the conversation covers both the ingredient and the next project decision.
+
+</div>
+
+<div class="procurement-benefit">
+
+### Give the next team a usable brief
+
+Our English and Chinese technical guides and buyer tools help you record material choices and trial questions. Add document needs, open decisions and the person responsible for approval so procurement, R&D and production contacts can pick up the same brief.
+
+</div>
+
+</div>
+
+<a data-why-choose-brief href="/request-quote?product=Turmeric+Extract&amp;request=application&amp;application=Turmeric+project%3A+application+selection%2C+specification+and+sample+comparison%2C+ODM+requirements+if+relevant">Discuss my turmeric project →</a>
+
+</section>
 <section id="quote">
 <span id="send-a-useful-sourcing-brief"></span>
 

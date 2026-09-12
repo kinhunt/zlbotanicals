@@ -4,7 +4,7 @@ const {lang}=Astro.props as {lang:Language};
 const zh=lang==='zh';
 const name=zh?'姜黄提取物':'Turmeric Extract';
 const quote=(request:string)=>getLocalizedPath('/request-quote',lang)+'?'+new URLSearchParams({product:name,request}).toString();
-const sections=[['material-selection',zh?'原料选型':'Material selection'],['specifications',zh?'规格比较':'Specifications'],['cost-comparison',zh?'配方成本':'Formulation cost'],['samples',zh?'样品评价':'Sample evaluation'],['qualification',zh?'质量文件':'Quality documents'],['supply-terms',zh?'交付条件':'Delivery terms'],['quote',zh?'提交询价':'Send a brief']];
+const sections=[['material-selection',zh?'原料选型':'Material selection'],['specifications',zh?'规格比较':'Specifications'],['cost-comparison',zh?'配方成本':'Formulation cost'],['samples',zh?'样品评价':'Sample evaluation'],['qualification',zh?'质量文件':'Quality documents'],['supply-terms',zh?'交付条件':'Delivery terms'],['why-choose-us',zh?'为什么选择振隆':'Why choose us'],['quote',zh?'提交询价':'Send a brief']];
 ---
 <section id="procurement-summary" class="mb-8 border-b border-gray-200 pb-8">
  <p class="text-lg leading-relaxed">{zh?'饮料、冲调粉与胶囊对姜黄原料的要求不同。采购前，先确定需要香辛风味、黄色着色，还是明确的姜黄素类含量，再比较原料形态、载体和检测结果。本页帮助你整理可比规格、安排样品评价，并提交询价所需的信息。':'Drinks, instant powders and capsules need different turmeric materials. Decide whether your product needs spice character, yellow colour or a specified curcuminoid content, then compare format, carriers and assay results. Use this guide to build comparable specifications, plan sample evaluation and prepare a bulk sourcing inquiry.'}</p>
@@ -22,6 +22,12 @@ const sections=[['material-selection',zh?'原料选型':'Material selection'],['
 [data-turmeric-procurement] th{background:#f3f6ef}
 [data-turmeric-procurement] #samples th:first-child{width:30%}
 [data-turmeric-procurement] h2{text-wrap:balance}
+[data-turmeric-procurement] .procurement-benefits{display:grid;gap:1rem;margin-block:1.5rem}
+[data-turmeric-procurement] .procurement-benefit{padding:1.25rem;border:1px solid #d8e1d0;border-radius:.75rem;background:#f7f9f4}
+[data-turmeric-procurement] .procurement-benefit h3{margin-top:0;font-size:1.15rem;line-height:1.5}
+[data-turmeric-procurement] .procurement-benefit p{margin-bottom:0;font-size:1rem;line-height:1.8}
+[data-turmeric-procurement] [data-why-choose-brief]{display:inline-block;padding:.75rem 1rem;border:1px solid #345a27;border-radius:.5rem;font-weight:600}
+@media(min-width:700px){[data-turmeric-procurement] .procurement-benefits{grid-template-columns:repeat(2,minmax(0,1fr))}}
 [data-turmeric-procurement] a:focus-visible{outline:3px solid #345a27;outline-offset:3px}
 @media(max-width:600px){[data-turmeric-procurement] table{font-size:.85rem;line-height:1.6}[data-turmeric-procurement] th,[data-turmeric-procurement] td{padding:.4rem}}
 </style>
