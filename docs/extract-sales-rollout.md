@@ -50,6 +50,8 @@ External audit C was read and applied: kept OPC method distinctions, goji sugar/
 - Static scan of new production files found no credentials, eval, innerHTML, network submission or recipient changes; `git diff --check` clean.
 - Test baselines now verify actual sales journeys and omission of duplicated research/news modules; research cards remain tested on the encyclopedia/library. Chinese concise-summary threshold now applies equally to all ingredients rather than only turmeric.
 
+- Additional real click suite: 44/44 product → matched science standards → commercial qualification round trips (EN/ZH, JS on/off at 390px); 44 keyboard horizontal-table scroll checks passed. Log retained in evidence.
+
 ## Review gates
 
 At this evidence snapshot, external audit C was available and incorporated; final A/B/D report files had not yet appeared in the supplied research directory. Those integrations and parent independent content/code review remain a gate before merge. The branch is not production publication. No actual inquiry was submitted and no delivery receipt or product certificate was verified in this task. Existing dependency advisory baseline remains outside this content change.
