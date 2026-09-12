@@ -44,8 +44,10 @@ test('encyclopedias identify materials before contents, retain eight readable se
   for(const anchor of ['processes','equipment','applications','standards','insights']){
    const section=product.match(new RegExp(`<section[^>]*id="${anchor}"[^>]*>([\\s\\S]*?)</section>`))?.[1];
    assert.ok(section,`legacy commercial anchor ${id}/${anchor}`);
-   // Chinese summaries carry equivalent meaning with fewer characters.
-   assert.ok(section.replace(/<[^>]*>/g,'').length>(prefix?45:100));
+   // Check actual explanatory prose, not heading/link padding. Short Chinese sentences
+   // can be substantive; the sales editorial suite also rejects duplicated paragraphs.
+   const prose=section.match(/<p[^>]*>([\s\S]*?)<\/p>/)?.[1].replace(/<[^>]*>/g,'').trim();
+   assert.ok(prose && prose.length>(prefix?12:45),`${id}/${anchor}: substantive localized summary`);
    assert.ok(section.includes(`href="${science}#${anchor}"`));
   }
  }
