@@ -2,7 +2,7 @@
 name: Turmeric Extract
 latinName: Curcuma longa
 lang: en
-description: "Compare turmeric extract procurement specifications, total curcuminoids, carriers and sample tests. Prepare a sourcing brief with COA, order quantity and delivery requirements."
+description: "Bulk turmeric extract supplier: 95% total curcuminoids by HPLC, powder, granules and dispersible forms. Get pricing, certification support, COA/TDS/SDS and sample terms."
 image: /images/products/turmeric.webp
 solutions:
   - liver-support-gummy
@@ -12,103 +12,190 @@ solutions:
 <section id="material-selection">
 <span id="material-identity-and-selection"></span>
 
-## Choose the material for the finished product
+## Turmeric extract products and specifications
 
-Start with the purpose: spice character, yellow colour or a specified curcuminoid content. For bulk sourcing, ground rhizome, oleoresin, enriched pigment and formulated dispersions belong on different comparison lines. The following are material choices to evaluate, not a list of stocked grades.
+Our turmeric range includes **95% total curcuminoids by HPLC**, granulated and water-dispersible materials, oleoresin, ratio extracts and carrier-based formats. We match the material to your application, with the selected composition, target specification and supply terms recorded in your quotation. The 95% specification refers to total curcuminoids, not 95% of the single compound curcumin.
+<p class="procurement-scroll-hint">On small screens, scroll the table horizontally; keyboard users can focus it and use the arrow keys.</p>
+<div class="procurement-table" tabindex="0" role="region" aria-label="Product form">
 
-| Material | What to compare | Trial priority |
+| Product form | Supply specification | Application fit |
 | --- | --- | --- |
-| Ground turmeric | Milled rhizome with plant tissue and spice character; not a synonym for extract | Flavour, coarse particles and sediment in seasonings or drinks |
-| Turmeric oleoresin | Colour fraction, volatile oils, resin and physical form | Flavour and distribution in oil-containing foods |
-| Enriched or crystalline curcuminoids | Assayed constituents, reporting basis and particle size | Capsule fill mass or incorporation into a formulated colour system |
-| Carrier-containing dispersible powder or liquid | Final composition, carrier, oil, emulsifier and final-blend assay | Reconstitution, sediment and compatibility with the intended base |
-| Preformed carrier complex | Documented composition and processing identity | Evidence and trials for that exact material; dry blending the ingredients does not establish the same complex |
+| Standardized curcuminoid powder | Total curcuminoids 95% by HPLC; individual-compound profile, assay basis and particle size specified for the selected grade | Capsule fill mass, blend uniformity and incorporation into a colour system |
+| Granulated material | Final granule assay, binder/carrier, particle distribution, density and flow | Tablet compression or filling under your actual process |
+| Water-dispersible powder or liquid | Final-blend assay; carrier, oil and emulsifier identities; dispersion test conditions | Beverages or instant powders: sediment, haze and storage performance |
+| Turmeric oleoresin | Colour fraction, volatile oils, resin and physical form | Spice character and distribution in oil-containing foods |
+| Ratio extract or ground turmeric comparison | For a ratio extract, extraction ratio, solvent and marker assay; ground rhizome is a separate material | Flavour, colour and plant solids; a ratio alone does not specify curcuminoid content |
+| Preformed carrier complex | Documented composition, process identity and evidence for that exact material | Compatibility with the proposed product; mixing the ingredients does not establish the same complex |
 
-High assay does not make crystalline pigment suitable for direct use in a clear drink. A dispersion can suspend pigment without dissolving it. The encyclopedia explains [turmeric material forms and composition](/plant-extracts/ingredients/turmeric#forms).
+</div>
+
+High assay does not make crystalline pigment water-soluble. A dispersion may suspend pigment without dissolving it. For an organic sourcing brief, specify the intended market and required certification scope alongside the material specification.
+
+Read the [turmeric material forms comparison](/plant-extracts/ingredients/turmeric#forms) for the scientific background.
 
 </section>
+
 <section id="specifications">
 <span id="indicative-specification-brief"></span>
 
-## Put assay, composition and method in one specification
+## 95% curcuminoids: composition and technical specification
 
-A supplier comparison starts with the same material identity: *Curcuma longa* rhizome, physical form, specification version and batch reference. A figure labelled “curcumin” may mean one compound or a sum of curcuminoids; ask which was measured.
+Our standardized turmeric extract is specified by **total curcuminoids**, combining curcumin, demethoxycurcumin (DMC) and bisdemethoxycurcumin (BDMC). Curcumin is one member of that group. The technical specification identifies the total, assay method and reporting basis; the batch COA records the results for the delivered lot.
+<p class="procurement-scroll-hint">Scroll horizontally to compare all specification fields.</p>
+<div class="procurement-table" tabindex="0" role="region" aria-label="Technical item">
 
-Record curcumin, demethoxycurcumin and bisdemethoxycurcumin separately where the method reports them, alongside the defined total. Compare the HPLC method, sample preparation, units and reporting basis. Results from different methods are not automatically interchangeable.
+| Technical item | Specification covered | Product documentation |
+| --- | --- | --- |
+| Identity and assay | Curcuma longa rhizome; target total or individual-compound content; HPLC method | Sample preparation, units, calculation and chromatographic information relevant to the claim |
+| Reporting basis | As-supplied or dry-basis assay; moisture or solids data for conversion | The final delivered blend, not the pigment assay before adding a carrier |
+| Composition | Carrier, oil, emulsifier, processing aids and allergen sources; proportions or agreed ranges | Full composition through controlled QA review where confidentiality applies |
+| Physical performance | Particle size, bulk density, flow or dispersion criteria as relevant | Defined methods and conditions that reproduce your intended use |
+| Contaminants and authenticity | Risk-based limits for elemental contaminants including lead, pesticide and residual solvent residues, microbiology and unauthorized colourants | Agreed test scope, methods and detection limits; an HPLC assay alone does not establish every authenticity or safety claim |
 
-For a carrier-containing powder, use the assay of the final delivered blend. The pigment's assay before blending does not describe the whole bag. State whether results are on a dry basis or as supplied, and include moisture or solids data needed for conversion. Carriers affect ingredient cost, capsule fill volume and the finished-product ingredient list.
+</div>
 
-The specification brief should also cover:
-
-- Carrier, oil, emulsifier and processing-aid identities, proportions or agreed ranges, and allergen sources. Confidential details can go through controlled QA review.
-- Particle size and, for solid dosage forms, bulk density, flow and blend uniformity; dispersion results need defined test conditions.
-- Extraction and purification solvents, residual solvents and a risk-based panel for pesticides, elemental contaminants including lead, microbiology and unauthorized colourants, with limits for the intended use and market.
-
-See [curcuminoid assay and quality methods](/plant-extracts/ingredients/turmeric#standards) for the analytical background.
+Use the [curcuminoid assay and quality methods](/plant-extracts/ingredients/turmeric#standards) to prepare analytical questions. The table defines specification fields; actual batch values belong in the corresponding COA.
 
 </section>
+
+<section id="qualification">
+<span id="documents-to-request-before-approval"></span>
+
+## Quality control and certification documents
+
+GMP and ISO qualification documents, together with Halal and Kosher options, support our turmeric supply for different markets. Product specifications cover identity, HPLC assay, physical properties and risk-based contaminant limits. We provide the applicable documents for your selected material, with batch results recorded in the COA.
+
+Certification scope follows the selected material and supply site. The ISO standards below explain the different qualification categories; laboratory accreditation is separate from manufacturing certification.
+<p class="procurement-scroll-hint">Scroll horizontally to read the qualification scope and review items.</p>
+<div class="procurement-table" tabindex="0" role="region" aria-label="Certification or qualification">
+
+| Certification or qualification | What it concerns | Applicable scope and documents |
+| --- | --- | --- |
+| GMP — Good Manufacturing Practices | Manufacturing and quality controls under the relevant product-sector and jurisdictional framework | Applicable GMP framework; holder, manufacturing site, activity/product scope, issuing authority and current status |
+| ISO 9001 | An organization’s quality management system | Certificate holder and covered sites/activities; issuer, certificate number and validity. It is not a turmeric product approval |
+| ISO 22000 | Food safety management systems for organizations in the food chain | Whether the site and activities relevant to the proposed supply fall within the certificate scope |
+| ISO/IEC 17025 | Testing and calibration laboratory competence; laboratory accreditation is scoped to activities and methods | Accreditation body, current scope and coverage of the proposed test methods. It is not a supplier-wide product certificate |
+| Halal, Kosher or organic | Certification options tied to a market, certification scheme and material | The requested scheme, holder, site, ingredient/process scope and current documents for the selected material |
+
+</div>
+
+Ask for the certification and quality document package with your sample or bulk quotation.
+
+### Product documents: COA, TDS and SDS
+
+<p class="procurement-scroll-hint">Scroll horizontally to compare the document review stages.</p>
+<div class="procurement-table" tabindex="0" role="region" aria-label="Document or record">
+
+| Document or record | Purpose in procurement | Review before approval |
+| --- | --- | --- |
+| TDS — Technical Data Sheet | Defines the selected material, specification limits, methods and handling guidance | Current version, complete composition, assay basis and agreed acceptance limits |
+| COA — Certificate of Analysis | Records results for an identified sample or delivery batch | Matching lot number, units, limits and actual results; distinguish measured from calculated values |
+| SDS — Safety Data Sheet | Communicates hazard, handling, storage and transport information | Applicable document and revision for the material; an SDS does not prove assay or food eligibility |
+| Traceability and change control | Links source, sample approval and delivery lot; manages changes | Legal supplier and supply relationship, origin records, lot labels, retained samples, change notification and retest arrangements |
+| Market and export documents | Supports review for the intended use and destination | Allergen information and any required origin, shipping or clearance documents; agree which records can be shared downstream |
+
+</div>
+
+<section id="standards">
+
+Before order release, match the delivery COA, labels and packaging to the approved TDS and sample. Record any differences and agreed retests. See [quality and purchasing context](/plant-extracts/ingredients/turmeric#standards).
+
+</section>
+
+</section>
+
 <section id="cost-comparison">
 
-## Compare formulation cost, not only price per kilogram
+## Competitive bulk pricing for your formulation
 
-When identity, method and assay basis are comparable, an initial calculation is:
+ZL Botanicals offers competitive turmeric extract pricing against your specification and purchase volume. Our quotation brings the selected material, assay basis and order terms together, so your budget reflects the ingredient your product will use.
 
-**Cost per kilogram of curcuminoids = price per kilogram of delivered material ÷ curcuminoid mass fraction in that material.**
+We quote the selected grade with volume-based pricing, packaging, freight responsibilities and quotation validity. For repeat orders, share your forecast so we can coordinate supply with your replenishment schedule.
 
-Convert a percentage to a fraction by dividing by 100. Convert a dry-basis assay to the delivered basis using the appropriate moisture data before applying the calculation. This compares constituent cost, not absorption or health outcomes.
-
-Then calculate ingredient cost per serving from the actual addition rate. Include process losses and other ingredients needed to meet stability requirements. Two carriers can give the same constituent cost but different colour, dispersion or fill-volume performance. For colouring, compare the cost of reaching the same finished-product colour and storage acceptance criteria.
-
-Align currency, order quantity, taxes, freight, trade terms, testing charges and quotation validity before choosing between offers.
+Request pricing for 95% total curcuminoids powder, granules or a dispersible format. Samples and the applicable technical documents are available through the same product enquiry.
 
 </section>
+
 <section id="samples">
 <span id="application-development-checks"></span>
 <span id="sample-evaluation"></span>
+
+## Applications and sample support
+
+Our turmeric materials serve beverages, instant powders, capsules, tablets and food formulations. Sample discussions start with your product base and process, so the selected form addresses the colour, flavour, filling or dispersion performance you need. Illustrations show application concepts.
+
+<div class="procurement-applications">
+<article data-procurement-application="plant-latte" class="procurement-application">
+<img src="/images/ingredients/turmeric-plant-latte-concept.webp" alt="Plant drinks & golden latte" width="762" height="506" loading="lazy" />
+<div>
+
+### Plant drinks & golden latte
+
+Our water-dispersible formats suit plant drinks and golden latte development. Select the carrier and colour strength for your base, then assess sediment and flavour through sample trials. Clear beverages need a separate clarity assessment.
+
+</div>
+
+</article>
+<article data-procurement-application="instant-powder" class="procurement-application">
+<img src="/images/ingredients/turmeric-instant-powder-concept.webp" alt="Instant powders" width="762" height="506" loading="lazy" />
+<div>
+
+### Instant powders
+
+Dispersible turmeric powders bring colour and turmeric character to sachets and instant blends. We help select the form for your mixing process and desired cup appearance, with samples for reconstitution and storage evaluation.
+
+</div>
+
+</article>
+<article data-procurement-application="capsule-tablet" class="procurement-application">
+<img src="/images/ingredients/turmeric-capsule-tablet-concept.webp" alt="Capsules & tablets" width="762" height="506" loading="lazy" />
+<div>
+
+### Capsules & tablets
+
+95% total curcuminoids powder offers a concentrated ingredient for capsules and tablets. Granulated options address handling and filling needs; the selected grade is evaluated on your equipment before production.
+
+</div>
+
+</article>
+<article data-procurement-application="seasoning-food" class="procurement-application">
+<img src="/images/ingredients/turmeric-seasoning-food-concept.webp" alt="Seasonings, sauces & baking" width="762" height="506" loading="lazy" />
+<div>
+
+### Seasonings, sauces & baking
+
+Turmeric oleoresin and extract formats serve seasoning blends, sauces and baked foods. Choose the balance of spice character and colour for oil- or water-containing bases, with sample support for heat and flavour evaluation.
+
+</div>
+
+</article>
+</div>
+
 <section id="applications">
 
-## Evaluate samples under production-relevant conditions
+For suspensions, use representative sampling before measuring marker retention; testing only the supernatant can understate the material present. After bench acceptance, verify the selected material under the actual pilot process and compare the production lot with the approved sample.
 
-Agree acceptance items, methods and the person responsible for the decision before testing. Keep the sample batch number, specification version and a retained sample with the trial record.
-
-| Application | Record and compare |
-| --- | --- |
-| Dairy, plant beverages and golden latte | Actual base, pH, addition rate and assay basis, homogenization, heat treatment, packaging and storage period; compare colour, haze, oil rings, sediment and flavour. Set a separate clarity limit for clear drinks. |
-| Instant powder | Fixed water temperature and stirring method; wetting, clumps and cup-bottom sediment. Repeat reconstitution after moisture-exposed storage under defined conditions. |
-| Capsules and tablets | Fill mass based on the final powder assay, flow, blend uniformity and fill variation; disintegration, dissolution or compression behaviour where relevant. |
-| Seasonings, sauces and baked foods | Colour and spice targets, oil/water distribution, processing-related colour change and bitterness. Materials are not interchangeable at equal weight. |
-
-For suspensions, agree representative sampling before measuring marker retention; testing only the supernatant can understate the material present. After bench acceptance, check the selected material under the actual pilot process and compare the production lot with the approved sample.
-
-The [turmeric application background](/plant-extracts/ingredients/turmeric#applications) explains these material choices. For carrier combinations and processing limits, read the [end-product formulation cases](/plant-extracts/ingredients/turmeric#formulations). Published carrier or clinical results do not establish the performance of a proposed purchase.
+Read the [application background](/plant-extracts/ingredients/turmeric#applications) and [formulation cases](/plant-extracts/ingredients/turmeric#formulations) for carrier combinations and processing limits. Published carrier or clinical results do not establish the performance of a proposed purchase.
 
 </section>
-</section>
-<section id="qualification">
-<span id="documents-to-request-before-approval"></span>
-<section id="standards">
-
-## Match quality documents to each approval stage
-
-For selection, review the current TDS, full composition and process outline. The TDS sets the agreed limits and methods; a batch COA records results for a named lot. A sample COA must match the sample batch, with units, acceptance limits and actual results, distinguishing measured from calculated values. A specimen report only demonstrates a format.
-
-Supplier qualification also covers the legal supplier and supply relationship, traceability, change notification, allergen information and eligibility for the destination market and intended use. Where certification is required, verify the holder, site, scope, issuer and expiry against the material being assessed.
-
-Before release, match the delivery batch COA, labels and packaging to the approved specification. Review differences from the approved sample and record any agreed retests. Distributors should settle which documents may be forwarded to downstream customers and how specification changes will be communicated.
-
-The [quality and purchasing reference](/plant-extracts/ingredients/turmeric#standards) explains the scientific testing context; the approval record must concern the actual sample or delivery lot.
 
 </section>
-</section>
+
 <section id="supply-terms">
 
-## Specify quantity, packaging and delivery needs
+## Packaging, bulk orders and export delivery
 
-Separate sample quantity, trial-order quantity, first commercial order and expected recurring demand. Give the delivery destination and required arrival date, rather than asking for a lead time without a destination.
+We coordinate turmeric orders around your trial, production and replenishment schedule. Packaging, MOQ, sample costs and commercial lead time are confirmed for the selected specification, quantity and destination in the quotation.
 
-The written quotation should identify the supply source and relationship, confirmed material and specification, MOQ, available quantity, net pack weight and liner, sample cost and dispatch arrangements, commercial lead time and trade terms. Agree transport and storage conditions, shelf-life or retest basis, required remaining life at arrival and destination-specific shipping or clearance documents. Pack size is not necessarily MOQ, and dispatch date is not arrival date.
+1. **Quantity and sample terms:** request the MOQ for the selected specification, sample quantity and cost, and dispatch arrangements. Pack size is not necessarily MOQ.
+2. **Packaging and storage:** agree net pack weight, liner, label details, transport and storage conditions, shelf-life or retest basis, and required remaining life on arrival.
+3. **Shipment and arrival:** specify Incoterms and the named place or port. Agree release timing, dispatch plan, freight responsibilities and destination-specific export or clearance documents. Dispatch date is not arrival date.
+4. **Repeat orders:** include forecast volumes, replenishment dates, specification change notification and the approval process for a new lot.
+
+Use the written quotation to record the confirmed material, supply source and relationship, quantities and commercial lead time.
 
 </section>
+
 <section id="why-choose-us">
 
 ## Why choose ZL Botanicals
@@ -125,6 +212,7 @@ Keep your ingredient budget in focus with competitive turmeric extract pricing. 
 
 </div>
 
+
 <div class="procurement-benefit">
 
 ### A focus on quality and consistency
@@ -132,6 +220,7 @@ Keep your ingredient budget in focus with competitive turmeric extract pricing. 
 We put material quality and batch consistency at the centre of turmeric sourcing. Your agreed specification and acceptance criteria guide the purchase, giving QA and production a clear basis for incoming material review and repeat orders.
 
 </div>
+
 
 <div class="procurement-benefit">
 
@@ -141,6 +230,7 @@ Get support with certification and quality documentation for supplier qualificat
 
 </div>
 
+
 <div class="procurement-benefit">
 
 ### Reliable delivery coordination
@@ -149,47 +239,102 @@ Plan your turmeric purchases with dependable order and delivery coordination. We
 
 </div>
 
+
 </div>
+
 
 <a data-why-choose-brief href="/request-quote?product=Turmeric+Extract&amp;request=application&amp;application=Turmeric+project%3A+application+selection%2C+specification+and+sample+comparison%2C+ODM+requirements+if+relevant">Discuss my turmeric project →</a>
 
 </section>
-<section id="quote">
-<span id="send-a-useful-sourcing-brief"></span>
 
-## Send a sourcing brief
+<section id="procurement-faq">
 
-Share your company, intended use and market, target material and assay, carrier or allergen exclusions, process conditions, sample needs, first-order and recurring quantities, destination, required date and document requirements. If assay is not yet fixed, describe the finished-product format and colour or flavour target instead. An existing internal specification can guide the comparison.
+## Turmeric extract procurement questions
 
-[Request a turmeric extract quotation](/request-quote?product=Turmeric%20Extract&request=quote) · [Discuss samples](/request-quote?product=Turmeric%20Extract&request=sample) · [Request TDS and technical documents](/request-quote?product=Turmeric%20Extract&request=TDS)
+<details>
+<summary>Do you supply 95% total curcuminoids turmeric extract?</summary>
 
-Use the [sourcing brief and supplier document checklist](/resources/downloads#sourcing-checklist) to keep procurement, R&D and QA working from the same specification.
+Yes. Our turmeric range includes total curcuminoids 95% by HPLC. We specify the form, composition and reporting basis for the selected grade and match the COA to the supplied batch. Send your quantity and application for a quotation.
+
+</details>
+<details>
+<summary>How do I compare turmeric extract supplier prices?</summary>
+
+Compare the same material identity, final-blend assay, carrier composition, method and order quantity. Then include freight, testing costs and Incoterms in the landed-cost comparison; price per kilogram alone can hide a different constituent content.
+
+</details>
+<details>
+<summary>Which GMP or ISO documents should our QA team request?</summary>
+
+State the required manufacturing framework and certification scope. ISO 9001 concerns quality management, ISO 22000 food safety management, and ISO/IEC 17025 laboratory competence. Review current scoped documents for the supplier, site and methods relevant to your purchase. Add Halal, Kosher or organic requirements if your market or brand needs them.
+
+</details>
+<details>
+<summary>What are the MOQ, sample policy and delivery time?</summary>
+
+Request these for the selected material and quantity. Include trial and commercial volumes, destination and arrival target; agree sample cost, packaging, dispatch and commercial lead time in the quotation.
+
+</details>
+<details>
+<summary>What links the approved sample to repeat-order quality?</summary>
+
+Use the same agreed TDS, retain the sample and its batch COA, then compare the delivery lot’s COA, labels and acceptance tests. Include traceability and change notification in supplier qualification so a new carrier, process or source triggers review.
+
+</details>
+<details>
+<summary>Is a high-assay turmeric powder suitable for a clear drink?</summary>
+
+High assay does not establish water solubility or clarity. Evaluate the final dispersion in the intended beverage base, including pH, heat treatment and storage. Specify haze and sediment limits before comparing samples.
+
+</details>
 
 </section>
+
 <section id="processing-dossier">
 
-## Technical reading for purchase decisions
+## Turmeric science and formulation resources
 
+<div class="procurement-reading">
 <section id="processes">
 
-### Extraction, purification and carrier processing
+### Extraction and carrier processing
 
-Ask which steps establish the offered material's identity and composition. Milling, extraction, crystallization and dispersion processing produce different materials; a process name alone does not define a purchasable grade. Read [turmeric processing routes](/plant-extracts/ingredients/turmeric#processes).
+Milling, extraction, crystallization and dispersion processing produce different materials. Match the process to the composition in the offer. Read [turmeric processing routes](/plant-extracts/ingredients/turmeric#processes).
 
 </section>
 <section id="equipment">
 
-### Transfer trial conditions to the production team
+### Transfer the trial to production
 
-For a contract manufacturing brief, record mixing, homogenization, heating and drying conditions that the proposed material must tolerate. The selected equipment and process window need a pilot check at the actual plant. Read [equipment by turmeric material form](/plant-extracts/ingredients/turmeric#equipment).
+Record mixing, homogenization, heating and drying conditions in a contract manufacturing brief. Check the process window at the actual plant. Read [equipment by material form](/plant-extracts/ingredients/turmeric#equipment).
 
 </section>
 <section id="insights">
 <span id="research"></span><span id="research-caveats"></span><span id="pmid-39614566"></span><span id="industry-updates"></span>
 
-### Compare research materials with the proposed purchase
+### Match research to the material
 
-A research preparation may use a different carrier, process or assay from the offered material. Match those details before using a paper to justify a development decision; dispersion, absorption and clinical endpoints answer different questions. Read [turmeric study cases and limitations](/plant-extracts/ingredients/turmeric#insights).
+Compare the study’s carrier, process and assay with the proposed purchase. Dispersion, absorption and clinical endpoints answer different questions. Read [study cases and limitations](/plant-extracts/ingredients/turmeric#insights).
 
 </section>
+</div>
+
+
+</section>
+
+<section id="quote">
+<span id="send-a-useful-sourcing-brief"></span>
+
+## Request your turmeric extract quote or sample
+
+Tell us the grade, quantity and destination for your turmeric order. Our team will return the specification, commercial terms and sample arrangements. For a new formulation, start with your product format and we will help select the material.
+
+<div class="procurement-actions">
+<a class="procurement-button" data-procurement-bottom="quote" href="/request-quote?product=Turmeric%20Extract&amp;request=quote">Request a turmeric extract quotation ↗</a>
+<a class="procurement-button secondary" data-procurement-bottom="sample" href="/request-quote?product=Turmeric%20Extract&amp;request=sample">Discuss samples ↗</a>
+</div>
+
+
+[Request TDS and technical documents](/request-quote?product=Turmeric%20Extract&request=TDS) · <a data-buyer-brief href="/resources/downloads#sourcing-checklist">Sourcing brief and supplier document checklist</a>
+
 </section>

@@ -4,30 +4,62 @@ const {lang}=Astro.props as {lang:Language};
 const zh=lang==='zh';
 const name=zh?'姜黄提取物':'Turmeric Extract';
 const quote=(request:string)=>getLocalizedPath('/request-quote',lang)+'?'+new URLSearchParams({product:name,request}).toString();
-const sections=[['material-selection',zh?'原料选型':'Material selection'],['specifications',zh?'规格比较':'Specifications'],['cost-comparison',zh?'配方成本':'Formulation cost'],['samples',zh?'样品评价':'Sample evaluation'],['qualification',zh?'质量文件':'Quality documents'],['supply-terms',zh?'交付条件':'Delivery terms'],['why-choose-us',zh?'为什么选择振隆':'Why choose us'],['quote',zh?'提交询价':'Send a brief']];
+const sections=[['material-selection',zh?'形态与规格':'Forms & grades'],['specifications',zh?'检测与含量':'Assay & composition'],['qualification',zh?'认证与质量':'Certification & QC'],['cost-comparison',zh?'价格比较':'Price comparison'],['samples',zh?'应用与样品':'Applications & samples'],['supply-terms',zh?'MOQ 与交付':'MOQ & delivery'],['why-choose-us',zh?'为什么选择振隆':'Why ZL'],['procurement-faq',zh?'采购问答':'Buyer FAQ']];
 ---
-<section id="procurement-summary" class="mb-8 border-b border-gray-200 pb-8">
- <p class="text-lg leading-relaxed">{zh?'饮料、冲调粉与胶囊对姜黄原料的要求不同。采购前，先确定需要香辛风味、黄色着色，还是明确的姜黄素类含量，再比较原料形态、载体和检测结果。本页帮助你整理可比规格、安排样品评价，并提交询价所需的信息。':'Drinks, instant powders and capsules need different turmeric materials. Decide whether your product needs spice character, yellow colour or a specified curcuminoid content, then compare format, carriers and assay results. Use this guide to build comparable specifications, plan sample evaluation and prepare a bulk sourcing inquiry.'}</p>
- <p class="text-sm text-gray-600 mt-3">{zh?'可供形态、规格文件、样品及交付条件待书面确认。':'Available forms, specification documents, samples and delivery terms: Requires written confirmation.'}</p>
- <div class="flex flex-wrap gap-3 mt-5">{[['quote',zh?'提交采购需求':'Send a sourcing brief'],['sample',zh?'咨询样品':'Discuss samples'],['TDS',zh?'咨询规格与资料':'Discuss specifications']].map(([request,label])=><a data-procurement-action={request} href={quote(request)} class="px-4 py-3 bg-primary text-white rounded-lg font-medium">{label}</a>)}</div>
- <a data-buyer-brief href={getLocalizedPath('/resources/downloads',lang)+'#sourcing-checklist'} class="block underline text-primary mt-4">{zh?'采购简报与供应商审核清单':'Sourcing brief and supplier review checklist'}</a>
- <nav aria-label={zh?'采购页目录':'Procurement contents'} class="flex flex-wrap gap-x-5 gap-y-2 mt-6 text-sm">{sections.map(([id,label])=><a href={`#${id}`} class="underline text-primary">{label}</a>)}</nav>
+<script type="application/ld+json" set:html={JSON.stringify({'@context':'https://schema.org','@type':'WebPage',name:zh?'姜黄提取物采购':'Turmeric Extract Procurement',url:'https://zlbotanicals.com'+getLocalizedPath('/products/turmeric',lang),inLanguage:zh?'zh-CN':'en',about:{'@type':'Thing',name:'Turmeric extract',alternateName:'Curcuma longa rhizome extract'}}).replace(/</g,'\\u003c')} />
+<section data-procurement-hero id="procurement-summary" class="procurement-hero">
+ <div class="procurement-hero-copy">
+  <p class="procurement-eyebrow">ZL BOTANICALS · {zh?'植物原料供应商':'BOTANICAL INGREDIENT SUPPLIER'}</p>
+  <h1>{zh?'姜黄提取物采购':'Turmeric Extract Procurement'}</h1>
+  <p class="procurement-identity"><i>Curcuma longa</i> · {zh?'根茎提取物':'Rhizome extract'}</p>
+  <p class="procurement-offer">{zh?'振隆供应姜黄提取物，包括总姜黄素类 95%（HPLC）粉末、颗粒和水分散形态，面向品牌商、配方代工厂及食品饮料企业。以有竞争力的价格、稳定品质、认证资料支持和可靠交付协同，服务您的批量采购。':'ZL Botanicals supplies turmeric extract, including 95% total curcuminoids (HPLC) powder, granules and water-dispersible formats, for brands, contract formulators and food and beverage businesses. Buy in bulk with competitive pricing, a focus on consistent quality, certification support and reliable delivery coordination.'}</p>
+  <div class="procurement-actions">{[['quote',zh?'索取采购报价':'Request a bulk quote'],['sample',zh?'咨询样品':'Request a sample']].map(([request,label])=><a data-procurement-action={request} href={quote(request)} class:list={['procurement-button',{'secondary':request==='sample'}]}>{label} <span aria-hidden="true">↗</span></a>)}</div>
+  <a class="procurement-document-link" data-procurement-action="TDS" href={quote('TDS')}>{zh?'索取 TDS、COA 与技术资料':'Request TDS, COA & technical documents'} →</a>
+ </div>
+ <figure class="procurement-product-art">
+  <img src="/images/products/turmeric.webp" alt={zh?'姜黄提取物概念插画，非批次样品':'Turmeric extract concept illustration, not a batch sample'} width="1024" height="1024" fetchpriority="high" />
+  <figcaption>{zh?'概念插画，非批次样品。图中标签不代表已确认的纯度、等级或认证。规格以现行 TDS 与批次 COA 为准。':'Concept illustration, not a batch sample. Printed labels do not establish purity, grade or certification. Use the current TDS and batch COA for specifications.'}</figcaption>
+ </figure>
 </section>
+<dl data-procurement-facts class="procurement-facts">
+ <div><dt>{zh?'原料身份':'Material identity'}</dt><dd>Curcuma longa <span>{zh?'根茎':'Rhizome'}</span></dd></div>
+ <div><dt>{zh?'标准化规格':'Standardized specification'}</dt><dd>{zh?'总姜黄素类 95%':'Total curcuminoids 95%'} <span>HPLC</span></dd></div>
+ <div><dt>{zh?'质量资料':'Quality documents'}</dt><dd>COA · TDS · SDS <span>{zh?'对应原料与用途':'Matched to material & use'}</span></dd></div>
+ <div><dt>{zh?'采购与交付':'Order & delivery'}</dt><dd>MOQ · Incoterms <span>{zh?'按规格、数量及目的地询价':'Quote by specification, volume & destination'}</span></dd></div>
+</dl>
+<nav class="procurement-nav" aria-label={zh?'采购页目录':'Procurement contents'}>{sections.map(([id,label])=><a href={`#${id}`}>{label}</a>)}</nav>
 <style is:global>
-[data-turmeric-procurement]{max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}
-[data-turmeric-procurement] section,[data-turmeric-procurement] span[id]{scroll-margin-top:7rem}
-[data-turmeric-procurement] section{margin-top:2rem}
-[data-turmeric-procurement] table{width:100%;table-layout:fixed;border-collapse:collapse}
-[data-turmeric-procurement] th,[data-turmeric-procurement] td{padding:.65rem;border:1px solid #d8e1d0;vertical-align:top;overflow-wrap:anywhere}
-[data-turmeric-procurement] th{background:#f3f6ef}
-[data-turmeric-procurement] #samples th:first-child{width:30%}
-[data-turmeric-procurement] h2{text-wrap:balance}
-[data-turmeric-procurement] .procurement-benefits{display:grid;gap:1rem;margin-block:1.5rem}
-[data-turmeric-procurement] .procurement-benefit{padding:1.25rem;border:1px solid #d8e1d0;border-radius:.75rem;background:#f7f9f4}
-[data-turmeric-procurement] .procurement-benefit h3{margin-top:0;font-size:1.15rem;line-height:1.5}
-[data-turmeric-procurement] .procurement-benefit p{margin-bottom:0;font-size:1rem;line-height:1.8}
-[data-turmeric-procurement] [data-why-choose-brief]{display:inline-block;padding:.75rem 1rem;border:1px solid #345a27;border-radius:.5rem;font-weight:600}
-@media(min-width:700px){[data-turmeric-procurement] .procurement-benefits{grid-template-columns:repeat(2,minmax(0,1fr))}}
-[data-turmeric-procurement] a:focus-visible{outline:3px solid #345a27;outline-offset:3px}
-@media(max-width:600px){[data-turmeric-procurement] table{font-size:.85rem;line-height:1.6}[data-turmeric-procurement] th,[data-turmeric-procurement] td{padding:.4rem}}
+.turmeric-shell{max-width:1120px;margin:auto;padding:1.5rem 24px 4rem;color:#253426}
+.procurement-hero{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:3rem;align-items:center;padding:1.5rem 0 2.5rem}
+.procurement-eyebrow{font-size:.75rem;letter-spacing:.1em;font-weight:700;color:#526740;margin:0 0 1rem}
+.procurement-hero h1{font-size:clamp(2.1rem,4vw,3.5rem);line-height:1.13;letter-spacing:-.035em;font-weight:700;margin:0 0 1rem;color:#233e27}
+.procurement-identity{font-size:1.05rem;color:#626a58}.procurement-offer{font-size:1.08rem;line-height:1.8;margin:1.25rem 0}
+.procurement-actions{display:flex;gap:.75rem;flex-wrap:wrap;margin:1.4rem 0 1rem}.procurement-button{display:inline-flex;align-items:center;justify-content:space-between;gap:1rem;padding:.85rem 1.2rem;border:1px solid #345a27;border-radius:.4rem;background:#345a27;color:white!important;font-weight:600;text-decoration:none!important;line-height:1.5}.procurement-button.secondary{background:white;color:#345a27!important}.procurement-document-link{font-size:.9rem;color:#345a27;text-decoration:underline;text-underline-offset:4px}
+.procurement-product-art{margin:0;background:#f5f4ed;border:1px solid #e4e5da;border-radius:1rem;padding:1rem}.procurement-product-art img{display:block;width:100%;height:auto;max-height:340px;object-fit:contain}.procurement-product-art figcaption{font-size:.75rem;line-height:1.65;color:#62665a;margin-top:.75rem}
+.procurement-facts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));background:#f4f6ef;border-block:1px solid #d8e1d0;margin:0}.procurement-facts>div{padding:1.2rem;border-right:1px solid #d8e1d0}.procurement-facts>div:last-child{border:0}.procurement-facts dt{font-size:.75rem;color:#626a58;margin-bottom:.5rem}.procurement-facts dd{font-size:1rem;font-weight:600;margin:0}.procurement-facts span{display:block;font-size:.8rem;font-weight:400;margin-top:.3rem;line-height:1.6}
+.procurement-nav{display:flex;flex-wrap:wrap;gap:.5rem 1.3rem;padding:1.3rem 0;border-bottom:1px solid #d8e1d0;font-size:.85rem}.procurement-nav a{color:#345a27;text-decoration:underline;text-underline-offset:4px}
+[data-turmeric-procurement]{max-width:100%;margin:auto;line-height:1.85;overflow-wrap:break-word;font-size:1rem}
+[data-turmeric-procurement] section,[data-turmeric-procurement] span[id],#procurement-summary{scroll-margin-top:7rem}
+[data-turmeric-procurement]>section{padding:2.6rem 0;border-bottom:1px solid #e1e5da;margin:0}
+[data-turmeric-procurement] h2{font-size:clamp(1.5rem,2.4vw,2rem);line-height:1.35;margin:0 0 1.2rem!important;color:#263f2a;font-weight:700;letter-spacing:-.02em}
+[data-turmeric-procurement] h3{font-size:1.08rem;line-height:1.5;margin:1rem 0 .5rem;font-weight:700}
+[data-turmeric-procurement] p{max-width:820px;margin:.8rem 0 1.1rem}
+[data-turmeric-procurement] a{color:#345a27;text-decoration:underline;text-underline-offset:3px}
+[data-turmeric-procurement] ul,[data-turmeric-procurement] ol{padding-left:1.4rem;max-width:820px}
+[data-turmeric-procurement] li{margin:.4rem 0}
+.procurement-table{overflow-x:auto;margin:1.3rem 0;border:1px solid #d8e1d0;border-radius:.5rem}
+[data-turmeric-procurement] table{border-collapse:collapse;table-layout:fixed;width:100%;min-width:680px;font-size:.9rem;line-height:1.75;margin:0}
+[data-turmeric-procurement] th,[data-turmeric-procurement] td{padding:1rem;vertical-align:top;text-align:left;border-bottom:1px solid #d8e1d0;overflow-wrap:break-word}
+[data-turmeric-procurement] th{background:#eff3e9;color:#2c482c;font-weight:700}[data-turmeric-procurement] tr:last-child td{border-bottom:0}[data-turmeric-procurement] tr:nth-child(even) td{background:#fafbf7}
+.procurement-scroll-hint{font-size:.8rem;color:#626a58}.procurement-note{background:#faf5e7;border-left:3px solid #b48c2d;padding:1rem 1.2rem;max-width:820px}
+.procurement-applications,.procurement-benefits,.procurement-reading{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.25rem;margin:1.4rem 0}
+.procurement-application,.procurement-benefit{border:1px solid #d8e1d0;border-radius:.65rem;overflow:hidden;background:#fafbf7}
+.procurement-application img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover;margin:0;border-radius:0!important}.procurement-application>div,.procurement-benefit{padding:1.3rem}.procurement-application h3,.procurement-benefit h3{margin-top:0!important}.procurement-application p,.procurement-benefit p{margin-bottom:0;font-size:.95rem}
+[data-why-choose-brief]{display:inline-block;border:1px solid #345a27;padding:.65rem 1rem;border-radius:.4rem;font-weight:600}
+#quote{background:#f1f5eb;border:1px solid #d8e1d0!important;padding:2rem!important;border-radius:.75rem;margin-top:2rem!important}
+#procurement-faq details{border-bottom:1px solid #d8e1d0;padding:1rem 0}#procurement-faq summary{font-weight:600;cursor:pointer;line-height:1.6}#procurement-faq details p{margin-bottom:.3rem}
+.procurement-reading{font-size:.9rem}.procurement-reading section{border-top:2px solid #d8e1d0;padding-top:.7rem}
+.turmeric-shell a:focus-visible,.turmeric-shell summary:focus-visible,.procurement-table:focus-visible{outline:3px solid #a77b16;outline-offset:4px}
+@media(max-width:1000px){.procurement-hero{gap:1.5rem}.procurement-facts{grid-template-columns:repeat(2,minmax(0,1fr))}.procurement-facts>div:nth-child(2){border-right:0}.procurement-facts>div:nth-child(-n+2){border-bottom:1px solid #d8e1d0}}
+@media(max-width:700px){.turmeric-shell{padding-inline:18px}.procurement-hero{grid-template-columns:1fr;padding-top:.5rem;gap:1.5rem}.procurement-hero h1{font-size:2.2rem}.procurement-product-art img{max-height:280px}.procurement-product-art{max-width:440px;width:100%;justify-self:center}.procurement-applications,.procurement-benefits,.procurement-reading{grid-template-columns:1fr}.procurement-facts>div{padding:.9rem}.procurement-facts dd{font-size:.9rem}[data-turmeric-procurement]>section{padding:2rem 0}#quote{padding:1.3rem!important}.procurement-nav{gap:.6rem 1rem}.procurement-offer{font-size:1rem}}
 </style>

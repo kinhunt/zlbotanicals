@@ -1,0 +1,114 @@
+[
+  {
+    "lang": "en",
+    "width": 390,
+    "js": true,
+    "route": "/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "width": 390,
+    "js": true,
+    "route": "/zh/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "width": 820,
+    "js": true,
+    "route": "/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "width": 820,
+    "js": true,
+    "route": "/zh/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "width": 1100,
+    "js": true,
+    "route": "/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "width": 1100,
+    "js": true,
+    "route": "/zh/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "width": 1440,
+    "js": true,
+    "route": "/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "width": 1440,
+    "js": true,
+    "route": "/zh/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "width": 390,
+    "js": false,
+    "route": "/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "width": 390,
+    "js": false,
+    "route": "/zh/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "width": 820,
+    "js": false,
+    "route": "/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "width": 820,
+    "js": false,
+    "route": "/zh/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "width": 1100,
+    "js": false,
+    "route": "/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "width": 1100,
+    "js": false,
+    "route": "/zh/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "width": 1440,
+    "js": false,
+    "route": "/products/turmeric",
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "width": 1440,
+    "js": false,
+    "route": "/zh/products/turmeric",
+    "passed": true
+  }
+]

@@ -1,0 +1,463 @@
+
+> zlb@0.0.1 test
+> npm run build && node --test tests/*.test.mjs
+
+
+> zlb@0.0.1 build
+> astro build
+
+08:13:44 [content] Syncing content
+08:13:44 [content] Synced content
+08:13:44 [types] Generated 824ms
+08:13:44 [build] output: "static"
+08:13:44 [build] mode: "static"
+08:13:44 [build] directory: /data/hermes/workspaces/zlbotanicals/dist/
+08:13:44 [build] Collecting build info...
+08:13:44 [build] ✓ Completed in 916ms.
+08:13:45 [build] Building static entrypoints...
+08:13:51 [vite] ✓ built in 6.09s
+08:13:51 [build] ✓ Completed in 6.16s.
+
+ building client (vite) 
+08:13:51 [vite] transforming...
+08:13:51 [vite] ✓ 3 modules transformed.
+08:13:51 [vite] rendering chunks...
+08:13:51 [vite] ✓ built in 51ms
+
+ generating static routes 
+08:13:51 ▶ src/pages/about/certifications.astro
+08:13:51   └─ /about/certifications/index.html (+25ms) 
+08:13:51 ▶ src/pages/about/facility.astro
+08:13:51   └─ /about/facility/index.html (+8ms) 
+08:13:51 ▶ src/pages/about/story.astro
+08:13:51   └─ /about/story/index.html (+7ms) 
+08:13:51 ▶ src/pages/about/index.astro
+08:13:51   └─ /about/index.html (+7ms) 
+08:13:51 ▶ src/pages/contact.astro
+08:13:51   └─ /contact/index.html (+6ms) 
+08:13:51 λ src/pages/downloads/[file].ts
+08:13:51   ├─ /downloads/sourcing-checklist-en.md (+4ms) 
+08:13:51   ├─ /downloads/sourcing-checklist-zh.md (+2ms) 
+08:13:51   ├─ /downloads/odm-concept-brief-en.md (+2ms) 
+08:13:51   ├─ /downloads/odm-concept-brief-zh.md (+2ms) 
+08:13:51   ├─ /downloads/formula-transfer-checklist-en.md (+2ms) 
+08:13:51   ├─ /downloads/formula-transfer-checklist-zh.md (+2ms) 
+08:13:51   └─ /downloads/sourcing-checklist.txt (+2ms) 
+08:13:51 ▶ src/pages/odm/[...slug].astro
+08:13:51   ├─ /odm/index.html (+8ms) 
+08:13:51   ├─ /odm/late-evening-botanical-beverage/index.html (+8ms) 
+08:13:51   ├─ /odm/everyday-unsweetened-botanical-tea/index.html (+6ms) 
+08:13:51   └─ /odm/botanical-refreshing-beverage/index.html (+7ms) 
+08:13:51 ▶ src/pages/plant-extracts/[...path].astro
+08:13:51   ├─ /plant-extracts/index.html (+6ms) 
+08:13:51   ├─ /plant-extracts/basics/index.html (+5ms) 
+08:13:51   ├─ /plant-extracts/ingredients/index.html (+4ms) 
+08:13:51   ├─ /plant-extracts/processes/index.html (+4ms) 
+08:13:51   ├─ /plant-extracts/equipment/index.html (+4ms) 
+08:13:51   ├─ /plant-extracts/applications/index.html (+4ms) 
+08:13:51   ├─ /plant-extracts/standards/index.html (+4ms) 
+08:13:51   ├─ /plant-extracts/insights/index.html (+4ms) 
+08:13:51   ├─ /plant-extracts/basics/extract-ratio-vs-assay/index.html (+4ms) 
+08:13:51   ├─ /plant-extracts/basics/identity-and-traceability/index.html (+4ms) 
+08:13:51   ├─ /plant-extracts/ingredients/polyphenols-and-catechins/index.html (+3ms) 
+08:13:51   ├─ /plant-extracts/ingredients/glycosides-and-sweetener-identity/index.html (+3ms) 
+08:13:51   ├─ /plant-extracts/processes/water-and-ethanol-extraction/index.html (+3ms) 
+08:13:51   ├─ /plant-extracts/processes/concentration-vs-purification/index.html (+3ms) 
+08:13:51   ├─ /plant-extracts/equipment/filtration-and-centrifugation/index.html (+3ms) 
+08:13:51   ├─ /plant-extracts/equipment/spray-and-freeze-drying/index.html (+5ms) 
+08:13:51   ├─ /plant-extracts/applications/beverage-compatibility/index.html (+13ms) 
+08:13:51   ├─ /plant-extracts/applications/cosmetic-development-boundaries/index.html (+4ms) 
+08:13:51   ├─ /plant-extracts/standards/coa-vs-specification/index.html (+4ms) 
+08:13:51   ├─ /plant-extracts/standards/food-vs-supplement-status/index.html (+4ms) 
+08:13:51   ├─ /plant-extracts/insights/reading-extraction-research/index.html (+4ms) 
+08:13:51   ├─ /plant-extracts/insights/evaluating-green-extraction/index.html (+3ms) 
+08:13:51   ├─ /plant-extracts/standards/moisture-vs-loss-on-drying/index.html (+3ms) 
+08:13:51   ├─ /plant-extracts/processes/solvent-stages-and-process-disclosure/index.html (+3ms) 
+08:13:51   ├─ /plant-extracts/basics/carriers-and-native-extract-content/index.html (+3ms) 
+08:13:51   ├─ /plant-extracts/standards/assay-method-comparability/index.html (+3ms) 
+08:13:51   ├─ /plant-extracts/standards/residual-solvent-review/index.html (+3ms) 
+08:13:51   ├─ /plant-extracts/standards/dry-basis-vs-as-received-assay/index.html (+2ms) 
+08:13:51   ├─ /plant-extracts/insights/extract-change-control-and-requalification/index.html (+2ms) 
+08:13:51   ├─ /plant-extracts/ingredients/green-tea/index.html (+11ms) 
+08:13:51   ├─ /plant-extracts/ingredients/centella-asiatica/index.html (+7ms) 
+08:13:51   ├─ /plant-extracts/ingredients/monk-fruit/index.html (+6ms) 
+08:13:51   ├─ /plant-extracts/ingredients/turmeric/index.html (+9ms) 
+08:13:51   ├─ /plant-extracts/ingredients/reishi-mushroom/index.html (+7ms) 
+08:13:51   ├─ /plant-extracts/ingredients/ginseng/index.html (+10ms) 
+08:13:51   ├─ /plant-extracts/ingredients/ginkgo-biloba/index.html (+9ms) 
+08:13:51   ├─ /plant-extracts/ingredients/grape-seed/index.html (+7ms) 
+08:13:51   ├─ /plant-extracts/ingredients/goji-berry/index.html (+7ms) 
+08:13:51   ├─ /plant-extracts/ingredients/licorice-root/index.html (+9ms) 
+08:13:51   ├─ /plant-extracts/ingredients/stevia/index.html (+7ms) 
+08:13:51   └─ /plant-extracts/ingredients/resveratrol/index.html (+7ms) 
+08:13:51 ▶ src/pages/privacy.astro
+08:13:51   └─ /privacy/index.html (+5ms) 
+08:13:51 ▶ src/pages/products/botanical-extracts.astro
+08:13:51   └─ /products/botanical-extracts/index.html (+7ms) 
+08:13:51 ▶ src/pages/products/custom-formulation.astro
+08:13:51   └─ /products/custom-formulation/index.html (+5ms) 
+08:13:51 ▶ src/pages/products/herbal-powders.astro
+08:13:51   └─ /products/herbal-powders/index.html (+3ms) 
+08:13:51 ▶ src/pages/products/[slug].astro
+08:13:51   ├─ /products/ginseng/index.html (+11ms) 
+08:13:51   ├─ /products/ginkgo-biloba/index.html (+7ms) 
+08:13:51   ├─ /products/goji-berry/index.html (+18ms) 
+08:13:51   ├─ /products/centella-asiatica/index.html (+7ms) 
+08:13:51   ├─ /products/licorice-root/index.html (+10ms) 
+08:13:51   ├─ /products/grape-seed/index.html (+7ms) 
+08:13:51   ├─ /products/green-tea/index.html (+8ms) 
+08:13:51   ├─ /products/monk-fruit/index.html (+7ms) 
+08:13:51   ├─ /products/turmeric/index.html (+6ms) 
+08:13:51   ├─ /products/stevia/index.html (+7ms) 
+08:13:51   ├─ /products/resveratrol/index.html (+8ms) 
+08:13:51   └─ /products/reishi-mushroom/index.html (+10ms) 
+08:13:51 ▶ src/pages/products/index.astro
+08:13:51   └─ /products/index.html (+9ms) 
+08:13:51 ▶ src/pages/quality.astro
+08:13:51   └─ /quality/index.html (+4ms) 
+08:13:51 ▶ src/pages/request-quote.astro
+08:13:51   └─ /request-quote/index.html (+5ms) 
+08:13:51 ▶ src/pages/research.astro
+08:13:51   └─ /research/index.html (+6ms) 
+08:13:51 ▶ src/pages/resources/blog/[slug].astro
+08:13:51   ├─ /resources/blog/functional-mushroom-market-2026/index.html (+15ms) 
+08:13:51   ├─ /resources/blog/turmeric-golden-milk-market-2026/index.html (+10ms) 
+08:13:51   ├─ /resources/blog/reishi-sleep-market-2026/index.html (+11ms) 
+08:13:51   ├─ /resources/blog/green-tea-energy-beverage-2026/index.html (+7ms) 
+08:13:51   └─ /resources/blog/zero-calorie-sweetener-market-2026/index.html (+9ms) 
+08:13:51 ▶ src/pages/resources/blog/index.astro
+08:13:51   └─ /resources/blog/index.html (+8ms) 
+08:13:52 ▶ src/pages/resources/downloads.astro
+08:13:52   └─ /resources/downloads/index.html (+5ms) 
+08:13:52 ▶ src/pages/resources/faq.astro
+08:13:52   └─ /resources/faq/index.html (+4ms) 
+08:13:52 ▶ src/pages/resources/news.astro
+08:13:52   └─ /resources/news/index.html (+5ms) 
+08:13:52 ▶ src/pages/resources/research.astro
+08:13:52   └─ /resources/research/index.html (+5ms) 
+08:13:52 ▶ src/pages/resources/[category].astro
+08:13:52   ├─ /resources/ingredient-guides/index.html (+7ms) 
+08:13:52   ├─ /resources/application-guides/index.html (+6ms) 
+08:13:52   ├─ /resources/quality-guides/index.html (+5ms) 
+08:13:52   └─ /resources/sourcing-guides/index.html (+6ms) 
+08:13:52 ▶ src/pages/resources/index.astro
+08:13:52   └─ /resources/index.html (+6ms) 
+08:13:52 ▶ src/pages/solutions/beverages.astro
+08:13:52   └─ /solutions/beverages/index.html (+6ms) 
+08:13:52 ▶ src/pages/solutions/cosmetics.astro
+08:13:52   └─ /solutions/cosmetics/index.html (+6ms) 
+08:13:52 ▶ src/pages/solutions/food.astro
+08:13:52   └─ /solutions/food/index.html (+11ms) 
+08:13:52 ▶ src/pages/solutions/nutraceuticals.astro
+08:13:52   └─ /solutions/nutraceuticals/index.html (+6ms) 
+08:13:52 ▶ src/pages/solutions/[slug].astro
+08:13:52   ├─ /solutions/botanical-sweetener-rtd/index.html (+7ms) 
+08:13:52   ├─ /solutions/green-tea-energy-sparkling/index.html (+7ms) 
+08:13:52   ├─ /solutions/deep-sleep-capsule/index.html (+6ms) 
+08:13:52   ├─ /solutions/reishi-sleep-gummy/index.html (+5ms) 
+08:13:52   ├─ /solutions/liver-support-gummy/index.html (+6ms) 
+08:13:52   ├─ /solutions/turmeric-golden-latte/index.html (+7ms) 
+08:13:52   └─ /solutions/white-peach-sparkling/index.html (+4ms) 
+08:13:52 ▶ src/pages/solutions/index.astro
+08:13:52   └─ /solutions/index.html (+6ms) 
+08:13:52 ▶ src/pages/terms.astro
+08:13:52   └─ /terms/index.html (+5ms) 
+08:13:52 ▶ src/pages/thank-you.astro
+08:13:52   └─ /thank-you/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/about/certifications.astro
+08:13:52   └─ /zh/about/certifications/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/about/facility.astro
+08:13:52   └─ /zh/about/facility/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/about/story.astro
+08:13:52   └─ /zh/about/story/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/about/index.astro
+08:13:52   └─ /zh/about/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/contact.astro
+08:13:52   └─ /zh/contact/index.html (+5ms) 
+08:13:52 ▶ src/pages/zh/odm/[...slug].astro
+08:13:52   ├─ /zh/odm/index.html (+7ms) 
+08:13:52   ├─ /zh/odm/late-evening-botanical-beverage/index.html (+10ms) 
+08:13:52   ├─ /zh/odm/everyday-unsweetened-botanical-tea/index.html (+6ms) 
+08:13:52   └─ /zh/odm/botanical-refreshing-beverage/index.html (+9ms) 
+08:13:52 ▶ src/pages/zh/plant-extracts/[...path].astro
+08:13:52   ├─ /zh/plant-extracts/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/basics/index.html (+5ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/processes/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/equipment/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/applications/index.html (+5ms) 
+08:13:52   ├─ /zh/plant-extracts/standards/index.html (+3ms) 
+08:13:52   ├─ /zh/plant-extracts/insights/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/basics/extract-ratio-vs-assay/index.html (+5ms) 
+08:13:52   ├─ /zh/plant-extracts/basics/identity-and-traceability/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/polyphenols-and-catechins/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/glycosides-and-sweetener-identity/index.html (+5ms) 
+08:13:52   ├─ /zh/plant-extracts/processes/water-and-ethanol-extraction/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/processes/concentration-vs-purification/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/equipment/filtration-and-centrifugation/index.html (+5ms) 
+08:13:52   ├─ /zh/plant-extracts/equipment/spray-and-freeze-drying/index.html (+5ms) 
+08:13:52   ├─ /zh/plant-extracts/applications/beverage-compatibility/index.html (+5ms) 
+08:13:52   ├─ /zh/plant-extracts/applications/cosmetic-development-boundaries/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/standards/coa-vs-specification/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/standards/food-vs-supplement-status/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/insights/reading-extraction-research/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/insights/evaluating-green-extraction/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/standards/moisture-vs-loss-on-drying/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/processes/solvent-stages-and-process-disclosure/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/basics/carriers-and-native-extract-content/index.html (+6ms) 
+08:13:52   ├─ /zh/plant-extracts/standards/assay-method-comparability/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/standards/residual-solvent-review/index.html (+3ms) 
+08:13:52   ├─ /zh/plant-extracts/standards/dry-basis-vs-as-received-assay/index.html (+3ms) 
+08:13:52   ├─ /zh/plant-extracts/insights/extract-change-control-and-requalification/index.html (+2ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/green-tea/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/centella-asiatica/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/monk-fruit/index.html (+4ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/turmeric/index.html (+5ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/reishi-mushroom/index.html (+6ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/ginseng/index.html (+6ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/ginkgo-biloba/index.html (+8ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/grape-seed/index.html (+7ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/goji-berry/index.html (+12ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/licorice-root/index.html (+9ms) 
+08:13:52   ├─ /zh/plant-extracts/ingredients/stevia/index.html (+7ms) 
+08:13:52   └─ /zh/plant-extracts/ingredients/resveratrol/index.html (+6ms) 
+08:13:52 ▶ src/pages/zh/privacy.astro
+08:13:52   └─ /zh/privacy/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/products/botanical-extracts.astro
+08:13:52   └─ /zh/products/botanical-extracts/index.html (+6ms) 
+08:13:52 ▶ src/pages/zh/products/custom-formulation.astro
+08:13:52   └─ /zh/products/custom-formulation/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/products/herbal-powders.astro
+08:13:52   └─ /zh/products/herbal-powders/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/products/[slug].astro
+08:13:52   ├─ /zh/products/centella-asiatica/index.html (+7ms) 
+08:13:52   ├─ /zh/products/ginseng/index.html (+8ms) 
+08:13:52   ├─ /zh/products/goji-berry/index.html (+9ms) 
+08:13:52   ├─ /zh/products/licorice-root/index.html (+7ms) 
+08:13:52   ├─ /zh/products/green-tea/index.html (+8ms) 
+08:13:52   ├─ /zh/products/grape-seed/index.html (+10ms) 
+08:13:52   ├─ /zh/products/ginkgo-biloba/index.html (+8ms) 
+08:13:52   ├─ /zh/products/monk-fruit/index.html (+7ms) 
+08:13:52   ├─ /zh/products/resveratrol/index.html (+11ms) 
+08:13:52   ├─ /zh/products/reishi-mushroom/index.html (+9ms) 
+08:13:52   ├─ /zh/products/turmeric/index.html (+5ms) 
+08:13:52   └─ /zh/products/stevia/index.html (+8ms) 
+08:13:52 ▶ src/pages/zh/products/index.astro
+08:13:52   └─ /zh/products/index.html (+7ms) 
+08:13:52 ▶ src/pages/zh/quality.astro
+08:13:52   └─ /zh/quality/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/request-quote.astro
+08:13:52   └─ /zh/request-quote/index.html (+7ms) 
+08:13:52 ▶ src/pages/zh/research.astro
+08:13:52   └─ /zh/research/index.html (+5ms) 
+08:13:52 ▶ src/pages/zh/resources/blog/[slug].astro
+08:13:52   ├─ /zh/resources/blog/reishi-sleep-market-2026/index.html (+6ms) 
+08:13:52   ├─ /zh/resources/blog/functional-mushroom-market-2026/index.html (+5ms) 
+08:13:52   ├─ /zh/resources/blog/turmeric-golden-milk-market-2026/index.html (+7ms) 
+08:13:52   ├─ /zh/resources/blog/green-tea-energy-beverage-2026/index.html (+6ms) 
+08:13:52   └─ /zh/resources/blog/zero-calorie-sweetener-market-2026/index.html (+8ms) 
+08:13:52 ▶ src/pages/zh/resources/blog/index.astro
+08:13:52   └─ /zh/resources/blog/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/resources/downloads.astro
+08:13:52   └─ /zh/resources/downloads/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/resources/faq.astro
+08:13:52   └─ /zh/resources/faq/index.html (+3ms) 
+08:13:52 ▶ src/pages/zh/resources/news.astro
+08:13:52   └─ /zh/resources/news/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/resources/research.astro
+08:13:52   └─ /zh/resources/research/index.html (+5ms) 
+08:13:52 ▶ src/pages/zh/resources/[category].astro
+08:13:52   ├─ /zh/resources/ingredient-guides/index.html (+6ms) 
+08:13:52   ├─ /zh/resources/application-guides/index.html (+5ms) 
+08:13:52   ├─ /zh/resources/quality-guides/index.html (+5ms) 
+08:13:52   └─ /zh/resources/sourcing-guides/index.html (+6ms) 
+08:13:52 ▶ src/pages/zh/resources/index.astro
+08:13:52   └─ /zh/resources/index.html (+5ms) 
+08:13:52 ▶ src/pages/zh/solutions/beverages.astro
+08:13:52   └─ /zh/solutions/beverages/index.html (+6ms) 
+08:13:52 ▶ src/pages/zh/solutions/cosmetics.astro
+08:13:52   └─ /zh/solutions/cosmetics/index.html (+5ms) 
+08:13:52 ▶ src/pages/zh/solutions/food.astro
+08:13:52   └─ /zh/solutions/food/index.html (+7ms) 
+08:13:52 ▶ src/pages/zh/solutions/nutraceuticals.astro
+08:13:52   └─ /zh/solutions/nutraceuticals/index.html (+6ms) 
+08:13:52 ▶ src/pages/zh/solutions/[slug].astro
+08:13:52   ├─ /zh/solutions/botanical-sweetener-rtd/index.html (+5ms) 
+08:13:52   ├─ /zh/solutions/deep-sleep-capsule/index.html (+7ms) 
+08:13:52   ├─ /zh/solutions/reishi-sleep-gummy/index.html (+9ms) 
+08:13:52   ├─ /zh/solutions/liver-support-gummy/index.html (+7ms) 
+08:13:52   ├─ /zh/solutions/green-tea-energy-sparkling/index.html (+6ms) 
+08:13:52   ├─ /zh/solutions/turmeric-golden-latte/index.html (+6ms) 
+08:13:52   └─ /zh/solutions/white-peach-sparkling/index.html (+6ms) 
+08:13:52 ▶ src/pages/zh/solutions/index.astro
+08:13:52   └─ /zh/solutions/index.html (+9ms) 
+08:13:52 ▶ src/pages/zh/terms.astro
+08:13:52   └─ /zh/terms/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/thank-you.astro
+08:13:52   └─ /zh/thank-you/index.html (+4ms) 
+08:13:52 ▶ src/pages/zh/index.astro
+08:13:52   └─ /zh/index.html (+8ms) 
+08:13:52 ▶ src/pages/index.astro
+08:13:52   └─ /index.html (+8ms) 
+08:13:52 ✓ Completed in 1.69s.
+
+08:13:53 [@astrojs/sitemap] `sitemap-index.xml` created at `dist`
+08:13:53 [build] 200 page(s) built in 9.06s
+08:13:53 [build] Complete!
+✔ home hero gives ingredient buyers and brand developers direct localized paths (3.962232ms)
+✔ all product pages put procurement confirmation and actions before technical reading (8.862792ms)
+✔ product artwork preserves original illustrations with explicit non-specification captions (1.476779ms)
+✔ ODM starts with two buyer intents before concept imagery and offers editable transfer context (1.07903ms)
+✔ research library progressively enhances compact cards with genuine facets and shared caveats (1.407535ms)
+✔ news archive title identifies historical records, not a latest-news feed (0.446675ms)
+✔ quote privacy distinguishes submission from receipt without stale activation assertions (0.805426ms)
+✔ catalog cards restore original photographic illustration framing (0.260262ms)
+✔ download center exposes readable, reusable briefs with real editable downloads (9.044286ms)
+✔ research cards render evidence and subset counts from current reviewed records (2.230878ms)
+✔ all twelve original illustrations have bilingual visible and accessible boundaries (9.4904ms)
+✔ all 24 product guides distinguish indicative specifications from written confirmation (6.335357ms)
+✔ solutions are unvalidated concepts with no serving formula or commercial promises (1.274835ms)
+✔ buyer guides replace unsupported market reports and use the actual update date (0.83499ms)
+✔ English markdown uses root routes and concise product summaries (4.278501ms)
+✔ gold action buttons use dark text for readable contrast (1.555459ms)
+✔ mobile hero keeps equal-width CTAs and compact vertical spacing (0.438732ms)
+✔ monk fruit III E research sentence cites source 8 separately from regulatory records (1.071988ms)
+✔ published stevia source titles retain clean Unicode without changing source identities (0.453965ms)
+✔ goji source 39 separates traditional optimization from three apparatus yields in EN/ZH (1.144238ms)
+✔ all twelve canonical profiles render localized longform, accessible tables and resolved citations (15.78842ms)
+✔ source data retains all five dimensions in both locales with matching table counts and citations (6.174635ms)
+✔ science profiles lead with deep reading instead of duplicate shallow dossiers (5.083386ms)
+✔ research keeps experimental hazards and known material/scale corrections in both locales (5.115834ms)
+✔ all 33 editorial plan files decode to true landscape images with exact metadata (702.139003ms)
+✔ all retained original public rasters remain byte-identical and landscape except archived plan sources (798.183645ms)
+✔ offline refresh is draft-only, deduplicates identifiers and refuses publication flags (235.457254ms)
+✔ draft importer rejects malformed data and symlinked publication paths without modifying published records (115.971149ms)
+✔ event cards remain dated historical records and renderers exclude drafts (1.929143ms)
+✔ all bilingual product pages provide research, processing dossier and topic-specific paths (7.18508ms)
+✔ published research offers verified stable identifiers, bilingual context and explicit review scope for all products (1.83447ms)
+✔ both delivered extraction videos contain audible AAC narration (3068.281429ms)
+✔ both homepages follow the buyer journey after the hero (1.611062ms)
+✔ localized homepage offers sample and COA review without blanket credentials (4.294915ms)
+✔ company pages replace blanket claims with product-specific review guidance in both languages (1.242145ms)
+✔ homepage presents buyer guides and an application suitability reminder (0.431422ms)
+✔ named claim excerpts are exact substrings of retained primary source bodies (14.136135ms)
+✔ directory lists twelve plain extract names separately from constituent families; all science routes are canonical (15.823684ms)
+✔ encyclopedias identify materials before contents, retain eight readable sections, and products retain concise legacy anchors (18.449448ms)
+✔ visible section order follows the identity-first encyclopedia contents (12.142304ms)
+✔ all sourced overview fields render with valid citations and no cross-ingredient identity substitutions (12.970775ms)
+✔ all 12 bilingual products link five dimensions to their own substantive canonical content (18.652004ms)
+✔ unmatched ingredient news explicitly says no matching reviewed records (0.839608ms)
+✔ every dimension renders its actual longform data rather than obsolete shallow paragraphs (84.094007ms)
+✔ all 33 plans have exact local paths and bilingual image metadata (2.298ms)
+✔ legacy reader adapter groups processing without losing blocks or anchor indexes (4.595167ms)
+✔ goji dependent claims retain retentate, water ratio and undefined enzyme basis (1.826458ms)
+✔ Centella bilingual carrier and gel roles preserve the A-review qualifiers (0.388977ms)
+✔ reader prose excludes remaining internal review instructions and yogurt assignment ambiguity (5.158689ms)
+✔ clinical and patent blocking corrections remain in integrated bilingual source (2.187082ms)
+✔ independent review blockers are corrected in the actual bilingual article (7.560575ms)
+✔ all rollout and legacy source IDs resolve to the ingredient-local HTTPS record (33.381873ms)
+✔ retained assets and scientific renderer remain identical apart from procurement links and forms alias (580.805708ms)
+✔ eleven rollout packs replace the legacy article in both languages (16.809412ms)
+✔ layout consumes one taxonomy with keyboard-visible dropdowns and compact responsive controls (2.166141ms)
+✔ shared navigation exposes the bilingual buyer taxonomy and localized destinations (62.904761ms)
+✔ ODM quote prefill carries bounded plain-text concept and application without changing provider (3.168544ms)
+✔ navigation and product dossiers expose only relevant concept links (4.288886ms)
+✔ ODM hub and three concepts align in both languages with conservative schema and quote context (3.071317ms)
+✔ thirty-three topics retain all legacy guides and twelve aligned science profiles (14.540436ms)
+✔ navigation retains encyclopedia entry and its hub exposes all seven branches (1.98725ms)
+✔ topic-specific existing resources are linked in the page language (14.563089ms)
+✔ bilingual process video has accessible opt-in playback, captions, poster and transcript (4.45666ms)
+✔ all encyclopedia routes have reciprocal language alternates and sitemap entries (21.386953ms)
+✔ moisture and COA pages have reciprocal localized descriptive related links (1.795591ms)
+✔ COA review asks for lot traceability and a method/reporting-basis decision (1.870144ms)
+✔ moisture guide distinguishes method scope in both rendered languages (1.407806ms)
+✔ plant extracts has bilingual substantive hub and seven overview guides (3.022483ms)
+✔ evergreen expansion has six substantial bilingual entries and valid local citations (1.282546ms)
+✔ plant extracts hubs use exact keyword titles and H1 (3.216206ms)
+✔ Resveratrol en: both control categories have analytical/physical scope (2.353963ms)
+✔ Resveratrol zh: both control categories have analytical/physical scope (0.400104ms)
+✔ Goji en: one full ultrasound explanation and distinct apparatus comparison (0.679657ms)
+✔ Goji zh: one full ultrasound explanation and distinct apparatus comparison (0.342988ms)
+✔ quote form preserves recipient and labels procurement fields with honest external processing (1.779757ms)
+✔ URL prefill treats product as plain text and only accepts supported request types (6.011267ms)
+✔ localized product CTAs route to quote with an encoded product (0.839146ms)
+✔ downloads provide an actual bilingual checklist and scoped document request routes (1.468167ms)
+✔ FAQ and industry pages replace unsupported promises with evaluation guidance (1.031357ms)
+✔ all 24 product entries and rendered pages preserve the original rich WebP artwork (15.243177ms)
+✔ home and catalog retain original product visuals and visible concept boundaries (1.895481ms)
+✔ public source and rendered pages omit AI drawing labels (59.284245ms)
+✔ product templates include localized related guides by exact product slug (1.273292ms)
+✔ all industry pages connect recommendations and relevant guides (0.743382ms)
+✔ header exposes five groups and curated product categories, not twelve ingredient links (4.080832ms)
+✔ Research hubs separate five populated reading paths and method-aware market analysis from paper library (0.839187ms)
+✔ twelve ingredient encyclopedias have material boundaries, citations and ID-matched product/paper links in both languages (22.897063ms)
+✔ every existing bilingual article has one honest guide category and industry metadata without changing legacy metadata (3.9079ms)
+✔ shared categories provide four bilingual useful scopes without Astro coupling (60.818702ms)
+✔ resource hubs and archives render accessible filterable guide lists; bilingual categories have static routes (219.113917ms)
+✔ actual filter script matches whole ingredient slugs, updates live count, handles empty state and resets (40.906697ms)
+✔ product directory metadata does not claim blanket certification (4.408487ms)
+✔ product pages have page-specific canonical and language alternates (1.217538ms)
+✔ en/green-tea: separate reader resources and family links (3.204077ms)
+✔ en/centella-asiatica: separate reader resources and family links (0.593106ms)
+✔ en/monk-fruit: separate reader resources and family links (2.565974ms)
+✔ en/turmeric: separate reader resources and family links (0.968522ms)
+✔ en/reishi-mushroom: separate reader resources and family links (0.891645ms)
+✔ en/ginseng: separate reader resources and family links (0.646347ms)
+✔ en/ginkgo-biloba: separate reader resources and family links (0.571814ms)
+✔ en/grape-seed: separate reader resources and family links (0.56315ms)
+✔ en/goji-berry: separate reader resources and family links (0.606996ms)
+✔ en/licorice-root: separate reader resources and family links (0.803884ms)
+✔ en/stevia: separate reader resources and family links (0.599806ms)
+✔ en/resveratrol: separate reader resources and family links (0.63571ms)
+✔ zh/green-tea: separate reader resources and family links (0.43656ms)
+✔ zh/centella-asiatica: separate reader resources and family links (0.37718ms)
+✔ zh/monk-fruit: separate reader resources and family links (1.270589ms)
+✔ zh/turmeric: separate reader resources and family links (0.639325ms)
+✔ zh/reishi-mushroom: separate reader resources and family links (0.578164ms)
+✔ zh/ginseng: separate reader resources and family links (0.738445ms)
+✔ zh/ginkgo-biloba: separate reader resources and family links (0.531613ms)
+✔ zh/grape-seed: separate reader resources and family links (0.887801ms)
+✔ zh/goji-berry: separate reader resources and family links (0.94764ms)
+✔ zh/licorice-root: separate reader resources and family links (0.546125ms)
+✔ zh/stevia: separate reader resources and family links (1.545284ms)
+✔ zh/resveratrol: separate reader resources and family links (0.641879ms)
+✔ every internal page and asset link resolves in the static build (172.08101ms)
+✔ every page has a single H1, title, description and canonical (35.193259ms)
+✔ contact form is labeled with external processing disclosure and fallback (3.240953ms)
+✔ zh/contact form is labeled with external processing disclosure and fallback (2.595668ms)
+✔ thank-you URL cannot attest to delivery (0.648219ms)
+✔ zh/thank-you URL cannot attest to delivery (0.41149ms)
+✔ legal notice routes explain actual website boundaries (0.703392ms)
+✔ zh/legal notice routes explain actual website boundaries (0.473545ms)
+✔ powders and custom projects require feasibility review (0.694349ms)
+✔ zh/powders and custom projects require feasibility review (0.388906ms)
+✔ botanical category uses published content and real detail links (1.07971ms)
+✔ zh/botanical category uses published content and real detail links (0.397139ms)
+✔ application-first turmeric retains evidence conditions, scoped namespaces and five product choices (4.559315ms)
+✔ shared ingredient data and all twelve original WebPs stay byte-identical to approved PR16 (161.934571ms)
+✔ en: four product-specific optimized formulation images (11.537861ms)
+✔ zh: four product-specific optimized formulation images (7.389668ms)
+✔ turmeric offers linked formulation and patent sections with concise image captions (3.326483ms)
+✔ four concrete combinations and four distinct patent families render with claim scope and citations (3.665114ms)
+✔ full turmeric procurement presents an offer, target grades, qualification matrix and application cards (7.823053ms)
+✔ turmeric sells application formats and commercial service rather than a purchasing tutorial (1.117777ms)
+✔ owner-confirmed turmeric offer remains separate from batch results and has factual page schema (1.262337ms)
+✔ turmeric exposes a branching process figure and compact forms table (2.47697ms)
+✔ turmeric has descriptive and consistent social head metadata (1.785456ms)
+✔ turmeric teaches functions without defensive boilerplate (2.096675ms)
+✔ turmeric procurement has actionable sections, bounded science journeys and no dossier/news duplication (6.478562ms)
+✔ turmeric commercial intent is distinct from science and category (2.762251ms)
+✔ turmeric has one definition, application-first order, retained anchors and scoped cases (4.784845ms)
+✔ turmeric references show original IDs and retain the original product artwork (2.580757ms)
+✔ turmeric has reader-facing bilingual prose and a definition of the processed ingredient (0.704795ms)
+✔ en: relevant patents close the article after study cases (2.014302ms)
+✔ zh: relevant patents close the article after study cases (0.929073ms)
+✔ turmeric-only why choose section connects buyer decisions to a localized project brief (9.394154ms)
+ℹ tests 149
+ℹ suites 0
+ℹ pass 149
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 3223.27437
