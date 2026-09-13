@@ -5,22 +5,22 @@ import { getLocalizedPath } from '../../i18n/config';
 const lang = 'en';
 const products = await getCollection('products', ({ data }) => data.lang === lang && !data.draft);
 ---
-<PageLayout title="Botanical Extracts" description="Start with ingredient profiles, then confirm your procurement requirements" lang={lang} heroTitle="Botanical Extracts" heroSubtitle="Start with ingredient profiles, then confirm your procurement requirements">
+<PageLayout title="Botanical Extracts" description="Botanical ingredient supply forms, specifications and sample inquiries" lang={lang} heroTitle="Botanical Extracts" heroSubtitle="Botanical ingredient supply forms, specifications and sample inquiries">
   <section class="section-padding">
     <div class="container-wide">
-      <p class="max-w-3xl text-lg text-gray-600 mb-10">These published ingredient profiles are a starting point, not a stock list or confirmed sales specification. Availability, assay targets, test methods and market suitability require written confirmation for each inquiry.</p>
+      <p class="max-w-3xl text-lg text-gray-600 mb-10">Browse botanical extract supply forms, uses and specifications, then request samples, pricing and quality documents for the selected material. Supply terms and market suitability are confirmed in writing for the chosen grade.</p>
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         {products.map((product) => (
           <a href={getLocalizedPath(`/products/${product.slug.replace(`${lang}/`, '')}`, lang)} class="block p-6 rounded-xl bg-off-white hover:shadow-md focus-visible:outline-2 focus-visible:outline-primary">
             <h2 class="text-xl font-semibold text-gray-900">{product.data.name}</h2>
             {product.data.latinName && <p class="mt-2 italic text-gray-600">{product.data.latinName}</p>}
             {product.data.description && <p class="mt-3 text-gray-600">{product.data.description}</p>}
-            <span class="block mt-4 text-primary font-medium">Read ingredient profile →</span>
+            <span class="block mt-4 text-primary font-medium">View specifications and inquiry →</span>
           </a>
         ))}
       </div>
       {products.length === 0 && <p>No ingredient profiles are currently published. Please email your inquiry.</p>}
-      <a href={getLocalizedPath('/contact', lang)} class="inline-block mt-10 px-6 py-3 rounded-lg bg-primary text-white">Discuss sourcing requirements</a>
+      <a href={getLocalizedPath('/request-quote?request=quote&source=catalog', lang)} class="inline-block mt-10 px-6 py-3 rounded-lg bg-primary text-white">Discuss sourcing requirements</a>
     </div>
   </section>
 </PageLayout>

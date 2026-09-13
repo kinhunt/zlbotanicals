@@ -1,0 +1,25 @@
+---
+import {getLocalizedPath,type Language} from '../i18n/config';
+const {lang}=Astro.props as {lang:Language}; const zh=lang==='zh'; const local=(p:string)=>getLocalizedPath(p,lang);
+const quote=local('/request-quote')+'?'+new URLSearchParams({request:'odm-transfer',product:zh?'已有配方协作评估':'Existing-formula coordination review',application:zh?'已有配方转移':'Existing formula transfer',stage:'existing',source:'formula-transfer'}).toString();
+const stages=zh?[
+ ['非保密筛查','产品形态、实验室／中试／量产阶段、转移目的与已完成试验。先确认可评估范围。'],
+ ['授权与资料目录','确认配方权属、资料接收主体和共享方式，再整理配方／BOM、原料规格、工艺、方法、包装及试验记录的版本目录。'],
+ ['差距与试验计划','对照现有与拟执行工艺条件，记录材料、设备、包装及方法差距；约定补充试验、执行方、费用和继续／暂停负责人。'],
+ ['中试与供应安排','按约定验收标准记录试验与偏差；由客户技术和质量团队、拟制造与放行主体确认放大、变更及首批供货责任。']
+]:[
+ ['Nonconfidential screening','Product format, laboratory / pilot / commercial stage, transfer objective and completed trials. First establish the review scope.'],
+ ['Authorization and document inventory','Agree formula rights, receiving entities and sharing arrangements before assembling version records for formula / BOM, ingredient specifications, process, methods, packaging and trials.'],
+ ['Gap review and trial plan','Compare current and proposed process conditions; record material, equipment, packaging and method gaps. Agree further trials, executors, fees and the stop/go owner.'],
+ ['Pilot and supply arrangements','Record trials and deviations against agreed acceptance criteria. Customer technical and quality teams and proposed manufacturing and release entities confirm scale-up, changes and first-batch responsibilities.']
+];
+---
+<section id="formula-transfer" class="mt-10 rounded-xl border border-primary/30 p-6 md:p-8 scroll-mt-24">
+<h2 class="text-2xl font-bold">{zh?'已有配方，先评估转移适配性':'Have a formula? Review transfer fit'}</h2>
+<p class="mt-4 text-gray-700">{zh?'已有配方不等于已量产。带上非保密摘要，讨论原料替换、现有工厂放大或备选生产方评估；饮品以外的项目先确认支持范围与执行方。':'An existing formula is not necessarily production-established. Bring a nonconfidential summary to discuss material replacement, scale-up at your current facility or review of an alternative executor. For non-beverage projects, first confirm support scope and executors.'}</p>
+<a data-transfer-start class="inline-block mt-5 text-primary underline font-semibold" href={quote}>{zh?'提交非保密转移摘要':'Send a nonconfidential transfer summary'} →</a>
+<h3 class="text-xl font-semibold mt-7">{zh?'本阶段要约定的输出与责任':'Outputs and responsibilities to agree'}</h3>
+<ol class="grid md:grid-cols-2 gap-5 mt-5">{stages.map(([title,body])=><li class="bg-off-white rounded-lg p-5"><h4 class="font-semibold">{title}</h4><p class="mt-2 text-gray-700">{body}</p></li>)}</ol>
+<p class="text-sm mt-5 text-gray-600">{zh?'以上为评估与交接提纲；具体成果、执行方与费用按项目书面约定。请勿通过公开表单发送完整配方或保密工艺。':'This is a review and handover outline. Deliverables, executors and fees are agreed in writing per project. Do not send a complete formula or confidential process through the public form.'}</p>
+<div class="flex flex-wrap gap-5 mt-5"><a class="underline text-primary" href={local('/resources/downloads#formula-transfer-checklist')}>{zh?'查看现有转移资料清单':'View the transfer-document checklist'} →</a><a data-transfer-final class="underline text-primary font-semibold" href={quote}>{zh?'继续配方转移评估':'Continue formula-transfer review'} →</a></div>
+</section>

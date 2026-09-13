@@ -2,7 +2,7 @@
 name: Ginkgo Biloba Extract
 latinName: Ginkgo biloba
 lang: en
-description: "Ginkgo leaf extract sourcing, with guidance on glycosides, lactones, ginkgolic acid controls and identity testing."
+description: "ZL Botanicals supplies ginkgo leaf extract for capsule and tablet development, subject to material and target-market qualification."
 image: /images/products/ginkgo-biloba.webp
 ---
 

@@ -22,8 +22,8 @@ test('URL prefill treats product as plain text and only accepts supported reques
  const script = formSource().match(/<script is:inline>([\s\S]*?)<\/script>/)?.[1];
  assert.ok(script, 'prefill script exists');
  function run(search) {
-  const fields = { product: {value:''}, request: {value:'quote', options:['quote','sample','COA','TDS','certification','application'].map(value=>({value}))} };
-  vm.runInNewContext(script, {URLSearchParams, window:{location:{search}}, document:{getElementById:id=>fields[id]}});
+  const fields = { product: {value:''}, request: {value:'quote',addEventListener(){}, options:['quote','sample','COA','TDS','certification','application'].map(value=>({value}))} };
+  vm.runInNewContext(script, {URLSearchParams, window:{location:{search}}, document:{getElementById:id=>fields[id],querySelectorAll:()=>[],querySelector:()=>null,documentElement:{lang:'en'}}});
   return fields;
  }
  const product = '<img src=x onerror=alert(1)> & 人参';

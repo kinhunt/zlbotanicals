@@ -2,7 +2,7 @@
 name: Green Tea Extract
 latinName: Camellia sinensis
 lang: en
-description: "Green tea leaf extract sourcing, with guidance on EGCG, catechins, caffeine and beverage compatibility."
+description: "ZL Botanicals supplies green tea extract for ready-to-drink tea, instant tea powders and catechin-based dry blends."
 image: /images/products/green-tea.webp
 solutions:
   - white-peach-sparkling

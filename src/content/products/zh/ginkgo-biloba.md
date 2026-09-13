@@ -3,7 +3,7 @@ name: 银杏叶提取物
 nameEn: Ginkgo Biloba Extract
 latinName: Ginkgo biloba
 lang: zh
-description: "银杏叶提取物采购指南，涵盖黄酮苷、萜内酯、银杏酸控制及身份检测。"
+description: "振隆供应面向胶囊及片剂开发的银杏叶提取物，按具体原料及目标市场确认用途。"
 image: /images/products/ginkgo-biloba.webp
 ---
 

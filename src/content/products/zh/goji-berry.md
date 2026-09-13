@@ -3,7 +3,7 @@ name: 枸杞提取物
 nameEn: Goji Berry Extract
 latinName: Lycium barbarum
 lang: zh
-description: "枸杞原料采购指南，涵盖粉末形态、多糖方法、糖含量及软糖试样。"
+description: "振隆供应枸杞果实原料，用于冲调饮料、果味软糖及明确组分的提取物配方。"
 image: /images/products/goji-berry.webp
 solutions:
   - liver-support-gummy

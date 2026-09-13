@@ -3,7 +3,7 @@ name: Stevia Glycoside Extract
 nameEn: Stevia Glycoside Extract
 latinName: Stevia rebaudiana
 lang: en
-description: "Stevia glycoside sourcing, covering composition, production route and sensory trials for food and beverage development."
+description: "ZL Botanicals supplies stevia glycoside ingredients for reduced-sugar drinks, protein beverages and dry sweetener blends."
 image: /images/products/stevia.webp
 solutions:
   - botanical-sweetener-rtd

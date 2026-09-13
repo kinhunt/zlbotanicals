@@ -1,0 +1,37 @@
+import assert from 'node:assert/strict';
+import {mkdirSync,writeFileSync} from 'node:fs';
+const {chromium}=await import(process.env.PLAYWRIGHT_MODULE||'/tmp/zl-browser/node_modules/playwright/index.mjs');
+const base=process.argv[2]||'http://127.0.0.1:4331';
+const out=process.env.QA_OUT||'/data/hermes/research/audience-structure-qa/journeys';mkdirSync(out,{recursive:true});
+const browser=await chromium.launch({args:['--no-sandbox']});const results=[];const errors=[];let posts=0;
+async function ready(p){await p.waitForLoadState('load');await p.evaluate(()=>document.fonts.ready);}
+async function click(p,selector,last=false){const a=last?p.locator(selector).last():p.locator(selector).first();await a.evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));await a.click();await ready(p);}
+try {
+for(const lang of ['en','zh'])for(const width of [390,1440]) {
+ const prefix=lang==='zh'?'/zh':'';const ctx=await browser.newContext({viewport:{width,height:1000}});
+ await ctx.route('**/*',r=>{if(r.request().method()==='POST'){posts++;return r.abort();}return r.continue();});
+ const p=await ctx.newPage();p.on('pageerror',e=>errors.push(String(e)));
+ const go=async path=>{const r=await p.goto(base+prefix+path);assert.equal(r.status(),200);await ready(p);};
+ const check=async(type,product)=>{assert.equal(await p.locator('#request').inputValue(),type);if(product)assert.ok((await p.locator('#product').inputValue()).includes(product));assert.ok(await p.locator('a[href="mailto:info@zlbotanicals.com"]').count());assert.ok((await p.locator('#form-privacy').innerText()).includes('FormSubmit'));assert.ok(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));};
+ await go('/');await p.screenshot({path:`${out}/${lang}-${width}-home.png`});
+ await click(p,'[data-buyer-task="source"]');await click(p,`main a[href="${prefix}/products/green-tea"]`);await click(p,'[data-procurement-action="quote"]');await check('quote',lang==='zh'?'绿茶':'Green Tea');results.push({lang,width,task:'known procurement',url:p.url()});
+ await go('/');await click(p,'[data-buyer-task="application"]');await click(p,`main a[href="${prefix}/solutions/beverages"]`);await click(p,'[data-application-task="citrus-tea"] [data-task-application]');await check('application');assert.equal(await p.locator('#source').inputValue(),'beverages');assert.ok(await p.locator('#problem').inputValue());results.push({lang,width,task:'application without ingredient specification',url:p.url()});
+ await go('/solutions/cosmetics');await p.screenshot({path:`${out}/${lang}-${width}-cosmetics.png`});await click(p,'[data-application-task="hydrating-serum"] [data-task-science]');assert.ok(p.url().endsWith('#formulation-hydrating-serum'));assert.ok((await p.locator('#formulation-hydrating-serum').innerText()).length>200);await p.goBack();await ready(p);await click(p,'[data-application-task="hydrating-serum"] [data-task-sample]');await check('sample',lang==='zh'?'积雪草':'Centella');for(const key of ['application','form','plan','problem'])assert.ok(await p.locator('#'+key).inputValue());await p.locator('#problem').fill('Editable QA context');assert.equal(await p.locator('#problem').inputValue(),'Editable QA context');results.push({lang,width,task:'skincare brand',url:p.url()});
+ await go('/');await click(p,'[data-buyer-task="concept"]');await click(p,'[data-odm-intent="idea"]');await check('odm');assert.equal(await p.locator('#stage').inputValue(),'concept');results.push({lang,width,task:'beverage concept',url:p.url()});
+ await go('/');await click(p,'[data-buyer-task="transfer"]');assert.ok(p.url().endsWith('#formula-transfer'));await p.locator('#formula-transfer').scrollIntoViewIfNeeded();await p.screenshot({path:`${out}/${lang}-${width}-transfer.png`});await click(p,'#formula-transfer [data-transfer-final]');await check('odm-transfer');assert.equal(await p.locator('#stage').inputValue(),'existing');assert.ok(!(await p.locator('h1').innerText()).includes('concept'));await p.locator('#stage').selectOption('pilot');results.push({lang,width,task:'existing formula transfer',url:p.url()});
+ await go('/products/green-tea');await click(p,'main a[href*="request=TDS"]');await check('TDS');const docs=p.locator('details[data-request-types="COA TDS certification sample"]');await docs.locator('summary').click();await p.locator('input[value="TDS"]').check();await p.locator('input[value="representative-COA"]').check();assert.equal(await p.evaluate(()=>new FormData(document.querySelector('form')).getAll('documents').length),2);results.push({lang,width,task:'QA multi-document request',url:p.url()});
+ await go('/products');await click(p,'[data-catalog-repeat]');await check('repeat');assert.equal(await p.locator('#stage').inputValue(),'repeat');results.push({lang,width,task:'repeat order',url:p.url()});
+ await go('/products');await click(p,'[data-catalog-distribution]');await check('distribution');results.push({lang,width,task:'distribution',url:p.url()});
+ await go('/request-quote?request=evil&source=https://evil.test&stage=evil&company=BAD&email=evil@example.com&problem='+encodeURIComponent('<img src=x onerror=alert(1)>')+'&form='+('x'.repeat(900)));
+ assert.equal(await p.locator('#request').inputValue(),'quote');assert.equal(await p.locator('#source').inputValue(),'');assert.equal(await p.locator('#company').inputValue(),'');assert.equal(await p.locator('#email').inputValue(),'');assert.equal((await p.locator('#form').inputValue()).length,500);assert.equal(await p.locator('#problem').inputValue(),'<img src=x onerror=alert(1)>');assert.equal(await p.locator('main img[src="x"]').count(),0);
+ await p.locator('#request').selectOption('odm-transfer');await p.locator('#stage').scrollIntoViewIfNeeded();await p.screenshot({path:`${out}/${lang}-${width}-form.png`});
+ await go('/odm');await click(p,'[data-transfer-final]',true);await check('odm-transfer');assert.ok(await p.locator('#product').inputValue());
+ await go('/odm');await click(p,'[data-odm-intent="transfer"]');await check('odm-transfer');assert.ok(!(await p.locator('#product').inputValue()).includes(lang==='zh'?'植物饮品项目':'Botanical beverage project'));
+ await p.locator('#concept').fill('Retain only for transfer');await p.locator('#stage').selectOption('pilot');await p.locator('#request').selectOption('quote');
+ assert.deepEqual(await p.evaluate(()=>{const d=new FormData(document.querySelector('form'));return [d.has('concept'),d.has('stage')];}),[false,false]);
+ await p.locator('#request').selectOption('odm-transfer');assert.equal(await p.locator('#concept').inputValue(),'Retain only for transfer');
+ await ctx.close();
+ const no=await browser.newContext({javaScriptEnabled:false,viewport:{width,height:1000}});await no.route('**/*',r=>{if(r.request().method()==='POST'){posts++;return r.abort();}return r.continue();});const n=await no.newPage();await n.goto(base+prefix+'/request-quote?request=sample');await n.locator('#request').selectOption('sample');for(const key of ['product','application','form','plan','problem']){await n.locator('#'+key).fill('Manual nonconfidential context');assert.equal(await n.locator('#'+key).inputValue(),'Manual nonconfidential context');}await no.close();
+}
+assert.equal(posts,0);assert.deepEqual(errors,[]);writeFileSync(out+'/results.json',JSON.stringify({results,posts,errors,noJS:4},null,2));console.log(JSON.stringify({journeys:results.length,noJS:4,posts,errors}));
+}finally{await browser.close();}

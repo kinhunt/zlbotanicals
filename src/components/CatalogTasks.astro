@@ -1,0 +1,9 @@
+---
+import {getLocalizedPath,type Language} from '../i18n/config';
+const {lang}=Astro.props as {lang:Language}; const zh=lang==='zh'; const local=(p:string)=>getLocalizedPath(p,lang);
+---
+<section class="section-padding bg-primary/5"><div class="container-wide">
+<h2 class="text-2xl font-bold">{zh?'按名称采购，或按用途选型':'Buy by name, or choose by application'}</h2>
+<p class="mt-3 text-gray-700">{zh?'为品牌、配方制造企业、进口商与分销商提供植物原料选型。目录下方可浏览单品；尚未确定原料名称，可先按终端产品缩小范围。':'Botanical ingredient selection for brands, formulation manufacturers, importers and distributors. Browse individual materials below, or narrow the choices by end product if you do not yet know the ingredient name.'}</p>
+<div class="flex flex-wrap gap-4 mt-5"><a data-catalog-application class="text-primary underline font-semibold" href={local('/solutions')}>{zh?'按应用选原料':'Choose ingredients by application'} →</a><a data-catalog-repeat class="text-primary underline" href={local('/request-quote?request=repeat&source=catalog&stage=repeat')}>{zh?'按已批准规格复购 / 扩量':'Repeat / scale up an approved specification'} →</a><a data-catalog-distribution class="text-primary underline" href={local('/request-quote?request=distribution&source=catalog')}>{zh?'分销与进口采购需求':'Distribution and import sourcing'} →</a><a class="text-primary underline" href={local('/request-quote?request=second-source&source=catalog')}>{zh?'匹配现有原料规格':'Match an existing ingredient specification'} →</a></div>
+</div></section>

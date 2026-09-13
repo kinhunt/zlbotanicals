@@ -49,7 +49,10 @@
     "researchHub": "Research",
     "scienceIngredients": "Ingredients",
     "scienceApplications": "Applications & methods",
-    "marketInsights": "Market insights"
+    "marketInsights": "Market insights",
+    "applicationsProjects": "Applications & Projects",
+    "conceptDevelopment": "Beverage concept development",
+    "formulaTransfer": "Existing-formula review"
   },
   "hero": {
     "badge": "Botanical ingredients • Guangzhou",

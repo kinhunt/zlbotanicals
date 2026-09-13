@@ -8,7 +8,7 @@ for (const prefix of ['', 'zh/']) {
     assert.match(page, /<form[^>]+action="https:\/\/formsubmit.co\/info@zlbotanicals.com"/);
     assert.match(page, /third-party|第三方/);
     assert.match(page, /mailto:info@zlbotanicals.com/);
-    assert.match(page, /not verified|尚未验证/);
+    assert.match(page, /does not confirm receipt|不代表已收件/);
     assert.match(page, /privacy/);
     const controls = [...page.matchAll(/<(?:input|textarea|select)\b[^>]*>/g)].map(m => m[0]).filter(tag => !/type="hidden"/.test(tag));
     assert.ok(controls.length >= 4);
@@ -53,7 +53,7 @@ for (const prefix of ['', 'zh/']) {
       const page = source(`${prefix}products/${category}`);
       assert.match(page, /feasibility|可行性/);
       assert.match(page, /written|书面/);
-      assert.match(page, /contact/);
+      assert.match(page, category === 'custom-formulation' ? /request-quote\?request=application/ : /contact/);
       assert.doesNotMatch(page, /href:\s*['"]#['"]|\d+ mesh|\d+目|GMP|exact specifications|精确规格|确保批次/);
     }
   });

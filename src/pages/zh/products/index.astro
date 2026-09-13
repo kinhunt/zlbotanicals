@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import PageLayout from '../../../layouts/PageLayout.astro';
+import CatalogTasks from '../../../components/CatalogTasks.astro';
 import { getLocalizedPath } from '../../../i18n/config';
 import { Leaf, ArrowRight } from '@lucide/astro';
 
@@ -19,6 +20,7 @@ const products = await getCollection('products', ({ data }) => {
   heroTitle="产品中心"
   heroSubtitle="为全球行业提供优质植物提取物"
 >
+  <CatalogTasks lang={lang} />
   <section class="section-padding">
     <div class="container-wide">
       {products.length > 0 ? (

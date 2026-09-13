@@ -3,7 +3,7 @@ name: 白藜芦醇
 nameEn: Resveratrol
 latinName: Polygonum cuspidatum
 lang: zh
-description: "白藜芦醇采购指南，涵盖植物来源、反式异构体检测、杂质控制及分散测试。"
+description: "振隆供应白藜芦醇，用于胶囊混合粉及外用配方开发。"
 image: /images/products/resveratrol.webp
 ---
 

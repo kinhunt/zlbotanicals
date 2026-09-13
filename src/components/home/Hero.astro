@@ -37,15 +37,15 @@ const t = useTranslations(lang);
         </p>
 
         <p class="mt-5 text-white/90">{lang === 'zh' ? '采购、研发与质量团队：核对原料规格与文件。品牌创始人或已有配方团队：从想法梳理或配方转移评估开始。' : 'Purchasing, R&D and quality teams: review ingredient specifications and documents. Brand founders and formula owners: start with a concept brief or transfer assessment.'}</p>
-        <!-- CTAs -->
-        <div class="mt-8 flex flex-col sm:flex-row gap-4">
-          <Button href={getLocalizedPath('/products', lang)} variant="accent" size="lg" class="w-full sm:w-auto">
-            {lang === 'zh' ? '原料采购 · 浏览产品' : 'Ingredient sourcing · browse products'}
-          </Button>
-          <Button href={getLocalizedPath('/odm', lang)} variant="secondary" size="lg" class="w-full sm:w-auto border-white text-white hover:bg-white hover:!text-primary">
-            {lang === 'zh' ? '品牌产品开发 · ODM' : 'Brand product development · ODM'}
-          </Button>
+        <div class="mt-8 grid sm:grid-cols-2 gap-4" aria-label={lang === 'zh' ? '按任务开始' : 'Start by task'}>
+          {[
+            ['source', '/products', '采购原料', 'Source ingredients'],
+            ['application', '/solutions', '按应用选原料', 'Choose by application'],
+            ['concept', '/odm#concept-development', '饮品概念开发', 'Develop a beverage concept'],
+            ['transfer', '/odm#formula-transfer', '已有配方协作评估', 'Review an existing formula'],
+          ].map(([task, path, cn, en]) => <a data-buyer-task={task} href={getLocalizedPath(path, lang)} class="rounded-lg border border-white/50 px-5 py-4 text-white hover:bg-white/10 font-semibold">{lang === 'zh' ? cn : en} →</a>)}
         </div>
+        <p class="mt-4 text-sm text-white/80">{lang === 'zh' ? '护肤与营养品先讨论原料及应用需求；饮品开发与配方转移的执行范围按项目确认。' : 'For skincare and supplements, start with ingredient and application needs. Beverage development and formula-transfer execution are scoped per project.'}</p>
       </div>
     </div>
   </div>

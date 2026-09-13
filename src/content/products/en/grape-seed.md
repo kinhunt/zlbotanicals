@@ -2,7 +2,7 @@
 name: Grape Seed Extract
 latinName: Vitis vinifera
 lang: en
-description: "Grape seed extract sourcing, covering OPC methods, identity verification and liquid or dry-blend compatibility."
+description: "ZL Botanicals supplies grape seed extract for capsules, drinks and topical development."
 image: /images/products/grape-seed.webp
 ---
 

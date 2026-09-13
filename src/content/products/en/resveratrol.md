@@ -2,7 +2,7 @@
 name: Resveratrol
 latinName: Polygonum cuspidatum
 lang: en
-description: "Resveratrol sourcing, covering botanical origin, trans-isomer assays, impurity controls and dispersion testing."
+description: "ZL Botanicals supplies resveratrol for capsule blends and topical formulation development."
 image: /images/products/resveratrol.webp
 ---
 

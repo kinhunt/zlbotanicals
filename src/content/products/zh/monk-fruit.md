@@ -3,7 +3,7 @@ name: 罗汉果提取物
 nameEn: Monk Fruit Extract
 latinName: Siraitia grosvenorii
 lang: zh
-description: "罗汉果提取物采购指南，涵盖罗汉果苷 V 规格、载体审核与饮料甜味试样。"
+description: "振隆供应用于减糖饮料、乳品甜品及干混粉的罗汉果提取物。"
 image: /images/products/monk-fruit.webp
 solutions:
   - white-peach-sparkling

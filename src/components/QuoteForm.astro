@@ -19,12 +19,15 @@ const fieldClass = 'w-full px-4 py-3 rounded-lg border border-gray-300 focus:rin
     <select id="request" name="request" required class={fieldClass}>
       <option value="quote">{zh ? '报价' : 'Quote'}</option><option value="sample">{zh ? '样品评估' : 'Sample evaluation'}</option><option value="COA">{zh ? '分析证书 (COA)' : 'Certificate of Analysis (COA)'}</option><option value="TDS">{zh ? '技术数据表 (TDS)' : 'Technical Data Sheet (TDS)'}</option><option value="certification">{zh ? '认证文件核查' : 'Certification copy review'}</option><option value="application">{zh ? '应用需求讨论' : 'Application discussion'}</option>
       <option value="odm-transfer">{zh ? '已有配方转移 / 生产协作评估' : 'Existing formula transfer / production review'}</option>
+      <option value="repeat">{zh ? '复购与扩量' : 'Repeat order and scale-up'}</option>
+      <option value="second-source">{zh ? '匹配现有原料规格 / 第二来源' : 'Match existing ingredient specification / second source'}</option>
+      <option value="distribution">{zh ? '分销 / 进口采购' : 'Distribution / import sourcing'}</option>
       <option value="odm">{zh ? 'ODM 项目可行性讨论' : 'ODM project feasibility discussion'}</option>
     </select>
   </div>
-  <div><label for="concept" class="block text-sm font-medium text-gray-700 mb-2">{zh ? 'ODM 概念 / 项目背景（选填，可修改）' : 'ODM concept / project context (optional, editable)'}</label><input id="concept" name="concept" maxlength="500" type="text" class={fieldClass} /></div>
+  <div data-request-types="odm odm-transfer"><label for="concept" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '概念 / 项目背景（选填，可修改）' : 'Concept / project context (optional, editable)'}</label><input id="concept" name="concept" maxlength="500" type="text" class={fieldClass} /></div>
   <div class="grid md:grid-cols-2 gap-6">
-    <div><label for="company" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '公司名称 *' : 'Company name *'}</label><input id="company" name="company" type="text" required class={fieldClass} /></div>
+    <div><label for="company" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '公司 / 筹备团队名称 *' : 'Company / founding team name *'}</label><input id="company" name="company" type="text" required class={fieldClass} /></div>
     <div><label for="name" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '联系人 *' : 'Contact name *'}</label><input id="name" name="name" type="text" required class={fieldClass} /></div>
     <div><label for="email" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '业务邮箱 *' : 'Business email *'}</label><input id="email" name="email" type="email" required class={fieldClass} /></div>
     <div><label for="phone" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '电话（选填）' : 'Phone (optional)'}</label><input id="phone" name="phone" type="tel"  class={fieldClass} /></div>
@@ -37,20 +40,58 @@ const fieldClass = 'w-full px-4 py-3 rounded-lg border border-gray-300 focus:rin
     <div><label for="certifications" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '认证要求（或无 / 待确认）' : 'Certification requirements (or none / unsure)'}</label><input id="certifications" name="certifications" type="text"  class={fieldClass} /></div>
     <div><label for="desired_delivery" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '期望交付日期 / 时间范围（非交付承诺）' : 'Desired delivery date / window (not a commitment)'}</label><input id="desired_delivery" name="desired_delivery" type="text"  class={fieldClass} /></div>
   </div>
+  <details class="rounded-lg border p-4" open>
+    <summary class="cursor-pointer font-medium">{zh ? '原料与应用背景（选填，可修改）' : 'Ingredient and application context (optional, editable)'}</summary>
+    <p class="mt-3 text-sm text-gray-600">{zh ? '仅填写非保密信息；链接中的背景会显示在此处，提交前可修改。' : 'Nonconfidential information only. Context from the link appears here and can be edited before sending.'}</p>
+    <div class="grid md:grid-cols-2 gap-4 mt-4">
+      {[["form",zh?'候选原料形态':'Candidate material form'],["plan",zh?'配伍 / 试配方向':'Formulation / trial direction'],["problem",zh?'当前问题 / 目标':'Current problem / goal']].map(([id,label])=><div><label for={id} class="block text-sm mb-2">{label}</label><input id={id} name={id} maxlength="500" class={fieldClass} /></div>)}
+      <div><label for="source" class="block text-sm mb-2">{zh?'来源应用':'Source application'}</label><select id="source" name="source" class={fieldClass}><option value="">{zh?'未指定':'Unspecified'}</option>{[['beverages','饮品','Beverages'],['food','食品','Food'],['cosmetics','护肤','Skincare'],['nutraceuticals','营养品','Supplements'],['formula-transfer','配方转移','Formula transfer'],['concept','概念开发','Concept development'],['catalog','原料目录','Ingredient catalog'],['quality','质量资料','Quality documents'],['custom-formulation','原料复配','Ingredient blends']].map(([value,cn,en])=><option value={value}>{zh?cn:en}</option>)}</select></div>
+    </div>
+  </details>
+  <div data-request-types="application odm odm-transfer repeat second-source">
+    <label for="stage" class="block text-sm mb-2">{zh?'项目阶段（选填）':'Project stage (optional)'}</label><select id="stage" name="stage" class={fieldClass}><option value="">{zh?'未指定':'Unspecified'}</option>{[['concept','概念','Concept'],['existing','已有配方，阶段待讨论','Existing formula, stage to discuss'],['laboratory','实验室试样','Laboratory prototype'],['pilot','中试','Pilot'],['commercial','已量产','Commercial production'],['repeat','复购 / 扩量','Repeat / scale-up'],['undecided','待讨论','Undecided']].map(([value,cn,en])=><option value={value}>{zh?cn:en}</option>)}</select>
+  </div>
+  <details data-request-types="COA TDS certification sample" class="border rounded-lg p-4"><summary class="cursor-pointer font-medium">{zh?'文件范围（选填，可多选）':'Document scope (optional, select multiple)'}</summary><p class="text-sm text-gray-600 mt-3">{zh?'申请范围不代表资料已提供；请在其他要求中注明规格版本、批号及审核用途。':'A request is not a supplied document. Add specification version, lot and review purpose under additional requirements.'}</p><div class="grid sm:grid-cols-2 gap-3 mt-4">{[['TDS','TDS','TDS'],['representative-COA','代表性 COA','Representative COA'],['batch-COA','指定批次 COA','Specific-lot COA'],['SDS','SDS','SDS'],['certification','认证范围文件','Certification scope'],['composition','组成 / 用途依据','Composition / intended-use records']].map(([value,cn,en])=><label class="flex gap-2 items-center"><input type="checkbox" name="documents" value={value}/>{zh?cn:en}</label>)}</div></details>
+  <details data-request-types="repeat second-source distribution quote" class="border rounded-lg p-4"><summary class="cursor-pointer font-medium">{zh?'复购、第二来源或分销要求（选填）':'Repeat, second-source or distribution requirements (optional)'}</summary><label for="supply_context" class="block text-sm my-3">{zh?'订单 / 已批准规格参考、不可变更项、分批日期、分销地区与物流要求':'Order / approved-specification reference, fixed requirements, replenishment dates, distribution territory and logistics'}</label><textarea id="supply_context" name="supply_context" rows="3" maxlength="1500" class={fieldClass}></textarea></details>
   <div><label for="requirements" class="block text-sm font-medium text-gray-700 mb-2">{zh ? '其他要求 / 文件范围 / 收货目的地' : 'Additional requirements / document scope / delivery destination'}</label><textarea id="requirements" name="requirements" rows="5" class={fieldClass}></textarea></div>
   <button type="submit" class="w-full py-4 bg-primary text-white rounded-lg font-medium hover:bg-primary-dark transition-colors">{zh ? '通过 FormSubmit 发送询盘' : 'Send inquiry via FormSubmit'}</button>
 </form>
 <script is:inline>
   const params = new URLSearchParams(window.location.search);
-  for (const key of ['concept', 'application']) {
+  // Only these nonconfidential context keys may prefill. Never bind arbitrary URL keys.
+  const plain = value => value.replace(/[\u0000-\u001f\u007f]/g, ' ').slice(0, 500);
+  for (const key of ['product', 'concept', 'application', 'form', 'plan', 'problem']) {
     const field = document.getElementById(key);
     const value = params.get(key);
-    if (field && value) field.value = value.slice(0, 500);
+    if (field && value) field.value = plain(value === 'custom' && key === 'concept' ? '' : value);
   }
-  const productField = document.getElementById('product');
+  const enums = {
+    source: ['beverages','food','cosmetics','nutraceuticals','formula-transfer','concept','catalog','quality','custom-formulation'],
+    stage: ['concept','existing','laboratory','pilot','commercial','repeat','undecided'],
+  };
+  for (const [key, allowed] of Object.entries(enums)) {
+    const field = document.getElementById(key);
+    const value = params.get(key);
+    if (field && allowed.includes(value)) field.value = value;
+  }
   const requestField = document.getElementById('request');
-  const productValue = params.get('product');
   const requestValue = params.get('request');
-  if (productField && productValue) productField.value = productValue.slice(0, 500);
   if (requestField && Array.from(requestField.options).some(option => option.value === requestValue)) requestField.value = requestValue;
+  const updateTask = () => {
+    const request = requestField.value;
+    for (const group of document.querySelectorAll('[data-request-types]')) {
+      group.hidden = !group.dataset.requestTypes.split(' ').includes(request);
+      for (const control of group.querySelectorAll('input, select, textarea')) control.disabled = group.hidden;
+    }
+    const heading = document.querySelector('main h1');
+    const button = document.querySelector('form button[type="submit"]');
+    const zh = document.documentElement.lang.startsWith('zh');
+    const label = request === 'odm-transfer' ? (zh ? '提交非保密转移摘要' : 'Send a nonconfidential transfer summary')
+      : request === 'odm' ? (zh ? '讨论饮品概念' : 'Discuss a beverage concept')
+      : request === 'application' ? (zh ? '讨论原料应用需求' : 'Discuss ingredient application needs')
+      : (zh ? '咨询原料、样品或文件' : 'Request ingredients, samples or documents');
+    if (heading) heading.textContent = label;
+    if (button) button.textContent = label + (zh ? ' · 通过 FormSubmit' : ' · via FormSubmit');
+  };
+  if (requestField) { updateTask(); requestField.addEventListener('change', updateTask); }
 </script>

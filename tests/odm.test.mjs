@@ -5,9 +5,9 @@ import vm from 'node:vm';
 test('ODM quote prefill carries bounded plain-text concept and application without changing provider',()=>{
  const source=fs.readFileSync('src/components/QuoteForm.astro','utf8');
  assert.ok(source.includes('value="odm"'));
- const fields={request:{value:'quote',options:[{value:'odm'}]},product:{value:''},concept:{value:''},application:{value:''}};
+ const fields={request:{value:'quote',addEventListener(){},options:[{value:'odm'}]},product:{value:''},concept:{value:''},application:{value:''}};
  const dangerous='<img src=x onerror=alert(1)>';
- vm.runInNewContext(source.match(/<script is:inline>([\s\S]*?)<\/script>/)[1],{URLSearchParams,window:{location:{search:'?request=odm&concept='+encodeURIComponent(dangerous)+'&application='+('a'.repeat(900))}},document:{getElementById:id=>fields[id]}});
+ vm.runInNewContext(source.match(/<script is:inline>([\s\S]*?)<\/script>/)[1],{URLSearchParams,window:{location:{search:'?request=odm&concept='+encodeURIComponent(dangerous)+'&application='+('a'.repeat(900))}},document:{getElementById:id=>fields[id],querySelectorAll:()=>[],querySelector:()=>null,documentElement:{lang:'en'}}});
  assert.equal(fields.request.value,'odm');assert.equal(fields.concept.value,dangerous);assert.equal(fields.application.value.length,500);
  assert.match(source,/for="concept"/);
 });

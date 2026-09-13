@@ -2,7 +2,7 @@
 name: Goji Berry Extract
 latinName: Lycium barbarum
 lang: en
-description: "Goji fruit ingredient sourcing, covering powder formats, polysaccharide methods, sugar content and gummy trials."
+description: "ZL Botanicals supplies goji fruit ingredients for instant drinks, fruit gummies and defined-extract formulations."
 image: /images/products/goji-berry.webp
 solutions:
   - liver-support-gummy
