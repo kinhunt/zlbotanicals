@@ -5,9 +5,9 @@ const html=p=>readFileSync(`dist/${p}index.html`,'utf8');
 test('home hero gives ingredient buyers and brand developers direct localized paths',()=>{
  for(const prefix of ['','zh/']){
  const hero=html(prefix).match(/<section class="relative bg-primary[\s\S]*?<\/section>/)[0];
- assert.ok(hero.includes(`href="/${prefix}odm"`));
+ assert.ok(hero.includes(`href="/${prefix}odm#concept-development"`));
  assert.ok(hero.includes(`href="/${prefix}products"`));
- assert.ok(hero.includes(prefix?'品牌产品开发':'Brand product development'));
+ assert.ok(hero.includes(prefix?'饮品概念开发':'Develop a beverage concept'));
  }
 });
 

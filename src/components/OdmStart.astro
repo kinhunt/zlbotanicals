@@ -2,7 +2,7 @@
 import {getLocalizedPath,type Language} from '../i18n/config';
 interface Props {lang:Language; brief:string; concept:string}
 const {lang,brief,concept}=Astro.props; const zh=lang==='zh';
-const quote=(transfer:boolean)=>getLocalizedPath('/request-quote',lang)+'?'+new URLSearchParams({request:transfer?'odm-transfer':'odm',product:zh?'植物饮品项目':'Botanical beverage project',concept,application:brief}).toString();
+const quote=(transfer:boolean)=>getLocalizedPath('/request-quote',lang)+'?'+new URLSearchParams({request:transfer?'odm-transfer':'odm',product:transfer?(zh?'已有配方协作评估':'Existing-formula coordination review'):(zh?'植物饮品项目':'Botanical beverage project'),concept:transfer?(zh?'已有配方转移':'Existing formula transfer'):(concept==='custom'?(zh?'饮品概念开发':'Beverage concept development'):concept),application:transfer?(zh?'已有配方协作评估':'Existing-formula coordination review'):brief,stage:transfer?'existing':'concept'}).toString();
 const outputs=zh?[
  ['需求梳理｜直接协调','拟定需求书、目标市场与未知项清单；由客户确认范围。'],
  ['原料选型｜直接协调','拟定候选原料表、规格／文件请求清单及可行性问题。'],

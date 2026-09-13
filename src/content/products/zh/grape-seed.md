@@ -3,7 +3,7 @@ name: 葡萄籽提取物
 nameEn: Grape Seed Extract
 latinName: Vitis vinifera
 lang: zh
-description: "葡萄籽提取物采购指南，涵盖 OPC 方法、身份核验及液体或干混体系兼容性。"
+description: "振隆供应葡萄籽提取物，用于胶囊、饮品及外用开发。"
 image: /images/products/grape-seed.webp
 ---
 

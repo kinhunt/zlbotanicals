@@ -3,7 +3,7 @@ name: 甜菊糖苷提取物
 nameEn: Stevia Glycoside Extract
 latinName: Stevia rebaudiana
 lang: zh
-description: "甜菊糖苷采购指南，涵盖组成、生产路线及食品饮料开发感官试验。"
+description: "振隆供应甜菊糖苷原料，用于减糖饮料、蛋白饮品及干粉甜味剂配方。"
 image: /images/products/stevia.webp
 solutions:
   - botanical-sweetener-rtd

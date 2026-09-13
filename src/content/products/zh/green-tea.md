@@ -3,7 +3,7 @@ name: 绿茶提取物
 nameEn: Green Tea Extract
 latinName: Camellia sinensis
 lang: zh
-description: "绿茶叶提取物采购指南，涵盖 EGCG、儿茶素、咖啡因及饮料适配性。"
+description: "振隆供应适用于即饮茶、速溶茶粉及儿茶素型干混粉的绿茶提取物。"
 image: /images/products/green-tea.webp
 solutions:
   - white-peach-sparkling

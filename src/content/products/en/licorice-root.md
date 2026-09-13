@@ -2,7 +2,7 @@
 name: Licorice Root Extract
 latinName: Glycyrrhiza glabra
 lang: en
-description: "Licorice root extract sourcing, covering glycyrrhizic acid, species identity, flavor evaluation and use-specific review."
+description: "ZL Botanicals supplies licorice extract for flavour and specialist ingredient projects."
 image: /images/products/licorice-root.webp
 solutions:
   - white-peach-sparkling

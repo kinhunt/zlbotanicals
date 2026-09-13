@@ -2,7 +2,7 @@
 name: Reishi Mushroom Extract
 latinName: Ganoderma lucidum
 lang: en
-description: "Reishi extract sourcing, with guidance on species, fungal part, beta-glucan methods and application fit."
+description: "ZL Botanicals supplies reishi extract for capsule, powder-blend and selected drink projects."
 image: /images/products/reishi-mushroom.webp
 solutions:
   - liver-support-gummy

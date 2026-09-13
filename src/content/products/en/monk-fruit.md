@@ -2,7 +2,7 @@
 name: Monk Fruit Extract
 latinName: Siraitia grosvenorii
 lang: en
-description: "Monk fruit extract sourcing, with Mogroside V specifications, carrier review and beverage sweetener trial guidance."
+description: "ZL Botanicals supplies monk fruit extract for reduced-sugar drinks, dairy desserts and dry mixes."
 image: /images/products/monk-fruit.webp
 solutions:
   - white-peach-sparkling

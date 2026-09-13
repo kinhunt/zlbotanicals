@@ -1,0 +1,40 @@
+---
+import {getLocalizedPath,type Language} from '../i18n/config';
+import {extractSales} from '../data/extract-sales';
+import {getIngredientReaderPack} from '../data/ingredient-reader-packs';
+interface Props {lang:Language; industry:'beverages'|'cosmetics'|'food'|'nutraceuticals'}
+const {lang,industry}=Astro.props; const zh=lang==='zh'; const local=(p:string)=>getLocalizedPath(p,lang);
+// Relationships reference existing material offers and formulation plans, not new SKUs.
+const taskRationale:Record<string,{en:string;zh:string}>={
+ 'defined-capsule':{en:'Compare particle size, bulk density, moisture and carrier composition before capsule filling. Confirm marker content and assay basis, then evaluate blend uniformity and fill-weight variation with the selected powder.',zh:'装囊前比较粒径、堆密度、水分及载体组成，明确标志物含量与检测基准，再用所选粉末评价混合均匀性与装量差异。'},
+ 'capsule':{en:'For a capsule-fill blend, compare ginsenoside contribution on the supplied-material basis, along with density, flow and moisture. Use the selected sample to assess blending and filling consistency.',zh:'胶囊填充混合粉按供应态核算人参皂苷贡献，同时比较密度、流动性与水分；用所选样品评价混合和填充一致性。'},
+ 'hydrating-serum':{en:'For a clear serum, compare a declared water/polyol supply liquid with powders on final-supply marker content. Check cold-storage crystals, delayed haze and viscosity in the full gel base.',zh:'清透精华可比较组成明确的水／多元醇供应液与粉末，按最终供应态标志物含量换算；在完整凝胶基底中检查冷藏析晶、延迟浑浊与黏度。'},
+ 'lipid-cream':{en:'For a cream, choose the addition phase from the extract vehicle. Oat oil, colloidal oat powder and aqueous oat extract enter differently; evaluate color, separation and viscosity recovery after shear.',zh:'面霜按提取物溶媒确定加入相；燕麦油、胶体燕麦粉与水性燕麦提物的加入方式不同。评价颜色、分层及剪切后的黏度恢复。'},
+ 'washable-gel':{en:'For a rinse-off gel, compare the extract vehicle and preservative contribution against polymer hydration and pH. Check gel texture, rinse feel, preservation and packaging compatibility.',zh:'水洗凝胶需将提取物溶媒与防腐贡献纳入聚合物水化和 pH 设计，检查凝胶质地、冲洗肤感、防腐及包装相容性。'},
+};
+const tasks={
+ beverages:[['green-tea','citrus-tea',0,'Clear tea: haze after chilling or heating','清亮茶饮：冷藏或加热后浑浊'],['stevia','citrus-beverage',1,'Reduced-sugar drinks: lingering sweetness','减糖饮料：甜味拖尾']],
+ cosmetics:[['centella-asiatica','hydrating-serum',2,'Serum: crystals or viscosity drift','精华：析晶或黏度漂移'],['centella-asiatica','lipid-cream',0,'Cream: color and emulsion stability','面霜：颜色与乳化稳定性'],['centella-asiatica','washable-gel',2,'Rinse-off mask: gel and preservative compatibility','水洗面膜：凝胶与防腐相容性']],
+ food:[['monk-fruit','oat-cookie',1,'Reduced-sugar baking: sweetness and bulk','减糖烘焙：甜度与体积'],['goji-berry','fruit-gummy',0,'Fruit gummies: color, taste and gel texture','果味软糖：颜色、口感与凝胶质地']],
+ nutraceuticals:[['reishi-mushroom','defined-capsule',0,'Capsules: flow and fill consistency','胶囊：流动性与装量一致性'],['ginseng','capsule',0,'Capsule-fill blends: marker contribution and uniformity','胶囊填充粉：标志物贡献与均匀性']],
+} as const;
+---
+<section class="section-padding bg-primary/5" data-application-tasks><div class="container-wide max-w-4xl">
+<h2 class="text-2xl font-bold">{zh?'从终端产品选择原料':'Choose ingredients for your end product'}</h2>
+<p class="mt-4 text-gray-700">{zh?'先选产品形态与要解决的问题，原料规格可待讨论。下列候选衔接现有供货选型与百科试配方案，样品需在您的实际配方中评价。':'Start with the product format and problem; the ingredient specification can be undecided. These candidates connect our material selection to existing formulation trial concepts. Evaluate samples in your actual formula.'}</p>
+<div class="grid md:grid-cols-2 gap-5 mt-6">{tasks[industry].map(([id,planId,formIndex,en,cn])=>{
+ const sale=extractSales.find(s=>s.id===id)!; const plan=getIngredientReaderPack(id)!.plans.find(p=>p.id===planId)!;
+ const form=sale.forms[formIndex].form[lang]; const problem=zh?cn:en;
+ const context={product:sale.name[lang],application:plan.title[lang],form,plan:plan.title[lang],problem,source:industry};
+ const inquiry=(request:string)=>local('/request-quote')+'?'+new URLSearchParams({request,...context}).toString();
+ return <article class="rounded-xl bg-white p-6 border border-gray-200" data-application-task={planId}>
+ <h3 class="text-xl font-semibold">{problem}</h3><p class="mt-3 font-medium">{sale.name[lang]} · {form}</p><p class="mt-2 text-gray-700">{taskRationale[planId]?.[lang] || sale.application[lang]}</p>
+ <div class="flex flex-col items-start gap-3 mt-5"><a class="text-primary underline" href={local(`/products/${id}`)}>{zh?'查看供货形态与规格':'View supply forms and specifications'} →</a>
+ <a data-task-science class="text-primary underline" href={local(`/plant-extracts/ingredients/${id}`)+'#formulation-'+planId}>{plan.title[lang]} · {zh?'配伍与试验':'formulation and testing'} →</a>
+ <a data-task-sample class="text-primary underline font-semibold" href={inquiry('sample')}>{zh?'讨论匹配原料样品':'Discuss matching ingredient samples'} →</a>
+ <a data-task-application class="text-primary underline" href={inquiry('application')}>{zh?'规格未定，提交应用需求':'No specification yet? Discuss this application'} →</a></div>
+ </article>;
+})}</div>
+<p class="mt-5 text-sm text-gray-600">{zh?'此处承接原料与应用需求；成品研发、试验和制造的执行方及范围须另行约定。':'This pathway covers ingredient and application needs. Finished-product development, testing and manufacturing executors and scope require separate agreement.'}</p>
+{industry==='beverages'&&<a class="inline-block mt-4 underline text-primary" href={local('/odm#concept-development')}>{zh?'需要梳理饮品概念？':'Need to develop a beverage concept?'} →</a>}
+</div></section>

@@ -8,6 +8,6 @@ test('gold action buttons use dark text for readable contrast',()=>{
 test('mobile hero keeps equal-width CTAs and compact vertical spacing',()=>{
  const source=readFileSync('src/components/home/Hero.astro','utf8');
  assert.ok(source.includes('py-12 md:py-24'));
- assert.ok(source.includes('flex-col sm:flex-row'));
- assert.ok(source.includes('w-full sm:w-auto'));
+ assert.ok(source.includes('grid sm:grid-cols-2 gap-4'));
+ assert.ok(source.includes('data-buyer-task'));
 });
