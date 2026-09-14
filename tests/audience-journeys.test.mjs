@@ -16,7 +16,8 @@ test('application pages link terminal problems to specific science and sample co
     if(industry==='cosmetics') {
       const cards=html.split('data-application-task=');
       const bodies=cards.slice(1).map(c=>c.match(/<p class="mt-2 text-gray-700">(.*?)<\/p>/)?.[1]);
-      assert.equal(new Set(bodies).size,3,'each skincare format needs its own practical explanation');
+      assert.equal(bodies.length,4,'three Centella formats plus the glabridin emulsion');
+      assert.equal(new Set(bodies).size,bodies.length,'each skincare format needs its own practical explanation');
     }
   }
 });
