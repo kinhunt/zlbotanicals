@@ -1,0 +1,54 @@
+{
+  "status": "Editorial plan only; no images generated, repository changes or publication",
+  "source_ledger": "citations.json",
+  "original_exhibit_spec_read": "/data/hermes/research/market-research-visuals/editorial-design.md",
+  "recommended_exhibit_count": 3,
+  "original_four_exhibits": [
+    {"original": 1, "subject": "Global supplement estimate and forecast", "decision": "Keep compact endpoint bars after lead", "change": "Solid tonal fills for both bars; explicit Estimate and Forecast text. Do not interpolate annual observations."},
+    {"original": 2, "subject": "Four separate 2025 share views", "decision": "Remove standalone graphic", "change": "Retain capsule/pharmacy shares in format paragraph and North America in regional paragraph. Remove reishi share from v3 rather than add a separate species detour."},
+    {"original": 3, "subject": "Overall, powder and online CAGR comparison", "decision": "Remove standalone graphic; merge message into concise format/channel prose", "change": "Avoid a ranking of overlapping segment dimensions. Retain scoped powder and online forecast rates in prose."},
+    {"original": 4, "subject": "Five Amazon examples", "decision": "Replace with seven-brand official-source HTML matrix", "change": "Four new brand names relative to old sample: Four Sigmatic, RYZE, Om, Odyssey; retain Real Mushrooms, FreshCap, Host Defense with new official examples. Remove ASINs, prices and ranking cues."}
+  ],
+  "exhibits": [
+    {
+      "id": "global-outlook", "source_id": 1, "type": "horizontal endpoint bars", "zero_baseline": true,
+      "unit": "USD billion", "period": "2026–2031", "scope": "Global finished mushroom supplements, publisher model",
+      "data": [{"year": 2026, "status": "estimate", "value": 5.83, "zh_yi_usd": 58.3}, {"year": 2031, "status": "forecast", "value": 8.83, "zh_yi_usd": 88.3}],
+      "cagr_percent": 8.66,
+      "dates": {"page_updated": "2026-09-11", "estimation_data_as_of": "2026-01", "retrieved": "2026-09-15"}
+    },
+    {
+      "id": "us-channel-growth", "source_id": 2, "type": "two horizontal sales bars with independent YoY text badges", "zero_baseline": true,
+      "placement": "Replace the visible channel table as the primary exhibit; keep one accessible equivalent, not duplicate visible data blocks",
+      "title_en": "2024 U.S. tracked mushrooms (other) supplement sales: mainstream grows faster, natural expanded remains larger",
+      "title_zh": "2024年美国跟踪渠道其他蘑菇补充剂销售：主流增长更快，自然扩展渠道规模更大",
+      "unit": "USD million", "data": [
+        {"channel": "Mainstream", "value": 15.70, "precision": "approximately, source prose", "yoy_percent": 75.8, "zh_wan_usd": 1570},
+        {"channel": "Natural expanded", "value": 27.550554, "display_value": 27.55, "yoy_percent": 14.4, "zh_wan_usd_display": 2755}
+      ],
+      "period": "52 weeks ending 2024-12-31",
+      "caption_scope": "SPINS mushrooms (other) supplement category; separately tracked reishi, chaga and cordyceps excluded; no conventional food/drink or ingredient revenue. Natural expanded excludes Whole Foods and Trader Joe’s. YoY uses report-revised 2023 data.",
+      "do_not": ["Back-calculate and plot 2023 values as observed data", "Add the channels into a US total", "Use growth percentage as the dollar bar length", "Plot cognitive positioning as a third mutually exclusive channel"],
+      "cognitive_callout_in_prose_only": {"sales_usd_million": 7.65, "yoy_percent": 114.5, "scope": "Label-classified cognitive health within the same mainstream mushrooms (other) category"}
+    },
+    {
+      "id": "brand-positioning", "type": "semantic HTML matrix, mobile cards or persistent brand identifier", "ranking": false,
+      "rows": [
+        {"brand": "Four Sigmatic", "source_ids": [5,22]}, {"brand": "RYZE", "source_ids": [6]},
+        {"brand": "Real Mushrooms", "source_ids": [7]}, {"brand": "FreshCap", "source_ids": [8]},
+        {"brand": "Host Defense", "source_ids": [9]}, {"brand": "Om Mushroom Superfood", "source_ids": [10]},
+        {"brand": "Odyssey", "source_ids": [11,15]}
+      ],
+      "columns": ["Brand/example", "Material and format", "Customer route", "Competitive implication"],
+      "date": "Official-page observations 2026-09-15; Odyssey distributor example historical 2024",
+      "omissions": ["Prices", "Market shares", "Best-brand claims", "Verified certification badges", "FreshCap conflicting extract ratios", "Om ambiguous combined 1000mg dose"]
+    }
+  ],
+  "optional_value_chain": {
+    "status": "Prompt only. If commissioned, replace the six-layer visible table rather than add another redundant exhibit; retain accessible text.",
+    "layout": "Landscape, preferably 3:2, six concise connected stages; no numbers or amounts",
+    "prompt_en": "Create a clean landscape editorial infographic on the functional mushroom value chain. Connect cultivation and harvest, extraction and standardization, quality release and cross-border supply, formulation and manufacture, brand and consumer demand, distribution and retail. Use restrained botanical green, warm neutral background, precise simple icons and short legible labels. Add a subtle reverse feedback arrow for repeat demand and supply planning. Show trade-offs through small cues for consistency, sensory performance and replenishment. No amounts, statistics, numbered steps, logos, rankings, certificates or factory ownership claims. Avoid decorative mushroom clusters and dense explanatory text.",
+    "no_generation_tool_called": true
+  },
+  "implementation_acceptance": ["One source of numeric truth for labels and accessible equivalents", "Localize USD billion to 亿美元 correctly", "Solid forecast fills with text status", "Keep brand visible at rightmost mobile columns", "Readable captions at native phone size", "Keyboard table access", "No duplicate full accessibility descriptions", "Independent numeric and visual review before any release"]
+}

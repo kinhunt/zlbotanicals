@@ -41,273 +41,134 @@
       "status": "publisher_forecast"
     }
   ],
-  "shares": [
-    {
-      "metric": "revenue_share",
-      "marketScope": "global_finished_mushroom_supplements",
-      "geography": "global",
-      "segmentationDimension": "form",
-      "category": {
-        "en": "Capsules and tablets",
-        "zh": "胶囊和片剂"
+  "channels": {
+    "id": "us-channel-growth",
+    "source_id": 2,
+    "type": "two horizontal sales bars with independent YoY text badges",
+    "zero_baseline": true,
+    "placement": "Replace the visible channel table as the primary exhibit; keep one accessible equivalent, not duplicate visible data blocks",
+    "title_en": "2024 U.S. tracked mushrooms (other) supplement sales: mainstream grows faster, natural expanded remains larger",
+    "title_zh": "2024年美国跟踪渠道其他蘑菇补充剂销售：主流增长更快，自然扩展渠道规模更大",
+    "unit": "USD million",
+    "data": [
+      {
+        "channel": "Mainstream",
+        "value": 15.7,
+        "precision": "approximately, source prose",
+        "yoy_percent": 75.8,
+        "zh_wan_usd": 1570
       },
-      "periodStart": null,
-      "periodEnd": null,
-      "unit": "percent",
-      "sourceRef": 1,
-      "publisherUpdatedAt": "2026-09-11",
-      "underlyingDataAsOf": "2026-01",
-      "reviewedAt": "2026-09-15",
-      "dataYear": 2025,
-      "value": 46.43,
-      "status": "publisher_estimate",
-      "dimension": {
-        "en": "Form",
-        "zh": "剂型"
+      {
+        "channel": "Natural expanded",
+        "value": 27.550554,
+        "display_value": 27.55,
+        "yoy_percent": 14.4,
+        "zh_wan_usd_display": 2755
       }
-    },
-    {
-      "metric": "revenue_share",
-      "marketScope": "global_finished_mushroom_supplements",
-      "geography": "global",
-      "segmentationDimension": "distribution",
-      "category": {
-        "en": "Pharmacies and drug stores",
-        "zh": "药房与药品零售店"
-      },
-      "periodStart": null,
-      "periodEnd": null,
-      "unit": "percent",
-      "sourceRef": 1,
-      "publisherUpdatedAt": "2026-09-11",
-      "underlyingDataAsOf": "2026-01",
-      "reviewedAt": "2026-09-15",
-      "dataYear": 2025,
-      "value": 36.22,
-      "status": "publisher_estimate",
-      "dimension": {
-        "en": "Distribution",
-        "zh": "渠道"
-      }
-    },
-    {
-      "metric": "revenue_share",
-      "marketScope": "global_finished_mushroom_supplements",
-      "geography": "global",
-      "segmentationDimension": "geography",
-      "category": {
-        "en": "North America",
-        "zh": "北美"
-      },
-      "periodStart": null,
-      "periodEnd": null,
-      "unit": "percent",
-      "sourceRef": 1,
-      "publisherUpdatedAt": "2026-09-11",
-      "underlyingDataAsOf": "2026-01",
-      "reviewedAt": "2026-09-15",
-      "dataYear": 2025,
-      "value": 34.57,
-      "status": "publisher_estimate",
-      "dimension": {
-        "en": "Geography",
-        "zh": "地区"
-      }
-    },
-    {
-      "metric": "revenue_share",
-      "marketScope": "global_finished_mushroom_supplements",
-      "geography": "global",
-      "segmentationDimension": "mushroom_type",
-      "category": {
-        "en": "Reishi",
-        "zh": "灵芝"
-      },
-      "periodStart": null,
-      "periodEnd": null,
-      "unit": "percent",
-      "sourceRef": 1,
-      "publisherUpdatedAt": "2026-09-11",
-      "underlyingDataAsOf": "2026-01",
-      "reviewedAt": "2026-09-15",
-      "dataYear": 2025,
-      "value": 22.81,
-      "status": "publisher_estimate",
-      "dimension": {
-        "en": "Mushroom type",
-        "zh": "菌类"
-      }
+    ],
+    "period": "52 weeks ending 2024-12-31",
+    "caption_scope": "SPINS mushrooms (other) supplement category; separately tracked reishi, chaga and cordyceps excluded; no conventional food/drink or ingredient revenue. Natural expanded excludes Whole Foods and Trader Joe’s. YoY uses report-revised 2023 data.",
+    "do_not": [
+      "Back-calculate and plot 2023 values as observed data",
+      "Add the channels into a US total",
+      "Use growth percentage as the dollar bar length",
+      "Plot cognitive positioning as a third mutually exclusive channel"
+    ],
+    "cognitive_callout_in_prose_only": {
+      "sales_usd_million": 7.65,
+      "yoy_percent": 114.5,
+      "scope": "Label-classified cognitive health within the same mainstream mushrooms (other) category"
     }
-  ],
-  "growth": [
-    {
-      "metric": "CAGR",
-      "marketScope": "global_finished_mushroom_supplements",
-      "geography": "global",
-      "segmentationDimension": "market",
-      "category": {
-        "en": "All mushroom supplements",
-        "zh": "全部蘑菇补充剂"
-      },
-      "periodStart": 2026,
-      "periodEnd": 2031,
-      "unit": "percent",
-      "sourceRef": 1,
-      "publisherUpdatedAt": "2026-09-11",
-      "underlyingDataAsOf": "2026-01",
-      "reviewedAt": "2026-09-15",
-      "dataYear": null,
-      "value": 8.66,
-      "status": "publisher_forecast",
-      "dimension": {
-        "en": "Market baseline",
-        "zh": "整体基准"
-      }
-    },
-    {
-      "metric": "CAGR",
-      "marketScope": "global_finished_mushroom_supplements",
-      "geography": "global",
-      "segmentationDimension": "form",
-      "category": {
-        "en": "Powder",
-        "zh": "粉剂"
-      },
-      "periodStart": 2026,
-      "periodEnd": 2031,
-      "unit": "percent",
-      "sourceRef": 1,
-      "publisherUpdatedAt": "2026-09-11",
-      "underlyingDataAsOf": "2026-01",
-      "reviewedAt": "2026-09-15",
-      "dataYear": null,
-      "value": 9.78,
-      "status": "publisher_forecast",
-      "dimension": {
-        "en": "Form segment",
-        "zh": "剂型细分"
-      }
-    },
-    {
-      "metric": "CAGR",
-      "marketScope": "global_finished_mushroom_supplements",
-      "geography": "global",
-      "segmentationDimension": "distribution",
-      "category": {
-        "en": "Online retail",
-        "zh": "线上零售"
-      },
-      "periodStart": 2026,
-      "periodEnd": 2031,
-      "unit": "percent",
-      "sourceRef": 1,
-      "publisherUpdatedAt": "2026-09-11",
-      "underlyingDataAsOf": "2026-01",
-      "reviewedAt": "2026-09-15",
-      "dataYear": null,
-      "value": 10.69,
-      "status": "publisher_forecast",
-      "dimension": {
-        "en": "Channel segment",
-        "zh": "渠道细分"
-      }
-    }
-  ],
-  "products": [
-    {
-      "name": "Real Mushrooms Red Reishi",
-      "asin": "B07D32VNLP",
-      "en": [
-        "Capsules, 90 count",
-        "Single reishi",
-        "Fruiting-body extract",
-        ">25% beta-glucans claim"
+  },
+  "brands": {
+    "en": [
+      [
+        "**Four Sigmatic** — Target assortment",
+        "Coffee plus Focus, Calm and Memory capsules; Focus combines lion’s mane, L-theanine and vitamin B12.[5]",
+        "Target assortment; a Focus instant-coffee listing at Whole Foods.[22]",
+        "One brand can serve both a daily beverage task and a supplement task."
       ],
-      "zh": [
-        "90粒胶囊",
-        "单一灵芝",
-        "子实体提取物",
-        "声称β-葡聚糖>25%"
+      [
+        "**RYZE** — Mushroom Coffee",
+        "SUPER6 blend with coffee; energy, focus and gut-health positioning.[6]",
+        "Brand website, with direct consumer shipping described.[6]",
+        "The blend supports a repeatable drinking ritual rather than a single-species identity."
       ],
-      "status": "listing_observation",
-      "observedAt": "2026-09-15",
-      "sourceRef": 3
-    },
-    {
-      "name": "FreshCap Ultimate Mushroom Complex",
-      "asin": "B07NY3WR4L",
-      "en": [
-        "Capsules, 120 count",
-        "Six-mushroom blend",
-        "Mushroom extracts",
-        "Multi-mushroom extract formulation"
+      [
+        "**Real Mushrooms** — Lion’s Mane Capsules",
+        "Fruiting-body, hot-water extract; the brand states more than 30% beta-glucans.[7]",
+        "Brand webshop.[7]",
+        "Material identity and stated constituent content become visible product differentiators."
       ],
-      "zh": [
-        "120粒胶囊",
-        "六菌复配",
-        "蘑菇提取物",
-        "多菌提取物配方"
+      [
+        "**FreshCap** — Ultimate Mushroom Complex Powder",
+        "Multi-mushroom extract powder; ingredient panel lists a six-mushroom blend and standardized beta-glucan content.[8]",
+        "Direct sales and automatic-delivery subscription.[8]",
+        "Convenience and material detail combine with replenishment marketing."
       ],
-      "status": "listing_observation",
-      "observedAt": "2026-09-15",
-      "sourceRef": 4
-    },
-    {
-      "name": "Host Defense MyCommunity",
-      "asin": "B002WJ1BZK",
-      "en": [
-        "Capsules, 120 count",
-        "17-species formula",
-        "Mycelium grown on brown rice; fermented rice substrate described",
-        "Mycelium and substrate identity"
+      [
+        "**Host Defense** — Lion’s Mane Capsules",
+        "Explicit “Powered by Mushroom Mycelium” positioning.[9]",
+        "Brand webshop, including subscription on larger sizes.[9]",
+        "A mycelium proposition competes on a different material narrative from fruiting-body-only extracts."
       ],
-      "zh": [
-        "120粒胶囊",
-        "17菌配方",
-        "糙米培养菌丝；文案提及发酵糙米基质",
-        "菌丝与基质说明"
+      [
+        "**Om Mushroom Superfood** — Master Blend Gummies",
+        "Ten mushrooms plus KSM-66 ashwagandha; the brand describes a full-spectrum approach using mycelium, primordia and/or fruit bodies.[10]",
+        "Brand webshop.[10]",
+        "Chewable convenience and a multi-ingredient wellness proposition broaden the format choice."
       ],
-      "status": "listing_observation",
-      "observedAt": "2026-09-15",
-      "sourceRef": 5
-    },
-    {
-      "name": "Horbäach Reishi",
-      "asin": "B08LP6CZQR",
-      "en": [
-        "Liquid drops",
-        "Single reishi",
-        "Liquid extract",
-        "Alcohol-free claim"
+      [
+        "**Odyssey** — Functional Energy",
+        "Ready-to-drink lion’s mane and cordyceps combinations; distinct caffeine lines.[11]",
+        "Brand webshop; historical trade reporting describes natural retail, direct-store delivery and wholesale distribution.[15]",
+        "The product competes as an energy drink, making distribution and inventory execution central."
+      ]
+    ],
+    "zh": [
+      [
+        "**Four Sigmatic**：Target产品组合",
+        "咖啡与Focus、Calm、Memory胶囊；Focus结合猴头菇、茶氨酸和维生素B12。[5]",
+        "Target产品组合；Whole Foods也有Focus速溶咖啡商品页。[22]",
+        "同一品牌分别服务日常饮用和营养补充任务。"
       ],
-      "zh": [
-        "液体滴剂",
-        "单一灵芝",
-        "液体提取物",
-        "声称无酒精"
+      [
+        "**RYZE**：Mushroom Coffee",
+        "SUPER6混合物搭配咖啡，以能量、专注和肠道健康构建定位。[6]",
+        "官网销售，介绍直接发货给消费者的方式。[6]",
+        "以重复饮用习惯承载混合配方，而非突出单一菌种。"
       ],
-      "status": "listing_observation",
-      "observedAt": "2026-09-15",
-      "sourceRef": 6
-    },
-    {
-      "name": "Micro Ingredients Red Reishi",
-      "asin": "B01JNNAQVW",
-      "en": [
-        "Powder",
-        "Single reishi",
-        "Reishi extract powder",
-        "100:1 extract claim"
+      [
+        "**Real Mushrooms**：猴头菇胶囊",
+        "子实体热水提取物，品牌标示β-葡聚糖超过30%。[7]",
+        "品牌官网商店。[7]",
+        "材料身份与成分含量直接成为产品卖点。"
       ],
-      "zh": [
-        "粉剂",
-        "单一灵芝",
-        "灵芝提取粉",
-        "声称100:1提取物"
+      [
+        "**FreshCap**：Ultimate Mushroom Complex粉末",
+        "多菌提取粉，配料栏列出六菌混合物及标准化β-葡聚糖含量。[8]",
+        "官网直销及自动配送订阅。[8]",
+        "将使用便利、材料信息与定期补货结合。"
       ],
-      "status": "listing_observation",
-      "observedAt": "2026-09-15",
-      "sourceRef": 7
-    }
-  ]
+      [
+        "**Host Defense**：猴头菇胶囊",
+        "明确采用“Powered by Mushroom Mycelium”菌丝体定位。[9]",
+        "官网商店，较大瓶型提供订阅。[9]",
+        "菌丝体路线与仅用子实体的提取物形成不同材料叙事。"
+      ],
+      [
+        "**Om Mushroom Superfood**：Master Blend软糖",
+        "十种蘑菇与KSM-66南非醉茄；品牌介绍使用菌丝体、原基和/或子实体的全谱路线。[10]",
+        "品牌官网商店。[10]",
+        "咀嚼便利性与多成分日常健康定位拓宽形态选择。"
+      ],
+      [
+        "**Odyssey**：Functional Energy",
+        "猴头菇与虫草即饮复配，设置不同咖啡因系列。[11]",
+        "官网销售；历史行业报道介绍自然零售、门店直配及批发分销。[15]",
+        "以能量饮料身份竞争，分销和库存执行成为关键。"
+      ]
+    ]
+  },
+  "brandSourceDate": "2026-09-15"
 }

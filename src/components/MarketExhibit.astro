@@ -1,47 +1,27 @@
 ---
 import data from '../data/market-exhibits.json';
-const { lang, number } = Astro.props as {lang: 'en'|'zh'; number:number};
-const zh=lang==='zh';
-const share=number===2;
-const growth=number===3;
-const segmented=share||growth;
-const rows=share?data.shares:growth?data.growth:data.size;
-const heading=growth?(zh?'粉剂与线上零售的预测增速高于整体补充剂市场':'Powders and online retail outpace the overall supplement forecast'):share?(zh?'2025年收入份额：四个独立分类视角':'2025 revenue shares across four separate segmentation views'):zh?'蘑菇补充剂：2026年估计58.3亿美元，2031年预测88.3亿美元':'Mushroom supplements: USD 5.83bn estimated in 2026, USD 8.83bn forecast for 2031';
-const note=growth?(zh?'2026—2031年预测复合年增长率。剂型与渠道属于不同分类维度，不能相加；此图比较增长率，而非份额或增长贡献。':'Forecast CAGR, 2026–2031. Form and channel are different segmentation dimensions, not additive categories. This compares growth rates, not shares or growth contributions.'):share?(zh?'出版商估计的2025年全球蘑菇补充剂收入份额。各面板是不同分类视角，类别之间可能重叠，不能相加。':'Publisher-estimated shares of global mushroom supplement revenue in 2025. Each panel uses a separate classification; categories overlap across panels and must not be added.'):zh?'全球成品蘑菇补充剂，出版商估值，不代表整个功能性蘑菇市场总额。2026—2031年预测CAGR 8.66%。':'Global finished mushroom supplements. Publisher estimates, not a valuation of the entire functional mushrooms market. 8.66% forecast CAGR, 2026–2031.';
-const unit=segmented?'%':zh?'亿美元':'USD billion';
-const value=(row:typeof rows[number])=>!segmented&&zh?(row.value*10).toFixed(1):row.value.toFixed(2);
-const label=(row:typeof rows[number])=>segmented?`${'dimension' in row ? row.dimension[lang] : ''} · ${row.category[lang]}`:`${row.dataYear} · ${row.status==='publisher_estimate'?(zh?'估计':'Estimate'):(zh?'预测':'Forecast')}`;
+const {lang,number}=Astro.props as {lang:'en'|'zh';number:number};
+const zh=lang==='zh', channel=number===2;
+const id=channel?'us-channel-growth':'exhibit-1';
+const rows=channel?data.channels.data.map((r,i)=>({value:r.value,label:zh?['主流零售','自然产品扩展渠道'][i]:r.channel,display:zh?`${i?'':'约'}${Math.round(r.value*100).toLocaleString('en-US')}`:`${i?'':'≈ '}${r.value.toFixed(2)}`,yoy:r.yoy_percent})):data.size.map(r=>({value:r.value,label:`${r.dataYear} · ${r.status==='publisher_estimate'?(zh?'估计':'Estimate'):(zh?'预测':'Forecast')}`,display:zh?(r.value*10).toFixed(1):r.value.toFixed(2),yoy:null}));
+const unit=channel?(zh?'万美元':'USD million'):(zh?'亿美元':'USD billion');
+const heading=channel?(zh?'2024年美国“其他蘑菇”补充剂：跟踪渠道零售额':'2024 U.S. “mushrooms (other)” supplements: tracked channel sales'):(zh?'全球蘑菇补充剂：估计与预测':'Global mushroom supplements: estimate and forecast');
 ---
-<figure id={`exhibit-${number}`} class="exhibit">
-  <figcaption><span class="eyebrow">{zh?'图表':'Exhibit'} {number}</span><h3>{heading}</h3><p>{note}</p></figcaption>
-  <div class:list={["bars", {"share-grid":share}]}>
-    {rows.map((row,i)=><div class="bar-row" data-value={row.value}>
-      <div class="bar-label"><span>{label(row)}</span><strong>{value(row)}{segmented?"%":""}</strong></div>
-      <svg viewBox="0 0 1000 36" role="img" aria-labelledby={`e${number}-title-${i} e${number}-desc-${i}`} preserveAspectRatio="none">
-        <title id={`e${number}-title-${i}`}>{label(row)}: {value(row)} {unit}</title>
-        <desc id={`e${number}-desc-${i}`}>{note}</desc>
-        <rect x="0" y="2" width={row.value/(share?100:growth?12:10)*1000} height="32" fill={!segmented&&i===1?'white':growth&&i===0?'#52665e':'#1b4d3e'} stroke="#1b4d3e" stroke-width="3" />
-      </svg>
-      {share && <div class="axis" aria-hidden="true"><span>0%</span><span>100%</span></div>}
-    </div>)}
-    {!share && <div class="axis" aria-hidden="true">{(growth?[0,2,4,6,8,10,12]:[0,2,4,6,8,10]).map(n=><span>{!segmented&&zh?n*10:n}</span>)}</div>}
-    <p class="unit">{unit}</p>
-  </div>
-  <div class="market-table compact" role="region" aria-labelledby={`e${number}-table`} tabindex="0"><table>
-    <caption id={`e${number}-table`}>{segmented?(zh?(growth?'2026—2031年预测CAGR数据':'2025年份额数据 · 全球补充剂收入'):(growth?'2026–2031 forecast CAGR data':'2025 share data · global supplement revenue')):(zh?'补充剂估值与预测数据':'Supplement estimate and forecast data')}</caption>
-    <thead><tr><th scope="col">{segmented?(zh?'分类 · 类别':'Dimension · Category'):(zh?'年份 · 状态':'Year · Status')}</th><th scope="col">{unit}</th></tr></thead>
-    <tbody>{rows.map(row=><tr><th scope="row">{label(row)}</th><td>{value(row)}</td></tr>)}</tbody>
-  </table></div>
-  <p class="source">{zh?'来源：':'Source: '}<a href="#market-ref-1">Mordor Intelligence [1]</a> · {zh?'页面更新':'Updated'} {rows[0].publisherUpdatedAt} · {zh?'数据与信息截至':'Data and insights as of'} {rows[0].underlyingDataAsOf} · {zh?'保存资料复核':'Saved-source review'} {rows[0].reviewedAt}</p>
+{channel && <span id="exhibit-2" class="anchor-alias" aria-hidden="true"></span>}
+<figure id={id} class="exhibit">
+ <figcaption><span class="eyebrow">{zh?'图表':'Exhibit'}{' '}{number}</span><h3>{heading}</h3><p>{channel?(zh?'主流增长更快，自然产品扩展渠道规模更大。':'Mainstream grows faster; natural expanded remains larger.'):(zh?'全球成品蘑菇补充剂收入；2026—2031年预测CAGR为8.66%。':'Global finished mushroom supplement revenue; 8.66% forecast CAGR, 2026–2031.')}</p></figcaption>
+ <p class="unit">{unit}</p>
+ <div class="bars">{rows.map((r,i)=><div class="bar-row" data-value={r.value}>
+  <div class="bar-label"><span>{r.label}</span><strong>{r.display}</strong></div>
+  <svg viewBox="0 0 1000 36" aria-hidden="true" focusable="false" preserveAspectRatio="none"><rect x="0" y="2" width={r.value/(channel?30:10)*1000} height="32" fill={i?'#52665e':'#1b4d3e'} /></svg>
+  {channel && <p class="yoy">{zh?'同比':'YoY'} <strong>+{r.yoy}%</strong></p>}
+ </div>)}<div class="axis" aria-hidden="true">{(channel?[0,10,20,30]:[0,2,4,6,8,10]).map(n=><span>{zh?n*(channel?100:10):n}</span>)}</div></div>
+ <details><summary>{zh?'查看完整数据表':'View full data table'}</summary><div class="market-table compact" role="region" aria-labelledby={`${id}-table`} tabindex="0"><table>
+ <caption id={`${id}-table`}>{heading}</caption><thead><tr><th scope="col">{channel?(zh?'渠道':'Channel'):(zh?'年份 · 状态':'Year · Status')}</th><th scope="col">{unit}</th>{channel&&<th scope="col">{zh?'同比':'YoY'}</th>}</tr></thead>
+ <tbody>{rows.map(r=><tr><th scope="row">{r.label}</th><td>{r.display}</td>{channel&&<td>+{r.yoy}%</td>}</tr>)}</tbody>
+ </table></div></details>
+ {channel?<p class="source">{zh?'来源：':'Source: '}<a href="#market-v3-ref-2">ABC / SPINS [2]</a> · HerbalGram 144 (2025). {zh?'截至':'52 weeks ending'}{' '}<time datetime="2024-12-31">{zh?'2024年12月31日':'2024-12-31'}</time>{zh?'的52周。类别含猴头菇等未单列成分，灵芝、白桦茸、虫草另行追踪；仅补充剂，不含普通食品饮料或原料交易。自然产品扩展渠道不含Whole Foods Market和Trader Joe’s；同比采用报告修订后的2023年数据。':'. Includes lion’s mane and other ingredients not reported individually; reishi, chaga and cordyceps are tracked separately. Supplements only, excluding conventional food/drink and ingredient transactions. Natural expanded excludes Whole Foods Market and Trader Joe’s; YoY uses report-revised 2023 data.'}</p>:<p class="source">{zh?'来源：':'Source: '}<a href="#market-v3-ref-1">Mordor Intelligence [1]</a> · {zh?'出版商估计与预测。更新':'Publisher estimates and forecasts. Updated'}{' '}<time datetime="2026-09-11">2026-09-11</time> · {zh?'数据与洞察截至':'Data and insights as of'}{' '}<time datetime="2026-01">2026-01</time> · {zh?'来源截止':'Source cut-off'}{' '}<time datetime="2026-09-15">2026-09-15</time></p>}
 </figure>
 <style>
-.exhibit{margin:2rem 0;padding:1.5rem;border:1px solid #cbd5e1;background:#fafbf9;color:#1f2937;font-variant-numeric:tabular-nums;}
-.eyebrow{font-size:.875rem;font-weight:700;color:#1b4d3e;text-transform:uppercase;letter-spacing:.07em;}
-.exhibit h3{margin:.5rem 0 1rem;font-size:1.35rem;line-height:1.4;}.exhibit p{font-size:.9375rem;line-height:1.65;margin:.75rem 0;}
-.share-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.5rem;}.share-grid .bar-label{min-height:3.3em;}
-.bars{margin:1.5rem 0;}.bar-row{margin-bottom:1.25rem;}.bar-label{display:flex;justify-content:space-between;gap:1rem;font-size:1rem;margin-bottom:.5rem;}.bar-label strong{white-space:nowrap;}
-svg{display:block;width:100%;height:28px;overflow:visible;}.axis{display:flex;justify-content:space-between;border-top:1px solid #64748b;padding-top:.4rem;font-size:.875rem;}.unit{text-align:right;}
-.exhibit .source{font-size:.8125rem;color:#475569;}.exhibit :global(table){min-width:0;width:100%;}.exhibit :global(caption){text-align:left;font-weight:600;padding:.75rem;font-size:.875rem;color:#1f2937;}
-@media(max-width:600px){.share-grid{grid-template-columns:1fr;gap:0;}.share-grid .bar-label{min-height:0;}.exhibit{padding:1rem;margin:1.5rem 0;}.exhibit h3{font-size:1.2rem;}}
-@media print{.exhibit{break-inside:avoid;background:white;}.exhibit .market-table{overflow:visible;}}
+.exhibit{margin:2rem 0;padding:1.5rem;border:1px solid #cbd5e1;background:#fafbf9;color:#1f2937;font-variant-numeric:tabular-nums}.eyebrow{font-size:14px;font-weight:700;color:#1b4d3e;text-transform:uppercase;letter-spacing:.07em}.exhibit h3{margin:.5rem 0 1rem;font-size:1.35rem;line-height:1.4}.exhibit p{font-size:15px;line-height:1.65;margin:.75rem 0}.bars{margin:1rem 0}.bar-row{margin-bottom:1.1rem}.bar-label{display:flex;justify-content:space-between;gap:1rem;font-size:16px;margin-bottom:.5rem}.bar-label strong,time{white-space:nowrap}.unit{text-align:right}.exhibit .yoy{font-size:14px;margin:.25rem 0}.exhibit .source{font-size:14px;color:#475569}svg{display:block;width:100%;height:26px}.axis{display:flex;justify-content:space-between;border-top:1px solid #64748b;padding-top:.4rem;font-size:14px}.exhibit :global(table){min-width:0;width:100%}.exhibit :global(th),.exhibit :global(td){padding:8px;font-size:14px}.exhibit :global(caption){font-size:14px}summary{cursor:pointer;font-size:14px;font-weight:600}summary:focus-visible{outline:3px solid #1b4d3e}@media(max-width:600px){.exhibit{padding:1rem;margin:1.5rem 0}.exhibit h3{font-size:1.2rem}.bar-label{flex-wrap:wrap;gap:.25rem 1rem}.exhibit :global(.compact th:first-child){width:auto}}@media print{.exhibit{break-inside:avoid;background:white}}
 </style>
