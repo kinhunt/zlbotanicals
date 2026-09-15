@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFileSync, existsSync} from 'node:fs';
 const read = p => readFileSync(new URL(`../dist/${p}/index.html`, import.meta.url), 'utf8');
-for (const [prefix, title] of [['', 'Functional Mushroom Market: Size, Growth Segments and Brand Positioning'], ['zh/', '功能性蘑菇市场：规模、增长细分与品牌定位']]) {
+for (const [prefix, title] of [['', 'Functional Mushrooms Market: Supplements, Extracts and Growth'], ['zh/', '功能性蘑菇市场：补充剂、提取物与增长趋势']]) {
   test(`${prefix || 'en'} market article has a distinct, discoverable, attributed reading journey`, () => {
     const path = `${prefix}research/market/functional-mushrooms`;
     assert.ok(existsSync(new URL(`../dist/${path}/index.html`, import.meta.url)), 'new market article route exists');
@@ -28,8 +28,8 @@ for (const [prefix, title] of [['', 'Functional Mushroom Market: Size, Growth Se
     assert.match(article, /https:\/\/www.mordorintelligence.com\/industry-reports\/mushroom-supplements-market/);
     assert.match(article, /https:\/\/www.amazon.com\/dp\/B07D32VNLP\?th=1/);
     for (const target of ['products/reishi-mushroom','plant-extracts/ingredients/reishi-mushroom']) assert.ok(article.includes(`href="/${prefix}${target}"`));
-    assert.equal((article.match(/role="region"/g)||[]).length, 2);
-    assert.equal((article.match(/tabindex="0"/g)||[]).length, 2);
+    assert.equal((article.match(/role="region"/g)||[]).length, 5);
+    assert.equal((article.match(/tabindex="0"/g)||[]).length, 5);
     assert.ok(read(`${prefix}research`).includes(`href="/${path}"`), 'market entry links article');
     const legacy = read(`${prefix}resources/blog/functional-mushroom-market-2026`);
     assert.match(legacy, prefix ? /采购|质量/ : /Sourcing|Quality|quality/);

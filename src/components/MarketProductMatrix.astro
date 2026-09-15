@@ -1,0 +1,21 @@
+---
+import {products} from '../data/market-exhibits.json';
+const {lang}=Astro.props as {lang:'en'|'zh'};
+const zh=lang==='zh';
+const columns=zh?['商品 / ASIN','成品形态','配方范围','页面描述的材料','页面定位声明']:['Product / ASIN','Finished format','Formula scope','Material described','Positioning statement'];
+---
+<figure id="exhibit-4" class="product-exhibit">
+ <figcaption><span>{zh?'图表':'Exhibit'} 4</span><h3>{zh?'五个商品实例：所用材料与成品形态':'Five product examples: material identity and finished format'}</h3></figcaption>
+ <p class="table-hint">{zh?'横向滚动查看其余列；也可聚焦表格后按方向键。':'Scroll horizontally for remaining columns, or focus the table and use arrow keys.'}</p>
+ <div class="market-table product-matrix" role="region" aria-labelledby="products-caption" tabindex="0"><table>
+ <caption id="products-caption">{zh?'Amazon.com商品材料与形态对照':'Amazon.com material and format comparison'}</caption>
+ <thead><tr>{columns.map(c=><th scope="col">{c}</th>)}</tr></thead>
+ <tbody>{products.map(p=><tr><th scope="row">{p.name}<br/><a href={`#market-ref-${p.sourceRef}`} aria-label={`${zh?'来源':'Source'} ${p.sourceRef}`}>{p.asin} [{p.sourceRef}]</a></th>{p[lang].map(c=><td>{c}</td>)}</tr>)}</tbody>
+ </table></div>
+ <p class="matrix-source">{zh?'2026年9月15日采集的Amazon.com商品页面描述。五个蘑菇商品仅作实例，不是代表性销售样本或品牌排名。声明来自商品页面，未经独立验证；不据此推断价格、销量或美国配送情况。':'Amazon.com listing descriptions captured September 15, 2026. Five illustrative mushroom products, not a representative sales sample or brand ranking. Claims are attributed to the listings, not independently verified. No prices, sales or U.S. delivery availability are inferred.'}</p>
+</figure>
+<style>
+.product-exhibit{margin:2rem 0;}.product-exhibit figcaption>span{font-size:.875rem;font-weight:700;color:#1b4d3e;text-transform:uppercase;letter-spacing:.07em;}.product-exhibit h3{font-size:1.35rem;margin:.5rem 0 1rem;}.product-exhibit :global(table){width:100%;min-width:780px;table-layout:fixed;}.product-exhibit :global(caption){text-align:left;padding:.75rem;font-size:.875rem;font-weight:600;}.product-exhibit :global(th),.product-exhibit :global(td){padding:12px 10px;}.matrix-source{color:#475569;font-size:.875rem;line-height:1.65;}
+@media(min-width:850px){.table-hint{display:none;}}
+@media print{.table-hint{display:none;}.product-exhibit :global(.market-table){overflow:visible;}.product-exhibit :global(table){min-width:0;font-size:10px;}}
+</style>

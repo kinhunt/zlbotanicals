@@ -1,0 +1,313 @@
+{
+  "size": [
+    {
+      "metric": "revenue",
+      "marketScope": "global_finished_mushroom_supplements",
+      "geography": "global",
+      "segmentationDimension": "market",
+      "category": {
+        "en": "All mushroom supplements",
+        "zh": "全部蘑菇补充剂"
+      },
+      "periodStart": null,
+      "periodEnd": null,
+      "unit": "USD_billion",
+      "sourceRef": 1,
+      "publisherUpdatedAt": "2026-09-11",
+      "underlyingDataAsOf": "2026-01",
+      "reviewedAt": "2026-09-15",
+      "dataYear": 2026,
+      "value": 5.83,
+      "status": "publisher_estimate"
+    },
+    {
+      "metric": "revenue",
+      "marketScope": "global_finished_mushroom_supplements",
+      "geography": "global",
+      "segmentationDimension": "market",
+      "category": {
+        "en": "All mushroom supplements",
+        "zh": "全部蘑菇补充剂"
+      },
+      "periodStart": null,
+      "periodEnd": null,
+      "unit": "USD_billion",
+      "sourceRef": 1,
+      "publisherUpdatedAt": "2026-09-11",
+      "underlyingDataAsOf": "2026-01",
+      "reviewedAt": "2026-09-15",
+      "dataYear": 2031,
+      "value": 8.83,
+      "status": "publisher_forecast"
+    }
+  ],
+  "shares": [
+    {
+      "metric": "revenue_share",
+      "marketScope": "global_finished_mushroom_supplements",
+      "geography": "global",
+      "segmentationDimension": "form",
+      "category": {
+        "en": "Capsules and tablets",
+        "zh": "胶囊和片剂"
+      },
+      "periodStart": null,
+      "periodEnd": null,
+      "unit": "percent",
+      "sourceRef": 1,
+      "publisherUpdatedAt": "2026-09-11",
+      "underlyingDataAsOf": "2026-01",
+      "reviewedAt": "2026-09-15",
+      "dataYear": 2025,
+      "value": 46.43,
+      "status": "publisher_estimate",
+      "dimension": {
+        "en": "Form",
+        "zh": "剂型"
+      }
+    },
+    {
+      "metric": "revenue_share",
+      "marketScope": "global_finished_mushroom_supplements",
+      "geography": "global",
+      "segmentationDimension": "distribution",
+      "category": {
+        "en": "Pharmacies and drug stores",
+        "zh": "药房与药品零售店"
+      },
+      "periodStart": null,
+      "periodEnd": null,
+      "unit": "percent",
+      "sourceRef": 1,
+      "publisherUpdatedAt": "2026-09-11",
+      "underlyingDataAsOf": "2026-01",
+      "reviewedAt": "2026-09-15",
+      "dataYear": 2025,
+      "value": 36.22,
+      "status": "publisher_estimate",
+      "dimension": {
+        "en": "Distribution",
+        "zh": "渠道"
+      }
+    },
+    {
+      "metric": "revenue_share",
+      "marketScope": "global_finished_mushroom_supplements",
+      "geography": "global",
+      "segmentationDimension": "geography",
+      "category": {
+        "en": "North America",
+        "zh": "北美"
+      },
+      "periodStart": null,
+      "periodEnd": null,
+      "unit": "percent",
+      "sourceRef": 1,
+      "publisherUpdatedAt": "2026-09-11",
+      "underlyingDataAsOf": "2026-01",
+      "reviewedAt": "2026-09-15",
+      "dataYear": 2025,
+      "value": 34.57,
+      "status": "publisher_estimate",
+      "dimension": {
+        "en": "Geography",
+        "zh": "地区"
+      }
+    },
+    {
+      "metric": "revenue_share",
+      "marketScope": "global_finished_mushroom_supplements",
+      "geography": "global",
+      "segmentationDimension": "mushroom_type",
+      "category": {
+        "en": "Reishi",
+        "zh": "灵芝"
+      },
+      "periodStart": null,
+      "periodEnd": null,
+      "unit": "percent",
+      "sourceRef": 1,
+      "publisherUpdatedAt": "2026-09-11",
+      "underlyingDataAsOf": "2026-01",
+      "reviewedAt": "2026-09-15",
+      "dataYear": 2025,
+      "value": 22.81,
+      "status": "publisher_estimate",
+      "dimension": {
+        "en": "Mushroom type",
+        "zh": "菌类"
+      }
+    }
+  ],
+  "growth": [
+    {
+      "metric": "CAGR",
+      "marketScope": "global_finished_mushroom_supplements",
+      "geography": "global",
+      "segmentationDimension": "market",
+      "category": {
+        "en": "All mushroom supplements",
+        "zh": "全部蘑菇补充剂"
+      },
+      "periodStart": 2026,
+      "periodEnd": 2031,
+      "unit": "percent",
+      "sourceRef": 1,
+      "publisherUpdatedAt": "2026-09-11",
+      "underlyingDataAsOf": "2026-01",
+      "reviewedAt": "2026-09-15",
+      "dataYear": null,
+      "value": 8.66,
+      "status": "publisher_forecast",
+      "dimension": {
+        "en": "Market baseline",
+        "zh": "整体基准"
+      }
+    },
+    {
+      "metric": "CAGR",
+      "marketScope": "global_finished_mushroom_supplements",
+      "geography": "global",
+      "segmentationDimension": "form",
+      "category": {
+        "en": "Powder",
+        "zh": "粉剂"
+      },
+      "periodStart": 2026,
+      "periodEnd": 2031,
+      "unit": "percent",
+      "sourceRef": 1,
+      "publisherUpdatedAt": "2026-09-11",
+      "underlyingDataAsOf": "2026-01",
+      "reviewedAt": "2026-09-15",
+      "dataYear": null,
+      "value": 9.78,
+      "status": "publisher_forecast",
+      "dimension": {
+        "en": "Form segment",
+        "zh": "剂型细分"
+      }
+    },
+    {
+      "metric": "CAGR",
+      "marketScope": "global_finished_mushroom_supplements",
+      "geography": "global",
+      "segmentationDimension": "distribution",
+      "category": {
+        "en": "Online retail",
+        "zh": "线上零售"
+      },
+      "periodStart": 2026,
+      "periodEnd": 2031,
+      "unit": "percent",
+      "sourceRef": 1,
+      "publisherUpdatedAt": "2026-09-11",
+      "underlyingDataAsOf": "2026-01",
+      "reviewedAt": "2026-09-15",
+      "dataYear": null,
+      "value": 10.69,
+      "status": "publisher_forecast",
+      "dimension": {
+        "en": "Channel segment",
+        "zh": "渠道细分"
+      }
+    }
+  ],
+  "products": [
+    {
+      "name": "Real Mushrooms Red Reishi",
+      "asin": "B07D32VNLP",
+      "en": [
+        "Capsules, 90 count",
+        "Single reishi",
+        "Fruiting-body extract",
+        ">25% beta-glucans claim"
+      ],
+      "zh": [
+        "90粒胶囊",
+        "单一灵芝",
+        "子实体提取物",
+        "声称β-葡聚糖>25%"
+      ],
+      "status": "listing_observation",
+      "observedAt": "2026-09-15",
+      "sourceRef": 3
+    },
+    {
+      "name": "FreshCap Ultimate Mushroom Complex",
+      "asin": "B07NY3WR4L",
+      "en": [
+        "Capsules, 120 count",
+        "Six-mushroom blend",
+        "Mushroom extracts",
+        "Multi-mushroom extract formulation"
+      ],
+      "zh": [
+        "120粒胶囊",
+        "六菌复配",
+        "蘑菇提取物",
+        "多菌提取物配方"
+      ],
+      "status": "listing_observation",
+      "observedAt": "2026-09-15",
+      "sourceRef": 4
+    },
+    {
+      "name": "Host Defense MyCommunity",
+      "asin": "B002WJ1BZK",
+      "en": [
+        "Capsules, 120 count",
+        "17-species formula",
+        "Mycelium grown on brown rice; fermented rice substrate described",
+        "Mycelium and substrate identity"
+      ],
+      "zh": [
+        "120粒胶囊",
+        "17菌配方",
+        "糙米培养菌丝；文案提及发酵糙米基质",
+        "菌丝与基质说明"
+      ],
+      "status": "listing_observation",
+      "observedAt": "2026-09-15",
+      "sourceRef": 5
+    },
+    {
+      "name": "Horbäach Reishi",
+      "asin": "B08LP6CZQR",
+      "en": [
+        "Liquid drops",
+        "Single reishi",
+        "Liquid extract",
+        "Alcohol-free claim"
+      ],
+      "zh": [
+        "液体滴剂",
+        "单一灵芝",
+        "液体提取物",
+        "声称无酒精"
+      ],
+      "status": "listing_observation",
+      "observedAt": "2026-09-15",
+      "sourceRef": 6
+    },
+    {
+      "name": "Micro Ingredients Red Reishi",
+      "asin": "B01JNNAQVW",
+      "en": [
+        "Powder",
+        "Single reishi",
+        "Reishi extract powder",
+        "100:1 extract claim"
+      ],
+      "zh": [
+        "粉剂",
+        "单一灵芝",
+        "灵芝提取粉",
+        "声称100:1提取物"
+      ],
+      "status": "listing_observation",
+      "observedAt": "2026-09-15",
+      "sourceRef": 7
+    }
+  ]
+}

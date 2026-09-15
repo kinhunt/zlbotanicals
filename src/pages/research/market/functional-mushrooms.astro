@@ -1,5 +1,5 @@
 ---
 import MarketArticle from '../../../components/MarketArticle.astro';
-import { Content } from '../../../articles/functional-mushrooms.en.md';
+import content from '../../../articles/functional-mushrooms.en.md?raw';
 ---
-<MarketArticle lang="en"><Content /></MarketArticle>
+<MarketArticle lang="en" content={content} />
