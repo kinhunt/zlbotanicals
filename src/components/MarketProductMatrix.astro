@@ -1,21 +1,21 @@
 ---
-import {products} from '../data/market-exhibits.json';
+import {brands,brandSourceDate} from '../data/market-exhibits.json';
+import {createMarkdownProcessor} from '@astrojs/markdown-remark';
 const {lang}=Astro.props as {lang:'en'|'zh'};
-const zh=lang==='zh';
-const columns=zh?['商品 / ASIN','成品形态','配方范围','页面描述的材料','页面定位声明']:['Product / ASIN','Finished format','Formula scope','Material described','Positioning statement'];
+const zh=lang==='zh', processor=await createMarkdownProcessor();
+const rows=await Promise.all(brands[lang].map(async row=>Promise.all(row.map(async cell=>(await processor.render(cell.replace(/\[(\d+)\]/g,(_,n)=>`<a href="#market-v3-ref-${n}" aria-label="${zh?'来源':'Source'} ${n}">[${n}]</a>`))).code))));
+const columns=zh?['品牌与案例','材料及形态特点','触达消费者的渠道','竞争含义']:['Brand / example','Material and format','Route to the customer','Competitive implication'];
 ---
-<figure id="exhibit-4" class="product-exhibit">
- <figcaption><span>{zh?'图表':'Exhibit'} 4</span><h3>{zh?'五个商品实例：所用材料与成品形态':'Five product examples: material identity and finished format'}</h3></figcaption>
+<span id="exhibit-4" class="anchor-alias" aria-hidden="true"></span>
+<figure id="brand-positioning" class="product-exhibit">
+ <figcaption><span>{zh?'图表 3 · 品牌定位案例':'Exhibit 3 · Brand positioning examples'}</span></figcaption>
+ <div class="product-cards">{rows.map(row=><section class="product-card"><h3 set:html={row[0].replace(/^<p>|<\/p>$/g, '')} /><dl>{row.slice(1).map((cell,i)=><div><dt>{columns[i+1]}</dt><dd set:html={cell}/></div>)}</dl></section>)}</div>
  <p class="table-hint">{zh?'横向滚动查看其余列；也可聚焦表格后按方向键。':'Scroll horizontally for remaining columns, or focus the table and use arrow keys.'}</p>
- <div class="market-table product-matrix" role="region" aria-labelledby="products-caption" tabindex="0"><table>
- <caption id="products-caption">{zh?'Amazon.com商品材料与形态对照':'Amazon.com material and format comparison'}</caption>
- <thead><tr>{columns.map(c=><th scope="col">{c}</th>)}</tr></thead>
- <tbody>{products.map(p=><tr><th scope="row">{p.name}<br/><a href={`#market-ref-${p.sourceRef}`} aria-label={`${zh?'来源':'Source'} ${p.sourceRef}`}>{p.asin} [{p.sourceRef}]</a></th>{p[lang].map(c=><td>{c}</td>)}</tr>)}</tbody>
- </table></div>
- <p class="matrix-source">{zh?'2026年9月15日采集的Amazon.com商品页面描述。五个蘑菇商品仅作实例，不是代表性销售样本或品牌排名。声明来自商品页面，未经独立验证；不据此推断价格、销量或美国配送情况。':'Amazon.com listing descriptions captured September 15, 2026. Five illustrative mushroom products, not a representative sales sample or brand ranking. Claims are attributed to the listings, not independently verified. No prices, sales or U.S. delivery availability are inferred.'}</p>
+ <div class="market-table product-matrix" role="region" aria-labelledby="brands-caption" tabindex="0"><table><caption id="brands-caption">{zh?'七品牌材料、形态与渠道对照':'Seven brands: materials, formats and channels'}</caption><thead><tr>{columns.map(c=><th scope="col">{c}</th>)}</tr></thead><tbody>{rows.map(row=><tr><th scope="row" set:html={row[0]}/>{row.slice(1).map(cell=><td set:html={cell}/>)}</tr>)}</tbody></table></div>
+ <p class="matrix-source">{zh?'来源：品牌官网及零售商产品说明，资料截止':'Sources: official brand and retailer descriptions, source cut-off'} <time datetime={brandSourceDate}>{brandSourceDate}</time>{zh?'；Odyssey分销案例来自2024年行业报道。':' ; Odyssey distribution example from 2024 trade reporting.'}</p>
 </figure>
 <style>
-.product-exhibit{margin:2rem 0;}.product-exhibit figcaption>span{font-size:.875rem;font-weight:700;color:#1b4d3e;text-transform:uppercase;letter-spacing:.07em;}.product-exhibit h3{font-size:1.35rem;margin:.5rem 0 1rem;}.product-exhibit :global(table){width:100%;min-width:780px;table-layout:fixed;}.product-exhibit :global(caption){text-align:left;padding:.75rem;font-size:.875rem;font-weight:600;}.product-exhibit :global(th),.product-exhibit :global(td){padding:12px 10px;}.matrix-source{color:#475569;font-size:.875rem;line-height:1.65;}
-@media(min-width:850px){.table-hint{display:none;}}
-@media print{.table-hint{display:none;}.product-exhibit :global(.market-table){overflow:visible;}.product-exhibit :global(table){min-width:0;font-size:10px;}}
+.product-exhibit{margin:2rem 0}.product-exhibit figcaption>span{font-size:14px;font-weight:700;color:#1b4d3e}.product-exhibit :global(table){width:100%;min-width:780px;table-layout:fixed}.product-exhibit :global(caption){text-align:left;padding:.75rem;font-size:14px;font-weight:600}.product-exhibit :global(th),.product-exhibit :global(td){padding:12px 10px}.product-exhibit :global(p){margin:0}.matrix-source{color:#475569;font-size:14px;line-height:1.65}.product-cards{display:none}.product-exhibit :global(th:first-child){width:22%}.product-exhibit :global(th:nth-child(2)){width:29%}.product-exhibit :global(th:nth-child(3)){width:24%}.product-exhibit :global(th:nth-child(4)){width:25%}.product-exhibit :global(a){font-size:14px}time{white-space:nowrap}
+@media(max-width:599px){.product-matrix,.table-hint{display:none}.product-cards{display:grid;gap:1rem}.product-card{padding:1rem;border:1px solid #cbd5e1;background:#fafbf9}.product-card h3{font-size:1rem;margin:0 0 .5rem}.product-card dl{font-size:15px;margin:1rem 0 0}.product-card dl>div{margin-top:.75rem}.product-card dt{font-size:14px;color:#475569}.product-card dd{margin:0}}
+@media(min-width:850px){.table-hint{display:none}}@media print{.product-cards{display:none}.product-matrix{display:block}.table-hint{display:none}.product-exhibit :global(table){min-width:0;font-size:10px}}
 </style>

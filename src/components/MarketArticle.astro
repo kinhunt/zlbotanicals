@@ -7,7 +7,7 @@ import { getLocalizedPath, type Language } from '../i18n/config';
 import { mushroomMarket } from '../data/market-article';
 const { lang, content } = Astro.props as { lang: Language; content: string };
 const processor = await createMarkdownProcessor();
-const chunks = await Promise.all(content.split(/<!-- exhibit:(\d) -->/).map(async (part, i) => i % 2 ? { exhibit: Number(part), html: '' } : { exhibit: 0, html: (await processor.render(part)).code }));
+const chunks = await Promise.all(content.split(/<!-- exhibit:(\d) -->/).map(async (part, i) => i % 2 ? { exhibit: Number(part), html: '' } : { exhibit: 0, html: (await processor.render(part)).code.replace(/<table>/g, `<p class="table-hint">${lang === 'zh' ? '横向滚动，或聚焦表格后按方向键查看其余列。' : 'Scroll horizontally, or focus the table and use arrow keys.'}</p><div class="market-table" role="region" aria-label="${lang === 'zh' ? '价值链分析表' : 'Value-chain analysis table'}" tabindex="0"><table>`).replace(/<\/table>/g, '</table></div>') }));
 const zh = lang === 'zh';
 const copy = mushroomMarket[lang];
 const local = (path: string) => getLocalizedPath(path, lang);
@@ -30,6 +30,7 @@ const schema = {
     <article>
       <header class="mb-10">
         <h1 class="font-display text-3xl md:text-5xl font-bold leading-tight">{copy.heading}</h1>
+        <p class="mt-5 text-gray-600">{copy.description}</p>
         <p class="mt-5 text-gray-600">{zh ? '资料核查日期：' : 'Source review: '}<time datetime={mushroomMarket.date}>{zh ? '2026年9月15日' : 'September 15, 2026'}</time></p>
       </header>
       <div class="market-prose prose prose-lg max-w-none prose-headings:font-display prose-a:text-primary">{chunks.map(chunk => chunk.exhibit === 4 ? <MarketProductMatrix lang={lang} /> : chunk.exhibit ? <MarketExhibit lang={lang} number={chunk.exhibit} /> : <Fragment set:html={chunk.html} />)}</div>
@@ -46,6 +47,8 @@ const schema = {
   .market-prose :global(h3) { font-size:1.35rem; line-height:1.4; }
   .market-prose :global(p) { margin-block:1.25rem; }
   .market-prose :global(.market-toc) { padding:1rem 0; border-block:1px solid #cbd5e1; line-height:2; font-size:1rem; }
+  .market-prose :global(.market-toc a), .market-prose :global(time), .market-prose :global(.amount) { white-space:nowrap; }
+  h1 { text-wrap:balance; }
   .market-prose :global(.anchor-alias) { display:block; height:0; }
   .market-prose :global(.reishi-table table) { min-width:0; width:100%; }
   .market-prose :global(caption) { text-align:left; padding:.75rem; font-weight:600; color:#1f2937; }
@@ -57,13 +60,14 @@ const schema = {
   .market-prose :global(.market-table:focus-visible) { outline: 3px solid #1b4d3e; outline-offset: 3px; }
   .market-prose :global(table) { min-width: 740px; margin: 0; font-size: 0.875rem; line-height: 1.65; }
   .market-prose :global(.compact table) { min-width:0; width:100%; table-layout:fixed; }
-  .market-prose :global(.compact th:first-child) { width:70%; }
+  .market-prose :global(.compact th:first-child) { width:32%; }
+  .market-prose :global(.compact td.category) { text-align:left; white-space:normal; }
   .market-prose :global(.compact td) { text-align:right; white-space:nowrap; }
   .market-prose :global(.compact th), .market-prose :global(.compact td) {padding:10px;}
   .market-prose :global(th), .market-prose :global(td) { padding: 12px 16px; vertical-align: top; }
   .market-prose :global(th) { background: #f8f7f4; }
   .market-prose :global(.table-hint) { font-size: .875rem; color: #4b5563; margin-bottom: .5rem; }
-  .market-prose :global(a[href^="#market-ref-"]) { font-size: .8em; white-space: nowrap; }
-  .market-prose :global(p[id^="market-ref-"]) { font-size: .875rem; }
+  .market-prose :global(a[href^="#market-ref-"]) { font-size: inherit; }
+  .market-prose :global(p[id^="market-v3-ref-"]) { font-size: .875rem; }
   @media (max-width: 600px) { .market-reader { padding-inline: 20px; } }
 </style>

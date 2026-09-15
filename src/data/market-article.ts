@@ -1,14 +1,14 @@
 export const mushroomMarket = {
-  path: '/research/market/functional-mushrooms',
-  date: '2026-09-15',
-  en: {
-    heading: 'Functional Mushrooms Market: Supplements, Extracts and Growth',
-    title: 'Functional Mushrooms Market: Size, Formats & Outlook',
-    description: 'Explore Mordor’s mushroom supplement estimates, capsule and powder segments, five Amazon.com product examples, reishi positioning and North American context.',
+  "path": "/research/market/functional-mushrooms",
+  "date": "2026-09-15",
+  "en": {
+    "heading": "Mushroom Supplements Market Expected to Reach USD 8.83 Billion by 2031",
+    "title": "Mushroom Supplements Market Expected to Reach USD 8.83 Billion by 2031",
+    "description": "Functional mushrooms and extracts: global supplement forecasts, U.S. channel demand and supply-chain opportunities."
   },
-  zh: {
-    heading: '功能性蘑菇市场：补充剂、提取物与增长趋势',
-    title: '功能性蘑菇市场：补充剂、提取物与增长趋势',
-    description: '解读Mordor的蘑菇补充剂估值、胶囊与粉剂细分，结合五个Amazon.com商品实例，分析灵芝定位与北美区域背景。',
-  },
+  "zh": {
+    "heading": "蘑菇补充剂市场预计2031年达88.3亿美元",
+    "title": "蘑菇补充剂市场预计2031年达88.3亿美元",
+    "description": "功能性蘑菇与提取物：全球补充剂预测、美国渠道需求及供应链机会。"
+  }
 };
