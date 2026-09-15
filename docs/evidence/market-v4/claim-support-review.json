@@ -1,0 +1,548 @@
+[
+  {
+    "id": 1,
+    "url": "https://www.mordorintelligence.com/industry-reports/mushroom-supplements-market",
+    "reviewedScope": "Forecast endpoints 2026 $5.83bn / 2031 $8.83bn; 8.66%; update vs January model cutoff distinguished.",
+    "approvedQuotes": 3,
+    "completeQuoteMatches": 3,
+    "archives": [
+      {
+        "file": "evidence/source-01.txt",
+        "sha256": "f5193ef3708db0949a2ea113366abbc94589fde3e344f37785d87f3548ac436f",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-01.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 2,
+    "url": "https://umb.herbalgram.org/media/gqkbi0gy/hg144-hmr.pdf",
+    "reviewedScope": "Full archived HerbalGram text supports both channel tables, 52-week period, exclusions, category definition and cognitive-health sales. Approved short quotes alone omit context; full archive is authoritative.",
+    "approvedQuotes": 3,
+    "completeQuoteMatches": 3,
+    "archives": [
+      {
+        "file": "evidence/source-02.txt",
+        "sha256": "46caba47fbe5d71baa36f7f9ae1c2aff07bc3ba6505e3d91a41a4d1820c4db27",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-02.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 3,
+    "url": "https://www.amazon.com/s?k=reishi+extract",
+    "reviewedScope": "Search topic only: reishi extract; no ranking/market share claim.",
+    "approvedQuotes": 1,
+    "completeQuoteMatches": 1,
+    "archives": [
+      {
+        "file": "evidence/source-03.txt",
+        "sha256": "a5f6899165c26505ecd2d613f1cd69937217f392967f754ece026e5c70f7c903",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-03.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 4,
+    "url": "https://www.amazon.com/s?k=mushroom+supplement",
+    "reviewedScope": "Search topic only: mushroom supplement.",
+    "approvedQuotes": 1,
+    "completeQuoteMatches": 1,
+    "archives": [
+      {
+        "file": "evidence/source-04.txt",
+        "sha256": "4bba24c9860fd0c3346b73fd0bd64bfcd512d95f0933f925ebe56150332afe0a",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-04.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 5,
+    "url": "https://www.amazon.com/s?k=mushroom+coffee",
+    "reviewedScope": "Search topic only: mushroom coffee.",
+    "approvedQuotes": 1,
+    "completeQuoteMatches": 1,
+    "archives": [
+      {
+        "file": "evidence/source-05.txt",
+        "sha256": "7649a609be5e36c4eb7d36b657b94747e2186df76a95465202c61e5b3b4ee23e",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-05.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 6,
+    "url": "https://www.amazon.com/s?k=lions+mane+powder",
+    "reviewedScope": "Search topic only: lions mane powder.",
+    "approvedQuotes": 1,
+    "completeQuoteMatches": 1,
+    "archives": [
+      {
+        "file": "evidence/source-06.txt",
+        "sha256": "ca29f737515ed146fca3ed9db5fa90494685c6db0a7e1c35a215ed3b01f2e0c4",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-06.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 7,
+    "url": "https://www.amazon.com/s?k=mushroom+gummies",
+    "reviewedScope": "Search topic only: mushroom gummies.",
+    "approvedQuotes": 1,
+    "completeQuoteMatches": 1,
+    "archives": [
+      {
+        "file": "evidence/source-07.txt",
+        "sha256": "901b2606c14f5a978293392c1d32a999f7308637e0c00ed1b5f2e32e570d517e",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-07.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 8,
+    "url": "https://www.amazon.com/dp/B0062RC9ZO",
+    "reviewedScope": "Liquid/dropper instructions, mycelium grown on brown rice and fermented substrate; no inferred mg dose.",
+    "approvedQuotes": 7,
+    "completeQuoteMatches": 7,
+    "archives": [
+      {
+        "file": "evidence/source-08.txt",
+        "sha256": "31f92df68d79cba199249fd1e4370b33eef03cb6a02ae8f314366a89e816d069",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-08.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 9,
+    "url": "https://www.amazon.com/dp/B088C1PQ36",
+    "reviewedScope": "Capsules; fruiting body + mycelium; 1000mg per serving and 4:1.",
+    "approvedQuotes": 7,
+    "completeQuoteMatches": 7,
+    "archives": [
+      {
+        "file": "evidence/source-09.txt",
+        "sha256": "6c534c95fe1a08bdb7004f4d5b3c50c4bdd7c88dfa628d90e16221be0975650d",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-09.txt"
+      },
+      {
+        "file": "evidence/public-B088C1PQ36.txt",
+        "sha256": "6f21d9e38a05ef4c27bddcccd6f67762a9b49f8483392c0c22ff2b655bf5973a",
+        "kind": "supplementary-public-http",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/public-B088C1PQ36.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 10,
+    "url": "https://www.amazon.com/dp/B009E7V5R2",
+    "reviewedScope": "Capsules; Special Ingredients explicitly fruit body extract and shell-broken spores.",
+    "approvedQuotes": 7,
+    "completeQuoteMatches": 7,
+    "archives": [
+      {
+        "file": "evidence/source-10.txt",
+        "sha256": "3986af6390500de23cdc0a2949d3f0ea32f5a789c2954e9909d3ee4b3f11a834",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-10.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 11,
+    "url": "https://www.amazon.com/dp/B0DMWLXC36",
+    "reviewedScope": "Liquid attributes coexist with Each capsule and 70% beta-glucan copy; dosage-form conflict remains unresolved.",
+    "approvedQuotes": 7,
+    "completeQuoteMatches": 7,
+    "archives": [
+      {
+        "file": "evidence/source-11.txt",
+        "sha256": "816359329509b139e4c16a38dcc5393c77324c3a6d71ac06e898c81906ad9cf4",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-11.txt"
+      },
+      {
+        "file": "evidence/public-B0DMWLXC36.txt",
+        "sha256": "a2f5f227641c14c6ed6310d60570dc78d0806fa1d2785c34f4164bc62cda8969",
+        "kind": "supplementary-public-http",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/public-B0DMWLXC36.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 12,
+    "url": "https://www.amazon.com/dp/B07D32VNLP",
+    "reviewedScope": "Capsules; fruiting bodies only and >25% beta-glucans.",
+    "approvedQuotes": 7,
+    "completeQuoteMatches": 7,
+    "archives": [
+      {
+        "file": "evidence/source-12.txt",
+        "sha256": "00f6249a7553c850ed0e29bad1aa733c9b2d8aa2dfbd0e8e09214c2ffe86361e",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-12.txt"
+      },
+      {
+        "file": "evidence/public-B07D32VNLP.txt",
+        "sha256": "2a2a6fbca2d12b6778e435798d3e7f75158b1251e7ccf091bfae87ff33358cc6",
+        "kind": "supplementary-public-http",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/public-B07D32VNLP.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 13,
+    "url": "https://www.amazon.com/dp/B01JNNAQVW",
+    "reviewedScope": "Powder identity, 100:1, and serving wording support sample matrix; no numerical beta-glucan claim.",
+    "approvedQuotes": 7,
+    "completeQuoteMatches": 7,
+    "archives": [
+      {
+        "file": "evidence/source-13.txt",
+        "sha256": "7a65229417ef5439a75fee7e75cd3415cf64ffbf46714cde17f7091c7d804f47",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-13.txt"
+      },
+      {
+        "file": "evidence/public-B01JNNAQVW.txt",
+        "sha256": "d16b292431f19d07093475f3e3dd5e2706a9c89cf254ac452e94b7ddea0c2990",
+        "kind": "supplementary-public-http",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/public-B01JNNAQVW.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 14,
+    "url": "https://www.amazon.com/dp/B07NY3WR4L",
+    "reviewedScope": "Six-mushroom capsules, blend-level 100% fruiting body, 12:1; 29% explicitly in original Item Highlight (not one of original short quotes).",
+    "approvedQuotes": 7,
+    "completeQuoteMatches": 7,
+    "archives": [
+      {
+        "file": "evidence/source-14.txt",
+        "sha256": "0d78a2e93c42cd27959c2c75a503948a45094581c41e8b52c509e325b9f5f9a6",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-14.txt"
+      },
+      {
+        "file": "evidence/public-B07NY3WR4L.txt",
+        "sha256": "83c5f2f36d262b1f3dfa4f0f2f638b0f20c81eb7106fa06ba1bf2502a25d9f66",
+        "kind": "supplementary-public-http",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/public-B07NY3WR4L.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 15,
+    "url": "https://www.amazon.com/dp/B002WJ1BZK",
+    "reviewedScope": "17-species capsules, mycelium grown on brown rice, fermented substrate.",
+    "approvedQuotes": 6,
+    "completeQuoteMatches": 6,
+    "archives": [
+      {
+        "file": "evidence/source-15.txt",
+        "sha256": "07642b03e3ac603ec004bacacc9f8f7079f9a9dbdd62eac870a60ba8ee8fb390",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-15.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 16,
+    "url": "https://www.amazon.com/dp/B00HG0YZMG",
+    "reviewedScope": "AHCC capsules; alpha-glucan wording distinct from beta-glucans.",
+    "approvedQuotes": 6,
+    "completeQuoteMatches": 6,
+    "archives": [
+      {
+        "file": "evidence/source-16.txt",
+        "sha256": "3d9a7500c4b0215059a79f502eb2b225f7c3f0578abd99889b008208bb7e446a",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-16.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 17,
+    "url": "https://www.amazon.com/dp/B0FSGHP1FC",
+    "reviewedScope": "Coffee; six mushrooms combined 2000mg per serving, prebiotic blend; no equal division among species.",
+    "approvedQuotes": 6,
+    "completeQuoteMatches": 6,
+    "archives": [
+      {
+        "file": "evidence/source-17.txt",
+        "sha256": "c1fd55535c660f84bcd2a85c65caff000017e42883e98946b6cc89ab0eadf271",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-17.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 18,
+    "url": "https://www.amazon.com/dp/B0GQHTFQ89",
+    "reviewedScope": "Original coffee instant/12:1/29% wording supported. Supplementary 1000mg sentence archived separately and NOT backfilled into original sample statistics.",
+    "approvedQuotes": 7,
+    "completeQuoteMatches": 7,
+    "archives": [
+      {
+        "file": "evidence/source-18.txt",
+        "sha256": "4a5a3ff44899f001ad4c7eea4f6f1bd8e2cb7f49478eb744ce88042dd7eff77a",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-18.txt"
+      },
+      {
+        "file": "evidence/public-B0GQHTFQ89.txt",
+        "sha256": "8b874b9d22635f8d2013d2c614882cefac1c5c08a2c47ef09ae805e6c1f58134",
+        "kind": "supplementary-public-http",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/public-B0GQHTFQ89.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 19,
+    "url": "https://www.amazon.com/dp/B0756D1D39",
+    "reviewedScope": "Ground coffee; 250mg lion’s mane per serving versus 250mg chaga per cup. Original complete comparative fruiting-body context and supplemental long bullet retained; cup/serving equivalence not asserted.",
+    "approvedQuotes": 7,
+    "completeQuoteMatches": 7,
+    "archives": [
+      {
+        "file": "evidence/source-19.txt",
+        "sha256": "990b1d1105f856cc118106dc9d2d30a1c49979f811f03f826ed2dc89462e2bdc",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-19.txt"
+      },
+      {
+        "file": "evidence/public-B0756D1D39.txt",
+        "sha256": "99681c87373be48c1f936580b4fa455833d50056a79943ca8002b53e1982b759",
+        "kind": "supplementary-public-http",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/public-B0756D1D39.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 20,
+    "url": "https://www.amazon.com/dp/B0B53Y7Z7D",
+    "reviewedScope": "Coffee with collagen/L-theanine/lions mane/chaga; 100% fruiting body wording not rewritten as only.",
+    "approvedQuotes": 7,
+    "completeQuoteMatches": 7,
+    "archives": [
+      {
+        "file": "evidence/source-20.txt",
+        "sha256": "9b5ce87451f829036f79b543b81050fe6fad50480f458d5f2279f155370bca37",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-20.txt"
+      },
+      {
+        "file": "evidence/public-B0B53Y7Z7D.txt",
+        "sha256": "9ef410fbfa431beb3e1c1f0ab429e4d4a507667679586e95f97d3fbdf9a00779",
+        "kind": "supplementary-public-http",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/public-B0B53Y7Z7D.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 21,
+    "url": "https://www.amazon.com/dp/B07P2CWWVV",
+    "reviewedScope": "Powder title Pure Fruiting Body conflicts with fruiting body and mycelium bullets; unresolved.",
+    "approvedQuotes": 7,
+    "completeQuoteMatches": 7,
+    "archives": [
+      {
+        "file": "evidence/source-21.txt",
+        "sha256": "6d9e42d348222c5f3435a82ebe54dcb1daf816c69e8d5a760139946dd58b2cc0",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-21.txt"
+      },
+      {
+        "file": "evidence/public-B07P2CWWVV.txt",
+        "sha256": "d9e289804c8c70a3b78c124b244b88079335b2e02b306749aa2a00294154b4d5",
+        "kind": "supplementary-public-http",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/public-B07P2CWWVV.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 22,
+    "url": "https://www.amazon.com/dp/B0C8LTR6L1",
+    "reviewedScope": "Powder; fruiting bodies/mycelium, 1500mg half scoop.",
+    "approvedQuotes": 6,
+    "completeQuoteMatches": 6,
+    "archives": [
+      {
+        "file": "evidence/source-22.txt",
+        "sha256": "639efef9513555830ece39776ace3ed599feb01b42b91e3ea2ea8ca8c7c39475",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-22.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 23,
+    "url": "https://www.amazon.com/dp/B00OBRMFBU",
+    "reviewedScope": "Powder; 2000mg serving, tissue source not specified in available text (not proof of label omission).",
+    "approvedQuotes": 2,
+    "completeQuoteMatches": 2,
+    "archives": [
+      {
+        "file": "evidence/source-23.txt",
+        "sha256": "d2e9e1e3f0c76126a2cf41f48bde8de4c9e95ba1ac549990772cebe57ff47bdb",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-23.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 24,
+    "url": "https://www.amazon.com/dp/B0BTYX618V",
+    "reviewedScope": "Gummies; 10:1 reishi with saffron/GABA/chamomile, 100% fruiting body; two gummies not inferred to equal Auri dose.",
+    "approvedQuotes": 7,
+    "completeQuoteMatches": 7,
+    "archives": [
+      {
+        "file": "evidence/source-24.txt",
+        "sha256": "dde9bfa494afb3910993ed47b067d52abb58e6822116eb44139ec1fcaec931c6",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-24.txt"
+      },
+      {
+        "file": "evidence/public-B0BTYX618V.txt",
+        "sha256": "087ac39b6809a6c4db117dc268746445d8a29f67a8aed1f241433b858f538738",
+        "kind": "supplementary-public-http",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/public-B0BTYX618V.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 25,
+    "url": "https://www.amazon.com/dp/B0C4166SSW",
+    "reviewedScope": "Gummies; 300mg 10:1 extract / 3000mg dry-mushroom equivalent per two gummies.",
+    "approvedQuotes": 7,
+    "completeQuoteMatches": 7,
+    "archives": [
+      {
+        "file": "evidence/source-25.txt",
+        "sha256": "59ab8ae52cf54e2bb4d3e6d8b29418a023ee2c3d06359e939ed79b2e7eb423c8",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-25.txt"
+      },
+      {
+        "file": "evidence/public-B0C4166SSW.txt",
+        "sha256": "17513f10e1e9d9a78e34697326f4216b725975fef39d86956dacce0f32ab5651",
+        "kind": "supplementary-public-http",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/public-B0C4166SSW.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 26,
+    "url": "https://us.foursigmatic.com/pages/target",
+    "reviewedScope": "Official-brand Target assortment lists capsules AND coffee; not a target.com retailer page.",
+    "approvedQuotes": 1,
+    "completeQuoteMatches": 1,
+    "archives": [
+      {
+        "file": "evidence/source-26.txt",
+        "sha256": "bb2a41341e2248cb683d098738f254edd41c29f7589b0d3b8224b193c45a2d60",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-26.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 27,
+    "url": "https://us.foursigmatic.com/products/focus-ground-coffee-bag",
+    "reviewedScope": "Official Focus Ground Coffee - Dark: substantive Product Description and ground/preparation wording now retained, not just image URLs.",
+    "approvedQuotes": 1,
+    "completeQuoteMatches": 1,
+    "archives": [
+      {
+        "file": "evidence/source-27.txt",
+        "sha256": "ab02277d2ffd3fceb845efd150f193e0821c08e5db97949c948e2bc17a8c2599",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-27.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 28,
+    "url": "https://www.target.com/p/four-sigmatic-focus-organic-vitamin-capsules-90ct/-/A-93164526",
+    "reviewedScope": "Target retailer Focus capsules identity and capsule description; distinct from official-brand Target collection.",
+    "approvedQuotes": 1,
+    "completeQuoteMatches": 1,
+    "archives": [
+      {
+        "file": "evidence/source-28.txt",
+        "sha256": "678f66530b732ae2ab770b18204cd1010b209f5eae8ed296ddc5b35bfd438863",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-28.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 29,
+    "url": "https://www.odysseyfunctionalenergy.com/products/variety-pack",
+    "reviewedScope": "Official Odyssey 85MG caffeine ready-to-drink range, mushroom ingredients; outside Amazon sample.",
+    "approvedQuotes": 1,
+    "completeQuoteMatches": 1,
+    "archives": [
+      {
+        "file": "evidence/source-29.txt",
+        "sha256": "2b414703f4e5f711fa4f496f14fa981b30ceece4c2efb264be5e34105ea798a6",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-29.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  },
+  {
+    "id": 30,
+    "url": "https://www.odysseyfunctionalenergy.com/products/222-variety-pack",
+    "reviewedScope": "Official Odyssey 222MG caffeine ready-to-drink range, mushroom ingredients; outside Amazon sample.",
+    "approvedQuotes": 1,
+    "completeQuoteMatches": 1,
+    "archives": [
+      {
+        "file": "evidence/source-30.txt",
+        "sha256": "205f040d4c563a5dd855255a5f9fe6d339013498e7eb3842404217c50d687d15",
+        "kind": "original",
+        "originalArchive": "/data/hermes/research/amazon-mushroom-v4/publication/revision-2/evidence/source-30.txt"
+      }
+    ],
+    "status": "supported as page/report wording, not physical-product verification"
+  }
+]

@@ -1,0 +1,49 @@
+Four Sigmatic Organic Focus Mushroom Ground Coffee | Dark Roast, Organic Coffee with Lion's Mane & Chaga Mushroom for Mental Clarity & Energy Support | 12oz Bag
+BREWS SMOOTH, DARK, AND REMARKABLY CRASH-FREE — Each brew creates a delicious cup of full-bodied, flavorful coffee without the bitter aftertaste. But that's where the ordinary ends. That coffee beverage is infused with some of the world's most nutrient-dense ingredients, creating an astoundingly effective combination of immunity-increasing, attention-amplifying superfoods.
+WHY WOULD WE EVER COMBINE MUSHROOMS WITH COFFEE? — We love coffee, but it has its downsides. We took 250mg of organic Lion’s Mane (per serving), a functional, nootropic mushroom, which has been used around the world for centuries for increased focus and creativity, and combined it with our delectable, organic fair trade coffee. This unparalleled pairing means no jitters, and hours of crash-free FOCUS.
+RISE AND REALLY, TRULY SHINE — Each cup contains 250mg of wild-harvested, organic Chaga. Known as "The King of Mushrooms," Chaga got its title from its incredible immune-supporting effects. Chaga is absolutely loaded with antioxidants. In fact, it is one of the most antioxidant-dense foods on the entire planet!
+REMARKABLY ELEVATED COFFEE — Grown in the Marcala, La Paz region of Honduras, at 5,500 feet above sea level, these specialty-grade, single origin coffee beans brew a delicious, low acid coffee.
+SCIENTIFICALLY SPEAKING, THIS COFFEE IS PRETTY MUCH MAGIC — Functional mushrooms have been used around the world for centuries to improve productivity, immune support, and more. Unfortunately, the majority of the mushroom supplement market aren't mushrooms at all, but rather the mycelium (basically the root system). At Four Sigmatic, we bring only the best of nature to your daily routine, so we always use the mushrooms' fruiting bodies which contain 15x more active ingredients than the mycelium!
+{
+  "ASIN": "B0756D1D39",
+  "ASIN ‏": "‎ B0756D1D39",
+  "Allergen Information": "Gluten Free",
+  "Best Sellers Rank": "#415 in Grocery & Gourmet Food (See Top 100 in Grocery & Gourmet Food) #11 in Ground Coffee",
+  "Brand Name": "Four Sigmatic",
+  "Caffeine Content Description": "Caffeinated",
+  "Caffeine Content Per Serving": "250 milligrams",
+  "Certificate Type": "USDA",
+  "Coffee Blend Name": "Four Sigmatic Focus Mushroom Coffee",
+  "Coffee Roast Level": "Dark Roast",
+  "Coffee Type": "Instant Coffee",
+  "Container Type": "Packet",
+  "Customer Reviews": "4.4 4.4 out of 5 stars (21,274) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); });",
+  "Diet Type": "Vegan",
+  "Each Unit Count": "12",
+  "Flavor": "Dark Roast w/Lion's Mane",
+  "Global Trade Identification Number": "00816897020195",
+  "Item Dimensions": "3.15 x 1.57 x 2.36 inches",
+  "Item Form": "Ground",
+  "Item Package Weight": "0.3 kg",
+  "Item Volume": "680 ml",
+  "Item Weight": "10.4 ounces",
+  "Item model number ‏": "‎ Café moulu champignon Crinière",
+  "Manufacturer": "FOUR SIGMATIC",
+  "Manufacturer ‏": "‎ FOUR SIGMATIC",
+  "Model Number": "Café moulu champignon Crinière",
+  "Number of Items": "1",
+  "Number of Pieces": "1",
+  "Package Size Name": "12 Ounce",
+  "Part Number": "Café moulu champignon Crinière",
+  "Product Dimensions ‏": "‎ 3.15 x 1.57 x 2.36 inches; 10.4 ounces",
+  "Region of Origin": "Honduras",
+  "Size": "12 Ounce (Pack of 1)",
+  "Special Ingredients": "Organic Chaga, Organic Lion's Mane",
+  "Specialty": "Low-Acid, Single Origin, Vegan, Certified Organic",
+  "Sweetness Description": "not sweet",
+  "UPC": "816897024322 816897025176 816897020195",
+  "UPC ‏": "‎ 816897024322 816897025176 816897020195",
+  "Unit Count": "12 Ounce",
+  "Units ‏": "‎ 12 Ounce",
+  "Variety": "dark_roast"
+}

@@ -1,0 +1,32 @@
+Host Defense Reishi Extract, Heart & Immune Health Support, 2 fl oz
+Immune & Energy Support Supplement: This liquid herbal mushroom supplement supports immune health, heart health, and daily energy and stamina*
+Reishi Mushroom Vitality Supplement: Our mushroom extract supplement is made with Reishi, "The Mushroom of Immortality," to support overall wellness and vitality*
+About Host Defense: Host Defense Mushrooms was founded by renowned mycologist Paul Stamets; our mushroom mycelium is certified organic, non-GMO, gluten-free, and grown in the USA*
+Powered by Mushroom Mycelium: Our organic mushroom mycelium is grown on organic brown rice substrate; third-party studies show that mushroom mycelium and fermented rice substrate support your health*
+Herbal Immune Support Supplement: As a stamina support supplement, take 1 full dropper bulb squeeze twice daily with food or on an empty stomach, or as recommended by your healthcare advisor*
+{
+  "ASIN": "B0062RC9ZO",
+  "ASIN ‏": "‎ B0062RC9ZO",
+  "Age Range Description": "Adult",
+  "Best Sellers Rank": "#57,988 in Health & Household (See Top 100 in Health & Household) #272 in Mushrooms Herbal Supplements",
+  "Brand Name": "Host Defense",
+  "Container Type": "Bottle",
+  "Customer Reviews": "4.5 4.5 out of 5 stars (577) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); });",
+  "Date First Available ‏": "‎ November 2, 2012",
+  "Dosage Form": "Liquid",
+  "Item Form": "Drop",
+  "Item Highlight": "Heart and Immune Health Support Supplement, Mushroom Supplement to Support Energy and Vitality, 60 Servings",
+  "Item model number ‏": "‎ NXGL2",
+  "Manufacturer": "Host Defense",
+  "Manufacturer Part Number": "NXGL2",
+  "Manufacturer ‏": "‎ Host Defense",
+  "Material Features": "Organic",
+  "Model Number": "NXGL2",
+  "Number of Items": "1",
+  "Package Quantity": "1",
+  "Product Dimensions ‏": "‎ 1.5 x 1.5 x 4.75 inches; 4.66 ounces",
+  "Recommended Uses For Product": "Boost Energy, Immune Support",
+  "Special Ingredients": "Mushrooms",
+  "UPC": "633422050324",
+  "Unit Count": "2 Fluid Ounces"
+}

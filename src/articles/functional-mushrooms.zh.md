@@ -1,176 +1,197 @@
-<nav class="market-toc" aria-label="文章目录"><a href="#us-retail">美国零售</a> / <a href="#segments">产品形态</a> / <a href="#product-positioning">品牌竞争</a> / <a href="#channels">渠道成本</a> / <a href="#extracts">价值链</a> / <a href="#north-america">区域</a> / <a href="#implications">机会</a> / <a href="#method">来源</a></nav>
+<nav class="market-toc" aria-label="本文目录"><a href="#segments">样本</a> / <a href="#materials">材料</a> / <a href="#coffee">咖啡</a> / <a href="#dose">用量</a> / <a href="#listing-text">页面声明</a> / <a href="#channels">渠道</a> / <a href="#us-retail">市场背景</a> / <a href="#implications">产品规划</a> / <a href="#method">方法</a></nav>
+
+Mordor Intelligence预计，全球蘑菇补充剂市场将由2026年的58.3亿美元增至2031年的88.3亿美元，2026—2031年复合年增长率为8.66%。这是一项成品补充剂预测；咖啡、软糖和原料提取物的开发，还需要落实到具体产品。<a href="#market-v4-ref-1" aria-label="来源 1">[1]</a>
+
+本次Amazon研究取得18个商品详情，覆盖15个品牌。最有用的发现不是哪一种菌“更热门”，而是同样写着蘑菇，产品实际采用的材料和用量口径很不一样：有子实体提取物，也有菌丝体与发酵基质；有单菌胶囊，也有加入胶原蛋白的咖啡和含其他植物配料的软糖。下面按产品来比较这些差别。
+
+<span id="增长细分胶囊粉剂与销售渠道" class="anchor-alias" aria-hidden="true"></span>
+<span id="growth-segments-capsules-powders-and-distribution" class="anchor-alias" aria-hidden="true"></span>
+<span id="exhibit-3" class="anchor-alias" aria-hidden="true"></span>
+<h2 id="segments">先看样本：胶囊之外，粉剂、咖啡和软糖各有用途</h2>
+
+样本来自五类查询。灵芝提取物、蘑菇补充剂与蘑菇咖啡覆盖提取物和饮用产品；<a href="#market-v4-ref-3" aria-label="来源 3">[3]</a><a href="#market-v4-ref-4" aria-label="来源 4">[4]</a><a href="#market-v4-ref-5" aria-label="来源 5">[5]</a>猴头菇粉与蘑菇软糖补充粉剂和软糖品类。<a href="#market-v4-ref-6" aria-label="来源 6">[6]</a><a href="#market-v4-ref-7" aria-label="来源 7">[7]</a>本文比较其中18个商品详情，覆盖15个品牌。
+
+18页中有6个胶囊、4个粉剂、4个咖啡、2个软糖、1个明确液体，另有1个液体属性与胶囊措辞不一致的页面。它们是按品牌、形态和材料差异选出的观察样本，并不代表Amazon的销量结构。
+
+胶囊适合先比较配方及服用单位。粉剂需要区分单菌材料与复合冲调产品；咖啡还要比较基底、冲泡方式和其他配料。软糖的使用体验不同，但仍应把蘑菇提取物与整份软糖的重量分开。剂型是第一层分组，材料组成是第二层。
+
+
+<!-- exhibit:sample-form -->
+
+<span id="product-positioning" class="anchor-alias" aria-hidden="true"></span>
+<span id="brand-positioning" class="anchor-alias" aria-hidden="true"></span>
+<span id="exhibit-4" class="anchor-alias" aria-hidden="true"></span>
+<span id="品牌怎样竞争amazoncom商品观察" class="anchor-alias" aria-hidden="true"></span>
+<span id="how-brands-compete-amazoncom-product-observations" class="anchor-alias" aria-hidden="true"></span>
+<h2 id="materials">同是胶囊，材料并不相同</h2>
+
+[Real Mushrooms红灵芝胶囊](https://www.amazon.com/dp/B07D32VNLP)明确采用仅子实体的灵芝提取物，页面写有β-葡聚糖“>25%”。[Double Wood灵芝胶囊](https://www.amazon.com/dp/B088C1PQ36)则写明同时采用子实体和菌丝体，并标示每份1,000毫克、4:1提取比。这两款产品都叫灵芝提取物，但材料声明不同，不宜仅按瓶价或毫克数排序。<a href="#market-v4-ref-12" aria-label="来源 12">[12]</a><a href="#market-v4-ref-9" aria-label="来源 9">[9]</a>
+
+复配胶囊也有类似区别。[FreshCap Ultimate](https://www.amazon.com/dp/B07NY3WR4L)列出六菌配方，并使用“100% whole fruiting body mushrooms”的整体描述；[Host Defense MyCommunity](https://www.amazon.com/dp/B002WJ1BZK)列出17种真菌，说明菌丝体在有机糙米基质上培养，并提及菌丝体与发酵米基质。菌种数量不能代替材料组成，也不能据此推算每一种菌的用量。<a href="#market-v4-ref-14" aria-label="来源 14">[14]</a><a href="#market-v4-ref-15" aria-label="来源 15">[15]</a>
+
+还有两种容易被简单分类遗漏的路线。[Life Extension灵芝复合胶囊](https://www.amazon.com/dp/B009E7V5R2)的配料属性列出子实体提取物及破壁孢子；[Quality of Life AHCC](https://www.amazon.com/dp/B00HG0YZMG)突出的是α-葡聚糖。孢子不应被改写成β-葡聚糖，α与β也不能合并为同一种指标。<a href="#market-v4-ref-10" aria-label="来源 10">[10]</a><a href="#market-v4-ref-16" aria-label="来源 16">[16]</a>
+
+这些区别决定了产品比较表应如何设计：菌种、组织来源、是否含发酵基质、提取形式和每份添加量应分列。它们不构成材料优劣或功效排名；尤其是包含白桦茸的复配产品，整体“子实体”宣传不能代替逐菌种的组织说明。
+
+
+<!-- exhibit:material-format -->
+
+<span id="extracts" class="anchor-alias" aria-hidden="true"></span>
+<span id="value-chain" class="anchor-alias" aria-hidden="true"></span>
+<span id="从市场机会到灵芝材料" class="anchor-alias" aria-hidden="true"></span>
+<span id="from-market-opportunities-to-reishi-materials" class="anchor-alias" aria-hidden="true"></span>
+<h2 id="coffee">粉剂与咖啡：先分清喝下去的是什么</h2>
+
+纯粉和咖啡都可能按勺取用，但勺内的材料不同。[DEAL SUPPLEMENT猴头菇粉](https://www.amazon.com/dp/B0C8LTR6L1)写明子实体与菌丝体提取物，每次半勺提供1,500毫克；[Om猴头菇粉](https://www.amazon.com/dp/B00OBRMFBU)列出每份2,000毫克，但所见说明未交代组织来源。两者都有份量信息，材料说明的完整程度却不同。<a href="#market-v4-ref-22" aria-label="来源 22">[22]</a><a href="#market-v4-ref-23" aria-label="来源 23">[23]</a>
+
+四款咖啡则呈现不同配方选择。[RYZE中烘焙蘑菇咖啡](https://www.amazon.com/dp/B0FSGHP1FC)写明每份六菌合计2,000毫克，另含咖啡和益生元混合物；[Everyday Dose](https://www.amazon.com/dp/B0B53Y7Z7D)将猴头菇、白桦茸与胶原蛋白、L-茶氨酸组合。前者的六菌总量不能平均分给各菌种，后者也不适合被当成单纯的蘑菇粉。<a href="#market-v4-ref-17" aria-label="来源 17">[17]</a><a href="#market-v4-ref-20" aria-label="来源 20">[20]</a>
+
+[Four Sigmatic Focus研磨咖啡](https://www.amazon.com/dp/B0756D1D39)分别写每份250毫克猴头菇、每杯250毫克白桦茸，两种单位尚未确认等同。[FreshCap速溶蘑菇咖啡](https://www.amazon.com/dp/B0GQHTFQ89)强调速溶、12:1提取比和29% β-葡聚糖。最后一个百分比的分母是否指蘑菇提取物或咖啡成品，不能仅凭这段文案确定。<a href="#market-v4-ref-19" aria-label="来源 19">[19]</a><a href="#market-v4-ref-18" aria-label="来源 18">[18]</a>
+
+对产品开发而言，这些差别比“咖啡里加了几种菌”更具体。研磨咖啡要适合既定冲煮方式；速溶产品要处理分散、沉淀和风味；加入胶原蛋白、益生元等材料后，还需分别核算各配料的用量与成本。整份冲调粉的重量不等于蘑菇材料的重量。
+
+<h2 id="dose">300毫克提取物与3,000毫克当量，要放在不同列</h2>
+
+[Auri Super Mushroom软糖](https://www.amazon.com/dp/B0C4166SSW)提供了一个清楚的剂量口径例子。其商品要点原文为：“each serving delivers a 3,000mg dry-mushroom equivalent in 300mg of 10:1 extract, all in two soft, flavorful gummies.” 即每份两粒软糖含300毫克10:1提取物，对应3,000毫克干蘑菇当量。<a href="#market-v4-ref-25" aria-label="来源 25">[25]</a>
+
+| 产品 | 页面所述材料量 | 页面所述干菇当量 | 用量说明 |
+|---|---:|---:|---|
+| Auri软糖 | 300毫克提取物／两粒 | 3,000毫克／两粒 | 实际提取物量与当量分列。<a href="#market-v4-ref-25" aria-label="来源 25">[25]</a> |
+| RYZE中烘焙咖啡 | 六菌合计2,000毫克／份 | — | 六菌合计量。<a href="#market-v4-ref-17" aria-label="来源 17">[17]</a> |
+| Double Wood灵芝胶囊 | 1,000毫克提取物／份 | — | 另标示4:1提取比。<a href="#market-v4-ref-9" aria-label="来源 9">[9]</a> |
+| Four Sigmatic Focus | 猴头菇250毫克／份；白桦茸250毫克／杯 | — | 每份与每杯尚未确认等同。<a href="#market-v4-ref-19" aria-label="来源 19">[19]</a> |
+
+这张表比较的是页面如何表达用量，不是推荐剂量表。“—”表示所用说明中没有可用于此项比较的数值。提取比可以解释标签当量的写法，但不能直接变成功效倍数或工厂实际得率。
+
+另一款[Plant People WonderSleep软糖](https://www.amazon.com/dp/B0BTYX618V)将灵芝10:1提取物与藏红花、GABA、洋甘菊等配料组合。它与Auri多菌软糖的区别首先在配方，而非“同为两粒软糖”就具有相同蘑菇用量。<a href="#market-v4-ref-24" aria-label="来源 24">[24]</a>
+
+液体同样需要自己的单位。[Host Defense灵芝液体](https://www.amazon.com/dp/B0062RC9ZO)给出滴管使用指引，材料说明仍提及菌丝体与发酵米基质；滴管次数本身不足以换算提取物毫克数。<a href="#market-v4-ref-8" aria-label="来源 8">[8]</a>
+
+
+<!-- exhibit:dose-basis -->
+
+<h2 id="listing-text">页面文字能说明什么：比例、百分比与需要复核的字段</h2>
+
+18份商品详情中，4份出现数字β-葡聚糖声明，6份出现提取比声明。这是页面文字观察，分别为4/18和6/18；没有数字命中的页面不能因此判为“标签缺失”。Real Mushrooms标示>25%，FreshCap胶囊和咖啡均标示29%；<a href="#market-v4-ref-12" aria-label="来源 12">[12]</a><a href="#market-v4-ref-14" aria-label="来源 14">[14]</a><a href="#market-v4-ref-18" aria-label="来源 18">[18]</a>Triquetra页面标示70%。<a href="#market-v4-ref-11" aria-label="来源 11">[11]</a>这些声明的表述基准不同，不能直接比较浓度或效力。
+
+两款商品的标题、要点或属性存在材料或剂型措辞不一致。[Micro Ingredients猴头菇粉](https://www.amazon.com/dp/B07P2CWWVV)标题写“Pure Fruiting Body”，商品要点却写“entire fruiting body and mycelium”；[Triquetra灵芝页面](https://www.amazon.com/dp/B0DMWLXC36)为液体款式及液体属性，商品要点却出现“Each capsule”。这些相互矛盾的说明，使前者的组织来源和后者70%所指的剂型均无法确定。<a href="#market-v4-ref-21" aria-label="来源 21">[21]</a><a href="#market-v4-ref-11" aria-label="来源 11">[11]</a>
+
+页面文字差异不足以判断实物配方；商家编辑、变体共用文案或其他页面管理问题是否为原因，也尚未确定。
+
+比较产品时，最有价值的补充证据是同一选中变体的完整标签，以及标明对象和方法的检测资料。材料、每份量、当量和成分百分比应分别核对，不能以一个更大的数字替代其他字段。
+
+<span id="north-america" class="anchor-alias" aria-hidden="true"></span>
+<span id="us-canada" class="anchor-alias" aria-hidden="true"></span>
+<span id="北美市场与美国加拿大的监管区别" class="anchor-alias" aria-hidden="true"></span>
+<span id="north-america-and-uscanada-regulatory-differences" class="anchor-alias" aria-hidden="true"></span>
+<h2 id="channels">品牌和渠道：同一种材料可以做成不同产品</h2>
+
+[Four Sigmatic的Focus研磨咖啡官网页](https://us.foursigmatic.com/products/focus-ground-coffee-bag)提供咖啡产品说明；其[品牌官网Target专区](https://us.foursigmatic.com/pages/target)同时列出咖啡和胶囊。[Target上的Focus胶囊](https://www.target.com/p/four-sigmatic-focus-organic-vitamin-capsules-90ct/-/A-93164526)也有零售商独立商品页。同一品牌由此展示了饮用与胶囊两种产品路线。<a href="#market-v4-ref-27" aria-label="来源 27">[27]</a><a href="#market-v4-ref-26" aria-label="来源 26">[26]</a><a href="#market-v4-ref-28" aria-label="来源 28">[28]</a>
+
+即饮饮料是另一条开发路线。[Odyssey 85毫克咖啡因系列](https://www.odysseyfunctionalenergy.com/products/variety-pack)与[222毫克系列](https://www.odysseyfunctionalenergy.com/products/222-variety-pack)说明，蘑菇配料也可以进入不同咖啡因水平的能量饮料。两款均为官网展示的即饮产品。<a href="#market-v4-ref-29" aria-label="来源 29">[29]</a><a href="#market-v4-ref-30" aria-label="来源 30">[30]</a>
+
+胶囊与饮料可以面向不同使用习惯。品牌官网有空间解释配方和使用方法；零售货架则需要包装快速讲清产品是什么。企业核算成本时，除原料外还应列入基底、加工、包装、运输、渠道扣费及促销。即饮产品还要让生产批次适应补货节奏。公开零售价不能直接推算品牌利润或原料商毛利。
 
 <span id="supplements" class="anchor-alias" aria-hidden="true"></span>
 <span id="市场规模与展望" class="anchor-alias" aria-hidden="true"></span>
-Mordor Intelligence预计，**全球蘑菇补充剂市场将从2026年的<span class="amount">58.3亿美元</span>增至2031年的<span class="amount">88.3亿美元</span>**，2026—2031年复合年增长率为8.66%。<a href="#market-v3-ref-1" aria-label="来源 1">[1]</a>
-增长机会正在变得具体：美国一个明确划分的蘑菇补充剂类别已在主流零售渠道快速扩张，认知健康定位产品获得更多销售，品牌也将蘑菇带入咖啡和即饮能量饮料。<a href="#market-v3-ref-2" aria-label="来源 2">[2]</a><a href="#market-v3-ref-5" aria-label="来源 5">[5]</a><a href="#market-v3-ref-11" aria-label="来源 11">[11]</a>
+<span id="market-size-and-outlook" class="anchor-alias" aria-hidden="true"></span>
+<span id="exhibit-1" class="anchor-alias" aria-hidden="true"></span>
+<span id="exhibit-2" class="anchor-alias" aria-hidden="true"></span>
+<span id="us-channel-growth" class="anchor-alias" aria-hidden="true"></span>
+<h2 id="us-retail">零售销售和全球预测：为产品选择提供背景</h2>
 
-接下来的竞争，在于把关注转化为复购，再转化为稳定的原料订单。胶囊需要清楚的材料特点和每日使用理由；饮品还必须融入消费者已有的习惯。上游原料的一致性与应用表现，则决定这些产品能否稳定放量。
+ABC《HerbalGram》第144期引用SPINS数据：2024年美国主流零售渠道“其他蘑菇”补充剂销售额为15,651,639美元，同比增长75.8%；自然产品扩展渠道为27,550,554美元，同比增长14.4%。主流渠道增长更快，销售规模仍小于自然产品扩展渠道。<a href="#market-v4-ref-2" aria-label="来源 2">[2]</a>
 
-<!-- exhibit:1 -->
+“其他蘑菇”包含猴头菇等未单列成分；灵芝、白桦茸和虫草另行追踪。数据期为截至2024年12月31日的52周，自然产品扩展渠道不含Whole Foods Market和Trader Joe’s。两组渠道数字应按此类别阅读，而不是所有蘑菇食品、饮料和原料的总销售额。<a href="#market-v4-ref-2" aria-label="来源 2">[2]</a>
 
-<h2 id="us-retail">主流零售正在追赶，自然健康渠道已有品类基础</h2>
+同一主流渠道类别中，认知健康定位产品销售额约765万美元，同比增长114.5%。这使专注、认知成为值得研究的产品定位；统计对象仍是按标签定位分类的销售，不是功能改善或消费者购买动机。<a href="#market-v4-ref-2" aria-label="来源 2">[2]</a>
 
-<!-- exhibit:2 -->
+全球层面，Mordor的两个端点是2026年58.3亿美元估计与2031年88.3亿美元预测。该报告更新于2026年9月11日，模型说明采用截至2026年1月可获得的数据和洞察。<a href="#market-v4-ref-1" aria-label="来源 1">[1]</a>
 
-“其他蘑菇”首次进入主流渠道草本及真菌主要成分销售额前40名，在自然产品扩展渠道则已排名第二。<a href="#market-v3-ref-2" aria-label="来源 2">[2]</a>
-增速更快的渠道，销售基数仍然较小。这意味着两种不同的经营重点：专业零售可承接已有品类认知，主流渠道扩张则需要让新用户迅速理解购买理由。销售额增长本身尚不能拆分铺货、价格与消费量各自的贡献。
 
-**认知健康已成为有实际销售支撑的定位入口。** 在同一主流渠道“其他蘑菇”类别中，认知健康定位产品2024年销售额为<span class="amount">765万美元</span>，同比增长114.5%，接近该类别的一半；免疫健康定位占6.1%。<a href="#market-v3-ref-2" aria-label="来源 2">[2]</a>
-SPINS依据产品标签划分健康定位，因此这些数字反映的是相应产品的销售，而非认知疗效测量，也不是消费者购买动机调查。<a href="#market-v3-ref-2" aria-label="来源 2">[2]</a>
+<!-- exhibit:retail-sales -->
 
-增长也没有平均分布到所有菌种。同一自然产品扩展渠道中，单列的虫草类别2024年销售下降4.8%。<a href="#market-v3-ref-2" aria-label="来源 2">[2]</a>
-品牌和原料商需要按菌种规划，而不是将一个蘑菇大类增速套用到所有采购预测。
 
-<span id="增长细分胶囊粉剂与销售渠道" class="anchor-alias" aria-hidden="true"></span>
-<span id="exhibit-3" class="anchor-alias" aria-hidden="true"></span>
-<h2 id="segments">胶囊提供规模基础，饮品改变竞争对手</h2>
+<!-- exhibit:global-forecast -->
 
-Mordor估计，胶囊及片剂占2025年全球蘑菇补充剂收入的46.43%，粉剂2026—2031年的预测年复合增长率为9.78%。<a href="#market-v3-ref-1" aria-label="来源 1">[1]</a>
-渠道方面，药房及药店占2025年收入的36.22%，线上零售2026—2031年的预测年复合增长率为10.69%。<a href="#market-v3-ref-1" aria-label="来源 1">[1]</a>
-这更适合支持互补的产品与渠道策略，而不是全面放弃胶囊、转向饮品。
-
-**胶囊**承接明确的每日补充任务：材料是什么、配方为何这样设计、如何方便地持续使用。**咖啡与冲调饮品**争夺晨间一杯和家庭饮品预算。**即饮产品**争夺即时提神场景，单罐尝试、购买便利和及时补货更为重要。
-
-一般食品饮料消费环境，解释了饮品路线的吸引力与难度。NCA的2025年秋季调查摘要显示，过去一天喝咖啡的人中，82%在家饮用。<a href="#market-v3-ref-4" aria-label="来源 4">[4]</a>
-IFIC面向美国一般食品饮料消费者的调查中，口味与价格对购买决策的影响均高于健康性，其中价格为71%，健康性为57%（五分影响度量表中选择四或五分的比例）。<a href="#market-v3-ref-3" aria-label="来源 3">[3]</a>
-两项调查都不是蘑菇专项需求调查；它们的价值，是说明蘑菇饮品必须适应的既有习惯和购买标准。
-
-Four Sigmatic的Target产品阵容同时包括咖啡与胶囊；RYZE将六菌混合物加入咖啡，并标示每杯约48毫克咖啡因。<a href="#market-v3-ref-5" aria-label="来源 5">[5]</a><a href="#market-v3-ref-6" aria-label="来源 6">[6]</a>
-Odyssey则提供85毫克和222毫克咖啡因的能量饮料系列。<a href="#market-v3-ref-11" aria-label="来源 11">[11]</a>
-因而，蘑菇饮品并不是统一的低咖啡因替代市场。品牌必须先决定：替代普通咖啡、补充现有营养补充习惯，还是挑战传统能量饮料。
-
-<span id="品牌怎样竞争amazoncom商品观察" class="anchor-alias" aria-hidden="true"></span>
-<h2 id="product-positioning">七个品牌，三类材料与消费场景竞争路线</h2>
-
-*依据品牌官网及产品说明；功能用语用于描述定位，不比较疗效。*
-
-<!-- exhibit:4 -->
-
-主要差异不只是菌种多与少，而是**规格明确的提取物、菌丝体或全谱材料，以及围绕生活场景的复配产品**。Real Mushrooms将提取方式和成分含量放到前台，Host Defense突出菌丝体。<a href="#market-v3-ref-7" aria-label="来源 7">[7]</a><a href="#market-v3-ref-9" aria-label="来源 9">[9]</a>
-Om与Four Sigmatic则将蘑菇与其他功能配料结合。<a href="#market-v3-ref-10" aria-label="来源 10">[10]</a><a href="#market-v3-ref-5" aria-label="来源 5">[5]</a>
-
-这些购买理由不能换算成一张“总毫克数越高越好”的榜单。提取比例、实际提取物添加量和β-葡聚糖浓度描述不同属性，单独一项都不建立临床等效关系。<a href="#market-v3-ref-21" aria-label="来源 21">[21]</a>
-原料商的优势在于让材料既稳定可复制，又便于品牌解释；品牌更值得投入的，是用途与组成的一致性，而非继续增加菌种数量。
-
-<h2 id="channels">扩张渠道，也在改变成本结构</h2>
-
-品牌官网可以解释材料、组合销售并安排定期补货，FreshCap的订阅方案就是具体例子。<a href="#market-v3-ref-8" aria-label="来源 8">[8]</a>
-经营检验应落在首单后的留存：获客投入与订阅优惠，可能消耗看似充裕的零售毛利。
-
-专业零售能够承载更细的成分说明，主流货架则需要更快的产品识别。Four Sigmatic的Target产品阵容与Whole Foods商品页，展示了不同零售环境下的触达方式。<a href="#market-v3-ref-5" aria-label="来源 5">[5]</a><a href="#market-v3-ref-22" aria-label="来源 22">[22]</a>
-衡量扩张质量应看单店销售和后续补单，而不只是宣布进入多少门店。
-
-即饮分销对运营提出更多要求。BevNET在2024年对Odyssey的报道中，介绍了区域门店直配伙伴、KeHE和UNFI，以及通过McLane服务7-Eleven门店的路径。<a href="#market-v3-ref-15" aria-label="来源 15">[15]</a>
-同一报道也将扩张与生产排期、加快库存周转、降低原料成本联系起来。<a href="#market-v3-ref-15" aria-label="来源 15">[15]</a>
-铺货范围扩大，可能先增加营运资金占用，再带来盈利改善。
-
-因此，**每份交付成本**比单看零售价更适合产品规划。应纳入蘑菇原料、其他功能配料、咖啡或饮料基底、加工、包装、运输、渠道扣费，以及获客或促销投入。不同渠道需要不同成本结构；货架价格高，不代表提取物供应商利润高。
-
-<span id="灵芝已有规模基础也有多种产品形态" class="anchor-alias" aria-hidden="true"></span>
 <span id="reishi" class="anchor-alias" aria-hidden="true"></span>
-<span id="从市场机会到灵芝材料" class="anchor-alias" aria-hidden="true"></span>
-<h2 id="extracts">六层价值链，将栽培转化为可重复交付的产品</h2>
+<span id="灵芝已有规模基础也有多种产品形态" class="anchor-alias" aria-hidden="true"></span>
+<span id="reishi-an-established-species-across-several-formats" class="anchor-alias" aria-hidden="true"></span>
+<h2 id="implications">产品规划：把材料、配方和使用方式一起确定</h2>
 
-| 环节 | 价值形成方式 | 商业压力 |
-|---|---|---|
-| **栽培与采收** | 菌种、使用部位和稳定干料；Nammex介绍了选育菌种、基质及中国栽培伙伴。<a href="#market-v3-ref-13" aria-label="来源 13">[13]</a> | 生物差异与种植计划；种植地不等同于提取地、包装地。 |
-| **提取与标准化** | 将生物材料转化为明确规格；Nammex介绍子实体提取粉及逐批β-D-葡聚糖定量。<a href="#market-v3-ref-12" aria-label="来源 12">[12]</a> | 得率、能耗与规格一致性；化学指标合格不等于适用于饮料。 |
-| **质量放行与跨境供应** | 身份、污染物控制、追溯与放行；Nammex介绍出口前及北美检测。<a href="#market-v3-ref-13" aria-label="来源 13">[13]</a><a href="#market-v3-ref-14" aria-label="来源 14">[14]</a> | 检测周期、待放行库存及到岸成本波动。 |
-| **配方与成品制造** | 将材料变为胶囊、粉剂、软糖或货架稳定饮品，品牌案例已有多种形态。<a href="#market-v3-ref-5" aria-label="来源 5">[5]</a><a href="#market-v3-ref-10" aria-label="来源 10">[10]</a><a href="#market-v3-ref-11" aria-label="来源 11">[11]</a> | 感官取舍、生产收率与稳定性；拥有品牌不等于拥有工厂。 |
-| **品牌与需求形成** | 解释独特用途，促成尝试与复购。 | 获客费用、定位重叠与过多SKU。 |
-| **分销与零售** | 货架触达、可购买性与补货，Odyssey分销网络提供了实例。<a href="#market-v3-ref-15" aria-label="来源 15">[15]</a> | 渠道费用、滞销库存、缺货与退货。 |
+这组产品给出几种具体选择：单菌胶囊可集中说明材料和成分规格；复配胶囊需要解释组成及总量；咖啡需要在风味和冲泡方式上成立；软糖要兼顾提取物载量与口感；即饮要更早核算包装、运输和库存。
 
-Nammex的云芝栽培项目说明，终端机会如何传导至农场。2024年的行业报道介绍，其中国合作农场干云芝产量由2022年的12,000公斤升至2023年的30,000公斤，同比增加150%。<a href="#market-v3-ref-14" aria-label="来源 14">[14]</a>
-这是该企业项目报告的产量，而非全行业增速；其价值在于呈现菌种级商业机会与栽培计划之间的联系。
+原料需求可以从实际售出份数反推：<strong>售出份数 × 每份实际添加克数 ÷ 1,000＝对应原料用量（公斤）</strong>，再另计生产损耗和库存。这里使用实际添加量，不使用干菇当量；复配材料还需单列各组分比例。
 
-将终端需求换算为原料需求，应使用：**售出份数 × 每份实际添加克数 ÷ 1,000＝原料公斤数**。采购计划另加生产损耗与库存变化；混合配方还需要菌种比例，不能将混合物总量分别计入每个菌种。只有取得适用工艺的实际得率，才可继续换算干菇需求，零售标签的“原菇等效量”不能代替得率。
-
-<span id="北美市场与美国加拿大的监管区别" class="anchor-alias" aria-hidden="true"></span>
-<span id="us-canada" class="anchor-alias" aria-hidden="true"></span>
-<h2 id="north-america">区域扩张可能先改变材料，而非只改变标签语言</h2>
-
-Mordor估计，北美占2025年全球蘑菇补充剂收入的34.57%，亚太地区2026—2031年的预测年复合增长率为9.96%。<a href="#market-v3-ref-1" aria-label="来源 1">[1]</a>
-其北美范围包括美国、加拿大和墨西哥。<a href="#market-v3-ref-1" aria-label="来源 1">[1]</a>
-前述美国渠道数据为产品试点提供具体依据，但并不建立其他国家之间可比的需求排名。
-
-<strong>美国：</strong>已观察到的机会跨越专业补充剂和主流零售。产品开发仍需匹配食品或补充剂路径及可支持的宣称；FDA在DSHEA框架下不对膳食补充剂进行上市前安全性与有效性批准。<a href="#market-v3-ref-20" aria-label="来源 20">[20]</a>
-
-<strong>加拿大：</strong>冲调后作为饮料呈现的粉末，可能被归为食品；分类综合配方、表述、形态和使用历史。<a href="#market-v3-ref-16" aria-label="来源 16">[16]</a>
-符合天然健康产品（NHP）定义的产品，合法销售前需要产品许可证。<a href="#market-v3-ref-17" aria-label="来源 17">[17]</a>
-因而，日常咖啡项目与定量NHP项目应分别规划，并明确承担当地相应责任的合作方。
-
-<strong>欧盟：</strong>2019年的咨询结论将猴头菇脱水菌丝体粉认定为新食品（Novel Food）。<a href="#market-v3-ref-18" aria-label="来源 18">[18]</a>
-2025年的另一项咨询认定，所提交的猴头菇子实体提取粉经热水与超声辅助提取后冻干，用于食品及食品补充剂，不属于新食品；提交证据显示，相较传统水提未产生相关显著组成或结构变化。<a href="#market-v3-ref-19" aria-label="来源 19">[19]</a>
-结论适用于所描述材料和工艺，不代表所有猴头菇提取物均适用，也不是健康宣称许可。跨境配方投入之前，应先匹配物种、使用部位和工艺。
-
-<h2 id="implications">最有价值的机会，将具体场景与经济性检验结合</h2>
-
-- <strong>认知定位补充剂：</strong>先形成一个清楚的主用途和有文件支持的材料特点，而不是长菌种表。美国销售数据使这一方向值得试验。<a href="#market-v3-ref-2" aria-label="来源 2">[2]</a>
-品牌应看复购与净贡献，原料商应交付一致的身份、成分规格和批次文件。主要风险是定位同质化，只能依靠更强宣称争取注意。
-- <strong>居家咖啡与冲调饮品：</strong>围绕一种明确冲泡方式和饮料基底开发。既有咖啡习惯及Four Sigmatic、RYZE案例支持这一路线。<a href="#market-v3-ref-4" aria-label="来源 4">[4]</a><a href="#market-v3-ref-5" aria-label="来源 5">[5]</a><a href="#market-v3-ref-6" aria-label="来源 6">[6]</a>
-扩展口味前，先通过盲测、冲调成功率和每杯成本检验。原料商可以凭真实基底中的表现形成差异，而非笼统声称“易溶”。
-- <strong>软糖与即饮：</strong>便利性拓宽消费选择，但其他配料与加工同时争夺配方空间和成本。<a href="#market-v3-ref-10" aria-label="来源 10">[10]</a><a href="#market-v3-ref-11" aria-label="来源 11">[11]</a>
-放量前先确定载量、感官接受度和货架稳定性；即饮还应将生产批次与现实补货、库存预测连接。Odyssey的案例表明，供应链效率是增长的一部分，不应等扩张后再补救。<a href="#market-v3-ref-15" aria-label="来源 15">[15]</a>
-
-更可能持久的优势，并非最宽的蘑菇产品组合，而是消费者理解并愿意持续使用的产品，以及能够以合理交付成本重复兑现它的材料和供应链。
-
-原料规格可参阅[灵芝提取物产品页](/zh/products/reishi-mushroom)；材料组分、加工与应用原理可继续阅读[灵芝原料百科](/zh/plant-extracts/ingredients/reishi-mushroom)。
+对品牌，产品选择最终要看实际复购和扣除渠道费用后的收益；对原料商，则要把规格、批次稳定性和具体配方适用性做好。供货规格见[灵芝提取物产品页](/zh/products/reishi-mushroom)，材料与应用原理见[灵芝原料百科](/zh/plant-extracts/ingredients/reishi-mushroom)。
 
 <span id="资料与观察方法" class="anchor-alias" aria-hidden="true"></span>
+<span id="sources-and-observation-method" class="anchor-alias" aria-hidden="true"></span>
+<h2 id="method">方法简述</h2>
+
+Amazon原始样本采集于2026年9月15日，采用授权真实浏览器完成五次查询及18次详情采集，每个查询保留脚本前10个返回商品；广告身份未获确认，不称自然排名。50次商品出现对应48个不同ASIN；合并明确相近的包装变体后，共42个研究者定义的候选家族，并非Amazon确认的父ASIN。先按品牌、形态和材料差异选定18个家族读取详情，再按每个查询的返回顺序补入2个尚未入选家族，组成28个核心家族。因此18个详情是目的性样本，18/28不是采样成功率。官网、Target及公开HTTP补充资料单独使用，不计入这18个详情；其中没有即饮产品。
+
+本次完成的是页面文字审读，完整可读标签审计为0，确认可比报价为0，因此不计算标签缺失率或每份价格。数字β声明4页、提取比6页为原始18页去重文本中的可见声明，不是成分验证。5页记录了文字或属性表面差异，其中2页涉及组织来源或剂型，另3页仅为重量字段差异；这些标记不作为市场错误率。补充公开页面中的FreshCap咖啡用量句不在原始18页文本内，因此原始用量统计不含该句。产品声明、零售销售和出版商预测分别使用自己的证据与分母。
+
 <span id="资料来源" class="anchor-alias" aria-hidden="true"></span>
-<h2 id="method">来源与方法</h2>
+<h2 id="sources">来源</h2>
 
-来源截止日为2026年9月15日。Mordor报告更新于2026年9月11日，其估计说明注明采用截至2026年1月可获得的数据和洞察；这是单一出版商预测，不是普查，也不是散装提取物收入估计。<a href="#market-v3-ref-1" aria-label="来源 1">[1]</a>
-ABC《HerbalGram》第144期于2025年出版，采用2024年SPINS渠道销售数据。<a href="#market-v3-ref-2" aria-label="来源 2">[2]</a>
-IFIC于2025年3月13—27日对3,000名18—80岁美国成年人开展加权在线面板调查，完整版建议引文日期为2026年1月。<a href="#market-v3-ref-3" aria-label="来源 3">[3]</a>
-NCA的2025年秋季历史摘要发布于2025年9月9日。<a href="#market-v3-ref-4" aria-label="来源 4">[4]</a>
+<p id="market-v4-ref-1">[1] <a href="https://www.mordorintelligence.com/industry-reports/mushroom-supplements-market">Mordor Intelligence — Mushroom Supplements Market</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-品牌页面用于说明材料、形态和定位，不作为成分实测、临床结果、市场份额或成交价格证据；行业采访用于有归属的企业案例，策略与成本含义属于分析。渠道数字均来自同一期ABC/SPINS报告。本文讨论饮品与原料以解释功能性蘑菇的商业联系，不将其收入加到补充剂预测之上。
+<p id="market-v4-ref-2">[2] <a href="https://umb.herbalgram.org/media/gqkbi0gy/hg144-hmr.pdf">ABC HerbalGram 144 — 2024 US Herb Market Report</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
+<p id="market-v4-ref-3">[3] <a href="https://www.amazon.com/s?k=reishi+extract">Amazon.com : reishi extract</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<h2 id="sources">资料来源</h2>
+<p id="market-v4-ref-4">[4] <a href="https://www.amazon.com/s?k=mushroom+supplement">Amazon.com : mushroom supplement</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-1">[1] <a href="https://www.mordorintelligence.com/industry-reports/mushroom-supplements-market">Mordor Intelligence — Mushroom Supplements Market</a></p>
+<p id="market-v4-ref-5">[5] <a href="https://www.amazon.com/s?k=mushroom+coffee">Amazon.com : mushroom coffee</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-2">[2] <a href="https://umb.herbalgram.org/media/gqkbi0gy/hg144-hmr.pdf">ABC HerbalGram 144 — 2024 US Herb Market Report</a></p>
+<p id="market-v4-ref-6">[6] <a href="https://www.amazon.com/s?k=lions+mane+powder">Amazon.com : lions mane powder</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-3">[3] <a href="https://ific.org/wp-content/uploads/2025-IFIC-Food-Health-Survey-Full-Report.pdf">IFIC — 2025 Food &amp; Health Survey, full report</a></p>
+<p id="market-v4-ref-7">[7] <a href="https://www.amazon.com/s?k=mushroom+gummies">Amazon.com : mushroom gummies</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-4">[4] <a href="https://www.ncausa.org/Newsroom/Grounds-for-celebration-Americans-remain-committed-to-coffee">NCA — Fall 2025 National Coffee Data Trends summary</a></p>
+<p id="market-v4-ref-8">[8] <a href="https://www.amazon.com/dp/B0062RC9ZO">Host Defense Reishi Extract, Heart &amp; Immune Health Support, 2 fl oz</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-5">[5] <a href="https://us.foursigmatic.com/pages/target">Four Sigmatic — Target assortment</a></p>
+<p id="market-v4-ref-9">[9] <a href="https://www.amazon.com/dp/B088C1PQ36">Reishi 1,000mg 4:1 Extract, Immune, Stress + Sleep Support, 300 Capsules</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-6">[6] <a href="https://www.ryzesuperfoods.com/pages/ryze-ingredients">RYZE — Ingredients and FAQ</a></p>
+<p id="market-v4-ref-10">[10] <a href="https://www.amazon.com/dp/B009E7V5R2">Life Extension Reishi Extract Mushroom Complex, 60 Capsules</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-7">[7] <a href="https://shop.realmushrooms.com/products/organic-lions-mane-extract-capsules">Real Mushrooms — Lion’s Mane Capsules</a></p>
+<p id="market-v4-ref-11">[11] <a href="https://www.amazon.com/dp/B0DMWLXC36">Organic Reishi Mushroom Extract, Highest Active Nutrient Levels, US Grown</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-8">[8] <a href="https://freshcap.com/products/ultimate-mushroom-complex-powder">FreshCap — Ultimate Mushroom Complex Powder</a></p>
+<p id="market-v4-ref-12">[12] <a href="https://www.amazon.com/dp/B07D32VNLP">Real Mushrooms Organic Red Reishi Capsules for Wellness, 90ct</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-9">[9] <a href="https://hostdefense.com/products/lions-mane-capsules">Host Defense — Lion’s Mane Capsules</a></p>
+<p id="market-v4-ref-13">[13] <a href="https://www.amazon.com/dp/B01JNNAQVW">Micro Ingredients Organic Reishi Mushroom Extract, 16 oz | 100:1 Red Reishi | Supports Immunity, Mood &amp; Stress Relief | Great for Tea, Tonic &amp; Daily Rituals | Non-GMO, Vegan Friendly</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-10">[10] <a href="https://ommushrooms.com/products/master-blend-mushroom-gummies">Om — Master Blend Mushroom Gummies</a></p>
+<p id="market-v4-ref-14">[14] <a href="https://www.amazon.com/dp/B07NY3WR4L">FreshCap Mushrooms Supplement, Ultimate Mushroom Complex, 120 Capsules</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-11">[11] <a href="https://odysseyelixir.com">Odyssey — Functional Energy</a></p>
+<p id="market-v4-ref-15">[15] <a href="https://www.amazon.com/dp/B002WJ1BZK">Host Defense MyCommunity Capsules, Immune Support, 120 Capsules</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-12">[12] <a href="https://www.nammex.com">Nammex — Mushroom extracts and testing</a></p>
+<p id="market-v4-ref-16">[16] <a href="https://www.amazon.com/dp/B00HG0YZMG">Quality of Life Premium Kinoko Platinum AHCC Herbal Supplement, 750mg per Capsule, for Immune Support, Liver Function, Maintains Natural Killer Cell Activity, Pack of 1, 60 Veggie Capsules</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-13">[13] <a href="https://www.nammex.com/mushroom-quality-control">Nammex — Mushroom Quality Control</a></p>
+<p id="market-v4-ref-17">[17] <a href="https://www.amazon.com/dp/B0FSGHP1FC">RYZE Organic Mushroom Coffee, Medium Roast, Adaptogenic Blend, 30 Servings</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-14">[14] <a href="https://www.nutraingredients.com/Article/2024/02/07/Nammex-more-than-doubles-turkey-tail-cultivation">NutraIngredients — Nammex turkey tail cultivation, 2024</a></p>
+<p id="market-v4-ref-18">[18] <a href="https://www.amazon.com/dp/B0GQHTFQ89">Freshcap Premium Mushroom Coffee, Organic Instant Coffee, 15 Servings</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-15">[15] <a href="https://bevnet.com/news/2024/odyssey-raises-6m-as-brand-embraces-straight-up-energy-identity">BevNET — Odyssey energy and distribution strategy, 2024</a></p>
+<p id="market-v4-ref-19">[19] <a href="https://www.amazon.com/dp/B0756D1D39">Four Sigmatic Organic Focus Mushroom Ground Coffee | Dark Roast, Organic Coffee with Lion&#x27;s Mane &amp; Chaga Mushroom for Mental Clarity &amp; Energy Support | 12oz Bag</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-16">[16] <a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/legislation-guidelines/guidance-documents/classification-products-at-food-natural-health-product-interface.html">Health Canada — Food–NHP interface classification</a></p>
+<p id="market-v4-ref-20">[20] <a href="https://www.amazon.com/dp/B0B53Y7Z7D">Everyday Dose Premium Adaptogenic Mushroom Coffee with Grass-Fed Collagen, Chaga, Lions Mane &amp; L-Theanine for Better Focus, Energy, Digestion, Skin, and Immunity 30 Servings</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-17">[17] <a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-health-products/legislation-guidelines/guidance-documents/management-product-licence-applications-attestations/pre-submission-process.html">Health Canada — NHP pre-submission process</a></p>
+<p id="market-v4-ref-21">[21] <a href="https://www.amazon.com/dp/B07P2CWWVV">Micro Ingredients Organic Lion’s Mane Mushroom Powder, 16oz | Pure Fruiting Body Superfood | Supports Brain, Focus, Energy &amp; Immune Health | Great for Smoothies &amp; Coffee | Filler Free, Vegan, Non-GMO</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-18">[18] <a href="https://food.ec.europa.eu/document/download/b075e41c-cccb-46ae-81c2-3a86fb3c390f_en?filename=novel-food_consult-status_hericium-erinaceus_aesan.pdf">AESAN / European Commission — Dehydrated lion’s mane mycelium, 2019</a></p>
+<p id="market-v4-ref-22">[22] <a href="https://www.amazon.com/dp/B0C8LTR6L1">DEAL SUPPLEMENT Organic Lions Mane Mushroom Powder Supplement, 1,500mg Per Serving, 1lb – Active Fruiting Body &amp; Mycelium Extract – Natural Brain Nootropic &amp; Immune System Booster – Non-GMO</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-19">[19] <a href="https://food.ec.europa.eu/document/download/1db081b3-c497-4349-85f9-5347f2989ca8_en?filename=novel-food_consult-status_lions-mane-extract-powder.pdf&amp;prefLang=nl">Finnish Food Authority / European Commission — Lion’s mane extract powder, 2025</a></p>
+<p id="market-v4-ref-23">[23] <a href="https://www.amazon.com/dp/B00OBRMFBU">Om Lion’s Mane Mushroom Powder - Organic Mushroom Supplement and Nootropic - Support Memory, Focus and Nerve Health, 3.5 oz (50 Servings)​</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-20">[20] <a href="https://www.fda.gov/food/dietary-supplements/information-consumers-using-dietary-supplements">FDA — Information for Consumers on Using Dietary Supplements</a></p>
+<p id="market-v4-ref-24">[24] <a href="https://www.amazon.com/dp/B0BTYX618V">Plant People WonderSleep Mushroom Gummies Supplement for Sleep, 60ct</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-21">[21] <a href="/zh/plant-extracts/ingredients/reishi-mushroom">ZL Botanicals — Reishi ingredient science</a></p>
+<p id="market-v4-ref-25">[25] <a href="https://www.amazon.com/dp/B0C4166SSW">Auri Nutrition Super Mushroom Gummies - 12 Functional Mushrooms - 60 Count</a> · <time datetime="2026-09-15">2026-09-15</time></p>
 
-<p id="market-v3-ref-22">[22] <a href="https://www.wholefoodsmarket.com/grocery/product/four-sigmatic-four-sigmatic-focus-organic-mushroom-coffee-instant-mushroom-coffee-mix-with-lion-s-mane-chaga-and-rhodiola-for-better-focus-and-immune-support-10-packets-b00zwa7lq4">Whole Foods Market — Four Sigmatic Focus Instant Coffee</a></p>
+<p id="market-v4-ref-26">[26] <a href="https://us.foursigmatic.com/pages/target">Four Sigmatic — Target assortment</a> · <time datetime="2026-09-15">2026-09-15</time></p>
+
+<p id="market-v4-ref-27">[27] <a href="https://us.foursigmatic.com/products/focus-ground-coffee-bag">Four Sigmatic Focus Ground Coffee</a> · <time datetime="2026-09-15">2026-09-15</time></p>
+
+<p id="market-v4-ref-28">[28] <a href="https://www.target.com/p/four-sigmatic-focus-organic-vitamin-capsules-90ct/-/A-93164526">Target Four Sigmatic Focus Capsules</a> · <time datetime="2026-09-15">2026-09-15</time></p>
+
+<p id="market-v4-ref-29">[29] <a href="https://www.odysseyfunctionalenergy.com/products/variety-pack">Odyssey 85mg variety pack</a> · <time datetime="2026-09-15">2026-09-15</time></p>
+
+<p id="market-v4-ref-30">[30] <a href="https://www.odysseyfunctionalenergy.com/products/222-variety-pack">Odyssey 222mg variety pack</a> · <time datetime="2026-09-15">2026-09-15</time></p>

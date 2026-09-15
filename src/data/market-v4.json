@@ -1,0 +1,735 @@
+{
+  "charts": [
+    {
+      "id": "sample-form",
+      "type": "horizontal_count_bars",
+      "title_zh": "18个Amazon详情的剂型结构",
+      "title_en": "Formats in 18 Amazon detail records",
+      "denominator": 18,
+      "unit": "detail records",
+      "zero_baseline": true,
+      "rows": [
+        {
+          "form": "liquid",
+          "count": 1,
+          "asins": [
+            "B0062RC9ZO"
+          ],
+          "form_label": {
+            "zh": "液体",
+            "en": "Liquid"
+          }
+        },
+        {
+          "form": "capsule",
+          "count": 6,
+          "asins": [
+            "B088C1PQ36",
+            "B009E7V5R2",
+            "B07D32VNLP",
+            "B07NY3WR4L",
+            "B002WJ1BZK",
+            "B00HG0YZMG"
+          ],
+          "form_label": {
+            "zh": "胶囊",
+            "en": "Capsules"
+          }
+        },
+        {
+          "form": "liquid_conflicted",
+          "count": 1,
+          "asins": [
+            "B0DMWLXC36"
+          ],
+          "form_label": {
+            "zh": "液体属性与胶囊措辞不一致",
+            "en": "Liquid attributes / capsule wording"
+          }
+        },
+        {
+          "form": "powder",
+          "count": 4,
+          "asins": [
+            "B01JNNAQVW",
+            "B07P2CWWVV",
+            "B0C8LTR6L1",
+            "B00OBRMFBU"
+          ],
+          "form_label": {
+            "zh": "粉剂",
+            "en": "Powders"
+          }
+        },
+        {
+          "form": "coffee",
+          "count": 4,
+          "asins": [
+            "B0FSGHP1FC",
+            "B0GQHTFQ89",
+            "B0756D1D39",
+            "B0B53Y7Z7D"
+          ],
+          "form_label": {
+            "zh": "咖啡",
+            "en": "Coffee"
+          }
+        },
+        {
+          "form": "gummy",
+          "count": 2,
+          "asins": [
+            "B0BTYX618V",
+            "B0C4166SSW"
+          ],
+          "form_label": {
+            "zh": "软糖",
+            "en": "Gummies"
+          }
+        }
+      ],
+      "caption_zh": "2026年9月15日的18个目的性商品详情样本；液体属性与胶囊措辞不一致的1页单列。计数不是市场份额。",
+      "source_ids": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "research_date": "2026-09-15",
+      "caption_en": "Purposive sample collected September 15, 2026. One listing with liquid attributes and capsule wording is shown separately. Counts are not market shares."
+    },
+    {
+      "id": "material-format",
+      "type": "categorical_count_matrix",
+      "title_zh": "剂型与页面材料措辞：两个比较维度",
+      "denominator": 18,
+      "rows": [
+        {
+          "form": "liquid",
+          "material_claim": "mycelium_and_fermented_substrate_claim",
+          "count": 1,
+          "asins": [
+            "B0062RC9ZO"
+          ],
+          "form_label": {
+            "zh": "液体",
+            "en": "Liquid"
+          },
+          "material_label": {
+            "zh": "菌丝体与发酵基质声明",
+            "en": "Mycelium and fermented substrate stated"
+          }
+        },
+        {
+          "form": "capsule",
+          "material_claim": "fruiting_body_and_mycelium_claim",
+          "count": 1,
+          "asins": [
+            "B088C1PQ36"
+          ],
+          "form_label": {
+            "zh": "胶囊",
+            "en": "Capsules"
+          },
+          "material_label": {
+            "zh": "子实体与菌丝体声明",
+            "en": "Fruiting body and mycelium stated"
+          }
+        },
+        {
+          "form": "capsule",
+          "material_claim": "fruit_body_and_spore_claim",
+          "count": 1,
+          "asins": [
+            "B009E7V5R2"
+          ],
+          "form_label": {
+            "zh": "胶囊",
+            "en": "Capsules"
+          },
+          "material_label": {
+            "zh": "子实体与孢子声明",
+            "en": "Fruit body and spores stated"
+          }
+        },
+        {
+          "form": "liquid_conflicted",
+          "material_claim": "unresolved_not_label_audited",
+          "count": 1,
+          "asins": [
+            "B0DMWLXC36"
+          ],
+          "form_label": {
+            "zh": "液体属性与胶囊措辞不一致",
+            "en": "Liquid attributes / capsule wording"
+          },
+          "material_label": {
+            "zh": "所见说明未确定组织来源",
+            "en": "Tissue source unresolved in available text"
+          }
+        },
+        {
+          "form": "capsule",
+          "material_claim": "fruiting_body_only_claim",
+          "count": 2,
+          "asins": [
+            "B07D32VNLP",
+            "B07NY3WR4L"
+          ],
+          "form_label": {
+            "zh": "胶囊",
+            "en": "Capsules"
+          },
+          "material_label": {
+            "zh": "仅使用子实体的声明",
+            "en": "Exclusive fruiting-body wording"
+          }
+        },
+        {
+          "form": "powder",
+          "material_claim": "unresolved_not_label_audited",
+          "count": 2,
+          "asins": [
+            "B01JNNAQVW",
+            "B00OBRMFBU"
+          ],
+          "form_label": {
+            "zh": "粉剂",
+            "en": "Powders"
+          },
+          "material_label": {
+            "zh": "所见说明未确定组织来源",
+            "en": "Tissue source unresolved in available text"
+          }
+        },
+        {
+          "form": "capsule",
+          "material_claim": "mycelium_and_fermented_substrate_claim",
+          "count": 1,
+          "asins": [
+            "B002WJ1BZK"
+          ],
+          "form_label": {
+            "zh": "胶囊",
+            "en": "Capsules"
+          },
+          "material_label": {
+            "zh": "菌丝体与发酵基质声明",
+            "en": "Mycelium and fermented substrate stated"
+          }
+        },
+        {
+          "form": "capsule",
+          "material_claim": "mycelia_named_claim",
+          "count": 1,
+          "asins": [
+            "B00HG0YZMG"
+          ],
+          "form_label": {
+            "zh": "胶囊",
+            "en": "Capsules"
+          },
+          "material_label": {
+            "zh": "列明菌丝体",
+            "en": "Mycelia named"
+          }
+        },
+        {
+          "form": "coffee",
+          "material_claim": "whole_mushrooms_unspecified_tissue_claim",
+          "count": 1,
+          "asins": [
+            "B0FSGHP1FC"
+          ],
+          "form_label": {
+            "zh": "咖啡",
+            "en": "Coffee"
+          },
+          "material_label": {
+            "zh": "全菇措辞，组织未明确",
+            "en": "Whole-mushroom wording; tissue unspecified"
+          }
+        },
+        {
+          "form": "coffee",
+          "material_claim": "unresolved_not_label_audited",
+          "count": 1,
+          "asins": [
+            "B0GQHTFQ89"
+          ],
+          "form_label": {
+            "zh": "咖啡",
+            "en": "Coffee"
+          },
+          "material_label": {
+            "zh": "所见说明未确定组织来源",
+            "en": "Tissue source unresolved in available text"
+          }
+        },
+        {
+          "form": "coffee",
+          "material_claim": "fruiting_body_only_claim",
+          "count": 1,
+          "asins": [
+            "B0756D1D39"
+          ],
+          "form_label": {
+            "zh": "咖啡",
+            "en": "Coffee"
+          },
+          "material_label": {
+            "zh": "仅使用子实体的声明",
+            "en": "Exclusive fruiting-body wording"
+          }
+        },
+        {
+          "form": "coffee",
+          "material_claim": "fruiting_body_wording_no_only_claim",
+          "count": 1,
+          "asins": [
+            "B0B53Y7Z7D"
+          ],
+          "form_label": {
+            "zh": "咖啡",
+            "en": "Coffee"
+          },
+          "material_label": {
+            "zh": "100%子实体措辞",
+            "en": "100% fruiting-body wording"
+          }
+        },
+        {
+          "form": "powder",
+          "material_claim": "conflict_fruiting_title_vs_body_mycelium",
+          "count": 1,
+          "asins": [
+            "B07P2CWWVV"
+          ],
+          "form_label": {
+            "zh": "粉剂",
+            "en": "Powders"
+          },
+          "material_label": {
+            "zh": "标题子实体与正文菌丝体措辞不一致",
+            "en": "Fruiting-body title / mycelium text conflict"
+          }
+        },
+        {
+          "form": "powder",
+          "material_claim": "fruiting_body_and_mycelium_claim",
+          "count": 1,
+          "asins": [
+            "B0C8LTR6L1"
+          ],
+          "form_label": {
+            "zh": "粉剂",
+            "en": "Powders"
+          },
+          "material_label": {
+            "zh": "子实体与菌丝体声明",
+            "en": "Fruiting body and mycelium stated"
+          }
+        },
+        {
+          "form": "gummy",
+          "material_claim": "fruiting_body_wording_no_only_claim",
+          "count": 1,
+          "asins": [
+            "B0BTYX618V"
+          ],
+          "form_label": {
+            "zh": "软糖",
+            "en": "Gummies"
+          },
+          "material_label": {
+            "zh": "100%子实体措辞",
+            "en": "100% fruiting-body wording"
+          }
+        },
+        {
+          "form": "gummy",
+          "material_claim": "fruiting_body_extract_claim",
+          "count": 1,
+          "asins": [
+            "B0C4166SSW"
+          ],
+          "form_label": {
+            "zh": "软糖",
+            "en": "Gummies"
+          },
+          "material_label": {
+            "zh": "子实体提取物声明",
+            "en": "Fruiting-body extracts stated"
+          }
+        }
+      ],
+      "unobserved_cells": "no observed records in this sample, not market absence",
+      "color_meaning": "categories only; no quality score",
+      "note": "Everyday Dose and Plant People: 100% fruiting-body wording; no explicit only/no-mycelium wording. Blend claims do not establish chaga-specific anatomy.",
+      "source_ids": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "research_date": "2026-09-15",
+      "title_en": "Formats and listing material wording: two comparison axes",
+      "caption_zh": "18个详情的材料措辞分类；声明不等于实物验证。复配整体措辞不能确定白桦茸的具体组织。空格表示样本中无记录。",
+      "caption_en": "Material wording in 18 detail records; claims are not verified composition. Blend-level wording does not establish chaga anatomy. Empty cells mean no observations in this sample."
+    },
+    {
+      "id": "dose-basis",
+      "type": "paired_unit_cards",
+      "title_zh": "Auri每两粒：提取物量与干菇当量",
+      "source_ids": [
+        25
+      ],
+      "rows": [
+        {
+          "asin": "B0C4166SSW",
+          "serving_gummies": 2,
+          "extract_mass_mg": 300,
+          "dry_mushroom_equivalent_mg": 3000,
+          "ratio_claim": "10:1"
+        }
+      ],
+      "design": "Two equal-size labeled cards connected by listing-equivalence arrow, not comparative potency bars.",
+      "title_en": "Auri per two gummies: extract mass and dry-mushroom equivalent",
+      "caption_zh": "Auri页面声明：每两粒含300毫克10:1提取物，对应3,000毫克干菇当量；不是功效倍数。",
+      "caption_en": "Auri listing: 300 mg of 10:1 extract per two gummies, expressed as a 3,000 mg dry-mushroom equivalent; not a potency multiplier."
+    },
+    {
+      "id": "retail-sales",
+      "type": "zero_baseline_horizontal_bars",
+      "title_zh": "2024年美国“其他蘑菇”补充剂：两种SPINS渠道",
+      "title_en": "2024 US mushrooms (other) supplements: two SPINS channels",
+      "source_ids": [
+        2
+      ],
+      "unit": "USD",
+      "period": "52 weeks ended 2024-12-31",
+      "rows": [
+        {
+          "channel": "mainstream",
+          "sales_usd": 15651639,
+          "reported_yoy_percent": 75.8
+        },
+        {
+          "channel": "natural_expanded",
+          "sales_usd": 27550554,
+          "reported_yoy_percent": 14.4
+        }
+      ],
+      "denominator": "SPINS mushrooms (other) supplements within each named channel",
+      "caption": "Reishi, chaga and cordyceps tracked separately. Natural expanded excludes Whole Foods Market and Trader Joe’s. YoY uses report-revised prior-year values; do not back-calculate exact 2023 dollars.",
+      "caption_zh": "ABC引用SPINS截至2024年12月31日的52周数据。“其他蘑菇”补充剂；灵芝、白桦茸、虫草另计。自然产品扩展渠道不含Whole Foods Market和Trader Joe’s。金额与同比增速分列。",
+      "caption_en": "ABC citing SPINS, 52 weeks ended December 31, 2024, mushrooms (other) supplements. Reishi, chaga and cordyceps tracked separately. Natural expanded excludes Whole Foods Market and Trader Joe’s. Sales and reported YoY growth are separate measures."
+    },
+    {
+      "id": "global-forecast",
+      "type": "two_endpoint_solid_bars",
+      "title_zh": "全球蘑菇补充剂市场：2026估计与2031预测",
+      "source_ids": [
+        1
+      ],
+      "unit": "USD billion",
+      "zero_baseline": true,
+      "rows": [
+        {
+          "year": 2026,
+          "value": 5.83,
+          "status": "estimate"
+        },
+        {
+          "year": 2031,
+          "value": 8.83,
+          "status": "forecast"
+        }
+      ],
+      "reported_cagr_percent": 8.66,
+      "period": "2026–2031",
+      "recalculated_from_rounded_endpoints_percent": 8.657180061348303,
+      "intermediate_years": null,
+      "forecast_style": "solid tonal fill plus explicit Forecast text, never hollow bars",
+      "data_cutoff": "2026-01",
+      "page_updated": "2026-09-11",
+      "title_en": "Global mushroom supplements: 2026 estimate and 2031 forecast",
+      "caption_zh": "Mordor Intelligence：2026年58.3亿美元估计、2031年88.3亿美元预测；2026—2031年CAGR为8.66%。模型资料截至2026年1月，页面更新于2026年9月11日。",
+      "caption_en": "Mordor Intelligence: $5.83 billion estimated for 2026 and $8.83 billion forecast for 2031; 8.66% CAGR over 2026–2031. Model data as of January 2026; page updated September 11, 2026."
+    }
+  ],
+  "labels": {
+    "form": {
+      "capsule": {
+        "zh": "胶囊",
+        "en": "Capsules"
+      },
+      "powder": {
+        "zh": "粉剂",
+        "en": "Powders"
+      },
+      "coffee": {
+        "zh": "咖啡",
+        "en": "Coffee"
+      },
+      "gummy": {
+        "zh": "软糖",
+        "en": "Gummies"
+      },
+      "liquid": {
+        "zh": "液体",
+        "en": "Liquid"
+      },
+      "liquid_conflicted": {
+        "zh": "液体属性与胶囊措辞不一致",
+        "en": "Liquid attributes / capsule wording"
+      }
+    },
+    "material_claim": {
+      "mycelium_and_fermented_substrate_claim": {
+        "zh": "菌丝体与发酵基质声明",
+        "en": "Mycelium and fermented substrate stated"
+      },
+      "fruiting_body_and_mycelium_claim": {
+        "zh": "子实体与菌丝体声明",
+        "en": "Fruiting body and mycelium stated"
+      },
+      "fruit_body_and_spore_claim": {
+        "zh": "子实体与孢子声明",
+        "en": "Fruit body and spores stated"
+      },
+      "unresolved_not_label_audited": {
+        "zh": "所见说明未确定组织来源",
+        "en": "Tissue source unresolved in available text"
+      },
+      "fruiting_body_only_claim": {
+        "zh": "仅使用子实体的声明",
+        "en": "Exclusive fruiting-body wording"
+      },
+      "mycelia_named_claim": {
+        "zh": "列明菌丝体",
+        "en": "Mycelia named"
+      },
+      "whole_mushrooms_unspecified_tissue_claim": {
+        "zh": "全菇措辞，组织未明确",
+        "en": "Whole-mushroom wording; tissue unspecified"
+      },
+      "fruiting_body_wording_no_only_claim": {
+        "zh": "100%子实体措辞",
+        "en": "100% fruiting-body wording"
+      },
+      "conflict_fruiting_title_vs_body_mycelium": {
+        "zh": "标题子实体与正文菌丝体措辞不一致",
+        "en": "Fruiting-body title / mycelium text conflict"
+      },
+      "fruiting_body_extract_claim": {
+        "zh": "子实体提取物声明",
+        "en": "Fruiting-body extracts stated"
+      }
+    },
+    "channel": {
+      "mainstream": {
+        "zh": "主流零售渠道",
+        "en": "Mainstream retail"
+      },
+      "natural_expanded": {
+        "zh": "自然产品扩展渠道",
+        "en": "Natural expanded"
+      }
+    },
+    "status": {
+      "estimate": {
+        "zh": "估计",
+        "en": "Estimate"
+      },
+      "forecast": {
+        "zh": "预测",
+        "en": "Forecast"
+      }
+    },
+    "dose": {
+      "extract_mass_mg": {
+        "zh": "提取物量（毫克／两粒）",
+        "en": "Extract mass (mg per two gummies)"
+      },
+      "dry_mushroom_equivalent_mg": {
+        "zh": "干菇当量（毫克／两粒）",
+        "en": "Dry-mushroom equivalent (mg per two gummies)"
+      }
+    }
+  },
+  "products": [
+    {
+      "asin": "B0062RC9ZO",
+      "brand": "Host Defense",
+      "canonical_url": "https://www.amazon.com/dp/B0062RC9ZO",
+      "form": "liquid",
+      "material": "mycelium_and_fermented_substrate_claim",
+      "source_id": 8
+    },
+    {
+      "asin": "B088C1PQ36",
+      "brand": "Double Wood Supplements",
+      "canonical_url": "https://www.amazon.com/dp/B088C1PQ36",
+      "form": "capsule",
+      "material": "fruiting_body_and_mycelium_claim",
+      "source_id": 9
+    },
+    {
+      "asin": "B009E7V5R2",
+      "brand": "Life Extension",
+      "canonical_url": "https://www.amazon.com/dp/B009E7V5R2",
+      "form": "capsule",
+      "material": "fruit_body_and_spore_claim",
+      "source_id": 10
+    },
+    {
+      "asin": "B0DMWLXC36",
+      "brand": "Triquetra Health",
+      "canonical_url": "https://www.amazon.com/dp/B0DMWLXC36",
+      "form": "liquid_conflicted",
+      "material": "unresolved_not_label_audited",
+      "source_id": 11
+    },
+    {
+      "asin": "B07D32VNLP",
+      "brand": "Real Mushrooms",
+      "canonical_url": "https://www.amazon.com/dp/B07D32VNLP",
+      "form": "capsule",
+      "material": "fruiting_body_only_claim",
+      "source_id": 12
+    },
+    {
+      "asin": "B01JNNAQVW",
+      "brand": "Micro Ingredients",
+      "canonical_url": "https://www.amazon.com/dp/B01JNNAQVW",
+      "form": "powder",
+      "material": "unresolved_not_label_audited",
+      "source_id": 13
+    },
+    {
+      "asin": "B07NY3WR4L",
+      "brand": "FreshCap Mushrooms",
+      "canonical_url": "https://www.amazon.com/dp/B07NY3WR4L",
+      "form": "capsule",
+      "material": "fruiting_body_only_claim",
+      "source_id": 14
+    },
+    {
+      "asin": "B002WJ1BZK",
+      "brand": "Host Defense",
+      "canonical_url": "https://www.amazon.com/dp/B002WJ1BZK",
+      "form": "capsule",
+      "material": "mycelium_and_fermented_substrate_claim",
+      "source_id": 15
+    },
+    {
+      "asin": "B00HG0YZMG",
+      "brand": "Quality of Life",
+      "canonical_url": "https://www.amazon.com/dp/B00HG0YZMG",
+      "form": "capsule",
+      "material": "mycelia_named_claim",
+      "source_id": 16
+    },
+    {
+      "asin": "B0FSGHP1FC",
+      "brand": "RYZE SUPERFOODS",
+      "canonical_url": "https://www.amazon.com/dp/B0FSGHP1FC",
+      "form": "coffee",
+      "material": "whole_mushrooms_unspecified_tissue_claim",
+      "source_id": 17
+    },
+    {
+      "asin": "B0GQHTFQ89",
+      "brand": "FreshCap Mushrooms",
+      "canonical_url": "https://www.amazon.com/dp/B0GQHTFQ89",
+      "form": "coffee",
+      "material": "unresolved_not_label_audited",
+      "source_id": 18
+    },
+    {
+      "asin": "B0756D1D39",
+      "brand": "Four Sigmatic",
+      "canonical_url": "https://www.amazon.com/dp/B0756D1D39",
+      "form": "coffee",
+      "material": "fruiting_body_only_claim",
+      "source_id": 19
+    },
+    {
+      "asin": "B0B53Y7Z7D",
+      "brand": "Everyday Dose",
+      "canonical_url": "https://www.amazon.com/dp/B0B53Y7Z7D",
+      "form": "coffee",
+      "material": "fruiting_body_wording_no_only_claim",
+      "source_id": 20
+    },
+    {
+      "asin": "B07P2CWWVV",
+      "brand": "Micro Ingredients",
+      "canonical_url": "https://www.amazon.com/dp/B07P2CWWVV",
+      "form": "powder",
+      "material": "conflict_fruiting_title_vs_body_mycelium",
+      "source_id": 21
+    },
+    {
+      "asin": "B0C8LTR6L1",
+      "brand": "DEAL SUPPLEMENT",
+      "canonical_url": "https://www.amazon.com/dp/B0C8LTR6L1",
+      "form": "powder",
+      "material": "fruiting_body_and_mycelium_claim",
+      "source_id": 22
+    },
+    {
+      "asin": "B00OBRMFBU",
+      "brand": "OM MUSHROOM SUPERFOOD",
+      "canonical_url": "https://www.amazon.com/dp/B00OBRMFBU",
+      "form": "powder",
+      "material": "unresolved_not_label_audited",
+      "source_id": 23
+    },
+    {
+      "asin": "B0BTYX618V",
+      "brand": "Plant People",
+      "canonical_url": "https://www.amazon.com/dp/B0BTYX618V",
+      "form": "gummy",
+      "material": "fruiting_body_wording_no_only_claim",
+      "source_id": 24
+    },
+    {
+      "asin": "B0C4166SSW",
+      "brand": "Auri",
+      "canonical_url": "https://www.amazon.com/dp/B0C4166SSW",
+      "form": "gummy",
+      "material": "fruiting_body_extract_claim",
+      "source_id": 25
+    }
+  ]
+}
