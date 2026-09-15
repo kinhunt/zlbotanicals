@@ -38,10 +38,10 @@ try {
     assert.ok(Math.abs(geometry.x-(width-geometry.width)/2)<2);
     assert.equal(await page.locator('h1').count(),1);
     await page.screenshot({path:`${output}/${id}-article.png`});
-    for (let i=0;i<2;i++) {
+    for (let i=0;i<5;i++) {
       const table=page.locator('.market-table').nth(i);
       await table.evaluate(el=>el.scrollIntoView({behavior:'instant',block:'center'}));
-      if(width<740) {
+      if(await table.evaluate(el=>el.scrollWidth>el.clientWidth+1)) {
         await table.focus(); await page.keyboard.press('ArrowRight'); await page.waitForTimeout(300);
         assert.ok(await table.evaluate(el=>el.scrollLeft)>0,'keyboard scrolls table');
       }
@@ -63,7 +63,7 @@ try {
       await load(article);
     }
     assert.deepEqual(forbidden,[]); assert.deepEqual(errors,[]);
-    results.push({id,passed:true,geometry,citations:10,tables:2,journeys:2,nonGetRequests:forbidden,errors});
+    results.push({id,passed:true,geometry,citations:10,tables:5,journeys:2,nonGetRequests:forbidden,errors});
     await context.close();
   }
 } finally {
