@@ -1,0 +1,48 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getLocalizedPath, type Language } from '../i18n/config';
+import { mushroomMarket } from '../data/market-article';
+const { lang } = Astro.props as { lang: Language };
+const zh = lang === 'zh';
+const copy = mushroomMarket[lang];
+const local = (path: string) => getLocalizedPath(path, lang);
+const schema = {
+  '@context': 'https://schema.org', '@type': 'Article',
+  headline: copy.heading, description: copy.description,
+  datePublished: mushroomMarket.date, dateModified: mushroomMarket.date,
+  inLanguage: zh ? 'zh-CN' : 'en',
+  mainEntityOfPage: `https://zlbotanicals.com${local(mushroomMarket.path)}`,
+  author: { '@type': 'Organization', name: 'ZL Botanicals' },
+};
+---
+<BaseLayout lang={lang} title={copy.title} description={copy.description} ogType="article">
+  <div class="market-reader">
+    <nav aria-label={zh ? '面包屑导航' : 'Breadcrumb'} class="mb-8 text-sm text-primary">
+      <a href={local('/research')}>{zh ? '研究与应用' : 'Research'}</a>
+      <span aria-hidden="true"> / </span>
+      <a href={`${local('/research')}#market`}>{zh ? '市场洞察' : 'Market insights'}</a>
+    </nav>
+    <article>
+      <header class="mb-10">
+        <h1 class="font-display text-3xl md:text-5xl font-bold leading-tight">{copy.heading}</h1>
+        <p class="mt-5 text-gray-600">{zh ? '资料核查日期：' : 'Source review: '}<time datetime={mushroomMarket.date}>{zh ? '2026年9月15日' : 'September 15, 2026'}</time></p>
+      </header>
+      <div class="market-prose prose prose-lg max-w-none prose-headings:font-display prose-a:text-primary"><slot /></div>
+    </article>
+  </div>
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+</BaseLayout>
+<style>
+  .market-reader { max-width: 868px; margin-inline: auto; padding: 3rem 24px 5rem; text-align: left; }
+  .market-prose { overflow-wrap: anywhere; }
+  .market-prose :global(h2), .market-prose :global([id]) { scroll-margin-top: 100px; }
+  .market-prose :global(.market-table) { max-width: 100%; overflow-x: auto; margin-block: 1rem 2rem; border: 1px solid #d1d5db; border-radius: 8px; }
+  .market-prose :global(.market-table:focus-visible) { outline: 3px solid #1b4d3e; outline-offset: 3px; }
+  .market-prose :global(table) { min-width: 740px; margin: 0; font-size: 0.875rem; line-height: 1.65; }
+  .market-prose :global(th), .market-prose :global(td) { padding: 12px 16px; vertical-align: top; }
+  .market-prose :global(th) { background: #f8f7f4; }
+  .market-prose :global(.table-hint) { font-size: .875rem; color: #4b5563; margin-bottom: .5rem; }
+  .market-prose :global(a[href^="#market-ref-"]) { font-size: .8em; white-space: nowrap; }
+  .market-prose :global(p[id^="market-ref-"]) { font-size: .875rem; }
+  @media (max-width: 600px) { .market-reader { padding-inline: 20px; } }
+</style>

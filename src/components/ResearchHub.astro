@@ -1,5 +1,6 @@
 ---
 import profiles from '../data/science-profiles.json';
+import { mushroomMarket } from '../data/market-article';
 import PageLayout from '../layouts/PageLayout.astro';
 import {getLocalizedPath, type Language} from '../i18n/config';
 const {lang}=Astro.props as {lang:Language};
@@ -19,7 +20,13 @@ const sections=[
   <nav aria-label={zh?'研究栏目':'Research sections'} class="flex flex-wrap gap-4">{[...sections,{id:'market',title:zh?'市场洞察':'Market insights'},{id:'news',title:zh?'新闻与法规记录':'News & regulatory records'}].map(s=><a href={`#${s.id}`} class="underline text-primary">{s.title}</a>)}</nav>
   {sections.map(s=><section id={s.id} class="scroll-mt-28 border-t pt-8"><h2 class="text-2xl font-bold">{s.title}</h2><p class="mt-4">{s.text}</p>{s.id==='ingredients'&&<div class="grid sm:grid-cols-3 gap-4 mt-5">{profiles.map(p=><a class="p-4 border rounded-xl underline text-primary" href={local(`/plant-extracts/ingredients/${p.id}`)}>{p.title[lang]}</a>)}</div>}<a class="inline-block mt-4 underline text-primary" href={local(s.path)}>{zh?'浏览完整栏目':'Explore the full section'} →</a></section>)}
   <section id="market" class="scroll-mt-28 border-t pt-8 space-y-4">
-   <h2 class="text-2xl font-bold">{zh?'市场洞察：贸易信号不是原料市场规模':'Market insights: trade signals are not ingredient market size'}</h2>
+   <h2 class="text-2xl font-bold">{zh?'市场洞察':'Market insights'}</h2>
+   <article class="rounded-xl border border-primary/20 bg-primary/5 p-6" data-market-article-card>
+    <p class="text-sm text-gray-600"><time datetime={mushroomMarket.date}>{mushroomMarket.date}</time></p>
+    <h3 class="mt-2 text-xl font-semibold"><a class="underline text-primary" href={local(mushroomMarket.path)}>{mushroomMarket[lang].heading}</a></h3>
+    <p class="mt-3">{mushroomMarket[lang].description}</p>
+   </article>
+   <h3 class="text-xl font-bold">{zh?'贸易信号不是原料市场规模':'Trade signals are not ingredient market size'}</h3>
    <p>{zh?'分析范围：跨境商品贸易数据的可比性；方法来源为世界银行 WITS 对 UN Comtrade 的解释。本文不估算绿茶、积雪草或罗汉果的零售或原料市场规模，也没有下载贸易时间序列。':'Scope: comparability of cross-border merchandise trade data, using World Bank WITS explanations of UN Comtrade. This analysis does not estimate retail or ingredient market size for tea, centella or monk fruit; no trade time series was downloaded.'}</p>
    <h3 class="font-semibold text-lg">{zh?'为何同一贸易流会出现两个数字？':'Why can one trade flow produce two figures?'}</h3>
    <p>{zh?'WITS 说明进口一般按 CIF（成本、保险与运费）、出口按 FOB（离岸价）记录；同一商品还可能被进出口方分入不同类别。镜像数据利用贸易伙伴的报告，并不自动等于本国报告。':'WITS explains that imports are recorded CIF (cost, insurance and freight), while exports are FOB (free on board); the same good may also be classified differently by exporter and importer. Mirror data uses the partner’s report and is not automatically equivalent to the reporter’s own data.'}<a href="#market-source" class="underline">[4]</a></p>
