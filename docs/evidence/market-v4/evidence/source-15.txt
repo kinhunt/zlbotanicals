@@ -1,0 +1,38 @@
+Host Defense MyCommunity Capsules, Immune Support, 120 Capsules
+Organic Mushroom Complex Supplement for Immune Support: This herbal mushroom supplement aids a healthy and balanced immune response with comprehensive support
+17-Species Mushroom Supplement: Our herbal supplement is made with Lion's Mane, Reishi, Chaga, Cordyceps, Maitake, Royal Sun Blazei, Mesima and more for unique mushroom support*
+About Host Defense: Host Defense Mushrooms was founded by renowned mycologist Paul Stamets; our mushroom mycelium is certified organic, non-GMO, gluten-free, and grown in the USA*
+Powered by Mushroom Mycelium: Our organic mushroom mycelium is grown on organic brown rice substrate; third-party studies show that mushroom mycelium and fermented rice substrate support your health*
+Mushroom Immunity Supplement: As a dietary supplement, take 2 vegan capsules once daily with food or on an empty stomach, or as recommended by your healthcare advisor*
+{
+  "ASIN": "B002WJ1BZK",
+  "ASIN ‏": "‎ B002WJ1BZK",
+  "Age Range Description": "Adult",
+  "Allergen Information": "Non-GMO",
+  "Best Sellers Rank": "#7,683 in Health & Household (See Top 100 in Health & Household) #17 in Mushrooms Herbal Supplements",
+  "Brand Name": "Host Defense",
+  "Container Type": "Bottle",
+  "Customer Reviews": "4.7 4.7 out of 5 stars (7,068) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); });",
+  "Date First Available ‏": "‎ December 19, 2009",
+  "Department ‏": "‎ medicinal mushrooms",
+  "Diet Type": "Vegan, Vegetarian",
+  "Dosage Form": "Capsule",
+  "Flavor": "Unflavoured",
+  "Global Trade Identification Number": "00633422038131",
+  "Item Form": "Capsule",
+  "Item Highlight": "17 Species Blend Organic Mushroom for Immune Support, 60 Servings",
+  "Item Weight": "4.32 ounces",
+  "Item model number ‏": "‎ NCMC120",
+  "Manufacturer": "Host Defense",
+  "Manufacturer Part Number": "NCMC120",
+  "Manufacturer ‏": "‎ Host Defense",
+  "Material Features": "Organic",
+  "Model Number": "NCMC120",
+  "Number of Items": "1",
+  "Package Quantity": "1",
+  "Product Dimensions ‏": "‎ 2.31 x 2.31 x 4.5 inches; 4.32 ounces",
+  "Recommended Uses For Product": "Immune Support",
+  "Special Ingredients": "Various Medicinical Mushrooms",
+  "UPC": "633422038131",
+  "Unit Count": "120 Count"
+}

@@ -1,0 +1,39 @@
+RYZE Organic Mushroom Coffee, Medium Roast, Adaptogenic Blend, 30 Servings
+COFFEE, BUT REIMAGINED: Powered by 6 adaptogenic mushrooms, RYZE Mushroom Coffee supports you with all the energy and focus of regular coffee, with none of the jitters & crashes
+MORE HEALTH BENEFITS: Our signature blend features 2000mg per serving of six superfood mushrooms: Cordyceps, Reishi, King Trumpet, Shiitake, Turkey Tail and Lion’s Mane. Featuring an organic prebiotic blend and Organic Coffee
+ENERGY, FOCUS, DIGESTION, IMMUNITY: These adaptogenic mushrooms have been used for centuries and are known to support your body with everything from Energy & Focus to Digestion & Immunity
+FULL SPECTRUM: We use whole mushrooms to get the full spectrum of bioactive compounds, highest nutritional value from every single mushroom. The RYZE blend contains Beta-Glucans known for immune, mood, and gut health benefits
+USA GROWN + USDA ORGANIC: We only serve high quality full-spectrum mushrooms, grown locally. No sneaky additives or sweeteners - just 100% good-for-you deliciousness. Certified USDA Organic
+{
+  "ASIN": "B0FSGHP1FC",
+  "ASIN ‏": "‎ B0FSGHP1FC",
+  "Allergen Information": "Allergen-Free",
+  "Best Sellers Rank": "#127 in Grocery & Gourmet Food (See Top 100 in Grocery & Gourmet Food) #2 in Instant Coffee",
+  "Brand Name": "RYZE SUPERFOODS",
+  "Caffeine Content Description": "Caffeinated",
+  "Caffeine Content Per Serving": "48 milligrams",
+  "Coffee Blend Name": "Mushroom Medium Roast",
+  "Coffee Roast Level": "Medium Roast",
+  "Coffee Type": "Instant Coffee",
+  "Container Type": "Box",
+  "Customer Reviews": "4.3 4.3 out of 5 stars (7,520) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); });",
+  "Date First Available ‏": "‎ September 24, 2025",
+  "Diet Type": "Gluten Free, Keto, Paleo, Vegan, Vegetarian",
+  "Each Unit Count": "1",
+  "Flavor": "Medium Roast",
+  "Item Form": "Bag",
+  "Item Highlight": "6 Adaptogenic Mushrooms like Lion's Mane, Turkey Tail & Cordyceps, Supports Energy, Focus & Immunity, Gluten Free, Vegan",
+  "Item Package Weight": "0.35 kg",
+  "Item Volume": "6.3 fluid ounces",
+  "Item Weight": "6.35 ounces",
+  "Manufacturer": "RYZE SUPERFOODS",
+  "Manufacturer ‏": "‎ RYZE SUPERFOODS",
+  "Number of Items": "1",
+  "Package Dimensions ‏": "‎ 10.08 x 6.22 x 2.01 inches; 6.35 ounces",
+  "Package Size Name": "Pack of 1",
+  "Size": "6.3 Ounce (Pack of 1)",
+  "Special Ingredients": "Cordyceps, King Trumpet, Lion's Mane, Reishi, Shiitake",
+  "UPC": "810206300145",
+  "Unit Count": "6.3 Ounce",
+  "Variety": "Medium Roast"
+}

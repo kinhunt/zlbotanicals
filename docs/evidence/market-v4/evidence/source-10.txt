@@ -1,0 +1,41 @@
+Life Extension Reishi Extract Mushroom Complex, 60 Capsules
+Ancient fungus for modern times – Reishi mushroom has been used for centuries to encourage immune system function and has stood the test of time. Reishi helps rev up the body’s natural defenses for powerful immune support.
+Whole mushroom benefits – While traditional mushroom supplements only use one compound, this formula is standardized to three: polysaccharides, triterpenes and spores. They activate hematopoietic stem and T cells to help keep you well.
+Bioavailable formula – Get the most out of your reishi. This full-spectrum formula is made using advanced extraction methods for a robust immune response and antioxidant protection.
+Ingredients matter – We use the finest raw ingredients chosen for quality and purity. The majority of our products are non-GMO, gluten-free and manufactured in the USA with globally sourced ingredients, and a Certificate of Analysis is available for each.
+Live your healthiest life – We believe the answers to a healthier life are in reach, and that scientific research is the key to getting there. That’s why so many of our formulas feature specific ingredients and amounts based on scientific studies.
+{
+  "ASIN": "B009E7V5R2",
+  "ASIN ‏": "‎ B009E7V5R2",
+  "Age Range Description": "Adult",
+  "Allergen Information": "Gluten Free",
+  "Best Sellers Rank": "#118,288 in Health & Household (See Top 100 in Health & Household) #618 in Mushrooms Herbal Supplements #4,193 in Sales & Deals",
+  "Brand Name": "Life Extension",
+  "Container Type": "Bottle",
+  "Customer Reviews": "4.6 4.6 out of 5 stars (228) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); });",
+  "Date First Available ‏": "‎ November 22, 2012",
+  "Diet Type": "Vegetarian",
+  "Dosage Form": "Capsule",
+  "Flavor": "Unflavoured",
+  "Global Trade Identification Number": "00737870170860",
+  "Item Form": "Capsule",
+  "Item Highlight": "Full-Spectrum Extract for Broad-Spectrum Immune Support, Gluten-Free, Non-GMO & Vegetarian",
+  "Item Nype Name": "Reishi Extract Mushroom Complex",
+  "Item Weight": "2.56 ounces",
+  "Item model number ‏": "‎ 01708",
+  "Legal Disclaimer": "These statements have not been evaluated by the FDA. These products are not intended to diagnose, treat, cure, or prevent any disease.",
+  "Manufacturer": "Life Extension",
+  "Manufacturer Part Number": "01708",
+  "Manufacturer ‏": "‎ Life Extension",
+  "Material Features": "Genetically Modified Organism (GMO) Free, Gluten Free",
+  "Material Type Free": "Gluten Free",
+  "Model Number": "01708",
+  "Number of Items": "1",
+  "Package Quantity": "1",
+  "Product Dimensions ‏": "‎ 2.09 x 2.09 x 3.73 inches; 2.56 ounces",
+  "Recommended Uses For Product": "Encourages function of hematopoietic stem cells, T cells & immune factors, Standardized for polysaccharides, triterpenes and spores, Supports immune system function, \\Supports production of antioxidant enzymes that promote immune response",
+  "Special Ingredients": "Reishi mushroom (Ganoderma lucidum) extract (fruit body), Shell-broken Reishi mushroom (Ganoderma lucidum) spore",
+  "Total Servings Per Container": "30",
+  "UPC": "737870170860",
+  "Unit Count": "60 Count"
+}

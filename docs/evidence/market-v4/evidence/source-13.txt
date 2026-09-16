@@ -1,0 +1,34 @@
+Micro Ingredients Organic Reishi Mushroom Extract, 16 oz | 100:1 Red Reishi | Supports Immunity, Mood & Stress Relief | Great for Tea, Tonic & Daily Rituals | Non-GMO, Vegan Friendly
+Micro Ingredients offers Organic Red Reishi Mushroom Powder, a potent 100:1 extract, retains natural polysaccharides, antioxidants, and beta glucans.
+Each pouch offers 16 ounces of reishi powder, ½ scoop serving of approximately 1,000mg reishi mushroom extract, lasts up to a 454 day supply.
+Reishi is a trusted mushroom that is great for coffee or tea, it may offer support for energy and immune health in men and women.
+Scoop included to get the perfect measurement every time, powder form provides optimal concentration, absorption, and may be easier on the stomach.
+Premium non-GMO reishi mushroom powder. Free of soy, dairy, gluten, fillers, preservatives, flavors, and tree nuts. Must pass a 3rd party lab test to offer a product that is safe, pure, and potent.
+{
+  "ASIN": "B01JNNAQVW",
+  "ASIN ‏": "‎ B01JNNAQVW",
+  "Age Range Description": "Adult",
+  "Allergen Information": "Gluten Free",
+  "Best Sellers Rank": "#21,184 in Grocery & Gourmet Food (See Top 100 in Grocery & Gourmet Food) #11 in Dried Mushrooms",
+  "Brand Name": "Micro Ingredients",
+  "Container Type": "Bag",
+  "Customer Reviews": "4.6 4.6 out of 5 stars (1,389) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); });",
+  "Date First Available ‏": "‎ August 2, 2016",
+  "Diet Type": "Gluten Free",
+  "Dosage Form": "Powder",
+  "Flavor": "Reishi Mushroom",
+  "Global Trade Identification Number": "00711301495173, 00850082445158",
+  "Item Form": "Powder",
+  "Item Weight": "3.52 ounces",
+  "Manufacturer": "Micro Ingredients",
+  "Manufacturer Part Number": "COT-0100",
+  "Manufacturer ‏": "‎ Micro Ingredients",
+  "Material Features": "Organic",
+  "Number of Items": "1",
+  "Package Quantity": "1",
+  "Product Dimensions ‏": "‎ 4 x 6 x 0.1 inches; 3.52 ounces",
+  "Recommended Uses For Product": "Antioxidant",
+  "Special Ingredients": "Mushrooms",
+  "UPC": "711301495173 850082445158",
+  "Unit Count": "16 Ounce"
+}
