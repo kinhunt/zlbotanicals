@@ -25,6 +25,11 @@ Mordor Intelligence预计，全球蘑菇补充剂市场将由2026年的58.3亿�
 <span id="how-brands-compete-amazoncom-product-observations" class="anchor-alias" aria-hidden="true"></span>
 <h2 id="materials">同是胶囊，材料并不相同</h2>
 
+<figure class="market-concept-infographic">
+  <img src="/images/research/mushroom-comparison-zh.webp" width="1254" height="1254" loading="lazy" decoding="async" alt="蘑菇产品比较概念图：子实体与菌丝体是组织来源，提取物是加工形式；胶囊、粉剂、咖啡、软糖是产品形态；每份提取物含量、干蘑菇当量与配方总量需分别核对。" />
+  <figcaption>蘑菇产品比较的三个观察维度。提取物可来自子实体或菌丝体，并非与二者互斥的来源类别；胶囊、粉剂、咖啡和软糖也不能单凭形态判断材料。图中“比较单位”指含量标示口径：每份提取物实际含量、干蘑菇当量、配方总量不能直接等同，须同时核对毫克／克、每份大小及配方范围。</figcaption>
+</figure>
+
 [Real Mushrooms红灵芝胶囊](https://www.amazon.com/dp/B07D32VNLP)明确采用仅子实体的灵芝提取物，页面写有β-葡聚糖“>25%”。[Double Wood灵芝胶囊](https://www.amazon.com/dp/B088C1PQ36)则写明同时采用子实体和菌丝体，并标示每份1,000毫克、4:1提取比。这两款产品都叫灵芝提取物，但材料声明不同，不宜仅按瓶价或毫克数排序。<a href="#market-v4-ref-12" aria-label="来源 12">[12]</a><a href="#market-v4-ref-9" aria-label="来源 9">[9]</a>
 
 复配胶囊也有类似区别。[FreshCap Ultimate](https://www.amazon.com/dp/B07NY3WR4L)列出六菌配方，并使用“100% whole fruiting body mushrooms”的整体描述；[Host Defense MyCommunity](https://www.amazon.com/dp/B002WJ1BZK)列出17种真菌，说明菌丝体在有机糙米基质上培养，并提及菌丝体与发酵米基质。菌种数量不能代替材料组成，也不能据此推算每一种菌的用量。<a href="#market-v4-ref-14" aria-label="来源 14">[14]</a><a href="#market-v4-ref-15" aria-label="来源 15">[15]</a>

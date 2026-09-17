@@ -5,7 +5,7 @@ const data=JSON.parse(readFileSync('src/data/market-v4.json','utf8'));
 for(const lang of ['en','zh'])test(`${lang}: v4 precise exhibits use reviewed values and units`,()=>{
  const h=readFileSync(`dist/${lang==='zh'?'zh/':''}research/market/functional-mushrooms/index.html`,'utf8');
  const figure=id=>h.match(new RegExp(`<figure[^>]*id="${id}"[\\s\\S]*?</figure>`))[0];
- assert.equal((h.match(/<figure/g)||[]).length,5);
+ assert.equal((h.match(/<figure/g)||[]).length,lang==='zh'?6:5);
  for(const id of ['sample-form','retail-sales','global-forecast']){
   const f=figure(id),d=data.charts.find(c=>c.id===id);
   const expected=d.rows.map(r=>r.count??r.sales_usd??r.value).sort((a,b)=>a-b);
