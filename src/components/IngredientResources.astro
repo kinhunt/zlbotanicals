@@ -20,6 +20,7 @@ const technical=[
   <a class="resource-card" href={local(`/products/${id}`)}><span class="resource-label">{zh?'原料采购':'Ingredient sourcing'}</span><h3>{profile.title[lang]}</h3><p>{zh?'规格、样品与供货条件':'Specifications, samples and supply terms'} →</p></a>
   <a class="resource-card" href={local(`/solutions/${dossier.industry}`)}><span class="resource-label">{zh?'应用开发':'Application development'}</span><h3>{zh?'从原料到终端产品':'From ingredient to end product'}</h3><p>{zh?'配方适配与测试方向':'Formulation fit and testing priorities'} →</p></a>
  </div>
+ {id==='reishi-mushroom'&&<p><a href={local('/research/market/functional-mushrooms#reishi-extract-market')}>{zh?'灵芝原料在终端产品中的呈现':'How reishi materials appear in finished products'} →</a></p>}
  <ul class="technical-links">{technical.map(([path,label])=><li><a href={local(path)}>{label} →</a></li>)}</ul>
  <div class="development-links"><a href={local('/request-quote')+'?'+new URLSearchParams({request:'application',product:profile.title[lang],source:dossier.industry,application:dossier.industry})}>{zh?'讨论此原料的应用需求':'Discuss this ingredient application'} →</a>{concepts.filter(c=>c.products.includes(id)).map(c=><a href={local(`/odm/${c.slug}`)}>{c.title[lang]} · {zh?'开发概念':'development concept'} →</a>)}</div>
  {profile.family&&<p class="family-link"><a href={local(`/plant-extracts/ingredients/${profile.family}`)}>{zh?'相关成分家族：定义与检测边界':'Related constituent family: definitions & assay boundaries'} →</a></p>}

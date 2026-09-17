@@ -1962,15 +1962,17 @@
       "references": [],
       "translations": {
         "en": {
-          "title": "Centella Asiatica Extract",
-          "description": "Centella asiatica herb; the cited laboratory experiment used authenticated mature leaves, not an unspecified whole-plant commercial powder.",
-          "blocks": []
-        },
+   "title": "Centella Asiatica Extract",
+   "description": "Explore Centella asiatica extract types, four triterpenoid markers and extraction choices, with serum, cream and gel formulation guidance.",
+   "blocks": [],
+   "seoTitle": "Centella Asiatica Extract: Triterpenes & Extraction"
+ },
         "zh": {
-          "title": "积雪草提取物",
-          "description": "积雪草 Centella asiatica 草本原料；所引实验使用经鉴定的成熟叶，不是不明部位的全草商品粉。",
-          "blocks": []
-        }
+   "title": "积雪草提取物",
+   "description": "区分积雪草广谱提取物、精制三萜及水／多元醇原料，了解四种三萜标志物、溶剂选择和精华、乳霜、凝胶的配方评价。",
+   "blocks": [],
+   "seoTitle": "积雪草提取物：三萜组成、提取工艺与护肤配方"
+ }
       }
     },
     {
@@ -2088,15 +2090,17 @@
       "references": [],
       "translations": {
         "en": {
-          "title": "Goji Berry Extract",
-          "description": "Lycium barbarum fruit. Whole-fruit powder, juice solids, polysaccharide fractions and carotenoid-oriented materials must remain distinct; leaf studies do not identify fruit extracts.",
-          "blocks": []
-        },
+   "title": "Goji Berry Extract",
+   "description": "Compare goji berry juice powder, polysaccharide fractions and carotenoid-focused materials, with formulation, extraction and quality guidance.",
+   "blocks": [],
+   "seoTitle": "Goji Berry Extract: Forms, Polysaccharides & Uses"
+ },
         "zh": {
-          "title": "枸杞提取物",
-          "description": "枸杞 Lycium barbarum 果实；全果粉、果汁固形物、多糖组分与类胡萝卜素导向材料须区分，叶研究不能界定果实提取物。",
-          "blocks": []
-        }
+   "title": "枸杞提取物",
+   "description": "区分枸杞果汁粉、多糖富集物和类胡萝卜素导向材料，了解冲调饮料、软糖与胶囊的选料、提取工艺和质量评价。",
+   "blocks": [],
+   "seoTitle": "枸杞提取物：果汁粉、多糖组分与应用"
+ }
       }
     },
     {
@@ -2106,15 +2110,17 @@
       "references": [],
       "translations": {
         "en": {
-          "title": "Licorice Root Extract",
-          "description": "Glycyrrhiza roots and stolons; identify the species rather than relying on the common name. Glabridin-oriented material specifically requires authenticated G. glabra.",
-          "blocks": []
-        },
+   "title": "Licorice Root Extract",
+   "description": "Compare licorice root extracts, DGL and glabridin-rich materials, including botanical identity, composition, formulation choices and safety considerations.",
+   "blocks": [],
+   "seoTitle": "Licorice (Liquorice) Extract: DGL, Glycyrrhizin & Uses"
+ },
         "zh": {
-          "title": "甘草提取物",
-          "description": "甘草属 Glycyrrhiza 的根及根茎类原料；须鉴定物种而非只依靠俗名。光甘草定导向材料尤其需要经鉴定的 G. glabra。",
-          "blocks": []
-        }
+   "title": "甘草提取物",
+   "description": "了解不同甘草物种与提取物的区别，比较甘草酸、脱甘草酸甘草DGL及光甘草定的组成、调味和外用开发，以及质量与安全评价。",
+   "blocks": [],
+   "seoTitle": "甘草提取物：甘草酸、DGL与光甘草定"
+ }
       }
     },
     {
@@ -2124,15 +2130,17 @@
       "references": [],
       "translations": {
         "en": {
-          "title": "Stevia Extract",
-          "description": "Stevia rebaudiana leaves are the botanical input for leaf extraction. Fermentation-derived and enzyme-converted glycosides have different starting materials and cannot simply be described as leaf extracts.",
-          "blocks": []
-        },
+   "title": "Stevia Extract",
+   "description": "Understand stevia leaf extract, purified steviol glycosides and production routes, with Reb A, D and M profiles, formulation and US conventional-food guidance.",
+   "blocks": [],
+   "seoTitle": "Stevia Rebaudiana Leaf Extract & Steviol Glycosides"
+ },
         "zh": {
-          "title": "甜菊提取物",
-          "description": "甜叶菊 Stevia rebaudiana 的叶是叶提路线的植物原料。发酵来源及酶转化糖苷的起始材料不同，不能一概称为叶提取物。",
-          "blocks": []
-        }
+   "title": "甜菊提取物",
+   "description": "区分甜叶菊粗叶提取物、精制甜菊糖苷与复配甜味剂，了解Reb A、D、M组成、饮料减糖应用及美国普通食品用途的法规边界。",
+   "blocks": [],
+   "seoTitle": "甜叶菊叶提取物与甜菊糖苷：组成、用途及法规"
+ }
       }
     },
     {

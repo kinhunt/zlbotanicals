@@ -614,7 +614,7 @@
         },
         {
           "id": "components",
-          "heading": "Material forms and composition",
+          "heading": "Asiaticoside, madecassoside and their aglycones",
           "blocks": [
             {
               "type": "table",
@@ -670,8 +670,12 @@
         },
         {
           "id": "processes",
-          "heading": "Processing and equipment",
+          "heading": "Extraction of Centella asiatica: solvent choice and triterpenoid profile",
           "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The extraction route should follow the intended Centella ingredient. A broad leaf extract, a glycoside-rich fraction and an isolated triterpenoid do not have the same composition. Track asiaticoside and madecassoside separately from asiatic acid and madecassic acid when comparing solvents and purification steps. A higher crude-extract yield does not by itself mean a higher recovery of every marker; laboratory extraction conditions are not finished-product specifications.[4][19]"
+            },
             {
               "type": "paragraph",
               "text": "Broad extracts begin with authenticated leaves or aerial parts, controlled drying and milling, solvent contact, solid–liquid separation and concentration. The extraction vessel controls wetting, temperature and contact time; a centrifuge or filter removes tissue. Finer milling can accelerate release but increase fines and filtration resistance. Solvent selection must follow the desired glycoside/aglycone profile.[19]"
@@ -810,7 +814,7 @@
         },
         {
           "id": "components",
-          "heading": "原料形态与组成",
+          "heading": "积雪草苷、羟基积雪草苷及其苷元",
           "blocks": [
             {
               "type": "table",
@@ -866,8 +870,12 @@
         },
         {
           "id": "processes",
-          "heading": "工艺与设备",
+          "heading": "积雪草提取工艺：溶剂选择与三萜组成",
           "blocks": [
+            {
+              "type": "paragraph",
+              "text": "积雪草的提取路线应服务于明确的原料目标。广谱叶提取物、糖苷富集组分和分离三萜单体的组成不同。比较溶剂与纯化步骤时，应把积雪草苷、羟基积雪草苷与积雪草酸、羟基积雪草酸分别追踪。粗提率升高不代表每一种标志物的回收率都提高，实验室的提取条件也不是成品原料规格。[4][19]"
+            },
             {
               "type": "paragraph",
               "text": "广谱提取物从鉴定后的叶或地上部出发，经过受控干燥粉碎、溶剂接触、固液分离和浓缩。提取容器控制润湿、温度及接触时间，离心或过滤移除组织。更细粉碎可能加快释放，也会增加细粉与过滤阻力。溶剂选择应围绕目标糖苷／苷元比例展开。[19]"
@@ -5006,14 +5014,13 @@
       "en": [
         {
           "id": "identity",
-          "heading": "Material identity",
+          "heading": "Licorice and liquorice extracts: names and material types",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Glycyrrhiza roots and stolons; identify the species rather than relying on the common name. Glabridin-oriented material specifically requires authenticated G. glabra."
+              "text": "Licorice and liquorice are American and British spellings of the same common name. Licorice root extracts nevertheless differ by Glycyrrhiza species, extraction process and composition. Conventional extracts retain a mixed profile; deglycyrrhizinated licorice (DGL) has much of its glycyrrhizin removed; glabridin-rich materials represent a different formulation choice. The shared name does not make these materials interchangeable at the same addition rate.[1][4][8]"
             }
-          ],
-          "legacy": true
+          ]
         },
         {
           "id": "effects",
@@ -5039,7 +5046,7 @@
         },
         {
           "id": "components",
-          "heading": "Material forms and composition",
+          "heading": "Glycyrrhizin, DGL and glabridin: how specifications differ",
           "blocks": [
             {
               "type": "paragraph",
@@ -5329,14 +5336,13 @@
       "zh": [
         {
           "id": "identity",
-          "heading": "原料身份",
+          "heading": "甘草提取物的英文名称与原料类型",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "甘草属 Glycyrrhiza 的根及根茎类原料；须鉴定物种而非只依靠俗名。光甘草定导向材料尤其需要经鉴定的 G. glabra。"
+              "text": "Licorice和liquorice分别是甘草的美式和英式拼写，单复数变化不代表新的原料类别。实际选料仍需区分甘草物种、提取工艺与组成：常规提取物保留混合组分，DGL经工艺降低甘草酸，光甘草定富集物则面向不同配方任务。不能因为都叫“甘草提取物”就按相同用量互换。[1][4][8]"
             }
-          ],
-          "legacy": true
+          ]
         },
         {
           "id": "effects",
@@ -5362,7 +5368,7 @@
         },
         {
           "id": "components",
-          "heading": "原料形态与组成",
+          "heading": "甘草酸、DGL与光甘草定：规格如何区分",
           "blocks": [
             {
               "type": "paragraph",
@@ -5951,14 +5957,13 @@
       "en": [
         {
           "id": "identity",
-          "heading": "Material identity",
+          "heading": "What is Stevia rebaudiana leaf extract?",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Stevia rebaudiana leaves are the botanical input for leaf extraction. Fermentation-derived and enzyme-converted glycosides have different starting materials and cannot simply be described as leaf extracts."
+              "text": "Stevia rebaudiana leaf extract starts with the leaves of the stevia plant, but the name alone does not state how far the material has been refined. Crude leaf extracts, purified steviol glycosides and formulated tabletop sweeteners are different ingredients. Stevioside and rebaudiosides A, D and M are individual glycosides; both their proportions and total glycoside content help define a sweetener. Fermentation and enzyme conversion are separate production routes.[1][2][5]"
             }
-          ],
-          "legacy": true
+          ]
         },
         {
           "id": "effects",
@@ -6182,14 +6187,13 @@
       "zh": [
         {
           "id": "identity",
-          "heading": "原料身份",
+          "heading": "甜叶菊叶提取物是什么，与甜菊糖苷有何区别？",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "甜叶菊 Stevia rebaudiana 的叶是叶提路线的植物原料。发酵来源及酶转化糖苷的起始材料不同，不能一概称为叶提取物。"
+              "text": "甜叶菊叶提取物以甜叶菊的叶为起始原料，但这一名称本身不能说明精制程度。粗叶提取物、精制甜菊糖苷和桌面复配甜味剂是不同原料。甜菊苷及莱鲍迪苷A、D、M属于不同单体，既要看总糖苷含量，也要看各单体比例。发酵和酶转化是需要单独说明的制造路线，不宜统称为叶提取。[1][2][5]"
             }
-          ],
-          "legacy": true
+          ]
         },
         {
           "id": "effects",
@@ -7577,14 +7581,13 @@
         },
         {
           "id": "components",
-          "heading": "Material forms and composition",
+          "heading": "Goji berry extract, juice powder and polysaccharides: what differs?",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Free sugars, polysaccharide size/composition, betaine and carotenoids are separate targets."
+              "text": "Goji berry extract is not a single material specification. Juice powder is selected for fruit solids, flavour and reconstitution; a polysaccharide-rich fraction needs a defined carbohydrate profile. Whole-fruit powder retains tissue particles, while carotenoid-focused ingredients require a separate pigment assay and stability assessment. A total-sugar result does not identify a polysaccharide fraction.[12][24]"
             }
-          ],
-          "legacy": true
+          ]
         },
         {
           "id": "applications",
@@ -7906,14 +7909,13 @@
         },
         {
           "id": "components",
-          "heading": "原料形态与组成",
+          "heading": "枸杞提取物、果汁粉与多糖组分有什么区别？",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "游离糖、多糖分子量与组成、甜菜碱及类胡萝卜素是不同目标。"
+              "text": "枸杞提取物不是一个统一规格。果汁粉主要看果实固形物、风味和复溶表现；多糖富集物则需明确糖类组成及检测口径。全果粉保留组织颗粒，类胡萝卜素导向材料还要单独评价色素含量与稳定性。总糖检测不能代替多糖组分鉴定。[12][24]"
             }
-          ],
-          "legacy": true
+          ]
         },
         {
           "id": "applications",

@@ -1,4 +1,4 @@
-<nav class="market-toc" aria-label="In this article"><a href="#segments">Sample</a> / <a href="#materials">Materials</a> / <a href="#coffee">Coffee</a> / <a href="#dose">Dose</a> / <a href="#listing-text">Listing claims</a> / <a href="#channels">Channels</a> / <a href="#us-retail">Market context</a> / <a href="#implications">Planning</a> / <a href="#method">Methods</a></nav>
+<nav class="market-toc" aria-label="In this article"><a href="#segments">Sample</a> / <a href="#materials">Materials</a> / <a href="#reishi-extract-market">Reishi extract market</a> / <a href="#coffee">Coffee</a> / <a href="#dose">Dose</a> / <a href="#listing-text">Listing claims</a> / <a href="#channels">Channels</a> / <a href="#us-retail">Market context</a> / <a href="#implications">Planning</a> / <a href="#method">Methods</a></nav>
 
 Mordor Intelligence forecasts that the global mushroom supplements market will grow from $5.83 billion in 2026 to $8.83 billion in 2031, a compound annual growth rate of 8.66%. That forecast concerns finished supplements. Decisions about coffee, gummies and extract ingredients still need to start with specific products.<a href="#market-v4-ref-1" aria-label="Source 1">[1]</a>
 
@@ -35,6 +35,18 @@ A useful comparison therefore separates species, tissue source, fermented substr
 
 
 <!-- exhibit:material-format -->
+
+<h2 id="reishi-extract-market">Reishi mushroom extract market: product formats and material positioning</h2>
+
+The [material comparison](#materials) shows three distinct reishi positions within the existing sample: Real Mushrooms emphasizes fruiting-body extract, Double Wood describes fruiting body and mycelium, and Life Extension combines fruit-body extract with cracked spores. These are listing descriptions, not independently verified compositions.<a href="#market-v4-ref-12">[12]</a><a href="#market-v4-ref-9">[9]</a><a href="#market-v4-ref-10">[10]</a> Material identity therefore matters before comparing capsule counts or declared milligrams.
+
+Format adds another commercial distinction. Single-mushroom capsules foreground the extract composition, while [Plant People WonderSleep gummies](https://www.amazon.com/dp/B0BTYX618V) position reishi alongside saffron, GABA and other ingredients.<a href="#market-v4-ref-24">[24]</a> For development, capsule projects need suitable composition and filling performance; drink powders need a balance of flavour, dispersion and ingredient loading; gummies add taste, processing and serving-size constraints. A multi-ingredient sleep-themed gummy is a brand positioning choice, not evidence of a sleep effect from reishi alone.
+
+The broader mushroom-supplement forecast provides category context, while these product observations explain positioning. Neither establishes bulk reishi-extract revenue or market share. Converting retail sales into ingredient demand would require actual unit sales, servings per unit, reishi extract per serving and ingredient prices, with other species and blend ingredients separated.
+
+[Reishi extract supply forms](/products/reishi-mushroom#material-selection) · [Fruiting body, mycelium and extract composition](/plant-extracts/ingredients/reishi-mushroom#components)
+
+
 
 <span id="extracts" class="anchor-alias" aria-hidden="true"></span>
 <span id="value-chain" class="anchor-alias" aria-hidden="true"></span>

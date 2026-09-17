@@ -26,7 +26,7 @@ const { Content } = await product.render();
 
 ---
 
-<PageLayout title={isTurmeric ? 'Turmeric Extract Procurement: Bulk Supplier, Price & HPLC Specs' : sale ? salesTitle(sale,lang)+': Bulk Supply, Price & Specifications' : product.data.name} description={sale ? sale.offer[lang] : product.data.description} lang={lang}>
+<PageLayout title={isTurmeric ? 'Turmeric Extract Procurement: Bulk Supplier, Price & HPLC Specs' : sale ? (sale.seo?.title[lang] ?? salesTitle(sale,lang)+': Bulk Supply, Price & Specifications') : product.data.name} description={sale ? sale.seo?.description[lang] ?? sale.offer[lang] : product.data.description} lang={lang}>
  <article class={sale ? 'sales-shell' : undefined}>
   <div class={isTurmeric ? 'turmeric-shell' : undefined}>
    <nav class="mb-8 text-sm" aria-label="Breadcrumb"><a href={getLocalizedPath('/',lang)}>Home</a> / <a href={getLocalizedPath('/products',lang)}>Products</a> / {product.data.name}</nav>

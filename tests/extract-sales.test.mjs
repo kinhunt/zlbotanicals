@@ -6,7 +6,7 @@ test('all eleven commercial products render a localized sales offer without the 
  for(const id of ids) for(const lang of ['en','zh']){
   const html=readFileSync(`dist/${lang==='zh'?'zh/':''}products/${id}/index.html`,'utf8');
   assert.match(html,new RegExp(`data-extract-sales="${id}"`),`${lang}/${id}`);
-  assert.match(html,lang==='zh'?/<h1[^>]*>[^<]+采购<\/h1>/:/<h1[^>]*>[^<]+ Procurement<\/h1>/);
+  assert.match(html,id==='green-tea'?(lang==='zh'?/<h1[^>]*>绿茶提取物批量供应<\/h1>/:/<h1[^>]*>Green Tea Extract Supplier for Bulk Orders<\/h1>/):(lang==='zh'?/<h1[^>]*>[^<]+采购<\/h1>/:/<h1[^>]*>[^<]+ Procurement<\/h1>/));
   for(const anchor of ['material-selection','specifications','qualification','samples','supply-terms','why-choose-us','procurement-faq','processes','equipment','applications','standards','insights']) assert.ok(html.includes(`id="${anchor}"`),`${id}#${anchor}`);
   assert.ok(html.includes(`/plant-extracts/ingredients/${id}#`));
   assert.ok(html.includes(`/images/products/${id}.webp`));

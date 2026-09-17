@@ -43,3 +43,5 @@ relatedSolutions:
 - [灵芝软糖应用概念](/zh/solutions/reishi-sleep-gummy)
 
 [讨论采购需求](/zh/contact).
+
+[查看灵芝市场分析](/zh/research/market/functional-mushrooms#reishi-extract-market)
