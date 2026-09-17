@@ -15,7 +15,7 @@ const entry=(data.topics as any[]).find(t=>t.slug===topic);
 const content=entry?.translations[lang] || branch?.translations[lang];
 const title=content?.title || (zh?'植物提取物':'Plant Extracts');
 const turmeric=entry?.scienceId==='turmeric';
-const seoTitle=turmeric?(zh?'姜黄提取物：形态、工艺与质量':'Turmeric extract: forms, processing and quality'):title;
+const seoTitle=turmeric?(zh?'姜黄提取物：形态、工艺与质量':'Turmeric extract: forms, processing and quality'):entry?.translations[lang]?.seoTitle || title;
 const turmericDescription=zh?'了解姜黄提取物与姜黄粉、油树脂、结晶色素和分散粉的区别，阅读提取工艺图、设备作用、配方应用、JECFA质量标准及文献案例。':'Compare turmeric extract, ground turmeric, oleoresin and dispersible powders. Explore process routes, equipment, formulation, JECFA standards and studies.';
 const description=turmeric?turmericDescription:content?.description || (zh?'从植物身份、成分和提取工艺，到设备、应用与法规：面向采购和开发的双语知识库。':'A bilingual reference for botanical identity, ingredients, extraction, equipment, applications and regulatory review.');
 const references=entry?.references || branch?.references || ['who','review','gea','ndi','eu'];

@@ -43,3 +43,5 @@ Send destination market, intended format, processing conditions, ingredient excl
 - [Reishi Gummy Application Concept](/solutions/reishi-sleep-gummy)
 
 [Discuss a sourcing brief](/contact).
+
+[Looking for reishi market research?](/research/market/functional-mushrooms#reishi-extract-market)

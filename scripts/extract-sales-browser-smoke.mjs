@@ -12,11 +12,11 @@ try{
   const page=await context.newPage();page.on('pageerror',e=>errors.push(String(e)));
   const prefix=lang==='zh'?'/zh':'';const path=`${prefix}/products/${id}`;
   const response=await page.goto(base+path);assert.equal(response.status(),200);await page.evaluate(()=>document.fonts.ready);
-  assert.equal(await page.locator('h1').count(),1);assert.match(await page.locator('h1').innerText(),lang==='zh'?/采购$/:/ Procurement$/);
+  assert.equal(await page.locator('h1').count(),1);assert.match(await page.locator('h1').innerText(),id==='green-tea'?(lang==='zh'?/绿茶提取物批量供应$/:/Green Tea Extract Supplier for Bulk Orders$/):(lang==='zh'?/采购$/:/ Procurement$/));
   const heading=await page.locator('h1').boundingBox();assert.ok(heading.y>=0&&heading.y+heading.height<1000,`${path} heading visible`);
   assert.ok(await page.locator('[data-procurement-action="quote"]').first().isVisible());
   const head=await page.evaluate(()=>({title:document.title,description:document.querySelector('meta[name="description"]').content,canonical:document.querySelector('link[rel="canonical"]').href,alternates:[...document.querySelectorAll('link[hreflang]')].map(a=>[a.hreflang,a.href])}));
-  assert.ok(head.title.includes(lang==='zh'?'采购':'Procurement'));assert.ok(head.description.length>(lang==='zh'?40:80));assert.ok(head.canonical.endsWith(path));assert.ok(head.alternates.some(([l,u])=>l==='en'&&u.endsWith(`/products/${id}`)));assert.ok(head.alternates.some(([l,u])=>l==='zh-CN'&&u.endsWith(`/zh/products/${id}`)));
+  assert.ok(head.title.includes(['green-tea','goji-berry'].includes(id)?(lang==='zh'?'供应':'Supplier'):(lang==='zh'?'采购':'Procurement')));assert.ok(head.description.length>(lang==='zh'?40:80));assert.ok(head.canonical.endsWith(path));assert.ok(head.alternates.some(([l,u])=>l==='en'&&u.endsWith(`/products/${id}`)));assert.ok(head.alternates.some(([l,u])=>l==='zh-CN'&&u.endsWith(`/zh/products/${id}`)));
   assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),`${path} ${width} overflow`);
   for(const image of await page.locator('.extract-sales img').all()){await image.scrollIntoViewIfNeeded();await image.evaluate(i=>i.decode());assert.ok(await image.evaluate(i=>i.complete&&i.naturalWidth>0));}
   const arts=await page.locator('.application img').evaluateAll(imgs=>imgs.map(i=>({src:i.getAttribute('src'),w:i.naturalWidth,h:i.naturalHeight,r:i.getBoundingClientRect().width/i.getBoundingClientRect().height})));assert.equal(arts.length,3);assert.ok(arts.every(a=>a.src.includes(`/landscape/${id}/`)&&a.w>a.h&&Math.abs(a.r-1.5)<.02));

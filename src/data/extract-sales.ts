@@ -2,10 +2,16 @@ import {getIngredientReaderPack} from './ingredient-reader-packs';
 import type {Language} from '../i18n/config';
 type Text = {en:string;zh:string};
 type Row = {form:Text;composition:Text;use:Text};
-export type ExtractSale = {id:string;name:Text;identity:Text;offer:Text;forms:Row[];assay:Text;quality:Text;application:Text;faq:Text;answer:Text;benefits:[Text,Text,Text,Text];reading:Record<'processes'|'equipment'|'applications'|'standards'|'insights',Text>;sources:number[]};
+export type ExtractSale = {id:string;name:Text;seo?:{title:Text;description:Text};heading?:Text;formsHeading?:Text;identity:Text;offer:Text;forms:Row[];assay:Text;quality:Text;application:Text;faq:Text;answer:Text;benefits:[Text,Text,Text,Text];reading:Record<'processes'|'equipment'|'applications'|'standards'|'insights',Text>;sources:number[]};
 export const extractSales:ExtractSale[]=[
   {
     "id": "green-tea",
+    "heading": {"en":"Green Tea Extract Supplier for Bulk Orders","zh":"绿茶提取物批量供应"},
+    "seo": {
+      "title": {"en":"Green Tea Extract Supplier | Bulk Powder","zh":"绿茶提取物供应商｜批量供货与规格报价"},
+      "description": {"en":"Source green tea extract from ZL Botanicals for RTD tea, instant tea and dry blends. Request wholesale pricing, grade details and samples for your formulation.","zh":"振隆面向品牌商及配方制造企业供应绿茶提取物，服务即饮茶、速溶茶及儿茶素型干混粉项目。按形态、成分要求和采购数量报价，咨询样品、规格书与批次资料。"}
+    },
+    "formsHeading": {"en":"Bulk green tea extract powder and soluble tea ingredients","zh":"绿茶提取粉与可溶茶原料"},
     "name": {
       "en": "Green Tea Extract",
       "zh": "绿茶提取物"
@@ -15,8 +21,8 @@ export const extractSales:ExtractSale[]=[
       "zh": "Camellia sinensis · 叶提取物"
     },
     "offer": {
-      "en": "ZL Botanicals supplies green tea extract for ready-to-drink tea, instant tea powders and catechin-based dry blends. Our quotation range distinguishes flavour-led soluble extracts from catechin-oriented powders, with EGCG, caffeine and carrier composition stated for the selected grade.",
-      "zh": "振隆供应适用于即饮茶、速溶茶粉及儿茶素型干混粉的绿茶提取物。选型报价区分风味型可溶提取物与儿茶素型粉末，并按所选规格列明 EGCG、咖啡因及载体组成。"
+      "en": "ZL Botanicals supplies wholesale green tea extract for brands and formulation manufacturers developing ready-to-drink tea, instant tea powders and catechin-based dry blends. Our quotation range distinguishes flavour-led soluble extracts from catechin-oriented powders, with EGCG, caffeine and carrier composition stated for the selected grade.",
+      "zh": "振隆面向品牌商及配方制造企业批量供应绿茶提取物，服务即饮茶、速溶茶粉及儿茶素型干混粉项目。选型报价区分风味型可溶提取物与儿茶素型粉末，并按所选规格列明 EGCG、咖啡因及载体组成。"
     },
     "forms": [
       {
@@ -870,6 +876,10 @@ export const extractSales:ExtractSale[]=[
   },
   {
     "id": "goji-berry",
+    "seo": {
+      "title":{"en":"Goji Berry Extract Supplier: Bulk Forms & Specifications","zh":"枸杞提取物供应：原料形态、规格与批量报价"},
+      "description":{"en":"Source goji berry ingredients for drinks, gummies and capsules. Discuss juice powder or polysaccharide fractions, bulk pricing, samples and batch documents.","zh":"面向饮料、软糖与胶囊项目供应枸杞原料，按果汁粉或多糖组分明确规格、检测口径与载体，咨询批量价格、样品和批次资料。"}
+    },
     "name": {
       "en": "Goji Berry Extract",
       "zh": "枸杞提取物"
@@ -1366,4 +1376,4 @@ export const extractSales:ExtractSale[]=[
 if(extractSales.length!==11 || new Set(extractSales.map(p=>p.id)).size!==11) throw new Error('Exactly eleven unique sales products required');
 for(const p of extractSales){const pack=getIngredientReaderPack(p.id);if(!pack||p.sources.some(id=>!pack.sources.some(s=>s.id===id)))throw new Error(`Invalid sales research mapping: ${p.id}`);}
 export function getExtractSale(id:string){return extractSales.find(p=>p.id===id);}
-export function salesTitle(p:ExtractSale,lang:Language){return p.name[lang]+(lang==='zh'?'采购':' Procurement');}
+export function salesTitle(p:ExtractSale,lang:Language){return p.heading?.[lang] ?? p.name[lang]+(lang==='zh'?'采购':' Procurement');}

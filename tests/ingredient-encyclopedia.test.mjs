@@ -21,8 +21,9 @@ test('directory lists twelve plain extract names separately from constituent fam
    assert.ok(directory.includes(`href="${path}"`)); assert.ok(directory.includes(titles[i]));
    const page=read(path);
    assert.match(page,new RegExp(`<h1[^>]*>${titles[i]}</h1>`));
-   const seoTitle=id==='turmeric'?(i?'姜黄提取物：形态、工艺与质量':'Turmeric extract: forms, processing and quality'):titles[i];
-   assert.ok(page.includes(`<title>${seoTitle} | ${i?'振隆药业':'ZL Botanicals'}</title>`));
+   const topic=JSON.parse(readFileSync('src/data/plant-extracts.json')).topics.find(t=>t.scienceId===id);
+   const seoTitle=topic?.translations[i?'zh':'en']?.seoTitle ?? (id==='turmeric'?(i?'姜黄提取物：形态、工艺与质量':'Turmeric extract: forms, processing and quality'):titles[i]);
+   assert.ok(page.includes(`<title>${seoTitle.replaceAll('&','&amp;')} | ${i?'振隆药业':'ZL Botanicals'}</title>`));
    assert.ok(page.includes(`rel="canonical" href="https://zlbotanicals.com${path}"`));
    for(const lang of ['en','zh']) assert.ok(page.includes(`hreflang="${lang==='zh'?'zh-CN':lang}" href="https://zlbotanicals.com${lang==='zh'?'/zh':''}/plant-extracts/ingredients/${id}"`));
    assert.ok(page.includes(`href="${prefix}/plant-extracts/ingredients"`));

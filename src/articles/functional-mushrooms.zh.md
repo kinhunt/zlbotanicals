@@ -1,4 +1,4 @@
-<nav class="market-toc" aria-label="本文目录"><a href="#segments">样本</a> / <a href="#materials">材料</a> / <a href="#coffee">咖啡</a> / <a href="#dose">用量</a> / <a href="#listing-text">页面声明</a> / <a href="#channels">渠道</a> / <a href="#us-retail">市场背景</a> / <a href="#implications">产品规划</a> / <a href="#method">方法</a></nav>
+<nav class="market-toc" aria-label="本文目录"><a href="#segments">样本</a> / <a href="#materials">材料</a> / <a href="#reishi-extract-market">灵芝提取物市场</a> / <a href="#coffee">咖啡</a> / <a href="#dose">用量</a> / <a href="#listing-text">页面声明</a> / <a href="#channels">渠道</a> / <a href="#us-retail">市场背景</a> / <a href="#implications">产品规划</a> / <a href="#method">方法</a></nav>
 
 Mordor Intelligence预计，全球蘑菇补充剂市场将由2026年的58.3亿美元增至2031年的88.3亿美元，2026—2031年复合年增长率为8.66%。这是一项成品补充剂预测；咖啡、软糖和原料提取物的开发，还需要落实到具体产品。<a href="#market-v4-ref-1" aria-label="来源 1">[1]</a>
 
@@ -40,6 +40,18 @@ Mordor Intelligence预计，全球蘑菇补充剂市场将由2026年的58.3亿�
 
 
 <!-- exhibit:material-format -->
+
+<h2 id="reishi-extract-market">灵芝提取物市场：终端剂型与原料定位</h2>
+
+前面的[材料比较](#materials)呈现了样本中三种灵芝产品定位：Real Mushrooms突出子实体提取物，Double Wood同时描述子实体和菌丝体，Life Extension则组合子实体提取物与破壁孢子。这些是商品页面的材料描述，并非独立检测结论。<a href="#market-v4-ref-12">[12]</a><a href="#market-v4-ref-9">[9]</a><a href="#market-v4-ref-10">[10]</a> 比较胶囊数量和标示毫克数之前，需要先区分这些原料。
+
+剂型进一步影响产品定位。单一菌种胶囊突出提取物组成，[Plant People WonderSleep软糖](https://www.amazon.com/dp/B0BTYX618V)则将灵芝与藏红花、GABA等成分组合。<a href="#market-v4-ref-24">[24]</a> 开发时，胶囊需兼顾组成和装填表现，冲调粉需平衡风味、分散性与添加量，软糖还受口味、加工和单份承载量约束。复配睡眠主题软糖体现的是品牌定位，不能据此认定灵芝单独具有助眠效果。
+
+全球蘑菇补充剂预测提供大类背景，商品样本用于分析终端定位，两者都不能直接给出大宗灵芝提取物的收入或市场份额。若要把零售销售额换算为原料需求，还需实际销量、每件份数、每份灵芝提取物用量及原料价格，并拆分其他菌种和复配成分。
+
+[灵芝提取物供应形态](/zh/products/reishi-mushroom#material-selection) · [子实体、菌丝与提取物组成](/zh/plant-extracts/ingredients/reishi-mushroom#components)
+
+
 
 <span id="extracts" class="anchor-alias" aria-hidden="true"></span>
 <span id="value-chain" class="anchor-alias" aria-hidden="true"></span>

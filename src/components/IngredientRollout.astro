@@ -23,6 +23,8 @@ const dimensions={processes:'process',applications:'application',standards:'spec
    {s.id==='components'&&<p><ResearchInline text={o.components[lang]} namespace={legacy}/></p>}
    {s.id==='processes'&&<p><ResearchInline text={o.processChoices[lang]} namespace={legacy}/>{o.citations.map(n=><a href={`#${legacy}-${n}`}>[{n}] </a>)}</p>}
    {s.id==='processes'?<section id="equipment"><ResearchBlocks section={{...s,id:`rollout-${s.id}`}} productId={productId} namespace={s.legacy?legacy:namespace} zh={zh}/></section>:<ResearchBlocks section={{...s,id:`rollout-${s.id}`}} productId={productId} namespace={s.legacy?legacy:namespace} zh={zh}/> }
+   {s.id==='components'&&['goji-berry','stevia','licorice-root','centella-asiatica'].includes(productId)&&<p><a href={`${zh?'/zh':''}/products/${productId}#material-selection`}>{zh?'查看本原料供应形态':'View ingredient supply forms'} →</a></p>}
+   {productId==='stevia'&&s.id==='components'&&<p><a href="https://www.accessdata.fda.gov/cms_ia/importalert_119.html" rel="noopener noreferrer">{zh?'FDA进口警示45-06：美国普通食品用途':'FDA Import Alert 45-06: US conventional-food use'}</a></p>}
    {s.id==='standards'&&<p data-procurement-link><a href={`${zh?'/zh':''}/products/${productId}#qualification`}>{zh?'本原料采购：规格、COA、认证资料与报价':'Buy this ingredient: specifications, COA, certification documents & pricing'} →</a></p>}
    {s.id==='applications'&&<ul>{p.plans.map(plan=><li><a href={`#formulation-${plan.id}`}>{plan.title[lang]}</a> · {plan.content[lang][0].type==='paragraph'?plan.content[lang][0].text.split(/[。.!]/)[0]:''}</li>)}</ul>}
    {s.id==='applications'&&<div id="end-products"><h3>{zh?'终端产品选择':'End-product selection'}</h3><p>{o.endProducts[lang]}</p><p>{o.applications[lang]}</p></div>}

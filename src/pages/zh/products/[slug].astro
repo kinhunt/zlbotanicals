@@ -26,7 +26,7 @@ const { Content } = await product.render();
 
 ---
 
-<PageLayout title={isTurmeric ? '姜黄提取物采购：供应商、批量价格与 HPLC 规格' : sale ? salesTitle(sale,lang)+'：批量供应、价格与规格' : product.data.name} description={sale ? sale.offer[lang] : product.data.description} lang={lang}>
+<PageLayout title={isTurmeric ? '姜黄提取物采购：供应商、批量价格与 HPLC 规格' : sale ? (sale.seo?.title[lang] ?? salesTitle(sale,lang)+'：批量供应、价格与规格') : product.data.name} description={sale ? sale.seo?.description[lang] ?? sale.offer[lang] : product.data.description} lang={lang}>
  <article class={sale ? 'sales-shell' : undefined}>
   <div class={isTurmeric ? 'turmeric-shell' : undefined}>
    <nav class="mb-8 text-sm" aria-label="面包屑"><a href={getLocalizedPath('/',lang)}>首页</a> / <a href={getLocalizedPath('/products',lang)}>产品</a> / {product.data.name}</nav>
