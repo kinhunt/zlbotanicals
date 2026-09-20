@@ -1,0 +1,333 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "TITLE:\"Sensory Properties of Ginseng Solutions\"",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "21535568",
+        "source": "MED",
+        "pmid": "21535568",
+        "doi": "10.1111/j.1750-3841.2010.01749.x",
+        "title": "Sensory properties of ginseng solutions modified by masking agents.",
+        "authorString": "Tamamoto LC, Schmidt SJ, Lee SY.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Tamamoto LC",
+              "lastName": "Tamamoto",
+              "firstName": "Lauren C",
+              "initials": "LC",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Food Science and Human Nutrition Dept., Univ. of Illinois at Urbana-Champaign, 905 S. Goodwin Ave., Urbana, IL 61801, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Schmidt SJ",
+              "lastName": "Schmidt",
+              "firstName": "Shelly J",
+              "initials": "SJ"
+            },
+            {
+              "fullName": "Lee SY",
+              "lastName": "Lee",
+              "firstName": "Soo-Yeun",
+              "initials": "SY"
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "7",
+          "volume": "75",
+          "journalIssueId": 1790052,
+          "dateOfPublication": "2010 Sep",
+          "monthOfPublication": 9,
+          "yearOfPublication": 2010,
+          "journal": {
+            "medlineAbbreviation": "J Food Sci",
+            "title": "Journal of food science",
+            "essn": "1750-3841",
+            "issn": "1750-3841",
+            "isoabbreviation": "J Food Sci",
+            "nlmid": "0014052"
+          },
+          "printPublicationDate": "2010-09-01"
+        },
+        "pubYear": "2010",
+        "pageInfo": "S341-7",
+        "abstractText": "Ginseng is one of the most popular functional ingredients found in energy drink formulations. Although ginseng is known for its health benefits, ginseng is also notorious for imparting a bitter taste. Incorporating ginseng into beverages without the bitterness, while still maintaining its health benefits, is necessary for developing an acceptable product. Thus, the objectives of this study were to (1) identify effective treatments for minimizing the bitterness of ginseng in water base and model energy drink base solutions and (2) determine the sensory effects of incorporating different treatment levels to minimize the bitterness of ginseng. A series of pilot studies investigating bitterness reducing treatments were conducted, which included: congruent flavor addition, bitterness blocking agent incorporation, enzymatic modification, ingredient interaction, and complexation. Based on the results of a series of pilot studies, γ-cyclodextrin (γ-CD) and β-cyclodextrin (β-CD) complexation agents were identified as having the most potential. Effectiveness of the γ-CDs, β-CDs, and combinations of γ- and β-CDs were tested in 100 mL water and in 100 mL model energy drink base solutions containing 0.052 g 80% ginsenosides panax ginseng, using descriptive sensory analysis. Twelve trained panelists evaluated 42 solution treatments (3 treatments × 7 levels × 2 bases) for bitter attributes with and without nose clips. Overall, the most effective treatments were 0.09 g γ-CDs in 100 mL of solution and 1 g β-CDs in 100 mL solution, which both reduced the bitterness intensity of the solutions by half. Incorporation of these levels of CDs in water and model energy drink base solutions containing ginseng will aid in the development of functional beverages that are more acceptable to a wider range of consumers.",
+        "affiliation": "Food Science and Human Nutrition Dept., Univ. of Illinois at Urbana-Champaign, 905 S. Goodwin Ave., Urbana, IL 61801, USA.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "Comparative Study",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Panax",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "CH",
+                    "qualifierName": "chemistry"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Plant Roots",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "CH",
+                    "qualifierName": "chemistry"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Ginsenosides",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "beta-Cyclodextrins",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "EC",
+                    "qualifierName": "economics"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "gamma-Cyclodextrins",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "EC",
+                    "qualifierName": "economics"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Flavoring Agents",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "EC",
+                    "qualifierName": "economics"
+                  },
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Pilot Projects"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Sensation"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Taste"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Osmolar Concentration"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Beverages",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "AN",
+                    "qualifierName": "analysis"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "EC",
+                    "qualifierName": "economics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Food, Formulated",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "AN",
+                    "qualifierName": "analysis"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "EC",
+                    "qualifierName": "economics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Adolescent"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Adult"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "United States"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Male"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Young Adult"
+            }
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Flavoring Agents",
+              "registryNumber": "0"
+            },
+            {
+              "name": "gamma-Cyclodextrins",
+              "registryNumber": "0"
+            },
+            {
+              "name": "Ginsenosides",
+              "registryNumber": "0"
+            },
+            {
+              "name": "beta-Cyclodextrins",
+              "registryNumber": "0"
+            },
+            {
+              "name": "betadex",
+              "registryNumber": "JV039JZZ3A"
+            },
+            {
+              "name": "gamma-cyclodextrin",
+              "registryNumber": "KZJ0BYZ5VA"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1111/j.1750-3841.2010.01749.x"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 13,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2011-08-23",
+        "dateOfCreation": "2011-05-04",
+        "dateOfRevision": "2012-11-15",
+        "firstPublicationDate": "2010-09-01",
+        "firstIndexDate": "2011-05-04",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

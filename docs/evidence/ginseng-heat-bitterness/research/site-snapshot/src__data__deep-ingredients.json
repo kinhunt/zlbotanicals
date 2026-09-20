@@ -1,0 +1,1318 @@
+[
+  {
+    "productId": "turmeric",
+    "group": "b",
+    "pack": "group-b/turmeric.md",
+    "content": {
+      "zh": [
+        {
+          "id": "processes",
+          "heading": "提取、纯化与分散工艺",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "提取利用溶剂将干燥、粉碎根茎中的可溶性组分转入液相。溶剂组成、温度、接触时间和液固比影响目标成分的回收，也影响一同提取的油和树脂。FAO/JECFA的工艺描述包括除去溶剂得到油树脂；需要浓缩色素时，再采用选择性分离和结晶。[10]"
+            },
+            {
+              "type": "paragraph",
+              "text": "粉碎缩短溶剂和溶出成分在植物组织内的传递距离。细粉过多会增加过滤阻力，并使部分提取液留在滤饼中。因此，评价提取条件时，既要测回收的姜黄素类，也要观察固液分离表现。原料含水量和起始姜黄素类含量，是比较不同根茎批次的基础。[7]"
+            },
+            {
+              "type": "paragraph",
+              "text": "浓缩主要减少溶剂；纯化则提高色素在提取物中的比例。结晶时，色素形成晶体，部分其他组分留在母液中，母液即结晶后剩余的液体。洗晶除去附着的母液，干燥降低残留溶剂。晶体含量与色素总回收量是两个不同指标：晶体纯度提高的同时，也可能有较多色素留在液体部分。[10][11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "需要分散型原料时，可采用油相、乳化剂或干燥载体进行配方处理。乳化使油以液滴形式分布在水中，载体则可用于制备干燥粉体。这些处理改变原料混入产品后的状态。油树脂、结晶色素和分散粉所需的操作组合不同，结晶与乳化并非每一种形态的必经步骤。[4][10]"
+            }
+          ]
+        },
+        {
+          "id": "equipment",
+          "heading": "主要设备及作用",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "设备按处理功能区分：提取设备促进成分从植物组织进入溶剂，分离设备除去固体或富集色素，配方设备控制液滴或粉体性质。[4][10]"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "单元",
+                "在工艺中的作用",
+                "评价项目"
+              ],
+              "rows": [
+                [
+                  "粉碎机与搅拌提取罐",
+                  "减小根茎粒径，使粉末润湿并与溶剂接触；夹套用于控制温度。",
+                  "粒径分布、提取时间、温度、残渣中的姜黄素类含量。"
+                ],
+                [
+                  "冷凝与溶剂回收装置",
+                  "将提取或浓缩产生的溶剂蒸气冷凝收集。",
+                  "溶剂收支、回收液组成、可燃蒸气的安全管理。"
+                ],
+                [
+                  "过滤器或离心机",
+                  "分开根茎残渣与提取液；过滤器也可用于收集和洗涤晶体。",
+                  "固体夹带液量、洗液中色素、过滤阻力及处理量。"
+                ],
+                [
+                  "真空蒸发器与结晶器",
+                  "减压除去溶剂；需要纯化色素时控制晶体形成。",
+                  "受热情况、晶体粒径和含量、母液中色素及残留溶剂。"
+                ],
+                [
+                  "转子定子混合器与高压均质机",
+                  "预混油水两相，并在乳液中将油破碎为更小液滴。",
+                  "温升、液滴分布、实际配方浓度下的稳定性。"
+                ],
+                [
+                  "喷雾干燥机或冻干机",
+                  "从配方分散液中除去水分，制成粉体。",
+                  "粉体回收量、载体比例、色素保留及复水分散表现。"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "超声可在实验室提取中促进接触与传质，效果取决于处理体积、容器几何形状和实际传入物料的能量。超声槽的额定功率不足以确定处理强度，也不能直接预测放大后的产量。同样，均质压力只是一项操作条件，不等于设备生产能力。[4][7]"
+            }
+          ]
+        },
+        {
+          "id": "applications",
+          "heading": "应用与配方要求",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "香辛料与着色原料"
+            },
+            {
+              "type": "paragraph",
+              "text": "油树脂保留部分与姜黄风味有关的挥发油和树脂；浓缩结晶色素中姜黄素类比例较高，伴随组分较少。选用哪种形态取决于产品对香辛风味、颜色或两者的需要。2003年JECFA《姜黄素》专论规定了食品色素的身份和纯度指标，属于FAO/WHO的国际技术规范。[10][11]"
+            },
+            {
+              "type": "heading",
+              "text": "饮料"
+            },
+            {
+              "type": "paragraph",
+              "text": "不透明乳饮或植物饮可考虑分散型原料，评价颜色均匀性、沉降、粗颗粒和油圈。澄清饮料中，加入油滴或悬浮颗粒可能增加浊度。按实际添加量试配时，还需考虑酸度、盐、热处理、包装和储存条件。"
+            },
+            {
+              "type": "paragraph",
+              "text": "乳液研究有助于解释液滴尺寸如何随组成和处理条件变化，但不能给出采用不同原料的饮料货架期。使用允许食用的配方原料后，还需评价稀释及热处理后的稳定性。[4]"
+            },
+            {
+              "type": "heading",
+              "text": "胶囊、片剂与冲调粉"
+            },
+            {
+              "type": "paragraph",
+              "text": "胶囊与片剂中，姜黄素类含量影响每份所需的原料质量；粉体流动性、填充一致性、润湿性和崩解表现也会影响成品。含载体分散粉若要提供与结晶色素相同的实测姜黄素类量，可能需要更多粉体。比较时需使用相同含量方法，并明确实际载体组成。"
+            },
+            {
+              "type": "paragraph",
+              "text": "需要加水冲调的粉末，应关注复水后的润湿时间、可见团块、沉降及颜色均匀性，这些表现可能随干燥和储存而变化。粉末与液体分散物应在相同色素浓度下比较，干燥前测得的液滴尺寸不能代表复水产品。[4]"
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "质量与采购规格",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "规格中的百分比需要对应明确的原料名称和形态。原料资料应将产品名称、批次检验报告、检测方法及所加载体组成关联起来。其中，身份鉴别回答“是什么”，含量测定回答“有多少”，污染物检测评价非目标物质。[11][13]"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "规格字段",
+                "需要的信息"
+              ],
+              "rows": [
+                [
+                  "身份与形态",
+                  "植物身份、根茎来源、提取物或油树脂／晶体／分散物形态，以及批次追溯信息。"
+                ],
+                [
+                  "姜黄素类含量",
+                  "单体姜黄素或姜黄素类／总着色物；计量基准、方法及各成分分布。"
+                ],
+                [
+                  "载体与配方辅料",
+                  "载体、油和乳化剂的名称与比例；最终混合物的实测含量。"
+                ],
+                [
+                  "溶剂与污染物",
+                  "提取和纯化所用溶剂、残留溶剂结果、相关元素及其他污染物限量、微生物要求。"
+                ],
+                [
+                  "物理性质",
+                  "水分、粒径，以及适用时在明确条件下测得的流动性或复水结果。"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "所引《姜黄素》规范由2003年第61次JECFA会议制定，要求总着色物不少于90%。该含量采用乙醇中425 nm吸光度法测定，因颜色会褪去，文件要求及时测量。这是总着色物指标，不是单体姜黄素90%的声称。高效液相色谱（HPLC）可分离三种主要姜黄素类，分别报告或加和；不同方法的结果需评价可比性。[7][11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "该食品色素专论列出丙酮30 mg/kg、己烷25 mg/kg的上限，甲醇／乙醇／异丙醇／乙酸乙酯归入50 mg/kg限值组，铅上限为2 mg/kg。这些数值适用于2003年JECFA食品色素专论所定义的姜黄素。该国际规范提供身份和纯度标准，食品类别及使用条件由各司法辖区的法规规定。[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "美国膳食补充剂制造的21 CFR 111.70要求建立组分身份规格，并按需要建立纯度、强度、组成及污染限量，也规定在相关工艺阶段设置控制规格。合同标准和内部工艺目标需要与法定要求区分。含载体的最终混合粉应有自身的含量结果，不能沿用混合前色素的检测值。[13]"
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "常见应用问题与文献案例",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "色素为什么沉降，乳液为什么分层？"
+            },
+            {
+              "type": "paragraph",
+              "text": "结晶姜黄素色素不溶于水。悬浮晶体可能沉降，乳液中的液滴则可能增大或在液体中迁移。肉眼可见的分散不等于分子溶解。供货形态以及油相或载体的组成，有助于判断应采用哪些检测方法。[4][11]"
+            },
+            {
+              "type": "heading",
+              "text": "颜色变浅是否表示姜黄素类降解？"
+            },
+            {
+              "type": "paragraph",
+              "text": "色素进入沉淀或附着在容器上，以及化学变化，都可能改变样品颜色。排查时，可比较充分再分散后取得的整瓶代表样与上清、沉淀和容器冲洗液。仅测沉降后的上层液体，可能低估总色素量。合适的色谱含量测定可与颜色、粒径观察相互补充。[7]"
+            },
+            {
+              "type": "heading",
+              "text": "分散液干燥后为什么复水结团？"
+            },
+            {
+              "type": "paragraph",
+              "text": "干燥、储存和润湿过程会改变颗粒间的聚集状态。粉体应在明确的混合条件下复水评价，并观察静置后是否有沉淀。液态半成品中的小液滴，不能证明干燥后仍保持原分布。色泽保留发生变化时，也需评估光照、酸度和热处理的影响。[4][10]"
+            },
+            {
+              "type": "heading",
+              "text": "文献案例：水乙醇分析提取"
+            },
+            {
+              "type": "paragraph",
+              "text": "2022年研究使用100±0.5 mg商业姜黄粉，在15 mL离心管中加入5 mL溶剂。水乙醇提取在室温下进行，约15秒涡旋后超声5分钟，再以4000×g离心10分钟，经0.45 μm PVDF过滤。带二极管阵列检测器的高效液相色谱（HPLC-DAD）测得，50%乙醇与纯乙醇分别提取约32.22和34.26 mg/g姜黄素类。单位表示该分析提取条件下每克受试粉末回收的姜黄素类量，既不是工业收率，也不是成品提取物纯度。[7]"
+            },
+            {
+              "type": "heading",
+              "text": "文献案例：姜黄素MCT乳液"
+            },
+            {
+              "type": "paragraph",
+              "text": "2016年研究以购入的姜黄素和中链甘油三酯（MCT）油为起始材料。最终乳液含0.15 wt%姜黄素、10 wt% MCT及10 wt%乳化剂，比较三种乳化剂组合：10% Tween-20；4%单油酸山梨坦加6% Tween-20；4%大豆卵磷脂加6% Tween-20。[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "水相含20 mM bis-tris缓冲液，pH 7.0，并含0.02 wt%叠氮化钠。这是实验室物理稳定性模型，不能作为可食用饮料配方，不得食用或照搬为食品配方。改用允许食用的原料或改变稀释条件后，需要重新测试。[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "姜黄素在70°C搅拌和超声条件下溶入油相；加入亲油乳化剂后，油相在70°C搅拌30分钟。油水两相以8000 rpm预混5分钟，再以5000、10000或15000 psi微射流处理4次循环。论文未报告批次总质量，因此不能据此确定小时产量。[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "15000 psi条件下，三组第1天液滴尺寸依次为89.08、73.43和67.68 nm。动态光散射（DLS）测量前，样品用相同的含叠氮化钠bis-tris缓冲液稀释1000倍，在室温下测量三次。室温储存28天的粒径比较显示液滴随时间增大。另一项Turbiscan检测对未稀释乳液观察3天，记录透射和背散射变化。3天Turbiscan观察与28天粒径比较是不同测试，两者均不能直接给出商业饮料货架期。[4]"
+            },
+            {
+              "type": "heading",
+              "text": "历史工艺资料"
+            },
+            {
+              "type": "paragraph",
+              "text": "2004年FAO/JECFA《姜黄素：化学与技术评估》第3.2节描述的油树脂约含25–35%着色物，纯化粉超过90%。这些数字对应文件所述的历史路线，不是所有“姜黄提取物”的通用组成区间。油树脂与纯化粉的组成差异，反映了分离过程对色素的富集。[10][11]"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "id": "processes",
+          "heading": "Extraction, purification and dispersion",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The extraction solvent carries soluble constituents out of milled, dried rhizomes. Solvent composition, temperature, contact time and the amount of solvent relative to solids affect recovery and the accompanying oils and resins. The FAO/JECFA manufacturing account describes removing solvent to obtain an oleoresin, followed by selective separation and crystallization when a concentrated pigment is required.[10]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Milling shortens the distance that solvent and dissolved compounds travel through plant tissue. Very fine particles can make filtration slower and retain extract in the filter cake. Extraction trials therefore need both a measurement of recovered curcuminoids and an assessment of solid–liquid separation. Moisture and starting curcuminoid content provide the basis for comparing different rhizome batches.[7]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Concentration removes solvent; purification changes the proportion of pigment relative to other extracted substances. During crystallization, pigment forms crystals while some other constituents remain in the mother liquor, the liquid left after crystal formation. Washing removes adhering mother liquor, and drying reduces residual solvent. Crystal assay and total pigment recovery describe different outcomes: a purer crystal fraction can still leave substantial pigment in the liquid fractions.[10][11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "For a dispersible ingredient, formulation may include an oil phase, emulsifiers or a drying carrier. Emulsification distributes oil as droplets in water, while a carrier can support a dried formulation. These treatments change how the ingredient mixes into a product. Oleoresins, crystalline pigments and dispersible powders can require different combinations of operations; crystallization and emulsification are not compulsory stages for every form.[4][10]"
+            }
+          ]
+        },
+        {
+          "id": "equipment",
+          "heading": "Equipment and its role",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Equipment is described here by function. Extraction equipment transfers constituents from plant tissue; separation equipment removes solids or enriches pigment; formulation equipment controls droplets or powder properties.[4][10]"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Unit",
+                "Role in processing",
+                "What to evaluate"
+              ],
+              "rows": [
+                [
+                  "Mill and stirred extraction vessel",
+                  "Reduce rhizome size, wet the powder and maintain solvent contact. A jacket controls temperature.",
+                  "Particle-size distribution, extraction time, temperature and curcuminoids remaining in the residue."
+                ],
+                [
+                  "Condenser and solvent recovery",
+                  "Condense solvent vapour from extraction or concentration for controlled collection.",
+                  "Solvent balance, recovered-solvent composition and safe handling of flammable vapours."
+                ],
+                [
+                  "Filter or centrifuge",
+                  "Separate rhizome solids from extract; filters can also collect and wash crystals.",
+                  "Liquid retained by solids, pigment in washings, filtration resistance and throughput."
+                ],
+                [
+                  "Vacuum evaporator and crystallizer",
+                  "Remove solvent at reduced pressure, then control crystal formation where pigment purification is needed.",
+                  "Heat exposure, crystal size, assay, pigment remaining in mother liquor and residual solvent."
+                ],
+                [
+                  "Rotor–stator mixer and high-pressure homogenizer",
+                  "Premix oil and water, then break oil into smaller droplets in an emulsion.",
+                  "Temperature rise, droplet distribution and stability at the intended formulation concentration."
+                ],
+                [
+                  "Spray dryer or freeze dryer",
+                  "Remove water from a formulated dispersion to produce a powder.",
+                  "Powder recovery, carrier proportion, pigment retention and dispersion after reconstitution."
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Ultrasound can assist laboratory extraction by improving contact and mass transfer. Its effectiveness depends on the volume, geometry and energy reaching the material. A bath power rating alone does not specify treatment intensity or predict larger-scale output. Similarly, homogenizing pressure describes one operating condition rather than production capacity.[4][7]"
+            }
+          ]
+        },
+        {
+          "id": "applications",
+          "heading": "Applications and formulation requirements",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Spice and colour ingredients"
+            },
+            {
+              "type": "paragraph",
+              "text": "Oleoresins retain some of the volatile oils and resins associated with turmeric flavour. Concentrated crystalline pigment contains a larger proportion of curcuminoids and less of those accompanying fractions. The choice depends on whether the product needs spice character, colour, or both. The 2003 JECFA Curcumin monograph defines identity and purity for the food colour as an international FAO/WHO technical specification.[10][11]"
+            },
+            {
+              "type": "heading",
+              "text": "Beverages"
+            },
+            {
+              "type": "paragraph",
+              "text": "A dispersion may be considered for opaque dairy or plant beverages, where colour uniformity, sediment, coarse particles and an oil ring are useful observations. In clear drinks, added oil droplets or suspended particles may increase turbidity. Evaluation at the intended addition rate should include acidity, salts, heat treatment, packaging and storage conditions."
+            },
+            {
+              "type": "paragraph",
+              "text": "Emulsion studies can explain how droplet size changes with formulation and processing. They do not establish the shelf life of a drink made with different ingredients. A formulation using permitted food ingredients needs its own stability assessment after dilution and thermal processing.[4]"
+            },
+            {
+              "type": "heading",
+              "text": "Capsules, tablets and reconstituted powders"
+            },
+            {
+              "type": "paragraph",
+              "text": "For capsules and tablets, curcuminoid concentration affects the mass of ingredient needed per serving. Powder flow, filling consistency, wettability and disintegration also affect the finished dosage form. A carrier-containing powder may require more material than a crystalline pigment to provide the same measured curcuminoid amount. Comparisons should use the same assay method and the actual carrier composition."
+            },
+            {
+              "type": "paragraph",
+              "text": "For powders intended to be mixed with water, performance after reconstitution matters: wetting time, visible clumps, sediment and colour uniformity can change after drying and storage. Compare powders and liquid dispersions at the same pigment concentration. Droplet sizes measured before drying do not describe the reconstituted product.[4]"
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "Quality and purchasing specifications",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The specification should identify the material being purchased before giving a percentage. A useful document set links the ingredient name and form to a batch certificate of analysis, test methods and the composition of added carriers. Identity testing establishes what the material is; an assay measures how much of the specified constituent it contains; contaminant tests assess unwanted substances.[11][13]"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Specification field",
+                "Information needed"
+              ],
+              "rows": [
+                [
+                  "Identity and form",
+                  "Botanical identity, rhizome source, extract or oleoresin/crystal/dispersion form, and traceability to the batch."
+                ],
+                [
+                  "Curcuminoid assay",
+                  "Single-compound curcumin or total curcuminoids/colouring matter; reporting basis, method and component profile."
+                ],
+                [
+                  "Carriers and formulation ingredients",
+                  "Identity and proportion of carriers, oils and emulsifiers; assay of the final blend."
+                ],
+                [
+                  "Solvents and contaminants",
+                  "Solvents used in extraction and purification, residual-solvent results, relevant elemental and other contaminant limits, and microbiological requirements."
+                ],
+                [
+                  "Physical properties",
+                  "Moisture, particle size and, where relevant, flow or reconstitution results under stated test conditions."
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The cited Curcumin specification, prepared at the 61st JECFA in 2003, requires at least 90% total colouring matter. Its assay uses absorbance at 425 nm in ethanol, with prompt measurement because the colour fades. This is a total colouring-matter result, not a claim of 90% single-compound curcumin. High-performance liquid chromatography (HPLC) can separate the three principal curcuminoids and report them individually or as a sum; results from different methods require a comparability assessment.[7][11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "That food-colour monograph gives limits of 30 mg/kg for acetone, 25 mg/kg for hexane, 50 mg/kg in the listed methanol/ethanol/isopropanol/ethyl acetate group, and 2 mg/kg for lead. These values apply to curcumin as defined in the 2003 JECFA food-colour monograph. This international specification sets identity and purity criteria; national or regional legislation defines food categories and conditions of use.[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "For US dietary-supplement manufacturing, 21 CFR 111.70 requires component identity specifications and, as necessary, specifications for purity, strength, composition and contaminant limits, as well as controls at relevant process stages. Contractual specifications and internal process targets need to be distinguished from statutory requirements. The final carrier-containing blend needs its own assay rather than the assay of the pigment before blending.[13]"
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "Common formulation questions and literature cases",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Why does pigment settle or an emulsion separate?"
+            },
+            {
+              "type": "paragraph",
+              "text": "Crystalline curcumin colour is insoluble in water. Suspended crystals may settle, while droplets in an emulsion may grow or migrate through the liquid. A material that disperses visibly is not necessarily molecularly dissolved. The supplied form and the composition of its oil phase or carrier help determine which measurements are relevant.[4][11]"
+            },
+            {
+              "type": "heading",
+              "text": "Does a paler sample mean that curcuminoids have degraded?"
+            },
+            {
+              "type": "paragraph",
+              "text": "Colour can change because pigment has moved into sediment or onto the container, as well as because of chemical change. For troubleshooting, compare a representative, redispersed whole-container sample with the supernatant, sediment and container rinse. Measuring only the liquid above settled solids can understate total pigment. A suitable chromatographic assay complements visual colour and particle-size measurements.[7]"
+            },
+            {
+              "type": "heading",
+              "text": "Why can a dried dispersion form clumps on mixing?"
+            },
+            {
+              "type": "paragraph",
+              "text": "Drying, storage and wetting can alter how particles associate. Assess a powder after reconstitution under stated mixing conditions, including any sediment left after standing. A liquid intermediate with small droplets is not evidence of the same distribution after drying. Light exposure, acidity and heat also merit assessment when colour retention changes.[4][10]"
+            },
+            {
+              "type": "heading",
+              "text": "Literature case: analytical extraction with aqueous ethanol"
+            },
+            {
+              "type": "paragraph",
+              "text": "A 2022 study used 100±0.5 mg commercial turmeric powder and 5 mL solvent in a 15 mL centrifuge tube. Aqueous ethanol extractions were at room temperature, with approximately 15 seconds of vortexing and 5 minutes of ultrasound, followed by centrifugation at 4000×g for 10 minutes and filtration through 0.45 μm PVDF. HPLC with diode-array detection (HPLC-DAD) measured approximately 32.22 mg/g curcuminoids with 50% ethanol and 34.26 mg/g with pure ethanol. The unit is recovered curcuminoids per gram of the tested powder under analytical extraction conditions; these values are neither industrial yields nor finished-extract purity.[7]"
+            },
+            {
+              "type": "heading",
+              "text": "Literature case: curcumin in an MCT emulsion"
+            },
+            {
+              "type": "paragraph",
+              "text": "A 2016 study started with purchased curcumin and medium-chain triglyceride (MCT) oil. Final emulsions contained 0.15 wt% curcumin, 10 wt% MCT and 10 wt% emulsifier. Three emulsifier systems were compared: 10% Tween-20; 4% sorbitan monooleate plus 6% Tween-20; and 4% soy lecithin plus 6% Tween-20.[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "The aqueous phase contained 20 mM bis-tris buffer at pH 7.0 and 0.02 wt% sodium azide. This is a laboratory physical-stability model, not an edible beverage recipe; it must not be consumed or copied as a food formulation. Substituting permitted food ingredients or changing dilution requires new testing.[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Curcumin was dissolved in oil with stirring and sonication at 70°C. After adding lipophilic emulsifiers, the oil phase was stirred at 70°C for 30 minutes. Oil and water phases were premixed at 8000 rpm for 5 minutes, then microfluidized at 5000, 10000 or 15000 psi for 4 cycles. Total batch mass was not reported, so the study does not establish hourly output.[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "At 15000 psi, the three systems had day 1 droplet sizes of 89.08, 73.43 and 67.68 nm, respectively. Dynamic light scattering (DLS) measurements were made at room temperature in triplicate after 1000-fold dilution with the same bis-tris buffer containing sodium azide. Droplet-size comparisons over 28 days at room temperature showed growth during storage. Separately, Turbiscan monitored undiluted emulsions for 3 days by changes in transmission and backscattering. The 3-day Turbiscan observation and 28-day droplet-size comparison are distinct tests; neither supplies a commercial beverage shelf life.[4]"
+            },
+            {
+              "type": "heading",
+              "text": "Historical manufacturing reference"
+            },
+            {
+              "type": "paragraph",
+              "text": "The 2004 FAO/JECFA Chemical and Technical Assessment describes oleoresin with about 25–35% colouring matter and purified powder with over 90%. These figures describe the historical route in section 3.2, not a general composition range for all products sold as turmeric extract. The compositional difference between oleoresin and purified powder illustrates pigment enrichment during separation.[10][11]"
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 4,
+        "title": "Ostwald Ripening Stability of Curcumin-Loaded MCT Nanoemulsion: Influence of Various Emulsifiers",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063215",
+        "accessed": "2026-09-09",
+        "scope": "primary formulation laboratory study"
+      },
+      {
+        "id": 7,
+        "title": "Extractability of Curcuminoids Is Enhanced with Milk and Aqueous-Alcohol Mixtures",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9369953",
+        "accessed": "2026-09-09",
+        "scope": "primary analytical extraction study"
+      },
+      {
+        "id": 10,
+        "title": "Curcumin — Chemical and Technical Assessment, 61st JECFA (FAO, 2004), sections 2–3",
+        "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/61/Curcumin.pdf",
+        "accessed": "2026-09-09",
+        "scope": "official historical chemical and technical assessment"
+      },
+      {
+        "id": 11,
+        "title": "Curcumin — JECFA specification, 61st meeting (2003), FNP 52 Add. 11; Definition, Assay and Purity",
+        "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-140.pdf",
+        "accessed": "2026-09-09",
+        "scope": "official food-colour specification"
+      },
+      {
+        "id": 13,
+        "title": "21 CFR 111.70 -- What specifications must you establish?",
+        "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70",
+        "accessed": "2026-09-09",
+        "scope": "official US manufacturing regulation"
+      }
+    ]
+  },
+  {
+    "productId": "ginseng",
+    "group": "b",
+    "pack": "group-b/ginseng.md",
+    "content": {
+      "zh": [
+        {
+          "id": "processes",
+          "heading": "工艺：白参、红参、黑参不是由总皂苷数字定义的三个等级",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "白参通常由鲜Panax ginseng根干燥制得，红参经过受控蒸制，黑参则在白参或红参基础上多次蒸制；2024年红参植物化学综述把这些加工身份与各自化学谱联系起来，同时指出红参还含美拉德反应产物等非皂苷组分。[15] 因此三者不是同一提取物简单按“浓度从低到高”排序。采购应先固定P. ginseng根部、起始鲜/干状态和蒸干历史，再比较提取物；不能把人参叶、三七P. notoginseng或越南参P. vietnamensis的热处理结果直接替代人参根证据。"
+            },
+            {
+              "type": "paragraph",
+              "text": "第一阶段是加工决定化学，而不是提取罐决定全部化学。部分丙二酰基皂苷受热可转成相应中性皂苷，随后糖基脱除及脱水又可生成低极性皂苷。研究发现热处理时主要皂苷Rg1、Re、Rb1等下降，Rg3的两种构型以及Rk1、Rg5等增加，但变化速度受基质中的有机酸影响。[3] 因而仅检测蒸前蒸后某一个中性皂苷的“增幅”，可能只看到了丙二酰基形式转为中性形式，不能据此声称总皂苷质量无中生有地增加。研发应同时看主要前体、相应转化产物和干基质量平衡；涉及脱糖转化时可增加摩尔量核算，避免分子量变化使质量收率被误读。"
+            },
+            {
+              "type": "paragraph",
+              "text": "一项可追溯的机制实验使用2013年在韩国曾坪采购的四年生人参：洗净后在−18°C冻结24小时、冻干并锤磨。作者将原参粉和分离得到的粗皂苷粉分别各取0.5 g，置于带盖玻璃瓶，各加3.0 mL水，在130°C油浴中加热1–5小时。[3] 这不是整支鲜根的工业蒸柜实验，也不是经过商业干燥的普通白参粉。原参中有机酸总量测为5.55%，未加热粗皂苷中未检出有机酸；原参主要皂苷在130°C加热1小时后几乎全部转为文中所列次要皂苷，粗皂苷变化较慢。[3] 工程可由此获得“基质化学控制反应速度”的假设，但不能把这个时间温度当成整根红参标准操作。"
+            },
+            {
+              "type": "paragraph",
+              "text": "作者还用100 μL、0.5 mM的Rb1溶液配合2 mM柠檬酸、苹果酸或琥珀酸，在封闭微毛细玻璃管中130°C处理1小时。没有有机酸的水中Rb1相对稳定，有酸时则生成脱糖/脱水产物，包含Rg3(S)、Rg3(R)、Rk1与Rg5。[3] 这个对照把“高温本身”与“高温加酸”分开，是比单独一条工艺得率更有用的证据。建议红参加工记录同时包含水分、可提取酸或滴定酸度、温度时间，而不是只记录蒸了几遍。"
+            },
+            {
+              "type": "paragraph",
+              "text": "第二阶段才是溶剂提取与必要富集。上述论文为了制备研究用粗皂苷，采用40 mL 80%乙醇、40°C超声30分钟等步骤，之后水溶、乙醚脱脂、正丁醇分配与冻干；该段未明确给出起始人参装样质量，不能据此计算完整液固比或推算产能。[3] 这些分析/分离用溶剂也不应原样移植成食品工艺。商业开发宜先以目标市场允许的水/乙醇体系比较选定皂苷谱、非皂苷伴随物、固形物回收和味道；若用树脂分级，应额外报告吸附、洗脱和清洗阶段的各股标志物，明确它已经改变原本根提取物的组成。"
+            },
+            {
+              "type": "paragraph",
+              "text": "第三阶段的浓缩和干燥可能继续改变组分。机制实验显示同一类皂苷在含酸基质中更易受热转化，因此建议将浓缩温度、实际料温、停留时间、进料酸度和干燥前后指纹串联记录。[3] 如果项目需要保留传统白参主皂苷谱，就应避免把热浓缩变成未经定义的第二次加工；如果需要特定转化皂苷，则要设置反应终点，而非无限延长热处理。不同目标对应不同生产窗口，不能共用“越深色越好”的验收语言。"
+            }
+          ]
+        },
+        {
+          "id": "equipment",
+          "heading": "设备：整根蒸制、提取和反应富集应分开立项",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "下表为针对人参加工提出的工程决策建议；130°C微量密闭试验支持酸/热作用机制，不能直接证明下列生产设备的产能或最优参数。[3][15]"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "设备/工艺选择",
+                "适合的任务",
+                "与替代方案相比要处理的风险",
+                "核心验收输出"
+              ],
+              "rows": [
+                [
+                  "受控蒸柜＋分级装盘",
+                  "保持根部形态的红参加工身份",
+                  "根径、装载厚度、冷点造成实际热历史差异",
+                  "不同位置根芯温度、升温/保温/冷却曲线、同位取样皂苷谱"
+                ],
+                [
+                  "压力热处理釜",
+                  "探索高温转换窗口",
+                  "转化与进一步降解竞争；压力设备和取样更复杂",
+                  "酸度、水分、热历史、前体与产物摩尔平衡"
+                ],
+                [
+                  "热风干燥与冻干比较",
+                  "前者验证常规干燥，后者用于低热暴露参考样",
+                  "热风的继续反应与位置不均；冻干周期和成本",
+                  "水分/水活度分布、颜色、皂苷保留、能耗"
+                ],
+                [
+                  "夹套水/乙醇提取罐",
+                  "回收已经定义好加工身份的根部组分",
+                  "高固形物传热、起泡或夹带、溶剂回收",
+                  "实际溶剂强度、残渣标志物、滤液组成与重复提取收益"
+                ],
+                [
+                  "树脂柱或其他分级试验单元",
+                  "需要明确皂苷富集时使用",
+                  "洗脱改变组分比例，可能丢失酸与非皂苷组分",
+                  "上样/穿透/洗脱/清洗质量平衡、树脂可清洗性与相关残留"
+                ],
+                [
+                  "真空浓缩＋粉体干燥",
+                  "降低溶剂、形成稳定计量形式",
+                  "浓缩液酸度与热停留共同影响谱，黏壁造成损失",
+                  "实际料温、停留分布、干燥前后色谱及固形物回收"
+                ],
+                [
+                  "混配与均匀取样设备",
+                  "多批调配或载体标准化",
+                  "平均含量掩盖局部不均与加工身份混杂",
+                  "多位置均匀性、批次追溯、载体计量与最终含量"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "整根蒸柜验收的建议重点是根芯而非面板温度：根径分级和装盘厚度影响冷点达到条件的时间，同样“保温两小时”可能对应不同有效热暴露。取样应在已测温位置成对进行，使色谱变化能够对应真实热史。提取罐则不应继续承担未经定义的蒸制职责；先制备身份明确的根材料，再讨论提取，才能把“换了原料加工”与“改变了溶剂”两种影响拆开。"
+            },
+            {
+              "type": "paragraph",
+              "text": "对于稀有皂苷富集项目，建议让反应设备与产品名称同时重新定义。高温酸处理产生的特定谱，不应仅凭颜色叫作任何传统红参规格；品牌叙述需要与实际工艺一致。研究用密闭毛细管能快速达到反应温度，而满载釜需要升温、混合和冷却，放大时应按实际反应历程和终点组分设计，不按实验保温时间照抄。"
+            }
+          ]
+        },
+        {
+          "id": "applications",
+          "heading": "应用：饮料配方本身可能成为下一个加工步骤",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "酸性饮料不只是把人参粉稀释。机制研究在130°C的密闭模型中显示有机酸促进皂苷转化；这不足以量化常规饮料杀菌条件下的转换程度，却明确指出pH/有机酸与热历史值得一起测试。[3] 建议在目标饮料中对杀菌前、杀菌后和储存后分别测主要皂苷与Rg3/Rk1/Rg5等转化峰，并设置同提取物在无加酸或低热暴露参考体系中的对照。这样能判断标签指标改变来自原料、热工艺还是配方酸，而不是把所有含量下降都归为“原料不稳定”。"
+            },
+            {
+              "type": "paragraph",
+              "text": "白参提取物与红参提取物的口感和颜色开发也应分开。综述指出蒸制产生的非皂苷成分包含美拉德反应产物，因此颜色加深不等于某个皂苷增加。[15] 研发可在相同实测目标皂苷剂量下比较水溶固形物、颜色、土腥/参味、苦味与回味，并以相同总固形物的载体空白辨别甜味剂和壁材影响。对于透明饮料，应测热处理后的浑浊和沉淀；对于浓缩口服液，重点是瓶内均匀性、倒出量一致和容器附着；胶囊项目则关注流动、吸湿与含量均匀性。上述是各用途的开发指标，不预设一个通用添加量。"
+            },
+            {
+              "type": "paragraph",
+              "text": "采购的有效比较单位应是“同加工身份、同方法的目标皂苷质量”，同时显示根提取物总量与载体量。只按总皂苷百分比买货可能把经分级的富集物与全根提取物比较，也可能把不同标志物集合混为一谈。品牌若希望讲述红参工艺，可以展示有记录的蒸干流程和色谱变化；若希望讲述某一稀有皂苷，应建立该单体真实定量，而不是引用另一个物种细胞实验的活性描述。"
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "标准与QA：写出皂苷名单、制备物与适用类别",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "EMA于2024年5月29日通过的Panax ginseng根部修订专论，在传统草药药品框架下分别列出白参与红参制备物。白参示例包含DER 3–7:1、40% V/V乙醇提取、含4%皂苷的干提取物，其皂苷明确为Rb1、Rb2、Rc、Rd、Re、Rf、Rg1、Rg2之和；红参示例包含DER 2–4.5:1、60% V/V乙醇的干提取物。[6] 这些DER和溶剂浓度是所列药用制备物的定义，不是本研究推荐工况，也不是所有人参食品都必须或可以采用的规格。"
+            },
+            {
+              "type": "paragraph",
+              "text": "这个八项加和尤其值得QA关注：它没有把Rg3、Rk1、Rg5纳入同一个4%指标。因此一个经热转化后主皂苷下降、稀有皂苷上升的材料，可能在该八项方法下显示降低，但另一个更宽名单的“总量”不同。[3][6] 建议合同附件直接列每个分析物、标准物质、峰识别规则、定量方法、是否区分Rg3(S)/(R)、干基或原样基准以及未知峰处理。使用总皂苷显色法时标明参比物及当量，不把它自动折算成HPLC八项加和。"
+            },
+            {
+              "type": "paragraph",
+              "text": "EMA专论将传统使用适应证限定于相关草药药品，且明确基于长期使用；其正文并非普通食品或饮料的授权。[6] 对品牌而言，植物名称相同不足以把药用剂量、疲劳适应证或相关表述复制到饮料标签。对采购而言，原料根部、白/红/黑参加工方式、提取与分级程度、用途类别应共同进入市场审查。美国膳食补充剂制造可用21 CFR 111.70建立身份、纯度、强度、组成及污染物等规格框架，但该条款不提供一个所有人参通用的“总皂苷合格值”。[13]"
+            },
+            {
+              "type": "paragraph",
+              "text": "质量控制建议分为三个时间点：原料取样保留物种/部位与加工前指纹，蒸干中间体保留前体/产物和水分数据，成品核对浓缩干燥后的比例及载体稀释。若发现总量异常，先查取样均匀性、干基换算、参比物与积分，再追溯工艺；不应先用调配平均值掩盖异常。微生物、适用农残/元素及残留溶剂按材料与市场要求另立检测计划，与皂苷放行并行。"
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "研究价值与失败：不能只最大化Rg3",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "黑参加工研究的机构摘要说明，反复蒸干过程中酸性多糖、多酚、Rg3与苯并芘随条件改变；其响应面优化把目标成分与苯并芘一起考虑。[14] 本次可得材料是研究机构提供的摘要，未核实原始投料与设备规模，因此不把其中“最优温度时间”列为可复现工况。其可靠研究价值在于提示多目标优化：提高一个皂苷并不意味着所有质量维度同步改善；重复加热项目应按实际风险评价热加工污染物，而不是由颜色或蒸制次数推导安全。"
+            },
+            {
+              "type": "paragraph",
+              "text": "最有价值的新研究可用同一批P. ginseng根建立三条对照：低热暴露参考样、受控蒸制样、从同批根获得的皂苷富集分部。记录起始酸度、水分及丙二酰基/中性皂苷，再比较受热后的产物。这样能够检验论文提示的“去掉原料酸后，转化速度改变”，而不是让不同产地、年限和部位掩盖机制。[3] 研发选择有代表性的不同批次重复；工程记录真正料温与停留时间；QA用同一方法检测；采购将稳定性与合格率纳入价格，而非挑一个最漂亮实验批。"
+            },
+            {
+              "type": "paragraph",
+              "text": "失败诊断应具体到反应路径。第一，蒸后Rb1先升后降：检查丙二酰基前体释放与后续脱糖是否先后发生，不急于宣布工艺失控。第二，两批同温同时间但Rg3差异大：比对根径、含水、酸度、装载和根芯热史，而不是只更换检测机构。第三，提取物在饮料热处理后主峰下降：连同Rg3/Rk1/Rg5与沉淀回收一起看，区别化学转化、物理析出和分析提取不足。第四，颜色达标但目标谱不符：用非皂苷褐变与目标反应不同步解释，再调整过程终点而不是继续加深颜色。[3][15]"
+            },
+            {
+              "type": "paragraph",
+              "text": "最终的研究交付不应只有一张总皂苷COA。建议形成根部身份档案、蒸干热史、选定皂苷谱、有机酸或酸度记录、提取物流平衡、浓缩干燥前后变化以及成品矩阵稳定性七项相互连接的数据。对研发，它解释为何这样加工；对工程，它明确何时停止反应；对采购，它定义可比物料；对QA，它提供异常追溯链；对品牌，它提供真实工艺知识，而不需要夸大临床获益。"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "id": "processes",
+          "heading": "Processes: white, red and black ginseng are not three potency grades",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "White ginseng is generally prepared by drying fresh Panax ginseng roots, red ginseng by controlled steaming, and black ginseng by repeated steaming of white or red ginseng. A 2024 phytochemical review connects these processing identities to their chemical profiles and discusses non-ginsenoside constituents, including Maillard-reaction products.[15] They are not one extract ordered from low to high concentration. Procurement should first fix P. ginseng root, fresh/dry starting state and steam–dry history. Results for leaves, P. notoginseng or P. vietnamensis must not replace evidence for P. ginseng root."
+            },
+            {
+              "type": "paragraph",
+              "text": "Processing establishes chemistry before extraction. Heat can convert malonyl ginsenosides into corresponding neutral forms, followed by deglycosylation and dehydration producing less-polar ginsenosides. A mechanistic study found declines in major constituents such as Rg1, Re and Rb1 with increases in compounds including both Rg3 configurations, Rk1 and Rg5; conversion speed depended on organic acids in the matrix.[3] An increase in one neutral ginsenoside may partly represent conversion from a malonyl precursor, not the creation of additional total ginsenoside mass. Follow precursors, products and dry-basis mass balance, adding molar accounting where sugar loss changes molecular weight."
+            },
+            {
+              "type": "paragraph",
+              "text": "A traceable experiment used four-year-old ginseng purchased in Jeungpyeong, Korea, in 2013. Roots were washed, frozen at −18°C for 24 hours, freeze-dried and hammer-milled. Raw powder and isolated crude-saponin powder were each weighed at 0.5 g into capped glass vials with 3.0 mL water and heated in an oil bath at 130°C for one to five hours.[3] This was not industrial steaming of whole fresh roots or a trial of conventionally dried commercial white-ginseng powder. The raw material contained 5.55% measured organic acids, whereas acids were not detected in unheated crude saponin. Major ginsenosides in raw material were almost completely converted to the reported minor compounds after one hour at 130°C, while crude saponin changed more slowly.[3] The useful engineering hypothesis is matrix-dependent reaction speed, not a standard whole-root steaming recipe."
+            },
+            {
+              "type": "paragraph",
+              "text": "The authors also heated 100 μL of 0.5 mM Rb1 solution with 2 mM citric, malic or succinic acid in sealed microcapillary glass pipets at 130°C for one hour. Rb1 was relatively stable in water without acids but converted with acids into deglycosylated/dehydrated products including Rg3(S), Rg3(R), Rk1 and Rg5.[3] This separates heat alone from heat-plus-acid more clearly than a single yield figure. Proposed manufacturing records should therefore pair moisture and extractable acids or titratable acidity with time and temperature rather than record only the number of steam cycles."
+            },
+            {
+              "type": "paragraph",
+              "text": "Solvent extraction and enrichment come next. To prepare experimental crude saponin, the paper used steps including 40 mL 80% ethanol and ultrasound at 40°C for 30 minutes, followed by dissolution in water, ether defatting, n-butanol partitioning and freeze drying. The starting mass for that extraction subsection was not explicit, so a complete liquid-to-solid ratio or capacity cannot be calculated.[3] Analytical/fractionation solvents should not be transferred unchanged into food manufacture. A commercial development programme should compare permitted water/ethanol systems against the selected ginsenoside profile, coextractives, solids recovery and taste. Resin fractionation, if used, needs separate loading, breakthrough, elution and cleaning-stream assays because it changes the original root-extract composition."
+            },
+            {
+              "type": "paragraph",
+              "text": "Concentration and drying can continue the transformation. Because the mechanistic study shows greater thermal conversion in an acidic matrix, record actual product temperature, residence time, incoming acidity and before/after fingerprints together.[3] A project intended to preserve a white-ginseng major-ginsenoside profile should not allow concentration to become an undefined second processing step. A conversion-product project instead needs a reaction endpoint rather than unlimited heating. Those objectives require different windows and cannot share a “darker is better” criterion."
+            }
+          ]
+        },
+        {
+          "id": "equipment",
+          "heading": "Equipment: distinguish whole-root steaming, extraction and conversion",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "This is a proposed engineering comparison. The small sealed 130°C experiment supports acid/heat mechanisms, not production capacity or universal equipment settings.[3][15]"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Equipment/process",
+                "Intended task",
+                "Trade-off or risk",
+                "Acceptance output"
+              ],
+              "rows": [
+                [
+                  "Controlled steamer with graded tray loading",
+                  "Preserves a whole-root red-ginseng processing identity",
+                  "Root diameter, loading depth and cold spots change actual exposure",
+                  "Root-core temperatures at mapped positions; heating/holding/cooling curves; matched fingerprints"
+                ],
+                [
+                  "Pressure thermal reactor",
+                  "Explores high-temperature conversion",
+                  "Desired conversion competes with further degradation; more complex pressure control and sampling",
+                  "Acidity, moisture, actual history, precursor/product molar balance"
+                ],
+                [
+                  "Hot-air drying versus freeze drying",
+                  "Conventional drying versus a low-thermal-exposure reference",
+                  "Continued reaction and spatial variation versus cycle time and cost",
+                  "Moisture/water activity distribution, colour, ginsenoside retention, energy"
+                ],
+                [
+                  "Jacketed water/ethanol extractor",
+                  "Recovers constituents from roots with an already defined processing identity",
+                  "Heat transfer at high solids, foaming/entrainment, solvent recovery",
+                  "Actual solvent strength, residue markers, liquor composition, repeat-extraction benefit"
+                ],
+                [
+                  "Resin column or other fractionation pilot",
+                  "Deliberate ginsenoside enrichment",
+                  "Elution changes ratios and may remove acids or non-saponin fractions",
+                  "Loading/breakthrough/elution/cleaning balances and relevant residues"
+                ],
+                [
+                  "Vacuum concentration and powder drying",
+                  "Removes solvent and produces a measurable material",
+                  "Acidity and residence time jointly affect profile; wall losses",
+                  "Actual product temperature, residence distribution, before/after chromatography and solids yield"
+                ],
+                [
+                  "Blending and representative sampling",
+                  "Multi-batch adjustment or carrier standardization",
+                  "Average assay can hide local variation or mixed processing histories",
+                  "Multi-position uniformity, genealogy, carrier balance and final assay"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "For whole-root steaming, the proposed acceptance focus is core temperature rather than the display setting. Root grading and tray loading affect the time needed for a cold spot to reach the condition. Pair sampling with mapped temperature locations so chemistry is connected to actual exposure. Do not let an extractor silently serve as an additional, undefined steaming operation: use a root material of known identity before changing extraction variables."
+            },
+            {
+              "type": "paragraph",
+              "text": "For minor-ginsenoside enrichment, redefine both the reaction process and the material description. A high-temperature acid-converted profile should not automatically be called any traditional red-ginseng grade because of its colour. A sealed microcapillary reaches its thermal condition very differently from a loaded reactor, whose heat-up, mixing and cooling contribute to exposure. Scale by measured reaction history and compositional endpoint, not by copying the laboratory holding time."
+            }
+          ]
+        },
+        {
+          "id": "applications",
+          "heading": "Applications: the beverage can become the next processing step",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "An acidic beverage is not merely diluted ginseng powder. The 130°C sealed model demonstrates acid-promoted conversion but does not quantify conversion under ordinary beverage sterilization conditions. It does identify pH/organic acids and heat as variables worth testing together.[3] In the target beverage, measure major ginsenosides and conversion peaks such as Rg3/Rk1/Rg5 before processing, after processing and during storage, with a non-acidified or lower-thermal-exposure reference. This distinguishes a raw-material effect from a formulation or thermal-process effect rather than assigning every falling peak to “unstable ingredient.”"
+            },
+            {
+              "type": "paragraph",
+              "text": "White- and red-ginseng sensory/colour briefs should also be separate. The review describes Maillard-reaction products formed during processing, so darker colour is not an assay of any particular ginsenoside.[15] At equal measured marker dose, compare soluble solids, colour, earthy/ginseng notes, bitterness and aftertaste; matched-solids carrier blanks help identify sweetener and carrier effects. Clear beverages need postheat haze/sediment testing; concentrated liquids need bottle uniformity, consistent pour-out and container adhesion; capsules emphasize flow, moisture uptake and content uniformity. These are use-specific development attributes, not one universal inclusion rate."
+            },
+            {
+              "type": "paragraph",
+              "text": "Procurement should compare marker mass measured by the same method in materials of the same processing identity, while also displaying root-extract mass and carrier mass. Purchasing by “total saponin percentage” alone can compare a fractionated concentrate with a whole-root extract or confuse different analyte sums. A red-ginseng brand story can show documented steam–dry processing and measured profile changes. A story about one minor ginsenoside requires its actual assay, not biological activity quoted from another species."
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "Standards and QA: name the analytes, preparation and legal category",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The EMA root monograph adopted on 29 May 2024 lists white- and red-ginseng preparations within the traditional herbal-medicinal-product framework. One white-ginseng example is a dry extract with DER 3–7:1, 40% V/V ethanol and 4% ginsenosides, explicitly the sum of Rb1, Rb2, Rc, Rd, Re, Rf, Rg1 and Rg2. A red-ginseng example is a dry extract with DER 2–4.5:1 and 60% V/V ethanol.[6] These DER and solvent figures define listed medicinal preparations; they are neither recommended experimental operating conditions nor specifications universally required or allowed for ginseng foods."
+            },
+            {
+              "type": "paragraph",
+              "text": "The eight-component sum excludes Rg3, Rk1 and Rg5. A heat-converted material can therefore fall under that eight-component metric while showing a different result under a broader sum.[3][6] Contracts should list each analyte, reference standard, peak-identification rule, quantification method, treatment of Rg3(S)/(R), dry/as-is basis and handling of unknown peaks. If a colour-reaction total-saponin assay is used, state its reference compound and equivalents rather than automatically converting it into an eight-component HPLC total."
+            },
+            {
+              "type": "paragraph",
+              "text": "EMA's traditional-use indication belongs to the corresponding herbal medicinal products and is explicitly based on long-standing use; the monograph is not a conventional food or beverage authorization.[6] Sharing a botanical name is insufficient to copy medicinal doses or fatigue wording onto a drink. Market review should connect root identity, white/red/black processing, extraction/fractionation and product category. US dietary-supplement manufacture can use 21 CFR 111.70 as a framework for identity, purity, strength, composition and contaminant specifications, but the section does not provide one universal passing total-ginsenoside percentage.[13]"
+            },
+            {
+              "type": "paragraph",
+              "text": "A proposed quality plan has three checkpoints: incoming identity and pre-processing fingerprint; steam–dry intermediate with precursors/products and moisture; and finished material after concentration/drying and carrier dilution. For an unexpected assay, first inspect sampling, dry-basis conversion, standards and integration, then trace processing. Do not average away an unexplained deviation through blending. Microbiology, relevant pesticides/elements and residual solvents should follow a separate material- and market-specific plan alongside ginsenoside release."
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "Research and failures: do not maximize Rg3 alone",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "An institutional abstract of black-ginseng optimization describes changes in acidic polysaccharides, polyphenols, Rg3 and benzopyrene with repeated heating and drying, and includes benzopyrene in its response-surface optimization.[14] The available record was an institutional abstract without verified original loading or equipment scale; its reported optimum temperature/time is therefore not presented as a reproducible operating condition here. The defensible research lesson is multi-objective optimization: increasing a selected ginsenoside does not ensure every quality dimension improves. Evaluate thermal-process contaminants according to the actual process risk instead of inferring safety from colour or cycle count."
+            },
+            {
+              "type": "paragraph",
+              "text": "A valuable new programme could use one P. ginseng root batch to prepare a low-thermal-exposure reference, a controlled-steaming sample and an isolated ginsenoside-rich fraction. Measure initial acidity, moisture and malonyl/neutral profiles, then compare products under heating. This tests the paper's matrix-acid mechanism without letting origin, age and part obscure it.[3] R&D should repeat representative batches; engineering should capture actual product temperature and residence; QA should use one consistent assay; procurement should incorporate stability and acceptance rate, not select only the best experimental batch."
+            },
+            {
+              "type": "paragraph",
+              "text": "Failure diagnosis should follow reaction paths. Rb1 rising and then falling during steaming calls for checking malonyl-precursor release followed by deglycosylation before declaring loss of control. Different Rg3 results at the same nominal time/temperature call for root-size, moisture, acidity, loading and core-history comparison. Declining beverage peaks after heating call for examining Rg3/Rk1/Rg5 and sediment recovery together to distinguish conversion, precipitation and inadequate analytical extraction. Correct colour with the wrong profile calls for separating non-saponin browning from the target reaction rather than continuing to darken the material.[3][15]"
+            },
+            {
+              "type": "paragraph",
+              "text": "A useful final research dossier therefore connects seven records: root identity, steam–dry history, selected ginsenoside profile, acidity/organic acids, extraction-stream balance, concentration/drying changes and finished-matrix stability. R&D learns why the process works; engineering gains an endpoint; procurement gains comparable materials; QA gains a deviation trail; and the brand gains authentic process knowledge without exaggerated clinical claims."
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 3,
+        "title": "Influence of organic acids and heat treatment on ginsenoside conversion - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6190498",
+        "accessed": "2026-09-09",
+        "scope": "primary laboratory study"
+      },
+      {
+        "id": 6,
+        "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix",
+        "url": "https://ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+        "accessed": "2026-09-09",
+        "scope": "official herbal medicinal monograph"
+      },
+      {
+        "id": 13,
+        "title": "21 CFR 111.70 -- What specifications must you establish?",
+        "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-111/section-111.70",
+        "accessed": "2026-09-09",
+        "scope": "official US manufacturing regulation"
+      },
+      {
+        "id": 14,
+        "title": "Optimization of the manufacturing process for black ginseng       -  Kyung Hee University",
+        "url": "https://khu.elsevierpure.com/en/publications/optimization-of-the-manufacturing-process-for-black-ginseng-2",
+        "accessed": "2026-09-09",
+        "scope": "primary study institutional abstract only"
+      },
+      {
+        "id": 15,
+        "title": "Phytochemistry of Red Ginseng, a Steam-Processed Panax ginseng.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38353635",
+        "accessed": "2026-09-09",
+        "scope": "2024 phytochemical review abstract"
+      }
+    ]
+  },
+  {
+    "productId": "licorice-root",
+    "group": "d",
+    "pack": "group-d/licorice-root.md",
+    "content": {
+      "zh": [
+        {
+          "id": "processes",
+          "heading": "工艺：甘草酸、DGL、光甘草定是三种不同的产品任务",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "甘草不能只用“10:1提取物”定义。甘草酸又称 glycyrrhizin/glycyrrhizic acid，是与甘草风险评估相关的重要组分；DGL 是降低甘草酸后的混合制备物；光甘草定 glabridin 则是光果甘草 Glycyrrhiza glabra 的异黄烷标志物，不能把其含量等同于总黄酮，也不能把乌拉尔甘草或胀果甘草自动当作同等原料。[4][44][48] 因此，研发立项第一张图应是目标物和去除物的物料去向图，而不是设备照片。"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "产品任务",
+                "需要保留的物料",
+                "关键分离逻辑",
+                "最易发生的身份混淆"
+              ],
+              "rows": [
+                [
+                  "普通甘草提取物/甘草酸富集物",
+                  "混合可提取物，或特定甘草酸组分",
+                  "提取后浓缩与选择性富集是不同操作",
+                  "将提取比当作甘草酸含量；盐型与游离酸计量不一致"
+                ],
+                [
+                  "DGL/脱甘草酸黄酮富集物",
+                  "选定的非甘草酸组分及其指纹",
+                  "必须分开甘草酸和目标黄酮，并核算残留",
+                  "“脱除”当作绝对零；总黄酮当作光甘草定"
+                ],
+                [
+                  "光甘草定富集物或单体",
+                  "光果甘草中的光甘草定",
+                  "按该分子的溶解、吸附和色谱行为设计多级纯化",
+                  "把混合 DGL 直接宣传为高纯光甘草定"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "这一区分有实际实验依据：Fu 等在2005年比较 XDA-1、LSA-10、D101、LSA-20 四种大孔树脂，用粗甘草提取液分离甘草黄酮与甘草酸。所读论文摘要报告 XDA-1 对两类组分有较高容量，同时对黄酮的亲和力更强；一次柱操作取得约21.9%黄酮富集物和66%甘草酸富集物。[4] 这是该研究的分离结果，不是“DGL统一含量标准”。摘要使用“free of GA”，但此次可访问正文片段未提供该表述对应的定量限，所以商业放行应使用经过验证的残留数值，不能写“完全不含”。[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "**DGL 开发步骤及物料变化。**工程建议是把已澄清粗提液作为柱分离进料，首先同时测甘草酸和目标黄酮，再比较不同进料 pH 下的动态穿透与洗脱曲线。上述研究观察到降低 pH 会提高甘草酸和黄酮的吸附容量，因此“吸得更多”并不意味着“选择性更好”；工艺必须找到能分开两类组分的切段窗口。[4] 收集进料流出液、洗涤液、各洗脱段和再生液，用各段体积乘含量做质量平衡。富集段浓缩干燥后再测残留和黄酮指纹，以识别柱后混批、夹带或辅料加入导致的变化。这里的操作顺序是开发框架，pH、床体积流速和乙醇梯度没有足够公开完整方法支持，故不填假设的“行业标准参数”。"
+            },
+            {
+              "type": "paragraph",
+              "text": "**光甘草定路线不能沿用甘草酸路线。**Simmler 等综述指出光甘草定为光果甘草的物种相关标志物，文献所述根部干重含量为0.08%—0.35%，并与根的组织分布、产地和环境有关；该范围是文献材料观察，不是任一批原料的验收保证。[48] 其路线通常从合适溶剂提取和液液分配开始，再以吸附富集、制备色谱或结晶实现进一步分离。综述汇集的早期单体分离常需三到四个色谱/分配步骤，有些使用苯、氯仿等溶剂；这些是历史研究方法，不应作为食品或化妆品量产溶剂推荐。[48] 更实际的开发目标是用可接受的溶剂体系完成选择性分配和富集，并证明置换后选择性、杂质谱和回收率没有恶化。"
+            },
+            {
+              "type": "paragraph",
+              "text": "光甘草定纯化中，“倍数增加”和“总回收”必须一起看。该综述转述 HPD100 树脂研究的富集倍数约150倍、回收约80%，提示高倍富集仍伴随目标物损失；分子印迹聚合物研究的回收仅42%—56%，洗涤段也发现光甘草定。[48] 这些数值来自综述所汇集的实验，当前不是独立复核的吨级运行结果，也不能据此选定本公司的树脂。采购若只问成品纯度，会漏掉影响真实成本的每批目标物损失。"
+            }
+          ]
+        },
+        {
+          "id": "equipment",
+          "heading": "设备：围绕选择性、接触历史与溶剂闭路选型",
+          "blocks": [
+            {
+              "type": "table",
+              "headers": [
+                "单元/候选设备",
+                "解决的真实问题",
+                "选型时应看到的数据",
+                "错配后的后果与排查"
+              ],
+              "rows": [
+                [
+                  "搅拌提取罐及粗滤、精滤",
+                  "形成可重复的液相组成并去除固体",
+                  "原料粒径、料液比、浸出时间曲线及滤液浊度",
+                  "粉碎过细使澄清负荷增加；先检查粒径和过滤压差，不只加大泵"
+                ],
+                [
+                  "DGL 吸附柱",
+                  "甘草酸与目标黄酮的选择性分离",
+                  "双组分动态穿透、洗脱切段、再生后重复性",
+                  "静态容量高但分离区重叠；缩小切段并核算收率，不把两种指标互相替代"
+                ],
+                [
+                  "光甘草定富集柱/制备色谱",
+                  "从相似黄酮中富集单一分子",
+                  "光甘草定及近邻峰分离、回收、残留和清洗液结果",
+                  "不可逆吸附或氧化造成高纯低收率；查柱前后物料平衡与停留时间"
+                ],
+                [
+                  "真空浓缩与溶剂回收",
+                  "减少水/有机溶剂，准备干燥或结晶",
+                  "产品温度、停留、冷凝效率及残留溶剂",
+                  "浓缩不是去甘草酸；去水可能同时提高甘草酸质量分数"
+                ],
+                [
+                  "配制罐/均质机/包合设备",
+                  "解决光甘草定在终端介质中的析出",
+                  "稀释后可溶含量、粒子形态、载量、长期稳定性",
+                  "外观均匀不等于分子溶解；仅加大剪切不能证明形成稳定递送体系"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "表中为工程选型建议；分离选择性和固相损失的依据分别来自树脂研究与光甘草定综述，配制风险来自2025年的实际溶解研究。[4][48][21] 对乙醇系统还应把回收、通风、防爆设计与清洗排放纳入设备边界，不把“绿色提取”简化成一种溶剂名称。树脂床径和高度应由允许压降、动态容量、目标处理量和再生周期联合确定；本次证据没有支撑某个固定床高或设备品牌最佳。"
+            },
+            {
+              "type": "paragraph",
+              "text": "**可核查的失败案例。**2025年光甘草定研究以 DMSO 母液稀释进 PBS 后，观察到立即浑浊和针状晶体，晶体数量与尺寸随时间变化，随后沉降。[21] 研究者认为这既降低可供细胞接触的溶解组分，也可能引入物理损伤，因此不能把所有细胞毒性都解释为分子本身的固有作用。[21] 其方法以20 mg/mL母液稀释至100 μg/mL，并在室温观察至120分钟，过滤后用 HPLC 测上清；材料是实验室光甘草定和PBS，不是量产化妆品，所读段落未列整个配制批量。[21] 这一案例支持设备验证增加显微镜和上清定量，而非直接复制其包合比例；原文另有配比与真空单位的可疑写法，本稿不将其转录为操作处方。"
+            }
+          ]
+        },
+        {
+          "id": "applications",
+          "heading": "应用：把风味、口服固体和外用递送分开开发",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "普通甘草根制备物已有食品调味和补充剂应用背景，而光甘草定文献包含独立的化妆品递送研究。[44][48] 对品牌而言，这意味着“甘草”一个词不能跨项目替代成分名称、组分组成和工艺来源。口服 DGL 应把残留甘草酸、目标黄酮指纹、每日实际投料量和其他甘草来源合并进入配方档案；风味项目还应记录苦味、甘草样后味、色泽和溶解行为，而不是只比较每公斤价格。"
+            },
+            {
+              "type": "paragraph",
+              "text": "对光甘草定外用项目，工程建议先建立配方稀释路径：原料→预溶液→乳化相→成品→使用稀释。每个状态同时检测总含量、过滤上清含量和显微形态，避免“总含量未变”掩盖活性分子已析出。环糊精包合、纳米乳或多孔载体属于不同配制物，应披露载体质量分数与负载率；载体加入会改变每克成品中的光甘草定，而不只是改变宣传名称。光甘草定综述讨论了上述包埋路线及稳定性问题，2025年论文进一步展示溶剂置换对实验结果的影响。[48][21]"
+            },
+            {
+              "type": "paragraph",
+              "text": "实际打样可设置同一光甘草定投料量的未配制粉、预溶液和候选载体组，另设载体空白组；在最终包装中对比避光、受光和温度应力。评价顺序为物理稳定→化学保持→皮肤适用性和宣称试验，而不是先按细胞文献选择营销功效。此处是试验设计建议；文献中的细胞、动物及不同载体结果并不提供本品牌成品的功效证据。[21][48]"
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "检测与标准：用双指标代替一个“提取比”",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "DGL 的证书应至少把甘草酸残留与保留组分拆成两项：第一项回答降低了多少，第二项回答留下了什么。工程建议统一干基/原样基、游离酸/盐型换算、标准品纯度校正和含辅料状态；方法应给出专属性、回收率和定量限，并证明对该混合提取物适用。对光甘草定，HPLC/UPLC 定量应配合光果甘草身份与指纹；如用于高纯单体研发，可用质谱、核磁或适宜正交方法进一步确认，不能只靠一个保留时间。综述明确指出许多早期研究只以 HPLC-UV 描述纯度，实际生物试验所用材料的完整纯度披露并不充分。[48]"
+            },
+            {
+              "type": "paragraph",
+              "text": "质量放行另需结合实际溶剂历史确定残留溶剂项目，并按原料产地及用途核查农残、元素杂质和微生物。对经过柱处理的产品，树脂可浸出物、再生剂夹带和共线清洗是工艺审查点；这些是本稿给 QA 的风险化选项，而不是声称每一项都有统一全球限量。"
+            },
+            {
+              "type": "paragraph",
+              "text": "甘草酸风险不是可以省略的商业细节：NIH LiverTox 对甘草高剂量不良反应给出明确描述，包括盐皮质激素样影响及高血压、低钾等背景。[44] 最有效的边界不是反复写“咨询专业人士”，而是规定残留方法、每日份量、叠加来源和目标人群审查的责任人。此次取得的 EMA 2010版甘草根专论 PDF 已标注 **Superseded**，仅作为传统草药制备物历史资料，不用于当前剂量或准入判断。[28] 食品、补充剂与化妆品的用途身份要分别审查；本文未完成中国、欧盟、美国所有相关现行条文逐项比对。"
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "科研意义与跨角色交接",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "甘草研究的价值不仅是列举活性通路，而是解释“组分分离如何改变可研究材料”。DGL 分离能够把甘草酸相关效应和其他组分效应在设计上拆开；光甘草定的物种标志作用帮助把植物身份和定量化学连起来；析晶案例则说明细胞实验中的名义浓度不等于实际溶解浓度。[4][48][21] 研究计划应同时保留原始混合物、甘草酸富集段、DGL段与单体/载体对照，减少把复杂混合物结果归因于单一成分的错误。"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "角色",
+                "交接物",
+                "可据此作出的决定"
+              ],
+              "rows": [
+                [
+                  "研发",
+                  "组分目标、三条产品路线和配方稀释路径",
+                  "选择普通提取物、DGL或光甘草定，而非盲选高倍提取物"
+                ],
+                [
+                  "工程",
+                  "双组分穿透、分段质量平衡、溶剂回收与清洗记录",
+                  "判断柱分离是否真正选择性去除、是否损失目标物"
+                ],
+                [
+                  "采购",
+                  "物种/部位、提取与纯化历史、每克目标物与辅料比例",
+                  "在同等有效组分和应用成本基础上比价"
+                ],
+                [
+                  "QA",
+                  "残留甘草酸、保留指纹、检测限和变更控制",
+                  "识别“检测不到”与“低于规格”、原样基与干基的差别"
+                ],
+                [
+                  "品牌",
+                  "与成品一致的原料名称、组成和证据对象",
+                  "不把DGL写成光甘草定，也不把实验活性写成成品疗效"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "**证据限度集中说明：**DGL论文此次取得摘要与正文片段，未取得完整动态柱条件；光甘草定主要采用可获取的完整综述与2025年原始研究，综述转引的收率不是本次重新核验的原始批记录。没有推定任何供应商设备、产能、规格或健康功效。"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "id": "processes",
+          "heading": "Process: choose the fraction before choosing the process",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Licorice is not adequately defined by an extract ratio. Glycyrrhizin/glycyrrhizic acid, a deglycyrrhizinated mixed extract (DGL), and glabridin are different material targets. Glabridin is a species-associated isoflavan marker of Glycyrrhiza glabra; total flavonoids, DGL and glabridin cannot be used as interchangeable specifications.[4][44][48]"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Product target",
+                "Material to retain",
+                "Separation task",
+                "Identity trap"
+              ],
+              "rows": [
+                [
+                  "Conventional extract or glycyrrhizic-acid-rich fraction",
+                  "Mixed extractives or the specified glycyrrhizic acid component",
+                  "Extraction/concentration versus selective enrichment",
+                  "Extract ratio mistaken for assay; acid/salt reporting mismatch"
+                ],
+                [
+                  "DGL",
+                  "Defined non-glycyrrhizic constituents",
+                  "Separate glycyrrhizic acid from desired flavonoids",
+                  "“Removed” interpreted as absolute zero; total flavonoids called glabridin"
+                ],
+                [
+                  "Glabridin-rich extract or isolated compound",
+                  "Glabridin from authenticated G. glabra",
+                  "Fractionation, enrichment and compound-level purification",
+                  "A mixed DGL extract presented as purified glabridin"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Fu et al. compared XDA-1, LSA-10, D101 and LSA-20 resins. Their accessible abstract reports higher adsorption capacity of XDA-1 for both constituent classes and greater affinity for licorice flavonoids. One column separation produced a flavonoid-rich fraction of approximately 21.9% purity and a glycyrrhizic-acid-rich fraction of 66% purity.[4] These are study results, not universal DGL specifications. The abstract says “free of GA”; its corresponding quantitation limit was not available in the retrieved excerpt, so a commercial specification needs a validated numerical residual limit.[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "The proposed DGL development sequence is clarification, dual-marker feed assay, pH-dependent dynamic loading studies, fraction collection, mass balance, concentration and drying, followed by repeat residual and fingerprint testing. The study found increasing adsorption of both constituent classes as pH decreased: higher capacity alone therefore does not establish better separation.[4] Record target mass in feed, breakthrough, washes, eluates and regeneration streams. No universal pH, bed-volume rate or ethanol gradient is supplied because the complete column method was not retrieved."
+            },
+            {
+              "type": "paragraph",
+              "text": "The glabridin route starts with a different botanical and chemical target. Simmler et al. report literature concentrations of 0.08–0.35% of root dry weight, together with tissue localization and geographical/environmental variation; these are observations, not incoming-lot guarantees.[48] Extraction, liquid–liquid partition, adsorption, preparative chromatography and/or crystallization are candidate operations. Historical isolation methods often needed three or four chromatographic/partition stages and sometimes used benzene or chloroform; these solvents are not recommended here for commercial food or cosmetic production.[48] Replacement solvent systems require demonstrated selectivity and impurity control, not merely an acceptable solvent name."
+            },
+            {
+              "type": "paragraph",
+              "text": "The review reports approximately 150-fold enrichment and 80% glabridin recovery with HPD100, while molecularly imprinted polymer methods recovered only 42–56%, with glabridin also appearing in wash fractions.[48] These secondary-reported laboratory results illustrate why enrichment factor and total recovery must be evaluated together. They are not independently verified production-scale capacities."
+            }
+          ]
+        },
+        {
+          "id": "equipment",
+          "heading": "Equipment: specify separation performance and material history",
+          "blocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Unit",
+                "Required performance evidence",
+                "Failure to investigate"
+              ],
+              "rows": [
+                [
+                  "Extraction and clarification",
+                  "Particle size, extraction curve, filtrate turbidity and pressure drop",
+                  "Excess fines overloading clarification"
+                ],
+                [
+                  "DGL adsorption column",
+                  "Dual-component breakthrough, fraction cuts and regeneration repeatability",
+                  "High capacity but overlapping elution bands"
+                ],
+                [
+                  "Glabridin enrichment/preparative separation",
+                  "Marker and neighboring peaks, recovery and retained mass",
+                  "Irreversible adsorption or oxidation reducing yield"
+                ],
+                [
+                  "Vacuum concentration/recovery",
+                  "Product temperature, residence, condensation and residual solvent",
+                  "Concentration mistaken for selective glycyrrhizic-acid removal"
+                ],
+                [
+                  "Formulation/mixing/encapsulation",
+                  "Dissolved assay after dilution, morphology, loading and stability",
+                  "Visual uniformity mistaken for molecular dissolution"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "These are engineering recommendations grounded in the adsorption, isolation and formulation literature.[4][48][21] Ethanol recovery, ventilation, explosion protection, cleaning and waste handling belong in the equipment scope. Bed geometry should follow dynamic capacity, flow demand, pressure drop and regeneration—not a generic “DGL machine” label."
+            },
+            {
+              "type": "paragraph",
+              "text": "A documented 2025 failure case is particularly useful: glabridin dissolved in DMSO became turbid and formed needle-like crystals when diluted into PBS; crystals increased and sedimented over time.[21] The laboratory method diluted a 20 mg/mL stock to 100 μg/mL and followed room-temperature samples for up to 120 minutes with filtered-supernatant HPLC. Total preparation batch volume was not given in the passage examined.[21] The authors associated precipitation with reduced dissolved exposure and possible physical cellular injury. This justifies microscopy and soluble-fraction measurement during validation, not copying an encapsulation recipe. Apparent ratio/vacuum-unit problems elsewhere in that paper were not reproduced as manufacturing instructions."
+            }
+          ]
+        },
+        {
+          "id": "applications",
+          "heading": "Applications: flavor, oral solids and topical delivery are separate briefs",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Licorice root preparations have flavoring and supplement use histories; glabridin literature separately examines topical delivery.[44][48] A DGL formula dossier should combine residual glycyrrhizic acid, retained-marker fingerprint, actual daily ingredient mass and other licorice sources. Flavor screening should also record color, bitterness, licorice-like aftertaste and dissolution rather than compare price per kilogram alone."
+            },
+            {
+              "type": "paragraph",
+              "text": "For topical glabridin, the proposed test chain is raw material → premix → emulsion phase → finished product → use dilution. At each stage, compare total assay, filtered-supernatant assay and microscopy. An unchanged total assay can conceal precipitation. Cyclodextrin complexes, nanoemulsions and porous carriers are different formulated materials; carrier percentage and loading determine glabridin per gram of the supplied powder.[48][21]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Compare unformulated powder, a premix and candidate carriers at matched glabridin dose, including carrier blanks. Test final packaging under dark, light and thermal conditions. Physical stability and chemical retention should precede skin suitability and finished-product claim studies. Cell and animal findings on different materials do not establish a brand’s clinical or cosmetic performance.[21][48]"
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "Testing and standards: two specifications instead of one ratio",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "A DGL certificate should answer both “how much glycyrrhizic acid remains?” and “what was retained?” The proposed method package aligns dry/as-is basis, acid/salt conversion, reference-standard correction and excipient status, and establishes specificity, recovery and quantitation limit. Glabridin assay should be accompanied by botanical identity and fingerprint information; purified research compounds may require orthogonal MS/NMR confirmation. The review highlights incomplete purity reporting and overreliance on HPLC-UV in earlier studies.[48]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Solvent history determines residual-solvent tests; origin and intended use inform pesticide, elemental and microbiological controls. Resin extractables, regeneration-agent carryover and shared-line cleaning are risk-based QA review topics, not claimed globally uniform limits."
+            },
+            {
+              "type": "paragraph",
+              "text": "NIH LiverTox describes serious high-dose licorice effects, including mineralocorticoid-like consequences and the context of hypertension and hypokalemia.[44] Operational safeguards are a residual method, serving calculation, combined-source review and defined population assessment. The retrieved EMA 2010 monograph is explicitly marked **Superseded** and is retained only as historical information, not a current dosing or market-entry authority.[28] Food, supplement and cosmetic regulatory identities require separate reviews; this dossier is not an exhaustive current China/EU/US legal crosswalk."
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "Research significance and handover",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "DGL fractionation can help distinguish glycyrrhizic-acid-associated effects from other constituents; glabridin connects botanical identity with marker chemistry; the precipitation experiment shows why nominal cell-culture concentration can differ from dissolved exposure.[4][48][21] A useful study retains original extract, glycyrrhizic-acid-rich fraction, DGL fraction, isolated compound and carrier controls."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Role",
+                "Handover",
+                "Decision supported"
+              ],
+              "rows": [
+                [
+                  "R&D",
+                  "Fraction target and dilution pathway",
+                  "Conventional extract, DGL or glabridin selection"
+                ],
+                [
+                  "Engineering",
+                  "Dual-marker breakthrough, fraction mass balance, recovery and cleaning",
+                  "True selectivity and acceptable loss"
+                ],
+                [
+                  "Procurement",
+                  "Species/part, process history, marker mass and carrier percentage",
+                  "Comparable ingredient and application cost"
+                ],
+                [
+                  "QA",
+                  "Residual assay, retained fingerprint, quantitation limit and change control",
+                  "Below detection versus below specification"
+                ],
+                [
+                  "Brand",
+                  "Accurate ingredient identity and matching evidence object",
+                  "No DGL/glabridin conflation or untested efficacy claim"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Evidence limitations: the DGL paper was available as abstract and excerpts, not a complete dynamic-column method. Glabridin coverage uses a recovered full review and a 2025 original study; secondary-reported yields are not independently audited batch records. No supplier facilities, capacity, specification or health benefit is inferred."
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 4,
+        "title": "The application of macroporous resins in the separation of licorice flavonoids and glycyrrhizic acid",
+        "url": "https://sciencedirect.com/science/article/abs/pii/S0021967305012033",
+        "accessed": "2026-09-09",
+        "scope": "abstract_and_publisher_excerpts"
+      },
+      {
+        "id": 21,
+        "title": "Overestimated cytotoxicity and underestimated whitening efficacy of glabridin: A result of its poor solubility in DMSO - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12143567",
+        "accessed": "2026-09-09",
+        "scope": "original_research_long_extract"
+      },
+      {
+        "id": 28,
+        "title": "Community herbal monograph on Glycyrrhiza glabra L. and/or ...",
+        "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-glycyrrhiza-glabra-l-andor-glycyrrhiza-inflata-bat-andor-glycyrrhiza-uralensis-fisch-radix-first-version_en.pdf",
+        "accessed": "2026-09-09",
+        "scope": "superseded_monograph_excerpt"
+      },
+      {
+        "id": 44,
+        "title": "Licorice - LiverTox® - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK590484",
+        "accessed": "2026-09-09",
+        "scope": "NIH_LiverTox_full_extract"
+      },
+      {
+        "id": 48,
+        "title": "Simmler et al glabridin review, NCBI BioC full text",
+        "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC3795865/unicode",
+        "accessed": "2026-09-09",
+        "scope": "full_review_NCBI_BioC_API"
+      }
+    ]
+  }
+]

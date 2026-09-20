@@ -1,0 +1,235 @@
+[
+  {
+    "productId": "turmeric",
+    "canonicalPath": "/plant-extracts/ingredients/turmeric",
+    "name": {
+      "en": "Curcuminoids versus whole-rhizome extract",
+      "zh": "姜黄素类与全根茎提取物"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Curcuminoids versus whole-rhizome extract",
+          "zh": "提取工艺：姜黄素类与全根茎提取物"
+        },
+        "text": {
+          "en": "Request the extraction solvent sequence, curcuminoid profile and details of any emulsifier, dispersant or encapsulation system. A dispersible grade and a high-assay powder are different procurement objects; carrier mass must be included in formulation calculations. Compare the plain curcuminoid material separately from a loaded carrier system; the delivery review identifies carrier composition as a variable, not a guarantee of powder behavior. Require separate solvent and excipient records so that an improved dispersion sample is not mistaken for a more efficiently extracted rhizome.",
+          "zh": "索取提取溶剂顺序、姜黄素类组分及乳化剂、分散剂或包埋体系信息。易分散规格与高含量粉末是不同采购对象；配方核算须纳入载体质量。 应将普通姜黄素类材料与载体负载体系分开比较；递送综述将载体组成列为变量，不保证粉末表现。 要求分别记录溶剂与辅料，避免将分散改善样品误认为根茎提取效率提高。"
+        },
+        "citations": [
+          14
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Separate extraction from dispersion equipment",
+          "zh": "区分提取设备与分散设备"
+        },
+        "text": {
+          "en": "The curcumin review identifies carrier material and physicochemical properties as delivery variables. For a rhizome-extract purchase, first request the extraction and purification train. If a dispersible grade is needed, separately ask whether a proposed high-shear mixer, homogenizer or drying/encapsulation step is part of formulation rather than extraction. Require the actual emulsifier/carrier composition, particle or dispersion measurements and a settling test in the intended matrix. The abstract does not identify a universally best machine or prove that a high-assay powder disperses; equipment choice remains a pilot-validation question.",
+          "zh": "姜黄素综述将载体材料与理化性质列为递送变量。根茎提取物采购应先索取提取与纯化流程。如需易分散规格，应另问拟用高剪切混合机、均质机或干燥／包埋步骤属于配方还是提取。要求实际乳化剂／载体组成、粒子或分散测量及目标体系沉降试验。摘要不指定普遍最佳设备，也不证明高含量粉末易分散；设备选择仍需中试验证。"
+        },
+        "citations": [
+          14,
+          10
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Curcuminoids versus whole-rhizome extract",
+          "zh": "应用试验：姜黄素类与全根茎提取物"
+        },
+        "text": {
+          "en": "Use a colored or cloudy format as an initial screening option rather than promise a clear beverage. Compare settling, light exposure, stain transfer and heat history. Define a sampling method before comparing marker retention in a suspension. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Curcumin and carrier/loading systems discussed for intestinal inflammation research.",
+          "zh": "可先筛选有色或浑浊体系，不承诺澄清饮料效果。比较沉降、光照、染色与热历史；悬浮体系比较标志物保留前须定义取样方法。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：姜黄素及其载体与负载体系，研究背景为肠道炎症；并非本公司商品。"
+        },
+        "citations": [
+          14
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "Curcumin delivery systems require their own market review",
+          "zh": "姜黄素递送体系须独立市场复核"
+        },
+        "text": {
+          "en": "The linked curcumin review discusses carrier-dependent delivery, not food authorization. For an EU project distinguish rhizome extract, isolated curcuminoids and an engineered delivery system when reviewing novel-food status and the permitted use category. The Commission catalogue is only a reference tool, not an exhaustive authorization list. For a US supplement, evaluate the exact preparation and changes under the NDI framework. Do not adopt therapeutic intestinal-inflammation wording or assume a nanoparticle carrier has the same status as a culinary spice.",
+          "zh": "所链接姜黄素综述讨论依赖载体的递送，不是食品授权。欧盟项目在复核新食品状态和允许使用类别时，应区分根茎提取物、分离姜黄素类与工程化递送体系。委员会目录只是参考工具，并非完整授权清单。美国补充剂须按新膳食成分框架评估具体制备物及变化。不可采用治疗肠道炎症措辞，也不能假设纳米载体与烹饪香料具有相同状态。"
+        },
+        "citations": [
+          14,
+          8,
+          7
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Curcuminoids versus whole-rhizome extract",
+          "zh": "研究观察：姜黄素类与全根茎提取物"
+        },
+        "text": {
+          "en": "Curcumin and carrier/loading systems discussed for intestinal inflammation research. Delivery systems and physicochemical barriers; formulation context, not a finished-drink efficacy claim. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "姜黄素及其载体与负载体系，研究背景为肠道炎症；并非本公司商品。递送体系与理化障碍的综述；用于配方背景阅读，不支持成品饮料功效宣称。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          14
+        ]
+      }
+    }
+  },
+  {
+    "productId": "ginseng",
+    "canonicalPath": "/plant-extracts/ingredients/ginseng",
+    "name": {
+      "en": "Species, plant part and processing history",
+      "zh": "物种、部位与加工历史"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Species, plant part and processing history",
+          "zh": "提取工艺：物种、部位与加工历史"
+        },
+        "text": {
+          "en": "Distinguish root, leaf and other parts and request the steam-processing history. Ask how the chosen solvent, concentration and drying process relates to the supplied ginsenoside fingerprint. A total saponin value is not a substitute for named-ginsenoside results. The chemical-diversity review covers root and other parts as well as red/black ginseng. Preserve that starting-material and steam-history identity throughout sampling; changing the solvent and changing the preprocessed root are different comparisons.",
+          "zh": "区分根、叶及其他部位，索取蒸制加工历史。询问溶剂、浓缩和干燥过程与交付人参皂苷指纹之间的对应关系。总皂苷数值不能替代具体人参皂苷的检测结果。 化学多样性综述涉及根及其他部位，也涉及红参／黑参。应在整个取样过程中保持起始材料与蒸制历史身份；变更溶剂与变更前处理根材料属于不同的比较。"
+        },
+        "citations": [
+          16
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Steam history before extraction-vessel selection",
+          "zh": "先核查蒸制历史，再选提取设备"
+        },
+        "text": {
+          "en": "The Panax review distinguishes plant parts and steam-processed red and black ginseng. Accordingly, an equipment brief should separate steam treatment from extraction and concentration. If a steamed material is requested, ask how the steaming chamber records time and temperature and how the resulting ginsenoside fingerprint is checked; do not infer the same material from an unsteamed-root extractor. Compare controlled extraction and drying options using named ginsenosides and mass balance. These are proposed scale-up questions, not published settings or confirmation that a supplier owns a steaming line.",
+          "zh": "人参综述区分不同植物部位以及蒸制红参、黑参。因此设备需求应将蒸制与提取浓缩分开。如需蒸制材料，应询问蒸制装置如何记录时间和温度、如何核查所得人参皂苷指纹；未经蒸制根的提取设备不能证明交付材料相同。建议以具体人参皂苷和质量平衡比较控温提取及干燥选项。这是放大复核建议，不是文献设定参数，也不确认供应商拥有蒸制线。"
+        },
+        "citations": [
+          16
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Species, plant part and processing history",
+          "zh": "应用试验：物种、部位与加工历史"
+        },
+        "text": {
+          "en": "Screen earthy notes, bitterness and haze at the proposed matrix conditions. Review local permission for the exact species, part and use; food and supplement eligibility may differ. Avoid a stimulant-duration promise or a claim that the extract offsets sleep loss. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Panax ginseng plant parts, red ginseng and black ginseng; composition differs by processing. Preserve steam-processing identity in the ginsenoside comparison.",
+          "zh": "在拟用体系条件下筛选土腥味、苦味与浑浊。核查具体物种、部位和用途的当地许可；食品与补充剂适用性可能不同。不承诺提神持续时间或抵消缺觉。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：人参不同部位、红参与黑参；加工背景不同，不能用一个总含量概括所有材料。 人参皂苷比较应保持蒸制加工身份一致。"
+        },
+        "citations": [
+          16
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "EMA root monograph versus food/supplement classification",
+          "zh": "EMA 根部专论与食品／补充剂分类"
+        },
+        "text": {
+          "en": "EMA’s Ginseng radix material concerns Panax ginseng root in herbal medicinal products. It is not authorization of ginseng leaf, every steamed extract or a conventional beverage. In an EU sourcing brief identify root versus other parts and white/red/black processing history before comparing the applicable preparation and legal category. A US supplement brief needs its own NDI and safety review. Do not copy medicinal indications, preparation strengths or dosing into a food label merely because the plant name matches.",
+          "zh": "EMA 人参根资料涉及草药药品中的人参根，并非人参叶、所有蒸制提取物或普通饮料的许可。欧盟采购需求应先区分根与其他部位以及白参／红参／黑参加工历史，再比较适用制备物与法律类别。美国补充剂需求须另行开展新膳食成分与安全复核。不能因为植物名称相同，就将药品适应证、制备物浓度或用量照搬到食品标签。"
+        },
+        "citations": [
+          4,
+          7,
+          16
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Species, plant part and processing history",
+          "zh": "研究观察：物种、部位与加工历史"
+        },
+        "text": {
+          "en": "Panax ginseng plant parts, red ginseng and black ginseng; composition differs by processing. Chemical diversity across plant parts and steam processing; useful for identity and fingerprint questions. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "人参不同部位、红参与黑参；加工背景不同，不能用一个总含量概括所有材料。不同部位及蒸制加工下的化学多样性；用于提出身份与指纹图谱核查问题。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          16
+        ]
+      }
+    }
+  },
+  {
+    "productId": "licorice-root",
+    "canonicalPath": "/plant-extracts/ingredients/licorice-root",
+    "name": {
+      "en": "Species and glycyrrhizin disclosure",
+      "zh": "物种与甘草酸披露"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Species and glycyrrhizin disclosure",
+          "zh": "提取工艺：物种与甘草酸披露"
+        },
+        "text": {
+          "en": "Request the exact Glycyrrhiza species and root identity, extraction solvents and glycyrrhizin method. A deglycyrrhizinated description requires a measurable residual specification; it is not proof of zero content or general suitability. Keep glycyrrhizin reduction separate from ordinary concentration. Request before/after results and confirm the species rather than accepting a deglycyrrhizinated label as a process record. Safety context makes residual glycyrrhizin a separate question from extract ratio.",
+          "zh": "索取具体甘草物种、根部身份、提取溶剂与甘草酸检测方法。脱甘草酸描述须有可测量的残留规格；不代表零含量或普遍适用。 应将甘草酸降低与普通浓缩区分。索取前后结果并确认物种，不将脱甘草酸标签视为工艺记录。 安全背景决定残留甘草酸应独立于提取比核查；同样的提取比不能证明相同残留量或适用人群。"
+        },
+        "citations": [
+          20
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Verify removal performance, not a DGL machine label",
+          "zh": "核查去除效果，不看“脱甘草酸设备”标签"
+        },
+        "text": {
+          "en": "A Glycyrrhiza uralensis review covers saponins and flavonoids, while NCCIH separately flags glycyrrhizin-related safety concerns. For a deglycyrrhizinated brief, ask a processor to identify the selective separation stage, whether a column or another validated operation, and measure glycyrrhizin before and after it. Concentration or drying alone should not be accepted as evidence of selective removal. Request a residual assay, solvent history and species identity with any equipment proposal. This is an engineering review question, not a validated DGL process or a claim of zero glycyrrhizin.",
+          "zh": "乌拉尔甘草综述涉及皂苷与黄酮，NCCIH 另指出甘草酸相关安全问题。脱甘草酸需求应要求加工方明确选择性分离步骤：是柱分离还是其他已验证操作，并检测前后甘草酸。不能仅凭浓缩或干燥就认定完成选择性去除。任何设备方案均应附残留检测、溶剂历史与物种身份。这是工程复核问题，不是已验证的脱甘草酸工艺，也不声称甘草酸为零。"
+        },
+        "citations": [
+          20,
+          5
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Species and glycyrrhizin disclosure",
+          "zh": "应用试验：物种与甘草酸披露"
+        },
+        "text": {
+          "en": "Evaluate the characteristic taste only after safety and use-condition review. Agree an exposure assessment for the whole formula and warnings where required. The linked G. uralensis review cannot establish equivalence with a G. glabra lot or permission in a beverage. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Glycyrrhiza uralensis constituents including saponins and flavonoids; not G. glabra equivalence. Glycyrrhizin exposure must be assessed before sensory selection.",
+          "zh": "先评估安全性与使用条件，再评价特征风味。确定完整配方的暴露评估及必要警示。所链接乌拉尔甘草综述不能证明与光果甘草批次等同，也不能确立饮料许可。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：乌拉尔甘草及其皂苷、黄酮等成分；不表示与光果甘草材料完全等同。 感官选型前须评估甘草酸暴露。"
+        },
+        "citations": [
+          20
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "Glycyrrhizin exposure and species-specific use conditions",
+          "zh": "甘草酸暴露与物种特定使用条件"
+        },
+        "text": {
+          "en": "NCCIH warns that glycyrrhizin can cause serious adverse effects, especially with large or long-term exposure and in susceptible people. A deglycyrrhizinated label is not a substitute for a residual result and whole-formula exposure review. For US food flavoring versus supplement projects, identify the actual species and preparation and obtain the corresponding use-condition and labeling assessment; the NDI pathway concerns supplements, not a blanket food permission. The G. uralensis research record cannot establish equivalence with a G. glabra lot or a safe serving.",
+          "zh": "NCCIH 警示甘草酸可能导致严重不良反应，尤其涉及大量、长期暴露及易感人群。“脱甘草酸”标签不能替代残留结果与完整配方暴露评估。美国食品调味与补充剂项目应明确实际物种及制备物，并取得对应使用条件和标示评估；新膳食成分路径涉及补充剂，不是普遍食品许可。乌拉尔甘草研究记录不能确立与光果甘草批次等同或某份量安全。"
+        },
+        "citations": [
+          5,
+          7,
+          20
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Species and glycyrrhizin disclosure",
+          "zh": "研究观察：物种与甘草酸披露"
+        },
+        "text": {
+          "en": "Glycyrrhiza uralensis constituents including saponins and flavonoids; not G. glabra equivalence. Species-specific review including safety; do not transfer conclusions between licorice species. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "乌拉尔甘草及其皂苷、黄酮等成分；不表示与光果甘草材料完全等同。包含安全性讨论的物种特定综述；不同甘草物种间不能直接转移结论。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          20
+        ]
+      }
+    }
+  }
+]

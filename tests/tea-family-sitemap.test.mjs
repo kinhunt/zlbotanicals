@@ -28,8 +28,8 @@ for (const prefix of ['', 'zh/']) {
 }
 
 test('bounded tea serialization preserves every pre-existing sitemap entry byte-for-byte', () => {
-  assert.equal(entries.length, 210);
-  const existing = entries.filter(entry => !teaUrl.test(loc(entry)));
+  assert.equal(entries.length, 212);
+  const existing = entries.filter(entry => !teaUrl.test(loc(entry)) && !/\/resources\/blog\/ginseng-heat-bitterness$/.test(loc(entry)));
   assert.equal(existing.length, 208);
   // Frozen pre-remediation sitemap, excluding only the new bilingual tea pair.
   assert.equal(createHash('sha256').update(existing.join('')).digest('hex'),
