@@ -1,0 +1,158 @@
+[
+  {
+    "url": "https://www.finlays.net/our-products/tea-extracts-aromas/",
+    "final_url": "https://www.finlays.net/our-products/tea-extracts-aromas/",
+    "http_status": 200,
+    "accessed_at_utc": "2026-09-20T10:36:07.828119+00:00",
+    "source_publication_date": null,
+    "text_file": "raw/5bc82604c9.txt",
+    "raw_file": "raw/5bc82604c9.html",
+    "raw_sha256": "9431e82818ba63210dde07b3f539de7218683de02b0510b74d8a2b75bbd70811",
+    "text_sha256": "611acd830e05f7be13886203731a2782e0ecce72c627434bcce501cab0aeda0d"
+  },
+  {
+    "url": "http://www.teaheals.net/product/15.html",
+    "final_url": "http://www.teaheals.net/product/15.html",
+    "http_status": 403,
+    "accessed_at_utc": "2026-09-20T10:36:07.980667+00:00",
+    "source_publication_date": null,
+    "text_file": "raw/2bf0929c03.txt",
+    "raw_file": "raw/2bf0929c03.html",
+    "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "url": "https://starlonnaturals.com/black-tea-extract.php",
+    "final_url": "https://starlonnaturals.com/black-tea-extract.php",
+    "http_status": 200,
+    "accessed_at_utc": "2026-09-20T10:36:08.463105+00:00",
+    "source_publication_date": null,
+    "text_file": "raw/46007fd3ca.txt",
+    "raw_file": "raw/46007fd3ca.html",
+    "raw_sha256": "141df5fc515076b0338d12078edee5b832e22ee7a1d1b21fa9832a579da10fe2",
+    "text_sha256": "f2156412699ff562289365d2eb4869180a6b3721405bc7e75ff1572cbfe1edea"
+  },
+  {
+    "url": "http://hbylbio.com/cont/19.html",
+    "final_url": "http://hbylbio.com/cont/19.html",
+    "http_status": 200,
+    "accessed_at_utc": "2026-09-20T10:36:09.144884+00:00",
+    "source_publication_date": null,
+    "text_file": "raw/b10a5b6f61.txt",
+    "raw_file": "raw/b10a5b6f61.html",
+    "raw_sha256": "1c76ba43cc4fc9ea6d1e85a5fac408b2a3debb37b448ede1cc27442478ee52b7",
+    "text_sha256": "13a1b4fd90faa36984710294af82e7493816c25bc29d432ef9bdc74b62417a54",
+    "source_date_note": "Displayed 修改时间 mirrors retrieval clock; not accepted as reliable publication/update date."
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8840101/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8840101/fullTextXML",
+    "http_status": 200,
+    "accessed_at_utc": "2026-09-20T10:36:32.229053+00:00",
+    "source_publication_date": "2022-01-29",
+    "text_file": "raw/3d5c81e24e.txt",
+    "raw_file": "raw/3d5c81e24e.html",
+    "raw_sha256": "7fc14d57d9120d0778b4da6e7b081c02a05f475b3859653d283b0146ce5f2989",
+    "text_sha256": "838962ed5d9aad7706b2cb5ba388b65a1ea21ea2489538a17ce85640670cd244"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10706478/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10706478/fullTextXML",
+    "http_status": 200,
+    "accessed_at_utc": "2026-09-20T10:36:32.270200+00:00",
+    "source_publication_date": "2023-12-01",
+    "text_file": "raw/72e0b9901a.txt",
+    "raw_file": "raw/72e0b9901a.html",
+    "raw_sha256": "92223d3cc0fb800d519733a26e52931e42b11b282b34cc2ecdba3d664ea94f4c",
+    "text_sha256": "2972cd5885ca133534f21e805f75f476e63efb80bec412f0e63cb41ee2052fc0"
+  },
+  {
+    "url": "https://www.finlays.net/product/general/tea-concentrates",
+    "final_url": "https://www.finlays.net/product/general/tea-concentrates/",
+    "http_status": 200,
+    "accessed_at_utc": "2026-09-20T10:36:33.014817+00:00",
+    "source_publication_date": null,
+    "text_file": "raw/3aa551d738.txt",
+    "raw_file": "raw/3aa551d738.html",
+    "raw_sha256": "0cf859b8c726fd5f4927ffc3abf4efc4837994fcc54244d4ee3fdaabb92f0012",
+    "text_sha256": "0f329de635df46588b21eba0b01f9948b90976705ad446b9bda717fd3b7da4c6"
+  },
+  {
+    "url": "http://hbylbio.com/list/33.html",
+    "final_url": "http://hbylbio.com/list/33.html",
+    "http_status": 200,
+    "accessed_at_utc": "2026-09-20T10:36:47.932793+00:00",
+    "source_publication_date": null,
+    "text_file": "raw/c9c384b5cf.txt",
+    "raw_file": "raw/c9c384b5cf.html",
+    "raw_sha256": "d6b733294522fd4c880e2cfb01a705b56c96593380e3a3568af462948ad8aa1e",
+    "text_sha256": "cd94260c89887ec2e6d3d46ac95dabd469e799b3d26ebb8ddb503dbc5d25d92f"
+  },
+  {
+    "url": "https://www.finlays.net/product/tea-extracts-aromas/hot-water-soluble-hws-powders/",
+    "final_url": "https://www.finlays.net/product/tea-extracts-aromas/hot-water-soluble-hws-powders/",
+    "http_status": 200,
+    "accessed_at_utc": "2026-09-20T10:36:48.260677+00:00",
+    "source_publication_date": null,
+    "text_file": "raw/eb67fb18f5.txt",
+    "raw_file": "raw/eb67fb18f5.html",
+    "raw_sha256": "45ba3723f5c1258232ce4f7b78e7fefc212eb2e8a51fdf915853a8890221a208",
+    "text_sha256": "8d0514f5fb07d4a52cfea01e73a7558dc77a81a3cfe2496a7863616bfac2c397"
+  },
+  {
+    "url": "https://www.finlays.net/product/tea-extracts-aromas/wellbeing-collection/",
+    "final_url": "https://www.finlays.net/product/tea-extracts-aromas/wellbeing-collection/",
+    "http_status": 200,
+    "accessed_at_utc": "2026-09-20T10:37:01.206403+00:00",
+    "source_publication_date": null,
+    "text_file": "raw/433779433e.txt",
+    "raw_file": "raw/433779433e.html",
+    "raw_sha256": "3f037527df430283bbc79b4a3bc8d0bd108b8d9d18359dd5b65aa1743735c468",
+    "text_sha256": "a551eada0740fa3ef73460d06f3c37d9ba11a4ff0e80794d6058267117418636"
+  },
+  {
+    "url": "https://www.finlays.net/product-solution/cold-water-soluble-cws-powders/",
+    "final_url": "https://www.finlays.net/product/tea-extracts-aromas/cold-water-soluble-cws-powders/",
+    "http_status": 200,
+    "accessed_at_utc": "2026-09-20T10:37:01.630001+00:00",
+    "source_publication_date": null,
+    "text_file": "raw/9243ec55cf.txt",
+    "raw_file": "raw/9243ec55cf.html",
+    "raw_sha256": "65ae6f533b6dbce8eaae31e3bc4c9a05488f91892c81d1983e317a86070bad20",
+    "text_sha256": "05513355c3f211c413499712a401280af3db65e38bb126cf8a3bc4eefacd0ef8"
+  },
+  {
+    "url": "http://hbylbio.com/cont/20.html",
+    "final_url": "http://hbylbio.com/cont/20.html",
+    "http_status": 200,
+    "accessed_at_utc": "2026-09-20T10:37:01.715666+00:00",
+    "source_publication_date": null,
+    "text_file": "raw/9e702d3207.txt",
+    "raw_file": "raw/9e702d3207.html",
+    "raw_sha256": "8ab9109f116c99897a1153f04616f5165f5559ba8167b7ade9dfb9fa52e865a7",
+    "text_sha256": "d8eacf44fc7bbd7d2aa7b5251e35ac13026e2edfab8a604553925ff10e4a736c",
+    "source_date_note": "Displayed 修改时间 mirrors retrieval clock; not accepted as reliable publication/update date."
+  },
+  {
+    "url": "https://sunphenon.com/resources",
+    "final_url": "https://sunphenon.com/resources",
+    "http_status": 403,
+    "accessed_at_utc": "2026-09-20T10:37:31.446047+00:00",
+    "source_publication_date": null,
+    "text_file": "raw/e4e7a9abff.txt",
+    "raw_file": "raw/e4e7a9abff.html",
+    "raw_sha256": "f3a38a5ce8a139576a24be5c683e41f86fefde05b8a950ea41e1617814971715",
+    "text_sha256": "dfd7d63c69c21b54a5b94224c2adf0bf7c28349f3f0088a838a3c8afe7e71b87"
+  },
+  {
+    "url": "https://taiyointernational.com/products",
+    "final_url": "https://www.taiyointernational.com/products",
+    "http_status": 403,
+    "accessed_at_utc": "2026-09-20T10:37:47.636126+00:00",
+    "source_publication_date": null,
+    "text_file": "raw/0547fdb689.txt",
+    "raw_file": "raw/0547fdb689.html",
+    "raw_sha256": "9cfa50d10e32fd96ff5625464da2e95be32732672196889f2021ba5562c4b73e",
+    "text_sha256": "dfd7d63c69c21b54a5b94224c2adf0bf7c28349f3f0088a838a3c8afe7e71b87"
+  }
+]

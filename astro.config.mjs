@@ -13,6 +13,19 @@ export default defineConfig({
 
   integrations: [
     sitemap({
+      // Match only the new tea hubs to their slashless canonicals; leave legacy URLs intact.
+      serialize(item) {
+        const teaHub = /^https:\/\/zlbotanicals\.com\/(?:zh\/)?products\/tea-extracts\/$/;
+        if (!teaHub.test(item.url)) return item;
+        return {
+          ...item,
+          url: item.url.slice(0, -1),
+          links: item.links?.map(link => ({
+            ...link,
+            url: teaHub.test(link.url) ? link.url.slice(0, -1) : link.url,
+          })),
+        };
+      },
       i18n: {
         defaultLocale: 'en',
         locales: {

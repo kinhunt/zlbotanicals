@@ -1,0 +1,440 @@
+{
+  "review_date": "2026-09-20",
+  "verdict": "pass",
+  "approval_scope": "Editorial approval only of exact hashed bilingual revision candidates; not deployment or rendered acceptance",
+  "blockers": [],
+  "input_hash_algorithm": "sha256",
+  "input_hashes": {
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/independent/review.md": "221817ae8cea80f47e9a32960efc397d4edeb10d884c0f91d0ffb4e8d1d7c7de",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/revision/revision-notes.md": "5cf7ecf763c270e1f96677375a4c6e4722d8be6f50e6d8a0d60fa0e58ddc6845",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/revision/tea-family-sales.en.md": "6ed4c3f0b439662beb3c1c2a4fc0d5b6eb49ad635851b53669a0d8255157502e",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/revision/tea-family-sales.zh.md": "5a56a69d37f009324185f9e36d0d1862522a171fbbf31aea25530e2d60322849",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/revision/ledger.json": "414c5f20151bc7ce9809cb10f2df186a93eb5995291e76963bee7ab59a1bef04",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/claim-evidence.json": "791fc212efc3c6667f717efdcbb2f7e91ab63f5ff6d2618d7457cf481461e731",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/b10a5b6f61.txt": "13a1b4fd90faa36984710294af82e7493816c25bc29d432ef9bdc74b62417a54",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/46007fd3ca.txt": "f2156412699ff562289365d2eb4869180a6b3721405bc7e75ff1572cbfe1edea",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/3aa551d738.txt": "0f329de635df46588b21eba0b01f9948b90976705ad446b9bda717fd3b7da4c6",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/3d5c81e24e.txt": "838962ed5d9aad7706b2cb5ba388b65a1ea21ea2489538a17ce85640670cd244",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/72e0b9901a.txt": "2972cd5885ca133534f21e805f75f476e63efb80bec412f0e63cb41ee2052fc0",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/eb67fb18f5.txt": "8d0514f5fb07d4a52cfea01e73a7558dc77a81a3cfe2496a7863616bfac2c397",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/433779433e.txt": "a551eada0740fa3ef73460d06f3c37d9ba11a4ff0e80794d6058267117418636",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/9e702d3207.txt": "d8eacf44fc7bbd7d2aa7b5251e35ac13026e2edfab8a604553925ff10e4a736c",
+    "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/9243ec55cf.txt": "05513355c3f211c413499712a401280af3db65e38bb126cf8a3bc4eefacd0ef8"
+  },
+  "inputs_unchanged_after_review": true,
+  "gates": [
+    {
+      "gate": "source_fidelity",
+      "verdict": "pass",
+      "reason": "Tea composition and manufacturing statements stay at tea-category or CFT-6 leaf-study scope; HWS/CWS define reconstitution categories, not validated shelf-life or dairy stability. Competitor offerings inform category research, not ZL batch facts.",
+      "candidate_lines": [
+        29,
+        31,
+        33,
+        39,
+        60,
+        77,
+        81
+      ],
+      "source_ids": [
+        5,
+        6,
+        7,
+        8,
+        19
+      ]
+    },
+    {
+      "gate": "natural_english_sales_positioning",
+      "verdict": "pass",
+      "reason": "Supplier-led opening, concrete format matrix, samples/pricing CTAs and four ZL/We service benefits make this a sales page. E01 removes the dairy-ingredient misidentification; E04 replaces buyer-directed Record/Coordinate/Confirm with supplier responsibilities. Remaining evaluation prompts support rather than dominate the offer.",
+      "candidate_lines": [
+        10,
+        14,
+        18,
+        55,
+        64,
+        65,
+        66,
+        67,
+        91
+      ]
+    },
+    {
+      "gate": "natural_chinese_sales_positioning",
+      "verdict": "pass",
+      "reason": "Readable B2B Chinese independently reviewed in full. Concrete sourcing, repeat-order acceptance and qualification-document benefits replace internal-process phrasing. No stronger stock, certification, validation or assay promise than English.",
+      "candidate_lines": [
+        10,
+        12,
+        20,
+        27,
+        29,
+        43,
+        55,
+        64,
+        65,
+        66,
+        67
+      ]
+    },
+    {
+      "gate": "custom_oolong_liquid_not_fixed_unsweetened_extract",
+      "verdict": "pass",
+      "reason": "Matrix and FAQ describe liquid projects; paragraph 43 expressly makes unsweetened tea-only concentrates requests/需求 and oolong project-developed. Finlays source is a custom tea-type/sweetness/flavour platform, not a fixed unsweetened oolong TDS. Generic concentrate evidence is not used to bridge that gap.",
+      "candidate_lines": [
+        22,
+        43,
+        73,
+        77
+      ],
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "gate": "no_invented_our_certificates_stock_assay",
+      "verdict": "pass",
+      "reason": "Certification is a requirement matched to supply scope; COA/specification documents are coordinated, not claimed as existing downloads. MOQ/lead time are quoted individually. No named owned certificates, ready-stock claim, numeric purity/batch assay, delivery-day guarantee, factory ownership, or competitor packaging/capacity transfer found.",
+      "candidate_lines": [
+        23,
+        25,
+        47,
+        66,
+        83,
+        85
+      ]
+    },
+    {
+      "gate": "previous_required_edits",
+      "verdict": "pass",
+      "reason": "All E01–E05 exact proposed replacements present; E06–E10 suggestions also present. Parallel Chinese milk-tea sample evaluation is consistent with English."
+    }
+  ],
+  "previous_review_closure": [
+    {
+      "id": "E01",
+      "replacement_present": true,
+      "verdict": "resolved",
+      "replacement": "We match tea ingredient samples to your milk-tea formulation, with flocculation and sediment assessed in the finished beverage."
+    },
+    {
+      "id": "E02",
+      "replacement_present": true,
+      "verdict": "resolved",
+      "replacement": "For liquid tea projects, ZL Botanicals prepares proposals around the tea type, supplied composition and intended dilution. Requests for unsweetened tea-only concentrates are handled separately from sweetened or flavoured beverage bases; oolong liquid options are developed by project."
+    },
+    {
+      "id": "E03",
+      "replacement_present": true,
+      "verdict": "resolved",
+      "replacement": "振隆按茶类、供货组成和使用时的稀释要求提供浓缩液项目方案。不加糖的纯茶浓缩液需求，与加糖或调香的复配茶基底需求分别洽谈；乌龙茶液体方案按项目开发。"
+    },
+    {
+      "id": "E04",
+      "replacement_present": true,
+      "verdict": "resolved",
+      "replacement": "- **One enquiry across tea types:** ZL Botanicals quotes green, black and oolong options together, with flavour-led ingredients separated from catechin-focused powders.\n- **A clear basis for repeat orders:** We record the selected tea type, format, carrier, sensory requirements and analytical criteria in the agreed specification.\n- **Documents for supplier qualification:** We coordinate the specification sheet, sample or batch COA and relevant market documents for the selected material, with certification requirements matched to the supply scope.\n- **Coordinated sample and bulk proposals:** We bring the selected material, quantities, packaging and delivery timing into the commercial offer."
+    },
+    {
+      "id": "E05",
+      "replacement_present": true,
+      "verdict": "resolved",
+      "replacement": "- **一次询价覆盖多种茶原料：** 振隆统筹绿茶、红茶与乌龙茶方案，将茶饮风味原料和儿茶素型粉末分别报价。\n- **复购有明确验收依据：** 我们把选定的茶类、形态、载体、感官要求及检测项目纳入约定规格。\n- **配合供应商准入：** 我们按所选原料协调规格书、样品或批次 COA 及目标市场资料，并按供应范围核对认证要求。\n- **样品与大货衔接：** 我们在商务方案中统一列明所选原料、数量、包装和交付安排。"
+    },
+    {
+      "id": "E06",
+      "replacement_present": true,
+      "verdict": "resolved",
+      "replacement": "## 绿茶、红茶与乌龙茶的选型重点"
+    },
+    {
+      "id": "E07",
+      "replacement_present": true,
+      "verdict": "resolved",
+      "replacement": "绿茶原料的详细询价范围见[绿茶提取物产品页](/zh/products/green-tea)。"
+    },
+    {
+      "id": "E08",
+      "replacement_present": true,
+      "verdict": "resolved",
+      "replacement": "茶香、茶感、色泽、咖啡因及供货配方组成"
+    },
+    {
+      "id": "E09",
+      "replacement_present": true,
+      "verdict": "resolved",
+      "replacement": "A study of CFT-6 oolong leaves found that processing conditions affected catechin retention and sensory quality, rather than establishing a composition specification for commercial oolong extracts.[7]"
+    },
+    {
+      "id": "E10",
+      "replacement_present": true,
+      "verdict": "resolved",
+      "replacement": "一项以 CFT-6 品种茶叶开展的研究显示，制茶条件会影响儿茶素保留和感官表现，但并未给出商业乌龙茶提取物的通用成分规格。[7]"
+    }
+  ],
+  "claim_quote_checks": [
+    {
+      "claim": 1,
+      "source_id": 3,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/b10a5b6f61.txt",
+      "line": 45,
+      "exact_quote_match": true,
+      "quote": "宇隆生物始终致力于速溶茶系列产品的开发与生产，先后开发生产了速溶绿茶粉、速溶红茶粉、\n乌龙茶粉、花茶粉等多种茶类产品，可年产速溶茶粉1500吨以上。",
+      "scope": "Three named tea powder categories publicly offered; capacity excluded"
+    },
+    {
+      "claim": 2,
+      "source_id": 3,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/b10a5b6f61.txt",
+      "line": 46,
+      "exact_quote_match": true,
+      "quote": "公司硏发生产的速溶茶粉，采用低温萃取、香气回收、超滤以及造粒喷干等加工技术，该工艺较完整的保留了茶叶的香气与口感，香气鲜浓、余香甘醇、滋味纯正、流动性好、溶解迅速的特点。产品广泛应用于各种茶饮料、奶茶、餐饮、固体饮料、烘焙、糕点、食品、糖果等。",
+      "scope": "Supplier-stated powder process and application categories; performance not independently tested"
+    },
+    {
+      "claim": 3,
+      "source_id": 4,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/46007fd3ca.txt",
+      "line": 103,
+      "exact_quote_match": true,
+      "quote": "Starlon Naturals produces high-grade black tea extract powder from selected black tea leaves using a precise extraction and spray-drying framework.",
+      "scope": "Black spray-dried commercial material"
+    },
+    {
+      "claim": 4,
+      "source_id": 4,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/46007fd3ca.txt",
+      "line": 114,
+      "exact_quote_match": true,
+      "quote": "Liquid Tea Concentrates\nA highly concentrated, fluid extract option built to retain the native aroma, full-bodied taste, and active plant compounds of the raw leaf. It provides a practical, pourable solution for commercial beverage batching, dietary supplements, food processing lines, and bespoke industrial recipes.",
+      "scope": "Black liquid commercial option; not proof of sensory retention"
+    },
+    {
+      "claim": 5,
+      "source_id": 5,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/3aa551d738.txt",
+      "line": 84,
+      "exact_quote_match": true,
+      "quote": "As a preferred private label tea manufacturer, our tea concentrates allow you to select your preferred tea type (\nblack\n,\ngreen\n, oolong, white), layer on great flavors and functionality (caffeine, antioxidants, sweetness, etc.), and pack it in the size you want for the dispensing machine of choice.",
+      "scope": "Oolong liquid evidence is CUSTOM CONCENTRATE PLATFORM, not unflavoured pure-extract SKU"
+    },
+    {
+      "claim": 6,
+      "source_id": 5,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/3aa551d738.txt",
+      "line": 93,
+      "exact_quote_match": true,
+      "quote": "Convenient & easy Bag-in-Box format",
+      "scope": "Named liquid delivery format, competitor-specific"
+    },
+    {
+      "claim": 7,
+      "source_id": 6,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/3d5c81e24e.txt",
+      "line": 86,
+      "exact_quote_match": true,
+      "quote": "The three major types of tea, green tea, oolong tea, and black tea, differ in terms of the manufacture and chemical composition.",
+      "scope": "Family differentiation"
+    },
+    {
+      "claim": 8,
+      "source_id": 6,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/3d5c81e24e.txt",
+      "line": 126,
+      "exact_quote_match": true,
+      "quote": "They are divided generally into three types: green tea (non-fermented), oolong tea (semi-fermented), and black tea (fermented).",
+      "scope": "Bounded three-type comparison, not exhaustive world tea taxonomy"
+    },
+    {
+      "claim": 9,
+      "source_id": 6,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/3d5c81e24e.txt",
+      "line": 126,
+      "exact_quote_match": true,
+      "quote": "Catechins are the most abundant polyphenols in green tea.",
+      "scope": "Catechin-led composition"
+    },
+    {
+      "claim": 10,
+      "source_id": 6,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/3d5c81e24e.txt",
+      "line": 128,
+      "exact_quote_match": true,
+      "quote": "The main pigments in black tea are theaflavins and thearubigins, which are formed by the oxidation and polymerization of catechins during fermentation in the manufacturing process of tea.",
+      "scope": "Black leaf oxidation and pigments, not purified extract assay"
+    },
+    {
+      "claim": 11,
+      "source_id": 7,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/72e0b9901a.txt",
+      "line": 218,
+      "exact_quote_match": true,
+      "quote": "The material used in this study was CFT-6 cultivar grown in a tea garden of in Zhao’an County, Zhangzhou City, Fujian Province (23°42′44″ N; 117°11′39″ E). The banjhi tea shoots composed of one bud and two or three leaves were collected and applied to the production of oolong tea in this study.",
+      "scope": "Study material boundary"
+    },
+    {
+      "claim": 12,
+      "source_id": 7,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/72e0b9901a.txt",
+      "line": 178,
+      "exact_quote_match": true,
+      "quote": "The fermentation of oolong tea requires fresh leaves to be constantly shaken and allowed to stand, with alternating intervals.",
+      "scope": "Oolong shaking/standing leaf processing"
+    },
+    {
+      "claim": 13,
+      "source_id": 7,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/72e0b9901a.txt",
+      "line": 585,
+      "exact_quote_match": true,
+      "quote": "The significant increased retention in catechins contributed to the mellow and brisk tastes of oolong tea, promoting the formation of the characteristic flavor of oolong tea.",
+      "scope": "Study-specific counterexample to less catechin always tastes better"
+    },
+    {
+      "claim": 14,
+      "source_id": 8,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/eb67fb18f5.txt",
+      "line": 79,
+      "exact_quote_match": true,
+      "quote": "Hot Water Soluble Powder is the water-extracted solid of tea that is soluble in hot water.",
+      "scope": "HWS commercial definition"
+    },
+    {
+      "claim": 15,
+      "source_id": 10,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/433779433e.txt",
+      "line": 113,
+      "exact_quote_match": true,
+      "quote": "Our range of green tea extracts are directly extracted from fresh green leaf tea and offer a typical catechin content range of 30-34%.",
+      "scope": "Named competitor range only, never a ZL assay"
+    },
+    {
+      "claim": 16,
+      "source_id": 10,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/433779433e.txt",
+      "line": 116,
+      "exact_quote_match": true,
+      "quote": "Experience the fresh flavour of green tea, with our range of green leaf tea extracts, extracted from fresh green leaf on the same day as harvesting.",
+      "scope": "Flavour-led green offer distinct from stated catechin-led range"
+    },
+    {
+      "claim": 17,
+      "source_id": 18,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/9e702d3207.txt",
+      "line": 45,
+      "exact_quote_match": true,
+      "quote": "宇隆生物生产的浓缩液系列产品从茶叶原料开始严格把控，“利用先进的萃取、香气回填、酶解、膜浓缩、热浓缩、高温杀菌、无菌灌装”等工艺，开发出多系列高品质茶浓缩产品，品质与现泡茶相媲美。",
+      "scope": "Generic concentrate process; no type-specific oolong assignment"
+    },
+    {
+      "claim": 18,
+      "source_id": 18,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/9e702d3207.txt",
+      "line": 49,
+      "exact_quote_match": true,
+      "quote": "内无菌袋，外瓦楞纸箱20kg/箱",
+      "scope": "Generic commercial liquid packaging, not a ZL format promise"
+    },
+    {
+      "claim": 19,
+      "source_id": 19,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/9243ec55cf.txt",
+      "line": 78,
+      "exact_quote_match": true,
+      "quote": "Cold Water Soluble Powder is the water-extracted solid of tea that is soluble in cold water.",
+      "scope": "CWS definition, not long-term stability"
+    },
+    {
+      "claim": 20,
+      "source_id": 3,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/b10a5b6f61.txt",
+      "line": 44,
+      "exact_quote_match": true,
+      "quote": "修改时间:2026-09-20 18:36:08 浏览次数：3746次\n宇隆生物始终致力于速溶茶系列产品的开发与生产，先后开发生产了速溶绿茶粉、速溶红茶粉、\n乌龙茶粉、花茶粉等多种茶类产品，可年产速溶茶粉1500吨以上。公司硏发生产的速溶茶粉，采用低温萃取、香气回收、超滤以及造粒喷干等加工技术，该工艺较完整的保留了茶叶的香气与口感，香气鲜浓、余香甘醇、滋味纯正、流动性好、溶解迅速的特点。产品广泛应用于各种茶饮料、奶茶、餐饮、固体饮料、烘焙、糕点、食品、糖果等。",
+      "scope": "Full main product passage; timestamp not a valid publication date; numerical capacity/packaging not ZL claims"
+    },
+    {
+      "claim": 21,
+      "source_id": 18,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/9e702d3207.txt",
+      "line": 44,
+      "exact_quote_match": true,
+      "quote": "修改时间:2026-09-20 18:37:01 浏览次数：4610次\n宇隆生物生产的浓缩液系列产品从茶叶原料开始严格把控，“利用先进的萃取、香气回填、酶解、膜浓缩、热浓缩、高温杀菌、无菌灌装”等工艺，开发出多系列高品质茶浓缩产品，品质与现泡茶相媲美。\n主应用方向：\n液体饮料、功能性保健饮品、糖果、即饮食品等\n包          装：\n内无菌袋，外瓦楞纸箱20kg/箱",
+      "scope": "Full main product passage; timestamp not a valid publication date; numerical capacity/packaging not ZL claims"
+    },
+    {
+      "claim": 22,
+      "source_id": 6,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/3d5c81e24e.txt",
+      "line": 82,
+      "exact_quote_match": true,
+      "quote": "Tea (\nCamellia sinensis\n,\nTheaceae\n) is one of the most widely consumed beverages in the world. The three major types of tea, green tea, oolong tea, and black tea, differ in terms of the manufacture and chemical composition. Catechins, theaflavins, and thearubigins have been identified as the major components in tea. Other minor oligomers have also been found in tea. Different kinds of ring fission and formation elucidate the major transformed pathways of tea catechins to their dimers and polymers. The present review summarizes the data concerning the enzymatic oxidation of catechins, their dimers, and thearubigins in tea.",
+      "scope": "Camellia sinensis identity and three tea manufacturing/composition types"
+    },
+    {
+      "claim": 23,
+      "source_id": 7,
+      "evidence_file": "/data/hermes/research/seo-growth/2026-09-20-tea-family/raw/72e0b9901a.txt",
+      "line": 219,
+      "exact_quote_match": true,
+      "quote": "The production process of oolong tea was as follows: the harvested tea shoots were subjected to white light withering (WL) for 2 h. Then, the withered tea shoots were transferred into a rotary machine (6CWL-90, Fujian Jiayou Machine Co., Ltd., Quanzhou, China) for shaking. The first shaking lasted 4 min at a speed of 30 revolutions per min (r/min), followed by a standing time of 1.5 h. The second shaking lasted 6 min, with a standing time of 2.5 h. The third shaking lasted 10 min, with a standing time of 4 h. After the shaking process, all leaves were transferred into a drum roasting machine and roasted at 290 °C for 2.5 min. Then, the leaves were rolled while hot without pressure for 1 min and under medium-pressure rolling for 5 min. The drying process was initially performed at 120 °C for 30 min, and then at 90 °C for 2 h by using a hot-air drying apparatus (DHG-9123A, Shanghai Qixin Machine Co., Ltd., Shanghai, China). In the different processing processes, except for a single process design parameter, other processes were completed according to the above determined parameters.",
+      "scope": "Full study process paragraph; laboratory leaf steps, not industrial ZL extract process"
+    }
+  ],
+  "citation_verification": [
+    {
+      "language": "en",
+      "command": [
+        "python",
+        "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+        "--ledger",
+        "/data/hermes/research/seo-growth/2026-09-20-tea-family/revision/ledger.json",
+        "verify",
+        "/data/hermes/research/seo-growth/2026-09-20-tea-family/revision/tea-family-sales.en.md",
+        "--evidence"
+      ],
+      "exit_code": 0,
+      "stdout": "info: stats: 47 prose sentence(s), 7 with declared provenance (15%) — 7 cited, 0 marked [unverified] (a sentence may be both); 5 distinct source(s) cited, 21 in ledger (9 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [1], [2], [3], [4], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18], [20], [21]\ncitations OK\n",
+      "stderr": ""
+    },
+    {
+      "language": "zh",
+      "command": [
+        "python",
+        "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+        "--ledger",
+        "/data/hermes/research/seo-growth/2026-09-20-tea-family/revision/ledger.json",
+        "verify",
+        "/data/hermes/research/seo-growth/2026-09-20-tea-family/revision/tea-family-sales.zh.md",
+        "--evidence"
+      ],
+      "exit_code": 0,
+      "stdout": "info: stats: 3 prose sentence(s), 2 with declared provenance (67%) — 2 cited, 0 marked [unverified] (a sentence may be both); 5 distinct source(s) cited, 21 in ledger (9 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [1], [2], [3], [4], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18], [20], [21]\ncitations OK\n",
+      "stderr": ""
+    }
+  ],
+  "review_citation_verification": {
+    "exit_code": 0,
+    "stdout": "info: stats: 40 prose sentence(s), 5 with declared provenance (12%) — 5 cited, 0 marked [unverified] (a sentence may be both); 5 distinct source(s) cited, 21 in ledger (9 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [1], [2], [3], [4], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18], [20], [21]\ncitations OK\n",
+    "stderr": ""
+  },
+  "nonblocking_notes": [
+    {
+      "severity": "optional",
+      "location": "EN lines 12, 23, 45; ZH lines 23, 45",
+      "note": "Composition-led / catechin-oriented and 以成分为重点 are technical but intelligible for this B2B audience; later copy polish could shorten them. Not a reason to reopen the accepted candidate."
+    },
+    {
+      "severity": "integration_gate",
+      "location": "Both frontmatter lines 2, 5 and Sources section",
+      "note": "Keep draft status/canonical instructions out of public copy; assign the hub canonical without replacing green-tea URLs. Render source IDs as clickable references. These are integration acceptance checks, not text blockers."
+    }
+  ],
+  "limitations": [
+    "Archived-source review; no new live retrieval",
+    "No independent validation of supplier performance, certificates, stock or laboratory assays",
+    "No rendered/browser, route, form-delivery or deployment tests"
+  ],
+  "review_md_sha256": "1271aba6a4744d87e5ee58cda318143f97d93d70e17dac0f75034fda6e29ead2"
+}

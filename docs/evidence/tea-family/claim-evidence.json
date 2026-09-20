@@ -1,0 +1,140 @@
+[
+  {
+    "source_id": 3,
+    "quote": "宇隆生物始终致力于速溶茶系列产品的开发与生产，先后开发生产了速溶绿茶粉、速溶红茶粉、\n乌龙茶粉、花茶粉等多种茶类产品，可年产速溶茶粉1500吨以上。",
+    "claim_scope": "Three named tea powder categories publicly offered; capacity excluded",
+    "evidence_file": "raw/b10a5b6f61.txt"
+  },
+  {
+    "source_id": 3,
+    "quote": "公司硏发生产的速溶茶粉，采用低温萃取、香气回收、超滤以及造粒喷干等加工技术，该工艺较完整的保留了茶叶的香气与口感，香气鲜浓、余香甘醇、滋味纯正、流动性好、溶解迅速的特点。产品广泛应用于各种茶饮料、奶茶、餐饮、固体饮料、烘焙、糕点、食品、糖果等。",
+    "claim_scope": "Supplier-stated powder process and application categories; performance not independently tested",
+    "evidence_file": "raw/b10a5b6f61.txt"
+  },
+  {
+    "source_id": 4,
+    "quote": "Starlon Naturals produces high-grade black tea extract powder from selected black tea leaves using a precise extraction and spray-drying framework.",
+    "claim_scope": "Black spray-dried commercial material",
+    "evidence_file": "raw/46007fd3ca.txt"
+  },
+  {
+    "source_id": 4,
+    "quote": "Liquid Tea Concentrates\nA highly concentrated, fluid extract option built to retain the native aroma, full-bodied taste, and active plant compounds of the raw leaf. It provides a practical, pourable solution for commercial beverage batching, dietary supplements, food processing lines, and bespoke industrial recipes.",
+    "claim_scope": "Black liquid commercial option; not proof of sensory retention",
+    "evidence_file": "raw/46007fd3ca.txt"
+  },
+  {
+    "source_id": 5,
+    "quote": "As a preferred private label tea manufacturer, our tea concentrates allow you to select your preferred tea type (\nblack\n,\ngreen\n, oolong, white), layer on great flavors and functionality (caffeine, antioxidants, sweetness, etc.), and pack it in the size you want for the dispensing machine of choice.",
+    "claim_scope": "Oolong liquid evidence is CUSTOM CONCENTRATE PLATFORM, not unflavoured pure-extract SKU",
+    "evidence_file": "raw/3aa551d738.txt"
+  },
+  {
+    "source_id": 5,
+    "quote": "Convenient & easy Bag-in-Box format",
+    "claim_scope": "Named liquid delivery format, competitor-specific",
+    "evidence_file": "raw/3aa551d738.txt"
+  },
+  {
+    "source_id": 6,
+    "quote": "The three major types of tea, green tea, oolong tea, and black tea, differ in terms of the manufacture and chemical composition.",
+    "claim_scope": "Family differentiation",
+    "evidence_file": "raw/3d5c81e24e.txt"
+  },
+  {
+    "source_id": 6,
+    "quote": "They are divided generally into three types: green tea (non-fermented), oolong tea (semi-fermented), and black tea (fermented).",
+    "claim_scope": "Bounded three-type comparison, not exhaustive world tea taxonomy",
+    "evidence_file": "raw/3d5c81e24e.txt"
+  },
+  {
+    "source_id": 6,
+    "quote": "Catechins are the most abundant polyphenols in green tea.",
+    "claim_scope": "Catechin-led composition",
+    "evidence_file": "raw/3d5c81e24e.txt"
+  },
+  {
+    "source_id": 6,
+    "quote": "The main pigments in black tea are theaflavins and thearubigins, which are formed by the oxidation and polymerization of catechins during fermentation in the manufacturing process of tea.",
+    "claim_scope": "Black leaf oxidation and pigments, not purified extract assay",
+    "evidence_file": "raw/3d5c81e24e.txt"
+  },
+  {
+    "source_id": 7,
+    "quote": "The material used in this study was CFT-6 cultivar grown in a tea garden of in Zhao’an County, Zhangzhou City, Fujian Province (23°42′44″ N; 117°11′39″ E). The banjhi tea shoots composed of one bud and two or three leaves were collected and applied to the production of oolong tea in this study.",
+    "claim_scope": "Study material boundary",
+    "evidence_file": "raw/72e0b9901a.txt"
+  },
+  {
+    "source_id": 7,
+    "quote": "The fermentation of oolong tea requires fresh leaves to be constantly shaken and allowed to stand, with alternating intervals.",
+    "claim_scope": "Oolong shaking/standing leaf processing",
+    "evidence_file": "raw/72e0b9901a.txt"
+  },
+  {
+    "source_id": 7,
+    "quote": "The significant increased retention in catechins contributed to the mellow and brisk tastes of oolong tea, promoting the formation of the characteristic flavor of oolong tea.",
+    "claim_scope": "Study-specific counterexample to less catechin always tastes better",
+    "evidence_file": "raw/72e0b9901a.txt"
+  },
+  {
+    "source_id": 8,
+    "quote": "Hot Water Soluble Powder is the water-extracted solid of tea that is soluble in hot water.",
+    "claim_scope": "HWS commercial definition",
+    "evidence_file": "raw/eb67fb18f5.txt"
+  },
+  {
+    "source_id": 10,
+    "quote": "Our range of green tea extracts are directly extracted from fresh green leaf tea and offer a typical catechin content range of 30-34%.",
+    "claim_scope": "Named competitor range only, never a ZL assay",
+    "evidence_file": "raw/433779433e.txt"
+  },
+  {
+    "source_id": 10,
+    "quote": "Experience the fresh flavour of green tea, with our range of green leaf tea extracts, extracted from fresh green leaf on the same day as harvesting.",
+    "claim_scope": "Flavour-led green offer distinct from stated catechin-led range",
+    "evidence_file": "raw/433779433e.txt"
+  },
+  {
+    "source_id": 18,
+    "quote": "宇隆生物生产的浓缩液系列产品从茶叶原料开始严格把控，“利用先进的萃取、香气回填、酶解、膜浓缩、热浓缩、高温杀菌、无菌灌装”等工艺，开发出多系列高品质茶浓缩产品，品质与现泡茶相媲美。",
+    "claim_scope": "Generic concentrate process; no type-specific oolong assignment",
+    "evidence_file": "raw/9e702d3207.txt"
+  },
+  {
+    "source_id": 18,
+    "quote": "内无菌袋，外瓦楞纸箱20kg/箱",
+    "claim_scope": "Generic commercial liquid packaging, not a ZL format promise",
+    "evidence_file": "raw/9e702d3207.txt"
+  },
+  {
+    "source_id": 19,
+    "quote": "Cold Water Soluble Powder is the water-extracted solid of tea that is soluble in cold water.",
+    "claim_scope": "CWS definition, not long-term stability",
+    "evidence_file": "raw/9243ec55cf.txt"
+  },
+  {
+    "source_id": 3,
+    "quote": "修改时间:2026-09-20 18:36:08 浏览次数：3746次\n宇隆生物始终致力于速溶茶系列产品的开发与生产，先后开发生产了速溶绿茶粉、速溶红茶粉、\n乌龙茶粉、花茶粉等多种茶类产品，可年产速溶茶粉1500吨以上。公司硏发生产的速溶茶粉，采用低温萃取、香气回收、超滤以及造粒喷干等加工技术，该工艺较完整的保留了茶叶的香气与口感，香气鲜浓、余香甘醇、滋味纯正、流动性好、溶解迅速的特点。产品广泛应用于各种茶饮料、奶茶、餐饮、固体饮料、烘焙、糕点、食品、糖果等。",
+    "claim_scope": "Full main product passage; timestamp not a valid publication date; numerical capacity/packaging not ZL claims",
+    "evidence_file": "raw/b10a5b6f61.txt"
+  },
+  {
+    "source_id": 18,
+    "quote": "修改时间:2026-09-20 18:37:01 浏览次数：4610次\n宇隆生物生产的浓缩液系列产品从茶叶原料开始严格把控，“利用先进的萃取、香气回填、酶解、膜浓缩、热浓缩、高温杀菌、无菌灌装”等工艺，开发出多系列高品质茶浓缩产品，品质与现泡茶相媲美。\n主应用方向：\n液体饮料、功能性保健饮品、糖果、即饮食品等\n包          装：\n内无菌袋，外瓦楞纸箱20kg/箱",
+    "claim_scope": "Full main product passage; timestamp not a valid publication date; numerical capacity/packaging not ZL claims",
+    "evidence_file": "raw/9e702d3207.txt"
+  },
+  {
+    "source_id": 6,
+    "quote": "Tea (\nCamellia sinensis\n,\nTheaceae\n) is one of the most widely consumed beverages in the world. The three major types of tea, green tea, oolong tea, and black tea, differ in terms of the manufacture and chemical composition. Catechins, theaflavins, and thearubigins have been identified as the major components in tea. Other minor oligomers have also been found in tea. Different kinds of ring fission and formation elucidate the major transformed pathways of tea catechins to their dimers and polymers. The present review summarizes the data concerning the enzymatic oxidation of catechins, their dimers, and thearubigins in tea.",
+    "claim_scope": "Camellia sinensis identity and three tea manufacturing/composition types",
+    "evidence_file": "raw/3d5c81e24e.txt"
+  },
+  {
+    "source_id": 7,
+    "quote": "The production process of oolong tea was as follows: the harvested tea shoots were subjected to white light withering (WL) for 2 h. Then, the withered tea shoots were transferred into a rotary machine (6CWL-90, Fujian Jiayou Machine Co., Ltd., Quanzhou, China) for shaking. The first shaking lasted 4 min at a speed of 30 revolutions per min (r/min), followed by a standing time of 1.5 h. The second shaking lasted 6 min, with a standing time of 2.5 h. The third shaking lasted 10 min, with a standing time of 4 h. After the shaking process, all leaves were transferred into a drum roasting machine and roasted at 290 °C for 2.5 min. Then, the leaves were rolled while hot without pressure for 1 min and under medium-pressure rolling for 5 min. The drying process was initially performed at 120 °C for 30 min, and then at 90 °C for 2 h by using a hot-air drying apparatus (DHG-9123A, Shanghai Qixin Machine Co., Ltd., Shanghai, China). In the different processing processes, except for a single process design parameter, other processes were completed according to the above determined parameters.",
+    "claim_scope": "Full study process paragraph; laboratory leaf steps, not industrial ZL extract process",
+    "evidence_file": "raw/72e0b9901a.txt"
+  }
+]
