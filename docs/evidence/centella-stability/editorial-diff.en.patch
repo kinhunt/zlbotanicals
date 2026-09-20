@@ -1,0 +1,14 @@
+--- reviewed
++++ N1-N2-N3-corrected
+@@ -46,9 +46,9 @@
+ 
+ For Turbiscan measurements, samples were placed directly in glass vials. Changes in backscattering and transmission were processed into the Turbiscan Stability Index, or TSI. This preparation was different from the highly diluted zeta-potential measurement.[1]
+ 
+-Figure 3 shows an initial TSI rise in O/W followed by an approximately level trajectory—not an index that stayed at zero or remained unchanged from day 0. W/O continued to rise, reaching 27.7 at day 84. Gel changed more rapidly after roughly a month and reached 15.7 at day 84. The text describes the gel change as occurring “after 30 days,” whereas neighboring plotted observations are approximately at days 28 and 42. “Changes accelerated after about a month” is more defensible than identifying day 30 as an exact failure date.[1]
++Figure 3 shows an initial TSI rise in O/W followed by an approximately level trajectory—not an index that stayed at zero or remained unchanged from day 0. W/O continued to rise, reaching 27.7 at day 84. Gel changed more rapidly after roughly a month and reached 15.7 at day 84. The faster change falls between the plotted observations at approximately days 28 and 42—about a month into storage.[1]
+ 
+-The W/O pattern is especially instructive: **increasing zeta-potential magnitude, increasing TSI, and late-emerging coarse-size features occurred together.** The task is not to give two instruments a majority vote over a third. It is to identify what each measurement can reveal under its actual test conditions.
++The W/O pattern is especially instructive: **increasing zeta-potential magnitude, increasing TSI, and late-emerging coarse-size features occurred together.** Interpreting each result in light of its sample preparation and measurement target helps determine the next investigation.
+ 
+ | Measurement | Observation in this study | Useful role in development |
+ |---|---|---|

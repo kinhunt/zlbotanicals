@@ -1,0 +1,78 @@
+[
+  {
+    "productId": "centella-asiatica",
+    "canonicalPath": "/plant-extracts/ingredients/centella-asiatica",
+    "name": {
+      "en": "Triterpene profile and route of use",
+      "zh": "三萜图谱与使用途径"
+    },
+    "sections": {
+      "processes": {
+        "heading": {
+          "en": "Extraction decisions: Triterpene profile and route of use",
+          "zh": "提取工艺：三萜图谱与使用途径"
+        },
+        "text": {
+          "en": "Request botanical part, extraction solvents, and individual asiaticoside, madecassoside and aglycone results where these are part of the brief. Clarify whether a total triterpene result is a sum of resolved peaks or another assay and disclose carriers. In the 2021 experiment, ethanol percentage, time and microwave power or ultrasound temperature affected recovery and the glycoside/aglycone profile. Maximum powder yield and maximum named-triterpene recovery were different targets. The selected tetraploid plant and laboratory conditions limit transfer to other lots; ask for a four-marker comparison when changing the route.",
+          "zh": "索取植物部位、提取溶剂，以及需求中涉及的积雪草苷、羟基积雪草苷及苷元结果。明确总三萜是分离峰求和还是其他检测，并披露载体。 2021年实验中，乙醇比例、时间及微波功率或超声温度影响回收和糖苷／苷元图谱。最大粉末得率与具体三萜最大回收是不同目标。所选多倍体植物及实验室条件限制对其他批次的推广；变更路线时应索取四标志物比较。"
+        },
+        "citations": [
+          12
+        ]
+      },
+      "equipment": {
+        "heading": {
+          "en": "Microwave or ultrasound: optimize named triterpenes",
+          "zh": "微波还是超声：按具体三萜优化"
+        },
+        "text": {
+          "en": "The 2021 Centella experiment used microwave-assisted and ultrasound-assisted extraction with aqueous ethanol and HPLC measurement of four triterpenes. It found different optima for extract composition and recovery from dry plant. Thus the equipment comparison should state its objective: total powder yield, glycoside enrichment or recovery of individual markers. Ask for temperature distribution, solvent handling and a pilot-scale mass balance before selecting a microwave unit, ultrasonic reactor or conventional extraction vessel. A topical homogenizer or microneedle device belongs to formulation/delivery, not extraction; none is asserted to be ZL equipment.",
+          "zh": "2021年积雪草实验使用含水乙醇进行微波与超声辅助提取，并以 HPLC 测定四种三萜。研究中提取物组成与干植物中成分回收的最优条件不同。因此设备比较须先定义目标：粉末总得率、糖苷富集还是具体标志物回收。选微波装置、超声反应器或常规提取罐前，索取温度分布、溶剂管理与中试质量平衡。外用均质机或微针装置属于配方／递送，不是提取设备；此处均不表示振隆拥有这些设备。"
+        },
+        "citations": [
+          12
+        ]
+      },
+      "applications": {
+        "heading": {
+          "en": "Application trials: Triterpene profile and route of use",
+          "zh": "应用试验：三萜图谱与使用途径"
+        },
+        "text": {
+          "en": "For a topical brief, assess compatibility with the actual pH, preservative, emulsion and packaging system. A wound-care paper may involve drug-like delivery devices and patient populations; it cannot support ordinary cosmetic or oral claims without separate review. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Centella asiatica triterpenes and topical delivery systems, including hydrogels and microneedles.",
+          "zh": "外用需求应在实际 pH、防腐剂、乳化与包装体系下评估相容性。创面护理论文可能涉及药物递送装置及患者群体；未经另行审核，不能支持普通化妆品或口服宣称。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：积雪草三萜及水凝胶、微针等外用递送体系；给药途径与饮料不同。"
+        },
+        "citations": [
+          21
+        ]
+      },
+      "standards": {
+        "heading": {
+          "en": "EU cosmetic safety dossier is not a wound-treatment authorization",
+          "zh": "欧盟化妆品安全档案不是创面治疗许可"
+        },
+        "text": {
+          "en": "For an EU topical cosmetic, the Commission’s cosmetics framework points to a product safety report and claims requirements. Record the exact Centella part, extract composition, solvent and carrier in the finished formula assessment, alongside preservation and exposure. A triterpene assay or wound-care publication cannot replace that assessment. A wound-treatment presentation or an oral supplement is a separate classification and evidence question; check the destination’s applicable route rather than treating an INCI-style ingredient name as blanket permission.",
+          "zh": "欧盟外用化妆品需按委员会化妆品框架关注产品安全报告与声称要求。在成品配方评估中记录具体积雪草部位、提取物组成、溶剂与载体，并评估防腐和暴露。三萜检测或创面护理论文不能替代该评估。创面治疗定位或口服补充剂属于另一个分类和证据问题；应核对目的地适用路径，不能把类似 INCI 的原料名视为普遍许可。"
+        },
+        "citations": [
+          9,
+          21
+        ]
+      },
+      "insights": {
+        "heading": {
+          "en": "Research observation: Triterpene profile and route of use",
+          "zh": "研究观察：三萜图谱与使用途径"
+        },
+        "text": {
+          "en": "Centella asiatica triterpenes and topical delivery systems, including hydrogels and microneedles. Topical wound-care literature; not evidence for food, oral beverages or general cosmetic claims. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+          "zh": "积雪草三萜及水凝胶、微针等外用递送体系；给药途径与饮料不同。外用创面护理文献；不是食品、口服饮料或普通化妆品宣称的直接证据。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+        },
+        "citations": [
+          21
+        ]
+      }
+    }
+  }
+]

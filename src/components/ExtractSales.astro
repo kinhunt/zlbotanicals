@@ -56,6 +56,7 @@ const benefits=sale.benefits.map((body,i)=>[benefitTitles[i],body[lang]]);
   <a href={`${science}#standards`}>{zh?'质量依据':'Quality evidence'}</a>
   <a href={`${science}#processes`}>{zh?'工艺依据':'Processing evidence'}</a>
  </nav>
+ {id==='centella-asiatica'&&<p><a href={local('/resources/blog/centella-cold-process-stability')}>{zh?'积雪草冷配稳定性：电位、黏度与释放质量':'Centella cold-process stability: zeta potential, viscosity and released mass'} →</a></p>}
  {id==='green-tea'&&<p><a href={local('/resources/blog/tea-haze-diagnosis')}>{zh?'茶饮冷后浑：水质、复溶与冷藏诊断':'Tea haze: water, reconstitution and cold-storage diagnosis'} →</a></p>}
  {id==='stevia'&&<p><a href={local('/resources/blog/stevia-temporal-sensory')}>{zh?'甜菊饮品余甜：三个时点的感官记录与空白表':'Stevia aftertaste: a three-moment sensory screen and blank worksheet'} →</a></p>}
  <div class="reading" data-commercial-knowledge-summary>{dimensions.map(dimension=><section id={dimension}>
