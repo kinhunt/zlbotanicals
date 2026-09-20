@@ -1,0 +1,71 @@
+--- original/tea-family-sales.en.md
++++ revision/tea-family-sales.en.md
+@@ -1,5 +1,5 @@
+ ---
+-status: Complete candidate; pending independent factual and English editorial review; not integrated or published
++status: Revised integration candidate; independent edits applied; revision self-check complete; not integrated or published
+ seo_title: Tea Extract Supplier | Green, Black & Oolong Tea
+ seo_description: Source green, black and oolong tea ingredients from ZL Botanicals for RTD tea, milk tea and dry mixes. Discuss soluble powders, liquid concentrate projects, samples and bulk pricing.
+ canonical: Unassigned; preserve the existing green-tea product URL
+@@ -22,7 +22,7 @@
+ | Flavour-led oolong tea | Soluble extract powder; liquid concentrates discussed by project | Oolong drinks, milk tea and tea-flavoured dry mixes | Named tea style, aroma and finish; powder or liquid composition |
+ | Catechin-oriented green tea extract | Dry powder quoted against a target composition | Composition-led powder blends | EGCG, other catechins, caffeine, carrier and analytical method |
+ 
+-Liquid projects distinguish tea concentrates from formulated bases containing sweeteners or flavourings. Grade, composition, packaging, minimum order and lead time are confirmed with the sample proposal and formal quotation.
++Grade, composition, packaging, minimum order and lead time are confirmed with the sample proposal and formal quotation.
+ 
+ ## Three teas, distinct material profiles
+ 
+@@ -30,7 +30,7 @@
+ 
+ **Black tea: match colour and tea character to the finished product.** Oxidation and polymerisation during black tea manufacture form pigments including theaflavins and thearubigins; a green-tea EGCG target is not a substitute for black-tea flavour requirements.[6] We select samples against the intended RTD, milk tea or instant-drink profile rather than treating a single high-polyphenol figure as a sensory specification.
+ 
+-**Oolong tea: specify a style, not a fixed midpoint.** Oolong is partially fermented, with leaf processing that includes alternating shaking and standing stages.[6][7] We organise sample comparisons around your target tea style, recording colour, aroma and finish in the selected material requirements. Research on oolong leaf processing shows that processing conditions affect catechin retention and sensory quality; it does not define a universal assay for commercial oolong extracts.[7]
++**Oolong tea: specify a style, not a fixed midpoint.** Oolong is partially fermented, with leaf processing that includes alternating shaking and standing stages.[6][7] We organise sample comparisons around your target tea style, recording colour, aroma and finish in the selected material requirements. A study of CFT-6 oolong leaves found that processing conditions affected catechin retention and sensory quality, rather than establishing a composition specification for commercial oolong extracts.[7]
+ 
+ ## Soluble powders and liquid concentrates
+ 
+@@ -40,7 +40,7 @@
+ 
+ ### Liquid concentrates for liquid batching
+ 
+-Liquid proposals specify the tea type, composition as supplied and final dilution conditions. Tea-only concentrates and formulated tea bases containing sweeteners or flavourings are quoted separately. Commercial concentrate offerings include both industrial liquid ingredients and customised beverage-dispensing bases; these are not automatically equivalent materials.[4][5][18]
++For liquid tea projects, ZL Botanicals prepares proposals around the tea type, supplied composition and intended dilution. Requests for unsweetened tea-only concentrates are handled separately from sweetened or flavoured beverage bases; oolong liquid options are developed by project.
+ 
+ ### Catechin-oriented powders for defined composition
+ 
+@@ -52,7 +52,7 @@
+ Discuss green, black or oolong ingredients against your target tea profile. Sample evaluation conditions incorporate your process water, acidity, heat treatment and cold-storage requirements.
+ 
+ **Milk tea and dairy-based tea drinks**  
+-Match black or oolong tea ingredients to the desired style, with tea strength, colour and finish evaluated after milk or creamer is added. Include flocculation and sediment observations in the trial rather than selecting a dairy ingredient on a water-only tasting.
++Match black or oolong tea ingredients to the desired style, with tea strength, colour and finish evaluated after milk or creamer is added. We match tea ingredient samples to your milk-tea formulation, with flocculation and sediment assessed in the finished beverage.
+ 
+ **Instant drinks and tea-flavoured dry mixes**  
+ Start with a soluble extract powder proposal matched to hot or cold preparation. Evaluate caking, dispersion and taste in the actual dry blend and its reconstituted drink.
+@@ -61,10 +61,10 @@
+ 
+ ## From samples to bulk orders
+ 
+-- **Materials matched to the product:** Separate proposals for flavour-led tea ingredients and composition-led extracts keep your budget tied to what you will receive.
+-- **Specifications for repeat orders:** Record the selected tea type, format, carrier, sensory requirements and relevant analytical criteria in the written specification.
+-- **Documentation tied to the supply:** Coordinate the specification sheet, sample or batch COA and destination-market documents for the selected proposal. Certification requirements are checked against the actual supply scope.
+-- **Clear commercial terms:** Confirm sample quantity, bulk quantity, packaging and delivery timing in the commercial offer.
++- **One enquiry across tea types:** ZL Botanicals quotes green, black and oolong options together, with flavour-led ingredients separated from catechin-focused powders.
++- **A clear basis for repeat orders:** We record the selected tea type, format, carrier, sensory requirements and analytical criteria in the agreed specification.
++- **Documents for supplier qualification:** We coordinate the specification sheet, sample or batch COA and relevant market documents for the selected material, with certification requirements matched to the supply scope.
++- **Coordinated sample and bulk proposals:** We bring the selected material, quantities, packaging and delivery timing into the commercial offer.
+ 
+ ## Frequently asked questions
+ 
+@@ -92,10 +92,8 @@
+ 
+ ## Sources
+ 
+-[4] https://starlonnaturals.com/black-tea-extract.php — Starlon Naturals — Black Tea Extract
+ [5] https://www.finlays.net/product/general/tea-concentrates — Complete Tea Concentrate Package | Finlays
+ [6] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8840101/fullTextXML — Enzymatic Oxidation of Tea Catechins and Its Mechanism (2022)
+ [7] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10706478/fullTextXML — Optimizing Processing Techniques of Oolong Tea (2023)
+ [8] https://www.finlays.net/product/tea-extracts-aromas/hot-water-soluble-hws-powders — Finlays — Hot Water Soluble Tea Powders
+-[18] http://hbylbio.com/cont/20.html — 湖北宇隆：茶浓缩液系列
+ [19] https://www.finlays.net/product-solution/cold-water-soluble-cws-powders — Finlays — Cold Water Soluble Tea Powders

@@ -1,0 +1,88 @@
+{
+  "status": "revision_self_check_passed_ready_for_integration_handoff",
+  "independent_revision_acceptance": false,
+  "required_edits_passed": 5,
+  "recommended_edits_passed": 5,
+  "edits": [
+    {
+      "id": "E01",
+      "priority": "required",
+      "exact_replacement_present_original_absent": true
+    },
+    {
+      "id": "E02",
+      "priority": "required",
+      "exact_replacement_present_original_absent": true
+    },
+    {
+      "id": "E03",
+      "priority": "required",
+      "exact_replacement_present_original_absent": true
+    },
+    {
+      "id": "E04",
+      "priority": "required",
+      "exact_replacement_present_original_absent": true
+    },
+    {
+      "id": "E05",
+      "priority": "required",
+      "exact_replacement_present_original_absent": true
+    },
+    {
+      "id": "E06",
+      "priority": "recommended",
+      "exact_replacement_present_original_absent": true
+    },
+    {
+      "id": "E07",
+      "priority": "recommended",
+      "exact_replacement_present_original_absent": true
+    },
+    {
+      "id": "E08",
+      "priority": "recommended",
+      "exact_replacement_present_original_absent": true
+    },
+    {
+      "id": "E09",
+      "priority": "recommended",
+      "exact_replacement_present_original_absent": true
+    },
+    {
+      "id": "E10",
+      "priority": "recommended",
+      "exact_replacement_present_original_absent": true
+    }
+  ],
+  "claim_literal_matches": 23,
+  "claim_total": 23,
+  "manual_semantic_review": "revision-notes.md: 人工 claim 语义对照",
+  "frozen_author_inputs_match_review": 45,
+  "preserved_nonrevision_files": 49,
+  "ledger_byte_identical": true,
+  "citation_verify_exit_codes": [
+    0,
+    0
+  ],
+  "citation_ids_both_languages": [
+    5,
+    6,
+    7,
+    8,
+    19
+  ],
+  "localized_link_inventory_unchanged": true,
+  "website_modified": false,
+  "publication": false,
+  "output_sha256": {
+    "sources-verification.json": "e2c9108ceb74d7a11553c58a8211742501583190d39956ea369aa624421130d0",
+    "ledger.json": "414c5f20151bc7ce9809cb10f2df186a93eb5995291e76963bee7ab59a1bef04",
+    "revision-notes.md": "5cf7ecf763c270e1f96677375a4c6e4722d8be6f50e6d8a0d60fa0e58ddc6845",
+    "input-manifest.json": "44c9a5dba3beafdbdf34ab16fcbea06e36c233cd1c721bc17ebe7a3ea57007b7",
+    "tea-family-sales.en.md.diff": "8b39e3dea1303de9b7f5ffa2e7f33c6a76ea9c009dcc6b6ed695f40754218e1b",
+    "tea-family-sales.zh.md": "5a56a69d37f009324185f9e36d0d1862522a171fbbf31aea25530e2d60322849",
+    "tea-family-sales.zh.md.diff": "2b84f6c9eaa1a60aca84ba0a449ca680be331e3b7054abcf75bf26eb962de4fe",
+    "tea-family-sales.en.md": "6ed4c3f0b439662beb3c1c2a4fc0d5b6eb49ad635851b53669a0d8255157502e"
+  }
+}

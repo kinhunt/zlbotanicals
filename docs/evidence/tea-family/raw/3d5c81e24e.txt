@@ -1,0 +1,1394 @@
+pmc
+Molecules
+Molecules
+3416
+molecules
+100964009
+molecules
+Molecules
+1420-3049
+Multidisciplinary Digital Publishing Institute  (MDPI)
+PMC8840101
+PMC8840101.1
+8840101
+8840101
+35164208
+10.3390/molecules27030942
+molecules-27-00942
+1
+Review
+Enzymatic Oxidation of Tea Catechins and Its Mechanism
+Abudureheman
+Buhailiqiemu
+1
+Yu
+Xiaochun
+2
+Fang
+Dandan
+1
+Zhang
+Henghui
+3
+*
+Delattre
+Cédric
+Academic Editor
+1
+College of Food Science and Engineering, Xinjiang Institute of Technology, Aksu 843000, China;
+buhalqam.a@163.com
+(B.A.);
+fdc2015087202112@126.com
+(D.F.)
+2
+College of Food Science and Engineering, Tonghua Normal University, Tonghua 134002, China;
+yuxc@thnu.edu.cn
+3
+Department of Environment and Safety Engineering, Taiyuan Institute of Technology, Taiyuan 030008, China
+*
+Correspondence:
+zhanghh@tit.edu.cn
+; Tel.: +86-182-3406-4228
+29
+1
+2022
+2
+2022
+27
+3
+400897
+942
+27
+12
+2021
+26
+1
+2022
+29
+01
+2022
+13
+02
+2022
+21
+08
+2024
+© 2022 by the authors.
+2022
+https://creativecommons.org/licenses/by/4.0/
+Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (
+https://creativecommons.org/licenses/by/4.0/
+).
+Tea (
+Camellia sinensis
+,
+Theaceae
+) is one of the most widely consumed beverages in the world. The three major types of tea, green tea, oolong tea, and black tea, differ in terms of the manufacture and chemical composition. Catechins, theaflavins, and thearubigins have been identified as the major components in tea. Other minor oligomers have also been found in tea. Different kinds of ring fission and formation elucidate the major transformed pathways of tea catechins to their dimers and polymers. The present review summarizes the data concerning the enzymatic oxidation of catechins, their dimers, and thearubigins in tea.
+catechin
+dimers
+thearubigin
+enzymatic oxidation
+pmc-status-qastatus
+0
+pmc-status-live
+yes
+pmc-status-embargo
+no
+pmc-status-released
+yes
+pmc-prop-open-access
+yes
+pmc-prop-olf
+no
+pmc-prop-manuscript
+no
+pmc-prop-legally-suppressed
+no
+pmc-prop-has-pdf
+yes
+pmc-prop-has-supplement
+no
+pmc-prop-pdf-only
+no
+pmc-prop-suppress-copyright
+no
+pmc-prop-is-real-version
+no
+pmc-prop-is-scanned-article
+no
+pmc-prop-preprint
+no
+pmc-prop-in-epmc
+yes
+pmc-license-ref
+CC BY
+1. Introduction
+Tea is one of the most widely consumed beverages in the world and is second only to water in popularity. The origin of tea has been traced back to the southern part of Yunnan Province in the southwest of China. More than 300 different kinds of tea are produced by different manufacturing processes. They are divided generally into three types: green tea (non-fermented), oolong tea (semi-fermented), and black tea (fermented). About 78% of the tea production worldwide is black tea, and green tea constitutes about 20% of tea production, consumed mainly in China and Japan. Oolong tea is partially fermented and constitutes about 2% of tea production. Catechins are the most abundant polyphenols in green tea. Black tea is manufactured by breaking the fresh leaves of
+Camellia sinensis
+. The main pigments in black tea are theaflavins and thearubigins, which are formed by the oxidation and polymerization of catechins during fermentation in the manufacturing process of tea. The chemistry information of theaflavins and their derivates has been elucidated perfectly. Although thearubigins account for up to 60% of the dry weight of black tea extract, the chemistry of thearubigins is still unclear. Thearubigins with simple structures have been elucidated. In the present review, we will discuss the current knowledge on the chemistry of catechins, their oxidation production derivates, and the major transformation pathways of them in tea.
+2. Major Components in Tea
+2.1. The Major Polyphenol Compounds in Green Tea
+Tea polyphenols, known as catechins, usually account for 30–42% of the dry weight of the solids in brewed green tea [
+1
+,
+2
+]. Catechins (flavan-3-ols) are the predominant form of flavonols in tea [
+1
+]. They are characterized by di-or tri-hydroxyl group substitution of the B ring and the meta-5,7-dihydroxy substitution of the A ring. The structures of the four major catechins, (−)-epigallocatechin gallate (EGCG), (−)-epigallocatechin (EGC), (−)-epicatechin gallate (ECG), and (−)-epicatechin (EC) are shown in
+Figure 1
+. EGCG is the major catechin in tea and accounts for 50–80% of the total catechins in tea [
+3
+]. In
+Figure 1
+, the racemic modifications of the four major cathechins as gallocatechin gallate (GCG), gallocatechin (GC), catechin gallate (CG), and catechin (C) are present in smaller quantities in tea [
+4
+]. Epicatechin digallate, epigallocatechin digallates, 3-methyl-EC, and 3-methyl-EGC have been identified in smaller quantities in tea [
+5
+]. Besides, 3″-methyl-EGCG, 4″-methyl-EGCG, and 4′,4″-di-methyl-EGCG have been identified in different tea species and at various seasons, ages of leaves, locations, and fermentation levels [
+6
+]. The flavonols such as kaempferol, quercitin, myricitin, and their glycosides have only been identified as significant components in tea. Flavones and their glycosides such as apigenin, the only flavone identified in tea, have also been detected in tea but represent a very small fraction of the tea polyphenols [
+7
+]. Gallic acid and its quinic acid ester, cinnamic acid derivatives of quinic acid, the coumaryl and caffeoyl-quinic acids, and chlorogenic acid have been identified in tea [
+4
+]. The major flavonols and flavones have been identified from green teas and fermented teas using liquid chromatography with diode array and electrospray ionization mass spectrometric detection (LC–DAD–ESI/MS), shown in
+Figure 2
+[
+8
+].
+2.2. Benzotroplone Derivates in Tea
+Black tea is manufactured by plucking, withering, maceration (rolling), fermentation, and drying of the fresh leaves of
+Camellia sinensis
+. By withering, the leaves take on a form facilitating the maceration process, which results in disrupting the cell structure of the leaves. Then, the fermentation process begins. In this process, catechins (about 75%) contained in the tea leaves undergo enzymatic transformation consisting in oxidation and polymerization to yield a complex mixture of secondary polyphenols including theaflavins and thearubigins [
+9
+,
+10
+,
+11
+,
+12
+], theasinensins [
+13
+,
+14
+], theacitrins [
+15
+,
+16
+,
+17
+], and oolongtheanins [
+18
+] that contribute to the characteristic color and flavor of black tea. The resulting black tea composition depends on the technological process of its production. For the fermentation process, it is important to control the fermentation time and the oxidation environment such as temperature, humidity, and oxygen [
+19
+]. The concentrations of theaflavins and thearubigins increase as fermentation time increases, reaching optimum levels and then degrading if the fermentation time is prolonged. It is also necessary to control the environment for oxidation. During the fermentation of the ruptured tea leaves, in most cases, the process is performed at a temperature of 24–29 °C for 2–4 h or 55–110 min, under a high relative humidity of 95–98% with an adequate amount of oxygen.
+There are two major enzymes involved in the fermentation process in making black tea [
+20
+]. One is polyphenol oxidase (PPO), which plays a key role in the oxidation of flavanols to theaflavins and thearubigins. The main effect of PPO is to oxidize catechins to theaflavins. Many studies have been carried out to study PPO-catalyzed formation of catechin oxidation products [
+21
+]. Peroxidase (POD) can also catalyze the oxidation of o-diphenols to their quinones in the presence of peroxide, such as hydrogen peroxide (H
+2
+O
+2
+), which are formed by the effect of PPO on certain flavanols. In fresh tea leaves, some POD activity is more than five times higher than that of PPO and has been found to increase during the manufacturing process of black tea [
+22
+]. At the beginning step of black tea processing, PPO is inhibited by heating, whereas POD remains active to a certain extent. Model oxidation systems have been used to compare the oxidation products obtained catalyzed with tea PPO and with horseradish POD [
+23
+]. However, the contribution of POD to the formation of black tea pigment in tea fermentation is still not entirely clear. Sang et al. have already studied the contribution of POD to the formation of theaflavins and thearubigins in an unnatural system [
+18
+,
+24
+].
+Theaflavins are orange or orange-red in color and possess a benzotropolone skeleton that is formed from the co-oxidation of selected pairs of catechins, one with a vic-trihydroxyphenyl moiety, and the other with an ortho-dihydroxyphenyl structure [
+18
+]. The primary step of catechin oxidation is believed to be the overall conversion of the ortho-dihydroxy (‘catechin’) and ortho-trihydroxy (‘gallocatechin’)-phenyl ‘B’ rings to give the corresponding highly reactive orthoquinones. The formation of theaflavins is between the corresponding two quinonoid species. Then, the formation of the benztropolone group requires the loss of one carbon atom as carbon dioxide. The formation pathway of theaflavins is shown in
+Figure 3
+. The oxidative coupling of two catechins is dependent on structural and redox potential factors. In many studies concerning the enzymatic oxidation of tea catechins, oxidative coupling reactions of catechin B-rings have been demonstrated [
+13
+,
+25
+]. The redox potential of the galloyl group is higher than that of B rings and its reactivity with o-quinones is comparatively low. A total of 60–80% of the total tea catechins possess galloyl esters located at the C-3 hydroxy group and oxidation of galloyl groups may be important to the formation of black tea pigment [
+26
+]; only limited examples of oxidative coupling of galloyl groups have been reported [
+17
+,
+27
+,
+28
+,
+29
+]. Besides, enzymes preferentially oxidize the catechol B-rings, and the resulting quinone subsequently oxidizes the pyrogallol rings for the redox potential of which is lower than that of the catechol rings [
+30
+,
+31
+,
+32
+,
+33
+].
+The four major theaflavins are theaflavin, theaflavin 3-gallate, theaflavin 3′-gallate, and theaflavin 3,3′-digallate, which are formed by coupling between EC and EGC, EC and EGCG, EGC and EGC, and EGC and EGCG, respectively. Stereoisomers of theaflavins and their closely related benzotropolone compounds such as neo-theaflavins, iso-theaflavins, theaflavate, theaflavic acids, and methylated theaflavins, etc., have also been identified from black tea [
+31
+,
+32
+,
+33
+,
+34
+]. They are shown in
+Figure 4
+. Under the catalysis of PPO and POD, neotheaflavin was formed using a monitored reaction between C and EGC. In the neotheaflavin family, neotheaflavin 3-gallate was isolated from black tea and structurally characterized using NMR and MS [
+35
+,
+36
+]. Neotheaflavin 3-gallate was formed by coupling between C and EGCG [
+37
+]. Isotheaflavin is formed hypothetically to couple between EC and GC. The total concentration of isotheaflavin in black tea is too small and it has not been detected. Isotheaflavin 3′-gallate has been characterized in extracts from black tea and its structure was determined using NMR spectroscopy. The proposed formation of isotheaflavin 3′-gallate is by coupling between EC and GCG [
+38
+]. Theaflavates have been found in some black tea extracts and enzymatically formed. Theaflavate A gets a novel benzotropolone skeleton formed between the B-ring of one ECG molecule and the galloyl ester group of another [
+39
+]. Theaflavate B is between the B-ring of an EC molecule and the galloyl ester group of ECG [
+40
+]. Neotheaflavate B was formed between the B-ring of one C molecule and the galloyl ester group of ECG using horseradish POD in the presence of H
+2
+O
+2
+[
+35
+]. The reactions of EC and ECG with gallic acid in a model tea fermentation system were studied. The primary oxidation products formed from the oxidation of EC and ECG with gallic acid in short reaction periods were epitheaflavic acid and 3-galloyl epitheaflavic acid. Theaflavic acid has been found in some black tea extracts and enzymatically formed by the reaction of C and gallic acid along with purpurogallin carbolic acid [
+41
+]. In the model tea fermentation system, epitheaflavic acid and epitheaflavic acid 3-gallate were formed by the reactions of EC and ECG with gallic acid [
+42
+]. Epitheaflavic acid was rapidly transformed to thearubigins in the presence of EC, which shows the possible mechanism of the thearubigin formation [
+42
+]. These theaflavin derivates are usually minor components or hardly detectable in black tea compared with the four major theaflavins. Due to their limited availability, the biological properties of these theaflavin derivates have been barely evaluated.
+Sang et al. (2004) already synthesized eighteen benzotropolone derivatives, which include all the major theaflavins, theaflavates, and theaflavic acids reported in black tea as well as several new benzotropolone derivatives by the reaction of selected pairs of catechins using horseradish POD in the presence of H
+2
+O
+2
+[
+18
+]. They also found theaflavins can further react with tea catechins to form di- or tri-benzotropolone-type compounds. The galloyl ester group of theaflavins is as reactive as the B-ring (vic-trihydroxy) of EGCG or EGC and can be oxidized to form di- or tri-benzotropolone skeletons, strongly implying that this mechanism is an important pathway to extend the molecular size of thearubigins. The galloyl ester group of theaflavin 3-gallate can further react with EC to form the new theaflavin type tea catechin trimer, theadibenzotropolone A, which was characterized from black tea extract by LC/ESI–MS/MS [
+21
+,
+43
+]. Theaflavin 3-gallate can react with EC to form theadibenzotropolone B, the isomer of theadibenzotropolone A. Neotheaflavin 3-gallate could react with C to form theadibenzotropolone C (
+Figure 5
+). However, theaflavin 3-gallate could not react with C to form the isomer of theadibenzotropolone. Interestingly, theaflavin 3,3′-digallate are not expected to react with EC or C to form the two isomers of theadibenzotropolone. However, theatribenzotropolone A was obtained by the reaction between theaflavin 3,3′-digallate and EC. The existence of these compounds in black tea was characterized by tandem mass spectrometry (MS/MS) through collision-induced dissociation (CID) [
+44
+]. Theaflavate C is a trimer of ECG and possesses two benzotropolone moieties formed between the B-ring of one ECG molecule and the galloyl ester group of another [
+40
+].
+2.3. Theanaphthoquinone in Tea
+Theanaphthoquinone in
+Figure 6
+gets a 1, 2-naphthoquinone moiety oxidatively derived from the benzotropolone unit of theaflavin. Theanaphthoquinone was generated by the treatment of a mixture of EC and EGC with fresh tea leaf or banana fruit homogenate. It is proposed that theanaphthoquinone is biosynthesized from theaflavin with the aid of PPO [
+45
+].
+2.4. Theaflagallinas in Tea
+Theaflagallins having a characteristic 1′,2′,3′-trihydroxy-3,4-benzotropolone unit are produced by condensation between two pyrogallol rings which were identified in black tea and enzymatically formed by the oxidation of catechins and pyrogallol. Theaflagallin, epitheaflagallin, and epitheaflagallin-3-gallate are the three major theaflagallins. They can be formed from the reaction of pyrogallol with C, EC, and EGC [
+46
+]. However, pyrogallol itself does not occur in fresh tea leaf, so it is proposed that theaflagallins are not formed by the oxidation of catechins and pyrogallol in tea fermentation. It was revealed that epitheaflagallin was produced from EGC alone even in the absence of gallic acid. The key intermediate of epitheaflagallin formation in tea is shown in
+Figure 7
+. Migration or elimination of the C-ring occurs and flavan A is produced and isolated from black tea [
+26
+].
+2.5. Theasinensin Derivates and Oolongtheanins in Tea
+Theasinensins shown in
+Figure 8
+present mainly in oolong tea represent a new class of dimeric gallocatechins linked by C–C bonds between the two ‘B’ rings, forming a biphenyl grouping. Theasinensin A (EGCG dimer), B (EGCG and EGC dimer), C (EGC dimer), and F (EGCG and ECG dimer) are the most abundant ones [
+47
+].
+Theasinensins A and D are B,B′-linked dimers of EGCG connected through R and S biphenyl bonds, respectively. Theasinensin A has been identified as the major oxidation product of EGCG under cell culture conditions as well [
+48
+]. Enzymatic oxidation of EGCG with a Japanese pear homogenate produced dehydrotheasinensin A and EGCG quinone dimer A. The possible mechanism for the formation of dehydrotheasinensin A and EGCG quinone dimer A are shown in
+Figure 9
+. The reduction in dehydrotheasinensin A with ascorbic acid or thiol compounds yielded theasinensin A. When the aqueous solution of dehydrotheasinensin A was heated, theasinensin D was produced along with galloyl oolongtheanin. On the other hand, dehydrotheasinensin A was converted to theasinensins A and D along with galloyl oolongtheanin in phosphate buffer at pH 6.8 at room temperature [
+49
+]. Oxidation of EGC with a Japanese pear homogenate gave dehydrotheasinensin C, proepitheaflagallina in
+Figure 8
+, and an EGC quinone dimer. The possible mechanism for the formation of dehydrotheasinensin C and EGC quinone dimer is the same to that of dehydrotheasinensin A and EGCG quinone dimer A. Dehydrotheasinensin C has a hydrated cyclohexenetrione structure and its oxidation–reduction dismutation reaction yielded theasinensins C and E, and desgalloyl oolongtheanin [
+26
+]. On hydrogenation with dithiothreitol, dehydrotheasinensin C was converted to theasinensin C [
+26
+]. In neutral phosphate buffer, dehydrotheasinensin C was decomposed to give theasinensin C, theasinensin E, desgalloyl oolongtheanin, and dehydrotheasinensin E [
+13
+]. Proepitheaflagallina was degraded into epitheaflagallin and epitheaflagallin by heating at 80 °C for 10 min in an aqueous solution. Recently, it was found that unripe fruit homogenate of Citrus unshiu selectively oxidizes pyrogallol-type catechins to yield only dehydrotheasinensins [
+50
+]. The selectivity of unripe fruit homogenate of Citrus unshiu is probably related to the lower redox potential of pyrogallol-type catechins.
+Oolongtheanins-desgalloyl oolongtheanin, oolongtheanin, and galloyl oolongtheanin were originally identified as the polyphenols contained in oolong tea and black tea [
+50
+]. Oolongtheanins coexist with theasinensins and they are the oxidation–reduction products of dehydrotheasinensins and are related to the oxidation–reduction dismutation of dehydrotheasinensins. The structure of desgalloyl oolongtheanin was revised by Yosuke Matsuo et al. based on the spectroscopic and computational data collected in the current study, and a mechanism responsible for the production of oolongtheanins is also proposed [
+50
+].
+2.6. Theacitrin Derivates in Tea
+Theacitrins are yellow compounds isolated from the thearubigin fractions of an Assam black tea and their preliminary structural data have been reported [
+51
+]. Theacitrins are found to be highly unstable but their structures have been elucidated successfully. Theacitrin A and B are dimers of EGCG and EGC. Theacitrin C is dimer of EGCG. Theacitrin A, B, and C are shown in
+Figure 10
+. The separation, purification, and characterization of theacitrin A have been characterized unequivocally by Davis et al. [
+51
+]. Oxidation of EGCG with a Japanese pear homogenate gave theacitrin C. The B-ring of EGCG is oxidized to its o-quinone form, and 1,4-addition then occurs to generate a C–C bond. Successive oxidation and intramolecular 1,2-addition produces a bicyclo octane-type intermediate, which subsequently rearranges to afford theacitrin C [
+52
+]. The possible mechanism for the formation of theacitrin C is shown in
+Figure 11
+. Degradation of theacitrin C by heating at 80 °C for 60 min in an aqueous solution gets the decomposition products detected as a broad hump on the HPLC baseline. However, heating in an aqueous solution containing 0.1% TFA theacitrin C was degraded into theacitrinin A and 2,3,5,7-tetrahydroxychroman-3-
+O
+-gallate. Although theacitrinin A was not isolated from black tea produced in India and Sri Lanka at the present stage, theacitrinin B has been isolated from black tea whose
+1
+H and
+13
+C NMR spectra were closely related to those of theacitrinin A, except for the appearance of signals attributable to one set of flavan A-and C-rings and one galloyl group. Besides, the proposed mechanism of theacitrinin B production from theacitrin A has been put forward [
+53
+,
+54
+].
+2.7. Dimers of Theaflavin Derivates in Tea
+Bistheaflavins A and B in
+Figure 12
+are two theaflavin oxidation products. Treatment of a mixture of EC and EGC with banana fruit homogenate yielded bistheaflavin A together with theaflavin and theanaphthoquinone. Bistheaflavin A was formed by oxidative C–C coupling of two theaflavin molecules. In contrast, theaflavin in phosphate buffer (pH 7.3) was gradually oxidized to give bistheaflavin B and theanaphthoquinone. Bistheaflavin B possesses a bicyclooctane skeleton probably formed by intermolecular cyclization between dehydrotheaflavin and dihydrotheanaphthoquinone [
+51
+].
+Enzymatic oxidation of ECG yielded bistheaflavate A in
+Figure 12
+, along with theaflavate A, a known dimer of ECG generated by coupling of the B-ring with the galloyl group. Bistheaflavate A was a tetramer produced by intermolecular coupling of two benzotropolone moieties of theaflavate A. From its structure, it was deduced that oxidative coupling of galloyl groups resulted in extension of the molecular size of the products in catechin oxidation [
+55
+].
+2.8. Thearubigins in Tea
+Thearubigins, red-brown or dark brown, which comprise about 20% (
+w
+/
+w
+) of extracted solids, are heterogeneous polymers of tea catechins [
+56
+]. Information of their formation and structures is still very limited. Kuhnert (2010) showed that during black tea manufacture, fresh tea leaf catechins are oxidized to ortho-quinones. These react with a nucleophile, either water to form oxygenated catechins, with another catechin to form dimeric theasinensins, theaflavins, oolongtheanins, theanaphthoquinones or theacitrins, or higher catechin oligomers. Highly oxygenated black tea polyphenols are subject to further oxidation to form quinone and quinone-methide type derivatives, which are in equilibrium with their reduced counterparts present within the black tea infusion all together accounting for around 95% of the thearubigins constituents observed.
+There are several classifications of thearubigins. The first one classifies thearubigins into three groups in terms of their solubility in different solvents. Thearubigins of SI type can be extracted into ethyl acetate, whereas SIa and SII type remain in the aqueous phase and SIa are more soluble in diethyl ether than the aqueous phase [
+39
+]. Another classification method is based on the chromatographic behavior of thearubigins in Hypersil ODS. Group I runs close to the void volume of the columns; group II is resolved thearubigins; and group III is unresolved thearubigins [
+57
+]. In recent years, with the assistance of modern advanced instrumental analysis technology, identification and characterization of thearubigins in black tea have progressed further. The formation of oligomeric thearubigins from catechins, theaflavins, theanaphthoquinone, theasinensins, theacitrins, and oolongtheanins has been suggested.
+A previous study using chromatography and chemical degradation of isolated fractions and a possible partial structure of polymeric thearubigins from black tea was elucidated using chemical degradation, determining that they are heterogeneous polymers of flavan-3-ols and flavan-3-ol gallates having bonds at C-4, C-6, C-8, C-2′, C- 5′ and C-6′ in the flavan-3-ol units [
+24
+]. Epitheaflavic acid was rapidly transformed to thearubigins in the presence of EC, suggesting the possible mechanism of the thearubigin formation. A prolonged experiment with tea leaf extract showed a decrease in theaflavin and theanaphthoquinone and an increase in polymeric substances suggesting that theanaphthoquinone was further transformed during tea fermentation and might be related to the formation of thearubigin [
+58
+]. Theaflavins further react with tea catechins to form di- or tri-benzotropolone-type compounds strongly implying that this mechanism is an important pathway to extend the molecular size of thearubigins [
+21
+]. Using delayed pulsed ion extraction of ions generated via the matrix-assisted laser desorption ionization (MALDI) technique, on line with a linear time-of-flight (TOF) mass spectrometer, Sang et al. found that theasinensins and procyanidins could also react with catechins to generate benzotropolone-type polymers [
+13
+]. Kuhnert et al. (2010), relying on LC/MS/MS, elucidated that thearubigins are solely composed from low molecular weight compounds with a mass below 2100 g/mol and revealed many thearubigin structures and valuable chemical information. In addition, Kuhnert et al. lead to a novel hypothesis for the formation and structure of the black tea thearubigins named oxidative cascade hypothesis [
+16
+]. Using ESI/HPLC tandem mass spectrometry in the SII fraction of black tea thearubigins, two novel homologous series of polyhydroxylated theasinensins and theanaphthoquinones were revealed which corresponded to the prolonged experiment treating a mixture of EC and EGC with tea leaf extract. The first homologous series of compounds revealed the presence of polyhydroxylated dimers of the theanaphthaquinone and theasinensin C structures. In addition, new classes of peroxo-/epoxy- compounds in the series of theasinensin A were identified, which indicated the presence of H
+2
+O
+2
+and its important contribution as a nucleophile in the tea fermentation process [
+58
+].
+Since thearubigins were first introduced fifty years ago, much of the thearubigin structures and valuable chemical information have been elucidated. Up to now, the chemical nature of thearubigins remains largely unresolved. Much more information about thearubigins, including structure formation and conformation, isolation of single compounds and their characterization, evaluation of their contribution to taste, and knowledge of biological properties, needs to be studied further.
+3. Conclusions
+In summary, tea is one of the most consumed functional beverages in the world. It contains large amounts of polyphenols including catechins, their dimers, and thearubigins. Various tea polyphenols such as isotheaflavin and neotheaflavin are usually minor components or hardly detectable in tea. The biological properties of tea polyphenol have been scarcely evaluated. The model study of tea fermentation has been carried out to elucidate the structure, isolation, characterization, and biological property of tea polyphenols. Thearubigins isolated from a typical tea fermentation comprise very closely related structures, which are solely composed from low molecular weight compounds with a mass below 2100 g/mol. Thearubigins range from trimeric to tetrameric structures, and possibly greater. The formation of oligomeric thearubigins in a model study of tea fermentation consumes dimeric catechins which partially consist of productions of thearubigin degradation. The way to extend the molecular weight of theaflavin derivates suggests a possible mechanism extending the molecular size of thearubigins. The existing information about thearubigins is valuable but further study is required.
+Publisher’s Note:
+MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Author Contributions
+Conceptualization, B.A. and H.Z.; software, D.F.; validation, H.Z.; formal analysis, X.Y.; investigation, B.A. and X.Y.; writing—original draft preparation, B.A.; writing—review and editing, H.Z. All authors have read and agreed to the published version of the manuscript.
+Funding
+This work was supported by grants from the Natural Science Youth Foundation of Xinjiang Uygur Autonomous Region, China (NO. 2020D01B24), the Applied Basic Research Program in Shanxi Province, China (NO. 201801D221279), the Scientific and Technological Innovation Programs of Higher Education Institutions in Shanxi Province, China (NO. 2020L0625), and by the Program for the (Reserved) Discipline Leaders of Taiyuan Institute of Technology, China.
+Institutional Review Board Statement
+Not applicable.
+Informed Consent Statement
+Not applicable.
+Conflicts of Interest
+The authors declare no conflict of interest.
+References
+1.
+Balentine
+D.A.
+Wiseman
+S.A.
+Bouwens
+L.C.
+The chemistry of tea flavonoids
+Crit. Rev. Food Sci. Nutr.
+1997
+37
+693
+704
+10.1080/10408399709527797
+9447270
+2.
+Wang
+Y.
+Kan
+Z.
+Thompson
+H.J.
+Ling
+T.
+Ho
+C.T.
+Li
+D.
+Wan
+X.
+Impact of six typical processing methods on the chemical composition of tea leaves using a single Camellia sinensis cultivar, Longjing 43
+J. Agric. Food Chem.
+2019
+67
+5423
+5436
+10.1021/acs.jafc.8b05140
+30403138
+3.
+Alfke
+J.
+Kampermann
+U.
+Kalinina
+S.
+Esselen
+M.
+Isolation and structural elucidation of dimeric epigallocatechin 3 gallate autoxidation products and their antioxidant capacity
+Eur. Food Res. Technol.
+2021
+247
+2961
+2975
+10.1007/s00217-021-03846-3
+4.
+Harbowy
+M.E.
+Balentine
+D.A.
+Tea chemistry
+Crit. Rev. Plant Sci
+1997
+16
+415
+480
+10.1080/07352689709701956
+5.
+Graham
+H.N.
+Green tea composition, consumption, and polyphenol chemistry
+Prev. Med.
+1992
+21
+334
+350
+10.1016/0091-7435(92)90041-F
+1614995
+6.
+Chiu
+F.L.
+Lin
+J.K.
+HPLC analysis of naturally occurring methylated catechins, 3′’--and 4′’-methyl-epigallocatechin gallate, in various fresh tea leaves and commercial teas and their potent inhibitory effects on inducible nitric oxide synthase in macrophages
+J. Agric. Food Chem.
+2005
+53
+7035
+7042
+10.1021/jf0507442
+16131108
+7.
+Engelhardt
+U.H.
+Finger
+A.
+Kuhr
+S.
+Determination of flavone C-glycosides in tea
+Z Lebensm Unters
+1993
+197
+239
+244
+10.1007/BF01185278
+8237118
+8.
+Lin
+L.Z.
+Chen
+P.
+Harnly
+J.M.
+New phenolic components and chromatographic profiles of green and fermented teas
+J. Agric. Food Chem.
+2008
+56
+8130
+8140
+10.1021/jf800986s
+18686968
+PMC3746187
+9.
+Abeywickrama
+K.R.W.
+Ratnasooriya
+W.D.
+Amarakoon
+A.M.T.
+Oral hypoglycaemic, antihyperglycaemic and antidiabetic activities of Sri Lankan Broken Orange Pekoe Fannings (BOPF) grade black tea (
+Camellia sinensis
+L.) in rats
+J. Ethnopharmacol.
+2011
+135
+278
+286
+10.1016/j.jep.2011.02.035
+21397000
+10.
+Qi
+D.D.
+Miao
+A.Q.
+Chen
+W.
+Wang
+W.W.
+He
+X.G.
+Ma
+C.Y.
+Characterization of the volatile compounds profile of the innovative broken oolong-black tea in comparison with broken oolong and broken black tea
+Food Control
+2021
+129
+108197
+10.1016/j.foodcont.2021.108197
+11.
+Takino
+Y.
+Imagawa
+H.
+Horikawa
+H.
+Tanaka
+A.
+Studies on the mechanism of the oxidation of tea leaf catechins: Part III. Formation of a reddish orange pigment and its spectral relationship to some benzotropolone derivatives
+Agric. Biol. Chem.
+1964
+28
+64
+71
+10.1080/00021369.1964.10858200
+12.
+Nonaka
+G.
+Kawahara
+O.
+Nishioka
+I.
+Tannins and related compounds. XV. A new class of dimeric flavan-3-ol gallates, theasinensins A and B, and proanthocyanidin gallates from green tea leaf (1)
+Chem. Pharm. Bull.
+1983
+31
+3906
+3914
+10.1248/cpb.31.3906
+13.
+Tanaka
+T.
+Matsuo
+Y.
+Kouno
+I.
+Chemistry of secondary polyphenols produced during processing of tea and selected foods
+Int. J. Mol. Sci.
+2010
+11
+14
+40
+10.3390/ijms11010014
+PMC2820987
+20161999
+14.
+Kusano
+R.
+Tanaka
+T.
+Matsuo
+Y.
+Kounoet
+I.
+Structures of epicatechin gallate trimer and tetramer produced by enzymatic oxidation
+Chem. Pharm. Bull.
+2007
+55
+1768
+1772
+10.1248/cpb.55.1768
+18057757
+15.
+Finger
+A.
+In vitro studies on the effect of polyphenol oxidase and peroxidase in the formation of black tea constituents
+J. Sci. Food Agric.
+1994
+66
+293
+305
+10.1002/jsfa.2740660306
+16.
+Kuhnert
+N.
+Drynan
+J.W.
+Obuchowicz
+J.
+Clifford
+M.N.
+Witt
+M.
+Mass spectrometric characterization of black tea thearubigins leading to an oxidative cascade hypothesis for thearubigin formation
+Rapid Commun. Mass Spectrom.
+2010
+24
+3387
+3404
+10.1002/rcm.4778
+21072794
+17.
+Tanaka
+T.
+Matsuo
+Y.
+Production mechanisms of black tea polyphenols
+Chem. Pharm. Bull.
+2020
+68
+1131
+1142
+10.1248/cpb.c20-00295
+33268645
+18.
+Sang
+S.
+Tian
+S.
+Stark
+R.E.
+Yang
+C.S.
+Ho
+C.T.
+New dibenzotropolone derivatives characterized from black tea using LC/MS/MS
+Bioorg Med. Chem.
+2004
+12
+3009
+3017
+10.1016/j.bmc.2004.03.027
+15142559
+19.
+Jolvis Pou
+K.R.
+Fermentation: The key step in the processing of Black Tea
+J. Biosys. Eng.
+2016
+41
+85
+92
+10.5307/JBE.2016.41.2.085
+20.
+Stodt
+U.W.
+Blauth
+N.
+Niemann
+S.
+Stark
+J.
+Pawar
+V.
+Jayaraman
+S.
+Koek
+J.
+Engelhardt
+U.H.
+Investigation of processes in black tea manufacture through model fermentation (oxidation) experiments
+J. Agric. Food Chem.
+2014
+62
+7854
+7861
+10.1021/jf501591j
+25051300
+21.
+Sang
+S.
+Lambert
+J.D.
+Ho
+C.T.
+Yang
+C.S.
+The chemistry and biotransformation of tea constituents
+Pharm. Res.
+2011
+64
+87
+99
+10.1016/j.phrs.2011.02.007
+21371557
+22.
+Verloop
+A.J.W.
+Vincken
+J.P.
+Gruppen
+H.
+Peroxidase can perform the hydroxylation step in the “oxidative cascade” during oxidation of tea catechins
+J. Agric. Food Chem.
+2016
+64
+8002
+8009
+10.1021/acs.jafc.6b03029
+27723327
+23.
+Bonnely
+S.
+Davis
+A.L.
+Lewis
+J.R.
+Astill
+C.
+A model oxidation system to study oxidised phenolic compounds present in black tea
+Food Chem.
+2003
+83
+485
+492
+10.1016/S0308-8146(03)00129-8
+24.
+Sang
+S.
+Tian
+S.
+Meng
+X.
+Stark
+R.E.
+Rosen
+R.T.
+Yang
+C.S.
+Ho
+C.T.
+Theadibenzotropolone A, a new type pigment from enzymatic oxidation of (−)-epicatechin and (−)-epigallocatechin gallate and characterized from black tea using LC/MS/MS
+Tetrahedron Lett.
+2002
+43
+7129
+7133
+10.1016/S0040-4039(02)01707-0
+25.
+Tanaka
+T.
+Yasumatsu
+M.
+Hirotani
+M.
+Matsuo
+Y.
+Li
+N.
+Zhu
+H.T.
+Saito
+Y.
+Ishimaru
+K.
+Zhang
+Y.J.
+New degradation mechanism of black tea pigment theaflavin involving condensation with epigallocatechin-3-O-gallate
+Food Chem.
+2022
+370
+131326
+10.1016/j.foodchem.2021.131326
+34656020
+26.
+Matsuo
+Y.
+Tanaka
+T.
+Kouno
+I.
+A new mechanism for oxidation of epigallocatechin and production of benzotropolone pigments
+Tetrahedron
+2006
+62
+4774
+4783
+10.1016/j.tet.2006.03.021
+27.
+Li
+Y.
+Tanaka
+T.
+Kouno
+I.
+Oxidative coupling of the pyrogallol B-ring with a galloyl group during enzymatic oxidation of epigallocatechin 3-O-gallate
+Phytochemistry
+2007
+68
+1081
+1088
+10.1016/j.phytochem.2007.01.005
+17320123
+28.
+Yamashita
+T.
+Matsuo
+Y.
+Saito
+Y.
+Tanaka
+T.
+Formation of dehydrohexahydroxydiphenoyl esters by oxidative coupling of galloyl esters in an aqueous medium involved in ellagitannin biosynthesis
+Chem. Asian J.
+2021
+16
+1735
+1740
+10.1002/asia.202100380
+33960720
+29.
+Barbehenn
+R.V.
+Jones
+C.P.
+Hagerman
+A.E.
+Karonen
+M.
+Salminen
+J.P.
+Ellagitannins have greater oxidative activities than condensed tannins and galloyl glucoses at high pH: Potential impact on caterpillars
+J. Chem. Ecol.
+2006
+32
+2253
+2267
+10.1007/s10886-006-9143-7
+17019621
+30.
+Tanaka
+T.
+Kouno
+I.
+Oxidation of tea catechins: Chemical structures and reaction mechanism
+Food Sci. Technol. Res.
+2003
+9
+128
+133
+10.3136/fstr.9.128
+31.
+Matsuo
+Y.
+Tanaka
+T.
+Oxidation mechanism of polyphenols and chemistry of black tea
+Recent Advances in Polyphenol Research
+John Wiley & Sons, Ltz.
+Oxford, UK
+2017
+67
+85
+32.
+Haslam
+E.
+Thoughts on thearubigins
+Phytochemistry
+2003
+64
+61
+73
+10.1016/S0031-9422(03)00355-8
+12946406
+33.
+Andueza
+A.
+García-Garzón
+A.
+Galarreta
+M.R.
+Ansorena
+E.
+Iraburu
+M.J.
+López-Zabalza
+M.J.
+Martínez-Irujo
+J.J.
+Oxidation pathways underlying the pro-oxidant effects of apigenin
+Free Radic. Biol. Med.
+2015
+87
+169
+180
+10.1016/j.freeradbiomed.2015.06.003
+26119779
+34.
+Li
+S.M.
+Lo
+C.Y.
+Pan
+M.H.
+Lai
+C.S.
+Ho
+C.T.
+Black tea: Chemical analysis and stability
+Food Funct.
+2013
+4
+10
+18
+10.1039/C2FO30093A
+23037977
+35.
+Sang
+S.M.
+Yang
+C.S.
+Ho
+C.T.
+Peroxidase-mediated oxidation of catechins
+Phytochem. Rev.
+2004
+3
+229
+241
+10.1023/B:PHYT.0000047794.45076.7c
+36.
+Lewis
+J.R.
+Davis
+A.L.
+Cai
+Y.
+Davies
+A.P.
+Wilkins
+J.P.G.
+Pennington
+M.
+Theaflavate B, isotheaflavin-3′-O-gallate and neotheaflavin-3-O-gallate: Three polyphenolic pigments from black tea
+Phytochemistry
+1998
+49
+2511
+2519
+10.1016/S0031-9422(98)00153-8
+37.
+Zhang
+L.
+Ho
+C.T.
+Zhou
+J.
+Santos
+J.S.
+Armstrong
+L.
+Granato
+D.
+Chemistry and biological activities of processed Camellia sinensis teas: A comprehensive review
+Compr. Rev. Food Sci. Food Saf.
+2019
+18
+1474
+1495
+10.1111/1541-4337.12479
+33336903
+38.
+Tounekti
+T.
+Joubert
+E.
+Hernández
+I.
+Munné-Bosch
+S.
+Improving the polyphenol content of tea
+Crit. Rev. Plant. Sci.
+2013
+32
+192
+215
+10.1080/07352689.2012.747384
+39.
+Wan
+X.
+Nursten
+H.E.
+Cai
+Y.
+Davis
+A.L.
+Wilkins
+J.P.G.
+Davies
+A.P.
+A new type of tea pigment-from the chemical oxidation of epicatechin gallate and isolated from tea
+J. Sci. Food Agric.
+1997
+74
+401
+408
+10.1002/(SICI)1097-0010(199707)74:3<401::AID-JSFA816>3.0.CO;2-J
+40.
+Menet
+M.C.
+Sang
+S.
+Yang
+C.S.
+Ho
+C.T.
+Rosen
+R.T.
+Analysis of theaflavins and thearubigins from black tea extract by MALDI-TOF mass spectrometry
+J. Agric. Food Chem.
+2004
+52
+2455
+2461
+10.1021/jf035427e
+15113141
+41.
+Drynan
+J.W.
+Clifford
+M.N.
+Obuchowicz
+J.
+Kuhnert
+N.
+The chemistry of low molecular weight black tea polyphenols
+Nat. Prod. Rep.
+2010
+27
+417
+462
+10.1039/b912523j
+20179879
+42.
+Wang
+Y.
+Ho
+C.T.
+Polyphenolic chemistry of tea and coffee: A century of progress
+J. Agric. Food Chem.
+2009
+57
+8109
+8114
+10.1021/jf804025c
+19719133
+43.
+Chen
+H.D.
+Shurlknight
+K.
+Leung
+T.C.
+Sang
+S.
+Structural identification of theaflavin trigallate and tetragallate from black tea using liquid chromatography/electrospray ionization tandem mass spectrometry
+J. Agric. Food Chem.
+2012
+60
+10850
+10857
+10.1021/jf303749z
+23066878
+44.
+Sang
+S.M.
+Yang
+I.
+Buckley
+B.
+Ho CTYang
+C.S.
+Autoxidative quinone formation in vitro and metabolite formation in vivo from tea polyphenol (-)-epigallocatechin-3-gallate: Studied by real-time mass spectrometry combined with tandem mass ion mapping
+Free Radic. Biol. Med.
+2007
+43
+362
+371
+10.1016/j.freeradbiomed.2007.04.008
+17602952
+PMC2758168
+45.
+Deka
+H.
+Sarmah
+P.P.
+Devi
+A.
+Tamulya
+P.
+Karak
+T.
+Changes in major catechins, caffeine, and antioxidant activity during CTC processing of black tea from North East India
+RSC Adv.
+2021
+11
+11457
+11467
+10.1039/D0RA09529J
+PMC8695946
+35423631
+46.
+Powell
+C.
+Characterisation of Theacitrins
+Polyphenolic Pigments of Black Tea
+ProQuest LLC.
+Guildford, UK
+1994
+101
+127
+47.
+Qiao
+J.P.
+Kong
+X.Y.
+Kong
+A.Y.
+Han
+M.
+Pharmacokinetics and biotransformation of tea polyphenols
+Curr. Drug Metab.
+2014
+15
+30
+36
+10.2174/1389200214666131229111336
+24527703
+48.
+Sang
+S.M.
+Lee
+M.J.
+Hou
+Z.
+Ho
+C.T.
+Yang
+C.S.
+Stability of tea polyphenol (−)-epigallocatechin-3-gallate and formation of dimers and epimers under common experimental conditions
+J. Agric. Food Chem.
+2005
+53
+9478
+9484
+10.1021/jf0519055
+16302765
+49.
+Tanaka
+T.
+Watarumi
+S.
+Matsuo
+Y.
+Kamei
+M.
+Kouno
+I.
+Production of theasinensins A and D, epigallocatechin gallate dimers of black tea, by oxidation-reduction dismutation of dehydrotheasinensin A
+Tetrahedron
+2003
+59
+7939
+7947
+10.1016/j.tet.2003.08.025
+50.
+Matsuo
+Y.
+Tadakuma
+F.
+Shii
+T.
+Saito
+Y.
+Tanaka
+T.
+Selective oxidation of pyrogallol-type catechins with unripe fruit homogenate of Citrus unshiu and structural revision of oolongtheanins
+Tetrahedron
+2015
+71
+2540
+2548
+10.1016/j.tet.2015.03.016
+51.
+Davis
+A.L.
+Lewis
+J.R.
+Cai
+Y.
+Powell
+C.
+Davis
+A.P.
+Wilkins
+J.P.G.
+Pudney
+P.
+Clifford
+M.N.
+A polyphenolic pigment from black tea
+Phytochemistry
+1997
+46
+1397
+1402
+10.1016/S0031-9422(97)00508-6
+52.
+Matsuo
+Y.
+Li
+Y.
+Watarumi
+S.
+Tanaka
+T.
+Kouno
+I.
+Production and degradation mechanism of theacitrin C, a black tea pigment derived from epigallocatechin-3-O-gallate via a bicyclo [3.2.1] octane-type intermediate
+Tetrahedron
+2011
+67
+2051
+2059
+10.1016/j.tet.2011.01.058
+53.
+Tanaka
+T.
+Inoue
+K.
+Betsumiya
+Y.
+Mine
+C.
+Kouno
+I.
+Two types of oxidative dimerization of the black tea polyphenol theaflavin
+J. Agric. Food Chem.
+2001
+49
+5785
+5789
+10.1021/jf010842x
+11743764
+54.
+Tanaka
+T.
+Mine
+C.
+Inoue
+K.
+Matsuda
+M.
+Kouno
+I.
+Synthesis of theaflavin from epicatechin and epigallocatechin by plant homogenates and role of epicatechin quinone in the synthesis and degradation of theaflavin
+J. Agric. Food Chem.
+2002
+50
+2142
+2148
+10.1021/jf011301a
+11902970
+55.
+Kusano
+R.
+Andou
+H.
+Fujieda
+M.
+Tanaka
+T.
+Matsuo
+Y.
+Kouno
+I.
+Polymer-like polyphenols of black tea and their lipase and amylase inhibitory activities
+Chem. Pharm. Bull.
+2008
+56
+266
+272
+10.1248/cpb.56.266
+18310934
+56.
+Elena
+O.
+Understanding Interactions of Mucins with Flavour Mompounds in Tea
+ProQuest Dissertations Publishing
+Manchester, UK
+2019
+57.
+Bailey
+R.G.
+Nursten
+H.E.
+McDowell
+I.
+Comparative study of the reversed-phase high-performance liquid chromatography of black tea liquors with special reference to the thearubigins
+J. Chromatogr. A
+1991
+542
+115
+128
+10.1016/S0021-9673(01)88752-5
+58.
+Yassin
+G.H.
+Koek
+J.H.
+Jayaraman
+S.
+Kuhner
+N.
+Identification of novel homologous series of polyhydroxylated theasinensins and theanaphthoquinones in the SII sraction of black tea thearubigins using ESI/HPLC tandem mass spectrometry
+J. Agric. Food Chem.
+2014
+62
+9848
+9859
+10.1021/jf502220c
+25263270
+Figure 1
+Structures of the major catechins in tea.
+Figure 2
+Structures of the major polyphenol compounds in tea.
+Figure 3
+The formation pathway of theaflavins.
+Figure 4
+Structures of the major theaflavin derivates in black tea.
+Figure 5
+Structures of theadibenzotropolone A, B, and C; theatribenzotropolone A; and theaflavate C.
+Figure 6
+The structure of theanaphthoquinone.
+Figure 7
+The structures of theaflagallinas and proposed mechanisms for production of epitheaflagallin.
+Figure 8
+Structures of theasinensins and proepitheaflagallina.
+Figure 9
+The possible mechanism for the formation of dehydrotheasinensin A and EGCG quinone.
+Figure 10
+Structures of theacitrinin A, B, and theacitrins.
+Figure 11
+The possible mechanism for the formation of theacitrin C.
+Figure 12
+The Structures of bistheaflavate A, B, and theaflavate C.
