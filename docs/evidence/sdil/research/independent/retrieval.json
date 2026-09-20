@@ -1,0 +1,65 @@
+[
+  {
+    "key": "2",
+    "url": "https://www.gov.uk/government/publications/changes-to-the-soft-drinks-industry-levy/changes-to-the-soft-drinks-industry-levy-policy-paper",
+    "status": 200,
+    "chars": 14763,
+    "sha256": "bb4055180e16e54601ea78a7f92ce825e6387de2c6c89459578591f7c07dc0f7"
+  },
+  {
+    "key": "4",
+    "url": "https://www.gov.uk/guidance/check-if-your-drink-is-liable-for-the-soft-drinks-industry-levy",
+    "status": 200,
+    "chars": 12563,
+    "sha256": "bd440c0019edd470193a9639187167c6acd8c4e6468ec58f6391f175172fdd27"
+  },
+  {
+    "key": "6",
+    "url": "https://www.legislation.gov.uk/ukpga/2026/11/part/3/crossheading/soft-drinks-industry-levy/data.htm",
+    "status": 200,
+    "chars": 10404,
+    "sha256": "d9a0355eb40fa9b86f597f1f7535ff6105510a1fab4e9cf5e92acd0b023bcf84"
+  },
+  {
+    "key": "7",
+    "url": "https://www.gov.uk/government/publications/changes-to-the-soft-drinks-industry-levy/draft-legislation-accessible-version",
+    "status": 200,
+    "chars": 12470,
+    "sha256": "323593c1204e6e0d9d9103c99e4a42b0023c2a05104dff5ef925413ae9070157"
+  },
+  {
+    "key": "8",
+    "url": "https://www.gov.uk/government/collections/finance-bill-2026-27-draft-legislation-and-technical-tax-documents",
+    "status": 200,
+    "chars": 7832,
+    "sha256": "eb1d4e40dd4533afee5f9b217db6f35015b138b58ea82bf9d8f20ca2a1fe33c2"
+  },
+  {
+    "key": "act29",
+    "url": "https://www.legislation.gov.uk/ukpga/2017/10/section/29/data.htm",
+    "status": 200,
+    "chars": 10553,
+    "sha256": "79cc76189f655233a5431edb45d300f2747b76a8e087a7541e83d86847500377"
+  },
+  {
+    "key": "act30",
+    "url": "https://www.legislation.gov.uk/ukpga/2017/10/section/30/data.htm",
+    "status": 200,
+    "chars": 10491,
+    "sha256": "f06b304dbbdbf87e35a4062dd9235cda8edebbc23e31b1f774b5a1dfb70a4aac"
+  },
+  {
+    "key": "reg7",
+    "url": "https://www.legislation.gov.uk/uksi/2018/41/regulation/7/data.htm",
+    "status": 200,
+    "chars": 10917,
+    "sha256": "c5fa73f1b560b30cd5390a67b1725c06b38ef9be2595936812c9021e06c29bc7"
+  },
+  {
+    "key": "reg8",
+    "url": "https://www.legislation.gov.uk/uksi/2018/41/regulation/8/data.htm",
+    "status": 200,
+    "chars": 6677,
+    "sha256": "94e421bf9c65a6bcf45e93c931023fe337c452422dca11328bba01edf399f34d"
+  }
+]

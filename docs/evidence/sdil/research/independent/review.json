@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-20",
+  "verdict": "BLOCK",
+  "release_approved": false,
+  "block_type": "bounded_editorial_revision",
+  "tax_professional": false,
+  "core_fact_gate": "PASS_WITH_EXPLICIT_SCOPE",
+  "whey": {
+    "resolved": false,
+    "general_information_publishable_with_reservation": true,
+    "specific_eligibility_advice_allowed": false,
+    "universal_exclusion_or_allowance_allowed": false,
+    "requires_exhaustive_legal_search": false
+  },
+  "required_changes": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5"
+  ],
+  "edits": [
+    {
+      "id": "E1",
+      "priority": "P1",
+      "required": true,
+      "location": "en.md:1; zh.md:1",
+      "original_en": "UK milk tea and plant-based drinks: SDIL exemptions still apply, with changes planned for 2028",
+      "original_zh": "英国奶茶与植物基饮品仍适用现行糖税豁免，扩围拟于2028年实施",
+      "diagnosis": "标题独立出现时把有条件豁免写成类别整体待遇；中文风险更明显，首段纠正不能替代标题准确。",
+      "replacement_en": "UK milk tea and plant-based drinks: current SDIL rules and proposed 2028 changes",
+      "replacement_zh": "英国奶茶与植物基饮品糖税：现行适用条件与2028年调整方案"
+    },
+    {
+      "id": "E2",
+      "priority": "P1",
+      "required": true,
+      "location": "en.md:43; zh.md:43",
+      "original_en": "Whey requires a reserved decision.",
+      "original_zh": "含乳清的配方需保留人工复核。",
+      "diagnosis": "reserved decision／人工复核是审查流程口吻，中文还暗示自动化分类系统。保留具体范围限制，不扩大为所有乳清永远不能判断。",
+      "replacement_en": "Whey-containing formulations need separate clarification. The policy paper excludes lactose in whey powder, while draft regulation 4C makes its whey exclusions conditional on recombination or reconstitution in the drink.[2][7] This article does not determine which whey-derived lactose would qualify for the proposed allowance. For a whey-containing product, obtain clarification on the applicable provisions before relying on a lactose deduction.",
+      "replacement_zh": "含乳清配方的乳糖扣除条件仍需另行确认。政策说明排除乳清粉中的乳糖，草案第4C条则按乳清是否在饮品中重组或复原作出限定。[2][7] 本文不判断哪些乳清来源乳糖可适用拟设扣除额。含乳清产品在采用乳糖扣除前，应先取得对适用条文的明确解释。"
+    },
+    {
+      "id": "E3",
+      "priority": "P1",
+      "required": true,
+      "location": "en.md:84; zh.md:84",
+      "original_en": "This review has not established an enacted post-consultation expansion or resolved the whey wording; it is not an exhaustive parliamentary or legal-status opinion.",
+      "original_zh": "本次核验没有确认到咨询后的已成法扩围文本，也未解决乳清措辞差异，不构成穷尽议会记录的法律状态意见。",
+      "diagnosis": "研究日记替代读者结论；没找到成法不能表述为证明无成法。整段改为归属具体文件的有限主张。",
+      "replacement_en": "HMRC’s July 2026 policy paper presents the changes as proposals and says final guidance will follow.[2] For a commercial decision, confirm the applicable enacted provisions, commencement date and HMRC guidance. Whey-related allowance eligibility is outside the scope of this article.",
+      "replacement_zh": "HMRC于2026年7月公布的政策文件说明了调整方案，并表示将另行发布最终指引。[2] 作出商业决定时，应确认适用的已通过条文、生效日期和HMRC指引；本文不判定含乳清配方的乳糖扣除资格。"
+    },
+    {
+      "id": "E4",
+      "priority": "P1",
+      "required": true,
+      "location": "en.md:61; zh.md:61 (table 2 row 5)",
+      "original_en": "Sugared plant-milk blend added to animal milk",
+      "original_zh": "含糖植物乳组合加入动物乳",
+      "diagnosis": "Sugared可读成另行加糖，blend／组合又暗示多植物混合；原文的关键是乳替代饮料自带糖加入动物乳也按添加糖处理。",
+      "replacement_en": "Plant-based milk substitute containing sugars, mixed with plain animal milk | The policy treats sugars contributed by the milk substitute as added sugars; assess the sugar threshold and any eligible lactose allowance.[2]",
+      "replacement_zh": "含糖的植物乳替代饮料与纯动物乳混合 | 政策将乳替代饮料带入的糖视为添加糖；还需判断糖含量门槛及符合条件的乳糖扣除额。[2]"
+    },
+    {
+      "id": "E5",
+      "priority": "P1",
+      "required": true,
+      "location": "worksheet-en.txt B; worksheet-zh.txt B; en.md:33; zh.md:33",
+      "original_en": "Plant-substitute calcium (mg/100ml), evidence:",
+      "original_zh": "植物乳替代饮料的钙含量（mg／100ml）及证据：",
+      "diagnosis": "正文正确把钙条件放在现行章节，但跨时期工作表B栏未注明，读者可能把120mg现行条件带入未来规则。草案改变相应结构，本文无需推导未来全部定义；限定字段用途即可。",
+      "replacement_en": "Calcium (mg/100ml) and evidence for the current milk-substitute exemption; do not assume this is a 2028 eligibility condition: ____________________",
+      "replacement_zh": "现行乳替代饮料豁免所需钙含量（mg／100ml）及证据；不得直接视为2028年资格条件：____________________"
+    },
+    {
+      "id": "E6",
+      "priority": "P2",
+      "required": false,
+      "location": "en.md:72; zh.md:72",
+      "original_en": "The immediate deliverable is a traceable record of the product as supplied and consumed.",
+      "original_zh": "眼下最有用的准备，是让供应状态、饮用状态和配方组成可以追溯。",
+      "diagnosis": "英文deliverable像内部任务，中文抽象；改为具体资料内容。",
+      "replacement_en": "Keep the recipe version, supply format and preparation instructions together in one product file. The blank worksheet follows HMRC’s proposed evidence categories; it is not an official form.[2]",
+      "replacement_zh": "将配方版本、销售形态和调制说明归入同一份成品资料。下方空白表参考HMRC拟采用的证据类别编制，并非官方申报表。[2]"
+    },
+    {
+      "id": "E7",
+      "priority": "P2",
+      "required": false,
+      "location": "en.md:78; zh.md:78",
+      "original_en": "This article makes no forecast for stevia demand.",
+      "original_zh": "本文不预测甜菊需求。",
+      "diagnosis": "供应链需求预测并非本页问题，反复否认显得防御；保留必要食品使用与税务范围区别即可。",
+      "replacement_en": "HMRC’s current SDIL guidance lists stevia among sugar replacements rather than sugars.[4] This tax treatment does not establish permitted food uses or the performance of a finished recipe.",
+      "replacement_zh": "HMRC现行SDIL指南将甜菊列为糖替代物，而非糖。[4] 这一税务分类不等于对具体食品用途的许可，也不能证明成品配方的表现。"
+    }
+  ],
+  "tables_reviewed": {
+    "en": 2,
+    "zh": 2,
+    "worksheets": 2,
+    "type_verdict": "keep semantic comparison/scenario tables and blank forms; adjust wording; no chart needed"
+  },
+  "evidence": {
+    "original_quotes": 48,
+    "matched": 48,
+    "fresh_official_pages": 9,
+    "http_200": 9,
+    "new_source_ids": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "reg7_reg8_version": "original as made only",
+    "en_citation_verify_exit": 0,
+    "zh_citation_verify_exit": 0,
+    "strict_pass_claimed": false
+  },
+  "not_tested": [
+    "rendered visual/mobile/a11y",
+    "live downloads",
+    "deployment",
+    "exhaustive parliamentary and amending instrument history"
+  ],
+  "author_files_modified": false,
+  "published": false,
+  "acceptance": "Apply E1-E5, retain supported scope and dates, re-read changed bilingual text and both worksheets; then issue an actual new PASS if no substantive misleading issue remains."
+}

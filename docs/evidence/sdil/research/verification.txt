@@ -1,0 +1,17 @@
+Citation verification is NOT legal or independent editorial approval. Strict-mode initial failure retained below as a disclosed tool limitation: unused inherited [3], and sentence tokenizer fails to split punctuation followed by attached citations / Chinese punctuation. No IDs were removed to hide inherited evidence.
+
+en.md exit=0
+info: stats: 51 prose sentence(s), 19 with declared provenance (37%) — 19 cited, 0 marked [unverified] (a sentence may be both); 7 distinct source(s) cited, 8 in ledger (8 with evidence quotes)
+warn: registered in the ledger but not cited in this draft: [3]
+warn: 1 sentence(s) carry more than 3 citations
+citations OK
+
+Citation-aware sentence audit >3 citations: 0
+zh.md exit=0
+info: stats: 2 prose sentence(s), 2 with declared provenance (100%) — 2 cited, 0 marked [unverified] (a sentence may be both); 7 distinct source(s) cited, 8 in ledger (8 with evidence quotes)
+warn: registered in the ledger but not cited in this draft: [3]
+warn: 1 sentence(s) carry more than 3 citations
+citations OK
+
+Citation-aware sentence audit >3 citations: 0
+Artifact checks: 53 inline citation instances per language; all cited full paragraphs retained in claim-paragraphs.md; local worksheet links resolve. Both worksheets contain 52 blank fields. Initial check incorrectly expected 53 fields and failed; corrected expectation after counting both complete files, no fields fabricated or deleted.

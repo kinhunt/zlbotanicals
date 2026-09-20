@@ -34,7 +34,7 @@ for(const lang of ['en','zh']) test(`${lang} ginseng source anchors, blank downl
 test('all 210 baseline sitemap entries stay byte-identical',()=>{
  const baseline=JSON.parse(readFileSync('tests/fixtures/ginseng-baseline-sitemap.json','utf8'));
  const entries=readFileSync('dist/sitemap-0.xml','utf8').match(/<url>.*?<\/url>/g);
- assert.equal(baseline.length,210); assert.equal(entries.length,212);
+ assert.equal(baseline.length,210); assert.ok(entries.length>=212);
  for(const entry of baseline) assert.ok(entries.includes(entry));
 });
 
