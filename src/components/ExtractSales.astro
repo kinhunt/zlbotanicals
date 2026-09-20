@@ -59,6 +59,7 @@ const benefits=sale.benefits.map((body,i)=>[benefitTitles[i],body[lang]]);
  </nav>
  {id==='centella-asiatica'&&<p><a href={local('/resources/blog/centella-cold-process-stability')}>{zh?'积雪草冷配稳定性：电位、黏度与释放质量':'Centella cold-process stability: zeta potential, viscosity and released mass'} →</a></p>}
  {id==='green-tea'&&<p><a href={local('/resources/blog/tea-haze-diagnosis')}>{zh?'茶饮冷后浑：水质、复溶与冷藏诊断':'Tea haze: water, reconstitution and cold-storage diagnosis'} →</a></p>}
+ {id==='ginseng'&&<p><a href={local('/resources/blog/ginseng-heat-bitterness')}>{zh?'人参饮料热后苦味：乳饮证据、遮苦迁移与小试对照':'Ginseng bitterness after processing: milk evidence, masking transfer and trial controls'} →</a></p>}
  {id==='stevia'&&<p><a href={local('/resources/blog/stevia-temporal-sensory')}>{zh?'甜菊饮品余甜：三个时点的感官记录与空白表':'Stevia aftertaste: a three-moment sensory screen and blank worksheet'} →</a></p>}
  <div class="reading" data-commercial-knowledge-summary>{dimensions.map(dimension=><section id={dimension}>
   <h3>{(id==='stevia'||id==='resveratrol')&&dimension==='processes'?(zh?'生产路线':'Processing routes'):(id==='stevia'||id==='resveratrol')&&dimension==='equipment'?(zh?'加工设备':'Processing equipment'):dimensionLabels[dimension][lang]}</h3>

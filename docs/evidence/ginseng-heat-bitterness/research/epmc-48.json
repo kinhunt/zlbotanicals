@@ -1,0 +1,305 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "TITLE:\"Active compounds and distinctive sensory\"",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "22818438",
+        "source": "MED",
+        "pmid": "22818438",
+        "doi": "10.3168/jds.2012-5341",
+        "title": "Active compounds and distinctive sensory features provided by American ginseng (Panax quinquefolius L.) extract in a new functional milk beverage.",
+        "authorString": "Tárrega A, Salvador A, Meyer M, Feuillère N, Ibarra A, Roller M, Terroba D, Madera C, Iglesias JR, Echevarría J, Fiszman S.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Tárrega A",
+              "lastName": "Tárrega",
+              "firstName": "A",
+              "initials": "A",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3338-2204"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Instituto de Agroquímica y Tecnología de Alimentos, Consejo Superior de Investigaciones Científicas, Agustín Escardino, 7, 46980 Paterna (Valencia), Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Salvador A",
+              "lastName": "Salvador",
+              "firstName": "A",
+              "initials": "A",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7634-027X"
+              }
+            },
+            {
+              "fullName": "Meyer M",
+              "lastName": "Meyer",
+              "firstName": "M",
+              "initials": "M"
+            },
+            {
+              "fullName": "Feuillère N",
+              "lastName": "Feuillère",
+              "firstName": "N",
+              "initials": "N"
+            },
+            {
+              "fullName": "Ibarra A",
+              "lastName": "Ibarra",
+              "firstName": "A",
+              "initials": "A",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3952-8489"
+              }
+            },
+            {
+              "fullName": "Roller M",
+              "lastName": "Roller",
+              "firstName": "M",
+              "initials": "M"
+            },
+            {
+              "fullName": "Terroba D",
+              "lastName": "Terroba",
+              "firstName": "D",
+              "initials": "D"
+            },
+            {
+              "fullName": "Madera C",
+              "lastName": "Madera",
+              "firstName": "C",
+              "initials": "C"
+            },
+            {
+              "fullName": "Iglesias JR",
+              "lastName": "Iglesias",
+              "firstName": "J R",
+              "initials": "JR"
+            },
+            {
+              "fullName": "Echevarría J",
+              "lastName": "Echevarría",
+              "firstName": "J",
+              "initials": "J"
+            },
+            {
+              "fullName": "Fiszman S",
+              "lastName": "Fiszman",
+              "firstName": "S",
+              "initials": "S"
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-7634-027X"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-3338-2204"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-3952-8489"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "8",
+          "volume": "95",
+          "journalIssueId": 1950997,
+          "dateOfPublication": "2012 Aug",
+          "monthOfPublication": 8,
+          "yearOfPublication": 2012,
+          "journal": {
+            "medlineAbbreviation": "J Dairy Sci",
+            "title": "Journal of dairy science",
+            "essn": "1525-3198",
+            "issn": "0022-0302",
+            "nlmid": "2985126R",
+            "isoabbreviation": "J Dairy Sci"
+          },
+          "printPublicationDate": "2012-08-01"
+        },
+        "pubYear": "2012",
+        "pageInfo": "4246-4255",
+        "abstractText": "American ginseng (Panax quinquefolius L.) has recognized neurocognitive effects, and a ginsenoside-rich extract of the root of the plant has been shown to improve cognitive functions in young adults. This study aimed at assessing the chemical and sensory profiles of a UHT-treated, low-lactose functional milk containing American ginseng. Individual ginsenosides in the milk were analyzed by HPLC. Descriptive sensory analysis was performed by a trained panel to quantitatively document sensory changes resulting from the addition of ginseng and the UHT process on flavored and unflavored milks. Consumer acceptance of the product was also investigated. Total ginsenoside content in the UHT-treated milk enriched with the ginseng extract after UHT process treatment was 7.52 mg/100 g of milk, corresponding to a recovery of 67.6% compared with the content in the unprocessed extract. The intake of 150 to 300 mL of this ginseng-enriched milk provides the amount of total ginsenosides (11.5 to 23 mg) necessary to improve cognitive function after its consumption. Both the presence of ginsenosides and their thermal treatment affected some sensory properties of the milk, most notably an increase in bitterness and metallic taste, the appearance of a brownish color, and a decrease in milky flavor. Levels of brown color, bitterness, and metallic taste were highest in the industrially processed ginseng-enriched milk. The bitterness attributable to ginseng extract was reduced by addition of vanilla flavor and sucralose. A consumer exploratory study revealed that a niche of consumers exists who are willing to consume this type of product.",
+        "affiliation": "Instituto de Agroquímica y Tecnología de Alimentos, Consejo Superior de Investigaciones Científicas, Agustín Escardino, 7, 46980 Paterna (Valencia), Spain.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "Ministry of Science and Innovation of Spain",
+              "orderIn": 0
+            }
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Milk",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "CH",
+                    "qualifierName": "chemistry"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Animals"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Panax",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "CH",
+                    "qualifierName": "chemistry"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Ginsenosides",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "AN",
+                    "qualifierName": "analysis"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Plant Extracts",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "CH",
+                    "qualifierName": "chemistry"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Taste"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Principal Component Analysis"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Beverages"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Consumer Behavior"
+            }
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Plant Extracts",
+              "registryNumber": "0"
+            },
+            {
+              "name": "Ginsenosides",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.3168/jds.2012-5341"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 13,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2012-12-17",
+        "dateOfCreation": "2012-07-24",
+        "dateOfRevision": "2014-11-20",
+        "firstPublicationDate": "2012-08-01",
+        "firstIndexDate": "2012-07-24",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

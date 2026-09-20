@@ -13,9 +13,9 @@ export default defineConfig({
 
   integrations: [
     sitemap({
-      // Match only the new tea hubs to their slashless canonicals; leave legacy URLs intact.
+      // Match only the new tea hubs and ginseng articles to their slashless canonicals; leave legacy URLs intact.
       serialize(item) {
-        const teaHub = /^https:\/\/zlbotanicals\.com\/(?:zh\/)?products\/tea-extracts\/$/;
+        const teaHub = /^https:\/\/zlbotanicals\.com\/(?:zh\/)?(?:products\/tea-extracts|resources\/blog\/ginseng-heat-bitterness)\/$/;
         if (!teaHub.test(item.url)) return item;
         return {
           ...item,

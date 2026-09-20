@@ -1,0 +1,72 @@
+[
+  {
+    "id": "E1",
+    "lang": "zh",
+    "replacement": "原料选型、热加工和风味筛选应使用同一组样品衔接：既记录投料与皂苷组成，也评价加工后饮料的苦味、金属味和后味。"
+  },
+  {
+    "id": "E1",
+    "lang": "en",
+    "replacement": "Link ingredient selection, heat processing and flavor screening through the same set of samples: record ingredient addition and ginsenoside composition alongside bitterness, metallic taste and aftertaste in the processed beverage."
+  },
+  {
+    "id": "E2",
+    "lang": "zh",
+    "replacement": "该乳饮研究用HPLC分析各皂苷，并由训练型感官小组评价有调味和无调味乳饮。摘要报告，加入香草香精与三氯蔗糖后，人参相关苦味减弱。<a href=\"#ginseng-heat-ref-1\">[1]</a>\n\n这项摘要提供了加工后组成与风味的观察，但缺少完整热史、感官量表和遮苦配比。67.6%是相对未加工提取物的研究回收结果，未回收部分的去向仍需结合分析回收方法判断。<a href=\"#ginseng-heat-ref-1\">[1]</a>"
+  },
+  {
+    "id": "E2",
+    "lang": "en",
+    "replacement": "The milk study analyzed individual ginsenosides by HPLC and used a trained panel to assess flavored and unflavored milks. Its abstract reports reduced ginseng-related bitterness after the addition of vanilla flavor and sucralose.<a href=\"#ginseng-heat-ref-1\">[1]</a>\n\nThe abstract provides observations on post-process composition and flavor, but not the complete thermal history, sensory scale or masking recipe. The reported 67.6% recovery is relative to the unprocessed extract; interpreting the unrecovered fraction requires the analytical recovery methods.<a href=\"#ginseng-heat-ref-1\">[1]</a>"
+  },
+  {
+    "id": "E3",
+    "lang": "zh",
+    "replacement": "上述用量是研究条件，不是乳饮投料建议。训练评委的苦味强度评分也不同于消费者喜好。<a href=\"#ginseng-heat-ref-2\">[2]</a> 环糊精可作为目标饮料的筛选候选，与香草、甜味体系分别比较加工后的苦味、标志物保留和储存表现；更换人参物种或饮料基底时，应重新评价这些指标。"
+  },
+  {
+    "id": "E3",
+    "lang": "en",
+    "replacement": "These amounts are study conditions, not recommended milk-beverage use levels. Trained-panel bitterness scores also differ from consumer liking.<a href=\"#ginseng-heat-ref-2\">[2]</a> Cyclodextrins are candidates for screening in the intended beverage, alongside vanilla and sweetener systems, with post-process bitterness, marker retention and storage performance assessed separately. Reassess these outcomes when changing ginseng species or beverage base."
+  },
+  {
+    "id": "E4",
+    "lang": "zh",
+    "replacement": "## 热加工怎样改变皂苷组成"
+  },
+  {
+    "id": "E4",
+    "lang": "en",
+    "replacement": "## How heat processing changes ginsenoside composition"
+  },
+  {
+    "id": "E5",
+    "lang": "zh",
+    "replacement": "下表可用于规划小试对照。采用项目经验证的食品安全程序，并仅品评确认安全的样品；不得为改善风味降低杀菌强度，未经处理的实验室对照不能直接用于品评。"
+  },
+  {
+    "id": "E5",
+    "lang": "en",
+    "replacement": "Use the comparisons below to plan trials. Follow the project’s validated food-safety process and taste only samples cleared as safe; do not reduce thermal severity to improve flavor or assume an untreated laboratory control is safe to taste."
+  },
+  {
+    "id": "E6",
+    "lang": "zh",
+    "replacement": "筛选前先约定分析与感官验收标准，并在加工后的样品中核验；冷样口感合格不能替代这一步。"
+  },
+  {
+    "id": "E6",
+    "lang": "en",
+    "replacement": "Set analytical and sensory acceptance criteria before screening, then check them in processed samples; an acceptable cold prototype does not replace this step."
+  },
+  {
+    "id": "E7",
+    "lang": "zh",
+    "replacement": "**热后风味与总皂苷回收应分别评价。** 西洋参乳饮和人参模型溶液研究为风味调整提供了具体候选，目标饮料的小试则用于判断这些候选在实际原料、基底与加工条件下的表现。<a href=\"#ginseng-heat-ref-1\">[1]</a><a href=\"#ginseng-heat-ref-2\">[2]</a>"
+  },
+  {
+    "id": "E7",
+    "lang": "en",
+    "replacement": "**Evaluate post-process flavor and total-ginsenoside recovery separately.** The American-ginseng milk and ginseng model-solution studies identify candidates for flavor adjustment; trials in the intended beverage establish how those candidates perform with the actual ingredient, base and process.<a href=\"#ginseng-heat-ref-1\">[1]</a><a href=\"#ginseng-heat-ref-2\">[2]</a>"
+  }
+]

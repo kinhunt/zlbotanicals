@@ -1,0 +1,13 @@
+{
+  "origin_main": "c035c1f24ed558e7048905060e2ff88f9fbff000",
+  "paths": [
+    "src/data/deep-ingredients.json",
+    "src/data/ingredient-reader-packs.json",
+    "src/data/ingredient-knowledge.json",
+    "src/data/turmeric-formulations.ts",
+    "src/components/TurmericKnowledge.astro",
+    "src/content/products/zh/turmeric.md",
+    "src/content/products/zh/ginseng.md",
+    "src/content/products/zh/licorice-root.md"
+  ]
+}

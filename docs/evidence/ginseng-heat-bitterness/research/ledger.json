@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:22818438%20AND%20SRC:MED&format=json&resultType=core",
+      "title": "Active compounds and distinctive sensory features provided by American ginseng (Panax quinquefolius L.) extract in a new functional milk beverage.",
+      "accessed": "2026-09-20",
+      "quotes": [
+        {
+          "text": "Total ginsenoside content in the UHT-treated milk enriched with the ginseng extract after UHT process treatment was 7.52 mg/100 g of milk, corresponding to a recovery of 67.6% compared with the content in the unprocessed extract.",
+          "added": "2026-09-20"
+        },
+        {
+          "text": "Levels of brown color, bitterness, and metallic taste were highest in the industrially processed ginseng-enriched milk.",
+          "added": "2026-09-20"
+        },
+        {
+          "text": "The bitterness attributable to ginseng extract was reduced by addition of vanilla flavor and sucralose.",
+          "added": "2026-09-20"
+        },
+        {
+          "text": "Individual ginsenosides in the milk were analyzed by HPLC.",
+          "added": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21535568%20AND%20SRC:MED&format=json&resultType=core",
+      "title": "Sensory properties of ginseng solutions modified by masking agents.",
+      "accessed": "2026-09-20",
+      "quotes": [
+        {
+          "text": "Twelve trained panelists evaluated 42 solution treatments (3 treatments × 7 levels × 2 bases) for bitter attributes with and without nose clips.",
+          "added": "2026-09-20"
+        },
+        {
+          "text": "Overall, the most effective treatments were 0.09 g γ-CDs in 100 mL of solution and 1 g β-CDs in 100 mL solution, which both reduced the bitterness intensity of the solutions by half.",
+          "added": "2026-09-20"
+        },
+        {
+          "text": "Effectiveness of the γ-CDs, β-CDs, and combinations of γ- and β-CDs were tested in 100 mL water and in 100 mL model energy drink base solutions containing 0.052 g 80% ginsenosides panax ginseng, using descriptive sensory analysis.",
+          "added": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16130766%20AND%20SRC:MED&format=json&resultType=core",
+      "title": "The application of macroporous resins in the separation of licorice flavonoids and glycyrrhizic acid.",
+      "accessed": "2026-09-20",
+      "quotes": [
+        {
+          "text": "The adsorption capacity was found to depend strongly on the pH of the feed solution.",
+          "added": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5628343/fullTextXML",
+      "title": "Effect of hydrothermal processing on ginseng extract — full text",
+      "accessed": "2026-09-20",
+      "quotes": [
+        {
+          "text": "The hydrothermal reactions were performed using an oil bath (COB-22, Chosun Instruments, Seoul, South Korea) with 23-mL batch reactors.",
+          "added": "2026-09-20"
+        },
+        {
+          "text": "For 20(S)-Rg3, the increase in the decomposition rate with increasing reaction temperature was estimated to be greater than the corresponding increase in the generation rate.",
+          "added": "2026-09-20"
+        },
+        {
+          "text": "The concentrate was diluted to 4 weight% (wt%) solids for use as a reactant in the hydrothermal reaction.\nThe hydrothermal reactions were performed using an oil bath (COB-22, Chosun Instruments, Seoul, South Korea) with 23-mL batch reactors.",
+          "added": "2026-09-20"
+        },
+        {
+          "text": "However, the maximum yields of Rk1 and Rg5 increased because the increases in the generation rates of Rk1 and Rg5 with temperature were greater than the increases in the corresponding decomposition rates.",
+          "added": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://link.springer.com/article/10.1007/s11483-016-9461-4",
+      "title": "Development of Transparent Curcumin Loaded Microemulsions — publisher abstract preview",
+      "accessed": "2026-09-20",
+      "quotes": [
+        {
+          "text": "It was found that the maximum lipid content allowing transparent microemulsions (mean particle diameter of around 25 nm) to be obtained was greatly affected by the lipid characteristics.",
+          "added": "2026-09-20"
+        }
+      ]
+    }
+  ]
+}

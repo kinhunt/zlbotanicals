@@ -1,0 +1,247 @@
+# 人参热加工文章：独立终审
+
+**结论：事实通过；公开成稿仍需一次局部清稿（BLOCK_EDITORIAL_ONLY）。** 原审查R1/R2在静态稿均已修复，不要求补搜论文或获取更多全文。阻塞的是本次用户明确指定的编辑质量，而非新增科学门槛。
+
+审查只读仓库；未启动浏览器、未构建、未发布。审查覆盖revision、memo、原始摘要JSON/TXT、水热XML/TXT、ledger、仓库双语正文和两份下载表。未用词数或自动引用通过冒充编辑质量。
+
+## 事实与证据范围
+
+- **R1 — PASS**：双语revision、memo和repo正文均为20(S)-Rg3，最高值随温度的方向正确，并明确各峰时间不相同。 来源 [4]
+
+- **R2 — PASS_STATIC**：两语表头分隔行均已补，三列四个数据行；不宣称已验证HTML或横向固定列。
+
+- **milk — PASS**：7.52 mg/100 g和67.6%对未加工提取物回收、最强褐色/苦味/金属味、香草与三氯蔗糖来自原摘要；没有算成32.4%热降解，没有单体苦味因果。 来源 [1]
+
+- **model — PASS**：0.052 g标称80%材料、12评委、42处理、γ-CD 0.09 g/100 mL与β-CD 1 g/100 mL均可核；“减半”是摘要整体报告，没有声称全部亚组各自显著减半。 来源 [2]
+
+- **scope — PASS**：两项感官文献仅有摘要；水热文献有真实全文XML，4 wt%、23 mL反应器而非装样量、100–160°C正确。HPLC化学结果、人体感官和消费者喜好区分正确；无电子舌混写，无成品认知功效或人体抗氧化结论。 来源 [1][2][4]
+
+- **mechanism — PASS**：生成与分解竞争已有实质机制；无需强补为何乳饮更苦的未知因果。Methods/Results时间范围矛盾已在修订memo记录，正文未使用这些时程，不形成新增研究门槛。 来源 [4]
+
+- **blank_records — PASS**：两语下载TXT全部20项填写栏为____；无预填观测、阈值、批次结果或零值；有安全提示、样品编码、量表、独立制备/重复测量区分；不是实验结果。
+
+峰值时间逐项核对（20(S)-Rg3 / Rk1 / Rg5）：100°C为12/12/12 h；120°C为2/4/8 h；140°C为15/45/75 min；160°C为7/14/21 min。来自全文Results 3.1，不要求把这些数值加进正文。[4]
+
+## 公开成稿判断
+
+英文语法基本自然、中文能读懂，双语主张强度一致，研究→试验→选型结构可保留。问题是同一“尚未验证、不是成熟配方、不能外推”在L14、24、30、38、40、46、50、72、78、84反复出现，其中L22、38、44–46的特定科学边界和L50食品安全边界有必要；但L24的工作流自述、L30获取日记、L40论文填写审批和L78结论自评不是读者所需。删掉重复句不会删掉科学严谨性。以下E1–E7合计构成一个有限清稿阻塞项；N1–N2为可选，不应再引发无尽修订。
+
+## 精确替换建议
+
+行号及原句均针对下方冻结SHA；两语行号相同。替换中保留现有引用锚点。
+
+### E1｜L24–24｜必做局部清稿
+第二次声明拟议工程方案，兼有内部团队检查清单口吻；导语已交代范围。
+
+**zh 原文**
+```
+如果采购只按总皂苷报价、研发只试冷样、生产只确认热过程参数，就可能分别完成了自己的检查，却没有共同回答“消费者喝到的加工后样品是什么味道”。以下提出的工作流，是围绕这个证据缺口组织的开发建议，而非论文已经验证的工厂流程。
+```
+**zh 替换**
+原料选型、热加工和风味筛选应使用同一组样品衔接：既记录投料与皂苷组成，也评价加工后饮料的苦味、金属味和后味。
+
+**en 原文**
+```
+If purchasing checks only total ginsenosides, development tastes only cold prototypes, and production checks only the thermal process, each team can complete its checklist without establishing what the processed beverage will taste like. The workflow below is an engineering proposal addressing that gap, not a production procedure validated by the cited papers.
+```
+**en 替换**
+Link ingredient selection, heat processing and flavor screening through the same set of samples: record ingredient addition and ginsenoside composition alongside bitterness, metallic taste and aftertaste in the processed beverage.
+
+### E2｜L28–32｜必做局部清稿
+研究日记“本次取得/For this review”及连续反驳占据研究解释；认知功效本来不属于正文任务，可删除离题句，不新增功效。
+
+**zh 原文**
+```
+该乳饮研究用HPLC分析各皂苷，用训练小组进行描述性感官分析，并研究了有/无调味的乳饮；摘要报告加入香草香精与三氯蔗糖后，人参相关苦味减弱。<a href="#ginseng-heat-ref-1">[1]</a> 因而，“热后苦味只能接受、无法调整”也过于绝对；至少在这一指定体系内，风味配伍提供了可观察的改善。<a href="#ginseng-heat-ref-1">[1]</a>
+
+但本次取得的是原始摘要，而不是完整感官表格。它没有提供足以在此复现的热史、所有样品定义、感官评分尺度或遮苦配比。不能据此写一个通用UHT条件，也不能把67.6%设成人参饮料的标准保留率，更不能把未回收部分全部称为热降解。<a href="#ginseng-heat-ref-1">[1]</a>
+
+该研究评价组成与感官，不能据此确认最终饮料的认知作用。
+```
+**zh 替换**
+该乳饮研究用HPLC分析各皂苷，并由训练型感官小组评价有调味和无调味乳饮。摘要报告，加入香草香精与三氯蔗糖后，人参相关苦味减弱。<a href="#ginseng-heat-ref-1">[1]</a>
+
+这项摘要提供了加工后组成与风味的观察，但缺少完整热史、感官量表和遮苦配比。67.6%是相对未加工提取物的研究回收结果，未回收部分的去向仍需结合分析回收方法判断。<a href="#ginseng-heat-ref-1">[1]</a>
+
+**en 原文**
+```
+The milk study used HPLC to analyze individual ginsenosides and a trained panel for descriptive sensory analysis, including flavored and unflavored milks. Its abstract reports that adding vanilla flavor and sucralose reduced bitterness attributable to the extract.<a href="#ginseng-heat-ref-1">[1]</a> The opposite blanket claim—that heat-associated bitterness simply has to be accepted—is therefore also too strong: a sensory improvement was observed in this particular formulation.<a href="#ginseng-heat-ref-1">[1]</a>
+
+For this review, the original abstract was retrieved, not the complete methods and sensory tables. It does not provide enough detail here to reproduce the thermal history, all sample definitions, sensory scale or masking recipe. The 67.6% recovery must not become a universal retention specification, and the unrecovered fraction must not automatically be called thermal degradation.<a href="#ginseng-heat-ref-1">[1]</a>
+
+The study evaluates composition and sensory attributes; it cannot establish cognitive benefits for the finished beverage.
+```
+**en 替换**
+The milk study analyzed individual ginsenosides by HPLC and used a trained panel to assess flavored and unflavored milks. Its abstract reports reduced ginseng-related bitterness after the addition of vanilla flavor and sucralose.<a href="#ginseng-heat-ref-1">[1]</a>
+
+The abstract provides observations on post-process composition and flavor, but not the complete thermal history, sensory scale or masking recipe. The reported 67.6% recovery is relative to the unprocessed extract; interpreting the unrecovered fraction requires the analytical recovery methods.<a href="#ginseng-heat-ref-1">[1]</a>
+
+### E3｜L38–40｜必做局部清稿
+四次重复不能外推、尚未验证；“把已有论文填写为验证通过”是内部审批口吻。合并保留剂量和终点边界。
+
+**zh 原文**
+```
+这些数字的用途是定位研究对象，**不是建议按此投料**。训练小组的苦味强度降低不等于所有消费者更喜欢；水/模型能量饮料的结果也没有完成西洋参UHT乳饮的验证。<a href="#ginseng-heat-ref-1">[1]</a><a href="#ginseng-heat-ref-2">[2]</a> 摘要没有证明上述环糊精处理在目标乳饮热处理后的效应、目标标志物保留或储存表现。<a href="#ginseng-heat-ref-2">[2]</a>
+
+因此，可以把环糊精列入“需要重新筛选的候选路径”，不能把“已有论文”填写为“本配方遮苦验证通过”。同样，乳饮研究中的香草与三氯蔗糖结果不能直接外推到无糖植物饮、酸性饮料或另一物种的人参提取物。<a href="#ginseng-heat-ref-1">[1]</a>
+```
+**zh 替换**
+上述用量是研究条件，不是乳饮投料建议。训练评委的苦味强度评分也不同于消费者喜好。<a href="#ginseng-heat-ref-2">[2]</a> 环糊精可作为目标饮料的筛选候选，与香草、甜味体系分别比较加工后的苦味、标志物保留和储存表现；更换人参物种或饮料基底时，应重新评价这些指标。
+
+**en 原文**
+```
+Those quantities identify the experimental system; **they are not recommended use levels**. A reduction in trained-panel intensity is not proof of broader consumer preference. Results from water and a model energy drink also do not validate an American-ginseng UHT milk formulation.<a href="#ginseng-heat-ref-1">[1]</a><a href="#ginseng-heat-ref-2">[2]</a> The abstract does not establish the treatments’ effect after the target milk process, their effect on marker retention, or their storage performance in that product.<a href="#ginseng-heat-ref-2">[2]</a>
+
+Cyclodextrins can therefore enter a list of candidates for fresh screening—not a list of treatments already validated for the proposed beverage. Equally, the milk study’s vanilla-and-sucralose result should not be transferred directly to an unsweetened plant drink, an acidic beverage or an extract of another ginseng species.<a href="#ginseng-heat-ref-1">[1]</a>
+```
+**en 替换**
+These amounts are study conditions, not recommended milk-beverage use levels. Trained-panel bitterness scores also differ from consumer liking.<a href="#ginseng-heat-ref-2">[2]</a> Cyclodextrins are candidates for screening in the intended beverage, alongside vanilla and sweetener systems, with post-process bitterness, marker retention and storage performance assessed separately. Reassess these outcomes when changing ginseng species or beverage base.
+
+### E4｜L42–42｜必做局部清稿
+抽象约束性标题应改为该节的具体内容。
+
+**zh 原文**
+```
+## 热加工解释必须停在证据能到的位置
+```
+**zh 替换**
+## 热加工怎样改变皂苷组成
+
+**en 原文**
+```
+## Keep the thermal explanation within its evidence
+```
+**en 替换**
+## How heat processing changes ginsenoside composition
+
+### E5｜L50–50｜必做局部清稿
+第三次声明不是已完成工程实验；安全边界有实际必要，集中保留。
+
+**zh 原文**
+```
+下表是作者提出的工程设计，不是已完成实验。热过程必须使用项目经验证的食品安全程序；不能为了保留风味擅自降低杀菌强度。仅对安全条件允许评价的样品进行感官分析，实验室未处理对照不自动具备饮用资格。
+```
+**zh 替换**
+下表可用于规划小试对照。采用项目经验证的食品安全程序，并仅品评确认安全的样品；不得为改善风味降低杀菌强度，未经处理的实验室对照不能直接用于品评。
+
+**en 原文**
+```
+The following is a proposed engineering design, not completed experimental work. Use the project’s validated food-safety process; do not reduce thermal severity simply to improve flavor. Sensory testing requires samples that are safe to evaluate. An untreated laboratory control is not automatically suitable for consumption.
+```
+**en 替换**
+Use the comparisons below to plan trials. Follow the project’s validated food-safety process and taste only samples cleared as safe; do not reduce thermal severity to improve flavor or assume an untreated laboratory control is safe to taste.
+
+### E6｜L72–72｜必做局部清稿
+第四次拟议要求/通用阈值免责声明；直接给实际动作。
+
+**zh 原文**
+```
+这些是为排除混淆而提出的记录要求，不对应任何已知的通用合格阈值。先约定接受标准，再看哪条路线达到目标，冷样口感合格不能替代加工后的感官验收。
+```
+**zh 替换**
+筛选前先约定分析与感官验收标准，并在加工后的样品中核验；冷样口感合格不能替代这一步。
+
+**en 原文**
+```
+These records are proposed controls against confounding, not universal acceptance thresholds. Agree on acceptance criteria before screening. A pleasing cold prototype is not a substitute for post-process acceptance.
+```
+**en 替换**
+Set analytical and sensory acceptance criteria before screening, then check them in processed samples; an acceptable cold prototype does not replace this step.
+
+### E7｜L78–78｜必做局部清稿
+结尾再次自评“结论有限但有用”及重复否定；应落在读者如何使用已说明的证据。
+
+**zh 原文**
+```
+目前能作出的结论有限但有用：**已有西洋参乳饮实测说明，热后风味与总皂苷回收必须分别评价；已有模型溶液试验证明遮苦可能有效，但不证明跨材料、跨基质或跨加工后仍有效。**<a href="#ginseng-heat-ref-1">[1]</a><a href="#ginseng-heat-ref-2">[2]</a> 下一步应是目标体系的小试，不是从公开摘要复制一个遮苦剂量。
+```
+**zh 替换**
+**热后风味与总皂苷回收应分别评价。** 西洋参乳饮和人参模型溶液研究为风味调整提供了具体候选，目标饮料的小试则用于判断这些候选在实际原料、基底与加工条件下的表现。<a href="#ginseng-heat-ref-1">[1]</a><a href="#ginseng-heat-ref-2">[2]</a>
+
+**en 原文**
+```
+The supported conclusion is limited but useful: **an American-ginseng milk study shows why post-process flavor and total-ginsenoside recovery need separate evaluation; a model-solution study shows that masking can work without establishing that it transfers across ingredients, matrices or processing conditions.**<a href="#ginseng-heat-ref-1">[1]</a><a href="#ginseng-heat-ref-2">[2]</a> The next step is a controlled trial in the intended product, not a masking dose copied from an abstract.
+```
+**en 替换**
+**Evaluate post-process flavor and total-ginsenoside recovery separately.** The American-ginseng milk and ginseng model-solution studies identify candidates for flavor adjustment; trials in the intended beverage establish how those candidates perform with the actual ingredient, base and process.<a href="#ginseng-heat-ref-1">[1]</a><a href="#ginseng-heat-ref-2">[2]</a>
+
+### N1｜L44–44｜可选
+可选：现有生成/分解竞争已正确；若需机制更具体，仅补来源已支持的脱糖/脱水，不补苦味受体或乳蛋白结合推断。
+
+**zh 原文**
+```
+公开全文的水热加工研究确实观察了皂苷转化：研究者使用Panax ginseng提取物，调至4 wt%固形物，在23 mL批式反应器中进行100–160°C反应，用HPLC定量皂苷，并进行化学抗氧化测定。<a href="#ginseng-heat-ref-4">[4]</a> 原文讨论了皂苷生成和分解速率之间的竞争；在各温度分别考察反应时间后，20(S)-Rg3的最高得率随温度升高而降低，Rk1和Rg5各自的最高得率则升高；这些峰值并不都出现在相同的反应时间。<a href="#ginseng-heat-ref-4">[4]</a>
+```
+**zh 替换**
+可在“原文讨论了”前增加：水热条件下，部分主要皂苷经脱糖和/或脱水转化为20(S)-Rg3、Rk1和Rg5。<a href="#ginseng-heat-ref-4">[4]</a>
+
+**en 原文**
+```
+An openly available hydrothermal-processing paper did measure ginsenoside transformation. It used Panax ginseng extract adjusted to 4 wt% solids, 23 mL batch reactors and reaction temperatures of 100–160°C, with HPLC and chemical antioxidant endpoints.<a href="#ginseng-heat-ref-4">[4]</a> The authors discuss competing formation and decomposition rates; across the reaction times tested at each temperature, the highest observed 20(S)-Rg3 yield decreased as temperature rose, whereas the highest Rk1 and Rg5 yields increased; those maxima did not all occur at the same reaction time.<a href="#ginseng-heat-ref-4">[4]</a>
+```
+**en 替换**
+Optional insertion before “The authors discuss”: Under hydrothermal conditions, some major ginsenosides undergo deglycosylation and/or dehydration to form 20(S)-Rg3, Rk1 and Rg5.<a href="#ginseng-heat-ref-4">[4]</a>
+
+### N2｜L64–64｜可选
+可选：中文“声明按什么对齐/加工身份”略抽象；英文可同步采用具体加工形式。
+
+**zh 原文**
+```
+先在开发方案中声明按什么对齐：同批同投料适合观察工艺前后变化；跨供应商比较还需明确原料物种、加工身份、实测皂苷组成和载体。不要为强行“等总皂苷”而改变总固形物，却不记录由此产生的配方差异。
+```
+**zh 替换**
+比较前先确定统一条件：同批原料、同投料量适合观察加工前后变化；跨供应商比较还需明确物种、加工形式、实测皂苷组成和载体。若为统一总皂苷含量而调整投料，应同时记录总固形物及其他配方变化。
+
+**en 原文**
+```
+State the comparison basis in advance. The same ingredient batch at the same addition rate suits a pre/post-process comparison. A supplier comparison also needs botanical species, processing identity, assayed composition and carriers. Do not quietly change total solids to force equal total ginsenosides and then attribute every sensory difference to the extract.
+```
+**en 替换**
+Define the comparison conditions in advance. Use the same ingredient batch and addition rate for pre/post-process comparisons; supplier comparisons also require species, processing form, assayed ginsenoside composition and carriers. If addition rates are adjusted to match total ginsenosides, record the accompanying changes in total solids and formulation.
+
+## 空白表与交接
+
+两份TXT各有20个空白填写栏，观测和验收阈值未虚构；四个对照组是设计问题，不是实测结果。末尾文献免责声明稍重复，但独立下载场景可保留，不阻塞。
+
+完成E1–E7或等效清稿后，仅需对修改段做定向审阅和最终哈希核验；保留浏览器作者的渲染验收。源码含表格分隔行不等于已经证明HTML、固定首列和移动端正常。此报告不授权发布，也不否定主任务已另获的发布权限。
+
+实际核验：核心来源逐字引文11/11匹配；两项摘要JSON/TXT一致；读后复核文件变化：[]。
+
+## 读取文件SHA256
+
+- `/data/hermes/research/seo-growth/2026-09-20-new-material/independent/review.md`
+  `2b17ee6c9bed6db181efe4f889768e144a21d585d4953b53987080c77d0e15ed`
+- `/data/hermes/research/seo-growth/2026-09-20-new-material/revision/ginseng-heat-bitterness.en.md`
+  `9b55da5d7eb4438aff60ca56e6a69e539f0a53fd2bb1fc41293aa23cfcd81824`
+- `/data/hermes/research/seo-growth/2026-09-20-new-material/revision/ginseng-heat-bitterness.zh.md`
+  `c92d7341d59b465803ea0d93596fa6443f6df44995c1c72c4744d41694567920`
+- `/data/hermes/research/seo-growth/2026-09-20-new-material/revision/research-memo.zh.md`
+  `ad62a36ba53e365e8d33284e1304e1fa1f6cc1526c2d638f486c34f601e4d699`
+- `/data/hermes/research/seo-growth/2026-09-20-new-material/evidence/22818438.txt`
+  `b3cfc03718fcef1e2172b7a07c6636e369a43afcfec9c8fea633373ee847d5c3`
+- `/data/hermes/research/seo-growth/2026-09-20-new-material/evidence/21535568.txt`
+  `e98d56ea3a9af81f6cca3cf466d212e74ff500fb3ff64ba236c3c0c795088274`
+- `/data/hermes/research/seo-growth/2026-09-20-new-material/evidence/PMC5628343.txt`
+  `2181958463579edc79fad78de4ef4a03a3fdf8234626d43e8d1a08727205bc11`
+- `/data/hermes/research/seo-growth/2026-09-20-new-material/evidence/PMC5628343.xml`
+  `dd6d3438e2d7b99a9d8da0eb7219716e6bd3698672d7a79d300ba49d43f7ecc7`
+- `/data/hermes/research/seo-growth/2026-09-20-new-material/ledger.json`
+  `012257422cbc6f8919a14a5ed282564c563589b60d4e5ab484e35689c9cd0ebe`
+- `/data/hermes/workspaces/zl-uk-sdil/src/content/blog/en/ginseng-heat-bitterness.md`
+  `42edcdf9eb39a732b18ed36084c953b2ec6b78379f2772ec8452d91b3bb5d692`
+- `/data/hermes/workspaces/zl-uk-sdil/src/content/blog/zh/ginseng-heat-bitterness.md`
+  `c1e6266f7823f6d5d158e02bc2a55f1dccef080dfc26d0252d33e2a7e650d408`
+- `/data/hermes/workspaces/zl-uk-sdil/public/downloads/ginseng-heat-trial-en.txt`
+  `9563e0f6b49c18ada2cfafe0aaccd5531d17a54a8b377ab35efea60a5f579656`
+- `/data/hermes/workspaces/zl-uk-sdil/public/downloads/ginseng-heat-trial-zh.txt`
+  `454beadc3315398d1eb7fbaeb1ed3729d30ce7a221895dd787fe29b325fa4948`
+- `/data/hermes/research/seo-growth/2026-09-20-new-material/evidence/22818438.json`
+  `dd53c17ad6dcc20b68343cce40db2549286fc7f2bacee5c0e0dd4ec3e8eab96b`
+- `/data/hermes/research/seo-growth/2026-09-20-new-material/evidence/21535568.json`
+  `66d1709c7fd3f6261d51b346923da62806ba4b1f6532f9eac228f42673d7c913`
+
+## Sources
+
+[1] https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:22818438%20AND%20SRC:MED&format=json&resultType=core — Active compounds and distinctive sensory features provided by American ginseng (Panax quinquefolius L.) extract in a new functional milk beverage.
+[2] https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21535568%20AND%20SRC:MED&format=json&resultType=core — Sensory properties of ginseng solutions modified by masking agents.
+[4] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5628343/fullTextXML — Effect of hydrothermal processing on ginseng extract — full text

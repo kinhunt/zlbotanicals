@@ -1,0 +1,121 @@
+{
+  "verdict": "BLOCK",
+  "review_date": "2026-09-20",
+  "scope": "Independent source, bilingual editorial, novelty and exhibit review; no repository edits or publication",
+  "evidence_sufficient_for_bounded_article": true,
+  "additional_research_required": false,
+  "integration_recommendation": "Fix R1 and R2, apply short reader-facing copyedit, then integrate and verify rendered fidelity. Do not reopen research absent stronger claims.",
+  "blocking_findings": [
+    {
+      "id": "R1",
+      "priority": "P1",
+      "locations": [
+        "ginseng-heat-bitterness.en.md:29",
+        "ginseng-heat-bitterness.zh.md:29",
+        "research-memo.zh.md:57"
+      ],
+      "issue": "Hydrothermal paper quantified 20(S)-Rg3, not undifferentiated Rg3; maxima occur across different reaction times.",
+      "required_change": "Use 20(S)-Rg3 in this finding in both languages and memo; clarify independently observed maxima across tested reaction times.",
+      "source_id": 4,
+      "evidence_locator": "evidence/PMC5628343.txt:21-23; XML Results 3.1"
+    },
+    {
+      "id": "R2",
+      "priority": "P1",
+      "locations": [
+        "ginseng-heat-bitterness.en.md:37-41",
+        "ginseng-heat-bitterness.zh.md:37-41"
+      ],
+      "issue": "Comparison tables omit Markdown header delimiter.",
+      "required_change": "Insert |---|---|---| after each table header; verify final HTML has three columns/four data rows and readable mobile row identity."
+    }
+  ],
+  "scientific_gates": {
+    "material_identity": "PASS with preserved species distinction",
+    "sensory_endpoint": "PASS; human trained panels in sources 1/2; source 4 has no taste endpoint; no electronic-tongue conflation",
+    "statistics": "Limited to abstracts for 1/2; no confirmed scales/errors/p-values; source 4 reports triplicate, SD, one-way ANOVA p<0.05",
+    "thermal_controls": "PASS for bounded synthesis; no replicated milk SOP or same-matrix hydrothermal superiority inferred",
+    "clinical_and_supplier_claims": "PASS; no cognition/clinical or own-product-performance inference",
+    "novelty": "PASS against archived c035c1f snapshot, not live site",
+    "bilingual_language": "Targeted editorial suggestions; Chinese slightly process-note-like, no wholesale rewrite needed",
+    "exhibits": "Keep comparison table after R2; no quantitative bitterness or causal chart warranted"
+  },
+  "verification": {
+    "hashes_checked": 35,
+    "hash_mismatches": [],
+    "verbatim_quotes_checked": 13,
+    "all_quotes_match": true,
+    "core_json_abstract_txt_match": true,
+    "citation_checks": [
+      {
+        "file": "research-memo.zh.md",
+        "exit_code": 0,
+        "stdout": "info: stats: 12 prose sentence(s), 8 with declared provenance (67%) — 8 cited, 0 marked [unverified] (a sentence may be both); 5 distinct source(s) cited, 5 in ledger (5 with evidence quotes)\ncitations OK\n",
+        "stderr": ""
+      },
+      {
+        "file": "ginseng-heat-bitterness.en.md",
+        "exit_code": 0,
+        "stdout": "info: stats: 50 prose sentence(s), 10 with declared provenance (20%) — 10 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 5 in ledger (5 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [3], [5]\ncitations OK\n",
+        "stderr": ""
+      },
+      {
+        "file": "ginseng-heat-bitterness.zh.md",
+        "exit_code": 0,
+        "stdout": "info: stats: 3 prose sentence(s), 3 with declared provenance (100%) — 3 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 5 in ledger (5 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [3], [5]\ncitations OK\n",
+        "stderr": ""
+      }
+    ],
+    "source_figure_visual_review": false,
+    "rendered_site_test": false
+  },
+  "source_limitations": [
+    "Sources 1 and 2 original abstracts only, not complete methods/sensory tables.",
+    "Source 4 XML/body available; original figure images/supplementary files not archived or visually reviewed.",
+    "Source 5 uses first-extract retained preview; later TXT empty and JSON 403. Only candidate memo relies on it."
+  ],
+  "reviewed_artifact_hashes": {
+    "ginseng-heat-bitterness.en.md": "b5e90ccb2ec8a10affe8181a4c3a76d5963e0c3c5ed163bf536fed99db7244de",
+    "epmc-60.json": "7cea3a7bc24fa3fc9ea5df8a4093388f7d4f785649e53d3bed91a03180a4f34c",
+    "ledger.json": "012257422cbc6f8919a14a5ed282564c563589b60d4e5ab484e35689c9cd0ebe",
+    "epmc-48.json": "030b34ec9a9d200e0af80b64325c05bbc471fa2ad1b7ca5bbd6668ec0190d023",
+    "research-memo.zh.md": "5c67115b275937b040eaefcfadb2b587ba6e2678673b131b6d64d791851c3dd8",
+    "README.md": "0b61b03b828a6f490f880320ba4ac55f86f658b3b6807a9decb591a42329fdba",
+    "search-80.json": "a3da380e14897ba6b971d96efc593647d58919cd55b1c9f848922a3d283b0a3d",
+    "search-69.json": "1ac333ad28778a582e829d2c9efb59442c1b9454d8b5905e6e48be0c6235eb49",
+    "verification.json": "51c50a419a6a2519ae26db1cdacda1fd356b4a6c91d60c02cce49ad545b64315",
+    "epmc-47.json": "f8c8d80fe37058c6ed28c60ec685203316d786a8ca3e26de9bf5156a1e056d4c",
+    "search-93.json": "b15ca0d2ac32947719d564788ac902e0f2bafede614ff74a11b861a21bcf6059",
+    "ginseng-heat-bitterness.zh.md": "53a76c0a5b209445a759a79f2d8525e29d669fc69c20e29fda51fa9511060bab",
+    "evidence/curcumin-preview.json": "dacb8a5489d3e55e9ccc086a6aa5d4cd1b6298a5e5a6ade95c2e2484e828a8e7",
+    "evidence/22818438.txt": "b3cfc03718fcef1e2172b7a07c6636e369a43afcfec9c8fea633373ee847d5c3",
+    "evidence/22818438.json": "dd53c17ad6dcc20b68343cce40db2549286fc7f2bacee5c0e0dd4ec3e8eab96b",
+    "evidence/16130766.json": "4b28e71649a96258c3cf9ae187a987172371054e00388e4752154160886dc1d4",
+    "evidence/21535568.txt": "e98d56ea3a9af81f6cca3cf466d212e74ff500fb3ff64ba236c3c0c795088274",
+    "evidence/PMC5628343.txt": "2181958463579edc79fad78de4ef4a03a3fdf8234626d43e8d1a08727205bc11",
+    "evidence/curcumin-preview-first-extract.txt": "552807c4bb54050935250926e771eb10853b050fbc77c01c4df85532d1b6e1cd",
+    "evidence/21535568.json": "66d1709c7fd3f6261d51b346923da62806ba4b1f6532f9eac228f42673d7c913",
+    "evidence/curcumin-preview.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "evidence/PMC5628343.xml": "dd6d3438e2d7b99a9d8da0eb7219716e6bd3698672d7a79d300ba49d43f7ecc7",
+    "evidence/16130766.txt": "08cbd110434df2fb5296268d7d11189a033624769137982b29dfe273002af596",
+    "site-snapshot/src__components__TurmericKnowledge.astro": "cc28def9a5275a3178cce1c711177071fd0cf151dedac18cdf8e354875fa1a4e",
+    "site-snapshot/src__content__products__zh__ginseng.md": "4666c6ffdf543f415b4444f2abd77059c871b1133617fa1134dba93eed32aaa0",
+    "site-snapshot/src-paths.json": "e6a5261b3a21fa8141d541f7a87ecb689ea25cd3b340ade1b724f1d7034ee94c",
+    "site-snapshot/src__content__products__zh__turmeric.md": "8208e55ea656d22f445954f9d11e5a4cf7434abdf53d53043787963613461efd",
+    "site-snapshot/encyclopedia-inventory.json": "d193cb132e4f1b3d56c88e889427b6fe6570ce257ea69cc76710ed7840afef0e",
+    "site-snapshot/src__data__ingredient-knowledge.json": "5fc99754762c2258edfa8697ecaa749451f4dbae539929e33e4b56a1f6ea172c",
+    "site-snapshot/novelty-search.json": "97a5584cc7109494e42753c238ca920cb1bef3c26fc9f7fd6474c5b205b8dfe9",
+    "site-snapshot/src__data__deep-ingredients.json": "789c824a4274c771d13bba440e594929e39f31bcf871fd81018b5cc2442862fc",
+    "site-snapshot/src__data__ingredient-reader-packs.json": "a938121f5e44c93230b419f68513ab96188580834c5c55ba6cb5e62159205838",
+    "site-snapshot/src__content__products__zh__licorice-root.md": "88978711479f96126ff39304b1ed3f0fe636961b1dca4121d8e1310bcd6b6f82",
+    "site-snapshot/src__data__turmeric-formulations.ts": "95c441253dbc222aa028c6178b23a48ce96b2e2a348a69d7da481a3f6b3a0820",
+    "site-snapshot/baseline.json": "9a9114b36b209906097e44a287928d817e592dbaf3a01d4996ab6233af669630"
+  },
+  "author_files_modified": [],
+  "repository_modified": false,
+  "published": false,
+  "outputs": [
+    "independent/review.md",
+    "independent/review.json"
+  ]
+}
