@@ -1,0 +1,180 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "DOI:10.3390/foods3010162",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "28234311",
+        "source": "MED",
+        "pmid": "28234311",
+        "pmcid": "PMC5302307",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC5302307"
+          ]
+        },
+        "doi": "10.3390/foods3010162",
+        "title": "Development of Next Generation Stevia Sweetener: Rebaudioside M.",
+        "authorString": "Prakash I, Markosyan A, Bunders C.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Prakash I",
+              "lastName": "Prakash",
+              "firstName": "Indra",
+              "initials": "I",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Coca-Cola Company, Atlanta, GA 30313, USA. iprakash@coca-cola.com."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Markosyan A",
+              "lastName": "Markosyan",
+              "firstName": "Avetik",
+              "initials": "A",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "PureCircle Limited, Lengkuk Teknologi, 71760 Bandar Enstek, Negeri Sembilan, Malaysia. avetik@purecircle.com."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Bunders C",
+              "lastName": "Bunders",
+              "firstName": "Cynthia",
+              "initials": "C",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Coca-Cola Company, Atlanta, GA 30313, USA. cbunders@coca-cola.com."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "related_data",
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "1",
+          "volume": "3",
+          "journalIssueId": 2527224,
+          "dateOfPublication": "2014 Feb",
+          "monthOfPublication": 2,
+          "yearOfPublication": 2014,
+          "journal": {
+            "medlineAbbreviation": "Foods",
+            "title": "Foods (Basel, Switzerland)",
+            "essn": "2304-8158",
+            "issn": "2304-8158",
+            "nlmid": "101670569",
+            "isoabbreviation": "Foods"
+          },
+          "printPublicationDate": "2014-02-01"
+        },
+        "pubYear": "2014",
+        "pageInfo": "162-175",
+        "abstractText": "This work aims to review and showcase the unique properties of rebaudioside M as a natural non-caloric potential sweetener in food and beverage products. To determine the potential of rebaudioside M, isolated from <i>Stevia rebaudiana</i> Bertoni, as a high potency sweetener, we examined it with the Beidler Model. This model estimated that rebaudioside M is 200-350 times more potent than sucrose. Numerous sensory evaluations of rebaudioside M's taste attributes illustrated that this steviol glycoside possesses a clean, sweet taste with a slightly bitter or licorice aftertaste. The major reaction pathways in aqueous solutions (pH 2-8) for rebaudioside M are similar to rebaudioside A. Herein we demonstrate that rebaudioside M could be of great interest to the global food industry because it is well-suited for blending and is functional in a wide variety of food and beverage products.",
+        "affiliation": "The Coca-Cola Company, Atlanta, GA 30313, USA. iprakash@coca-cola.com.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "review-article",
+            "Review",
+            "Journal Article"
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Stability",
+            "Purification",
+            "Rebaudioside A",
+            "Specifications",
+            "Food Application",
+            "Rebaudioside M",
+            "Sweetener Blends"
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.3390/foods3010162"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC5302307"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC5302307?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 106,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "Y",
+        "dbCrossReferenceList": {
+          "dbName": [
+            "CHEBI"
+          ]
+        },
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "Y",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCreation": "2017-02-25",
+        "dateOfRevision": "2020-09-30",
+        "electronicPublicationDate": "2014-02-27",
+        "firstPublicationDate": "2014-02-27",
+        "firstIndexDate": "2017-02-26",
+        "fullTextReceivedDate": "2025-02-03",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

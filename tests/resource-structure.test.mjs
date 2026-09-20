@@ -15,9 +15,9 @@ const expected = {
 test('every existing bilingual article has one honest guide category and industry metadata without changing legacy metadata', () => {
   for (const lang of ['en', 'zh']) {
     const files = readdirSync(new URL(`src/content/blog/${lang}/`, root));
-    assert.equal(files.length, 6);
+    assert.equal(files.length, 7);
     const populated = new Set();
-    for (const file of files.filter(file=>file!=='tea-haze-diagnosis.md')) {
+    for (const file of files.filter(file=>!['tea-haze-diagnosis.md','stevia-temporal-sensory.md'].includes(file))) {
       const frontmatter = read(`src/content/blog/${lang}/${file}`).split('---')[1];
       const category = frontmatter.match(/^guideCategory: ["']?([\w-]+)/m)?.[1];
       assert.equal(category, expected[file.replace('.md', '')], file);
