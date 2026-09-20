@@ -48,7 +48,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
   heroTitle={post.data.title}
   heroSubtitle={guideCategory[lang].title}
 >
-  <article class="section-padding">
+  <article class:list={["section-padding", {"stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
     <div class="container-wide max-w-4xl">
       <!-- Breadcrumb -->
       <nav aria-label="Breadcrumb" class="mb-8 text-sm">
@@ -187,3 +187,9 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
     </div>
   </article>
 </PageLayout>
+
+<style>
+  .stevia-temporal :global([id]) {scroll-margin-top:100px}
+  .stevia-temporal :global(nav ol) {flex-wrap:wrap}
+  .stevia-temporal :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}
+</style>
