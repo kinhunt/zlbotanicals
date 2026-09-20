@@ -1,0 +1,277 @@
+{
+  "verdict": "通过",
+  "verdict_en": "pass",
+  "approval": "manuscript_factual_editorial_only",
+  "review_date": "2026-09-20",
+  "generated_at_utc": "2026-09-20T06:17:53.029563+00:00",
+  "scope": "单次定点闭环验收R1–R4必改与R5建议；不重启全量研究、不改原稿、不使用browser；不含发布或视觉验收。",
+  "required_issues_closed": [
+    "R1",
+    "R2",
+    "R3",
+    "R4"
+  ],
+  "recommended_issue_closed": [
+    "R5"
+  ],
+  "new_substantive_issues": [],
+  "blocking_issues": [],
+  "exact_replacement_summary": {
+    "total": 14,
+    "passed": 14,
+    "replacement_occurrences_each": 1,
+    "original_occurrences_each": 0,
+    "remediation_log_matches": true
+  },
+  "exact_replacement_checks": [
+    {
+      "issue": "R1",
+      "edit": 1,
+      "language": "zh",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 19,
+      "pass": true
+    },
+    {
+      "issue": "R1",
+      "edit": 2,
+      "language": "en",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 19,
+      "pass": true
+    },
+    {
+      "issue": "R2",
+      "edit": 1,
+      "language": "zh",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 51,
+      "pass": true
+    },
+    {
+      "issue": "R2",
+      "edit": 2,
+      "language": "en",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 51,
+      "pass": true
+    },
+    {
+      "issue": "R3",
+      "edit": 1,
+      "language": "zh",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 5,
+      "pass": true
+    },
+    {
+      "issue": "R3",
+      "edit": 2,
+      "language": "en",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 5,
+      "pass": true
+    },
+    {
+      "issue": "R4",
+      "edit": 1,
+      "language": "zh",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 76,
+      "pass": true
+    },
+    {
+      "issue": "R4",
+      "edit": 2,
+      "language": "en",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 76,
+      "pass": true
+    },
+    {
+      "issue": "R5",
+      "edit": 1,
+      "language": "zh",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 1,
+      "pass": true
+    },
+    {
+      "issue": "R5",
+      "edit": 2,
+      "language": "zh",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 5,
+      "pass": true
+    },
+    {
+      "issue": "R5",
+      "edit": 3,
+      "language": "zh",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 11,
+      "pass": true
+    },
+    {
+      "issue": "R5",
+      "edit": 4,
+      "language": "zh",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 47,
+      "pass": true
+    },
+    {
+      "issue": "R5",
+      "edit": 5,
+      "language": "zh",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 55,
+      "pass": true
+    },
+    {
+      "issue": "R5",
+      "edit": 6,
+      "language": "zh",
+      "replacement_count": 1,
+      "original_count": 0,
+      "line": 64,
+      "pass": true
+    }
+  ],
+  "semantic_checks": [
+    {
+      "issue": "R1",
+      "verdict": "pass",
+      "basis": [
+        "tea-paper/PMC10453089.txt:53–54,65–67",
+        "tea-paper/tea-haze-diagnosis.{zh,en}.md:19"
+      ],
+      "finding": "双语均明确为透析袋内保留的大分子体系，并限定所测添加量、4°C和4小时；与原实验材料、方法及结果一致。"
+    },
+    {
+      "issue": "R2",
+      "verdict": "pass",
+      "basis": [
+        "tea-paper/PMC10453089.txt:47,56",
+        "review/review.json:R2",
+        "tea-paper/tea-haze-diagnosis.{zh,en}.md:51"
+      ],
+      "finding": "明确520 nm分光光度计及百分比报告；沿用原审全文方法缺口结论，不将未定义百分比解释为透过率、吸光度或NTU，不移植为其他仪器验收限值。"
+    },
+    {
+      "issue": "R3",
+      "verdict": "pass",
+      "basis": [
+        "tea-paper/tea-haze-diagnosis.{zh,en}.md:5,35–43",
+        "tea-paper/PMC10453089.txt:46"
+      ],
+      "finding": "导语为提出/建议分步排查；八条件仍标明为作者建议而非论文验证的生产参数或已完成试验；研究茶叶浸泡液与商业提取物应用边界保留。"
+    },
+    {
+      "issue": "R4",
+      "verdict": "pass",
+      "basis": [
+        "review/link-checks.json",
+        "review/review.json:R4",
+        "tea-paper/tea-haze-diagnosis.{zh,en}.md:76"
+      ],
+      "finding": "原料百科、柑橘绿茶试配锚点、饮料应用开发的标签与目的页相符；双语路径及无尾斜杠规范正确。沿用原审HTTP/锚点记录，本次未联网复查。"
+    },
+    {
+      "issue": "R5",
+      "verdict": "pass",
+      "basis": [
+        "tea-paper/tea-haze-diagnosis.zh.md:1,5,11,47,55,64",
+        "tea-paper/tea-haze-diagnosis.en.md:11,47,55,64",
+        "tea-paper/PMC8229914.txt:55–56"
+      ],
+      "finding": "六处中文建议全部落实；标题降低因果承诺，专用样及成分去向表达更清楚；自氧化措辞有原证据支持。英文无指定R5改动，关键语义与中文相容，无新增实质矛盾。"
+    }
+  ],
+  "reverse_reconstruction": [
+    {
+      "language": "zh",
+      "reconstructed_sha256": "256ca21c9cc3d781f3e328c7974b3d45622feb1abe5e4abe74331920028d66cf",
+      "original_review_sha256": "256ca21c9cc3d781f3e328c7974b3d45622feb1abe5e4abe74331920028d66cf",
+      "matches_original": true
+    },
+    {
+      "language": "en",
+      "reconstructed_sha256": "60d6c1e29cea36264cbfe4667c0cf5a761bd58f6b2de7bc7165f11bcef2724ba",
+      "original_review_sha256": "60d6c1e29cea36264cbfe4667c0cf5a761bd58f6b2de7bc7165f11bcef2724ba",
+      "matches_original": true
+    }
+  ],
+  "change_scope_finding": "将R1–R5替换在内存中逆转后，两稿SHA256精确匹配原review冻结哈希，证明无其他稿件改动；未写回原稿。",
+  "sha256": {
+    "tea-paper/tea-haze-diagnosis.zh.md": "71c78b58488ddc31cfd91dd49a03110b5d3bf0c138954a4e0fed26b3feeffb12",
+    "tea-paper/tea-haze-diagnosis.en.md": "5e64f7efa185555f32dcc226ce2497b8af7833fc841ae8b069355960b7d4dfb3",
+    "tea-paper/citation-ledger.json": "6f882d03a46448f6f6088e9e1908fecda66f37ea4557dc26d89929a7796acbca",
+    "review/review.json": "32c60ffe52ab93b3d7e1ecd62a680b8f83d808948f12adf679ce1eacf90965e0",
+    "review/remediation.json": "12ef5c43b7a96fadd17756ee91a5531b3244cbe2aaf9f2717d697e4368044cac"
+  },
+  "author_ledger_matches_original_review": true,
+  "citation_verification": [
+    {
+      "language": "zh",
+      "command": [
+        "python",
+        "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+        "--ledger",
+        "/data/hermes/research/seo-growth/2026-09-20-discovery/tea-paper/citation-ledger.json",
+        "verify",
+        "/data/hermes/research/seo-growth/2026-09-20-discovery/tea-paper/tea-haze-diagnosis.zh.md",
+        "--evidence"
+      ],
+      "exit_code": 0,
+      "stdout": "info: stats: 2 prose sentence(s), 2 with declared provenance (100%) — 2 cited, 0 marked [unverified] (a sentence may be both); 4 distinct source(s) cited, 4 in ledger (4 with evidence quotes)\ncitations OK\n",
+      "stderr": ""
+    },
+    {
+      "language": "en",
+      "command": [
+        "python",
+        "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+        "--ledger",
+        "/data/hermes/research/seo-growth/2026-09-20-discovery/tea-paper/citation-ledger.json",
+        "verify",
+        "/data/hermes/research/seo-growth/2026-09-20-discovery/tea-paper/tea-haze-diagnosis.en.md",
+        "--evidence"
+      ],
+      "exit_code": 0,
+      "stdout": "info: stats: 91 prose sentence(s), 9 with declared provenance (10%) — 9 cited, 0 marked [unverified] (a sentence may be both); 4 distinct source(s) cited, 4 in ledger (4 with evidence quotes)\ncitations OK\n",
+      "stderr": ""
+    }
+  ],
+  "read_only_confirmed": true,
+  "optional_remaining": [
+    {
+      "issue": "R6",
+      "status": "not_applied_non_blocking",
+      "note": "文献4仍为abstract record，未补1996年份；可选项未实施不阻挡本次通过。"
+    }
+  ],
+  "limitations": [
+    "引用验证只证明编号、来源映射和证据引文存在，不代替语义核验；中文2/2及英文9/91覆盖率不代表事实覆盖率。",
+    "沿用原审来源2和4仅摘要可得的边界；不主张读过其未取得的全文。",
+    "只对所列新哈希稿件给事实/编辑通过；原freeze-manifest未更新，不代表修订稿版本。",
+    "发布、部署、页面视觉、表单和下载均未验收，也未获本任务授权。"
+  ],
+  "artifacts": [
+    "review/acceptance.json",
+    "review/acceptance.md"
+  ]
+}
