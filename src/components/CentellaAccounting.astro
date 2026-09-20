@@ -1,0 +1,92 @@
+---
+import type {Language} from '../i18n/config';
+const {lang} = Astro.props as {lang: Language};
+const zh = lang === 'zh';
+const rows = zh ? ['积雪草苷（Asiaticoside）','羟基积雪草苷（Madecassoside）','积雪草酸（Asiatic acid）','羟基积雪草酸（Madecassic acid）','其他单一组分（如甘油或防腐剂）'] : ['Asiaticoside','Madecassoside','Asiatic acid','Madecassic acid','One other component (e.g. glycerol or a preservative)'];
+---
+<section id="centella-accounting" data-centella-calculator data-lang={lang}>
+  <h3>{zh ? '四标志物质量贡献计算器' : 'Four-marker mass contribution calculator'}</h3>
+  <p>{zh ? '比较粉体与原料液时，先把含量统一到实际称入的供应态原料。逐项计算该原料对最终配方的理论贡献；不需要输入完整配方，数据仅在本页计算，不保存或发送。' : 'Compare powders and liquid ingredients using the composition of the material actually weighed into the formula. Calculate each component’s theoretical contribution to the final formula. No complete formula is needed; inputs stay on this page and are not saved or sent.'}</p>
+  <p id="centella-input-help">{zh ? '仅输入以整份供应态原料质量为分母的组分含量（水、溶剂和载体均计入分母）。未知、未检出或低于定量限请留空，并在下载表中记录原始报告；只有确认的数值零才填 0。干基、峰面积百分比及 mg/mL 不能直接输入。' : 'Enter each component’s content by mass in the whole material as supplied; water, solvent and carrier are included in the denominator. Leave unknown, not-detected or below-quantification results blank and retain the report wording in the worksheet; enter 0 only for a confirmed numeric zero. Do not enter dry-basis values, peak-area percentages or mg/mL.'}</p>
+  <div class="accounting-controls">
+    <label for="centella-basis">{zh ? '含量报告基准' : 'Assay reporting basis'}
+      <select id="centella-basis" data-basis><option value="">{zh ? '请选择' : 'Select basis'}</option><option value="as-supplied">{zh ? '供应态质量含量' : 'As-supplied content by mass'}</option><option value="dry">{zh ? '干基／其他／未知（不能计算）' : 'Dry / other / unknown (cannot calculate)'}</option></select>
+    </label>
+    <label for="centella-addition">{zh ? '原料加入量：最终配方的 % w/w' : 'Ingredient addition: % w/w of final formula'}
+      <input id="centella-addition" data-addition type="number" min="0" max="100" step="any" inputmode="decimal" aria-describedby="centella-input-help" />
+    </label>
+  </div>
+  <div class="accounting-rows">
+    {rows.map((name,i) => <div class="accounting-row" data-marker-row>
+      <label for={`centella-c-${i}`}>{name}<input id={`centella-c-${i}`} data-concentration type="number" min="0" step="any" inputmode="decimal" aria-describedby="centella-input-help" /></label>
+      <label for={`centella-u-${i}`}>{zh ? '供应态含量单位' : 'As-supplied content unit'}<select id={`centella-u-${i}`} data-unit><option value="mg/g">mg/g</option><option value="%">% w/w</option></select></label>
+      <p><span>{zh ? '成品理论贡献' : 'Theoretical final contribution'}</span><br/><output data-result for={`centella-c-${i} centella-u-${i} centella-addition centella-basis`}>{zh ? '未知' : 'Unknown'}</output></p>
+    </div>)}
+  </div>
+  <button type="button" data-calculate hidden>{zh ? '计算理论贡献' : 'Calculate contributions'}</button>
+  <p data-status role="status" aria-live="polite">{zh ? '填写已知值并选择供应态基准后计算；空白项仍为未知。' : 'Enter known values and select the as-supplied basis to calculate; blank fields remain unknown.'}</p>
+  <noscript><p>{zh ? 'JavaScript 已关闭：请下载空白工作表，按下方公式手算。页面不会提交这些输入。' : 'JavaScript is off: download the blank worksheet and use the formulas below. This page does not submit these inputs.'}</p></noscript>
+  <h4>{zh ? '公式与计量边界' : 'Formulas and accounting boundaries'}</h4>
+  <ul>
+    <li>1% w/w = 10 mg/g. {zh ? '设供应态含量为 C（mg/g），加入量为 A（% w/w）：成品理论含量（mg/g）= C × A ÷ 100；成品质量百分数 = 该结果 ÷ 10。' : 'For as-supplied content C (mg/g) and addition A (% w/w): theoretical final concentration (mg/g) = C × A ÷ 100; final mass percent = that result ÷ 10.'}</li>
+    <li>{zh ? '纯算术示例（不是实测或建议用量）：某组分的供应态含量为 20 mg/g，该原料以最终配方质量的 1% 加入时，该组分的理论贡献为 0.2 mg/g，即 0.02% w/w。加入量以最终配方总质量为分母，不是加料前基料质量。' : 'Arithmetic example only, not a measurement or recommended use level: if a supplied ingredient contains 20 mg/g of a component and makes up 1% w/w of the final formula, that component contributes a theoretical 0.2 mg/g, or 0.02% w/w. The denominator is final formula mass, not the base mass before addition.'}</li>
+    <li>{zh ? '干基含量不能直接乘供应态原料的加入比例；须依据该材料的报告基准和可追溯数据，先换算为供应态含量。干燥失重不自动等于水分，供应态含量也不应再次扣除载体。未确认密度时不把 mL 换算为 g。' : 'Do not multiply a dry-basis assay directly by the addition rate of an as-supplied ingredient. First convert it to as-supplied content using traceable data consistent with that material and its assay basis. Loss on drying is not automatically water content, and an as-supplied assay should not have carrier deducted again. Without confirmed density, do not convert mL to g.'}</li>
+    <li>{zh ? '载体或防腐剂可用第五行逐项计算，未知组成不补零。四标志物不代表全部提取物或原生固形物，其加和不能证明 TECA 等同。此处不给出总活性含量。' : 'Use the fifth row for one carrier or preservative at a time; do not fill unknown composition with zero. The four markers do not represent all extract constituents or native solids, and their sum does not establish TECA equivalence. No total-active value is reported here.'}</li>
+    <li>{zh ? '结果仅是该份原料的理论加入贡献，不是成品实测、工艺回收率、溶解度、稳定性、耐受性或防腐效力。其他原料的贡献须另算；成品检测结果及方法、取样时间另列记录，不由本工具推算疗效或安全用量。显示值保留至多六位有效数字，不代表检测精度。' : 'Results describe only the theoretical contribution from this ingredient, not measured final content, process recovery, solubility, stability, tolerability or preservative efficacy. Account separately for contributions from other ingredients. Record final-product measurements, method and sampling time separately; this tool does not infer efficacy or safe use levels. Displayed values use up to six significant digits, not assay precision.'}</li>
+  </ul>
+  <p><a href={`/downloads/centella-accounting-${lang}.txt`} download>{zh ? '下载空白计量工作表（TXT）' : 'Download blank accounting worksheet (TXT)'}</a></p>
+  <p><a href={`${zh ? '/zh' : ''}/plant-extracts/standards/dry-basis-vs-as-received-assay`}>{zh ? '干基与供应态含量的区别' : 'Dry-basis versus as-received assays'}</a> · <a href={`${zh ? '/zh' : ''}/plant-extracts/basics/carriers-and-native-extract-content`}>{zh ? '载体与原生提取物' : 'Carriers and native extract content'}</a> · <a href={`${zh ? '/zh' : ''}/products/centella-asiatica#specifications`}>{zh ? '积雪草供应规格与样品' : 'Centella supply specifications and samples'}</a></p>
+</section>
+<script>
+  import {contribution, markerContributions} from '../utils/centella-accounting.mjs';
+  document.querySelectorAll<HTMLElement>('[data-centella-calculator]').forEach(root => {
+    const zh = root.dataset.lang === 'zh';
+    const button = root.querySelector<HTMLButtonElement>('[data-calculate]')!;
+    const status = root.querySelector<HTMLElement>('[data-status]')!;
+    const rows = [...root.querySelectorAll<HTMLElement>('[data-marker-row]')];
+    const unknown = zh ? '未知' : 'Unknown';
+    button.hidden = false;
+    const clear = () => {
+      rows.forEach(row => row.querySelector('output')!.textContent = unknown);
+      status.textContent = zh ? '输入已更改，请重新计算。空白项为未知。' : 'Inputs changed; calculate again. Blank fields are unknown.';
+    };
+    root.addEventListener('input', clear);
+    root.addEventListener('change', clear);
+    button.addEventListener('click', () => {
+      clear();
+      try {
+        const addition = root.querySelector<HTMLInputElement>('[data-addition]')!;
+        const basis = root.querySelector<HTMLSelectElement>('[data-basis]')!.value;
+        if (!addition.validity.valid) throw new RangeError();
+        const results = rows.map(row => {
+          const input = row.querySelector<HTMLInputElement>('[data-concentration]')!;
+          if (!input.validity.valid) throw new RangeError();
+          return contribution(input.value, row.querySelector<HTMLSelectElement>('[data-unit]')!.value, addition.value, basis);
+        });
+        markerContributions(rows.map(row => [row.querySelector<HTMLInputElement>('[data-concentration]')!.value, row.querySelector<HTMLSelectElement>('[data-unit]')!.value]), addition.value, basis);
+        rows.forEach((row, i) => {
+          const value = results[i];
+          const format = (n: number) => Number(n.toPrecision(6)).toString();
+          row.querySelector('output')!.textContent = value === null ? unknown : `${format(value)} mg/g · ${format(value / 10)}% w/w`;
+        });
+        status.textContent = zh ? '已计算理论贡献；未知项未按零处理。成品实测结果请另行记录。' : 'Theoretical contributions calculated; unknowns were not treated as zero. Record final-product measurements separately.';
+      } catch {
+        status.textContent = zh ? '无法计算：请选择供应态基准；加入量须为 0–100%，含量须为 0–1000 mg/g 或 0–100% w/w。已填写的四标志物和其他单一组分，其质量合计不能超过整份供应态原料。请核对含量、单位及报告基准。' : 'Cannot calculate: select the as-supplied basis; addition must be 0–100%, concentration 0–1000 mg/g or 0–100% w/w. The combined mass of all entered markers and the other individual component cannot exceed the whole supplied material. Check the concentrations, units and reporting basis.';
+      }
+    });
+  });
+</script>
+<style>
+  [data-centella-calculator] { border:1px solid #c4d3ba; border-radius:12px; padding:1.25rem; background:#f8faf5; }
+  .accounting-controls, .accounting-row { display:grid; grid-template-columns:minmax(0,1.4fr) minmax(0,1fr); gap:1rem; }
+  .accounting-row { border-top:1px solid #d8e1d0; padding:1rem 0; }
+  .accounting-row p { grid-column:1/-1; margin:0!important; }
+  label { display:block; font-weight:600; }
+  input, select { display:block; width:100%; min-width:0; padding:.65rem; margin-top:.4rem; border:1px solid #7d8f71; border-radius:5px; background:white; font:inherit; }
+  button { border-radius:6px; background:#345a27; color:white; padding:.75rem 1rem; cursor:pointer; }
+  button[hidden] { display:none; }
+  input:focus-visible, select:focus-visible, button:focus-visible { outline:3px solid #577c3d; outline-offset:3px; }
+  output { font-weight:700; }
+  h4 { font-weight:700; margin:1rem 0; }
+  @media(max-width:600px) { .accounting-controls,.accounting-row { grid-template-columns:minmax(0,1fr); } [data-centella-calculator] {padding:1rem;} }
+</style>
