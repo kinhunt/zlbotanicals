@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import TeaHazeReader from '../../../../components/resources/TeaHazeReader.astro';
+import CentellaStabilityReader from '../../../../components/resources/CentellaStabilityReader.astro';
 import { guideCategories } from '../../../../data/resource-guides';
 import PageLayout from '../../../../layouts/PageLayout.astro';
 import { getLocalizedPath } from '../../../../i18n/config';
@@ -19,6 +20,7 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content, headings } = await post.render();
+const isCentellaStability = post.slug.endsWith('/centella-cold-process-stability');
 const isTeaHaze = post.slug.endsWith('/tea-haze-diagnosis');
 const lang = 'zh';
 
@@ -52,7 +54,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
     <div class="container-wide max-w-4xl">
       <!-- Breadcrumb -->
       <nav aria-label="面包屑导航" class="mb-8 text-sm">
-        <ol class:list={["flex items-center gap-2 text-gray-500", {"flex-wrap": isTeaHaze}]}>
+        <ol class:list={["flex items-center gap-2 text-gray-500", {"flex-wrap": isTeaHaze || isCentellaStability}]}>
           <li><a href={getLocalizedPath('/', lang)} class="hover:text-primary">首页</a></li>
           <li>/</li>
           <li><a href={getLocalizedPath('/resources', lang)} class="hover:text-primary">资源中心</a></li>
@@ -97,7 +99,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
 
       <!-- Main Content -->
       <div class="prose prose-lg max-w-none prose-headings:font-display prose-headings:text-gray-900 prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-table:text-sm">
-        {isTeaHaze ? <TeaHazeReader lang={lang} headings={headings}><Content /></TeaHazeReader> : <Content />}
+        {isTeaHaze ? <TeaHazeReader lang={lang} headings={headings}><Content /></TeaHazeReader> : isCentellaStability ? <CentellaStabilityReader lang={lang} headings={headings}><Content /></CentellaStabilityReader> : <Content />}
       </div>
 
       <!-- Sources -->

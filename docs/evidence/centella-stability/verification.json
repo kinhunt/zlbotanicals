@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-20",
+  "citation_verification": "3 files passed --evidence --strict",
+  "primary_figures_reviewed": [
+    "1a",
+    "1b",
+    "2",
+    "3",
+    "4a",
+    "4b",
+    "5"
+  ],
+  "supplement_read": "all 8 pages text extracted; S1-S8 audited",
+  "arithmetic": {
+    "20*0.483": 9.66,
+    "50*0.376": 18.8,
+    "0.017<0.03": true
+  },
+  "website_changed": false,
+  "browserman_used": false,
+  "experiments_performed": false,
+  "independent_final_review": "pending parent/reviewer",
+  "source_limit": "one primary study plus its supplement; not two independent evidence streams"
+}

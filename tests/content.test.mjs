@@ -34,8 +34,8 @@ test('solutions are unvalidated concepts with no serving formula or commercial p
 });
 
 test('buyer guides replace unsupported market reports and use the actual update date',()=>{
- const all=entries('blog'); assert.equal(all.length,14);
- const pages=all.filter(({file})=>!['tea-haze-diagnosis.md','stevia-temporal-sensory.md'].includes(file)); assert.equal(pages.length,10);
+ const all=entries('blog'); assert.equal(all.length,16);
+ const pages=all.filter(({file})=>!['tea-haze-diagnosis.md','stevia-temporal-sensory.md','centella-cold-process-stability.md'].includes(file)); assert.equal(pages.length,10);
  for(const {lang,file,text} of pages){
   assert.match(text,/publishDate: ["']?2026-09-07/,file);
   assert.match(text,/category: ["']?ingredient-spotlight/,file);

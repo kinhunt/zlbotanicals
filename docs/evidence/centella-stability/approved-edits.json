@@ -1,0 +1,22 @@
+{
+  "en": [
+    [
+      "The text describes the gel change as occurring “after 30 days,” whereas neighboring plotted observations are approximately at days 28 and 42. “Changes accelerated after about a month” is more defensible than identifying day 30 as an exact failure date.",
+      "The faster change falls between the plotted observations at approximately days 28 and 42—about a month into storage."
+    ],
+    [
+      "The task is not to give two instruments a majority vote over a third. It is to identify what each measurement can reveal under its actual test conditions.",
+      "Interpreting each result in light of its sample preparation and measurement target helps determine the next investigation."
+    ]
+  ],
+  "zh": [
+    [
+      "正文把凝胶变化描述为“30天后”，图中的相邻观测点约在第28和42天，因而更合适的说法是“约一个月后变化加快”，而不是认定第30天就是失稳发生日。",
+      "凝胶变化加快的区间位于图中约第28至42天之间，即储存约一个月后。"
+    ],
+    [
+      "这不是用两票对一票选一个结果，而是承认三项测试的测量条件和敏感对象不同。",
+      "结合各项测试的前处理和响应对象，才能解释这些变化并确定下一步排查方向。"
+    ]
+  ]
+}

@@ -1,0 +1,593 @@
+[
+  {
+    "productId": "centella-asiatica",
+    "approval": "editorial-reviewed",
+    "sourcePack": "a/centella-asiatica/article.json",
+    "content": {
+      "en": [
+        {
+          "id": "identity",
+          "heading": "Material identity",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Centella asiatica, also called gotu kola, provides chemically different ingredients: leaf or aerial-part extracts, refined triterpenoid fractions and isolated compounds. Asiaticoside and madecassoside are glycosides; asiatic acid and madecassic acid are their corresponding aglycones. Equal total triterpenoid values can conceal different proportions of these components and different formulation behaviour.[4][19]"
+            },
+            {
+              "type": "paragraph",
+              "text": "For skincare, select the extract around the finished serum or emulsion, not the plant name alone. For a prepared water/glycol ingredient, check the carrier composition and any declared preservative; an enriched dry powder may need a different solvent or dispersion route. Traditional edible-leaf use does not establish that a refined cosmetic ingredient is suitable for a beverage.[4]"
+            }
+          ]
+        },
+        {
+          "id": "effects",
+          "heading": "Effects and human research",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "EMA’s 2022 assessment distinguishes traditional cutaneous use of comminuted or powdered herb as an aid to healing minor wounds from well-established clinical efficacy. The reviewed wound studies showed a trend of benefit, but small samples, methodological problems and incomplete extract descriptions prevented a well-established-use conclusion. A cosmetic moisturizer therefore needs its own skin-use evidence; the herbal indication is not a wound-healing claim for a serum.[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "A 2017 systematic review examined oral Centella preparations for cognition and mood. It included five randomized trials of Centella alone and six of Centella-containing products. Meta-analysis found no significant difference from placebo across cognitive domains. Signals in alertness and anger scores did not establish a general memory benefit, and mixed products cannot identify Centella’s independent contribution.[16]"
+            },
+            {
+              "type": "paragraph",
+              "text": "EMA did not include oral therapeutic use in its monograph, citing potential fertility and liver-safety concerns alongside the availability of other therapeutic options. This is a medicinal assessment, not a worldwide food ban. For topical products, allergic contact reactions remain relevant, including reactions to other formula ingredients; “sensitive skin” positioning needs finished-product tolerability testing.[4]"
+            }
+          ]
+        },
+        {
+          "id": "components",
+          "heading": "Asiaticoside, madecassoside and their aglycones",
+          "blocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Form",
+                "Composition",
+                "Formulation consequence"
+              ],
+              "rows": [
+                [
+                  "Broad leaf/aerial-part extract",
+                  "Solvent-extractable triterpenoids plus other constituents.[4][19]",
+                  "Colour, odour and non-target solids may determine serum appearance."
+                ],
+                [
+                  "Prepared water/glycol liquid",
+                  "Native extract diluted in a declared vehicle.",
+                  "Calculate the native extract and marker content, not the full solution mass."
+                ],
+                [
+                  "Refined triterpenoid fraction",
+                  "A defined mixture, sometimes involving conversion or selective purification.[4][11]",
+                  "Specify each marker; “total triterpenoids” does not establish TECA/TTFCA equivalence."
+                ],
+                [
+                  "Isolated glycoside or aglycone",
+                  "Madecassoside, asiaticoside or a defined acid rather than the whole extract.[4][19]",
+                  "Qualify identity, purity and solubility separately; do not substitute by equal mass."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "applications",
+          "heading": "Application selection",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Topical formulation development; oral and medicinal uses need separate assessment."
+            }
+          ]
+        },
+        {
+          "id": "formulations",
+          "heading": "Three product development plans",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "These are pilot-development proposals. Ingredient roles, addition order and acceptance tests must be qualified in the final product."
+            }
+          ]
+        },
+        {
+          "id": "processes",
+          "heading": "Extraction of Centella asiatica: solvent choice and triterpenoid profile",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The extraction route should follow the intended Centella ingredient. A broad leaf extract, a glycoside-rich fraction and an isolated triterpenoid do not have the same composition. Track asiaticoside and madecassoside separately from asiatic acid and madecassic acid when comparing solvents and purification steps. A higher crude-extract yield does not by itself mean a higher recovery of every marker; laboratory extraction conditions are not finished-product specifications.[4][19]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Broad extracts begin with authenticated leaves or aerial parts, controlled drying and milling, solvent contact, solid–liquid separation and concentration. The extraction vessel controls wetting, temperature and contact time; a centrifuge or filter removes tissue. Finer milling can accelerate release but increase fines and filtration resistance. Solvent selection must follow the desired glycoside/aglycone profile.[19]"
+            },
+            {
+              "type": "paragraph",
+              "text": "For refined fractions, follow individual markers through decolourization, adsorption, washing and elution. A paler powder is not necessarily a higher-recovery product. Enrichment changes component proportions by separation; hydrolysis changes molecular identity by cleaving glycosides. Do not describe a converted triterpenoid fraction as merely a stronger version of the original leaf extract.[4][11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "For liquid cosmetic ingredients, solvent exchange and dilution are part of ingredient preparation. When alcohol is removed, a previously clear extract can precipitate. Map the workable solvent composition and temperature before setting a concentrated liquid specification. Record native extract, glycol or glycerol, water, preservatives and all four markers so the formulation team can calculate the contribution of the supplied liquid."
+            },
+            {
+              "type": "paragraph",
+              "text": "For a dry powder, concentration and drying must retain the intended profile while producing manageable moisture and flow. Drying equipment is selected around this material requirement. The cited two-gram study evaluates an ultrasonic extraction step; drying and finished-product manufacture require separate process development.[19]"
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "Quality and safety",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "A useful certificate identifies plant part, extraction solvent, native extract and carrier, and reports individual asiaticoside, madecassoside, asiatic acid and madecassic acid. Where the purification route can retain terminoloside, the method must distinguish it rather than assigning a nearby peak automatically to madecassoside. The Bayer disclosure specifically treats terminoloside as a separate component.[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Release criteria should also cover relevant solvent residues, microbial quality, pesticides and elemental contaminants. Test assay recovery in the finished formula, not only in the incoming powder. For suspected precipitation, compare supernatant and sediment composition after a controlled separation; a uniform photograph cannot distinguish dissolved molecules from a temporary suspension."
+            }
+          ]
+        },
+        {
+          "id": "faq",
+          "heading": "Practical questions",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Which markers should a Centella formulation track?"
+            },
+            {
+              "type": "paragraph",
+              "text": "Track asiaticoside, madecassoside, asiatic acid and madecassic acid. For selective fractions, resolve terminoloside separately from madecassoside.[11][19]"
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "Research cases",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The 2024 primary study used authenticated mature leaves collected in Faisalabad, Pakistan, in March 2023. Shade-dried leaf powder was extracted at 2 g in 50 mL of each solvent in a 100 mL flask. The five solvents were chloroform, hexane, methanol, ethyl acetate and water. Ultrasound conditions were 40 kHz, 25°C and 15 minutes, with a stated theoretical input of 250 W; centrifugation, 0.22 μm filtration and rotary evaporation followed.[19]"
+            },
+            {
+              "type": "paragraph",
+              "text": "The methanol extract had reported madecassoside, asiaticoside, madecassic acid and asiatic acid values of 8.21, 7.82, 4.44 and 3.38 mg/g, respectively. These are that study’s analytical results, not proposed ingredient specifications. Ethanol was not tested. A water/ethanol process therefore requires its own recovery and compatibility study; changing the solvent name does not reproduce the experiment.[19]"
+            },
+            {
+              "type": "paragraph",
+              "text": "The useful comparison is solvent selectivity measured by four markers alongside phenolic and radical-scavenging assays. Gallic-acid-equivalent phenols and quercetin-equivalent flavonoids are assay equivalents, not isolated-compound mass. Neither those chemical assays nor the methanol result establishes skin efficacy or food suitability.[19]"
+            }
+          ]
+        },
+        {
+          "id": "patents",
+          "heading": "Relevant patents",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "US8486900B2"
+            },
+            {
+              "type": "paragraph",
+              "text": "US patent grant (B2). Original applicant/assignee: Bayer Consumer Care AG. Priority / filing / publication: 2002-12-10 / 2012-03-21 / 2013-07-16.[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Granted claim 1 concerns a method directed to premature skin ageing through a pharmaceutical or cosmetic composition containing a standardized Centella extract. It requires at least 75 wt% of madecassoside, terminoloside and asiaticoside and incorporates alcoholic extraction of aerial parts, anionic resin treatment, liquid–liquid defatting, concentration, cationic then anionic resins, alcohol stabilization and standardization using a second extract containing more than 95 wt% madecassoside plus terminoloside. These thresholds describe the claim, not a cream recipe.[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "The family illustrates selective glycoside recovery and the analytical separation of madecassoside and terminoloside within a defined skin-use method.[11]"
+            },
+            {
+              "type": "heading",
+              "text": "US10980851B2"
+            },
+            {
+              "type": "paragraph",
+              "text": "US patent grant (B2). Original applicant/assignee: Procter and Gamble Co. Priority / filing / publication: 2018-06-08 / 2018-06-08 / 2021-04-20.[12]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Granted claim 1 combines a Centella extract consisting essentially of about 20–60% asiaticoside and about 40–80% combined asiatic and madecassic acids, measured by extract weight, with oat extract, ceramide, a lipid-bilayer structurant, preservative and an oil-in-water carrier, each at its stated concentration.[12]"
+            },
+            {
+              "type": "paragraph",
+              "text": "This family concerns coordinated lipid structure, preservation and botanical composition, distinct from selective glycoside recovery.[12]"
+            }
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "id": "identity",
+          "heading": "原料身份",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "积雪草Centella asiatica，又称gotu kola，可制成化学组成不同的原料：叶或地上部提取物、精制三萜组分及分离单体。积雪草苷与羟基积雪草苷属于糖苷，积雪草酸与羟基积雪草酸则属于相应的苷元类型。总三萜相同，仍可能存在组分比例和配方表现的差异。[4][19]"
+            },
+            {
+              "type": "paragraph",
+              "text": "护肤开发应围绕最终精华液或乳液选择提取物，而不是只看植物名称。对于预制水／多元醇原料，应核对载体组成及已声明的防腐剂；富集干粉可能需要不同的溶剂或分散路线。传统食叶用途也不能证明精制化妆品原料适合加入饮料。[4]"
+            }
+          ]
+        },
+        {
+          "id": "effects",
+          "heading": "作用与人体研究",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "EMA于2022年的评估区分了切碎或粉末药材外用辅助小伤口愈合的传统用途，以及已确立的临床疗效。所评伤口研究出现获益趋势，但样本小、方法问题及提取物描述不完整，未能支持确立疗效的结论。因此，化妆品保湿产品需建立自身人体使用证据，不能把药材传统适应证移作精华液的伤口愈合宣称。[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "2017年一项系统综述评价了口服积雪草制剂对认知与情绪的影响，纳入5项积雪草单用随机试验和6项含积雪草复方试验，荟萃分析在各认知领域均未发现相较安慰剂的显著差异。警觉度与愤怒评分中的信号不能确立普遍的记忆改善效果，复方也无法确定积雪草的独立贡献。[16]"
+            },
+            {
+              "type": "paragraph",
+              "text": "EMA因潜在生育与肝脏安全问题，并考虑已有其他治疗选择，未把口服治疗用途纳入专论。这是药用评估，并不等同于全球食品禁令。外用产品仍需关注过敏性接触反应，包括其他配方成分引起的反应；敏感肌定位需要成品耐受性试验。[4]"
+            }
+          ]
+        },
+        {
+          "id": "components",
+          "heading": "积雪草苷、羟基积雪草苷及其苷元",
+          "blocks": [
+            {
+              "type": "table",
+              "headers": [
+                "形态",
+                "组成",
+                "对配方的影响"
+              ],
+              "rows": [
+                [
+                  "广谱叶／地上部提取物",
+                  "可被溶剂提取的三萜及其他成分。[4][19]",
+                  "颜色、气味和非目标固形物可能决定精华外观。"
+                ],
+                [
+                  "水／多元醇预制液",
+                  "原生提取物稀释于明确载体。",
+                  "按原生提取物和标志成分计算，不按整份溶液质量计算。"
+                ],
+                [
+                  "精制三萜组分",
+                  "组成明确的混合物，可能经过转化或选择性纯化。[4][11]",
+                  "分别规定各标志物；总三萜不能证明与TECA／TTFCA等同。"
+                ],
+                [
+                  "分离糖苷或苷元",
+                  "羟基积雪草苷、积雪草苷或明确酸类，并非全提取物。[4][19]",
+                  "独立确认身份、纯度与溶解性，不能按等质量替换。"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "applications",
+          "heading": "应用选择",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "外用配方开发；口服和药用须分别评价。"
+            }
+          ]
+        },
+        {
+          "id": "formulations",
+          "heading": "三个终端产品配伍方案",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "以下为中试开发方案。原料作用、加入顺序与验收测试需在终端产品中验证。"
+            }
+          ]
+        },
+        {
+          "id": "processes",
+          "heading": "积雪草提取工艺：溶剂选择与三萜组成",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "积雪草的提取路线应服务于明确的原料目标。广谱叶提取物、糖苷富集组分和分离三萜单体的组成不同。比较溶剂与纯化步骤时，应把积雪草苷、羟基积雪草苷与积雪草酸、羟基积雪草酸分别追踪。粗提率升高不代表每一种标志物的回收率都提高，实验室的提取条件也不是成品原料规格。[4][19]"
+            },
+            {
+              "type": "paragraph",
+              "text": "广谱提取物从鉴定后的叶或地上部出发，经过受控干燥粉碎、溶剂接触、固液分离和浓缩。提取容器控制润湿、温度及接触时间，离心或过滤移除组织。更细粉碎可能加快释放，也会增加细粉与过滤阻力。溶剂选择应围绕目标糖苷／苷元比例展开。[19]"
+            },
+            {
+              "type": "paragraph",
+              "text": "精制组分应在脱色、吸附、洗涤和洗脱各阶段跟踪单个标志物。更浅的粉体不一定代表更好的回收。富集通过分离改变组分比例，水解则通过切断糖苷改变分子身份。经过转化的三萜组分不能仅称为原始叶提取物的更高浓度版本。[4][11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "液体化妆品原料的溶剂置换与稀释属于原料制备。除醇后，原本澄清的提取液可能出现析出。应在制定浓缩液规格前建立可用溶剂组成和温度范围，并记录原生提取物、多元醇或甘油、水、防腐剂及四标志物，让配方人员能计算供应液的实际贡献。"
+            },
+            {
+              "type": "paragraph",
+              "text": "干粉需在浓缩干燥中保留目标组成，同时形成可管理的水分与流动性；干燥设备围绕这些物料要求选择。所引两克级研究评价了超声提取步骤；干燥与终端产品制造需另行开发工艺。[19]"
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "质量与安全",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "实用的检验资料应写明植物部位、提取溶剂、原生提取物与载体，并分别报告积雪草苷、羟基积雪草苷、积雪草酸和羟基积雪草酸。若纯化路线可能保留terminoloside，方法需能区分它，不能把邻近峰自动归为羟基积雪草苷。Bayer披露明确将terminoloside作为独立组分处理。[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "放行标准还应覆盖相关溶剂残留、微生物、农残和元素污染。含量回收应在终端配方中验证，而非只测进厂粉体。怀疑析出时，可受控分离并比较上清液与沉淀组成；外观均匀的照片无法区分分子溶解和暂时悬浮。"
+            }
+          ]
+        },
+        {
+          "id": "faq",
+          "heading": "实用问答",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "积雪草配方应跟踪哪些标志物？"
+            },
+            {
+              "type": "paragraph",
+              "text": "跟踪积雪草苷、羟基积雪草苷、积雪草酸与羟基积雪草酸；选择性组分还应将terminoloside与羟基积雪草苷分开测定。[11][19]"
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "研究案例",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "2024年原始研究采用2023年3月在巴基斯坦费萨拉巴德采集并鉴定的成熟叶。阴干叶粉每份2 g，在100 mL烧瓶中加入50 mL溶剂；五种溶剂为氯仿、正己烷、甲醇、乙酸乙酯及水。超声为40 kHz、25°C和15分钟，标示理论输入功率250 W，后续采用离心、0.22 μm过滤及旋转蒸发。[19]"
+            },
+            {
+              "type": "paragraph",
+              "text": "甲醇提取物中，羟基积雪草苷、积雪草苷、羟基积雪草酸和积雪草酸报告值依次为8.21、7.82、4.44和3.38 mg/g。这些是该研究的分析结果，并非拟定原料规格。实验没有测试乙醇，因此水／乙醇工艺需另行评价回收与相容性，不能通过替换溶剂名称来声称复现研究。[19]"
+            },
+            {
+              "type": "paragraph",
+              "text": "该比较的实用价值在于结合四标志物、总酚和自由基试验观察溶剂选择性。没食子酸当量总酚与槲皮素当量黄酮是检测当量，不是分离化合物质量。化学试验和甲醇结果都不能确立皮肤功效或食品适用性。[19]"
+            }
+          ]
+        },
+        {
+          "id": "patents",
+          "heading": "相关专利",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "US8486900B2"
+            },
+            {
+              "type": "paragraph",
+              "text": "美国授权专利（B2）. 原始申请人／受让人: Bayer Consumer Care AG. 优先权日／申请日／公开日: 2002-12-10 / 2012-03-21 / 2013-07-16.[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "授权权利要求1涉及通过药物或化妆品组合物作用于皮肤过早老化的方法，其中含标准化积雪草提取物。它要求羟基积雪草苷、terminoloside及积雪草苷合计至少75 wt%，并纳入地上部醇提、阴离子树脂处理、液液脱脂、浓缩、阳离子再阴离子树脂处理、醇稳定化，以及使用羟基积雪草苷加terminoloside超过95 wt%的第二提取物进行标准化。这些阈值描述权利要求，不是面霜配方。[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "该家族展示了特定皮肤用途方法中的选择性糖苷回收，以及羟基积雪草苷与terminoloside的分析分离。[11]"
+            },
+            {
+              "type": "heading",
+              "text": "US10980851B2"
+            },
+            {
+              "type": "paragraph",
+              "text": "美国授权专利（B2）. 原始申请人／受让人: Procter and Gamble Co. 优先权日／申请日／公开日: 2018-06-08 / 2018-06-08 / 2021-04-20.[12]"
+            },
+            {
+              "type": "paragraph",
+              "text": "授权权利要求1组合了主要由约20–60%积雪草苷及约40–80%积雪草酸与羟基积雪草酸混合物构成的积雪草提取物（均按提取物质量计），以及燕麦提取物、神经酰胺、脂质双层结构成分、防腐剂和水包油载体，各有规定浓度。[12]"
+            },
+            {
+              "type": "paragraph",
+              "text": "该家族涉及脂质结构、防腐和植物组成的配合设计，与选择性糖苷回收技术不同。[12]"
+            }
+          ]
+        }
+      ]
+    },
+    "plans": [
+      {
+        "id": "hydrating-serum",
+        "title": {
+          "en": "Centella humectant serum",
+          "zh": "积雪草保湿精华"
+        },
+        "content": {
+          "en": [
+            {
+              "type": "paragraph",
+              "text": "Combine a composition-defined water/glycol Centella ingredient with glycerol, panthenol and a compatible gel former. Glycerol and panthenol contribute humectant functionality; the polymer sets flow and skin feel. Centella is the botanical component, not a substitute for the preservation system."
+            },
+            {
+              "type": "paragraph",
+              "text": "Prewet the polymer if its grade requires it, hydrate in the water phase, and dissolve the compatible humectants separately. Dilute the Centella ingredient into a small part of the base, add under moderate mixing, then set final pH and viscosity. Introduce the preservative according to its temperature and pH requirements rather than assuming the incoming extract preserves the batch."
+            },
+            {
+              "type": "paragraph",
+              "text": "Look for cold-storage crystals, delayed haze, stringiness and colour drift. Assay the four triterpenoid markers in the prepared serum and examine any sediment. Follow with preservative-challenge and package-compatibility testing, then a human-use assessment of the specific comfort or hydration claim. Solvent selectivity in the extraction study explains why total extract concentration alone is an inadequate compatibility guide.[19]"
+            }
+          ],
+          "zh": [
+            {
+              "type": "paragraph",
+              "text": "组成明确的水／多元醇积雪草原料配合甘油、泛醇及相容成胶剂。甘油与泛醇承担保湿功能，聚合物控制流动与肤感；积雪草是植物组分，不能代替防腐体系。"
+            },
+            {
+              "type": "paragraph",
+              "text": "按牌号要求预润湿聚合物，在水相充分水化，并另行溶解相容保湿剂。用少量基底稀释积雪草原料，再以适度搅拌加入，最后确定pH与黏度。防腐剂按自身温度和pH要求加入，不假定原料所含防腐剂能够保护整批。"
+            },
+            {
+              "type": "paragraph",
+              "text": "检查冷藏结晶、延迟浑浊、拉丝和颜色漂移；在精华成品中测定四种三萜标志物，并分析沉淀。随后进行防腐挑战、包装相容性试验，以及针对具体舒适度或保湿宣称的人体使用评价。提取研究中的溶剂选择性说明，单看总提取物浓度不足以判断相容性。[19]"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/landscape/centella-asiatica/hydrating-serum.webp",
+          "width": 768,
+          "height": 512,
+          "alt": {
+            "en": "Centella serum with a clear gel sample and fresh leaves.",
+            "zh": "积雪草精华、透明凝胶样品与鲜叶。"
+          },
+          "caption": {
+            "en": "Centella serum with a clear gel sample and fresh leaves.",
+            "zh": "积雪草精华、透明凝胶样品与鲜叶。"
+          }
+        }
+      },
+      {
+        "id": "lipid-cream",
+        "title": {
+          "en": "Centella oat and ceramide cream",
+          "zh": "积雪草燕麦神经酰胺面霜"
+        },
+        "content": {
+          "en": [
+            {
+              "type": "paragraph",
+              "text": "Pair a characterized Centella fraction with an oat ingredient, a ceramide preparation and an oil-in-water cream base. The lipid system supplies emollience and structure; oat and Centella are distinct botanical components. A published patent specifically combines selected Centella triterpenes, oat, ceramide and a lipid-bilayer structurant, providing a formulation precedent rather than clinical proof for any new cream.[12]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Prepare the oil phase and the hydrated aqueous phase separately. Incorporate the ceramide preparation in the phase specified for its actual commercial form, emulsify, then cool under controlled mixing. Add a compatible pre-dissolved Centella ingredient at a temperature supported by its stability data. Oat oil belongs in the oil phase; colloidal oatmeal and water-based oat extracts cannot be treated as the same ingredient."
+            },
+            {
+              "type": "paragraph",
+              "text": "Evaluate emulsion droplet growth, separation, graininess and crystallization through heating/cooling cycles and storage. Track viscosity recovery after shear, four-marker recovery, preservative efficacy and package dispensing. Compare with the same cream base without Centella to distinguish a botanical contribution from the moisturization provided by the base."
+            }
+          ],
+          "zh": [
+            {
+              "type": "paragraph",
+              "text": "经表征的积雪草组分配合燕麦原料、神经酰胺制剂与水包油霜基。脂质体系提供润肤性和结构，燕麦与积雪草分别承担植物组分角色。已有专利明确组合精选积雪草三萜、燕麦、神经酰胺及脂质双层结构成分，可作为配方技术参考，而非任意新面霜的临床证明。[12]"
+            },
+            {
+              "type": "paragraph",
+              "text": "分别准备油相与已水化水相。按实际商品形态将神经酰胺制剂加入适合的相，乳化后受控搅拌降温。在稳定性数据支持的温度下加入已预溶、相容的积雪草原料。燕麦油应进入油相，胶体燕麦粉和水性燕麦提取物不能按同一原料处理。"
+            },
+            {
+              "type": "paragraph",
+              "text": "通过冷热循环和储存评价乳滴增长、分层、颗粒感及结晶。跟踪剪切后黏度恢复、四标志物回收、防腐效力和包装出料。设置不含积雪草的同基底对照，区分植物组分作用与霜基本身提供的保湿效果。"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/landscape/centella-asiatica/lipid-cream.webp",
+          "width": 768,
+          "height": 512,
+          "alt": {
+            "en": "Centella cream with oats and a rich white cream texture.",
+            "zh": "积雪草面霜、燕麦与丰润白色霜体。"
+          },
+          "caption": {
+            "en": "Centella cream with oats and a rich white cream texture.",
+            "zh": "积雪草面霜、燕麦与丰润白色霜体。"
+          }
+        }
+      },
+      {
+        "id": "washable-gel",
+        "title": {
+          "en": "Centella rinse-off gel mask",
+          "zh": "积雪草水洗凝胶面膜"
+        },
+        "content": {
+          "en": [
+            {
+              "type": "paragraph",
+              "text": "Combine a compatible broad Centella liquid extract with glycerol and a washable hydrocolloid gel base. A slightly botanical tint can be acceptable here, reducing the need to select a highly purified fraction merely for a colourless appearance. Glycerol contributes humectancy, while the gel controls spread and contact during use."
+            },
+            {
+              "type": "paragraph",
+              "text": "Hydrate the gel former fully before adding the extract. Introduce the extract as a diluted premix, then adjust pH and final solids while checking gel strength. Deaerate gently and fill in a package suited to repeated wet-hand use or a single-use format. Keep the preservation system designed for the finished water-rich mask."
+            },
+            {
+              "type": "paragraph",
+              "text": "Test spreading, rinse-off residue, tack, syneresis and viscosity after storage. Confirm microbial robustness and recovery of the intended markers, and assess skin tolerance under the actual contact-and-rinse protocol. Do not use minor-wound medicinal evidence to support use on damaged skin.[4]"
+            }
+          ],
+          "zh": [
+            {
+              "type": "paragraph",
+              "text": "相容的广谱积雪草液体提取物配合甘油与可水洗亲水胶体基底。此类产品可接受轻微植物色泽，不必仅为无色外观选择高纯组分。甘油提供保湿作用，凝胶控制使用时的铺展与接触。"
+            },
+            {
+              "type": "paragraph",
+              "text": "先让成胶剂充分水化，再加入提取物。将提取物稀释预混后加入，调整pH和最终固形物时同步检查凝胶强度。温和脱气，并选用适合反复湿手操作的包装或单次包装。防腐体系按最终高含水面膜设计。"
+            },
+            {
+              "type": "paragraph",
+              "text": "检测铺展、水洗残留、黏感、析水和储存黏度，确认微生物防护与目标标志物回收，并按实际接触和冲洗流程评价皮肤耐受性。不能用小伤口药用证据支持在受损皮肤上的使用。[4]"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/landscape/centella-asiatica/washable-gel.webp",
+          "width": 768,
+          "height": 512,
+          "alt": {
+            "en": "Centella rinse-off gel mask with a gel applicator.",
+            "zh": "积雪草水洗凝胶面膜与凝胶取用工具。"
+          },
+          "caption": {
+            "en": "Centella rinse-off gel mask with a gel applicator.",
+            "zh": "积雪草水洗凝胶面膜与凝胶取用工具。"
+          }
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": 4,
+        "title": "EMA assessment report: Centella asiatica herba (2022)",
+        "url": "https://www.ema.europa.eu/en/documents/herbal-report/assessment-report-centella-asiatica-l-urb-herba-revision-1_en.pdf",
+        "accessed": "2026-09-11"
+      },
+      {
+        "id": 11,
+        "title": "US8486900B2 - Method for preparing a Centella asiatica extract rich in madecassoside and in terminoloside",
+        "url": "https://patents.google.com/patent/US8486900B2/en",
+        "accessed": "2026-09-11"
+      },
+      {
+        "id": 12,
+        "title": "US10980851B2 - Topical skincare compositions comprising Centella asiatica selected triterpenes",
+        "url": "https://patents.google.com/patent/US10980851B2/en",
+        "accessed": "2026-09-11"
+      },
+      {
+        "id": 16,
+        "title": "Effects of Centella asiatica (L.) Urb. on cognitive function and mood related outcomes: A Systematic Review and Meta-analysis | Scientific Reports",
+        "url": "https://doi.org/10.1038/s41598-017-09823-9",
+        "accessed": "2026-09-11"
+      },
+      {
+        "id": 19,
+        "title": "Centella extraction primary full text",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11490722/fullTextXML",
+        "accessed": "2026-09-11"
+      }
+    ]
+  }
+]

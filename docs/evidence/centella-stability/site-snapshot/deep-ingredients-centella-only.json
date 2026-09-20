@@ -1,0 +1,399 @@
+[
+  {
+    "productId": "centella-asiatica",
+    "group": "a",
+    "pack": "group-a/centella.md",
+    "content": {
+      "zh": [
+        {
+          "id": "processes",
+          "heading": "工艺：不是把所有积雪草都做成“高纯积雪草苷”",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "1.1 先把原料语言说准确"
+            },
+            {
+              "type": "paragraph",
+              "text": "积雪草的四个常用三萜标志物为积雪草苷（asiaticoside）、羟基积雪草苷（madecassoside）、积雪草酸（asiatic acid）和羟基积雪草酸（madecassic acid）。前两者为糖苷，后两者为对应苷元；EMA指出其比例受到地理来源、遗传、环境和生长条件影响。因此，“总三萜相同”并不表示四种成分分布相同。[4] 中文“积雪草提取物”“积雪草苷”和“羟基积雪草苷”也不能相互代称。"
+            },
+            {
+              "type": "paragraph",
+              "text": "2024年原始研究使用2023年3月在巴基斯坦农业研究机构采集、经植物学鉴定并保存凭证标本的成熟叶片。叶片清洗、阴干至恒重、实验室粉碎，每份2 g与50 mL溶剂置于100 mL烧瓶中；五种溶剂是水、甲醇、正己烷、氯仿和乙酸乙酯，不包括乙醇。超声条件为40 kHz、25°C、15分钟，设备理论输入功率250 W，水浴调温；随后离心、0.22 μm PTFE膜过滤、旋转蒸发浓缩，并在4°C存放待分析。[3] 这是一项小样本量级的分析型提取比较，不能把“甲醇组含量最高”改写成食品或化妆品生产应采用甲醇的建议。"
+            },
+            {
+              "type": "heading",
+              "text": "1.2 可实施研究的流程（工程建议）"
+            },
+            {
+              "type": "paragraph",
+              "text": "**植物与部位鉴别 → 批次四标志物基线 → 清理/受控干燥 → 分级粉碎 → 水或合适含水乙醇体系筛选 → 固液分离 → 去除不需要的色素/胶体 → 可选三萜分级富集 → 减压回收溶剂 → 干燥或溶液化 → 按四标志物与载体组成标准化。** 这条路线综合原始实验的单元操作和EMA区分的不同制备物；含水乙醇优化、商业富集及连续设备属于拟议开发内容，并非本研究直接验证。[3][4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "进料时要把叶、地上部分和整株带根材料分开。EMA转述的欧洲药典药材定义是干燥、切碎的地上部分，而上述原始实验仅研究叶片。[3][4] 工程建议采购单同时写植物名、部位与干燥历史，否则同一个英文“herb extract”可能对应不同原料边界。清洗目的是移走泥沙与外来物；洗后延迟干燥会增加湿料停留和微生物控制负担。粉碎需要兼顾浸润和后段过滤，不能为了短时提取率把全部组织变成难以澄清的细泥。"
+            },
+            {
+              "type": "paragraph",
+              "text": "提取时，糖苷与苷元的溶剂偏好并不一致，选择路线应围绕目标四峰比例，而不是只测总酚或颜色。原始研究发现不同溶剂产生不同三萜含量，甲醇组报告羟基积雪草苷8.21 mg/g、积雪草苷7.82 mg/g、羟基积雪草酸4.44 mg/g、积雪草酸3.38 mg/g；这些是论文的提取物分析结果，不是推荐的商业规格。[3] 工程上应另设适用于目标用途的水/乙醇试验，比较不同含水量下的四峰回收与杂质负担，不把甲醇数据线性换算成乙醇性能。"
+            },
+            {
+              "type": "paragraph",
+              "text": "固液分离主要去除叶片组织，后续澄清则处理残余细粉和胶体；这两步可能让外观改善，但不能证明已形成“高纯三萜”。若产品需要浅色、低气味且高含量的三萜组分，工程建议在吸附或其他分级过程中同时检测目标峰与色泽：色素去掉的同时，目标物也可能进入弃液。对每段洗液、洗脱液和再生液取样，确认究竟是纯度提高还是总量大量损失。"
+            },
+            {
+              "type": "paragraph",
+              "text": "富集与水解必须在文件中区分。富集是通过分配或吸附等方式改变组分比例；水解则切断糖苷键，使糖苷向苷元转化，改变材料身份和分子量。EMA所讨论的TECA/TTFCA等特定精制组分与普通药材提取液有明确组成差异，并非所有商品“总三萜”都与其相同。[4] 工程建议避免把未经说明的酸碱处理包装成“纯化升级”。若确有转化步骤，原料、产物、残留、质量衡算和方法都应重新定义。"
+            },
+            {
+              "type": "paragraph",
+              "text": "浓缩是除去溶剂，不是最后一次“万能纯化”。工程建议监控溶剂比例、四峰保留、温热停留及是否出现析出；因为乙醇逐渐减少时，原本稳定的混合物可能出现相态变化。与其在干燥前临时提高温度重新溶解，不如先在小试中建立浓度、溶剂组成与储存温度的相容区间。要制成甘油/二醇型液体原料时，应报告溶剂与防腐组成、原生提取物含量和四标志物浓度，不能把整个溶液重量都算作积雪草提取物。"
+            },
+            {
+              "type": "heading",
+              "text": "1.3 路线比较表"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "路线",
+                "目标产品",
+                "证据与物料边界",
+                "关键取舍/失败模式（工程分析）"
+              ],
+              "rows": [
+                [
+                  "水提宽谱组分",
+                  "植物风格、保留较多水可提取成分的原料",
+                  "原始研究有超声水提叶片组；EMA讨论水提物[3][4]",
+                  "外观和基质负担可能较大；水提不等于无微生物风险，也不等于苷元全回收"
+                ],
+                [
+                  "含水乙醇筛选",
+                  "兼顾糖苷/苷元、便于进一步分级的候选",
+                  "EMA记载醇提制备物；2024五溶剂实验未测试乙醇[3][4]",
+                  "必须另行优化，增加溶剂回收和残留检测；不能宣称已证明最优"
+                ],
+                [
+                  "超声强化",
+                  "缩短传质路径的候选工具",
+                  "2 g/50 mL、40 kHz、25°C、15 min实验[3]",
+                  "铭牌250 W不等于料液吸收250 W；放大可能声场不均、升温和乳化"
+                ],
+                [
+                  "精制三萜组分",
+                  "组成明确、与特定研究材料可比较的候选",
+                  "EMA区分TECA/TTFCA等精制材料[4]",
+                  "不能只按“总三萜”把不同四峰比例认作等效；会损失部分宽谱组分"
+                ],
+                [
+                  "单一糖苷或苷元",
+                  "分离单体、研究或特定配方",
+                  "不等同于普通积雪草提取物[4]",
+                  "分离难度、溶解和法规身份均需按单体处理；不可借整草传统使用自动背书"
+                ]
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "1.4 三个容易忽视的工艺失败"
+            },
+            {
+              "type": "paragraph",
+              "text": "工程建议：第一，进料总三萜合格但糖苷比例漂移，成品在原先溶剂体系中析出，因此应把四峰分布作为批次趋势而非只保留总数。第二，脱色过程中出现优良白度但三萜回收显著下降，此时每公斤粉的售价可能增加、每公斤目标物的成本反而恶化。第三，干粉入水短时“分散均匀”被误判为完全溶解，随后低温返晶或沉淀。用显微观察、离心后上清含量和储藏后沉渣鉴别这三种状态，比单张溶液照片更有用。"
+            }
+          ]
+        },
+        {
+          "id": "equipment",
+          "heading": "设备：超声不是唯一主角",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "原始实验的设备链包括实验室粉碎机、带水浴调温的超声装置、离心分离、PTFE膜、旋转蒸发器和HPLC；其中0.22 μm过滤用于研究样品处理，不能据此宣布商业提取物已经无菌。[3] 工业设备建议按目标物与物料状态分工：带夹套的搅拌罐保证湿润、悬浮与温度一致；离心或过滤设备卸掉叶渣；吸附柱若用于分级，其任务是选择性保留和洗脱，不是仅改变颜色。"
+            },
+            {
+              "type": "paragraph",
+              "text": "生产工程应在拟议吸附单元记录床体积、进料负荷、突破曲线、压差和再生后表现。若超声用于放大，需记录探头/换能器位置、循环路径、实际温升和单位处理体积的能耗，用处理均匀性解释结果，不能仅把实验室频率与功率抄入采购规格。醇提路线需要匹配溶剂的密封、通风、防火与冷凝回收设计；这些属于设备功能要求，不是本项目已经取得的工程认证。"
+            },
+            {
+              "type": "paragraph",
+              "text": "分析设备也必须匹配问题。原研究用C18梯度HPLC、206 nm检测四种三萜。[3] 工程建议因低波长检测对基质干扰敏感而检查空白、对照品、加标回收和峰分离；质谱可用于身份确认或异常峰研究，但不能弥补差的取样代表性。以气相方法控制需要监测的残留溶剂，以水分/水活度和微生物方法管理粉末与含水液体，两类成品不能使用完全相同的风险假设。"
+            }
+          ]
+        },
+        {
+          "id": "applications",
+          "heading": "应用：把“舒缓概念”变成真实配方开发",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "**透明精华/水凝胶。** 工程建议先选择明确的溶解目标：使用宽谱液体原料、富集糖苷组分还是单体，三者可带来不同颜色和基质负担。以实际pH、防腐体系、二醇比例及增稠剂测试低温、室温和升温储藏中的浑浊、析晶、黏度与四峰含量。若提高助溶剂使料液变清，还要确认肤感与防腐表现没有被破坏；“透明”不是可替代稳定性的放行指标。"
+            },
+            {
+              "type": "paragraph",
+              "text": "**乳霜与乳液。** 工程建议比较预溶于适当相、冷却阶段加入与直接分散的差别，检查离心稳定性、冻融、颜色及涂抹后的颗粒感。苷元比例较高的材料不应未经验证就按富糖苷液体的加入方法处理。若为高浓度单体设计输送系统，应评价实际分散状态和释放，而不是将纳米或脂质体名称本身当作功效证据。品牌可围绕已完成的皮肤使用体验、配方保湿/舒适性测试沟通；论文里的创伤模型不直接等于日常护肤品的“修复创伤”许可。"
+            },
+            {
+              "type": "paragraph",
+              "text": "**口服或药用开发。** EMA讨论了不同研究材料及传统外用边界，并没有把所有口服积雪草提取物统一认定为疗效已确证的药物。[4] 研发应将目标制备物的组成、剂型、给药途径和剂量与研究一一匹配。一个含TECA的研究不能为另一个只标“10:1”、不知四峰比例的饮料提供同等证据。含水植物液体还需要防腐有效性与包装相容性等实际开发数据；“天然植物来源”不能代替微生物设计。"
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "标准：药材限度、特定精制组分和化妆品宣称不可混写",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "EMA 2022年评估报告引述欧洲药典第10版1498项：干燥、切碎地上部分的总三萜衍生物至少6%，以积雪草苷计。这里是**该药材定义与当时版本的计量方式**，不是“任何积雪草提取物须含6%积雪草苷”，更不意味着每个单体都达到6%；本研究未直接访问当前药典专论全文。[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "报告描述TECA/TTFCA文献材料含约40%积雪草苷和60%苷元，后者常报告为积雪草酸与羟基积雪草酸各30%；其他总三萜组分的酸比例不一定同样清楚。[4] 采购时应先比组成和检测口径，再比较总含量与价格。药材的“以积雪草苷计”数值、四种化合物直接相加的质量分数和某个精制材料的配比，不能不经解释就放进同一列。"
+            },
+            {
+              "type": "paragraph",
+              "text": "欧盟草药评估所讨论的传统使用边界是地上部分粉末或浸泡液外用，辅助小创口愈合；高度精制组分和已有药品另有监管背景。报告不等于任何化妆品可作伤口治疗宣称，也不是食品使用许可。[4] 在欧盟化妆品、中国化妆品、美国补充剂或其他产品类别中，采购和QA需要分别建立身份、允许使用方式与宣称依据，本文不把一个市场的药材历史外推为所有市场的准入结论。"
+            },
+            {
+              "type": "paragraph",
+              "text": "工程规格建议记录拉丁名与部位、提取溶剂、原生提取物比例、载体、防腐剂、四标志物上下限及色谱指纹；同时基于种植/采收风险设置农残、元素杂质、微生物和相关残留溶剂项目。液体材料按每克原料溶液与每克干提取物各提供必要含量换算，避免研发错误放大剂量。对高纯单体，身份、相关物质与实际溶解能力比宽泛“草本指纹”更关键。"
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "研究：原始实验能回答什么，不能回答什么",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "原始论文通过五种溶剂下的超声叶片提取比较总酚、总黄酮、化学抗氧化测试及四种三萜。甲醇组在作者测定体系中表现较高，提供的是溶剂选择性和分析回收的线索；它没有比较乙醇，没有人体试验，也没有证明某个化妆品配方的皮肤效果。[3] 其高总黄酮结果以槲皮素当量表达，不能把“mg QE/g”写成同样质量的纯黄酮；总酚的没食子酸当量也不同于四种三萜的HPLC质量定量。[3]"
+            },
+            {
+              "type": "paragraph",
+              "text": "EMA汇总了体外、动物和临床研究，并区分制备物；因此它适合用于追踪材料边界和选择原始临床文献，不宜把全部列出的研究终点拼成普通积雪草粉的功效清单。[4] 下一轮研发建议先解决化学可比性：同批四峰定量、指纹、载体和配方中真实浓度；再按目标用途选择稳定性、皮肤相容性或人体使用研究。若终产品与研究材料不一致，先建立桥接证据，而不是用“同一种植物”跳过桥接。"
+            },
+            {
+              "type": "heading",
+              "text": "五角色交付物（工程建议）"
+            },
+            {
+              "type": "list",
+              "items": [
+                "**研发：** 四标志物比例与真实剂型的溶解/分散地图，记录加料顺序和储存后析晶。",
+                "**生产工程：** 从进料到弃液的四峰质量衡算、过滤性和溶剂切换期间的相态记录。",
+                "**采购：** 明确叶/地上部分、原生提取物与载体、溶剂和批次四峰报告，不只询问提取倍数。",
+                "**QA：** 分开药材计量、总三萜求和与单体含量，验证低波长色谱的专属性并管理相关残留。",
+                "**品牌：** 准确区分积雪草提取物、积雪草苷和羟基积雪草苷；以实际配方及人体使用证据表达舒适性，不把细胞实验或草药传统使用写成已验证的成品疗效。"
+              ]
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "id": "processes",
+          "heading": "Processing: not every Centella material should become high-purity asiaticoside",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "1.1 Get the material language right"
+            },
+            {
+              "type": "paragraph",
+              "text": "Four common Centella triterpenoid markers are asiaticoside, madecassoside, asiatic acid and madecassic acid. The first two are glycosides and the latter two their corresponding aglycones. EMA notes variation with geography, genetics, environment and growth conditions: equal total triterpenoids does not mean equal distribution of the four compounds.[4] Centella extract, asiaticoside and madecassoside are not interchangeable ingredient names."
+            },
+            {
+              "type": "paragraph",
+              "text": "The 2024 primary study used mature leaves collected at a Pakistani agricultural research institute in March 2023, authenticated botanically with a deposited voucher. Leaves were washed, shade-dried to constant mass and milled. Each 2 g portion was combined with 50 mL solvent in a 100 mL flask. The five solvents were water, methanol, n-hexane, chloroform and ethyl acetate—not ethanol. Ultrasound treatment used 40 kHz, 25°C and 15 minutes, with a stated theoretical input of 250 W and a water bath for temperature control. Samples were centrifuged, filtered through 0.22 μm PTFE, rotary-evaporated and stored at 4°C for analysis.[3] This is small-scale analytical extraction research; the best methanol result is not a recommendation to manufacture a food or cosmetic ingredient with methanol."
+            },
+            {
+              "type": "heading",
+              "text": "1.2 A development flow — engineering proposal"
+            },
+            {
+              "type": "paragraph",
+              "text": "**Species/part identification → four-marker batch baseline → cleaning/controlled drying → classified milling → water or suitable aqueous-ethanol screening → solid–liquid separation → unwanted pigment/colloid removal → optional triterpenoid fractionation → vacuum solvent recovery → drying or solution preparation → standardisation by four markers and carrier composition.** The flow combines unit operations in the primary experiment with EMA's distinctions among preparations. Aqueous-ethanol optimisation, commercial enrichment and continuous equipment are proposed development work, not directly validated by that experiment.[3][4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Separate leaf, aerial-part and root-containing whole-plant feedstocks. The pharmacopoeial herbal substance quoted by EMA is dried, fragmented aerial parts, whereas the primary experiment used leaves alone.[3][4] Procurement should specify species, part and drying history; “herb extract” can otherwise conceal different feed boundaries. Washing removes soil and foreign matter, but delayed drying increases wet holding and the microbiological-control burden. Milling should balance penetration with filtration rather than turn all tissue into difficult-to-clarify fines for a short extraction-time advantage."
+            },
+            {
+              "type": "paragraph",
+              "text": "Glycosides and aglycones have different solvent preferences, so select a route around the four-peak target rather than total phenols or colour alone. The primary study found different triterpenoid levels across solvents. Its methanol extract was reported at 8.21 mg/g madecassoside, 7.82 mg/g asiaticoside, 4.44 mg/g madecassic acid and 3.38 mg/g asiatic acid. These are the paper's extract-analysis results, not recommended commercial specifications.[3] Develop a separate water/ethanol screen suitable for the intended use, comparing four-marker recovery and co-extractive burden at different water fractions; do not linearly convert methanol performance into ethanol performance."
+            },
+            {
+              "type": "paragraph",
+              "text": "Solid–liquid separation removes leaf tissue; clarification addresses residual fines and colloids. Better appearance does not establish high triterpenoid purity. If a pale, low-odour, enriched fraction is required, assay target peaks and colour throughout adsorption or another fractionation scheme. Pigment removal can also discard target compounds. Sample washes, eluates and regeneration streams to distinguish enrichment from substantial total loss."
+            },
+            {
+              "type": "paragraph",
+              "text": "Document enrichment separately from hydrolysis. Enrichment changes proportions through partitioning or adsorption; hydrolysis cleaves glycosidic bonds, converting glycosides towards aglycones and changing molecular identity and mass. EMA's TECA/TTFCA preparations have defined compositional differences from ordinary herbal extracts; not every commercial total-triterpenoid material is equivalent.[4] Do not describe an undisclosed acid/base conversion as merely upgraded purification. If transformation is intentional, redefine feed, products, residues, balances and methods."
+            },
+            {
+              "type": "paragraph",
+              "text": "Concentration removes solvent; it is not universal final purification. Monitor solvent composition, four-marker retention, warm holding and precipitation. A mixture can change phase as ethanol is removed. Establish a concentration–solvent–storage-temperature compatibility region at bench scale rather than repeatedly heating precipitated concentrate before drying. For glycerol/glycol-based liquid ingredients, report solvent, preservative, native extract and four-marker composition; the entire solution mass is not Centella extract."
+            },
+            {
+              "type": "heading",
+              "text": "1.3 Route comparison"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Route",
+                "Target",
+                "Evidence and material boundary",
+                "Trade-off/failure mode — engineering analysis"
+              ],
+              "rows": [
+                [
+                  "Broad water extract",
+                  "Botanical-style material retaining more water-extractable components",
+                  "Ultrasound water arm in the primary study; aqueous preparations discussed by EMA[3][4]",
+                  "Colour and matrix burden may be greater; water extraction is neither freedom from microbes nor complete aglycone recovery"
+                ],
+                [
+                  "Aqueous-ethanol screening",
+                  "Candidate balancing glycosides/aglycones for later fractionation",
+                  "Alcoholic preparations in EMA; ethanol absent from the five-solvent experiment[3][4]",
+                  "Requires separate optimisation, recovery and residue testing; no proven optimum may be claimed"
+                ],
+                [
+                  "Ultrasound intensification",
+                  "Candidate mass-transfer tool",
+                  "2 g/50 mL, 40 kHz, 25°C, 15 min[3]",
+                  "Rated 250 W is not necessarily power absorbed by the liquid; uneven fields, heating or emulsification can emerge on scale-up"
+                ],
+                [
+                  "Refined triterpenoid fraction",
+                  "Defined composition potentially comparable with a specific study material",
+                  "EMA distinguishes TECA/TTFCA and other refined materials[4]",
+                  "Equal totals cannot establish equivalence between different four-marker profiles; some broad-spectrum constituents are lost"
+                ],
+                [
+                  "Individual glycoside/aglycone",
+                  "Isolated compound for research or a specific formulation",
+                  "Not equivalent to ordinary Centella extract[4]",
+                  "Isolation, solubility and regulatory identity require compound-specific treatment; whole-herb tradition is not automatic support"
+                ]
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "1.4 Three overlooked process failures"
+            },
+            {
+              "type": "paragraph",
+              "text": "Engineering proposal: first, total triterpenoids pass but glycoside distribution drifts and the product precipitates in the established solvent system. Trend the four markers rather than only the total. Second, excellent whiteness after decolourisation accompanies poor triterpenoid recovery: price per kilogram of powder may rise while cost per kilogram of target worsens. Third, a briefly uniform aqueous dispersion is mistaken for dissolution, followed by cold-storage crystallisation or sediment. Microscopy, supernatant assay after centrifugation and retained sediment investigation distinguish these states better than a solution photograph."
+            }
+          ]
+        },
+        {
+          "id": "equipment",
+          "heading": "Equipment: ultrasound is not the only important unit",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The primary study used a laboratory mill, temperature-controlled ultrasound, centrifugation, PTFE filtration, rotary evaporation and HPLC. Its 0.22 μm filtration step is sample preparation, not proof of commercial sterility.[3] Proposed industrial functions are distinct: a jacketed agitated vessel provides wetting, suspension and temperature uniformity; a separator removes leaf solids; an adsorption column, if used, selectively retains and releases components rather than simply changing colour."
+            },
+            {
+              "type": "paragraph",
+              "text": "For proposed adsorption, record bed volume, feed loading, breakthrough, pressure drop and post-regeneration performance. Ultrasound scale-up should document transducer position, recirculation path, temperature rise and energy per processed volume. Explain results through treatment uniformity rather than copying laboratory frequency and power into a purchase specification. Alcoholic extraction requires solvent-compatible seals, ventilation, fire protection and condensation/recovery design. These are functional requirements, not certifications already obtained by this project."
+            },
+            {
+              "type": "paragraph",
+              "text": "Analytical equipment must address the question. The study used a C18 gradient method with detection at 206 nm for four triterpenoids.[3] Because low-wavelength detection is vulnerable to matrix interference, assess blanks, standards, spike recovery and resolution. Mass spectrometry can support identity or unusual-peak investigation but cannot fix unrepresentative sampling. Use suitable gas chromatography for relevant residual solvents and moisture/water activity plus microbiology for powder and aqueous liquid products; their risk assumptions differ."
+            }
+          ]
+        },
+        {
+          "id": "applications",
+          "heading": "Applications: turn a soothing concept into formulation development",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "**Clear serums and hydrogels.** Define whether the goal uses a broad liquid extract, glycoside-rich fraction or isolated compound; these bring different colour and matrix burdens. At actual pH, preservative system, glycol fraction and thickener, examine cold, ambient and elevated-temperature haze, crystallisation, viscosity and four-marker retention. If a co-solvent restores clarity, confirm that skin feel and preservation have not deteriorated. Transparency cannot substitute for stability."
+            },
+            {
+              "type": "paragraph",
+              "text": "**Creams and emulsions.** Compare pre-dissolution in a suitable phase, cool-down addition and direct dispersion. Assess centrifugal stability, freeze–thaw response, colour and particles felt during application. A higher-aglycone material should not automatically use the addition procedure developed for a glycoside-rich liquid. A delivery system for a concentrated single compound needs measured dispersion state and release; “nano” or “liposome” is not efficacy evidence. Brands should communicate completed skin-use and moisturisation/comfort testing, not translate a wound model into a cosmetic wound-treatment claim."
+            },
+            {
+              "type": "paragraph",
+              "text": "**Oral or medicinal development.** EMA discusses distinct research preparations and traditional topical boundaries; it does not declare every oral Centella extract an efficacious medicine.[4] Match composition, dosage form, route and dose to the study. A TECA study cannot provide equivalent support for a beverage labelled only “10:1” with an unknown four-marker distribution. Aqueous botanical liquids also need actual preservative-efficacy and packaging-compatibility development. Botanical origin cannot replace microbial design."
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "Standards: do not merge herbal limits, refined fractions and cosmetic claims",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "EMA's 2022 report quotes European Pharmacopoeia 10th edition, monograph 1498: dried, fragmented aerial parts contain at least 6% total triterpenoid derivatives expressed as asiaticoside. This is the herbal-substance definition and calculation basis of the cited edition—not a universal requirement that every extract contain 6% asiaticoside, and not 6% of each compound. The current pharmacopoeial monograph was not independently accessed in this research.[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "The report describes literature TECA/TTFCA materials with approximately 40% asiaticoside and 60% aglycones, commonly reported as 30% each asiatic and madecassic acids. Acid ratios in other total-triterpenoid fractions are not always equally explicit.[4] Compare composition and assay basis before total content and price. An expressed-as-asiaticoside herbal assay, the direct mass sum of four compounds and the formulation ratio of a refined preparation cannot be placed in one comparable column without explanation."
+            },
+            {
+              "type": "paragraph",
+              "text": "The traditional-use boundary discussed by EMA concerns topical aerial-part powder or infusion to aid healing of minor wounds; highly refined fractions and existing medicinal products have separate regulatory backgrounds. The report does not authorise wound-treatment claims for any cosmetic, nor does it grant food permission.[4] EU cosmetics, Chinese cosmetics, US supplements and other categories need separate identity, permitted-use and claims documentation. A medicinal history in one jurisdiction is not a universal market-access conclusion."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proposed specifications record Latin name and part, extraction solvent, native extract fraction, carrier, preservatives, limits for the four markers and fingerprint. Pesticides, elemental impurities, microbiology and relevant solvent residues should follow cultivation/harvest risk. For liquid materials, provide necessary conversions per gram of supplied solution and per gram of dry extract to prevent formulation overdosing. For isolated compounds, identity, related substances and actual solubility matter more than a broad herbal fingerprint."
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "Research: what the primary experiment answers",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The primary paper compares ultrasound leaf extraction in five solvents through total phenols, total flavonoids, chemical antioxidant tests and four triterpenoids. The stronger methanol result in the authors' system informs solvent selectivity and analytical recovery; it neither compares ethanol nor provides human evidence or finished-cosmetic skin efficacy.[3] Flavonoid values expressed as mg quercetin equivalents/g are not the same mass of pure flavonoids. Gallic-acid-equivalent total phenols also differ from HPLC mass quantification of four triterpenoids.[3]"
+            },
+            {
+              "type": "paragraph",
+              "text": "EMA's synthesis differentiates preparations across cellular, animal and clinical studies. It helps trace material boundaries and identify original clinical work, but its endpoints should not be assembled into a benefit list for an unspecified Centella powder.[4] A next-stage programme should first establish chemical comparability through same-batch four-marker assays, fingerprint, carrier and actual formulation concentration, then select stability, skin compatibility or human-use work for the intended purpose. Where finished product and study material differ, establish bridging evidence rather than using the shared species name to skip it."
+            },
+            {
+              "type": "heading",
+              "text": "Role-specific deliverables — engineering proposals"
+            },
+            {
+              "type": "list",
+              "items": [
+                "**R&D:** Four-marker ratio versus solubility/dispersion map in the real dosage form, including addition order and stored crystallisation.",
+                "**Production engineering:** Four-marker balances from feed to discarded streams, filterability and phase behaviour during solvent exchange.",
+                "**Procurement:** Defined leaf/aerial part, native extract/carrier, solvent and batch four-marker reports—not extraction ratio alone.",
+                "**QA:** Distinguish herbal equivalent-based assays, summed triterpenoids and individual content; validate specificity at low UV wavelength and control relevant residues.",
+                "**Brand:** Distinguish Centella extract, asiaticoside and madecassoside. Communicate comfort through actual formulation/human-use evidence, not cellular findings or herbal tradition presented as proven finished-product efficacy."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 3,
+        "title": "Ultrasound-assisted solvent extraction of Centella leaves (2024)",
+        "url": "https://doi.org/10.1016/j.ultsonch.2024.107091",
+        "accessed": "2026-09-09",
+        "scope": "primary laboratory research"
+      },
+      {
+        "id": 4,
+        "title": "EMA Centella assessment report revision 1 (2022)",
+        "url": "https://www.ema.europa.eu/en/documents/herbal-report/assessment-report-centella-asiatica-l-urb-herba-revision-1_en.pdf",
+        "accessed": "2026-09-09",
+        "scope": "official assessment"
+      }
+    ]
+  }
+]
