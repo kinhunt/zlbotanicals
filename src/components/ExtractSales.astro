@@ -56,6 +56,7 @@ const benefits=sale.benefits.map((body,i)=>[benefitTitles[i],body[lang]]);
   <a href={`${science}#standards`}>{zh?'质量依据':'Quality evidence'}</a>
   <a href={`${science}#processes`}>{zh?'工艺依据':'Processing evidence'}</a>
  </nav>
+ {id==='green-tea'&&<p><a href={local('/resources/blog/tea-haze-diagnosis')}>{zh?'茶饮冷后浑：水质、复溶与冷藏诊断':'Tea haze: water, reconstitution and cold-storage diagnosis'} →</a></p>}
  <div class="reading" data-commercial-knowledge-summary>{dimensions.map(dimension=><section id={dimension}>
   <h3>{(id==='stevia'||id==='resveratrol')&&dimension==='processes'?(zh?'生产路线':'Processing routes'):(id==='stevia'||id==='resveratrol')&&dimension==='equipment'?(zh?'加工设备':'Processing equipment'):dimensionLabels[dimension][lang]}</h3>
   <p>{sale.reading[dimension][lang]}</p>
