@@ -1,0 +1,528 @@
+{
+  "date": "2026-09-20",
+  "reviewer_role": "Independent factual and bilingual editorial reviewer; not author or UK tax adviser",
+  "decision": "PASS",
+  "decision_scope": "General-information draft content and blank worksheets only; E1-E5 resolved in actual files, not conditional acceptance",
+  "integrated": false,
+  "published": false,
+  "browser_acceptance_completed": false,
+  "repo_writes": false,
+  "new_exhaustive_legal_research": false,
+  "reviewed_artifacts": [
+    "revision/en.md",
+    "revision/zh.md",
+    "revision/worksheet-en.txt",
+    "revision/worksheet-zh.txt"
+  ],
+  "findings": [
+    {
+      "id": "E1",
+      "status": "RESOLVED",
+      "locations": [
+        "revision/en.md:1",
+        "revision/zh.md:1"
+      ],
+      "finding": "两语标题已实际替换为现行规则／适用条件与2028调整方案；不再把奶茶或植物基饮品概括为整体豁免。"
+    },
+    {
+      "id": "E2",
+      "status": "RESOLVED",
+      "locations": [
+        "revision/en.md:43",
+        "revision/zh.md:43",
+        "revision/worksheet-en.txt:40,56-59",
+        "revision/worksheet-zh.txt:40,56-59"
+      ],
+      "finding": "正文以另行确认表达乳清资格边界，保留政策与草案限定差异；不判定具体乳清配方可扣除、不可扣除、扣除量或税额。工作表仅空白记录，未新增自动结论。",
+      "source_ids": [
+        2,
+        7
+      ]
+    },
+    {
+      "id": "E3",
+      "status": "RESOLVED",
+      "locations": [
+        "revision/en.md:84",
+        "revision/zh.md:84"
+      ],
+      "finding": "研究日记式“未确认到成法”已删除，改为有日期的HMRC文件归属和商业决定前核对要求；没有由未检索到推出绝无后续法律。",
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "id": "E4",
+      "status": "RESOLVED",
+      "locations": [
+        "revision/en.md:61",
+        "revision/zh.md:61"
+      ],
+      "finding": "情景明确为含糖植物乳替代饮料与纯动物乳混合；已去掉暗示另加糖、多植物混合的Sugared/blend/组合，并明确带入糖的处理与仍需判断门槛。",
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "id": "E5",
+      "status": "RESOLVED",
+      "locations": [
+        "revision/en.md:33",
+        "revision/zh.md:33",
+        "revision/worksheet-en.txt:23",
+        "revision/worksheet-zh.txt:23"
+      ],
+      "finding": "正文和两个附件都把钙字段限定为现行豁免；明确不得直接视作2028资格条件，也未反向断言未来一概没有任何钙要求。",
+      "source_ids": [
+        4,
+        7
+      ]
+    }
+  ],
+  "whey_specific_tax_determination_present": false,
+  "bilingual_assessment": "PASS: meaning, modality, dates, quantities and exceptions align; E6/E7 and targeted language improvements implemented. Worksheet review-owner language is appropriate for a record form and is not the removed public-prose workflow voice.",
+  "nonblocking_notes": [
+    {
+      "location": "revision/zh.md:33",
+      "note": "“资格条件。 配方”含一个多余半角空格；仅排版小瑕疵，不阻塞，未修改。"
+    },
+    {
+      "location": "revision/zh.md:88",
+      "note": "引用工具不识别中文“参考来源”标题，原稿校验exit 1；仅在临时副本改为Sources后exit 0。中文正文未改，不把归一化成功冒称原稿命令通过。"
+    }
+  ],
+  "checks": {
+    "citation_verification": {
+      "en.md": {
+        "exit_code": 0,
+        "output": "info: stats: 51 prose sentence(s), 19 with declared provenance (37%) — 19 cited, 0 marked [unverified] (a sentence may be both); 7 distinct source(s) cited, 12 in ledger (12 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [3], [9], [10], [11], [12]\nwarn: 1 sentence(s) carry more than 3 citations\ncitations OK\n"
+      },
+      "zh.md": {
+        "exit_code": 1,
+        "output": "info: stats: 2 prose sentence(s), 2 with declared provenance (100%) — 2 cited, 0 marked [unverified] (a sentence may be both); 7 distinct source(s) cited, 12 in ledger (12 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [3], [9], [10], [11], [12]\nwarn: 1 sentence(s) carry more than 3 citations\nverification failed\nFAIL: draft cites sources but has no `Sources:` block — run `render --cited-in`\n"
+      },
+      "zh_heading_normalized_in_temporary_copy": {
+        "exit_code": 0,
+        "output": "info: stats: 2 prose sentence(s), 2 with declared provenance (100%) — 2 cited, 0 marked [unverified] (a sentence may be both); 7 distinct source(s) cited, 12 in ledger (12 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [3], [9], [10], [11], [12]\nwarn: 1 sentence(s) carry more than 3 citations\ncitations OK\n"
+      }
+    },
+    "archive_quote_validation": {
+      "total": 52,
+      "matched": 52,
+      "normalization": "whitespace only",
+      "details": [
+        {
+          "source_id": 1,
+          "archive": "source-1.txt",
+          "matched": true
+        },
+        {
+          "source_id": 1,
+          "archive": "source-1.txt",
+          "matched": true
+        },
+        {
+          "source_id": 1,
+          "archive": "source-1.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 2,
+          "archive": "source-2.txt",
+          "matched": true
+        },
+        {
+          "source_id": 3,
+          "archive": "source-3.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 4,
+          "archive": "source-4.txt",
+          "matched": true
+        },
+        {
+          "source_id": 5,
+          "archive": "source-5.txt",
+          "matched": true
+        },
+        {
+          "source_id": 5,
+          "archive": "source-5.txt",
+          "matched": true
+        },
+        {
+          "source_id": 6,
+          "archive": "source-6.txt",
+          "matched": true
+        },
+        {
+          "source_id": 6,
+          "archive": "source-6.txt",
+          "matched": true
+        },
+        {
+          "source_id": 6,
+          "archive": "source-6.txt",
+          "matched": true
+        },
+        {
+          "source_id": 7,
+          "archive": "source-7.txt",
+          "matched": true
+        },
+        {
+          "source_id": 7,
+          "archive": "source-7.txt",
+          "matched": true
+        },
+        {
+          "source_id": 7,
+          "archive": "source-7.txt",
+          "matched": true
+        },
+        {
+          "source_id": 7,
+          "archive": "source-7.txt",
+          "matched": true
+        },
+        {
+          "source_id": 7,
+          "archive": "source-7.txt",
+          "matched": true
+        },
+        {
+          "source_id": 7,
+          "archive": "source-7.txt",
+          "matched": true
+        },
+        {
+          "source_id": 8,
+          "archive": "source-8.txt",
+          "matched": true
+        },
+        {
+          "source_id": 8,
+          "archive": "source-8.txt",
+          "matched": true
+        },
+        {
+          "source_id": 9,
+          "archive": "independent/live-act29.txt",
+          "matched": true
+        },
+        {
+          "source_id": 10,
+          "archive": "independent/live-act30.txt",
+          "matched": true
+        },
+        {
+          "source_id": 11,
+          "archive": "independent/live-reg7.txt",
+          "matched": true
+        },
+        {
+          "source_id": 12,
+          "archive": "independent/live-reg8.txt",
+          "matched": true
+        }
+      ]
+    },
+    "revision_manifest_entries_verified": 12,
+    "historical_original_hashes_verified": 51,
+    "diffs_reviewed": 4,
+    "tables_reviewed": 4,
+    "blank_worksheets_reviewed": 2
+  },
+  "limits": [
+    "No integration, deployment, live downloads or browser/mobile/accessibility acceptance.",
+    "No product-specific whey allowance qualification, allowance amount or tax amount; no legal sign-off.",
+    "Existing dated archives reused; no assertion of exhaustive subsequent legislation search.",
+    "Citation checker warns about unused ledger entries and sentence citation counts; Chinese sentence statistics do not measure semantic coverage."
+  ],
+  "integrity": {
+    "pre_existing_file_count": 64,
+    "before_sha256": {
+      "handoff.md": "9d1f600ccf6dc99a35a4a8ff443539ddff9c0ffaa2e63c6596b387d7be2b4070",
+      "final-quote-check.json": "eaae0962d89df50737ebb1901c938940f654c90e7d694b8d3fc3afb5fecb634e",
+      "source-4.txt": "c8b2bacfb8b355929a9a18d3ef1c5968bb9dbd6f231a5a7e77073012ca31eae5",
+      "source-7.html": "f2c0bfaf2c1615919a96a0452febae8782c5d133316cd9bc61a9434995052231",
+      "source-1.html": "f76174d19caef0384f2c6e694ca1b26009985e03f0196977e064ae1052e0e2e8",
+      "source-8.txt": "fbf2298a732f0d2e05d2036baab4b368cf2c621204228e2740343429052bb02e",
+      "inherited-quote-check.json": "65275d68bbbacc1e419adec3e194b242b3d71ca2bcab275b83d8bb9ecc4969ce",
+      "ledger.json": "7edf789a742dea4729137acd9304fdf79e87fea8a7c47b98c94952545f9de0c4",
+      "recheck.py": "c24b3b323b69ae9dff5bce52fcd37e52268d120fb05a67c7bb620b69dcdede6e",
+      "manifest.sha256.json": "29e60ae41d11f854b48ef9670b91e0131ae5e1b0fe8de58a0544af30bc48195d",
+      "source-8.html": "10807197a35a93d046f42eebe2006e39b118fb8a025505d2988bf16a3eccd1f1",
+      "retrieval.json": "6fb6e47e9b73a76de0fa3767b33aac98d3fec6be983ae0d761c3a2541473effc",
+      "source-5.html": "428c6a953112854f6114b3536be7e69acf1fcdb8b78776cb6eee42e7cf874566",
+      "verification.txt": "b117f5dbc15394e14126c8679d9aee6a97e4523c6e177ef1b74e6cbd52a1dd22",
+      "source-4.html": "cc51bbd528aa199e0729d54e065b0ce18af472fe0f5ab8d0f8d6df619bf0dd41",
+      "source-2.html": "248863f594bb9e1f2de0e082abe93882b0694f94428d4e61ebe9729a5457729f",
+      "source-6.html": "7e86d420fd881d33dda3f84ee1258469d0b8f52c7ec7a5891afdee6b5ddd6b9f",
+      "zh.md": "362391f92e3fa13ba6ca0183effb253abada7702b192c753eb72f8e310366501",
+      "search-56.json": "9d6e6c1f4e1d3f6795f3edaf7e0da8ef1e6718b0e89ab924837b7cf24cc4889a",
+      "legal-recheck.md": "99901a5b4cbd6efd0e77e89bd8af54133c54b4303f902c8b10631d47ea4dec5a",
+      "worksheet-en.txt": "e1cfd25dca9734b72485343b211f16adf173e9aefac87f5b5fd403b9d526b3b5",
+      "worksheet-zh.txt": "61a8860cf15ccef3635ae83198e69d7ad02f570061241fcaa75281b9791a4444",
+      "search-44.json": "fcafdc75d56271ba8f22a1dbd30fbb82d69332f963c76539773811a64d0eae90",
+      "evidence.md": "4cbfe2dd0a3d0996896c245ba60f29c7add26114742af3d445c31cd30c4b81a0",
+      "source-3.html": "56ddfcc843019ba5eec6f96cf0fe9f6c49a02d7b461ac340be645f34be256832",
+      "source-7.txt": "aa9dda553577824272bd6d7089ee26a53c73e10b08c2c333217e5b0291516629",
+      "en.md": "3d7d9e338eaa8edcd677231e858a3a9710d142c7339bac38b716337fc75cb03a",
+      "claim-paragraphs.md": "ada7509ec8090e9e3d6b63ebd288571ed2cb7db5bd1ffa1bd10cc2c69572df84",
+      "source-1.txt": "1e1d1fe8ff591769993c0a1f2fe2931fc9102d6813abe294c58017bb0c68f72e",
+      "source-3.txt": "7ee28224e6a80098d3d3970b9e7bf39164e3153641e3c2d41a56ab3b0a838cd9",
+      "source-2.txt": "e0d532ab2c46cacac252b12de51c6d125d4be360fd8965e2f2b19f940b0ec6fa",
+      "source-5.txt": "175628e30a0afbc887c1c84fbb9ff9872087a3f92e268651aafa5ca4f7bd6e2f",
+      "source-6.txt": "ff2c6dfd1f026895a25ce8706942c475694d2f770c8f1500a967096b20717f12",
+      "revision/changelog.md": "2094cb1bedcfff29fec020cd8475fefaed59dcf87d245c5087d7d6a35d292934",
+      "revision/manifest.sha256.json": "faec7876412ea3b077c07cc63c4e3f87cd5bc0cf1504dbd0b7126fab783a6b51",
+      "revision/zh.md.verification.txt": "22f9a657f1a9c889d50ee7ee6c136476c28b26379a80fcf43bf8984e2198ae97",
+      "revision/zh.normalized.verification.txt": "0fc37d5440a7e1b2a092d686dcf9d99b12315a3cbb7d762e713ad964c737226c",
+      "revision/verification.md": "347e7a4c031d00659054f771dbfffdda777e7814de64a90a73db6b7243cccdae",
+      "revision/en.md.verification.txt": "e8d8b41f2a3abadb5a8dabaea789ac4422b485a9f2b1144a7fecd949958c9b20",
+      "revision/zh.md": "c3917107d51bfe1ccf4c44175dbbd00c7859fa38963a59d15cabd4a313b3941a",
+      "revision/quote-validation.json": "b7dfc01d9c41a77f1030154a930b567ec16b374ef1d4b7e264a58566b103d1a5",
+      "revision/worksheet-en.txt": "19771f6fb2753c0109d41cac1f635fdb101222266b5cf59a2bc3d740c2d27197",
+      "revision/worksheet-zh.txt": "6e5d37ce179cd5e7212f4312716a14b940a838be8b0f63cc190bd631a161e760",
+      "revision/verification.json": "53ac64df60c630be89fb82dbcc388c9da4e09b661474cdb78e0a3c91af747650",
+      "revision/en.md": "30a8eeae400aed1b2fc8805a688759a776cbc9b4441df1ecfdd4bde6335663a7",
+      "revision/original-integrity.json": "7eae1945c27860d7dcf36f1e65f347a5bbdb7765584816c2c14b33174f851756",
+      "independent/live-8.txt": "eb1d4e40dd4533afee5f9b217db6f35015b138b58ea82bf9d8f20ca2a1fe33c2",
+      "independent/live-reg8.txt": "94e421bf9c65a6bcf45e93c931023fe337c452422dca11328bba01edf399f34d",
+      "independent/ledger.json": "975603e4aca65cf1eed92bdd04a8f1909afd82070c552c1736bc64251e707f00",
+      "independent/live-2.txt": "bb4055180e16e54601ea78a7f92ce825e6387de2c6c89459578591f7c07dc0f7",
+      "independent/retrieval.json": "c1df1ffdea3fa1a6c6f8767e9eafe706dfbf6e97695a5409cf965e466c8efb95",
+      "independent/verification.txt": "6b22de82a29742595010b2d0ba87f47dfcbf9fa37e63591d55656e0aa935b6f5",
+      "independent/live-6.txt": "d9a0355eb40fa9b86f597f1f7535ff6105510a1fab4e9cf5e92acd0b023bcf84",
+      "independent/live-reg7.txt": "c5fa73f1b560b30cd5390a67b1725c06b38ef9be2595936812c9021e06c29bc7",
+      "independent/zh.md.verification.txt": "f9b64f912926e6891cae16769570eb1ed583fd6bb662de35e243a8569335a83b",
+      "independent/live-7.txt": "323593c1204e6e0d9d9103c99e4a42b0023c2a05104dff5ef925413ae9070157",
+      "independent/live-act29.txt": "79cc76189f655233a5431edb45d300f2747b76a8e087a7541e83d86847500377",
+      "independent/en.md.verification.txt": "038c4a6ade566962ce696451a460eac2e71cb5f254d250e999431b6488296701",
+      "independent/live-4.txt": "bd440c0019edd470193a9639187167c6acd8c4e6468ec58f6391f175172fdd27",
+      "independent/original-quote-validation.json": "27ef4738c5ce2472a2a80bb92db062b0617d120c9d3887739188d6a1331b7a1b",
+      "independent/author-integrity.json": "ec81f508cd463cbcf78696dbc93e7b7d56426ad1098180b88d31017f6dc52f29",
+      "independent/review.md": "b3c00d04e7007895d9151d59ccf4e02cf20c742d50bf0368617ffd2639839be6",
+      "independent/live-act30.txt": "f06b304dbbdbf87e35a4062dd9235cda8edebbc23e31b1f774b5a1dfb70a4aac",
+      "independent/review.json": "dcb4076224da758010ba74d8a3e410277ca3af119005414fd7d0354afc0cbe8a"
+    },
+    "after_sha256": {
+      "handoff.md": "9d1f600ccf6dc99a35a4a8ff443539ddff9c0ffaa2e63c6596b387d7be2b4070",
+      "final-quote-check.json": "eaae0962d89df50737ebb1901c938940f654c90e7d694b8d3fc3afb5fecb634e",
+      "source-4.txt": "c8b2bacfb8b355929a9a18d3ef1c5968bb9dbd6f231a5a7e77073012ca31eae5",
+      "source-7.html": "f2c0bfaf2c1615919a96a0452febae8782c5d133316cd9bc61a9434995052231",
+      "source-1.html": "f76174d19caef0384f2c6e694ca1b26009985e03f0196977e064ae1052e0e2e8",
+      "source-8.txt": "fbf2298a732f0d2e05d2036baab4b368cf2c621204228e2740343429052bb02e",
+      "inherited-quote-check.json": "65275d68bbbacc1e419adec3e194b242b3d71ca2bcab275b83d8bb9ecc4969ce",
+      "ledger.json": "7edf789a742dea4729137acd9304fdf79e87fea8a7c47b98c94952545f9de0c4",
+      "recheck.py": "c24b3b323b69ae9dff5bce52fcd37e52268d120fb05a67c7bb620b69dcdede6e",
+      "manifest.sha256.json": "29e60ae41d11f854b48ef9670b91e0131ae5e1b0fe8de58a0544af30bc48195d",
+      "source-8.html": "10807197a35a93d046f42eebe2006e39b118fb8a025505d2988bf16a3eccd1f1",
+      "retrieval.json": "6fb6e47e9b73a76de0fa3767b33aac98d3fec6be983ae0d761c3a2541473effc",
+      "source-5.html": "428c6a953112854f6114b3536be7e69acf1fcdb8b78776cb6eee42e7cf874566",
+      "verification.txt": "b117f5dbc15394e14126c8679d9aee6a97e4523c6e177ef1b74e6cbd52a1dd22",
+      "source-4.html": "cc51bbd528aa199e0729d54e065b0ce18af472fe0f5ab8d0f8d6df619bf0dd41",
+      "source-2.html": "248863f594bb9e1f2de0e082abe93882b0694f94428d4e61ebe9729a5457729f",
+      "source-6.html": "7e86d420fd881d33dda3f84ee1258469d0b8f52c7ec7a5891afdee6b5ddd6b9f",
+      "zh.md": "362391f92e3fa13ba6ca0183effb253abada7702b192c753eb72f8e310366501",
+      "search-56.json": "9d6e6c1f4e1d3f6795f3edaf7e0da8ef1e6718b0e89ab924837b7cf24cc4889a",
+      "legal-recheck.md": "99901a5b4cbd6efd0e77e89bd8af54133c54b4303f902c8b10631d47ea4dec5a",
+      "worksheet-en.txt": "e1cfd25dca9734b72485343b211f16adf173e9aefac87f5b5fd403b9d526b3b5",
+      "worksheet-zh.txt": "61a8860cf15ccef3635ae83198e69d7ad02f570061241fcaa75281b9791a4444",
+      "search-44.json": "fcafdc75d56271ba8f22a1dbd30fbb82d69332f963c76539773811a64d0eae90",
+      "evidence.md": "4cbfe2dd0a3d0996896c245ba60f29c7add26114742af3d445c31cd30c4b81a0",
+      "source-3.html": "56ddfcc843019ba5eec6f96cf0fe9f6c49a02d7b461ac340be645f34be256832",
+      "source-7.txt": "aa9dda553577824272bd6d7089ee26a53c73e10b08c2c333217e5b0291516629",
+      "en.md": "3d7d9e338eaa8edcd677231e858a3a9710d142c7339bac38b716337fc75cb03a",
+      "claim-paragraphs.md": "ada7509ec8090e9e3d6b63ebd288571ed2cb7db5bd1ffa1bd10cc2c69572df84",
+      "source-1.txt": "1e1d1fe8ff591769993c0a1f2fe2931fc9102d6813abe294c58017bb0c68f72e",
+      "source-3.txt": "7ee28224e6a80098d3d3970b9e7bf39164e3153641e3c2d41a56ab3b0a838cd9",
+      "source-2.txt": "e0d532ab2c46cacac252b12de51c6d125d4be360fd8965e2f2b19f940b0ec6fa",
+      "source-5.txt": "175628e30a0afbc887c1c84fbb9ff9872087a3f92e268651aafa5ca4f7bd6e2f",
+      "source-6.txt": "ff2c6dfd1f026895a25ce8706942c475694d2f770c8f1500a967096b20717f12",
+      "revision/changelog.md": "2094cb1bedcfff29fec020cd8475fefaed59dcf87d245c5087d7d6a35d292934",
+      "revision/manifest.sha256.json": "faec7876412ea3b077c07cc63c4e3f87cd5bc0cf1504dbd0b7126fab783a6b51",
+      "revision/zh.md.verification.txt": "22f9a657f1a9c889d50ee7ee6c136476c28b26379a80fcf43bf8984e2198ae97",
+      "revision/zh.normalized.verification.txt": "0fc37d5440a7e1b2a092d686dcf9d99b12315a3cbb7d762e713ad964c737226c",
+      "revision/verification.md": "347e7a4c031d00659054f771dbfffdda777e7814de64a90a73db6b7243cccdae",
+      "revision/en.md.verification.txt": "e8d8b41f2a3abadb5a8dabaea789ac4422b485a9f2b1144a7fecd949958c9b20",
+      "revision/zh.md": "c3917107d51bfe1ccf4c44175dbbd00c7859fa38963a59d15cabd4a313b3941a",
+      "revision/quote-validation.json": "b7dfc01d9c41a77f1030154a930b567ec16b374ef1d4b7e264a58566b103d1a5",
+      "revision/worksheet-en.txt": "19771f6fb2753c0109d41cac1f635fdb101222266b5cf59a2bc3d740c2d27197",
+      "revision/worksheet-zh.txt": "6e5d37ce179cd5e7212f4312716a14b940a838be8b0f63cc190bd631a161e760",
+      "revision/verification.json": "53ac64df60c630be89fb82dbcc388c9da4e09b661474cdb78e0a3c91af747650",
+      "revision/en.md": "30a8eeae400aed1b2fc8805a688759a776cbc9b4441df1ecfdd4bde6335663a7",
+      "revision/original-integrity.json": "7eae1945c27860d7dcf36f1e65f347a5bbdb7765584816c2c14b33174f851756",
+      "independent/live-8.txt": "eb1d4e40dd4533afee5f9b217db6f35015b138b58ea82bf9d8f20ca2a1fe33c2",
+      "independent/live-reg8.txt": "94e421bf9c65a6bcf45e93c931023fe337c452422dca11328bba01edf399f34d",
+      "independent/ledger.json": "975603e4aca65cf1eed92bdd04a8f1909afd82070c552c1736bc64251e707f00",
+      "independent/live-2.txt": "bb4055180e16e54601ea78a7f92ce825e6387de2c6c89459578591f7c07dc0f7",
+      "independent/retrieval.json": "c1df1ffdea3fa1a6c6f8767e9eafe706dfbf6e97695a5409cf965e466c8efb95",
+      "independent/verification.txt": "6b22de82a29742595010b2d0ba87f47dfcbf9fa37e63591d55656e0aa935b6f5",
+      "independent/live-6.txt": "d9a0355eb40fa9b86f597f1f7535ff6105510a1fab4e9cf5e92acd0b023bcf84",
+      "independent/live-reg7.txt": "c5fa73f1b560b30cd5390a67b1725c06b38ef9be2595936812c9021e06c29bc7",
+      "independent/zh.md.verification.txt": "f9b64f912926e6891cae16769570eb1ed583fd6bb662de35e243a8569335a83b",
+      "independent/live-7.txt": "323593c1204e6e0d9d9103c99e4a42b0023c2a05104dff5ef925413ae9070157",
+      "independent/live-act29.txt": "79cc76189f655233a5431edb45d300f2747b76a8e087a7541e83d86847500377",
+      "independent/en.md.verification.txt": "038c4a6ade566962ce696451a460eac2e71cb5f254d250e999431b6488296701",
+      "independent/live-4.txt": "bd440c0019edd470193a9639187167c6acd8c4e6468ec58f6391f175172fdd27",
+      "independent/original-quote-validation.json": "27ef4738c5ce2472a2a80bb92db062b0617d120c9d3887739188d6a1331b7a1b",
+      "independent/author-integrity.json": "ec81f508cd463cbcf78696dbc93e7b7d56426ad1098180b88d31017f6dc52f29",
+      "independent/review.md": "b3c00d04e7007895d9151d59ccf4e02cf20c742d50bf0368617ffd2639839be6",
+      "independent/live-act30.txt": "f06b304dbbdbf87e35a4062dd9235cda8edebbc23e31b1f774b5a1dfb70a4aac",
+      "independent/review.json": "dcb4076224da758010ba74d8a3e410277ca3af119005414fd7d0354afc0cbe8a"
+    },
+    "all_unchanged": true
+  },
+  "created_files": [
+    "revision/independent-final.json",
+    "revision/independent-final.md"
+  ]
+}

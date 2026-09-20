@@ -1,0 +1,88 @@
+{
+  "status": "WRITER_CHECKS_COMPLETE_PENDING_INDEPENDENT_REVIEW",
+  "required_edits": {
+    "E1": "exact supplied replacement present in both languages",
+    "E2": "exact supplied replacement present in both languages",
+    "E3": "exact supplied replacement present in both languages",
+    "E4": "exact supplied replacement present in both languages",
+    "E5": "exact supplied replacement present in both languages",
+    "E6": "exact supplied replacement present in both languages",
+    "E7": "exact supplied replacement present in both languages"
+  },
+  "citation_verifier": {
+    "en": {
+      "exit_code": 0,
+      "stdout": "info: stats: 51 prose sentence(s), 19 with declared provenance (37%) — 19 cited, 0 marked [unverified] (a sentence may be both); 7 distinct source(s) cited, 8 in ledger (8 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [3]\nwarn: 1 sentence(s) carry more than 3 citations\ncitations OK\n",
+      "stderr": "",
+      "command": [
+        "python",
+        "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+        "--ledger",
+        "/data/hermes/research/seo-growth/2026-09-20-sdil-draft/ledger.json",
+        "verify",
+        "/data/hermes/research/seo-growth/2026-09-20-sdil-draft/revision/en.md",
+        "--evidence"
+      ]
+    },
+    "zh": {
+      "exit_code": 1,
+      "stdout": "info: stats: 2 prose sentence(s), 2 with declared provenance (100%) — 2 cited, 0 marked [unverified] (a sentence may be both); 7 distinct source(s) cited, 8 in ledger (8 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [3]\nwarn: 1 sentence(s) carry more than 3 citations\nverification failed\n",
+      "stderr": "FAIL: draft cites sources but has no `Sources:` block — run `render --cited-in`\n",
+      "command": [
+        "python",
+        "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+        "--ledger",
+        "/data/hermes/research/seo-growth/2026-09-20-sdil-draft/ledger.json",
+        "verify",
+        "/data/hermes/research/seo-growth/2026-09-20-sdil-draft/revision/zh.md",
+        "--evidence"
+      ]
+    },
+    "zh_heading_normalized": {
+      "exit_code": 0,
+      "stdout": "info: stats: 2 prose sentence(s), 2 with declared provenance (100%) — 2 cited, 0 marked [unverified] (a sentence may be both); 7 distinct source(s) cited, 8 in ledger (8 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [3]\nwarn: 1 sentence(s) carry more than 3 citations\ncitations OK\n",
+      "stderr": "",
+      "transformation": "Only ## 参考来源 -> ## Sources on a temporary copy; deleted after verification."
+    }
+  },
+  "direct_source_map_validation": {
+    "en": {
+      "cited_ids": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "reference_urls_match_original_ledger": true,
+      "all_cited_sources_have_quotes": true
+    },
+    "zh": {
+      "cited_ids": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "reference_urls_match_original_ledger": true,
+      "all_cited_sources_have_quotes": true
+    }
+  },
+  "archive_quotes_matched": 48,
+  "original_files_unchanged": 51,
+  "worksheets": {
+    "blank_field_count_preserved": true,
+    "source_urls_preserved": true,
+    "download_targets_exist_locally": true
+  },
+  "limitations": [
+    "Chinese localized reference heading not recognized by citation tool; native run exit 1, heading-only normalized run exit 0; independent ID/URL checks pass on actual zh.md.",
+    "Non-strict tool warnings retained: uncited ledger source [3], one over-three-citation sentence caused by segmentation. Chinese parser reports only two sentences; no semantic coverage claim.",
+    "No professional tax sign-off, whey eligibility finding, fresh research, exhaustive legal-status audit, rendered/browser/download/deployment checks."
+  ]
+}

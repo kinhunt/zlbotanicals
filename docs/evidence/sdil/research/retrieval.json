@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "url": "https://www.gov.uk/government/publications/changes-to-the-soft-drinks-industry-levy/soft-drink-industry-levy-changes",
+    "status": 200,
+    "retrieved_utc": "2026-09-20T17:37:48.152799+00:00",
+    "html_sha256": "f76174d19caef0384f2c6e694ca1b26009985e03f0196977e064ae1052e0e2e8",
+    "text_sha256": "1e1d1fe8ff591769993c0a1f2fe2931fc9102d6813abe294c58017bb0c68f72e",
+    "chars": 7063
+  },
+  {
+    "id": 2,
+    "url": "https://www.gov.uk/government/publications/changes-to-the-soft-drinks-industry-levy/changes-to-the-soft-drinks-industry-levy-policy-paper",
+    "status": 200,
+    "retrieved_utc": "2026-09-20T17:37:48.266673+00:00",
+    "html_sha256": "248863f594bb9e1f2de0e082abe93882b0694f94428d4e61ebe9729a5457729f",
+    "text_sha256": "e0d532ab2c46cacac252b12de51c6d125d4be360fd8965e2f2b19f940b0ec6fa",
+    "chars": 11771
+  },
+  {
+    "id": 3,
+    "url": "https://www.gov.uk/government/publications/changes-to-the-soft-drinks-industry-levy",
+    "status": 200,
+    "retrieved_utc": "2026-09-20T17:37:48.198924+00:00",
+    "html_sha256": "56ddfcc843019ba5eec6f96cf0fe9f6c49a02d7b461ac340be645f34be256832",
+    "text_sha256": "7ee28224e6a80098d3d3970b9e7bf39164e3153641e3c2d41a56ab3b0a838cd9",
+    "chars": 1913
+  },
+  {
+    "id": 4,
+    "url": "https://www.gov.uk/guidance/check-if-your-drink-is-liable-for-the-soft-drinks-industry-levy",
+    "status": 200,
+    "retrieved_utc": "2026-09-20T17:37:48.267726+00:00",
+    "html_sha256": "cc51bbd528aa199e0729d54e065b0ce18af472fe0f5ab8d0f8d6df619bf0dd41",
+    "text_sha256": "c8b2bacfb8b355929a9a18d3ef1c5968bb9dbd6f231a5a7e77073012ca31eae5",
+    "chars": 9604
+  },
+  {
+    "id": 5,
+    "url": "https://www.gov.uk/government/consultations/strengthening-the-soft-drinks-industry-levy/outcome/strengthening-the-soft-drinks-industry-levy-summary-of-responses",
+    "status": 200,
+    "retrieved_utc": "2026-09-20T17:37:48.600871+00:00",
+    "html_sha256": "428c6a953112854f6114b3536be7e69acf1fcdb8b78776cb6eee42e7cf874566",
+    "text_sha256": "175628e30a0afbc887c1c84fbb9ff9872087a3f92e268651aafa5ca4f7bd6e2f",
+    "chars": 81752
+  },
+  {
+    "id": 6,
+    "url": "https://www.legislation.gov.uk/ukpga/2026/11/part/3/crossheading/soft-drinks-industry-levy/data.htm",
+    "status": 200,
+    "retrieved_utc": "2026-09-20T17:37:48.495327+00:00",
+    "html_sha256": "7e86d420fd881d33dda3f84ee1258469d0b8f52c7ec7a5891afdee6b5ddd6b9f",
+    "text_sha256": "ff2c6dfd1f026895a25ce8706942c475694d2f770c8f1500a967096b20717f12",
+    "chars": 10387
+  },
+  {
+    "id": 7,
+    "url": "https://www.gov.uk/government/publications/changes-to-the-soft-drinks-industry-levy/draft-legislation-accessible-version",
+    "status": 200,
+    "retrieved_utc": "2026-09-20T17:37:48.457549+00:00",
+    "html_sha256": "f2c0bfaf2c1615919a96a0452febae8782c5d133316cd9bc61a9434995052231",
+    "text_sha256": "aa9dda553577824272bd6d7089ee26a53c73e10b08c2c333217e5b0291516629",
+    "chars": 9495
+  },
+  {
+    "id": 8,
+    "url": "https://www.gov.uk/government/collections/finance-bill-2026-27-draft-legislation-and-technical-tax-documents",
+    "status": 200,
+    "retrieved_utc": "2026-09-20T17:37:48.598278+00:00",
+    "html_sha256": "10807197a35a93d046f42eebe2006e39b118fb8a025505d2988bf16a3eccd1f1",
+    "text_sha256": "fbf2298a732f0d2e05d2036baab4b368cf2c621204228e2740343429052bb02e",
+    "chars": 4894
+  }
+]

@@ -1,0 +1,7 @@
+Command: python /data/hermes/skills/research/grounded-citations/scripts/sources.py --ledger /data/hermes/research/seo-growth/2026-09-20-sdil-draft/ledger.json verify /data/hermes/research/seo-growth/2026-09-20-sdil-draft/revision/zh.md --evidence
+Exit: 1
+info: stats: 2 prose sentence(s), 2 with declared provenance (100%) — 2 cited, 0 marked [unverified] (a sentence may be both); 7 distinct source(s) cited, 8 in ledger (8 with evidence quotes)
+warn: registered in the ledger but not cited in this draft: [3]
+warn: 1 sentence(s) carry more than 3 citations
+verification failed
+FAIL: draft cites sources but has no `Sources:` block — run `render --cited-in`

@@ -1,0 +1,6 @@
+Command: python /data/hermes/skills/research/grounded-citations/scripts/sources.py --ledger /data/hermes/research/seo-growth/2026-09-20-sdil-draft/ledger.json verify /data/hermes/research/seo-growth/2026-09-20-sdil-draft/revision/en.md --evidence
+Exit: 0
+info: stats: 51 prose sentence(s), 19 with declared provenance (37%) — 19 cited, 0 marked [unverified] (a sentence may be both); 7 distinct source(s) cited, 8 in ledger (8 with evidence quotes)
+warn: registered in the ledger but not cited in this draft: [3]
+warn: 1 sentence(s) carry more than 3 citations
+citations OK
