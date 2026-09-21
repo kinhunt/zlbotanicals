@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.kemin.com/eu/en/markets/food/products/en-fort",
+      "title": "EN-FORT™ | Rosemary antioxidant for food | Kemin Europe",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "Available in both oil-soluble and water-dispersible formats",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Available in dry and liquid formats",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Product allowance and labelling may differ based upon government requirements. Certain statements may not be applicable in all geographical regions.",
+          "added": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.kemin.com/na/en-us/markets/food/products/fortium-r",
+      "title": "FORTIUM™ R Rosemary-Based Antioxidant for Food Shelf Life Extension",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "Variety of concentrations, carriers, and formats for optimal sensory",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Our proprietary rosemary extraction process delivers a highly refined, homogeneous solution that offers a more consistent extract, which contains standardized levels of carnosic acid .",
+          "added": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8151479/fullTextXML",
+      "title": "The Effect of Carnosol, Carnosic Acid and Rosmarinic Acid on the Oxidative Stability of Fat-Filled Milk Powders",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "The obtained results indicated the efficiency of all the different combinations of antioxidants to retard lipid oxidation after accelerated storage (40 °C, RH 23%) for 90 days and stabilise FFMPs, but with different degrees of efficacy when compared to control samples.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Hence, 308 ppm were particularly effective in inhibiting all the evaluated oxidation products, even if it was, in general, less effective, and in some cases significantly (p < 0.05), than 200 ppm of BHA: BHT (1: 1).",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Utilising a standardised ratio of pure phenolic compounds in this study will enable not only the accurate reproduction of their effect in the future but also the elimination of any possibility of the exerted antioxidant effect to be attributable to additional compounds present.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Control samples were produced without the addition of antioxidants, whereas the following combinations of synthetic and natural antioxidants were used, with their concentration to be based on the fat content of the FFMPs: (a) 200 ppm of 1: 1 BHA: BHT, (b) c: ca: ra (0.25: 0.38: 0.37) at the same additive concentration (200 ppm) as the mixture of BHA: BHT, (c) c: ca: ra (0.25: 0.38: 0.37) at an additive lower concentration (77 ppm) compared to the mixture of BHA: BHT, and (d) c: ca: ra (0.25: 0.38: 0.37) at an additive higher concentration (308 ppm) compared to the mixture of BHA: BHT.",
+          "added": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42602737",
+      "title": "Sweet potato starch noodle enriched with purple sweet potato anthocyanins (abstract only)",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "This study investigated whether citrus peel pectin (CP) could increase purple sweet potato anthocyanin (PSPA) retention in sweet potato starch noodles.",
+          "added": "2026-09-21"
+        }
+      ]
+    }
+  ]
+}

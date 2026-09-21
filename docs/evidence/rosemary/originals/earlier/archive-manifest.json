@@ -1,0 +1,43 @@
+{
+  "retrieved_at_utc": "2026-09-21T11:20:08.513772+00:00",
+  "origin_main": "8c1995038de0601928d233606a322e30efb396b6",
+  "source_urls": {
+    "1": "https://www.kemin.com/eu/en/markets/food/products/en-fort",
+    "2": "https://www.kemin.com/na/en-us/markets/food/products/fortium-r",
+    "3": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8151479/fullTextXML",
+    "4": "https://pubmed.ncbi.nlm.nih.gov/42602737/"
+  },
+  "source_scopes": {
+    "1": "manufacturer live HTML",
+    "2": "manufacturer live HTML",
+    "3": "primary full-text XML",
+    "4": "web_extract abstract only; direct HTML is cookie interstitial"
+  },
+  "files": {
+    "site-src__pages__zh__solutions__food.astro": "96f75529b0257222ac5cc5dcf89e163db5d2c01d112e50cd6f174f16ba0adcc0",
+    "ledger.json": "d08c1e57b309e8897008bc5d7899c206097b791df201a9e4f2756e2d1b7e3b56",
+    "selection.en.md": "1d1272af9cd7fa82ffb3e43bf421c23c052acd325d95be597b0f9d8547403a56",
+    "site-src__pages__solutions__food.astro": "9d1c51618be422298a501435342cb858385e180f1522bea718de9004ba0ff999",
+    "selection.zh.md": "6205ab5d02c19c92cca11c94d17d033d703c3dfbc70bf188447c03f851c68fcc",
+    "claim-quotes.json": "5a14956bd6a37abd5b03b7ad2c7f2de081a83e6eba35adbe2647da752fc4e40a",
+    "claim-map.json": "f0ca56edc16d13986d0a2aa2818489147b4c33581bd82aedb021de26d1b2d8c7",
+    "site-src__pages__products__botanical-extracts.astro": "de3c138dee2f3fba169e3e820249a611e061608de4325536e21605a465e1224d",
+    "decision.zh.md": "0629995f3e09b91f145872ebff6ea7786107b6b29355ba0e75dbd5e26b4100d0",
+    "site-novelty-search.txt": "490c6df77d82abb9c112a5fb9d9958ca847234e45bed889e4a35580cf82362c8",
+    "site-inventory.json": "8a425273544654868c31a5e0e51782c9661e2db2343b37bbb1c7ae4d5873f591",
+    "evidence/epmc-discovery.json": "e2574dfc682d7befc9cf240e9d6429cbd7f031393dc07677db345ff2e8cb7851",
+    "evidence/source-4.txt": "29e4ea8e8e5400e2854ca8f6770aca30efe3c9695df87abd83c64d489f4ad07e",
+    "evidence/source-1.html": "882e1549d929a489919776c1fb5f41adf554a112cf61d2a0a978054085931b21",
+    "evidence/alternative-pectin.txt": "4a7d280516eec1580e45a864f4f272e4e70e44a12e4245f866c5a882ec0055e1",
+    "evidence/alternative-pectin.html": "57336d287e33e7c765255d36d72bbc6898392f9051133fac110f87ebfa6a22f0",
+    "evidence/source-2.html": "b8aa4799b867ccb1c2af83806c8a92a08e12c359e03140f3fa29ee8648a76f10",
+    "evidence/serp-organic.json": "8face0353e0c6f6f3d4c2e9beb70266f6a4fb3d8a602a1c9436ac13f8f422980",
+    "evidence/source-3.xml": "090bfee6fd6380d33215b925603046acfed1a07c69495ada83baea26bbf004e5",
+    "evidence/serp-matrix.json": "c8dc32a9dc2cebb99be141759f60265054d1fd22e268e5d6165664765485f454",
+    "evidence/source-1.txt": "9e080cc820f390f42c902be2d32ba394d43741354db0e9f6773c8011e37f0528",
+    "evidence/source-3.txt": "11c51ca094ba6997d528cec10d8094ef9ae17153eec7bb6ed7f72f05957fc780",
+    "evidence/source-2.txt": "3e18b9ccee8ad6db1138e82abe86ee7ffa5740a303a7e0f4f1c42bb4ecacd74b",
+    "evidence/alternative-pectin-extract.json": "758410cbe4f6af3bb9db881db593363e46d2ad4b762f5adce9e32ac4a06a1d20",
+    "evidence/epmc-discovery-2.json": "6417c45aae878ff7fe9b70ad452ac5020cc93d25347839763dd9a6efe69e0f76"
+  }
+}

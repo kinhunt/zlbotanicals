@@ -1,0 +1,54 @@
+[
+  {
+    "claim": "Oil-soluble, water-dispersible, dry and liquid formats",
+    "source": 1,
+    "quotes": [
+      1,
+      2
+    ],
+    "limit": "Manufacturer offering, not ZL inventory"
+  },
+  {
+    "claim": "Carnosic-acid standardization; concentrations, carriers and formats",
+    "source": 2,
+    "quotes": [
+      1,
+      2
+    ],
+    "limit": "Manufacturer offering, not ZL specification"
+  },
+  {
+    "claim": "Pure three-compound mixture and ppm on fat basis",
+    "source": 3,
+    "quotes": [
+      3,
+      4
+    ],
+    "limit": "Not commercial extract"
+  },
+  {
+    "claim": "40 C / 23% RH / 90 days; 308 ppm generally less effective than BHA:BHT comparator",
+    "source": 3,
+    "quotes": [
+      1,
+      2
+    ],
+    "limit": "Not commercial dose or shelf life"
+  },
+  {
+    "claim": "Market-dependent allowance and labelling",
+    "source": 1,
+    "quotes": [
+      3
+    ],
+    "limit": "Not legal clearance"
+  },
+  {
+    "claim": "Pectin alternative studies starch noodles",
+    "source": 4,
+    "quotes": [
+      1
+    ],
+    "limit": "Abstract only; not gummy proof"
+  }
+]
