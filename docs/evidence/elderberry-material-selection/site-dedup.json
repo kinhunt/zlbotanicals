@@ -1,0 +1,37 @@
+{
+  "sha": "b842a492a415abe0b0362a92d9494b6a1063ac3a",
+  "matches": [
+    {
+      "path": "src/content/blog/en/paprika-extract-format-selection.md",
+      "matches": [
+        "For an oil-based seasoning or coloured fat phase, start the sourcing discussion with an oil-standardized colouring extract. For an aqueous sauce, ask about a water-dispersible preparation and its complete composition. For a spicy seasoning, state the pungency requirement separately rather than expecting a red colouring extract to supply it. These are starting points for selecting samples, not confirmed performance in your recipe."
+      ]
+    },
+    {
+      "path": "src/data/deep-ingredients.json",
+      "matches": [
+        "              \"text\": \"EFSA 2019年评估的申请材料涉及罗汉果（Siraitia grosvenorii）果实水提后获得的不同罗汉果甜苷V含量提取物。报告中的25%等级经历水提、果胶酶处理、浓缩与树脂柱；更高甜苷V等级增加再溶解、树脂吸附和洗脱等纯化步骤。25%等级在该申请资料中仍含3–6%葡萄糖、果糖、蔗糖等糖类，更高等级经附加树脂步骤后糖类降至1%以下、报告仅剩葡萄糖。这里是特定申请材料，不是所有商业25%或50%产品的统一糖含量标准。[5]\"",
+        "              \"text\": \"**果实验收与分选 → 清洗/适度破碎 → 水提 → 果胶酶处理 → 固液分离与澄清 → 可选浓缩 → 树脂吸附 → 水洗去糖与杂质 → 适配洗脱 → 溶剂回收/再浓缩 → 可选二次纯化 → 干燥 → 按甜苷谱与载体标准化。** 果胶酶、浓缩、树脂与更高等级附加纯化有上述 dossier 支持；精确先后顺序、酶处理位置、洗脱剂及设备配置应按拟开发材料验证，本文不把示意流程当作申请人公开的完整生产SOP。[5]\"",
+        "              \"text\": \"水提把甜苷与其他水可提取成分带入液相。工程建议通过时间序列测定甜苷V质量回收、可溶性固形物与过滤性，选择停止点，而不是一直提高糖度。果胶酶的任务是改变果胶网络，工程上可用于降低黏度和帮助分离；应通过黏度、浊度、过滤周期和甜苷回收证明实际价值。酶活单位、来源、添加量和失活方法需一并定义；只写“酶解提取”无法判断工艺。评估资料证明该申请使用果胶酶，但未在此提供可直接复制的工业酶量、温度或时间。[5]\"",
+        "              \"text\": \"工程建议：清洗分选与破碎设备控制原料异物和颗粒负担；带搅拌温控的提取罐实现均匀接触；酶处理罐需要可追溯温度、时间和加料；离心/澄清设备降低柱前固体负荷；吸附柱配分段收集、流量及压差监测，使纯度和回收的取舍可被记录。果胶酶与树脂是评估材料实际记载的环节，但本项目没有任何设备供应商性能或自有产线证据。[5]\"",
+        "              \"text\": \"The applicant materials assessed by EFSA in 2019 concerned water extracts of Siraitia grosvenorii fruit with different mogroside V contents. The 25% grade underwent water extraction, pectinase treatment, concentration and a resin column. Higher grades added redissolution and resin adsorption/elution purification. In that dossier, the 25% grade retained 3–6% saccharides including glucose, fructose and sucrose; additional resin treatment reduced saccharides below 1% in highe",
+        "              \"text\": \"**Fruit receiving/sorting → washing/moderate size reduction → water extraction → pectinase treatment → separation/clarification → optional concentration → resin adsorption → aqueous washing to remove sugars/impurities → suitable elution → solvent recovery/reconcentration → optional second purification → drying → standardisation by mogroside profile and carrier.** Pectinase, concentration, resin treatment and additional purification are supported by the dossier. Exact order",
+        "              \"text\": \"Water extraction transfers mogrosides and other water-extractable constituents into liquid. Use time-series target mass recovery, soluble solids and filterability to set the endpoint, not ever-higher soluble-solids readings. Pectinase modifies pectin networks and can be investigated for viscosity reduction and easier separation. Demonstrate value through viscosity, turbidity, filtration cycles and mogroside recovery. Define activity units, origin, dose and inactivation tog",
+        "              \"text\": \"Proposed functions: sorting/washing and cutting control foreign matter and particle loading; an agitated temperature-controlled extractor provides contact; the enzyme vessel records temperature, time and dosing; clarification reduces column solids; adsorption columns with fraction collection, flow and pressure monitoring make purity/recovery decisions traceable. Pectinase and resin are recorded dossier operations, but no equipment-vendor performance or company-owned line h"
+      ]
+    },
+    {
+      "path": "src/data/ingredient-reader-packs.json",
+      "matches": [
+        "              \"text\": \"For enriched extract, EFSA’s dossier describes water extraction, pectinase treatment, concentration and a resin column for the nominal 25% V grade. Higher grades undergo additional dissolution and resin adsorption/elution. The dossier’s proposed 25% grade specification allowed 3–6% saccharides; higher-grade specifications were below 1%. These are dossier-specific specifications, not universal properties of all 25% or 50% materials.[20]\"",
+        "              \"text\": \"富集提取物方面，EFSA申报资料描述了标称25% V规格的水提、果胶酶处理、浓缩及树脂柱工序；更高规格增加溶解与树脂吸附洗脱。资料中25%规格拟定糖类为3–6%，较高规格为低于1%。这些属于该申报资料的规格，不是所有25%或50%商品的普遍性质。[20]\"",
+        "              \"text\": \"权利要求1涉及用约140–212 °F水提取葡萄籽，并进行双pH处理的多酚提取工艺。权利要求2增加pH 1.5–2.5酸化、果胶酶处理及吸附树脂；权利要求5规定碱化至pH 4.0–6.0。这些来自权利要求限定，而不是仅凭标题判断。权利要求12–15将食品、饮料、化妆品及补充剂与权利要求11的提取物相联系。[8]\"",
+        "              \"text\": \"Juice powder supplies fruit solids and flavor. A selected food-grade pectin grade supplies the gel network; sugar or syrup sets the solids balance, water enables hydration, and acid sets final taste and the grade-specific gel conditions. The goji ingredient is not assumed to replace pectin.\"",
+        "              \"text\": \"Predisperse and hydrate pectin according to its grade. Prepare the syrup and establish the solids target. Incorporate a separately dispersed juice powder under controlled mixing; add acid at the point appropriate to the selected gel system. Deposit, set and condition before packing. Validate temperature and hold time around goji addition rather than using late addition as a substitute for microbial control.\"",
+        "              \"text\": \"果汁粉提供果实固形物和风味；选定的食品级果胶建立凝胶网络；糖或糖浆调节固形物，水用于水化，酸调节口味及该果胶等级所需成胶条件。不假定枸杞原料能替代果胶。\"",
+        "              \"text\": \"按果胶等级要求预分散并水化。配制糖浆并确定固形物目标，在受控混合下加入另行分散的果汁粉，再按凝胶体系要求的节点加酸。浇注、成型、调理后包装。验证枸杞加料前后的温度与停留时间，不能以末段添加替代微生物控制。\""
+      ]
+    }
+  ],
+  "backlog_matches": []
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10096080/fullTextXML",
+  "retrieved_at_utc": "2026-09-21T18:43:54.165302+00:00",
+  "status": 200,
+  "raw_sha256": "77079289ef8595292eca372a2d7fe366e393011833469f26ae24a33af461afdc",
+  "text_sha256": "052c95b6c66c32b52c955fe38382fd2f9873455700bb8a0752195b80cf81852e",
+  "source_publication_date": "see article XML"
+}

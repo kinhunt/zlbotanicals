@@ -1,0 +1,184 @@
+[
+  {
+    "claim_id": "C01",
+    "source_id": 1,
+    "supports": "7% species, plant part, membrane/spray-drying, maltodextrin, water solubility, 32:1 and HPLC identity",
+    "quote": "Product Description: Pure European black elderberry (Sambucus nigra) extract; processed without organic solvent via physical \nmembrane separation and spray-dried with maltodextrin as an excipient; standardized to a minimum anthocyanin content of 7% \nProduct Properties \nColor \nIntensely dark red \nAppearance \nPowder, uniform particles, hygroscopic \nTaste \nCharacteristic of elderberry; astringent \nOdor \nCharacteristic of elderberry \nMesh size \n> 98% through 60 mesh (< 250 µm) \nExcipient \nMaltodextrin (organic, corn-based)  \nSolubility \nSoluble in water and water/alcohol mixtures \nExtract ratio \n32:1 \nIdentity \nHPLC anthocyanin profile unique to elderberry \nPlant part used \nBerries (fruit)",
+    "evidence_file": "evidence/f6db0fe201b7/fulltext.txt",
+    "locator": "characters 129:823; see archived original",
+    "quote_sha256": "31e53f565ddc7c32258628ee16734cba40aaa5349463a129004e422014c3e65c",
+    "draft_anchor_strings": [
+      "membrane separation",
+      "32:1",
+      "HPLC anthocyanin profile",
+      "物理膜分离",
+      "吸湿性"
+    ]
+  },
+  {
+    "claim_id": "C02",
+    "source_id": 1,
+    "supports": "7% two anthocyanin methods and two polyphenol reporting bases",
+    "quote": "Anthocyanins (Expr. as cyanidin-3-glucoside; pH-Diff.) \n7.00 – 8.80 \ng/100 g \nAnthocyanins (Expr. as cyanidin-3-glucoside; HPLC) \n6.50 – 8.10 \ng/100 g \nPolyphenols (Expr. as catechin; Folin-Ciocalteu) \n8.40 – 15.40 \ng/100 g \nPolyphenols (Expr. as gallic acid equivalent; Folin-Ciocalteu) \n7.70 – 14.70 \ng/100 g \nMoisture",
+    "evidence_file": "evidence/f6db0fe201b7/fulltext.txt",
+    "locator": "characters 851:1171; see archived original",
+    "quote_sha256": "66bbed58aa8e6352f63408ce0c722676d60d1b06e429d28ba5e1428c8a982eea",
+    "draft_anchor_strings": [
+      "6.50–8.10",
+      "8.40–15.40"
+    ]
+  },
+  {
+    "claim_id": "C03",
+    "source_id": 2,
+    "supports": "4% botanical/material identity, carrier, 16–18:1",
+    "quote": "Product Description: Pure European black elderberry (Sambucus nigra) extract; processed without organic solvent via physical \nmembrane separation and spray-dried with maltodextrin as an excipient; standardized to a minimum anthocyanin content of 4% \n \n \nProduct Properties \n \nColor \nIntensely dark red \nAppearance \nPowder, uniform particles, hygroscopic \nTaste \nCharacteristic of elderberry; astringent \nOdor \nCharacteristic of elderberry \nMesh size  \n> 98% through 60 mesh (< 250 µm) \nExcipient \nOrganic maltodextrin (organic, corn-based)  \nSolubility \nSoluble in water and water/alcohol mixtures \nExtract ratio \n16-18:1 \nIdentity \nHPLC anthocyanin profile unique to elderberry \nPlant part used \nBerries (fruit)",
+    "evidence_file": "evidence/0703bedbcbe0/fulltext.txt",
+    "locator": "characters 752:1464; see archived original",
+    "quote_sha256": "eab965958f3613370098f287288957eba36fd16112b6e052f7905aea2cee8661",
+    "draft_anchor_strings": [
+      "16–18:1",
+      "16–18:1"
+    ]
+  },
+  {
+    "claim_id": "C04",
+    "source_id": 2,
+    "supports": "4% pH differential and HPLC ranges",
+    "quote": "Anthocyanins (Expr. as cyanidin-3-glucoside; pH-Diff.) \n4.00 – 5.40 \ng/100 g \nAnthocyanins (Expr. as cyanidin-3-glucoside; HPLC) \n4.10 – 5.30 \ng/100 g \nPolyphenols (Expr. as catechin; Folin-Ciocalteu) \n5.40 – 10.60 \ng/100 g \nPolyphenols (Expr. as gallic acid equivalent; Folin-Ciocalteu) \n5.00 – 10.00 \ng/100 g \nMoisture",
+    "evidence_file": "evidence/0703bedbcbe0/fulltext.txt",
+    "locator": "characters 1496:1816; see archived original",
+    "quote_sha256": "a7ebf2ba4634791ab765ef7ae3f4d16492465c3d76c3fdd1232bfa95100d6723",
+    "draft_anchor_strings": [
+      "4.10–5.30",
+      "4.00–5.40"
+    ]
+  },
+  {
+    "claim_id": "C05",
+    "source_id": 5,
+    "supports": "Catalog standard vs HighFiber grades; approximate fiber vs minimum anthocyanins; supplier declarations not tests",
+    "quote": "7%\nSambucus nigra (L.)\nfruit\n≥ 7% anthocyanins\n≥ 8.4% polyphenols\n≈ 5.2% elderberry fiber\nimmune support, \nanti-viral, prebiotic\n4%\nSambucus nigra (L.)\nfruit\n≥ 4% anthocyanins\n≥ 5.4% polyphenols\n≈ 3.1% elderberry fiber\nimmune support, \nanti-viral, prebiotic\nHighFiber 7%\nSambucus nigra (L.)\nfruit\n≥ 7% anthocyanins\n≥ 8.4% polyphenols\n≈ 43% elderberry fiber\nimmune support, \nanti-viral, prebiotic\nHighFiber 4%\nSambucus nigra (L.)\nfruit\n≥ 4% anthocyanins\n≥ 5.4% polyphenols\n≈ 54% elderberry fiber",
+    "evidence_file": "evidence/13d486e911fe/fulltext.txt",
+    "locator": "characters 1660:2154; see archived original",
+    "quote_sha256": "3d1e6d58770efcc176fd44bd3ae6eb45a546add3ed2da9d36ee11f6b4b793902",
+    "draft_anchor_strings": [
+      "Approximately 43%",
+      "约43%",
+      "Approximately 54%",
+      "约54%"
+    ]
+  },
+  {
+    "claim_id": "C06",
+    "source_id": 7,
+    "supports": "Iprona Rubini black elderberry coloring example, units rather than assumed equivalence to standard extracts",
+    "quote": "We supply standardised natural colourants with a wide range of intensities for fruit preparations, drinks, sweets, jams and ice cream. Our most vivid colour solution is produced from\nblack elderberry\nand marketed under the\nRubini®\ntrademark. All our natural colourants use industry standard unit quantification.",
+    "evidence_file": "evidence/0fdead85c883/fulltext.txt",
+    "locator": "characters 1698:2009; see archived original",
+    "quote_sha256": "c147737c8eee60c9febde693dc6ecc30aaa0798e32bf3a206ce82b41515a1f3c",
+    "draft_anchor_strings": [
+      "Rubini"
+    ]
+  },
+  {
+    "claim_id": "C07",
+    "source_id": 8,
+    "supports": "Review supports comprehensive chemical profiling and marker stability characterization",
+    "quote": "To maintain consistency and ascertain safety, the elderberry extracts should be subjected to comprehensive characterization and chemical profiling of their phytochemical composition using a range of analytical techniques. Moreover, the stability of the extracts should be determined by analyzing relevant marker constituents in the elderberry extracts.",
+    "evidence_file": "evidence/PMC10096080/fulltext.txt",
+    "locator": "characters 37261:37613; see archived original",
+    "quote_sha256": "da14bff7aa8e1c8f1a8105f5e8fe6bfc1cfda7c8864c786ea20a4302bffdcf39",
+    "draft_anchor_strings": [
+      "chemical profiling",
+      "化学谱表征"
+    ]
+  },
+  {
+    "claim_id": "C08",
+    "source_id": 8,
+    "supports": "Review LC/LCMS methods for qualitative/quantitative assessment and species profiles; no efficacy adopted",
+    "quote": "For Sambucus samples, LC-MS methods are commonly used for the qualitative and quantitative analysis of anthocyanins, phenolic acids, flavonoids, triterpenoids, and cyanogenic glycosides from various parts of the plant material. Various reports have been published, screening the secondary metabolites of Sambucus samples and related commercial products, such as juices, jams, dietary supplements, etc. In 1983, Brønnum-Hansen et al. [64] reported on the HPLC-UV/V method for the separation of anthocyanins from S. nigra berries under reversed-phase chromatography conditions. S. nigra and S. canadensis were differentiated by the acylated anthocyanin, cyanidin 3-O-(6-O-E/Z-p-coumaroyl-2-O-β-d-xylopyranosyl)-β-d-glcpyr-5-O-β-d-glucopyranoside, which is abundant in the S. canadensis variety. The separation of acylated anthocyanins was achieved using LC/LC-MS. In 1996, Inami et al. [51] and Lee et al. [37] reported on the differentiation of anthocyanin profiles between S. nigra and S. canadensis berries, performing stability studies on anthocyanins. Further applications of liquid chromatography methods to separate and study the anthocyanin profiles of commercial elderberry products have been conducted [19,65,66,67] in recent years. These studies help in the quality assessment of juices using elderberries as an active component. So far, various analytical reports have been published on anthocyanin analysis in S. nigra [16,37,51,64,68,69,70]. Anthocyanins from elderberries are known for their antioxidant activity. Various reports show the antioxidant activity [19,67,70], anti-microbial activity, enzyme inhibitory activity, anti-glycation, and anti-inflammatory activities of S. nigra berries. Table 3 presents a list of liquid chromatography-based analytical methods reported for elderberry fruit.",
+    "evidence_file": "evidence/PMC10096080/fulltext.txt",
+    "locator": "characters 44861:46673; see archived original",
+    "quote_sha256": "7436d38ecdfa6947ed6703e73323c0201046c5b2fb6d0ddbdbbf83472d2ca044",
+    "draft_anchor_strings": [
+      "qualitative and quantitative",
+      "定性、定量"
+    ]
+  },
+  {
+    "claim_id": "C09",
+    "source_id": 1,
+    "supports": "Specification issue date and version; digital signature confirms February 6",
+    "quote": "Issue Date: 2/6/23 \nFort Wayne, IN 46809-3301              \nhttps://www.artemis-international.com/ \nVersion Number: 09",
+    "evidence_file": "evidence/f6db0fe201b7/fulltext.txt",
+    "locator": "characters 2707:2825; see archived original",
+    "quote_sha256": "4a01896a530ab03f9e2f85695bf24a1d090f59f379b7036777f20f6c0cac3d09",
+    "draft_anchor_strings": [
+      "February 6, 2023",
+      "2023年2月6日"
+    ]
+  },
+  {
+    "claim_id": "C10",
+    "source_id": 2,
+    "supports": "Specification issue date and version distinct from June signature",
+    "quote": "Issue Date: 3/15/2023 \nFort Wayne, IN 46809-3301              \nhttps://www.artemis-international.com/ \nVersion Number: 08",
+    "evidence_file": "evidence/0703bedbcbe0/fulltext.txt",
+    "locator": "characters 492:613; see archived original",
+    "quote_sha256": "3748411c7eddda2ccf16f88495c4b9f62f10cf880219289ce56832426286e12d",
+    "draft_anchor_strings": [
+      "March 15, 2023",
+      "2023年3月15日"
+    ]
+  },
+  {
+    "claim_id": "C11",
+    "source_id": 9,
+    "supports": "Amazon title Juice Powder and Contains Maltodextrin; same ASIN",
+    "quote": "Food to Live Organic Black Elderberry Juice Powder, 1 Pound Non-GMO, Made from Raw Dried Berries, Unsulfured, Vegan, Bulk, Great for Baking, Smoothies, Yogurts, No Sulphites, Contains Maltodextrin",
+    "evidence_file": "evidence/f47e62f509f2/fulltext.txt",
+    "locator": "characters 12:208; see archived original",
+    "quote_sha256": "d4b70d341ffa5d9287a96d11ecc374b0e482f850043ea7bb17d8c98279f85618",
+    "draft_anchor_strings": [
+      "Food to Live"
+    ]
+  },
+  {
+    "claim_id": "C12",
+    "source_id": 9,
+    "supports": "Same ASIN product bullets claim whole berries unlike juice; listing discrepancy not physical finding",
+    "quote": "✔️ FINE TEXTURE, MADE FROM WHOLE BERRIES: Unlike JUICE Elderberry Powder, Food to Live’s Organic Black Elderberry Powder is made from entire berries retaining their rich nutritional profile.",
+    "evidence_file": "evidence/f47e62f509f2/fulltext.txt",
+    "locator": "characters 7238:7428; see archived original",
+    "quote_sha256": "5e65551b40d1d8be144d115f41f9830759328548d7d3756a629146bf89dabc70",
+    "draft_anchor_strings": [
+      "Food to Live"
+    ]
+  },
+  {
+    "claim_id": "C13",
+    "source_id": 10,
+    "supports": "Terrasoul listing claims freeze-dried 100% elderberries, no additives; not verified physical composition",
+    "quote": "Our freeze-dried elderberry powder is made from 100% elderberries with no additives.",
+    "evidence_file": "evidence/2941f8e21da0/fulltext.txt",
+    "locator": "characters 6852:6936; see archived original",
+    "quote_sha256": "8504949888bb5596d8031d51f170b17593e5cd30efa43eec62bb082d44a95b4d",
+    "draft_anchor_strings": [
+      "Terrasoul"
+    ]
+  },
+  {
+    "claim_id": "C14",
+    "source_id": 11,
+    "supports": "Bulk Essentials title describes maltodextrin and 175mg per serving without anthocyanin identity",
+    "quote": "Elderberry Extract Powder w/Maltodextrin, 250g, 175mg Per Serving",
+    "evidence_file": "evidence/52d37814810d/fulltext.txt",
+    "locator": "characters 12:77; see archived original",
+    "quote_sha256": "d3d653298f71c983b3cdf90dfcbf2a47cd99052776b7cca6759b711670f5175e",
+    "draft_anchor_strings": [
+      "Bulk Essentials"
+    ]
+  }
+]

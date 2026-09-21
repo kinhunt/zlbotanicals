@@ -1,0 +1,11 @@
+{
+  "url": "https://www.amazon.com/dp/B086BXMF5X",
+  "final_url": "https://www.amazon.com/dp/B086BXMF5X",
+  "retrieved_at_utc": "2026-09-21T18:52:22.278581+00:00",
+  "status": 200,
+  "raw_sha256": "0fc5e8eaaeb96e86eedf74e45daac7635551d2ae15c52b4886c3929dfbb366fa",
+  "text_sha256": "da7a9f7b85dede979cbb6e2dc0d86b50422375eba07ae6523ac7f3611a1363db",
+  "text_chars": 24181,
+  "source_publication_date": null,
+  "raw_file": "raw.html"
+}

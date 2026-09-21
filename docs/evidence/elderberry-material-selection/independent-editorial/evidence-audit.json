@@ -1,0 +1,92 @@
+{
+  "checked_at": "2026-09-21T18:55:44.854709+00:00",
+  "quote_checks": [
+    {
+      "id": "C01",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    },
+    {
+      "id": "C02",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    },
+    {
+      "id": "C03",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    },
+    {
+      "id": "C04",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    },
+    {
+      "id": "C05",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    },
+    {
+      "id": "C06",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    },
+    {
+      "id": "C07",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    },
+    {
+      "id": "C08",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    },
+    {
+      "id": "C09",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    },
+    {
+      "id": "C10",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    },
+    {
+      "id": "C11",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    },
+    {
+      "id": "C12",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    },
+    {
+      "id": "C13",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    },
+    {
+      "id": "C14",
+      "literal_quote_found": true,
+      "quote_hash_match": true
+    }
+  ],
+  "file_sha256": {
+    "/data/hermes/research/seo-growth/2026-09-21-evening-discovery/elderberry/claim-evidence.json": "52e43c3ee9944fb481b1688c13911fc8917f4f7a5c143e79a3d0906b6ea93c2b",
+    "/data/hermes/research/seo-growth/2026-09-21-evening-discovery/elderberry/source-ledger.json": "171eaadebf2de3998457e9cfbb1945621ec0bcc3c127977a101d040e5250dbbc",
+    "/data/hermes/research/seo-growth/2026-09-21-evening-discovery/elderberry/evidence/f6db0fe201b7/fulltext.txt": "a51f333c72e25fa9cd3a19ea1efa222c769d5fd31373e133484f74ca3a20fcc3",
+    "/data/hermes/research/seo-growth/2026-09-21-evening-discovery/elderberry/evidence/0703bedbcbe0/fulltext.txt": "ae2ae890bdacd0e029f572230bbc1f772f1a7774bed108b773de70d025307d1f",
+    "/data/hermes/research/seo-growth/2026-09-21-evening-discovery/elderberry/evidence/13d486e911fe/fulltext.txt": "b3e8eed7556b5290b89b4e71c472aecdd876fbb8bcc088e17c0db54b8361e50e",
+    "/data/hermes/research/seo-growth/2026-09-21-evening-discovery/elderberry/evidence/0fdead85c883/fulltext.txt": "63c2b28caa5d20107b38de08d5488117040c5a5a81659474ebe28b5f93e54faa",
+    "/data/hermes/research/seo-growth/2026-09-21-evening-discovery/elderberry/evidence/PMC10096080/fulltext.txt": "052c95b6c66c32b52c955fe38382fd2f9873455700bb8a0752195b80cf81852e",
+    "/data/hermes/research/seo-growth/2026-09-21-evening-discovery/elderberry/evidence/f47e62f509f2/fulltext.txt": "123a63ef470dc17d91ccd81d34175d7a11885f676612579d8586f1f60efe44a1",
+    "/data/hermes/research/seo-growth/2026-09-21-evening-discovery/elderberry/evidence/2941f8e21da0/fulltext.txt": "da7a9f7b85dede979cbb6e2dc0d86b50422375eba07ae6523ac7f3611a1363db",
+    "/data/hermes/research/seo-growth/2026-09-21-evening-discovery/elderberry/evidence/52d37814810d/fulltext.txt": "73a58b61c2a2737d2af5923e3f1330813fa307e292fe536a7d6eebba02ddcbcc",
+    "/data/hermes/research/seo-growth/2026-09-21-evening-browser/receipt.md": "c5010de434c5335ff9ea2c7aa75da3f5fdb6c6a1ad0f7cd2d177b8cbf658b8b5",
+    "/data/hermes/research/seo-growth/2026-09-21-evening-browser/product-juice-result.json": "7588ebcd3728d6f8342a3885cac8a639ede1ebc48ce6ca7ecdab71adf85c8f44",
+    "/data/hermes/research/seo-growth/2026-09-21-evening-browser/product-extract-result.json": "997192951de327ae75ef83b7e13d4814305287f66bf4756a88748291e630b5ff",
+    "/data/hermes/research/seo-growth/2026-09-21-evening-browser/product-freeze-result.json": "001c47824995b168efdcf32ca4aba7e6fe966dffed3b9aeb378494355d1e678f"
+  },
+  "scope": "Original archived text, raw product DOM and catalog source image reviewed. Article rendering NOT reviewed."
+}

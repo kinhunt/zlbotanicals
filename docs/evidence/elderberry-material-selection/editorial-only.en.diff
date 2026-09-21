@@ -1,0 +1,20 @@
+--- approved-input
++++ editorial-revised
+@@ -58,7 +58,7 @@
+ 
+ For a brand interested in a fruit-led product, this offers a different direction from a 7% standardized extract. Purchasing should preserve the distinction: freeze-drying describes processing, not an assay grade. It does not establish that the powder can replace a standardized ingredient at equal weight for a fixed anthocyanin input.
+ 
+-### Bulk Essentials: 175 mg per serving is not 175 mg of anthocyanins
++### Bulk Essentials: the title does not identify what the 175 mg represents
+ 
+ The [Bulk Essentials](https://www.amazon.com/dp/B0FF6GT2NY) title reads “Elderberry Extract Powder w/Maltodextrin, 250g, 175mg Per Serving.” It explicitly names an extract, maltodextrin and a per-serving quantity, but does not identify the 175 mg as anthocyanins.[11]
+ 
+@@ -68,7 +68,7 @@
+ 
+ The [Food to Live](https://www.amazon.com/dp/B097YTRXG5) title calls the product “Black Elderberry Juice Powder” and says “Contains Maltodextrin.” Yet a product bullet on the same ASIN says “Unlike JUICE Elderberry Powder” and describes the powder as made from “entire berries.”[9] The title places it in a juice-powder category while the detail distinguishes it from juice powder; combining those statements does not establish a single material identity.
+ 
+-The discrepancy was found in the product-detail capture and reproduced in the title and product-bullet regions of the same ASIN’s public HTML. It establishes inconsistent listing text—not the physical contents of the package or adulteration. For purchasing, the practical response is to obtain the current ingredient declaration, product specification and batch documentation before placing it in either a whole-fruit-powder or juice-powder price comparison.
++These are conflicting descriptions on the same product page. They do not establish the physical composition of the powder or adulteration. Before including it in a whole-fruit-powder or juice-powder price comparison, obtain the current ingredient declaration, specification and batch documentation.[9]
+ 
+ Across these examples, processing, excipients, serving amounts and constituent standardization appear at different levels of the commercial description. Separating them makes it easier to decide which materials belong in the same sample comparison.
+ 
