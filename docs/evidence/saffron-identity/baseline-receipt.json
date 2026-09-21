@@ -1,0 +1,11 @@
+{
+  "checked_at_utc": "2026-09-21T21:51:14.439714+00:00",
+  "remote_main": "2d43a60a578b06068cc975f8f3ca6c8bf2499ac0",
+  "repo_read_only": "/data/hermes/workspaces/zl-elderberry-release",
+  "snapshot": "main-snapshot.tar.gz",
+  "shared_inputs": {
+    "/data/hermes/research/seo-growth/editorial-discovery-brief.md": "50d5dea1f2ccb006bef2e991b993d126e97891684c335d3f926c7e953b29ed97",
+    "/data/hermes/research/seo-growth/backlog.json": "86fe41604bcddb9cfe2014f3da1fe77737f5132086736d24b5f827f0a0524bb6",
+    "/data/hermes/research/seo-growth/2026-09-21-continuation.md": "225c81aea09bfef5186115a720f466f520faeea99c8e023619add304a776837b"
+  }
+}

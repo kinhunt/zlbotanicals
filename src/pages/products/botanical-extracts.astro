@@ -8,6 +8,7 @@ const products = await getCollection('products', ({ data }) => data.lang === lan
 <PageLayout title="Botanical Extracts" description="Botanical ingredient supply forms, specifications and sample inquiries" lang={lang} heroTitle="Botanical Extracts" heroSubtitle="Botanical ingredient supply forms, specifications and sample inquiries">
   <section class="section-padding">
     <div class="container-wide">
+      <p class="max-w-3xl text-lg leading-relaxed text-gray-600 mb-8">For a concrete example of why identity, grade and screening need different evidence, read our <a class="text-primary underline" href="/resources/blog/saffron-identity">saffron procurement research guide</a>.</p>
       <p class="max-w-3xl text-lg text-gray-600 mb-10">Browse botanical extract supply forms, uses and specifications, then request samples, pricing and quality documents for the selected material. Supply terms and market suitability are confirmed in writing for the chosen grade.</p>
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         {products.map((product) => (

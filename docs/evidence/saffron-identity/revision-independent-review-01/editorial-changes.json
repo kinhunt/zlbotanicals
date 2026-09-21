@@ -1,0 +1,210 @@
+[
+  {
+    "file": "saffron-identity.en.md",
+    "old": "why a grade, a marker assay and an authenticity test answer different questions",
+    "new": "why composition, grade and authenticity need different evidence",
+    "occurrences": 1,
+    "rationale": "Align headline with the actual article; no quantitative marker-assay case study is supplied.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "等级、含量与真实性检测，不能互相替代",
+    "new": "组成、等级与真实性，需要不同的证据",
+    "occurrences": 1,
+    "rationale": "Match revised EN scope without promising a quantitative assay comparison.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "花丝状材料",
+    "new": "丝状柱头",
+    "occurrences": 4,
+    "rationale": "Botanical terminology: filaments here means thread-form stigmas, not the stamen filament 花丝; primary [2] introduction explicitly defines the material.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.en.md",
+    "old": "The procurement framework below is our interpretation of the research, not a validated release specification or a claim about a particular supplier.",
+    "new": "The framework below translates the research into questions for the supplier and laboratory.",
+    "occurrences": 1,
+    "rationale": "Replace repetitive defensive qualification with a positive statement of editorial purpose; final scope note retained.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "以下采购判断来自我们对文献的分析，不是经过验证的放行标准，也不代表对任何供应商的评价。",
+    "new": "以下将文献结论转化为可向供应商和实验室提出的问题。",
+    "occurrences": 1,
+    "rationale": "Natural equivalent of EN editorial-purpose sentence; avoid repeated disclaimers.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.en.md",
+    "old": "This is an editorial separation of responsibilities, not an additional certification scheme. ",
+    "new": "",
+    "occurrences": 1,
+    "rationale": "Table is already introduced as a purchasing recommendation; certification disclaimer adds no useful information.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "这张表是对采购任务的拆分，不是一套新增认证。",
+    "new": "",
+    "occurrences": 1,
+    "rationale": "Same bounded redundancy removal as EN.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.en.md",
+    "old": "What the answer should not be asked to prove",
+    "new": "What it does not establish",
+    "occurrences": 1,
+    "rationale": "Shorter, natural table header and less mobile wrapping.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "材料身份",
+    "new": "原料身份",
+    "occurrences": 1,
+    "rationale": "More idiomatic procurement wording; apply consistently in table.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.en.md",
+    "old": "the reported “odorous power” fell outside the specified range",
+    "new": "the reported optical “odorous power” value fell outside the specified range",
+    "occurrences": 1,
+    "rationale": "Make explicit this is an optical index, not a sensory aroma panel or direct safranal assay; [2] §2.2.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.en.md",
+    "old": "These were controlled additions to saffron powder, not a blind international survey of commercial extracts.",
+    "new": "These were controlled additions to saffron powder. The ethanol/water extraction was laboratory sample preparation, not a test of a manufactured extract ingredient.[1]",
+    "occurrences": 1,
+    "rationale": "Clarify the commercially important analytical-extraction versus ingredient-extract distinction rather than dismissing an international survey nobody proposed.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "这是一组向藏红花粉末中定量加入替代物的受控实验，不是对各国商业提取物进行的盲测调查。",
+    "new": "这是一组向藏红花粉末中定量加入替代物的受控实验。这里的乙醇—水提取是实验室前处理，并非对工业生产的提取物原料进行验证。[1]",
+    "occurrences": 1,
+    "rationale": "Mirror EN distinction; source methods identify the starting materials as stigmas and botanical challenge materials.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.en.md",
+    "old": "At the 1% addition level, each investigated plant could be detected",
+    "new": "The authors reported that, at the 1% addition level, each investigated plant could be detected",
+    "occurrences": 1,
+    "rationale": "Attribute result to primary narrative; this review is not an independent laboratory reproduction or all-cell supplement validation.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "在1%的添加水平下，研究中的每种植物材料都能通过至少三个标志离子被检出",
+    "new": "作者报告，在1%的添加水平下，研究中的每种植物材料都能通过至少三个标志离子被检出",
+    "occurrences": 1,
+    "rationale": "Same attribution as EN.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.en.md",
+    "old": "Detection of three ions at the lowest tested addition and satisfaction of the proposed unknown-sample classification rule are not interchangeable endpoints.",
+    "new": "The 80% refers to the share of that adulterant’s markers detected, not its mass fraction in saffron. Detecting at least three ions at the lowest tested addition does not by itself establish that this classification rule was met.",
+    "occurrences": 1,
+    "rationale": "Explicitly distinguish denominators and avoid a claimed contradiction: differing endpoints alone do not prove the rule failed; all-marker outcomes have not been recalculated.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "因而，“最低添加水平检出了三个离子”与“满足未知样品的判定规则”并不是同一个终点。",
+    "new": "这里的80%是该替代物标志物中被检出的比例，不是它在藏红花中的质量分数。最低添加水平检出了至少三个离子，本身并不能说明已满足这条判定规则。",
+    "occurrences": 1,
+    "rationale": "Natural Chinese instead of clinical-sounding 终点; preserve at least and clarify marker-count versus mixture-mass denominator.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "## 把“真实性检测通过”改成有范围的结论",
+    "new": "## 让“真实性检测通过”说明检测范围",
+    "occurrences": 1,
+    "rationale": "Less mechanical Chinese heading.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "实验室用这个方法，按这些判定条件，检查了这些明确列出的目标，得到这样的结果。",
+    "new": "实验室采用什么方法和判定条件，检测了哪些目标，结果是什么。",
+    "occurrences": 1,
+    "rationale": "Make report checklist readable instead of repeating empty demonstratives.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.en.md",
+    "old": "The studies reviewed here do not provide that bridge.[1][2] Treat the unresolved bridge as a technical question to close before acceptance, not as proof that the extract is defective.",
+    "new": "The studies reviewed here do not validate that application.[1][2] Resolve method applicability before acceptance; the evidence gap alone does not show that the extract is defective.",
+    "occurrences": 1,
+    "rationale": "Replace repeated bridge metaphor with concrete method applicability.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "本文两项研究并未完成这种衔接。[1][2] 证据尚未衔接，是验收前需要解决的技术问题，不是提取物已经有问题的证明。",
+    "new": "本文两项研究并未验证这种用途。[1][2] 验收前应确认方法的适用性；缺少这项验证，并不等于提取物本身不合格。",
+    "occurrences": 1,
+    "rationale": "Replace awkward repeated 衔接 with direct procurement language.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.en.md",
+    "old": "Availability, suitable methods, regulatory acceptability and project feasibility require separate confirmation; none is promised by this article.",
+    "new": "Confirm supply and destination-market requirements for the specific project.",
+    "occurrences": 1,
+    "rationale": "Keep practical commercial next step without disclaimer pile-up.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "供应可得性、适用方法、法规适用性和项目可行性均需另行确认，本文不作承诺。",
+    "new": "具体项目还需确认供应情况及目标市场的合规要求。",
+    "occurrences": 1,
+    "rationale": "Remove translationese 供应可得性 and repetitive non-promise.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.en.md",
+    "old": "**Evidence boundary:** This is a procurement interpretation of two primary analytical studies, not original testing of commercial supplier lots. It makes no health-effect claim, no current ISO certification claim and no assertion that the full current ISO standard has been independently audited. The numerical examples remain study-specific.",
+    "new": "**Scope:** This article interprets two analytical studies for procurement; it does not report our own supplier-lot testing. The numerical results apply to the study conditions, not a validated purchasing specification. For a contractual ISO requirement, confirm the applicable edition and test scope with the laboratory.",
+    "occurrences": 1,
+    "rationale": "One useful scope note instead of listing unrelated health/certification claims the article never makes. Does not assert a current ISO edition or full-standard audit.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "**证据边界：** 本文是对两项原始分析研究的采购解读，没有自行检测商业供应批次；不作健康功效宣传，不宣称当前ISO认证状态，也不表示已经独立审核现行ISO标准全文。文中的数值均限于对应研究条件。",
+    "new": "**适用范围：** 本文从采购角度解读两项分析研究，并未自行检测供应商批次。文中数值适用于相应研究条件，不是经过验证的采购规格。合同如引用ISO标准，应与实验室确认适用版本及检测范围。",
+    "occurrences": 1,
+    "rationale": "Match concise, actionable EN scope note.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "针对藏红花柱头、丝状柱头和粉末的研究",
+    "new": "针对藏红花丝状柱头及其粉末的研究",
+    "occurrences": 1,
+    "rationale": "Remove redundant 柱头/丝状柱头 listing introduced by terminology correction.",
+    "requires_parent_verification": true
+  },
+  {
+    "file": "saffron-identity.zh.md",
+    "old": "以藏红花柱头、丝状柱头及粉末为对象",
+    "new": "以藏红花丝状柱头及其粉末为对象",
+    "occurrences": 1,
+    "rationale": "Same final sentence-level smoothing.",
+    "requires_parent_verification": true
+  }
+]
