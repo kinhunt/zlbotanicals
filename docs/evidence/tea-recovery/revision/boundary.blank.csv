@@ -1,0 +1,2 @@
+﻿boundary_id,batch_id,project,operator,tea_type,form,other_ingredients,step_id,process_description,boundary_scope,inventory_scope,interval_start,interval_end,designated_product_streams,analyte,method_comparability_ref,temperature_C,duration_min,added_water_kg,criteria,approver,notes
+,,,,,,,,,,,,,,,,,,,,,

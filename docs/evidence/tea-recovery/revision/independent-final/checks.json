@@ -1,0 +1,271 @@
+{
+  "verdict": "PASS_RESEARCH_READINESS_ONLY",
+  "publication_approved": false,
+  "mandatory_findings": {
+    "F1": "corrected",
+    "F2": "corrected",
+    "F3": "corrected"
+  },
+  "blockers": [],
+  "inputs": {
+    "count": 80,
+    "unchanged": true,
+    "differences": [],
+    "scope": "All files under tea-recovery, excluding revision/independent-final; not whole-site filesystem monitoring"
+  },
+  "writer_manifests": {
+    "artifact-sha256.json": {
+      "entries": 17,
+      "mismatches": []
+    },
+    "input-sha256.json": {
+      "entries": 62,
+      "mismatches": []
+    }
+  },
+  "safety": {
+    "inspected": [
+      "validate.py",
+      "reference_math.py"
+    ],
+    "findings": "stdlib file reads, unittest and pure arithmetic only; no network or file writes; executed with -B"
+  },
+  "actual_tests": {
+    "command": "python -B validate.py",
+    "cwd": "/data/hermes/research/seo-growth/2026-09-21-tea-recovery/revision",
+    "exit_code": 0,
+    "unittest_methods": 3,
+    "result": "OK",
+    "independent_synthetic_assertions": 11,
+    "independent_exit_code": 0
+  },
+  "csvs": {
+    "streams": {
+      "columns": [
+        "boundary_id",
+        "batch_id",
+        "step_id",
+        "stream_id",
+        "role",
+        "analyte",
+        "interval_id",
+        "interval_start",
+        "interval_end",
+        "sampling_mode",
+        "sample_time",
+        "sample_id",
+        "quantity_basis",
+        "volume_L",
+        "mass_kg",
+        "result_basis",
+        "concentration_mg_L",
+        "content_mg_kg",
+        "wet_dry_basis",
+        "dry_fraction",
+        "analytical_D",
+        "already_corrected",
+        "qualifier",
+        "loq_value",
+        "loq_unit",
+        "loq_basis",
+        "method_id",
+        "lab_report_id",
+        "extraction_volume_L",
+        "test_portion_kg",
+        "test_portion_basis",
+        "extraction_method_ref",
+        "product_eligible",
+        "target_mg",
+        "notes"
+      ],
+      "column_count": 35,
+      "data_rows": 10,
+      "bom": true,
+      "row_widths": [
+        35,
+        35,
+        35,
+        35,
+        35,
+        35,
+        35,
+        35,
+        35,
+        35
+      ],
+      "nonblank_cells": [
+        {
+          "row": 1,
+          "column": "role",
+          "value": "feed"
+        },
+        {
+          "row": 2,
+          "column": "role",
+          "value": "added_water"
+        },
+        {
+          "row": 3,
+          "column": "role",
+          "value": "other_input"
+        },
+        {
+          "row": 4,
+          "column": "role",
+          "value": "permeate"
+        },
+        {
+          "row": 5,
+          "column": "role",
+          "value": "retentate"
+        },
+        {
+          "row": 6,
+          "column": "role",
+          "value": "wet_cake"
+        },
+        {
+          "row": 7,
+          "column": "role",
+          "value": "withdrawn_sample"
+        },
+        {
+          "row": 8,
+          "column": "role",
+          "value": "flush"
+        },
+        {
+          "row": 9,
+          "column": "role",
+          "value": "opening_inventory"
+        },
+        {
+          "row": 10,
+          "column": "role",
+          "value": "closing_inventory"
+        }
+      ],
+      "numeric_cell_count": 100,
+      "all_numeric_blank": true
+    },
+    "boundary": {
+      "columns": [
+        "boundary_id",
+        "batch_id",
+        "project",
+        "operator",
+        "tea_type",
+        "form",
+        "other_ingredients",
+        "step_id",
+        "process_description",
+        "boundary_scope",
+        "inventory_scope",
+        "interval_start",
+        "interval_end",
+        "designated_product_streams",
+        "analyte",
+        "method_comparability_ref",
+        "temperature_C",
+        "duration_min",
+        "added_water_kg",
+        "criteria",
+        "approver",
+        "notes"
+      ],
+      "column_count": 22,
+      "data_rows": 1,
+      "bom": true,
+      "row_widths": [
+        22
+      ],
+      "nonblank_cells": [],
+      "numeric_cell_count": 3,
+      "all_numeric_blank": true
+    },
+    "acceptance": {
+      "columns": [
+        "boundary_id",
+        "batch_id",
+        "pair_id",
+        "state",
+        "sample_id",
+        "concentrate_sample_id",
+        "operator",
+        "concentrate_kg",
+        "added_water_kg",
+        "other_inputs_kg",
+        "final_mass_kg",
+        "inputs_composition_ref",
+        "volume_dosing_ref",
+        "tea_solids_value",
+        "tea_solids_unit",
+        "tea_solids_basis",
+        "water_report_id",
+        "mixing_order",
+        "pH",
+        "heat_process",
+        "packaging",
+        "observation_time",
+        "observation_temperature_C",
+        "appearance_method",
+        "appearance_result",
+        "colour_method",
+        "colour_result",
+        "turbidity_value",
+        "turbidity_unit",
+        "turbidity_method",
+        "composition_method",
+        "composition_result",
+        "sample_scope",
+        "criteria_ref",
+        "appearance_decision",
+        "composition_decision",
+        "investigation_notes"
+      ],
+      "column_count": 37,
+      "data_rows": 2,
+      "bom": true,
+      "row_widths": [
+        37,
+        37
+      ],
+      "nonblank_cells": [
+        {
+          "row": 1,
+          "column": "state",
+          "value": "concentrate"
+        },
+        {
+          "row": 2,
+          "column": "state",
+          "value": "diluted_formulation"
+        }
+      ],
+      "numeric_cell_count": 16,
+      "all_numeric_blank": true
+    }
+  },
+  "blank_numeric_cells": 119,
+  "editorial": {
+    "zh": "pass for short research/procurement module",
+    "en": "pass, independently readable and equivalent claim strength",
+    "spec": "complete bilingual field instructions; technical reference not marketing prose"
+  },
+  "representations": {
+    "decision_matrix": "keep internal",
+    "modules": "keep short paragraphs; no invented recovery chart",
+    "spec_tables": "keep grouped bilingual dictionary",
+    "boundary_csv": "keep 22-column manual record",
+    "acceptance_csv": "keep 37-column paired-state record",
+    "streams_csv": "keep 35-column machine-readable long table; not a default web table",
+    "source_tables": "keep evidence only; no recovery bars, composition pie, or Sankey inferred from incomplete streams"
+  },
+  "limitations": [
+    "No publication, website edits, shared backlog edits or deployment approval",
+    "Not a working CSV calculator or validation of future user-entered datasets",
+    "No real samples, factory yield, validated extraction, uncertainty propagation or shelf-life validation",
+    "No browser/mobile/Excel usability testing",
+    "No fresh network literature re-review; bounded archived source spot-checks and original independent verdict retained"
+  ]
+}
