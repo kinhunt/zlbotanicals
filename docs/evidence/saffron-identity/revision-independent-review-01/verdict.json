@@ -1,0 +1,96 @@
+{
+  "status": "conditional_accept_revised_pack_pending_parent_verification",
+  "publication_ready": false,
+  "research_foundation": "accepted_for_bounded_procurement_article",
+  "independent_review_of_originals": true,
+  "revised_text_authored_by_this_reviewer": true,
+  "revised_text_independently_approved": false,
+  "blockers": [
+    {
+      "id": "B1",
+      "scope": "editorial_acceptance",
+      "description": "Parent must verify exact revised EN/ZH and independently accept corrections."
+    },
+    {
+      "id": "B2",
+      "scope": "publication_only",
+      "description": "Destination integration, tests, bilingual links and mobile/accessibility rendering not performed."
+    }
+  ],
+  "drafts": {
+    "saffron-identity.en.md": {
+      "original_path": "/data/hermes/research/seo-growth/2026-09-21-night-discovery/saffron-identity.en.md",
+      "original_sha256": "716771cd6df5d33ece6b7ed477eb20e7f48207f10e2eb7bfc41f0cfae8d301a8",
+      "revised_path": "/data/hermes/research/seo-growth/2026-09-21-night-discovery/revision-independent-review-01/saffron-identity.en.md",
+      "revised_sha256": "ce1ae529f172715259b212f0df9385e18a1f1a351541613463e8a2b7d90ec7c2"
+    },
+    "saffron-identity.zh.md": {
+      "original_path": "/data/hermes/research/seo-growth/2026-09-21-night-discovery/saffron-identity.zh.md",
+      "original_sha256": "3ef5b7f2c99c92e5f51794b705acbdd4418cbb9b591d694593a510db46ed6302",
+      "revised_path": "/data/hermes/research/seo-growth/2026-09-21-night-discovery/revision-independent-review-01/saffron-identity.zh.md",
+      "revised_sha256": "7c1616b322cac317e89527e881fa7cde524036b7f2654b449480223b99288bd4"
+    }
+  },
+  "original_files_unchanged": true,
+  "original_archive_hashes": {
+    "saffron-identity.en.md": "716771cd6df5d33ece6b7ed477eb20e7f48207f10e2eb7bfc41f0cfae8d301a8",
+    "ledger.json": "e28822f3dd7b57db5298e6c469c38f9cafe38fdea8989ea96147885160ee4831",
+    "saffron-identity.zh.md": "3ef5b7f2c99c92e5f51794b705acbdd4418cbb9b591d694593a510db46ed6302",
+    "file-hashes.json": "e4dbf4eb81b3bb3dfe9e4b1bcb8b18504d1f8efe44743eac12f0913d2cdfc693",
+    "exact-excerpts.json": "2b462bb04a47b3c94aeba884486281474e88650d7e4dc3c57885b4af33579239",
+    "verification.json": "af027bff3c1bfb2a26f881ef7f808a113766402a11efa89e56aedef1657c67e5",
+    "coverage-main.json": "2a5c02e8f1f5db23199eab7d20efd01d614939a52f991ede8227071b7c202e15",
+    "main-snapshot.tar.gz": "796515c6502f35ba94915f0c46117b06cfdf1d6ecd1ed9ad30705cf27ff80f2a",
+    "discovery-and-source-audit.md": "0efb58086b57ed3dd4745e2c5cb7e1b1252d0f2afdb997464b36fded4c4a1520",
+    "saffron-ledger.json": "4f236ae984e3ff5fe6e4f3c0862ef629f661c5a2680d5f2f1a649b6b13a014ca",
+    "retrieval-manifest.json": "6ed27001b54c510f97ea83bb970b7b985826a49ae4b55d292db05e77759f6afa",
+    "baseline-receipt.json": "90bca5b64de089e8c069d4684259202122205f0304be95b556bb73e4d6d0b23a",
+    "sources/PMC9405481.txt": "ba7ef94e6a790a31ec05c974b5c2d9840101760ecc7e05d869fdf8fcfc3a1767",
+    "sources/PMC10474180.txt": "7bb57ba3abecf81b1a2e60b8c62206b9ba1a54dd0b0ae9bdc6bb46fd2f3e83d0",
+    "sources/PMC9405481.xml": "7fd6e2fe78848f9e8e0a2132819c2e81bca902c7f8843c4996e9484543d761e3",
+    "sources/PMC10474180.xml": "6170e6396b4cd5fdb61c1f0df64ea12d181d91dff793f7287023de467e1ddf76",
+    "sources/216_2023_4853_MOESM1_ESM.xlsx": "49ba87fc73b2e1cd4954a3f9207dc933fc2571498abbf6fc794e05d1b36384fa",
+    "sources/PMC9601413.xml": "81f4e968403d9e7b4749367285c2ddb6fb48d2c519a9075e059b79b92e8b6641",
+    "sources/216_2023_4853_MOESM2_ESM.docx": "cfef693c0e169f36c14a9fd90fe62d89bb76ae51d2a73bbc46b51b24275350d2",
+    "sources/PMC10474180-supplements.zip": "310501538faeb33391ca0ad224211bd50522f785aa74d9431ac7a76bb1918a4d",
+    "sources/PMC8751440.txt": "fdd60292b225152b26960a0a51c2bee08a8cfdff0df10a311753aada509a47bf",
+    "sources/PMC8751440.xml": "3b7dedced344bd265dc35f94230cef61f65af63a21dfd7afdc960bb7332c1074",
+    "sources/PMC9601413.txt": "3f343b0776e5ebf1f0a42d62b34a4f0f44f906c08b97c0f057bd9872931e75d5"
+  },
+  "revised_support_artifact_sha256": {
+    "editorial.diff": "62b5b43341d8c8d37f900c171607a60a1c9d52c15c65ebc46420429593a4c509",
+    "editorial-changes.json": "1163b170c1f0c258c87474ac6e39d7778443408f8b27a1ed9edc543888eba61d",
+    "verification.json": "6f65a77558ca6e01a697321c52622bfd51f6fd52ed43589211b8a26037928a21",
+    "review.md": "b6b64179cbae366185c3f6f761eed531b09e4e0d98df356eacfffbc8dc602979"
+  },
+  "verified": {
+    "supplied_hashes": 22,
+    "exact_excerpts_txt_and_xml": 21,
+    "ledger_quotes_txt_and_xml": 16,
+    "all_four_citation_checks_exit_zero": true,
+    "zip_crc": true,
+    "extracted_supplements_identical": true,
+    "replacement_operations_replayed": 26
+  },
+  "article_tables": {
+    "en": 1,
+    "zh": 1,
+    "same_content": true,
+    "data_rows_each": 3,
+    "columns_each": 3,
+    "recommendation": "Keep desktop table; mobile stacked row cards preserving both labeled fields; render tests pending."
+  },
+  "charts_created": 0,
+  "repository_edits": false,
+  "published": false,
+  "browserman_used": false,
+  "limits": [
+    "No fresh remote retrieval",
+    "No supplement numerical-cell audit",
+    "No current ISO full-text audit",
+    "No live renderer testing",
+    "No original supplier-lot testing or representative market sampling",
+    "No figure image inspection or reproduction"
+  ],
+  "parent_next_action": "Verify exact revised hashes and all editorial changes; then integrate the accepted bilingual pair through normal release QA."
+}

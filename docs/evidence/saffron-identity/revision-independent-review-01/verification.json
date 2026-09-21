@@ -1,0 +1,284 @@
+{
+  "algorithm": "SHA-256",
+  "original_all_files": {
+    "saffron-identity.en.md": "716771cd6df5d33ece6b7ed477eb20e7f48207f10e2eb7bfc41f0cfae8d301a8",
+    "ledger.json": "e28822f3dd7b57db5298e6c469c38f9cafe38fdea8989ea96147885160ee4831",
+    "saffron-identity.zh.md": "3ef5b7f2c99c92e5f51794b705acbdd4418cbb9b591d694593a510db46ed6302",
+    "file-hashes.json": "e4dbf4eb81b3bb3dfe9e4b1bcb8b18504d1f8efe44743eac12f0913d2cdfc693",
+    "exact-excerpts.json": "2b462bb04a47b3c94aeba884486281474e88650d7e4dc3c57885b4af33579239",
+    "verification.json": "af027bff3c1bfb2a26f881ef7f808a113766402a11efa89e56aedef1657c67e5",
+    "coverage-main.json": "2a5c02e8f1f5db23199eab7d20efd01d614939a52f991ede8227071b7c202e15",
+    "main-snapshot.tar.gz": "796515c6502f35ba94915f0c46117b06cfdf1d6ecd1ed9ad30705cf27ff80f2a",
+    "discovery-and-source-audit.md": "0efb58086b57ed3dd4745e2c5cb7e1b1252d0f2afdb997464b36fded4c4a1520",
+    "saffron-ledger.json": "4f236ae984e3ff5fe6e4f3c0862ef629f661c5a2680d5f2f1a649b6b13a014ca",
+    "retrieval-manifest.json": "6ed27001b54c510f97ea83bb970b7b985826a49ae4b55d292db05e77759f6afa",
+    "baseline-receipt.json": "90bca5b64de089e8c069d4684259202122205f0304be95b556bb73e4d6d0b23a",
+    "sources/PMC9405481.txt": "ba7ef94e6a790a31ec05c974b5c2d9840101760ecc7e05d869fdf8fcfc3a1767",
+    "sources/PMC10474180.txt": "7bb57ba3abecf81b1a2e60b8c62206b9ba1a54dd0b0ae9bdc6bb46fd2f3e83d0",
+    "sources/PMC9405481.xml": "7fd6e2fe78848f9e8e0a2132819c2e81bca902c7f8843c4996e9484543d761e3",
+    "sources/PMC10474180.xml": "6170e6396b4cd5fdb61c1f0df64ea12d181d91dff793f7287023de467e1ddf76",
+    "sources/216_2023_4853_MOESM1_ESM.xlsx": "49ba87fc73b2e1cd4954a3f9207dc933fc2571498abbf6fc794e05d1b36384fa",
+    "sources/PMC9601413.xml": "81f4e968403d9e7b4749367285c2ddb6fb48d2c519a9075e059b79b92e8b6641",
+    "sources/216_2023_4853_MOESM2_ESM.docx": "cfef693c0e169f36c14a9fd90fe62d89bb76ae51d2a73bbc46b51b24275350d2",
+    "sources/PMC10474180-supplements.zip": "310501538faeb33391ca0ad224211bd50522f785aa74d9431ac7a76bb1918a4d",
+    "sources/PMC8751440.txt": "fdd60292b225152b26960a0a51c2bee08a8cfdff0df10a311753aada509a47bf",
+    "sources/PMC8751440.xml": "3b7dedced344bd265dc35f94230cef61f65af63a21dfd7afdc960bb7332c1074",
+    "sources/PMC9601413.txt": "3f343b0776e5ebf1f0a42d62b34a4f0f44f906c08b97c0f057bd9872931e75d5"
+  },
+  "supplied_manifest_entries_checked": 22,
+  "supplied_manifest_mismatches": [],
+  "exact_excerpts": [
+    {
+      "source_id": 1,
+      "locator": "In this project, stigmas",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "locator": "The extraction procedure",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "locator": "In the next phase, mixtures",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "locator": "To control the authenticity",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "locator": "Regarding the lowest detectable amount",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "locator": "The database currently contains",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "locator": "This library of markers was tested",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "locator": "A total of 21",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "locator": "It is worth noting that, of the 13",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "locator": "Despite the fact that it is difficult",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "locator": "However, others showed",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "locator": "The results of the ICP-OES analysis conducted",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 3,
+      "locator": "The concentrated anthocyanin extract",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 3,
+      "locator": "In addition, encapsulation efficiency (%)",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 4,
+      "locator": "The hydrophilic/hydrophobic properties",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 4,
+      "locator": "For the preparation of hesperidin glucoside",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "locator": "For food flavoring, saffron",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "locator": "In the presented study, liquid chromatography",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "locator": "In this study, a new multi-analytical approach",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "locator": "The FTIR spectra of all the samples",
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 4,
+      "locator": "The antioxidant, anti-inflammatory and antibacterial activities",
+      "text_literal": true,
+      "xml_literal": true
+    }
+  ],
+  "saffron_ledger_quotes": [
+    {
+      "source_id": 1,
+      "quote_index": 0,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "quote_index": 1,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "quote_index": 2,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "quote_index": 3,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "quote_index": 4,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "quote_index": 5,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "quote_index": 6,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "quote_index": 7,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 1,
+      "quote_index": 8,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "quote_index": 0,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "quote_index": 1,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "quote_index": 2,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "quote_index": 3,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "quote_index": 4,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "quote_index": 5,
+      "text_literal": true,
+      "xml_literal": true
+    },
+    {
+      "source_id": 2,
+      "quote_index": 6,
+      "text_literal": true,
+      "xml_literal": true
+    }
+  ],
+  "saffron_ledger_is_exact_discovery_subset": true,
+  "xml_body_paragraphs_present_in_text": {
+    "PMC10474180": 125,
+    "PMC9601413": 58
+  },
+  "supplement_zip_crc_ok": true,
+  "supplement_extracted_files_byte_identical": true,
+  "fresh_remote_retrieval": false,
+  "citation_verification": {
+    "saffron-identity.en.md": {
+      "exit_code": 0,
+      "output": "info: stats: 46 prose sentence(s), 14 with declared provenance (30%) — 14 cited, 0 marked [unverified] (a sentence may be both); 2 distinct source(s) cited, 2 in ledger (2 with evidence quotes)\ncitations OK\n"
+    },
+    "saffron-identity.zh.md": {
+      "exit_code": 0,
+      "output": "info: stats: 0 prose sentence(s), 0 with declared provenance (0%) — 0 cited, 0 marked [unverified] (a sentence may be both); 2 distinct source(s) cited, 2 in ledger (2 with evidence quotes)\ncitations OK\n"
+    },
+    "revision-independent-review-01/saffron-identity.en.md": {
+      "exit_code": 0,
+      "output": "info: stats: 47 prose sentence(s), 15 with declared provenance (32%) — 15 cited, 0 marked [unverified] (a sentence may be both); 2 distinct source(s) cited, 2 in ledger (2 with evidence quotes)\ncitations OK\n"
+    },
+    "revision-independent-review-01/saffron-identity.zh.md": {
+      "exit_code": 0,
+      "output": "info: stats: 0 prose sentence(s), 0 with declared provenance (0%) — 0 cited, 0 marked [unverified] (a sentence may be both); 2 distinct source(s) cited, 2 in ledger (2 with evidence quotes)\ncitations OK\n"
+    }
+  },
+  "editorial_replacements_replayed": true,
+  "all_original_files_unchanged": true
+}

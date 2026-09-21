@@ -1,0 +1,55 @@
+{
+  "retrieved_at_utc": "2026-09-21T21:51:39.861492+00:00",
+  "primary_articles": [
+    {
+      "pmc": "PMC10474180",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10474180/fullTextXML",
+      "bytes": 92507,
+      "body_paragraphs": 125,
+      "title": "Detection of botanical adulterants in saffron powder",
+      "raw_sha256": "6170e6396b4cd5fdb61c1f0df64ea12d181d91dff793f7287023de467e1ddf76",
+      "text_sha256": "7bb57ba3abecf81b1a2e60b8c62206b9ba1a54dd0b0ae9bdc6bb46fd2f3e83d0"
+    },
+    {
+      "pmc": "PMC9601413",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9601413/fullTextXML",
+      "bytes": 144254,
+      "body_paragraphs": 58,
+      "title": "Determination of Saffron Quality through a Multi-Analytical Approach",
+      "raw_sha256": "81f4e968403d9e7b4749367285c2ddb6fb48d2c519a9075e059b79b92e8b6641",
+      "text_sha256": "3f343b0776e5ebf1f0a42d62b34a4f0f44f906c08b97c0f057bd9872931e75d5"
+    },
+    {
+      "pmc": "PMC8751440",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8751440/fullTextXML",
+      "bytes": 140132,
+      "body_paragraphs": 53,
+      "title": "Microencapsulation of roselle (",
+      "raw_sha256": "3b7dedced344bd265dc35f94230cef61f65af63a21dfd7afdc960bb7332c1074",
+      "text_sha256": "fdd60292b225152b26960a0a51c2bee08a8cfdff0df10a311753aada509a47bf"
+    },
+    {
+      "pmc": "PMC9405481",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9405481/fullTextXML",
+      "bytes": 156119,
+      "body_paragraphs": 43,
+      "title": "A Comparative Study of Hesperetin, Hesperidin and Hesperidin Glucoside: Antioxidant, Anti-Inflammatory, and Antibacterial Activities In Vitro",
+      "raw_sha256": "7fd6e2fe78848f9e8e0a2132819c2e81bca902c7f8843c4996e9484543d761e3",
+      "text_sha256": "ba7ef94e6a790a31ec05c974b5c2d9840101760ecc7e05d869fdf8fcfc3a1767"
+    }
+  ],
+  "supplements": {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10474180/supplementaryFiles",
+    "file": "sources/PMC10474180-supplements.zip",
+    "sha256": "310501538faeb33391ca0ad224211bd50522f785aa74d9431ac7a76bb1918a4d",
+    "inspection": "ZIP signature and member list; XLSX/DOCX preserved. No numeric cell audit."
+  },
+  "failures": [
+    {
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2664388/fullTextXML",
+      "status": 500,
+      "attempts": 2,
+      "alternative": "PMC9405481 full text retrieved; not a substitute for missing study conclusions"
+    }
+  ]
+}

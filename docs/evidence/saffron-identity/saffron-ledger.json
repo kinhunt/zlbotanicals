@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10474180/fullTextXML",
+      "title": "Detection of botanical adulterants in saffron powder",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "In this project, stigmas of 23 different samples of saffron (Crocus sativus L.) and 7 samples of saffron powder were analyzed. Regarding geographic origin, 12 samples of saffron stigmas were from Iran, 4 from Spain, and 1 from Greece. The declaration of the geographic origin of other samples was unknown. In addition, potential adulterants were analyzed. The following samples of botanicals were available: 4 safflower petals (Carthamus tinctorius L.), 9 calendula petals (Calendula officinalis L.), 6 turmeric rhizomes (Curcuma longa L.), 3 achiote seeds (Bixa orellana L.), 6 dried fruit of red pepper (Capsicum spp.), 3 mountain arnica petals (Arnica montana L.), 3 bulbs of red beet (Bea vulgaris L.), 2 pomegranate petals (Punica granatum L.), and 3 pomegranate seeds. The samples of saffron stigmas and potential adulterants were obtained at the Czech market by credible traders with spices.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "The extraction procedure was based on an earlier published study [31]. Briefly, 50 mg of thoroughly homogenized samples was weighed into 15-mL polypropylene tubes, and 5 mL of the ethanol/water mixture, (7/3, v/v) was added. The content of the tube was sonicated for 20 min, and then the sample was centrifuged (5 min, 5 °C, 6000 rpm). The aliquot of the supernatant was transferred into a 2-mL vial and analyzed. All samples were prepared in duplicate.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "In the next phase, mixtures of saffron and individual potential adulterants (w/w ratios 90/10, 95/5, 97/3, and 99/1) were prepared for analysis. These mixtures were prepared separately for each saffron-adulterant pair. For the preparation of these mixtures, all samples of saffron’s stigmas and separately individual adulterants that were available in this study were mixed. This step was taken to cover possible sample variability. The total weight of the prepared mixture was 100 mg, so twice the volume of solvent was added, i.e., 10 mL of ethanol/water (7/3, v/v). Subsequent extraction was performed under the conditions described above. All mixtures of saffron and adulterants were prepared in triplicate.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "To control the authenticity of unknown saffron samples in terms of their dilution by some plant adulterants, a targeted screening of 82 markers shown in Table S1 – Markers of saffron and potential adulterants and their characteristics in Supplementary materials was performed. The internal database of these markers was included in the SCIEX OS 1.5 software. This software enabled the comparison of the retention time, exact mass, isotopic pattern in the MS spectrum, and fragments in the MS/MS spectrum of the marker in the measured sample and in the library. The analyst will then check these results. To confirm that the analyzed sample is authentic saffron, all saffron markers from the internal library should be detected, and their relative abundance should not be significantly different from the values in Table S2– Relative abundance of saffron markers in samples of stigmas and saffron powder in Supplementary materials. A sample would be considered adulterated supposing more than 80% of the markers of one adulterant were detected. The limit of 80% is based on the Pareto principle.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "The verification of the suitability of adulterant markers for fraud detection continued by testing their signal increase by increasing the amount of respective plant in a mixture with saffron. An example of a relevant turmeric marker is shown in Fig. 5. The lowest detectable amount of potential adulterant in a mixture with saffron was determined based on the signal-to-noise ratio (detailed procedure in the “Selection of the marker ions” section), and the results are shown in Table S1 – Markers of saffron and potential adulterants and their characteristics in the Supplementary materials. Regarding the lowest detectable amount of potential adulterant, all the investigated plants were even at a 1% (w/w) addition level detectable in at least three marker ions with the signal-to-noise ratio of at least 10:1. It is worth to mention that comparable results were achieved only in studies [15, 19] using molecular genetic methods (Table 1); nevertheless, none of them involved such many potential saffron adulterants as this study.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "For target screening, the internal spectral database was created using the LibraryView software, which was then inserted into the SCIEX OS 1.5 software. The database currently contains 82 markers, 53 detectable in ESI+, and 29 in ESI−. The formula or exact measured mass, retention time, and the MS/MS spectra of markers were saved in the internal database, and these information were used for evaluating the sample.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "This library of markers was tested to evaluate 7 samples of saffron powder from the Czech market. These samples were previously analyzed together with the set of samples of saffron stigmas, as shown in the PCA score plot (Fig. 3). Target screening of markers confirmed that these samples were not adulterated. All saffron markers were detected in these samples, and any adulterant markers were not detected.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "For food flavoring, saffron is sold in various forms. Stigmas are of the highest quality, but ground stigmas (saffron powder) are often sold for easier use. Existing data show that this form is prone to adulteration [5]. For instance, up to 33% of saffron samples are reportedly adulterated in the Chinese market [6]. The most common way is undeclared replacement or substitution of saffron using other plant material or its extract. Specifically, it may be undeclared additions of colored stamens [4, 7–10], styles [10–12], or petals [9, 10] of the saffron itself. For this purpose, petals of safflower (Carthamus tinctorius L.) [1, 2, 4, 6–8, 10–23], petals of calendula (Calendula officinalis L.) [1, 2, 4, 7, 10–13, 15, 17, 20], rhizomes of turmeric (Curcuma longa L.) [1, 2, 4, 7, 8, 10, 12, 15, 17, 18, 20, 21, 23], extracts of gardenia fruits (Gardenia jasminoides J. Ellis) [1, 4, 5, 7, 8, 17, 24–27], petals of mountain arnica (Arnica montana L.) [1, 2, 15, 17], dye from seeds of achiote (Bixa orellana L.) [2, 15, 17], petals of chrysanthemum (Chrysanthemum morifolium L.) [6, 16, 17], petals of hemerocallis (Hemerocallis sp.) [2, 15, 17], stigmas of crocus vernus (Crocus vernus (L.) Hill) [2, 15], dye from pomegranate fruits or petals (Punica granatum L.) [10, 17], dye from flowers of buddleia (Buddleja officinalis Maxim) [4, 7], dye from beet (Beta vulgaris L.) [10, 17], and another else also can be used.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "In the presented study, liquid chromatography coupled with mass spectrometry technique as a tool for saffron adulteration was selected, which is nowadays commonly used in food/natural product composition studies. The ambition of this research was not only to involve a broad range of botanical adulterants most often used for powdered saffron adulteration, but the study also aimed at finding unique markers which could be used for a simple and fast routine analysis by UHPLC-MS/MS.",
+          "added": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9601413/fullTextXML",
+      "title": "Determination of Saffron Quality through a Multi-Analytical Approach",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "A total of 21 saffron samples were examined; 9 in powder form and 12 in filaments (Table 2). Both private and commercial samples of various origins were analyzed. The latter definition refers to samples which have been packaged, labelled and were available on the market for purchase, whereas the former refers to samples which have been harvested and processed by private collectors. Prior to analysis, all of the samples were stored at 4 °C in the absence of light.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "It is worth noting that, of the 13 samples that were denied classification in one of the three commercial categories, 9 (CPW-1, CPW-3, CPW-5, PFL-5, PFL-6, PFL-8, PFL-9, PFL-10, PFL-11) were excluded solely due to the odorous power being outside the specified range, whereas the colouring and bittering power were at least above the minimum value required for category III classification. Only four samples (CPW-4, PFL-3, PPW-2, PPW-3) were denied classification because of low colouring and/or bittering power values.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Despite the fact that it is difficult to determine saffron quality exclusively by ATR-FTIR spectroscopy [28], the experimental spectra still represent a fingerprint for this type of spice [24]. In this light, it is safe to say that all of the samples analyzed were indeed composed of saffron and no major adulterations were present. Thanks to this authentication, it was possible to proceed with the final two analyses on all of the samples, which would otherwise have been insignificant.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Saffron powders showed a much more heterogenous morphological appearance. Some of them (CPW-2, CPW-3, CPW-5, PPW-1) were composed almost exclusively of the same irregular fragments found in filament samples, only smaller in size (less than 1 cm in length). As in the case of the filament samples, no contaminants were detected in these powders. However, others showed a limited presence of these irregularly shaped fragments. In some cases, jagged particles of non-definable size and shape were more frequent (Figure 3b). In others it was possible to notice the presence of pollen granules (Figure 3c), which are spherical/ovoidal grains with an heterogenous size distribution [29]. Finally, in some cases it was possible to observe floral contaminants, such as in sample CPW-1 (Figure 3d).",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "The results of the ICP-OES analysis conducted on samples PFL-1, PPW-3 and CPW-5 are reported in Table 5 and Table 6. Based on the results of the previous analyses, one sample of low (PPW-3), medium (CPW-5) and high (PFL-1) quality was chosen for this determination [27].",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "In this study, a new multi-analytical approach for the determination of saffron quality is presented, based on the use of two widespread and consolidated techniques, i.e., UV-Vis spectrophotometry (as described in the ISO 3632 standard) and attenuated total reflectance Fourier transform infrared (ATR-FTIR) spectroscopy, along with two novel techniques in the field of saffron quality determination, which are scanning electron microscopy coupled to energy dispersive X-ray spectroscopy (SEM-EDX) and inductively coupled plasma optical emission spectroscopy (ICP-OES).",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "The FTIR spectra of all the samples show the same features of the reference FTIR spectrum of saffron [24]. This is shown in Figure 2, in which three FTIR spectra obtained on samples of different type and origin are represented. All of the major bands were present and correlated well with the reference spectrum in terms of relative height and position, starting from the broad band around 3350 cm−1 relative to the stretching vibrations of the -OH groups, moving on to the asymmetric and symmetric stretching vibrations of -CH2- and -CH3- groups at 2925 cm−1 and 2860 cm−1, the -C=O stretching vibrations around 1720 cm−1 and the C-4-OH glucose residue bending vibration at 1020 cm−1 [24].",
+          "added": "2026-09-21"
+        }
+      ]
+    }
+  ]
+}

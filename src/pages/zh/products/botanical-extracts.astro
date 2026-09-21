@@ -8,6 +8,7 @@ const products = await getCollection('products', ({ data }) => data.lang === lan
 <PageLayout title="植物提取物" description="植物原料供货形态、规格与样品询价" lang={lang} heroTitle="植物提取物" heroSubtitle="植物原料供货形态、规格与样品询价">
   <section class="section-padding">
     <div class="container-wide">
+      <p class="max-w-3xl text-lg leading-relaxed text-gray-600 mb-8">原料身份、等级与真实性筛查为什么需要不同证据？可参考<a class="text-primary underline" href="/zh/resources/blog/saffron-identity">藏红花采购研究指南</a>中的具体分析。</p>
       <p class="max-w-3xl text-lg text-gray-600 mb-10">浏览植物提取物的供货形态、用途与规格，按所选材料申请样品、报价及质量文件。具体供货条件与适用市场按规格书面确认。</p>
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         {products.map((product) => (
