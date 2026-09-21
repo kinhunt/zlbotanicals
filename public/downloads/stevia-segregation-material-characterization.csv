@@ -1,0 +1,2 @@
+material_id,lot_id,ingredient_or_carrier,composition_basis,sampling_method,psd_method,dispersion_pressure_MPa,Dv10_um,Dv50_um,Dv90_um,shape_method_observation,bulk_density_g_mL,tapped_density_g_mL,true_density_g_mL,density_methods,moisture_method_result,temperature_RH,raw_data_path
+,,,,,,,,,,,,,,,,,

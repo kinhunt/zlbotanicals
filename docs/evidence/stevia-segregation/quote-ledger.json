@@ -1,0 +1,101 @@
+[
+  {
+    "quote_id": "Q01",
+    "source_id": 1,
+    "locator": "PDF p2 Sample Preparation",
+    "quote": "The samples and standards were prepared in an aqueous methanol (20%) solution; sample injection concentrations are listed in Table 2.",
+    "supports_zh": "商品及标准以20%水性甲醇制样。",
+    "not_supports_zh": "不提供逐袋抽样数量；不能当成已验证的本项目提取法。",
+    "evidence_file": "thermo-normalized.txt"
+  },
+  {
+    "quote_id": "Q02",
+    "source_id": 1,
+    "locator": "PDF p2 Sample Preparation",
+    "quote": "Two injec- tions of each sample and three injections of the individual standards were analyzed. Injections of the standards and samples were interlaced over a three-day period.",
+    "supports_zh": "每样两次进样；标准三次，三天交错。",
+    "not_supports_zh": "进样重复不是独立袋或独立批次。",
+    "evidence_file": "thermo-normalized.txt"
+  },
+  {
+    "quote_id": "Q03",
+    "source_id": 1,
+    "locator": "PDF p4 Accuracy",
+    "quote": "The recovery for Reb A was 98.4% for the charged aerosol detector compared to 92.2% recovery for the UV detector.",
+    "supports_zh": "该实验Reb A加标回收CAD 98.4%、UV 92.2%。",
+    "not_supports_zh": "不能作为食品允许偏差或本项目方法回收率。",
+    "evidence_file": "thermo-normalized.txt"
+  },
+  {
+    "quote_id": "Q04",
+    "source_id": 1,
+    "locator": "PDF p4 concentration",
+    "quote": "Linear regression analysis of the five-point calibration was used to calculate a w/w% of the two major glycosides in each of the products indicated in Table 2.",
+    "supports_zh": "可分别计算两种主要糖苷质量百分比。",
+    "not_supports_zh": "不同商品间差异不等于同批袋间分层。",
+    "evidence_file": "thermo-normalized.txt"
+  },
+  {
+    "quote_id": "Q05",
+    "source_id": 2,
+    "locator": "PDF p1 Materials",
+    "quote": "Two stevia sugar samples and one monk fruit sugar were purchased and tested.",
+    "supports_zh": "两个甜菊商品、一个罗汉果商品。",
+    "not_supports_zh": "没有公开各商品糖苷纯度与载体组成。",
+    "evidence_file": "horiba-normalized.txt"
+  },
+  {
+    "quote_id": "Q06",
+    "source_id": 2,
+    "locator": "PDF p2 Results",
+    "quote": "Each sample was assessed individually (pressure-size titration test) for an appropriate air pressure to be applied. 0.1MPa was determined to be the best air pressure for both stevia sugar dispersion and 0.2MPa for monk fruit sugar.",
+    "supports_zh": "先作压力滴定，甜菊0.1 MPa，罗汉果0.2 MPa。",
+    "not_supports_zh": "不能规定所有糖苷粉同一分散压力。",
+    "evidence_file": "horiba-normalized.txt"
+  },
+  {
+    "quote_id": "Q07",
+    "source_id": 2,
+    "locator": "PDF p2 Results",
+    "quote": "The laser diffraction analysis result shows a larger particle size distribution for the Popular Brand Stevia as it extends up to Dv90 of 487.5 µm whereas the Store Brand Stevia, under the same measurement conditions, measured smaller.",
+    "supports_zh": "某品牌甜菊商品Dv90为487.5微米，店牌较小。",
+    "not_supports_zh": "不是纯糖苷粒径规格；不是出料或运输分层试验。",
+    "evidence_file": "horiba-normalized.txt"
+  },
+  {
+    "quote_id": "Q08",
+    "source_id": 6,
+    "locator": "Accepted manuscript p11 lines 228–239",
+    "quote": "The vessel has a pot size of about 500 mL, a radius of 4 cm and is made of glass. The impeller has three blades set 120° apart with a tilt angle of 45°; each blade is approximately 29 mm long and 12 mm wide. Powders were mixed at 50 rpm using a stirrer motor (IKA Eurostar, VWR International). For the mixing of two components, 75 g of unsieved Avicel PH-101 was placed into the vessel and mixed. After 120 s, different masses (0, 5, 10, 20, 30 or 40 g) of either unsieved or size fractions of sieved aspirin (<106, 250 – 300 or 425 – 500 µm) were added via a funnel positioned directly above the centre of the vessel and the powders were allowed to mix for a further 780 s. A further experiment was also conducted in which 25 g of unsieved aspirin and 25 g of unsieved aspartame was added to 75 g of unsieved Avicel PH-101 after 120 and 900 s, respectively; the total mixing time was 2100 s.",
+    "supports_zh": "约500 mL容器50 rpm，75g Avicel中分时加入25g阿司匹林与25g阿斯巴甜。",
+    "not_supports_zh": "不是赤藓糖醇小袋或工业运输；不能推荐食品混合时间。",
+    "evidence_file": "raman-normalized.txt"
+  },
+  {
+    "quote_id": "Q09",
+    "source_id": 6,
+    "locator": "Accepted manuscript p21 lines 458–460",
+    "quote": "The oscillating mixing profile of aspartame between 1200 and 1600 s is characteristic of a cohesive particle [32].",
+    "supports_zh": "1200–1600秒阿斯巴甜混合曲线振荡，作者解释为黏聚颗粒特征。",
+    "not_supports_zh": "作者机制解释不是本项目分层因果；不能转为甜菊结论。",
+    "evidence_file": "raman-normalized.txt"
+  },
+  {
+    "quote_id": "Q10",
+    "source_id": 6,
+    "locator": "Accepted manuscript printed p15, lines 314–322; section 3.3 static powder-bed geometry (PDF page 15)",
+    "quote": "If the sampling depth is 3.5 mm for mixtures of Avicel and aspirin and it is assumed that all layers within the 3.5 mm contribute equally to the Raman signal, then with a 6 mm diameter laser spot the sampling volume is 99.0 mm3. This equates to a mass of 0.045 g if the density (tap) of the powder is assumed to be that of Avicel (0.45 g cm-3). However, it can be estimated from the information depth plots that approximately 90% of the Raman signal is generated in the upper 1 mm layer of the powder; this is consistent with the results of Monte Carlo simulations by Matousek and Parker [24]. Therefore, the mass of sample that contributes to approximately 90% of the Raman signal is 0.013 g.",
+    "supports_zh": "静态粉床几何估算：6 mm光斑，假设Avicel振实密度0.45 g/cm³；上层1 mm约贡献90%信号，对应约0.013 g。",
+    "not_supports_zh": "不是动态混合期间取样质量；不能配到阿斯巴甜三组分曲线。动态估算另见p19–20行422–426；三组分3 mm配置见p6行122–127。",
+    "evidence_file": "raman-normalized.txt"
+  },
+  {
+    "quote_id": "Q11",
+    "source_id": 7,
+    "locator": "section #formulation-tabletop-sachet",
+    "quote": "Sample the blender, discharge stream and filled sachets after transfer; use dust containment and a verified micro-ingredient balance.",
+    "supports_zh": "现有百科已提出混合机、出料、转运后袋取样。",
+    "not_supports_zh": "此次网页读取不是工厂能力验证。",
+    "evidence_file": "existing-stevia-section.txt"
+  }
+]

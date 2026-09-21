@@ -1,0 +1,163 @@
+=== PDF PAGE 1 ===
+Application Note
+Automotive Test Systems  |  Process & Environmental  |  Medical  |  Semiconductor  |  Scientific
+Explore the future
+Material Characterization of the 
+Next Generation Sugar Substitutes 
+AN213
+Application Note
+Let’s begin by admitting this: sugar makes us happier; 
+we love sweets. The sweet receptors that respond 
+to sugar (and subsequently make us happy) on our 
+tongue are also found in fat cells, triggering fat cells to 
+suck up sugar for lipogenesis [1]. As research begins 
+to link obesity and diabetes with excessive sugar 
+consumption, the market for naturally-derived sugar 
+substitutes or intense sweeteners has grown and is 
+projected to continue to grow [2]. Two types of high-
+intensity sweeteners gaining consumer popularity have 
+recently been submitted to the U. S. Food and Drug 
+Administration (FDA) for GRAS (generally recognized as 
+safe) notices, these are stevia and monk fruit [3]. Unlike 
+other sugar substitutes that have sparked controversy 
+over negative side-effects, these non-nutritive, non-
+caloric, and non-glycemic sweeteners are perceived as 
+“all-natural.” The FDA has not yet defined ‘natural’ but 
+they are frequently used in drinks, beverages and as 
+table sugar replacements.
+Introduction
+Stevia and monk fruit sugars are both extracted first 
+in liquid form through hot infusion and later processed 
+through spray or vacuum drying into powder or granule 
+form. A consistent particle size is desired for better control 
+of mixing, dissolution, and packing. This note does not 
+compare the chemical compounds or safety result of the 
+extracted steviol glycoside or mogroside V. Rather, this 
+study focuses on the critical particle diameter of dry sugar 
+granules as particle diameter as an indicator of:
+•	
+Flowability* – defining how much a spoon of sugar 
+actually weighs when scooped from a jar
+•	
+Dissolution and mixing – defining consumer experience 
+when used in drinks or baking
+•	
+Powder uniformity – defining packing and sugar weight 
+consistency from one package to another
+The size is also important since FDA has set Acceptable 
+Daily Intake for all high-intensity sweeteners with exception 
+of monk fruit sugar [3]. Manufacturers need to closely 
+monitor particle size in order for end users to have better 
+control over how much sweetener is consumed.
+*(Powder flowability is a combination of various factors such as 
+particle size, shape, surface roughness, size distribution, moisture 
+content, or storage time, but particle size is the major indicator of 
+powder flowability)
+Materials and Methods
+Two stevia sugar samples and one monk fruit sugar were 
+purchased and tested. To demonstrate the correlation 
+between particle size on flow properties, a typical plastic 
+teaspoon was used to scoop sugar samples from a jar. The 
+physical behavior of each scoop of sugar was then visually 
+assessed and recorded for quantifying the cohesiveness 
+for sugar granules [4] (Table 1 below).
+Sample Name
+Physical Property
+1
+Reference white table sugar
+Highly flowable.
+2
+Popular brand Stevia
+Dusty but flowable with a slight yellow color. 
+Smaller angle of repose compared to store brand 
+Stevia
+3
+Store brand Stevia
+Very dusty, slightly sticky, but flowable. Higher 
+angle of repose compared to Popular brand Stevia.
+4
+Monk Fruit Sugar
+Electrostatic when used with plastic spoon. 
+Particles resemble snowflakes and are noticeably 
+lighter. Flowable.
+Table 1
+
+=== PDF PAGE 2 ===
+Page 2
+Particle size data was collected by analyzing the dry 
+powders with the LA-960 laser diffraction particle size 
+analyzer PowderJet with the following analytical test 
+settings:
+Refractive Index: 1.54 | Imaginary (absorption): 0.001i
+Feeder Speed: Auto
+Nozzle Size: Medium
+Results and Discussion
+Each sample was assessed individually (pressure-size 
+titration test) for an appropriate air pressure to be applied. 
+0.1MPa was determined to be the best air pressure for both 
+stevia sugar dispersion and 0.2MPa for monk fruit sugar. 
+Two averaged measurements of both Popular Brand Stevia 
+and Store Brand Stevia are displayed below in Figure 1.
+The laser diffraction analysis result shows a larger particle 
+size distribution for the Popular Brand Stevia as it extends 
+up to Dv90 of 487.5 µm whereas the Store Brand Stevia, 
+under the same measurement conditions, measured 
+smaller. Note that when stevia concentrate is extracted 
+then processed, it tends to be very dusty (as indicated by 
+particles < 10µm), making it harder to mix in beverages. 
+To improve flow characteristics, patented agglomeration 
+technology is often implemented to fuse powders to a size 
+greater than 200 µm [5]. In this case, the laser diffraction 
+result confirms the positive correlation between particle 
+size and flowability and an inverse correlation between 
+particle size and angle of repose (please see Table 1). 
+An averaged measurement of Monk Fruit Sugar using 0.2 
+MPa of air pressure is displayed in Figure 2.
+Figure 1: The particle size distribution of a popular brand stevia against a store brand stevia sugar along with example 
+particle images
+Figure 2: The particle size distribution of well-dispersed monk fruit sugar (0.2MPa air pressure) mimics the particle size of 
+white table sugar
+
+=== PDF PAGE 3 ===
+Monk Fruit Sugar exhibits a greater inter-particle attraction 
+(likely due to its particle morphology and higher inter-
+particle forces) and requires higher pressure to disperse.
+Overall, monk fruit sugar is larger in particle size (with 
+Dv50 of 274 µm, mimicking the typical size of white table 
+sugar) and wider in particle size distribution. This physical 
+attribute makes monk fruit sugar an excellent alternative 
+for baking as it offers similar “body” or bulk as regular 
+table sugar.
+Summary
+Material characterization of the next generation “all 
+natural” sugar substitutes is a combination of particle 
+size, shape, surface roughness, size distribution, moisture 
+content, and storage time. The laser diffraction technique 
+offers manufacturers a single quick measurement of 
+size. This data can be used to predict powder flowability, 
+dissolution, and separation. In this note, we have shown 
+that particle size is the most accurate predictor of granular 
+material flowability, with decreasing particle size indicating 
+lower flowability.
+References
+1.	 Kuhn, Mary Ellen. “Decoding the Science of Taste.” IFT.
+org. FoodTechnology, 1 May 2016. Web. 02 Sept. 2016.
+2.	 Johnson, R. K., L. J. Appel, M. Brands, B. V. Howard, 
+M. Lefevre, R. H. Lustig, F. Sacks, L. M. Steffen, 
+and J. Wylie-Rosett. “Dietary Sugars Intake and 
+Cardiovascular Health: A Scientific Statement From the 
+American Heart Association.” Circulation 120.11 (2009): 
+1011-020. Web.
+3.	 http://www.fda.gov/Food/
+IngredientsPackagingLabeling/
+FoodAdditivesIngredients/ucm397725.htm#Aspartame
+4.	 ISO-3435:1977 Continuous Mechanical handling 
+equipment
+5.	 PURKAYASTHA, Siddhartha, and Avetik Markosyan. 
+“Granulation of a Stevia Sweetener.” Google Books. 
+Google Books, 8 Nov. 2012. Web. 29 Aug. 2016.
+Automotive Test Systems  |  Process & Environmental  |  Medical  |  Semiconductor  |  Scientific
+Explore the future
+labinfo@horiba.com   www.horiba.com/scientific
+USA: +1 (800) 446-7422 • France: +33 (0)1 64 54 13 00 • Japan:  +81 (0)3 38618231
+This document is not contractually binding under any circumstances  © 2018 HORIBA Instruments, Inc.
