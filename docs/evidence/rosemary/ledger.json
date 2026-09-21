@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.kemin.com/eu/en/markets/food/products/en-fort",
+      "title": "EN-FORT™ | Rosemary antioxidant for food | Kemin Europe",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "Available in both oil-soluble and water-dispersible formats",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Available in dry and liquid formats",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Product allowance and labelling may differ based upon government requirements. Certain statements may not be applicable in all geographical regions.",
+          "added": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.kemin.com/na/en-us/markets/food/products/fortium-r",
+      "title": "FORTIUM™ R Rosemary-Based Antioxidant for Food Shelf Life Extension",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "Variety of concentrations, carriers, and formats for optimal sensory",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Our proprietary rosemary extraction process delivers a highly refined, homogeneous solution that offers a more consistent extract, which contains standardized levels of carnosic acid .",
+          "added": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8151479/fullTextXML",
+      "title": "The Effect of Carnosol, Carnosic Acid and Rosmarinic Acid on the Oxidative Stability of Fat-Filled Milk Powders",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "The obtained results indicated the efficiency of all the different combinations of antioxidants to retard lipid oxidation after accelerated storage (40 °C, RH 23%) for 90 days and stabilise FFMPs, but with different degrees of efficacy when compared to control samples.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Hence, 308 ppm were particularly effective in inhibiting all the evaluated oxidation products, even if it was, in general, less effective, and in some cases significantly (p < 0.05), than 200 ppm of BHA: BHT (1: 1).",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Utilising a standardised ratio of pure phenolic compounds in this study will enable not only the accurate reproduction of their effect in the future but also the elimination of any possibility of the exerted antioxidant effect to be attributable to additional compounds present.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Control samples were produced without the addition of antioxidants, whereas the following combinations of synthetic and natural antioxidants were used, with their concentration to be based on the fat content of the FFMPs: (a) 200 ppm of 1: 1 BHA: BHT, (b) c: ca: ra (0.25: 0.38: 0.37) at the same additive concentration (200 ppm) as the mixture of BHA: BHT, (c) c: ca: ra (0.25: 0.38: 0.37) at an additive lower concentration (77 ppm) compared to the mixture of BHA: BHT, and (d) c: ca: ra (0.25: 0.38: 0.37) at an additive higher concentration (308 ppm) compared to the mixture of BHA: BHT.",
+          "added": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9219763/fullTextXML",
+      "title": "Assessment of a Diterpene-Rich Rosemary (Rosmarinus officinalis L.) Extract as a Natural Antioxidant for Salmon Pâté Formulated with Linseed",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "Selected high-yielding rosemary plants from a germplasm bank were cultivated and harvested in the experimental farm of the Institute of Agricultural and Food Research and Development (IMIDA, Murcia, Spain). RLE was obtained from the leaf by-product that had been previously distilled with water steam and extracted with water to obtain the essential oil and the RWE, respectively [27]. Then, 3 g of rosemary by-product were mixed with 450 mL acetone:water (1:1, v/v) and kept under constant stirring (30 °C for 90 min). The mix was centrifuged in a Digecen 21 R centrifuge (Orto Alresa, Madrid, Spain) (4560× g and 5 °C for 10 min) and the supernatant was then filtered (Whatman No. 4). The acetone fraction was removed by applying a vacuum at 40 °C in a Syncore Polyvap R-96 evaporation system (Buchi, Flawil, Switzerland), and the water fraction was removed using a lyophilisation system (Lyobeta 15, Telstar, Terrassa, Spain) (100 mbar and −80 °C for 24 h). Lyophilized RLE, a yellow-greenish dry powder with an intense herbal flavour, was stored at −80 °C until further use.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "PV indicated the amount of hydroperoxides of fat pâté (AOCS Cd 8-53) [35]. In brief, 0.5 g fat was homogenised for 1 min with 10 mL chloroform, 15 mL of glacial acetic acid and 1 mL saturated potassium iodide water solution. The sample was kept in darkness for 5 min, mixed with 75 mL water and titrated with 0.002 N sodium thiosulphate solution in an automatic Titrino equipped with a 0160451100 PT WOC combined electrode (Metrohm Hispania, Madrid, Spain). Results were expressed as meq O2/kg fat.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "TBARS were measured according to Botsoglou et al. (1994) [37] and calculated with a calibration curve (y = 1299.8x + 0.0033; R² = 0.999) of malonaldehyde (MDA) prepared with 1,1,3,3-tetraethoxypropane. Absorbance was measured at 532 nm (Unicam Spectrophotometer). Results were expressed as mg MDA/kg.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Twenty-two polyphenols were determined in RLE (Table 2), including phenolic acids (salvianic, caffeic, isoferulic, rosmarinic, salvianolic), flavonoids (lithospermic acid, luteolin-4-glucoside, cirsimaritin, genkwanin, hesperidin, salvigenin and protocateic acid) and diterpenes (carnosol, carnosic acid, 7-methyl-rosmanol, 12-methyl-carnosic acid, rosmanol and different derivatives from carnosol and methyl-rosmanol). Carnosol and carnosic acid were the most abundant compounds (125 and 98 mg/g, respectively), representing 67% of total polyphenols in RLE (334 mg/g). Degradation of carnosic acid and carnosol was studied in salmon pâté (Figure 1). According to the polyphenol content of RLE, the initial quantities (mg/kg) of carnosic acid + carnosol added to raw pâté were: 21 + 26 (R21), 41 + 53 (R42) and 62 + 79 (R63). RLE also contained relevant levels of methyl-carnosic acid, carnosol derivatives and other diterpenes. On day 0, the concentrations (mg/kg) of carnosic acid + carnosol determined in pâté were: 20 + 21 (R21), 40 + 39 (R42) and 61 + 56 (R63), while, on day 42, these concentrations were: 18 + 16 (R21), 35 + 24 (R42) and 49 + 35 (R63). Thus, both diterpenes were retained without degrading in the pasteurised salmon pâté, even though a part (10–18% of carnosic acid and 24–38% of carnosol) degraded during chill storage.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Salmon pâté contained 12 g/100 g total protein, 19 g/100 g total lipids and 61 g/100 g moisture, contributing with 270.6 kcal/100 g (Table 3). Data regarding general lipid oxidation, CIELab colour and pH are shown in Table 4. RLE addition did not affect PV on day 0, but R63 pâté presented the highest PV on day 42, while not impacting CD and CT values on day 0 and 42. Thus, PV discriminated the effects of RLE on primary lipid oxidation better than CD and CT, which provide similar information. Chill storage did not affect PV but actually decreased CD and CT values. The antioxidant effects of RLE addition on lipids were confirmed by TBARS. MDA levels were higher in the untreated pâté on day 0 and 42 than in the pâté with RLE (at any dose). No differences were found in the MDA levels among R21, R42 and R63 pâtés. Similarly, adding RLE did not affect colour on day 0, while pâtés with more RLE (R42 and R63) had lower values of L* and a* and higher values of b* and h* than the untreated pâté on day 42. Therefore, salmon pâté underwent some discolouration (slight browning) during chill storage that might be inhibited using RLE. Regardless of the dose used, RLE slightly decreased the pâté pH on days 0 and 42. Overall, the pH values hardly decreased by around 0.2 after chill storage.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Rosemary (Rosmarinus officinalis L.) is considered a source of phenolic antioxidants, being particularly rich in some hydrophobic diterpenes such as carnosic acid and carnosol, which can act as free radical scavengers in lipid matrixes [19]. The rosemary plant is subjected to successive distillation and extraction processes: (i) essential oil containing volatile phenols (e.g., carvacrol and eucalyptol) is removed with water steam, (ii) oil-free by-product is extracted with water to obtain the rosemary water extract (RWE), which is rich in hydrophilic polyphenols (e.g., rosmarinic acid) and (iii) the resulting by-product is extracted again with an acetone and water mix to obtain the rosemary lipophilic extract (RLE) [11,20,21]. RLE has been authorised by the European Union (E392) as an antioxidant for fish products at maximum doses of 150 mg/kg (carnosic acid + carnosol) (European Union Regulation 1129/2011/EU) [22]. The antioxidant effectiveness of different rosemary extracts has been checked in food products such as chicken and beef burgers [11,23], pork and chicken liver pâté [5,24,25], frozen salmon [18], fish patties [16], sea bream [17] and sardines [26]. In general, rosemary extracts showed good antioxidant properties in muscle-based products, although their use has some technological limitations. Rosemary extracts may not reach a suitable balance between dosage, polyphenols stability, preservative effects and sensory impact [27]. This might be due to various reasons: (i) polyphenol content of rosemary extract may vary depending on the raw material, which is related to genetic and agronomical variations, and the extraction procedure used; (ii) once the extract is added, rosemary polyphenols may degrade to a greater or lesser degree during food processing, particularly during thermal treatments and further storage; and (iii) rosemary extracts provide an intense herbal flavour that may negatively affect the acceptance of food products. Therefore, it is recommended to use typified rosemary extracts obtained from selected plants to attempt to standardise their preservative, sensory and nutritional properties [19].",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "The use of natural plant extracts with standardised antioxidant properties is a growing strategy to stabilise food products. The use of a rosemary lipophilic extract (RLE), obtained from the by-product of high-yield selected plants and rich in polyphenols (334 mg/g, with diterpenes such as carnosic acid and carnosol as main compounds), is here proposed. Four RLE doses (0, 0.21, 0.42 and 0.63 g/kg) were tested in a salmon pâté formulated with sunflower oil and linseed, which was pasteurised (70 °C for 30 min) and subjected to storage at 4 °C and 600 lux for 42 days. Rosemary diterpenes resisted pasteurisation without degrading and showed antioxidant activities during the shelf-life of pasteurised pâté. RLE addition led to increased peroxide value (from 3.9 to 5.4 meq O2/kg), but inhibited formation of secondary oxidised lipids such as malondialdehyde (from 1.55 to 0.89 mg/g) and cholesterol oxidation products (from 286 to 102 µg/100 g) and avoided discolouration (slight brownness) in the refrigerated pâté. However, this did not entail relevant changes in fatty acid content or in the abundance of volatile organic compounds from oxidised lipids. Increasing the RLE dose only improved its antioxidant efficacy for some oxidation indexes. Thus, the oxidative deterioration of these types of fish emulsion can be naturally controlled with rosemary extracts rich in diterpenes.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "A randomised statistical design was performed for the experiment. Three doses of RLE were tested in a PUFA-enriched salmon pâté formulated with linseed: (i) Low (R21): 0.21 g/kg, (ii) Medium (R42): 0.42 g/kg and (iii) High (R63): 0.63 g/kg. R63 treatment provided 150 mg carnosic acid + carnosol per kg pâté, the maximum dose authorised by EC [22]. Lipid oxidation (primary and secondary) and some related parameters (colour and pH) were assessed in salmon pâté just after pasteurisation and further displayed for 42 days. Sample size was n = 9 (3 pâté jars × 3 fabrication batches). A two-way ANOVA (Repeated Measures Design) was performed to determine the effects of treatments (RLE and storage time) on the dependent variables. The Tukey’s range test was used. Data were analysed with the Statistix 8.0 software for Windows (Analytical Software, Tallahassee, FL, USA).",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Salmon pâté ingredients are shown in Table 1. Norwegian fresh salmon (Salmo salar) loins were purchased from Nordlaks Produkter AS (Murcia, Spain) and stored at −20 °C for 48 h. Thawed loins (at 4 °C/24 h) without skin and bones were cut in cubes (2 cm3) using a knife and cooked in water (2:1; w:v) at 90 °C for 10 min under stirring in a cooking robot (Taurus Mycook 1.6, Lérida, Spain). Before homogenising, cooked salmon cubes were minced for 10 min, skimmed milk was dissolved in water at 50 °C and linseed was hydrated at 1:2 (w:v) in a Silent Crusher homogeniser at 9500 rpm for 1 min. All ingredients (including flavouring, thickening, dye and RLE) were homogenised together for 10 min. Once paste was obtained, sterile glass jars (33-mL capacity) were manually filled and pasteurised in a water bath at 70 °C for 30 min. The jars were cooled in a water bath at 5 °C for 30 min and then kept for up to 42 days in a refrigerated display cabinet (Mod. 103899, Difri, Xirivella, Valencia, Spain) at 4 °C, 30% RH and white continuous illumination (600 lux). The antimicrobial efficiency of these pasteurisation conditions was checked in a previous trial [28]. Samples were stored at −80 °C before analyses.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "A total of twenty VOC were identified in the headspace of salmon pâté including several hydrocarbons (3-methoxy-1-propene, toluene, butylated-hydroxytoluene, 1-ethyl-4-methyl-benzene, and 1H-trindene, 2,3,4,5,6,7,8,9-octoctahydro-1,1,4,4,9,9-hexamethyl), alcohols (1-pentanol, 1-hexanol, 1-penten-3-ol, (Z)-2-penten-1-ol, 1-octen-3-ol, eugenol, and benzyl alcohol), aldehydes (hexanal, 2-methyl-propanal, 2-(phenylmethylene)-octanal and 2,5-bis(trimethyl)-benzaldehyde), ketones (2’,6’-dihydroxyacetophenone), organic acids (2-amino-4-methyl-benzoic acids) and terpenes (D-limonene and α-pinene). The relative abundance of most of these VOC was unaffected by the addition of RLE or chill storage, with some exceptions (Table 7). Of these, 1-pentanol was less abundant in the untreated than in the pâté with RLE (at any dose) on day 42. Overall, the abundance of 1-pentanol and 1-hexanol increased with chill storage, while, in contrast, the abundance of hexanal and 2-methyl-propanal decreased on day 42. The above four VOC were studied as possible lipid oxidation markers in salmon pâté.",
+          "added": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11418379/fullTextXML",
+      "title": "Effect of the addition of different forms of rosemary (Rosmarinus officinalis L.) on the quality of vacuum-packed minced pork",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "The muscle samples were processed in an electric meat mincer to pass through a 2.7 mm mesh screen and divided into four portions. The first, the control portion (C) contained no additives. Natural food additives approved for use and available in retailers were added at 15 mg/kg of meat to the remaining portions. Rosemary oleoresin (ROL) was added to the second portion, rosemary extract (REX) was added to the third and rosemary essential oil (REO) to the fourth. The final amounts of additives were determined based on the results of a preliminary laboratory study. A sensory analysis was performed by a consumer assessment conducted by university staff members. Samples were evaluated before storage (ST0) and after 7 (ST7) and 14 (ST14) days of storage in a refrigerator (2°C). The weight of each sample was approximately 200 g (10 samples per group). The ST7 and ST14 samples were vacuum packaged in polyamide/polyethylene bags with enhanced gas barrier performance (permeability: O2 = 27 cm3/m2/24 h/0.1 Mpa; CO2 = 86 cm3/m2/24 h/0.1 Mpa; N2 = 8 cm3/m2/24 h/0.1 Mpa; moisture vapour < 3.5 g/m2/24 h) with the use of a PP15 (MGO) Tepro Vacu Tronic 2000 vacuum packaging machine (Tepro, Koszalin, Poland). The vacuum-packaging procedure achieved a vacuum of 99%, equal to 1.3 kPa. Samples for assessment at ST0 were not packaged.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "A sensory analysis was performed by six panellists in individual compartments illuminated with white light (500 lx) and maintained at a temperature of 2°C. The colour, taste and aroma of the meat were assessed after heating to 96°C in a 0.6% NaCl solution for 90 min. Between evaluations, the panellists were offered still mineral water with a neutral taste and aroma for cleansing the palate. The samples were spherical in shape and had a weight of around 20 g. The samples were evaluated by the panellists immediately after heat treatment. All sensory attributes of the samples were evaluated during a single session on a nine-point scale: 9 – liked extremely, 8 – liked very much, 7 – liked moderately, 6 – liked slightly, 5 – neither liked nor dislike, 4 – disliked slightly, 3 – disliked moderately, 2 – disliked very much, 1 – disliked extremely.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Storage time had no impact on oxidative changes in minced pork (P-value = 0.146). Rosemary essential oil was most effective in preventing lipid oxidation (P-value < 0.001), whereas no significant differences in TBARS values were observed between C, ROL and REX samples (P-value > 0.05).",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Rosemary extract exerted the most beneficial influence on the aroma, taste and colour of minced pork (P-value < 0.001). Samples containing ROL also received high scores for aroma and taste, and samples with the addition of REO scored highly for colour. Control and REO samples were characterised by the lowest aroma and taste desirability (P-value < 0.001). Only colour was significantly affected by ST, and it received higher scores at ST7 and ST14 than at ST0 (P-value < 0.001).",
+          "added": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7009710/fullTextXML",
+      "title": "Refined exposure assessment of extracts of rosemary (E 392) from its use as food additive",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "Specific purity criteria for extracts of rosemary (E 392) have been defined in the Commission Regulation (EU) No 231/2012.10",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Reference antioxidative compounds: phenolic diterpenesCarnosic acid (C20H28O4) and Carnosol (C20H26O4) (which comprise not less than 90% of the total phenolic diterpenes)Reference key volatiles:Borneol, Bornyl Acetate, Camphor, 1,8‐Cineol, VerbenoneDensity:> 0.25 g/mLSolubility:Insoluble in waterInsoluble in water; soluble in oil.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Currently, extracts of rosemary (E 392) is an authorised food additive in the EU with MPLs ranging from 15 to 400 mg/kg in 33 food categories listed in Table 2. All MPLs are expressed as the sum of carnosol and carnosic acid, and some are expressed on the fat basis of the food.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "The specifications for extracts of rosemary (E 392) as defined in the Commission Regulation (EU) No 231/2012 and by JECFA (2016‐tentative) are listed in Table 1.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Maximum levels of extracts of rosemary (E 392) have been defined in Annex II to Regulation (EC) No 1333/2008 on food additives, as amended. In this document, these levels are named MPLs.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Reference antioxidative compounds: phenolic diterpenes | Carnosic acid (C20H28O4) and Carnosol (C20H26O4) (which comprise not less than 90% of the total phenolic diterpenes) |",
+          "added": "2026-09-21"
+        }
+      ]
+    }
+  ]
+}

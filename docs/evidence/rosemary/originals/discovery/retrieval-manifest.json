@@ -1,0 +1,83 @@
+[
+  {
+    "name": "salmon",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9219763/fullTextXML",
+    "status": 200,
+    "bytes": 245884,
+    "text_chars": 49304,
+    "sha256": "24ba0fae9d26f58a002b4c75359d272ad3a289cf95f4b7cbf6244fd63f288451",
+    "retrieval_date_utc": "2026-09-21",
+    "evidence_usable": true
+  },
+  {
+    "name": "pork",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11418379/fullTextXML",
+    "status": 200,
+    "bytes": 102734,
+    "text_chars": 35841,
+    "sha256": "99324882e814d8f4dd393f343dff1d61a7994e42487a6d57216e1f70c8269edf",
+    "retrieval_date_utc": "2026-09-21",
+    "evidence_usable": true
+  },
+  {
+    "name": "eu-spec",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0231",
+    "status": 202,
+    "bytes": 0,
+    "text_chars": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "retrieval_date_utc": "2026-09-21",
+    "evidence_usable": false,
+    "limitation": "Empty HTTP 202 legal response or JavaScript application shell; not cited as evidence."
+  },
+  {
+    "name": "eu-use",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010L0067",
+    "status": 202,
+    "bytes": 0,
+    "text_chars": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "retrieval_date_utc": "2026-09-21",
+    "evidence_usable": false,
+    "limitation": "Empty HTTP 202 legal response or JavaScript application shell; not cited as evidence."
+  },
+  {
+    "name": "eu-spec-pdf",
+    "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:083:0001:0295:EN:PDF",
+    "status": "202",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "retrieval_date_utc": "2026-09-21",
+    "evidence_usable": false,
+    "limitation": "Empty HTTP 202 legal response or JavaScript application shell; not cited as evidence."
+  },
+  {
+    "name": "eu-use-pdf",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0056",
+    "status": "202",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "retrieval_date_utc": "2026-09-21",
+    "evidence_usable": false,
+    "limitation": "Empty HTTP 202 legal response or JavaScript application shell; not cited as evidence."
+  },
+  {
+    "name": "efsa",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7009710/fullTextXML",
+    "status": 200,
+    "bytes": 143464,
+    "sha256": "358efaf2b1d08a85f84f6e84436edea9072ac3391706b5a4133b7f5628b96863",
+    "retrieval_date_utc": "2026-09-21",
+    "evidence_usable": true
+  },
+  {
+    "name": "ec-portal",
+    "url": "https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3125",
+    "status": 200,
+    "bytes": 94755,
+    "sha256": "a8147385d833f9eb84e61d4285ea31e248fe275c0a97525b515c0bd5e14d13d5",
+    "retrieval_date_utc": "2026-09-21",
+    "evidence_usable": false,
+    "limitation": "Empty HTTP 202 legal response or JavaScript application shell; not cited as evidence."
+  }
+]

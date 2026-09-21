@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "archive": "originals/earlier/evidence/source-1.txt",
+    "archive_sha256": "9e080cc820f390f42c902be2d32ba394d43741354db0e9f6773c8011e37f0528",
+    "quotes_checked": 3,
+    "quotes_matched": 3,
+    "scope": "Other manufacturer delivery formats only"
+  },
+  {
+    "id": 2,
+    "archive": "originals/earlier/evidence/source-2.txt",
+    "archive_sha256": "3e18b9ccee8ad6db1138e82abe86ee7ffa5740a303a7e0f4f1c42bb4ecacd74b",
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "scope": "Other manufacturer assay/carrier range only"
+  },
+  {
+    "id": 3,
+    "archive": "originals/earlier/evidence/source-3.txt",
+    "archive_sha256": "11c51ca094ba6997d528cec10d8094ef9ae17153eec7bb6ed7f72f05957fc780",
+    "quotes_checked": 4,
+    "quotes_matched": 4,
+    "scope": "Pure compound milk powder study, not commercial extract"
+  },
+  {
+    "id": 4,
+    "archive": "originals/discovery/evidence/salmon.txt",
+    "archive_sha256": "130cb0ae37e5d8bc4214026576b91c11284fc0c83bd1fe47e617a805678f0261",
+    "quotes_checked": 10,
+    "quotes_matched": 10,
+    "scope": "Experimental salmon material, endpoints and source contradictions"
+  },
+  {
+    "id": 5,
+    "archive": "originals/discovery/evidence/pork.txt",
+    "archive_sha256": "ea706e3a04e7be3ff28bb728c10a3d73073aabaf8d4853437a62d7e1e8d89dd3",
+    "quotes_checked": 4,
+    "quotes_matched": 4,
+    "scope": "Pork additive comparison, small cooked sensory panel and significance groups"
+  },
+  {
+    "id": 6,
+    "archive": "originals/discovery/evidence/efsa.txt",
+    "archive_sha256": "f0ecfd7bfd2ca145e803f64bf7f51d7d2f7262fd7419c3e1c12b8e2c449fa6c4",
+    "quotes_checked": 6,
+    "quotes_matched": 6,
+    "scope": "2018 historical EU assessment; no current legal dose"
+  }
+]

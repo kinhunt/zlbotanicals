@@ -1,0 +1,24 @@
+{
+  "citation_checks": [
+    {
+      "file": "comparison.en.md",
+      "exit_code": 0,
+      "stdout": "info: stats: 40 prose sentence(s), 13 with declared provenance (32%) — 13 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 8 in ledger (3 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [3], [4], [5], [6], [8]\ncitations OK\n",
+      "stderr": ""
+    },
+    {
+      "file": "comparison.zh.md",
+      "exit_code": 0,
+      "stdout": "info: stats: 3 prose sentence(s), 3 with declared provenance (100%) — 3 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 8 in ledger (3 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [3], [4], [5], [6], [8]\ncitations OK\n",
+      "stderr": ""
+    },
+    {
+      "file": "opportunity-card.md",
+      "exit_code": 0,
+      "stdout": "info: stats: 40 prose sentence(s), 11 with declared provenance (28%) — 11 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 8 in ledger (3 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [3], [4], [5], [6], [8]\ncitations OK\n",
+      "stderr": ""
+    }
+  ],
+  "literal_quote_checks": true,
+  "note": "Automated evidence presence and citation mapping checks, not independent semantic or Chinese editorial approval."
+}

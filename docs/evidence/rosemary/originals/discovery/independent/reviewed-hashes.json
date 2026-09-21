@@ -1,0 +1,241 @@
+{
+  "date_utc": "2026-09-21",
+  "verdict": "PASS — bounded research-content acceptance/integration only",
+  "reviewed_files": [
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/comparison.en.md",
+      "sha256": "e4935658b27a4990693e5e077f24b5ef09037c50a21c1f32682b5beec68e9370",
+      "review_scope": "line-by-line complete content review"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/comparison.zh.md",
+      "sha256": "d7b326c4cb19837f31c05a1d684cc3bba901b39343c56e62414121dafcc33afc",
+      "review_scope": "line-by-line complete content and bilingual review"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/opportunity-card.md",
+      "sha256": "134476664b5875544220c48af4383074fd7bc45ff3e3d678cdf2dc8721c048b7",
+      "review_scope": "complete content review"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/README.md",
+      "sha256": "be629d699522e8db6a7fec6592fec5758d972aa5c78c8add12af172c23bc574f",
+      "review_scope": "complete package-scope review"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/ledger.json",
+      "sha256": "75f56be531efc336b975638d6e276bff5d178d9d9f137f2a7ab195bd80a113e6",
+      "review_scope": "citation mapping and claim quotation review"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/claim-quotes.json",
+      "sha256": "ebc211515252b3406d2ccf6060eb46ea917fd3131faf284d8694d238387e6d73",
+      "review_scope": "claim quotation review"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/source-quoted-ledger.md",
+      "sha256": "7a28e1e703de2920031f0e7c19ed07f2229d19688c82ce39599b567ebabbb82e",
+      "review_scope": "evidence quotation review"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/retrieval-manifest.json",
+      "sha256": "b5b8a812dc5bf5fb7b11fc135710a2756979b239fddbd33e7edf94f41362faab",
+      "review_scope": "retrieval status/provenance review"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/verification.json",
+      "sha256": "ae5494dc9be2b1153f6c6846462698fc858e3af193a98bdd1653d95fadfe8e24",
+      "review_scope": "verification record review"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/salmon.txt",
+      "sha256": "130cb0ae37e5d8bc4214026576b91c11284fc0c83bd1fe47e617a805678f0261",
+      "review_scope": "relevant methods/results, Tables 2/4 and source contradictions"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/salmon.raw",
+      "sha256": "24ba0fae9d26f58a002b4c75359d272ad3a289cf95f4b7cbf6244fd63f288451",
+      "review_scope": "raw XML relevant Table 4 verification"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/pork.txt",
+      "sha256": "ea706e3a04e7be3ff28bb728c10a3d73073aabaf8d4853437a62d7e1e8d89dd3",
+      "review_scope": "primary methods/results, limitations and Tables 1/3"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/pork.raw",
+      "sha256": "99324882e814d8f4dd393f343dff1d61a7994e42487a6d57216e1f70c8269edf",
+      "review_scope": "raw XML Tables 1/3 verification"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/efsa.txt",
+      "sha256": "f0ecfd7bfd2ca145e803f64bf7f51d7d2f7262fd7419c3e1c12b8e2c449fa6c4",
+      "review_scope": "identity/time scope and relevant specification/authorisation sections"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/efsa.raw",
+      "sha256": "358efaf2b1d08a85f84f6e84436edea9072ac3391706b5a4133b7f5628b96863",
+      "review_scope": "raw XML Table 1 EU/JECFA verification"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/efsa-table1-columns.txt",
+      "sha256": "89ecb7210f3e5c14a4cbd39119ba8e69c1557b29e4ffad60a733ed8f2413081f",
+      "review_scope": "complete table-column review"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-commercial-discovery/rosemary-food-antioxidant/selection.en.md",
+      "sha256": "1d1272af9cd7fa82ffb3e43bf421c23c052acd325d95be597b0f9d8547403a56",
+      "review_scope": "complete editorial-overlap review; underlying sources not independently re-audited"
+    }
+  ],
+  "original_manifest_checks": [
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/README.md",
+      "expected": "be629d699522e8db6a7fec6592fec5758d972aa5c78c8add12af172c23bc574f",
+      "actual": "be629d699522e8db6a7fec6592fec5758d972aa5c78c8add12af172c23bc574f",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/claim-quotes.json",
+      "expected": "ebc211515252b3406d2ccf6060eb46ea917fd3131faf284d8694d238387e6d73",
+      "actual": "ebc211515252b3406d2ccf6060eb46ea917fd3131faf284d8694d238387e6d73",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/comparison.en.md",
+      "expected": "e4935658b27a4990693e5e077f24b5ef09037c50a21c1f32682b5beec68e9370",
+      "actual": "e4935658b27a4990693e5e077f24b5ef09037c50a21c1f32682b5beec68e9370",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/comparison.zh.md",
+      "expected": "d7b326c4cb19837f31c05a1d684cc3bba901b39343c56e62414121dafcc33afc",
+      "actual": "d7b326c4cb19837f31c05a1d684cc3bba901b39343c56e62414121dafcc33afc",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/ec-portal.raw",
+      "expected": "a8147385d833f9eb84e61d4285ea31e248fe275c0a97525b515c0bd5e14d13d5",
+      "actual": "a8147385d833f9eb84e61d4285ea31e248fe275c0a97525b515c0bd5e14d13d5",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/ec-portal.txt",
+      "expected": "ac6d47e40b1017324f292d3a8f885000771899c6116d75222ab691e544dbab89",
+      "actual": "ac6d47e40b1017324f292d3a8f885000771899c6116d75222ab691e544dbab89",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/efsa-table1-columns.txt",
+      "expected": "89ecb7210f3e5c14a4cbd39119ba8e69c1557b29e4ffad60a733ed8f2413081f",
+      "actual": "89ecb7210f3e5c14a4cbd39119ba8e69c1557b29e4ffad60a733ed8f2413081f",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/efsa.raw",
+      "expected": "358efaf2b1d08a85f84f6e84436edea9072ac3391706b5a4133b7f5628b96863",
+      "actual": "358efaf2b1d08a85f84f6e84436edea9072ac3391706b5a4133b7f5628b96863",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/efsa.txt",
+      "expected": "f0ecfd7bfd2ca145e803f64bf7f51d7d2f7262fd7419c3e1c12b8e2c449fa6c4",
+      "actual": "f0ecfd7bfd2ca145e803f64bf7f51d7d2f7262fd7419c3e1c12b8e2c449fa6c4",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/eu-spec-pdf.pdf",
+      "expected": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "actual": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/eu-spec.raw",
+      "expected": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "actual": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/eu-spec.txt",
+      "expected": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "actual": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/eu-use-pdf.pdf",
+      "expected": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "actual": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/eu-use.raw",
+      "expected": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "actual": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/eu-use.txt",
+      "expected": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "actual": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/pork.raw",
+      "expected": "99324882e814d8f4dd393f343dff1d61a7994e42487a6d57216e1f70c8269edf",
+      "actual": "99324882e814d8f4dd393f343dff1d61a7994e42487a6d57216e1f70c8269edf",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/pork.txt",
+      "expected": "ea706e3a04e7be3ff28bb728c10a3d73073aabaf8d4853437a62d7e1e8d89dd3",
+      "actual": "ea706e3a04e7be3ff28bb728c10a3d73073aabaf8d4853437a62d7e1e8d89dd3",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/salmon.raw",
+      "expected": "24ba0fae9d26f58a002b4c75359d272ad3a289cf95f4b7cbf6244fd63f288451",
+      "actual": "24ba0fae9d26f58a002b4c75359d272ad3a289cf95f4b7cbf6244fd63f288451",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/evidence/salmon.txt",
+      "expected": "130cb0ae37e5d8bc4214026576b91c11284fc0c83bd1fe47e617a805678f0261",
+      "actual": "130cb0ae37e5d8bc4214026576b91c11284fc0c83bd1fe47e617a805678f0261",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/ledger.json",
+      "expected": "75f56be531efc336b975638d6e276bff5d178d9d9f137f2a7ab195bd80a113e6",
+      "actual": "75f56be531efc336b975638d6e276bff5d178d9d9f137f2a7ab195bd80a113e6",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/opportunity-card.md",
+      "expected": "134476664b5875544220c48af4383074fd7bc45ff3e3d678cdf2dc8721c048b7",
+      "actual": "134476664b5875544220c48af4383074fd7bc45ff3e3d678cdf2dc8721c048b7",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/retrieval-manifest.json",
+      "expected": "b5b8a812dc5bf5fb7b11fc135710a2756979b239fddbd33e7edf94f41362faab",
+      "actual": "b5b8a812dc5bf5fb7b11fc135710a2756979b239fddbd33e7edf94f41362faab",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/source-quoted-ledger.md",
+      "expected": "7a28e1e703de2920031f0e7c19ed07f2229d19688c82ce39599b567ebabbb82e",
+      "actual": "7a28e1e703de2920031f0e7c19ed07f2229d19688c82ce39599b567ebabbb82e",
+      "pass": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-rosemary-discovery/verification.json",
+      "expected": "ae5494dc9be2b1153f6c6846462698fc858e3af193a98bdd1653d95fadfe8e24",
+      "actual": "ae5494dc9be2b1153f6c6846462698fc858e3af193a98bdd1653d95fadfe8e24",
+      "pass": true
+    }
+  ],
+  "original_manifest_sha256": "df6a5e8fcd15dfa975d507b71c01458161f6e32a321884ef6ce2a1bbeb733276",
+  "all_24_original_files_match_manifest_after_review": true,
+  "writes_confined_to": "independent/",
+  "note": "Original hashes agree with captured review-turn baseline. Integrity-only failed legal/portal artifacts are not semantic evidence. Raw XML review was of identified tables, not every XML node. No source/worktree modifications or new retrieval."
+}

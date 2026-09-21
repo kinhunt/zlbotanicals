@@ -1,0 +1,50 @@
+---
+import {createMarkdownProcessor} from '@astrojs/markdown-remark';
+import en from '../../docs/evidence/rosemary/selection.en.md?raw';
+import chinese from '../../docs/evidence/rosemary/selection.zh.md?raw';
+const {lang} = Astro.props as {lang:'en'|'zh'};
+const zh=lang==='zh';
+const [body,sources]=(zh?chinese:en).trim().split('\n## Sources\n');
+const [title,...lines]=body.split('\n');
+const processor=await createMarkdownProcessor({smartypants:false});
+const markdown=lines.join('\n').replace(/^### /gm,'#### ').replace(/^## /gm,'### ')
+ .replace(/\[([1-6])\]/g,'<a href="#rosemary-ref-$1">[$1]</a>');
+const html=(await processor.render(markdown)).code;
+const zhTitles=['EN-FORT：迷迭香食品抗氧化原料形态','FORTIUM R：浓度、载体与鼠尾草酸标准化','鼠尾草酚、鼠尾草酸与迷迭香酸对脂肪填充乳粉氧化稳定性的影响','富含二萜的迷迭香提取物在含亚麻籽三文鱼酱中的抗氧化研究','不同迷迭香形态对真空包装猪肉糜品质的影响','EFSA（2018）：迷迭香提取物 E392 食品添加剂精细化暴露评估'];
+const references=sources.trim().split('\n').filter(Boolean).map(line=>{
+ const match=line.match(/^\[(\d+)\] (\S+) — (.+)$/);
+ if(!match) throw new Error('Invalid rosemary source record');
+ const [,id,url,label]=match;
+ return {id,url,label:zh?zhTitles[Number(id)-1]:label};
+});
+const href=`${zh?'/zh':''}/request-quote?request=application&source=food&application=${encodeURIComponent(zh?'食品用迷迭香抗氧化原料采购':'Rosemary food antioxidant sourcing')}`;
+---
+<section id="rosemary-selection" class="section-padding rosemary" aria-labelledby="rosemary-title">
+ <div class="container-wide rosemary-reader">
+  <h2 id="rosemary-title">{title.replace(/^# /,'')}</h2>
+  <div class="rosemary-body"><Fragment set:html={html}/></div>
+  <a class="rosemary-cta" href={href}>{zh?'讨论迷迭香抗氧化原料采购':'Discuss rosemary antioxidant sourcing'} →</a>
+  <aside aria-labelledby="rosemary-sources-title">
+   <h3 id="rosemary-sources-title">{zh?'参考来源':'Sources'}</h3>
+   <ul>{references.map(ref=><li id={`rosemary-ref-${ref.id}`}><span>[{ref.id}] </span><a href={ref.url}>{ref.label}</a></li>)}</ul>
+  </aside>
+ </div>
+</section>
+<style>
+ .rosemary{background:#fafbf8;border-block:1px solid #e1e7db;scroll-margin-top:7rem}
+ .rosemary-reader{max-width:868px}
+ h2{font-size:clamp(1.6rem,3vw,2rem);font-weight:700;line-height:1.35;color:#243c2b}
+ .rosemary-body :global(p),.rosemary-body :global(li){line-height:1.8;color:#374151;margin:1rem 0}
+ .rosemary-body :global(h3){font-size:1.3rem;font-weight:650;line-height:1.4;margin:2rem 0 1rem;color:#243c2b}
+ .rosemary-body :global(h4){font-size:1.1rem;font-weight:650;line-height:1.5;margin-bottom:1rem;color:#243c2b}
+ .rosemary-body :global(ul){list-style:disc;padding-left:1.4rem}
+ .rosemary :global(a){color:#365b36;text-decoration:underline;text-underline-offset:3px}
+ .rosemary-body :global(.rosemary-choice){border:1px solid #d7e0cf;background:white;padding:clamp(1rem,3vw,1.5rem);border-radius:.6rem;margin:1.25rem 0}
+ .rosemary-body :global(.rosemary-choice p){margin:.6rem 0}
+ .rosemary-body :global(.rosemary-choice p:has(strong)){margin-top:1rem}
+ .rosemary-cta{display:inline-block;font-weight:650;margin:1rem 0}
+ aside{border-top:1px solid #d7e0cf;padding-top:1.5rem;margin-top:1.5rem;font-size:.9rem;line-height:1.65}
+ aside h3{font-size:1.1rem;font-weight:650}
+ aside li{margin-top:.7rem;overflow-wrap:anywhere;scroll-margin-top:7rem}
+ .rosemary-body :global(h3),.rosemary-body :global(h4){scroll-margin-top:7rem}
+</style>
