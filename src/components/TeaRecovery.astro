@@ -1,0 +1,66 @@
+---
+import {createMarkdownProcessor} from '@astrojs/markdown-remark';
+import en from '../../docs/evidence/tea-recovery/revision/module.en.md?raw';
+import chinese from '../../docs/evidence/tea-recovery/revision/module.zh.md?raw';
+import guide from '../../public/downloads/tea-recovery-reader.bilingual.md?raw';
+const {lang} = Astro.props as {lang:'en'|'zh'};
+const zh=lang==='zh';
+const [moduleBody,sourceText]=(zh?chinese:en).trim().split('\n## Sources\n');
+const [title,...paragraphs]=moduleBody.split('\n');
+const processor=await createMarkdownProcessor({smartypants:false});
+const cite=(text:string)=>text.replace(/\[(6|7)\]/g,'<a href="#tea-recovery-ref-$1">[$1]</a>');
+const moduleHtml=(await processor.render(cite(paragraphs.join('\n')))).code;
+// The three grouped dictionaries are lookup records, not numerical comparison tables.
+// Stack fields and both language instructions so no 35-column CSV becomes a web table.
+let dictionary=0;
+const reader=guide.split('\n## Sources\n')[0].replace(/^# .*\n/,'').replace(/^## /gm,'### ').replace(/^### Allowed/gm,'#### Allowed');
+const readerCards=reader.replace(/\| Fields \| English instruction \| 中文说明 \|\n\|---\|---\|---\|\n(?:\|[^\n]*\n)+/g,table=>{
+ const rows=table.trim().split('\n').slice(2).map(row=>row.split('|').slice(1,-1).map(cell=>cell.trim()));
+ return `<dl class="recovery-dictionary" data-recovery-dictionary="${++dictionary}">${rows.map(([field,english,chinese])=>`<div><dt>${field}</dt><dd lang="en">${english.replaceAll('<','&lt;')}</dd><dd lang="zh">${chinese.replaceAll('<','&lt;')}</dd></div>`).join('')}</dl>\n`;
+});
+const readerHtml=(await processor.render(cite(readerCards))).code;
+const references=sourceText.trim().split('\n').map(line=>{
+ const [,id,url,label]=line.match(/^\[(\d+)\] (\S+) — (.+)$/)!;
+ return {id,url,label};
+});
+const downloads=[
+ ['boundary.blank.csv',zh?'边界记录（空白CSV）':'Boundary record (blank CSV)'],
+ ['acceptance.blank.csv',zh?'双状态验收（空白CSV）':'Paired-state acceptance (blank CSV)'],
+ ['streams.blank.csv',zh?'流股记录（空白CSV）':'Stream record (blank CSV)'],
+ ['reader.bilingual.md',zh?'完整中英字段指南（Markdown）':'Complete bilingual field guide (Markdown)'],
+];
+---
+<section id="tea-recovery" class="tea-recovery" aria-labelledby="tea-recovery-title">
+ <h2 id="tea-recovery-title">{title.replace(/^# /,'')}</h2>
+ <p>{zh?'把原液与实际饮用状态分开验收；把指定产品回收率与整体衡算闭合率分开记录。':'Qualify concentrate and intended drink separately; record designated-product recovery separately from overall mass closure.'}</p>
+ <p class="recovery-boundary">{zh?'三张空白CSV是手工记录表，不是自动计算器。不含公式，不验证输入；空白表示未知，不等于零。':'The three blank CSVs are manual records, not an automatic calculator. They contain no formulas or input validation; blank means unknown, not zero.'}</p>
+ <ul class="recovery-downloads">{downloads.map(([file,label])=><li><a href={`/downloads/tea-recovery-${file}`} download>{label}</a></li>)}</ul>
+ <details data-tea-recovery-module>
+  <summary>{zh?'阅读：验收与成分回收的判断边界':'Read: acceptance and compound-recovery boundaries'}</summary>
+  <div class="recovery-reader"><Fragment set:html={moduleHtml}/></div>
+ </details>
+ <details data-tea-recovery-guide>
+  <summary>{zh?'查阅：中英字段、换算路线与手工衡算指南':'Reference: bilingual fields, conversion routes and manual accounting'}</summary>
+  <div class="recovery-reader" data-recovery-guide><Fragment set:html={readerHtml}/></div>
+ </details>
+ <div class="recovery-references"><h3>{zh?'验收与回收记录来源':'Acceptance and recovery references'}</h3><ul>{references.map(ref=><li id={`tea-recovery-ref-${ref.id}`}><span>[{ref.id}] </span><a href={ref.url}>{ref.label}</a></li>)}</ul></div>
+</section>
+<style>
+ .tea-recovery{padding:2.5rem 0;border-bottom:1px solid #dfe5d7;scroll-margin-top:7rem;max-width:820px}
+ .recovery-boundary{padding:1rem;border-left:3px solid #47613c;background:#f3f6ee}
+ .recovery-downloads{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.4rem 1.4rem;list-style:none;padding:0}
+ details{border:1px solid #d8e1cf;border-radius:.5rem;margin:1rem 0;background:#fafbf8}
+ summary{cursor:pointer;font-size:1.05rem;font-weight:700;padding:1.1rem;line-height:1.5}
+ summary:focus-visible{outline:3px solid #b07b20;outline-offset:3px}
+ .recovery-reader{padding:0 1.2rem 1.2rem;line-height:1.8;font-size:1rem}
+ .recovery-reader :global(h3){font-size:1.3rem;font-weight:700;margin-top:2rem}
+ .recovery-reader :global(h4){font-size:1.1rem;font-weight:700;margin-top:1.5rem}
+ .recovery-reader :global(ol),.recovery-reader :global(ul){padding-left:1.5rem;list-style:revert}
+ .recovery-reader :global(code){white-space:normal;overflow-wrap:anywhere;font-size:.95em}
+ .recovery-reader :global(.recovery-dictionary>div){padding:1rem 0;border-bottom:1px solid #d8e1cf}
+ .recovery-reader :global(.recovery-dictionary dt){font-family:monospace;font-size:.95rem;color:#26492a;margin:0;font-weight:700}
+ .recovery-reader :global(.recovery-dictionary dd){font-size:1rem;margin:.6rem 0 0}
+ .recovery-reader :global(.recovery-dictionary dd[lang=zh]){color:#435141}
+ .recovery-references{font-size:.9rem}
+ @media(max-width:700px){.recovery-downloads{grid-template-columns:1fr}.recovery-reader{padding:0 1rem 1rem}}
+</style>

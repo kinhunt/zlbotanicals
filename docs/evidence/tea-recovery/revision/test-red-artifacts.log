@@ -1,0 +1,14 @@
+test_blank_sheet_contract (__main__.ArtifactTests.test_blank_sheet_contract) ... FAIL
+
+======================================================================
+FAIL: test_blank_sheet_contract (__main__.ArtifactTests.test_blank_sheet_contract)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/data/hermes/research/seo-growth/2026-09-21-tea-recovery/revision/validate.py", line 13, in test_blank_sheet_contract
+    self.assertTrue((HERE / 'schema.json').exists(), 'Missing delivered schema and blank-sheet contract')
+AssertionError: False is not true : Missing delivered schema and blank-sheet contract
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+FAILED (failures=1)

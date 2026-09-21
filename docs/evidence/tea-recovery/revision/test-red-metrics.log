@@ -1,0 +1,16 @@
+test_blank_sheet_contract (__main__.ArtifactTests.test_blank_sheet_contract) ... ok
+test_amount_routes (__main__.SyntheticConversionTests.test_amount_routes) ... ok
+test_metric_specific_unknowns (__main__.SyntheticConversionTests.test_metric_specific_unknowns) ... FAIL
+
+======================================================================
+FAIL: test_metric_specific_unknowns (__main__.SyntheticConversionTests.test_metric_specific_unknowns)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/data/hermes/research/seo-growth/2026-09-21-tea-recovery/revision/validate.py", line 67, in test_metric_specific_unknowns
+    self.assertTrue(hasattr(ref, 'metrics'), 'Missing metric-specific completeness handling')
+AssertionError: False is not true : Missing metric-specific completeness handling
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.004s
+
+FAILED (failures=1)

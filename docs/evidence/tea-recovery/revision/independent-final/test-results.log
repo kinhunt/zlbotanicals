@@ -1,0 +1,29 @@
+COMMAND: python -B validate.py
+CWD: /data/hermes/research/seo-growth/2026-09-21-tea-recovery/revision
+EXIT: 0
+test_blank_sheet_contract (__main__.ArtifactTests.test_blank_sheet_contract) ... ok
+test_amount_routes (__main__.SyntheticConversionTests.test_amount_routes) ... ok
+test_metric_specific_unknowns (__main__.SyntheticConversionTests.test_metric_specific_unknowns) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.004s
+
+OK
+
+INDEPENDENT SYNTHETIC PROBE
+from reference_math import amount, metrics
+assert amount(7,3,'volume',D=5,corrected=False)==105
+assert amount(7,15,'volume',D=5,corrected=True)==105
+assert amount(8,12,'extract',D=3,corrected=False,extract_L=.25,portion_kg=.06)==1200
+assert amount(8,12,'extract',D=3,corrected=False,extract_L=.25,portion_kg=.06,dry_fraction=.2)==240
+assert metrics([80,20],[45],[45,None],[0])==(45,None,None)
+assert metrics([80,20],[45],[45,50],[None])==(45,None,None)
+assert metrics([80,None],[45],[45,50],[0])==(None,None,None)
+assert metrics([100],[None],[45,50],[5])==(None,100,0)
+assert metrics([100],[45],[45,60],[5])==(45,110,-10)
+assert metrics([],[],[],[])==(None,None,None)
+assert amount(2,.3,'volume',D=5,corrected=False)==3
+print('Independent synthetic assertions: 11 PASS; no measured data.')
+
+EXIT: 0
+Independent synthetic assertions: 11 PASS; no measured data.

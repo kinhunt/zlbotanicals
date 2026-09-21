@@ -1,0 +1,11 @@
+﻿boundary_id,batch_id,step_id,stream_id,role,analyte,interval_id,interval_start,interval_end,sampling_mode,sample_time,sample_id,quantity_basis,volume_L,mass_kg,result_basis,concentration_mg_L,content_mg_kg,wet_dry_basis,dry_fraction,analytical_D,already_corrected,qualifier,loq_value,loq_unit,loq_basis,method_id,lab_report_id,extraction_volume_L,test_portion_kg,test_portion_basis,extraction_method_ref,product_eligible,target_mg,notes
+,,,,feed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,added_water,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,other_input,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,permeate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,retentate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,wet_cake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,withdrawn_sample,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,flush,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,opening_inventory,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,closing_inventory,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

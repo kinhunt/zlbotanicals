@@ -1,0 +1,3 @@
+# Tea recovery integration
+
+Approved research receipt: revision/independent-final/checks.json (PASS_RESEARCH_READINESS_ONLY; not publication approval). Original sources and bounded reviews are archived byte-identically. Modules are rendered from approved raw Markdown with heading/citation markup only. Public field guide omits internal review, test-running and archive-location prose only; all fields, routes, equations and evidence limits retained. Three CSVs are byte-identical. No browser calculator, inferred yield, industrial membrane recommendation or duplicate article. Dedicated citation namespace retains local IDs 6/7 without conflating existing tea-family IDs.

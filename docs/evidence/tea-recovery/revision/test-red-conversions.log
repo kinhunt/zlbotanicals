@@ -1,0 +1,15 @@
+test_blank_sheet_contract (__main__.ArtifactTests.test_blank_sheet_contract) ... ok
+test_amount_routes (__main__.SyntheticConversionTests.test_amount_routes) ... FAIL
+
+======================================================================
+FAIL: test_amount_routes (__main__.SyntheticConversionTests.test_amount_routes)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/data/hermes/research/seo-growth/2026-09-21-tea-recovery/revision/validate.py", line 39, in test_amount_routes
+    self.assertTrue((HERE / 'reference_math.py').exists(), 'Missing reference conversion implementation')
+AssertionError: False is not true : Missing reference conversion implementation
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.002s
+
+FAILED (failures=1)

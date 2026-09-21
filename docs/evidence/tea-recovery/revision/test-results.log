@@ -1,0 +1,8 @@
+test_blank_sheet_contract (__main__.ArtifactTests.test_blank_sheet_contract) ... ok
+test_amount_routes (__main__.SyntheticConversionTests.test_amount_routes) ... ok
+test_metric_specific_unknowns (__main__.SyntheticConversionTests.test_metric_specific_unknowns) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.003s
+
+OK

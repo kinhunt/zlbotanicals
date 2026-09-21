@@ -1,0 +1,7 @@
+{
+  "checks.json": "c8062dad724ccff39e9ea1e0b1e5770b870705b6873cf86a63594c3dfdf68ffa",
+  "input-sha256.after.json": "f8e9945c6af3995592e1bd8f54c5a321648dc9066b44a093e5c45636486558c6",
+  "input-sha256.before.json": "f8e9945c6af3995592e1bd8f54c5a321648dc9066b44a093e5c45636486558c6",
+  "test-results.log": "989abb1e98d00e99f17e2b4ab9cb257ded3d1aae0e0c3a480d710e0e689fea8b",
+  "verdict.zh.md": "52cc075de6b8f7b9b3f8885b2e0c12e3e28726ba8e600904d8ceed2559376d2d"
+}
