@@ -1,0 +1,98 @@
+[
+  {
+    "source_id": 1,
+    "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/69/Paprika_extract.pdf",
+    "file": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/source-3.txt",
+    "exact_excerpt": "The final extracts are standardized by either addi ng food-grade oils or turned into water-dispersible \nformulations by adding food emulsifiers.",
+    "applies_to_locales": [
+      "en",
+      "zh"
+    ],
+    "scope": "Reference material descriptions only; manufacturer statement is attributed, not independently validated performance.",
+    "claim": "Oil-standardized or emulsifier-containing water-dispersible preparations"
+  },
+  {
+    "source_id": 1,
+    "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/69/Paprika_extract.pdf",
+    "file": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/source-3.txt",
+    "exact_excerpt": "The prime extract, if low in capsaicin, can be subject to further processing to reduce the flavour and \naroma and thus yield a colour extract.",
+    "applies_to_locales": [
+      "en",
+      "zh"
+    ],
+    "scope": "Reference material descriptions only; manufacturer statement is attributed, not independently validated performance.",
+    "claim": "Further flavour/aroma reduction is possible, not guaranteed"
+  },
+  {
+    "source_id": 1,
+    "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/69/Paprika_extract.pdf",
+    "file": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/source-3.txt",
+    "exact_excerpt": "Paprika preparations are manufactured by solven t extraction from the pepper fruit of the genus \nCapsicum annuum, exclusively. There are two types of products prepared: \n \n• Oleoresin capsicum: obtained from the longer , moderately pungent Capsicum used in the \nproduction of red pepper. Commercial red pe pper oleoresins are mainly used as a spice \nsupplied in pungency ratings between 80 000 and 500 000 Scoville units (approximately \n0,6-3,9 % capsaicin w/w) and a wide range of  colour. In the market place practice has \nshown that 1 kg of 200 000 Scoville units ol eoresin replaces 10 kg of good quality red \npepper. \n \n• Paprika extract: obtained from varieties of C. annuum  from which paprika powder is \nproduced. It has a high colour value, but  little or no pungency. Commercial paprika \noleoresin is available in different colour streng ths up to 150 000 colour units (equivalent to \n10.8% total carotenoids). In the market place practice has shown that 1 kg of paprika extract \nreplaces 12-15 kg of paprika powder with respect to colour intensity.",
+    "applies_to_locales": [
+      "en",
+      "zh"
+    ],
+    "scope": "Reference material descriptions only; manufacturer statement is attributed, not independently validated performance.",
+    "claim": "Colouring versus pungent preparation types"
+  },
+  {
+    "source_id": 2,
+    "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph16/additive-510-m16.pdf",
+    "file": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.txt",
+    "exact_excerpt": "DEFINITION Paprika extract is obtained by solvent extraction of the dried ground \nfruit pods of Capsicum annuum. The major colouring compound  is \ncapsanthin. Other coloured compounds, such as capsorubin, \ncanthaxanthin, cryptoxanthin, zeaxanthin and lutein, as well as other \ncarotenoids are also present. The balance of the extracted material is \nlipidic in nature and varies depending on the primary extraction \nsolvent.  Commercial preparations may be diluted and standardised \nwith respect to colour content using refined vegetable oil.",
+    "applies_to_locales": [
+      "en",
+      "zh"
+    ],
+    "scope": "Reference material descriptions only; manufacturer statement is attributed, not independently validated performance.",
+    "claim": "Botanical identity; pigment versus lipid fraction; refined-oil standardisation"
+  },
+  {
+    "source_id": 2,
+    "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph16/additive-510-m16.pdf",
+    "file": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.txt",
+    "exact_excerpt": "Assay Total carotenoids: not less than 7%  \nCapsanthin: Not less than 30% of total carotenoids. \n \nDESCRIPTION Dark-red viscous liquid \n \nFUNCTIONAL USES Colour \n \nCHARACTERISTICS \n \n \nIDENTIFICATION \n \n \nSolubility Practically insoluble in water, soluble in acetone \n \n\n\nPAGE 2",
+    "applies_to_locales": [
+      "en",
+      "zh"
+    ],
+    "scope": "Reference material descriptions only; manufacturer statement is attributed, not independently validated performance.",
+    "claim": "Specification assay bases and water insolubility"
+  },
+  {
+    "source_id": 2,
+    "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph16/additive-510-m16.pdf",
+    "file": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.txt",
+    "exact_excerpt": "Capsaicinoids Not more than 200 mg/kg \nSee description under TESTS",
+    "applies_to_locales": [
+      "en",
+      "zh"
+    ],
+    "scope": "Reference material descriptions only; manufacturer statement is attributed, not independently validated performance.",
+    "claim": "Separate capsaicinoid limit in source specification, not a offered batch value"
+  },
+  {
+    "source_id": 2,
+    "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph16/additive-510-m16.pdf",
+    "file": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.txt",
+    "exact_excerpt": "METHOD OF ASSAY  \n \nTotal carotenoids \n \nDetermine by spectrophotometry. Accurately weigh 300 to 500 mg of \nsample, and transfer quantitatively to a 100 ml volumetric flask. Dilute \nwith acetone to volume, dissolve by shaking and leave to stand for 2 min. \nPipet 1 ml of this extract into another 100 ml volumetric flask, dilute to \nvolume with acetone, and shake well. Transfer a portion to the \nspectrophotometer cell, and read the absorbance A at 462 nm. Adjust the \nsample concentration to obtain an absorbance between 0.3 and 0.7. \n \n \nTotal carotenoids (%) =  \nwhere \nA is the absorbance of sample \n2100 is A 1 %\n1 cm for capsanthin in acetone at 462 nm \nW is the weight of sample (g) \n \nCapsanthin \n \nDetermine the identity of the sample and the content of capsanthin by \nreversed-phase HPLC. See Volume 4 under “Chromatography”.  \nThe sample is saponified to release the parent hydroxy-carotenoids from \nthe extracts prior HPLC analysis. \n \n Sample preparation \nDissolve 0.2 g of the sample in acetone, quantitatively transfer into a 500 \nml separatory funnel and add enough acetone to make up to 100 ml. Add \n100 ml diethyl ether and mix well. Remove any insoluble particles by \nfiltration. Add 100 ml of KOH-methanol (20%) and leave the solution for \none hour. Shake periodically. Remove the aqueous phase and wash the \norganic phase several times with distilled water until the washings are \nneutral. Filter through a bed of anhydrous Na2SO4 and evaporate to \ndryness in a rotary evaporator at a temperature below 35°. Dissolve the \npigments in acetone and make up to 25 ml in a volumetric flask. Keep the \nsamples refrigerated until analysis by HPLC. Thoroughly disperse the \nsamples, e.g. by sonication, and filter through a 0.45 μm filter before \nanalysis.",
+    "applies_to_locales": [
+      "en",
+      "zh"
+    ],
+    "scope": "Reference material descriptions only; manufacturer statement is attributed, not independently validated performance.",
+    "claim": "Separate spectrophotometric total-carotenoid and HPLC capsanthin assays"
+  },
+  {
+    "source_id": 2,
+    "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph16/additive-510-m16.pdf",
+    "file": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.txt",
+    "exact_excerpt": "Prepared at the 77th JECFA, published in FAO JECFA Monographs \n14 (2013), superseding tentative specifications prepared at the 69th \nJECFA (2008). An ADI of 0 - 1.5 mg/kg bw was allocated at the 79th \nJECFA (2014).",
+    "applies_to_locales": [
+      "en",
+      "zh"
+    ],
+    "scope": "Reference material descriptions only; manufacturer statement is attributed, not independently validated performance.",
+    "claim": "2014 document supersedes tentative 2008 specification"
+  }
+]

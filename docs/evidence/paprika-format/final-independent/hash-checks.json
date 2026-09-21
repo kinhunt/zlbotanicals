@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/paprika-format-selection.en.md",
+    "expected_sha256": "125230ec5f9f973ab36f0f06e7ccfadddbf03fa7fb90371e26f97042ead2da30",
+    "actual_sha256": "125230ec5f9f973ab36f0f06e7ccfadddbf03fa7fb90371e26f97042ead2da30",
+    "match": true
+  },
+  {
+    "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/paprika-format-selection.zh.md",
+    "expected_sha256": "160c0f47118e6a02fdf630b669ab3c76d1532d73986c115b47b757d07f343599",
+    "actual_sha256": "160c0f47118e6a02fdf630b669ab3c76d1532d73986c115b47b757d07f343599",
+    "match": true
+  },
+  {
+    "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/quillaja-selection.en.md",
+    "expected_sha256": "0abcdc0c77228ef0219c8e41618c89b3456c04c606d37f964f23bd0ae4bf1050",
+    "actual_sha256": "0abcdc0c77228ef0219c8e41618c89b3456c04c606d37f964f23bd0ae4bf1050",
+    "match": true
+  },
+  {
+    "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/quillaja-selection.zh.md",
+    "expected_sha256": "8bd01ccdd48baa34a3c51a02e279f1759deca95b7a289453c49579982ff2abfa",
+    "actual_sha256": "8bd01ccdd48baa34a3c51a02e279f1759deca95b7a289453c49579982ff2abfa",
+    "match": true
+  }
+]

@@ -1,0 +1,145 @@
+{
+  "candidate": "paprika",
+  "source_hashes": [
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/source-3.txt",
+      "actual_sha256": "ac1880ed3db6e12b89b95313a0fdd5ae5a2aa47fc64e2762d72e95f44c5f80ab",
+      "manifest_match": true,
+      "original_match": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/source-3.pdf",
+      "actual_sha256": "7038123c5738e0028831af03dcc9303f17694c70b8fcbb32c01f2ab5623ba7d8",
+      "manifest_match": true,
+      "original_match": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.txt",
+      "actual_sha256": "b40497b75e51fab543065a3eafd38372d9c58d8382ebb85a0a119c54d77058b9",
+      "manifest_match": true,
+      "original_match": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.pdf",
+      "actual_sha256": "001ac3d3dc32e7119f1936addc64a46d583fcdcd953a04980e6b3370e2d5a647",
+      "manifest_match": true,
+      "original_match": true
+    }
+  ],
+  "quote_checks": [
+    {
+      "claim_index": 1,
+      "source_id": 1,
+      "archived_text_match": true,
+      "independent_pdf_extraction_match": true,
+      "ledger_url_quote_match": true
+    },
+    {
+      "claim_index": 2,
+      "source_id": 1,
+      "archived_text_match": true,
+      "independent_pdf_extraction_match": true,
+      "ledger_url_quote_match": true
+    },
+    {
+      "claim_index": 3,
+      "source_id": 1,
+      "archived_text_match": true,
+      "independent_pdf_extraction_match": true,
+      "ledger_url_quote_match": true
+    },
+    {
+      "claim_index": 4,
+      "source_id": 2,
+      "archived_text_match": true,
+      "independent_pdf_extraction_match": true,
+      "ledger_url_quote_match": true
+    },
+    {
+      "claim_index": 5,
+      "source_id": 2,
+      "archived_text_match": true,
+      "independent_pdf_extraction_match": true,
+      "ledger_url_quote_match": true
+    },
+    {
+      "claim_index": 6,
+      "source_id": 2,
+      "archived_text_match": true,
+      "independent_pdf_extraction_match": true,
+      "ledger_url_quote_match": true
+    },
+    {
+      "claim_index": 7,
+      "source_id": 2,
+      "archived_text_match": true,
+      "independent_pdf_extraction_match": true,
+      "ledger_url_quote_match": true
+    },
+    {
+      "claim_index": 8,
+      "source_id": 2,
+      "archived_text_match": true,
+      "independent_pdf_extraction_match": true,
+      "ledger_url_quote_match": true
+    }
+  ],
+  "locales": {
+    "en": {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/paprika-format-selection.en.md",
+      "sha256": "125230ec5f9f973ab36f0f06e7ccfadddbf03fa7fb90371e26f97042ead2da30",
+      "command": [
+        "/usr/local/bin/python3.11",
+        "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+        "--ledger",
+        "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+        "verify",
+        "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/paprika-format-selection.en.md",
+        "--evidence",
+        "--strict"
+      ],
+      "exit": 0,
+      "stdout": "info: stats: 43 prose sentence(s), 8 with declared provenance (19%) — 8 cited, 0 marked [unverified] (a sentence may be both); 2 distinct source(s) cited, 2 in ledger (2 with evidence quotes)\ncitations OK\n",
+      "stderr": "",
+      "citation_ids": [
+        1,
+        2
+      ],
+      "supported_numbers_retained": true,
+      "obsolete_wording_absent": true,
+      "extract_scope_note_present": true,
+      "archive_quote_hash_assertions_pass": true
+    },
+    "zh": {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/paprika-format-selection.zh.md",
+      "sha256": "160c0f47118e6a02fdf630b669ab3c76d1532d73986c115b47b757d07f343599",
+      "command": [
+        "/usr/local/bin/python3.11",
+        "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+        "--ledger",
+        "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+        "verify",
+        "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/paprika-format-selection.zh.md",
+        "--evidence",
+        "--strict"
+      ],
+      "exit": 0,
+      "stdout": "info: stats: 0 prose sentence(s), 0 with declared provenance (0%) — 0 cited, 0 marked [unverified] (a sentence may be both); 2 distinct source(s) cited, 2 in ledger (2 with evidence quotes)\ncitations OK\n",
+      "stderr": "",
+      "citation_ids": [
+        1,
+        2
+      ],
+      "supported_numbers_retained": true,
+      "obsolete_wording_absent": true,
+      "extract_scope_note_present": true,
+      "archive_quote_hash_assertions_pass": true
+    }
+  },
+  "limitations": [
+    "Automated matching is not semantic peer review.",
+    "Chinese sentence coverage is not a language-quality metric.",
+    "Independent here means a separate checker implementation plus fresh PDF extraction, not a second human/editor.",
+    "No site integration, route validation, build or publication."
+  ]
+}

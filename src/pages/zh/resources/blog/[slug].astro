@@ -50,7 +50,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
   heroTitle={post.data.title}
   heroSubtitle={guideCategory[lang].title}
 >
-  <article class:list={["section-padding", {"sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
+  <article class:list={["section-padding", {"paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
     <div class="container-wide max-w-4xl">
       <!-- Breadcrumb -->
       <nav aria-label="面包屑导航" class="mb-8 text-sm">
@@ -191,6 +191,14 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
 </PageLayout>
 
 <style>
+  .paprika-format :global([id]) {scroll-margin-top:100px}
+  .paprika-format :global(nav ol) {flex-wrap:wrap}
+  .paprika-format :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}
+  .paprika-format :global(.paprika-choice) {padding:1.25rem;border:1px solid #d8e1d0;border-left:4px solid #537646;border-radius:.5rem;margin:1.5rem 0;background:#fafbf7}
+  .paprika-format :global(.paprika-choice h3) {margin-top:0}
+  .paprika-format :global(.paprika-choice p:last-child) {margin-bottom:0}
+  .paprika-format :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}
+
   .sdil :global([id]) {scroll-margin-top:100px}
   .sdil :global(nav ol) {flex-wrap:wrap}
   .sdil :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}
