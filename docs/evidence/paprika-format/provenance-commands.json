@@ -1,0 +1,208 @@
+[
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+      "reset"
+    ],
+    "exit": 0,
+    "stdout": "ledger reset: /data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+      "add",
+      "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/69/Paprika_extract.pdf",
+      "--title",
+      "Paprika extract — 2008 JECFA technical assessment"
+    ],
+    "exit": 0,
+    "stdout": "[1] https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/69/Paprika_extract.pdf\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+      "quote",
+      "1",
+      "--text",
+      "The final extracts are standardized by either addi ng food-grade oils or turned into water-dispersible \nformulations by adding food emulsifiers.",
+      "--from",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/source-3.txt"
+    ],
+    "exit": 0,
+    "stdout": "[1] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+      "quote",
+      "1",
+      "--text",
+      "The prime extract, if low in capsaicin, can be subject to further processing to reduce the flavour and \naroma and thus yield a colour extract.",
+      "--from",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/source-3.txt"
+    ],
+    "exit": 0,
+    "stdout": "[1] evidence attached (2 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+      "quote",
+      "1",
+      "--text",
+      "Paprika preparations are manufactured by solven t extraction from the pepper fruit of the genus \nCapsicum annuum, exclusively. There are two types of products prepared: \n \n• Oleoresin capsicum: obtained from the longer , moderately pungent Capsicum used in the \nproduction of red pepper. Commercial red pe pper oleoresins are mainly used as a spice \nsupplied in pungency ratings between 80 000 and 500 000 Scoville units (approximately \n0,6-3,9 % capsaicin w/w) and a wide range of  colour. In the market place practice has \nshown that 1 kg of 200 000 Scoville units ol eoresin replaces 10 kg of good quality red \npepper. \n \n• Paprika extract: obtained from varieties of C. annuum  from which paprika powder is \nproduced. It has a high colour value, but  little or no pungency. Commercial paprika \noleoresin is available in different colour streng ths up to 150 000 colour units (equivalent to \n10.8% total carotenoids). In the market place practice has shown that 1 kg of paprika extract \nreplaces 12-15 kg of paprika powder with respect to colour intensity.",
+      "--from",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/source-3.txt"
+    ],
+    "exit": 0,
+    "stdout": "[1] evidence attached (3 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+      "add",
+      "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph16/additive-510-m16.pdf",
+      "--title",
+      "Paprika extract — 2014 JECFA specification edition"
+    ],
+    "exit": 0,
+    "stdout": "[2] https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph16/additive-510-m16.pdf\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+      "quote",
+      "2",
+      "--text",
+      "DEFINITION Paprika extract is obtained by solvent extraction of the dried ground \nfruit pods of Capsicum annuum. The major colouring compound  is \ncapsanthin. Other coloured compounds, such as capsorubin, \ncanthaxanthin, cryptoxanthin, zeaxanthin and lutein, as well as other \ncarotenoids are also present. The balance of the extracted material is \nlipidic in nature and varies depending on the primary extraction \nsolvent.  Commercial preparations may be diluted and standardised \nwith respect to colour content using refined vegetable oil.",
+      "--from",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.txt"
+    ],
+    "exit": 0,
+    "stdout": "[2] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+      "quote",
+      "2",
+      "--text",
+      "Assay Total carotenoids: not less than 7%  \nCapsanthin: Not less than 30% of total carotenoids. \n \nDESCRIPTION Dark-red viscous liquid \n \nFUNCTIONAL USES Colour \n \nCHARACTERISTICS \n \n \nIDENTIFICATION \n \n \nSolubility Practically insoluble in water, soluble in acetone \n \n\n\nPAGE 2",
+      "--from",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.txt"
+    ],
+    "exit": 0,
+    "stdout": "[2] evidence attached (2 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+      "quote",
+      "2",
+      "--text",
+      "Capsaicinoids Not more than 200 mg/kg \nSee description under TESTS",
+      "--from",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.txt"
+    ],
+    "exit": 0,
+    "stdout": "[2] evidence attached (3 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+      "quote",
+      "2",
+      "--text",
+      "METHOD OF ASSAY  \n \nTotal carotenoids \n \nDetermine by spectrophotometry. Accurately weigh 300 to 500 mg of \nsample, and transfer quantitatively to a 100 ml volumetric flask. Dilute \nwith acetone to volume, dissolve by shaking and leave to stand for 2 min. \nPipet 1 ml of this extract into another 100 ml volumetric flask, dilute to \nvolume with acetone, and shake well. Transfer a portion to the \nspectrophotometer cell, and read the absorbance A at 462 nm. Adjust the \nsample concentration to obtain an absorbance between 0.3 and 0.7. \n \n \nTotal carotenoids (%) =  \nwhere \nA is the absorbance of sample \n2100 is A 1 %\n1 cm for capsanthin in acetone at 462 nm \nW is the weight of sample (g) \n \nCapsanthin \n \nDetermine the identity of the sample and the content of capsanthin by \nreversed-phase HPLC. See Volume 4 under “Chromatography”.  \nThe sample is saponified to release the parent hydroxy-carotenoids from \nthe extracts prior HPLC analysis. \n \n Sample preparation \nDissolve 0.2 g of the sample in acetone, quantitatively transfer into a 500 \nml separatory funnel and add enough acetone to make up to 100 ml. Add \n100 ml diethyl ether and mix well. Remove any insoluble particles by \nfiltration. Add 100 ml of KOH-methanol (20%) and leave the solution for \none hour. Shake periodically. Remove the aqueous phase and wash the \norganic phase several times with distilled water until the washings are \nneutral. Filter through a bed of anhydrous Na2SO4 and evaporate to \ndryness in a rotary evaporator at a temperature below 35°. Dissolve the \npigments in acetone and make up to 25 ml in a volumetric flask. Keep the \nsamples refrigerated until analysis by HPLC. Thoroughly disperse the \nsamples, e.g. by sonication, and filter through a 0.45 μm filter before \nanalysis.",
+      "--from",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.txt"
+    ],
+    "exit": 0,
+    "stdout": "[2] evidence attached (4 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+      "quote",
+      "2",
+      "--text",
+      "Prepared at the 77th JECFA, published in FAO JECFA Monographs \n14 (2013), superseding tentative specifications prepared at the 69th \nJECFA (2008). An ADI of 0 - 1.5 mg/kg bw was allocated at the 79th \nJECFA (2014).",
+      "--from",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.txt"
+    ],
+    "exit": 0,
+    "stdout": "[2] evidence attached (5 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+      "render",
+      "--replace-in",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/paprika-format-selection.en.md"
+    ],
+    "exit": 0,
+    "stdout": "Sources block rewritten in /data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/paprika-format-selection.en.md\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/ledger.json",
+      "render",
+      "--replace-in",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/paprika-format-selection.zh.md"
+    ],
+    "exit": 0,
+    "stdout": "Sources block rewritten in /data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/paprika-format-selection.zh.md\n",
+    "stderr": ""
+  }
+]

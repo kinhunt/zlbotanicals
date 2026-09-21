@@ -1,0 +1,143 @@
+--- /data/hermes/research/seo-growth/2026-09-21-new-material-discovery/paprika-format-selection.en.md
++++ /data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/paprika-format-selection.en.md
+@@ -2,15 +2,15 @@
+ 
+ **Review draft — not published.** For food formulators and ingredient buyers. This is material-selection guidance, not an offer of a confirmed grade or a finished-product formulation.
+ 
+-A request for “paprika extract” leaves two important decisions open: are you buying red colour or chilli heat, and does the ingredient need to enter an oil phase or disperse through an aqueous recipe? The JECFA technical assessment distinguishes low-pungency colouring extracts from pungent capsicum oleoresins, and describes both oil-standardized extracts and water-dispersible preparations made with food emulsifiers.[2]
++A request for “paprika extract” leaves two important decisions open: are you buying red colour or chilli heat, and does the ingredient need to enter an oil phase or disperse through an aqueous recipe? The JECFA technical assessment distinguishes low-pungency colouring extracts from pungent capsicum oleoresins, and describes both oil-standardized extracts and water-dispersible preparations made with food emulsifiers.[1]
+ 
+ For an oil-based seasoning or coloured fat phase, start the sourcing discussion with an oil-standardized colouring extract. For an aqueous sauce, ask about a water-dispersible preparation and its complete composition. For a spicy seasoning, state the pungency requirement separately rather than expecting a red colouring extract to supply it. These are starting points for selecting samples, not confirmed performance in your recipe.
+ 
+ ## The material behind the name
+ 
+-The 2014 JECFA specification defines paprika extract as a solvent extract of dried ground fruit pods of *Capsicum annuum*. It identifies capsanthin as the major colouring compound and describes the remainder of the extract as lipidic, varying with extraction solvent; commercial preparations may be standardized with refined vegetable oil.[3]
++The 2014 JECFA specification defines paprika extract as a solvent extract of dried ground fruit pods of *Capsicum annuum*. It identifies capsanthin as the major colouring compound and describes the remainder of the extract as lipidic, varying with extraction solvent; commercial preparations may be standardized with refined vegetable oil.[2]
+ 
+-That is why a paprika extract should not be specified as though it were isolated capsanthin. The same specification describes a dark-red viscous liquid that is practically insoluble in water.[3] A supplier's “water-dispersible paprika” therefore needs its own composition and application description; the technical assessment explains that emulsifiers can be added to produce water-dispersible formulations.[2] Do not treat that description as proof of a transparent, molecularly dissolved colour.
++That is why a paprika extract should not be specified as though it were isolated capsanthin. The same specification describes a dark-red viscous liquid that is practically insoluble in water.[2] A supplier's “water-dispersible paprika” therefore needs its own composition and application description; the technical assessment explains that emulsifiers can be added to produce water-dispersible formulations.[1] Do not treat that description as proof of a transparent, molecularly dissolved colour.
+ 
+ ## Choose the delivery format before comparing quotations
+ 
+@@ -18,21 +18,21 @@
+ 
+ | Your application task | Candidate to discuss | Why this is the relevant branch | What to settle before selecting it |
+ |---|---|---|---|
+-| Put red colour into an oil-based seasoning or fat phase | Oil-standardized paprika colouring extract | Refined vegetable oil is a documented standardization vehicle.[3] | Oil identity, colour strength and method, addition point, mixing conditions and permissible sensory contribution |
+-| Distribute colour through an aqueous sauce or dressing | Water-dispersible paprika preparation | The technical assessment describes preparations made with food emulsifiers.[2] | Emulsifier and carrier identities, complete ingredient declaration, dispersion procedure and appearance in the actual recipe |
+-| Obtain red colour with little pungency | Colouring extract with a separately agreed capsaicinoid specification | Low-pungency colour extracts are distinguished from pungent oleoresins; capsaicinoids have their own specification test.[2][3] | Analytical method and limit, reporting basis, flavour contribution and sensory acceptance in the finished food |
+-| Obtain both red colour and chilli heat | A pungent capsicum oleoresin route, with colour and pungency specified independently | The assessment treats pungent oleoresin and paprika colouring extract as different product types.[2] | Separate targets for colour and pungency; do not approve one from the other |
+-| Dose colour through a dry seasoning premix | Ask whether a suitable dry formulated preparation can be sourced | A dry delivery request is a separate project; the principal specification reviewed here describes a viscous liquid.[3] | Actual carrier and colour loading, handling, blend distribution and how the premix is ultimately used; no dry grade is confirmed here |
++| Put red colour into an oil-based seasoning or fat phase | Oil-standardized paprika colouring extract | Refined vegetable oil is a documented standardization vehicle.[2] | Oil identity, colour strength and method, addition point, mixing conditions and permissible sensory contribution |
++| Distribute colour through an aqueous sauce or dressing | Water-dispersible paprika preparation | The technical assessment describes preparations made with food emulsifiers.[1] | Emulsifier and carrier identities, complete ingredient declaration, dispersion procedure and appearance in the actual recipe |
++| Obtain red colour with little pungency | Colouring extract with a separately agreed capsaicinoid specification | Low-pungency colour extracts are distinguished from pungent oleoresins; capsaicinoids have their own specification test.[1][2] | Analytical method and limit, reporting basis, flavour contribution and sensory acceptance in the finished food |
++| Obtain both red colour and chilli heat | A pungent capsicum oleoresin route, with colour and pungency specified independently | The assessment treats pungent oleoresin and paprika colouring extract as different product types.[1] | Separate targets for colour and pungency; do not approve one from the other |
++| Dose colour through a dry seasoning premix | Ask whether a suitable dry formulated preparation can be sourced | A dry delivery request is a separate project; the principal specification reviewed here describes a viscous liquid.[2] | Actual carrier and colour loading, handling, blend distribution and how the premix is ultimately used; no dry grade is confirmed here |
+ 
+ An aqueous application does not automatically require a new extract chemistry: the commercial distinction may be the delivery system around the extract. Conversely, buying the same botanical name does not establish that an oil preparation and an emulsifier-containing preparation are interchangeable.
+ 
+-## Three numbers that must not share a denominator
++## Keep colour strength, carotenoid composition and pungency separate
+ 
+-The JECFA specification lists total carotenoids at not less than 7%, while capsanthin is not less than 30% **of total carotenoids**.[3] These are reference-specification statements, not ZL specifications, current stock values or certificates of analysis. The second percentage is not 30% capsanthin in the supplied preparation.
++The JECFA specification lists total carotenoids at not less than 7%, while capsanthin is not less than 30% **of total carotenoids**.[2] These are reference-specification statements, not ZL specifications, current stock values or certificates of analysis. The second percentage is not 30% capsanthin in the supplied preparation. These thresholds describe the extract in the cited reference specification; do not apply them automatically to a diluted or formulated preparation without identifying the material and reporting basis.
+ 
+-The source also assigns different analytical procedures: spectrophotometry for total carotenoids and HPLC for capsanthin.[3] Ask a supplier to identify the analyte, method, unit and reporting basis for every quoted value. Do not silently substitute a colour-strength number for a carotenoid mass percentage, or a pigment-composition percentage for the strength of the full commercial preparation.
++The source also assigns different analytical procedures: spectrophotometry for total carotenoids and HPLC for capsanthin.[2] Ask a supplier to identify the analyte, method, unit and reporting basis for every quoted value. Do not silently substitute a colour-strength number for a carotenoid mass percentage, or a pigment-composition percentage for the strength of the full commercial preparation.
+ 
+-Finally, retain capsaicinoids as a separate line. The reference specification gives them a separate limit and test.[3] A redder sample is not an analytical report of pungency. If a supplier offers a “de-flavoured” preparation, request the process description and sample for sensory evaluation: the technical assessment describes further processing to reduce flavour and aroma, but this does not establish that every offered grade is flavour-free.[2]
++Finally, retain capsaicinoids as a separate line. The reference specification gives them a separate limit and test.[2] A redder sample is not an analytical report of pungency. If a supplier offers a “de-flavoured” preparation, request the process description and sample for sensory evaluation: the technical assessment describes further processing to reduce flavour and aroma, but this does not establish that every offered grade is flavour-free.[1]
+ 
+ ## What a useful sample comparison should decide
+ 
+@@ -52,9 +52,9 @@
+ 
+ ## Scope and regulatory boundary
+ 
+-This guide uses an official 2008 technical assessment for material-format descriptions and the later 2014 JECFA specification for identity and analytical distinctions.[2][3] The latter supersedes the tentative 2008 specification; the old assessment's unfinished evaluation must not be presented as the current safety position.[3] Neither document is a universal authorization for every food category or country. Confirm applicable current permissions, labelling and limits with the responsible regulatory team before use. No use level, shelf life, certification or batch performance is promised here.
++This guide uses an official 2008 technical assessment for material-format descriptions and the later 2014 JECFA specification for identity and analytical distinctions.[1][2] The latter supersedes the tentative 2008 specification; the old assessment's unfinished evaluation must not be presented as the current safety position.[2] Neither document is a universal authorization for every food category or country. Confirm applicable current permissions, labelling and limits with the responsible regulatory team before use. No use level, shelf life, certification or batch performance is promised here.
+ 
+ ## Sources
+ 
+-[2] https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/69/Paprika_extract.pdf — Paprika extract 69th JECFA CTA
+-[3] https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph16/additive-510-m16.pdf — Paprika extract JECFA specification 2014 Monograph 16
++[1] https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/69/Paprika_extract.pdf — Paprika extract — 2008 JECFA technical assessment
++[2] https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph16/additive-510-m16.pdf — Paprika extract — 2014 JECFA specification edition
+--- /data/hermes/research/seo-growth/2026-09-21-new-material-discovery/paprika-format-selection.zh.md
++++ /data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/paprika-format-selection.zh.md
+@@ -2,37 +2,37 @@
+ 
+ **待审稿，尚未发布。** 面向食品研发与原料采购。本篇帮助确定询样形态，不代表已确认的供货规格，也不是成品配方。
+ 
+-只写“辣椒提取物”，采购需求仍不完整：要的是红色，还是辣味？原料需要加入油相，还是分散到含水配方中？JECFA技术评估区分了低辣度的着色用提取物与具有辣味的辣椒油树脂，也介绍了用食用油标准化的提取物，以及加入食品乳化剂制成的水分散制剂。[2]
++只写“辣椒提取物”，采购需求仍不完整：要的是红色，还是辣味？原料需要加入油相，还是分散到含水配方中？JECFA技术评估区分了低辣度的着色提取物与具有辣味的辣椒油树脂，也介绍了用食用油标准化的提取物，以及加入食品乳化剂制成的水分散制剂。[1]
+ 
+-如果用于油基调味料或脂肪相着色，可先讨论油基标准化的着色用提取物；如果用于含水酱汁，则应询问水分散制剂及其完整组成。若产品同时需要辣味，要另外写明辣度要求，不要默认红色色料就能承担增辣任务。这些是选择样品的起点，不是对具体配方表现的保证。
++如果用于油基调味料或脂肪相着色，可先讨论油基标准化的着色提取物；如果用于含水酱汁，则应询问水分散制剂及其完整组成。若产品同时需要辣味，要另外写明辣度要求，不要默认红色色料就能承担增辣任务。这些是选择样品的起点，不是对具体配方表现的保证。
+ 
+ ## 先确认“辣椒红”指的是什么材料
+ 
+-2014年JECFA规格文件将paprika extract定义为从干燥、粉碎的*Capsicum annuum*果荚中经溶剂提取得到的材料；主要着色成分是辣椒红素（capsanthin），其余提取物具有脂质属性，并随提取溶剂而变化。商业制剂可用精炼植物油调配，使着色成分含量达到约定水平。[3]
++2014年JECFA规格文件将paprika extract定义为以干燥、粉碎的辣椒（*Capsicum annuum*）果实为原料，经溶剂提取得到的材料；主要着色成分是辣椒红素（capsanthin），其余提取物具有脂质属性，并随提取溶剂而变化。商业制剂可用精炼植物油调配，使着色成分含量达到约定水平。[2]
+ 
+-因此，不能把辣椒红提取物当成分离纯化的辣椒红素来采购。同一文件描述的是深红色黏稠液体，并明确其几乎不溶于水。[3] 供应商所称的“水分散辣椒红”需要单独说明组成与应用方式；技术评估指出，加入食品乳化剂可以将提取物制成水分散制剂。[2] 不应据此认定它能在水中形成透明的分子溶液。
++因此，不能把辣椒红提取物当成分离纯化的辣椒红素来采购。同一文件描述的是深红色黏稠液体，并明确其几乎不溶于水。[2] 供应商所称的“水分散辣椒红”需要单独说明组成与应用方式；技术评估指出，加入食品乳化剂可以将提取物制成水分散制剂。[1] 不应据此认定它能在水中形成透明的分子溶液。
+ 
+-## 先选交付形态，再比较报价
++## 先选供货形态，再比较报价
+ 
+-下表将文献中的材料分类转成采购起点。其中，应用选择与验收建议属于编辑提出的研发思路，不是ZL实测结果。
++以下为询样与评价建议，并非ZL试验结果。
+ 
+ | 实际任务 | 优先讨论的候选材料 | 为什么从这一分支开始 | 选定前要解决的问题 |
+ |---|---|---|---|
+-| 为油基调味料或脂肪相提供红色 | 用植物油标准化的辣椒红着色提取物 | 精炼植物油是规格文件记录的标准化介质。[3] | 油脂种类、色价或着色强度及测定方法、加入位置、混合条件、可接受的风味贡献 |
+-| 将颜色分散到含水酱汁或调味汁中 | 水分散型辣椒红制剂 | 技术评估介绍了加入食品乳化剂制成的水分散形态。[2] | 乳化剂与载体名称、完整配料信息、分散步骤及实际配方外观 |
+-| 要红色，但尽量少带入辣味 | 单独约定辣椒素类指标的着色提取物 | 低辣度着色提取物与辣味油树脂有材料区别；辣椒素类也有独立规格检测项目。[2][3] | 分析方法与限值、报告基准、风味贡献及成品感官接受标准 |
+-| 同时要红色与辣味 | 辣味辣椒油树脂路线，分别约定颜色与辣度 | 技术评估将辣味油树脂与着色用辣椒提取物作为不同材料类型讨论。[2] | 颜色与辣度各自设目标，不能用其中一项代替另一项验收 |
+-| 通过干调味预混料加入颜色 | 询问能否采购适用的干燥复配制剂 | 干态交付属于另一项具体需求；本次主要规格文件描述的是黏稠液体。[3] | 实际载体、供货粉体着色成分含量、操作性、混合分布及预混料最终用途；本稿未确认任何现成粉体规格 |
++| 为油基调味料或脂肪相提供红色 | 用植物油标准化的辣椒红着色提取物 | 精炼植物油是规格文件记录的标准化介质。[2] | 油脂种类、色价或着色强度及测定方法、加入位置、混合条件、可接受的风味贡献 |
++| 将颜色分散到含水酱汁或调味汁中 | 水分散型辣椒红制剂 | 技术评估介绍了加入食品乳化剂制成的水分散形态。[1] | 乳化剂与载体名称、完整配料信息、分散步骤及实际配方外观 |
++| 要红色，但尽量少带入辣味 | 单独约定辣椒素类指标的着色提取物 | 低辣度着色提取物与辣味油树脂有材料区别；辣椒素类也有独立规格检测项目。[1][2] | 分析方法与限值、报告基准、风味贡献及成品感官接受标准 |
++| 同时要红色与辣味 | 辣味辣椒油树脂路线，分别约定颜色与辣度 | 技术评估将辣味油树脂与辣椒着色提取物作为不同材料类型讨论。[1] | 颜色与辣度各自设目标，不能用其中一项代替另一项验收 |
++| 通过干调味预混料加入颜色 | 询问能否采购适用的干燥复配制剂 | 干燥制剂需另行询样；所引规格文件描述的是黏稠液体。[2] | 载体、粉体着色成分含量、操作性、颜色均匀性及最终用途；具体粉体规格仍待确认 |
+ 
+-含水应用需要的未必是另一种提取物化学组成，也可能是围绕提取物设计的交付体系。反过来，植物名称相同，也不能证明油基制剂与含乳化剂的制剂可以直接替换。
++用于含水配方时，未必需要更换基础提取物，也可能只需选择添加了乳化剂的水分散制剂。反过来，植物名称相同，也不能证明油基制剂与含乳化剂的制剂可以直接替换。
+ 
+-## 三类指标，不能混用分母
++## 分清着色强度、色素组成与辣味指标
+ 
+-JECFA规格文件列出的总类胡萝卜素指标为不低于7%，而辣椒红素指标为不低于**总类胡萝卜素的30%**。[3] 这些是所引规格文件的要求，不是ZL报价规格、库存数据或批次COA。第二个百分数并不表示供货制剂含有30%的辣椒红素。
++JECFA规格文件列出的总类胡萝卜素指标为不低于7%，而辣椒红素指标为不低于**总类胡萝卜素的30%**。[2] 这些是所引规格文件的要求，不是ZL报价规格、库存数据或批次COA。第二个百分数并不表示供货制剂含有30%的辣椒红素。这些指标针对所引规格中的提取物；对经稀释或复配的商品制剂，须先确认材料组成和报告基准，不能直接套用。
+ 
+-文件对两项指标还规定了不同的分析程序：总类胡萝卜素采用分光光度法，辣椒红素采用HPLC。[3] 比较供应商资料时，应逐项确认被测物、方法、单位和报告基准。不能把一个色价数值直接当作类胡萝卜素质量百分比，也不能把色素内部组成比例当成整份商业制剂的着色成分浓度。
++文件对两项指标还规定了不同的分析程序：总类胡萝卜素采用分光光度法，辣椒红素采用HPLC。[2] 比较供应商资料时，应逐项确认被测物、方法、单位和报告基准。不能把一个色价数值直接当作类胡萝卜素质量百分比，也不能把色素内部组成比例当成整份商业制剂的着色成分浓度。
+ 
+-辣椒素类应另列一项。所引规格文件对其设置了独立限值与检测方法。[3] 样品更红，不等于已经测出了它的辣度。对于供应商提出的“脱味”制剂，也应索取工艺说明并做样品感官评价：技术评估介绍了进一步降低风味与香气的加工步骤，但并不能据此证明所有报价规格都没有风味。[2]
++辣椒素类应另列一项。所引规格文件对其设置了独立限值与检测方法。[2] 样品更红，不等于已经测出了它的辣度。对于供应商提出的“脱味”制剂，也应索取工艺说明并做样品感官评价：技术评估介绍了进一步降低风味与香气的加工步骤，但并不能据此证明所有报价规格都没有风味。[1]
+ 
+ ## 样品比较要回答什么问题
+ 
+@@ -40,7 +40,7 @@
+ 
+ 油相候选材料应先确定加入位置，再经过实际工艺评价颜色分布与风味。水分散候选材料应按供应商说明操作，并在实际酱汁或调味汁经过加工、储存后检查表现。比较之前就约定颜色、均匀性、可见分离和风味的接受标准，不要把其他配方的保质期、耐热性或建议用量直接移用过来。
+ 
+-若需求是干预混料，先确认对方实际提供的是什么材料。基础着色提取物的规格，不能自动说明复配粉体的载体体系、供货粉体着色成分含量或混合表现。在文件与样品明确之前，应将其保留为待评估的采购项目。
++若用于干粉预混料，先确认对方实际提供的是什么材料。基础着色提取物的规格，不能自动说明复配粉体的载体体系、供货粉体着色成分含量或混合表现。在文件与样品明确之前，应将其保留为待评估的采购项目。
+ 
+ ## 用明确的材料需求发起询样，而不只报植物名称
+ 
+@@ -52,9 +52,9 @@
+ 
+ ## 证据范围与法规边界
+ 
+-本稿用2008年官方技术评估说明材料与交付形态，用较后的2014年JECFA规格文件说明身份及分析指标。[2][3] 后者取代了2008年的暂定规格，不能将旧技术评估中“尚未完成评价”的表述写成当前安全评价状态。[3] 两份文件都不等于对所有国家、所有食品类别的通用使用许可。实际使用前，须由负责法规的团队核对适用的现行准入、标签与限量要求。本稿不承诺添加量、保质期、认证或批次表现。
++本文用2008年官方技术评估说明材料与供货形态，依据2014年版JECFA规格文件说明原料定义及分析指标。[1][2] 后者取代了2008年的暂定规格，不能将旧技术评估中“尚未完成评价”的表述写成当前安全评价状态。[2] 两份文件都不等于对所有国家、所有食品类别的通用使用许可。实际使用前，须由负责法规的团队核对适用的现行准入、标签与限量要求。本文不承诺添加量、保质期、认证或批次表现。
+ 
+ ## Sources
+ 
+-[2] https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/69/Paprika_extract.pdf — Paprika extract 69th JECFA CTA
+-[3] https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph16/additive-510-m16.pdf — Paprika extract JECFA specification 2014 Monograph 16
++[1] https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/69/Paprika_extract.pdf — Paprika extract — 2008 JECFA technical assessment
++[2] https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph16/additive-510-m16.pdf — Paprika extract — 2014 JECFA specification edition

@@ -1,0 +1,53 @@
+{
+  "date_utc": "2026-09-21",
+  "sources": [
+    {
+      "source_id": 1,
+      "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/69/Paprika_extract.pdf",
+      "retrieved_on_utc": "2026-09-21",
+      "revision_method": "byte-for-byte local copy of archived retrieval; not a new network retrieval",
+      "text_role": "authoritative full PDF extraction",
+      "archives": [
+        {
+          "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/source-3.txt",
+          "sha256": "ac1880ed3db6e12b89b95313a0fdd5ae5a2aa47fc64e2762d72e95f44c5f80ab",
+          "original_path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/source-3.txt",
+          "original_sha256": "ac1880ed3db6e12b89b95313a0fdd5ae5a2aa47fc64e2762d72e95f44c5f80ab"
+        },
+        {
+          "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/source-3.pdf",
+          "sha256": "7038123c5738e0028831af03dcc9303f17694c70b8fcbb32c01f2ab5623ba7d8",
+          "original_path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/source-3.pdf",
+          "original_sha256": "7038123c5738e0028831af03dcc9303f17694c70b8fcbb32c01f2ab5623ba7d8"
+        }
+      ]
+    },
+    {
+      "source_id": 2,
+      "url": "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph16/additive-510-m16.pdf",
+      "retrieved_on_utc": "2026-09-21",
+      "revision_method": "byte-for-byte local copy of archived retrieval; not a new network retrieval",
+      "text_role": "authoritative full PDF extraction",
+      "archives": [
+        {
+          "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.txt",
+          "sha256": "b40497b75e51fab543065a3eafd38372d9c58d8382ebb85a0a119c54d77058b9",
+          "original_path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/paprika-2014.txt",
+          "original_sha256": "b40497b75e51fab543065a3eafd38372d9c58d8382ebb85a0a119c54d77058b9"
+        },
+        {
+          "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/sources/paprika-2014.pdf",
+          "sha256": "001ac3d3dc32e7119f1936addc64a46d583fcdcd953a04980e6b3370e2d5a647",
+          "original_path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/paprika-2014.pdf",
+          "original_sha256": "001ac3d3dc32e7119f1936addc64a46d583fcdcd953a04980e6b3370e2d5a647"
+        }
+      ]
+    }
+  ],
+  "excluded_archives": [
+    "Unrelated quillaia discovery source omitted."
+  ],
+  "limitations": [
+    "No new network fetch during repair; original independent review contains retrieval checks."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "command": [
+    "/usr/local/bin/python3.11",
+    "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/check_revisions.py"
+  ],
+  "cwd": "/data/hermes",
+  "exit_code": 0,
+  "existing_revision_files_changed": [
+    "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/verification.json",
+    "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika/verification.json"
+  ],
+  "diagnostic_changes": "Only interpreter path changed in the two generated verification.json files; fresh versions saved in final-independent and prior byte-identical versions restored.",
+  "preexisting_revision_files_changed_at_completion": []
+}

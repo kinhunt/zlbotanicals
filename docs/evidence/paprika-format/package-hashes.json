@@ -1,0 +1,20 @@
+{
+  "CHANGE-LEDGER.md": "8cd3a135845493ab4f305e8ac95025ed5a7b131ce3bd3e1820add325cfea1659",
+  "changes.diff": "38ac421feff6a94bd48fa5488440ddfdd54a93eb39e7ff7ace3b4c63fd77de64",
+  "citation-remap.json": "52ad7859e67405909ca136aa641ad050319215d93eba85f150ac1857c584b1f2",
+  "claim-evidence.json": "0c1fbf6a2abcc0a37a0ab8d3585b94ba2fd2b4b8cf9a7d6bfaf3732a6129065f",
+  "ledger.json": "a173cc058c042327c4e3c75a49c83cb0d8e6e7c7919d19cb376f9c6144a67490",
+  "paprika-format-selection.en.md": "125230ec5f9f973ab36f0f06e7ccfadddbf03fa7fb90371e26f97042ead2da30",
+  "paprika-format-selection.zh.md": "160c0f47118e6a02fdf630b669ab3c76d1532d73986c115b47b757d07f343599",
+  "provenance-commands.json": "69609376f462a7698994a859fbb8b5d459a967d08cd45a842a8eeeed723ac945",
+  "retrieval-manifest.json": "9066717af916fec29bc5b6eb7353c66d9caa323a52d8b65597e7aca8f043728a",
+  "sources/paprika-2014.pdf": "001ac3d3dc32e7119f1936addc64a46d583fcdcd953a04980e6b3370e2d5a647",
+  "sources/paprika-2014.txt": "b40497b75e51fab543065a3eafd38372d9c58d8382ebb85a0a119c54d77058b9",
+  "sources/source-3.pdf": "7038123c5738e0028831af03dcc9303f17694c70b8fcbb32c01f2ab5623ba7d8",
+  "sources/source-3.txt": "ac1880ed3db6e12b89b95313a0fdd5ae5a2aa47fc64e2762d72e95f44c5f80ab",
+  "verification.json": "a723a29a0b6e51131b5f48371b1671883d0fbe080661f31b4e441c33a0685bf9",
+  "verify-en.stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "verify-en.stdout.txt": "52d9f711122e2566197528cf84d2407bc8a0e354168275c02c4373a50284fb41",
+  "verify-zh.stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "verify-zh.stdout.txt": "6bd4ef7365662d47a1a55988f033a7e497ebacc039a65fc299cddac3c5a9b6b7"
+}
