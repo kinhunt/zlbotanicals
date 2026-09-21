@@ -1,0 +1,12 @@
+---
+import {Content as English} from '../data/stevia-segregation/en.md';
+import {Content as Chinese} from '../data/stevia-segregation/zh.md';
+const {lang}=Astro.props;
+---
+<section id="stevia-segregation" data-stevia-segregation>
+ {lang==='zh'?<Chinese/>:<English/>}
+</section>
+<style>
+ section { scroll-margin-top: 6rem; overflow-wrap:anywhere; }
+ section :global(h4), section :global(h5) { scroll-margin-top:6rem; }
+</style>

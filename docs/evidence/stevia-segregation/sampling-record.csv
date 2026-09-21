@@ -1,0 +1,2 @@
+protocol_id,batch_id,sample_id,parent_sample_id,paired_group_id,control_status,stage,location_depth,timestamp,cumulative_discharge_kg,sachet_sequence,container_id,sampling_device_method,sample_mass_g,net_sachet_mass_g,tare_method_balance_id,transport_conditions_record,seal_integrity,analyte,prep_id,injection_id,assay_method_version,original_result,original_unit_basis,basis_conversion_record,concentration_as_received_mg_g,component_mass_mg_per_sachet,loq_and_qualifier,qc_recovery_record,missing_reason,deviation,operator,raw_data_path
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

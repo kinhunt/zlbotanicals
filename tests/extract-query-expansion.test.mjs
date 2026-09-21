@@ -86,7 +86,10 @@ test('bounded editorial edits retain every plan, source, research case, patent a
  const allowed={'goji-berry':['components'],stevia:['identity'],'licorice-root':['identity','components'],'centella-asiatica':['components','processes']};
  for(const old of before){
   const next=after.find(p=>p.productId===old.productId);
-  assert.deepEqual(next.plans,old.plans);assert.deepEqual(next.sources,old.sources);
+  assert.deepEqual(next.plans,old.plans);
+  // I04 adds two reviewed stevia references; all existing entries stay exact.
+  assert.deepEqual(next.sources.slice(0,old.sources.length),old.sources);
+  assert.equal(next.sources.length,old.sources.length+(old.productId==='stevia'?2:0));
   for(const lang of ['en','zh'])for(const s of old.content[lang]){
    const now=next.content[lang].find(x=>x.id===s.id);
    if(!(allowed[old.productId]||[]).includes(s.id)) assert.deepEqual(now,s,`${old.productId}/${lang}/${s.id}`);

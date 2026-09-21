@@ -6621,6 +6621,18 @@
         "title": "USPTO granted patent US11274328B2 primary PDF",
         "url": "https://patentimages.storage.googleapis.com/a8/bc/9a/616811c76219fd/US11274328.pdf",
         "accessed": "2026-09-11"
+      },
+      {
+        "id": 10,
+        "title": "Thermo Scientific: Analysis of Products Containing Stevia",
+        "url": "https://documents.thermofisher.com/TFS-Assets/CMD/Application-Notes/AN-1040-Analysis-Products-Containing-Stevia-AN70278.pdf",
+        "accessed": "2026-09-20"
+      },
+      {
+        "id": 11,
+        "title": "HORIBA: Particle Size Analysis of Sugar Substitutes",
+        "url": "https://static.horiba.com/fileadmin/Horiba/Application/Food_and_Beverage/Food/AN213_Sugar_Substitutes.pdf",
+        "accessed": "2026-09-20"
       }
     ]
   },
