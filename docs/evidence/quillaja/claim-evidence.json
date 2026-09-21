@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": 1,
+    "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/65/quillaia.pdf",
+    "file": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/sources/quillaia-2005-full.txt",
+    "exact_excerpt": "Quillaia extract Type 1 may be treated with stabilizing agents, such as egg albumin or \npolyvinylpyrrolidone, to remove substances that would precipitate during storage, such as complexes or \npolymers derived from tannins and polyphenols.  The liquid is concentrated after filtration through \ndiatomaceous earth.  The concentrate may be sold in liquid form or as a powder after spray-drying.  \nCarriers such as lactose and maltodextrin may be added to the powder forms.  Type 1 extracts have been \nnoted to contain 20 to 26% quillaia saponins on the dried basis, although new information indicates that \nthe saponin content of Type 1 extracts varies more widely, between 10 and 30 %. \n \nQuillaia extract Type 2 is derived from Type 1 extracts that are subjected to chromatography or ultra-\nfiltration to reduce the amount of non-saponin soluble solids, such as polyphenols and tannins.  Type 2 \nextracts may contain 65-90 % quillaia saponins on a dried basis.  \n \nQuillaia extracts (Type 1 and 2) are used in food applications, primarily for their foaming and emulsifying \nproperties, which are attributed to their saponin content.  Extracts may contain preservatives.",
+    "applies_to_locales": [
+      "en",
+      "zh"
+    ],
+    "scope": "Reference material descriptions only; manufacturer statement is attributed, not independently validated performance.",
+    "claim": "Type 1/Type 2 dry-basis ranges, purification, liquid/powder forms, possible egg albumin/carriers, emulsifying/foaming function and preservatives"
+  },
+  {
+    "source_id": 1,
+    "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/65/quillaia.pdf",
+    "file": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/sources/quillaia-2005-full.txt",
+    "exact_excerpt": "QE intended for food applications are often diluted with carriers, such as lactose, maltodextrin, or \nmaltitol, for purposes of standardization.",
+    "applies_to_locales": [
+      "en",
+      "zh"
+    ],
+    "scope": "Reference material descriptions only; manufacturer statement is attributed, not independently validated performance.",
+    "claim": "Food-use standardization carriers: lactose, maltodextrin or maltitol"
+  },
+  {
+    "source_id": 2,
+    "url": "https://ingredion.com/na/en-us/ingredients/ingredient-product-families/q-naturale-high-efficiency-emulsifier",
+    "file": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/sources/source-4.txt",
+    "exact_excerpt": "We’ve perfected this revolutionary ingredient to give you unique and renewable solutions for emulsifying weighted and non-weighted beverages — even clear, fortified or alcoholic beverages.",
+    "applies_to_locales": [
+      "en",
+      "zh"
+    ],
+    "scope": "Reference material descriptions only; manufacturer statement is attributed, not independently validated performance.",
+    "claim": "Ingredion-attributed weighted/non-weighted and clear-beverage application, not ZL equivalence"
+  }
+]

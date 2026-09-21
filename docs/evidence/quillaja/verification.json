@@ -1,0 +1,104 @@
+{
+  "candidate": "quillaja",
+  "source_hashes": [
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/sources/quillaia-2005-full.txt",
+      "actual_sha256": "488c5ccf155122227479ebd8bc246146801b29eabad0f4acd1869a04228b8da0",
+      "manifest_match": true,
+      "original_match": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/sources/quillaia-2005.pdf",
+      "actual_sha256": "246bc19f3fd797a317fdbc7e7ca00a033d20efabdfd7fa9331bd998b77b20d61",
+      "manifest_match": true,
+      "original_match": true
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/sources/source-4.txt",
+      "actual_sha256": "3c8786268d89f20d4a8633176e37c674b66bae61edcaf3bc5ef25d04b3c3e278",
+      "manifest_match": true,
+      "original_match": true
+    }
+  ],
+  "quote_checks": [
+    {
+      "claim_index": 1,
+      "source_id": 1,
+      "archived_text_match": true,
+      "independent_pdf_extraction_match": true,
+      "ledger_url_quote_match": true
+    },
+    {
+      "claim_index": 2,
+      "source_id": 1,
+      "archived_text_match": true,
+      "independent_pdf_extraction_match": true,
+      "ledger_url_quote_match": true
+    },
+    {
+      "claim_index": 3,
+      "source_id": 2,
+      "archived_text_match": true,
+      "independent_pdf_extraction_match": null,
+      "ledger_url_quote_match": true
+    }
+  ],
+  "locales": {
+    "en": {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/quillaja-selection.en.md",
+      "sha256": "0abcdc0c77228ef0219c8e41618c89b3456c04c606d37f964f23bd0ae4bf1050",
+      "command": [
+        "/usr/local/bin/python",
+        "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+        "--ledger",
+        "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/ledger.json",
+        "verify",
+        "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/quillaja-selection.en.md",
+        "--evidence",
+        "--strict"
+      ],
+      "exit": 0,
+      "stdout": "info: stats: 20 prose sentence(s), 4 with declared provenance (20%) — 4 cited, 0 marked [unverified] (a sentence may be both); 2 distinct source(s) cited, 2 in ledger (2 with evidence quotes)\ncitations OK\n",
+      "stderr": "",
+      "citation_ids": [
+        1,
+        2
+      ],
+      "supported_numbers_retained": true,
+      "obsolete_wording_absent": true,
+      "extract_scope_note_present": true,
+      "archive_quote_hash_assertions_pass": true
+    },
+    "zh": {
+      "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/quillaja-selection.zh.md",
+      "sha256": "8bd01ccdd48baa34a3c51a02e279f1759deca95b7a289453c49579982ff2abfa",
+      "command": [
+        "/usr/local/bin/python",
+        "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+        "--ledger",
+        "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/ledger.json",
+        "verify",
+        "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/quillaja-selection.zh.md",
+        "--evidence",
+        "--strict"
+      ],
+      "exit": 0,
+      "stdout": "info: stats: 1 prose sentence(s), 1 with declared provenance (100%) — 1 cited, 0 marked [unverified] (a sentence may be both); 2 distinct source(s) cited, 2 in ledger (2 with evidence quotes)\ncitations OK\n",
+      "stderr": "",
+      "citation_ids": [
+        1,
+        2
+      ],
+      "supported_numbers_retained": true,
+      "obsolete_wording_absent": true,
+      "extract_scope_note_present": true,
+      "archive_quote_hash_assertions_pass": true
+    }
+  },
+  "limitations": [
+    "Automated matching is not semantic peer review.",
+    "Chinese sentence coverage is not a language-quality metric.",
+    "Independent here means a separate checker implementation plus fresh PDF extraction, not a second human/editor.",
+    "No site integration, route validation, build or publication."
+  ]
+}

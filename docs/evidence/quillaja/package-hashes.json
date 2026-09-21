@@ -1,0 +1,20 @@
+{
+  "CHANGE-LEDGER.md": "151ca2b6bdfeaa28e2381179e31ff7ea1293da4c5f40dd496c9a78f01958709c",
+  "changes.diff": "d0d6dfafa87f651df57fd803fa31fc533e002d468f72bbf9658b6ef6fd71b648",
+  "citation-remap.json": "1accacc4cd464774daf06b88aadf061bffbc7686f6c863a523dc5f0584d4d96c",
+  "claim-evidence.json": "e00b1d968f557921defc5f5eec99cabdd43da286f2ea2b640d5e967fee6439b8",
+  "ledger.json": "e84c95c32bc31aa3390f87a273e74ecbe34c15175a9379efbade731840703d4e",
+  "provenance-commands.json": "a8f8f4eeeea6fa5754388b24222363d5a4791e8cd4193ab49d8c7de4bd0c7073",
+  "quillaja-selection.en.md": "0abcdc0c77228ef0219c8e41618c89b3456c04c606d37f964f23bd0ae4bf1050",
+  "quillaja-selection.zh.md": "8bd01ccdd48baa34a3c51a02e279f1759deca95b7a289453c49579982ff2abfa",
+  "retrieval-manifest.json": "b6b3c836ea85f6d810906bd4839a8b87cdc51e00caca19810203891273a42a1e",
+  "sources/quillaia-2005-full.txt": "488c5ccf155122227479ebd8bc246146801b29eabad0f4acd1869a04228b8da0",
+  "sources/quillaia-2005.pdf": "246bc19f3fd797a317fdbc7e7ca00a033d20efabdfd7fa9331bd998b77b20d61",
+  "sources/source-4.txt": "3c8786268d89f20d4a8633176e37c674b66bae61edcaf3bc5ef25d04b3c3e278",
+  "verification-initial-false-positive.json": "8d93f22d5d0b17f397f685aaed5d3aa1cc8efb69b21b1e88daeabc6313590474",
+  "verification.json": "5abb443a6eaca15cbc584445d8a179fb13055aaf9852267e052e3575efbae73f",
+  "verify-en.stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "verify-en.stdout.txt": "e980a18a3180d5b9f148a40815dac1a2f9aa86326e95a94b119392da8b6a7e92",
+  "verify-zh.stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "verify-zh.stdout.txt": "00ac89a95ff40ea343c4838a28c385d07166276c378beccfdd9782fdef60370d"
+}
