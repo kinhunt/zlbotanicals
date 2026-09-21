@@ -1,0 +1,284 @@
+{
+  "timestamp_utc": "2026-09-21T19:01:54.764249+00:00",
+  "author_manifest_sha256": "6ef4dc999b9fbb005f7e4eb3db7717a8e284cabc5f5e412ad96d9ad463fe178e",
+  "checked_manifest_entries": {
+    "README.md": {
+      "expected": "ccf679017e5dbf64fd014838fcc1060d7634c6766d16b3403bd9855f83a141c9",
+      "actual": "ccf679017e5dbf64fd014838fcc1060d7634c6766d16b3403bd9855f83a141c9",
+      "match": true
+    },
+    "elderberry/elderberry-material-selection.zh.md": {
+      "expected": "f277783ee7cdd661df85962dc63ba85efa17b7acff9d5e2a60e422df5be5a809",
+      "actual": "f277783ee7cdd661df85962dc63ba85efa17b7acff9d5e2a60e422df5be5a809",
+      "match": true
+    },
+    "elderberry/elderberry-material-selection.en.md": {
+      "expected": "94fabcbadf165c0c16a606f30b14ac4f52676188e1a86ffacda39d497feb15e8",
+      "actual": "94fabcbadf165c0c16a606f30b14ac4f52676188e1a86ffacda39d497feb15e8",
+      "match": true
+    },
+    "elderberry/catalog-visual-check.md": {
+      "expected": "43eee565c1337ac62da2e3f54546bf46a01aeca8f6bee5020d8fc930a35938e3",
+      "actual": "43eee565c1337ac62da2e3f54546bf46a01aeca8f6bee5020d8fc930a35938e3",
+      "match": true
+    },
+    "elderberry/citation-verification.json": {
+      "expected": "d5ca0a8cc2b5295840302b1c1da5936cd2ef9002fdb3b13af4e9787e3ced0dae",
+      "actual": "d5ca0a8cc2b5295840302b1c1da5936cd2ef9002fdb3b13af4e9787e3ced0dae",
+      "match": true
+    },
+    "elderberry/source-ledger.json": {
+      "expected": "171eaadebf2de3998457e9cfbb1945621ec0bcc3c127977a101d040e5250dbbc",
+      "actual": "171eaadebf2de3998457e9cfbb1945621ec0bcc3c127977a101d040e5250dbbc",
+      "match": true
+    },
+    "elderberry/retrieval-ledger.json": {
+      "expected": "e457afd843652286eb6d441c79dbe8ff31288bbf1d5dc56ad1a27c3f75a136b8",
+      "actual": "e457afd843652286eb6d441c79dbe8ff31288bbf1d5dc56ad1a27c3f75a136b8",
+      "match": true
+    },
+    "elderberry/epmc-search.json": {
+      "expected": "3e314a7fbce6728dd4e3ad4e2c984cda17cd6a2814b2a14505b2b05458be7e89",
+      "actual": "3e314a7fbce6728dd4e3ad4e2c984cda17cd6a2814b2a14505b2b05458be7e89",
+      "match": true
+    },
+    "elderberry/claim-evidence.json": {
+      "expected": "52e43c3ee9944fb481b1688c13911fc8917f4f7a5c143e79a3d0906b6ea93c2b",
+      "actual": "52e43c3ee9944fb481b1688c13911fc8917f4f7a5c143e79a3d0906b6ea93c2b",
+      "match": true
+    },
+    "elderberry/citation-verification-final.json": {
+      "expected": "8d113d89b11c70fabaacd145203c555c4a725d7c86a51c83a9644d2ce37c81f0",
+      "actual": "8d113d89b11c70fabaacd145203c555c4a725d7c86a51c83a9644d2ce37c81f0",
+      "match": true
+    },
+    "elderberry/supplemental-amazon/food-to-live-http-scoped.json": {
+      "expected": "a20a8b803be82f5d57ad967fff964933d9e47d09b5310e6d37e76b9ced9e39fc",
+      "actual": "a20a8b803be82f5d57ad967fff964933d9e47d09b5310e6d37e76b9ced9e39fc",
+      "match": true
+    },
+    "elderberry/supplemental-amazon/product-juice-result.json": {
+      "expected": "7588ebcd3728d6f8342a3885cac8a639ede1ebc48ce6ca7ecdab71adf85c8f44",
+      "actual": "7588ebcd3728d6f8342a3885cac8a639ede1ebc48ce6ca7ecdab71adf85c8f44",
+      "match": true
+    },
+    "elderberry/supplemental-amazon/elderberry-search-result.json": {
+      "expected": "15133e5cae3f9533982b08ece082093f9e20b03d5795640f895c46bdf6e28983",
+      "actual": "15133e5cae3f9533982b08ece082093f9e20b03d5795640f895c46bdf6e28983",
+      "match": true
+    },
+    "elderberry/supplemental-amazon/status.md": {
+      "expected": "fbdc2e1459a2c4d61e4361c528f1f8fd5b6e8f82b87a7c3f60e4d0965208ac0c",
+      "actual": "fbdc2e1459a2c4d61e4361c528f1f8fd5b6e8f82b87a7c3f60e4d0965208ac0c",
+      "match": true
+    },
+    "elderberry/supplemental-amazon/product-extract-result.json": {
+      "expected": "997192951de327ae75ef83b7e13d4814305287f66bf4756a88748291e630b5ff",
+      "actual": "997192951de327ae75ef83b7e13d4814305287f66bf4756a88748291e630b5ff",
+      "match": true
+    },
+    "elderberry/supplemental-amazon/product-freeze-result.json": {
+      "expected": "001c47824995b168efdcf32ca4aba7e6fe966dffed3b9aeb378494355d1e678f",
+      "actual": "001c47824995b168efdcf32ca4aba7e6fe966dffed3b9aeb378494355d1e678f",
+      "match": true
+    },
+    "elderberry/evidence/0fdead85c883/retrieval.json": {
+      "expected": "f9e0f8bc4a03a36590788b23596170e7e68b372bf1d875ce13c97e20bea5e94f",
+      "actual": "f9e0f8bc4a03a36590788b23596170e7e68b372bf1d875ce13c97e20bea5e94f",
+      "match": true
+    },
+    "elderberry/evidence/0fdead85c883/fulltext.txt": {
+      "expected": "63c2b28caa5d20107b38de08d5488117040c5a5a81659474ebe28b5f93e54faa",
+      "actual": "63c2b28caa5d20107b38de08d5488117040c5a5a81659474ebe28b5f93e54faa",
+      "match": true
+    },
+    "elderberry/evidence/0fdead85c883/raw.html": {
+      "expected": "33b7286176f698a886d7b7d3d24022feeba1b9203e9203ee84792ac886508be5",
+      "actual": "33b7286176f698a886d7b7d3d24022feeba1b9203e9203ee84792ac886508be5",
+      "match": true
+    },
+    "elderberry/evidence/0703bedbcbe0/retrieval.json": {
+      "expected": "19f1132b4aef44573d6f6cb2b5efb9be77843de2da7795bf06d0159baf95fcf6",
+      "actual": "19f1132b4aef44573d6f6cb2b5efb9be77843de2da7795bf06d0159baf95fcf6",
+      "match": true
+    },
+    "elderberry/evidence/0703bedbcbe0/fulltext.txt": {
+      "expected": "ae2ae890bdacd0e029f572230bbc1f772f1a7774bed108b773de70d025307d1f",
+      "actual": "ae2ae890bdacd0e029f572230bbc1f772f1a7774bed108b773de70d025307d1f",
+      "match": true
+    },
+    "elderberry/evidence/0703bedbcbe0/raw.pdf": {
+      "expected": "189148b81ea71e799e3823728de36f713301b215b08bcbf78a764bd7f6e2c205",
+      "actual": "189148b81ea71e799e3823728de36f713301b215b08bcbf78a764bd7f6e2c205",
+      "match": true
+    },
+    "elderberry/evidence/f47e62f509f2/scoped-dom.json": {
+      "expected": "95855199e183c95f14f18694bdfca75308052a96cd397dfed2a078ca8514ba85",
+      "actual": "95855199e183c95f14f18694bdfca75308052a96cd397dfed2a078ca8514ba85",
+      "match": true
+    },
+    "elderberry/evidence/f47e62f509f2/retrieval.json": {
+      "expected": "5f75565aa139e2a6113a0bbabb17aaceb87ae950ca724b290a1d8053df445e72",
+      "actual": "5f75565aa139e2a6113a0bbabb17aaceb87ae950ca724b290a1d8053df445e72",
+      "match": true
+    },
+    "elderberry/evidence/f47e62f509f2/fulltext.txt": {
+      "expected": "123a63ef470dc17d91ccd81d34175d7a11885f676612579d8586f1f60efe44a1",
+      "actual": "123a63ef470dc17d91ccd81d34175d7a11885f676612579d8586f1f60efe44a1",
+      "match": true
+    },
+    "elderberry/evidence/f47e62f509f2/raw.html": {
+      "expected": "94071f3d85162e1530f191f9dec6ba3654a35acb1badfbe13e928bbf33a8cf24",
+      "actual": "94071f3d85162e1530f191f9dec6ba3654a35acb1badfbe13e928bbf33a8cf24",
+      "match": true
+    },
+    "elderberry/evidence/f6db0fe201b7/retrieval.json": {
+      "expected": "64de0cc595442cc45e41903010b7a9556a2fca2ad8f27e120c1d469746bb2da3",
+      "actual": "64de0cc595442cc45e41903010b7a9556a2fca2ad8f27e120c1d469746bb2da3",
+      "match": true
+    },
+    "elderberry/evidence/f6db0fe201b7/fulltext.txt": {
+      "expected": "a51f333c72e25fa9cd3a19ea1efa222c769d5fd31373e133484f74ca3a20fcc3",
+      "actual": "a51f333c72e25fa9cd3a19ea1efa222c769d5fd31373e133484f74ca3a20fcc3",
+      "match": true
+    },
+    "elderberry/evidence/f6db0fe201b7/raw.pdf": {
+      "expected": "3c26a331f9b28dd3f13bc6b99d4a9316187ba10e1452298f5f25ceaa9c8a683e",
+      "actual": "3c26a331f9b28dd3f13bc6b99d4a9316187ba10e1452298f5f25ceaa9c8a683e",
+      "match": true
+    },
+    "elderberry/evidence/13d486e911fe/retrieval.json": {
+      "expected": "3ba7f379dacf39a5ad1adfd3ccb10fa572b492ded08ff2a3bbcc6d09210f187d",
+      "actual": "3ba7f379dacf39a5ad1adfd3ccb10fa572b492ded08ff2a3bbcc6d09210f187d",
+      "match": true
+    },
+    "elderberry/evidence/13d486e911fe/page-2.png": {
+      "expected": "676465b9952711fed3bb7b7808170d88ca8af6274a5c4eff2bbc9319fc2e2067",
+      "actual": "676465b9952711fed3bb7b7808170d88ca8af6274a5c4eff2bbc9319fc2e2067",
+      "match": true
+    },
+    "elderberry/evidence/13d486e911fe/page-1.png": {
+      "expected": "87f4ef28fc65a7c4e17cd8ac3ee9916653ff36f9b79d4bcff59df997d0854bac",
+      "actual": "87f4ef28fc65a7c4e17cd8ac3ee9916653ff36f9b79d4bcff59df997d0854bac",
+      "match": true
+    },
+    "elderberry/evidence/13d486e911fe/fulltext.txt": {
+      "expected": "b3e8eed7556b5290b89b4e71c472aecdd876fbb8bcc088e17c0db54b8361e50e",
+      "actual": "b3e8eed7556b5290b89b4e71c472aecdd876fbb8bcc088e17c0db54b8361e50e",
+      "match": true
+    },
+    "elderberry/evidence/13d486e911fe/raw.pdf": {
+      "expected": "cb5b3a606b90ebec06d6299e8092ac02597e857ff39a021483d27536b814d77d",
+      "actual": "cb5b3a606b90ebec06d6299e8092ac02597e857ff39a021483d27536b814d77d",
+      "match": true
+    },
+    "elderberry/evidence/2941f8e21da0/scoped-dom.json": {
+      "expected": "70be8d59bf070e8d3bcff6cc742d48dea24341582317d0a0e94943b53e9282cf",
+      "actual": "70be8d59bf070e8d3bcff6cc742d48dea24341582317d0a0e94943b53e9282cf",
+      "match": true
+    },
+    "elderberry/evidence/2941f8e21da0/retrieval.json": {
+      "expected": "c681cf53c35db7de39ecc7824f66d92a149da142101604ba6e50a735b07199d9",
+      "actual": "c681cf53c35db7de39ecc7824f66d92a149da142101604ba6e50a735b07199d9",
+      "match": true
+    },
+    "elderberry/evidence/2941f8e21da0/fulltext.txt": {
+      "expected": "da7a9f7b85dede979cbb6e2dc0d86b50422375eba07ae6523ac7f3611a1363db",
+      "actual": "da7a9f7b85dede979cbb6e2dc0d86b50422375eba07ae6523ac7f3611a1363db",
+      "match": true
+    },
+    "elderberry/evidence/2941f8e21da0/raw.html": {
+      "expected": "0fc5e8eaaeb96e86eedf74e45daac7635551d2ae15c52b4886c3929dfbb366fa",
+      "actual": "0fc5e8eaaeb96e86eedf74e45daac7635551d2ae15c52b4886c3929dfbb366fa",
+      "match": true
+    },
+    "elderberry/evidence/3e3bfa6bd035/retrieval.json": {
+      "expected": "93ca87955ba4b5b4868aed0c05b21ed835b8b7335ec2b60d78ff2a2c5f5febf1",
+      "actual": "93ca87955ba4b5b4868aed0c05b21ed835b8b7335ec2b60d78ff2a2c5f5febf1",
+      "match": true
+    },
+    "elderberry/evidence/3e3bfa6bd035/fulltext.txt": {
+      "expected": "301dc171e5fa8c5fdeb69592a92a5c378f5f758f68d2338200235d60eb04b9ad",
+      "actual": "301dc171e5fa8c5fdeb69592a92a5c378f5f758f68d2338200235d60eb04b9ad",
+      "match": true
+    },
+    "elderberry/evidence/3e3bfa6bd035/raw.html": {
+      "expected": "062b3da10351d8b249ece57770fa18d33c871017f5c9f1bad9ef561bc5a434c2",
+      "actual": "062b3da10351d8b249ece57770fa18d33c871017f5c9f1bad9ef561bc5a434c2",
+      "match": true
+    },
+    "elderberry/evidence/03cda01ffbcc/retrieval.json": {
+      "expected": "15cf06b8ba7d8dbf3c1728d636aa3b4b0063ba1f2b2db3d0f78d363e428280c2",
+      "actual": "15cf06b8ba7d8dbf3c1728d636aa3b4b0063ba1f2b2db3d0f78d363e428280c2",
+      "match": true
+    },
+    "elderberry/evidence/03cda01ffbcc/fulltext.txt": {
+      "expected": "dfd7d63c69c21b54a5b94224c2adf0bf7c28349f3f0088a838a3c8afe7e71b87",
+      "actual": "dfd7d63c69c21b54a5b94224c2adf0bf7c28349f3f0088a838a3c8afe7e71b87",
+      "match": true
+    },
+    "elderberry/evidence/03cda01ffbcc/raw.html": {
+      "expected": "7a4ef961cd56e721c97ecba8ebf9949247ab61b26250796ca0d5a855e78ea930",
+      "actual": "7a4ef961cd56e721c97ecba8ebf9949247ab61b26250796ca0d5a855e78ea930",
+      "match": true
+    },
+    "elderberry/evidence/52d37814810d/scoped-dom.json": {
+      "expected": "1d709e280f5a8b74ec74c60c98fe839e13bd83859817dc0f4c7182fafbd500e1",
+      "actual": "1d709e280f5a8b74ec74c60c98fe839e13bd83859817dc0f4c7182fafbd500e1",
+      "match": true
+    },
+    "elderberry/evidence/52d37814810d/retrieval.json": {
+      "expected": "b6bd718f924350273f9aee3ba1a1738b8b146cf53694dd17ac77a92cf2bff7c1",
+      "actual": "b6bd718f924350273f9aee3ba1a1738b8b146cf53694dd17ac77a92cf2bff7c1",
+      "match": true
+    },
+    "elderberry/evidence/52d37814810d/fulltext.txt": {
+      "expected": "73a58b61c2a2737d2af5923e3f1330813fa307e292fe536a7d6eebba02ddcbcc",
+      "actual": "73a58b61c2a2737d2af5923e3f1330813fa307e292fe536a7d6eebba02ddcbcc",
+      "match": true
+    },
+    "elderberry/evidence/52d37814810d/raw.html": {
+      "expected": "4dca8d76708c49b36955337fbd97fa53f60b08836e4b7f62f9fdd11c3fe54904",
+      "actual": "4dca8d76708c49b36955337fbd97fa53f60b08836e4b7f62f9fdd11c3fe54904",
+      "match": true
+    },
+    "elderberry/evidence/9bae37ba82f3/retrieval.json": {
+      "expected": "ce4f6d3be8b2c342efb2730ed1ba2352f8c998af9e8446696ca8c81ac8c65bda",
+      "actual": "ce4f6d3be8b2c342efb2730ed1ba2352f8c998af9e8446696ca8c81ac8c65bda",
+      "match": true
+    },
+    "elderberry/evidence/9bae37ba82f3/fulltext.txt": {
+      "expected": "dfd7d63c69c21b54a5b94224c2adf0bf7c28349f3f0088a838a3c8afe7e71b87",
+      "actual": "dfd7d63c69c21b54a5b94224c2adf0bf7c28349f3f0088a838a3c8afe7e71b87",
+      "match": true
+    },
+    "elderberry/evidence/9bae37ba82f3/raw.html": {
+      "expected": "11fa5432e1e48c5cb4a371bbd0f5245122895a9ded1f0a3375e9798adecc0c6e",
+      "actual": "11fa5432e1e48c5cb4a371bbd0f5245122895a9ded1f0a3375e9798adecc0c6e",
+      "match": true
+    },
+    "elderberry/evidence/PMC10096080/retrieval.json": {
+      "expected": "ffa90076aa8ea4236699e2399bc6e7ab6fa5b125a4d2c4d3a662610107932864",
+      "actual": "ffa90076aa8ea4236699e2399bc6e7ab6fa5b125a4d2c4d3a662610107932864",
+      "match": true
+    },
+    "elderberry/evidence/PMC10096080/raw.xml": {
+      "expected": "77079289ef8595292eca372a2d7fe366e393011833469f26ae24a33af461afdc",
+      "actual": "77079289ef8595292eca372a2d7fe366e393011833469f26ae24a33af461afdc",
+      "match": true
+    },
+    "elderberry/evidence/PMC10096080/fulltext.txt": {
+      "expected": "052c95b6c66c32b52c955fe38382fd2f9873455700bb8a0752195b80cf81852e",
+      "actual": "052c95b6c66c32b52c955fe38382fd2f9873455700bb8a0752195b80cf81852e",
+      "match": true
+    }
+  },
+  "content_verdict": "CHANGES_REQUIRED_LOCALIZED",
+  "blockers": [
+    "E1 Chinese high-fiber paragraph unnatural/editorial directive",
+    "E2 EN/ZH Food to Live capture-process narration",
+    "E3 EN/ZH 175 mg heading overstates unknown as negative identity"
+  ],
+  "article_render_reviewed": false,
+  "author_files_modified": false
+}
