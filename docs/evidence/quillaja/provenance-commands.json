@@ -1,0 +1,123 @@
+[
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/ledger.json",
+      "reset"
+    ],
+    "exit": 0,
+    "stdout": "ledger reset: /data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/ledger.json\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/ledger.json",
+      "add",
+      "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/65/quillaia.pdf",
+      "--title",
+      "Quillaia — 2005 JECFA technical assessment"
+    ],
+    "exit": 0,
+    "stdout": "[1] https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/65/quillaia.pdf\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/ledger.json",
+      "quote",
+      "1",
+      "--text",
+      "Quillaia extract Type 1 may be treated with stabilizing agents, such as egg albumin or \npolyvinylpyrrolidone, to remove substances that would precipitate during storage, such as complexes or \npolymers derived from tannins and polyphenols.  The liquid is concentrated after filtration through \ndiatomaceous earth.  The concentrate may be sold in liquid form or as a powder after spray-drying.  \nCarriers such as lactose and maltodextrin may be added to the powder forms.  Type 1 extracts have been \nnoted to contain 20 to 26% quillaia saponins on the dried basis, although new information indicates that \nthe saponin content of Type 1 extracts varies more widely, between 10 and 30 %. \n \nQuillaia extract Type 2 is derived from Type 1 extracts that are subjected to chromatography or ultra-\nfiltration to reduce the amount of non-saponin soluble solids, such as polyphenols and tannins.  Type 2 \nextracts may contain 65-90 % quillaia saponins on a dried basis.  \n \nQuillaia extracts (Type 1 and 2) are used in food applications, primarily for their foaming and emulsifying \nproperties, which are attributed to their saponin content.  Extracts may contain preservatives.",
+      "--from",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/sources/quillaia-2005-full.txt"
+    ],
+    "exit": 0,
+    "stdout": "[1] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/ledger.json",
+      "quote",
+      "1",
+      "--text",
+      "QE intended for food applications are often diluted with carriers, such as lactose, maltodextrin, or \nmaltitol, for purposes of standardization.",
+      "--from",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/sources/quillaia-2005-full.txt"
+    ],
+    "exit": 0,
+    "stdout": "[1] evidence attached (2 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/ledger.json",
+      "add",
+      "https://ingredion.com/na/en-us/ingredients/ingredient-product-families/q-naturale-high-efficiency-emulsifier",
+      "--title",
+      "Ingredion Q-NATURALE — manufacturer application description"
+    ],
+    "exit": 0,
+    "stdout": "[2] https://ingredion.com/na/en-us/ingredients/ingredient-product-families/q-naturale-high-efficiency-emulsifier\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/ledger.json",
+      "quote",
+      "2",
+      "--text",
+      "We’ve perfected this revolutionary ingredient to give you unique and renewable solutions for emulsifying weighted and non-weighted beverages — even clear, fortified or alcoholic beverages.",
+      "--from",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/sources/source-4.txt"
+    ],
+    "exit": 0,
+    "stdout": "[2] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/ledger.json",
+      "render",
+      "--replace-in",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/quillaja-selection.en.md"
+    ],
+    "exit": 0,
+    "stdout": "Sources block rewritten in /data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/quillaja-selection.en.md\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/ledger.json",
+      "render",
+      "--replace-in",
+      "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/quillaja-selection.zh.md"
+    ],
+    "exit": 0,
+    "stdout": "Sources block rewritten in /data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/quillaja-selection.zh.md\n",
+    "stderr": ""
+  }
+]

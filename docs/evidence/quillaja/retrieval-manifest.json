@@ -1,0 +1,47 @@
+{
+  "date_utc": "2026-09-21",
+  "sources": [
+    {
+      "source_id": 1,
+      "url": "https://www.fao.org/fileadmin/templates/agns/pdf/jecfa/cta/65/quillaia.pdf",
+      "retrieved_on_utc": "2026-09-21",
+      "revision_method": "byte-for-byte local copy of archived retrieval; not a new network retrieval",
+      "text_role": "authoritative full PDF extraction",
+      "archives": [
+        {
+          "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/sources/quillaia-2005-full.txt",
+          "sha256": "488c5ccf155122227479ebd8bc246146801b29eabad0f4acd1869a04228b8da0",
+          "original_path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/sources/quillaia-2005-full.txt",
+          "original_sha256": "488c5ccf155122227479ebd8bc246146801b29eabad0f4acd1869a04228b8da0"
+        },
+        {
+          "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/sources/quillaia-2005.pdf",
+          "sha256": "246bc19f3fd797a317fdbc7e7ca00a033d20efabdfd7fa9331bd998b77b20d61",
+          "original_path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/sources/quillaia-2005.pdf",
+          "original_sha256": "246bc19f3fd797a317fdbc7e7ca00a033d20efabdfd7fa9331bd998b77b20d61"
+        }
+      ]
+    },
+    {
+      "source_id": 2,
+      "url": "https://ingredion.com/na/en-us/ingredients/ingredient-product-families/q-naturale-high-efficiency-emulsifier",
+      "retrieved_on_utc": "2026-09-21",
+      "revision_method": "byte-for-byte local copy of archived retrieval; not a new network retrieval",
+      "text_role": "archived manufacturer page text",
+      "archives": [
+        {
+          "path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja/sources/source-4.txt",
+          "sha256": "3c8786268d89f20d4a8633176e37c674b66bae61edcaf3bc5ef25d04b3c3e278",
+          "original_path": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/sources/source-4.txt",
+          "original_sha256": "3c8786268d89f20d4a8633176e37c674b66bae61edcaf3bc5ef25d04b3c3e278"
+        }
+      ]
+    }
+  ],
+  "excluded_archives": [
+    "sources/source-1.txt is partial and is not the authority; root source-2/source-3 belong to another lane."
+  ],
+  "limitations": [
+    "No new network fetch during repair; original independent review contains retrieval checks."
+  ]
+}
