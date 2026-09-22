@@ -1,0 +1,183 @@
+{
+  "review": "Independent FINAL bounded R1 factual/editorial gate",
+  "date": "2026-09-22",
+  "verdict": "ACCEPT_R1_CONTENT",
+  "content_accepted": true,
+  "publication_approved": false,
+  "blockers": [],
+  "six_changes": [
+    {
+      "id": 1,
+      "verdict": "PASS",
+      "subject": "May online chronology and one-laboratory insoluble PAC",
+      "draft_locations": "EN 9–11; ZH 9",
+      "evidence": "Raw USDA publication date 5/6/2026; raw Europe PMC electronicPublicationDate 2026-05-06 (July issue); USDA Methods and indexed abstract explicitly one laboratory for butanol–hydrochloric acid."
+    },
+    {
+      "id": 2,
+      "verdict": "PASS",
+      "subject": "Daily intake, not equal-weight material superiority",
+      "draft_locations": "EN 13–17; ZH 11–13",
+      "evidence": "USDA Results: extract 18.4 versus concentrate 3.87 mg/day, p=.032; whole-fruit powder 6.01 mg/day, p=.082. Both drafts retain nonsignificance and the finished-supplement denominator."
+    },
+    {
+      "id": 3,
+      "verdict": "PASS",
+      "subject": "Three replicates, A-type dimer, ratios and CV",
+      "draft_locations": "EN 41–60; ZH 35–49",
+      "evidence": "Original XML Table 2 caption explicitly three replicates ± SD and external dimer PAC-A calibration; Methods extraction/quantification triplicate. Independently recalculated all 16 numeric ratios; 1.73/34.86×100 rounds to 4.96. 平行测定 does not imply independent lots and the next sentence explicitly excludes that interpretation."
+    },
+    {
+      "id": 4,
+      "verdict": "PASS",
+      "subject": "Identity-method scope and advisory boundaries",
+      "draft_locations": "EN 66–69; ZH 55–57",
+      "evidence": "Original XML Methods authentic V. macrocarpon comparison and HPLC-UV/Vis/UHPLC-MS; Results explicitly all 24 DS. Draft no longer claims selective-only MS; process-specific interpretation and structural evidence are requests, not validated new tests."
+    },
+    {
+      "id": 5,
+      "verdict": "PASS",
+      "subject": "Clinical detour and repetitive disclaimer removal",
+      "draft_locations": "Both complete bodies",
+      "evidence": "No 36 mg/day threshold recommendation remains (36 mg per unit retained correctly in table). No therapeutic, regulatory-compliance or supplier-capability claim added. Essential fraction, sample, assay and hypothetical-cost qualifications remain near relevant claims."
+    },
+    {
+      "id": 6,
+      "verdict": "PASS",
+      "subject": "Procurement list, cost units and bilingual reader quality",
+      "draft_locations": "EN 19, 23–37, 73–91; ZH 15, 19–31, 61–76",
+      "evidence": "Validation abstract distinguishes repeatability and interlaboratory HorRat. Contract checklist specifies preparation/version, reference standard, fraction, units/moisture basis, limits, sampling/replication and discrepancy procedure. USD100/(1000g×10%)=USD1/g; both languages explicitly hypothetical, as supplied, assay reported."
+    }
+  ],
+  "reader_quality": {
+    "en": "PASS: coherent specialist procurement explainer; concrete actions follow evidence, no author-workflow narration.",
+    "zh": "PASS: natural technical Chinese with equivalent claim strength; minor optional collocation polish only."
+  },
+  "table_type": {
+    "verdict": "KEEP",
+    "count_per_language": 1,
+    "type": "Three-row exact-value comparison table",
+    "reason": "Sample identifiers, dosage-unit declarations, measured means ± SD and derived ratios need precise side-by-side lookup, not trend or market-share graphics. No population inference; percentage may exceed 100%.",
+    "render_review": "PENDING, not part of this content gate"
+  },
+  "verification": {
+    "original_sources": "Directly inspected archived original HTML/XML/JSON, not solely author reports; no fresh network retrieval claimed.",
+    "hash_manifest_entries_checked": 40,
+    "hash_manifest_matches": true,
+    "recheck_exit_code": 0,
+    "recheck_result": {
+      "original_files_unchanged": 35,
+      "table_rows": 24,
+      "numeric_ratios_verified": 16,
+      "BL_DMAC_table_count": 9,
+      "sample4_CV_percent": 4.96,
+      "hypothetical_USD_per_g": 1,
+      "status": "PASS"
+    },
+    "separate_decimal_recalculation": [
+      {
+        "sample": "1",
+        "ratio_percent": "15.39"
+      },
+      {
+        "sample": "3",
+        "ratio_percent": "96.44"
+      },
+      {
+        "sample": "4",
+        "ratio_percent": "96.83"
+      },
+      {
+        "sample": "5",
+        "ratio_percent": "99.11"
+      },
+      {
+        "sample": "6",
+        "ratio_percent": "13.64"
+      },
+      {
+        "sample": "7",
+        "ratio_percent": "8.82"
+      },
+      {
+        "sample": "8",
+        "ratio_percent": "13.78"
+      },
+      {
+        "sample": "9",
+        "ratio_percent": "84.20"
+      },
+      {
+        "sample": "10",
+        "ratio_percent": "1.18"
+      },
+      {
+        "sample": "14",
+        "ratio_percent": "20.03"
+      },
+      {
+        "sample": "16",
+        "ratio_percent": "5.17"
+      },
+      {
+        "sample": "17",
+        "ratio_percent": "14.75"
+      },
+      {
+        "sample": "18",
+        "ratio_percent": "32.40"
+      },
+      {
+        "sample": "19",
+        "ratio_percent": "96.67"
+      },
+      {
+        "sample": "20",
+        "ratio_percent": "60.94"
+      },
+      {
+        "sample": "24",
+        "ratio_percent": "103.25"
+      }
+    ],
+    "en_zh_table_rows_identical": true,
+    "citation_evidence_verification_exit_codes": {
+      "en": 0,
+      "zh": 0
+    },
+    "citation_warning": "Unused ledger IDs only; language-dependent coverage statistics are not correctness scores."
+  },
+  "draft_sha256": {
+    "cranberry-pac-purchasing.en.md": "c756c689068c80e1d3343fef800b6ecac74e4d9d6dae49ac8d3d620382c88ec5",
+    "cranberry-pac-purchasing.zh.md": "1a0238378c1742c4bde92d90d0b8b3a165966c5d508e7eea332e6a581c952d4f"
+  },
+  "supporting_input_sha256": {
+    "README.md": "c2f89100f09d04c299b1f15646f0e559bdbf0a93fa31d54700e22376280d911d",
+    "review-report.md": "da43188d8f0d8925a8bb4be2884c5fa81230be1807aa4e9bce590e6127da2356",
+    "recheck.py": "f17b0d5f9aa34569d3f31ebb7ec4cb9d8247cb07945dbd78417f4e0751127ee7",
+    "source-1.raw": "3c81b8975851553579614718525ca58c4c77f5ad61e7192a7f2b8f1d330b008a",
+    "source-2.raw": "975379741c186966379bebef54b8a90563fd63a7cb44a33aa6f1b67aaafa905f",
+    "source-4.raw": "9af68f24a03f0acc87adab46398ef1e943efb6250385415f129bcef21525fb95",
+    "2026-europepmc.raw": "76b12bb5a6d4da47ea8bfca3255bd90888aa3ce53f45bf8cef80780b93288902",
+    "source-ledger.json": "822d561df21153e9a765eefb238f37b82da1cf0280e27beefa511d7f3bcd59e3"
+  },
+  "scope_limits": [
+    "2026 and validation-paper claims accepted at explicitly declared institutional/indexed abstract scope; unavailable full text is not a blocker for these bounded claims.",
+    "No new discovery, broad rewriting, BrowserMan, website integration or publication.",
+    "Rendered desktop/mobile screenshots, accessibility, table scrolling, citation linking and release remain separate pending gates."
+  ],
+  "optional_nonblocking_polish": [
+    {
+      "location": "ZH 63–64",
+      "current": "每公斤原料对应的检测报告PAC量 / 每克检测报告PAC对应的原料成本",
+      "example": "按检测结果计算，每公斤原料含PAC：… / 按检测结果折算，每克PAC的原料成本：…",
+      "reason": "Less noun stacking; existing wording is understandable and scientifically bounded."
+    },
+    {
+      "location": "ZH 55",
+      "current": "真实的北美蔓越莓…果实",
+      "example": "北美蔓越莓…真实果实样品",
+      "reason": "Optional collocation only; no change to evidence meaning."
+    }
+  ]
+}
