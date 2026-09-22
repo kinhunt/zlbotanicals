@@ -1,0 +1,1026 @@
+[
+  {
+    "language": "en",
+    "original_block": 2,
+    "sentence_in_block": 1,
+    "original_text": "A cranberry ingredient offer can be perfectly clear about kilograms and still be unclear about what is being purchased.",
+    "review_disposition": "Rewrite as concrete five-field request; remove rhetorical introduction. No external numerical claim.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 2,
+    "sentence_in_block": 2,
+    "original_text": "For a project built around a proanthocyanidin (PAC) specification, the useful question is not simply “What percentage of PAC does it contain?” It is “What material, measured by which procedure, against which reference standard, on which reporting basis?”",
+    "review_disposition": "Rewrite as concrete five-field request; remove rhetorical introduction. No external numerical claim.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 3,
+    "sentence_in_block": 1,
+    "original_text": "A 2026 multilaboratory study makes that distinction commercially relevant.",
+    "review_disposition": "Design retained; explicitly soluble four labs/insoluble one lab; add verified May-online date. No full-text sampling claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 3,
+    "sentence_in_block": 2,
+    "original_text": "It examined 53 US cranberry dietary supplements, including extracts, concentrates and whole-fruit powders, using four commercial laboratories.",
+    "review_disposition": "Design retained; explicitly soluble four labs/insoluble one lab; add verified May-online date. No full-text sampling claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 3,
+    "sentence_in_block": 3,
+    "original_text": "The laboratories shared extraction solvents but retained laboratory-specific DMAC workflows; procyanidin A2 was used in four laboratories and a cranberry PAC standard in two.[1] This was an analytical study of finished supplements—not a price survey, a census of current suppliers or a clinical trial.",
+    "review_disposition": "Design retained; explicitly soluble four labs/insoluble one lab; add verified May-online date. No full-text sampling claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 4,
+    "sentence_in_block": 1,
+    "original_text": "The practical opportunity is to write a purchase specification that survives the journey from a supplier's certificate to an independent laboratory and then into the finished product.",
+    "review_disposition": "Retain three-part reader task, shorten abstract commercial rhetoric.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 4,
+    "sentence_in_block": 2,
+    "original_text": "That requires separating material identity, soluble-PAC measurement and finished-product delivery instead of asking one percentage to stand in for all three.",
+    "review_disposition": "Retain three-part reader task, shorten abstract commercial rhetoric.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 6,
+    "sentence_in_block": 1,
+    "original_text": "The 2026 study found higher insoluble PAC in concentrate- and fruit-powder-based products than in extract-based products.[1] That result matters when the purchase target is a *soluble* PAC result: a measurement of one fraction should not be presented as a complete description of every cranberry material.",
+    "review_disposition": "Retain group finding; add one-lab assay basis and fraction limitation.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 7,
+    "sentence_in_block": 1,
+    "original_text": "The study also reported higher average soluble PAC per daily intake for extract-based products than for concentrate-based products, but the comparison with whole-fruit powders was not statistically significant.[1] It does not establish that every extract outperforms every fruit powder, nor that an extract is the right choice for every product.",
+    "review_disposition": "Retain daily-intake comparison and nonsignificance; clarify not equal-weight ingredient ranking.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 8,
+    "sentence_in_block": 1,
+    "original_text": "For purchasing, begin with the intended job.",
+    "review_disposition": "Rewrite as supplier questions; delete speculative composition contrast and unnecessary stock disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 8,
+    "sentence_in_block": 2,
+    "original_text": "A fruit-based ingredient chosen for its wider composition and a selectively enriched ingredient bought against a soluble-PAC target need not be interchangeable.",
+    "review_disposition": "Rewrite as supplier questions; delete speculative composition contrast and unnecessary stock disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 8,
+    "sentence_in_block": 3,
+    "original_text": "Describe the botanical material and manufacturing route before comparing their assay numbers.",
+    "review_disposition": "Rewrite as supplier questions; delete speculative composition contrast and unnecessary stock disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 8,
+    "sentence_in_block": 4,
+    "original_text": "Ask the supplier to identify fruit powder, concentrate or extract; declare any carriers; and explain whether the reported percentage applies to the supplied mixture or another basis.",
+    "review_disposition": "Rewrite as supplier questions; delete speculative composition contrast and unnecessary stock disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 8,
+    "sentence_in_block": 5,
+    "original_text": "These are proposed purchasing requirements, not claims about any supplier's stock.",
+    "review_disposition": "Rewrite as supplier questions; delete speculative composition contrast and unnecessary stock disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 10,
+    "sentence_in_block": 1,
+    "original_text": "A method-validation study compared procyanidin A2 and cranberry PAC reference standards across four materials: cranberry fiber powder, cranberry extract powder, concentrated cranberry juice and a cranberry-PAC solution.",
+    "review_disposition": "Retain four matrices and abstract findings; specify repeatability/HorRat, relocate access caveat to one scope box.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 10,
+    "sentence_in_block": 2,
+    "original_text": "Its abstract reports acceptable repeatability and interlaboratory precision under the validation criteria and supports the utility of the cranberry PAC standard.[4] Only the abstract was available for this article; it is not a substitute for the complete official method or its implementation instructions.",
+    "review_disposition": "Retain four matrices and abstract findings; specify repeatability/HorRat, relocate access caveat to one scope box.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 11,
+    "sentence_in_block": 1,
+    "original_text": "The more recent commercial-laboratory study is a useful counterweight to the idea that writing “DMAC” settles every disagreement.",
+    "review_disposition": "Retain 22.1–31.6%, controls and >3.3 subgroup; keep explicit no-contract-tolerance boundary.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 11,
+    "sentence_in_block": 2,
+    "original_text": "For in-house controls and products above 3.3 mg/day PAC, the reported interlaboratory relative standard deviations ranged from 22.1% to 31.6%.[1] Those figures describe that study's observations.",
+    "review_disposition": "Retain 22.1–31.6%, controls and >3.3 subgroup; keep explicit no-contract-tolerance boundary.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 11,
+    "sentence_in_block": 3,
+    "original_text": "They are not a proposed contractual tolerance and should not be copied into a release specification.",
+    "review_disposition": "Retain 22.1–31.6%, controls and >3.3 subgroup; keep explicit no-contract-tolerance boundary.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 12,
+    "sentence_in_block": 1,
+    "original_text": "Before comparing two certificates, request the extraction procedure, method version, reference standard, result basis and laboratory reporting limits.",
+    "review_disposition": "Convert into five-item laboratory agreement list and practical comparison step.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 12,
+    "sentence_in_block": 2,
+    "original_text": "If the numbers will govern acceptance, have the two laboratories analyze a shared representative sample before approving the contract.",
+    "review_disposition": "Convert into five-item laboratory agreement list and practical comparison step.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 12,
+    "sentence_in_block": 3,
+    "original_text": "Agree how a disagreement will be investigated rather than deciding afterward which certificate is more convenient.",
+    "review_disposition": "Convert into five-item laboratory agreement list and practical comparison step.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 13,
+    "sentence_in_block": 1,
+    "original_text": "Do not use a universal multiplier to turn an A2-based result into a cranberry-standard result.",
+    "review_disposition": "Retain no-universal-multiplier advice; remove work-diary phrasing about retrieved evidence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 13,
+    "sentence_in_block": 2,
+    "original_text": "The evidence retrieved here does not establish such a multiplier across ingredients or finished-product matrices.",
+    "review_disposition": "Retain no-universal-multiplier advice; remove work-diary phrasing about retrieved evidence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 13,
+    "sentence_in_block": 3,
+    "original_text": "The appropriate commercial response to an unresolved method difference is a method-transfer exercise, not an invented conversion.",
+    "review_disposition": "Retain no-universal-multiplier advice; remove work-diary phrasing about retrieved evidence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 15,
+    "sentence_in_block": 1,
+    "original_text": "A 2020 primary study tested 24 cranberry-labelled supplements and reported both label declarations and its own BL-DMAC measurements.[2] The following three rows are selected from its Table 2 to illustrate different outcomes—not to estimate the failure rate of today's market.",
+    "review_disposition": "Retain 24 historical products; add dimer calibration/three replicate basis; no new samples or batch claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 15,
+    "sentence_in_block": 2,
+    "original_text": "Values are per pharmaceutical form/dosage unit, not automatically per daily intake.[2]",
+    "review_disposition": "Retain 24 historical products; add dimer calibration/three replicate basis; no new samples or batch claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 16,
+    "sentence_in_block": 1,
+    "original_text": "| Study sample | Declared PAC, mg/unit | Measured PAC, mg/unit, mean ± SD | Measured ÷ declared, calculated |\n|---|---:|---:|---:|\n| #4 | 36 | 34.86 ± 1.73 | 96.83% |\n| #6 | 36 | 4.91 ± 0.22 | 13.64% |\n| #24 | 36 | 37.17 ± 1.53 | 103.25% |",
+    "review_disposition": "All three rows independently recalculated correctly; clarify per-dosage-unit headers and add explicit source line.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 17,
+    "sentence_in_block": 1,
+    "original_text": "All three rows identify BL-DMAC as the declared method.[2] The calculation in the final column is measured value divided by declared value, multiplied by 100.",
+    "review_disposition": "Keep correct ratios; add source caption error, conventional CV formula and #4 4.96% worked distinction.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 17,
+    "sentence_in_block": 2,
+    "original_text": "It is not a coefficient of variation, even though the source table labels its corresponding column “%CV.” These examples show why a declared method name and a target amount should not replace finished-product verification.",
+    "review_disposition": "Keep correct ratios; add source caption error, conventional CV formula and #4 4.96% worked distinction.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 18,
+    "sentence_in_block": 1,
+    "original_text": "The source also contains inconsistencies worth retaining rather than smoothing away.",
+    "review_disposition": "Both conflicts verified directly; shorten without hiding them.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 18,
+    "sentence_in_block": 2,
+    "original_text": "Its prose lists eight products declaring BL-DMAC, while Table 2 additionally labels sample #20 BL-DMAC, making nine table entries.[2] Another sentence describes sample #9 as “85% lower,” whereas the table gives 37.89 mg against 45 mg declared—84.20% of the declaration, or a calculated shortfall of 15.80%.[2] Neither ambiguous statement is used here to calculate an overall compliance rate.",
+    "review_disposition": "Both conflicts verified directly; shorten without hiding them.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 19,
+    "sentence_in_block": 1,
+    "original_text": "This is a small reanalysis of published data, not new laboratory testing or an ecommerce sample.",
+    "review_disposition": "Merge historical/no-causal-generalization boundary into table section; delete research-diary and ecommerce disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 19,
+    "sentence_in_block": 2,
+    "original_text": "It illustrates a buyer's task: inspect the denominator, unit and source table before making a commercial comparison.",
+    "review_disposition": "Merge historical/no-causal-generalization boundary into table section; delete research-diary and ecommerce disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 19,
+    "sentence_in_block": 3,
+    "original_text": "A difference in reported PAC deserves investigation; these historical results do not establish fraud, degradation or a particular failure mechanism in a new supplier's material.",
+    "review_disposition": "Merge historical/no-causal-generalization boundary into table section; delete research-diary and ecommerce disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 21,
+    "sentence_in_block": 1,
+    "original_text": "The 2020 investigators supplemented PAC measurement with HPLC-UV/Vis fingerprinting and, for atypical profiles, additional UHPLC–mass-spectrometry analysis; the chromatograms were compared with authentic *Vaccinium macrocarpon* fruit.[2] The study therefore supplies a useful example of complementary evidence rather than a justification for relying on one colorimetric total.",
+    "review_disposition": "Narrow wording corrected: Results says MS all 24, Methods emphasizes atypical; do not imply selective-only MS.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 22,
+    "sentence_in_block": 1,
+    "original_text": "For a purchasing project, request an identity approach suited to the actual material.",
+    "review_disposition": "Keep material/process-appropriate advice; delete self-defensive closing sentence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 22,
+    "sentence_in_block": 2,
+    "original_text": "A fingerprint interpretation should account for the declared extraction and purification history.",
+    "review_disposition": "Keep material/process-appropriate advice; delete self-defensive closing sentence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 22,
+    "sentence_in_block": 3,
+    "original_text": "Do not turn the absence of one pigment signal into an automatic counterfeit verdict on a selectively processed ingredient.",
+    "review_disposition": "Keep material/process-appropriate advice; delete self-defensive closing sentence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 22,
+    "sentence_in_block": 4,
+    "original_text": "This is a proposed safeguard for interpreting supplier evidence, not a validated universal identity test.",
+    "review_disposition": "Keep material/process-appropriate advice; delete self-defensive closing sentence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 23,
+    "sentence_in_block": 1,
+    "original_text": "Similarly, a result described only as “PAC” should not be silently rewritten as a quantified amount of A-type linkages.",
+    "review_disposition": "Keep structural-evidence request, not a new claim that total PAC measures A-type linkages.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 23,
+    "sentence_in_block": 2,
+    "original_text": "Require evidence that addresses the specific structural claim if that claim is part of the purchasing or labelling brief.",
+    "review_disposition": "Keep structural-evidence request, not a new claim that total PAC measures A-type linkages.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 25,
+    "sentence_in_block": 1,
+    "original_text": "Consider a deliberately hypothetical quotation: an ingredient costs USD 100/kg and has a verified **10% soluble-PAC result on the as-supplied basis under the agreed method**.",
+    "review_disposition": "Arithmetic correct; display formula; retain hypothetical and non-absorption boundary once.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 25,
+    "sentence_in_block": 2,
+    "original_text": "One kilogram then corresponds to 100 g of assay-reported PAC, giving USD 1 per gram of assay-reported PAC before manufacturing losses or other costs.",
+    "review_disposition": "Arithmetic correct; display formula; retain hypothetical and non-absorption boundary once.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 25,
+    "sentence_in_block": 3,
+    "original_text": "This is arithmetic, not a real market quotation or a bioavailability calculation.",
+    "review_disposition": "Arithmetic correct; display formula; retain hypothetical and non-absorption boundary once.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 26,
+    "sentence_in_block": 1,
+    "original_text": "That comparison is meaningful only after the competing offers have been aligned for material identity, method and reporting basis.",
+    "review_disposition": "Keep qualified comparison and other cost factors; shorten repetitive qualification rhetoric.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 26,
+    "sentence_in_block": 2,
+    "original_text": "It cannot justify treating a different assay's 20% result as twice the purchased quantity.",
+    "review_disposition": "Keep qualified comparison and other cost factors; shorten repetitive qualification rhetoric.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 26,
+    "sentence_in_block": 3,
+    "original_text": "Nor does it capture flavour, carrier load, processing behaviour, testing costs or how the ingredient performs in the finished dosage form.",
+    "review_disposition": "Keep qualified comparison and other cost factors; shorten repetitive qualification rhetoric.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 26,
+    "sentence_in_block": 4,
+    "original_text": "Use it as one commercial metric after technical qualification, not as a shortcut around qualification.",
+    "review_disposition": "Keep qualified comparison and other cost factors; shorten repetitive qualification rhetoric.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 27,
+    "sentence_in_block": 1,
+    "original_text": "A sensible project sequence is to qualify the material and method, compare cost on that agreed basis, then confirm the target in the intended product.",
+    "review_disposition": "Preserve finished-product verification; move daily-unit calculation adjacent to data table.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 27,
+    "sentence_in_block": 2,
+    "original_text": "If the business brief concerns an amount per daily intake, make the number of units per day explicit.",
+    "review_disposition": "Preserve finished-product verification; move daily-unit calculation adjacent to data table.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 27,
+    "sentence_in_block": 3,
+    "original_text": "Keep an ingredient-level certificate and a finished-product result as separate records.",
+    "review_disposition": "Preserve finished-product verification; move daily-unit calculation adjacent to data table.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 29,
+    "sentence_in_block": 1,
+    "original_text": "Among 14 products declaring PAC content, the 2026 study reported a mean measured-versus-declared difference of −32%, with an SD of 51.4%.[1] That is not a statement that every tested product was 32% below its declaration, and it does not identify the cause of an individual discrepancy.",
+    "review_disposition": "Verified n=14 mean −32% SD 51.4%; attribute USDA, integrate with finished-product check.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 30,
+    "sentence_in_block": 1,
+    "original_text": "The same record reports that three of the 53 products reached its 36 mg/day soluble-PAC comparison point.[1] This article does not adopt that comparison point as a purchasing dose, an efficacy guarantee or a health claim.",
+    "review_disposition": "Delete whole clinical-threshold detour; claim verified but unnecessary to reader task.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 30,
+    "sentence_in_block": 2,
+    "original_text": "Analytical agreement, product performance and clinical benefit are different questions.",
+    "review_disposition": "Delete whole clinical-threshold detour; claim verified but unnecessary to reader task.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 31,
+    "sentence_in_block": 1,
+    "original_text": "The commercial conclusion is narrower and more useful: specify what the PAC number means before negotiating what it costs.",
+    "review_disposition": "End with practical sourcing inputs and sequence; remove generic disclaimers without adding supplier claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 31,
+    "sentence_in_block": 2,
+    "original_text": "For a sourcing discussion, bring the intended material category, destination market, dosage form, analytical target and expected supporting evidence.",
+    "review_disposition": "End with practical sourcing inputs and sequence; remove generic disclaimers without adding supplier claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "en",
+    "original_block": 31,
+    "sentence_in_block": 3,
+    "original_text": "Availability, certifications, batch results and finished-product performance must be established for the actual project; none follows from the existence of a published cranberry study.",
+    "review_disposition": "End with practical sourcing inputs and sequence; remove generic disclaimers without adding supplier claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 2,
+    "sentence_in_block": 1,
+    "original_text": "一份蔓越莓原料报价，可以把公斤数和单价写得很清楚，却仍然没有说明白究竟在卖什么。",
+    "review_disposition": "Rewrite as concrete five-field request; remove rhetorical introduction. No external numerical claim.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 2,
+    "sentence_in_block": 2,
+    "original_text": "如果项目要以原花青素（PAC）含量作为采购指标，首先要问的不是“能做到多少含量”，而是“什么原料，用什么方法、什么标准物、按什么基准测出的含量”。",
+    "review_disposition": "Rewrite as concrete five-field request; remove rhetorical introduction. No external numerical claim.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 3,
+    "sentence_in_block": 1,
+    "original_text": "2026年发表的一项多实验室研究，让这个问题有了具体的商业参照。",
+    "review_disposition": "Design retained; explicitly soluble four labs/insoluble one lab; add verified May-online date. No full-text sampling claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 3,
+    "sentence_in_block": 2,
+    "original_text": "研究检测了53款美国蔓越莓膳食补充剂，涵盖提取物、浓缩物和全果粉类产品；四家商业实验室采用统一的提取溶剂，但保留各自的DMAC操作流程。",
+    "review_disposition": "Design retained; explicitly soluble four labs/insoluble one lab; add verified May-online date. No full-text sampling claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 3,
+    "sentence_in_block": 3,
+    "original_text": "其中四家使用原花青素A2标准物，两家同时使用蔓越莓PAC标准物。",
+    "review_disposition": "Design retained; explicitly soluble four labs/insoluble one lab; add verified May-online date. No full-text sampling claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 3,
+    "sentence_in_block": 4,
+    "original_text": "[1] 这是成品的分析研究，不是供应商价格调查，也不是当下市场的全面普查或人体功效试验。",
+    "review_disposition": "Design retained; explicitly soluble four labs/insoluble one lab; add verified May-online date. No full-text sampling claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 4,
+    "sentence_in_block": 1,
+    "original_text": "对采购真正有用的，是让供方证书上的数字能够与第三方复测、成品检测衔接起来。",
+    "review_disposition": "Retain three-part reader task, shorten abstract commercial rhetoric.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 4,
+    "sentence_in_block": 2,
+    "original_text": "原料身份、可溶性PAC含量、成品实际提供量，需要分开确认，不能都交给一个百分数来代表。",
+    "review_disposition": "Retain three-part reader task, shorten abstract commercial rhetoric.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 6,
+    "sentence_in_block": 1,
+    "original_text": "上述2026年研究发现，浓缩物和全果粉类产品的不溶性PAC高于提取物类产品。",
+    "review_disposition": "Retain group finding; add one-lab assay basis and fraction limitation.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 6,
+    "sentence_in_block": 2,
+    "original_text": "[1] 如果采购目标明确指向可溶性PAC，这个差别就不能忽略：测到某一部分的含量，不等于已经完整描述了所有蔓越莓材料。",
+    "review_disposition": "Retain group finding; add one-lab assay basis and fraction limitation.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 7,
+    "sentence_in_block": 1,
+    "original_text": "研究中，提取物类产品按每日用量计算的平均可溶性PAC高于浓缩物类产品，但与全果粉类产品的差异未达到统计学显著性。",
+    "review_disposition": "Retain daily-intake comparison and nonsignificance; clarify not equal-weight ingredient ranking.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 7,
+    "sentence_in_block": 2,
+    "original_text": "[1] 这既不能推出“任何提取物都优于任何果粉”，也不能说明每个项目都应选择提取物。",
+    "review_disposition": "Retain daily-intake comparison and nonsignificance; clarify not equal-weight ingredient ranking.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 8,
+    "sentence_in_block": 1,
+    "original_text": "采购时不妨先写清原料要承担什么任务。",
+    "review_disposition": "Rewrite as supplier questions; delete speculative composition contrast and unnecessary stock disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 8,
+    "sentence_in_block": 2,
+    "original_text": "希望保留较广泛果实组成的材料，与按可溶性PAC指标采购的选择性富集材料，不必然能够等量替换。",
+    "review_disposition": "Rewrite as supplier questions; delete speculative composition contrast and unnecessary stock disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 8,
+    "sentence_in_block": 3,
+    "original_text": "比较含量前，先要求供方说明是果粉、浓缩物还是提取物，列出载体，并明确百分数针对的是交付的复配粉、干基，还是其他计算基础。",
+    "review_disposition": "Rewrite as supplier questions; delete speculative composition contrast and unnecessary stock disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 8,
+    "sentence_in_block": 4,
+    "original_text": "这些是建议纳入询价的要求，不是对任何供应商现有库存的描述。",
+    "review_disposition": "Rewrite as supplier questions; delete speculative composition contrast and unnecessary stock disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 10,
+    "sentence_in_block": 1,
+    "original_text": "一项方法验证研究比较了原花青素A2与蔓越莓PAC两类标准物，测试材料包括蔓越莓纤维粉、提取物粉、浓缩汁和蔓越莓PAC溶液。",
+    "review_disposition": "Retain four matrices and abstract findings; specify repeatability/HorRat, relocate access caveat to one scope box.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 10,
+    "sentence_in_block": 2,
+    "original_text": "摘要报告，所测材料的重复性和实验室间精密度满足相应验证标准，并支持使用蔓越莓PAC标准物。",
+    "review_disposition": "Retain four matrices and abstract findings; specify repeatability/HorRat, relocate access caveat to one scope box.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 10,
+    "sentence_in_block": 3,
+    "original_text": "[4] 本文对这项研究只取得摘要，不能以摘要代替正式方法全文或具体操作规程。",
+    "review_disposition": "Retain four matrices and abstract findings; specify repeatability/HorRat, relocate access caveat to one scope box.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 11,
+    "sentence_in_block": 1,
+    "original_text": "2026年的商业实验室研究则提醒我们：方法名称相同，并不意味着实验室间不会出现差异。",
+    "review_disposition": "Retain 22.1–31.6%, controls and >3.3 subgroup; keep explicit no-contract-tolerance boundary.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 11,
+    "sentence_in_block": 2,
+    "original_text": "对于内部质控样及PAC高于3.3 mg/日的产品，研究报告的实验室间相对标准偏差为22.1%—31.6%。",
+    "review_disposition": "Retain 22.1–31.6%, controls and >3.3 subgroup; keep explicit no-contract-tolerance boundary.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 11,
+    "sentence_in_block": 3,
+    "original_text": "[1] 这是该研究观察到的变异，不是建议采用的合同允差，也不应直接抄入放行标准。",
+    "review_disposition": "Retain 22.1–31.6%, controls and >3.3 subgroup; keep explicit no-contract-tolerance boundary.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 12,
+    "sentence_in_block": 1,
+    "original_text": "因此，比对两张证书前，应同时取得提取流程、方法版本、标准物、结果基准，以及实验室的报告限。",
+    "review_disposition": "Convert into five-item laboratory agreement list and practical comparison step.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 12,
+    "sentence_in_block": 2,
+    "original_text": "如果检测结果决定收货与否，建议先让双方实验室检测同一份有代表性的样品，再确定合同条款。",
+    "review_disposition": "Convert into five-item laboratory agreement list and practical comparison step.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 12,
+    "sentence_in_block": 3,
+    "original_text": "出现差异后如何调查，也应事先约定，而不是到时再选择对某一方更有利的报告。",
+    "review_disposition": "Convert into five-item laboratory agreement list and practical comparison step.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 13,
+    "sentence_in_block": 1,
+    "original_text": "不要用一个通用倍数，把A2标准物测出的结果换算成蔓越莓标准物结果。",
+    "review_disposition": "Retain no-universal-multiplier advice; remove work-diary phrasing about retrieved evidence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 13,
+    "sentence_in_block": 2,
+    "original_text": "本次取得的证据不足以支持跨原料、跨成品基质的统一换算。",
+    "review_disposition": "Retain no-universal-multiplier advice; remove work-diary phrasing about retrieved evidence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 13,
+    "sentence_in_block": 3,
+    "original_text": "面对未解决的方法差异，合适的做法是开展方法转移和对照检测，而不是补上一个看似精确的系数。",
+    "review_disposition": "Retain no-universal-multiplier advice; remove work-diary phrasing about retrieved evidence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 15,
+    "sentence_in_block": 1,
+    "original_text": "2020年的一项原始研究检测了24款标称含蔓越莓的补充剂，同时记录标签声明和研究团队的BL-DMAC测定值。",
+    "review_disposition": "Retain 24 historical products; add dimer calibration/three replicate basis; no new samples or batch claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 15,
+    "sentence_in_block": 2,
+    "original_text": "[2] 下表摘取论文表2中的三个样品，展示不同结果，不用于估算今天市场上的不合格比例。",
+    "review_disposition": "Retain 24 historical products; add dimer calibration/three replicate basis; no new samples or batch claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 15,
+    "sentence_in_block": 3,
+    "original_text": "这里的单位是每个制剂单位，并非自动等于每日摄入量。",
+    "review_disposition": "Retain 24 historical products; add dimer calibration/three replicate basis; no new samples or batch claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 15,
+    "sentence_in_block": 4,
+    "original_text": "[2]",
+    "review_disposition": "Retain 24 historical products; add dimer calibration/three replicate basis; no new samples or batch claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 16,
+    "sentence_in_block": 1,
+    "original_text": "| 论文样品编号 | 声明PAC，mg/单位 | 实测PAC，mg/单位，均值±标准差 | 实测÷声明，重新计算 |\n|---|---:|---:|---:|\n| #4 | 36 | 34.86 ± 1.73 | 96.83% |\n| #6 | 36 | 4.91 ± 0.22 | 13.64% |\n| #24 | 36 | 37.17 ± 1.53 | 103.25% |",
+    "review_disposition": "All three rows independently recalculated correctly; clarify per-dosage-unit headers and add explicit source line.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 17,
+    "sentence_in_block": 1,
+    "original_text": "这三个样品在原表中均标注声明方法为BL-DMAC。",
+    "review_disposition": "Keep correct ratios; add source caption error, conventional CV formula and #4 4.96% worked distinction.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 17,
+    "sentence_in_block": 2,
+    "original_text": "[2] 最后一列按“实测值÷声明值×100%”计算，表达的是实测值占声明值的比例。",
+    "review_disposition": "Keep correct ratios; add source caption error, conventional CV formula and #4 4.96% worked distinction.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 17,
+    "sentence_in_block": 3,
+    "original_text": "尽管原表相应列写作“%CV”，这里并不是统计学意义上的变异系数。",
+    "review_disposition": "Keep correct ratios; add source caption error, conventional CV formula and #4 4.96% worked distinction.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 17,
+    "sentence_in_block": 4,
+    "original_text": "这组对照说明，标签上的方法名称和目标含量，不能代替成品实测。",
+    "review_disposition": "Keep correct ratios; add source caption error, conventional CV formula and #4 4.96% worked distinction.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 18,
+    "sentence_in_block": 1,
+    "original_text": "原文还有两处不一致，不宜在转述时悄悄改成一个整齐的结论。",
+    "review_disposition": "Both conflicts verified directly; shorten without hiding them.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 18,
+    "sentence_in_block": 2,
+    "original_text": "正文列举了八款声明BL-DMAC的产品，但表2还将#20标为BL-DMAC，按表格计数则为九款。",
+    "review_disposition": "Both conflicts verified directly; shorten without hiding them.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 18,
+    "sentence_in_block": 3,
+    "original_text": "[2] 另一句把#9描述为“低85%”，而表中数值是声明45 mg、实测37.89 mg，即实测达到声明的84.20%，重新计算的差额为15.80%。",
+    "review_disposition": "Both conflicts verified directly; shorten without hiding them.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 18,
+    "sentence_in_block": 4,
+    "original_text": "[2] 本文不依据这两处有歧义的叙述统计总体符合率。",
+    "review_disposition": "Both conflicts verified directly; shorten without hiding them.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 19,
+    "sentence_in_block": 1,
+    "original_text": "这只是对已发表数据的少量复核，不是我们新做的实验或电商抽样。",
+    "review_disposition": "Merge historical/no-causal-generalization boundary into table section; delete research-diary and ecommerce disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 19,
+    "sentence_in_block": 2,
+    "original_text": "它对应一个实际采购任务：在比较商业价值前，看清分母、单位和原始表格。",
+    "review_disposition": "Merge historical/no-causal-generalization boundary into table section; delete research-diary and ecommerce disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 19,
+    "sentence_in_block": 3,
+    "original_text": "某份PAC结果存在差异，意味着需要调查；这些历史数据并不能证明新供应商的原料存在掺假、降解或某一种特定故障。",
+    "review_disposition": "Merge historical/no-causal-generalization boundary into table section; delete research-diary and ecommerce disclaimer.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 21,
+    "sentence_in_block": 1,
+    "original_text": "2020年研究除PAC测定外，还使用HPLC-UV/Vis指纹分析，对非典型谱图进一步采用UHPLC质谱分析，并与真实的北美蔓越莓（*Vaccinium macrocarpon*）果实进行比较。",
+    "review_disposition": "Narrow wording corrected: Results says MS all 24, Methods emphasizes atypical; do not imply selective-only MS.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 21,
+    "sentence_in_block": 2,
+    "original_text": "[2] 它展示的是多种证据如何互补，而不是证明一个显色总量就能解决身份判断。",
+    "review_disposition": "Narrow wording corrected: Results says MS all 24, Methods emphasizes atypical; do not imply selective-only MS.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 22,
+    "sentence_in_block": 1,
+    "original_text": "实际采购时，身份鉴别方案应适合所购材料。",
+    "review_disposition": "Keep material/process-appropriate advice; delete self-defensive closing sentence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 22,
+    "sentence_in_block": 2,
+    "original_text": "解释指纹时，需要考虑供方声明的提取和纯化过程。",
+    "review_disposition": "Keep material/process-appropriate advice; delete self-defensive closing sentence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 22,
+    "sentence_in_block": 3,
+    "original_text": "对于经过选择性加工的材料，不宜仅凭缺少某个色素信号就直接判定为假货。",
+    "review_disposition": "Keep material/process-appropriate advice; delete self-defensive closing sentence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 22,
+    "sentence_in_block": 4,
+    "original_text": "这是解释供方证据时的审慎建议，并非已经验证、可通用于所有蔓越莓材料的鉴别规则。",
+    "review_disposition": "Keep material/process-appropriate advice; delete self-defensive closing sentence.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 23,
+    "sentence_in_block": 1,
+    "original_text": "同样，一张只写“PAC”的报告，也不应被改写成已定量测出某种A型连接结构。",
+    "review_disposition": "Keep structural-evidence request, not a new claim that total PAC measures A-type linkages.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 23,
+    "sentence_in_block": 2,
+    "original_text": "如果采购或标签要求涉及特定结构，就应索取能够回答该结构问题的证据，而不是依靠总含量名称推断。",
+    "review_disposition": "Keep structural-evidence request, not a new claim that total PAC measures A-type linkages.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 25,
+    "sentence_in_block": 1,
+    "original_text": "假设有一份纯属演示的报价：原料价格为100美元/公斤，并且双方已经用约定方法确认，**按交付状态计算的可溶性PAC含量为10%**。",
+    "review_disposition": "Arithmetic correct; display formula; retain hypothetical and non-absorption boundary once.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 25,
+    "sentence_in_block": 2,
+    "original_text": "那么每公斤原料对应100克该方法报告的PAC，折合每克报告PAC为1美元，尚未计入制造损失和其他费用。",
+    "review_disposition": "Arithmetic correct; display formula; retain hypothetical and non-absorption boundary once.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 25,
+    "sentence_in_block": 3,
+    "original_text": "这只是算术示例，不是真实行情，也不是生物利用度计算。",
+    "review_disposition": "Arithmetic correct; display formula; retain hypothetical and non-absorption boundary once.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 26,
+    "sentence_in_block": 1,
+    "original_text": "只有在身份、检测方法和计算基准对齐后，这个指标才有比较意义。",
+    "review_disposition": "Keep qualified comparison and other cost factors; shorten repetitive qualification rhetoric.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 26,
+    "sentence_in_block": 2,
+    "original_text": "另一份采用不同检测方法的“20%”结果，不能直接被当作买到了两倍的同一测定量。",
+    "review_disposition": "Keep qualified comparison and other cost factors; shorten repetitive qualification rhetoric.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 26,
+    "sentence_in_block": 3,
+    "original_text": "这个价格指标也没有覆盖风味、载体比例、加工表现、检测成本或成品剂型表现。",
+    "review_disposition": "Keep qualified comparison and other cost factors; shorten repetitive qualification rhetoric.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 26,
+    "sentence_in_block": 4,
+    "original_text": "它适合作为技术认可后的一项商业指标，而不是跳过技术认可的捷径。",
+    "review_disposition": "Keep qualified comparison and other cost factors; shorten repetitive qualification rhetoric.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 27,
+    "sentence_in_block": 1,
+    "original_text": "较稳妥的项目顺序是：先确认材料和方法，再按约定口径比价，最后在目标成品中验证含量。",
+    "review_disposition": "Preserve finished-product verification; move daily-unit calculation adjacent to data table.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 27,
+    "sentence_in_block": 2,
+    "original_text": "如果商业目标是每日提供多少PAC，就应写明每天使用几个单位。",
+    "review_disposition": "Preserve finished-product verification; move daily-unit calculation adjacent to data table.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 27,
+    "sentence_in_block": 3,
+    "original_text": "原料证书与成品结果各自保留，不能彼此替代。",
+    "review_disposition": "Preserve finished-product verification; move daily-unit calculation adjacent to data table.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 29,
+    "sentence_in_block": 1,
+    "original_text": "对14款声明PAC含量的产品，2026年研究报告的实测相对声明差异均值为−32%，标准差为51.4%。",
+    "review_disposition": "Verified n=14 mean −32% SD 51.4%; attribute USDA, integrate with finished-product check.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 29,
+    "sentence_in_block": 2,
+    "original_text": "[1] 这不代表每款受测产品都比声明低32%，更不能据此确定某一款产品产生差异的原因。",
+    "review_disposition": "Verified n=14 mean −32% SD 51.4%; attribute USDA, integrate with finished-product check.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 30,
+    "sentence_in_block": 1,
+    "original_text": "该研究记录还报告，53款产品中有三款达到研究采用的36 mg/日可溶性PAC比较点。",
+    "review_disposition": "Delete whole clinical-threshold detour; claim verified but unnecessary to reader task.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 30,
+    "sentence_in_block": 2,
+    "original_text": "[1] 本文不把这个比较点转化为采购剂量、功效保证或健康宣称。",
+    "review_disposition": "Delete whole clinical-threshold detour; claim verified but unnecessary to reader task.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 30,
+    "sentence_in_block": 3,
+    "original_text": "检测结果是否一致、成品表现如何、是否具有人体获益，是不同的问题。",
+    "review_disposition": "Delete whole clinical-threshold detour; claim verified but unnecessary to reader task.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 31,
+    "sentence_in_block": 1,
+    "original_text": "对采购而言，结论可以更收敛，也更实用：先说清楚PAC数字代表什么，再谈这个数字值多少钱。",
+    "review_disposition": "End with practical sourcing inputs and sequence; remove generic disclaimers without adding supplier claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 31,
+    "sentence_in_block": 2,
+    "original_text": "询价时提供目标材料类别、销售地区、剂型、检测目标及所需证据，才能让后续沟通有明确基础。",
+    "review_disposition": "End with practical sourcing inputs and sequence; remove generic disclaimers without adding supplier claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  },
+  {
+    "language": "zh",
+    "original_block": 31,
+    "sentence_in_block": 3,
+    "original_text": "能否供货、具备哪些认证、某批实际检测结果以及成品表现，都要针对具体项目确认，不能从一篇蔓越莓论文推导出来。",
+    "review_disposition": "End with practical sourcing inputs and sequence; remove generic disclaimers without adding supplier claims.",
+    "status": "reviewed; rewritten/moved/deleted as described, not independently approved R1"
+  }
+]

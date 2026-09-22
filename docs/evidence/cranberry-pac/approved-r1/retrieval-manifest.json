@@ -1,0 +1,44 @@
+[
+  {
+    "name": "2026-europepmc",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1016/j.tjnut.2026.101582&format=json&resultType=core",
+    "status": 200,
+    "sha256": "76b12bb5a6d4da47ea8bfca3255bd90888aa3ce53f45bf8cef80780b93288902",
+    "retrieved_utc": "2026-09-22T06:47:43.611379+00:00"
+  },
+  {
+    "name": "2026-crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.tjnut.2026.101582",
+    "status": 200,
+    "sha256": "9cdb5e22cdcace26abc783f098047af37d608545cc5d76fb5b5aaae39694b317",
+    "retrieved_utc": "2026-09-22T06:47:43.726432+00:00"
+  },
+  {
+    "name": "2026-publisher",
+    "url": "https://jn.nutrition.org/article/S0022-3166(26)00171-1/fulltext",
+    "status": 403,
+    "sha256": "2d4bf274adeb15ad5743d49109bfd3d70f71f34d73f2740169c1a44487dfdd51",
+    "retrieved_utc": "2026-09-22T06:47:43.479633+00:00"
+  },
+  {
+    "name": "2026-elsevier-api",
+    "url": "https://api.elsevier.com/content/article/PII:S0022316626002312?httpAccept=text/xml",
+    "status": 200,
+    "sha256": "3cbc3b93f668ab45197b44e1333cfd1376c3c6ddf58e3629c6925baa492111b5",
+    "retrieved_utc": "2026-09-22T06:48:45.845472+00:00"
+  },
+  {
+    "name": "2026-publisher-correct",
+    "url": "https://jn.nutrition.org/article/S0022-3166(26)00231-2/fulltext",
+    "status": 403,
+    "sha256": "30c6c31b6d331f03c2733b23a2e7d9068c48c626748f6f15adf03452d9880c96",
+    "retrieved_utc": "2026-09-22T06:48:45.533136+00:00"
+  },
+  {
+    "name": "validation-crossref",
+    "url": "https://api.crossref.org/works/10.1093/jaoacint/qsaa084",
+    "status": 200,
+    "sha256": "f86ef2e8511afe2cca21e37fe7ab2038e76caa43a90dea721ddae8eda0100869",
+    "retrieved_utc": "2026-09-22T06:48:45.810447+00:00"
+  }
+]

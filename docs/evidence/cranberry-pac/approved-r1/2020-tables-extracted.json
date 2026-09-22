@@ -1,0 +1,975 @@
+[
+  {
+    "source_id": 2,
+    "xml_id": "nutrients-12-00992-t001",
+    "caption": "Mass uniformity test of the 24 Vaccinium macrocarpon-based dietary supplements. The pharmaceutical forms (FF) of each package were evaluated following three different criteria. Criteria 1: FF complied with the test if not more than one individual mass was outside of the percentage established of the average mass (5% for tablets and 7,5% for capsules and sachets); Criteria 2: FF failed to comply with the test if one individual mass was outside of the double of these limits (10% for tablets and 15% for capsules and sachets); Criteria 3: FF failed to comply with the test if the ratio between the claimed mass and the average mass exceeded the 2%. The column “%CV” reports the percentage difference of the measured weight compared to that declared in each package.",
+    "rows": [
+      [
+        "#",
+        "Weight (g)",
+        "%CV",
+        "Criteria 1",
+        "Criteria 2",
+        "Criteria 3"
+      ],
+      [
+        "Claimed",
+        "Average of Each FF"
+      ],
+      [
+        "1",
+        "3.00",
+        "2.9776 ± 0.0326",
+        "99.25%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "2",
+        "4.50",
+        "4.5126 ± 0.0473",
+        "100.28%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "3",
+        "4.00",
+        "3.9816 ± 0.0209",
+        "99.54%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "4",
+        "4.15",
+        "4.2152 ± 0.0332",
+        "101.57%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "5",
+        "5.00",
+        "5.0545 ± 0.0318",
+        "101.09%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "6",
+        "3.30",
+        "3.3309 ± 0.1732",
+        "100.93%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "7",
+        "3.50",
+        "3.4611 ± 0.0926",
+        "98.88%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "8",
+        "2.00",
+        "1.8799 ± 0.2519",
+        "93.99%",
+        "no",
+        "no",
+        "yes"
+      ],
+      [
+        "9",
+        "3.50",
+        "4.1581 ± 0.6992",
+        "118.80%",
+        "no",
+        "no",
+        "no"
+      ],
+      [
+        "10",
+        "0.90",
+        "0.3455 ± 0.0201",
+        "38.38%",
+        "no",
+        "no",
+        "no"
+      ],
+      [
+        "11",
+        "0.35",
+        "0.3971 ± 0.0091",
+        "115.10%",
+        "yes",
+        "yes",
+        "no"
+      ],
+      [
+        "12",
+        "0.53",
+        "0.5753 ± 0.0833",
+        "107.93%",
+        "no",
+        "no",
+        "yes"
+      ],
+      [
+        "13",
+        "0.42",
+        "0.4392 ± 0.0131",
+        "104.07%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "14",
+        "0.50",
+        "0.5011 ± 0.0113",
+        "100.22%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "15",
+        "20.00",
+        "23.192 ± 0.5796",
+        "115.96%",
+        "yes",
+        "yes",
+        "no"
+      ],
+      [
+        "16",
+        "1.20",
+        "1.1901 ± 0.0144",
+        "99.17%",
+        "no",
+        "yes",
+        "yes"
+      ],
+      [
+        "17",
+        "1.20",
+        "1.0260 ± 0.0142",
+        "85.50%",
+        "no",
+        "yes",
+        "no"
+      ],
+      [
+        "18",
+        "0.75",
+        "0.7478 ± 0.0063",
+        "99.70%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "19",
+        "0.55",
+        "0.5362 ± 0.0058",
+        "97.49%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "20",
+        "1.03",
+        "1.0554 ± 0.0052",
+        "102.46%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "21",
+        "0.97",
+        "0.9722 ± 0.0113",
+        "100.43%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "22",
+        "0.68",
+        "0.6901 ± 0.0194",
+        "102.23%",
+        "no",
+        "yes",
+        "yes"
+      ],
+      [
+        "23",
+        "0.88",
+        "0.8747 ± 0.0093",
+        "99.96%",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      [
+        "24",
+        "1.15",
+        "1.1972 ± 0.0111",
+        "104.37%",
+        "yes",
+        "yes",
+        "yes"
+      ]
+    ]
+  },
+  {
+    "source_id": 2,
+    "xml_id": "nutrients-12-00992-t002",
+    "caption": "Quantification of total proanthocyanidins content (tPACs) in the 24 Vaccinium macrocarpon-based dietary supplements by BL-DMAC assay. The column “method” reports the claimed analytical method used by the manufacturer for the quantification of tPACs. Results are expressed as mean of three different replicates ± SD, using external calibration curves of dimer PAC-A type. In the column “%CV”, the percentage differences of tPACs between the value declared and that calculated via BL-DMAC assay are reported for each product.",
+    "rows": [
+      [
+        "#",
+        "",
+        "mg PAC per FF",
+        "%CV"
+      ],
+      [
+        "Claimed",
+        "Method",
+        "Real"
+      ],
+      [
+        "1",
+        "36",
+        "",
+        "5.54 ± 0.27",
+        "15.39%"
+      ],
+      [
+        "2",
+        "n.d.",
+        "",
+        "7.45 ± 0.45",
+        ""
+      ],
+      [
+        "3",
+        "43.2",
+        "",
+        "41.66 ± 1.13",
+        "96.44%"
+      ],
+      [
+        "4",
+        "36",
+        "BL-DMAC",
+        "34.86 ± 1.73",
+        "96.83%"
+      ],
+      [
+        "5",
+        "18",
+        "BL-DMAC",
+        "17.84 ± 1.34",
+        "99.11%"
+      ],
+      [
+        "6",
+        "36",
+        "BL-DMAC",
+        "4.91 ± 0.22",
+        "13.64%"
+      ],
+      [
+        "7",
+        "50",
+        "",
+        "4.41 ± 0.01",
+        "8.82%"
+      ],
+      [
+        "8",
+        "18",
+        "BL-DMAC",
+        "2.48 ± 0.05",
+        "13.78%"
+      ],
+      [
+        "9",
+        "45",
+        "BL-DMAC",
+        "37.89 ± 1.59",
+        "84.20%"
+      ],
+      [
+        "10",
+        "46.8",
+        "BL-DMAC",
+        "0.55 ± 0.05",
+        "1.18%"
+      ],
+      [
+        "11",
+        "n.d.",
+        "",
+        "1.51 ± 0.09",
+        ""
+      ],
+      [
+        "12",
+        "n.d.",
+        "",
+        "2.79 ± 0.14",
+        ""
+      ],
+      [
+        "13",
+        "n.d.",
+        "",
+        "3.68 ± 0.19",
+        ""
+      ],
+      [
+        "14",
+        "30",
+        "",
+        "6.01 ± 0.23",
+        "20.03%"
+      ],
+      [
+        "15",
+        "n.d.",
+        "",
+        "1.13 ± 0.06",
+        ""
+      ],
+      [
+        "16",
+        "18",
+        "",
+        "0.93 ± 0.03",
+        "5.17%"
+      ],
+      [
+        "17",
+        "36",
+        "",
+        "5.31 ± 0.44",
+        "14.75%"
+      ],
+      [
+        "18",
+        "20",
+        "",
+        "6.48 ± 0.21",
+        "32.40%"
+      ],
+      [
+        "19",
+        "14.4",
+        "BL-DMAC",
+        "13.92 ± 0.28",
+        "96.67%"
+      ],
+      [
+        "20",
+        "54",
+        "BL-DMAC",
+        "32.91 ± 0.91",
+        "60.94%"
+      ],
+      [
+        "21",
+        "n.d.",
+        "",
+        "0.38 ± 0.02",
+        ""
+      ],
+      [
+        "22",
+        "n.d.",
+        "",
+        "17.12 ± 0.63",
+        ""
+      ],
+      [
+        "23",
+        "n.d.",
+        "",
+        "0.28 ± 0.02",
+        ""
+      ],
+      [
+        "24",
+        "36",
+        "BL-DMAC",
+        "37.17 ± 1.53",
+        "103.25%"
+      ]
+    ]
+  },
+  {
+    "source_id": 2,
+    "xml_id": "nutrients-12-00992-t003",
+    "caption": "Quantification of total anthocyanin content (TAC) and chemical fingerprinting of the 24 Vaccinium macrocarpon-based dietary supplements. Results are the mean of three different replicates, and they are expressed as mg of cyanidine chloride equivalent ± SD. The different supplements are grouped in three different categories in the column “CAT”, depending on the different chromatogram recorded at λ = 520 nm (see Figure 1). The non-typical anthocyanins found in each sample are reported in the column “UHPLC-Orbitrap”. (D3Ru = delphinidin-rutinoside; D3Gl = delphinidin-glucoside; Pet3Gl = petunidin-glucoside; C3Ru = cyanidine-3-rutinoside).",
+    "rows": [
+      [
+        "#",
+        "TAC per FF",
+        "Chemical Fingerprinting"
+      ],
+      [
+        "HPLC-UV/Vis",
+        "UHPLC-Orbitrap"
+      ],
+      [
+        "CAT 1",
+        "CAT 2",
+        "CAT 3",
+        "D3Ru",
+        "D3Gl",
+        "Pet3Gl",
+        "C3Ru"
+      ],
+      [
+        "1",
+        "3.601 ± 0.211",
+        "",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "2",
+        "21.997 ± 1.713",
+        "",
+        "",
+        "x",
+        "x",
+        "x",
+        "",
+        ""
+      ],
+      [
+        "3",
+        "5.462 ± 0.343",
+        "",
+        "",
+        "x",
+        "x",
+        "x",
+        "",
+        ""
+      ],
+      [
+        "4",
+        "13.317 ± 0.258",
+        "",
+        "",
+        "x",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "5",
+        "8.925 ± 0.241",
+        "",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "6",
+        "2.322 ± 0.131",
+        "",
+        "",
+        "x",
+        "x",
+        "x",
+        "",
+        ""
+      ],
+      [
+        "7",
+        "0.389 ± 0.032",
+        "",
+        "",
+        "x",
+        "x",
+        "x",
+        "",
+        ""
+      ],
+      [
+        "8",
+        "n.d.",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "9",
+        "19.501 ± 1.569",
+        "",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "10",
+        "4.859 ± 0.121",
+        "",
+        "",
+        "x",
+        "x",
+        "x",
+        "x",
+        ""
+      ],
+      [
+        "11",
+        "n.d.",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "12",
+        "n.d.",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "13",
+        "6.325 ± 0.589",
+        "",
+        "",
+        "x",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "14",
+        "0.444 ± 0.021",
+        "",
+        "",
+        "x",
+        "x",
+        "x",
+        "",
+        ""
+      ],
+      [
+        "15",
+        "4.359 ± 0.356",
+        "",
+        "",
+        "x",
+        "x",
+        "x",
+        "",
+        ""
+      ],
+      [
+        "16",
+        "2.134 ± 0.123",
+        "",
+        "",
+        "x",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "17",
+        "1.134 ± 0.0458",
+        "",
+        "",
+        "x",
+        "x",
+        "x",
+        "",
+        ""
+      ],
+      [
+        "18",
+        "3.184 ± 0.192",
+        "",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "19",
+        "1.102 ± 0.0874",
+        "",
+        "",
+        "x",
+        "x",
+        "x",
+        "",
+        ""
+      ],
+      [
+        "20",
+        "6.439 ± 0.255",
+        "",
+        "",
+        "x",
+        "x",
+        "x",
+        "x",
+        ""
+      ],
+      [
+        "21",
+        "n.d.",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "22",
+        "2.907 ± 0.287",
+        "",
+        "",
+        "x",
+        "x",
+        "",
+        "",
+        ""
+      ],
+      [
+        "23",
+        "n.d.",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "24",
+        "3.361 ± 0.055",
+        "",
+        "",
+        "x",
+        "x",
+        "x",
+        "",
+        "x"
+      ]
+    ]
+  },
+  {
+    "source_id": 2,
+    "xml_id": "nutrients-12-00992-t004",
+    "caption": "Summary table of the quality control tests carried out on 24 Vaccinium macrocarpon-based dietary supplements. The symbol “✓” marks the passing of the relative test for each product. On the contrary, the symbol “x” marks when the DS failed to comply with the test. Criteria 1: FF complied with the test if not more than one individual mass was outside of the percentage established of the average mass (5% for tablets and 7.5% for capsules and sachets); Criteria 2: FF failed to comply with the test if one individual mass was outside of the double of these limits (10% for tablets and 15% for capsules and sachets); Criteria 3: FF failed to comply with the test if the ratio between the claimed mass and the average mass exceeded the 2%. The column “36 mg/day” reports if, following the suggested posology, the administration of at least 36 mg of PACs was guaranteed, while the adjacent column reports if the dosage claimed in the label was correct. The other columns respectively report the detection of anthocyanins (TAC), and whether the anthocyanin pattern was different from those of the V. macrocarpon fruits analysed in this experimentation (FP).",
+    "rows": [
+      [
+        "",
+        "Uniformity of Mass",
+        "PACs Content",
+        "Cranberry"
+      ],
+      [
+        "#",
+        "Criteria 1",
+        "Criteria 2",
+        "Criteria 3",
+        "36 mg/day",
+        "Correct Dosage",
+        "TAC",
+        "FP"
+      ],
+      [
+        "1",
+        "✓",
+        "✓",
+        "✓",
+        "x",
+        "x",
+        "✓",
+        "✓"
+      ],
+      [
+        "2",
+        "✓",
+        "✓",
+        "✓",
+        "x",
+        "n.r.",
+        "✓",
+        "x"
+      ],
+      [
+        "3",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "x"
+      ],
+      [
+        "4",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "x"
+      ],
+      [
+        "5",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "6",
+        "✓",
+        "✓",
+        "✓",
+        "x",
+        "x",
+        "✓",
+        "x"
+      ],
+      [
+        "7",
+        "✓",
+        "✓",
+        "✓",
+        "x",
+        "x",
+        "✓",
+        "x"
+      ],
+      [
+        "8",
+        "x",
+        "x",
+        "✓",
+        "x",
+        "x",
+        "x",
+        "x"
+      ],
+      [
+        "9",
+        "x",
+        "x",
+        "x",
+        "✓",
+        "x",
+        "✓",
+        "✓"
+      ],
+      [
+        "10",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "✓",
+        "x"
+      ],
+      [
+        "11",
+        "✓",
+        "✓",
+        "x",
+        "x",
+        "n.r.",
+        "x",
+        "x"
+      ],
+      [
+        "12",
+        "x",
+        "x",
+        "✓",
+        "x",
+        "n.r.",
+        "x",
+        "x"
+      ],
+      [
+        "13",
+        "✓",
+        "✓",
+        "✓",
+        "x",
+        "n.r.",
+        "✓",
+        "x"
+      ],
+      [
+        "14",
+        "✓",
+        "✓",
+        "✓",
+        "x",
+        "x",
+        "✓",
+        "x"
+      ],
+      [
+        "15",
+        "✓",
+        "✓",
+        "x",
+        "x",
+        "n.r.",
+        "✓",
+        "x"
+      ],
+      [
+        "16",
+        "x",
+        "✓",
+        "✓",
+        "x",
+        "x",
+        "✓",
+        "x"
+      ],
+      [
+        "17",
+        "x",
+        "✓",
+        "x",
+        "x",
+        "x",
+        "✓",
+        "x"
+      ],
+      [
+        "18",
+        "✓",
+        "✓",
+        "✓",
+        "x",
+        "x",
+        "✓",
+        "✓"
+      ],
+      [
+        "19",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "x"
+      ],
+      [
+        "20",
+        "✓",
+        "✓",
+        "✓",
+        "x",
+        "x",
+        "✓",
+        "✓"
+      ],
+      [
+        "21",
+        "✓",
+        "✓",
+        "✓",
+        "x",
+        "n.r.",
+        "x",
+        "x"
+      ],
+      [
+        "22",
+        "x",
+        "✓",
+        "✓",
+        "✓",
+        "n.r.",
+        "✓",
+        "x"
+      ],
+      [
+        "23",
+        "✓",
+        "✓",
+        "✓",
+        "x",
+        "n.r.",
+        "x",
+        "x"
+      ],
+      [
+        "24",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "x"
+      ]
+    ]
+  }
+]

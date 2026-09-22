@@ -1,0 +1,269 @@
+{
+  "provenance": "Parsed directly from source-2.raw Table 2; all 16 numeric declarations reproduce published percentages after rounding; 8 undeclared values not treated as zero. CV uses rounded reported mean and SD, not raw replicate observations.",
+  "rows": [
+    {
+      "sample": 1,
+      "declared_mg_per_unit": 36.0,
+      "declared_method": null,
+      "mean_mg_per_unit": 5.54,
+      "sd_mg_per_unit": 0.27,
+      "source_percent_column": "15.39%",
+      "replicate_cv_percent_calculated": 4.87,
+      "measured_over_declared_percent": 15.39,
+      "shortfall_percent": 84.61
+    },
+    {
+      "sample": 2,
+      "declared_mg_per_unit": null,
+      "declared_method": null,
+      "mean_mg_per_unit": 7.45,
+      "sd_mg_per_unit": 0.45,
+      "source_percent_column": null,
+      "replicate_cv_percent_calculated": 6.04,
+      "measured_over_declared_percent": null,
+      "shortfall_percent": null
+    },
+    {
+      "sample": 3,
+      "declared_mg_per_unit": 43.2,
+      "declared_method": null,
+      "mean_mg_per_unit": 41.66,
+      "sd_mg_per_unit": 1.13,
+      "source_percent_column": "96.44%",
+      "replicate_cv_percent_calculated": 2.71,
+      "measured_over_declared_percent": 96.44,
+      "shortfall_percent": 3.56
+    },
+    {
+      "sample": 4,
+      "declared_mg_per_unit": 36.0,
+      "declared_method": "BL-DMAC",
+      "mean_mg_per_unit": 34.86,
+      "sd_mg_per_unit": 1.73,
+      "source_percent_column": "96.83%",
+      "replicate_cv_percent_calculated": 4.96,
+      "measured_over_declared_percent": 96.83,
+      "shortfall_percent": 3.17
+    },
+    {
+      "sample": 5,
+      "declared_mg_per_unit": 18.0,
+      "declared_method": "BL-DMAC",
+      "mean_mg_per_unit": 17.84,
+      "sd_mg_per_unit": 1.34,
+      "source_percent_column": "99.11%",
+      "replicate_cv_percent_calculated": 7.51,
+      "measured_over_declared_percent": 99.11,
+      "shortfall_percent": 0.89
+    },
+    {
+      "sample": 6,
+      "declared_mg_per_unit": 36.0,
+      "declared_method": "BL-DMAC",
+      "mean_mg_per_unit": 4.91,
+      "sd_mg_per_unit": 0.22,
+      "source_percent_column": "13.64%",
+      "replicate_cv_percent_calculated": 4.48,
+      "measured_over_declared_percent": 13.64,
+      "shortfall_percent": 86.36
+    },
+    {
+      "sample": 7,
+      "declared_mg_per_unit": 50.0,
+      "declared_method": null,
+      "mean_mg_per_unit": 4.41,
+      "sd_mg_per_unit": 0.01,
+      "source_percent_column": "8.82%",
+      "replicate_cv_percent_calculated": 0.23,
+      "measured_over_declared_percent": 8.82,
+      "shortfall_percent": 91.18
+    },
+    {
+      "sample": 8,
+      "declared_mg_per_unit": 18.0,
+      "declared_method": "BL-DMAC",
+      "mean_mg_per_unit": 2.48,
+      "sd_mg_per_unit": 0.05,
+      "source_percent_column": "13.78%",
+      "replicate_cv_percent_calculated": 2.02,
+      "measured_over_declared_percent": 13.78,
+      "shortfall_percent": 86.22
+    },
+    {
+      "sample": 9,
+      "declared_mg_per_unit": 45.0,
+      "declared_method": "BL-DMAC",
+      "mean_mg_per_unit": 37.89,
+      "sd_mg_per_unit": 1.59,
+      "source_percent_column": "84.20%",
+      "replicate_cv_percent_calculated": 4.2,
+      "measured_over_declared_percent": 84.2,
+      "shortfall_percent": 15.8
+    },
+    {
+      "sample": 10,
+      "declared_mg_per_unit": 46.8,
+      "declared_method": "BL-DMAC",
+      "mean_mg_per_unit": 0.55,
+      "sd_mg_per_unit": 0.05,
+      "source_percent_column": "1.18%",
+      "replicate_cv_percent_calculated": 9.09,
+      "measured_over_declared_percent": 1.18,
+      "shortfall_percent": 98.82
+    },
+    {
+      "sample": 11,
+      "declared_mg_per_unit": null,
+      "declared_method": null,
+      "mean_mg_per_unit": 1.51,
+      "sd_mg_per_unit": 0.09,
+      "source_percent_column": null,
+      "replicate_cv_percent_calculated": 5.96,
+      "measured_over_declared_percent": null,
+      "shortfall_percent": null
+    },
+    {
+      "sample": 12,
+      "declared_mg_per_unit": null,
+      "declared_method": null,
+      "mean_mg_per_unit": 2.79,
+      "sd_mg_per_unit": 0.14,
+      "source_percent_column": null,
+      "replicate_cv_percent_calculated": 5.02,
+      "measured_over_declared_percent": null,
+      "shortfall_percent": null
+    },
+    {
+      "sample": 13,
+      "declared_mg_per_unit": null,
+      "declared_method": null,
+      "mean_mg_per_unit": 3.68,
+      "sd_mg_per_unit": 0.19,
+      "source_percent_column": null,
+      "replicate_cv_percent_calculated": 5.16,
+      "measured_over_declared_percent": null,
+      "shortfall_percent": null
+    },
+    {
+      "sample": 14,
+      "declared_mg_per_unit": 30.0,
+      "declared_method": null,
+      "mean_mg_per_unit": 6.01,
+      "sd_mg_per_unit": 0.23,
+      "source_percent_column": "20.03%",
+      "replicate_cv_percent_calculated": 3.83,
+      "measured_over_declared_percent": 20.03,
+      "shortfall_percent": 79.97
+    },
+    {
+      "sample": 15,
+      "declared_mg_per_unit": null,
+      "declared_method": null,
+      "mean_mg_per_unit": 1.13,
+      "sd_mg_per_unit": 0.06,
+      "source_percent_column": null,
+      "replicate_cv_percent_calculated": 5.31,
+      "measured_over_declared_percent": null,
+      "shortfall_percent": null
+    },
+    {
+      "sample": 16,
+      "declared_mg_per_unit": 18.0,
+      "declared_method": null,
+      "mean_mg_per_unit": 0.93,
+      "sd_mg_per_unit": 0.03,
+      "source_percent_column": "5.17%",
+      "replicate_cv_percent_calculated": 3.23,
+      "measured_over_declared_percent": 5.17,
+      "shortfall_percent": 94.83
+    },
+    {
+      "sample": 17,
+      "declared_mg_per_unit": 36.0,
+      "declared_method": null,
+      "mean_mg_per_unit": 5.31,
+      "sd_mg_per_unit": 0.44,
+      "source_percent_column": "14.75%",
+      "replicate_cv_percent_calculated": 8.29,
+      "measured_over_declared_percent": 14.75,
+      "shortfall_percent": 85.25
+    },
+    {
+      "sample": 18,
+      "declared_mg_per_unit": 20.0,
+      "declared_method": null,
+      "mean_mg_per_unit": 6.48,
+      "sd_mg_per_unit": 0.21,
+      "source_percent_column": "32.40%",
+      "replicate_cv_percent_calculated": 3.24,
+      "measured_over_declared_percent": 32.4,
+      "shortfall_percent": 67.6
+    },
+    {
+      "sample": 19,
+      "declared_mg_per_unit": 14.4,
+      "declared_method": "BL-DMAC",
+      "mean_mg_per_unit": 13.92,
+      "sd_mg_per_unit": 0.28,
+      "source_percent_column": "96.67%",
+      "replicate_cv_percent_calculated": 2.01,
+      "measured_over_declared_percent": 96.67,
+      "shortfall_percent": 3.33
+    },
+    {
+      "sample": 20,
+      "declared_mg_per_unit": 54.0,
+      "declared_method": "BL-DMAC",
+      "mean_mg_per_unit": 32.91,
+      "sd_mg_per_unit": 0.91,
+      "source_percent_column": "60.94%",
+      "replicate_cv_percent_calculated": 2.77,
+      "measured_over_declared_percent": 60.94,
+      "shortfall_percent": 39.06
+    },
+    {
+      "sample": 21,
+      "declared_mg_per_unit": null,
+      "declared_method": null,
+      "mean_mg_per_unit": 0.38,
+      "sd_mg_per_unit": 0.02,
+      "source_percent_column": null,
+      "replicate_cv_percent_calculated": 5.26,
+      "measured_over_declared_percent": null,
+      "shortfall_percent": null
+    },
+    {
+      "sample": 22,
+      "declared_mg_per_unit": null,
+      "declared_method": null,
+      "mean_mg_per_unit": 17.12,
+      "sd_mg_per_unit": 0.63,
+      "source_percent_column": null,
+      "replicate_cv_percent_calculated": 3.68,
+      "measured_over_declared_percent": null,
+      "shortfall_percent": null
+    },
+    {
+      "sample": 23,
+      "declared_mg_per_unit": null,
+      "declared_method": null,
+      "mean_mg_per_unit": 0.28,
+      "sd_mg_per_unit": 0.02,
+      "source_percent_column": null,
+      "replicate_cv_percent_calculated": 7.14,
+      "measured_over_declared_percent": null,
+      "shortfall_percent": null
+    },
+    {
+      "sample": 24,
+      "declared_mg_per_unit": 36.0,
+      "declared_method": "BL-DMAC",
+      "mean_mg_per_unit": 37.17,
+      "sd_mg_per_unit": 1.53,
+      "source_percent_column": "103.25%",
+      "replicate_cv_percent_calculated": 4.12,
+      "measured_over_declared_percent": 103.25,
+      "shortfall_percent": -3.25
+    }
+  ]
+}
