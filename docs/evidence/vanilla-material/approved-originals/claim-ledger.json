@@ -1,0 +1,183 @@
+[
+  {
+    "claim_id": "C01",
+    "claim": "Powder ingredients: maltodextrin + vanilla bean extractives",
+    "source_ids": [
+      1
+    ],
+    "quote": "Maltodextrin, Vanilla Bean Extractives.",
+    "exact_quote_verified": true,
+    "scope": "Manufacturer declaration, not composition assay",
+    "applies_to": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C02",
+    "claim": "Grinder lists beans from Indonesia; cut pieces ground at use",
+    "source_ids": [
+      2
+    ],
+    "quote": "We cut them into smaller pieces and package them in the same grinder jar as our famous vanilla salt.",
+    "exact_quote_verified": true,
+    "scope": "Retail format; no bulk capability inferred",
+    "applies_to": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C03",
+    "claim": "Bulk powder page separates channels and offers bulk by pound",
+    "source_ids": [
+      1
+    ],
+    "quote": "Foodservice and Industrial\n\n- Bulk by the pound",
+    "exact_quote_verified": true,
+    "scope": "Observed channel listing; not supply availability",
+    "applies_to": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C04",
+    "claim": "Paste lists sugar, water, extract, seeds, gum",
+    "source_ids": [
+      4
+    ],
+    "quote": "Cane Sugar, Water, Vanilla Extract, Vanilla Bean Seeds, Gum Tragacanth (a natural thickener).",
+    "exact_quote_verified": true,
+    "scope": "Exact declared ingredients",
+    "applies_to": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C05",
+    "claim": "Seeds described as visual cue",
+    "source_ids": [
+      4
+    ],
+    "quote": "The vanilla bean seeds provide a luxurious visual cue to your creation",
+    "exact_quote_verified": true,
+    "scope": "Attributed positioning; not quantified aroma contribution",
+    "applies_to": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C06",
+    "claim": "US vanilla powder permits listed blending materials",
+    "source_ids": [
+      3
+    ],
+    "quote": "Vanilla powder is a mixture of ground vanilla beans or vanilla oleoresin or both, with one or more of the following optional blending ingredients:",
+    "exact_quote_verified": true,
+    "scope": "US standard only; no branded compliance ruling",
+    "applies_to": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C07",
+    "claim": "Powder minimum one unit per eight pounds",
+    "source_ids": [
+      3
+    ],
+    "quote": "Vanilla powder contains in each 8 pounds not less than one unit of vanilla constituent, as defined in § 169.3(c).",
+    "exact_quote_verified": true,
+    "scope": "Full eCFR retrieved; FP nodes included",
+    "applies_to": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C08",
+    "claim": "Extract minimum alcohol 35% v/v and unit per gallon",
+    "source_ids": [
+      3
+    ],
+    "quote": "In vanilla extract the content of ethyl alcohol is not less than 35 percent by volume and the content of vanilla constituent, as defined in § 169.3(c), is not less than one unit per gallon.",
+    "exact_quote_verified": true,
+    "scope": "Ingredient identity, not finished-product alcohol",
+    "applies_to": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C09",
+    "claim": "Fold for powder expressed per eight pounds",
+    "source_ids": [
+      3
+    ],
+    "quote": "expressing the number of units of vanilla constituent per 8 pounds of the article.",
+    "exact_quote_verified": true,
+    "scope": "Not gram-for-gram equivalence",
+    "applies_to": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C10",
+    "claim": "Vanilla-vanillin powder has distinct name/statement",
+    "source_ids": [
+      3
+    ],
+    "quote": "contains vanillin, an artificial flavor (or flavoring)",
+    "exact_quote_verified": true,
+    "scope": "Section 169.182; not general global natural-vanillin classification",
+    "applies_to": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C11",
+    "claim": "Maker says powder dissolves and substitutes by same measure",
+    "source_ids": [
+      1
+    ],
+    "quote": "Pure Vanilla Powder dissolves easily in liquids and can be substituted for liquid vanilla extract in the same measurement.",
+    "exact_quote_verified": true,
+    "scope": "No industrial performance or intersupplier conversion inferred",
+    "applies_to": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C12",
+    "claim": "Counterexample: carrier alone cannot identify flavor source",
+    "source_ids": [
+      1,
+      2
+    ],
+    "quote": "",
+    "exact_quote_verified": null,
+    "scope": "Editorial inference from two attributed declarations, not prevalence/fraud claim",
+    "applies_to": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C13",
+    "claim": "Compare at accepted use level, separate sensory/appearance, brief by material role",
+    "source_ids": [],
+    "quote": "",
+    "exact_quote_verified": null,
+    "scope": "Original editorial procurement recommendation; no trials/costs presented",
+    "applies_to": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  }
+]

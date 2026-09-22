@@ -1,0 +1,22 @@
+{
+  "claim-ledger.json": "741df12aaadda4d58e283ecae83b796995cf14ccf626f9f499dda4b0ed13e8ec",
+  "draft.en.md": "d5f192aa9163f65b7cc58acd40c05436a4ad5951302397a2d7be2818433d2ce3",
+  "draft.zh.md": "c6369106a9ac6fb5ed25f01d2a0e51ae4f502ef7324867a71fb7631e9c01406d",
+  "initial-retrieval.json": "83f5e7b706d698e80a417f7f3165a9a248bd472cb591f00fdb3e6dc092ffd557",
+  "ledger.json": "b018189973737b1810a299cf4da0cf8278873f6a73e53b798f40007dede04d29",
+  "retrieval-manifest.json": "48a2243887de54044568eed0253af87cc8aae7faa4933dcb09391c1513d5a293",
+  "retrieval.json": "42f9bac7d50ffcc6e3ec208f892b6f4670ffd03a6975ffaa828fc066ab4ae01e",
+  "source.md": "1e63cb78471aaba71fbee2a629defeed0f41d94c34a9bca864d90e148394f307",
+  "sources/ecfr-part169.txt": "926b8bade54afd39545a5372d35dbfb47d68973b96f7049e0cd5375a9bcda8f5",
+  "sources/ecfr-part169.xml": "d604d3e9c650b92952803e4dedf451af6f104f9a4d4f3d60f8060a1f03393fa7",
+  "sources/ecfr-title-status.json": "591aa1a711fa1be17c2d4e7c5c9bec44d179698a3d166cc5024e47d838970456",
+  "sources/retrieval-1.md": "9de75e9a8594f5a72a1cad2090b56a9a6e0bbfad155d8878a48faba37606980e",
+  "sources/retrieval-2.md": "c1dfbd2b7854114288c509dd5784d0ce2b966c95c205f6420c41d224e474f189",
+  "sources/retrieval-3.md": "7565e96d4a78bd24260f32fe79da568dabd44fbd98f4890bd373c9ff7dcf63f2",
+  "sources/retrieval-4.md": "c774b22656ba750ed6579a9303d3b7cf66ab8e089aa5814343b81adcc8154319",
+  "sources/retrieval-5.md": "0880142aa604b0cbb6278fe0ac5b57fa124cdcf423524df974cc4f971ad354d0",
+  "sources/source-1.html": "687113f964f7fbe9bfc5cd7a916933ca735bf86619ce284eb6e42251a636ed8f",
+  "sources/source-2.html": "736d159f0414a384c8606b635dad1a9ebdb426fd0bb80435abedae4ab7ea6b3a",
+  "sources/source-4.html": "047b135c89c0f8f1e45feedfda1352c74921f6eede8f4209fd1ecefac29ab17b",
+  "verification.json": "f5ebcad1e1601818a2852725fee18c5b36f140e26230f068104c09d2db2912dd"
+}

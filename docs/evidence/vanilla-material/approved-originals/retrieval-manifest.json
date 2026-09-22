@@ -1,0 +1,43 @@
+{
+  "retrieved_at_utc": "2026-09-22T09:13:37.596111+00:00",
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://nielsenmassey.com/products/pure-vanilla-powder-bulk-sizes/",
+      "status": 200,
+      "path": "/data/hermes/research/seo-growth/2026-09-22-midday-discovery/vanilla-material/sources/source-1.html",
+      "sha256": "687113f964f7fbe9bfc5cd7a916933ca735bf86619ce284eb6e42251a636ed8f",
+      "bytes": 202271
+    },
+    {
+      "id": 2,
+      "url": "https://www.singingdogvanilla.com/product/organic-ground-vanilla-bean-grinder",
+      "status": 200,
+      "path": "/data/hermes/research/seo-growth/2026-09-22-midday-discovery/vanilla-material/sources/source-2.html",
+      "sha256": "736d159f0414a384c8606b635dad1a9ebdb426fd0bb80435abedae4ab7ea6b3a",
+      "bytes": 255183
+    },
+    {
+      "id": 4,
+      "url": "https://nielsenmassey.com/products/pure-vanilla-bean-paste/",
+      "status": 200,
+      "path": "/data/hermes/research/seo-growth/2026-09-22-midday-discovery/vanilla-material/sources/source-4.html",
+      "sha256": "047b135c89c0f8f1e45feedfda1352c74921f6eede8f4209fd1ecefac29ab17b",
+      "bytes": 214345
+    },
+    {
+      "id": 3,
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-09-18/title-21.xml?part=169",
+      "status": 200,
+      "path": "/data/hermes/research/seo-growth/2026-09-22-midday-discovery/vanilla-material/sources/ecfr-part169.xml",
+      "sha256": "d604d3e9c650b92952803e4dedf451af6f104f9a4d4f3d60f8060a1f03393fa7",
+      "scope": "Full primary regulatory part; title status up_to_date_as_of 2026-09-18"
+    }
+  ],
+  "notes": [
+    "FDA accessdata returned shells only: excluded as evidence.",
+    "Product text extraction has mojibake; quoted ingredient strings unaffected.",
+    "Singing Dog page title 1.25 oz differs from description 1 oz: no pack-size inference in draft.",
+    "Manufacturer descriptions are attributed, not laboratory validation or certification verification."
+  ]
+}
