@@ -1,0 +1,403 @@
+Stability of electrostatically stabilized emulsions and its encapsulation of astaxanthin against environmental stresses: Effect of sodium caseinate-sugar beet pectin addition order
+
+Two addition orders, i.e., the layer-by-layer (L) and mixed biopolymer (M) orders, were used to generate sodium caseinate - sugar beet pectin electrostatically stabilized o/w emulsions with 0.5% oil and varying sodium caseinate: sugar beet pectin ratios (3:1–1:3) at pH 4.5. Emulsion stability against environmental stresses (i.e., pH, salt addition, thermal treatment, storage and in vitro simulated gastrointestinal digestion) and its astaxanthin encapsulation against degradation during storage and in vitro digestion were evaluated. Results indicated that a total biopolymer concentration of 0.5% was optimal, with the preferred sodium caseinate-sugar beet pectin ratios for L and M emulsions being 1:1 and 1:3, respectively. L emulsions generally exhibited smaller droplet diameters than M emulsions across all ratios, except at 1:3. Lowering the pH to 1.5 substantially reduced the net negative charge of all emulsions, with only L emulsions precipitating at pH 3. M emulsions showed greater tolerance to salt addition, remaining stable up to 500 mM sodium and calcium concentrations, whereas L emulsions destabilized at levels exceeding 50 mM and 30 mM, respectively. All emulsions were stable when heated at 37 °C or 90 °C for 30 min. Astaxanthin degradation rates increased with prolonged storage, reaching 61.66% and 54.08% by day 7 for L and M emulsions, respectively. Encapsulation efficiency of astaxanthin in freshly prepared M emulsions (86.85%) was significantly higher compared to L emulsions (72.82%). M emulsions had 30% and 25% higher encapsulation efficiency of astaxanthin than L emulsions after in vitro digestion for 120 min and 240 min respectively. This study offers suggestions for interface design and process optimization to improve the performance of protein-polysaccharide emulsion systems, such as in beverages and dairy products, as well as their delivery effect of bioactives.
+
+Graphical abstract
+
+Image 1
+
+Image 1
+
+Highlights
+
+•The optimum protein: polysaccharide ratio for layer-by-layer and mixed biopolymer emulsions was 1:1 and 1:3 respectively.•Precipitation only occurred in layer-by-layer emulsions at pH 3.•All emulsions were stable against thermal treatment.•M emulsions had a higher tolerance against acidity, sodium, calcium and in vitro digestion condition.•Astaxanthin was better protected against degradation and digestion in mixed biopolymer emulsions.
+
+The optimum protein: polysaccharide ratio for layer-by-layer and mixed biopolymer emulsions was 1:1 and 1:3 respectively.
+
+Precipitation only occurred in layer-by-layer emulsions at pH 3.
+
+All emulsions were stable against thermal treatment.
+
+M emulsions had a higher tolerance against acidity, sodium, calcium and in vitro digestion condition.
+
+Astaxanthin was better protected against degradation and digestion in mixed biopolymer emulsions.
+
+Keywords
+
+Introduction
+
+Astaxanthin is a fat-soluble carotenoid bioactive with many beneficial biological properties, such as antioxidant, anti-aging, anti-inflammation, immuno-modulation, anticancer, lipid-lowering and anti-diabetes effects (Liu et al., 2023; Sun et al., 2023, Sun et al., 2023). However, astaxanthin has poor water solubility and chemical instability due to the existence of its highly unsaturated structure, which leads to its susceptibility to physicochemical alteration during processing, storage, or in the gastrointestinal (GI) tract, resulting in restricted bioavailability and antioxidation application (Chen et al., 2022). Thus, it is crucial to find effective pathways to protect astaxanthin against degradation and further exert its potential benefits in nutritional interventions (Li et al., 2023).
+
+Natural, effective and stable emulsion-based systems capable of delivering hydrophobic bioactive ingredients (e.g., flavors, polyphenols, flavonoids, carotenoids, essential oils) have gained significant interest, especially in the food and pharmaceutical industries (Li et al., 2024; Niu et al., 2024; Pan et al., 2024; Xu et al., 2024). For the sake of fabricating such systems, current trends are to use renewable, sustainable and environmentally friendly biopolymers that not only function as emulsifiers but are also food-grade materials, such as proteins and polysaccharides (Boostani et al., 2024; Lee et al., 2024). The addition of polysaccharides to proteins to form complexes or coacervates has been recommended in numerous cases to overcome the shortcomings of these two biopolymers, since proteins are sensitive to a range of environmental stresses and polysaccharides commonly have poor emulsifying performance (Li et al., 2022, Li et al., 2022, Li et al., 2022; Ribeiro et al., 2021; Xie et al., 2023). There are versatile interactions possibly existing between proteins and polysaccharides, which are mostly electrostatic but also include hydrophobic, hydrogen bonding, van der Waals and covalent bonds (Ribeiro et al., 2021). The formation and performance of protein-polysaccharide complexes are determined by many other factors, including total biopolymer concentration, protein-polysaccharide ratio, pH, salt addition, temperature, as well as the physicochemical properties of proteins and polysaccharides (Devi et al., 2017; Nooshkam et al., 2023). Hence, the selection of biopolymers and process parameters is crucial in the structural design and functionality of protein-polysaccharide complexes, as well as the capability of the emulsion systems to deliver bioactive ingredients.
+
+Sodium caseinate is a widely employed emulsifier formed by the acidification of casein micelles (commonly from bovine milk) and subsequent neutralisation with sodium hydroxide, consisting of αS1-, αS2-, β-, and κ-caseins (Hu et al., 2024; Runthala et al., 2023). Although sodium caseinate has high surface activity, sodium caseinate stabilized emulsions are unstable under unfavourable environmental conditions, such as around the pI of sodium caseinate (pH 4.6), high salt addition, high temperature, high sodium caseinate concentration and so on (Ma and Chatterton, 2021). Pectin is a family of anionic plant polysaccharide usually combined with proteins to improve the stability of protein-stabilized emulsions (Liao et al., 2022; Yang et al., 2024). Compared to other pectins generally extracted from citrus and apple, sugar beet pectin is generated from the industrial waste—sugar beet pulp. Unlike most hydrophilic polysaccharides, sugar beet pectin has emulsifying activity due to a higher amount of hydrophobic moieties, including acetyl groups, protein and ferulic acid, which enable it to anchor itself to the oil droplet surface and lower the oil-water interfacial tension (Niu et al., 2023; Thirkield et al., 2022). As a result, the combination of sugar beet pectin and sodium caseinate can further improve emulsion stability through steric and electrostatic interactions (Juyang and Wolf, 2021; Li et al., 2013).
+
+The addition order of sodium caseinate and sugar beet pectin is vital for the emulsion stability against environmental stresses under food processing as well as its delivery performance of bioactives. There are two addition orders of sodium caseinate and sugar beet pectin to prepare multilayer emulsions (McClements and Jafari, 2018; Wusigale et al., 2020) (Fig. 1): (1) layer-by-layer (L) order, where a bilayer at the oil droplet surface is formed with the primary layer completely coated by sodium caseinate, followed by the adsorption of sugar beet pectin molecules onto sodium caseinate micelles through the electrostatic interaction; (2) mixed biopolymer (M) order, when sodium caseinate and sugar beet pectin electrostatic complexes are first formed in solution and then co-adsorb on the oil droplet surface. Jourdain (Jourdain et al., 2008) investigated that the effect of the two preparation methods on the stability of emulsions containing sodium caseinate and dextran sulfate (DS). They found that emulsion droplet films prepared by the M order had enhanced shear viscoelasticity compared to those manufactured by the L order, even at low DS levels. Apart from the influence of sodium caseinate-sugar beet pectin addition order, environmental stresses also affect the stability of sodium caseinate-sugar beet pectin electrostatically stabilized emulsions. For instance, Ca2+ ions strongly interact with the glutamic, aspartic, phosphorylated serine and phosphorylated threonine amino acid residues (sodium caseinate) or galacturonic acid residues (sugar beet pectin), thus promoting flocculation or aggregation of droplets in emulsions prepared with both biopolymers and exerting their effects on bioactive delivery (Lao et al., 2023; Roy et al., 2023). Nevertheless, there are few reports on the comparison between the two addition orders of sugar beet pectin-sodium caseinate in terms of resistance against environmental stresses as well as the influence on bioactive encapsulation of emulsions stabilized by electrostatic complexes. Thus, the purpose of the present study was to evaluate the impact of the addition order of sodium caseinate-sugar beet pectin on the physicochemical properties of emulsions under a series of environmental stresses, including pH, salt addition, thermal treatment and in vitro simulated digestion conditions, as well as its encapsulation of astaxanthin during storage and in vitro digestion. Emulsion samples prepared by the L and M orders were named L and M emulsions separately.Fig. 1Schematic illustration of possible interfacial structures of sodium caseinate-sugar beet pectin emulsion oil droplets: A. bilayer interface formed by lay-by-layer order; B. mixed interface formed by mixed biopolymer order.Fig. 1
+
+Fig. 1Schematic illustration of possible interfacial structures of sodium caseinate-sugar beet pectin emulsion oil droplets: A. bilayer interface formed by lay-by-layer order; B. mixed interface formed by mixed biopolymer order.Fig. 1
+
+Schematic illustration of possible interfacial structures of sodium caseinate-sugar beet pectin emulsion oil droplets: A. bilayer interface formed by lay-by-layer order; B. mixed interface formed by mixed biopolymer order.
+
+Materials and methods
+
+Materials
+
+Sugar beet pectin (Swiss BETA PECTIN) was generously provided by Schweizer Zucker AG (Frauenfeld, Switzerland). Sodium caseinate (BR, from bovine milk), citric acid monohydrate (GR), sodium citrate hydroxide (GR) and Florisil powder were sourced from Aladdin Biochemical Technology Co., Ltd. (Shanghai, China). Astaxanthin was originated from Jinshuo Fruit Co. Ltd. (Xi'an, China). Sodium chloride and anhydrous calcium chloride (AR) were supplied by Damao Chemical Reagent Factory (Tianjin, China). 1 M hydrogen chloride solution, 1 M sodium hydroxide solution, simulated gastric fluid (sterile, pH 1.5) and simulated intestinal fluid (sterile, pH 6.8) were purchased from Feijing Biotechnology Co., Ltd. (Fuzhou, China). Sodium azide was provided by Sigma-Aldrich Co., Ltd. (Shanghai, China). Sunflower seed oil (Fulinmen, COFCO Corporation, Anhui, China) was obtained from a local supermarket. Deionized water produced onsite was used throughout.
+
+Gastric fluid and stock solution preparation
+
+Simulated gastric fluid was prepared according to the manufacturer's instructions by dissolving 16.4 mL of 10% HCI and 10 g of pepsin in 1000 mL of water. Simulated intestinal fluid was prepared by dissolving 6.8 g of potassium dihydrogen phosphate and 10 g of pancreatin in 1000 mL of water, with adjusting the pH to 6.8 using 0.1 M NaOH.
+
+Stock solutions of sugar beet pectin were prepared in citrate buffer (pH 4.5), while stock solutions of sodium caseinate were prepared in water due to sodium caseinate precipitation around pH 4.6. Initially, a 0.1 M citrate buffer (pH 4.5) was prepared by mixing 20.5 mL of 0.1 M citric acid and 29.5 mL of 0.1 M sodium citrate with 50 mL of water on a magnetic stirrer at 500 rpm and 25 °C for 30 min. A 0.05 M citrate buffer (pH 4.5) was then prepared by diluting the 0.1 M citrate buffer with the appropriate amount of water. Solutions of 0.1%–2% sodium caseinate in water and 0.08%–2% sugar beet pectin in citrate buffer (pH 4.5), used in this study, were prepared by stirring at 500 rpm and 25 °C overnight to ensure complete hydration.
+
+Sodium azide (0.02%) was added to prevent microbial growth. All concentrations are provided on a weight-by-weight (w/w) basis unless otherwise stated.
+
+o/w emulsion preparation
+
+Initially, the total biopolymer concentration was optimized by investigating the effect of sole sodium caseinate or sugar beet pectin ratio on o/w emulsion stabilization. o/w emulsions were prepared by mixing 1 g of sunflower seed oil with 99 g of 0.1%, 0.2%, 0.5%, 1% or 2% sodium caseinate or sugar beet pectin solution using a high-shear blender (T25, IKA, Staufen, Germany) at 10,000 rpm for 3 min in an ice water bath to prevent the liquid overheating. The emulsions were stored at room temperature before analysis. A total biopolymer concentration of 0.5% in the water phase was selected for the preparation of o/w emulsions with 1% oil (discussed in Section 3.1). Subsequently, sodium caseinate-sugar beet pectin complex-stabilized emulsions were produced either through the layer-by-layer (L) or the mixed biopolymer (M) order as discussed below. The formulations of all o/w emulsions used in the study are shown in Table 1.Table 1Formulations of o/w emulsions.Table 1Oil (%)Water (%) ***Sodium caseinate (%)Sugar beet pectin (%)Sodium caseinate stabilized emulsions−0.1% sodium caseinate in water198.90.1–−0.2% sodium caseinate in water198.80.2–−0.5% sodium caseinate in water198.50.5–−1% sodium caseinate in water198.010.99–−2% sodium caseinate in water197.021.98–Sugar beet pectin stabilized emulsions−0.1% sugar beet pectin in citrate buffer (pH 4.5)198.9–0.1−0.2% sugar beet pectin in citrate buffer (pH 4.5)198.8–0.2−0.5% sugar beet pectin in citrate buffer (pH 4.5)198.5–0.5−1% sugar beet pectin in citrate buffer (pH 4.5)198.01–0.99−2% sugar beet pectin in citrate buffer (pH 4.5)197.02–1.98L emulsions-sodium caseinate: sugar beet pectin = 3:10.599.170.250.08-sodium caseinate: sugar beet pectin = 2:10.599.130.250.12-sodium caseinate: sugar beet pectin = 1:10.5990.250.25-sodium caseinate: sugar beet pectin = 1:20.598.750.250.5-sodium caseinate: sugar beet pectin = 1:30.598.510.250.74-environmental stress test (sodium caseinate: sugar beet pectin = 1:1)0.5990.250.25M emulsions-sodium caseinate: sugar beet pectin = 3:10.599.250.190.06-sodium caseinate: sugar beet pectin = 2:10.599.250.170.08-sodium caseinate: sugar beet pectin = 1:10.599.250.130.13-sodium caseinate: sugar beet pectin = 1:20.599.250.080.17-sodium caseinate: sugar beet pectin = 1:30.599.250.060.19-for environmental stress test (sodium caseinate: sugar beet pectin = 1:3)0.599.250.060.19*Water referred to deionized water or citrate buffer.**Amount of 1 M HCI or 1 M NaOH added for pH adjustment was neglected.
+
+Table 1Formulations of o/w emulsions.Table 1Oil (%)Water (%) ***Sodium caseinate (%)Sugar beet pectin (%)Sodium caseinate stabilized emulsions−0.1% sodium caseinate in water198.90.1–−0.2% sodium caseinate in water198.80.2–−0.5% sodium caseinate in water198.50.5–−1% sodium caseinate in water198.010.99–−2% sodium caseinate in water197.021.98–Sugar beet pectin stabilized emulsions−0.1% sugar beet pectin in citrate buffer (pH 4.5)198.9–0.1−0.2% sugar beet pectin in citrate buffer (pH 4.5)198.8–0.2−0.5% sugar beet pectin in citrate buffer (pH 4.5)198.5–0.5−1% sugar beet pectin in citrate buffer (pH 4.5)198.01–0.99−2% sugar beet pectin in citrate buffer (pH 4.5)197.02–1.98L emulsions-sodium caseinate: sugar beet pectin = 3:10.599.170.250.08-sodium caseinate: sugar beet pectin = 2:10.599.130.250.12-sodium caseinate: sugar beet pectin = 1:10.5990.250.25-sodium caseinate: sugar beet pectin = 1:20.598.750.250.5-sodium caseinate: sugar beet pectin = 1:30.598.510.250.74-environmental stress test (sodium caseinate: sugar beet pectin = 1:1)0.5990.250.25M emulsions-sodium caseinate: sugar beet pectin = 3:10.599.250.190.06-sodium caseinate: sugar beet pectin = 2:10.599.250.170.08-sodium caseinate: sugar beet pectin = 1:10.599.250.130.13-sodium caseinate: sugar beet pectin = 1:20.599.250.080.17-sodium caseinate: sugar beet pectin = 1:30.599.250.060.19-for environmental stress test (sodium caseinate: sugar beet pectin = 1:3)0.599.250.060.19*Water referred to deionized water or citrate buffer.**Amount of 1 M HCI or 1 M NaOH added for pH adjustment was neglected.
+
+Formulations of o/w emulsions.
+
+0.1% sodium caseinate in water
+
+0.2% sodium caseinate in water
+
+0.5% sodium caseinate in water
+
+1% sodium caseinate in water
+
+2% sodium caseinate in water
+
+0.1% sugar beet pectin in citrate buffer (pH 4.5)
+
+0.2% sugar beet pectin in citrate buffer (pH 4.5)
+
+0.5% sugar beet pectin in citrate buffer (pH 4.5)
+
+1% sugar beet pectin in citrate buffer (pH 4.5)
+
+2% sugar beet pectin in citrate buffer (pH 4.5)
+
+sodium caseinate: sugar beet pectin = 3:1
+
+sodium caseinate: sugar beet pectin = 2:1
+
+sodium caseinate: sugar beet pectin = 1:1
+
+sodium caseinate: sugar beet pectin = 1:2
+
+sodium caseinate: sugar beet pectin = 1:3
+
+environmental stress test (sodium caseinate: sugar beet pectin = 1:1)
+
+sodium caseinate: sugar beet pectin = 3:1
+
+sodium caseinate: sugar beet pectin = 2:1
+
+sodium caseinate: sugar beet pectin = 1:1
+
+sodium caseinate: sugar beet pectin = 1:2
+
+sodium caseinate: sugar beet pectin = 1:3
+
+for environmental stress test (sodium caseinate: sugar beet pectin = 1:3)
+
+*Water referred to deionized water or citrate buffer.
+
+**Amount of 1 M HCI or 1 M NaOH added for pH adjustment was neglected.
+
+L emulsions
+
+L emulsions were prepared according to Cheng (Cheng and McClements, 2016) with modifications. Firstly, the primary o/w emulsion was prepared by mixing 1 g of sunflower seed oil with 99 g of 0.5% sodium caseinate stock solution using a high-shear blender (T25, IKA, Staufen, Germany) at 10,000 rpm for 3 min in an ice water bath to prevent overheating. The secondary emulsion was then formed by mixing the primary emulsion with sugar beet pectin stock solution at sodium caseinate: sugar beet pectin ratios of 1:1 1:3, 1:2, 1:1, 2:1 and 3:1 to achieve a final total oil content of 0.5%. The pH was adjusted to 4.5 by adding 1 M HCI or 1 M NaOH and stirred at 500 rpm and 20 °C for at least 6 h to ensure complete formation of sodium caseinate-sugar beet pectin electrostatic complexes. Preliminary tests showed that the 6 h stirring process did not affect the microstructure of the emulsion droplets.
+
+M emulsions
+
+M emulsions were prepared based on Zhang (Zhang and Wolf, 2019) with modifications. Initially, sodium caseinate-sugar beet pectin electrostatic complexes were formed by mixing 1% sodium caseinate stock solution with 1% sugar beet pectin stock solution at ratios of 3:1, 2:1, 1:1, 1:2 and 1:3, at a total biopolymer content of 0.5%. The pH was adjusted to 4.5 by adding 1 M HCI or 1 M NaOH and stirred at 500 rpm and 20 °C for at least 6 h. The o/w emulsion was then prepared by mixing 1 g of sunflower seed oil with 99 g of sodium caseinate-sugar beet pectin complex solution using a high-shear blender (T25, IKA, Staufen, Germany) at 10,000 rpm for 3 min in an ice water bath. Emulsions were diluted with citrate buffer (0.05 M, pH 4.5) to achieve the same final oil droplet concentration of 0.5% as L emulsions and stirred at 300 rpm for 1 h to ensure complete homogeneity with the pH of emulsions adjusted to 4.5 before analysis.
+
+Environmental stress test
+
+Freshly prepared L and M emulsions at the optimal sodium caseinate: sugar beet pectin ratio of 1:1 and 1:3, respectively (discussed in Section 3.1), were subjected to the following environmental stress test.
+
+pH
+
+The pH of all emulsions was adjusted to 1.5, 3, 4.5, 7 and 8 using 1 M HCI and 1 M NaOH while mixing.
+
+Salt addition
+
+To investigate the effects of NaCl or CaCl2 concentrations (0, 5, 10, 20, 30, 50, 100, 500 mM) on emulsion properties, appropriate amounts of NaCl or CaCl2 were added to emulsions before stirring at 300 rpm for 1 h to ensure complete homogeneity.
+
+Thermal treatment
+
+Emulsions were transferred into glass test tubes and incubated in a water bath at 37 °C or 90 °C for 0, 5, 10, 20 and 30 min separately.
+
+Storage time
+
+Emulsions were transferred into glass test tubes and stored at room temperature for up to 7 days.
+
+In vitro simulated gastrointestinal digestion
+
+4 mL of o/w emulsion were transferred into a glass test tube, diluted with gastric fluid (1:1), and mixed at 100 rpm and 37 °C for 2 h. The samples after simulating gastric digestion were diluted with intestinal fluid (1:1) and mixed at 100 rpm and 37 °C for another 2 h.
+
+Analytical methods
+
+Analysis was immediately carried out after sample preparation.
+
+Microstructure
+
+The microstructure of o/w emulsions was visualized using an epifluorescence microscope (CKX53, Olympus Co., Japan) operated in bright field illumination mode. Slides were prepared by pipetting a few drops of emulsion onto a glass slide followed by carefully placing a glass cover slip. At least three randomly selected areas of each slide were imaged at various magnification ( × 40, x100, x200, x400 objective).
+
+Droplet size determination
+
+Droplet size distribution was analyzed using a laser diffraction particle size analyzer (BT-9300S, Baite Instrument Co., Ltd., Dandong, China) at 20 °C. The dispersion cell was filled with deionized water as the dispersing medium. The refractive indices of the dispersion medium (water) and the dispersed phase (oil) were set to 1.33 and 1.47, respectively. The absorption value of the dispersed phase was set to zero. Results are presented as droplet size distribution and De Brouckere, volume-weighted mean diameter (d4,3).
+
+ζ potential Measurement
+
+To avoid multiple scattering effects, emulsions were diluted to attain an oil-phase volume fraction of approximately 0.04% w/w using deionized water before loading into a cuvette. ζ potential was measured using a particle electrophoresis instrument (Nano ZS, Malvern Instruments, UK) at 20 °C.
+
+Interfacial tension and interfacial shear rheology
+
+Sunflower seed oil was purified from surface active impurities by mixing with Florisil powder (25:1, v/w) for 30 min followed by centrifugation at 2880g for 30 min. The supernatant was recovered and stored at 20 °C until use. Solutions containing sodium caseinate at pH 7, 1:1 sodium caseinate: sugar beet pectin and 1:3 sodium caseinate: sugar beet pectin at pH 4.5 with a total biopolymer concentration at 0.5% (same as used for L and M emulsions except for the interference with oil) were used to evaluate the dynamic interfacial tension with purified sunflower seed oil. Interfacial tension was measured at 20 ± 1 °C using the pendant drop method in a tensiometer (KRUSS DSAeco Plus, German) with an individual test duration of 3600 s.
+
+Interfacial shear rheological properties were studied according to Ilyin (Ilyin and Kulichikhin, 2015) with modifications using a rheometer (Physica MCR 301, Anton Paar, Australia) equipped with a bicone arrangement (d = 68.28 mm, α = 2 × 5°) placed in a cylindrical cell (d = 80 mm) at the boundary between sunflower oil and water. The water phase was identical to that used for L and M emulsions except for the interference with oil. A 0.2% pepsin solution in water was prepared by stirring at 500 rpm and 25 °C for 1 h. In some experiments, the pepsin solution was added to the top of the water phase using a syringe, resulting in a final pepsin concentration in the bulk phase (including water) of 0.05 mg/mL before adding the oil phase on top. Enzymatic treatment was conducted continuously throughout the experiment. Prior to the frequency sweep test, an oscillatory strain sweep test with a strain range of 0.01–10% was performed to confirm the linear viscoelastic condition of the strain. The frequency sweep test was conducted in oscillation mode with a fixed strain of 0.5%, which is within the linear viscoelasticity region, and an angular frequency range of 0.1–100 rad/s to determine the storage modulus (G′) and loss modulus (G″) of interface's rheological response. The viscosity of the interface was determined at a shear rate of 0.1–1000 s−1. The temperature for all experiments was maintained at 25 °C.
+
+Encapsulation efficiency of astaxanthin
+
+Astaxanthin was dissolved in the oil phase at 20 mg/mL and stirred for 12 h in the dark. Then sodium caseinate-sugar beet pectin stabilized o/w emulsions containing astaxanthin by L or M order were prepared based on Sections 2.3.1, 2.3.2, respectively. The astaxanthin content in o/w emulsions was determined following the method of Yu (Yu et al., 2022). In brief, 2 mL of o/w emulsion was mixed with an equal amount of dilution medium (25% ethanol and 0.5% Tween 80 in water) before centrifugation at 4000 rpm for 10 min at 4 °C. The bottom part of the centrifuge tube representing unencapsulated astaxanthin was diluted with a mixture of dichloromethane and methanol (1:1, v/v). The amount of unencapsulated astaxanthin was measured using a multimode microplate reader (Synergy H1, BioTek Instruments, Inc., US) at 478 nm with the dichloromethane and methanol (1:1, v/v) solution as a control. Standard astaxanthin solutions were prepared with different concentrations of astaxanthin in a dichloromethane and methanol (1:1, v/v) solution. Standard calibration curves showing absorbance at 478 nm as a function of astaxanthin concentration from standard astaxanthin solutions are presented in Fig. S1 in the Appendix. The relationships were found to be linear and repeatable. The encapsulation efficiency (EE%) of astaxanthin was calculated using the following equation:Eq.1EE(%)=A0−A1A0where A1 refers to the amount of unencapsulated astaxanthin in the oil phase and A0 represents the amount of astaxanthin added to the o/w emulsions.
+
+Attenuation rate of astaxanthin
+
+According to the method described by Yu (Yu et al., 2022), astaxanthin-enriched o/w emulsions were stored under room temperature and light conditions for varying durations (0, 1, 2, 3, 4, 5, 6 and 7 days) to determine the attenuation rates of astaxanthin. o/w emulsion was vigorously shaken after adding dichloromethane: methanol (1:1) as a solvent for the astaxanthin extraction, followed by ultrasonicating for 10 min and centrifugation at 8000g for 10 min. The concentration of astaxanthin was determined according to the method described in Section 2.5.5. The attenuation rate of astaxanthin was calculated using the following equation:Eq.2Attenuationrate(%)=C0−C1C0where C0 represents the concentration of astaxanthin on day 0 and C1 refers to the concentration of astaxanthin on the day of measurement.
+
+Statistical analysis
+
+Measurements were performed in triplicate, and results were reported as means ± standard deviations using Excel (Microsoft, USA). Data were statistically analyzed for significant differences (P < 0.05) using one-way analysis of variance (ANOVA) followed by Duncan's test conducted with SPSS Statistics 23 software (IBM, USA).
+
+Results and discussion
+
+Effect of biopolymer ratio on emulsion properties
+
+Initially, the total biopolymer concentration required to stabilize emulsions (1% w/w oil) using sodium caseinate and sugar beet pectin as sole emulsifiers was determined. It should be noted that the effectiveness of sole sodium caseinate at neutral pH was evaluated due to the flocculation of sodium caseinate-coated droplets near the isoelectric point (pI) of sodium caseinate at pH 4.6 (Ma and Chatterton, 2021). For sole sodium caseinate, d4,3 remained unchanged as the sodium caseinate concentration increased from 0.1% to 0.2%, decreased progressively from 0.2% to 0.5%, and then increased from 0.5% to 2%, indicating that caseinate micelles sufficiently covered the oil droplet surface at 0.5% sodium caseinate (Fig. 2A). ζ potential of sodium caseinate-stabilized emulsions became more negative with the increasing protein concentration from 0.1% to 0.5%, but remained unchanged from 0.5% to 1%, suggesting saturation of sodium caseinate micelles adsorbed on the droplet surface at 0.5% sodium caseinate. Oil droplets showed reduced negative charge from 1% to 2% sodium caseinate (Fig. 2B), possibly due to the presence of a certain amount of non-adsorbed caseinate micelles as previously observed (Urbánková et al., 2019). The smallest d4,3 of 3.59 μm (Fig. 2A) and the highest ζ potential of −32.89 mV (Fig. 2B) were observed at 0.5% sodium caseinate. For sole sugar beet pectin, d4,3 decreased from 0.1% to 0.2% sugar beet pectin, and remained constant from 0.5% to 2% (Fig. 2A), which is consistent with the previous literature (Bindereif et al., 2022). ζ potential of sugar beet pectin-stabilized emulsions showed no difference from 0.1% to 1% sugar beet pectin and became less negative from 1% to 2% sugar beet pectin (Fig. 2B). The smallest d4,3 of 5.31 μm (Fig. 2A) and the highest ζ potential of −29.98 mV (Fig. 2B) were observed at 0.5% sugar beet pectin. Based on these results with emulsions stabilized by sole sodium caseinate and sugar beet pectin as the emulsifier, a total biopolymer concentration of 0.5% w/w was chosen for preparing sodium caseinate and sugar beet pectin mixed emulsions.Fig. 2Effect of sole sodium caseinate or sugar beet pectin concentration on A) d4,3 and B) ζ potential of emulsions. The different letters (a–e) represent significant differences among samples (P < 0.05).Fig. 2
+
+Fig. 2Effect of sole sodium caseinate or sugar beet pectin concentration on A) d4,3 and B) ζ potential of emulsions. The different letters (a–e) represent significant differences among samples (P < 0.05).Fig. 2
+
+Effect of sole sodium caseinate or sugar beet pectin concentration on A) d4,3 and B) ζ potential of emulsions. The different letters (a–e) represent significant differences among samples (P < 0.05).
+
+For o/w emulsions containing both sodium caseinate and sugar beet pectin, the droplet size distributions of L (Fig. 3A) and M emulsions (Fig. 3B) at different sodium caseinate: sugar beet pectin ratios were approximately multimodal with three populations of dispersed oil droplets around 1 μm, 4 μm and 20 μm, respectively. In L emulsions, the highest peak in droplet population was observed at 4 μm, indicating that most droplets had this diameter. Droplet size distributions differed primarily in the height of the peaks of these three droplet populations. The lowest peak in the 20 μm droplet population, along with the highest peaks in the populations around 1 and 4 μm, was observed at a sodium caseinate to sugar beet pectin ratio of 1:1. This consistency with d4,3 and ζ potential results showed that L emulsions prepared at a sodium caseinate: sugar beet pectin ratio of 1:1 had the smallest d4,3 of 3.55 μm (Fig. 3C) and the highest ζ potential of −27.73 mV (Fig. 3D). Previous reports indicated that sodium caseinate to pectin ratios ≤1:1 were necessary to prepare stable L emulsions under acidic conditions (pH 3 to 5), as this concentration range of pectin molecules sufficiently saturates the sodium caseinate-coated oil droplet surface (Cheng and McClements, 2016; Kartal et al., 2017). At other sodium caseinate: sugar beet pectin concentrations of L emulsions (i.e., 3:1, 2:1, 1:2, 1:3, Fig. 3A), there was an increase in the 20 μm droplet population peak and a decrease in the other two populations, contributing to mild increases in d4,3 (Fig. 3C). ζ potential of L emulsions became gradually more negative with increasing sugar beet pectin level (Fig. 3D), indicating more sugar beet pectin adsorption on the sodium caseinate layer, which is consistent with the previous literature (Qiu et al., 2015). Given that sodium caseinate has a positive charge at pH 4.5, the overall negative charge of emulsion droplets was influenced by the anionic carboxylic groups (−COO−) in sugar beet pectin molecules after neutralizing the cationic amino groups (−NH3+) on sodium caseinate micelles (Zhang et al., 2024). Hence, it was expected that emulsions would exhibit a more negative charge with increasing levels of sugar beet pectin molecules adsorbed onto the oil droplet surface until saturation was reached 1:1, after which the charge remained unchanged, possibly due to excess sugar beet pectin molecules in the continuous aqueous phase rather than adsorbed onto sodium caseinate.Fig. 3Effect of sodium caseinate-sugar beet pectin ratio on A-B) droplet size distribution, C) d4,3 and D) ζ potential of emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. E) Effect of sodium caseinate-sugar beet pectin ratio on interfacial tension at the oil/water interface. The different letters (a–d) represent significant differences among samples (P < 0.05).Fig. 3
+
+Fig. 3Effect of sodium caseinate-sugar beet pectin ratio on A-B) droplet size distribution, C) d4,3 and D) ζ potential of emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. E) Effect of sodium caseinate-sugar beet pectin ratio on interfacial tension at the oil/water interface. The different letters (a–d) represent significant differences among samples (P < 0.05).Fig. 3
+
+Effect of sodium caseinate-sugar beet pectin ratio on A-B) droplet size distribution, C) d4,3 and D) ζ potential of emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. E) Effect of sodium caseinate-sugar beet pectin ratio on interfacial tension at the oil/water interface. The different letters (a–d) represent significant differences among samples (P < 0.05).
+
+In M emulsions, the droplet size distribution at sodium caseinate: sugar beet pectin ratio from 3:1 to 1:2 showed no difference (Fig. 3B), consistent with the unchanged d4,3 (Fig. 3C) and ζ potential (Fig. 3D). Within this sodium caseinate: sugar beet pectin ratio range, M emulsions exhibited the highest peak in the 20 μm droplet population, indicating that most droplets were around 20 μm (Fig. 3B), which was confirmed by microscopic observation (Fig. 4B). Nonetheless, at a sodium caseinate: sugar beet pectin ratio of 1:3, droplets showed the highest peak in the 4 μm population (Fig. 3B), along with the smallest d4,3 of 3.98 μm (Fig. 3C) and the highest ζ potential of −28.23 mV (Fig. 3D). Similar findings were reported by Li (Li et al., 2013), where M emulsions prepared at a sodium caseinate: pectin ratio of 1:4 with 1.5% pectin–sodium caseinate complexes and 15% medium-chain triglyceride at pH 4.5 exhibited smaller d4,3 and greater stability over 7 days compared to those at a sodium caseinate: pectin ratio of 1:2, suggesting that a higher concentration of pectin was necessary to fully cover sodium caseinate-stabilized oil droplets against bridging flocculation, coalescence and self-aggregation. Ke (Ke et al., 2024) reported that ζ potential of CS-Chayote pectin (mixing ratio was 1:1) emulsion prepared by the M order at pH 4 was −20.40 mV, which was responsible by the electrostatic attraction between the pectin molecule and CS causing the pectin to adsorb to the surface of the emulsion oil droplets. It should be noted that d4,3 and ζ potential of M emulsion droplets prepared at a sodium caseinate: sugar beet pectin ratio of 1:4 were also measured, yielding 6.72 μm and −22.63 mV individually (data not shown), indicating larger droplet diameter and lower ζ potential compared to those at a sodium caseinate: sugar beet pectin ratio of 1:3. This suggests that a solution containing 0.125% sodium caseinate combined with 0.375% sugar beet pectin was sufficient to saturate the surface of M emulsion oil droplets. Both low and high levels of sugar beet pectin resulted in larger droplet diameters of M emulsions, possibly due to unabsorbed sugar beet pectin molecules causing bridging or depletion flocculation (Ma and Chatterton, 2021; Wusigale et al., 2020). Therefore, sodium caseinate: sugar beet pectin ratios of 1:1 and 1:3 were selected for individual production of L emulsions and M emulsions respectively for subsequent environmental stress tests.Fig. 4Effect of sodium caseinate-sugar beet pectin ratio, pH, salt addition and thermal treatment on the microstructure of emulsions prepared by: A) layer-by-layer (L) order; B) mixed biopolymer (M) order. Red circles referred to droplet flocculation. Scale bar is 20 μm. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)Fig. 4
+
+Fig. 4Effect of sodium caseinate-sugar beet pectin ratio, pH, salt addition and thermal treatment on the microstructure of emulsions prepared by: A) layer-by-layer (L) order; B) mixed biopolymer (M) order. Red circles referred to droplet flocculation. Scale bar is 20 μm. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)Fig. 4
+
+Effect of sodium caseinate-sugar beet pectin ratio, pH, salt addition and thermal treatment on the microstructure of emulsions prepared by: A) layer-by-layer (L) order; B) mixed biopolymer (M) order. Red circles referred to droplet flocculation. Scale bar is 20 μm. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)
+
+Notably, smaller d4,3 values of L emulsions were observed at sodium caseinate: sugar beet pectin ratios from 3:1 to 1:2 compared to M emulsions (Fig. 3C), which was consistent with higher ζ potential values of L emulsions than M emulsions at all sodium caseinate: sugar beet pectin ratios except 1:3 (Fig. 3D). As shown in Fig. 3E, sole sodium caseinate was more effective in reducing oil-water interfacial tension compared to sodium caseinate-sugar beet pectin complexes, resulting in equilibrium interfacial tensions of 14.31 mN/m for sodium caseinate at pH 7, 16.49 mN/m for 1:1 sodium caseinate: sugar beet pectin at pH 4.5 and 19.32 mN/m for 1:3 sodium caseinate: sugar beet pectin at pH 4.5. This difference could be attributed to the variation in the addition order (Fig. 1), where L order initially using sodium caseinate instead of sodium caseinate-sugar beet pectin complex in M order led to lower oil-water interfacial tension during homogenization, thereby resulting in smaller droplet diameters. However, d4,3 of oil droplets in M emulsions at the sodium caseinate: sugar beet pectin ratio of 1:3 was equivalent to that of L emulsions at all ratios (Fig. 3C). Since 0.125% sodium caseinate alone was not sufficient to cover the oil droplet surface (Fig. 2), it can be speculated that sugar beet pectin co-adsorbed on the droplet surface with sodium caseinate at a 1:3 ratio to stabilize oil droplets and achieve a similar droplet diameter as with 0.5% sole sodium caseinate, owing to the sugar beet pectin's emulsifying properties (Bai et al., 2017). Moreover, excessive sugar beet pectin molecules in the continuous aqueous phase of M emulsions might also contribute to preventing oil droplets from approaching each other by forming a viscous network and reducing droplet (Einhorn-Stoll et al., 2021).
+
+All emulsions freshly prepared at pH 4.5 with varying sodium caseinate: sugar beet pectin ratios from 3: 1 to 1: 3 were stable against flocculation under microscopy (Fig. 4) and did not show phase separation upon visual observation. This suggested that sugar beet pectin electrostatically interacted with sodium caseinate micelles due to their net opposite surface charges, inhibiting oil droplet flocculation, which occurred in emulsions coated solely with sodium caseinate prepared at pH 4.5 in preliminary experiments. Previous research has indicated that enhancing sodium caseinate-stabilized emulsion stability with the addition of pectin at low pH is due to increased electrostatic and steric repulsion and reduced van der Waals attraction between droplets (Ardestani et al., 2022).
+
+Effect of pH on emulsion properties
+
+Evaluating emulsion stability at varying pH levels is essential for practical applications, such as pH-induced vehicles for bioactive protection or release. For L emulsions, pronounced flocculation of oil droplets was observed at pH 3, although no significant difference in microstructure was observed at other pH values (Fig. 4A). This could be attributed to the protonation of carboxylic groups on the pectin backbone at very low pH (<3.5), reducing the charge density of the pectin chain and weakening sugar beet pectin molecules adsorption onto the sodium caseinate layer's electrostatic interactions (Wusigale et al., 2020). At pH below 2, electrostatic interaction between sodium caseinate and sugar beet pectin was negligible due to complete protonation of pectin resulting in a net zero surface charge of pectin (Guo et al., 2016). However, insoluble sodium caseinate-sugar beet pectin complexes dissociated around pH 1.6 eliminating flocculation observed at pH 1.5 (Fig. 4A). There was no dramatic change in droplet size distribution (Fig. 5A) or d4,3 (Fig. 5C) of L emulsions across the tested pH range, suggesting reversible flocculation of oil droplets at pH 3, which could be disrupted by gentle stirring during particle size measurement. Nevertheless, ζ potential of L emulsion droplets became less negative from pH 4.5 to 1.5 (Fig. 5D). Cheng (Cheng and McClements, 2016) also reported decreasing ζ potential of L emulsions with decreasing pH from 5 to 3, attributed to increased positive charge on the sodium caseinate layer and decreased negative charge on pectin molecules in the outer layer. At pH 1.5, the positive charge on oil droplets was likely from the positively charged sodium caseinate layer, as sugar beet pectin tends to be neutral below pH 2. ζ potential of L emulsions remained unchanged at pH 4.5 to 8 (Fig. 5D). It has been reported that above pH 4.6, both sodium caseinate and sugar beet pectin are negatively charged, resulting in electrostatic repulsion between them being dominant (Qiu et al., 2015). Thus, charge density of L emulsion droplets at pH 7 and 8 was attributed to the sodium caseinate layer, with likely absence of sugar beet pectin in the external aqueous phase adsorbed on sodium caseinate.Fig. 5Effect of pH on A-B) droplet size distribution, C) d4,3 and D) ζ potential of emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. The different letters (a–e) represent significant differences among samples (P < 0.05).Fig. 5
+
+Fig. 5Effect of pH on A-B) droplet size distribution, C) d4,3 and D) ζ potential of emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. The different letters (a–e) represent significant differences among samples (P < 0.05).Fig. 5
+
+Effect of pH on A-B) droplet size distribution, C) d4,3 and D) ζ potential of emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. The different letters (a–e) represent significant differences among samples (P < 0.05).
+
+For M emulsions, there was no notable difference in microstructure at different pH values (Fig. 3B). Compared to pH 3 and 4.5, an increase in the peak of 4 μm population and a decrease in the peak of 20 μm population were observed at pH 7 and 8 (Fig. 5B). Additionally, d4,3 at pH 8 was significantly smaller than that at pH 3 (Fig. 5C), possibly due to enhanced solubility of sodium caseinate micelles at pH 7 and 8 facilitating sodium caseinate adsorption at the oil-water interface and/or co-adsorption of sugar beet pectin molecules on droplet surfaces. ζ potential of M emulsion droplets at other pH values was less negative than that at pH 4.5 (Fig. 5D). Since pectin cannot electrostatically adsorb onto adsorbed sodium caseinate layer at neutral pH (Liao et al., 2022), there may be less sugar beet pectin coating on emulsion droplet interface due to its weak emulsification properties, resulting in the reduced negative charge of emulsions.
+
+Effect of salt addition on emulsion properties
+
+It is common practice to add salts to improve the taste of emulsion-based food products, which affects the charge intensity and performance of colloid systems. To examine the tolerance against salt addition, sodium caseinate-sugar beet pectin emulsions were allowed to settle, and their colour and transparency were assessed visually across a range of NaCl or CaCl2 concentrations from 0 to 500 mM. M emulsions appeared cloudy at all salt levels, while L emulsions precipitated once the concentration of NaCl or CaCl2 exceeded 50 or 30 mM, respectively. It was generally concluded that M emulsions exhibited higher salt tolerance compared to L emulsions, hence the maximum tested salt concentration was based on these tolerance limits.
+
+The microstructure (Fig. 4), droplet size distribution and d4,3 (Fig. 6A) of L and M emulsions across the tested sodium concentrations were consistent. In contrast, oil droplets flocculated when the calcium concentration exceeded 30 mM and 100 mM for L and M emulsions, respectively (Fig. 4), although there was no notable difference in droplet size distribution and d4,3 regardless of the calcium concentration (Fig. 6B). This suggests that oil droplet aggregation below a certain calcium strength was reversible. ζ potential of all emulsions decreased with increasing salt addition, with a more rapidly decline observed for calcium (Fig. 6B) compared to sodium (Fig. 6A). Chen (Chen et al., 2018) reported that the droplet diameter of the bovine serum albumin(BSA)-sugar beet pectin-stabilized emulsions prepared by the M order at a BSA:sugar beet pectin ratio of 4:1 increased significantly after the addition of NaCl and CaCl2 at 200 and 20 mmol/L respectively, attributed to the electrostatic screening to reduce the repulsive interactions between droplets. The lower tolerance of emulsions to calcium could be attributed to strong interactions between sugar beet pectin and calcium ions, where ionic linkages via calcium bridges form between pairs of carboxyl groups from two approaching pectin chains (Chandel et al., 2022). This weakens electrostatic attraction and can cause segments of pectin molecules to detach from one droplet and attach to another, promoting bridging flocculation (Cheng and McClements, 2016; Yao et al., 2016). Given the higher concentration of sugar beet pectin molecules in M emulsions compared to L emulsions, despite most being present in the continuous aqueous phase, it is inferred that a higher calcium level is needed to facilitate droplet aggregation and flocculation in M emulsions.Fig. 6Effect of A) NaCl or B) CaCl2 addition on droplet size distribution, d4,3 and ζ potential of emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. The different letters (a–c) represent significant differences among samples (P < 0.05).Fig. 6
+
+Fig. 6Effect of A) NaCl or B) CaCl2 addition on droplet size distribution, d4,3 and ζ potential of emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. The different letters (a–c) represent significant differences among samples (P < 0.05).Fig. 6
+
+Effect of A) NaCl or B) CaCl2 addition on droplet size distribution, d4,3 and ζ potential of emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. The different letters (a–c) represent significant differences among samples (P < 0.05).
+
+Effect of thermal treatment on emulsion properties
+
+Thermal treatments, such as pasteurization or sterilization, are routine methods to achieve desirable shelf life in commercial beverage products. After treatments at 37 °C (Fig. 7A) or 90 °C (Fig. 7B) for 30 min, there were no significant differences in droplet size distribution, d4,3, ζ potential and microstructure (Fig. 4) regardless of addition order, treatment temperature, or duration. This indicates that emulsions, regardless of preparation method, were stable against thermal treatments, which is crucial for commercial applications. Cheng (Cheng and McClements, 2016) also reported that L emulsions prepared at pH 3–5 were stable when heated to 90 °C for 30 min, attributed to strong electrostatic and steric repulsion between oil droplets coated by sodium caseinate-pectin complexes (Niu et al., 2015). Cao (Cao et al., 2024) found that the hydrophobic and electrostatic interactions between soybean whey protein and gum Arabic increased protein structure stability and thermal resistance of the electrostatic complex. Emulsion stability may be correlated not only with sodium caseinate-sugar beet pectin interactions but also with the robustness of the sodium caseinate-adsorbed interface against thermal treatments. It has been demonstrated that droplet diameter and ζ potential of sodium caseinate-stabilized d-limonene nanoemulsions remained unchanged at 50–90 °C for 1 h, indicating the stable structure of the sodium caseinate layer under these thermal conditions (Qi et al., 2022).Fig. 7Effect of thermal treatment at A) 37 or B) 90 °C on droplet size distribution, d4,3 and ζ potential of emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. The different letters (a–e) represent significant differences among samples (P < 0.05).Fig. 7
+
+Fig. 7Effect of thermal treatment at A) 37 or B) 90 °C on droplet size distribution, d4,3 and ζ potential of emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. The different letters (a–e) represent significant differences among samples (P < 0.05).Fig. 7
+
+Effect of thermal treatment at A) 37 or B) 90 °C on droplet size distribution, d4,3 and ζ potential of emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. The different letters (a–e) represent significant differences among samples (P < 0.05).
+
+Influence of In vitro gastrointestinal digestion on emulsion stability and astaxanthin encapsulation
+
+For L emulsions, a dramatic increase in droplet diameter was observed in the microstructure pictures after gastrointestinal digestion, as shown in Fig. 8A. After 120 min of digestion in simulated gastric fluid, the population of 3 μm emulsion droplets decreased, while the population of 20 μm droplets increased compared to the undigested emulsions (Fig. 8A). After 240 min (i.e., 120 min of intestinal digestion following 120 min of gastric digestion), the peak population shifted to 100 μm droplets, with reductions in the populations of 3 μm and 20 μm droplets compared to after 120 min of digestion. d4,3 of L emulsions significantly increased during the digestion process (Fig. 8C), indicating that small droplets grew into larger ones under digestive conditions. This growth may be due to smaller droplets having a larger surface area, making them more susceptible to pepsin action, which leads to proteolysis of the primary sodium caseinate layer and subsequent droplet coalescence (Liu et al., 2021). All emulsions became less negatively charged after gastric digestion (Fig. 8D), consistent with findings in Section 3.2. This weakening of the sodium caseinate-sugar beet pectin network under simulated gastric conditions—aided by hydrochloric acid, sodium chloride, pepsin and mechanical forces—likely contributed to this reduced charge (Zhang et al., 2015). Additionally, partial hydrolysis of adsorbed sodium caseinate on oil droplets may have damaged the droplet film, leading to increased susceptibility to flocculation and coalescence. L emulsions after intestinal digestion were more negatively charged than those after gastric digestion (Fig. 8D). After intestinal digestion, L emulsions were more negatively charged than those after gastric digestion (Fig. 8D), possibly due to further sodium caseinate hydrolysis creating more sites on droplet surfaces for sugar beet pectin adsorption and thereby increasing emulsion droplet negativity.Fig. 8Effect of simulated gastrointestinal digestion on A-B) droplet size distribution, C) d4,3, D) ζ potential and G) encapsulation efficiency of astaxanthin in emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. Effect of the pepsin addition on the interfacial E) viscosity and F) storage modulus (G′) and loss modulus (G″) at the oil/water interface. The different letters (a–f) represent significant differences among samples (P < 0.05).Fig. 8
+
+Fig. 8Effect of simulated gastrointestinal digestion on A-B) droplet size distribution, C) d4,3, D) ζ potential and G) encapsulation efficiency of astaxanthin in emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. Effect of the pepsin addition on the interfacial E) viscosity and F) storage modulus (G′) and loss modulus (G″) at the oil/water interface. The different letters (a–f) represent significant differences among samples (P < 0.05).Fig. 8
+
+Effect of simulated gastrointestinal digestion on A-B) droplet size distribution, C) d4,3, D) ζ potential and G) encapsulation efficiency of astaxanthin in emulsions prepared by layer-by-layer (L) or mixed biopolymer (M) order. Effect of the pepsin addition on the interfacial E) viscosity and F) storage modulus (G′) and loss modulus (G″) at the oil/water interface. The different letters (a–f) represent significant differences among samples (P < 0.05).
+
+For M emulsions, a reduction in droplet quantity was observed in the microstructure pictures after digestion (Fig. 8B). After 120 min of digestion in simulated gastric fluid, the population of 1 μm emulsion droplets decreased, while the peak population of 4 μm droplets broadened and shortened, with an increase in 20 μm droplet population (Fig. 8B). After 240 min, the peak population of 4 μm droplets shifted rightward and increased, while the population of 20 μm droplets decreased compared to after 120 min of digestion. The d4,3 of M emulsions significantly increased after simulated gastric digestion (5.58 ± 0.52 μm), with no further increase after simulated intestinal digestion (4.55 ± 0.75 μm) (Fig. 8C). However, ζ potential of M emulsions remained unchanged after additional simulated intestinal fluid digestion (Fig. 8D), possibly due to less impact of sodium caseinate hydrolysis on droplet charge given the small amount of adsorbed sodium caseinate (0.06%, Table 1).
+
+The viscosity values of all systems were high at low shear rates (0.1–1 s-1) and sharply decreased at high shear rates (1-1000 s-1), exhibiting shear-thinning behavior (Fig. 8E). The viscosity of sodium caseinate-sugar beet pectin complex (1:1) was higher than that of sodium caseinate-sugar beet pectin complex (1:3), indicating increased interfacial viscosity with higher sodium caseinate content, likely due to sodium caseinate's inherent thickening effect and sugar beet pectin's lack of gel-forming capability (Chen et al., 2016). However, viscosity values decreased with pepsin addition, suggesting reduced matrix viscosity after protein hydrolysis. In Fig. 8F and G’ and G″ of all systems increased gradually with frequency, with G′ slightly higher than G″ in the absence of pepsin, indicating a more elastic nature. In the presence of pepsin, G′ of sodium caseinate-sugar beet pectin complex (1:1) was low and nearly overlapped G″, possibly indicating enzymatic hydrolysis into more mobile peptide fragments, reducing interface elasticity. However, G′ of sodium caseinate-sugar beet pectin complex (1:3) increased from 0.00646 Pa to 5.84 Pa across the 0.1–10 Hz frequency range, with G′ higher than G″ at higher frequencies (0.2–10 Hz). Enhanced elasticity of the mixed biopolymer interface following pepsin addition may result from enzymatic hydrolysis directly at the interface, strengthening the oil-water interface by moderating protein-polysaccharide interactions (Jourdain et al., 2009). The latter explanation aligns with evidence suggesting lower enzymatic hydrolysis of oil droplets in M emulsions (Fig. 8B).
+
+The encapsulation efficiency of astaxanthin in freshly prepared M emulsions (86.85%) was significantly higher than in L emulsions (72.82%) (Fig. 8E). M emulsions exhibited 30% and 25% higher astaxanthin encapsulation efficiency than L emulsions after 120 and 240 min of digestion, respectively, attributed to the higher stability of M emulsions against digestion as discussed above. Liu (Liu et al., 2024) found that oat protein isolate-high methoxyl pectin stabilized emulsions prepared by the M order at different mixing ratios could control curcumin release in digestion, with a lowest release rate at 19% after 120 min of gastric digestion, attributed to dense elastic interfacial layers of emulsion droplets and thus had a better protective effect on the curcumin. Sun (Sun et al., 2023) reported that chitosan-pectin-saponin coated emulsions inhibited lipid digestion and prolong astaxanthin release by physical barrier, electrostatic repulsion or electrostatically adherence effects of coating layer with bile salts, lipolytic enzymes or other ingredients. Previous literature also reported that pectin could effectively prevent protease hydrolysis of protein in simulated gastrointestinal fluids, preserve the structure integrity of protein-pectin complex nanoparticles and thus slow down curcumin release (Gu et al., 2024).
+
+Astaxanthin degradation of emulsions during storage
+
+Visually, freshly prepared emulsions appeared yellow due to brown astaxanthin (Fig. 9A). All emulsions exhibited phase separation after 1 day of storage, likely due to density differences between oil and water phases. Astaxanthin degradation rates increased with prolonged storage, reaching 61.66% and 54.08% on day 7 for L and M emulsions, respectively (Fig. 9B). In comparison, it has been reported that astaxanthin degradation in solution reached 33.2% by day 3 of storage (Yu et al., 2022), whereas in L and M emulsions, degradation rates were 18.64% and 15.62%, respectively (Fig. 9B). This suggests that emulsions can protect astaxanthin from degradation during storage. L emulsions exhibited higher astaxanthin degradation rates than M emulsions from day 1 through 3–7 (Fig. 9B), indicating better astaxanthin protection by M emulsions. This may be linked to higher sugar beet pectin content in M emulsions compared to L emulsions, as previous studies have shown sugar beet pectin can delay fish oil degradation (Chen et al., 2019) attributed to its antioxidant capacity due to molecular weight and α-D-1,4-galacturonic acid (GalA) content, which exposes active sites for free radicals (Xu et al., 2023).Fig. 9Effect of storage time on A) appearance (left: layer-by-layer (L) order; right: mixed biopolymer (M) order on each day) and B) astaxanthin attenuation rate of emulsions. The different letters (a–m) represent significant differences among samples (P < 0.05).Fig. 9
+
+Fig. 9Effect of storage time on A) appearance (left: layer-by-layer (L) order; right: mixed biopolymer (M) order on each day) and B) astaxanthin attenuation rate of emulsions. The different letters (a–m) represent significant differences among samples (P < 0.05).Fig. 9
+
+Effect of storage time on A) appearance (left: layer-by-layer (L) order; right: mixed biopolymer (M) order on each day) and B) astaxanthin attenuation rate of emulsions. The different letters (a–m) represent significant differences among samples (P < 0.05).
+
+Conclusion
+
+The order of sodium caseinate-sugar beet pectin layers (L and M) had distinct impacts on the stability of electrostatically stabilized emulsions against environmental stresses and their encapsulation of astaxanthin associated with interfacial structure. A total biopolymer concentration of 0.5% was chosen for preparing oil-in-water (o/w) emulsions containing 1% oil. The optimal sodium caseinate: sugar beet pectin ratio to achieve the smallest droplet diameter and highest ζ potential differed between L and M emulsions, being 1:1 and 1:3 respectively. L emulsions generally exhibited smaller droplet diameters than M emulsions across all sodium caseinate: sugar beet pectin ratios except at 1:3, possibly due to variations in their effectiveness in reducing interfacial tension influenced by the order of addition. Changes in pH from 4.5 to 8 did not significantly affect the stability of all emulsions. However, lowering the pH to 1.5 resulted in a substantial decrease in the net negative charge of all emulsions, with only L emulsions precipitating at pH 3. M emulsions demonstrated higher tolerance to salt, remaining stable up to sodium and calcium concentrations of 500 mM, whereas L emulsions destabilized at sodium and calcium levels exceeding 50 mM and 30 mM respectively. Both L and M emulsions exhibited stability against heat treatments at 37 or 90 °C for 30 min without no change in droplet size distribution, d4,3, ζ potential and microstructure. M emulsions showed greater stability against in vitro digestion, likely due to an associative interaction of pepsin with the mixed biopolymer interface. Astaxanthin degradation rates increased with prolonged storage, reaching 61.66% and 54.08% by day 7 for L and M emulsions respectively. The encapsulation efficiency of astaxanthin in freshly prepared M emulsions (86.85%) was significantly higher than in L emulsions (72.82%), with M emulsions showing 30% and 25% higher encapsulation efficiency after 120 min and 240 min of digestion respectively.
+
+In conclusion, the M order proved to be a superior method for producing emulsions with improved characteristics compared to the L order, providing protection against acidity, high salt concentrations, in vitro digestion, astaxanthin degradation and release. This study offers insights into interface design and process optimization to enhance the performance and functionality of protein-polysaccharide-based emulsion systems, particularly food-grade Pickering emulsions. Future research could focus on applying the M order in emulsion preparation for various food applications, such as beverages and dairy products, to enhance emulsion droplet stability during food processing and bioactive compound encapsulation.
+
+CRediT authorship contribution statement
+
+Xiaolu Pu: Conceptualization, Methodology, Funding acquisition, Writing – original draft, Writing – review & editing, Supervision. Shuaipeng Yu: Data curation, Investigation. Yue Cui: Validation, Visualization. Ziqian Tong: Investigation. Changyan Wang: Investigation. Lin Wang: Software. Junhua Han: Formal analysis, Funding acquisition. Hong Zhu: Formal analysis. Shijie Wang: Project administration, Writing – review & editing.
+
+Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+References
+
+Phase separation and formation of sodium caseinate/pectin complex coacervates: effects of pH on the complexation
+
+Comparison of emulsifying properties of food-grade polysaccharides in oil-in-water emulsions: gum Arabic, beet pectin, and corn fiber gum
+
+Effect of conformation of sugar beet pectin on the interfacial and emulsifying properties
+
+Multiple Pickering emulsions stabilized by food-grade particles as innovative delivery systems for bioactive compounds
+
+Effect of pH on the soybean whey protein–gum Arabic emulsion delivery systems for curcumin: emulsifying, stability, and digestive properties
+
+Current advancements in pectin: extraction, properties and multifunctional applications
+
+Effect of molecular structure on emulsifying properties of sugar beet pulp pectin
+
+Preparation and properties of ferulic acid-sugar beet pulp pectin ester and its application as a physical and antioxidative stabilizer in a fish oil-water emulsion
+
+Complex coacervation of proteins and sugar beet pectin: stabilizing oil-in-water emulsions
+
+Advances of astaxanthin-based delivery systems for precision nutrition
+
+Biopolymer-stabilized conjugated linoleic acid (CLA) oil-in-water emulsions: impact of electrostatic interactions on formation and stability of pectin-caseinate-coated lipid droplets
+
+Encapsulation of active ingredients in polysaccharide–protein complex coacervates
+
+Pectin - plant protein systems and their application
+
+Pectin-coated whey protein isolate/zein self-aggregated nanoparticles as curcumin delivery vehicles: effects of heating, pH, and adding sequence
+
+Effects of the precipitation pH on the ethanolic precipitation of sugar beet pectins
+
+Characterization of sodium caseinate derived from various sources: unraveling the relationship between structure and functional properties
+
+Rheological properties of emulsions formed by polymer solutions and modified by nanoparticles
+
+Stability of emulsions containing sodium caseinate and dextran sulfate: relationship to complexation in solution
+
+Mixed layers of sodium caseinate + dextran sulfate: influence of order of addition to oil-water interface
+
+Impact of type of sugar beet pectin-sodium caseinate interaction on emulsion properties at pH 4.5 and pH 7
+
+Production and stabilization of a flaxseed oil multi-layer emulsion containing sodium caseinate and pectin
+
+Influence mechanism of chayote (Sechium edule) pectin on the stability of sodium caseinate emulsion
+
+Casein calcium-binding peptides: preparation, characterization, and promotion of calcium uptake in Caco-2 cell monolayers
+
+Delivery systems designed to enhance stability and suitability of lipophilic bioactive compounds in food processing: a review
+
+Health benefits of astaxanthin and its encapsulation for improving bioavailability: a review
+
+Designing delivery systems for functional ingredients by protein/polysaccharide interactions
+
+Modulating peppermint oil flavor release properties of emulsion-filled protein gels: impact of cross-linking method and matrix composition
+
+Improved sugar beet pectin-stabilized emulsions through complexation with sodium caseinate
+
+Co-assembly of egg white-derived peptides and protein-polysaccharide complexes for curcumin encapsulation: the enhancement of stability, redispersibility, and bioactivity
+
+Effect of glycosylation with apple pectin, citrus pectin, mango pectin and sugar beet pectin on the physicochemical, interfacial and emulsifying properties of coconut protein isolate
+
+Effect of pectin on the properties of nanoemulsions stabilized by sodium caseinate at neutral pH
+
+Recent advances in health benefits and bioavailability of dietary astaxanthin and its isomers
+
+Comparison of different protein emulsifiers on physicochemical properties of β-carotene-loaded nanoemulsion: effect on formation, stability, and in vitro digestion
+
+Effects of different solid particle sizes on oat protein isolate and pectin particle-stabilized Pickering emulsions and their use as delivery systems
+
+Strategies to improve the physical stability of sodium caseinate stabilized emulsions: a literature review
+
+Improving emulsion formation, stability and performance using mixed emulsifiers: a review
+
+Synergistic effects of ovalbumin/gum Arabic complexes on the stability of emulsions exposed to environmental stress
+
+Emulsification properties of sugar beet pectin: the synergistic effect of homogalacturonan and rhamnogalacturonan-Ⅰ
+
+Pickering emulsions stabilized by essential oil-tannin-chitosan particles: microstructure, stability, antibacterial activity, and antioxidant activity
+
+Behavior of protein-polysaccharide conjugate-stabilized food emulsions under various destabilization conditions
+
+Enhancing the physical stability and bioaccessibility of curcumin emulsions through the interaction of whey protein isolate and soybean lecithin
+
+Robust stability and antimicrobial activity of d-limonene nanoemulsion by sodium caseinate and high pressure homogenization
+
+Improving the stability of wheat protein-stabilized emulsions: effect of pectin and xanthan gum addition
+
+Protein- and polysaccharide-based particles used for Pickering emulsion stabilisation
+
+Recent progress in pectin extraction, characterization, and pectin-based films for active food packaging applications: a review
+
+Caseins: versatility of their micellar organization in relation to the functional and nutritional properties of milk
+
+Astaxanthin with different configurations: sources, activity, post modification, and application in foods
+
+Effects of coating layers chitosan/pectin on lipid stability and in vitro digestion of astaxanthin-loaded multilayer emulsions
+
+Protein, hydrophobic nature, and glycan profile of sugar beet pectin influence emulsifying activity
+
+Caseinate-stabilized emulsions of black cumin and tamanu oils: preparation, characterization and antibacterial activity
+
+Casein and pectin: structures, interactions, and applications
+
+Polysaccharides, proteins, and their complex as microencapsulation carriers for delivery of probiotics: a review on carrier types and encapsulation techniques
+
+Influence of gelatinized octenyl succinic anhydride-modified waxy adlay seed starch on the properties of astaxanthin-loaded emulsions: emulsion properties, stability and in vitro digestion properties
+
+Influences of ultrasonic treatments on the structure and antioxidant properties of sugar beet pectin
+
+Insights into the impact of modification methods on the structural characteristics and health functions of pectin: a comprehensive review
+
+Effect of gum Arabic, gum ghatti and sugar beet pectin as interfacial layer on lipid digestibility in oil-in-water emulsions
+
+Co-delivery of hydrophobic astaxanthin and hydrophilic phycocyanin by a pH-sensitive water-in-oil-in-water double emulsion-filled gellan gum hydrogel
+
+Towards understanding pectin-protein interaction and the role of pectin in plant-based meat analogs constructing
+
+Physico-chemical properties of sugar beet pectin-sodium caseinate conjugates via different interaction mechanisms
+
+Influence of emulsifier type on gastrointestinal fate of oil-in-water emulsions containing anionic dietary fiber (pectin)
+
+Supplementary data
+
+The following is the Supplementary data to this article.Multimedia component 1Multimedia component 1
+
+Multimedia component 1
+
+Data availability
+
+Data will be made available on request.
+
+Acknowledgements
+
+This research was supported by 10.13039/501100003787Hebei Natural Science Foundation (C2020208017; C2023208010), Science and Technology Project of Hebei Education Department (QN2024210), S&T Program of Hebei (22321501D) and 10.13039/100010110Startup funding of Hebei University of Science and Technology (QD2023005).
+
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.crfs.2024.100821.

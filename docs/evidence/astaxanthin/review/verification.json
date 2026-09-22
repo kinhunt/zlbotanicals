@@ -1,0 +1,153 @@
+{
+  "en": {
+    "returncode": 0,
+    "stdout": "info: stats: 44 prose sentence(s), 14 with declared provenance (32%) — 14 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 3 in ledger (3 with evidence quotes)\ncitations OK\n",
+    "stderr": "",
+    "source_block_matches_generated_render": true
+  },
+  "zh": {
+    "returncode": 0,
+    "stdout": "info: stats: 3 prose sentence(s), 3 with declared provenance (100%) — 3 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 3 in ledger (3 with evidence quotes)\ncitations OK\n",
+    "stderr": "",
+    "source_block_matches_generated_render": true
+  },
+  "claim_literal_checks": [
+    {
+      "entry": 1,
+      "claim_scope": "Beverage application and source",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 2,
+      "claim_scope": "Emulsion preparation",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 3,
+      "claim_scope": "Storage confounded light and temperature",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 4,
+      "claim_scope": "No exact color match",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 5,
+      "claim_scope": "Color outcome",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 6,
+      "claim_scope": "Algal source and wall materials",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 7,
+      "claim_scope": "Layer-building process",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 8,
+      "claim_scope": "Drying conditions",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 9,
+      "claim_scope": "Retention endpoint",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 10,
+      "claim_scope": "Retention results",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 11,
+      "claim_scope": "Secondary pH behavior",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 12,
+      "claim_scope": "Tertiary pH behavior",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 13,
+      "claim_scope": "Creaming comparison",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 14,
+      "claim_scope": "Astaxanthin source not proven algal",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 15,
+      "claim_scope": "Laboratory preservative",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 16,
+      "claim_scope": "Process alternative",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 17,
+      "claim_scope": "Ratio confound",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 18,
+      "claim_scope": "Salt outcomes including microstructure",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 19,
+      "claim_scope": "Storage separation",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 20,
+      "claim_scope": "Final formulations differ",
+      "present_in_original_xml": true
+    },
+    {
+      "entry": 21,
+      "claim_scope": "Layering versus premixing",
+      "present_in_original_xml": true
+    }
+  ],
+  "original_files_unchanged": true,
+  "deltaE_recalculated_from_source_mean_coordinates": 8.050602461927932,
+  "retention_cells_both_languages": {
+    "en": [
+      [
+        "88.5%",
+        "87.4%"
+      ],
+      [
+        "96.4%",
+        "95.3%"
+      ],
+      [
+        "96.8%",
+        "96.0%"
+      ]
+    ],
+    "zh": [
+      [
+        "88.5%",
+        "87.4%"
+      ],
+      [
+        "96.4%",
+        "95.3%"
+      ],
+      [
+        "96.8%",
+        "96.0%"
+      ]
+    ]
+  }
+}
