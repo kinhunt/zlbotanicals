@@ -1,0 +1,37 @@
+{
+  "base": "b594be14c68112974524ad090eaba1e5c63e6f4d",
+  "primaryTable": "PMC4376404 Table 4, 40R rows",
+  "primaryXmlSha256": "4432f23eaeade77866897e0e14d567d252fc0af6255379ac2e85195607da751f",
+  "sourceCellRows": [
+    [
+      "17.9 ± 0.04",
+      "18.3 ± 0.53",
+      "7.8 ± 0.07"
+    ],
+    [
+      "16.4 ± 0.02",
+      "17.2 ± 0.06",
+      "6.6 ± 0.07"
+    ],
+    [
+      "16.5 ± 0.06",
+      "17.4 ± 0.04",
+      "7.1 ± 0.02"
+    ],
+    [
+      "14.7 ± 0.06",
+      "15.3 ± 0.07",
+      "4.6 ± 0.41"
+    ],
+    [
+      "15.1 ± 0.04",
+      "15.2 ± 0.05",
+      "5.9 ± 0.05"
+    ]
+  ],
+  "cellsCheckedEachLanguage": 15,
+  "originalResearchFilesBytePreserved": 41,
+  "baselinePublicFilesBytePreserved": 141,
+  "plusMinusMeaning": "Undefined in original; not labelled SD or SE",
+  "presentation": "One descriptive comparison table; five whole-condition cards under 600px. No derived chart or inferred pairwise test."
+}

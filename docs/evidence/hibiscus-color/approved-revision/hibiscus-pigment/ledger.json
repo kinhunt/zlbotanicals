@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10453219/fullTextXML",
+      "title": "Impact of Processing and Physicochemical Parameter on Hibiscus sabdariffa Calyxes Biomolecules and Antioxidant Activity: From Powder Production to Reconstitution",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "Hibiscus sabdariffa is a tropical plant with red calyxes whose anthocyanins, phenols, and antioxidant activity make it attractive to consumers both from a nutritional and medicinal standpoint. Its seasonality, perishability, and anthocyanin instability, led to the setup of stabilization methods comprising drying and powdering. However, its properties can often be altered during these stabilization processes. Treatments such as dehumidified-air-drying, infrared drying, and oven-drying, and their combination showed better quality preservation. Moreover, powder production enables superior biomolecule extractability which can be linked to a higher bioaccessibility. However, the required temperatures for powder production increase the bioactive molecules degradation leading to their antioxidant activity loss. To overcome this issue, ambient or cryogenic grinding could be an excellent method to improve the biomolecule bioavailability and accessibility if the processing steps are well mastered. To be sure to benefit from the final nutritional quality of the powder, such as the antioxidant activity of biomolecules, powders have to offer excellent reconstitutability which is linked to powder physicochemical properties and the reconstitution media. Typically, the finest powder granulometry and using an agitated low-temperature reconstitution media allow for improving anthocyanin extractability and stability. In this review, the relevant physicochemical and processing parameters influencing plant powder features from processing transformation to reconstitution will be presented with a focus on bioactive molecules and antioxidant activity preservation.",
+          "added": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3959965/fullTextXML",
+      "title": "Influence of storage temperature and time on the physicochemical and bioactive properties of roselle-fruit juice blends in plastic bottle",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "Roselle-fruit juice blends were made from roselle extract and mango, papaya, and guava juices at the ratio of 80:20, 60:40, 40:60, and 20:80, % roselle: fruit juice, respectively. The blends were pasteurized at 82.5°C for 20 min and stored in 100 mL plastic bottles at 28 and 4°C for 6 months. The effects of storage time and temperature on physicochemical and bioactive properties were evaluated. Total soluble solids, pH, and reducing sugars increased significantly (P < 0.05) in some blends while titratable acidity decrease with increasing storage time. Vitamin C, total monomeric anthocyanins (TMA), total phenols (TPC), and antioxidant activity (ferric reducing ability of plasma, FRAP) in all roselle-fruit blends (40% roselle) decreased significantly (P < 0.05) at 28 and 4°C as storage progressed. Vitamin C in all roselle-fruit blends (40% roselle) decreased from 58–55% to 43–42% when stored at 28 and 4°C, respectively. TMA losses were 86–65% at 28°C and 75–53% at 4°C while TPC losses were 66–58% at 28°C and 51–22% at 4°C. Loss of antioxidant capacity (FRAP) was 18–46% at 28°C and 17–35% at 4°C. A principal component analysis (PCA) differentiated roselle-juice fruit blends into two clusters with two principle components PC1 and PC2, which explained 97 and 3% (blends stored at ambient temperature) and 96 and 4% (blends stored at refrigerated temperature) of the variation, respectively. PC1 differentiated roselle-guava juice blends which were characterized by vitamin C, TPC, FRAP, and pH, while PC2 from another cluster of roselle-mango and roselle-papaya juice blends and was characterized by TSS, RS, and color parameters (L* a* b*). However, TMA was the main variable with the highest effect on all roselle-fruit juice blends regardless of the storage time and temperature.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "Three beverage product categories of roselle-mango, roselle-papaya and roselle-guava were formulated in the ratio of 80:20, 60:40, 40:60, and 20:80 roselle extract: fruit juice, respectively. Sodium benzoate (1 g/L) and citric acid (1 g/L) were added to all roselle-fruit blends as preservatives.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "The juices were filled in 100 mL plastic bottles, loosely capped, and pasteurized in a water bath at a temperature of 82.5°C for 20 min and cooled rapidly to room temperature by immersing the bottles in a cold water bath. Samples were drawn for initial chemical analyses and thereafter analyses were carried every month for 6 months.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "The TMA for roselle-fruit juice blends (40R) is shown in Figure 2. TMA for roselle-mango, roselle-papaya, and roselle-guava juice (40R) blends was 282.6, 268.6, and 167.8 mg/100 g FW initially and changed to 97.8, 37.4, and 31.3 mg/100 g FW (28°C) and 131.4, 68.0, and 63.7 mg/100 g FW (4°C) after 6 months of storage (Fig. 3). The losses in TMA for roselle-fruit juices were higher at 28°C than 4°C. The TMA for roselle-fruit juice blends was found to be decreased during storage but this decrease was statistically significant (P < 0.05) at 28°C as well as at 4°C (Tables 3 and 4). The presence of ascorbic acid and higher pH of the prepared roselle-fruit juice blends could have accelerated anthocyanin degradation. It is also known that interaction of ascorbic acid with anthocyanins may result in the degradation of both compounds through a condensation reaction (Choi et al. 2002; González-Molina et al. 2009). From the results roselle-guava blends with higher vitamin C content had greater loss of anthocyanin than roselle-mango and roselle-papaya blends.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "Visually, no color change was observed in all of the roselle-fruit blends during the 6 months of storage at 4°C. However, minimal loss in visual color was observed in all roselle-fruit blends stored for 4–6 months at 28°C. The results are similar to the findings of Saeed and Ahmed (1977), who did not observe any visual color change in carbonated beverages prepared from roselle calyces during 3 months of storage at ambient temperature.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "2357fsnFood Science & NutritionFood Sci NutrWileyPMC3959965395996539599652480407710.1002/fsn3.97Influence of storage temperature and time on the physicochemical and bioactive properties of roselle-fruit juice blends in plastic bottleMgaya-KilimaBeatrice12✉RembergSiv Fagertun3ChoveBernard Elias2WicklundTrude11Department of Chemistry, Biotechnology and Food Science, Norwegian University of Life Sciences, P.O. Box 5003, 1432, Åas, Norway2Department of Food Science and Technology, Faculty of Agriculture, Sokoine University of Agriculture, P.O. Box 3006, Morogoro, Tanzania3Department of Plant and Environmental Sciences, Norwegian University of Life Sciences, P.O. Box 5003, 1432, Åas, Norway✉Correspondence Beatrice Mgaya Kilima, Department of Food Science and Technology, Faculty of Agriculture, Sokoine University of Agriculture, P.O. Box 3006 Morogoro, Tanzania., Tel: +255713291554; Fax: +255232604402;, E-mail: dukile@yahoo.com272201422181181–191652014© 2014 The Authors. Food Science & Nutrition published by Wiley Periodicals, Inc.This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium,provided the original work is properly cited.AbstractRoselle-fruit juice blends were made from roselle extract and mango, papaya, and guava juices at the ratio of 80:20, 60:40, 40:60, and 20:80, % roselle: fruit juice, respectively. The blends were pasteurized at 82.5°C for 20 min and stored in 100 mL plastic bottles at 28 and 4°C for 6 months. The effects of storage time and temperature on physicochemical and bioactive properties were evaluated. Total soluble solids, pH, and reducing sugars increased significantly (P < 0.05) in some blends while titratable acidity decrease with increasing storage time. Vitamin C, total monomeric anthocyanins (TMA), total phenols (TPC), and antioxidant activity (ferric reducing ability of plasma, FRAP) in all roselle-fruit blends (40% roselle) decreased significantly (P < 0.05) at 28 and 4°C as storage progressed. Vitamin C in all roselle-fruit blends (40% roselle) decreased from 58–55% to 43–42% when stored at 28 and 4°C, respectively. TMA losses were 86–65% at 28°C and 75–53% at 4°C while TPC losses were 66–58% at 28°C and 51–22% at 4°C. Loss of antioxidant capacity (FRAP) was 18–46% at 28°C and 17–35% at 4°C. A principal component analysis (PCA) differentiated roselle-juice fruit blends into two clusters with two principle components PC1 and PC2, which explained 97 and 3% (blends stored at ambient temperature) and 96 and 4% (blends stored at refrigerated temperature) of the variation, respectively. PC1 differentiated roselle-guava juice blends which were characterized by vitamin C, TPC, FRAP, and pH, while PC2 from another cluster of roselle-mango and roselle-papaya juice blends and was characterized by TSS, RS, and color parameters (L* a* b*). However, TMA was the main variable with the highest effect on all roselle-fruit juice blends regardless of the storage time and temperature.Keywords: Anthocyanins, antioxidants, fruit juices, rosellestatusreleaseddisplay-pdfyesis-olfnois-manuscriptnois-preprintnois-journal-matternois-scannednois-retractednoReceived 2013 Nov 25; Revised 2014 Jan 23; Accepted 2014 Jan 27; Issue date 2014 Mar.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "Total monomeric anthocyanin (TMA) content for roselle-fruit juice blends was determined using the pH differential method (Lee et al. 2005). The absorbance was measured at 520 and 700 nm using a spectrophotometer. The absorbance (A) of the sample was then calculated according to the following formula:",
+          "added": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4376404/fullTextXML",
+      "title": "Physiochemical and antioxidant properties of roselle-mango juice blends; effects of packaging material, storage temperature and time",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "A study was conducted to determine the effects of packaging materials, seasonality, storage temperature and time on physiochemical and antioxidant properties of roselle-mango juice blends. Roselle extract (20%, 40%, 60%, and 80%) was mixed with mango juice and stored in glass and plastic bottles at 4°C and 28°C. Total soluble solids, pH, titratable acidity, reducing sugar, color, vitamin C, total monomeric anthocyanins, total phenols, and antioxidant activity (FRAP) were evaluated in freshly prepared juice, and after, 2, 4, and 6 months of storage. The results showed that total soluble solids, reducing sugars, and pH increased with storage times under different storage time, irrespective of packaging materials. The acidity, color, total monomeric anthocyanin, vitamin C, total phenols, and antioxidant activity decreased during storage irrespective of storage temperature and packaging material. Loss of anthocyanins, total phenols, and vitamin C content were higher in blends stored at 28°C than 4°C.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "Roselle-mango juice blends were formulated in the ratio of (80:20, 60:40, 40:60, and 20:80) roselle extract: mango juice pulp, “respectively.” Sodium benzoate (1 g/L) and citric acid (1 g/L) were added to all roselle-fruit blends as preservatives.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "The juices were filled in 100 mL sterile plastic and glass bottles, loosely capped, and pasteurized in a water bath at a temperature of 82.5°C for 20 min and cooled rapidly to room temperature by immersing the bottles in cold water bath (Ndabikunze et al. 2010). The bottles were tightly capped, labeled and stored at 4°C and 28°C for 6 months. Samples were drawn for chemical analyses at 0, 2, 4, and 6 months of storage.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "All the tests were performed in triplicate and the results averaged (n = 3). Similar trends were observed in all the roselle-mango juice blends hence only one blend (40% roselle) was used in analysis of variance (ANOVA) using Minitab statistical software (Release 16.1 Minitab Inc., State College, PA). Multifactorial analysis of variance (General Linear Model [GML] was applied using a factorial design with three factors, including packaging bottles (plastic, glass), storage temperature (ambient A, refrigerated R), and storage time (0, 2, 4, 6 months). Principal component analysis (PCA) was used to evaluate seasonal variation of blends stored in plastic bottles (2011 and 2012 seasons), using Unscrambler X 10.2 (Camo Software AS, Oslo, Norway).",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "Table 4Initial and final color parameters of roselle-mango juice blends stored in glass and plastic bottles at 28°C and 4°C.Lightness (L)Redness (a)Yellowness (b)Storage tempBS28°C4°CBS28°C4°CBS28°C4°CStorage time066066066Glass 80R14.9 ± 0.0314.4 ± 0.4114.5 ± 0.0420.6 ± 0.0319.5 ± 0.0319.8 ± 0.054.7 ± 0.093.3 ± 0.024.3 ± 0.05 60R16.3 ± 0.4015.4 ± 0.0315.7 ± 0.0219.8 ± 0.0318.3 ± 0.0418.7 ± 0.035.7 ± 0.064.4 ± 0.0404.6 ± 0.04 40R17.9 ± 0.0416.4 ± 0.0216.5 ± 0.0618.3 ± 0.5317.2 ± 0.0617.4 ± 0.047.8 ± 0.076.6 ± 0.077.1 ± 0.02 20R18.6 ± 0.0317.3 ± 0.0417.6 ± 0.0516.7 ± 0.0514.6 ± 0.0615.4 ± 0.038.5 ± 0.077.3 ± 0.057.5 ± 0.05Plastic 80R14.9 ± 0.0313.3 ± 0.0313.5 ± 0.0520.6 ± 0.0317.8 ± 0.0617.9 ± 0.074.7 ± 0.092.8 ± 0.062.7 ± 0.06 60R16.3 ± 0.4013.8 ± 0.0514.2 ± 0.0519.8 ± 0.0317.1 ± 0.0517.2 ± 0.045.7 ± 0.063.3 ± 0.053.7 ± 0.05 40R17.9 ± 0.0414.7 ± 0.0615.1 ± 0.0418.3 ± 0.5315.3 ± 0.0715.2 ± 0.057.8 ± 0.074.6 ± 0.415.9 ± 0.05 20R18.6 ± 0.0316.5 ± 0.0816.8 ± 0.0516.7 ± 0.0516.1 ± 0.0216.7 ± 0.048.5 ± 0.076.4 ± 0.086.4 ± 0.05BS, before storage; 80R, 80% roselle; 60R, 60% roselle; 40R, 100% roselle; 20R, 20% roselle.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "TMA of the roselle-mango juice blends (40%R) stored in glass bottles at 4°C were higher than those stored at 28°C (Fig.1). The decrease was significant (P < 0.05) during storage, irrespective of storage temperature and packaging material (Table5). Waskar and Gaikwad (2004) observed similar trends on pomegranate kokum mango- based blends stored for 150 days. The amount of anthocyanin remained after 6 months was (127.7–144.1 mg/100 g) at 4°C and 100–107 mg/100 g at 28°C in all roselle-mango blends (40%) stored in glass and plastic bottles, these amounts were sufficient to provide the amount of anthocyanins per day recommended by the United States of America and Finland (82 and 12.5 mg per day) by Wu et al. (2006).",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "FRAP for roselle-mango blends stored in glass and plastic bottles ranged from 1.04 to 1.86 mmol/L (28°C) and 1.19–1.86 mmol/L (4°C) after 6 months of storage (Fig.4). Despite marked losses of TMA in all the roselle-mango blends, FRAP value losses were less than 30% during storage, suggesting that polymeric compounds formed during storage might have compensated the loss of antioxidant activity due to degradation of monomeric anthocyanins (Tsai and Huang 2004).",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "Table 5Effects of packaging, storage time and temperature on the quality of roselle-mango juice blends (40% roselle).Source of variationTSSpHTARSTMAVit. CTPCFRAPL*a*b*Packaging (A)nsnsnsns<0.001<0.001<0.001<0.001<0.001<0.001<0.001Temperature (B)<0.001<0.0010.037<0.001<0.0010.006<0.001ns0.05ns<0.001Time (C)<0.001<0.001ns<0.001<0.001<0.001<0.001<0.001<0.001<0.001<0.001A × B<0.001<0.001<0.001<0.001<0.001<0.001<0.001<0.001nsns<0.001A × Cns<0.001nsns<0.001<0.001<0.001<0.001<0.001<0.001<0.001B × Cnsnsnsns<0.001<0.001<0.001<0.001<0.001<0.001<0.001ns, not significant; TSS, total soluble solids; TA, titratable acidity; RS, reducing sugars; Vit C, vitamin C; FRAP, ferric-reducing ability of plasma; TMA, total monomeric anthocyanins; TPC, total phenolic content; L*, lightness; a*, redness; b*, yellowness.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "2357fsnFood Science & NutritionFood Sci NutrWileyPMC4376404437640443764042583888810.1002/fsn3.174Physiochemical and antioxidant properties of roselle-mango juice blends; effects of packaging material, storage temperature and timeMgaya-KilimaBeatrice12✉RembergSiv Fagertun3ChoveBernard Elias2WicklundTrude11Department of Chemistry, Biotechnology and Food Science, Norwegian University of Life Sciences, P.O. Box 5003, 1432, Aas, Norway2Faculty of Agriculture, Department of Food Science and Technology, Sokoine University of Agriculture, P. O. Box 3006, Morogoro, Tanzania3Department of Plant and Environmental Sciences, Norwegian University of Life Sciences, P.O. Box 5003, 1432, Aas, Norway✉Correspondence Beatrice Mgaya Kilima, Sokoine University of Agriculture, Department of Food Science and Technology, P.O. Box 3006, Morogoro, Tanzania., Tel: +255713291554; Fax: +255232603502; E-mail: dukile@yahoo.comFunding Information This research was funded by the Norwegian Programme for Development Research and Education (NUFU, project 2008/10265) through Norwegian University of Life Sciences, Mekelle University, Sokoine University of Agriculture and Hawassa University.271201532100100–109242015© 2014 The Authors. Food Science & Nutrition published by Wiley Periodicals, Inc.This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.AbstractA study was conducted to determine the effects of packaging materials, seasonality, storage temperature and time on physiochemical and antioxidant properties of roselle-mango juice blends. Roselle extract (20%, 40%, 60%, and 80%) was mixed with mango juice and stored in glass and plastic bottles at 4°C and 28°C. Total soluble solids, pH, titratable acidity, reducing sugar, color, vitamin C, total monomeric anthocyanins, total phenols, and antioxidant activity (FRAP) were evaluated in freshly prepared juice, and after, 2, 4, and 6 months of storage. The results showed that total soluble solids, reducing sugars, and pH increased with storage times under different storage time, irrespective of packaging materials. The acidity, color, total monomeric anthocyanin, vitamin C, total phenols, and antioxidant activity decreased during storage irrespective of storage temperature and packaging material. Loss of anthocyanins, total phenols, and vitamin C content were higher in blends stored at 28°C than 4°C.Keywords: Juice blend, mango, physiochemical properties, roselle, storage conditionsstatusreleaseddisplay-pdfyesis-olfnois-manuscriptnois-preprintnois-journal-matternois-scannednois-retractednoReceived 2014 Feb 19; Revised 2014 Jul 2; Accepted 2014 Jul 4; Issue date 2015 Mar.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "The total monomeric anthocyanin (TMA) content for roselle-mango blends was carried out using the pH differential method (Lee et al. 2005). Absorbance was measured at 520 and 700 nm using a spectrophotometer. The absorbance (A) of the sample was then calculated according to the following formula:",
+          "added": "2026-09-22"
+        }
+      ]
+    }
+  ]
+}

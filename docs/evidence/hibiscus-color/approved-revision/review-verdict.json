@@ -1,0 +1,29 @@
+{
+  "decision": "ACCEPT_REVISED_FOR_EDITORIAL_HANDOFF_ONLY; REJECT_ORIGINAL_0.1_ASTAR_FRAMING",
+  "integrated": false,
+  "published": false,
+  "reviewed_files": {
+    "hibiscus-pigment/hibiscus-color-endpoints.en.md": "7d69a078072466938f4d7df3732ba870c038c53215220313759039643009b574",
+    "hibiscus-pigment/hibiscus-color-endpoints.zh.md": "79cd77770e5934e3863e145d0b576df1f7f62a3fe3b1fedcbb4b70dac5fd5ffc",
+    "README.md": "b3e9558a56039fd7348920084459929ed0843ef86f708114755790e22ac4a1cc",
+    "evidence-review.md": "9d54bbf7370bcb36e526be2d48fcf8357bfff15c41366f826cb694596c6bafdb"
+  },
+  "original_reviewed_hashes": {
+    "hibiscus-pigment/hibiscus-color-endpoints.en.md": "853113f244fb822f4251b623415daa7fc63e730b76d381d3449020406cfde13e",
+    "hibiscus-pigment/hibiscus-color-endpoints.zh.md": "544152cd1a63e4ba088451b2cf61a5b862c58a4a157eeb2982771989626e289b",
+    "README.md": "835613fa26459a2ce5b22cb508ba9f184465ecf3fe974b828c65242b0e05b717"
+  },
+  "original_package_files_unchanged": 41,
+  "original_package_unchanged": true,
+  "source_ids": {
+    "2": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3959965/fullTextXML",
+    "3": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4376404/fullTextXML"
+  },
+  "remaining_limits": [
+    "Table 4 plus/minus terms are undefined; do not relabel as SD or SE.",
+    "No independent replication or pairwise temperature-effect claim.",
+    "Visual observation is not a consumer-acceptance study.",
+    "Unused source [1] warning retained; automatic EN segmentation warning does not represent >3 source IDs per actual sentence; Chinese sentence coverage not meaningful.",
+    "Original candidate cards and repository inventory not re-certified."
+  ]
+}
