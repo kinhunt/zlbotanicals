@@ -1,5 +1,6 @@
 ---
-import { getCollection, type CollectionEntry } from 'astro:content';
+import { getOrderedCollection as getCollection } from '../../data/collection-order';
+import { type CollectionEntry } from 'astro:content';
 import PageLayout from '../../layouts/PageLayout.astro';
 import GuideList from './GuideList.astro';
 import { guideCategories, type GuideCategorySlug } from '../../data/resource-guides';
@@ -9,7 +10,7 @@ const { lang, slug, posts } = Astro.props;
 const zh = lang === 'zh';
 const category = guideCategories.find(category => category.slug === slug)!;
 const allProducts = await getCollection('products', ({ data }) => data.lang === lang && !data.draft);
-const products = allProducts.filter(product => posts.some(post => post.data.relatedProducts.includes(product.slug.replace(`${lang}/`, ''))));
+const products = allProducts.filter(product => posts.some(post => post.data.relatedProducts.includes(product.id.replace(`${lang}/`, ''))));
 ---
 <PageLayout title={category[lang].title} description={category[lang].description} lang={lang} heroTitle={category[lang].title} heroSubtitle={zh ? '植物原料采购与开发知识' : 'Botanical procurement and development knowledge'}>
   <section class="section-padding">
@@ -23,7 +24,7 @@ const products = allProducts.filter(product => posts.some(post => post.data.rela
       <GuideList posts={posts} lang={lang} />
       {products.length > 0 && <div class="mt-12">
         <h2 class="text-2xl font-display font-bold mb-6">{zh ? '相关原料' : 'Related ingredients'}</h2>
-        <ul class="flex flex-wrap gap-4">{products.map(product => <li><a class="inline-block rounded-lg bg-off-white px-5 py-3 text-primary hover:underline" href={getLocalizedPath(`/products/${product.slug.replace(`${lang}/`, '')}`, lang)}>{product.data.name}</a></li>)}</ul>
+        <ul class="flex flex-wrap gap-4">{products.map(product => <li><a class="inline-block rounded-lg bg-off-white px-5 py-3 text-primary hover:underline" href={getLocalizedPath(`/products/${product.id.replace(`${lang}/`, '')}`, lang)}>{product.data.name}</a></li>)}</ul>
       </div>}
       <div class="mt-12 p-8 bg-off-white rounded-xl">
         <h2 class="text-2xl font-display font-bold">{zh ? '下一步：准备采购需求' : 'Next step: prepare your sourcing brief'}</h2>

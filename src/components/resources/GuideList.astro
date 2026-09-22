@@ -10,8 +10,8 @@ interface Props {
 }
 const { posts, products = [], lang, filterable = false } = Astro.props;
 const zh = lang === 'zh';
-const sortedPosts = [...posts].sort((a, b) => b.data.publishDate.localeCompare(a.data.publishDate) || a.slug.localeCompare(b.slug));
-const ingredients = products.filter(product => posts.some(post => post.data.relatedProducts.includes(product.slug.replace(`${lang}/`, ''))));
+const sortedPosts = [...posts].sort((a, b) => b.data.publishDate.localeCompare(a.data.publishDate) || a.id.localeCompare(b.id));
+const ingredients = products.filter(product => posts.some(post => post.data.relatedProducts.includes(product.id.replace(`${lang}/`, ''))));
 ---
 <div data-guide-list data-count-suffix={zh ? '篇指南' : 'guides'}>
   {filterable && (
@@ -20,7 +20,7 @@ const ingredients = products.filter(product => posts.some(post => post.data.rela
         <label for="ingredient-filter" class="block font-medium mb-2">{zh ? '按原料筛选' : 'Filter by ingredient'}</label>
         <select id="ingredient-filter" class="border border-gray-300 rounded-lg px-4 py-3 bg-white text-gray-900">
           <option value="">{zh ? '全部原料' : 'All ingredients'}</option>
-          {ingredients.map(product => <option value={product.slug.replace(`${lang}/`, '')}>{product.data.name}</option>)}
+          {ingredients.map(product => <option value={product.id.replace(`${lang}/`, '')}>{product.data.name}</option>)}
         </select>
       </div>
       <button type="button" data-filter-reset class="px-4 py-3 rounded-lg border border-gray-300 hover:bg-gray-100">{zh ? '重置筛选' : 'Reset filter'}</button>
@@ -31,7 +31,7 @@ const ingredients = products.filter(product => posts.some(post => post.data.rela
   <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
     {sortedPosts.map(post => {
       const category = guideCategories.find(category => category.slug === post.data.guideCategory)!;
-      const href = getLocalizedPath(`/resources/blog/${post.slug.replace(`${lang}/`, '')}`, lang);
+      const href = getLocalizedPath(`/resources/blog/${post.id.replace(`${lang}/`, '')}`, lang);
       return (
         <article data-guide-card data-products={post.data.relatedProducts.join(' ')} class="bg-white rounded-xl overflow-hidden border border-gray-200 shadow-sm">
           {post.data.image && <a href={href} tabindex="-1" aria-hidden="true"><img src={post.data.image} alt="" loading="lazy" width="640" height="360" class="w-full h-40 object-cover" /></a>}

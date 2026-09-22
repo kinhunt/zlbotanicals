@@ -1,5 +1,6 @@
 ---
-import { getCollection } from 'astro:content';
+import { getOrderedCollection as getCollection } from '../../../data/collection-order';
+import { render } from 'astro:content';
 import PageLayout from '../../../layouts/PageLayout.astro';
 import { getLocalizedPath } from '../../../i18n/config';
 import { Leaf, ArrowRight } from '@lucide/astro';
@@ -10,13 +11,13 @@ export async function getStaticPaths() {
   });
 
   return solutions.map((solution) => ({
-    params: { slug: solution.slug.replace('zh/', '') },
+    params: { slug: solution.id.replace('zh/', '') },
     props: { solution },
   }));
 }
 
 const { solution } = Astro.props;
-const { Content } = await solution.render();
+const { Content } = await render(solution);
 const lang = 'zh';
 
 // Get related products (reverse lookup: products that reference this solution)
@@ -24,7 +25,7 @@ const allProducts = await getCollection('products', ({ data }) => {
   return data.lang === 'zh' && !data.draft;
 });
 
-const solutionSlug = solution.slug.replace('zh/', '');
+const solutionSlug = solution.id.replace('zh/', '');
 const relatedProducts = allProducts.filter((product) =>
   product.data.solutions?.includes(solutionSlug)
 );
@@ -90,7 +91,7 @@ const industryLabels: Record<string, string> = {
           <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
             {relatedProducts.map((product) => (
               <a
-                href={getLocalizedPath(`/products/${product.slug.replace('zh/', '')}`, lang)}
+                href={getLocalizedPath(`/products/${product.id.replace('zh/', '')}`, lang)}
                 class="group p-5 bg-off-white rounded-xl hover:shadow-md transition-shadow"
               >
                 <h4 class="font-semibold text-gray-900 group-hover:text-primary transition-colors">

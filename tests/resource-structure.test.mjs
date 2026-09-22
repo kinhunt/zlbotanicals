@@ -29,7 +29,7 @@ test('every existing bilingual article has one honest guide category and industr
     }
     assert.equal(populated.size, 4);
   }
-  const schema = read('src/content/config.ts');
+  const schema = read('src/content.config.ts');
   assert.match(schema, /guideCategory: z\.enum\(\[/);
   assert.match(schema, /relatedIndustries: z\.array\(z\.enum\(\[/);
 });
@@ -73,13 +73,19 @@ test('resource hubs and archives render accessible filterable guide lists; bilin
   for (const path of ['/resources/downloads', '/resources/faq', '/quality', '/resources/blog']) assert.ok(hub.includes(path), path);
   const categoryPage = read('src/components/resources/CategoryPage.astro');
   for (const marker of ['aria-label=', 'category[lang].description', '/products/', '/resources/downloads', '/request-quote', 'posts.length']) assert.ok(categoryPage.includes(marker), marker);
-  const { transform } = await import('@astrojs/compiler');
+  const { transform } = await import('@astrojs/compiler-rs');
   const files = readdirSync(new URL('src/components/resources/', root)).filter(f => f.endsWith('.astro')).map(f => `src/components/resources/${f}`);
   for (const prefix of ['', 'zh/']) for (const file of ['index.astro', '[category].astro', 'blog/index.astro', 'blog/[slug].astro']) files.push(`src/pages/${prefix}resources/${file}`);
   for (const file of files) {
     const result = await transform(read(file), { filename: file });
-    assert.equal(result.diagnostics.filter(d => d.severity === 1).length, 0, file);
+    assert.equal(result.diagnostics.filter(d => d.severity === 'error').length, 0, file);
   }
+});
+
+test('Astro 7 compiler diagnostic guard rejects malformed templates', async () => {
+  const { transform } = await import('@astrojs/compiler-rs');
+  const result = transform('<div><span></div>', { filename: 'negative-control.astro' });
+  assert.ok(result.diagnostics.some(d => d.severity === 'error'));
 });
 
 test('actual filter script matches whole ingredient slugs, updates live count, handles empty state and resets', async () => {

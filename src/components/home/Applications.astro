@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getOrderedCollection as getCollection } from '../../data/collection-order';
 import { type Language, getLocalizedPath } from '../../i18n/config';
 import SectionHeader from '../common/SectionHeader.astro';
 import { ArrowRight } from '@lucide/astro';
@@ -17,7 +17,7 @@ const allSolutions = await getCollection('solutions', ({ data }) => {
 
 // Sort and take latest 4
 const latestSolutions = allSolutions
-  .sort((a, b) => b.slug.localeCompare(a.slug))
+  .sort((a, b) => b.id.localeCompare(a.id))
   .slice(0, 4);
 
 const industryLabels: Record<string, Record<string, string>> = {
@@ -79,7 +79,7 @@ const solutionsPath = lang === 'zh' ? '/zh/solutions' : '/solutions';
         {latestSolutions.map((solution) => (
           <article class="group bg-gray-800 rounded-xl overflow-hidden hover:bg-gray-700 transition-colors">
             {solution.data.image && (
-              <a href={`${solutionsPath}/${solution.slug.replace(`${lang}/`, '')}`}>
+              <a href={`${solutionsPath}/${solution.id.replace(`${lang}/`, '')}`}>
                 <img
                   src={solution.data.image}
                   alt={solution.data.name}
@@ -93,7 +93,7 @@ const solutionsPath = lang === 'zh' ? '/zh/solutions' : '/solutions';
                 {industryLabels[lang][solution.data.industry]}
               </span>
               <h4 class="text-white font-semibold mt-3 line-clamp-2 group-hover:text-accent transition-colors">
-                <a href={`${solutionsPath}/${solution.slug.replace(`${lang}/`, '')}`}>
+                <a href={`${solutionsPath}/${solution.id.replace(`${lang}/`, '')}`}>
                   {solution.data.name}
                 </a>
               </h4>
@@ -101,7 +101,7 @@ const solutionsPath = lang === 'zh' ? '/zh/solutions' : '/solutions';
                 <p class="text-white/60 text-sm mt-2 line-clamp-2">{solution.data.description}</p>
               )}
               <a
-                href={`${solutionsPath}/${solution.slug.replace(`${lang}/`, '')}`}
+                href={`${solutionsPath}/${solution.id.replace(`${lang}/`, '')}`}
                 class="inline-flex items-center gap-1 text-accent text-sm mt-4 hover:gap-2 transition-all"
               >
                 {t.viewDetails} <ArrowRight class="w-3 h-3" />

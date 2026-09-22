@@ -1,5 +1,6 @@
 ---
-import { getCollection } from 'astro:content';
+import { getOrderedCollection as getCollection } from '../../../data/collection-order';
+import { render } from 'astro:content';
 import TurmericProcurementIntro from '../../../components/TurmericProcurementIntro.astro';
 import ExtractSales from '../../../components/ExtractSales.astro';
 import {getExtractSale,salesTitle} from '../../../data/extract-sales';
@@ -14,15 +15,15 @@ export async function getStaticPaths() {
   });
 
   return products.map((product) => ({
-    params: { slug: product.slug.replace('zh/', '') },
+    params: { slug: product.id.replace('zh/', '') },
     props: { product },
   }));
 }
 
 const { product } = Astro.props;
-const isTurmeric = product.slug === 'zh/turmeric';
-const sale = getExtractSale(product.slug.replace('zh/',''));
-const { Content } = await product.render();
+const isTurmeric = product.id === 'zh/turmeric';
+const sale = getExtractSale(product.id.replace('zh/',''));
+const { Content } = await render(product);
 
 ---
 

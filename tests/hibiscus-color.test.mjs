@@ -35,6 +35,6 @@ for (const lang of ['en','zh']) test(`${lang}: approved article prose is retaine
  const processor=await createMarkdownProcessor({smartypants:false});
  const expected=(await processor.render(body)).code;
  const html=readFileSync(`dist/${lang==='zh'?'zh/':''}resources/blog/hibiscus-color-endpoints/index.html`,'utf8');
- const plain=s=>s.replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&#(?:38|x26);/g,'&').replace(/\s+/g,' ').trim();
+ const plain=s=>s.replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&#(?:x([0-9a-f]+)|(\d+));/gi,(_,hex,decimal)=>String.fromCodePoint(parseInt(hex||decimal,hex?16:10))).replace(/\s+/g,' ').trim();
  for(const m of expected.matchAll(/<(h[12]|p|th|td)(?:\s[^>]*)?>([\s\S]*?)<\/\1>/g)) assert.ok(plain(html).includes(plain(m[2])),plain(m[2]));
 });
