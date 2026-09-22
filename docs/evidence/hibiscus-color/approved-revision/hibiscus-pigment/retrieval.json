@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3959965/fullTextXML",
+    "sha256": "27314d01dad9a1d31a1c5e8df0415fc558bbafa8a4cd9f82062f64b593823256",
+    "matches_original": true
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4376404/fullTextXML",
+    "sha256": "4432f23eaeade77866897e0e14d567d252fc0af6255379ac2e85195607da751f",
+    "matches_original": true
+  }
+]

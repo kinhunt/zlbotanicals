@@ -1,0 +1,54 @@
+{
+  "citation_checks": [
+    {
+      "file": "hibiscus-pigment/hibiscus-color-endpoints.en.md",
+      "returncode": 0,
+      "output": "info: stats: 28 prose sentence(s), 13 with declared provenance (46%) — 13 cited, 0 marked [unverified] (a sentence may be both); 2 distinct source(s) cited, 3 in ledger (3 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [1]\nwarn: 1 sentence(s) carry more than 3 citations\ncitations OK\n"
+    },
+    {
+      "file": "hibiscus-pigment/hibiscus-color-endpoints.zh.md",
+      "returncode": 0,
+      "output": "info: stats: 3 prose sentence(s), 3 with declared provenance (100%) — 3 cited, 0 marked [unverified] (a sentence may be both); 2 distinct source(s) cited, 3 in ledger (3 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [1]\ncitations OK\n"
+    },
+    {
+      "file": "evidence-review.md",
+      "returncode": 0,
+      "output": "info: stats: 38 prose sentence(s), 13 with declared provenance (34%) — 13 cited, 0 marked [unverified] (a sentence may be both); 2 distinct source(s) cited, 3 in ledger (3 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [1]\ncitations OK\n"
+    }
+  ],
+  "table_check": {
+    "passed": true,
+    "source": "PMC4376404 Table 4",
+    "cells_per_language": 15,
+    "means_and_plusminus_terms_checked": true,
+    "sd_or_se_defined_in_xml": false,
+    "expected_rows": [
+      [
+        "17.9 ± 0.04",
+        "18.3 ± 0.53",
+        "7.8 ± 0.07"
+      ],
+      [
+        "16.4 ± 0.02",
+        "17.2 ± 0.06",
+        "6.6 ± 0.07"
+      ],
+      [
+        "16.5 ± 0.06",
+        "17.4 ± 0.04",
+        "7.1 ± 0.02"
+      ],
+      [
+        "14.7 ± 0.06",
+        "15.3 ± 0.07",
+        "4.6 ± 0.41"
+      ],
+      [
+        "15.1 ± 0.04",
+        "15.2 ± 0.05",
+        "5.9 ± 0.05"
+      ]
+    ]
+  },
+  "original_source_package_unchanged": true
+}
