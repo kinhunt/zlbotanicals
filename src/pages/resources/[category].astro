@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getOrderedCollection as getCollection } from '../../data/collection-order';
 import { guideCategories } from '../../data/resource-guides';
 import CategoryPage from '../../components/resources/CategoryPage.astro';
 export async function getStaticPaths() {

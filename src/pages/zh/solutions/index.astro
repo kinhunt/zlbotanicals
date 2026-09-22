@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getOrderedCollection as getCollection } from '../../../data/collection-order';
 import PageLayout from '../../../layouts/PageLayout.astro';
 import { getLocalizedPath } from '../../../i18n/config';
 import { GlassWater, Pill, Sparkles, UtensilsCrossed, ArrowRight } from '@lucide/astro';
@@ -19,7 +19,7 @@ const allSolutions = await getCollection('solutions', ({ data }) => {
 });
 
 // Sort by slug (newer files typically have later dates in name)
-const sortedSolutions = allSolutions.sort((a, b) => b.slug.localeCompare(a.slug));
+const sortedSolutions = allSolutions.sort((a, b) => b.id.localeCompare(a.id));
 
 const industryLabels: Record<string, string> = {
   'beverages': '饮料',
@@ -68,7 +68,7 @@ const industryLabels: Record<string, string> = {
         {sortedSolutions.map((solution) => (
           <article class="group bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow">
             {solution.data.image && (
-              <a href={`/zh/solutions/${solution.slug.replace('zh/', '')}`}>
+              <a href={`/zh/solutions/${solution.id.replace('zh/', '')}`}>
                 <img
                   src={solution.data.image}
                   alt={solution.data.name}
@@ -81,7 +81,7 @@ const industryLabels: Record<string, string> = {
                 {industryLabels[solution.data.industry]}
               </span>
               <h3 class="text-lg font-display font-bold text-gray-900 mt-3 group-hover:text-primary transition-colors">
-                <a href={`/zh/solutions/${solution.slug.replace('zh/', '')}`}>
+                <a href={`/zh/solutions/${solution.id.replace('zh/', '')}`}>
                   {solution.data.name}
                 </a>
               </h3>
@@ -89,7 +89,7 @@ const industryLabels: Record<string, string> = {
                 <p class="text-gray-600 text-sm mt-2 line-clamp-2">{solution.data.description}</p>
               )}
               <a
-                href={`/zh/solutions/${solution.slug.replace('zh/', '')}`}
+                href={`/zh/solutions/${solution.id.replace('zh/', '')}`}
                 class="inline-flex items-center gap-1 text-primary font-medium text-sm mt-3 hover:gap-2 transition-all"
               >
                 查看详情 <ArrowRight class="w-4 h-4" />

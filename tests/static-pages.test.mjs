@@ -65,7 +65,7 @@ for (const prefix of ['', 'zh/']) {
     assert.match(page, /getCollection\('products'/);
     assert.match(page, /!data.draft/);
     assert.match(page, /data.lang === lang/);
-    assert.match(page, /product.slug/);
+    assert.match(page, /product\.id/);
     assert.doesNotMatch(page, /href:\s*['"]#['"]|\d+%|guaranteed/i);
   });
 }

@@ -2,14 +2,14 @@
 import profiles from '../data/science-profiles.json';
 import research from '../data/research.json';
 import {applications} from '../data/research-facets';
-import {getCollection} from 'astro:content';
+import { getOrderedCollection as getCollection } from '../data/collection-order';
 import { getLocalizedPath, type Language } from '../i18n/config';
 interface Props { lang: Language; products?: string[] }
 const {lang,products=[]}=Astro.props;
 const zh=lang==='zh';
 const rows=research.filter(r=>r.status==='reviewed' && (!products.length || r.products.some(p=>products.includes(p))));
 const ingredients=await getCollection('products',({data})=>data.lang===lang&&!data.draft);
-const name=(slug:string)=>ingredients.find(p=>p.slug===`${lang}/${slug}`)?.data.name || slug;
+const name=(slug:string)=>ingredients.find(p=>p.id===`${lang}/${slug}`)?.data.name || slug;
 const ingredientKeys=[...new Set(rows.flatMap(r=>r.products))];
 const tags=(r:typeof rows[number])=>r.readingUses as (keyof typeof applications)[];
 const applicationKeys=[...new Set(rows.flatMap(tags))];

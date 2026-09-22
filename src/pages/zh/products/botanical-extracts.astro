@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getOrderedCollection as getCollection } from '../../../data/collection-order';
 import PageLayout from '../../../layouts/PageLayout.astro';
 import { getLocalizedPath } from '../../../i18n/config';
 const lang = 'zh';
@@ -12,7 +12,7 @@ const products = await getCollection('products', ({ data }) => data.lang === lan
       <p class="max-w-3xl text-lg text-gray-600 mb-10">浏览植物提取物的供货形态、用途与规格，按所选材料申请样品、报价及质量文件。具体供货条件与适用市场按规格书面确认。</p>
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         {products.map((product) => (
-          <a href={getLocalizedPath(`/products/${product.slug.replace(`${lang}/`, '')}`, lang)} class="block p-6 rounded-xl bg-off-white hover:shadow-md focus-visible:outline-2 focus-visible:outline-primary">
+          <a href={getLocalizedPath(`/products/${product.id.replace(`${lang}/`, '')}`, lang)} class="block p-6 rounded-xl bg-off-white hover:shadow-md focus-visible:outline-2 focus-visible:outline-primary">
             <h2 class="text-xl font-semibold text-gray-900">{product.data.name}</h2>
             {product.data.latinName && <p class="mt-2 italic text-gray-600">{product.data.latinName}</p>}
             {product.data.description && <p class="mt-3 text-gray-600">{product.data.description}</p>}

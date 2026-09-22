@@ -4,7 +4,7 @@ import FormulaTransfer from './FormulaTransfer.astro';
 import PageLayout from '../layouts/PageLayout.astro';
 import concepts from '../data/odm.json';
 import ResearchCards from './ResearchCards.astro';
-import {getCollection} from 'astro:content';
+import { getOrderedCollection as getCollection } from '../data/collection-order';
 import {getLocalizedPath,type Language} from '../i18n/config';
 interface Props {lang:Language;slug?:string}
 const {lang,slug}=Astro.props;const zh=lang==='zh';const concept=concepts.find(c=>c.slug===slug);
@@ -12,7 +12,7 @@ const local=(p:string)=>getLocalizedPath(p,lang);
 const title=concept?.title[lang] || (zh?'植物饮品一站式 ODM 项目协作':'One-stop botanical beverage ODM coordination');
 const description=concept?.summary[lang] || (zh?'从模糊想法到原料筛选、研发验证计划、包装与合作生产；按项目确认能力与责任，不承诺未经验证的成品表现。':'From an early idea to ingredient selection, R&D validation planning, packaging and partner production, with project-specific capability and responsibility checks.');
 const products=await getCollection('products',({data})=>data.lang===lang&&!data.draft);
-const productName=(s:string)=>products.find(p=>p.slug===`${lang}/${s}`)?.data.name || s;
+const productName=(s:string)=>products.find(p=>p.id===`${lang}/${s}`)?.data.name || s;
 const brief=concept ? `${concept.title[lang]} — ${concept.summary[lang]}` : (zh?'植物饮品 ODM 项目需求':'Botanical beverage ODM project brief');
 const quote=local('/request-quote')+'?'+new URLSearchParams({request:'odm',product:concept?.title[lang]||'Botanical beverage ODM',concept:concept?.slug||'custom',application:brief}).toString();
 const schema={'@context':'https://schema.org','@type':'WebPage',name:title,description,inLanguage:lang,url:`https://zlbotanicals.com${local('/odm'+(slug?'/'+slug:''))}`,isPartOf:{'@type':'WebSite',name:'ZL Botanicals',url:'https://zlbotanicals.com'}};

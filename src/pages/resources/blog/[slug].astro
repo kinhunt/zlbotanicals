@@ -1,5 +1,6 @@
 ---
-import { getCollection } from 'astro:content';
+import { getOrderedCollection as getCollection } from '../../../data/collection-order';
+import { render } from 'astro:content';
 import TeaHazeReader from '../../../components/resources/TeaHazeReader.astro';
 import CentellaStabilityReader from '../../../components/resources/CentellaStabilityReader.astro';
 import { guideCategories } from '../../../data/resource-guides';
@@ -13,17 +14,17 @@ export async function getStaticPaths() {
   });
 
   return posts.map((post) => ({
-    params: { slug: post.slug.replace('en/', '') },
+    params: { slug: post.id.replace('en/', '') },
     props: { post },
   }));
 }
 
 const { post } = Astro.props;
-const { Content, headings } = await post.render();
-const isCentellaStability = post.slug.endsWith('/centella-cold-process-stability');
-const isHibiscus = post.slug.endsWith('/hibiscus-color-endpoints');
-const isSaffron = post.slug.endsWith('/saffron-identity');
-const isTeaHaze = post.slug.endsWith('/tea-haze-diagnosis');
+const { Content, headings } = await render(post);
+const isCentellaStability = post.id.endsWith('/centella-cold-process-stability');
+const isHibiscus = post.id.endsWith('/hibiscus-color-endpoints');
+const isSaffron = post.id.endsWith('/saffron-identity');
+const isTeaHaze = post.id.endsWith('/tea-haze-diagnosis');
 const lang = 'en';
 
 // Get related products
@@ -31,7 +32,7 @@ const allProducts = await getCollection('products', ({ data }) => {
   return data.lang === 'en' && !data.draft;
 });
 const relatedProducts = allProducts.filter((product) =>
-  post.data.relatedProducts?.includes(product.slug.replace('en/', ''))
+  post.data.relatedProducts?.includes(product.id.replace('en/', ''))
 );
 
 // Get related solutions
@@ -39,7 +40,7 @@ const allSolutions = await getCollection('solutions', ({ data }) => {
   return data.lang === 'en' && !data.draft;
 });
 const relatedSolutions = allSolutions.filter((solution) =>
-  post.data.relatedSolutions?.includes(solution.slug.replace('en/', ''))
+  post.data.relatedSolutions?.includes(solution.id.replace('en/', ''))
 );
 
 const guideCategory = guideCategories.find(category => category.slug === post.data.guideCategory)!;
@@ -52,7 +53,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
   heroTitle={post.data.title}
   heroSubtitle={guideCategory[lang].title}
 >
-  <article class:list={["section-padding", {"hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
+  <article class:list={["section-padding", {"hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.id.endsWith("/elderberry-material-selection"), "paprika-format": post.id.endsWith("/paprika-extract-format-selection"), "sdil": post.id.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.id.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.id.endsWith("/stevia-temporal-sensory")}]}>
     <div class="container-wide max-w-4xl">
       <!-- Breadcrumb -->
       <nav aria-label="Breadcrumb" class="mb-8 text-sm">
@@ -137,7 +138,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
           <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
             {relatedProducts.map((product) => (
               <a
-                href={`/products/${product.slug.replace('en/', '')}`}
+                href={`/products/${product.id.replace('en/', '')}`}
                 class="group p-5 bg-off-white rounded-xl hover:shadow-md transition-shadow"
               >
                 <h4 class="font-semibold text-gray-900 group-hover:text-primary transition-colors">
@@ -162,7 +163,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
           <div class="grid md:grid-cols-2 gap-4">
             {relatedSolutions.map((solution) => (
               <a
-                href={`/solutions/${solution.slug.replace('en/', '')}`}
+                href={`/solutions/${solution.id.replace('en/', '')}`}
                 class="group p-6 bg-gradient-to-br from-accent/5 to-accent/10 rounded-xl hover:shadow-md transition-all"
               >
                 <h4 class="font-semibold text-gray-900 group-hover:text-accent transition-colors">

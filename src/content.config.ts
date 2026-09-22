@@ -1,8 +1,9 @@
 import { defineCollection, z } from 'astro:content';
+import { glob } from 'astro/loaders';
 
 // Products collection schema (产品：罗汉果提取物、甘草提取物等)
 const products = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/products' }),
   schema: z.object({
     name: z.string(),
     nameEn: z.string().optional(),
@@ -18,7 +19,7 @@ const products = defineCollection({
 
 // Solutions collection schema (解决方案：零糖气泡水等)
 const solutions = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/solutions' }),
   schema: z.object({
     name: z.string(),
     nameEn: z.string().optional(),
@@ -35,7 +36,7 @@ const solutions = defineCollection({
 
 // Blog collection schema (博客：市场洞察、行业趋势等)
 const blog = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/blog' }),
   schema: z.object({
     title: z.string(),
     lang: z.enum(['en', 'zh']),

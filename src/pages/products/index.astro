@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getOrderedCollection as getCollection } from '../../data/collection-order';
 import PageLayout from '../../layouts/PageLayout.astro';
 import CatalogTasks from '../../components/CatalogTasks.astro';
 import { getLocalizedPath } from '../../i18n/config';
@@ -29,7 +29,7 @@ const products = await getCollection('products', ({ data }) => {
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {products.map((product) => (
             <a
-              href={getLocalizedPath(`/products/${product.slug.replace('en/', '')}`, lang)}
+              href={getLocalizedPath(`/products/${product.id.replace('en/', '')}`, lang)}
               class="group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-shadow"
             >
               <div class="aspect-[4/3] overflow-hidden">

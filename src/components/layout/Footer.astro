@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getOrderedCollection as getCollection } from '../../data/collection-order';
 import { type Language, getLocalizedPath } from '../../i18n/config';
 import { useTranslations } from '../../i18n/utils';
 import { getSiteNavigation } from '../../data/site-navigation';
@@ -18,7 +18,7 @@ const products = await getCollection('products', ({ data }) => {
 
 const productLinks = products.map((ingredient) => ({
   label: ingredient.data.name,
-  href: getLocalizedPath(`/products/${ingredient.slug.replace(`${lang}/`, '')}`, lang),
+  href: getLocalizedPath(`/products/${ingredient.id.replace(`${lang}/`, '')}`, lang),
 }));
 
 const navItems = getSiteNavigation(t, (path) => getLocalizedPath(path, lang), productLinks);

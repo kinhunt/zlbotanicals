@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getOrderedCollection as getCollection } from '../../data/collection-order';
 import { type Language, getLocalizedPath } from '../../i18n/config';
 import { useTranslations } from '../../i18n/utils';
 import SectionHeader from '../common/SectionHeader.astro';
@@ -18,8 +18,13 @@ const allProducts = await getCollection('products', ({ data }) => {
   return data.lang === lang && !data.draft;
 });
 
-// Show up to 6 featured products on homepage
-const featuredProducts = allProducts.slice(0, 6);
+// Six IDs observed on both production homepages, 2026-09-21.
+const featuredIds = ['centella-asiatica','ginkgo-biloba','ginseng','goji-berry','grape-seed','green-tea'];
+const featuredProducts = featuredIds.map((id) => {
+  const entry = allProducts.find((product) => product.id === `${lang}/${id}`);
+  if (!entry) throw new Error(`Missing published featured product: ${lang}/${id}`);
+  return entry;
+});
 ---
 
 <section class="section-padding bg-off-white">
@@ -33,7 +38,7 @@ const featuredProducts = allProducts.slice(0, 6);
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
       {featuredProducts.map((ingredient) => (
         <a
-          href={getLocalizedPath(`/products/${ingredient.slug.replace(`${lang}/`, '')}`, lang)}
+          href={getLocalizedPath(`/products/${ingredient.id.replace(`${lang}/`, '')}`, lang)}
           class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all overflow-hidden group"
         >
           <div class="aspect-[3/2] relative overflow-hidden">

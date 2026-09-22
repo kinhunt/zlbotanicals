@@ -18,7 +18,7 @@ test('turmeric why choose section connects buyer decisions to a localized projec
   assert.ok(html.indexOf('id="supply-terms"') < html.indexOf('id="why-choose-us"'));
   assert.ok(html.indexOf('id="why-choose-us"') < html.indexOf('id="quote"'));
   assert.ok(html.includes('href="#why-choose-us"'));
-  const href = section.match(/data-why-choose-brief="" href="([^"]+)"/)?.[1];
+  const href = section.match(/data-why-choose-brief(?:="")? href="([^"]+)"/)?.[1];
   assert.ok(href, 'dedicated project brief CTA');
   const url = new URL(href.replace(/&(?:amp|#x26);/g, '&'), 'https://zlbotanicals.com');
   assert.equal(url.pathname, `${prefix}/request-quote`);
