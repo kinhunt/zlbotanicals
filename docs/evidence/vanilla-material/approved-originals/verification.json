@@ -1,0 +1,22 @@
+{
+  "citation_checks": [
+    {
+      "file": "/data/hermes/research/seo-growth/2026-09-22-midday-discovery/vanilla-material/draft.en.md",
+      "exit_code": 0,
+      "stdout": "info: stats: 49 prose sentence(s), 8 with declared provenance (16%) \u2014 8 cited, 0 marked [unverified] (a sentence may be both); 4 distinct source(s) cited, 4 in ledger (4 with evidence quotes)\ncitations OK\n",
+      "stderr": "",
+      "sha256": "d5f192aa9163f65b7cc58acd40c05436a4ad5951302397a2d7be2818433d2ce3"
+    },
+    {
+      "file": "/data/hermes/research/seo-growth/2026-09-22-midday-discovery/vanilla-material/draft.zh.md",
+      "exit_code": 0,
+      "stdout": "info: stats: 7 prose sentence(s), 5 with declared provenance (71%) \u2014 5 cited, 0 marked [unverified] (a sentence may be both); 4 distinct source(s) cited, 4 in ledger (4 with evidence quotes)\ncitations OK\n",
+      "stderr": "",
+      "sha256": "c6369106a9ac6fb5ed25f01d2a0e51ae4f502ef7324867a71fb7631e9c01406d"
+    }
+  ],
+  "claim_quotes_exact": true,
+  "independent_editorial_review": false,
+  "rendering_review": false,
+  "publication": false
+}
