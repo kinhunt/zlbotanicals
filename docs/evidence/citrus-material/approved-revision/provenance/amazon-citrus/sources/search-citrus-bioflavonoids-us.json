@@ -1,0 +1,12 @@
+{
+  "captured_at_utc": "2026-09-22T03:53:49.853662+00:00",
+  "command": "browserman script run --platform amazon --marketplace us --action search --query \"citrus bioflavonoids\" --limit 6 --json",
+  "response": {
+    "ok": true,
+    "command": "script.run",
+    "result": {
+      "executionId": "exec_47c72537ed664c99",
+      "status": "running"
+    }
+  }
+}

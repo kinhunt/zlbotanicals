@@ -1,0 +1,109 @@
+{
+  "captured_at_utc": "2026-09-22T03:54:02.362740+00:00",
+  "command": "browserman execution wait exec_47c72537ed664c99 --json",
+  "response": {
+    "ok": true,
+    "command": "execution.wait",
+    "result": {
+      "id": "exec_47c72537ed664c99",
+      "status": "completed",
+      "currentStep": "Done",
+      "platform": "amazon",
+      "action": "search",
+      "result": {
+        "blocked": false,
+        "count": 6,
+        "items": [
+          {
+            "asin": "B001F0QVX4",
+            "availability": "Capsule100 Count (Pack of 1)",
+            "image": "https://m.media-amazon.com/images/I/71dMhTTw7cL._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$10.77",
+            "rank": 1,
+            "rating": "4.4",
+            "reviewCount": "1,587 ratings",
+            "sponsored": false,
+            "title": "NOW Supplements, Citrus Bioflavonoids 700mg, Cell Defense*, 100 Veg Caps",
+            "url": "https://www.amazon.com/NOW-Supplements-Citrus-Bioflavonoids-Capsules/dp/B001F0QVX4"
+          },
+          {
+            "asin": "B08YRWXTPY",
+            "availability": "Traditional Herbal Supplement | Vegetarian, Non-GMO & Gluten Free",
+            "image": "https://m.media-amazon.com/images/I/71eKTCNnbES._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$22.99",
+            "rank": 2,
+            "rating": "4.4",
+            "reviewCount": "601 ratings",
+            "sponsored": false,
+            "title": "Horbäach Citrus Bioflavonoids Complex | 1500mg | 300 Coated Caplets",
+            "url": "https://www.amazon.com/Bioflavonoids-Complex-Vegetarian-Supplement-Horbaach/dp/B08YRWXTPY"
+          },
+          {
+            "asin": "B076WYZVWX",
+            "availability": "For Adults Seeking Enhanced Vitamin C Absorption, 50% Standardized Bioflavonoids from Bitter Orange, Rose Hips",
+            "image": "https://m.media-amazon.com/images/I/71MlLOJYrnL._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$25.89",
+            "rank": 3,
+            "rating": "4.6",
+            "reviewCount": "For Adults Seeking Enhanced Vitamin C Absorption, 50% Standardized Bioflavonoids from Bitter Orange, Rose Hips",
+            "sponsored": false,
+            "title": "Swanson Full Spectrum Citrus Bioflavonoid Complex, 250 Capsules",
+            "url": "https://www.amazon.com/Swanson-Spectrum-Citrus-Bioflavonoid-Complex/dp/B076WYZVWX"
+          },
+          {
+            "asin": "B0H1BRP9Y5",
+            "availability": "Capsule120 Count (Pack of 1)",
+            "image": "https://m.media-amazon.com/images/I/712ni9-Gd8L._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$23.99",
+            "rank": 4,
+            "rating": "4.6",
+            "reviewCount": "37 ratings",
+            "sponsored": false,
+            "title": "Citrus Bioflavonoids 1000mg with Quercetin & Rutin - Bioflavonoids for Antioxidant & Circulation*, Flavonoids Supplements - Standardized to 50% Hesperidin, 120 Capsules (60-Day Supply)",
+            "url": "https://www.amazon.com/Clenoriko-Citrus-Bioflavonoids-1000mg-Quercetin/dp/B0H1BRP9Y5"
+          },
+          {
+            "asin": "B00028P4T2",
+            "availability": "500 mg Citrus Bioflavonoids Plus 150 mg Hesperidin to Support Healthy Collagen, Capillary Strength & Vitamin C Absorption*",
+            "image": "https://m.media-amazon.com/images/I/71FHnkWuAcL._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$11.87",
+            "rank": 5,
+            "rating": "4.3",
+            "reviewCount": "500 mg Citrus Bioflavonoids Plus 150 mg Hesperidin to Support Healthy Collagen, Capillary Strength & Vitamin C Absorption*",
+            "sponsored": false,
+            "title": "Natural Factors Citrus Bioflavonoids Plus Hesperidin 650 mg, 90 Capsules",
+            "url": "https://www.amazon.com/Natural-Factors-Bioflavonoids-Support-Capsules/dp/B00028P4T2"
+          },
+          {
+            "asin": "B001GIHYOA",
+            "availability": "Capsule90 Count (Pack of 1)",
+            "image": "https://m.media-amazon.com/images/I/618N3d4OUSL._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$20.76",
+            "rank": 6,
+            "rating": "4.4",
+            "reviewCount": "301 ratings",
+            "sponsored": false,
+            "title": "Bluebonnet Citrus Bioflavonoid Complex 750 mg Immune System Support - Hesperidin Citrus Bioflavonoids from Oranges Lemons Grapefruit & Limes - Non-GMO, Vegan, Gluten-Free - 90 Veggie Capsules",
+            "url": "https://www.amazon.com/BlueBonnet-Citrus-Bioflavonoid-Complex-Milligram/dp/B001GIHYOA"
+          }
+        ],
+        "marketplace": "https://www.amazon.com",
+        "noResults": false,
+        "page": 1,
+        "query": "citrus bioflavonoids",
+        "success": true,
+        "title": "Amazon.com : citrus bioflavonoids",
+        "url": "https://www.amazon.com/s?k=citrus+bioflavonoids"
+      },
+      "error": null,
+      "startedAt": "2026-09-22 03:53:49",
+      "completedAt": "2026-09-22 03:54:01"
+    }
+  }
+}

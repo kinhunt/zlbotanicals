@@ -1,0 +1,28 @@
+{
+  "status": "author-side technical evidence checks passed; independent review pending",
+  "draft_checks": {
+    "en": {
+      "exit_code": 0,
+      "output": "info: stats: 61 prose sentence(s), 19 with declared provenance (31%) — 19 cited, 0 marked [unverified] (a sentence may be both); 9 distinct source(s) cited, 9 in ledger (9 with evidence quotes)\ncitations OK\n",
+      "sha256": "9d99f0eaf3b606bc8e2e0e7f6717a9886569b0cbcd85b968113dbef0569e6b34"
+    },
+    "zh": {
+      "exit_code": 0,
+      "output": "info: stats: 5 prose sentence(s), 5 with declared provenance (100%) — 5 cited, 0 marked [unverified] (a sentence may be both); 9 distinct source(s) cited, 9 in ledger (9 with evidence quotes)\ncitations OK\n",
+      "sha256": "ec7fe9a22823d8f618f069395d3722e34624208bf9ada282391d8642fbacd055"
+    }
+  },
+  "claim_quotes": {
+    "total": 15,
+    "passed": 15
+  },
+  "source_manifest_hash_matches": true,
+  "primary_xml_validated": [
+    "S1",
+    "S2",
+    "A1",
+    "R1"
+  ],
+  "no_chart": true,
+  "no_publication": true
+}

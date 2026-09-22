@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "url": "https://food.ec.europa.eu/food-safety/novel-food/authorisations/union-list-novel-foods_en",
+    "final_url": "https://food.ec.europa.eu/food-safety/novel-food/authorisations/union-list-novel-foods_en",
+    "status": 200,
+    "bytes": 159519
+  },
+  {
+    "id": 2,
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R2470",
+    "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R2470",
+    "status": 404,
+    "bytes": 83473
+  },
+  {
+    "id": 3,
+    "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32025R0167",
+    "final_url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32025R0167",
+    "status": 200,
+    "bytes": 324379
+  },
+  {
+    "id": 4,
+    "url": "https://eur-lex.europa.eu/eli/reg_impl/2017/2470",
+    "final_url": "https://eur-lex.europa.eu/eli/reg_impl/2017/2470",
+    "status": 200,
+    "bytes": 2679562
+  },
+  {
+    "id": 5,
+    "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32017R2470",
+    "final_url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32017R2470",
+    "status": 200,
+    "bytes": 1382335
+  },
+  {
+    "id": 6,
+    "url": "https://eur-lex.europa.eu/eli/reg_impl/2017/2470/2026-08-10/eng",
+    "final_url": "https://eur-lex.europa.eu/eli/reg_impl/2017/2470/2026-08-10/eng",
+    "status": 200,
+    "bytes": 2679273
+  },
+  {
+    "id": 7,
+    "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1219/oj/eng",
+    "final_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1219/oj/eng",
+    "status": 200,
+    "bytes": 290378
+  },
+  {
+    "id": 8,
+    "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1306/oj/eng",
+    "final_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1306/oj/eng",
+    "status": 200,
+    "bytes": 308289
+  },
+  {
+    "id": 9,
+    "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1378/oj/eng",
+    "final_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1378/oj/eng",
+    "status": 200,
+    "bytes": 301654
+  },
+  {
+    "id": 10,
+    "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1427/oj/eng",
+    "final_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1427/oj/eng",
+    "status": 200,
+    "bytes": 296796
+  },
+  {
+    "id": 11,
+    "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1507/oj/eng",
+    "final_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1507/oj/eng",
+    "status": 200,
+    "bytes": 304645
+  },
+  {
+    "id": 12,
+    "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1749/oj/eng",
+    "final_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1749/oj/eng",
+    "status": 200,
+    "bytes": 306270
+  }
+]

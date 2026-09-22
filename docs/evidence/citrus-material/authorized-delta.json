@@ -1,0 +1,72 @@
+{
+  "authority": "Parent mid-turn bounded reader-language authorization, 2026-09-22",
+  "changes": {
+    "en": [
+      [
+        "Four deliberately selected Amazon US listings, captured on 22 September 2026, illustrate the problem.",
+        "Four Amazon US product pages illustrate the distinction."
+      ],
+      [
+        "The captured text does not resolve",
+        "The page text does not resolve"
+      ],
+      [
+        "A specific hesperidin amount is not given in the captured text",
+        "A specific hesperidin amount is not given in the page text"
+      ],
+      [
+        "when recovery was 88%",
+        "when EFSA reports an 88% recovery rate for MGH and hesperidin"
+      ]
+    ],
+    "zh": [
+      [
+        "2026年9月22日采集的四个Amazon美国站商品页面，直观展示了这种区别。",
+        "四个Amazon美国站商品页面展示了这种区别。"
+      ],
+      [
+        "采集文本未明确",
+        "页面文字未明确"
+      ],
+      [
+        "采集文本没有给出",
+        "页面文字未列明"
+      ],
+      [
+        "食品补充剂：10岁以上一般人群",
+        "食品补充剂：年龄大于10岁的一般人群"
+      ],
+      [
+        "EFSA报告MGH和橙皮苷在所测条件下稳定，例外是55°C、pH 7放置四周后，回收率为88%。",
+        "EFSA报告MGH和橙皮苷在所测条件下稳定，例外是55°C、pH 7放置四周后；EFSA报告此时MGH和橙皮苷的回收率为88%。"
+      ],
+      [
+        "水相性能值得采用不同材料时，再评估食品级葡糖基橙皮苷",
+        "如果配方对水相性能的要求需要采用另一种材料，再评估食品级葡糖基橙皮苷"
+      ]
+    ]
+  },
+  "methodNote": {
+    "en": "Sample method: four deliberately selected Amazon US product pages, captured on 22 September 2026. Comparisons use the retrieved titles, bullets and product attributes; they do not cover every label image or all page content. The search observation separately covers six returned titles for “glucosyl hesperidin”.",
+    "zh": "样本方法：有目的选取四个Amazon美国站商品页面，采集日期为2026年9月22日；比较依据为返回的标题、要点和商品属性，不涵盖所有标签图片及页面内容。搜索观察另以“glucosyl hesperidin”查询返回的六个标题为范围。"
+  },
+  "metadataChanges": {
+    "zh": [
+      [
+        "从四个电商样本出发，比较橙皮苷、葡糖基橙皮苷与蛋白质制备物的材料身份、含量口径、水相证据及有明确日期的欧盟供货条件。",
+        "从四个电商样本出发，比较橙皮苷、葡糖基橙皮苷与含蛋白橙皮苷制备物的成分、含量口径和水相性能，并梳理欧盟用途限量与供货条件。"
+      ]
+    ]
+  },
+  "finalContentReview": {
+    "approvedChanges": [
+      "B1",
+      "N1",
+      "N2",
+      "N3",
+      "N4"
+    ],
+    "authority": "Parent explicit approval of all five, 2026-09-22",
+    "verdictSHA256": "05ba1c95e1a4cbdc32680d017af1369d76d98d06f6e3aa45ee5225178adccbbc"
+  }
+}

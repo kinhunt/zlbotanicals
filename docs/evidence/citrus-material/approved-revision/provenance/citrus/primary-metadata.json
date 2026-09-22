@@ -1,0 +1,299 @@
+[
+  {
+    "archive_id": "S1",
+    "title": "Assessment of Various Food Proteins as Structural Materials for Delivery of Hydrophobic Polyphenols Using a Novel Co-Precipitation Method",
+    "article_ids": [
+      {
+        "type": "pmcid",
+        "value": "PMC10147046"
+      },
+      {
+        "type": "pmcid-ver",
+        "value": "PMC10147046.1"
+      },
+      {
+        "type": "pmcaid",
+        "value": "10147046"
+      },
+      {
+        "type": "pmcaiid",
+        "value": "10147046"
+      },
+      {
+        "type": "pmid",
+        "value": "37110808"
+      },
+      {
+        "type": "doi",
+        "value": "10.3390/molecules28083573"
+      },
+      {
+        "type": "publisher-id",
+        "value": "molecules-28-03573"
+      }
+    ],
+    "authors": [
+      "Rashidinejad Ali",
+      "Nieuwkoop Matthijs",
+      "Singh Harjinder",
+      "Jameson Geoffrey B."
+    ],
+    "sections": [
+      "1. Introduction",
+      "2. Results and Discussion",
+      "2.1. Powder Characteristics, Entrapment Efficiency, and Loading Capacity",
+      "2.2. Morphology of Polyphenol–Protein Co-Precipitates",
+      "2.3. Crystallinity of the Polyphenol–Protein Co-Precipitates",
+      "2.4. Dispersibility and Solubility of the Polyphenol–Protein Co-Precipitates",
+      "3. Materials and Methods",
+      "3.1. Chemicals and Reagents",
+      "3.2. Manufacture of the Polyphenol–Protein Co-Precipitates",
+      "3.3. Entrapment Efficiency (EE) and Loading Capacity (LC) Determination",
+      "3.4. Morphology of the Co-Precipitates",
+      "3.5. Powder X-ray Diffraction (XRD)",
+      "3.6. Dispersibility of the Co-Precipitates in Water",
+      "3.7. Solubility of the Co-Precipitates in Water",
+      "3.8. Statistical Analysis",
+      "4. Conclusions"
+    ]
+  },
+  {
+    "archive_id": "S2",
+    "title": "A Comparative Study of Hesperetin, Hesperidin and Hesperidin Glucoside: Antioxidant, Anti-Inflammatory, and Antibacterial Activities In Vitro",
+    "article_ids": [
+      {
+        "type": "pmcid",
+        "value": "PMC9405481"
+      },
+      {
+        "type": "pmcid-ver",
+        "value": "PMC9405481.1"
+      },
+      {
+        "type": "pmcaid",
+        "value": "9405481"
+      },
+      {
+        "type": "pmcaiid",
+        "value": "9405481"
+      },
+      {
+        "type": "pmid",
+        "value": "36009336"
+      },
+      {
+        "type": "doi",
+        "value": "10.3390/antiox11081618"
+      },
+      {
+        "type": "publisher-id",
+        "value": "antioxidants-11-01618"
+      }
+    ],
+    "authors": [
+      "Choi Sung-Sook",
+      "Lee Sun-Hyung",
+      "Lee Kyung-Ae"
+    ],
+    "sections": [
+      "1. Introduction",
+      "2. Materials and Methods",
+      "2.1. Materials and Chemicals",
+      "2.2. Preparation of Hesperetin and Hesperidin Glucoside",
+      "2.3. Analysis of Hesperetin, Hesperidin and Hesperidin Glucoside",
+      "2.3.1. Determination of Hesperetin, Hesperidin and Hesperidin Glucoside",
+      "2.3.2. Identification by FT-IR",
+      "2.3.3. Identification by LC-MS",
+      "2.4. Determination of Partition Coefficient",
+      "2.5. Determination of Antioxidant Activity",
+      "2.5.1. DPPH Radical Scavenging Assay",
+      "2.5.2. ABTS Radical Scavenging Assay",
+      "2.6. Determination of Effects on Inflammatory Mediators and Pro-Inflammatory Cytokines",
+      "2.6.1. Cell Culture, Cytotoxicity",
+      "2.6.2. Measurement of Inflammatory Mediators",
+      "2.6.3. Measurement of Pro-Inflammatory Cytokine Levels",
+      "2.7. Determination of Antibacterial Activity",
+      "2.7.1. Microorganisms",
+      "2.7.2. Determination of Minimum Inhibitory Concentration (MIC)",
+      "2.7.3. Determination of Minimal Bactericidal Concentration (MBC)",
+      "2.8. Statistical Analysis",
+      "3. Results",
+      "3.1. Preparation of Hesperetin and Hesperidin Glucoside",
+      "3.1.1. Enzymatic Conversion of Hesperidin to Hesperetin",
+      "3.1.2. Enzymatic Conversion of Hesperidin to Hesperidin Glucoside",
+      "3.2. Identification of Hesperetin and Hesperidin Glucoside",
+      "3.2.1. FT-IT Spectra of Hesperetin, Hesperidin and Hesperidin Glucoside",
+      "3.2.2. Mass Spectral Fragmentation of Hesperetin, Hesperidin and Hesperidin Glucoside",
+      "3.3. Partition Coefficient of Hesperetin, Hesperidin and Hesperidin Glucosides",
+      "3.4. Antioxidant Activity of Hesperetin, Hesperidin and Hesperidin Glucoside",
+      "3.5. Effects of Hesperetin, Hesperidin and Hesperidin Glucoside on Cell Viability",
+      "3.6. Effects of Hesperetin, Hesperidin and Hesperidin Glucoside on Inflammation",
+      "3.6.1. Effects on NO and PGE2 Levels",
+      "3.6.2. Effects on TNF-α and IL-6 Levels",
+      "3.7. Antibacterial Activity of Hesperetin, Hesperidin and Hesperidin Glucoside",
+      "3.7.1. Effects on MIC",
+      "3.7.2. Effects on MBC",
+      "4. Discussion",
+      "5. Conclusions"
+    ]
+  },
+  {
+    "archive_id": "A1",
+    "title": "An Extract of Glycyrrhiza glabra (GutGard) Alleviates Symptoms of Functional Dyspepsia: A Randomized, Double-Blind, Placebo-Controlled Study",
+    "article_ids": [
+      {
+        "type": "pmcid",
+        "value": "PMC3123991"
+      },
+      {
+        "type": "pmcid-ver",
+        "value": "PMC3123991.1"
+      },
+      {
+        "type": "pmcaid",
+        "value": "3123991"
+      },
+      {
+        "type": "pmcaiid",
+        "value": "3123991"
+      },
+      {
+        "type": "pmid",
+        "value": "21747893"
+      },
+      {
+        "type": "doi",
+        "value": "10.1155/2012/216970"
+      }
+    ],
+    "authors": [
+      "Raveendra Kadur Ramamurthy",
+      "Jayachandra",
+      "Srinivasa Venkatappa",
+      "Sushma Kadur Raveendra",
+      "Allan Joseph Joshua",
+      "Goudar Krishnagouda Shankargouda",
+      "Shivaprasad Hebbani Nagarajappa",
+      "Venkateshwarlu Kudiganti",
+      "Geetharani Periasamy",
+      "Sushma Gopalakrishna",
+      "Agarwal Amit"
+    ],
+    "sections": [
+      "1. Introduction",
+      "2. Materials and Methods",
+      "2.1. Study Design",
+      "2.2. Randomization and Blinding",
+      "2.3. Assessment of Efficacy and Tolerability",
+      "2.4. Data Analysis",
+      "3. Results",
+      "3.1. Demographic Characteristics of Patients",
+      "3.2. Primary and Secondary Outcome Measures",
+      "3.3. Laboratory Investigations",
+      "4. Discussion",
+      "5. Conclusion"
+    ]
+  },
+  {
+    "archive_id": "R1",
+    "title": "Safety of glucosyl hesperidin as a Novel food pursuant to Regulation (EU) 2015/2283",
+    "article_ids": [
+      {
+        "type": "pmcid",
+        "value": "PMC11306971"
+      },
+      {
+        "type": "pmcid-ver",
+        "value": "PMC11306971.1"
+      },
+      {
+        "type": "pmcaid",
+        "value": "11306971"
+      },
+      {
+        "type": "pmcaiid",
+        "value": "11306971"
+      },
+      {
+        "type": "pmid",
+        "value": "39119058"
+      },
+      {
+        "type": "doi",
+        "value": "10.2903/j.efsa.2024.8911"
+      },
+      {
+        "type": "publisher-id",
+        "value": "EFS28911"
+      }
+    ],
+    "authors": [
+      "Turck Dominique",
+      "Bohn Torsten",
+      "Castenmiller Jacqueline",
+      "De Henauw Stefaan",
+      "Hirsch‐Ernst Karen Ildico",
+      "Maciuk Alexandre",
+      "Mangelsdorf Inge",
+      "McArdle Harry J.",
+      "Naska Androniki",
+      "Pentieva Kristina",
+      "Siani Alfonso",
+      "Thies Frank",
+      "Tsabouri Sophia",
+      "Vinceti Marco",
+      "Aguilera‐Gómez Margarita",
+      "Cubadda Francesco",
+      "Frenzel Thomas",
+      "Heinonen Marina",
+      "Neuhäuser‐Berthold Monika",
+      "Poulsen Morten",
+      "Maradona Miguel Prieto",
+      "Schlatter Josef Rudolf",
+      "Siskos Alexandros",
+      "van Loveren Henk",
+      "Kouloura Eirini",
+      "Matijević Leonard",
+      "Knutsen Helle Katrine"
+    ],
+    "sections": [
+      "INTRODUCTION",
+      "Background and Terms of Reference as provided by the requestor",
+      "DATA AND METHODOLOGIES",
+      "Data",
+      "Methodologies",
+      "ASSESSMENT",
+      "Introduction",
+      "Identity of the NF\n",
+      "Production process",
+      "Compositional data",
+      "Stability",
+      "Specifications",
+      "History of use of the NF and/or of its source",
+      "History of use of the source",
+      "History of use of the NF\n",
+      "Proposed uses and use levels and anticipated intake",
+      "Target population",
+      "Proposed uses and use levels",
+      "Anticipated intake of the NF\n",
+      "Absorption, distribution, metabolism and excretion (ADME)",
+      "Nutritional information",
+      "Toxicological information",
+      "Genotoxicity",
+      "Subacute and subchronic toxicity",
+      "Reproductive and developmental toxicity",
+      "Human data",
+      "Allergenicity",
+      "DISCUSSION",
+      "CONCLUSIONS",
+      "Protection of proprietary data in accordance with article 26 of regulation (EU) 2015/2283",
+      "STEPS TAKEN BY EFSA\n",
+      "CONFLICT OF INTEREST",
+      "REQUESTOR",
+      "QUESTION NUMBER",
+      "PANEL MEMBERS",
+      "MAP DISCLAIMER",
+      "Supporting information"
+    ]
+  }
+]

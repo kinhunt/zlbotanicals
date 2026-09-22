@@ -1,0 +1,135 @@
+{
+  "captured_at_utc": "2026-09-22T03:53:31.133030+00:00",
+  "command": "browserman execution wait exec_3ee95689c30c4db4 --json",
+  "response": {
+    "ok": true,
+    "command": "execution.wait",
+    "result": {
+      "id": "exec_3ee95689c30c4db4",
+      "status": "completed",
+      "currentStep": "Done",
+      "platform": "amazon",
+      "action": "search",
+      "result": {
+        "blocked": false,
+        "count": 8,
+        "items": [
+          {
+            "asin": "B0CGXZFJPC",
+            "availability": "Capsule180 Count (Pack of 1)",
+            "image": "https://m.media-amazon.com/images/I/61dEfejuQLL._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$24.95",
+            "rank": 1,
+            "rating": "4.8",
+            "reviewCount": "1,151 ratings",
+            "sponsored": false,
+            "title": "Hesperidin Plus 1000mg Per Serving (180 Vegetarian Capsules)",
+            "url": "https://www.amazon.com/Healing-Awakening-Hesperidin-Vegetarian-Capsules/dp/B0CGXZFJPC"
+          },
+          {
+            "asin": "B001PT7HRE",
+            "availability": "Cardiovascular and Heart Health Support, Contributes to Muscle Recovery, Antioxidant Properties, Gluten-Free and Non-GMO",
+            "image": "https://m.media-amazon.com/images/I/71BskULXTaL._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$15.99",
+            "rank": 2,
+            "rating": "4.5",
+            "reviewCount": "289 ratings",
+            "sponsored": false,
+            "title": "Swanson Hesperidin Citrus-Derived Flavonoid, 60 Capsules",
+            "url": "https://www.amazon.com/Swanson-Hesperidin-Citrus-Derived-Cardiovascular-Contributes/dp/B001PT7HRE"
+          },
+          {
+            "asin": "B0CTFWBY9H",
+            "availability": "Capsule240 Count (Pack of 1)",
+            "image": "https://m.media-amazon.com/images/I/71o+jmA2nsL._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$27.97",
+            "rank": 3,
+            "rating": "4.5",
+            "reviewCount": "121 ratings",
+            "sponsored": false,
+            "title": "Hesperidin 1000mg, 240 Capsules (4 Month Supply), Supports Cardiovascular Health, Blood Pressure & Circulation, Immune Support, Potent Antioxidant & Vascular Function Benefits, Made in USA",
+            "url": "https://www.amazon.com/Hesperidin-Capsules-Cardiovascular-Circulation-Antioxidant/dp/B0CTFWBY9H"
+          },
+          {
+            "asin": "B0896SJSK8",
+            "availability": "Capsules180 Count (Pack of 1)",
+            "image": "https://m.media-amazon.com/images/I/816jiQ4aGTL._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$34.99",
+            "rank": 4,
+            "rating": "4.5",
+            "reviewCount": "314 ratings",
+            "sponsored": false,
+            "title": "Nootropics Depot Hesperidin Capsules | 500mg | 180 Count | 90% Citrus Extract | Supports Metabolic Function + Cardiovascular Health",
+            "url": "https://www.amazon.com/Hesperidin-Capsules-aurantium-Metabolic-Cardiovascular/dp/B0896SJSK8"
+          },
+          {
+            "asin": "B0FPYN3J4Z",
+            "availability": "500mg of Diosmin and 500mg of Hesperidin per Serving, 60 Servings, GMO-Free, Gluten-Free",
+            "image": "https://m.media-amazon.com/images/I/61iGqsZZB3L._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$17.95",
+            "rank": 5,
+            "rating": "4.7",
+            "reviewCount": "500mg of Diosmin and 500mg of Hesperidin per Serving, 60 Servings, GMO-Free, Gluten-Free",
+            "sponsored": false,
+            "title": "Nutricost Diosmin with Hesperidin (1000mg) Complex 120 Capsules, Vegan",
+            "url": "https://www.amazon.com/Nutricost-Diosmin-Hesperidin-1000mg-Capsules/dp/B0FPYN3J4Z"
+          },
+          {
+            "asin": "B0896VYQ9Y",
+            "availability": "Capsules60 Count (Pack of 1)",
+            "image": "https://m.media-amazon.com/images/I/816jiQ4aGTL._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$19.99",
+            "rank": 6,
+            "rating": "4.5",
+            "reviewCount": "314 ratings",
+            "sponsored": false,
+            "title": "Nootropics Depot Hesperidin Capsules | 500mg | 60 Count | 90% Citrus Extract | Supports Metabolic Function + Cardiovascular Health",
+            "url": "https://www.amazon.com/Hesperidin-Capsules-aurantium-Metabolic-Cardiovascular/dp/B0896VYQ9Y"
+          },
+          {
+            "asin": "B0CFGDXPNV",
+            "availability": "Dietary Supplement, Hesperidin Bioflavonoid, High Absorption & BioPerine, Suitable for Adults, Made in cGMP Facility USA",
+            "image": "https://m.media-amazon.com/images/I/61up-ViNEuL._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$25.49",
+            "rank": 7,
+            "rating": "4.3",
+            "reviewCount": "78 ratings",
+            "sponsored": false,
+            "title": "NusaPure Hesperidin, Vegan, 500mg, 180 Veggie Capsules - 180 Servings",
+            "url": "https://www.amazon.com/Hesperidin-Non-GMO-Vegan-Veggie-Capsules/dp/B0CFGDXPNV"
+          },
+          {
+            "asin": "B0DG3THZND",
+            "availability": "Citrus bioflavonoid complex from bitter orange to support vein health, circulation (diosmina 500mg para la circulación)",
+            "image": "https://m.media-amazon.com/images/I/71Qyn3NlL6L._AC_UL320_.jpg",
+            "page": 1,
+            "price": "$16.99",
+            "rank": 8,
+            "rating": "4.6",
+            "reviewCount": "Citrus bioflavonoid complex from bitter orange to support vein health, circulation (diosmina 500mg para la circulación)",
+            "sponsored": false,
+            "title": "Diosmin Hesperidin 1000mg Complex (Diosmin 500mg + Hesperidin 500mg) 60ct",
+            "url": "https://www.amazon.com/Diosmin-Hesperidin-1000mg-Complex-Support/dp/B0DG3THZND"
+          }
+        ],
+        "marketplace": "https://www.amazon.com",
+        "noResults": false,
+        "page": 1,
+        "query": "hesperidin",
+        "success": true,
+        "title": "Amazon.com : hesperidin",
+        "url": "https://www.amazon.com/s?k=hesperidin"
+      },
+      "error": null,
+      "startedAt": "2026-09-22 03:53:17",
+      "completedAt": "2026-09-22 03:53:29"
+    }
+  }
+}

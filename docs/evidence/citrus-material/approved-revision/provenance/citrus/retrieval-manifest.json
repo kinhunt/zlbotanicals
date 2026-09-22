@@ -1,0 +1,197 @@
+[
+  {
+    "id": "S1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10147046/fullTextXML",
+    "path": "sources/S1.xml",
+    "bytes": 126919,
+    "sha256": "e53d884bb0acca7269960a73d1cef8953c369f7b194fb32219a5dfe414c6c163",
+    "retrieved_utc": "2026-09-22T03:46:51Z",
+    "xml_valid": true,
+    "status": null,
+    "note": "HTTP status not retained on initial parser failure. Complete article XML parsed with stdlib ElementTree; no re-download implied."
+  },
+  {
+    "id": "S2",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9405481/fullTextXML",
+    "path": "sources/S2.xml",
+    "bytes": 156119,
+    "sha256": "7fd6e2fe78848f9e8e0a2132819c2e81bca902c7f8843c4996e9484543d761e3",
+    "retrieved_utc": "2026-09-22T03:46:51Z",
+    "xml_valid": true,
+    "status": null,
+    "note": "HTTP status not retained on initial parser failure. Complete article XML parsed with stdlib ElementTree; no re-download implied."
+  },
+  {
+    "id": "D1",
+    "url": "https://www.nagase.com/content/dam/nagase-www/en/products/active-ingredients/pdf/Alpha_Glucosyl_Hesperidin_Brochure.pdf",
+    "final_url": "https://www.nagase.com/content/dam/nagase-www/en/products/active-ingredients/pdf/Alpha_Glucosyl_Hesperidin_Brochure.pdf",
+    "status": 200,
+    "path": "sources/D1.pdf",
+    "bytes": 1465205,
+    "sha256": "9b2ffe94160b631e9410fe3a474e75e21070ced81cf6e85a02732486962307de",
+    "retrieved_utc": "2026-09-22T03:46:50.536714+00:00"
+  },
+  {
+    "id": "D2",
+    "url": "https://group.nagase.com/viita/en/rd/story/02/",
+    "final_url": "https://group.nagase.com/viita/en/rd/story/02/",
+    "status": 200,
+    "path": "sources/D2.html",
+    "bytes": 76592,
+    "sha256": "c3eddd92c7d51162abbbdd990bcf8b8dcc4a5d56984eb5b125dfa9075fb78013",
+    "retrieved_utc": "2026-09-22T03:46:51.760269+00:00"
+  },
+  {
+    "id": "A1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3123991/fullTextXML",
+    "path": "sources/A1.xml",
+    "bytes": 96058,
+    "sha256": "929d570eaae22663cc0defa4e26200a8d50953ee4536d2de61ecbb29cc5ccea5",
+    "retrieved_utc": "2026-09-22T03:46:51Z",
+    "xml_valid": true,
+    "status": null,
+    "note": "HTTP status not retained on initial parser failure. Complete article XML parsed with stdlib ElementTree; no re-download implied."
+  },
+  {
+    "id": "A2",
+    "url": "https://naturalremedieshumanhealth.com/how-gutgard-helps-manage-functional-dyspepsia-symptoms/",
+    "final_url": "https://naturalremedieshumanhealth.com/how-gutgard-helps-manage-functional-dyspepsia-symptoms/",
+    "status": 200,
+    "path": "sources/A2.html",
+    "bytes": 990420,
+    "sha256": "aadf83543bbf4855ad17949a88cc57a0c3daaaaf55655889e7773978eefb93b2",
+    "retrieved_utc": "2026-09-22T03:46:51.833130+00:00"
+  },
+  {
+    "id": "A3",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3969490/fullTextXML",
+    "error": "Actual response is HTTP 500 JSON, not XML",
+    "path": "sources/A3.xml",
+    "status": 500,
+    "usable": false,
+    "sha256": "cf73b2dab1cd37b1cc040ba85762f6f29177d158c48c5dffa4b2dc40b1296e78"
+  },
+  {
+    "id": "A4",
+    "url": "https://www.herbafood.de/en/products/functional-and-dietary-fibers/herbacel-aq-plus/",
+    "final_url": "https://www.herbafood.de/en/products/functional-and-dietary-fibers/herbacel-aq-plus/",
+    "status": 200,
+    "path": "sources/A4.html",
+    "bytes": 176900,
+    "sha256": "b0a98ea72a322e17945b310f08593e8f4c6724e7eb9e5a5353fa083c33e3f5e6",
+    "retrieved_utc": "2026-09-22T03:46:50.918625+00:00"
+  },
+  {
+    "id": "R1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11306971/fullTextXML",
+    "status": 200,
+    "path": "sources/R1.xml",
+    "sha256": "cf866f67a63c50ce371cfd8b72a13468a1a8adc7bb04e0c6d89724ac160eb97a",
+    "retrieved_utc": "2026-09-22T03:47:40.761077+00:00"
+  },
+  {
+    "id": "D3",
+    "url": "https://www.nagase.com/products/citrapeak",
+    "final_url": "https://www.nagase.com/products/citrapeak",
+    "status": 200,
+    "path": "sources/D3.html",
+    "bytes": 303015,
+    "sha256": "b0085cfd8cc65721f81f3e056acf6b73db0bd466829aa26f7b97a1cca80828f3",
+    "retrieved_utc": "2026-09-22T03:48:20.140076+00:00"
+  },
+  {
+    "id": "D4",
+    "url": "https://www.nagase.com/discover/resources/agh-upcycled-citrus-polyphenol-for-inside-out-beauty",
+    "final_url": "https://www.nagase.com/discover/resources/agh-upcycled-citrus-polyphenol-for-inside-out-beauty",
+    "status": 200,
+    "path": "sources/D4.html",
+    "bytes": 279464,
+    "sha256": "5123dc08a0510979c849c4c9bbd8e7b8183fccd3c40cf13107904b507d448fd3",
+    "retrieved_utc": "2026-09-22T03:48:20.489394+00:00"
+  },
+  {
+    "id": "R2",
+    "url": "https://www.fda.gov/media/143883/download",
+    "final_url": "https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+    "status": 404,
+    "path": "sources/R2.html",
+    "bytes": 10,
+    "sha256": "493fda53120050f85836032324409be6c6484f90a0755ae0c6a673ba7626818b",
+    "retrieved_utc": "2026-09-22T03:48:19.541682+00:00",
+    "usable": false
+  },
+  {
+    "id": "R3",
+    "url": "https://www.fda.gov/media/143884/download",
+    "final_url": "https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+    "status": 404,
+    "path": "sources/R3.html",
+    "bytes": 10,
+    "sha256": "493fda53120050f85836032324409be6c6484f90a0755ae0c6a673ba7626818b",
+    "retrieved_utc": "2026-09-22T03:48:19.472491+00:00",
+    "usable": false
+  },
+  {
+    "id": "A3b",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3969490/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3969490/",
+    "status": 200,
+    "path": "sources/A3b.html",
+    "bytes": 21215,
+    "sha256": "886181646358080655bc5581e8a94c89a9fc6709e8d5ff593f0556cf2d7bc6de",
+    "retrieved_utc": "2026-09-22T03:48:19.550966+00:00",
+    "usable": false,
+    "error": "HTTP 200 reCAPTCHA challenge, not article"
+  },
+  {
+    "id": "R4",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500167",
+    "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500167",
+    "status": 200,
+    "path": "sources/R4.pdf",
+    "bytes": 521920,
+    "sha256": "7c1bcf77635879cd2d473a7daca1115541585fd5173c5e55bbb8e6a832cd4c21",
+    "retrieved_utc": "2026-09-22T03:48:39.350763+00:00"
+  },
+  {
+    "id": "R5",
+    "url": "https://eur-lex.europa.eu/eli/reg_impl/2025/167/corrigendum/2025-05-05/oj/eng",
+    "final_url": "https://eur-lex.europa.eu/eli/reg_impl/2025/167/corrigendum/2025-05-05/oj/eng",
+    "status": 200,
+    "path": "sources/R5.html",
+    "bytes": 281009,
+    "sha256": "fd4422bb3fb969ee0dee305793280ae8818af0c16ddc75e9e5ad95ae7d619010",
+    "retrieved_utc": "2026-09-22T03:48:39.263471+00:00"
+  },
+  {
+    "id": "R6",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02017R2470-20260316",
+    "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02017R2470-20260316",
+    "status": 200,
+    "path": "sources/R6.pdf",
+    "bytes": 3154139,
+    "sha256": "2404a410b18bf59d36b98751e7be9116c6e345a861c37acbd480b723d886016c",
+    "retrieved_utc": "2026-09-22T03:48:47.552221+00:00"
+  },
+  {
+    "id": "R2b",
+    "url": "https://www.fda.gov/media/143883/download?attachment",
+    "final_url": "https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+    "status": 404,
+    "path": "sources/R2b.html",
+    "bytes": 10,
+    "sha256": "493fda53120050f85836032324409be6c6484f90a0755ae0c6a673ba7626818b",
+    "retrieved_utc": "2026-09-22T03:48:38.236260+00:00",
+    "usable": false
+  },
+  {
+    "id": "A3c",
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC3969490/unicode",
+    "status": 200,
+    "path": "sources/A3c.json",
+    "sha256": "3acc5f4c51ec704cd708d3379196db9f66442a96c9bf275773710e0de0196b52",
+    "retrieved_utc": "2026-09-22T03:53:10.158235+00:00",
+    "usable": false,
+    "error": "HTTP 200 no-result HTML, not BioC JSON"
+  }
+]

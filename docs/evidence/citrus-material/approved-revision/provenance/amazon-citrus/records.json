@@ -1,0 +1,94 @@
+{
+  "scope": "Purposive Amazon US listing observations; not paper evidence or market-size measurement",
+  "date_utc": "2026-09-22",
+  "products": [
+    {
+      "asin": "B0896SJSK8",
+      "date_utc": "2026-09-22",
+      "captured_at_utc": "2026-09-22T03:54:48.241426+00:00",
+      "marketplace": "https://www.amazon.com",
+      "title_exact": "Nootropics Depot Hesperidin Capsules | 500mg | 180 Count | 90% Citrus Extract | Supports Metabolic Function + Cardiovascular Health",
+      "canonical_url": "https://www.amazon.com/dp/B0896SJSK8",
+      "observed_url": "https://www.amazon.com/dp/B0896SJSK8?th=1",
+      "source_capture": "sources/product-B0896SJSK8-result.json",
+      "identity": "Hesperidin; title specifies 90% citrus extract, not glucosyl hesperidin",
+      "dose": "Title and bullets: 500mg; 90% extract. Extract mass versus assayed hesperidin mass is not resolved by captured text; do not silently calculate 450mg.",
+      "serving": "180 capsules per bottle; serving size not exposed by official detail extraction.",
+      "carrier": "Not disclosed in captured text; absence is not established.",
+      "qualifiers": "Listing claims vegan, lab tested/verified and metabolic/cardiovascular support; not independently verified.",
+      "bullets_exact_deduplicated": [
+        "Hesperidin Capsules | 500mg | 90% Extract",
+        "180 Count",
+        "May help promote metabolic function",
+        "May help support cardiovascular health",
+        "LAB TESTED AND VERIFIED - All Nootropics Depot products are thoroughly lab tested to ensure our customers are receiving only the highest quality ingredients at the optimal strength, potency and purity. We take pride in the amount of research put into every product by sourcing only the highest quality and innovative ingredients."
+      ]
+    },
+    {
+      "asin": "B001F0QVX4",
+      "date_utc": "2026-09-22",
+      "captured_at_utc": "2026-09-22T03:55:11.862913+00:00",
+      "marketplace": "https://www.amazon.com",
+      "title_exact": "NOW Supplements, Citrus Bioflavonoids 700mg, Cell Defense*, 100 Veg Caps",
+      "canonical_url": "https://www.amazon.com/dp/B001F0QVX4",
+      "observed_url": "https://www.amazon.com/dp/B001F0QVX4",
+      "source_capture": "sources/product-B001F0QVX4-result.json",
+      "identity": "Generic citrus bioflavonoids with vitamin C/ascorbic acid; not an identified hesperidin or glucosyl hesperidin dose",
+      "dose": "Title: Citrus Bioflavonoids 700mg; specific hesperidin mass and vitamin C dose not exposed.",
+      "serving": "100 veg caps per title; serving size not exposed.",
+      "carrier": "Excipients/carriers not disclosed in captured text. Vitamin C is an explicitly named added nutrient, not proven carrier.",
+      "qualifiers": "Listing claims Non-GMO, Kosher, Soy Free and GMP/ISO laboratory qualifications; immune/vascular and synergy claims are marketing, not verified efficacy.",
+      "bullets_exact_deduplicated": [
+        "SUPPORTS IMMUNE SYSTEM*: Among the many attributes of bioflavonoids is their ability to support a healthy immune system response and to promote the maintenance of a healthy vascular system*",
+        "WITH ASCORBIC ACID AND BIOFLAVONOIDS: This product is enhanced with vitamin C for its synergistic effect*",
+        "CLASSIFICATIONS/CERTIFICATIONS: Non-GMO, Kosher, Soy Free",
+        "GMP Quality Assured: A-rated, third-party certification means that every aspect of the NOW manufacturing process has been examined. Our in-house laboratories are ISO/IEC accredited for laboratory testing including for stability, potency and product formulation.",
+        "Founded in 1968 by Elwood Richard, NOW is one of the largest independent, family- and employee-owned manufacturers of natural products"
+      ]
+    },
+    {
+      "asin": "B0FPYN3J4Z",
+      "date_utc": "2026-09-22",
+      "captured_at_utc": "2026-09-22T03:55:32.282922+00:00",
+      "marketplace": "https://www.amazon.com",
+      "title_exact": "Nutricost Diosmin with Hesperidin (1000mg) Complex 120 Capsules, Vegan",
+      "canonical_url": "https://www.amazon.com/dp/B0FPYN3J4Z",
+      "observed_url": "https://www.amazon.com/dp/B0FPYN3J4Z?th=1",
+      "source_capture": "sources/product-B0FPYN3J4Z-result.json",
+      "identity": "Diosmin + hesperidin combination, not 1000mg hesperidin and not glucosyl hesperidin",
+      "dose": "1000mg complex per 2-capsule serving = explicitly listed 500mg diosmin + 500mg hesperidin.",
+      "serving": "2 capsules per serving; 120 capsules; 60 servings.",
+      "carrier": "Excipients/carriers not disclosed in captured text. Diosmin is a co-active, not carrier.",
+      "qualifiers": "Listing claims vegan-friendly, GMO-free, gluten-free, NSF Certified/GMP Compliant/FDA Registered facility; facility registration is not product approval.",
+      "bullets_exact_deduplicated": [
+        "Provides 1000mg of Diosmin Complex per serving. Just 2 Capsules Per Serving",
+        "120 capsules per bottle, 60 servings total",
+        "Each serving includes 500mg of Diosmin and 500mg of Hesperidin",
+        "Vegan-friendly, GMO-free, and gluten-free",
+        "Manufactured in an NSF Certified, GMP Compliant, FDA Registered Facility"
+      ]
+    },
+    {
+      "asin": "B07JZDPJHK",
+      "date_utc": "2026-09-22",
+      "captured_at_utc": "2026-09-22T03:55:56.107102+00:00",
+      "marketplace": "https://www.amazon.com",
+      "title_exact": "Supersmart Hesperidin Methyl Chalcone 98% Supplement 1000 mg per Day",
+      "canonical_url": "https://www.amazon.com/dp/B07JZDPJHK",
+      "observed_url": "https://www.amazon.com/dp/B07JZDPJHK",
+      "source_capture": "sources/product-B07JZDPJHK-result.json",
+      "identity": "Hesperidin methyl chalcone (HMC), NOT glucosyl hesperidin or unmodified hesperidin; listing spells source Citrus aurentium (Fruit)",
+      "dose": "Title: 1000 mg per Day. Bullet: each capsule contains 500mg of hesperidin methyl chalcone 98%; extract standardized to 98% HMC. Preserve basis ambiguity rather than silently calculate assay-adjusted mass.",
+      "serving": "Recommended use 2 capsules a day; 60 capsules; details state 30 servings.",
+      "carrier": "Other ingredients explicitly stated: Hypromellose (Capsule) and Acacia Gum. Acacia gum functional role/amount not stated; do not assert spray-drying carrier.",
+      "qualifiers": "Listing claims non-GMO, gluten free, vegan. Source spelling and 98% standardization are seller wording, not independent chemical authentication.",
+      "bullets_exact_deduplicated": [
+        "HESPERIDIN METHYL CHALCONE: Our hesperidin supplement features a citrus aurentium extract highly standardized in hesperidin methyl chalcone.",
+        "98% CONCENTRATION: Our supplement contains a high concentration of flavonoids standardized to 98% hesperidin methyl chalcone.",
+        "NON-GMO, GLUTEN FREE, VEGAN: SuperSmart offers convenient daily supplements for women and men, thoughtfully formulated to complement a wide range of diets and lifestyles.",
+        "RECOMMENDED USE: Take 2 capsules a day. Each capsule contains 500mg of hesperidin methyl chalcone 98%. Contains Citrus aurentium (Fruit) extract standardized to 98% hesperidin methyl chalcone. Other ingredients: Hypromellose (Capsule) and Acacia Gum",
+        "SUPERSMART'S STANDARDS: Since 1992, Supersmart wants you to be fully satisfied. Ping us 24/7 regarding any questions you may have."
+      ]
+    }
+  ]
+}

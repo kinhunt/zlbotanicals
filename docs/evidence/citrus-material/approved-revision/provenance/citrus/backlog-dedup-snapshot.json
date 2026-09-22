@@ -1,0 +1,137 @@
+[
+  {
+    "id": "T01",
+    "title": "茶饮冷藏后变浑：如何区分水质、复溶与低温聚集问题",
+    "status": "published"
+  },
+  {
+    "id": "T02",
+    "title": "茶饮变褐不是冷后浑：把碱度、矿物盐与持液时间拆开",
+    "status": "research_candidate"
+  },
+  {
+    "id": "T03",
+    "title": "茶浓缩液很稳定，为什么兑水后反而沉淀？",
+    "status": "published_existing_tea_hub"
+  },
+  {
+    "id": "T04",
+    "title": "过滤后茶变清了：被去掉的是颗粒，还是你要保留的茶？",
+    "status": "published_existing_tea_hub"
+  },
+  {
+    "id": "T05",
+    "title": "杯口的膜与瓶底的浑不是一回事：茶膜的水质排查",
+    "status": "research_candidate"
+  },
+  {
+    "id": "I01",
+    "title": "茶提取物供应：绿茶、红茶与乌龙茶原料及交付形态",
+    "status": "published"
+  },
+  {
+    "id": "I02",
+    "title": "茶提取物报价怎么换算：从供应粉含量到每千瓶原料成本",
+    "status": "候选卡；不是已撰稿、已实测或已发表资产"
+  },
+  {
+    "id": "I04",
+    "title": "甜味剂小袋重量一致，为什么甜度仍不同？转运分层的取样图",
+    "status": "published_http_verified_public_browser_partial_403"
+  },
+  {
+    "id": "I05",
+    "title": "积雪草原料液加了1%，成品究竟含多少？四标志物与载体计算表",
+    "status": "published"
+  },
+  {
+    "id": "I06",
+    "title": "积雪草文献中的“提取物”一样吗？从四标志物到使用途径的证据对照",
+    "status": "候选卡；不是已撰稿、已实测或已发表资产"
+  },
+  {
+    "id": "I07",
+    "title": "甜菊原料从叶提换成酶转化：哪些文件和试样必须重新对照？",
+    "status": "候选卡；不是已撰稿、已实测或已发表资产"
+  },
+  {
+    "id": "ADJ-01",
+    "title": "英国乳饮减糖如何同时记两本账：税基糖量与甜菊感官补偿",
+    "status": "published_http_verified_public_browser_blocked_403"
+  },
+  {
+    "id": "ADJ-02",
+    "title": "甜菊饮品第一口合格、余甜仍长：三个时间点的感官记录法",
+    "status": "published_http_verified_public_browser_partial_403"
+  },
+  {
+    "id": "ADJ-03",
+    "title": "同浓度不等甜：Reb A、D、M比较表中最容易误读的一列",
+    "status": null
+  },
+  {
+    "id": "ADJ-04",
+    "title": "甜菊盲评要先筛“超级味觉者”吗？一个阴性结果的招募启示",
+    "status": null
+  },
+  {
+    "id": "ADJ-05",
+    "title": "积雪草冷配乳液不分层就算稳定吗？从84天研究看指标冲突",
+    "status": "published_http_verified_public_browser_partial_403"
+  },
+  {
+    "id": "ADJ-06",
+    "title": "积雪草加得更多不一定释放更多：先区分提取物添加量与标准品加标",
+    "status": null
+  },
+  {
+    "id": "ADJ-07",
+    "title": "积雪草保湿文献怎样迁移到产品brief：25人前臂试验能证明什么",
+    "status": null
+  },
+  {
+    "id": "ADJ-08",
+    "title": "精简护肤步骤不等于简化验证：积雪草与烟酰胺复配的相容性brief",
+    "status": null
+  },
+  {
+    "id": "C01",
+    "title": "同叫水溶性绿茶提取物，食品粉末与外用液体不能直接替换",
+    "status": "evidence_collected"
+  },
+  {
+    "id": "NEW-GINSENG-01",
+    "title": "人参饮料热后风味与皂苷回收分别评价",
+    "status": "published_http_verified_browser_blocked_403"
+  },
+  {
+    "id": "NEW-PAPRIKA",
+    "title": null,
+    "status": "published_public_browser_partial_waf_blocked"
+  },
+  {
+    "id": "NEW-QUILLAJA",
+    "title": null,
+    "status": "published_existing_beverage_module"
+  },
+  {
+    "id": "NEW-ROSEMARY",
+    "title": "食品用迷迭香抗氧化原料：交付形态与证据选型",
+    "status": "published_existing_food_module_public_browser_partial_waf"
+  },
+  {
+    "id": "NEW-ELDERBERRY",
+    "title": "接骨木提取物：相同花青素规格与不同纤维、载体和方法口径",
+    "status": "published_http_verified_public_browser_partial_waf"
+  },
+  {
+    "id": "NEW-SAFFRON",
+    "title": "藏红花原料采购：组成、等级与真实性，需要不同的证据",
+    "status": "published_http_verified_public_browser_partial_waf"
+  },
+  {
+    "id": "NEW-HIBISCUS",
+    "title": "洛神花果汁饮料的颜色稳定性，不能只看花色苷含量",
+    "status": "published_http_verified_public_browser_partial_waf"
+  }
+]
