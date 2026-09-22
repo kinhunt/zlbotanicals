@@ -1,0 +1,225 @@
+{
+  "verdict": "PASS_CONTENT_CONDITIONAL_ON_RENDERED_SCREENSHOTS",
+  "substantive_blockers": [],
+  "reviewed_sha256": {
+    "chicory-fibre-selection.zh.md": "ed8f90e7b08e442010df16ae3c2759b884fcfb630b6e5921d5efe28667159fee",
+    "chicory-fibre-selection.en.md": "cb13daaf2967c5ddf2b9ec2ef69266ee2bd4547c451986e469e4264c9990823e"
+  },
+  "originals_unchanged": true,
+  "original_file_count": 44,
+  "original_sha256": {
+    "DISCOVERY.md": "4ac7ecc982ab54529fc2907a86e8b58acb541e10b1b61ffa01857435b92648b6",
+    "ledger.json": "d46655f53d6a6435b88832b62fedcf0fc2d62605f80b99e241e69673d616e973",
+    "SHA256SUMS.json": "ae3366b2405a32ea0e625fcdccf74e89b31ef3efb2a6f81c7e78a81841b404ff",
+    "EVIDENCE.md": "af2e33dc07ffe77e07d20c91d741bedb7417a364cdee8fc12e5c8667971b7a02",
+    "backlog-snapshot.json": "275294e3d6f987be1e0226ec5ce53ba8cb45eac7e157e595d326748723f5b07b",
+    "chicory-fibre-selection.zh.md": "19dbc52cc6ba8b4dcba5ad27f97b747d22409957f0876007865c73f2f344f90d",
+    "verification.json": "9e49865d0244fb731b8fbe56a8cdb8985f17e2f52795e975978cd584ffeaee50",
+    "chicory-fibre-selection.en.md": "44a6a4c80885f3aecf563fdd510210394898ea5525b9a582c3aae7ad66fb3f3e",
+    "retrieval-manifest.json": "ab161e464654c21c4c233acc98a5372e7b3135e336c451ab989a6d795c669bad",
+    "evidence/gel-primary.txt": "c97453bdfaa99121e89ff2c9ba4516da9a72f99b9daa4ea210b62053c6f0f6db",
+    "evidence/nccih-licorice.txt": "714ea7ece3bb4909118c022c266b028a3b94297d38f8691fa841fbdb173c48ca",
+    "evidence/search-licorice.json": "14cfc99f3f99ed27198c9f118397d9d855559413ae5af2539a0f9fdee285643a",
+    "evidence/fos-pubmed-direct.html": "633c3277d6bd264e5d42e355bc2614424da4a2b87e31232e615f4a8b6f0308e3",
+    "evidence/fos-pubmed-direct.txt": "4a7d280516eec1580e45a864f4f272e4e70e44a12e4245f866c5a882ec0055e1",
+    "evidence/fos-europepmc.txt": "471ead04bf34b7d490cd11df33be3dc469f4bb084fceab25c2fc4f4ebaafe557",
+    "evidence/basf-beta.json": "0c0dc1796f500937a6126682bb1c33c6123b5f6be2d528205d45639b9ac7b8fc",
+    "evidence/beneo-inulin.json": "051f35be1987707bd9e027f704801523b6c6cc3a9e432d54dc4e78015e4bb4f4",
+    "evidence/fos-primary.txt": "80dd008f3c2db2de95def6598aeb159cb05c4313aaf547bbfbbaf3f4968326d9",
+    "evidence/fos-primary.json": "348695ece80548fe48ed2bdc2dc010e13fe0a9efd63f0072247a5fa0f07dd613",
+    "evidence/beneo-oligofructose.html": "024970177d8e7338faaff958ab48a086cd7f083f4a6991b314de5d1560ac075a",
+    "evidence/fda-fiber.txt": "572833ff991380ab203c693a6014fefd360a3fa77694b9e99893f370d0e29244",
+    "evidence/gel-crossref.json": "cf95fea45d740df8ee64581103d035b3330ba592335f710eb1674cf765008666",
+    "evidence/nccih-licorice.html": "dbbdd0f1539f7681f88da39007c61e855f3afadb919ef1328566384f1c4a070e",
+    "evidence/basf-beta.txt": "b6ccb509120327966dd759de5700c21d95616ea737d271f2b65b9f189ae7676c",
+    "evidence/cosucra.html": "e2415b6235ade3d2d2486f43edfbc9eddfc47011b50fdd1fb5cffbc1d3ba94af",
+    "evidence/gel-primary.json": "ae11d17b0cb74f325dcf173a525b53210ba0ebc26d2ecdb1e41755aeebf8224b",
+    "evidence/search-beta.json": "1186cd392ad2d8c439c5ae2b7ebe91159a40fd5a461373e718558e267e7a8816",
+    "evidence/cosucra.txt": "f788b727a8295185bf439c9608e17cbece0e19925a83739444017347ee960590",
+    "evidence/beneo-inulin.txt": "076c045afeb828541afa47a4c5246a42d0a8e988595f98f92d4c33dafb253044",
+    "evidence/search-inulin.json": "a3da380e14897ba6b971d96efc593647d58919cd55b1c9f848922a3d283b0a3d",
+    "evidence/beneo-inulin-direct.html": "fd45024ab414146e9c067f243ef3bb66e56aa18006ffbfa8d66acd7e751cac54",
+    "evidence/nccih-licorice.json": "1952bf6276b1befc5ead52c4a72762a676dbec7532dbdd281a690509705bf2a3",
+    "evidence/beneo-oligofructose.txt": "5efa61844590ca2bb6e5ee2b799e370f0e4865bb5b3dd6ab3b9aed529674798a",
+    "evidence/beneo-oligofructose.json": "814c9e8a0eb666cf7d03472ca771a45cbf9f8826a34be581b510a975df0ad68c",
+    "evidence/beneo-inulin-direct.txt": "667c2980ac91033b99727e48324903fd3d0adbb101105922ed6fe590d5468810",
+    "evidence/fda-fiber.json": "ddf5918b15ac9e9cd0cbb64e065fffd779f08f9f88a4e6743c497921d504175c",
+    "evidence/cosucra.json": "c57aaef8ed444a1fbd0eb647bf287df4ada89fd1900e007242e3219f4c7e6f71",
+    "inventory/ingredient-reader-packs.json": "100d5d16eafce4c3c270e84da832d1787e486a3d323c99341dfd57fe9f26492b",
+    "inventory/editorial-discovery-brief.md": "50d5dea1f2ccb006bef2e991b993d126e97891684c335d3f926c7e953b29ed97",
+    "inventory/licorice-root.md": "4c9c5c27e84f9150e1feb2480373b64d3362d48372ea17c6e70e5642ae27ca34",
+    "inventory/paprika-extract-format-selection.md": "888cfd48d351b85e9d42eb16a14e949f5004b73502481c0d953c502653371ab5",
+    "inventory/vanilla-authentication.md": "01183ab1501d6bd52d8338d0388eb5fd7adbb0dd4240ebc16a34f0c5667a51d4",
+    "inventory/receipt.json": "fc2d9defa5395af06484e2f36b37d80fa766990e9098247903b8f3237137fd27",
+    "inventory/other-material-matches.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "literal_quote_checks": [
+    {
+      "id": 1,
+      "quote": "Inulin powder for high dispersibility (instant), average DP ≥ 10",
+      "literal_match": true
+    },
+    {
+      "id": 1,
+      "quote": "Product Name Orafti ® HP Inulin Content ~100% Sweetness level 0% Descriptor High performance Inulin powder for fat replacement at low processing temperatures, average DP ≥ 23 Product Name Orafti ® HPX Inulin Content ~100% Sweetness level 0% Descriptor High performance Inulin powder for fat replacement at high processing temperatures, average DP ≥ 23",
+      "literal_match": true
+    },
+    {
+      "id": 2,
+      "quote": "Oligofructose is an inulin-type fructan and is derived from Inulin through partial enzymatic hydrolysis.",
+      "literal_match": true
+    },
+    {
+      "id": 3,
+      "quote": "Until FDA completes rulemaking regarding adding additional fibers to the regulatory definition of dietary fiber, the agency intends to exercise enforcement discretion to allow manufacturers to include the amount of these additional fibers in the dietary fiber declaration on the Nutrition and Supplement Facts labels.",
+      "literal_match": true
+    },
+    {
+      "id": 5,
+      "quote": "BASF offers a broad portfolio of beta-carotene products including oily dispersions and powders suitable for multiple applications.",
+      "literal_match": true
+    },
+    {
+      "id": 6,
+      "quote": "Oral licorice products that do not contain glycyrrhizin (deglycyrrhizinated licorice) might be safe for up to 4 months.",
+      "literal_match": true
+    },
+    {
+      "id": 7,
+      "quote": "~99.5% inulin on dry matter, 94.5% dietary fibre (1) as such",
+      "literal_match": true
+    },
+    {
+      "id": 7,
+      "quote": "FIBRULOSE™ LCF CHICORY ROOT FIBRE – LIQUID ~90% oligofructose on dry matter, 65.5% dietary fibre (1) as such",
+      "literal_match": true
+    },
+    {
+      "id": 7,
+      "quote": "FIBRULINE™ XL CHICORY ROOT FIBRE – POWDER ~99.5% inulin on dry matter, 94.5% dietary fibre (1) as such",
+      "literal_match": true
+    },
+    {
+      "id": 8,
+      "quote": "All samples had been prepared as inulin/water suspensions, containing 20% (w/w) inulin dry matter.",
+      "literal_match": true
+    },
+    {
+      "id": 8,
+      "quote": "One can observe the hardness of the inulin gels decrease with increasing sample preparation temperature.",
+      "literal_match": true
+    },
+    {
+      "id": 8,
+      "quote": "The application of a higher shear rate (7000 rpm) during sample preparation, results in increased hardness values, whereas the hardness trends for low and high shear rates remain identical throughout the whole temperature range.",
+      "literal_match": true
+    },
+    {
+      "id": 8,
+      "quote": "At the current state, it needs to be stressed, that this model is not proven in all details.",
+      "literal_match": true
+    },
+    {
+      "id": 9,
+      "quote": "The results showed that, in addition to temperature and pH, the DP and food matrix, including the type of pasteurisation, must be considered when processing foods enriched with sc-FOS.",
+      "literal_match": true
+    }
+  ],
+  "retrieval_manifest_checks": [
+    {
+      "path": "evidence/beneo-inulin.json",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/beneo-oligofructose.json",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/fda-fiber.json",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/fos-primary.json",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/basf-beta.json",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/nccih-licorice.json",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/beneo-inulin.txt",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/beneo-oligofructose.txt",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/fda-fiber.txt",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/fos-primary.txt",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/basf-beta.txt",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/nccih-licorice.txt",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/cosucra.txt",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/gel-primary.txt",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/fos-europepmc.txt",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/beneo-inulin-direct.txt",
+      "hash_match": true
+    },
+    {
+      "path": "evidence/fos-pubmed-direct.txt",
+      "hash_match": true
+    }
+  ],
+  "citation_runs": [
+    {
+      "lang": "en",
+      "exit_code": 0,
+      "stdout": "info: stats: 59 prose sentence(s), 14 with declared provenance (24%) — 14 cited, 0 marked [unverified] (a sentence may be both); 6 distinct source(s) cited, 6 in ledger (6 with evidence quotes)\nwarn: 1 sentence(s) carry more than 3 citations\ncitations OK\n",
+      "stderr": ""
+    },
+    {
+      "lang": "zh",
+      "exit_code": 0,
+      "stdout": "info: stats: 3 prose sentence(s), 3 with declared provenance (100%) — 3 cited, 0 marked [unverified] (a sentence may be both); 6 distinct source(s) cited, 6 in ledger (6 with evidence quotes)\ncitations OK\n",
+      "stderr": ""
+    }
+  ],
+  "citation_warning_diagnosis": "EN checker merges three real sentences with 1/1/2 citations in the paragraph beginning BENEO describes; not a four-citation sentence. Chinese segmentation statistics are not meaningful coverage.",
+  "baseline_head": "a878eb4f0ce689bb8f220397e801b546e3d92e34",
+  "pr56_merge": "6a15ea935c4aad848f62dc512ffc5d0c2e843d1b",
+  "pr56_to_head_src_diff": "empty",
+  "existing_chicory_source_matches": [],
+  "screenshots_reviewed": false,
+  "website_written": false,
+  "browser_used": false,
+  "cost_decimal_checks": {
+    "94.5/100": 0.945,
+    "65.5/100": 0.655,
+    "20g/100g": 0.2
+  }
+}

@@ -1,0 +1,561 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T05:08:15Z",
+      "timestamp": 1772255295863,
+      "version": "3.50.1"
+    },
+    "reference-count": 31,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2019-04-01T00:00:00Z",
+          "timestamp": 1554076800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Food Hydrocolloids"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.foodhyd.2018.06.049",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          30
+        ]
+      ],
+      "date-time": "2018-06-30T02:30:21Z",
+      "timestamp": 1530325821000
+    },
+    "page": "302-310",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 22,
+    "special_numbering": "C",
+    "title": [
+      "Alteration of the structural properties of inulin gels"
+    ],
+    "prefix": "10.1016",
+    "volume": "89",
+    "author": [
+      {
+        "given": "Steffen",
+        "family": "Beccard",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J\u00f6rg",
+        "family": "Bernard",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rudy",
+        "family": "Wouters",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Karin",
+        "family": "Gehrich",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Birgitta",
+        "family": "Zielbauer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Markus",
+        "family": "Mezger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Thomas A.",
+        "family": "Vilgis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "4",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "547",
+        "DOI": "10.1016/j.foodhyd.2003.09.003",
+        "article-title": "Influence of crystallisation conditions on the large deformation rheology of inulin gels",
+        "volume": "18",
+        "author": "Bot",
+        "year": "2004",
+        "journal-title": "Food Hydrocolloids"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib2",
+        "series-title": "Texture in food, volume 1-semi-solid foods",
+        "first-page": "350",
+        "article-title": "Controlling the texture of spreads",
+        "author": "Bot",
+        "year": "2003"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib3",
+        "series-title": "Food texture: Measurement and perception",
+        "first-page": "185",
+        "article-title": "Fabricated fat-based foods",
+        "author": "de Bruijne",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib4",
+        "series-title": "Fractals and chaos",
+        "author": "Crilly",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib5",
+        "series-title": "Ullmann's encyclopedia of industrial chemistry",
+        "article-title": "Inulin",
+        "author": "Franck",
+        "year": "2000"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib6",
+        "first-page": "499",
+        "article-title": "Stages of change in adopting healthy Diets: Fat, fiber, and correlates of nutrient intake",
+        "volume": "21",
+        "author": "Glanz",
+        "year": "1994",
+        "journal-title": "Health Education & Behavior"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1016/j.carbpol.2014.03.080",
+        "article-title": "Factors affecting inulin crystallization after its complete dissolution",
+        "volume": "110",
+        "author": "Glibowski",
+        "year": "2014",
+        "journal-title": "Carbohydrate Polymers"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "2075",
+        "DOI": "10.1111/j.1365-2621.2008.01825.x",
+        "article-title": "Effect of thermochemical treatment on the structure of inulin and its gelling properties",
+        "volume": "43",
+        "author": "Glibowski",
+        "year": "2008",
+        "journal-title": "International Journal of Food Science and Technology"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib9",
+        "series-title": "An introduction to polysaccharide biotechnology",
+        "article-title": "Conformation zones",
+        "author": "Harding",
+        "year": "2017"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "645",
+        "DOI": "10.14314/polimery.2011.645",
+        "article-title": "Crystallization and melting of inulin crystals. A small angle X-ray scattering approach (SAXS)",
+        "volume": "56",
+        "author": "Hebette",
+        "year": "2011",
+        "journal-title": "Polimery"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib11",
+        "first-page": "102",
+        "article-title": "Universal properties of filled rubbers: Mechanisms for reinforcement on different length scales",
+        "volume": "52",
+        "author": "Huber",
+        "year": "1999",
+        "journal-title": "Kautschuk Gummi Kunststoffe"
+      },
+      {
+        "issue": "29",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib12",
+        "first-page": "L409",
+        "article-title": "Universal properties in the dynamical deformation of filled rubbers",
+        "volume": "8",
+        "author": "Huber",
+        "year": "1996",
+        "journal-title": "Journal of Physics: Condensed Matter"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib13",
+        "series-title": "Recrystallization and related annealing phenomena",
+        "first-page": "215(",
+        "article-title": "Chapter 7-recrystallization of single-phase alloys",
+        "author": "Humphreys",
+        "year": "2004"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib14",
+        "series-title": "LS 13320 laser diffraction particle size analyzer, in optical models - refractive index",
+        "first-page": "C-1",
+        "author": "Inc",
+        "year": "2011"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1016/S0144-8617(00)00296-4",
+        "article-title": "Factors affecting gel formation of inulin",
+        "volume": "46",
+        "author": "Kim",
+        "year": "2001",
+        "journal-title": "Carbohydrate Polymers"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "481",
+        "DOI": "10.1002/pc.750160606",
+        "article-title": "X-ray diffraction analysis technique for determining the polymer crystallinity in a polyphenylene sulfide composite",
+        "volume": "16",
+        "author": "Lee",
+        "year": "1995",
+        "journal-title": "Polymer Composites"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib17",
+        "series-title": "The fractal geometry of nature",
+        "author": "Mandelbrot",
+        "year": "1983"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "991",
+        "DOI": "10.1007/BF02523406",
+        "article-title": "Is plastic fat rheology governed by the fractal nature of the fat crystal network?",
+        "volume": "73",
+        "author": "Marangoni",
+        "year": "1996",
+        "journal-title": "Journal of the American Oil Chemists\u2019 Society"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib19",
+        "first-page": "441",
+        "article-title": "\u201cHealthy people 2000\u201d: An overview of the national health promotion and disease prevention objectives",
+        "volume": "105",
+        "author": "Mason",
+        "year": "1990",
+        "journal-title": "Public Health Reports"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib20",
+        "series-title": "Handbook of hydrocolloids",
+        "first-page": "829",
+        "article-title": "Inulin",
+        "author": "Meyer",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib21",
+        "first-page": "646",
+        "article-title": "Colored suspensions of inulin",
+        "volume": "40",
+        "author": "Munoz",
+        "year": "1944",
+        "journal-title": "Anales de Fisica y Quimica"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib22",
+        "first-page": "1908",
+        "article-title": "Fractal nature of fat crystal networks",
+        "volume": "59",
+        "author": "Narine",
+        "year": "1999",
+        "journal-title": "Physical Review"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1016/S0963-9969(99)00078-2",
+        "article-title": "Relating structure of fat crystal networks to mechanical properties: A review",
+        "volume": "32",
+        "author": "Narine",
+        "year": "1999",
+        "journal-title": "Food Research International"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "597",
+        "DOI": "10.1111/j.1745-4603.1996.tb00996.x",
+        "article-title": "Instrumental Texture Profile Analysis with particular reference to gelled systems",
+        "volume": "27",
+        "author": "Pons",
+        "year": "1996",
+        "journal-title": "Journal of Texture Studies"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.foodhyd.2018.06.049_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "210",
+        "DOI": "10.1016/j.carbpol.2005.08.030",
+        "article-title": "Determination of physical changes of inulin related to sorption isotherms: An X-ray diffraction, modulated differential scanning calorimetry and environmental scanning electron microscopy study",
+        "volume": "63",
+        "author": "Ronkart",
+        "year": "2006",
+        "journal-title": "Carbohydrate Polymers"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib26",
+        "series-title": "Handbuch S\u00fcssungsmittel: Eigenschaften und Anwendung",
+        "author": "Rosenplenter",
+        "year": "2007"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib27",
+        "series-title": "Handbook of polymer synthesis, characterization, and processing",
+        "first-page": "505",
+        "article-title": "Polymer Blends",
+        "author": "S\u00e1nchez-Valdes",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib28",
+        "series-title": "Annual review of public health",
+        "first-page": "253",
+        "article-title": "Creating healthy food and eating environments: Policy and environmental approaches",
+        "author": "Story",
+        "year": "2008"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib29",
+        "series-title": "Makromolekulare Chemie eine Einf\u00fchrung",
+        "first-page": "235",
+        "article-title": "Flory-huggins theorie",
+        "author": "Tieke",
+        "year": "2005"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1016/j.cofs.2018.05.009",
+        "article-title": "Fractals in crystallizing food systems",
+        "volume": "21",
+        "author": "Vilgis",
+        "year": "2018",
+        "journal-title": "Current Opinion in Food Science"
+      },
+      {
+        "key": "10.1016/j.foodhyd.2018.06.049_bib31",
+        "series-title": "Rheology and fracture mechanics of food",
+        "author": "Vliet",
+        "year": "2013"
+      }
+    ],
+    "container-title": [
+      "Food Hydrocolloids"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0268005X18302741?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0268005X18302741?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          9
+        ]
+      ],
+      "date-time": "2019-01-09T18:31:09Z",
+      "timestamp": 1547058669000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0268005X18302741"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          4
+        ]
+      ]
+    },
+    "references-count": 31,
+    "alternative-id": [
+      "S0268005X18302741"
+    ],
+    "URL": "https://doi.org/10.1016/j.foodhyd.2018.06.049",
+    "relation": {},
+    "ISSN": [
+      "0268-005X"
+    ],
+    "issn-type": [
+      {
+        "value": "0268-005X",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Alteration of the structural properties of inulin gels",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Food Hydrocolloids",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.foodhyd.2018.06.049",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2018 Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}
