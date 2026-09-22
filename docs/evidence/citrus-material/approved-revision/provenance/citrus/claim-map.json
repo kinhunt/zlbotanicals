@@ -1,0 +1,233 @@
+[
+  {
+    "claim_id": "C01",
+    "citation_ids": [
+      1
+    ],
+    "claim": "Identity: hesperidin = hesperetin + rutinose; MGH adds glucose; synthesis route",
+    "source_id": "S2",
+    "source_file": "sources/S2.txt",
+    "source_locator": "Introduction; Methods 2.2; Results 3.1.2",
+    "verbatim_quote": "Structurally, it is a flavanone glycoside composed of the aglycone hesperetin and the disaccharide rutinose.",
+    "quote_verified": true,
+    "limitations": "Material identity, not a claim that all commercial glycosides have identical composition",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "primary experiment"
+  },
+  {
+    "claim_id": "C02",
+    "citation_ids": [
+      3
+    ],
+    "claim": "CITRAPEAK dry-basis MGH and total assay",
+    "source_id": "D3",
+    "source_file": "sources/D3.txt",
+    "source_locator": "Specifications",
+    "verbatim_quote": "Monoglucosyl hesperidin contents: 75.0 - 85.0% (on the dry basis) Total hesperidin contents: Not less than 70.0% (on the dry basis)",
+    "quote_verified": true,
+    "limitations": "Manufacturer specification only; not ZL offer",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "manufacturer document"
+  },
+  {
+    "claim_id": "C03",
+    "citation_ids": [
+      6
+    ],
+    "claim": "Total hesperidin is an expressed-as calculation",
+    "source_id": "R1",
+    "source_file": "sources/R1.txt",
+    "source_locator": "Table 2",
+    "verbatim_quote": "Calculation expressed as hesperidin based on HPLC‐UV (In‐house)",
+    "quote_verified": true,
+    "limitations": "Do not add total to MGH; do not claim methods universal",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "regulatory document"
+  },
+  {
+    "claim_id": "C04",
+    "citation_ids": [
+      7
+    ],
+    "claim": "Defined EU material includes residual hesperidin",
+    "source_id": "R4",
+    "source_file": "sources/R4.txt",
+    "source_locator": "Annex Table 2 p6",
+    "verbatim_quote": "Hesperidin (dry basis):10-20 %",
+    "quote_verified": true,
+    "limitations": "Legal material specification, not batch measurement",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "regulatory document"
+  },
+  {
+    "claim_id": "C05",
+    "citation_ids": [
+      1
+    ],
+    "claim": "Partition assay cannot supply g/L saturation solubility",
+    "source_id": "S2",
+    "source_file": "sources/S2.txt",
+    "source_locator": "Methods 2.4; Results 3.3",
+    "verbatim_quote": "The hydrophilic/hydrophobic properties of hesperetin, hesperidin and hesperidin glucosides were investigated measuring partition coefficients in an octanol–water system",
+    "quote_verified": true,
+    "limitations": "Editorial distinction between two measurements; no conversion or chart",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "primary experiment"
+  },
+  {
+    "claim_id": "C06",
+    "citation_ids": [
+      6
+    ],
+    "claim": "Aqueous stability exception and conditions",
+    "source_id": "R1",
+    "source_file": "sources/R1.txt",
+    "source_locator": "Stability",
+    "verbatim_quote": "After the 4‐week storage at 55°C, pH 7, MGH and hesperidin were slightly reduced (recovery rate 88%).",
+    "quote_verified": true,
+    "limitations": "Applicant data summarized by EFSA; not independently retrieved underlying experiment; surrounding paragraph gives 1% w/v",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "regulatory document"
+  },
+  {
+    "claim_id": "C07",
+    "citation_ids": [
+      2
+    ],
+    "claim": "Co-precipitation is manufactured route, not blending",
+    "source_id": "S1",
+    "source_file": "sources/S1.txt",
+    "source_locator": "Methods 3.2",
+    "verbatim_quote": "The solution was then acidified (pH 4.6) using a 4 M HCl solution",
+    "quote_verified": true,
+    "limitations": "Research preparation; no commercial availability proof",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "primary experiment"
+  },
+  {
+    "claim_id": "C08",
+    "citation_ids": [
+      2
+    ],
+    "claim": "Operational solubility assay; WPI relative result",
+    "source_id": "S1",
+    "source_file": "sources/S1.txt",
+    "source_locator": "Results 2.4; Methods 3.6–3.7",
+    "verbatim_quote": "For rutin, naringenin, and hesperidin, maximum solubility was achieved with the WPI co-precipitate.",
+    "quote_verified": true,
+    "limitations": "pH7,24h; cannot infer acid clear-beverage dissolution; no figure-derived numbers",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "primary experiment"
+  },
+  {
+    "claim_id": "C09",
+    "citation_ids": [
+      4,
+      5
+    ],
+    "claim": "Separate food and cosmetic grades",
+    "source_id": "D4",
+    "source_file": "sources/D4.txt",
+    "source_locator": "Main text",
+    "verbatim_quote": "the cosmetic-grade Alpha Glucosyl Hesperidin for topical application, and the food-grade CITRAPEAK™ for oral intake.",
+    "quote_verified": true,
+    "limitations": "Grade distinction only, not endorsed beauty benefits",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "manufacturer document"
+  },
+  {
+    "claim_id": "C10",
+    "citation_ids": [
+      4
+    ],
+    "claim": "Cosmetic solubility table missing method/temperature",
+    "source_id": "D1",
+    "source_file": "sources/D1.txt",
+    "source_locator": "Solubility table",
+    "verbatim_quote": "Type of Hesperidin Solubility (g/100g water)",
+    "quote_verified": true,
+    "limitations": "Omission assessed from full text; no chart reproduced",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "manufacturer document"
+  },
+  {
+    "claim_id": "C11",
+    "citation_ids": [
+      7,
+      9
+    ],
+    "claim": "EU beverage categories, limits and supplement groups",
+    "source_id": "R4",
+    "source_file": "sources/R4.txt",
+    "source_locator": "Annex Table1 p5",
+    "verbatim_quote": "Energy drinks 525 mg/L",
+    "quote_verified": true,
+    "limitations": "Limits not recommendations; all listed supplement groups and label caveat retained",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "regulatory document"
+  },
+  {
+    "claim_id": "C12",
+    "citation_ids": [
+      7,
+      8,
+      9
+    ],
+    "claim": "Restricted EU market route and data protection date",
+    "source_id": "R5",
+    "source_file": "sources/R5.txt",
+    "source_locator": "Corrigendum read clause; R4 Article2; R6 pp72–73",
+    "verbatim_quote": "End date of the data protection: 20 February 2030",
+    "quote_verified": true,
+    "limitations": "Does not claim no later approvals; procurement must check route",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "regulatory document"
+  },
+  {
+    "claim_id": "C13",
+    "citation_ids": [
+      6,
+      7
+    ],
+    "claim": "EFSA table is not final legal metal specification",
+    "source_id": "R4",
+    "source_file": "sources/R4.txt",
+    "source_locator": "Annex Table2 p6 versus R1 Table4",
+    "verbatim_quote": "Lead ≤ 0,1 mg/kg\nArsenic ≤ 0,1 mg/kg",
+    "quote_verified": true,
+    "limitations": "Legal text controls; earlier assessed values not supplier compliance",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "regulatory document"
+  },
+  {
+    "claim_id": "C14",
+    "citation_ids": [
+      3,
+      7
+    ],
+    "claim": "Supplier application list broader than EU listed uses",
+    "source_id": "D3",
+    "source_file": "sources/D3.txt",
+    "source_locator": "Applications & Uses versus R4 Annex",
+    "verbatim_quote": "Confectionery (hard candy / chocolate / jellies / jelly drinks / chewing gum)",
+    "quote_verified": true,
+    "limitations": "No global legality inferred",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "manufacturer document"
+  },
+  {
+    "claim_id": "C15",
+    "citation_ids": [
+      6
+    ],
+    "claim": "Safety assessment not efficacy approval",
+    "source_id": "R1",
+    "source_file": "sources/R1.txt",
+    "source_locator": "Methodologies",
+    "verbatim_quote": "is not an assessment of the efficacy of the NF with regard to any claimed benefit.",
+    "quote_verified": true,
+    "limitations": "No therapeutic or finished-product efficacy claims",
+    "draft_scope": "Corresponding section in both EN and ZH; inline IDs identify prose",
+    "evidence_type": "regulatory document"
+  }
+]

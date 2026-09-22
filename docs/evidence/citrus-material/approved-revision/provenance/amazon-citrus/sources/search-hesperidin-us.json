@@ -1,0 +1,12 @@
+{
+  "captured_at_utc": "2026-09-22T03:53:18.052103+00:00",
+  "command": "browserman script run --platform amazon --marketplace us --action search --query hesperidin --limit 8 --json",
+  "response": {
+    "ok": true,
+    "command": "script.run",
+    "result": {
+      "executionId": "exec_3ee95689c30c4db4",
+      "status": "running"
+    }
+  }
+}

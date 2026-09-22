@@ -1,0 +1,144 @@
+{
+  "verified_at_utc": "2026-09-22T03:57:53.755091+00:00",
+  "checks": [
+    {
+      "file": "product-B001F0QVX4-result.json",
+      "status": "completed",
+      "action": "get_product"
+    },
+    {
+      "file": "product-B07JZDPJHK-result.json",
+      "status": "completed",
+      "action": "get_product"
+    },
+    {
+      "file": "product-B0896SJSK8-result.json",
+      "status": "completed",
+      "action": "get_product"
+    },
+    {
+      "file": "product-B0FPYN3J4Z-result.json",
+      "status": "completed",
+      "action": "get_product"
+    },
+    {
+      "file": "search-citrus-bioflavonoids-us-result.json",
+      "status": "completed",
+      "action": "search"
+    },
+    {
+      "file": "search-glucosyl-hesperidin-us-result.json",
+      "status": "completed",
+      "action": "search"
+    },
+    {
+      "file": "search-hesperidin-us-result.json",
+      "status": "completed",
+      "action": "search"
+    }
+  ],
+  "unique_product_records": 4,
+  "sanitization_scan": "pass: no extension credentials or session identifiers in persisted source captures",
+  "manifest": [
+    {
+      "path": "sources/B001F0QVX4-excerpt.md",
+      "sha256": "c100d2bbdb1bcc6162861dd90856cd6726447f9fb16d9db0f7f599a552c51377",
+      "bytes": 1633
+    },
+    {
+      "path": "sources/B07JZDPJHK-excerpt.md",
+      "sha256": "43044a0d4f9eff11fdce68fec6e5789fc4bfca4989cf8c8a1b87460c1e85e3a0",
+      "bytes": 1878
+    },
+    {
+      "path": "sources/B0896SJSK8-excerpt.md",
+      "sha256": "74dc9c5521b795ed2e2f10cce48bd60f99c86bbec539a7959484a1697d30084e",
+      "bytes": 1337
+    },
+    {
+      "path": "sources/B0FPYN3J4Z-excerpt.md",
+      "sha256": "e60ec8454bf24951a357b3e1cea4e50a2177ae9d12d979473ebb36bc0dd73fb1",
+      "bytes": 1114
+    },
+    {
+      "path": "sources/product-B001F0QVX4-result.json",
+      "sha256": "691b93b3ae706150c967080b7ebb90945289557572db7453cfa2507d3567f2b6",
+      "bytes": 4532
+    },
+    {
+      "path": "sources/product-B001F0QVX4.json",
+      "sha256": "1883c69d5a43d37599e49a5420e15494ff2ced57d05b804da7f2ca664a1cf359",
+      "bytes": 338
+    },
+    {
+      "path": "sources/product-B07JZDPJHK-result.json",
+      "sha256": "a682de3093edd33fa96a9910baa7d3e493ae47c4d4fd07854154107c9a16e4f0",
+      "bytes": 4681
+    },
+    {
+      "path": "sources/product-B07JZDPJHK.json",
+      "sha256": "3bc76ddb98ccb9b5dc93aa40330c97e2e273ef1b95e92585cad2136482dc9305",
+      "bytes": 338
+    },
+    {
+      "path": "sources/product-B0896SJSK8-result.json",
+      "sha256": "5e315e424beb6268679e53582b15a2077a310c8c8b8b0e86af7a86a65d25196e",
+      "bytes": 3762
+    },
+    {
+      "path": "sources/product-B0896SJSK8.json",
+      "sha256": "fdfd31ce10c77895f68ff895d5edebf78285eb8a4ac750ee25320eb13b7f9fe5",
+      "bytes": 338
+    },
+    {
+      "path": "sources/product-B0FPYN3J4Z-result.json",
+      "sha256": "e82d849eef9d76d3c638d9adf510fe4b30104bcec7c2fb97035b80ed84b419dc",
+      "bytes": 3406
+    },
+    {
+      "path": "sources/product-B0FPYN3J4Z.json",
+      "sha256": "18ce38355712bebd227a2ee67aa8ca823b17701d3117abc61b390ee7214915e5",
+      "bytes": 338
+    },
+    {
+      "path": "sources/search-citrus-bioflavonoids-us-result.json",
+      "sha256": "78d7ba30aa9fa5138543f74f0ea0db0c3c769c064dc3b3989c6c3dcbaad210ec",
+      "bytes": 5035
+    },
+    {
+      "path": "sources/search-citrus-bioflavonoids-us.json",
+      "sha256": "334211360445651b7438ec3d223e10813a4aa41e6b454d23256de02c0a45e660",
+      "bytes": 358
+    },
+    {
+      "path": "sources/search-glucosyl-hesperidin-us-result.json",
+      "sha256": "db9a880481516919082e8f4b1a6103a1a1cd3d2ae1daeb1577129c7a0c798d51",
+      "bytes": 5014
+    },
+    {
+      "path": "sources/search-glucosyl-hesperidin-us.json",
+      "sha256": "a1b453f2d7b7512a8c66f03c71a28ec9e407fef4e3e6e2033ee7542c93c05c9c",
+      "bytes": 357
+    },
+    {
+      "path": "sources/search-hesperidin-us-result.json",
+      "sha256": "71b1cbd4c9703c321f9d45f436496785ba41cf019ea5093614e2b9e8974c0cd4",
+      "bytes": 6290
+    },
+    {
+      "path": "sources/search-hesperidin-us.json",
+      "sha256": "342ffbba795c8c016ffef5bc1973b6e306120739ae79671e90dfef38a7c03c4c",
+      "bytes": 344
+    },
+    {
+      "path": "records.json",
+      "sha256": "6a9b141e2e5df0921596b3199059cd9a2ab9d72971068f165123b34cde620e20",
+      "bytes": 7404
+    },
+    {
+      "path": "receipt.md",
+      "sha256": "a6fd7805a8732c5249bb0436181572c0c3ad6808a4eb2ba19528a6fd1f83b9fe",
+      "bytes": 6091
+    }
+  ]
+}

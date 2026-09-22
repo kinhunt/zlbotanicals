@@ -1,0 +1,12 @@
+{
+  "captured_at_utc": "2026-09-22T03:54:32.814662+00:00",
+  "command": "browserman script run --platform amazon --marketplace us --action get_product --asin B0896SJSK8 --json",
+  "response": {
+    "ok": true,
+    "command": "script.run",
+    "result": {
+      "executionId": "exec_388962553898411c",
+      "status": "running"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "original_files_unchanged": 72,
+  "preserved_files_identical": 72,
+  "reviewed_lines": 158,
+  "matched_evidence_quotes": 49,
+  "draft_sha256": {
+    "hesperidin-material-choice.en.md": "276a2c85f4686866f99ac97c802cc0915edee70703f6b493f6de06757d7a203a",
+    "hesperidin-material-choice.zh.md": "9f161e7803a861dee8cdd1383b11d11e5f46f31f13c24859587cd728489e38c7"
+  }
+}

@@ -1,0 +1,876 @@
+[
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 3,
+    "text": "A citrus-flavonoid sourcing brief should start with identity, not the largest number on a label. Hesperidin, glucosyl hesperidin and a protein-based hesperidin preparation represent different material choices: glycosylation changes the molecule, while protein co-precipitation changes the delivery system.[1][2] Decide what the product needs to contain—and whether it needs to dissolve—before comparing quotations.",
+    "review_type": "synthesis",
+    "judgment": "accepted within stated scope",
+    "review_note": "Molecular modification versus protein delivery distinction checked against S2 identity/synthesis and S1 methods; advice is editorial.",
+    "citation_ids": [
+      1,
+      2
+    ],
+    "source_files": [
+      "provenance/citrus/sources/S2.txt",
+      "provenance/citrus/sources/S1.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 7,
+    "text": "Four deliberately selected Amazon US listings, captured on 22 September 2026, illustrate the problem.[10][11][12] These are observations of seller wording, not laboratory authentication or a representative market survey.",
+    "review_type": "method",
+    "judgment": "accepted within stated scope",
+    "review_note": "UTC capture dates checked in all four original product result JSON files; purposive/non-representative scope explicit.",
+    "citation_ids": [
+      10,
+      11,
+      12
+    ],
+    "source_files": [
+      "sources/amazon-B0896SJSK8.txt",
+      "sources/amazon-B001F0QVX4.txt",
+      "sources/amazon-B0FPYN3J4Z.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 9,
+    "text": "| Listing | What the listing identifies | What its quantity actually tells a buyer |",
+    "review_type": "table-header",
+    "judgment": "accepted within stated scope",
+    "review_note": "Observation columns separate identity from dose basis.",
+    "citation_ids": [],
+    "source_files": []
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 11,
+    "text": "| [Nootropics Depot Hesperidin, B0896SJSK8](https://www.amazon.com/dp/B0896SJSK8) | Hesperidin capsules; title says “90% Citrus Extract”.[10] | Title and bullets say 500 mg; bottle contains 180 capsules. The captured text does not resolve serving size or whether 500 mg denotes extract mass or assayed hesperidin. It does not justify calculating 450 mg of hesperidin.[10] |",
+    "review_type": "ecommerce",
+    "judgment": "accepted within stated scope",
+    "review_note": "Original title/bullets confirm 500mg,90%,180 count; no serving or extract/assay resolution. 450mg explicitly rejected, not calculated result.",
+    "citation_ids": [
+      10
+    ],
+    "source_files": [
+      "sources/amazon-B0896SJSK8.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 12,
+    "text": "| [NOW Citrus Bioflavonoids, B001F0QVX4](https://www.amazon.com/dp/B001F0QVX4) | Citrus bioflavonoids, with added vitamin C in the bullets.[11] | Title says 700 mg and 100 vegetable capsules. A specific hesperidin amount is not given in the captured text: 700 mg of bioflavonoids is not established as 700 mg of hesperidin.[11] |",
+    "review_type": "ecommerce",
+    "judgment": "accepted within stated scope",
+    "review_note": "Original NOW title confirms 700mg and100 caps; bullet identifies vitamin C; no assayed hesperidin dose asserted.",
+    "citation_ids": [
+      11
+    ],
+    "source_files": [
+      "sources/amazon-B001F0QVX4.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 13,
+    "text": "| [Nutricost Diosmin with Hesperidin, B0FPYN3J4Z](https://www.amazon.com/dp/B0FPYN3J4Z) | A diosmin–hesperidin combination.[12] | The 1,000 mg complex is explicitly split into 500 mg diosmin and 500 mg hesperidin per two-capsule serving; 120 capsules provide 60 servings. The headline is not a 1,000 mg hesperidin dose.[12] |",
+    "review_type": "ecommerce",
+    "judgment": "accepted within stated scope",
+    "review_note": "Original Nutricost bullets explicitly confirm1000mg complex,500mg each,2 capsules,120 capsules/60 servings. No bioequivalence inference.",
+    "citation_ids": [
+      12
+    ],
+    "source_files": [
+      "sources/amazon-B0FPYN3J4Z.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 14,
+    "text": "| [Supersmart Hesperidin Methyl Chalcone, B07JZDPJHK](https://www.amazon.com/dp/B07JZDPJHK) | Hesperidin methyl chalcone (HMC), described as standardized to 98%, rather than glucosyl hesperidin.[13] | Title says 1,000 mg/day; directions say two capsules daily, each containing “500mg of hesperidin methyl chalcone 98%”. Keep the mass and assay wording together rather than inventing an assay-adjusted dose.[13] |",
+    "review_type": "ecommerce",
+    "judgment": "accepted within stated scope",
+    "review_note": "HMC identity remains seller-labelled,98% and500mg per capsule wording exact;2/day and1000mg/day confirmed; no glucosyl substitution or490/980mg calculation.",
+    "citation_ids": [
+      13
+    ],
+    "source_files": [
+      "sources/amazon-B07JZDPJHK.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 16,
+    "text": "The useful comparison is therefore **named ingredient → mass basis → serving basis**, not 500 versus 700 versus 1,000 mg. Nutricost resolves both composition and serving size; the other captured headlines leave different questions for the product label or supplier. For raw-material purchasing, ask separately for the mass of the ingredient preparation, the assay of the named compound and the amount used per finished-product serving.",
+    "review_type": "editorial-inference",
+    "judgment": "accepted within stated scope",
+    "review_note": "Dose-basis synthesis follows the preceding four observations; supplier questions are advice rather than experimental findings.",
+    "citation_ids": [],
+    "source_files": []
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 18,
+    "text": "Other-ingredient wording matters too. Supersmart names hypromellose and acacia gum, but does not state the gum's function or amount; it is not evidence of a spray-drying carrier.[13] NOW's vitamin C is a named added nutrient, not a stated carrier.[11]",
+    "review_type": "ecommerce",
+    "judgment": "accepted within stated scope",
+    "review_note": "Hypromellose/acacia named verbatim in HMC bullet; role/amount absent from captured text. Vitamin C named nutrient, not carrier claim.",
+    "citation_ids": [
+      13,
+      11
+    ],
+    "source_files": [
+      "sources/amazon-B07JZDPJHK.txt",
+      "sources/amazon-B001F0QVX4.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 20,
+    "text": "Search results are not an identity test. None of the six titles captured for the query “glucosyl hesperidin” identifies glucosyl hesperidin; they include hesperidin products, combinations and HMC.[14] That sample verifies no glucosyl-hesperidin finished product and says nothing about its absence elsewhere, sales volume or market share.",
+    "review_type": "search-observation",
+    "judgment": "accepted within stated scope",
+    "review_note": "All six original search titles read: none identifies glucosyl; HMC/hesperidin/combinations present. No absence,market-share or sales inference.",
+    "citation_ids": [
+      14
+    ],
+    "source_files": [
+      "sources/amazon-glucosyl-search-titles.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 24,
+    "text": "**Hesperidin** is a flavanone glycoside comprising hesperetin and the disaccharide rutinose; **hesperetin** is its aglycone.[1] **Monoglucosyl hesperidin (MGH)** retains hesperidin and adds a glucose unit; the EU specification names it 4G-α-D-glucopyranosyl-hesperidin.[7] A study's purified monoglucoside and a commercial glucosyl-hesperidin preparation should not automatically be treated as identical compositions.",
+    "review_type": "identity",
+    "judgment": "accepted within stated scope",
+    "review_note": "Hesperidin=hesperetin+rutinose from S2; MGH identity also checked independently against EFSA Table1 and legal IUPAC/synonym. No HMC structure extrapolated from seller wording.",
+    "citation_ids": [
+      1,
+      7
+    ],
+    "source_files": [
+      "provenance/citrus/sources/S2.txt",
+      "provenance/citrus/sources/R4.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 26,
+    "text": "For example, NAGASE's food-grade CITRAPEAK specification lists MGH at 75.0–85.0% on a dry basis and “total hesperidin” at not less than 70.0% on a dry basis.[3] EFSA describes its total-hesperidin determination as a calculation expressed as hesperidin, while the EU material specification separately lists 75.0–85.0% MGH and 10–20% hesperidin, both on a dry basis.[6][7] An equivalent-based total is not an additional fraction to add to MGH; residual hesperidin within the defined range is not automatically a defect.",
+    "review_type": "assay",
+    "judgment": "accepted within stated scope",
+    "review_note": "D3 confirms75–85%MGH and>=70%total dry-basis; R1 defines total as expressed-as calculation; R4 and current entry confirm10–20%hesperidin. No addition of overlapping percentages.",
+    "citation_ids": [
+      3,
+      6,
+      7
+    ],
+    "source_files": [
+      "provenance/citrus/sources/D3.txt",
+      "provenance/citrus/sources/R1.txt",
+      "provenance/citrus/sources/R4.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 28,
+    "text": "Before comparing an “80% glucosyl hesperidin” quotation with “95% hesperidin”, establish the analyte, reference standard, method and dry-basis or as-supplied basis. They are not two grades on a single purity scale.",
+    "review_type": "editorial-example",
+    "judgment": "accepted within stated scope",
+    "review_note": "80% versus95% are illustrative quote comparison, not actual ZL or supplier offers.",
+    "citation_ids": [],
+    "source_files": []
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 32,
+    "text": "For a capsule brief that specifically calls for unmodified hesperidin, keep that identity fixed. For an aqueous food product in which dissolved material is important, a documented food-grade glucosyl hesperidin is a separate candidate—not simply a higher-assay substitute.",
+    "review_type": "editorial-advice",
+    "judgment": "accepted within stated scope",
+    "review_note": "Conditional shortlist, not performance or legal clearance for any specific product.",
+    "citation_ids": [],
+    "source_files": []
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 34,
+    "text": "The evidence supports that distinction, but different measurements answer different questions. A 2022 study found the monoglucoside more water-favouring than hesperidin or hesperetin in an octanol–water partition assay; this is not a saturation-solubility measurement in g/L.[1] EFSA's 2024 opinion also reports applicant water-solubility and stability measurements for the specified novel food.[6]",
+    "review_type": "study",
+    "judgment": "accepted within stated scope",
+    "review_note": "S2 methods2.4/results3.3: partition not saturation solubility;2022 verified XML metadata. EFSA2024 opinion reports applicant characterization, not independent commercial-grade comparison.",
+    "citation_ids": [
+      1,
+      6
+    ],
+    "source_files": [
+      "provenance/citrus/sources/S2.txt",
+      "provenance/citrus/sources/R1.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 36,
+    "text": "In the latter tests, 1% w/v aqueous solutions were studied at pH 3, 4, 5, 6 and 7, at 5, 25 and 55°C, for up to four weeks.[6] EFSA reports stability of MGH and hesperidin except after four weeks at 55°C and pH 7, when recovery was 88%.[6] This is useful development evidence from an assessed dossier, not a universal heat-resistance or shelf-life guarantee. Test the selected sample in the intended matrix for dissolved content, haze or sediment, flavour and chemical retention after processing and storage.",
+    "review_type": "study",
+    "judgment": "accepted within stated scope",
+    "review_note": "R1 Stability full paragraph checked:1%w/v;pH3,4,5,6,7;5,25,55C;up to4weeks;88% at55C/pH7/4weeks. Advice on matrix testing explicitly additional,not measured results.",
+    "citation_ids": [
+      6
+    ],
+    "source_files": [
+      "provenance/citrus/sources/R1.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 38,
+    "text": "A **protein-containing delivery system** offers a different development route. A 2023 study prepared hesperidin co-precipitates with sodium caseinate, soy protein isolate or whey protein isolate, using trehalose, alkaline dissolution, acidification and freeze-drying.[2] Its solubility assay used pH 7 phosphate buffer, 24 hours of stirring, centrifugation, filtration and HPLC; whey-protein co-precipitates gave the highest measured hesperidin solubility among those tested.[2] Consider this route when a protein-containing formulation fits the brief, not as evidence of instant dissolution in an acidic clear drink or of a ready-to-buy commercial grade.",
+    "review_type": "study",
+    "judgment": "accepted within stated scope",
+    "review_note": "S1 methods3.2/3.6/3.7 and results: trehalose included,alkaline/acid/freeze-dry;bufferpH7;24h;centrifuge/filter/HPLC;WPI highest among tested hesperidin systems.2023 metadata verified. No commercial availability claim.",
+    "citation_ids": [
+      2
+    ],
+    "source_files": [
+      "provenance/citrus/sources/S1.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 40,
+    "text": "Food and cosmetic grades also need separate dossiers. NAGASE distinguishes cosmetic-grade Alpha Glucosyl Hesperidin for topical use from food-grade CITRAPEAK for oral intake.[5] Select the appropriate grade and destination-market documentation; neither a shared ingredient name nor an in-vitro result establishes a finished-product health benefit.",
+    "review_type": "grade",
+    "judgment": "accepted within stated scope",
+    "review_note": "D4 explicitly distinguishes cosmetic versus food grade; no manufacturer efficacy language imported.",
+    "citation_ids": [
+      5
+    ],
+    "source_files": [
+      "provenance/citrus/sources/D4.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 44,
+    "text": "**Regulatory scope:** the figures below describe Regulation (EU) 2025/167 and its corrigendum, checked against the Union-list consolidation dated 10 August 2026—the current consolidated version displayed by EUR-Lex when checked on 22 September 2026.[7][8][15] They are not a global authorisation or a complete launch-compliance checklist.",
+    "review_type": "legal-scope",
+    "judgment": "accepted within stated scope",
+    "review_note": "2025/167+May2025corrigendum and10Aug2026consolidation independently opened;current-version banner confirmed22Sep2026. Not unbounded latest-law guarantee.",
+    "citation_ids": [
+      7,
+      8,
+      15
+    ],
+    "source_files": [
+      "provenance/citrus/sources/R4.txt",
+      "provenance/citrus/sources/R5.txt",
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 46,
+    "text": "| Listed use | Maximum level of the authorised novel food |",
+    "review_type": "table-header",
+    "judgment": "accepted within stated scope",
+    "review_note": "Limits refer to authorised preparation, not isolated MGH.",
+    "citation_ids": [],
+    "source_files": []
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 48,
+    "text": "| Soft drinks marketed in relation to physical exercise | 525 mg/L.[15] |",
+    "review_type": "legal-number",
+    "judgment": "accepted within stated scope",
+    "review_note": "Exact listed exercise-related soft-drink category;525mg/L in original andcurrent annex.",
+    "citation_ids": [
+      15
+    ],
+    "source_files": [
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 49,
+    "text": "| Energy drinks | 525 mg/L.[15] |",
+    "review_type": "legal-number",
+    "judgment": "accepted within stated scope",
+    "review_note": "Energy drinks525mg/L in original andcurrent annex.",
+    "citation_ids": [
+      15
+    ],
+    "source_files": [
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 50,
+    "text": "| Food supplements: children between 3 and 10 years of age | 115 mg/day; the supplement category excludes infants and young children.[15] |",
+    "review_type": "legal-number",
+    "judgment": "accepted within stated scope",
+    "review_note": "115mg/day and3-to10 age wording retained;infants/young children excluded from supplement category. No child-use recommendation.",
+    "citation_ids": [
+      15
+    ],
+    "source_files": [
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 51,
+    "text": "| Food supplements: general population older than 10 years | 200 mg/day.[15] |",
+    "review_type": "legal-number",
+    "judgment": "accepted within stated scope",
+    "review_note": "200mg/day;older than10 not changed to10andabove. Confirmed original andcurrent annex.",
+    "citation_ids": [
+      15
+    ],
+    "source_files": [
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 53,
+    "text": "These limits apply to the defined novel food, not to pure MGH calculated from its assay, and they are not recommended or effective doses.[15] The entry requires the label designation “Glucosyl hesperidin”; supplements must also carry the age-related non-consumption statement specified for their intended group.[7][15] A manufacturer's wider applications list does not extend those authorised food categories.",
+    "review_type": "legal-interpretation",
+    "judgment": "accepted within stated scope",
+    "review_note": "Defined novel-food basis;designationGlucosyl hesperidin;age-dependent label instruction retained without inventing simplified age boundary. Complete exact clause archived;not a complete label compliance guide.",
+    "citation_ids": [
+      15,
+      7
+    ],
+    "source_files": [
+      "sources/fresh-6.txt",
+      "provenance/citrus/sources/R4.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 55,
+    "text": "Source eligibility matters as much as composition. Article 2 reserves EU market placement to Nagase Viita for five years from 20 February 2025, unless a subsequent applicant obtains authorisation without relying on the protected scientific data or with Nagase Viita's agreement.[7] The corrected entry gives 20 February 2030 as the data-protection end date.[8][15] Ask how a proposed supply route is covered; an equivalent assay alone does not establish eligibility.",
+    "review_type": "legal-number",
+    "judgment": "accepted within stated scope",
+    "review_note": "Article2 five years from20Feb2025 plus both subsequent-authorisation alternatives;corrigendum/currententry20Feb2030. Not blanket manufacturer monopoly or ban on downstream distribution.",
+    "citation_ids": [
+      7,
+      8,
+      15
+    ],
+    "source_files": [
+      "provenance/citrus/sources/R4.txt",
+      "provenance/citrus/sources/R5.txt",
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 57,
+    "text": "Use the legal specification rather than copying the earlier safety-assessment table. The authorisation and August 2026 entry set lead and arsenic each at ≤0.1 mg/kg; EFSA's 2024 specification table lists ≤2 mg/kg lead and ≤1.5 mg/kg arsenic.[6][7][15] The assessment is not the final legal purchasing standard.",
+    "review_type": "legal-number",
+    "judgment": "accepted within stated scope",
+    "review_note": "Original/currentlaw Pb<=0.1,As<=0.1mg/kg versus EFSA Table4 Pb<=2,As<=1.5. Distinct normative status explicit.",
+    "citation_ids": [
+      6,
+      7,
+      15
+    ],
+    "source_files": [
+      "provenance/citrus/sources/R1.txt",
+      "provenance/citrus/sources/R4.txt",
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 61,
+    "text": "A useful enquiry states the target country, product category, intended population, required chemical identity, amount per serving and processing conditions. Then ask for the corresponding grade, assay definitions and evidence of supply-route eligibility.",
+    "review_type": "editorial-advice",
+    "judgment": "accepted within stated scope",
+    "review_note": "Inputs for enquiry are recommendations; no ZL capability,stock,MOQ,certification or supply guarantee.",
+    "citation_ids": [],
+    "source_files": []
+  },
+  {
+    "language": "en",
+    "file": "hesperidin-material-choice.en.md",
+    "line": 63,
+    "text": "Keep ordinary hesperidin for a brief that requires that ingredient. Evaluate food-grade glucosyl hesperidin where aqueous performance justifies a different material. Treat protein co-precipitates as a development option requiring a producible specification. The objective is a material that fits the product and can be sourced and described correctly—not the largest percentage or milligram figure on an incomparable quotation.",
+    "review_type": "editorial-conclusion",
+    "judgment": "accepted within stated scope",
+    "review_note": "Three routes and producible-spec requirement follow evidence;does not rank efficacy or force unlike denominators.",
+    "citation_ids": [],
+    "source_files": []
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 3,
+    "text": "采购柑橘黄酮，首先要明确材料身份，而不是挑标签上最大的数字。橙皮苷、葡糖基橙皮苷与蛋白质载体橙皮苷制备物，代表不同的材料路线：葡糖基化改变分子结构，蛋白质共沉淀则改变递送体系。[1][2] 比较报价之前，应先确定产品要用什么成分，以及是否要求它真正溶解。",
+    "review_type": "synthesis",
+    "judgment": "accepted within stated scope",
+    "review_note": "Molecular modification versus protein delivery distinction checked against S2 identity/synthesis and S1 methods; advice is editorial.",
+    "citation_ids": [
+      1,
+      2
+    ],
+    "source_files": [
+      "provenance/citrus/sources/S2.txt",
+      "provenance/citrus/sources/S1.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 7,
+    "text": "2026年9月22日采集的四个Amazon美国站商品页面，直观展示了这种区别。[10][11][12] 这是一组有目的选取的商品文案样本，不是实验室鉴定，也不是具有市场代表性的抽样调查。",
+    "review_type": "method",
+    "judgment": "accepted within stated scope",
+    "review_note": "UTC capture dates checked in all four original product result JSON files; purposive/non-representative scope explicit.",
+    "citation_ids": [
+      10,
+      11,
+      12
+    ],
+    "source_files": [
+      "sources/amazon-B0896SJSK8.txt",
+      "sources/amazon-B001F0QVX4.txt",
+      "sources/amazon-B0FPYN3J4Z.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 9,
+    "text": "| 商品 | 页面所称材料 | 数量信息该怎样理解 |",
+    "review_type": "table-header",
+    "judgment": "accepted within stated scope",
+    "review_note": "Observation columns separate identity from dose basis.",
+    "citation_ids": [],
+    "source_files": []
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 11,
+    "text": "| [Nootropics Depot橙皮苷，B0896SJSK8](https://www.amazon.com/dp/B0896SJSK8) | 橙皮苷胶囊，标题标注“90% Citrus Extract”。[10] | 标题和要点写500 mg，每瓶180粒；采集文本未明确每份粒数，也未说明500 mg是提取物质量还是按含量测得的橙皮苷质量，不能直接推算成450 mg橙皮苷。[10] |",
+    "review_type": "ecommerce",
+    "judgment": "accepted within stated scope",
+    "review_note": "Original title/bullets confirm 500mg,90%,180 count; no serving or extract/assay resolution. 450mg explicitly rejected, not calculated result.",
+    "citation_ids": [
+      10
+    ],
+    "source_files": [
+      "sources/amazon-B0896SJSK8.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 12,
+    "text": "| [NOW柑橘生物类黄酮，B001F0QVX4](https://www.amazon.com/dp/B001F0QVX4) | 柑橘生物类黄酮，要点注明另加维生素C。[11] | 标题写700 mg、100粒植物胶囊，但采集文本没有给出橙皮苷的具体量；不能把700 mg生物类黄酮当成700 mg橙皮苷。[11] |",
+    "review_type": "ecommerce",
+    "judgment": "accepted within stated scope",
+    "review_note": "Original NOW title confirms 700mg and100 caps; bullet identifies vitamin C; no assayed hesperidin dose asserted.",
+    "citation_ids": [
+      11
+    ],
+    "source_files": [
+      "sources/amazon-B001F0QVX4.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 13,
+    "text": "| [Nutricost地奥司明与橙皮苷复合物，B0FPYN3J4Z](https://www.amazon.com/dp/B0FPYN3J4Z) | 地奥司明与橙皮苷的组合。[12] | 每份两粒，1,000 mg复合物明确拆分为500 mg地奥司明与500 mg橙皮苷；每瓶120粒、60份。标题不是在说每份含1,000 mg橙皮苷。[12] |",
+    "review_type": "ecommerce",
+    "judgment": "accepted within stated scope",
+    "review_note": "Original Nutricost bullets explicitly confirm1000mg complex,500mg each,2 capsules,120 capsules/60 servings. No bioequivalence inference.",
+    "citation_ids": [
+      12
+    ],
+    "source_files": [
+      "sources/amazon-B0FPYN3J4Z.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 14,
+    "text": "| [Supersmart橙皮苷甲基查尔酮，B07JZDPJHK](https://www.amazon.com/dp/B07JZDPJHK) | 页面称橙皮苷甲基查尔酮（HMC），标准化含量98%，并非标为葡糖基橙皮苷。[13] | 标题写每日1,000 mg；用法为每日两粒，每粒“500mg of hesperidin methyl chalcone 98%”。应同时保留质量与含量口径，不另行推算所谓的折纯剂量。[13] |",
+    "review_type": "ecommerce",
+    "judgment": "accepted within stated scope",
+    "review_note": "HMC identity remains seller-labelled,98% and500mg per capsule wording exact;2/day and1000mg/day confirmed; no glucosyl substitution or490/980mg calculation.",
+    "citation_ids": [
+      13
+    ],
+    "source_files": [
+      "sources/amazon-B07JZDPJHK.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 16,
+    "text": "真正有用的比较顺序是：**成分名称→质量口径→每份用量**，而不是500、700与1,000 mg谁更大。Nutricost的文字明确了组成与每份粒数，其余样本则各有需要向产品标签或供应方核实的事项。采购原料时，应分别问清制备物的质量、目标化合物的检测含量，以及每份成品使用多少原料。",
+    "review_type": "editorial-inference",
+    "judgment": "accepted within stated scope",
+    "review_note": "Dose-basis synthesis follows the preceding four observations; supplier questions are advice rather than experimental findings.",
+    "citation_ids": [],
+    "source_files": []
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 18,
+    "text": "其他成分也值得单独看。Supersmart列出了羟丙甲纤维素和阿拉伯胶，却没有说明胶的用途或用量，不能据此判断它是喷雾干燥载体。[13] NOW列出的维生素C是另加营养成分，并未被称为载体。[11]",
+    "review_type": "ecommerce",
+    "judgment": "accepted within stated scope",
+    "review_note": "Hypromellose/acacia named verbatim in HMC bullet; role/amount absent from captured text. Vitamin C named nutrient, not carrier claim.",
+    "citation_ids": [
+      13,
+      11
+    ],
+    "source_files": [
+      "sources/amazon-B07JZDPJHK.txt",
+      "sources/amazon-B001F0QVX4.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 20,
+    "text": "搜索结果更不能代替材料鉴别。“glucosyl hesperidin”查询所采集的六个标题，没有一个明确标为葡糖基橙皮苷，其中包括橙皮苷产品、复合配方与HMC。[14] 这组样本没有核实到葡糖基橙皮苷成品，但也不能证明其他页面没有此类产品，更不能用来判断销量或市场份额。",
+    "review_type": "search-observation",
+    "judgment": "accepted within stated scope",
+    "review_note": "All six original search titles read: none identifies glucosyl; HMC/hesperidin/combinations present. No absence,market-share or sales inference.",
+    "citation_ids": [
+      14
+    ],
+    "source_files": [
+      "sources/amazon-glucosyl-search-titles.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 24,
+    "text": "**橙皮苷（hesperidin）**是由橙皮素与二糖芸香糖构成的黄烷酮苷；**橙皮素（hesperetin）**是它的苷元。[1] **单葡糖基橙皮苷（monoglucosyl hesperidin，MGH）**保留橙皮苷结构，再连接一个葡萄糖基；欧盟规格将其列为4G-α-D-glucopyranosyl-hesperidin。[7] 论文中的纯化单葡糖基产物，与商业葡糖基橙皮苷制备物，不能直接视为组成完全相同。",
+    "review_type": "identity",
+    "judgment": "accepted within stated scope",
+    "review_note": "Hesperidin=hesperetin+rutinose from S2; MGH identity also checked independently against EFSA Table1 and legal IUPAC/synonym. No HMC structure extrapolated from seller wording.",
+    "citation_ids": [
+      1,
+      7
+    ],
+    "source_files": [
+      "provenance/citrus/sources/S2.txt",
+      "provenance/citrus/sources/R4.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 26,
+    "text": "例如，NAGASE食品级CITRAPEAK的规格列出：MGH干基75.0–85.0%，“总橙皮苷”干基不低于70.0%。[3] EFSA将总橙皮苷的测定口径表述为“以橙皮苷计”的计算结果；欧盟材料规格则分别规定MGH干基75.0–85.0%、橙皮苷干基10–20%。[6][7] 折算总量不是可以与MGH相加的另一份组分；在规定范围内，残留橙皮苷也不自动意味着原料有缺陷。",
+    "review_type": "assay",
+    "judgment": "accepted within stated scope",
+    "review_note": "D3 confirms75–85%MGH and>=70%total dry-basis; R1 defines total as expressed-as calculation; R4 and current entry confirm10–20%hesperidin. No addition of overlapping percentages.",
+    "citation_ids": [
+      3,
+      6,
+      7
+    ],
+    "source_files": [
+      "provenance/citrus/sources/D3.txt",
+      "provenance/citrus/sources/R1.txt",
+      "provenance/citrus/sources/R4.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 28,
+    "text": "比较“80%葡糖基橙皮苷”与“95%橙皮苷”报价之前，要先确认检测对象、对照品、方法，以及采用干基还是交付状态的计算基准。它们不是同一种材料的两个纯度等级。",
+    "review_type": "editorial-example",
+    "judgment": "accepted within stated scope",
+    "review_note": "80% versus95% are illustrative quote comparison, not actual ZL or supplier offers.",
+    "citation_ids": [],
+    "source_files": []
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 32,
+    "text": "如果胶囊项目明确要求未改性的橙皮苷，就先固定这一身份。若水基食品要求原料进入溶解状态，文件齐全的食品级葡糖基橙皮苷值得另列候选，而不是作为“含量更高的替代品”。",
+    "review_type": "editorial-advice",
+    "judgment": "accepted within stated scope",
+    "review_note": "Conditional shortlist, not performance or legal clearance for any specific product.",
+    "citation_ids": [],
+    "source_files": []
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 34,
+    "text": "相关证据支持这种区分，但不同测量回答的是不同问题。2022年的研究发现，单葡糖基产物在正辛醇—水分配试验中比橙皮苷和橙皮素更偏向水相；这不是以g/L表示的饱和溶解度测定。[1] EFSA的2024年意见还记录了申请人针对所评估新食品原料提交的水溶解度与稳定性数据。[6]",
+    "review_type": "study",
+    "judgment": "accepted within stated scope",
+    "review_note": "S2 methods2.4/results3.3: partition not saturation solubility;2022 verified XML metadata. EFSA2024 opinion reports applicant characterization, not independent commercial-grade comparison.",
+    "citation_ids": [
+      1,
+      6
+    ],
+    "source_files": [
+      "provenance/citrus/sources/S2.txt",
+      "provenance/citrus/sources/R1.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 36,
+    "text": "其中，水溶液稳定性试验采用1% w/v浓度，在pH 3、4、5、6、7以及5、25、55°C条件下考察最长四周。[6] EFSA报告MGH和橙皮苷在所测条件下稳定，例外是55°C、pH 7放置四周后，回收率为88%。[6] 这是来自经评估申报资料的开发依据，不是无条件的耐热或保质期保证。选定样品后，仍应在目标配方中检查加工、储存后的溶解含量、浑浊或沉淀、风味及化学含量保持情况。",
+    "review_type": "study",
+    "judgment": "accepted within stated scope",
+    "review_note": "R1 Stability full paragraph checked:1%w/v;pH3,4,5,6,7;5,25,55C;up to4weeks;88% at55C/pH7/4weeks. Advice on matrix testing explicitly additional,not measured results.",
+    "citation_ids": [
+      6
+    ],
+    "source_files": [
+      "provenance/citrus/sources/R1.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 38,
+    "text": "**含蛋白质的递送体系**是另一条开发路线。2023年的研究用酪蛋白酸钠、大豆分离蛋白或乳清分离蛋白制备橙皮苷共沉淀物，过程中使用海藻糖，并经过碱性溶解、酸化和冻干。[2] 其溶解度试验使用pH 7磷酸盐缓冲液，搅拌24小时后离心、过滤、HPLC定量；所比较体系中，乳清蛋白共沉淀物的橙皮苷实测溶解度最高。[2] 产品允许采用含蛋白配方时，可以考虑这条路线；但不能把它当作酸性透明饮料中即时溶解的证据，或现成商业规格的证明。",
+    "review_type": "study",
+    "judgment": "accepted within stated scope",
+    "review_note": "S1 methods3.2/3.6/3.7 and results: trehalose included,alkaline/acid/freeze-dry;bufferpH7;24h;centrifuge/filter/HPLC;WPI highest among tested hesperidin systems.2023 metadata verified. No commercial availability claim.",
+    "citation_ids": [
+      2
+    ],
+    "source_files": [
+      "provenance/citrus/sources/S1.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 40,
+    "text": "食品级与化妆品级也需要各自的资料。NAGASE明确区分了外用化妆品级Alpha Glucosyl Hesperidin与口服食品级CITRAPEAK。[5] 应按用途选择等级，并核对目标市场文件；相同的成分名称或体外试验结果，都不能证明成品具有某种健康功效。",
+    "review_type": "grade",
+    "judgment": "accepted within stated scope",
+    "review_note": "D4 explicitly distinguishes cosmetic versus food grade; no manufacturer efficacy language imported.",
+    "citation_ids": [
+      5
+    ],
+    "source_files": [
+      "provenance/citrus/sources/D4.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 44,
+    "text": "**法规范围：**以下数值依据实施条例(EU) 2025/167及其勘误，并与2026年8月10日欧盟清单合并文本核对；2026年9月22日查询时，EUR-Lex将该版本列为当前合并版本。[7][8][15] 这不是全球适用的许可，也不是完整的上市合规清单。",
+    "review_type": "legal-scope",
+    "judgment": "accepted within stated scope",
+    "review_note": "2025/167+May2025corrigendum and10Aug2026consolidation independently opened;current-version banner confirmed22Sep2026. Not unbounded latest-law guarantee.",
+    "citation_ids": [
+      7,
+      8,
+      15
+    ],
+    "source_files": [
+      "provenance/citrus/sources/R4.txt",
+      "provenance/citrus/sources/R5.txt",
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 46,
+    "text": "| 列明用途 | 获授权新食品原料的最高用量 |",
+    "review_type": "table-header",
+    "judgment": "accepted within stated scope",
+    "review_note": "Limits refer to authorised preparation, not isolated MGH.",
+    "citation_ids": [],
+    "source_files": []
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 48,
+    "text": "| 以运动相关用途销售的软饮料 | 525 mg/L。[15] |",
+    "review_type": "legal-number",
+    "judgment": "accepted within stated scope",
+    "review_note": "Exact listed exercise-related soft-drink category;525mg/L in original andcurrent annex.",
+    "citation_ids": [
+      15
+    ],
+    "source_files": [
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 49,
+    "text": "| 能量饮料 | 525 mg/L。[15] |",
+    "review_type": "legal-number",
+    "judgment": "accepted within stated scope",
+    "review_note": "Energy drinks525mg/L in original andcurrent annex.",
+    "citation_ids": [
+      15
+    ],
+    "source_files": [
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 50,
+    "text": "| 食品补充剂：3至10岁儿童 | 115 mg/日；该补充剂类别排除婴幼儿。[15] |",
+    "review_type": "legal-number",
+    "judgment": "accepted within stated scope",
+    "review_note": "115mg/day and3-to10 age wording retained;infants/young children excluded from supplement category. No child-use recommendation.",
+    "citation_ids": [
+      15
+    ],
+    "source_files": [
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 51,
+    "text": "| 食品补充剂：10岁以上一般人群 | 200 mg/日。[15] |",
+    "review_type": "legal-number",
+    "judgment": "accepted within stated scope",
+    "review_note": "200mg/day;older than10 not changed to10andabove. Confirmed original andcurrent annex.",
+    "citation_ids": [
+      15
+    ],
+    "source_files": [
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 53,
+    "text": "这些限量针对文件所定义的新食品原料，不是按检测含量折算后的纯MGH，也不是推荐或有效剂量。[15] 条目要求食品标签使用“Glucosyl hesperidin”名称；食品补充剂还须根据目标年龄组，标注条目规定的不宜食用人群声明。[7][15] 厂家更广泛的应用清单，并不会扩大这些获授权食品类别。",
+    "review_type": "legal-interpretation",
+    "judgment": "accepted within stated scope",
+    "review_note": "Defined novel-food basis;designationGlucosyl hesperidin;age-dependent label instruction retained without inventing simplified age boundary. Complete exact clause archived;not a complete label compliance guide.",
+    "citation_ids": [
+      15,
+      7
+    ],
+    "source_files": [
+      "sources/fresh-6.txt",
+      "provenance/citrus/sources/R4.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 55,
+    "text": "供货资格与组成同样重要。条例第2条规定，自2025年2月20日起五年内，仅Nagase Viita获准将该新食品原料投放欧盟市场；除非后续申请人不依赖受保护科学数据取得授权，或在Nagase Viita同意下取得授权。[7] 勘误后的条目明确，数据保护截止日期为2030年2月20日。[8][15] 应问清拟采购来源如何受到授权覆盖，不能只凭含量相近就判断供货资格相同。",
+    "review_type": "legal-number",
+    "judgment": "accepted within stated scope",
+    "review_note": "Article2 five years from20Feb2025 plus both subsequent-authorisation alternatives;corrigendum/currententry20Feb2030. Not blanket manufacturer monopoly or ban on downstream distribution.",
+    "citation_ids": [
+      7,
+      8,
+      15
+    ],
+    "source_files": [
+      "provenance/citrus/sources/R4.txt",
+      "provenance/citrus/sources/R5.txt",
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 57,
+    "text": "采购标准应依据法定规格，而不是照搬较早的安全评估表。授权文件与2026年8月条目规定铅、砷各≤0.1 mg/kg；EFSA在2024年意见的规格表中列出的则是铅≤2 mg/kg、砷≤1.5 mg/kg。[6][7][15] 安全评估表不等于最终法定采购标准。",
+    "review_type": "legal-number",
+    "judgment": "accepted within stated scope",
+    "review_note": "Original/currentlaw Pb<=0.1,As<=0.1mg/kg versus EFSA Table4 Pb<=2,As<=1.5. Distinct normative status explicit.",
+    "citation_ids": [
+      6,
+      7,
+      15
+    ],
+    "source_files": [
+      "provenance/citrus/sources/R1.txt",
+      "provenance/citrus/sources/R4.txt",
+      "sources/fresh-6.txt"
+    ]
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 61,
+    "text": "一份有用的询价，应写明目标国家、产品类别、适用人群、所需化学身份、每份用量及加工条件，再索取对应等级、含量定义和供货资格依据。",
+    "review_type": "editorial-advice",
+    "judgment": "accepted within stated scope",
+    "review_note": "Inputs for enquiry are recommendations; no ZL capability,stock,MOQ,certification or supply guarantee.",
+    "citation_ids": [],
+    "source_files": []
+  },
+  {
+    "language": "zh",
+    "file": "hesperidin-material-choice.zh.md",
+    "line": 63,
+    "text": "明确要求橙皮苷的项目，就围绕普通橙皮苷选型；水相性能值得采用不同材料时，再评估食品级葡糖基橙皮苷；蛋白质共沉淀物则作为需要落实可生产规格的开发选项。采购目标是找到适合产品、来源合规且能准确标示的材料，而不是在无法直接比较的报价中选出最大的百分数或毫克数。",
+    "review_type": "editorial-conclusion",
+    "judgment": "accepted within stated scope",
+    "review_note": "Three routes and producible-spec requirement follow evidence;does not rank efficacy or force unlike denominators.",
+    "citation_ids": [],
+    "source_files": []
+  }
+]

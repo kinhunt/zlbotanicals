@@ -1,0 +1,12 @@
+{
+  "captured_at_utc": "2026-09-22T03:54:10.777134+00:00",
+  "command": "browserman script run --platform amazon --marketplace us --action search --query \"glucosyl hesperidin\" --limit 6 --json",
+  "response": {
+    "ok": true,
+    "command": "script.run",
+    "result": {
+      "executionId": "exec_160709a8ec214ff0",
+      "status": "running"
+    }
+  }
+}
