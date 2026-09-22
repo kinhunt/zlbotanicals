@@ -1,0 +1,83 @@
+{
+  "source_table": "Table 4",
+  "columns": [
+    "sample",
+    "labelled_origin",
+    "species",
+    "vanillin_delta13C_permil",
+    "vanillin_delta2H_permil"
+  ],
+  "rows": [
+    [
+      "FP1",
+      "French Polynesia",
+      "Tahitensis",
+      "−16.4",
+      "−79"
+    ],
+    [
+      "FP2",
+      "French Polynesia",
+      "Tahitensis",
+      "−16.7",
+      "−82"
+    ],
+    [
+      "MAD1",
+      "Madagascar",
+      "Planifolia",
+      "−19.8",
+      "−73"
+    ],
+    [
+      "MAD2",
+      "Madagascar",
+      "Planifolia",
+      "−19.5",
+      "−64"
+    ],
+    [
+      "MAD3",
+      "Madagascar",
+      "Planifolia",
+      "−19.1",
+      "−80"
+    ],
+    [
+      "MAD4",
+      "Madagascar",
+      "Planifolia",
+      "−20.2",
+      "−68"
+    ],
+    [
+      "MEX",
+      "Mexico",
+      "Planifolia",
+      "−20.5",
+      "−67"
+    ],
+    [
+      "PNG",
+      "Papua New Guinea",
+      "Tahitensis",
+      "−16.6",
+      "−99"
+    ],
+    [
+      "RI1",
+      "Réunion",
+      "Planifolia",
+      "−19.6",
+      "−67"
+    ],
+    [
+      "RI2",
+      "Réunion",
+      "Planifolia",
+      "−20.2",
+      "−63"
+    ]
+  ],
+  "population_note": "Ten purchased entries, not authenticated farm/harvest reference population; Table 5 labels include heterogeneous qualities and MAD3 syrup description."
+}

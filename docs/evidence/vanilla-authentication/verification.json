@@ -1,0 +1,343 @@
+{
+  "verdict": "PASS_REVIEWED_REVISION_CONTENT_ONLY",
+  "source_xml_bytes": 152572,
+  "source_quote_checks": [
+    {
+      "id": "C01",
+      "xml_id": "sec4dot1-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C02",
+      "xml_id": "molecules-30-00825-t005",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C03",
+      "xml_id": "sec4dot4-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C04",
+      "xml_id": "sec2dot1-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C05",
+      "xml_id": "sec3dot1-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C06",
+      "xml_id": "sec2dot4-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C07",
+      "xml_id": "sec3dot3-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C08",
+      "xml_id": "sec4dot8-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C09",
+      "xml_id": "sec2dot2-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C10",
+      "xml_id": "sec2dot1-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C11",
+      "xml_id": "sec3dot2-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C12",
+      "xml_id": "sec3dot2-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C13",
+      "xml_id": "sec5-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C14",
+      "xml_id": "sec2dot3dot2-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C15",
+      "xml_id": "sec2dot4-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C16",
+      "xml_id": "sec1-molecules-30-00825",
+      "exact_normalized_match": true
+    },
+    {
+      "id": "C17",
+      "xml_id": "sec5-molecules-30-00825",
+      "exact_normalized_match": true
+    }
+  ],
+  "source_ledger_quote_exact": true,
+  "all_table4_cells_match_saved_table": true,
+  "table4_table5_rows": [
+    {
+      "sample": "FP1",
+      "table4_full_row": [
+        "FP1",
+        "French Polynesia",
+        "Tahitensis",
+        "−16.4",
+        "−79"
+      ],
+      "table5_full_row": [
+        "1",
+        "FP1",
+        "French Polynesia",
+        "18",
+        "Tahitensis",
+        "Gourmet quality"
+      ],
+      "all_cells_verified": true
+    },
+    {
+      "sample": "FP2",
+      "table4_full_row": [
+        "FP2",
+        "French Polynesia",
+        "Tahitensis",
+        "−16.7",
+        "−82"
+      ],
+      "table5_full_row": [
+        "2",
+        "FP2",
+        "French Polynesia",
+        "18",
+        "Tahitensis",
+        "Gourmet quality"
+      ],
+      "all_cells_verified": true
+    },
+    {
+      "sample": "MAD1",
+      "table4_full_row": [
+        "MAD1",
+        "Madagascar",
+        "Planifolia",
+        "−19.8",
+        "−73"
+      ],
+      "table5_full_row": [
+        "3",
+        "MAD1",
+        "Madagascar",
+        "16",
+        "Planifolia",
+        "High quality"
+      ],
+      "all_cells_verified": true
+    },
+    {
+      "sample": "MAD2",
+      "table4_full_row": [
+        "MAD2",
+        "Madagascar",
+        "Planifolia",
+        "−19.5",
+        "−64"
+      ],
+      "table5_full_row": [
+        "4",
+        "MAD2",
+        "Madagascar",
+        "18",
+        "Planifolia",
+        "Grade A (gourmet quality)"
+      ],
+      "all_cells_verified": true
+    },
+    {
+      "sample": "MAD3",
+      "table4_full_row": [
+        "MAD3",
+        "Madagascar",
+        "Planifolia",
+        "−19.1",
+        "−80"
+      ],
+      "table5_full_row": [
+        "5",
+        "MAD3",
+        "Madagascar",
+        "-",
+        "Planifolia",
+        "Glass tube (syrup sugar, pods 300 g/L, vanilla seeds)"
+      ],
+      "all_cells_verified": true
+    },
+    {
+      "sample": "MAD4",
+      "table4_full_row": [
+        "MAD4",
+        "Madagascar",
+        "Planifolia",
+        "−20.2",
+        "−68"
+      ],
+      "table5_full_row": [
+        "6",
+        "MAD4",
+        "Madagascar",
+        "12",
+        "Planifolia",
+        "Grade B"
+      ],
+      "all_cells_verified": true
+    },
+    {
+      "sample": "MEX",
+      "table4_full_row": [
+        "MEX",
+        "Mexico",
+        "Planifolia",
+        "−20.5",
+        "−67"
+      ],
+      "table5_full_row": [
+        "7",
+        "MEX",
+        "Mexico",
+        "16",
+        "Planifolia",
+        "Gourmet quality"
+      ],
+      "all_cells_verified": true
+    },
+    {
+      "sample": "PNG",
+      "table4_full_row": [
+        "PNG",
+        "Papua New Guinea",
+        "Tahitensis",
+        "−16.6",
+        "−99"
+      ],
+      "table5_full_row": [
+        "8",
+        "PNG",
+        "Papua New Guinea",
+        "16",
+        "Tahitensis",
+        "High quality"
+      ],
+      "all_cells_verified": true
+    },
+    {
+      "sample": "RI1",
+      "table4_full_row": [
+        "RI1",
+        "Réunion",
+        "Planifolia",
+        "−19.6",
+        "−67"
+      ],
+      "table5_full_row": [
+        "9",
+        "RI1",
+        "Réunion",
+        "13",
+        "Planifolia",
+        "Gourmet quality"
+      ],
+      "all_cells_verified": true
+    },
+    {
+      "sample": "RI2",
+      "table4_full_row": [
+        "RI2",
+        "Réunion",
+        "Planifolia",
+        "−20.2",
+        "−63"
+      ],
+      "table5_full_row": [
+        "10",
+        "RI2",
+        "Réunion",
+        "13",
+        "Planifolia",
+        "Gourmet quality"
+      ],
+      "all_cells_verified": true
+    }
+  ],
+  "species_ranges": {
+    "Planifolia": {
+      "n": 7,
+      "delta13C": [
+        -20.5,
+        -19.1
+      ]
+    },
+    "Tahitensis": {
+      "n": 3,
+      "delta13C": [
+        -16.7,
+        -16.4
+      ]
+    }
+  },
+  "origin_counts": {
+    "French Polynesia": 2,
+    "Madagascar": 4,
+    "Mexico": 1,
+    "Papua New Guinea": 1,
+    "Réunion": 2
+  },
+  "citation_checks": {
+    "en": {
+      "exit_code": 0,
+      "output": "info: stats: 63 prose sentence(s), 20 with declared provenance (32%) — 20 cited, 0 marked [unverified] (a sentence may be both); 1 distinct source(s) cited, 1 in ledger (1 with evidence quotes)\ncitations OK\n"
+    },
+    "zh": {
+      "exit_code": 0,
+      "output": "info: stats: 3 prose sentence(s), 3 with declared provenance (100%) — 3 cited, 0 marked [unverified] (a sentence may be both); 1 distinct source(s) cited, 1 in ledger (1 with evidence quotes)\ncitations OK\n"
+    }
+  },
+  "input_sha256": {
+    "/data/hermes/research/seo-growth/2026-09-22-afternoon-discovery/vanilla-origin/sections.txt": "1a56fbaeb24825d3211e0f4310ca00b2682e874d579eac8c36496363e4a1df18",
+    "/data/hermes/research/seo-growth/2026-09-22-afternoon-discovery/vanilla-origin/draft.zh.md": "aa2b972944ab062392acedf2b3bec67c2f2496abf531f2b4365b61bb18f961eb",
+    "/data/hermes/research/seo-growth/2026-09-22-afternoon-discovery/vanilla-origin/claim-ledger.json": "3fcc705e4d496262517f158c614ee628d8457c97b6c2bd470c18a34b4221a0a4",
+    "/data/hermes/research/seo-growth/2026-09-22-afternoon-discovery/vanilla-origin/ledger.json": "21bbd4890d6e6361086c848593dbc7ae8c1b32379b997c44f39eb5c047d999b4",
+    "/data/hermes/research/seo-growth/2026-09-22-afternoon-discovery/vanilla-origin/fulltext-body.txt": "d5a76eebee85c9c5efbb14f9cddd0a3f327e9d1b531cfbe110f03811da070e83",
+    "/data/hermes/research/seo-growth/2026-09-22-afternoon-discovery/vanilla-origin/draft.en.md": "122bd37a4e6f54846f4bd8b053e550c9e30eae672be16da0b6b77d72de9fa522",
+    "/data/hermes/research/seo-growth/2026-09-22-afternoon-discovery/vanilla-origin/sample-table.json": "f61586ad8cfee81081b07b88de157dddfec2ea76779c33d8eaa3433d711afe24",
+    "/data/hermes/research/seo-growth/2026-09-22-afternoon-discovery/vanilla-origin/decision.md": "6bb9edd847939d6503b4ddf50c6fb442807ea95dcf8d65635d282e8b2825b1d4",
+    "/data/hermes/research/seo-growth/2026-09-22-afternoon-discovery/vanilla-origin/verification.json": "1b9edcbc23efab5a07a47cd0cc8f9e6b96d55284f84774d3fac57101d7c10e0a",
+    "/data/hermes/research/seo-growth/2026-09-22-afternoon-discovery/vanilla-origin/PMC11858005.xml": "be57da85492789e9c76b5ffe0bd297317b64a471ef6e487e27f438bd509edf92",
+    "/data/hermes/research/seo-growth/2026-09-22-afternoon-discovery/vanilla-origin/retrieval-manifest.json": "bbc51eb0d48223bc0fd245ff0eaee3f727cd637a8668504a3a2f1f23a56e6b54",
+    "/data/hermes/workspaces/zl-vanilla-release/src/content/blog/en/vanilla-material-choice.md": "e73e4fcd02993e7303fde1592ba2a50b314b20d3df269c443ad5876fa4fecfc7"
+  },
+  "reviewed_sha256": {
+    "reviewed/draft.zh.md": "1bdb05212564d21489fc8a070a3f727867d3ed147622565ab15d434adad377ac",
+    "reviewed/ledger.json": "21bbd4890d6e6361086c848593dbc7ae8c1b32379b997c44f39eb5c047d999b4",
+    "reviewed/draft.en.md": "829c9f4e7e7099de64ee773d40e4f52659b960fa1ad769185719499334e30637"
+  },
+  "remaining_gate": "Repository integration/build/link/schema tests and responsive rendered desktop/mobile screenshots, then separately authorized release and public verification. No render or publication approval is implied.",
+  "limitations": [
+    "Primary XML main text and all six tables inspected; supplements and underlying cited papers not independently retrieved.",
+    "Concentration series is not back-calculated to commercial-product dose; method wording does not support an unambiguous such conversion.",
+    "Chinese citation coverage heuristic is not a language-review score."
+  ]
+}

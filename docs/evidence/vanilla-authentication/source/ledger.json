@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11858005/fullTextXML",
+      "title": "Authentic Aroma and Compound-Specific Isotope Ratios: full-text XML, DOI 10.3390/molecules30040825",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "VOCs and isotope ratios of vanillin cannot completely discriminate the samples by their geographical origins.",
+          "added": "2026-09-22"
+        }
+      ]
+    }
+  ]
+}

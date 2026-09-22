@@ -1,0 +1,15 @@
+{
+  "changes.en.diff": "f9059764318166e31012fd1dd05414e1996ba95e294670005b2ac19731bd5d23",
+  "verdict.md": "aad05d270b8650294b8659cfc071beb0065e24c48d4203f4140026ca75cb94e0",
+  "verification.json": "bf7d24a7df8789f408d3d53f579f050787488509438a8fbb20b1d3cf6f4e23f6",
+  "changes.zh.diff": "9bc53d7bd92286f047e8abe455ffb7240502571c8cd8aeaeebbed47d9a5aaf6e",
+  "hashes.json": "5b4fce4b46dea764ab60ee58719c4c7d4e0f8b498990d9d8c5d73a9941004f01",
+  "source/claim-ledger.json": "3fcc705e4d496262517f158c614ee628d8457c97b6c2bd470c18a34b4221a0a4",
+  "source/ledger.json": "21bbd4890d6e6361086c848593dbc7ae8c1b32379b997c44f39eb5c047d999b4",
+  "source/sample-table.json": "f61586ad8cfee81081b07b88de157dddfec2ea76779c33d8eaa3433d711afe24",
+  "source/PMC11858005.xml": "be57da85492789e9c76b5ffe0bd297317b64a471ef6e487e27f438bd509edf92",
+  "source/retrieval-manifest.json": "bbc51eb0d48223bc0fd245ff0eaee3f727cd637a8668504a3a2f1f23a56e6b54",
+  "reviewed/draft.zh.md": "1bdb05212564d21489fc8a070a3f727867d3ed147622565ab15d434adad377ac",
+  "reviewed/ledger.json": "21bbd4890d6e6361086c848593dbc7ae8c1b32379b997c44f39eb5c047d999b4",
+  "reviewed/draft.en.md": "829c9f4e7e7099de64ee773d40e4f52659b960fa1ad769185719499334e30637"
+}

@@ -1,0 +1,13 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    "changes.en.diff": "f9059764318166e31012fd1dd05414e1996ba95e294670005b2ac19731bd5d23",
+    "verdict.md": "aad05d270b8650294b8659cfc071beb0065e24c48d4203f4140026ca75cb94e0",
+    "verification.json": "bf7d24a7df8789f408d3d53f579f050787488509438a8fbb20b1d3cf6f4e23f6",
+    "changes.zh.diff": "9bc53d7bd92286f047e8abe455ffb7240502571c8cd8aeaeebbed47d9a5aaf6e",
+    "reviewed/draft.zh.md": "1bdb05212564d21489fc8a070a3f727867d3ed147622565ab15d434adad377ac",
+    "reviewed/ledger.json": "21bbd4890d6e6361086c848593dbc7ae8c1b32379b997c44f39eb5c047d999b4",
+    "reviewed/draft.en.md": "829c9f4e7e7099de64ee773d40e4f52659b960fa1ad769185719499334e30637"
+  },
+  "input_unchanged_at_final_check": true
+}

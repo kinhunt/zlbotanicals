@@ -21,6 +21,7 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content, headings } = await post.render();
 const isCentellaStability = post.slug.endsWith('/centella-cold-process-stability');
+const isVanillaAuthentication = post.slug.endsWith('/vanilla-authentication');
 const isVanilla = post.slug.endsWith('/vanilla-material-choice');
 const isCranberry = post.slug.endsWith('/cranberry-pac-purchasing');
 const isCitrus = post.slug.endsWith('/hesperidin-material-choice');
@@ -55,7 +56,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
   heroTitle={post.data.title}
   heroSubtitle={guideCategory[lang].title}
 >
-  <article class:list={["section-padding", {"vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
+  <article class:list={["section-padding", {"vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
     <div class="container-wide max-w-4xl">
       <!-- Breadcrumb -->
       <nav aria-label="面包屑导航" class="mb-8 text-sm">
@@ -181,7 +182,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
       )}
 
       <!-- CTA -->
-      {!isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
+      {!isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
         <h3 class="text-xl font-display font-bold text-gray-900">对我们的植物提取物感兴趣？</h3>
         <p class="text-gray-600 mt-2">联系我们获取样品、技术资料或定制配方支持。</p>
         <a
@@ -196,6 +197,11 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
 </PageLayout>
 
 <style>
+  .vanilla-authentication-reader :global([id]) {scroll-margin-top:100px}
+  .vanilla-authentication-reader :global(nav ol) {flex-wrap:wrap}
+  .vanilla-authentication-reader :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}
+  .vanilla-authentication-reader :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}
+
   .hibiscus-color :global([id]) {scroll-margin-top:100px}
   .hibiscus-color :global(nav ol) {flex-wrap:wrap}
   .hibiscus-color :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}
