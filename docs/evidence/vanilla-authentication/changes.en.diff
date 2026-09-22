@@ -1,0 +1,30 @@
+--- original/draft.en.md
++++ reviewed/draft.en.md
+@@ -20,15 +20,15 @@
+ 
+ The authors observed clearer species separation than geographical separation in their VOC principal-component analysis, or PCA.[1] A PCA plot is a way to display patterns in the measured samples; visible clusters are not a validated acceptance rule for future shipments.
+ 
+-## The isotope results separated these species more clearly than these countries
++## The isotope results separated these species more clearly than these origins
+ 
+-For vanillin, the seven *V. planifolia* entries had carbon isotope values, δ13C, from −20.5 to −19.1‰; the three *V. tahitensis* entries ranged from −16.7 to −16.4‰ in Table 4.[1] These are the observed ranges in this sample set, not universal cutoffs for accepting or rejecting a species declaration.
++For vanillin, the seven *V. planifolia* entries had carbon isotope values, δ13C, from −20.5 to −19.1‰; the three *V. tahitensis* entries ranged from −16.7 to −16.4‰ in Table 4.[1] These are the observed ranges in this sample set, not universal cutoffs for accepting or rejecting a species declaration. The ‰ unit describes the relative difference between the sample’s heavy-to-light isotope ratio and a reference ratio: VPDB for carbon and VSMOW for hydrogen. It is not a concentration or a percentage of bean-derived material.[1]
+ 
+ Hydrogen isotope values added another dimension, but not a unique country signature. The French Polynesian entries had vanillin δ2H values of −79 and −82‰, compared with −99‰ for the single Papua New Guinea entry; the four Madagascar entries ranged from −80 to −64‰.[1] The comparison is interesting, but one Papua New Guinea entry cannot establish that country's full range.
+ 
+ More importantly, the combined VOC/isotope PCA placed Madagascar and Réunion together, with the Mexican sample also in the same group as Madagascar.[1] The authors suggest similar climate as a possible explanation, rather than demonstrating that these measurements can resolve national boundaries. Their conclusion is explicit: VOCs and vanillin isotope ratios could not completely discriminate the samples by geographical origin.[1]
+ 
+-There is also a design limitation that a neat plot can hide. Each country in this set contributes only one species. The experiment therefore cannot fully disentangle species differences from the particular country distribution used. A sensible next study would sample the same species across multiple countries, farms and harvests, with independently documented provenance.
++There is also a design limitation that a neat plot can hide. Each country or region in this set contributes only one species, although each species appears in more than one origin. Species and origin are therefore not fully crossed in the design: separation between the two species cannot establish geographical discrimination. A stronger follow-up would expand sampling within each species across origins, farms and harvests and, where feasible, include both species from the same origins, with independently documented provenance.
+ 
+ ## Analytical validation is not origin-classification validation
+ 
+@@ -48,7 +48,7 @@
+ 
+ The separate spiking experiment added **ethyl vanillin**, not non-bean vanillin, to a commercial vanilla extract.[1] Under adequate chromatographic separation, the authors concluded that ethyl vanillin did not interfere with the isotope ratios measured for vanillin.[1] This is precisely why a plausible vanillin isotope result cannot, by itself, exclude the presence of ethyl vanillin elsewhere in that extract.
+ 
+-Concentration mattered. The discussion reports stable ethyl-vanillin δ13C values over 5–144 mg/L within ±0.2‰, but unreliable δ2H determination below 21 mg/L and synchronized trends at 72 mg/L and above that the authors associate with a possible instrument memory effect.[1] These are method-specific analytical observations, not legal addition limits or universal adulteration-detection limits.
++Concentration mattered. The discussion reports stable ethyl-vanillin δ13C values over 5–144 mg/L within ±0.2‰, but unreliable δ2H determination below 21 mg/L and synchronized trends at 72 mg/L and above that the authors associate with a possible instrument memory effect.[1] The conclusion summarizes a hydrogen interval of 21–72 mg/L, while the discussion flags synchronized trends at 72 mg/L and above; 72 mg/L should therefore not be presented as an unqualified reliable upper limit.[1] These mg/L values refer to ethyl vanillin in the reported analytical concentration series, not its mass fraction in beans or an addition rate for a finished product. The methods describe dilution and SPE preparation; the reported series should not be converted into an original-product concentration without a verified preparation and recovery basis. These are method-specific analytical observations, not legal addition limits or universal adulteration-detection limits.
+ 
+ Added non-bean **vanillin** raises a different source-attribution question. The paper's introduction discusses carbon-isotope overlap and mixtures that can mimic a natural-vanillin δ13C value, drawing on earlier literature; the ten-sample experiment is not a fresh validation of every such mixture.[1] Its ethyl-vanillin findings therefore should not be advertised as proof that any addition of vanillin can be detected or excluded.
+ 

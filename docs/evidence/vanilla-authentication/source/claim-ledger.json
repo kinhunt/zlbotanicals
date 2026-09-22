@@ -1,0 +1,159 @@
+{
+  "source_id": 1,
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11858005/fullTextXML",
+  "claims": [
+    {
+      "id": "C01",
+      "source_id": 1,
+      "xml_id": "sec4dot1-molecules-30-00825",
+      "evidence_quote": "Ten vanilla samples native to Madagascar, Mexico, French Polynesia, Papua New Guinea, and La Réunion were collected.",
+      "claim": "Ten purchased sample entries: Madagascar 4, Réunion 2, Mexico 1 (all planifolia); French Polynesia 2, PNG 1 (all tahitensis), seven versus three.",
+      "boundary": "Counts derived from Table 5; not ten countries, independent farms, harvest years, or a representative fraud survey.",
+      "type": "study result"
+    },
+    {
+      "id": "C02",
+      "source_id": 1,
+      "xml_id": "molecules-30-00825-t005",
+      "evidence_quote": "Glass tube (syrup sugar, pods 300 g/L, vanilla seeds)",
+      "claim": "MAD3 is described with syrup sugar, pods 300 g/L and vanilla seeds, unlike a simple dry-pod entry.",
+      "boundary": "Report matrix heterogeneity; do not assert measured syrup effects or label it fraudulent.",
+      "type": "study result"
+    },
+    {
+      "id": "C03",
+      "source_id": 1,
+      "xml_id": "sec4dot4-molecules-30-00825",
+      "evidence_quote": "For every 15 g of vanilla sample, 100 mL of solvent was used. The extraction was performed at ambient temperature and lasted for 72 h with continuous stirring.",
+      "claim": "Laboratory maceration used 50:50 water/ethanol, 15 g/100 mL, 72 h; followed by SPE and compound-specific analysis.",
+      "boundary": "Not a validation across finished foods or every retail powder/paste matrix.",
+      "type": "study result"
+    },
+    {
+      "id": "C04",
+      "source_id": 1,
+      "xml_id": "sec2dot1-molecules-30-00825",
+      "evidence_quote": "relative abundances ranging from 35.1% to 81.9%",
+      "claim": "Vanillin relative abundance in the measured VOC profile varied from 35.1% to 81.9%.",
+      "boundary": "Not vanillin percentage by bean weight, purity, extraction yield or sensory potency. Main text calls mean 66.1% concentration; retain relative-abundance interpretation.",
+      "type": "study result"
+    },
+    {
+      "id": "C05",
+      "source_id": 1,
+      "xml_id": "sec3dot1-molecules-30-00825",
+      "evidence_quote": "While the plot shows a clear separation of vanilla pods by species, differentiation based on geographic origin is less pronounced.",
+      "claim": "VOC PCA differentiated species in the observed set more clearly than geography.",
+      "boundary": "Exploratory fit, not out-of-sample accuracy; do not convert plot separation into sensitivity/specificity.",
+      "type": "study result"
+    },
+    {
+      "id": "C06",
+      "source_id": 1,
+      "xml_id": "sec2dot4-molecules-30-00825",
+      "evidence_quote": "δ13C values of vanillin of V. planifolia range from −20.5‰ to −19.1‰",
+      "claim": "Seven planifolia entries had vanillin δ13C −20.5 to −19.1‰; Table 4 tahitensis entries −16.7 to −16.4‰.",
+      "boundary": "Observed ranges in 10 entries only, not universal species thresholds or certified origin intervals.",
+      "type": "study result"
+    },
+    {
+      "id": "C07",
+      "source_id": 1,
+      "xml_id": "sec3dot3-molecules-30-00825",
+      "evidence_quote": "the sample from Mexico can be found in the same group as the ones from Madagascar",
+      "claim": "Combined VOC/isotope PCA grouped Mexico with Madagascar; Réunion and Madagascar also cluster together.",
+      "boundary": "Authors suggest climate explanations, not proven geographic causation or measured growing conditions.",
+      "type": "study result"
+    },
+    {
+      "id": "C08",
+      "source_id": 1,
+      "xml_id": "sec4dot8-molecules-30-00825",
+      "evidence_quote": "In the present study, statistical analyses were conducted using R (version 4.4.0) to differentiate vanilla extracts from various regions and species.",
+      "claim": "Statistics section supplies software only. Main text reports t-tests/PCA, not a trained classifier evaluated on independent specimens.",
+      "boundary": "No described held-out set, cross-validation, group splits, confusion matrix, classifier accuracy or external cohort. This is absent reporting, not proof of hidden misconduct.",
+      "type": "methods audit"
+    },
+    {
+      "id": "C09",
+      "source_id": 1,
+      "xml_id": "sec2dot2-molecules-30-00825",
+      "evidence_quote": "The ten in-house vanilla extract samples were analyzed with the PRM experiment and none showed the presence of the glycosylated precursor of ethyl vanillin.",
+      "claim": "No ethyl vanillin glucoside detected in ten in-house extracts; PRM used to distinguish isomeric peaks.",
+      "boundary": "No universal absence proof; main-text precursor result lacks numerical LOD/LOQ/recovery supporting a universal threshold.",
+      "type": "study result"
+    },
+    {
+      "id": "C10",
+      "source_id": 1,
+      "xml_id": "sec2dot1-molecules-30-00825",
+      "evidence_quote": "Ethyl vanillin was absent in all analyzed vanilla extracts.",
+      "claim": "No ethyl vanillin detected in the analyzed extracts.",
+      "boundary": "Detection in a purported bean-only extract merits investigation; does not make all ethyl-vanillin-containing products fraudulent. No market prevalence estimate.",
+      "type": "study result"
+    },
+    {
+      "id": "C11",
+      "source_id": 1,
+      "xml_id": "sec3dot2-molecules-30-00825",
+      "evidence_quote": "the δ13C value of ethyl vanillin was stable within the uncertainty range of ±0.2‰ between 5 mg/L and 144 mg/L.",
+      "claim": "Ethyl-vanillin spike experiment reported a stable carbon isotope interval 5–144 mg/L, ±0.2‰.",
+      "boundary": "Concentration in the analytical experiment, not a food legal limit, universal LOD or universal authenticity cutoff.",
+      "type": "study result"
+    },
+    {
+      "id": "C12",
+      "source_id": 1,
+      "xml_id": "sec3dot2-molecules-30-00825",
+      "evidence_quote": "at concentrations below 21 mg/L, δ2H values of ethyl vanillin could not be accurately determined.",
+      "claim": "Ethyl-vanillin hydrogen result concentration-sensitive below 21 mg/L; ≥72 mg/L synchronized trends suggest possible memory effects.",
+      "boundary": "Conclusion summarizes 21–72 mg/L, but discussion flags 72 and above. Do not claim an unqualified safe upper boundary.",
+      "type": "study result"
+    },
+    {
+      "id": "C13",
+      "source_id": 1,
+      "xml_id": "sec5-molecules-30-00825",
+      "evidence_quote": "when properly separated, the presence of ethyl vanillin does not interfere with vanillin’s isotope ratios.",
+      "claim": "Authors conclude adequate chromatographic separation permits vanillin isotope measurement despite added ethyl vanillin.",
+      "boundary": "Not a study of added non-bean vanillin, not proof normal vanillin isotope ratio excludes ethyl vanillin, not non-interference at every concentration.",
+      "type": "study result"
+    },
+    {
+      "id": "C14",
+      "source_id": 1,
+      "xml_id": "sec2dot3dot2-molecules-30-00825",
+      "evidence_quote": "performing 15 runs of standard solution in a single sequence",
+      "claim": "Within-run precision used 15 runs of a standard solution.",
+      "boundary": "Technical repetition, not 15 independent origin samples; analytical precision is not classification validation.",
+      "type": "study result"
+    },
+    {
+      "id": "C15",
+      "source_id": 1,
+      "xml_id": "sec2dot4-molecules-30-00825",
+      "evidence_quote": "These three molecules were selected due to their relatively high abundance, and they fall into a region without overlapping with other compounds.",
+      "claim": "Homovanillic acid, 4-ethoxymethyl-phenol and vanillyl alcohol selected as potential minor markers based on abundance/separation.",
+      "boundary": "Potential markers characterized in this same small set, not independently validated origin fingerprints; label-aware feature-selection leakage cannot be established from reported methods.",
+      "type": "study result"
+    },
+    {
+      "id": "C16",
+      "source_id": 1,
+      "xml_id": "sec1-molecules-30-00825",
+      "evidence_quote": "mimic the δ13C value of the natural vanillin by mixing synthetic/biosynthetic vanillin and ex-glucose vanillin",
+      "claim": "Authors review carbon-isotope overlap/mimicry as rationale for complementary hydrogen and other measurements.",
+      "boundary": "Cited background, not a blending result generated by these ten samples; underlying cited studies not independently retrieved.",
+      "type": "paper background"
+    },
+    {
+      "id": "C17",
+      "source_id": 1,
+      "xml_id": "sec5-molecules-30-00825",
+      "evidence_quote": "Further studies based on analyzing more samples from different sources and origins are needed to confirm and refine these preliminary findings.",
+      "claim": "Authors explicitly regard these as preliminary and request wider sampling.",
+      "boundary": "Supports research interpretation, not blanket origin guarantees.",
+      "type": "study result"
+    }
+  ]
+}
