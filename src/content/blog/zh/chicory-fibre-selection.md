@@ -1,0 +1,101 @@
+---
+title: "菊苣纤维怎么选：先定配方任务，再选菊粉规格"
+lang: "zh"
+publishDate: "2026-09-22"
+category: "research"
+guideCategory: "application-guides"
+tags: ["菊苣纤维", "配方应用"]
+description: "按食品任务、加工路线与交付态纤维含量选择菊苣纤维，区分速分散、高溶解性与质地构建型原料。"
+relatedProducts: []
+relatedSolutions: ["food"]
+relatedIndustries: ["food"]
+sources: []
+---
+
+面向食品研发与原料采购
+
+一款清澈的膳食纤维饮料和一款降低脂肪含量、强调绵密口感的甜品，都可能从“采购菊苣根纤维”开始，但两者需要原料完成的任务并不一样。BENEO将其菊粉分为标准型、长链型和低聚果糖富集型，不同类型的溶解性、甜度与纤维含量有所不同；COSUCRA的菊苣纤维系列也包括多种粉体和液体原料。<a href="#chicory-ref-1">[1]</a><a href="#chicory-ref-7">[7]</a>
+
+选哪一种菊苣来源果聚糖，应从食品类型、加工条件和目标口感出发。饮料可能希望原料容易加入，同时不带来多余的稠感或外观变化；减脂甜品则可能需要原料形成一定结构，而不只是完全溶解。两者需要的是不同的功能表现。
+
+## 菊苣说明来源，具体牌号才说明原料差别
+
+BENEO将其[低聚果糖](https://www.beneo.com/human-nutrition/human-nutrition-products/functional-fibres/oligofructose)描述为菊粉经过部分酶水解得到的菊粉型果聚糖，并提供粉体与液体形态。<a href="#chicory-ref-2">[2]</a> 其菊粉产品线则分别列有速分散、高溶解性及长链质地构建等类型。<a href="#chicory-ref-1">[1]</a> 单写“菊苣根纤维”，不足以区分用于构建质地的长链材料与偏向溶解性、甜味贡献的较短链材料。<a href="#chicory-ref-1">[1]</a><a href="#chicory-ref-2">[2]</a>
+
+聚合度DP用于描述链长，是选料的重要变量，却不能独自定义配方表现。一项长链菊粉原始研究显示，即使原料与干物质浓度相同，制备温度和搅拌条件仍会改变最终凝胶的性质。<a href="#chicory-ref-8">[8]</a>
+
+这里还要分清三个状态：**粉末分散开了、分子溶解了，以及冷却和放置后形成了需要的结构。** BENEO自己的目录就把“instant／高分散性”与“high soluble／高溶解性”分列为不同产品特点。<a href="#chicory-ref-1">[1]</a> 不能把其中任何一个词直接理解为成品长期清澈，也不应默认所有食品都要追求尽可能充分的溶解。
+
+## 厂家目录中的原料差别与应用选择
+
+下表对照厂家的公开产品描述，末栏列出相应的应用评估重点。它不代表不同品牌性能相同，也不代表ZL现货清单。
+
+<table class="chicory-table"><caption>厂家描述与应用评估重点</caption><thead><tr><th scope="col">厂家公开列出的材料</th><th scope="col">厂家强调的区别</th><th scope="col">应用评估重点</th></tr></thead><tbody>
+<tr><th scope="row"><a href="https://www.beneo.com/human-nutrition/human-nutrition-products/functional-fibres/inulin">BENEO Orafti ST-Gel</a></th><td><span class="mobile-label" aria-hidden="true">厂家强调的区别</span>高分散性菊粉，标注为instant。<a href="#chicory-ref-1">[1]</a></td><td><span class="mobile-label" aria-hidden="true">应用评估重点</span>重点说明投粉与混合顺序；“速分散”不等于成品饮料必然清澈。</td></tr>
+<tr><th scope="row">BENEO Orafti HSI</th><td><span class="mobile-label" aria-hidden="true">厂家强调的区别</span>高溶解性菊粉。<a href="#chicory-ref-1">[1]</a></td><td><span class="mobile-label" aria-hidden="true">应用评估重点</span>写明实际浓度、配制温度和储存状态，而非只问“能不能溶于水”。</td></tr>
+<tr><th scope="row">BENEO Orafti HP与HPX</th><td><span class="mobile-label" aria-hidden="true">厂家强调的区别</span>同属用于脂肪替代的长链菊粉，分别面向较低与较高加工温度。<a href="#chicory-ref-1">[1]</a></td><td><span class="mobile-label" aria-hidden="true">应用评估重点</span>先交代热加工路线，再讨论看似相近的长链牌号。</td></tr>
+<tr><th scope="row"><a href="https://www.cosucra.com/our-ingredients/fibruline">COSUCRA FIBRULINE XL</a></th><td><span class="mobile-label" aria-hidden="true">厂家强调的区别</span>较长链、具有质地构建作用的菊苣纤维，强调高水分体系中的类脂肪口感。<a href="#chicory-ref-7">[7]</a></td><td><span class="mobile-label" aria-hidden="true">应用评估重点</span>评估实际甜品或涂抹食品的质地，而不只做清水杯中的溶解观察。</td></tr>
+<tr><th scope="row">COSUCRA FIBRULOSE LCF</th><td><span class="mobile-label" aria-hidden="true">厂家强调的区别</span>液体低聚果糖，强调黏结作用及低水分体系应用。<a href="#chicory-ref-7">[7]</a></td><td><span class="mobile-label" aria-hidden="true">应用评估重点</span>将液体原料带入的水分与固形物一起计入配方；不能按相同重量直接替换粉体。</td></tr>
+</tbody></table>
+
+这份目录对照带来两个比“高纯度”更具体的采购线索：BENEO把适用于不同加工温度的长链产品分开列示；COSUCRA则在同一产品描述中，分别给出**干物质中的菊粉或低聚果糖含量**与**交付状态下的膳食纤维含量**。<a href="#chicory-ref-1">[1]</a><a href="#chicory-ref-7">[7]</a> 原料做什么，以及每公斤到底交付多少可比的纤维，必须同时说清，价格才有比较基础。
+
+## 为什么做甜品时，“加热到全溶”未必是正确指令？
+
+[Beccard等人](https://doi.org/10.1016/j.foodhyd.2018.06.049)研究了一种平均DP为23的商业长链菊粉，使用菊粉干物质占悬浮液总质量20%的水体系，分别在25、40和60°C下制备，并在室温放置24小时后测定质地。<a href="#chicory-ref-8">[8]</a> 这些是论文试验条件，不是食品通用添加量，也不是推荐的工业工艺参数。
+
+在该体系中，提高制备温度增加了溶解量，却降低了随后形成的凝胶硬度。较高搅拌转速得到的凝胶比低转速处理更硬，但随制备温度上升而变软的总体方向没有改变。<a href="#chicory-ref-8">[8]</a> 作者用结晶、可用晶种及凝胶颗粒尺寸解释这些变化，同时明确指出，所提出的颗粒凝胶模型并非所有细节都已得到证明。<a href="#chicory-ref-8">[8]</a>
+
+对采购而言，这意味着：**“可溶性膳食纤维”的规格与“形成所需质地”的验收要求不是同一件事。** 如果买料是为了补回减脂后失去的部分结构贡献，一杯热态清澈的预混液本身并不能证明应用成功。验收对象应包括经过实际冷却、放置后的食品，而不只是进厂粉末或刚混好的液体。
+
+这项研究也不意味着温度越低越好。它使用一种材料和较高浓度的水体系，并未验证完整乳制甜品、植物基涂抹食品或酸性饮料。<a href="#chicory-ref-8">[8]</a> 不同商业长链牌号也未必有相同表现。记录样品制备条件及其质地结果，才能在相同基础上评估其他牌号。
+
+## 按食品任务，确定该比较什么
+
+结合上述产品定位与研究结果，可按以下思路设计应用比较。
+
+**清澈或口感清爽的纤维饮料：** 可依据厂家产品定位，从高溶解性菊粉或较短链低聚果糖候选料开始讨论。<a href="#chicory-ref-1">[1]</a><a href="#chicory-ref-2">[2]</a> 提前定义允许的稠感与可见变化，观察实际饮料经过加工和储存后的状态，而不是看到粉末在温水中消失就放行。溶解性描述也不能回答加工后还保留了多少可计入标签的纤维。
+
+**绵密的减脂甜品或涂抹食品：** 可从长链质地构建型材料入手，并确认牌号是否匹配现有热加工路线。<a href="#chicory-ref-1">[1]</a><a href="#chicory-ref-7">[7]</a> 对照中保留全脂参照和不加纤维的减脂基底；否则，只比较两种纤维，可能选出更硬的一款，却仍不知道它是否恢复了想要的入口质地。冷却、放置及冷却后的再搅拌，都应纳入完整的工艺记录。
+
+**谷物棒黏结体系或其他低水分食品：** 液体路线与粉体路线应分别讨论。BENEO将谷物黏结糖浆列为低聚果糖的应用实例，COSUCRA则强调液体LCF的黏结作用与低水分体系用途。<a href="#chicory-ref-2">[2]</a><a href="#chicory-ref-7">[7]</a> 评估时把配方的水分平衡、混合顺序和最终质地放在一起。厂家对甜味的描述，不能直接证明它在本配方中与蔗糖等甜，也不能自动支持某项糖含量宣称。
+
+**酸性、经过热加工的食品：** 除物理适配外，还要考虑化学稳定性。[Vega与Zuniga-Hansen的研究摘要](https://doi.org/10.1016/j.foodchem.2014.10.119)比较了pH 3.5下短链FOS在柠檬酸盐缓冲液、橙汁和番茄汁中的稳定性，报告链长、食品基质和加工条件都会影响结果。<a href="#chicory-ref-9">[9]</a> 因此，稳定性应在具体食品基质中验证，不能据此为长链菊粉设定统一温度上限或保证纤维保留率。
+
+## 按来料中的纤维量比价，再评估加工后的表现
+
+COSUCRA公开页面对FIBRULINE XL给出的描述为：菊粉含量约99.5%（以干物质质量计），膳食纤维含量94.5%（以交付原料总质量计）。液体FIBRULOSE LCF的低聚果糖含量约90%（以干物质质量计），膳食纤维含量65.5%（以交付原料总质量计）；其纤维脚注采用DP≥3的不可消化低聚或聚合碳水化合物口径。<a href="#chicory-ref-7">[7]</a> 这些目录值的分母不同，也不等于具体批次的实测含量。
+
+不能把干物质百分比直接当作每公斤来料的纤维质量分数。初步核价时，应取得各候选材料口径兼容的交付态纤维含量与真实报价：
+
+**每公斤来料纤维的原料成本＝每公斤交付原料报价÷交付状态下的纤维质量分数。**
+
+计算时使用小数：94.5%代入0.945，65.5%代入0.655；不能将干基含量99.5%或90%作为这个公式的分母。
+
+这只是算术关系，不代表来料纤维单价最低就能做出成本最低的合格食品。公式没有包含加工损失、其他配方调整、运输差异或功能表现，也不能直接确定成品标签值。“等来料纤维量”与“等最终质地”是两种不同的比较，应分别记录比较条件和结果。
+
+对于美国项目，[FDA膳食纤维问答](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/questions-and-answers-dietary-fiber)将菊粉及菊粉型果聚糖列入拟议加入定义的碳水化合物清单，并说明在规则制定完成前采取执法裁量安排。<a href="#chicory-ref-3">[3]</a> FDA同时指出，标签申报应排除不符合定义的量，分析方法本身不能区分所有符合与不符合监管定义的不可消化碳水化合物。<a href="#chicory-ref-3">[3]</a> 原料身份、成品证据和适用标签规则必须对应；其他市场需单独复核。
+
+## 让供应商能够作出实际判断的询样方式
+
+甜品项目的需求可以这样写：
+
+> 我们正在开发一款脂肪含量降低、可用勺舀取的甜品，希望筛选适合的菊苣来源纤维。请根据我们的加热、冷却及冷却后搅拌顺序，建议具有质地构建作用的牌号，并解释它与贵司高溶解性牌号的差别。请按交付原料报价，注明交付状态的纤维质量分数。我们会与全脂参照及不加纤维的减脂基底比较质地，再决定是否采用。
+
+如果是饮料，把“恢复质地”改为明确的清澈度、稠感要求，并说明实际酸度及热加工条件。再补上目标市场、计划每份用量、包装、采购量和组成限制。
+
+ZL可按项目需求开展植物原料采购，并沟通规格、样品与报价。询样时请说明所需功能与加工条件；指定厂家牌号是否可供，应另行确认。可通过[食品应用](/zh/solutions/food)或[询价](/zh/request-quote)入口，从实际食品和工艺开始沟通。
+
+## 来源
+
+<p id="chicory-ref-1">[1] <a href="https://www.beneo.com/human-nutrition/human-nutrition-products/functional-fibres/inulin">BENEO：菊粉产品系列</a></p>
+
+<p id="chicory-ref-2">[2] <a href="https://www.beneo.com/human-nutrition/human-nutrition-products/functional-fibres/oligofructose">BENEO：低聚果糖</a></p>
+
+<p id="chicory-ref-3">[3] <a href="https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/questions-and-answers-dietary-fiber">FDA：膳食纤维问答</a></p>
+
+<p id="chicory-ref-7">[7] <a href="https://www.cosucra.com/our-ingredients/fibruline">COSUCRA：菊苣纤维原料系列</a></p>
+
+<p id="chicory-ref-8">[8] <a href="https://doi.org/10.1016/j.foodhyd.2018.06.049">Beccard等：长链菊粉凝胶制备研究</a></p>
+
+<p id="chicory-ref-9">[9] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25466090%20AND%20SRC:MED&format=json&resultType=core">Vega与Zuniga-Hansen：短链FOS稳定性研究摘要</a></p>

@@ -21,6 +21,7 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content, headings } = await post.render();
 const isCentellaStability = post.slug.endsWith('/centella-cold-process-stability');
+const isChicory = post.slug.endsWith('/chicory-fibre-selection');
 const isVanillaAuthentication = post.slug.endsWith('/vanilla-authentication');
 const isVanilla = post.slug.endsWith('/vanilla-material-choice');
 const isCranberry = post.slug.endsWith('/cranberry-pac-purchasing');
@@ -56,7 +57,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
   heroTitle={post.data.title}
   heroSubtitle={guideCategory[lang].title}
 >
-  <article class:list={["section-padding", {"vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
+  <article class:list={["section-padding", {"chicory-reader": isChicory, "vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
     <div class="container-wide max-w-4xl">
       <!-- Breadcrumb -->
       <nav aria-label="面包屑导航" class="mb-8 text-sm">
@@ -182,7 +183,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
       )}
 
       <!-- CTA -->
-      {!isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
+      {!isChicory && !isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
         <h3 class="text-xl font-display font-bold text-gray-900">对我们的植物提取物感兴趣？</h3>
         <p class="text-gray-600 mt-2">联系我们获取样品、技术资料或定制配方支持。</p>
         <a
@@ -197,6 +198,24 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
 </PageLayout>
 
 <style>
+  .chicory-reader :global([id]) {scroll-margin-top:100px}
+  .chicory-reader :global(nav ol) {flex-wrap:wrap}
+  .chicory-reader :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}
+  .chicory-reader :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}
+  .chicory-reader :global(.chicory-table) {width:100%;table-layout:fixed;border-collapse:collapse}
+  .chicory-reader :global(.chicory-table caption) {text-align:left;font-weight:600;padding:1rem 0}
+  .chicory-reader :global(.chicory-table th), .chicory-reader :global(.chicory-table td) {padding:1rem;vertical-align:top;border:1px solid #d1d5db;overflow-wrap:anywhere}
+  .chicory-reader :global(.mobile-label) {display:none}
+  @media(max-width:640px) {
+    .chicory-reader :global(.chicory-table), .chicory-reader :global(.chicory-table tbody), .chicory-reader :global(.chicory-table tr), .chicory-reader :global(.chicory-table th), .chicory-reader :global(.chicory-table td) {display:block;width:100%;box-sizing:border-box}
+    .chicory-reader :global(.chicory-table caption) {display:block;width:100%}
+    .chicory-reader :global(.chicory-table thead) {display:none}
+    .chicory-reader :global(.chicory-table tr) {margin-bottom:1.5rem;border:1px solid #d1d5db;border-radius:8px;overflow:hidden}
+    .chicory-reader :global(.chicory-table th), .chicory-reader :global(.chicory-table td) {border:0;padding:1rem;font-size:16px;line-height:1.8}
+    .chicory-reader :global(.chicory-table th) {background:#f3f4f6}
+    .chicory-reader :global(.mobile-label) {display:block;font-weight:600;margin-bottom:.4rem;color:#374151}
+  }
+
   .vanilla-authentication-reader :global([id]) {scroll-margin-top:100px}
   .vanilla-authentication-reader :global(nav ol) {flex-wrap:wrap}
   .vanilla-authentication-reader :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}

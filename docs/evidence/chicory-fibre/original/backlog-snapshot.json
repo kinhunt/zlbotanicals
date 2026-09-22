@@ -1,0 +1,1522 @@
+{
+  "version": 1,
+  "updated_at_utc": "2026-09-22T15:06:27.057310+00:00",
+  "run_id": "2026-09-20-discovery",
+  "raw_angles": 23,
+  "unique_candidates": 20,
+  "dedup_actions": [
+    {
+      "from": "I03",
+      "to": "ADJ-02",
+      "reason": "同一甜菊时程感官记录任务"
+    },
+    {
+      "from": "C02",
+      "to": "T01",
+      "reason": "复溶对照并入首稿"
+    },
+    {
+      "from": "C03",
+      "to": "T01",
+      "reason": "社区未取样，只作问题辨识待验假设，不独立扩页"
+    }
+  ],
+  "first_batch": [
+    {
+      "id": "T01",
+      "next_action": "定点复核R1–R4修订后进入独立worktree集成/技术视觉QA；无发布前置假宣称"
+    },
+    {
+      "id": "I01",
+      "next_action": "补红茶/乌龙真实材料差异，完成茶族商业采购页；不复制绿茶页"
+    },
+    {
+      "id": "ADJ-02",
+      "next_action": "合并I03，写时间点感官方法与空白记录表；不虚构甜味曲线"
+    },
+    {
+      "id": "ADJ-05",
+      "next_action": "原文逐图核稳定性指标后写完整稿，品牌新闻不作积雪草采用证据"
+    },
+    {
+      "id": "ADJ-01",
+      "next_action": "复核英国后续法律状态；区分最终政策与咨询后再写乳饮减糖应用稿"
+    }
+  ],
+  "cards": [
+    {
+      "id": "T01",
+      "title_zh": "茶饮冷藏后变浑：用水质、复溶与冷藏对照找出真正原因",
+      "title_en": "Why Tea Drinks Turn Cloudy in the Fridge: A Water, Reconstitution and Cold-Storage Diagnostic",
+      "fields": {
+        "假设/读者问题": "“热时透明、冷后浑”不等于粉末未溶；配方工程师如何用较小对照矩阵判断先改水、复溶还是原料？",
+        "触发源": "2023年绿茶组分去除/回添实验与2021年水质拆分实验。[1][3]",
+        "材料与应用": "可溶绿茶提取物、浓缩液、透明即饮茶及速溶复原茶；不把叶粉悬浮体系当透明茶。",
+        "证据及不确定性": "两篇全文分别支持EGCG–咖啡因组合与偏碱水中的褐变/儿茶素衰减；论文用浸泡液，不直接验证商业粉体矩阵。八条件筛选为编辑提出的工程设计。",
+        "既有页区别": "当前绿茶百科与采购文已要求检查冷藏、水质、成分保留；缺少症状分流、配制与测量重复的区别、回温牺牲样及下一步判断。",
+        "原创增量": "八条件配对试验＋六分支诊断表＋总样/上清/沉淀取样逻辑。",
+        "形式与状态": "一篇完整双语故障诊断长文，已保存tea-haze-diagnosis.zh.md与.en.md；可另制作空白记录表，不能伪装实测数据。",
+        "内链/商业承接": "/products/green-tea/、/solutions/beverages/及对应中文；向供应商提交同批样品与统一试验条件，非性能承诺。",
+        "时效/优先级": "常青；P1，优先独立审稿。"
+      },
+      "title": "茶饮冷藏后变浑：如何区分水质、复溶与低温聚集问题",
+      "status": "published",
+      "merged_inputs": [
+        "C02",
+        "C03"
+      ],
+      "draft_paths": [
+        "tea-paper/tea-haze-diagnosis.zh.md",
+        "tea-paper/tea-haze-diagnosis.en.md"
+      ],
+      "writer": {
+        "active": false,
+        "owner": "delegation-tea-haze-integration-2026-09-20",
+        "task_id": "T01",
+        "claimed_at_utc": "2026-09-20T06:21:10.876981+00:00",
+        "status": "frozen_pending_independent_review",
+        "scope": "no commit/push/merge/publication",
+        "worktree": "/data/hermes/workspaces/zl-tea-haze",
+        "branch": "feat/tea-haze-diagnosis",
+        "base_sha": "9f30bb453bb6e6e5ea205a1a08c576e211295ece",
+        "updated_at_utc": "2026-09-20T06:39:43.159383+00:00",
+        "handoff": "/data/hermes/research/seo-growth/tea-haze-release/handoff.md",
+        "do_not_edit": "Frozen author worktree: scheduled cron must skip T01; independent reviewer/parent owns next gate"
+      },
+      "handoff": "/data/hermes/research/seo-growth/tea-haze-release/handoff.md",
+      "release": {
+        "pr": 37,
+        "merge_sha": "afa8182f68f6b01f04888fa42481814f51d2c894",
+        "record": "/data/hermes/research/seo-growth/tea-haze-release/production/release.md"
+      }
+    },
+    {
+      "id": "T02",
+      "title_zh": "茶饮变褐不是冷后浑：把碱度、矿物盐与持液时间拆开",
+      "title_en": "Brown Tea Is Not Always Hazy Tea: Separating Alkalinity, Minerals and Holding Time",
+      "fields": {
+        "假设/读者问题": "同一粉末换厂后颜色变深，是否应换粉或加抗氧化剂？先区分水质与持液造成的化学变化。",
+        "触发源": "2021年原始研究以碳酸氢钠和矿物盐分别作对照，观察EGC/EGCG衰减与褐变。[3]",
+        "材料与应用": "风味型绿茶提取物、工厂配料水、待灌装茶液。",
+        "证据及不确定性": "全文可读；研究存在茶叶萃取与液相稳定性两个过程，直接复溶时不能套用“萃取率”。研究还报告某些既有水质研究方向不同，应保留原料/水质差异。",
+        "既有页区别": "百科已有热处理、氧暴露建议；本题只解决颜色与可测单体随持液变化，不再重写冷后浑总诊断。",
+        "原创增量": "原水/茶液两层记录；颜色—浊度—色谱三轴判读；固定温度的持液取样模板，避免把更深颜色当作更浓茶。",
+        "形式": "深度工艺文章＋空白持液记录表；需补充直接茶粉体系证据或保留为待验证工程方案。",
+        "内链/商业承接": "绿茶原料页、茶饮诊断稿（未来URL未指定）、/solutions/beverages/；承接水分析与同批样品对照，不承诺通用水质上限。",
+        "时效/优先级": "常青；P1，第一篇通过后展开，若证据不足合并为附录。"
+      },
+      "title": "茶饮变褐不是冷后浑：把碱度、矿物盐与持液时间拆开",
+      "status": "research_candidate"
+    },
+    {
+      "id": "T03",
+      "title_zh": "茶浓缩液很稳定，为什么兑水后反而沉淀？",
+      "title_en": "A Stable Tea Concentrate Can Still Fail After Dilution",
+      "fields": {
+        "假设/读者问题": "浓缩原液通过外观验收是否足以支持终饮料？采购人员如何要求稀释后的稳定性证据？",
+        "触发源": "浓缩液研究摘要显示冷后浑与固形物浓度并非全范围单调关系，并提出高浓度黏度作用的解释。[2]",
+        "材料与应用": "绿茶浓缩液、饮料厂复配、浓缩基底运输及最终稀释。",
+        "证据及不确定性": "本次仅取得摘要；原文全文API返回500。摘要不支持稀释后的实际失败率，也不能确证黏度是唯一原因。发表前须取得方法/全文或新增稀释原始研究。",
+        "既有页区别": "现有百科介绍蒸发及浓缩设备；本题不是再讲浓缩工艺，而是原液与终端两个验收状态。",
+        "原创增量": "同批原液—规定稀释液配对留样、稀释水与最终茶固形物定义、物料衡算及验收责任划分。",
+        "形式": "采购/工艺交接指南＋双状态验收表，不绘制虚构黏度或沉降曲线。",
+        "内链/商业承接": "/products/green-tea/及/plant-extracts/ingredients/green-tea；请求供应商同时提交浓缩态与约定稀释态结果。",
+        "时效/优先级": "常青；P2，全文补证后动笔，不能只靠摘要扩写机制定论。"
+      },
+      "title": "茶浓缩液很稳定，为什么兑水后反而沉淀？",
+      "status": "published_existing_tea_hub",
+      "research_directory": "/data/hermes/research/seo-growth/2026-09-21-tea-recovery",
+      "next_action": "Do not republish. PR45 merged; full public browser8/8 remains open,7/8 passed; see release record.",
+      "writer_active": false,
+      "review": "/data/hermes/research/seo-growth/2026-09-21-tea-recovery/revision/independent-final/checks.json",
+      "release": {
+        "pr": 45,
+        "merge_sha": "8c1995038de0601928d233606a322e30efb396b6",
+        "record": "/data/hermes/research/seo-growth/2026-09-21-tea-recovery-release/production/release-state.json"
+      }
+    },
+    {
+      "id": "T04",
+      "title_zh": "过滤后茶变清了：被去掉的是颗粒，还是你要保留的茶？",
+      "title_en": "Clearer After Filtration—But How Much Tea Did You Remove?",
+      "fields": {
+        "假设/读者问题": "研发用精滤改善外观后，为什么风味或儿茶素交付发生变化？怎样衡算而不只看上清浓度？",
+        "触发源": "绿茶冷后浑研究中蛋白、多糖、EGCG和咖啡因参与沉淀，研究比较了沉淀和上清组分。[1]",
+        "材料与应用": "绿茶澄清、冷处理、离心及后续过滤。",
+        "证据及不确定性": "该原始研究不是工业膜筛选试验，不能给出膜孔径、通量、截留率或清洗周期。需补读茶膜澄清原始研究再推荐工艺比较。",
+        "既有页区别": "origin/main百科已提醒过滤前后测含量；本题应交付可计算的多流股质量衡算，而非重复一句提醒。",
+        "原创增量": "茶液、澄清液、湿渣和设备残留的采样/称重模板；清晰区分浓度、质量回收率与分析回收率；仅用显著标注的演算示例或空表，绝不装作实验结果。",
+        "形式": "工程说明＋可下载衡算表；任何计算器需要实际测试后才能交付。",
+        "内链/商业承接": "绿茶百科工艺部分、/products/green-tea/；承接目标组成和允许损失的规格讨论，不暗示现有厂房设备能力。",
+        "时效/优先级": "常青；P2，须有独立于原理解释的衡算资产才值得单页。"
+      },
+      "title": "过滤后茶变清了：被去掉的是颗粒，还是你要保留的茶？",
+      "status": "published_existing_tea_hub",
+      "research_directory": "/data/hermes/research/seo-growth/2026-09-21-tea-recovery",
+      "next_action": "Do not republish. PR45 merged; full public browser8/8 remains open,7/8 passed; see release record.",
+      "writer_active": false,
+      "review": "/data/hermes/research/seo-growth/2026-09-21-tea-recovery/revision/independent-final/checks.json",
+      "release": {
+        "pr": 45,
+        "merge_sha": "8c1995038de0601928d233606a322e30efb396b6",
+        "record": "/data/hermes/research/seo-growth/2026-09-21-tea-recovery-release/production/release-state.json"
+      }
+    },
+    {
+      "id": "T05",
+      "title_zh": "杯口的膜与瓶底的浑不是一回事：茶膜的水质排查",
+      "title_en": "Surface Film or Bottom Sediment? A Separate Water Check for Tea Scum",
+      "fields": {
+        "假设/读者问题": "用杯子看见薄膜，却把原因归给冷水溶解性；如何保留表面现象并安排有区分力的试验？",
+        "触发源": "茶膜研究摘要区分钙/碳酸氢根与析出碳酸钙，另报告柠檬汁减少膜形成。[4]",
+        "材料与应用": "无乳茶饮、开放杯测试、硬水复原试验；不涉及乳脂上浮。",
+        "证据及不确定性": "仅摘要；柠檬汁同时改变pH和络合条件，不能把结果归因于单一因素，也不能推出通用柠檬酸添加量。需补取全文及后续界面研究。",
+        "既有页区别": "现有产品页泛谈沉淀，无表面膜专题；第一篇只做分流，本题深入界面位置、容器形状和观察方法。",
+        "原创增量": "表面膜/体相浑浊分开拍摄与编号；固定容器液面几何及水质；先观察再混匀，避免把膜打散后误判为原生体相浑浊。",
+        "形式": "图解故障辨识＋试验单；图需实拍或明确标注概念示意，不冒充工厂失败样。",
+        "内链/商业承接": "/products/green-tea/、未来诊断稿；承接用户水样资料与复原条件沟通，不能承诺加酸必然解决。",
+        "时效/优先级": "常青；P3，补齐全文与可视化资产后考虑独立文章，否则保留为现稿分支。"
+      },
+      "title": "杯口的膜与瓶底的浑不是一回事：茶膜的水质排查",
+      "status": "research_candidate"
+    },
+    {
+      "id": "I01",
+      "title": "茶提取物供应：绿茶、红茶与乌龙茶原料及交付形态",
+      "title_en": "Choosing Tea Extracts: Green, Black and Oolong Tea for Formulators",
+      "hypothesis": "泛茶供应词可能需要茶家族选型，而非全部落入绿茶；要以不同加工茶的真实物料差异构成商业hub。",
+      "trigger_sources": [
+        "GSC latest7: tea extract supplier 2曝光/0点击/53.5位 → /products/green-tea",
+        "最新origin/main绿茶供货矩阵只含绿茶；用户已确认广泛植物原料采购范围"
+      ],
+      "reader_question": "我采购的是茶风味固形物、某种茶类，还是富集儿茶素？不同茶类怎样写可比样品需求？",
+      "material_application": "Camellia sinensis加工茶家族；即饮茶、速溶粉、奶茶风味配料；不把草本代用茶混入同物种组。",
+      "evidence": [
+        {
+          "id": 18,
+          "title": "Green tea extraction primary full text",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11266887/fullTextXML",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "id": 25,
+          "title": "EFSA 2018 green tea catechins safety full text",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7009618/fullTextXML",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "source": "src/data/extract-sales.ts#green-tea",
+          "finding": "现有页区分可溶茶、儿茶素干粉、低咖啡因项目，没有红茶/乌龙物料行"
+        }
+      ],
+      "uncertainties": [
+        "仅2曝光支持词汇，不证明需求规模或用户具体需要红茶；红茶/乌龙独立工艺、成分与商品规格资料尚待采集",
+        "广泛采购范围不等于已有库存/指定产地/批次COA；本轮不声称新产品上架"
+      ],
+      "existing_difference": "不同于bulk/wholesale同义页，也不同于绿茶百科；比较茶类加工与应用，不重写冷后浑机制。",
+      "original_increment": "原创按茶类×交付形态×实际应用的选型矩阵；每格对应原料证据和待确认字段，不用通用茶知识填充。",
+      "output_format": "实质茶家族采购比较页/表；ENZH一主题",
+      "internal_links": [
+        {
+          "path": "/products/green-tea",
+          "purpose": "绿茶具体报价"
+        },
+        {
+          "path": "/plant-extracts/ingredients/green-tea#components",
+          "purpose": "叶粉/水提/富集区别"
+        },
+        {
+          "path": "/solutions/beverages",
+          "purpose": "实际饮料体系"
+        },
+        {
+          "path": "/request-quote",
+          "purpose": "茶类与形态样品需求"
+        }
+      ],
+      "commercial_handoff": "茶类+交付形态+风味目标+市场+数量→样品与报价；可按业主授权研究更广范围，不要求先有曝光。",
+      "timeliness": "常青；立即补素材，不等GSC阈值",
+      "priority": "P1（先研究；不因样本小否决）",
+      "placement": "新页面可候选，但本轮不分配不存在的URL；内容充分后再定路由",
+      "acceptance": [
+        "至少覆盖3茶类的实质差异且逐项有来源",
+        "不得把绿茶EGCG研究外推红茶/乌龙",
+        "与现有绿茶销售页有明确父子承接"
+      ],
+      "status": "published",
+      "sales_constraint": "销售页以自家可询价供货材料、应用、规格选项及样品报价入口为主，不以选择教程为主；未确认具体库存/认证/批次值不写。",
+      "supplemental_evidence": [
+        "competitor-gap.md"
+      ],
+      "research_directory": "/data/hermes/research/seo-growth/2026-09-20-tea-family/",
+      "review": "independent/review.json",
+      "revision": "revision/",
+      "next_action": "Do not duplicate; PR41 published; see release record",
+      "writer_active": false,
+      "release": {
+        "pr": 41,
+        "merge_sha": "c035c1f24ed558e7048905060e2ff88f9fbff000",
+        "record": "/data/hermes/research/seo-growth/tea-family-release/production/release-state.json"
+      }
+    },
+    {
+      "id": "I02",
+      "title": "茶提取物报价怎么换算：从供应粉含量到每千瓶原料成本",
+      "title_en": "Tea Extract Cost Worksheet: From Supplied-Powder Assay to Cost per 1,000 Bottles",
+      "hypothesis": "采购真正缺的是统一分母、可执行计算，而不是再一份COA检查表。",
+      "trigger_sources": [
+        "GSC新增3条green tea supplier/wholesale词，各1曝光；bulk green tea extract powder supplier 5曝光",
+        "现有干基与原样基准页明确要求保留原始报告，但未提供可执行计算器"
+      ],
+      "reader_question": "两种载体不同、报告基准不同的茶粉，怎么比较同一配方目标下的实际用量和成本？",
+      "material_application": "茶风味水提粉或儿茶素型粉各自内部比较；计算供应状态含量、目标每瓶贡献、总投料与采购成本，不能以成本强行跨形态等效。",
+      "evidence": [
+        {
+          "id": 18,
+          "title": "Green tea extraction primary full text",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11266887/fullTextXML",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "id": 25,
+          "title": "EFSA 2018 green tea catechins safety full text",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7009618/fullTextXML",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "source": "/plant-extracts/standards/dry-basis-vs-as-received-assay",
+          "finding": "现有正文：保留原始含量、基准和校正测量；换算不验证方法"
+        }
+      ],
+      "uncertainties": [
+        "没有真实报价/批次实测，输出空白工具和明确假设示例而非价格研究",
+        "质量校正只能使用实验室确认的基准；不能用LOD冒充水分",
+        "目标EGCG不是推荐摄入量；咖啡因和感官需独立审查"
+      ],
+      "existing_difference": "不重述总多酚≠EGCG或通用采购清单；不把高纯度/低成本当稳定性优势。",
+      "original_increment": "单位明确的输入—计算—异常提示：原样/干基、载体是否已含、规格范围、损耗假设、包装份数；用户自有数据，避免重复扣载体。",
+      "output_format": "现有采购指南增强 + 下载计算表；工具经测试后才能称可用",
+      "internal_links": [
+        {
+          "path": "/resources/blog/green-tea-energy-beverage-2026",
+          "purpose": "承载专用报价工具"
+        },
+        {
+          "path": "/plant-extracts/standards/dry-basis-vs-as-received-assay",
+          "purpose": "分母依据"
+        },
+        {
+          "path": "/plant-extracts/basics/carriers-and-native-extract-content",
+          "purpose": "载体口径"
+        },
+        {
+          "path": "/products/green-tea#quote",
+          "purpose": "规格与正式报价"
+        }
+      ],
+      "commercial_handoff": "把用户选定形态、数量与目标组成送到绿茶报价，不收集机密完整配方。",
+      "timeliness": "常青；可以现在编制工具规格并开发",
+      "priority": "P1",
+      "placement": "优先扩充既有RTD采购指南，不创建第二绿茶采购页",
+      "acceptance": [
+        "用独立算术测试覆盖零/缺失/负数/百分数与单位转换",
+        "假设输入显著标记，不合成供应商COA",
+        "不把计算结果写成安全用量或实测节省"
+      ],
+      "status": "候选卡；不是已撰稿、已实测或已发表资产"
+    },
+    {
+      "id": "I04",
+      "title": "甜味剂小袋重量一致，为什么甜度仍不同？转运分层的取样图",
+      "title_en": "Same Sachet Weight, Different Sweetness: Sampling Sweetener Segregation",
+      "hypothesis": "现有段落已提出分层风险，仍缺从混合机到灌装袋的可执行取样与浓度—袋重联读资产。",
+      "trigger_sources": [
+        "甜菊百科#formulation-tabletop-sachet：已要求混合机、出料流、转运后小袋取样",
+        "GSC甜菊身份簇仅作原料关联，不声称出现分层搜索词"
+      ],
+      "reader_question": "袋重合格是否意味着糖苷均匀？差异发生在混合、下料还是运输？",
+      "material_application": "高倍糖苷与赤藓糖醇/其他依法适用载体的干混粉，定量小袋；阿洛酮糖需按市场单独复核。",
+      "evidence": [
+        {
+          "id": 3,
+          "title": "stevia-patent-composition",
+          "url": "https://patents.google.com/patent/US20140342043A1/en",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "id": 8,
+          "title": "USPTO published application US20140342043A1 primary PDF",
+          "url": "https://patentimages.storage.googleapis.com/bd/56/75/1263269efe3ddf/US20140342043A1.pdf",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "source": "/plant-extracts/ingredients/stevia#formulation-tabletop-sachet",
+          "finding": "已写几何稀释、粒径/密度、振动分层和逐袋糖苷检测"
+        }
+      ],
+      "uncertainties": [
+        "专利组成不是最优配方证据，不推导通用允许偏差或采样数量",
+        "缺真实取样数据；不能声称延长混合会改善或必然加剧分层"
+      ],
+      "existing_difference": "不是另写小袋开发教程；仅填补方法资产：位置、时点、袋重和分析浓度共同定位。",
+      "original_increment": "原创流程取样图、样品ID链、位置/出料时段/搬运前后表；每袋糖苷质量=袋重×供应态浓度，附单位验证。",
+      "output_format": "现有小袋配方段附方法图与空白CSV模板",
+      "internal_links": [
+        {
+          "path": "/plant-extracts/ingredients/stevia#formulation-tabletop-sachet",
+          "purpose": "主承载"
+        },
+        {
+          "path": "/plant-extracts/insights/extract-change-control-and-requalification",
+          "purpose": "改粒径/载体后再确认"
+        },
+        {
+          "path": "/products/stevia#material-selection",
+          "purpose": "复配供应形态"
+        },
+        {
+          "path": "/resources/downloads",
+          "purpose": "复用下载入口"
+        }
+      ],
+      "commercial_handoff": "复配规格询盘包含颗粒/载体/使用方式和均匀性要求；不声称已经提供已验证小袋代工。",
+      "timeliness": "常青；可立即画试验设计，真实案例以后补",
+      "priority": "P2",
+      "placement": "百科增强而非新建泛小袋产品页",
+      "acceptance": [
+        "明确建议采样图而非验证标准",
+        "输出区分袋重偏差与浓度偏差",
+        "任何CV/图表只用真实输入或明确算术示例"
+      ],
+      "status": "published_http_verified_public_browser_partial_403",
+      "research_directory": "/data/hermes/research/seo-growth/2026-09-20-segregation-research",
+      "writer_active": false,
+      "next_action": "Do not republish PR44; optional scoped heading/citation polish, stable direct module fragment, public WAF verification remains partial.",
+      "review": "/data/hermes/research/seo-growth/2026-09-21-segregation-release/independent/review.json",
+      "release": {
+        "pr": 44,
+        "merge_sha": "df936cef0d3dad4d71e3a7cdf7394c2180b793d3",
+        "record": "/data/hermes/research/seo-growth/2026-09-21-segregation-release/production/release-state.json"
+      }
+    },
+    {
+      "id": "I05",
+      "title": "积雪草原料液加了1%，成品究竟含多少？四标志物与载体计算表",
+      "title_en": "What Does 1% Centella Liquid Add? Four-Marker and Vehicle Worksheet",
+      "hypothesis": "“液体原料添加百分数”与“活性提取物含量”混用是一个可用表格彻底解决的具体任务。",
+      "trigger_sources": [
+        "GSC current28: titrated extract of centella asiatica 1曝光/51位、centella asiatica leaf extract 14曝光/76.14位",
+        "积雪草销售页已要求供应液原生固形物和单体浓度；百科已有不得按总溶液质量计算的提醒"
+      ],
+      "reader_question": "供应液、干粉和精制三萜组分怎么比较？添加率一样是否意味着同样四标志物或防腐剂贡献？",
+      "material_application": "水/甘油/多元醇积雪草液与粉体，保湿精华/乳霜；分别记录积雪草苷、羟基积雪草苷、积雪草酸、羟基积雪草酸。",
+      "evidence": [
+        {
+          "id": 19,
+          "title": "Centella extraction primary full text",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11490722/fullTextXML",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "source": "src/data/extract-sales.ts#centella-asiatica.assay",
+          "finding": "已区分供应液和干提取物含量；这是本工具输入合同"
+        }
+      ],
+      "uncertainties": [
+        "示例1%只是问题中的假设添加率，不是配方建议",
+        "供应液密度未知时不做mL→g换算；原料液未提供载体/防腐浓度时保持未知",
+        "计量贡献不证明溶解、回收、耐受性或防腐效力"
+      ],
+      "existing_difference": "不重复“总三萜不等于单体”，也不重写积雪草精华配方；新增可审核计算和缺失值处理。",
+      "original_increment": "原创每一组分质量分数流向表：输入状态/单位→成品理论贡献→成品实测回收另列；不得将四标志物之外成分强行归零。",
+      "output_format": "现有百科表格工具 + 可下载工作表",
+      "internal_links": [
+        {
+          "path": "/plant-extracts/ingredients/centella-asiatica#formulation-hydrating-serum",
+          "purpose": "精华计算主承载"
+        },
+        {
+          "path": "/plant-extracts/ingredients/centella-asiatica#components",
+          "purpose": "不同形态"
+        },
+        {
+          "path": "/products/centella-asiatica#specifications",
+          "purpose": "索取供应态规格"
+        },
+        {
+          "path": "/plant-extracts/basics/carriers-and-native-extract-content",
+          "purpose": "原生固形物概念"
+        }
+      ],
+      "commercial_handoff": "根据实际载体、四标志物目标和加入相请求粉/液样品；收集非保密组成需求。",
+      "timeliness": "常青；本轮可马上进入工具原型",
+      "priority": "P1",
+      "placement": "优先扩现有积雪草百科，不设新的“积雪草含量是什么”页",
+      "acceptance": [
+        "质量分数与mg/g转换独立测试",
+        "未知不得默认零；干基不能直接乘液体添加率",
+        "结果分理论贡献与实测回收，不以加和总量证明TECA等同"
+      ],
+      "status": "published",
+      "worktree": "/data/hermes/workspaces/zl-centella-accounting",
+      "record": "/data/hermes/research/seo-growth/2026-09-20-accounting/",
+      "next_action": "Do not duplicate; existing encyclopedia tool live",
+      "writer_active": false,
+      "release": {
+        "pr": 40,
+        "merge_sha": "38f6e9c85266cbff5c5a3b75764c67b2c076e42c",
+        "record": "/data/hermes/research/seo-growth/2026-09-20-accounting/production/release.md",
+        "public_browser": "8/8 passed"
+      }
+    },
+    {
+      "id": "I06",
+      "title": "积雪草文献中的“提取物”一样吗？从四标志物到使用途径的证据对照",
+      "title_en": "Are Centella Extracts in Studies Equivalent? A Preparation-to-Claim Evidence Map",
+      "hypothesis": "用一个逐制备物矩阵解释为什么口服认知、传统外用和化妆品配方证据不能互相转移，比重复免责声明有实质增量。",
+      "trigger_sources": [
+        "GSC titrated extract of centella asiatica、积雪草提取物 新成分原料为低样本身份/资格线索，不证明具体医疗需求",
+        "现有百科同时引用EMA 2022、认知系统综述2017、两项专利与两克级提取实验"
+      ],
+      "reader_question": "某篇TECA/TTFCA或madecassoside研究能否支持我买的广谱液体原料和保湿产品？",
+      "material_application": "积雪草药材、标准化三萜组分、分离单体、化妆品成品；身份/途径/剂型/载体/研究对象分别编码。",
+      "evidence": [
+        {
+          "id": 4,
+          "title": "EMA assessment report: Centella asiatica herba (2022)",
+          "url": "https://www.ema.europa.eu/en/documents/herbal-report/assessment-report-centella-asiatica-l-urb-herba-revision-1_en.pdf",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "id": 11,
+          "title": "US8486900B2 - Method for preparing a Centella asiatica extract rich in madecassoside and in terminoloside",
+          "url": "https://patents.google.com/patent/US8486900B2/en",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "id": 12,
+          "title": "US10980851B2 - Topical skincare compositions comprising Centella asiatica selected triterpenes",
+          "url": "https://patents.google.com/patent/US10980851B2/en",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "id": 16,
+          "title": "Effects of Centella asiatica (L.) Urb. on cognitive function and mood related outcomes: A Systematic Review and Meta-analysis | Scientific Reports",
+          "url": "https://doi.org/10.1038/s41598-017-09823-9",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "id": 19,
+          "title": "Centella extraction primary full text",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11490722/fullTextXML",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        }
+      ],
+      "uncertainties": [
+        "本轮只读已存正文与来源；完整逐研究表需回读原报告/纳入试验，而非从现有综述概要虚构剂量和组分",
+        "专利权利要求不是临床证据；研究未报告组分则标未报告，不能推定TECA",
+        "EMA药用范围不是全球食品禁令，不能把传统使用视为确定疗效"
+      ],
+      "existing_difference": "现有effects已充分给出限制，因此不再写一般“积雪草功效”页；新增逐行可回查的材料—结局映射资产。",
+      "original_increment": "原创文献证据矩阵：四标志物是否报告、部位/制备、途径、比较物、终点、结论及不可迁移原因；记录负结果与缺失信息。",
+      "output_format": "文献综合表/图，先嵌入现有研究章节；足够独立研究后再评估长文",
+      "internal_links": [
+        {
+          "path": "/plant-extracts/ingredients/centella-asiatica#effects",
+          "purpose": "读者入口"
+        },
+        {
+          "path": "/plant-extracts/ingredients/centella-asiatica#insights",
+          "purpose": "证据矩阵主承载"
+        },
+        {
+          "path": "/plant-extracts/ingredients/centella-asiatica#patents",
+          "purpose": "分开专利技术依据"
+        },
+        {
+          "path": "/products/centella-asiatica#qualification",
+          "purpose": "具体材料文件比对"
+        }
+      ],
+      "commercial_handoff": "以准备物身份和目标化妆品用途承接原料资格资料，不承诺品牌临床提取物等同。",
+      "timeliness": "常青研究资产；立即组织已有来源回读，发表前复核最新资料",
+      "priority": "P1（资料整理型）",
+      "placement": "现有百科深度扩充，禁止平行benefits页",
+      "acceptance": [
+        "每行有原文定位和未报告字段",
+        "保留系统综述负结果，不择优挑选",
+        "分别列药用、口服、化妆品及专利，不给全部研究一个统一功效分数"
+      ],
+      "status": "候选卡；不是已撰稿、已实测或已发表资产"
+    },
+    {
+      "id": "I07",
+      "title": "甜菊原料从叶提换成酶转化：哪些文件和试样必须重新对照？",
+      "title_en": "Changing Stevia Production Route: A Paired Requalification Matrix",
+      "hypothesis": "通用变更控制已存在，甜菊专用双材料对照矩阵能把起始材料、加工酶、最终糖苷和应用表现串成具体交付。",
+      "trigger_sources": [
+        "GSC current28: stevia rebaudiana leaf extract 18曝光；latest7新增相对前7天rebaudiana leaf extract 2曝光",
+        "已有百科详述四路线与FSANZ A1222/A1268；泛变更控制页仅提供通用检查项"
+      ],
+      "reader_question": "同样叫Reb M或相同总糖苷，供应商换路线后旧标签/规格/应用验证能否继续用？",
+      "material_application": "叶提、酶转化、直接发酵、扩展糖基化糖苷；减糖饮料与干混粉，分别看工艺残余物和糖苷谱。",
+      "evidence": [
+        {
+          "id": 1,
+          "title": "FSANZ A1222: Reb MD applicant dossier",
+          "url": "https://www.foodstandards.gov.au/sites/default/files/food-standards-code/applications/Documents/A1222%20Application_Redacted.pdf",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "id": 2,
+          "title": "FSANZ A1268: approval report for enzyme processing aids",
+          "url": "https://www.foodstandards.gov.au/sites/default/files/2023-11/A1268%20Approval%20Report.pdf",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "id": 5,
+          "title": "FDA: stevia import alert",
+          "url": "https://www.accessdata.fda.gov/cms_ia/importalert_119.html",
+          "accessed": "2026-09-11",
+          "verification_scope": "已存repo来源记录与正文；本轮未重新读取外部全文/复核现行法规"
+        },
+        {
+          "source": "/plant-extracts/insights/extract-change-control-and-requalification",
+          "finding": "通用页已覆盖方法桥接、代表性材料比较和批准记录"
+        }
+      ],
+      "uncertainties": [
+        "旧FDA/FSANZ文件只能按其材料与辖区理解；未完成2026现行美欧中澳逐路线准入核查",
+        "同名分子不证明杂质、残余蛋白/DNA或配伍性能相同；也不能从发酵名字推断存在活菌",
+        "没有两供应商真实样品或数据，矩阵不是完成再确认报告"
+      ],
+      "existing_difference": "不再发一篇叶提vs发酵入门；新增具体两材料逐字段桥接及证据责任，链接现有路线说明。",
+      "original_increment": "原创旧料—新料对照：底物/生产菌或酶/最终糖苷、方法覆盖、残留、载体、法规文档对象与应用盲评；区分同批分析方法改变和原料真正改变。",
+      "output_format": "现有甜菊标准章节附可下载双材料变更矩阵",
+      "internal_links": [
+        {
+          "path": "/plant-extracts/ingredients/stevia#processes",
+          "purpose": "路线说明"
+        },
+        {
+          "path": "/plant-extracts/ingredients/stevia#standards",
+          "purpose": "材料专项矩阵主承载"
+        },
+        {
+          "path": "/plant-extracts/insights/extract-change-control-and-requalification",
+          "purpose": "通用再确认流程"
+        },
+        {
+          "path": "/products/stevia#qualification",
+          "purpose": "指定路线文件与样品"
+        }
+      ],
+      "commercial_handoff": "报价同时列路线、糖苷谱和市场，旧料替换需要文件与试样比较；不把文件支持写成全球准入保证。",
+      "timeliness": "常青工具；涉及法规结论须发布前查最新官方记录",
+      "priority": "P2",
+      "placement": "增强现有甜菊标准章节，避免新建同义制造路线页",
+      "acceptance": [
+        "不为所有市场打统一合规勾",
+        "明确既有资料可继承/需重查/未取得三态",
+        "模板标清未完成试验，全部字段均有材料与文档对象"
+      ],
+      "status": "候选卡；不是已撰稿、已实测或已发表资产"
+    },
+    {
+      "id": "ADJ-01",
+      "title": "英国乳饮减糖如何同时记两本账：税基糖量与甜菊感官补偿",
+      "hypothesis": "把政策税基计算和感官等甜目标分开，避免把少糖克数直接乘通用甜度倍率。",
+      "discovery_routes": {
+        "1_keyword_search": "仅通用web_search发现；未使用BrowserMan，未观察真实Google SERP/地区/排名/搜索量。",
+        "2_papers": "已读取3篇原始科学研究正文；区分人体感官、体外配方、25人皮肤研究。",
+        "3_community": "本子任务未采样，不作社区痛点或热度证明。",
+        "4_adjacent_news": "3个独立原始发布主体：英国政府、Cargill、Unilever；共4份公告/政策正文。",
+        "5_owned_site_gsc": "origin/main只读内容盘点；未读取GSC或订单，不声称流量/销量需求。"
+      },
+      "primary_route": "4_adjacent_news + 2_papers",
+      "trigger_sources": [
+        {
+          "citation_id": 5,
+          "url": "https://www.gov.uk/government/news/soft-drink-levy-extended-to-protect-children-and-improve-health",
+          "original_publication_date": "2025-11-25"
+        },
+        {
+          "citation_id": 6,
+          "url": "https://www.gov.uk/government/consultations/strengthening-the-soft-drinks-industry-levy/outcome/strengthening-the-soft-drinks-industry-levy-summary-of-responses",
+          "original_publication_date": "2025-11-25"
+        },
+        {
+          "citation_id": 2,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7466183/",
+          "original_publication_date": "2020-07-31"
+        }
+      ],
+      "reader_question": "含乳咖啡/巧克力乳与燕麦饮的糖门槛是否同算法？从哪里开始打样？",
+      "specific_material_application": "Reb A/D/M候选原料；预包装含糖乳饮及植物基饮料",
+      "chain": {
+        "event": "英国2025-11-25宣布将相关乳基和乳替代饮料纳入SDIL并下调门槛，宣布2028-01-01实施。[5][6]",
+        "commercial_behavior": "法规直接改变制造商/进口商税负边界；具体企业已换配方的数量未证实。[5]",
+        "formulation_problem": "政策合规的糖量计算与配方中甜感、苦感不是同一指标；牛乳与植物基饮料需分别核算。[6]",
+        "ingredient": "Reb A/D/M候选原料；预包装含糖乳饮及植物基饮料",
+        "reader_value": "研发、法规、采购用同一份输入表沟通，而非采购凭“零糖”原料名做决定。"
+      },
+      "evidence": [
+        "最终政策门槛为4.5g/100mL，不能沿用咨询4g数值。[6]",
+        "乳基饮料设置乳糖扣除安排，含添加糖的植物基饮料按总糖口径；核心原料自身释放糖且无添加糖情形有特殊边界，必须回读政策定义。[6]",
+        "水体系研究中苷种类与时间点影响感官结果，不能把试验浓度直接移植乳饮。[2]"
+      ],
+      "uncertainties": [
+        "未核后续2026法案/实施细则；此稿不能作为税务意见。",
+        "研究未测含乳/燕麦基底，补甜效果仍是研究假设。"
+      ],
+      "difference_from_existing": {
+        "baseline_ref": "origin/main@9f30bb453bb6e6e5ea205a1a08c576e211295ece",
+        "existing_pages": [
+          "/plant-extracts/ingredients/stevia",
+          "/products/stevia",
+          "/resources/blog/zero-calorie-sweetener-market-2026",
+          "/solutions/botanical-sweetener-rtd"
+        ],
+        "distinct_intent": "既有页覆盖一般标签、载体和RTD试验；本卡独立处理英国SDIL乳糖/植物基糖边界及研发交接。",
+        "dedup_scope": "核查两产品正文、采购/RTD指南，以及deep-ingredients、ingredient-reader-packs、ingredient-knowledge两材料内容；非仅检查标题。未读取GSC或全部历史草稿。"
+      },
+      "original_increment": "原创双账空白模板：成分来源/总糖/乳糖证明/政策边界/蔗糖参考/感官结果；不填造数据。",
+      "output_format": "政策到配方决策图+可下载核算字段表",
+      "internal_links": [
+        "/plant-extracts/ingredients/stevia",
+        "/products/stevia"
+      ],
+      "commercial_handoff": "询样时提交目标市场、蔗糖参照、完整基底、苷谱/载体与工艺，不承诺供应特定专有品牌或既有感官结果。",
+      "timeliness": {
+        "observed_on": "2026-09-20",
+        "platform": "原站公告/政府网站/PMC正文；web_search仅发现",
+        "sample": "3个独立原始发布主体+3篇科学研究；非市场代表样本",
+        "freshness": "历史触发，常青应用内容；无当日热度/搜索量主张",
+        "refresh_rule": "政策稿发表前复核2026后续法规；品牌旧新闻只作背景。"
+      },
+      "priority": "P1",
+      "evidence_status": "可写政策解释；乳饮表现为研究假设",
+      "publication_gates": [
+        "复核现行法规，税务/法规审查",
+        "核总糖与乳糖测定来源",
+        "如输出计算器必须有边界单测，当前仅字段模板"
+      ],
+      "not_done": "未执行任何配方/感官/人体试验，未发布，未修改repo。",
+      "status": "published_http_verified_public_browser_blocked_403",
+      "record": "/data/hermes/research/seo-growth/2026-09-20-sdil-release",
+      "next_action": "Do not duplicate publication; production browser complete journey remains WAF-blocked.",
+      "writer_active": false,
+      "writer_owner": "sa-0-c4e09721",
+      "draft_directory": "/data/hermes/research/seo-growth/2026-09-20-sdil-draft",
+      "review": "/data/hermes/research/seo-growth/2026-09-20-sdil-draft/revision/independent-final.json",
+      "worktree": "/data/hermes/workspaces/zl-sdil-release",
+      "release": {
+        "pr": 43,
+        "merge_sha": "aaf0bf37f2ec76157b41a91a66cac9cee2e96d80",
+        "record": "/data/hermes/research/seo-growth/2026-09-20-sdil-release/production/release-state.json"
+      }
+    },
+    {
+      "id": "ADJ-02",
+      "title": "甜菊饮品第一口合格、余甜仍长：三个时间点的感官记录法",
+      "hypothesis": "用入口、吐样后5秒及60秒分开记录，可避免把低苦味误写成蔗糖般时间曲线。",
+      "discovery_routes": {
+        "1_keyword_search": "仅通用web_search发现；未使用BrowserMan，未观察真实Google SERP/地区/排名/搜索量。",
+        "2_papers": "已读取3篇原始科学研究正文；区分人体感官、体外配方、25人皮肤研究。",
+        "3_community": "本子任务未采样，不作社区痛点或热度证明。",
+        "4_adjacent_news": "3个独立原始发布主体：英国政府、Cargill、Unilever；共4份公告/政策正文。",
+        "5_owned_site_gsc": "origin/main只读内容盘点；未读取GSC或订单，不声称流量/销量需求。"
+      },
+      "primary_route": "4_adjacent_news + 2_papers",
+      "trigger_sources": [
+        {
+          "citation_id": 1,
+          "url": "https://www.cargill.com/2025/eversweet-finalist-global-good-awards-game-changing-innovation",
+          "original_publication_date": "2025-09-26"
+        },
+        {
+          "citation_id": 2,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7466183/",
+          "original_publication_date": "2020-07-31"
+        }
+      ],
+      "reader_question": "为何换Reb M后苦感降低，但消费者仍说“甜味拖尾”？",
+      "specific_material_application": "Reb A/D/M；非茶清味饮品，最终需实际基底复验",
+      "chain": {
+        "event": "Cargill于2025-09-26以EverSweet入围创新奖公告强调糖样口感，属于企业宣传触发。[1]",
+        "commercial_behavior": "供应商在销售不同工艺的甜菊解决方案；公告不提供本站客户采用证据。[1]",
+        "formulation_problem": "入口甜度达标不代表吐样后余甜与蔗糖一致。[2]",
+        "ingredient": "Reb A/D/M；非茶清味饮品，最终需实际基底复验",
+        "reader_value": "感官负责人得到可复用的盲评表，采购不再用“无苦味”替代全时程验收。"
+      },
+      "evidence": [
+        "126名消费者的水溶液试验分别记录入口、5秒和1分钟。[2]",
+        "Reb M入口甜感与14%蔗糖无显著差异，但即时甜感更高且1分钟仍最高；研究不是所有饮料的感官保证。[2]"
+      ],
+      "uncertainties": [
+        "研究捏鼻、水溶液、特定浓度与受试者构成，不能代表碳酸、蛋白饮品及所有消费者。",
+        "三时间点是离散采样，不应包装成完整连续time-intensity曲线。"
+      ],
+      "difference_from_existing": {
+        "baseline_ref": "origin/main@9f30bb453bb6e6e5ea205a1a08c576e211295ece",
+        "existing_pages": [
+          "/plant-extracts/ingredients/stevia",
+          "/products/stevia",
+          "/resources/blog/zero-calorie-sweetener-market-2026",
+          "/solutions/botanical-sweetener-rtd"
+        ],
+        "distinct_intent": "既有采购页已提起甜和余味；本卡增加原始方法复核、离散时间点局限和可操作记录表，禁止再写泛泛甜味剂比较。",
+        "dedup_scope": "核查两产品正文、采购/RTD指南，以及deep-ingredients、ingredient-reader-packs、ingredient-knowledge两材料内容；非仅检查标题。未读取GSC或全部历史草稿。"
+      },
+      "original_increment": "以原文方法构建空白记录表和判读例：入口/即时/余甜各自结论，不合成一个“更好”总分。",
+      "output_format": "方法拆解+盲评记录表",
+      "internal_links": [
+        "/plant-extracts/ingredients/stevia",
+        "/products/stevia"
+      ],
+      "commercial_handoff": "询样时提交目标市场、蔗糖参照、完整基底、苷谱/载体与工艺，不承诺供应特定专有品牌或既有感官结果。",
+      "timeliness": {
+        "observed_on": "2026-09-20",
+        "platform": "原站公告/政府网站/PMC正文；web_search仅发现",
+        "sample": "3个独立原始发布主体+3篇科学研究；非市场代表样本",
+        "freshness": "历史触发，常青应用内容；无当日热度/搜索量主张",
+        "refresh_rule": "政策稿发表前复核2026后续法规；品牌旧新闻只作背景。"
+      },
+      "priority": "P1",
+      "evidence_status": "科学支持的方法稿；应用效果未测",
+      "publication_gates": [
+        "核原文水溶液与实际产品边界",
+        "引用供应商仅归因，不采纳无苦味泛化",
+        "试验表标拟议，不填伪造结果"
+      ],
+      "not_done": "未执行任何配方/感官/人体试验，未发布，未修改repo。",
+      "merged_inputs": [
+        "I03"
+      ],
+      "status": "published_http_verified_public_browser_partial_403",
+      "writer": {
+        "active": false,
+        "owner": "2026-09-20-continuation",
+        "task": "sa-0-375643e2",
+        "claimed_at_utc": "2026-09-20T07:28:28.094852+00:00",
+        "scope": "isolated worktree stevia; research-only centella"
+      },
+      "release": {
+        "pr": 38,
+        "merge_sha": "1702a16091dc2ce7c333d8b36258958d7840fd8d",
+        "record": "/data/hermes/research/seo-growth/2026-09-20-continuation/stevia/production/release.md"
+      }
+    },
+    {
+      "id": "ADJ-03",
+      "title": "同浓度不等甜：Reb A、D、M比较表中最容易误读的一列",
+      "hypothesis": "对照文献中的同浓度设计与企业的等甜成本筛选，能减少虚假的最佳甜菊排名。",
+      "discovery_routes": {
+        "1_keyword_search": "仅通用web_search发现；未使用BrowserMan，未观察真实Google SERP/地区/排名/搜索量。",
+        "2_papers": "已读取3篇原始科学研究正文；区分人体感官、体外配方、25人皮肤研究。",
+        "3_community": "本子任务未采样，不作社区痛点或热度证明。",
+        "4_adjacent_news": "3个独立原始发布主体：英国政府、Cargill、Unilever；共4份公告/政策正文。",
+        "5_owned_site_gsc": "origin/main只读内容盘点；未读取GSC或订单，不声称流量/销量需求。"
+      },
+      "primary_route": "4_adjacent_news + 2_papers",
+      "trigger_sources": [
+        {
+          "citation_id": 1,
+          "url": "https://www.cargill.com/2025/eversweet-finalist-global-good-awards-game-changing-innovation",
+          "original_publication_date": "2025-09-26"
+        },
+        {
+          "citation_id": 2,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7466183/",
+          "original_publication_date": "2020-07-31"
+        }
+      ],
+      "reader_question": "0.1%苷的排名可否直接用来计算每瓶成本或替代率？",
+      "specific_material_application": "明示纯度与单体比例的Reb A/D/M；清味减糖液体",
+      "chain": {
+        "event": "Cargill历史公告展示下一代甜菊商业化叙述，触发对“高性能替糖”评价口径的核查。[1]",
+        "commercial_behavior": "采购团队可比较候选原料，但当前未获真实报价、成本或大货数据；此行为为建议而非新闻观察。",
+        "formulation_problem": "同浓度比较回答材料感官差异，等甜比较才贴近特定配方决策，两者不能混为一谈。[2]",
+        "ingredient": "明示纯度与单体比例的Reb A/D/M；清味减糖液体",
+        "reader_value": "采购和研发获得“研究问题—设计—能回答—不能回答”矩阵，而非照抄通用甜度倍数。"
+      },
+      "evidence": [
+        "研究三种苷用0.1% w/v；Reb M通过预试验匹配14%蔗糖，但相同浓度Reb A更不甜。[2]",
+        "原文讨论高甜度参照下甜度倍率变化，因此倍率不能跨浓度直接固定。[2]"
+      ],
+      "uncertainties": [
+        "不声称已证明等甜条件下某种苷成本最低。",
+        "没有真实报价/基底试验，成本演示只列公式和输入字段。"
+      ],
+      "difference_from_existing": {
+        "baseline_ref": "origin/main@9f30bb453bb6e6e5ea205a1a08c576e211295ece",
+        "existing_pages": [
+          "/plant-extracts/ingredients/stevia",
+          "/products/stevia",
+          "/resources/blog/zero-calorie-sweetener-market-2026",
+          "/solutions/botanical-sweetener-rtd"
+        ],
+        "distinct_intent": "既有页说匹配甜度及总使用成本；新增逐项拆解已发表同浓度研究，明确因果设计限制，不另建常规“Reb A vs M”薄页。",
+        "dedup_scope": "核查两产品正文、采购/RTD指南，以及deep-ingredients、ingredient-reader-packs、ingredient-knowledge两材料内容；非仅检查标题。未读取GSC或全部历史草稿。"
+      },
+      "original_increment": "原创方法对照矩阵：同质量、同总苷、同感知甜度、同成本四种设计的适用问题；数据只引原论文。",
+      "output_format": "文献数据故事+研究设计矩阵，可并入感官专题但独立回答比较口径",
+      "internal_links": [
+        "/plant-extracts/ingredients/stevia",
+        "/products/stevia"
+      ],
+      "commercial_handoff": "询样时提交目标市场、蔗糖参照、完整基底、苷谱/载体与工艺，不承诺供应特定专有品牌或既有感官结果。",
+      "timeliness": {
+        "observed_on": "2026-09-20",
+        "platform": "原站公告/政府网站/PMC正文；web_search仅发现",
+        "sample": "3个独立原始发布主体+3篇科学研究；非市场代表样本",
+        "freshness": "历史触发，常青应用内容；无当日热度/搜索量主张",
+        "refresh_rule": "政策稿发表前复核2026后续法规；品牌旧新闻只作背景。"
+      },
+      "priority": "P2",
+      "evidence_status": "可写方法辨析；成本优劣为研究假设",
+      "publication_gates": [
+        "回核原始表3、预试验及质量体积单位",
+        "避免将未显著差异说成严格等效",
+        "如与ADJ-02篇幅不足则同一专题双章节，禁止同义扩页"
+      ],
+      "not_done": "未执行任何配方/感官/人体试验，未发布，未修改repo。"
+    },
+    {
+      "id": "ADJ-04",
+      "title": "甜菊盲评要先筛“超级味觉者”吗？一个阴性结果的招募启示",
+      "hypothesis": "PROP苦味分组未预测该研究中甜菊苦感，不能用这一标签替代真实产品测试。",
+      "discovery_routes": {
+        "1_keyword_search": "仅通用web_search发现；未使用BrowserMan，未观察真实Google SERP/地区/排名/搜索量。",
+        "2_papers": "已读取3篇原始科学研究正文；区分人体感官、体外配方、25人皮肤研究。",
+        "3_community": "本子任务未采样，不作社区痛点或热度证明。",
+        "4_adjacent_news": "3个独立原始发布主体：英国政府、Cargill、Unilever；共4份公告/政策正文。",
+        "5_owned_site_gsc": "origin/main只读内容盘点；未读取GSC或订单，不声称流量/销量需求。"
+      },
+      "primary_route": "4_adjacent_news + 2_papers",
+      "trigger_sources": [
+        {
+          "citation_id": 1,
+          "url": "https://www.cargill.com/2025/eversweet-finalist-global-good-awards-game-changing-innovation",
+          "original_publication_date": "2025-09-26"
+        },
+        {
+          "citation_id": 2,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7466183/",
+          "original_publication_date": "2020-07-31"
+        }
+      ],
+      "reader_question": "项目预算有限，先做PROP筛人，还是先让目标消费者测成品？",
+      "specific_material_application": "Reb A/D/M消费感官面板；非茶饮品开发",
+      "chain": {
+        "event": "供应商历史公告强调消费者健康/口感需求，但商业叙述不回答该招募哪类感官受试者。[1]",
+        "commercial_behavior": "配方团队可投入消费者验证；并无新闻证实企业普遍采购PROP测试，属拟议研发决策。",
+        "formulation_problem": "不能由PROP敏感自动推断某人必定更讨厌甜菊；需正视研究阴性结果。[2]",
+        "ingredient": "Reb A/D/M消费感官面板；非茶饮品开发",
+        "reader_value": "感官团队得到招募偏倚与预算分配清单，而不制造“超级味觉者决定产品成败”的机制营销。"
+      },
+      "evidence": [
+        "126名完成者分为15名非敏感、81名中等、30名超级味觉者。[2]",
+        "原文未发现PROP苦感与三种甜菊苷甜/苦强度的显著相关，也未发现组别与样品显著交互。[2]"
+      ],
+      "uncertainties": [
+        "阴性结果不证明不存在任何个体差异；单一年轻、女性偏多样本外推有限。",
+        "尚无真实客户招募成本，不输出最佳人数或省钱比例。"
+      ],
+      "difference_from_existing": {
+        "baseline_ref": "origin/main@9f30bb453bb6e6e5ea205a1a08c576e211295ece",
+        "existing_pages": [
+          "/plant-extracts/ingredients/stevia",
+          "/products/stevia",
+          "/resources/blog/zero-calorie-sweetener-market-2026",
+          "/solutions/botanical-sweetener-rtd"
+        ],
+        "distinct_intent": "既有百科/采购讨论后味；本卡处理面板招募和阴性证据，不重复苷谱/用量。",
+        "dedup_scope": "核查两产品正文、采购/RTD指南，以及deep-ingredients、ingredient-reader-packs、ingredient-knowledge两材料内容；非仅检查标题。未读取GSC或全部历史草稿。"
+      },
+      "original_increment": "原创证据表列招募、排除、完成、分组、阴性结果和外推边界；附拟议招募问卷。",
+      "output_format": "负结果解释+感官项目brief模板",
+      "internal_links": [
+        "/plant-extracts/ingredients/stevia",
+        "/products/stevia"
+      ],
+      "commercial_handoff": "询样时提交目标市场、蔗糖参照、完整基底、苷谱/载体与工艺，不承诺供应特定专有品牌或既有感官结果。",
+      "timeliness": {
+        "observed_on": "2026-09-20",
+        "platform": "原站公告/政府网站/PMC正文；web_search仅发现",
+        "sample": "3个独立原始发布主体+3篇科学研究；非市场代表样本",
+        "freshness": "历史触发，常青应用内容；无当日热度/搜索量主张",
+        "refresh_rule": "政策稿发表前复核2026后续法规；品牌旧新闻只作背景。"
+      },
+      "priority": "P3",
+      "evidence_status": "可写文献边界；商业采用和节省为研究假设",
+      "publication_gates": [
+        "核人数流转224→197→126，不能把筛查人数当完成样本",
+        "只建议招募设计，不提供医学味觉诊断",
+        "如无法补第二独立研究，定位单研究案例而非系统综述"
+      ],
+      "not_done": "未执行任何配方/感官/人体试验，未发布，未修改repo。"
+    },
+    {
+      "id": "ADJ-05",
+      "title": "积雪草冷配乳液不分层就算稳定吗？从84天研究看指标冲突",
+      "hypothesis": "外观与Zeta电位不足以替代散射、粒径和黏度的组合观察。",
+      "discovery_routes": {
+        "1_keyword_search": "仅通用web_search发现；未使用BrowserMan，未观察真实Google SERP/地区/排名/搜索量。",
+        "2_papers": "已读取3篇原始科学研究正文；区分人体感官、体外配方、25人皮肤研究。",
+        "3_community": "本子任务未采样，不作社区痛点或热度证明。",
+        "4_adjacent_news": "3个独立原始发布主体：英国政府、Cargill、Unilever；共4份公告/政策正文。",
+        "5_owned_site_gsc": "origin/main只读内容盘点；未读取GSC或订单，不声称流量/销量需求。"
+      },
+      "primary_route": "4_adjacent_news + 2_papers",
+      "trigger_sources": [
+        {
+          "citation_id": 7,
+          "url": "https://www.unilever.com/news/news-search/2025/doves-new-facial-range-taps-into-fastgrowing-dermocosmetics-sector",
+          "original_publication_date": "2025-04-01"
+        },
+        {
+          "citation_id": 3,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11643272/",
+          "original_publication_date": "2024-11-26"
+        }
+      ],
+      "reader_question": "冷配乳霜外观正常，为什么仍需测粒径及Turbiscan？",
+      "specific_material_application": "积雪草提取物10 wt.%的研究体系；冷配O/W、W/O和胶体载体",
+      "chain": {
+        "event": "Unilever于2025-04-01宣布Dove Regenerative在巴西进入面部皮肤科学护理，强调简单步骤与科学验证。[7]",
+        "commercial_behavior": "品牌真实扩充面部产品线；没有证据其使用积雪草或冷配工艺，二者联系是编辑研究假设。",
+        "formulation_problem": "“科学型”护肤开发需能解释稳定性指标分歧，而不是只看短期外观。",
+        "ingredient": "积雪草提取物10 wt.%的研究体系；冷配O/W、W/O和胶体载体",
+        "reader_value": "配方/质控负责人得到按证据优先级判读的加速稳定性清单。"
+      },
+      "evidence": [
+        "2024研究对含10 wt.%提取物的不同载体在45°C存放84天，O/W的TSI较稳定；凝胶30天后变差，W/O末期TSI更高。[3]",
+        "原文也讨论Zeta电位的良好表现，必须与散射和粒径结果同时读，不能只截“稳定”句。[3]"
+      ],
+      "uncertainties": [
+        "非实际ZL测试；研究配方/乳化剂不能覆盖所有积雪草乳液。",
+        "84天加速试验不等于已验证货架期；不证明微生物防腐合格。",
+        "品牌公告和冷配路线之间无直接因果证据。"
+      ],
+      "difference_from_existing": {
+        "baseline_ref": "origin/main@9f30bb453bb6e6e5ea205a1a08c576e211295ece",
+        "existing_pages": [
+          "/plant-extracts/ingredients/centella-asiatica",
+          "/products/centella-asiatica",
+          "/solutions/cosmetics"
+        ],
+        "distinct_intent": "已有积雪草页讲载体、乳霜概念和稳定性泛项；本卡新增2024研究的多指标冲突及负结果，不另写配方基础介绍。",
+        "dedup_scope": "核查两产品正文、采购/RTD指南，以及deep-ingredients、ingredient-reader-packs、ingredient-knowledge两材料内容；非仅检查标题。未读取GSC或全部历史草稿。"
+      },
+      "original_increment": "原创指标判读表：肉眼/粒径/Zeta/TSI/黏度各能排除什么，列研究各载体异常首次出现的窗口。",
+      "output_format": "故障诊断文章+证据表",
+      "internal_links": [
+        "/plant-extracts/ingredients/centella-asiatica",
+        "/products/centella-asiatica"
+      ],
+      "commercial_handoff": "询样时提交四标志物、溶剂/载体、剂型和验证指标；技术支持、现货和性能另行书面确认。",
+      "timeliness": {
+        "observed_on": "2026-09-20",
+        "platform": "原站公告/政府网站/PMC正文；web_search仅发现",
+        "sample": "3个独立原始发布主体+3篇科学研究；非市场代表样本",
+        "freshness": "历史触发，常青应用内容；无当日热度/搜索量主张",
+        "refresh_rule": "政策稿发表前复核2026后续法规；品牌旧新闻只作背景。"
+      },
+      "priority": "P1",
+      "evidence_status": "研究正文充分；新闻到积雪草关联为研究假设",
+      "publication_gates": [
+        "提取表2、图1–3时明确各指标不互相替代",
+        "不得推荐10%为通用添加量",
+        "独立审核加速试验与货架期措辞"
+      ],
+      "not_done": "未执行任何配方/感官/人体试验，未发布，未修改repo。",
+      "status": "published_http_verified_public_browser_partial_403",
+      "writer": {
+        "active": false,
+        "worktree": "/data/hermes/workspaces/zl-centella-stability",
+        "tree": "3399a3a9e5aad556679b470a1fc7a4f5beec5c45",
+        "review_owner": "sa-0-abdd0d4c",
+        "parent_release_active": false,
+        "handoff": "/data/hermes/research/seo-growth/2026-09-20-continuation/centella-integration/HANDOFF.md"
+      },
+      "release": {
+        "pr": 39,
+        "merge_sha": "6b9b250c06bc62f373fff232f1bf8aaa95283499",
+        "record": "/data/hermes/research/seo-growth/2026-09-20-continuation/centella-production/release.md"
+      }
+    },
+    {
+      "id": "ADJ-06",
+      "title": "积雪草加得更多不一定释放更多：先区分提取物添加量与标准品加标",
+      "hypothesis": "把完整提取物稳定性实验与纯标志物释放实验分开，才能避免把2%/5%/10%当成同一剂量梯度。",
+      "discovery_routes": {
+        "1_keyword_search": "仅通用web_search发现；未使用BrowserMan，未观察真实Google SERP/地区/排名/搜索量。",
+        "2_papers": "已读取3篇原始科学研究正文；区分人体感官、体外配方、25人皮肤研究。",
+        "3_community": "本子任务未采样，不作社区痛点或热度证明。",
+        "4_adjacent_news": "3个独立原始发布主体：英国政府、Cargill、Unilever；共4份公告/政策正文。",
+        "5_owned_site_gsc": "origin/main只读内容盘点；未读取GSC或订单，不声称流量/销量需求。"
+      },
+      "primary_route": "4_adjacent_news + 2_papers",
+      "trigger_sources": [
+        {
+          "citation_id": 7,
+          "url": "https://www.unilever.com/news/news-search/2025/doves-new-facial-range-taps-into-fastgrowing-dermocosmetics-sector",
+          "original_publication_date": "2025-04-01"
+        },
+        {
+          "citation_id": 3,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11643272/",
+          "original_publication_date": "2024-11-26"
+        }
+      ],
+      "reader_question": "研究里的10%提取物与2%/5%积雪草苷到底是哪种原料、哪项试验？",
+      "specific_material_application": "madecassoside、asiaticoside标准品加标；O/W、W/O及凝胶",
+      "chain": {
+        "event": "品牌2025年面部新品公告把“科学型产品”作为商业表达；不是含积雪草产品的证据。[7]",
+        "commercial_behavior": "品牌用科学叙述推进新品，采购/研发需能核实原料浓度叙述；后者为编辑建议。",
+        "formulation_problem": "提取物百分比、纯标志物加标、体外释放比例和人体递送是不同概念。[3]",
+        "ingredient": "madecassoside、asiaticoside标准品加标；O/W、W/O及凝胶",
+        "reader_value": "配方师能辨明研究可迁移的试验设计，销售不再把“更多添加”写成“更强效果”。"
+      },
+      "evidence": [
+        "稳定性部分使用10 wt.%积雪草提取物；释放部分以2和5 wt.%标准品加标并在pH 5.8、7.4的介质中测试。[3]",
+        "在该试验条件下提高加标浓度未提高累积释放，需保留量纲及图注，不等同人体吸收无剂量响应。[3]"
+      ],
+      "uncertainties": [
+        "体外释放不等于透皮率/人体功效，pH为释放介质，不能直接当成产品推荐pH。",
+        "加标水平为论文设计，不是化妆品使用推荐。"
+      ],
+      "difference_from_existing": {
+        "baseline_ref": "origin/main@9f30bb453bb6e6e5ea205a1a08c576e211295ece",
+        "existing_pages": [
+          "/plant-extracts/ingredients/centella-asiatica",
+          "/products/centella-asiatica",
+          "/solutions/cosmetics"
+        ],
+        "distinct_intent": "已有页区分四标志物/总三萜；新增同篇研究三个百分比的试验对象审计，聚焦研究转译而非供应规格。",
+        "dedup_scope": "核查两产品正文、采购/RTD指南，以及deep-ingredients、ingredient-reader-packs、ingredient-knowledge两材料内容；非仅检查标题。未读取GSC或全部历史草稿。"
+      },
+      "original_increment": "原创样品流向图：完整提取物→稳定性；标准品加标→释放；分母/介质/终点逐项列出。",
+      "output_format": "文献审计图解+剂量口径清单",
+      "internal_links": [
+        "/plant-extracts/ingredients/centella-asiatica",
+        "/products/centella-asiatica"
+      ],
+      "commercial_handoff": "询样时提交四标志物、溶剂/载体、剂型和验证指标；技术支持、现货和性能另行书面确认。",
+      "timeliness": {
+        "observed_on": "2026-09-20",
+        "platform": "原站公告/政府网站/PMC正文；web_search仅发现",
+        "sample": "3个独立原始发布主体+3篇科学研究；非市场代表样本",
+        "freshness": "历史触发，常青应用内容；无当日热度/搜索量主张",
+        "refresh_rule": "政策稿发表前复核2026后续法规；品牌旧新闻只作背景。"
+      },
+      "priority": "P2",
+      "evidence_status": "可写原文解析；品牌关联为研究假设",
+      "publication_gates": [
+        "回看3节方法与图4–6，核释放量分母",
+        "不宣传高含量更好或更差",
+        "用稳定性和释放两个实验块分别展示"
+      ],
+      "not_done": "未执行任何配方/感官/人体试验，未发布，未修改repo。"
+    },
+    {
+      "id": "ADJ-07",
+      "title": "积雪草保湿文献怎样迁移到产品brief：25人前臂试验能证明什么",
+      "hypothesis": "受试材料、基底、部位和对照若不匹配，不能把论文保湿结果直接变成面霜宣传数字。",
+      "discovery_routes": {
+        "1_keyword_search": "仅通用web_search发现；未使用BrowserMan，未观察真实Google SERP/地区/排名/搜索量。",
+        "2_papers": "已读取3篇原始科学研究正文；区分人体感官、体外配方、25人皮肤研究。",
+        "3_community": "本子任务未采样，不作社区痛点或热度证明。",
+        "4_adjacent_news": "3个独立原始发布主体：英国政府、Cargill、Unilever；共4份公告/政策正文。",
+        "5_owned_site_gsc": "origin/main只读内容盘点；未读取GSC或订单，不声称流量/销量需求。"
+      },
+      "primary_route": "4_adjacent_news + 2_papers",
+      "trigger_sources": [
+        {
+          "citation_id": 7,
+          "url": "https://www.unilever.com/news/news-search/2025/doves-new-facial-range-taps-into-fastgrowing-dermocosmetics-sector",
+          "original_publication_date": "2025-04-01"
+        },
+        {
+          "citation_id": 4,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4852572/",
+          "original_publication_date": "2016-01/2016-02"
+        }
+      ],
+      "reader_question": "能否引用论文“5%积雪草”结果宣传自己的精华？",
+      "specific_material_application": "70%乙醇实验室提取物的O/W霜和水凝胶；与商用积雪草原料桥接",
+      "chain": {
+        "event": "Unilever面部新品公告强调不同肤色参与配方测试，提供成品测试设计的商业背景。[7]",
+        "commercial_behavior": "品牌确在推广经过自身测试的成品；不代表积雪草原料自动获得同等验证。[7]",
+        "formulation_problem": "同名植物、不同提取物和基底不能共享功效数字；前臂试验也不自动代表面部。",
+        "ingredient": "70%乙醇实验室提取物的O/W霜和水凝胶；与商用积雪草原料桥接",
+        "reader_value": "品牌法规和研发获得“研究材料→供应批次→成品终点”桥接表。"
+      },
+      "evidence": [
+        "2016年Jan-Feb期刊研究在25名健康志愿者前臂试验2.5%和5%配方、基底对照，连续4周每天两次。[4]",
+        "评价包含角质层水分、TEWL与烟酸甲酯诱导反应；这不是湿疹患者临床治疗试验。[4]"
+      ],
+      "uncertainties": [
+        "原始出版日只核到2016年1–2月期，不能把数据库补齐的1月1日当确切首发日。",
+        "样本小、部位受限、独立重复不足；不能自动支持现代配方/敏感肌全人群。",
+        "48小时斑贴未见问题不等于长期无过敏风险。"
+      ],
+      "difference_from_existing": {
+        "baseline_ref": "origin/main@9f30bb453bb6e6e5ea205a1a08c576e211295ece",
+        "existing_pages": [
+          "/plant-extracts/ingredients/centella-asiatica",
+          "/products/centella-asiatica",
+          "/solutions/cosmetics"
+        ],
+        "distinct_intent": "已有百科介绍临床证据与材料身份；本卡是具体2016人体试验桥接审计，不再做泛“积雪草功效”。",
+        "dedup_scope": "核查两产品正文、采购/RTD指南，以及deep-ingredients、ingredient-reader-packs、ingredient-knowledge两材料内容；非仅检查标题。未读取GSC或全部历史草稿。"
+      },
+      "original_increment": "原创证据桥接表包含溶剂、基底、添加阶段、浓度分母、部位、对照、时间、终点及不可迁移项。",
+      "output_format": "证据转译工作表+案例解析",
+      "internal_links": [
+        "/plant-extracts/ingredients/centella-asiatica",
+        "/products/centella-asiatica"
+      ],
+      "commercial_handoff": "询样时提交四标志物、溶剂/载体、剂型和验证指标；技术支持、现货和性能另行书面确认。",
+      "timeliness": {
+        "observed_on": "2026-09-20",
+        "platform": "原站公告/政府网站/PMC正文；web_search仅发现",
+        "sample": "3个独立原始发布主体+3篇科学研究；非市场代表样本",
+        "freshness": "历史触发，常青应用内容；无当日热度/搜索量主张",
+        "refresh_rule": "政策稿发表前复核2026后续法规；品牌旧新闻只作背景。"
+      },
+      "priority": "P1",
+      "evidence_status": "有原始小型人体研究；不得泛化功效",
+      "publication_gates": [
+        "明确Jan-Feb日期精度",
+        "禁止把研究百分比当商业配方建议",
+        "发布前科学与化妆品宣称审查"
+      ],
+      "not_done": "未执行任何配方/感官/人体试验，未发布，未修改repo。"
+    },
+    {
+      "id": "ADJ-08",
+      "title": "精简护肤步骤不等于简化验证：积雪草与烟酰胺复配的相容性brief",
+      "hypothesis": "品牌“skinimalism”可引出少SKU多功能配方需求，但积雪草复配效果须另做相容性与成品证据。",
+      "discovery_routes": {
+        "1_keyword_search": "仅通用web_search发现；未使用BrowserMan，未观察真实Google SERP/地区/排名/搜索量。",
+        "2_papers": "已读取3篇原始科学研究正文；区分人体感官、体外配方、25人皮肤研究。",
+        "3_community": "本子任务未采样，不作社区痛点或热度证明。",
+        "4_adjacent_news": "3个独立原始发布主体：英国政府、Cargill、Unilever；共4份公告/政策正文。",
+        "5_owned_site_gsc": "origin/main只读内容盘点；未读取GSC或订单，不声称流量/销量需求。"
+      },
+      "primary_route": "4_adjacent_news + 2_papers",
+      "trigger_sources": [
+        {
+          "citation_id": 7,
+          "url": "https://www.unilever.com/news/news-search/2025/doves-new-facial-range-taps-into-fastgrowing-dermocosmetics-sector",
+          "original_publication_date": "2025-04-01"
+        },
+        {
+          "citation_id": 3,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11643272/",
+          "original_publication_date": "2024-11-26"
+        },
+        {
+          "citation_id": 4,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4852572/",
+          "original_publication_date": "2016-01/2016-02"
+        }
+      ],
+      "reader_question": "想做一瓶烟酰胺+积雪草产品，先验证什么，而不是先承诺协同？",
+      "specific_material_application": "积雪草四标志物/载体已定义的原料，与烟酰胺候选基底；不提供定版配方",
+      "chain": {
+        "event": "Dove 2025-04-01公告明确skinimalism及B3PRO，核心成分为烟酰胺与retinyl propionate，不是积雪草。[7]",
+        "commercial_behavior": "品牌以简化步骤推出多成分产品是真实行为；积雪草复配为本站拟议研发问题，未证明市场普遍需求。",
+        "formulation_problem": "减少步骤不免除对沉淀、变色、黏度、防腐和宣称的验证；具体不相容或协同未证实。",
+        "ingredient": "积雪草四标志物/载体已定义的原料，与烟酰胺候选基底；不提供定版配方",
+        "reader_value": "研发用一个可执行试验brief评估可行性，采购不会把品牌案例错误当作积雪草背书。"
+      },
+      "evidence": [
+        "品牌原文能支持“精简步骤/多成分产品”商业方向，不能支持含积雪草或协同。[7]",
+        "积雪草载体研究显示体系会影响稳定/释放；人体小研究有自己的具体基底，均不能验证烟酰胺组合。[3][4]"
+      ],
+      "uncertainties": [
+        "没有直接烟酰胺+积雪草相容性原始研究或企业配方数据，必须整卡标研究假设。",
+        "此处不声称烟酰胺和积雪草必然冲突、协同、淡斑或修复疾病。"
+      ],
+      "difference_from_existing": {
+        "baseline_ref": "origin/main@9f30bb453bb6e6e5ea205a1a08c576e211295ece",
+        "existing_pages": [
+          "/plant-extracts/ingredients/centella-asiatica",
+          "/products/centella-asiatica",
+          "/solutions/cosmetics"
+        ],
+        "distinct_intent": "已有积雪草乳霜/精华概念；本卡只交付多成分精简护肤项目的试验设计，不建泛“最佳搭配”页面。",
+        "dedup_scope": "核查两产品正文、采购/RTD指南，以及deep-ingredients、ingredient-reader-packs、ingredient-knowledge两材料内容；非仅检查标题。未读取GSC或全部历史草稿。"
+      },
+      "original_increment": "原创空白DoE字段：有/无积雪草、有/无烟酰胺、载体空白、pH记录、工艺、包装、稳定和防腐终点；先定义变量，不造结果。",
+      "output_format": "研究假设卡+试验brief，暂不独立发布SEO文章",
+      "internal_links": [
+        "/plant-extracts/ingredients/centella-asiatica",
+        "/products/centella-asiatica"
+      ],
+      "commercial_handoff": "询样时提交四标志物、溶剂/载体、剂型和验证指标；技术支持、现货和性能另行书面确认。",
+      "timeliness": {
+        "observed_on": "2026-09-20",
+        "platform": "原站公告/政府网站/PMC正文；web_search仅发现",
+        "sample": "3个独立原始发布主体+3篇科学研究；非市场代表样本",
+        "freshness": "历史触发，常青应用内容；无当日热度/搜索量主张",
+        "refresh_rule": "政策稿发表前复核2026后续法规；品牌旧新闻只作背景。"
+      },
+      "priority": "P3",
+      "evidence_status": "研究假设—缺直接组合证据",
+      "publication_gates": [
+        "补直接复配证据或真实经授权小试",
+        "成品防腐/安全/宣称独立审查",
+        "不暗示Dove、Unilever与ZL合作/采购/背书"
+      ],
+      "not_done": "未执行任何配方/感官/人体试验，未发布，未修改repo。"
+    },
+    {
+      "id": "C01",
+      "title": "同叫水溶性绿茶提取物，食品粉末与外用液体不能直接替换",
+      "hypothesis": "用途与载体是比名称更有用的第一层比较",
+      "trigger_source": "当天BrowserMan Google归档5结果+本轮竞品正文",
+      "reader_question": "搜索到同名原料，为什么有的适合饮料有的只适合外用？",
+      "material_application": "绿茶粉末/甘油水液体；饮品与护肤",
+      "evidence": [
+        "https://www.wholesalesuppliesplus.com/products/green-tea-extract-water-soluble",
+        "https://wholesale.bulksupplements.com/products/green-tea-extract-50-egcg"
+      ],
+      "uncertainty": "两页用途例证，非市场代表样本；50-egcg URL不能证明检测含量",
+      "existing_page_difference": "绿茶采购/百科已有形态概述；先做采购总页可跳转比较模块，只有证据更完整再独立成页",
+      "original_increment": "把用途、载体、检测对象与目标成品放在同一对照表，解释错配原因",
+      "format": "比较模块/独立文章候选",
+      "internal_links": [
+        "/products/green-tea",
+        "/plant-extracts/ingredients/green-tea"
+      ],
+      "commercial_handoff": "按食品/外用及载体约束询价",
+      "timeliness": "常青",
+      "priority": "P1",
+      "status": "evidence_collected",
+      "page_decision": "module_first"
+    },
+    {
+      "id": "NEW-GINSENG-01",
+      "title": "人参饮料热后风味与皂苷回收分别评价",
+      "status": "published_http_verified_browser_blocked_403",
+      "writer_active": false,
+      "writer_owner": null,
+      "worktree": "/data/hermes/workspaces/zl-uk-sdil",
+      "record": "/data/hermes/research/seo-growth/2026-09-20-ginseng-release",
+      "source": "/data/hermes/research/seo-growth/2026-09-20-new-material",
+      "reviewer": null,
+      "handoff": "/data/hermes/research/seo-growth/2026-09-20-ginseng-release/handoff.md",
+      "editorial_pass": "/data/hermes/research/seo-growth/2026-09-20-ginseng-release/editorial-closure-after.json",
+      "release": {
+        "pr": 42,
+        "merge_sha": "509c4067b9e25c5b136755cb3d94b5d35d65bde4",
+        "record": "/data/hermes/research/seo-growth/2026-09-20-ginseng-release/production/release-state.json"
+      },
+      "next_action": "Do not repeat publication; public full browser journeys remain blocked by verified Vercel403 challenge. Next editorial batch SDIL content-approved revision."
+    },
+    {
+      "id": "NEW-PAPRIKA",
+      "status": "published_public_browser_partial_waf_blocked",
+      "candidate_directory": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/paprika",
+      "review": "/data/hermes/research/seo-growth/2026-09-21-paprika-release/independent/verdict.json",
+      "writer_active": false,
+      "next_action": "Published PR47; do not reintegrate. Preserve public HTTP2/2 exact content and separate browser runs:1/8 initial,6/8 stabilized,0/2 remaining diagnostic403. Recheck remaining public journeys without changing WAF; Astro migration remains separate.",
+      "release": {
+        "pr": 47,
+        "pr_url": "https://github.com/kinhunt/zlbotanicals/pull/47",
+        "merge_sha": "7a3b6b9f1fae25be3563351fdd3183fd09aea8af",
+        "deployment_id": 6570106913,
+        "deployment_status_id": 18627936165,
+        "record": "/data/hermes/research/seo-growth/2026-09-21-paprika-release/production/RELEASE.md",
+        "state": "/data/hermes/research/seo-growth/2026-09-21-paprika-release/production/release-state.json"
+      }
+    },
+    {
+      "id": "NEW-QUILLAJA",
+      "status": "published_existing_beverage_module",
+      "candidate_directory": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/quillaja",
+      "review": "/data/hermes/research/seo-growth/2026-09-21-new-material-discovery/revision/final-independent/verdict.json",
+      "writer_active": false,
+      "next_action": "Do not republish. Production confirmed; public browser8/8 passed. Existing recommendation order nondeterministic remains separate follow-up.",
+      "release": {
+        "pr": 46,
+        "merge_sha": "8cdcfbe6d9a69c0ceaf2115144ab6b5c727c9892",
+        "record": "/data/hermes/research/seo-growth/2026-09-21-quillaja-release/production/release-state.json"
+      }
+    },
+    {
+      "id": "NEW-ROSEMARY",
+      "title": "食品用迷迭香抗氧化原料：交付形态与证据选型",
+      "status": "published_existing_food_module_public_browser_partial_waf",
+      "candidate_directory": "/data/hermes/research/seo-growth/2026-09-21-rosemary-release",
+      "review": "/data/hermes/research/seo-growth/2026-09-21-rosemary-release/independent/review.json",
+      "writer_active": false,
+      "next_action": "PR48已发布，不重复集成。公开HTTP ENZH2/2精确一致；原浏览器6/8，ZH1440两项有限诊断0/2均初始403。保留分母，不改WAF；后续仅复核剩余公网条件。",
+      "release": {
+        "pr": 48,
+        "merge_sha": "b842a492a415abe0b0362a92d9494b6a1063ac3a",
+        "deployment_id": 6573210462,
+        "deployment_status_id": 18635014511,
+        "record": "/data/hermes/research/seo-growth/2026-09-21-rosemary-release/production/release-state.json"
+      }
+    },
+    {
+      "id": "NEW-ELDERBERRY",
+      "title": "接骨木提取物：相同花青素规格与不同纤维、载体和方法口径",
+      "status": "published_http_verified_public_browser_partial_waf",
+      "writer_active": false,
+      "writer_owner": "sa-0-1f247102",
+      "worktree": "/data/hermes/workspaces/zl-elderberry-release",
+      "research_directory": "/data/hermes/research/seo-growth/2026-09-21-evening-discovery",
+      "original_sampling": "/data/hermes/research/seo-growth/2026-09-21-evening-browser/receipt.md",
+      "review": "/data/hermes/research/seo-growth/2026-09-21-elderberry-release/independent/content-review.md",
+      "handoff": "/data/hermes/research/seo-growth/2026-09-21-elderberry-release/HANDOFF.md",
+      "next_action": "Do not republish PR49. Parent exact-SHA Production and live ENZH article match2/2 confirmed. Authoritative final public browser receipt:3/8 fully passed, fourth en-1440-js0 partial then403; ZH4 not attempted. Earlier continuation4/8 wording was incorrect. See production/release-state.json. LinkedIn adapted once2026-09-21; night-linkedin/receipt.md. Migration requires fresh-main port after future releases.",
+      "release": {
+        "pr": 49,
+        "merge_sha": "2d43a60a578b06068cc975f8f3ca6c8bf2499ac0",
+        "record": "/data/hermes/research/seo-growth/2026-09-21-elderberry-release/production/release-state.json",
+        "deployment_id": 6576581333,
+        "deployment_status_id": 18642583699,
+        "parent_verification": "/data/hermes/research/seo-growth/2026-09-21-elderberry-release/production/parent/remote.json"
+      }
+    },
+    {
+      "id": "NEW-SAFFRON",
+      "title": "藏红花原料采购：组成、等级与真实性，需要不同的证据",
+      "status": "published_http_verified_public_browser_partial_waf",
+      "writer_active": false,
+      "worktree": "/data/hermes/workspaces/zl-saffron-release",
+      "research_directory": "/data/hermes/research/seo-growth/2026-09-21-night-discovery",
+      "review": "/data/hermes/research/seo-growth/2026-09-21-saffron-release/independent-review/REPORT.md",
+      "release": {
+        "pr": 50,
+        "merge_sha": "b594be14c68112974524ad090eaba1e5c63e6f4d",
+        "deployment_id": 6579426357,
+        "record": "/data/hermes/research/seo-growth/2026-09-21-saffron-release/production/release-state.json"
+      },
+      "next_action": "Do not republish. Parent exactSHAProduction and ENZHHTTP2/2 article match confirmed. Publicbrowser5/8 full; sixthEN1440noJSpartial quality403,ZH1440two unattempted. Security stays separate."
+    },
+    {
+      "id": "NEW-HIBISCUS",
+      "title": "洛神花果汁饮料的颜色稳定性，不能只看花色苷含量",
+      "status": "published_http_verified_public_browser_partial_waf",
+      "writer_active": false,
+      "research_directory": "/data/hermes/research/seo-growth/2026-09-22-discovery/botanical-opportunity",
+      "review": "/data/hermes/research/seo-growth/2026-09-22-hibiscus-release/independent/REPORT.md",
+      "release": {
+        "pr": 51,
+        "merge_sha": "327c9c33bdec586c671bdca8965576e3dead640b",
+        "deployment_id": 6581579095,
+        "record": "/data/hermes/research/seo-growth/2026-09-22-hibiscus-release/production/release-state.json"
+      },
+      "next_action": "Do not republish. ENZH HTTP2/2 exact; full browser2/12 then third ZH390js1 citation reload403,9 unattempted. GSC remains partial, no impact attribution."
+    },
+    {
+      "id": "NEW-CITRUS-HESPERIDIN",
+      "title": "橙皮苷还是葡糖基橙皮苷？先选对材料，再比较含量",
+      "status": "published_http_verified_public_browser_partial_waf",
+      "writer_active": false,
+      "writer_owner": "sa-0-3df408d7",
+      "worktree": "/data/hermes/workspaces/zl-citrus-release",
+      "research_directory": "/data/hermes/research/seo-growth/2026-09-22-next-discovery",
+      "review": "/data/hermes/research/seo-growth/2026-09-22-citrus-release/independent/verdict.json",
+      "next_action": "PR53 published; do not repeat. Public ENZH HTTP2/2 exact; browser2/12 full+1partial then first403 stop,9unattempted. No WAF changes. MigrationPR52 now behind PR53 and remains draft.",
+      "release": {
+        "pr": 53,
+        "merge_sha": "5f73286f43a70d35109d78130b61ec0277ca112e",
+        "deployment_id": 6585103449,
+        "record": "/data/hermes/research/seo-growth/2026-09-22-citrus-release/production/release-state.json"
+      }
+    },
+    {
+      "id": "NEW-CRANBERRY-PAC",
+      "title": "蔓越莓提取物怎么比价：先把PAC含量的检测口径说清楚",
+      "status": "published_http_verified_public_browser_partial_waf",
+      "writer_active": false,
+      "research_directory": "/data/hermes/research/seo-growth/2026-09-22-morning-discovery",
+      "revision": "/data/hermes/research/seo-growth/2026-09-22-cranberry-review",
+      "review": "/data/hermes/research/seo-growth/2026-09-22-cranberry-release/independent/REPORT.md",
+      "next_action": "Do not republish PR54. ENZHHTTP2/2 exact; publicbrowser2/12full+1partial then first403 stop,9unattempted.",
+      "worktree": "/data/hermes/workspaces/zl-cranberry-release",
+      "release": {
+        "pr": 54,
+        "merge_sha": "5c22c4a77fc8cfb64309698c66731ee1d8781148",
+        "deployment_id": 6587806850,
+        "record": "/data/hermes/research/seo-growth/2026-09-22-cranberry-release/production/release-state.json"
+      }
+    },
+    {
+      "id": "NEW-VANILLA-MATERIAL",
+      "title": "香草粉采购：先分清豆荚研磨粉、提取物粉和含籽酱",
+      "status": "published_http_verified_public_browser_partial_waf",
+      "writer_active": false,
+      "research_directory": "/data/hermes/research/seo-growth/2026-09-22-midday-discovery/vanilla-material",
+      "review": "/data/hermes/research/seo-growth/2026-09-22-vanilla-independent/RENDERED-REVIEW.md",
+      "next_action": "Do not republish PR55. Parent exactSHA Production and34source hashes verified. PublicHTTP ENZH2/2 exact; browser2/12full+1partial then403stop,9unattempted.",
+      "worktree": "/data/hermes/workspaces/zl-vanilla-release",
+      "release": {
+        "pr": 55,
+        "merge_sha": "5e490579547798d22045721be0ceb1a1239f0c06",
+        "deployment_id": 6590374726,
+        "record": "/data/hermes/research/seo-growth/2026-09-22-vanilla-release/production/release-state.json"
+      }
+    },
+    {
+      "id": "NEW-VANILLA-AUTHENTICATION",
+      "title": "香草检测能证明什么：物种、地理来源与外加香料的证据边界",
+      "status": "published_http_verified_public_browser_partial_waf",
+      "writer_active": false,
+      "research_directory": "/data/hermes/research/seo-growth/2026-09-22-afternoon-discovery/vanilla-origin",
+      "review": "/data/hermes/research/seo-growth/2026-09-22-vanilla-authentication-release/independent/REPORT.md",
+      "revision": "/data/hermes/research/seo-growth/2026-09-22-afternoon-editorial-review/reviewed",
+      "next_action": "Do not republish PR56. ENZH HTTP2/2 exact; publicbrowser3/12 full+fourthZH390noJS partial first403stop,8unattempted. Old vanilla-release worktree was moved to zl-vanilla-authentication; old frozen research retained.",
+      "worktree": "/data/hermes/workspaces/zl-vanilla-authentication",
+      "release": {
+        "pr": 56,
+        "merge_sha": "6a15ea935c4aad848f62dc512ffc5d0c2e843d1b",
+        "deployment_id": 6593791820,
+        "record": "/data/hermes/research/seo-growth/2026-09-22-vanilla-authentication-release/production/release-state.json"
+      }
+    }
+  ],
+  "writer": {
+    "active": false,
+    "owner": "delegation-tea-haze-integration-2026-09-20",
+    "task_id": "T01",
+    "claimed_at_utc": "2026-09-20T06:21:10.876981+00:00",
+    "status": "historical_T01_already_published_PR37",
+    "scope": "no commit/push/merge/publication",
+    "worktree": "/data/hermes/workspaces/zl-tea-haze",
+    "branch": "feat/tea-haze-diagnosis",
+    "base_sha": "9f30bb453bb6e6e5ea205a1a08c576e211295ece",
+    "updated_at_utc": "2026-09-20T06:39:43.159383+00:00",
+    "handoff": "/data/hermes/research/seo-growth/tea-haze-release/handoff.md",
+    "do_not_edit": "Historical frozen T01; already released. Current work ownership is recorded per candidate."
+  },
+  "publication": {
+    "scope": "derived from cards; includes existing-page enhancements, not article count",
+    "published_card_count": 20,
+    "review": "per-candidate exact review/release records are authoritative"
+  },
+  "channels_file": "/data/hermes/research/seo-growth/2026-09-20-discovery/channel-status.json",
+  "evidence_root": "/data/hermes/research/seo-growth/2026-09-20-discovery"
+}

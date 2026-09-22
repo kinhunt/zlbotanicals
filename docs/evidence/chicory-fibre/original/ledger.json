@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.beneo.com/human-nutrition/human-nutrition-products/functional-fibres/inulin",
+      "title": "beneo-inulin",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "Inulin powder for high dispersibility (instant), average DP ≥ 10",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "Product Name Orafti ® HP Inulin Content ~100% Sweetness level 0% Descriptor High performance Inulin powder for fat replacement at low processing temperatures, average DP ≥ 23 Product Name Orafti ® HPX Inulin Content ~100% Sweetness level 0% Descriptor High performance Inulin powder for fat replacement at high processing temperatures, average DP ≥ 23",
+          "added": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.beneo.com/human-nutrition/human-nutrition-products/functional-fibres/oligofructose",
+      "title": "beneo-oligofructose",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "Oligofructose is an inulin-type fructan and is derived from Inulin through partial enzymatic hydrolysis.",
+          "added": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/questions-and-answers-dietary-fiber",
+      "title": "fda-fiber",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "Until FDA completes rulemaking regarding adding additional fibers to the regulatory definition of dietary fiber, the agency intends to exercise enforcement discretion to allow manufacturers to include the amount of these additional fibers in the dietary fiber declaration on the Nutrition and Supplement Facts labels.",
+          "added": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25466090",
+      "title": "fos-primary",
+      "accessed": "2026-09-22"
+    },
+    {
+      "id": 5,
+      "url": "https://nutrition.basf.com/global/en/human-nutrition/portfolio/carotenoids/lucarotin-beta-carotene",
+      "title": "basf-beta",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "BASF offers a broad portfolio of beta-carotene products including oily dispersions and powders suitable for multiple applications.",
+          "added": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://www.nccih.nih.gov/health/licorice-root",
+      "title": "nccih-licorice",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "Oral licorice products that do not contain glycyrrhizin (deglycyrrhizinated licorice) might be safe for up to 4 months.",
+          "added": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://www.cosucra.com/our-ingredients/fibruline",
+      "title": "cosucra",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "~99.5% inulin on dry matter, 94.5% dietary fibre (1) as such",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "FIBRULOSE™ LCF CHICORY ROOT FIBRE – LIQUID ~90% oligofructose on dry matter, 65.5% dietary fibre (1) as such",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "FIBRULINE™ XL CHICORY ROOT FIBRE – POWDER ~99.5% inulin on dry matter, 94.5% dietary fibre (1) as such",
+          "added": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://doi.org/10.1016/j.foodhyd.2018.06.049",
+      "title": "gel-primary",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "All samples had been prepared as inulin/water suspensions, containing 20% (w/w) inulin dry matter.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "One can observe the hardness of the inulin gels decrease with increasing sample preparation temperature.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "The application of a higher shear rate (7000 rpm) during sample preparation, results in increased hardness values, whereas the hardness trends for low and high shear rates remain identical throughout the whole temperature range.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "At the current state, it needs to be stressed, that this model is not proven in all details.",
+          "added": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25466090%20AND%20SRC:MED&format=json&resultType=core",
+      "title": "fos-europepmc",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "The results showed that, in addition to temperature and pH, the DP and food matrix, including the type of pasteurisation, must be considered when processing foods enriched with sc-FOS.",
+          "added": "2026-09-22"
+        }
+      ]
+    }
+  ]
+}

@@ -15,9 +15,9 @@ const expected = {
 test('every existing bilingual article has one honest guide category and industry metadata without changing legacy metadata', () => {
   for (const lang of ['en', 'zh']) {
     const files = readdirSync(new URL(`src/content/blog/${lang}/`, root));
-    assert.equal(files.length, 18);
+    assert.equal(files.length, 19);
     const populated = new Set();
-    for (const file of files.filter(file=>!['vanilla-authentication.md','vanilla-material-choice.md','cranberry-pac-purchasing.md','hesperidin-material-choice.md','hibiscus-color-endpoints.md','saffron-identity.md','elderberry-material-selection.md','paprika-extract-format-selection.md','uk-sdil-milk-tea-2028.md','ginseng-heat-bitterness.md','tea-haze-diagnosis.md','stevia-temporal-sensory.md','centella-cold-process-stability.md'].includes(file))) {
+    for (const file of files.filter(file=>!['chicory-fibre-selection.md','vanilla-authentication.md','vanilla-material-choice.md','cranberry-pac-purchasing.md','hesperidin-material-choice.md','hibiscus-color-endpoints.md','saffron-identity.md','elderberry-material-selection.md','paprika-extract-format-selection.md','uk-sdil-milk-tea-2028.md','ginseng-heat-bitterness.md','tea-haze-diagnosis.md','stevia-temporal-sensory.md','centella-cold-process-stability.md'].includes(file))) {
       const frontmatter = read(`src/content/blog/${lang}/${file}`).split('---')[1];
       const category = frontmatter.match(/^guideCategory: ["']?([\w-]+)/m)?.[1];
       assert.equal(category, expected[file.replace('.md', '')], file);
