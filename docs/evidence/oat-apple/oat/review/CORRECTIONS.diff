@@ -1,0 +1,65 @@
+--- author/draft.en.md
++++ review/draft.en.md
+@@ -1,19 +1,19 @@
+ # Oat beta-glucan for drinks: do not buy molecular weight in isolation
+ 
+-A high-molecular-weight oat beta-glucan is not automatically the thickest ingredient in a drink. In one published comparison, the commercial oat material with the higher reported molecular weight had the lower initial assay viscosity. The products contained other oat components, and the measured viscosity changed after laboratory digestion. That is a useful warning for buyers: a molecular-weight number describes the polymer, not everything that happens when the supplied powder meets water. [Wolever et al., 2020, Table 1 and methods](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)
++A higher reported molecular weight is not enough to predict which oat beta-glucan ingredient will make a drink thicker. In one published comparison, the commercial oat material with the higher reported molecular weight had the lower initial assay viscosity. The products contained other oat components, and the measured viscosity changed after laboratory digestion. That is a useful warning for buyers: a molecular-weight number describes the polymer, not everything that happens when the supplied powder meets water. [Wolever et al., 2020, Table 1 and methods](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)
+ 
+ For a drink project, the purchasing decision is therefore not simply “high or low molecular weight.” It is whether to introduce a bran-rich material, a more soluble oat concentrate, or a material whose beta-glucan has deliberately been shortened—and whether that choice still makes sense after the intended process. Ingredient identity, beta-glucan content and the behaviour of the prepared drink need separate answers.
+ 
+-## The commercial-material comparison that defeats a simple ranking
++## A historical assay comparison—not a current ingredient ranking
+ 
+-Wolever and colleagues studied two commercial sources, identified at the time as OatWell (OP1) and PromOat (OP2), alongside four experimentally modified materials. Each human-study preload supplied 4 g of oat beta-glucan in 200 mL water. This required 13.7 g of OP1 or 11.90 g of OP2; equal beta-glucan amounts did not mean equal powder amounts or equal accompanying nutrients. [Full paper, Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)
++Wolever and colleagues studied two commercial sources, identified at the time as OatWell (OP1) and PromOat (OP2), alongside four experimentally modified materials. Each beta-glucan preload in the human study supplied 4 g of oat beta-glucan added to 200 mL water; the control was water alone. This required 13.7 g of OP1 or 11.90 g of OP2; equal beta-glucan amounts did not mean equal powder amounts or equal accompanying nutrients. [Full paper, Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)
+ 
+ | Historical study material | Reported beta-glucan molecular weight, kDa | Initial assay viscosity, cP | Post-digestion assay viscosity, cP |
+ |---|---:|---:|---:|
+ | OP1: OatWell | 1,980 ± 265 | 25 ± 1 | 112 ± 9 |
+ | OP2: PromOat | 841 ± 110 | 117 ± 7 | 143 ± 7 |
+ 
+-Values are the paper’s means ± standard deviations from quadruplicate measurements—not current supplier specifications. The molecular-weight method used chromatographic separation with calcofluor detection. “Post-digestion” means an **in-vitro assay with amylase and protease**, not viscosity measured inside participants. [Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/); [supplementary methods](https://mdpi-res.com/d_attachment/nutrients/nutrients-12-02275/article_deploy/nutrients-12-02275-s001.pdf)
++Values are the paper’s means ± standard deviations from quadruplicate measurements—not current supplier specifications. The molecular-weight method used chromatographic separation with calcofluor detection. The supplement reports initial viscosity after 5 minutes at 37°C and 160 rpm in a Rapid Visco Analyser, followed by 120 minutes under those conditions with the enzymes. These are assay conditions, not a beverage-processing recommendation. “Post-digestion” means an **in-vitro assay with amylase and protease**, not viscosity measured inside participants. [Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/); [supplementary methods](https://mdpi-res.com/d_attachment/nutrients/nutrients-12-02275/article_deploy/nutrients-12-02275-s001.pdf)
+ 
+ There is an important reporting limitation. The supplement describes the viscosity slurry as 0.5 g of sample in 25 mL buffer and calls its solid-to-liquid ratio the same as the human-study preparation. That does not match the total ingredient masses in Table 1 if “sample” means the whole commercial powder. The publication does not resolve this wording. Use the values as the authors’ **reported assay comparison**, not as a reconstruction of the viscosity of the drinks participants swallowed. The table is a reason to request matched-method data, not a purchasing specification or a brand league table. [Supplementary methods](https://mdpi-res.com/d_attachment/nutrients/nutrients-12-02275/article_deploy/nutrients-12-02275-s001.pdf)
+ 
+--- author/draft.zh.md
++++ review/draft.zh.md
+@@ -1,19 +1,19 @@
+ # 饮料用燕麦β-葡聚糖：不要只按分子量选原料
+ 
+-分子量较高的燕麦β-葡聚糖原料，不一定在饮料中表现得更稠。一项公开研究比较了两种商业燕麦原料：报告分子量较高的一种，初始检测黏度反而更低；经过体外消化处理后，黏度又发生了变化。这里比较的不是只有β-葡聚糖的纯溶液，而是含有其他燕麦组分的原料。对采购来说，关键在于：分子量描述的是聚合物，不能包办整包粉末遇水后的表现。[Wolever等，2020，表1与方法部分](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)
++仅凭报告的分子量高低，无法预测哪一种燕麦β-葡聚糖原料会让饮料更稠。一项公开研究比较了两种商业燕麦原料：报告分子量较高的一种，初始检测黏度反而更低；经过体外消化处理后，黏度又发生了变化。这里比较的不是只有β-葡聚糖的纯溶液，而是含有其他燕麦组分的原料。对采购来说，关键在于：分子量描述的是聚合物，不能概括整包粉末遇水后的表现。[Wolever等，2020，表1与方法部分](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)
+ 
+ 因此，饮料项目首先要决定的，并非笼统的“高分子量还是低分子量”，而是采用麸皮成分较多的原料、可溶性燕麦浓缩原料，还是经过定向降解的β-葡聚糖原料，并判断它在实际工艺之后是否仍符合产品目标。原料是什么、含多少β-葡聚糖、制成饮料后有什么表现，需要分别回答。
+ 
+ ## 一组商业原料数据，为什么不能排成简单的高低榜
+ 
+-Wolever等人的研究使用了两种商业原料，论文当时将其标为OatWell（OP1）和PromOat（OP2），另有四种实验改性材料。人体试验中，每份餐前饮用样品均以200 mL水搭配4 g燕麦β-葡聚糖，但对应的原料用量分别是OP1 13.7 g、OP2 11.90 g。β-葡聚糖等量，并不意味着粉末等量，更不意味着其他营养组分相同。[论文表1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)
++Wolever等人的研究使用了两种商业原料，论文当时将其标为OatWell（OP1）和PromOat（OP2），另有四种实验改性材料。人体试验中，每份含β-葡聚糖的餐前样品均将提供4 g燕麦β-葡聚糖的原料加入200 mL水中，对照则为水，但对应的原料用量分别是OP1 13.7 g、OP2 11.90 g。β-葡聚糖等量，并不意味着粉末等量，更不意味着其他营养组分相同。[论文表1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)
+ 
+ | 论文中的历史试验材料 | 报告的β-葡聚糖分子量，kDa | 初始检测黏度，cP | 体外消化处理后检测黏度，cP |
+ |---|---:|---:|---:|
+ | OP1：OatWell | 1,980 ± 265 | 25 ± 1 | 112 ± 9 |
+ | OP2：PromOat | 841 ± 110 | 117 ± 7 | 143 ± 7 |
+ 
+-以上是论文四次平行测定的平均值±标准差，不是这些品牌目前的供货规格。分子量分析采用色谱分离和荧光增白剂calcofluor检测。表中的“消化后”指加入淀粉酶和蛋白酶的**体外检测**，并非直接测量受试者体内的黏度。[表1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)；[补充方法](https://mdpi-res.com/d_attachment/nutrients/nutrients-12-02275/article_deploy/nutrients-12-02275-s001.pdf)
++以上是论文四次平行测定的平均值±标准差，不是这些品牌目前的供货规格。分子量分析采用色谱分离与calcofluor荧光检测。补充方法注明，在快速黏度分析仪中以37°C、160 rpm搅拌5分钟后记录初始黏度，加入酶后在相同温度和转速下再处理120分钟。这些是检测条件，不是饮料生产工艺建议。表中的“消化后”指加入淀粉酶和蛋白酶的**体外检测**，并非直接测量受试者体内的黏度。[表1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)；[补充方法](https://mdpi-res.com/d_attachment/nutrients/nutrients-12-02275/article_deploy/nutrients-12-02275-s001.pdf)
+ 
+ 这组数据还有一处不能略去的方法描述问题。补充文件写的是将0.5 g样品加入25 mL缓冲液，并称固液比与人体试验一致。如果“样品”指整份商业粉末，这一比例就与表1的人体试验原料用量不符，原文没有澄清。因此，这里只能将其作为**作者报告的检测比较**，不能据此还原受试者喝下的饮料黏度，更不能直接用作采购限值或品牌排名。[补充方法](https://mdpi-res.com/d_attachment/nutrients/nutrients-12-02275/article_deploy/nutrients-12-02275-s001.pdf)
+ 
+@@ -31,11 +31,11 @@
+ 
+ 将可溶性浓缩原料与燕麦粉、麸皮型基底比较时，尤其要分清聚合物与整份原料。
+ 
+-Grundy等人研究了燕麦片、由同批燕麦片磨成的粉，以及一种富含β-葡聚糖的麸皮材料BG32。研究比较未经该水热处理与经过水热处理的样品，在37°C缓冲液中孵育，测定β-葡聚糖释放量、分子量及分离所得上清液的流变表现。这是一项实验室材料研究，不是成品饮料货架期试验。[Grundy等，2017，全文](https://pmc.ncbi.nlm.nih.gov/articles/PMC5388193/)
++Grundy等人研究了燕麦片、由同批燕麦片磨成的粉，以及一种富含β-葡聚糖的麸皮材料BG32。研究比较了本次实验中水热处理前后的样品，在37°C缓冲液中孵育，测定β-葡聚糖释放量、分子量及分离所得上清液的流变表现。这是一项实验室材料研究，不是成品饮料货架期试验。[Grundy等，2017，全文](https://pmc.ncbi.nlm.nih.gov/articles/PMC5388193/)
+ 
+ 在该实验中，蒸煮处理使燕麦粉和燕麦片释放出的β-葡聚糖减少，却使其分离所得液相更黏。作者将这种看似矛盾的现象与富淀粉基质和残留颗粒联系起来。后续酶处理帮助区分了不同组分的贡献：淀粉酶对蒸煮后燕麦粉、燕麦片样品黏度的影响最大；能够降解β-葡聚糖的地衣多糖酶则使BG32样品黏度大幅下降。[结果3.2—3.4节](https://pmc.ncbi.nlm.nih.gov/articles/PMC5388193/)
+ 
+-采购启示不是“不要加热”，而是：**燕麦基底的稠度，不能替代已溶出且保持完整的β-葡聚糖检测。** 燕麦粉型原料与可溶性浓缩原料可能因为不同组分而获得相近的表观稠度。如果产品任务是补充β-葡聚糖，而不只是增加厚度，选出更稠的烧杯样品，并不等于选对了原料。
++采购启示不是“不要加热”，而是：**燕麦基底的稠度，不能替代已溶出且保持完整的β-葡聚糖检测。** 燕麦粉型原料与可溶性浓缩原料可能因为不同组分而获得相近的表观稠度。如果产品任务是补充β-葡聚糖，而不只是增加稠度，选出更稠的烧杯样品，并不等于选对了原料。
+ 
+ 同一研究还观察到，部分燕麦粉和燕麦片样品经过很长时间孵育后，β-葡聚糖分子量下降，作者讨论了残留β-葡聚糖酶活性的影响；经过相关酶失活处理的BG32则表现不同。该结果不能预测某条生产线暂存期间会损失多少，但说明原料的酶处理与失活历史值得问清，而不是无关紧要的背景信息。[结果3.3节](https://pmc.ncbi.nlm.nih.gov/articles/PMC5388193/)
+ 

@@ -1,0 +1,96 @@
+[
+  {
+    "id": "P1",
+    "reader_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/",
+    "type": "2020 original randomized crossover study; publisher XML full text and original PDF",
+    "archives": [
+      {
+        "path": "/data/hermes/research/seo-growth/2026-09-23-late-discovery/oat/sources/P1.raw",
+        "sha256": "0ee24988b69f5358e220606823bd48244691bdf36d6cb393e84b03464df5333b"
+      },
+      {
+        "path": "/data/hermes/research/seo-growth/2026-09-23-late-discovery/oat/sources/P1.txt",
+        "sha256": "a0f0c4b7e4989948ae3d60ec96e9b975138d4dfc1e837cf9f73bda80c33eb669"
+      },
+      {
+        "path": "/data/hermes/research/seo-growth/2026-09-23-late-discovery/oat/sources/P1pdf.pdf",
+        "sha256": "e22294414c6f3dd65842dedc128df0f454eb10b776eb28845453f5a38b0db504"
+      }
+    ]
+  },
+  {
+    "id": "P2",
+    "reader_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5388193/",
+    "type": "2017 original processing experiment; full publisher-deposited XML",
+    "archives": [
+      {
+        "path": "/data/hermes/research/seo-growth/2026-09-23-late-discovery/oat/sources/P2.raw",
+        "sha256": "007202cd31a6209aaabb880987854dde2ade1350ecd96d27462a3010b41aab1e"
+      },
+      {
+        "path": "/data/hermes/research/seo-growth/2026-09-23-late-discovery/oat/sources/P2.txt",
+        "sha256": "60ac2cb192dbe3b8d78154f8da74555fdf0fd75d4c6ffee202371f60cc489cc1"
+      }
+    ]
+  },
+  {
+    "id": "P1supp",
+    "reader_url": "https://mdpi-res.com/d_attachment/nutrients/nutrients-12-02275/article_deploy/nutrients-12-02275-s001.pdf",
+    "type": "full original supplementary methods PDF",
+    "archives": [
+      {
+        "path": "/data/hermes/research/seo-growth/2026-09-23-late-discovery/oat/sources/P1-supp.pdf",
+        "sha256": "debb0da3cd50a5017333501a70d2255aae31b9f4e9b40691ea9b572e607d09a6"
+      },
+      {
+        "path": "/data/hermes/research/seo-growth/2026-09-23-late-discovery/oat/sources/P1-supp.txt",
+        "sha256": "4836272bf77cc29433d2b4a0bfe4d739b48e5471eb3e4b7c047980d371a12388"
+      }
+    ]
+  },
+  {
+    "id": "S1",
+    "reader_url": "https://www.lantmannenbiorefineries.com/food-ingredients/products/oat-beta-glucan/promoat/",
+    "type": "official manufacturer documentation, attributed claims only",
+    "archives": [
+      {
+        "path": "/data/hermes/research/seo-growth/2026-09-23-late-discovery/oat/sources/S1.raw",
+        "sha256": "ed3b5b09ae4388b320e8d3e1f409b58cf7a53d10c72208440b4eb265c454a737"
+      },
+      {
+        "path": "/data/hermes/research/seo-growth/2026-09-23-late-discovery/oat/sources/S1.txt",
+        "sha256": "4a0a068c7045584e6680d938ee23bf74ec00451e65bc8030c9604731b07ca96c"
+      }
+    ]
+  },
+  {
+    "id": "S2",
+    "reader_url": "https://www.lantmannenbiorefineries.com/food-ingredients/products/oat-beta-glucan/promoat/applications/",
+    "type": "official manufacturer documentation, attributed claims only",
+    "archives": [
+      {
+        "path": "/data/hermes/research/seo-growth/2026-09-23-late-discovery/oat/sources/S2.raw",
+        "sha256": "9a6f362342b23ce7bad967e2b21849265d3ca416c6dc01b17c9feb4f131a9f21"
+      },
+      {
+        "path": "/data/hermes/research/seo-growth/2026-09-23-late-discovery/oat/sources/S2.txt",
+        "sha256": "f2acde246e3cff5d3ea5b2e7d43e6a25cfa93f772d5464c88463734675bcc6ac"
+      }
+    ]
+  },
+  {
+    "id": "S4",
+    "reader_url": "https://www.lantmannenbiorefineries.com/siteassets/5.-food-ingredients/ingredienser/havrefiber/3.-promoat/promoat_product-leaflet_241015.pdf",
+    "type": "official manufacturer documentation, attributed claims only",
+    "archives": [
+      {
+        "path": "/data/hermes/research/seo-growth/2026-09-23-late-discovery/oat/sources/S4.pdf",
+        "sha256": "c909b303bfe0f17fd4e7e1d79174ea365e269ce733978cacb0dfee4c18841123"
+      },
+      {
+        "path": "/data/hermes/research/seo-growth/2026-09-23-late-discovery/oat/sources/S4.txt",
+        "sha256": "779af44a22910a9945a30e2f14f2fe3cc984b6213e55c2a99699ffcee1e5666c"
+      }
+    ]
+  }
+]

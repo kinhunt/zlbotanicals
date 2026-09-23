@@ -1,0 +1,483 @@
+[
+  {
+    "productId": "grape-seed",
+    "group": "c",
+    "pack": "group-c/grape-seed.md",
+    "content": {
+      "zh": [
+        {
+          "id": "processes",
+          "heading": "工艺：水醇选择性、传质和后续纯化共同决定产品",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "0. 材料地图：籽提取物、籽油、皮提取物不是同一个故事"
+            },
+            {
+              "type": "paragraph",
+              "text": "葡萄籽提取物应以籽来源的多酚与原花青素谱为主线，不应混入葡萄籽油的脂质指标、葡萄皮的色素故事或单独白藜芦醇的研究结果。针对临床研究供样的原始质量论文把葡萄籽提取物胶囊、白藜芦醇胶囊与康科德葡萄汁分开表征，并分别建立分析方法，说明同属“葡萄来源”不足以支持化学互换。[34] 采购材料名称应至少注明物种、植物部位、酿酒前后状态、是否先榨油、脱脂方式、提取溶剂以及载体。籽油与多酚提取物是不同分离目标，若先做油再提多酚，应把两条物流分别立项，不把油收率当作原花青素回收率。"
+            },
+            {
+              "type": "paragraph",
+              "text": "原花青素是由黄烷-3-醇单元组成的低聚或高聚混合物，不是一个单一分子；“OPC”还需要声明低聚区间如何定义。[14][52] 2000年的原始方法比较把2–7聚体列为低聚部分，8–24以及更大的聚合物另列，并显示商业样品之间各区间差异很大。[52] 因而“95% OPC”若未注明方法、标准物和聚合度区间，信息量不如一张清晰的单体/低聚/高聚分布图。总多酚、可沉淀单宁与低聚原花青素不应在报价表中作为同一列比较。"
+            },
+            {
+              "type": "paragraph",
+              "text": "**可复核的原始实验。** Thilakarathna与Rupasinghe的2022年研究用商业葡萄籽及籽粉，来源包含Vitis vinifera、V. labrusca及与美洲种相关的杂交商业品种。每次取1.0 g置50 mL管中；第二阶段固定47%乙醇，改变液固比、超声时间与温度，最终条件为10:1（mL/g）、53 min、60°C。[14] 原花青素通过甲基纤维素可沉淀单宁法、以儿茶素当量定量，而非对所有分子逐一称重；这些条件对应克级实验，不是工业提取罐的验证工艺。[14]"
+            },
+            {
+              "type": "paragraph",
+              "text": "该研究先做常温摇动提取的响应面，得到约数日的时间需求，随后加入超声与加热以减少时间和溶剂量；论文报告优化水醇流程测得约25.3 mg儿茶素当量/g鲜重基准，所比较丙酮流程为约9.1 mg/g。[14] 重要的解释是：不同溶剂的比较同时带着该实验的液固比、温度、接触方式与测定法，不能抽象成“乙醇永远优于丙酮”。论文也讨论了其他研究中不同的溶剂排序。[14] 工程团队应把产量分为干浸膏质量、方法定义的原花青素当量、色谱可识别组分及特定聚合度部分四个响应。"
+            },
+            {
+              "type": "paragraph",
+              "text": "**工程建议的连续流程。** 籽料分选与适度干燥 → 根据整籽/破碎籽试验决定粒度 → 水或水醇提取 → 离心/过滤 → 必要时吸附分级和水洗去糖 → 洗脱与溶剂回收 → 浓缩 → 干燥 → 均化与包装。提取液并非天然就高纯，水醇会同时带出非目标物；当产品任务是高多酚低糖粉，必须给去糖和富集单元预留物料衡算，不应由一个高颜色反应值来假定纯化完成。"
+            },
+            {
+              "type": "paragraph",
+              "text": "**关键变量与失效机制。** 工程判断中，液固比增大可以降低溶液侧浓度，但增加蒸发负荷；温度与超声可促进传质，也可能改变组分分布。超细粉碎未必值得：上述研究在第一阶段没有发现籽粉相对整籽具有明显的原花青素得率优势，第二阶段只用了整籽。[14] 因此应先测粗破碎带来的回收增益是否超过过滤困难和设备负担。循环回用乙醇需同时测实际浓度、色度与可溶杂质，不能把“回收率高”视为无限次无损循环。精制柱的上样浓度、流速、床高和分段合并规则应以目标聚合度谱的流穿/洗脱变化决定，避免高聚物在某段富集后被当作低聚规格交付。"
+            },
+            {
+              "type": "paragraph",
+              "text": "**计算建议。** 同时建立原料干物质衡算和标志物衡算：成品总干重应拆成提取物固形物、载体与其他辅料；标志物回收须以同一方法测试进料和各物流。以儿茶素当量得到的质量只能在该测定体系内做相对衡算，不是所有真实原花青素分子的绝对质量。真实经济指标是每公斤可交付目标谱粉末的原料、乙醇、水、热能和清洗成本，而不是每锅总浸膏重量。"
+            }
+          ]
+        },
+        {
+          "id": "equipment",
+          "heading": "设备：先看传质与分离任务，再看放大风险",
+          "blocks": [
+            {
+              "type": "table",
+              "headers": [
+                "候选设备",
+                "适用任务和原理",
+                "应比较的变量/失效",
+                "证据与规模"
+              ],
+              "rows": [
+                [
+                  "常规夹套搅拌提取罐",
+                  "溶解、扩散及固液接触，便于批次调节",
+                  "达平衡较慢；混合、温度、粒度、液固比",
+                  "常规与强化提取对比来自克级研究[14]"
+                ],
+                [
+                  "超声浴 / 流通式超声单元",
+                  "空化扰动和细胞结构破坏促进释放",
+                  "铭牌瓦数不等于样品吸收能量；温升、声场不均、停留时间分布",
+                  "文献是1 g管内样品，工业流通式为工程候选[14]"
+                ],
+                [
+                  "离心机 / 过滤器",
+                  "去籽屑，保护蒸发器及后续柱",
+                  "湿渣夹带、多酚吸附损失、细粉造成堵塞",
+                  "工程建议，需产品与渣双侧分析"
+                ],
+                [
+                  "吸附树脂分级柱",
+                  "通过吸附/洗脱把糖和不同多酚部分分开",
+                  "竞争吸附、聚合度偏移、再生残留",
+                  "候选纯化步骤；不是本文实验已证实的工厂配置"
+                ],
+                [
+                  "真空蒸发及溶剂回收系统",
+                  "从提取液回收乙醇并减少干燥水负荷",
+                  "起泡夹带、氧暴露、溶剂质量漂移",
+                  "工程建议，需冷凝液与浓缩物质量平衡"
+                ],
+                [
+                  "喷雾干燥 / 冻干",
+                  "前者形成工业粉体，后者适合小批结构/配方比较",
+                  "壁面损失与载体稀释；冻干周期及多孔粉吸湿",
+                  "依据目标粉体设计，不能以冻干实验直接承诺商业喷干性能"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "放大时的工程建议是记录输入与吸收能量的区别：把提取前后温升、样品体积、占空比和循环流量与实验结果一起存档。两台同样标注“500 W”的超声设备，不能因数字相同就视为同一工艺。一个有价值的中试比较应让常规搅拌与超声处理具有可比较的温度履历，再看超声是否额外改善回收或节省时间；否则只是把加热效果误计成空化优势。"
+            }
+          ]
+        },
+        {
+          "id": "applications",
+          "heading": "应用：涩感、浑浊、颜色和释放是四个不同问题",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "**饮料与蛋白系统。** 原花青素作为单宁类混合物，在食品中可带来涩味等功能特性，2022研究的背景明确讨论了食品应用。[14] 工程建议将蛋白结合/沉淀列为开发假设：在目标pH与离子强度下比较无蛋白基液、目标乳/植物蛋白液和实际复配体系，测即时及储存浊度、沉淀量、上清多酚与感官涩度。若总量留在瓶底而不是饮用液中，投料量并不等于均匀可消费的剂量。降低用量、调节加入顺序、先制稳定分散体或改变原料聚合度谱，均需用真实配方验证，不能仅凭水中溶解试验选择供应商。"
+            },
+            {
+              "type": "paragraph",
+              "text": "**胶囊与片剂。** 已有原始研究把临床供样的葡萄籽胶囊质量均匀性、化学谱及溶出评价联系起来；其溶出方法描述使用USP装置2、100 rpm、900 mL介质，比较pH 1.2与4.6，追踪没食子酸、儿茶素、原花青素B2和表儿茶素。[34] 这是特定研究的测试设计，并非本文建议每款补充剂都套用同一接受限。它提供一个关键开发逻辑：胶囊总重量一致，不代表多酚谱一致；原粉检测合格，不代表成品释放一致。应在商品剂型中做标志物的提取回收和释放方法适用性试验。"
+            },
+            {
+              "type": "paragraph",
+              "text": "**软糖与化妆品的工程建议。** 软糖应把酸度、加料温度、基胶类型和水活度作为共同变量；感官遮涩不能只靠增加糖，也要看颜色和凝胶结构是否改变。化妆品应比较配方pH、金属离子接触、乳化剂及防腐体系，跟踪色差、异味、离心稳定性和多酚谱；细胞抗氧化数据不能替代乳液储存和包装相容性。关于活性包装，只能在真实膜材上进一步测试机械性能、迁移、抗菌挑战与接触食品条件，本文没有以现有仓库的包装论文代替葡萄籽全应用证据。"
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "标准与方法：把“总量”拆回测定对象",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "原始方法比较指出，常见比色方法只能对大小分布提供粗略信息，正相HPLC则可分辨单体、低聚和更大聚合物区间。[52] 另一原始商业调查用HPLC/UV/MS比较21个产品与真实葡萄籽、花生皮和松树皮提取物，发现9个样品含花生皮掺杂，并开发了快速TLC筛查。[33] 此处9/21属于该研究样本，不是今天整个市场的发生率；它足以证明总多酚或抗氧化能力不能替代来源真实性。"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "方法/指标",
+                "实际测量对象",
+                "对采购的意义",
+                "方法可比性陷阱"
+              ],
+              "rows": [
+                [
+                  "总多酚比色结果",
+                  "方法定义的整体响应",
+                  "可用作同体系批间趋势",
+                  "不等于低聚原花青素纯度，也不鉴别植物来源[33][52]"
+                ],
+                [
+                  "甲基纤维素可沉淀单宁法",
+                  "研究定义的可沉淀单宁，以儿茶素当量表达",
+                  "与2022提取优化直接衔接",
+                  "不能与另一标准物的OPC百分比无换算互换[14]"
+                ],
+                [
+                  "正相HPLC分布",
+                  "按所用方法分出单体、低聚、高聚区间",
+                  "解释不同粉末即使总量相近也可能表现不同",
+                  "“低聚”区间必须声明；峰面积与质量含量要有响应校准[52]"
+                ],
+                [
+                  "反相LC-UV/MS标志物与指纹",
+                  "识别与定量若干具体分子，比较来源谱",
+                  "筛查掺假，连接成品与原料",
+                  "几个标志物的总和不等于全部多聚物；参考谱须真实[33][34]"
+                ],
+                [
+                  "香草醛/DMAC等供方方法",
+                  "需由供方提交完整SOP及标准物定义",
+                  "暂作合同方法待转移项",
+                  "本次未取得足够原始DMAC响应比较数据，不提供通用换算系数"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "**工程建议的QA分层。** 来料层确认籽部位、物种和加工史；化学层用总量方法与指纹/聚合度谱互补；物理层测粉体流动、分散及色泽；成品层测均匀性和释放。常规批放行不一定每次都做完整结构研究，但应先用代表批建立结构—方法—应用关系，变更葡萄来源、脱脂方式、树脂、干燥载体后重新验证。溶剂残留应按实际路线列项目；检出某一目标物不能代替未使用溶剂的证明，未检出也要配定量限。"
+            },
+            {
+              "type": "paragraph",
+              "text": "合同建议把“原花青素”写成“按X方法，以Y标准物、Z干基/商品基准表达，并附指定区间指纹”，而不只写OPC≥某数值。每份实际递送量应以原料商品含量乘投料量再考虑成品回收，不把实验室去糖后的研究部分直接当作含麦芽糊精商品粉。当前药典、行业标准与目的市场法规的完整现行文本未全部取得，因此本文不给未经核验的法定统一规格。"
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "研究类型：从优化实验到真实产品质量",
+          "blocks": [
+            {
+              "type": "table",
+              "headers": [
+                "研究",
+                "材料与规模",
+                "结果",
+                "能用于什么"
+              ],
+              "rows": [
+                [
+                  "2022提取响应面原始实验",
+                  "商业混合品种籽/籽粉，1 g/50 mL管；47%乙醇等特定条件",
+                  "加热超声降低时间与溶剂需求，回收单体至聚合物",
+                  "工艺筛选起点，不是吨级性能承诺[14]"
+                ],
+                [
+                  "同研究生物实验",
+                  "糖去除后的研究提取部分；AML12小鼠肝细胞、棕榈酸模型",
+                  "降低细胞ROS与脂质积累",
+                  "机制与候选研究，不是人体减脂或脂肪肝治疗证据[14]"
+                ],
+                [
+                  "2000原始方法比较",
+                  "葡萄籽提取物及相关产品；摘要未给总样本数",
+                  "比色与HPLC提供不同信息，聚合度谱显著变化",
+                  "建立可比规格与分级思想[52]"
+                ],
+                [
+                  "2015商业真实性调查",
+                  "21商业产品，真实籽/花生皮/松树皮对照",
+                  "9样品含花生皮掺杂",
+                  "指纹和正交筛查的必要性[33]"
+                ],
+                [
+                  "2021临床供样质量研究",
+                  "葡萄籽胶囊、白藜芦醇胶囊、葡萄汁分别测试",
+                  "质量均匀性、化学谱及稳定性评价框架",
+                  "研究供样的CMC控制，不是该论文证明临床有效[34]"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "下一轮建议用两种原料来源、整籽/粗破碎两种状态与常规/超声两种接触方式做可管理的筛选矩阵，温度履历匹配；对最优两路线做全物流回收与聚合度谱比较，再进入蛋白饮料和胶囊两个实际应用。品牌内容可以由此解释“为什么相同总多酚的两款粉表现不同”，而不是把化学自由基清除的排名包装成临床效果排名。"
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "id": "processes",
+          "heading": "Process: solvent selectivity, mass transfer and refining all matter",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "0. Material map: seed extract is not seed oil or skin extract"
+            },
+            {
+              "type": "paragraph",
+              "text": "A grape-seed dossier should follow seed-derived polyphenols and proanthocyanidin profiles, not mix in seed-oil lipid specifications, skin pigment narratives or evidence for isolated resveratrol. An original clinical-supply quality study characterized grape-seed-extract capsules, resveratrol capsules and Concord grape juice separately, developing different analytical procedures.[34] A purchasing identity should specify species, part, fermentation history, whether oil was removed, defatting method, solvent and carrier. Oil and polyphenol recovery are distinct separation objectives and require separate mass balances."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proanthocyanidins are heterogeneous oligomers/polymers of flavan-3-ol units rather than one molecule; “OPC” needs a declared oligomer-size definition.[14][52] A 2000 original comparison classified 2–7-unit material as oligomeric and larger groups separately, showing wide variation among commercial materials.[52] “95% OPC” without method, standard and size range is less informative than a clearly calibrated monomer/oligomer/polymer profile. Total polyphenols, precipitable tannins and oligomeric proanthocyanidins should not occupy an interchangeable quotation column."
+            },
+            {
+              "type": "paragraph",
+              "text": "**A reproducible laboratory example.** Thilakarathna and Rupasinghe used commercial seeds/seed powder derived from a mixture including Vitis vinifera, V. labrusca and hybrids involving native American species. Each extraction used 1.0 g in a 50 mL tube. Their second optimization fixed ethanol at 47% and varied liquid-to-solid ratio, ultrasound duration and temperature; the final settings were 10 mL/g, 53 minutes and 60°C.[14] Yield was measured using a methylcellulose-precipitable tannin assay expressed as catechin equivalents, not by weighing every individual PAC molecule. This is a gram-scale experiment, not a validated industrial-vessel process.[14]"
+            },
+            {
+              "type": "paragraph",
+              "text": "The first response-surface exercise used ambient shaking and implied extraction over several days. Ultrasound and heating were then introduced to reduce time and solvent demand. The paper reports approximately 25.3 mg catechin equivalents/g fresh-weight basis for the optimized aqueous-ethanol route versus approximately 9.1 mg/g for its acetone comparison.[14] Solvent rankings therefore carry the study's temperature, ratio, contact conditions and assay. The authors discuss contrary rankings in other studies; the result is not proof that ethanol always outperforms acetone.[14] Separate four development responses: dry extract mass, method-defined PAC equivalents, identified chromatographic compounds and the targeted size fraction."
+            },
+            {
+              "type": "paragraph",
+              "text": "**Proposed engineering sequence.** Sort and condition seeds → determine particle size from intact/coarsely broken comparisons → extract in water or aqueous ethanol → centrifuge/filter → where required, adsorptive fractionation and sugar-removing wash → elute and recover solvent → concentrate → dry → homogenize and package. Crude extract is not automatically highly purified. A high-polyphenol/low-sugar target requires an explicit sugar-removal and enrichment balance; a strong color reaction does not establish purification."
+            },
+            {
+              "type": "paragraph",
+              "text": "Increasing liquid-to-solid ratio can reduce solution-side concentration but increases downstream evaporation duty. Heat and ultrasound can improve release while changing the recovered distribution. Finer milling is not automatically beneficial: the 2022 study found no large PAC-yield advantage for powder in its first stage and used intact seeds in its second stage.[14] Test whether coarse breakage provides enough recovery improvement to offset clarification costs. Recycled ethanol needs concentration, color and impurity tracking. Adsorption feed strength, flow, bed height and pooling should be selected using breakthrough/elution profiles of the desired size groups, rather than delivering a polymer-enriched fraction under an oligomer specification."
+            },
+            {
+              "type": "paragraph",
+              "text": "Mass-balance proposals should distinguish extract solids, carrier and other excipients. PAC equivalents support comparisons within the same assay but are not the absolute mass of all PAC molecules. The economic output is feedstock, ethanol, water, heat and cleaning per kilogram of deliverable target-profile powder, not kilograms of total crude solids per vessel."
+            }
+          ]
+        },
+        {
+          "id": "equipment",
+          "heading": "Equipment and scale-up",
+          "blocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Candidate",
+                "Function",
+                "Variables and failure modes",
+                "Scale/evidence"
+              ],
+              "rows": [
+                [
+                  "Jacketed stirred vessel",
+                  "Dissolution, diffusion and solid/liquid contact",
+                  "Slow approach to equilibrium; mixing, temperature, size, liquid ratio",
+                  "Conventional/intensified comparison is laboratory scale[14]"
+                ],
+                [
+                  "Ultrasound bath / flow-through ultrasound",
+                  "Cavitation-assisted release",
+                  "Nameplate power is not absorbed energy; heating, nonuniform field, residence distribution",
+                  "Study used 1 g in tubes; flow-through equipment is a proposed candidate[14]"
+                ],
+                [
+                  "Centrifuge / filter",
+                  "Remove seed fragments and protect downstream equipment",
+                  "Wet-cake loss, solute adsorption, fines plugging",
+                  "Engineering proposal requiring liquid and cake assays"
+                ],
+                [
+                  "Adsorption columns",
+                  "Separate sugars and polyphenol fractions by adsorption/elution",
+                  "Competitive loading, altered size distribution, regeneration residues",
+                  "Candidate refining step, not a demonstrated factory configuration here"
+                ],
+                [
+                  "Vacuum evaporation/recovery",
+                  "Recover ethanol and reduce dryer load",
+                  "Foaming, entrainment, oxygen contact, solvent-quality drift",
+                  "Proposed balance includes condensate and concentrate"
+                ],
+                [
+                  "Spray drying / freeze drying",
+                  "Scalable powder production versus small-batch comparative preparation",
+                  "Wall losses/carrier dilution versus cycle cost/moisture uptake",
+                  "Laboratory freeze-drying performance cannot establish commercial spray-drying performance"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "For ultrasound scale-up, archive sample volume, temperature rise, duty cycle and circulation flow alongside electrical settings. Two systems marked “500 W” are not equivalent processes. Match thermal histories between stirred and ultrasonic tests to distinguish a genuine ultrasound contribution from additional heating. This is a proposed scale-up method rather than a reported factory result."
+            }
+          ]
+        },
+        {
+          "id": "applications",
+          "heading": "Applications: astringency, haze, color and release are separate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "**Beverages/protein systems.** The 2022 paper discusses PACs as tannin-type food ingredients with properties including astringency.[14] Treat protein binding/precipitation as a development hypothesis: compare protein-free base, target dairy/plant protein and the final formulation at intended pH and ionic strength. Measure immediate/stored turbidity, sediment, supernatant polyphenols and sensory astringency. Material at the bottom of the bottle does not provide a uniform consumed dose. Lower loading, altered addition sequence, a stabilized dispersion or a different size profile are options to test, not automatic remedies established by a water-solubility demonstration."
+            },
+            {
+              "type": "paragraph",
+              "text": "**Capsules/tablets.** An original clinical-supply study connected capsule uniformity, composition and dissolution. Its described dissolution design used USP apparatus 2, 100 rpm, 900 mL medium and pH 1.2 versus 4.6, following gallic acid, catechin, procyanidin B2 and epicatechin.[34] These are study-specific conditions, not universal supplement acceptance criteria. The useful logic is that equal capsule mass does not establish equal polyphenol profiles, and acceptable raw powder does not establish finished-product release. Validate marker extraction and release in the marketed dosage form."
+            },
+            {
+              "type": "paragraph",
+              "text": "**Gummies/cosmetics—engineering proposals.** In gummies, jointly evaluate acidity, addition temperature, gel system and water activity. More sugar is not the sole route to reducing perceived astringency, and may change texture/color. For cosmetics, screen pH, metal contact, emulsifier and preservative systems with color, odor, centrifuge stability and chromatographic measurements. Cellular antioxidant activity cannot replace emulsion storage or package-compatibility tests. Active-packaging development additionally requires actual film mechanical properties, migration, challenge testing and food-contact conditions; the repository's existing packaging theme is not used as evidence for every grape-seed application."
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "Standards and assay comparability",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The original method comparison found that colorimetric assays provide only crude size-distribution information, whereas normal-phase HPLC separates monomer, oligomer and larger-polymer regions.[52] A separate HPLC/UV/MS investigation compared 21 commercial products with authenticated grape seed, peanut skin and pine bark extracts, identified peanut-skin adulteration in nine, and developed TLC screening.[33] Nine of 21 describes that sample set, not today's market prevalence. It establishes why total phenolics and antioxidant capacity cannot authenticate botanical source."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Method",
+                "Actual output",
+                "Procurement value",
+                "Comparability limitation"
+              ],
+              "rows": [
+                [
+                  "Total-polyphenol colorimetry",
+                  "Overall method-defined response",
+                  "Same-method batch trends",
+                  "Not oligomer purity or botanical identity[33][52]"
+                ],
+                [
+                  "Methylcellulose precipitation",
+                  "Precipitable tannins in catechin equivalents",
+                  "Directly matches the 2022 extraction optimization",
+                  "Not interchangeable with OPC percentages using other standards[14]"
+                ],
+                [
+                  "Normal-phase HPLC",
+                  "Method-defined size fractions",
+                  "Explains differing performance at similar total content",
+                  "Declare oligomer range and response calibration[52]"
+                ],
+                [
+                  "Reverse-phase LC-UV/MS fingerprints",
+                  "Selected molecules and source profiles",
+                  "Authenticity and raw-to-finished-product linkage",
+                  "A few markers do not represent all polymer mass; authenticated references are necessary[33][34]"
+                ],
+                [
+                  "Supplier vanillin/DMAC assays",
+                  "Requires full SOP/reference definition",
+                  "A contractual method-transfer task",
+                  "Adequate original DMAC response-comparison data were not retrieved; no universal conversion is proposed"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "A proposed QA hierarchy combines incoming botanical/process identity, complementary total-content and fingerprint/size methods, physical powder performance, and finished-product uniformity/release. Full structural research need not occur on every release lot, but representative lots should first connect structure, assay and application. Reassess after changes to source, defatting, resin or carrier. Residual-solvent panels should follow the real process, and non-detects require a quantification limit."
+            },
+            {
+              "type": "paragraph",
+              "text": "A usable specification reads “PAC by method X, against standard Y, on basis Z, with the defined profile attached,” rather than merely OPC above a number. Delivered content uses the marketed powder's assay and formulation recovery, not the researcher's sugar-free fraction. Complete current pharmacopoeial/industry texts and destination-market legal requirements were not all obtained; no unverified universal legal specification is asserted."
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "Research map and next experiments",
+          "blocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Research",
+                "Material/scale",
+                "Finding and use"
+              ],
+              "rows": [
+                [
+                  "2022 extraction optimization",
+                  "Mixed commercial seeds/powder; 1 g in 50 mL tubes",
+                  "Heated ultrasound reduced time/solvent needs under specified conditions; process-screening starting point[14]"
+                ],
+                [
+                  "Biological work within that paper",
+                  "Sugar-free research fraction; palmitate-treated AML12 mouse hepatocytes",
+                  "Reduced ROS/lipid accumulation; mechanistic cell evidence, not human weight-loss or fatty-liver treatment evidence[14]"
+                ],
+                [
+                  "2000 analytical comparison",
+                  "Grape-seed extracts/products; retrieved abstract lacks total sample count",
+                  "Colorimetry and HPLC answer different questions; useful for specification design[52]"
+                ],
+                [
+                  "2015 commercial authentication",
+                  "21 products and authenticated seed/peanut-skin/pine-bark comparators",
+                  "Nine contained peanut-skin adulteration; supports orthogonal identity controls[33]"
+                ],
+                [
+                  "2021 clinical-supply CMC study",
+                  "Separate seed capsules, resveratrol capsules and grape juice",
+                  "Uniformity/profiles/stability framework, not a clinical-efficacy result[34]"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "A manageable next matrix combines two feedstocks, intact/coarsely broken states and conventional/ultrasound contact with matched thermal histories. Advance two routes to full-stream recovery and size-profile comparisons, then to protein-beverage and capsule testing. The resulting educational content can explain why equal total-polyphenol powders behave differently, instead of presenting chemical radical-scavenging rankings as clinical rankings."
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 14,
+        "title": "Optimization of the Extraction of Proanthocyanidins from Grape Seeds Using Ultrasonication-Assisted Aqueous Ethanol and Evaluation of Anti-Steatosis Activity In Vitro - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8877132",
+        "accessed": "2026-09-09",
+        "scope": "full text recovered through Europe PMC XML"
+      },
+      {
+        "id": 33,
+        "title": "Chemical investigation of commercial grape seed derived products to assess quality and detect adulteration",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25306345",
+        "accessed": "2026-09-09",
+        "scope": "abstract"
+      },
+      {
+        "id": 34,
+        "title": "Chemical, Manufacturing, and Standardization Controls of Grape Polyphenol Dietary Supplements in Support of a Clinical Study: Mass Uniformity, Polyphenol Dosage, and Profiles",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8716858",
+        "accessed": "2026-09-09",
+        "scope": "full text recovered through Europe PMC XML"
+      },
+      {
+        "id": 52,
+        "title": "A Comparison of Methods For Quantifying Oligomeric Proanthocyanidins From Grape Seed Extracts | American Journal of Enology and Viticulture",
+        "url": "https://www.ajevonline.org/content/51/4/383",
+        "accessed": "2026-09-09",
+        "scope": "abstract"
+      }
+    ]
+  }
+]

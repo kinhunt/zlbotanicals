@@ -1,0 +1,582 @@
+{
+  "commit": "d387c94c9b7e802e72ca13c97ffd5716b155e4b6",
+  "src_files": [
+    "src/articles/functional-mushrooms.en.md",
+    "src/articles/functional-mushrooms.zh.md",
+    "src/components/ApplicationTasks.astro",
+    "src/components/BuyerTools.astro",
+    "src/components/CatalogTasks.astro",
+    "src/components/CentellaAccounting.astro",
+    "src/components/ExtractSales.astro",
+    "src/components/ExtractionVideo.astro",
+    "src/components/FormulaTransfer.astro",
+    "src/components/GeneralIngredientGuides.astro",
+    "src/components/IndustryResources.astro",
+    "src/components/IngredientKnowledge.astro",
+    "src/components/IngredientKnowledgeNav.astro",
+    "src/components/IngredientResources.astro",
+    "src/components/IngredientRollout.astro",
+    "src/components/MarketArticle.astro",
+    "src/components/MarketExhibit.astro",
+    "src/components/MarketProductMatrix.astro",
+    "src/components/MarketV4Exhibit.astro",
+    "src/components/NewsCards.astro",
+    "src/components/OdmPage.astro",
+    "src/components/OdmStart.astro",
+    "src/components/PlantEncyclopedia.astro",
+    "src/components/ProcurementSummary.astro",
+    "src/components/ProductDossier.astro",
+    "src/components/QuillajaSelection.astro",
+    "src/components/QuoteForm.astro",
+    "src/components/RelatedGuides.astro",
+    "src/components/ResearchBlocks.astro",
+    "src/components/ResearchCards.astro",
+    "src/components/ResearchHub.astro",
+    "src/components/ResearchInline.astro",
+    "src/components/RosemarySelection.astro",
+    "src/components/ScienceProfile.astro",
+    "src/components/SteviaSegregation.astro",
+    "src/components/TeaFamilySales.astro",
+    "src/components/TeaRecovery.astro",
+    "src/components/TurmericKnowledge.astro",
+    "src/components/TurmericProcurementIntro.astro",
+    "src/components/common/Button.astro",
+    "src/components/common/LanguageSwitcher.astro",
+    "src/components/common/SectionHeader.astro",
+    "src/components/forms/ContactForm.astro",
+    "src/components/home/AboutPreview.astro",
+    "src/components/home/Applications.astro",
+    "src/components/home/CTASection.astro",
+    "src/components/home/Hero.astro",
+    "src/components/home/LatestBlogs.astro",
+    "src/components/home/ProductCategories.astro",
+    "src/components/home/TrustIndicators.astro",
+    "src/components/home/WhyChooseUs.astro",
+    "src/components/layout/Footer.astro",
+    "src/components/layout/Header.astro",
+    "src/components/layout/MobileMenu.astro",
+    "src/components/layout/Navigation.astro",
+    "src/components/products/ProductCard.astro",
+    "src/components/resources/CategoryPage.astro",
+    "src/components/resources/CentellaStabilityReader.astro",
+    "src/components/resources/GuideList.astro",
+    "src/components/resources/ResourceHub.astro",
+    "src/components/resources/TeaHazeReader.astro",
+    "src/content/blog/en/acacia-fibre-emulsification.md",
+    "src/content/blog/en/astaxanthin-beverage-stability.md",
+    "src/content/blog/en/beet-colour-plant-based-meat.md",
+    "src/content/blog/en/beetroot-product-formats.md",
+    "src/content/blog/en/butterfly-pea-protein-beverages.md",
+    "src/content/blog/en/centella-cold-process-stability.md",
+    "src/content/blog/en/chicory-fibre-selection.md",
+    "src/content/blog/en/citrus-delayed-bitterness.md",
+    "src/content/blog/en/citrus-pectin-gel-selection.md",
+    "src/content/blog/en/cocoa-selection.md",
+    "src/content/blog/en/cranberry-pac-purchasing.md",
+    "src/content/blog/en/elderberry-material-selection.md",
+    "src/content/blog/en/functional-mushroom-market-2026.md",
+    "src/content/blog/en/ginger-selection.md",
+    "src/content/blog/en/ginseng-heat-bitterness.md",
+    "src/content/blog/en/green-tea-energy-beverage-2026.md",
+    "src/content/blog/en/hesperidin-material-choice.md",
+    "src/content/blog/en/hibiscus-color-endpoints.md",
+    "src/content/blog/en/monk-fruit-specification-numbers.md",
+    "src/content/blog/en/olive-leaf-beverage-encapsulation.md",
+    "src/content/blog/en/paprika-extract-format-selection.md",
+    "src/content/blog/en/pomegranate-flavour-selection.md",
+    "src/content/blog/en/reishi-sleep-market-2026.md",
+    "src/content/blog/en/saffron-identity.md",
+    "src/content/blog/en/stevia-temporal-sensory.md",
+    "src/content/blog/en/tea-haze-diagnosis.md",
+    "src/content/blog/en/turmeric-golden-milk-market-2026.md",
+    "src/content/blog/en/uk-sdil-milk-tea-2028.md",
+    "src/content/blog/en/vanilla-authentication.md",
+    "src/content/blog/en/vanilla-material-choice.md",
+    "src/content/blog/en/zero-calorie-sweetener-market-2026.md",
+    "src/content/blog/zh/acacia-fibre-emulsification.md",
+    "src/content/blog/zh/astaxanthin-beverage-stability.md",
+    "src/content/blog/zh/beet-colour-plant-based-meat.md",
+    "src/content/blog/zh/beetroot-product-formats.md",
+    "src/content/blog/zh/butterfly-pea-protein-beverages.md",
+    "src/content/blog/zh/centella-cold-process-stability.md",
+    "src/content/blog/zh/chicory-fibre-selection.md",
+    "src/content/blog/zh/citrus-delayed-bitterness.md",
+    "src/content/blog/zh/citrus-pectin-gel-selection.md",
+    "src/content/blog/zh/cocoa-selection.md",
+    "src/content/blog/zh/cranberry-pac-purchasing.md",
+    "src/content/blog/zh/elderberry-material-selection.md",
+    "src/content/blog/zh/functional-mushroom-market-2026.md",
+    "src/content/blog/zh/ginger-selection.md",
+    "src/content/blog/zh/ginseng-heat-bitterness.md",
+    "src/content/blog/zh/green-tea-energy-beverage-2026.md",
+    "src/content/blog/zh/hesperidin-material-choice.md",
+    "src/content/blog/zh/hibiscus-color-endpoints.md",
+    "src/content/blog/zh/monk-fruit-specification-numbers.md",
+    "src/content/blog/zh/olive-leaf-beverage-encapsulation.md",
+    "src/content/blog/zh/paprika-extract-format-selection.md",
+    "src/content/blog/zh/pomegranate-flavour-selection.md",
+    "src/content/blog/zh/reishi-sleep-market-2026.md",
+    "src/content/blog/zh/saffron-identity.md",
+    "src/content/blog/zh/stevia-temporal-sensory.md",
+    "src/content/blog/zh/tea-haze-diagnosis.md",
+    "src/content/blog/zh/turmeric-golden-milk-market-2026.md",
+    "src/content/blog/zh/uk-sdil-milk-tea-2028.md",
+    "src/content/blog/zh/vanilla-authentication.md",
+    "src/content/blog/zh/vanilla-material-choice.md",
+    "src/content/blog/zh/zero-calorie-sweetener-market-2026.md",
+    "src/content/config.ts",
+    "src/content/products/en/centella-asiatica.md",
+    "src/content/products/en/ginkgo-biloba.md",
+    "src/content/products/en/ginseng.md",
+    "src/content/products/en/goji-berry.md",
+    "src/content/products/en/grape-seed.md",
+    "src/content/products/en/green-tea.md",
+    "src/content/products/en/licorice-root.md",
+    "src/content/products/en/monk-fruit.md",
+    "src/content/products/en/reishi-mushroom.md",
+    "src/content/products/en/resveratrol.md",
+    "src/content/products/en/stevia.md",
+    "src/content/products/en/turmeric.md",
+    "src/content/products/zh/centella-asiatica.md",
+    "src/content/products/zh/ginkgo-biloba.md",
+    "src/content/products/zh/ginseng.md",
+    "src/content/products/zh/goji-berry.md",
+    "src/content/products/zh/grape-seed.md",
+    "src/content/products/zh/green-tea.md",
+    "src/content/products/zh/licorice-root.md",
+    "src/content/products/zh/monk-fruit.md",
+    "src/content/products/zh/reishi-mushroom.md",
+    "src/content/products/zh/resveratrol.md",
+    "src/content/products/zh/stevia.md",
+    "src/content/products/zh/turmeric.md",
+    "src/content/solutions/en/botanical-sweetener-rtd.md",
+    "src/content/solutions/en/deep-sleep-capsule.md",
+    "src/content/solutions/en/green-tea-energy-sparkling.md",
+    "src/content/solutions/en/liver-support-gummy.md",
+    "src/content/solutions/en/reishi-sleep-gummy.md",
+    "src/content/solutions/en/turmeric-golden-latte.md",
+    "src/content/solutions/en/white-peach-sparkling.md",
+    "src/content/solutions/zh/botanical-sweetener-rtd.md",
+    "src/content/solutions/zh/deep-sleep-capsule.md",
+    "src/content/solutions/zh/green-tea-energy-sparkling.md",
+    "src/content/solutions/zh/liver-support-gummy.md",
+    "src/content/solutions/zh/reishi-sleep-gummy.md",
+    "src/content/solutions/zh/turmeric-golden-latte.md",
+    "src/content/solutions/zh/white-peach-sparkling.md",
+    "src/data/buyer-tools.json",
+    "src/data/deep-ingredients.json",
+    "src/data/deep-ingredients.ts",
+    "src/data/extract-sales.ts",
+    "src/data/extraction-timing.json",
+    "src/data/extraction-video.json",
+    "src/data/ingredient-knowledge.json",
+    "src/data/ingredient-knowledge.ts",
+    "src/data/ingredient-overviews.json",
+    "src/data/ingredient-overviews.ts",
+    "src/data/ingredient-reader-packs.json",
+    "src/data/ingredient-reader-packs.ts",
+    "src/data/ingredient-reader.mjs",
+    "src/data/ingredient-sources.json",
+    "src/data/market-article.ts",
+    "src/data/market-exhibits.json",
+    "src/data/market-v4.json",
+    "src/data/news.json",
+    "src/data/odm.json",
+    "src/data/plant-extracts.json",
+    "src/data/product-dossiers.json",
+    "src/data/research-facets.ts",
+    "src/data/research.json",
+    "src/data/resource-guides.ts",
+    "src/data/science-profiles.json",
+    "src/data/science-sources.json",
+    "src/data/site-navigation.ts",
+    "src/data/stevia-segregation/en.md",
+    "src/data/stevia-segregation/zh.md",
+    "src/data/turmeric-formulations.ts",
+    "src/i18n/config.ts",
+    "src/i18n/translations/en.json",
+    "src/i18n/translations/zh.json",
+    "src/i18n/utils.ts",
+    "src/layouts/BaseLayout.astro",
+    "src/layouts/PageLayout.astro",
+    "src/pages/about/certifications.astro",
+    "src/pages/about/facility.astro",
+    "src/pages/about/index.astro",
+    "src/pages/about/story.astro",
+    "src/pages/contact.astro",
+    "src/pages/downloads/[file].ts",
+    "src/pages/index.astro",
+    "src/pages/odm/[...slug].astro",
+    "src/pages/plant-extracts/[...path].astro",
+    "src/pages/privacy.astro",
+    "src/pages/products/[slug].astro",
+    "src/pages/products/botanical-extracts.astro",
+    "src/pages/products/custom-formulation.astro",
+    "src/pages/products/herbal-powders.astro",
+    "src/pages/products/index.astro",
+    "src/pages/products/tea-extracts.astro",
+    "src/pages/quality.astro",
+    "src/pages/request-quote.astro",
+    "src/pages/research.astro",
+    "src/pages/research/market/functional-mushrooms.astro",
+    "src/pages/resources/[category].astro",
+    "src/pages/resources/blog/[slug].astro",
+    "src/pages/resources/blog/index.astro",
+    "src/pages/resources/downloads.astro",
+    "src/pages/resources/faq.astro",
+    "src/pages/resources/index.astro",
+    "src/pages/resources/news.astro",
+    "src/pages/resources/research.astro",
+    "src/pages/solutions/[slug].astro",
+    "src/pages/solutions/beverages.astro",
+    "src/pages/solutions/cosmetics.astro",
+    "src/pages/solutions/food.astro",
+    "src/pages/solutions/index.astro",
+    "src/pages/solutions/nutraceuticals.astro",
+    "src/pages/terms.astro",
+    "src/pages/thank-you.astro",
+    "src/pages/zh/about/certifications.astro",
+    "src/pages/zh/about/facility.astro",
+    "src/pages/zh/about/index.astro",
+    "src/pages/zh/about/story.astro",
+    "src/pages/zh/contact.astro",
+    "src/pages/zh/index.astro",
+    "src/pages/zh/odm/[...slug].astro",
+    "src/pages/zh/plant-extracts/[...path].astro",
+    "src/pages/zh/privacy.astro",
+    "src/pages/zh/products/[slug].astro",
+    "src/pages/zh/products/botanical-extracts.astro",
+    "src/pages/zh/products/custom-formulation.astro",
+    "src/pages/zh/products/herbal-powders.astro",
+    "src/pages/zh/products/index.astro",
+    "src/pages/zh/products/tea-extracts.astro",
+    "src/pages/zh/quality.astro",
+    "src/pages/zh/request-quote.astro",
+    "src/pages/zh/research.astro",
+    "src/pages/zh/research/market/functional-mushrooms.astro",
+    "src/pages/zh/resources/[category].astro",
+    "src/pages/zh/resources/blog/[slug].astro",
+    "src/pages/zh/resources/blog/index.astro",
+    "src/pages/zh/resources/downloads.astro",
+    "src/pages/zh/resources/faq.astro",
+    "src/pages/zh/resources/index.astro",
+    "src/pages/zh/resources/news.astro",
+    "src/pages/zh/resources/research.astro",
+    "src/pages/zh/solutions/[slug].astro",
+    "src/pages/zh/solutions/beverages.astro",
+    "src/pages/zh/solutions/cosmetics.astro",
+    "src/pages/zh/solutions/food.astro",
+    "src/pages/zh/solutions/index.astro",
+    "src/pages/zh/solutions/nutraceuticals.astro",
+    "src/pages/zh/terms.astro",
+    "src/pages/zh/thank-you.astro",
+    "src/styles/global.css",
+    "src/utils/centella-accounting.mjs"
+  ],
+  "oat_mentions": [
+    {
+      "path": "src/articles/functional-mushrooms.en.md",
+      "lines": [
+        "[Real Mushrooms red reishi capsules](https://www.amazon.com/dp/B07D32VNLP) describe a fruiting-body-only extract and state “>25%” beta-glucans. [Double Wood reishi capsules](https://www.amazon.com/dp/B088C1PQ36) explicitly include fruiting body and mycelium, with a stated 1,000 mg of extract per serving and a 4:1 extraction ratio. Both are sold as reishi extracts, but their material claims differ; bottle price or milligrams alone would miss that distinction.<a href=\"#market-v4-ref-12\" aria-label=\"Source 12\">[12]</a><a href=\"#market-v4-ref-9\" aria-label=\"Source 9\">[9]</a>",
+        "Two other approaches resist a simple classification. The ingredient attributes for [Life Extension’s reishi complex](https://www.amazon.com/dp/B009E7V5R2) list fruit-body extract and cracked spores. [Quality of Life AHCC](https://www.amazon.com/dp/B00HG0YZMG) emphasizes alpha-glucans. Spores should not be relabeled as beta-glucans, and alpha- and beta-glucans should not be combined into one marker.<a href=\"#market-v4-ref-10\" aria-label=\"Source 10\">[10]</a><a href=\"#market-v4-ref-16\" aria-label=\"Source 16\">[16]</a>",
+        "[Four Sigmatic Focus ground coffee](https://www.amazon.com/dp/B0756D1D39) separately states 250 mg of lion’s mane per serving and 250 mg of chaga per cup. The listing does not establish that a cup and a serving are equivalent. [FreshCap instant mushroom coffee](https://www.amazon.com/dp/B0GQHTFQ89) emphasizes instant preparation, a 12:1 extraction ratio and 29% beta-glucans. That percentage does not, by itself, establish whether the denominator is the mushroom extract or the finished coffee.<a href=\"#market-v4-ref-19\" aria-label=\"Source 19\">[19]</a><a href=\"#market-v4-ref-18\" aria-label=\"Source 18\">[18]</a>",
+        "Four of the 18 product detail texts contain a numerical beta-glucan claim and six contain an extraction-ratio claim. These are page-text observations: 4/18 and 6/18 respectively. A record without a numerical match is not evidence of a missing label disclosure. Real Mushrooms states >25%; FreshCap capsules and coffee each state 29%.<a href=\"#market-v4-ref-12\" aria-label=\"Source 12\">[12]</a><a href=\"#market-v4-ref-14\" aria-label=\"Source 14\">[14]</a><a href=\"#market-v4-ref-18\" aria-label=\"Source 18\">[18]</a>",
+        "This was a review of page text, with zero complete readable-label audits and zero confirmed comparable offers. Consequently, no label-missingness rate or per-serving price is calculated. Four numerical beta-glucan claims and six extraction-ratio claims are observations in the original 18 deduplicated texts, not ingredient verification. Five records had textual or attribute differences: two concerned tissue source or dosage form; three were weight-attribute differences only. These flags are not a market error rate. The supplementary public page for FreshCap coffee contains a dose sentence absent from the original 18 texts and therefore outside the original dose statistics. Product claims, retail sales and publisher forecasts retain separate evidence and denominators."
+      ]
+    },
+    {
+      "path": "src/components/ApplicationTasks.astro",
+      "lines": [
+        " 'oat-latte':{en:'Select a flavor-led soluble tea extract for the project’s chosen oat base. Compare tea character, catechin profile, caffeine and carrier composition; a catechin-enriched powder is not a like-for-like flavor substitute. Use the oat-latte trial to compare separate dissolution, sandy texture and heat-induced flocculation in the actual base.',zh:'为项目选定的燕麦基底筛选风味型可溶性茶提取物，比较茶感、儿茶素组成、咖啡因及载体。儿茶素富集粉不能等量替代风味原料；按燕麦拿铁方案单独溶解后加入，在实际基底中评价砂感与热处理后絮凝。'},",
+        " 'lipid-cream':{en:'For a cream, choose the addition phase from the extract vehicle. Oat oil, colloidal oat powder and aqueous oat extract enter differently; evaluate color, separation and viscosity recovery after shear.',zh:'面霜按提取物溶媒确定加入相；燕麦油、胶体燕麦粉与水性燕麦提物的加入方式不同。评价颜色、分层及剪切后的黏度恢复。'},",
+        " beverages:[['green-tea','citrus-tea',0,'Clear tea: haze after chilling or heating','清亮茶饮：冷藏或加热后浑浊'],['stevia','citrus-beverage',1,'Reduced-sugar drinks: bitter aftertaste or lingering sweetness','减糖饮料：苦后味或甜味拖尾'],['green-tea','oat-latte',0,'Green tea oat drinks: tea flavor, sandy texture and heat-induced flocculation','绿茶燕麦饮料：茶味、砂感与热处理后絮凝'],['goji-berry','instant-drink',0,'Goji instant drinks: juice-powder reconstitution and carriers','枸杞冲调饮料：果汁粉复溶与载体']],",
+        " food:[['monk-fruit','oat-cookie',1,'Reduced-sugar baking: sweetness and bulk','减糖烘焙：甜度与体积'],['goji-berry','fruit-gummy',0,'Fruit gummies: color, taste and gel texture','果味软糖：颜色、口感与凝胶质地']],"
+      ]
+    },
+    {
+      "path": "src/components/MarketV4Exhibit.astro",
+      "lines": [
+        ".v4-exhibit{margin:2rem 0;padding:1.25rem;border:1px solid #cbd5e1;background:#fafbf9;color:#1f2937;font-variant-numeric:tabular-nums}.v4-exhibit h3{margin:0 0 1.25rem;font-size:1.35rem;line-height:1.4}.bar-row{margin:1rem 0}.bar-label{display:flex;flex-wrap:wrap;justify-content:space-between;gap:.3rem 1rem;font-size:16px;margin-bottom:.4rem}#sample-form .bar-label{display:grid;grid-template-columns:minmax(0,1fr) auto}.chart-value,time{white-space:nowrap}svg{display:block;width:100%;height:22px}.axis{display:flex;justify-content:space-between;border-top:1px solid #64748b;font-size:14px;padding-top:.4rem}.v4-exhibit .source,.v4-exhibit .yoy,.matrix-hint,.equivalence{font-size:14px;line-height:1.65}.v4-exhibit .yoy{margin:.25rem 0}.v4-exhibit .source{color:#475569;margin:1rem 0 0}.dose-pair{display:grid;grid-template-columns:1fr 1fr;gap:1rem}.dose-pair>div{border:1px solid #b9c9bd;background:#eef4ee;padding:1rem;display:flex;flex-direction:column;gap:.5rem}.dose-pair strong{font-size:1.7rem}.dose-pair span{font-size:15px}.matrix-desktop{overflow-x:auto;max-width:100%;font-size:14px}.matrix-desktop table{width:100%;min-width:740px;border-collapse:collapse}.matrix-desktop th,.matrix-desktop td{padding:8px;border:1px solid #d5dfd7;text-align:left;vertical-align:top;font-size:14px}.matrix-desktop th:first-child{min-width:180px;position:sticky;left:0;background:#f8f7f4;z-index:1}.matrix-desktop th:not(:first-child){min-width:82px;overflow-wrap:normal;word-break:normal}.matrix-desktop a{display:block;min-width:130px}.matrix-desktop summary{cursor:pointer;font-weight:700}.matrix-mobile{display:none}.format-card{border-top:1px solid #b9c9bd;padding:.75rem 0}.format-card h4{margin:0;font-size:1.1rem}.material-cell p{font-size:15px;margin:.75rem 0 .25rem}.material-cell ul{margin:0;padding-left:1.25rem;font-size:14px}.material-cell strong{float:right;margin-left:.5rem}.matrix-desktop:focus-visible,summary:focus-visible{outline:3px solid #1b4d3e;outline-offset:3px}@media(max-width:900px){.matrix-desktop{display:none}.matrix-mobile{display:block}}@media(max-width:600px){.v4-exhibit{padding:1rem}.dose-pair{grid-template-columns:1fr;grid-auto-rows:1fr}.dose-pair>div{min-height:115px}.v4-exhibit h3{font-size:1.2rem}}@media print{.matrix-desktop{display:none}.matrix-mobile{display:block}.v4-exhibit{background:white}}"
+      ]
+    },
+    {
+      "path": "src/content/blog/en/astaxanthin-beverage-stability.md",
+      "lines": [
+        "For an astaxanthin beverage, the coating around an oil droplet affects both processing and performance in the drink. Research with *Haematococcus pluvialis* oleoresin illustrates the tradeoff: an interface that protects astaxanthin during spray-drying may respond poorly when the drink's pH changes.<a href=\"#astaxanthin-ref-2\">[2]</a>",
+        "Cost comparisons should include the steps needed to reach the finished product: interface preparation, homogenization, drying where applicable, and acceptable performance in the drink. An extra coating step is useful when it solves a measured application problem, not simply because it adds another layer."
+      ]
+    },
+    {
+      "path": "src/content/blog/en/beetroot-product-formats.md",
+      "lines": [
+        "[Micro Ingredients](https://www.amazon.com/dp/B01N20ON39) puts “INSTANT MIXABILITY” and “Water-soluble formula” in its feature bullets. The displayed back label suggests adding the powder to smoothies, desserts, juice, oatmeal, tea or yogurt, and lists 518 servings at approximately 3.5 g per scoop.<a href=\"#beetroot-product-formats-ref-2\">[2]</a>"
+      ]
+    },
+    {
+      "path": "src/content/blog/en/citrus-delayed-bitterness.md",
+      "lines": [
+        "The authors discussed conversion of non-bitter limonoate A-ring lactone (LARL) to bitter limonin after tissue disruption and exposure to acidic juice. Their heat and pH experiments supported an acid-promoted explanation, but did not directly measure enzyme activity or establish that enzymes are irrelevant in every citrus system.<a href=\"#citrus-delayed-bitterness-ref-1\">[1]</a> That distinction matters: another primary study of citrus hybrids treated continuing enzyme activity during frozen storage as a hypothesis, not a demonstrated universal mechanism.<a href=\"#citrus-delayed-bitterness-ref-2\">[2]</a>"
+      ]
+    },
+    {
+      "path": "src/content/blog/en/functional-mushroom-market-2026.md",
+      "lines": [
+        "title: \"Reishi Extract Procurement: Identity, Beta-Glucan and COA Review\"",
+        "## Do not equate polysaccharides with beta-glucan",
+        "Ask what the total polysaccharide test measures and which reference standard it uses. Request a separate beta-glucan method and clarity about alpha-glucan, starch and residual substrate. If triterpenes are part of the brief, define their method too. Extract ratios alone do not replace these measurements."
+      ]
+    },
+    {
+      "path": "src/content/blog/en/hibiscus-color-endpoints.md",
+      "lines": [
+        "The experimental material was a beverage made with a water extract, not a standardized commercial color powder. Both studies used sodium benzoate and citric acid at 1 g/L each, with a water-bath treatment of 82.5°C for 20 minutes.<a href=\"#hibiscus-ref-2\">[2]</a><a href=\"#hibiscus-ref-3\">[3]</a> Those conditions describe the experiments, not a production recipe: 40% liquid extract is not 40% dry powder, and the studies do not establish additive permission, a safe process or a shelf life for another product."
+      ]
+    },
+    {
+      "path": "src/content/blog/en/reishi-sleep-market-2026.md",
+      "lines": [
+        "Distinguish species, fruiting body, mycelium and spores. Compare beta-glucan and triterpene methods, carriers and residual substrate declarations. Ask for batch-linked documents and confirm that the trial sample represents the material proposed for production."
+      ]
+    },
+    {
+      "path": "src/content/blog/en/tea-haze-diagnosis.md",
+      "lines": [
+        "Keep the first failed bottle intact rather than immediately filtering it. Photograph freshly prepared and stored samples against the same background and lighting, including a view after gentle inversion. Record floating powder, hard-centred lumps, uniform haze, bottom sediment and surface film separately. The purpose is to choose the next comparison, not to identify the chemistry from a photograph."
+      ]
+    },
+    {
+      "path": "src/content/blog/en/uk-sdil-milk-tea-2028.md",
+      "lines": [
+        "The current milk-substitute conditions include at least 120mg calcium per 100ml, a plant origin, all or most of the same uses as milk, a similar consistency and no carbonation.<a href=\"#sdil-ref-4\">[4]</a> These are current exemption conditions; the calcium requirement should not be assumed to be a 2028 eligibility condition. An oat ingredient appearing in the recipe does not establish that the finished tea drink meets all those conditions. Nor does a fruit or botanical drink become a milk substitute just because it is plant-based.",
+        "For plant-based milk substitutes, the published policy would leave a drink outside scope where sugars come only from one core plant ingredient, such as oats or soya.<a href=\"#sdil-ref-2\">[2]</a> Where two or more plant-based ingredients contribute sugars, liability would instead be assessed against total sugar content; adding rice syrup to rice milk is an explicit example, even though both ingredients come from rice.<a href=\"#sdil-ref-2\">[2]</a>",
+        "For an oat milk tea, the practical evidence question is what each ingredient contributes. Keep the base, tea ingredient, syrup, flavouring and any carrier identifiable in the recipe file. Where the sugar contribution or composition of a compound ingredient is unknown, record the gap rather than assuming that “no added sucrose” settles its SDIL treatment. The following illustrations describe review routes, not observed commercial products or tax determinations.",
+        "| Single-core-ingredient oat milk substitute, with no other sugar contribution | Check the proposed single-ingredient exclusion and the finished product’s classification.<a href=\"#sdil-ref-2\">[2]</a><a href=\"#sdil-ref-7\">[7]</a> |"
+      ]
+    },
+    {
+      "path": "src/content/blog/en/vanilla-material-choice.md",
+      "lines": [
+        "There is also a useful counterexample to a common shortcut. Singing Dog's page criticizes some products described as vanilla powder as vanillin-coated maltodextrin; Nielsen-Massey's powder, however, declares **vanilla bean extractives** alongside maltodextrin.<a href=\"#vanilla-ref-1\">[1]</a><a href=\"#vanilla-ref-2\">[2]</a> The presence of maltodextrin alone therefore cannot tell a buyer whether the flavor component is bean extractives or added vanillin. Read the flavor component and the carrier as separate fields. This comparison does not establish what either product contains beyond the manufacturers' declarations."
+      ]
+    },
+    {
+      "path": "src/content/blog/zh/beetroot-product-formats.md",
+      "lines": [
+        "[Micro Ingredients](https://www.amazon.com/dp/B01N20ON39)在网页要点中强调“INSTANT MIXABILITY”和“Water-soluble formula”，即快速混合与水溶性配方。展示背标建议加入奶昔、甜点、果汁、燕麦、茶或酸奶，并标有518份、每勺约3.5克。<a href=\"#beetroot-product-formats-ref-2\">[2]</a>"
+      ]
+    },
+    {
+      "path": "src/content/blog/zh/uk-sdil-milk-tea-2028.md",
+      "lines": [
+        "现行乳替代饮料条件包括：每100ml至少含120mg钙、源自植物、具有乳的全部或大部分用途、稠度与乳相近，且为非碳酸饮料。<a href=\"#sdil-ref-4\">[4]</a> 这些是现行豁免条件，不应直接将钙含量要求视为2028年资格条件。 配方用了燕麦原料，并不能证明成品茶饮满足上述全部条件；果汁或植物提取物饮料，也不会仅因“植物基”这一名称就成为乳替代饮料。",
+        "对于植物乳替代饮料，公布政策拟将仅由单一核心植物原料——例如燕麦或大豆——贡献糖的饮品保留在征税范围外。<a href=\"#sdil-ref-2\">[2]</a> 如果两种或更多植物原料贡献糖，则需按总糖含量判断；米饮中额外加入米糖浆就是文件列举的例子，即使两种原料都源于稻米，糖浆仍被视为添加糖原料。<a href=\"#sdil-ref-2\">[2]</a>",
+        "以燕麦奶茶为例，实际需要查清的是各项原料贡献了什么。配方资料应能分别识别燕麦基底、茶原料、糖浆、香味原料及可能使用的载体。复配原料的组成或糖贡献不明时，应记录缺口，而不是用“无额外蔗糖”替代SDIL判断。下表为假设情景，不是实测商品，也不提供纳税裁定。",
+        "| 只有单一核心燕麦原料贡献糖的乳替代饮料 | 核对拟设单一原料排除条件，以及成品本身的分类。<a href=\"#sdil-ref-2\">[2]</a><a href=\"#sdil-ref-7\">[7]</a> |"
+      ]
+    },
+    {
+      "path": "src/content/products/en/reishi-mushroom.md",
+      "lines": [
+        "Specify beta-glucan separately from total polysaccharides, with a method accounting for alpha-glucan or starch where relevant. Define the triterpene assay and reference standard if required.",
+        "Ask about growth substrate, residual substrate, extraction solvents, carriers and identity tests. An extract ratio alone does not establish beta-glucan content or authenticity."
+      ]
+    },
+    {
+      "path": "src/content/solutions/en/liver-support-gummy.md",
+      "lines": [
+        "1. Screen each botanical separately before combining. Define goji sugars and carriers, reishi species and beta-glucan methods, and turmeric curcuminoid profile and dispersion system."
+      ]
+    },
+    {
+      "path": "src/content/solutions/en/reishi-sleep-gummy.md",
+      "lines": [
+        "1. Specify reishi species, fruiting body or mycelium, substrate declaration and separate beta-glucan and triterpene methods."
+      ]
+    },
+    {
+      "path": "src/data/deep-ingredients.json",
+      "lines": [
+        "              \"text\": \"Wetting should remove floating solids and dry clumps. Extraction balances target release against co-extraction. More solvent can maintain the mass-transfer driving force but increases the evaporation duty. Additional cycles may improve recovery while increasing colour, bitterness and caffeine loads. Compare one-stage extraction with a staged wash-liquor reuse scheme through a material balance: a dilute later stream might pre-wet the next charge rather than automatically enter the product tank. This is a proposed experiment, not demonstrated closed-loop performance.\"",
+        "              \"text\": \"McCleary与Draga的蘑菇/菌丝产品方法研究以受控硫酸水解和葡萄糖特异性检测测总葡聚糖相关部分，再用酶法测α-葡聚糖及相关游离糖贡献，由差值求β-葡聚糖。其摘要指出，针对G. lucidum和Poria等某些样品，硫酸路线比所比较盐酸路线得到更高结果，单纯酶解往往测得更低。[5] 所以COA不能只写“β-glucan method”：应固定版本、样品预处理、酸水解条件、α通道处理及干基/原样基准。两个实验室的差异首先要用同批留样、共同方法、平行消解和加标/参考样查清，而不是挑数值较高的一家作为放行依据。\"",
+        "              \"text\": \"R&D should blind-test water extract, triterpenoid-related fraction and a measured blend separately at equal target-component dose, with an extract-free formulation blank. Engineering should measure solids and beta-glucan/triterpenoid-related attributes before and after filtration so improved clarity is associated with a quantified loss. Procurement should disclose starch-containing carriers and their effects on alpha-glucan interpretation rather than calculating target components from total powder mass. Brand language should focus on verified provenance, fraction, flavour and dispersion; an evening-drink concept does not itself establish a sleep benefit.\"",
+        "          \"heading\": \"Standards and QA: total polysaccharides, total glucans and beta-glucan are different quantities\",",
+        "              \"text\": \"The co-extraction paper measured polysaccharides by the phenol–sulfuric acid method against D-glucose and triterpenoids by the vanillin–glacial acetic acid method against ursolic acid, expressing the latter as ursolic-acid equivalents.[12] Accordingly, 0.63% is not a beta-glucan recovery and 0.38% is not an HPLC-confirmed sum of ganoderic acids. A contract comparing colour-reaction equivalents directly with named chromatographic analytes can create an apparent price difference driven by assay choice rather than material quality.\"",
+        "              \"text\": \"McCleary and Draga's mushroom/mycelial-product method uses controlled sulfuric-acid hydrolysis and glucose-specific detection for the total-glucan-related measurement, a separate enzymatic channel for alpha-glucan and relevant free-sugar contributions, and calculates beta-glucan by difference. Their abstract reports higher values with sulfuric acid than the compared hydrochloric-acid procedure for certain samples including G. lucidum and Poria, and generally lower results from fully enzymatic hydrolysis.[5] A COA therefore needs more than “beta-glucan method”: fix the version, preparation, acid-hydrolysis conditions, alpha-channel treatment and dry/as-is basis. Resolve laboratory disagreements through retained samples, common methods, parallel digestion and suitable spikes/reference samples rather than choosing the higher result.\"",
+        "              \"text\": \"Alpha-glucan alone does not establish adulteration with starch; beta-glucan by difference does not establish species, fruiting-body provenance or absence of substrate. Identity and supply-chain evidence answer a different question from compositional quantification.[5][9] A proposed QA hierarchy includes species and part, matrix disclosure, beta/alpha-glucans and any necessary total-sugar measurement, triterpenoid fingerprint and agreed individual markers, moisture, microbiology, relevant contaminants and used solvents. Dedicated triterpenoid specifications need suitable reference standards and chromatographic confirmation, not a subjective bitterness threshold.\"",
+        "              \"text\": \"For US dietary-supplement manufacture, 21 CFR 111.70 requires component identity and necessary purity, strength, composition and contaminant limits, as well as appropriate process and finished-product specifications.[13] That is a legal basis for a control system, not a universal beta-glucan or triterpenoid percentage for reishi. Foods, supplements, medicines, spore oils and new fractions cannot be treated identically because they share a reishi name. Naming the exact material and destination in a contract is more actionable than an undefined “pharmacopoeial grade.”\"",
+        "              \"text\": \"Revisit the joint optimization objective first. The 2020 study gave the two fractions equal weights and obtained lower joint yields than the respective conventional controls. A beta-glucan-led product may need a different objective.[12] Define target-component mass, accompanying composition, solvents and cost, then compare water extraction, alcohol extraction, sequential extraction and blending. Engineering should document stream volumes and recovery energy; procurement should compare cost per accepted target component rather than powder yield. Add a glucan-specific method so a total-sugar response does not optimize unwanted small sugars.\"",
+        "              \"text\": \"Four actionable failure paths follow. High total sugar but low beta-glucan calls for checking method, carrier and starting part before increasing extraction temperature. Acceptable triterpenoids in liquor but not precipitated powder calls for assaying supernatant and washings, not simply adding more raw material. A working bath-scale experiment that fails in a tank calls for actual thermal history, delivered energy and solids suspension measurements, not linear replication of 210 W. Better taste after filtration with lower marker assay calls for paired cake/filtrate analysis and a deliberate formulation or composition decision. Each path generates a specific R&D experiment, engineering record, QA method and procurement criterion.\"",
+        "        \"title\": \"Measurement of β-Glucan in Mushrooms and Mycelial Products\","
+      ]
+    },
+    {
+      "path": "src/data/extract-sales.ts",
+      "lines": [
+        "        \"en\": \"Compare citrus tea, oat-latte and instant-tea combinations in the green-tea formulation notes.\",",
+        "        \"zh\": \"绿茶配方笔记比较柑橘茶、燕麦拿铁及速溶茶组合。\"",
+        "      \"en\": \"ZL Botanicals supplies reishi extract for capsule, powder-blend and selected drink projects. We match water-extract or triterpenoid-oriented options to your formulation, with species, fungal part and beta-glucan requirements stated separately in the quote.\",",
+        "          \"en\": \"Water-extractable constituents; beta-glucan target separately defined\",",
+        "      \"en\": \"The beta-glucan specification includes an agreed mushroom-method version and dry-basis or as-is result. Alpha-glucans and relevant starch controls are reported separately; total polysaccharides are not a substitute. Triterpenoids need their own assay method and basis.\",",
+        "      \"en\": \"Cocoa and oat formats can accommodate fungal notes better than a clear drink. Solubility, sediment and bitterness still need sample trials; food eligibility is material- and market-specific.\",",
+        "      \"zh\": \"可可燕麦体系相较清饮更能容纳真菌风味，但溶解性、沉淀与苦味仍需样品试验；食品适用性取决于原料及市场。\"",
+        "      \"en\": \"Does a high polysaccharide value establish beta-glucan content?\",",
+        "      \"en\": \"No. Total-sugar methods may include other carbohydrates. Specify beta-glucan and relevant starch controls when that is the purchase target.\",",
+        "        \"en\": \"Separate beta-glucan and triterpenoid criteria support consistent acceptance of the selected reishi material.\",",
+        "        \"en\": \"Reishi notes compare cocoa–oat blends, cultured-food trials and capsule formats.\",",
+        "        \"zh\": \"灵芝笔记比较可可燕麦混合粉、发酵食品试验及胶囊形态。\"",
+        "        \"en\": \"Mushroom glucan methods distinguish beta-glucans from alpha-glucan and starch contributions.\","
+      ]
+    },
+    {
+      "path": "src/data/ingredient-knowledge.json",
+      "lines": [
+        "          \"en\": \"Ask for species verification, fungal part and substrate disclosure before discussing water extraction, ethanol fractionation or a combined process. Request separate beta-glucan and alpha-glucan treatment in the analytical method; a total sugar result cannot identify fungal origin. The review distinguishes polysaccharide precipitation and purification from triterpene extraction. Keep their yields, retained streams and assays separate when comparing a water-only and a combined-process sample; a higher dry yield does not prove higher beta-glucan recovery.\","
+      ]
+    },
+    {
+      "path": "src/data/ingredient-overviews.json",
+      "lines": [
+        "      \"en\": \"Water-extractable polysaccharides and alcohol-oriented triterpenoid fractions differ; total sugars are not beta-glucan identity.\",",
+        "      \"en\": \"Ginkgo biloba leaves; leaf powder, refined leaf extract, seed kernels and outer seed coats are different materials.\","
+      ]
+    },
+    {
+      "path": "src/data/ingredient-reader-packs.json",
+      "lines": [
+        "        \"id\": \"oat-latte\",",
+        "          \"en\": \"Green tea oat latte\",",
+        "          \"zh\": \"绿茶燕麦拿铁\"",
+        "              \"text\": \"Pair fine leaf powder or a flavour-led extract with oat base and optional vanilla. The oat base provides body; the tea form sets green colour, tea intensity and suspended solids. An EGCG-rich isolate is not a like-for-like substitute for a leaf-flavour ingredient.\"",
+        "              \"text\": \"Prepare the oat base first. Make a smooth tea slurry with a small portion of the base before adding it to the main vessel; disperse under controlled shear, then use the beverage’s chosen homogenization and heat process. For soluble extract, dissolve separately instead of applying the leaf-powder slurry procedure automatically.\"",
+        "              \"text\": \"Check sandy texture, sediment redispersibility, heat-induced flocculation and flavour after storage. Run matched base controls at the actual protein, salt and pH levels. Tea polyphenol–protein interactions are described in the EFSA assessment; the effect in a chosen oat base still needs direct measurement.[25]\"",
+        "              \"text\": \"细叶粉或风味型提取物配合燕麦基底，可加香草调味。燕麦基底提供稠感，茶原料形态决定绿色、茶味强度与悬浮固形物。高EGCG单体富集物不能等量替代叶香型原料。\"",
+        "              \"text\": \"先准备燕麦基底。用少量基底把茶粉调成均匀浆料，再加入主罐，以受控剪切分散，随后采用该饮料选定的均质和热处理工艺。可溶性提取物应先单独溶解，不必机械套用叶粉调浆步骤。\"",
+        "              \"text\": \"检查砂感、沉淀再分散性、热处理后絮凝及储存风味。在真实蛋白质、盐和pH条件下设置同基底对照。EFSA评估讨论了茶多酚与蛋白质的相互作用，但具体燕麦基底中的表现仍需直接测定。[25]\"",
+        "          \"src\": \"/images/ingredient-plans/landscape/green-tea/oat-latte.webp\",",
+        "            \"en\": \"Green tea oat latte with oats, tea powder and a whisk.\",",
+        "            \"zh\": \"绿茶燕麦拿铁、燕麦、茶粉与茶筅。\"",
+        "            \"en\": \"Green tea oat latte with oats, tea powder and a whisk.\",",
+        "            \"zh\": \"绿茶燕麦拿铁、燕麦、茶粉与茶筅。\"",
+        "              \"text\": \"Granted claim 1 combines a Centella extract consisting essentially of about 20–60% asiaticoside and about 40–80% combined asiatic and madecassic acids, measured by extract weight, with oat extract, ceramide, a lipid-bilayer structurant, preservative and an oil-in-water carrier, each at its stated concentration.[12]\"",
+        "              \"text\": \"授权权利要求1组合了主要由约20–60%积雪草苷及约40–80%积雪草酸与羟基积雪草酸混合物构成的积雪草提取物（均按提取物质量计），以及燕麦提取物、神经酰胺、脂质双层结构成分、防腐剂和水包油载体，各有规定浓度。[12]\"",
+        "          \"en\": \"Centella oat and ceramide cream\",",
+        "          \"zh\": \"积雪草燕麦神经酰胺面霜\"",
+        "              \"text\": \"Pair a characterized Centella fraction with an oat ingredient, a ceramide preparation and an oil-in-water cream base. The lipid system supplies emollience and structure; oat and Centella are distinct botanical components. A published patent specifically combines selected Centella triterpenes, oat, ceramide and a lipid-bilayer structurant, providing a formulation precedent rather than clinical proof for any new cream.[12]\"",
+        "              \"text\": \"Prepare the oil phase and the hydrated aqueous phase separately. Incorporate the ceramide preparation in the phase specified for its actual commercial form, emulsify, then cool under controlled mixing. Add a compatible pre-dissolved Centella ingredient at a temperature supported by its stability data. Oat oil belongs in the oil phase; colloidal oatmeal and water-based oat extracts cannot be treated as the same ingredient.\"",
+        "              \"text\": \"经表征的积雪草组分配合燕麦原料、神经酰胺制剂与水包油霜基。脂质体系提供润肤性和结构，燕麦与积雪草分别承担植物组分角色。已有专利明确组合精选积雪草三萜、燕麦、神经酰胺及脂质双层结构成分，可作为配方技术参考，而非任意新面霜的临床证明。[12]\"",
+        "              \"text\": \"分别准备油相与已水化水相。按实际商品形态将神经酰胺制剂加入适合的相，乳化后受控搅拌降温。在稳定性数据支持的温度下加入已预溶、相容的积雪草原料。燕麦油应进入油相，胶体燕麦粉和水性燕麦提取物不能按同一原料处理。\"",
+        "            \"en\": \"Centella cream with oats and a rich white cream texture.\",",
+        "            \"zh\": \"积雪草面霜、燕麦与丰润白色霜体。\"",
+        "            \"en\": \"Centella cream with oats and a rich white cream texture.\",",
+        "            \"zh\": \"积雪草面霜、燕麦与丰润白色霜体。\"",
+        "        \"id\": \"oat-cookie\",",
+        "          \"en\": \"Reduced-sugar oat cookie\",",
+        "          \"zh\": \"减糖燕麦饼干\"",
+        "              \"text\": \"Pair monk fruit extract with oats, flour, fat and a separately chosen bulking/humectant system. Retain enough conventional sugar if the target texture needs it. High-intensity sweetness cannot reproduce all of sugar’s effects on dough spread, browning and water management; select the physical replacement before increasing extract to fix a weak cookie.\"",
+        "              \"text\": \"罗汉果提取物配合燕麦、面粉、脂肪及另行选择的填充／保湿体系。若目标质地需要，可保留部分常规糖。高强度甜味不能再现蔗糖对面团摊展、褐变和水分管理的全部影响；产品结构不足时，应先选择物理替代方案，而非继续加提取物。\"",
+        "          \"src\": \"/images/ingredient-plans/landscape/monk-fruit/oat-cookie.webp\",",
+        "            \"en\": \"Oat cookies with monk fruit and sweetener powder.\",",
+        "            \"zh\": \"燕麦饼干、罗汉果与甜味粉。\"",
+        "            \"en\": \"Oat cookies with monk fruit and sweetener powder.\",",
+        "            \"zh\": \"燕麦饼干、罗汉果与甜味粉。\"",
+        "              \"text\": \"The black-ginseng patent below combines steaming, coating, further treatment, extraction, enzymes and yeast fermentation. It is one disclosed route, not a definition of all black ginseng and not a recommendation to add each operation to an existing factory. Fermentation and enzyme steps require their own endpoint, hygiene and composition controls.[2]\"",
+        "              \"text\": \"Published claim 1 combines first steaming, application of an edible coating, second steaming with ultraviolet treatment, hot-water extraction, alpha-amylase and cellulase treatment, and Saccharomyces cerevisiae fermentation. The translated claims name dependent coating options. This is a combined processing claim, not simply repeated steaming.[2]\"",
+        "              \"text\": \"Test reconstitution in both the intended hot-water preparation and a colder misuse condition, noting floating powder, lumps, sediment and taste. Track caking, moisture gain, fill consistency and marker recovery through storage. Set the ginseng serving through safety and regulatory review rather than copying the trial’s extract mass.[19]\"",
+        "              \"text\": \"R&D should blind-test water extract, triterpenoid-related fraction and a measured blend separately at equal target-component dose, with an extract-free formulation blank. Engineering should measure solids and beta-glucan/triterpenoid-related attributes before and after filtration so improved clarity is associated with a quantified loss. Procurement should disclose starch-containing carriers and their effects on alpha-glucan interpretation rather than calculating target components from total powder mass. Brand language should focus on verified provenance, fraction, flavour and dispersion; an evening-drink concept does not itself establish a sleep benefit.\"",
+        "              \"text\": \"The co-extraction paper measured polysaccharides by the phenol–sulfuric acid method against D-glucose and triterpenoids by the vanillin–glacial acetic acid method against ursolic acid, expressing the latter as ursolic-acid equivalents.[28] Accordingly, 0.63% is not a beta-glucan recovery and 0.38% is not an HPLC-confirmed sum of ganoderic acids. A contract comparing colour-reaction equivalents directly with named chromatographic analytes can create an apparent price difference driven by assay choice rather than material quality.\"",
+        "              \"text\": \"McCleary and Draga's mushroom/mycelial-product method uses controlled sulfuric-acid hydrolysis and glucose-specific detection for the total-glucan-related measurement, a separate enzymatic channel for alpha-glucan and relevant free-sugar contributions, and calculates beta-glucan by difference. Their abstract reports higher values with sulfuric acid than the compared hydrochloric-acid procedure for certain samples including G. lucidum and Poria, and generally lower results from fully enzymatic hydrolysis.[23] A COA therefore needs more than “beta-glucan method”: fix the version, preparation, acid-hydrolysis conditions, alpha-channel treatment and dry/as-is basis. Resolve laboratory disagreements through retained samples, common methods, parallel digestion and suitable spikes/reference samples rather than choosing the higher result.\"",
+        "              \"text\": \"Alpha-glucan alone does not establish adulteration with starch; beta-glucan by difference does not establish species, fruiting-body provenance or absence of substrate. Identity and supply-chain evidence answer a different question from compositional quantification.[23][15] A proposed QA hierarchy includes species and part, matrix disclosure, beta/alpha-glucans and any necessary total-sugar measurement, triterpenoid fingerprint and agreed individual markers, moisture, microbiology, relevant contaminants and used solvents. Dedicated triterpenoid specifications need suitable reference standards and chromatographic confirmation, not a subjective bitterness threshold.\"",
+        "              \"text\": \"For US dietary-supplement manufacture, 21 CFR 111.70 requires component identity and necessary purity, strength, composition and contaminant limits, as well as appropriate process and finished-product specifications.[12] That is a legal basis for a control system, not a universal beta-glucan or triterpenoid percentage for reishi. Foods, supplements, medicines, spore oils and new fractions cannot be treated identically because they share a reishi name. Naming the exact material and destination in a contract is more actionable than an undefined “pharmacopoeial grade.”\"",
+        "                  \"Does 30% polysaccharides mean 30% β-glucan?\",",
+        "              \"text\": \"Revisit the joint optimization objective first. The 2020 study gave the two fractions equal weights and obtained lower joint yields than the respective conventional controls. A beta-glucan-led product may need a different objective.[28] Define target-component mass, accompanying composition, solvents and cost, then compare water extraction, alcohol extraction, sequential extraction and blending. Engineering should document stream volumes and recovery energy; procurement should compare cost per accepted target component rather than powder yield. Add a glucan-specific method so a total-sugar response does not optimize unwanted small sugars.\"",
+        "              \"text\": \"Four actionable failure paths follow. High total sugar but low beta-glucan calls for checking method, carrier and starting part before increasing extraction temperature. Acceptable triterpenoids in liquor but not precipitated powder calls for assaying supernatant and washings, not simply adding more raw material. A working bath-scale experiment that fails in a tank calls for actual thermal history, delivered energy and solids suspension measurements, not linear replication of 210 W. Better taste after filtration with lower marker assay calls for paired cake/filtrate analysis and a deliberate formulation or composition decision. Each path generates a specific R&D experiment, engineering record, QA method and procurement criterion.\"",
+        "              \"text\": \"McCleary与Draga的蘑菇/菌丝产品方法研究以受控硫酸水解和葡萄糖特异性检测测总葡聚糖相关部分，再用酶法测α-葡聚糖及相关游离糖贡献，由差值求β-葡聚糖。其摘要指出，针对G. lucidum和Poria等某些样品，硫酸路线比所比较盐酸路线得到更高结果，单纯酶解往往测得更低。[23] 所以COA不能只写“β-glucan method”：应固定版本、样品预处理、酸水解条件、α通道处理及干基/原样基准。两个实验室的差异首先要用同批留样、共同方法、平行消解和加标/参考样查清，而不是挑数值较高的一家作为放行依据。\"",
+        "        \"id\": \"cocoa-oat\",",
+        "          \"en\": \"Cocoa–oat reishi drink powder\",",
+        "          \"zh\": \"可可燕麦灵芝冲调粉\"",
+        "              \"text\": \"Use a water-extract powder as the defined reishi component, cocoa for the main flavour, oat beverage powder for body, an appropriate sweetener for bitterness balance, and sunflower lecithin as a wetting aid to screen. These are formulation roles, not evidence of physiological synergy. Declare the oat and extract carriers; otherwise matrix carbohydrate can obscure the mushroom glucan result. Mushroom β-glucan analysis needs a defined total/α-glucan method.[23]\"",
+        "              \"text\": \"Proposed order: sieve each powder, geometrically premix the reishi extract with part of the oat base, add cocoa and the remaining base, then add the selected dry lecithin system and sweetener using a validated blend sequence. Compare simple blending with controlled agglomeration only if wetting remains poor. Fill moisture-barrier sachets; assess the actual water temperature and serving dilution rather than a dilute laboratory solution.\"",
+        "              \"text\": \"Proposed quality gates: record wetting time, dry-core lumps, sediment after a defined hold, bitterness and powder caking. Take top/middle/bottom blend samples and compare whole-cup redispersed samples with the supernatant. Test matrix blanks and recovery before assigning all measured β-glucan to reishi; oat and fungal carbohydrates are not analytically interchangeable. A cocoa drink is not a sleep treatment, and insomnia is among the reported adverse effects of reishi supplements.[23][33]\"",
+        "              \"text\": \"以水提粉作为明确的灵芝组分，可可提供主体风味，燕麦饮粉形成口感厚度，适用甜味体系平衡苦味，葵花卵磷脂作为待筛选润湿助剂。这些是配方功能，不代表生理协同。披露燕麦基料与提取物载体，避免基质糖类掩盖菌源葡聚糖结果；蘑菇β葡聚糖分析需要明确总／α葡聚糖方法。[23]\"",
+        "              \"text\": \"建议顺序：各粉分别过筛，将灵芝提取物与部分燕麦基料按等量递增法预混，再加可可及其余基料，按验证后的混合程序加入粉末卵磷脂体系与甜味料。润湿仍差时才比较单纯混合与受控造粒。用阻湿袋包装，在真实水温与冲调比例下评价，不以很稀的实验室溶液代替。\"",
+        "              \"text\": \"建议质量关口：记录润湿时间、干芯团块、规定静置后的沉淀、苦味与结块；取混合物上中下样，并比较整杯重分散样与上清。先做基质空白与回收率，不能将测得β葡聚糖全部归于灵芝；燕麦与菌源糖类不能简单等同。可可饮品不是助眠治疗，灵芝补充剂反而有失眠不良反应报告。[23][33]\"",
+        "          \"src\": \"/images/ingredient-plans/landscape/reishi-mushroom/cocoa-oat.webp\",",
+        "            \"en\": \"Cocoa-oat reishi drink with a powder sachet and oats.\",",
+        "            \"zh\": \"可可燕麦灵芝饮品、冲调粉袋与燕麦。\"",
+        "            \"en\": \"Cocoa-oat reishi drink with a powder sachet and oats.\",",
+        "            \"zh\": \"可可燕麦灵芝饮品、冲调粉袋与燕麦。\"",
+        "          \"en\": \"Immediate-release coated tablet\",",
+        "              \"text\": \"Bench proposal only: a 300 mg core containing 120 mg qualified extract, 150 mg microcrystalline cellulose, 24 mg croscarmellose sodium, 3 mg colloidal silica and 3 mg magnesium stearate; coating mass is additional. Start with direct compression and compare dry granulation only if flow or compactability fails.\"",
+        "              \"text\": \"Cellulose supports compaction; croscarmellose is the disintegrant. Preblend extract and filler, distribute disintegrant and glidant, lubricate briefly, compress across a controlled force range, then screen a thin immediate-release coating for taste and handling. Coating is not assumed to improve bioavailability.\"",
+        "              \"text\": \"Measure tensile strength, friability, disintegration and dissolution of both flavonoids and lactones across compression forces. Track coating exposure, impurity profiles and packaged stability. Stop if mechanical strength is gained at the cost of release; tablet hardness alone is not the endpoint.\"",
+        "            \"en\": \"Ginkgo coated tablets with blister packaging.\",",
+        "            \"en\": \"Ginkgo coated tablets with blister packaging.\",",
+        "              \"text\": \"NCCIH concludes that high-quality evidence is insufficient to clearly support licorice for any health condition and that digestive effects of licorice alone remain unclear. It describes preliminary signals for mouth rinses in recurrent canker sores, perioperative gargles or lozenges for post-intubation sore throat, and topical gels for eczema or burns. These studies concern specific preparations and settings, not routine self-treatment of those conditions.[8]\""
+      ]
+    },
+    {
+      "path": "src/data/market-exhibits.json",
+      "lines": [
+        "        \"Fruiting-body, hot-water extract; the brand states more than 30% beta-glucans.[7]\",",
+        "        \"Multi-mushroom extract powder; ingredient panel lists a six-mushroom blend and standardized beta-glucan content.[8]\","
+      ]
+    },
+    {
+      "path": "src/data/odm.json",
+      "lines": [
+        " {\"slug\":\"late-evening-botanical-beverage\",\"visualName\":\"AFTER HOURS\",\"title\":{\"en\":\"Late-evening workday botanical beverage\",\"zh\":\"晚间工作场景植物饮料\"},\"summary\":{\"en\":\"A botanical flavor concept for the end of a workday, with caffeine exposure, taste and processing questions addressed before a formula is selected. Not a substitute for rest.\",\"zh\":\"面向工作日尾声的植物风味饮料概念；选定配方前先解决咖啡因暴露、口味与加工问题，不能替代休息。\"},\"products\":[\"green-tea\",\"reishi-mushroom\"],\"brief\":{\"en\":\"Begin with the occasion, market, intended adult audience and whether any tea-derived caffeine is acceptable. Explore a restrained botanical profile rather than promising wakefulness, recovery or sleep benefits. The initial route can exclude tea if the caffeine brief cannot be met.\",\"zh\":\"先明确场景、市场、拟定成年受众及是否接受茶来源咖啡因。探索克制的植物风味，而非承诺清醒、恢复或助眠效果。若无法满足咖啡因需求，初步路线可排除茶成分。\"},\"selection\":{\"en\":\"Screen a documented low-caffeine green-tea grade only if residual caffeine can be measured and accepted. Reishi is a separate, optional bitter botanical direction, conditional on species, fungal part, local use status and safety review. Neither ingredient is a validated combination or a mandatory formula.\",\"zh\":\"仅在残留咖啡因可测量并被接受的条件下筛选有文件支持的低咖啡因绿茶规格。灵芝属于另一个可选的苦味植物方向，须审核物种、真菌部位、当地使用地位及安全性。两者既不是已验证组合，也不是必须采用的配方。\"},\"validation\":{\"en\":\"Plan blinded sensory comparisons for bitterness and astringency; measure caffeine in the selected prototype rather than inferring it from a name. Compare pH, turbidity, sediment, color and marker retention before and after the proposed heat cycle. Agree storage conditions, time points and rejection criteria before testing.\",\"zh\":\"计划对苦味与涩感进行盲法感官比较；对选定原型检测咖啡因，而非根据名称推断。比较拟定热处理前后的 pH、浊度、沉淀、颜色与标志物保留。试验前商定储存条件、取样节点与拒收标准。\"},\"packaging\":{\"en\":\"A dark-green can is a visual direction, not a confirmed filling format. Check coating compatibility, seam integrity, oxygen control and the partner's validated process before selection. The name AFTER HOURS is illustrative copy only; trademark and label clearance remain project tasks.\",\"zh\":\"深绿色罐装仅是视觉方向，并非已确认灌装形式。选型前须检查内涂层相容性、卷封完整性、氧控制及合作方已验证工艺。AFTER HOURS 仅为示意文案，商标与标签核查仍属项目任务。\"}},"
+      ]
+    },
+    {
+      "path": "src/data/plant-extracts.json",
+      "lines": [
+        "          \"description\": \"Ginkgo biloba leaves; leaf powder, refined leaf extract, seed kernels and outer seed coats are different materials.\","
+      ]
+    },
+    {
+      "path": "src/data/product-dossiers.json",
+      "lines": [
+        "      \"en\": \"Ask for species verification, fungal part and substrate disclosure before discussing water extraction, ethanol fractionation or a combined process. Request separate beta-glucan and alpha-glucan treatment in the analytical method; a total sugar result cannot identify fungal origin.\","
+      ]
+    },
+    {
+      "path": "src/data/resource-guides.ts",
+      "lines": [
+        "      description: 'Review identity, analytical methods and batch-linked documentation before approving an ingredient. The reishi checklist explains why total polysaccharides differ from beta-glucans and how to read a COA without treating a certificate as finished-product evidence.',"
+      ]
+    },
+    {
+      "path": "src/data/science-profiles.json",
+      "lines": [
+        "      \"en\": \"Ginkgo biloba leaves; leaf powder, refined leaf extract, seed kernels and outer seed coats are different materials.\","
+      ]
+    },
+    {
+      "path": "src/data/turmeric-formulations.ts",
+      "lines": [
+        "      \"en\": \"Golden oat latte with oats, cinnamon and ginger\",",
+        "      \"zh\": \"金黄色燕麦拿铁，配燕麦、肉桂与姜片\"",
+        "  {id:'plant-latte',title:'Plant latte or opaque beverage',combination:'Oat or soy base + a food-suitable curcumin dispersion + optional ginger or cinnamon for a spice-led flavour. A dispersion-development route pairs curcumin with MCT oil and an emulsifier system; lecithin is one candidate, not a guarantee of stability.',basis:'Kim et al. studied curcumin in MCT with Tween-20 alone or with soy lecithin or sorbitan monooleate. Their aqueous phase contained sodium azide and bis-tris buffer: use the work to understand phase preparation and droplet growth, not as a beverage recipe.[4]',process:'Trial sequence: prepare the pigment-containing oil phase and hydrate or disperse each emulsifier in its appropriate phase; premix, then homogenize. When using a purchased dispersion, first dilute it in a portion of the beverage base before blending into the batch. Compare the actual base before and after its intended heat treatment.',checks:'Keep the plant protein, salt level and acidity in the test matrix. Check flocculation, oil rings, sediment and particle growth through storage; compare bitterness, spice intensity and mouth coating against an uncoloured base. Choose light-protective packaging after a light-exposure comparison. Do not alkalize the drink just to dissolve the pigment.[10]'},",
+        "  {id:'instant-powder',title:'Instant latte powder',combination:'Oat or coconut powder + a carrier-containing curcumin powder + optional sugar and ginger. The base provides body and flavour; the curcumin preparation supplies colour. For carrier development, soluble starch, a permitted antioxidant such as tocopherol, and a fat are a disclosed combination rather than interchangeable dry-blend ingredients.',basis:'The OmniActive application describes curcumin, antioxidant, hydrophilic carrier and fat being processed together, followed by solvent removal and pulverization. Soluble starch, tocopherols and MCT appear among its claimed ingredient choices.[3]',process:'Trial sequence: obtain a documented carrier powder, sieve it with the base powders, make a small premix, then blend into the remaining batch. If developing the carrier itself, treat solvent processing and drying as a separate ingredient-manufacturing step. Adding starch to crystalline curcumin at the dry blender does not reproduce the disclosed preparation.',checks:'Compare blends at equal assayed curcuminoid content. Measure wetting, clumps and cup sediment using specified water temperature and stirring, then repeat after humid storage. Check powder moisture, caking, blend segregation and flavour; confirm residual-solvent compliance for solvent-processed carriers.'},",
+        "  {id:'plant-latte',title:'植物拿铁或不透明饮料',combination:'燕麦或大豆基底 + 适合食品用途的姜黄素分散液 + 可选姜粉或肉桂调味。开发分散原料时，可比较姜黄素、MCT油与乳化剂体系；卵磷脂是候选乳化成分，不代表加入后就能稳定。',basis:'Kim等研究了姜黄素与MCT、Tween-20，以及复配大豆卵磷脂或山梨醇酐单油酸酯的体系。实验水相含叠氮化钠和bis-tris缓冲液；可参考分相配制与液滴增长的研究方法，不能照搬为饮料配方。[4]',process:'试配顺序：分别准备含色素油相，并按乳化剂性质在适合的相中水化或分散；预混后均质。使用外购分散液时，先用部分饮料基底稀释，再混入整批。比较实际基底在目标热处理前后的表现。',checks:'将植物蛋白、盐含量和酸度纳入试验变量。储存中检查絮凝、油圈、沉降和粒径增长；与未着色基底比较苦味、香辛强度和糊口感。通过光照对照选择遮光包装，不要仅为溶解色素而把饮料调成碱性。[10]'},",
+        "  {id:'instant-powder',title:'拿铁冲调粉',combination:'燕麦粉或椰子粉 + 含载体姜黄素粉 + 可选糖和姜粉。基底提供稠感与风味，姜黄素制剂提供颜色。开发载体时，可溶性淀粉、该用途允许的抗氧化剂（如生育酚）与脂肪是已有披露的配伍方向，但不是简单干混就能互换的辅料。',basis:'OmniActive申请公开了将姜黄素、抗氧化剂、亲水载体与脂肪共同加工，再除溶剂、粉碎的路线；可溶性淀粉、生育酚和MCT分别属于其权利要求列举的选择。[3]',process:'试配顺序：先取得有组成资料的载体粉，与基底粉过筛，制成小份预混料，再混入整批。若自行开发载体，应将溶剂加工与干燥作为独立的原料制造步骤；在干混机中把淀粉加到结晶姜黄素中，不等于制得专利披露的制剂。',checks:'按实测姜黄素类含量对齐后比较。固定水温与搅拌方式，测润湿、结团和杯底沉淀，再对受潮储存后的粉体复测。检查水分、结块、混合分层与风味；溶剂加工载体还需确认溶剂残留合规。'},"
+      ]
+    },
+    {
+      "path": "src/pages/solutions/beverages.astro",
+      "lines": [
+        "<p class=\"mt-4 text-gray-700\">In an oat-based drink, the oat base provides body while the tea ingredient contributes tea flavor and color. Our ingredient selection focuses on tea extracts, fruit-derived powders and botanical sweeteners; the plant-milk base and its emulsifier–stabilizer system are separate formulation choices.</p>",
+        "<p class=\"mt-4 text-gray-700\">For a green tea oat latte, dissolve a soluble tea extract separately rather than treating it as leaf powder. Compare with a base-only control at the actual protein, salt and pH levels, then check sandy texture, sediment redispersibility and heat-induced flocculation after processing and storage. Goji juice powder follows a different route: a fruit-flavored drink mix, with carrier, reconstitution and color checks rather than a plant-milk base.</p>",
+        "<a class=\"inline-block mt-4 text-primary underline\" href=\"/plant-extracts/ingredients/green-tea#formulation-oat-latte\">Green tea oat latte: ingredient roles and trial sequence →</a>"
+      ]
+    },
+    {
+      "path": "src/pages/zh/solutions/beverages.astro",
+      "lines": [
+        "<p class=\"mt-4 text-gray-700\">燕麦饮料中，燕麦基底提供稠感，茶原料带来茶味与颜色。本页选型聚焦茶提取物、果实来源粉末和植物甜味配料；植物奶基底及乳化稳定体系需另行确定。</p>",
+        "<p class=\"mt-4 text-gray-700\">试配绿茶燕麦拿铁时，可溶性茶提取物先单独溶解，不套用叶粉调浆步骤。在实际蛋白质、盐和 pH 条件下设置基底空白，比较加工与储存后的砂感、沉淀再分散性及热处理后絮凝。枸杞果汁粉则对应另一类果味冲调饮料，重点是载体、复溶和颜色，不作为植物奶基底。</p>",
+        "<a class=\"inline-block mt-4 text-primary underline\" href=\"/zh/plant-extracts/ingredients/green-tea#formulation-oat-latte\">绿茶燕麦拿铁：原料分工与试配顺序 →</a>"
+      ]
+    }
+  ]
+}

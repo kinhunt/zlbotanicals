@@ -1,0 +1,62 @@
+[
+  {
+    "id": "S1",
+    "citation": 1,
+    "url": "https://bggworld.com/applephenon-apple-polyphenols/",
+    "type": "manufacturer product page",
+    "status": "web_extract text recovered; direct HTML 406; brochure 406",
+    "usable": [
+      "sources/S1.txt",
+      "sources/S1.extract.json"
+    ]
+  },
+  {
+    "id": "S2",
+    "citation": 2,
+    "url": "https://www.herbafood.de/en/products/functional-and-dietary-fibers/herbacel-aq-afb-200-and-herbacel-aq-afb-250/",
+    "type": "manufacturer product page",
+    "status": "Full HTML HTTP200; DOM-derived text used for complete evidence",
+    "usable": [
+      "sources/S2.html",
+      "sources/S2-dom.txt"
+    ]
+  },
+  {
+    "id": "P1",
+    "citation": 3,
+    "doi": "10.1016/j.foodhyd.2023.109148",
+    "url": "https://sciencedirect.com/science/article/pii/S0268005X2300694X",
+    "full_raw_url": "https://pure.au.dk/ws/files/401405490/1-s2.0-S0268005X2300694X-main.pdf",
+    "type": "primary laboratory cascade extraction study",
+    "status": "Full publisher PDF HTTP200 recovered via university repository; ScienceDirect raw blocked; first web_extract complete cached text retained",
+    "usable": [
+      "sources/P1.pdf",
+      "sources/P1-pdf.txt",
+      "sources/P1.txt"
+    ]
+  },
+  {
+    "id": "P2",
+    "citation": 4,
+    "doi": "10.3390/ph15020244",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8880626/fullTextXML",
+    "type": "primary analytical study, non-fruit apple tissues",
+    "status": "Full XML HTTP200",
+    "usable": [
+      "sources/P2.xml",
+      "sources/P2.txt"
+    ]
+  },
+  {
+    "id": "P3",
+    "citation": 5,
+    "doi": "10.1021/acsomega.3c03218",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10785061/fullTextXML",
+    "type": "primary Golden Delicious pomace analytical study",
+    "status": "Full XML HTTP200",
+    "usable": [
+      "sources/P3.xml",
+      "sources/P3.txt"
+    ]
+  }
+]

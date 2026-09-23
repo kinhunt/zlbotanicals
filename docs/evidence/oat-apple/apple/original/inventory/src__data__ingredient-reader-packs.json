@@ -1,0 +1,677 @@
+[
+  {
+    "productId": "grape-seed",
+    "approval": "editorial-reviewed",
+    "sourcePack": "c/grape-seed/article.json",
+    "content": {
+      "en": [
+        {
+          "id": "identity",
+          "heading": "Material identity",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Proanthocyanidins are mixtures of linked flavan-3-ol units, not a single molecule. A 2000 primary methods paper separated monomers, oligomers of 2–7 units, polymers of 8–24 units and larger polymers by normal-phase HPLC. Its colourimetric methods provided only crude information about size distribution. Therefore, an “OPC” percentage without the method, reference material and degree-of-polymerization definition is not a complete specification.[2]"
+            },
+            {
+              "type": "paragraph",
+              "text": "For procurement, distinguish a broad extract, a selectively enriched polyphenol fraction and a carrier-containing dried preparation. Request the botanical species and seed part, extraction solvent, whether seeds were previously processed or defatted, drying carrier and its proportion, assay basis and chromatographic fingerprint. Compare total phenolics, precipitable tannin equivalents and resolved oligomer fractions in separate columns. These are proposed purchasing controls; do not relabel one analytical quantity as another."
+            },
+            {
+              "type": "paragraph",
+              "text": "Do not accept a high colour reaction alone as proof of grape seed identity. Villani and colleagues profiled 21 commercial grape seed-derived products and reported nine adulterated with peanut skin extract. That is a finding in the sampled products, not a current market-wide adulteration rate. Their abstract reports HPLC/UV/MS profiling and a TLC screen for peanut-skin adulteration.[20]"
+            }
+          ]
+        },
+        {
+          "id": "effects",
+          "heading": "Effects and human research",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The 2022 extraction study identified catechin, procyanidin B2 and oligomeric/polymeric proanthocyanidins in the enriched fraction. Its biological experiments used palmitic-acid-treated mouse AML12 hepatocytes; reductions in cellular oxidative stress and lipid accumulation were in vitro results, not proof that a grape seed drink treats fatty liver.[10]"
+            },
+            {
+              "type": "paragraph",
+              "text": "A randomized, double-blind trial enrolled 80 adults with mildly elevated blood pressure and tested the specified Enovita grape seed extract at 300 mg/day for 16 weeks. Despite the positive article title, the discussion reports comparable systolic blood-pressure lowering between groups overall. Sex-stratified analyses found some differences in men, while women did not show superiority over placebo. This does not establish that an unspecified grape seed extract lowers blood pressure in all users.[15]"
+            },
+            {
+              "type": "paragraph",
+              "text": "The trial excluded people taking blood-pressure medicines, statins or interfering supplements and used postmenopausal women. Its results should not be extended to those excluded groups, pregnancy, children or an untested combination product.[15] For development, review daily intake and concurrent medicines with a qualified safety assessor; do not derive a universal safe dose from a single trial or advertise the ingredient as a replacement for treatment."
+            }
+          ]
+        },
+        {
+          "id": "components",
+          "heading": "Material forms and composition",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Proanthocyanidins span monomers/oligomers/polymers; OPC needs a size definition, assay and reference standard."
+            }
+          ],
+          "legacy": true
+        },
+        {
+          "id": "applications",
+          "heading": "Application selection",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "For a grape seed extract capsule, the first question is whether each unit delivers a reproducible polyphenol profile. For a drink, it is whether the selected powder disperses at the intended serving level without unacceptable taste or sediment. For skin care, it is whether the actual extract remains compatible with the base, preservative system and package. The plans below treat these as separate development tasks, rather than assuming one high-assay powder fits every format."
+            },
+            {
+              "type": "paragraph",
+              "text": "Grape seed extract (GSE) here means a seed-derived polyphenol ingredient containing flavan-3-ols and proanthocyanidins. It is not grape seed oil, grape skin colour, grape juice or isolated resveratrol. A study preparing materials for a clinical trial characterized grape seed extract capsules, resveratrol capsules and Concord grape juice separately; botanical association did not make their compositions interchangeable.[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Use the three plans as pilot designs, not proven commercial recipes, dosage advice or evidence of efficacy. Their ingredient roles, order of addition and release tests are editorial development recommendations. Local ingredient permissions, exposure assessment and finished-product testing must determine whether any plan can proceed."
+            }
+          ]
+        },
+        {
+          "id": "formulations",
+          "heading": "Three product development plans",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "These are pilot-development plans. Set ingredient levels and acceptance criteria for the selected market, then verify compatibility, safety and stability in the finished product."
+            }
+          ]
+        },
+        {
+          "id": "processes",
+          "heading": "Processing and equipment",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "A useful process map is seed sorting and identity release → controlled size reduction if justified → water or aqueous-ethanol extraction → solid/liquid separation → optional enrichment and washing → solvent recovery and concentration → drying → blending and packing. This is a proposed engineering map, not a claim that every supplier follows the same route. The research extraction and the hot-water patent below use different routes and must not be merged into a purported validated operating recipe.[10][8]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Thilakarathna and Rupasinghe used 1.0 g seed samples in 50 mL tubes. Their optimized ultrasound-assisted conditions were 47% ethanol, 10:1 solvent-to-solid ratio by volume/weight, 53 minutes and 60 °C. The reported yield was 25.3 ± 1.26 mg catechin equivalents per gram fresh-weight basis, measured with a methylcellulose-precipitable tannin assay. That is a method-defined equivalent yield, not 25.3 mg of individually weighed pure OPC molecules, and not an industrial production guarantee.[10]"
+            },
+            {
+              "type": "paragraph",
+              "text": "At pilot scale, use a screened feed system and a jacketed agitated extraction vessel with temperature measurement. An ultrasound module is an experimental option when scaling that study, not a reason to copy its minutes unchanged. Compare mixing, solids loading, energy per processed mass, temperature history and marker recovery against a non-ultrasound control. Use a centrifuge or filter sized for the actual cake and liquid; finer milling should be accepted only if the additional recovery outweighs the separation burden. These are engineering test recommendations."
+            },
+            {
+              "type": "paragraph",
+              "text": "Where enrichment is needed, qualify the adsorption medium and measure breakthrough, wash losses, elution recovery and cleaning performance. The hot-water patent describes dual pH treatment, enzyme treatment and an adsorbent-resin route; those particulars belong to that disclosure, not a compulsory standard for all GSE.[8] For an ethanol route, specify compatible closed solvent handling, recovery, ventilation and ignition controls through site engineering. Measure solvent residues in the dried ingredient rather than assuming evaporation removes everything."
+            },
+            {
+              "type": "paragraph",
+              "text": "Choose vacuum concentration and spray or vacuum drying through a mass balance and stability trial. Track dry solids, total phenolic assay and chromatographic markers separately across every major step. If a drying carrier is used, declare it and correct the assay basis; a change in percentage can reflect dilution rather than chemical loss. Set dryer conditions from outlet/product behaviour, moisture and recovery data, not from the laboratory extraction temperature."
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "Quality and safety",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "For each incoming lot, propose an identity fingerprint against authenticated grape seed material, a method-defined potency result and a declared carrier/solvent history. Add risk-based tests for moisture, microbial load, relevant pesticides, elemental contaminants and residual solvents with limits chosen for the market and product category. Where adulteration is a concern, use a targeted screen as well as the main assay. The 2015 primary study shows why a total-polyphenol result alone cannot settle identity.[20]"
+            },
+            {
+              "type": "paragraph",
+              "text": "The marker panel must fit the intended comparison. A chromatogram can distinguish size fractions that a colourimetric result cannot; capsule quality work also shows how multiple small-molecule markers can be quantified.[2][11] Validate sample extraction and recovery in the actual beverage, capsule or serum. Include an extract-free matrix blank to reveal interference, then follow the same markers during storage."
+            },
+            {
+              "type": "paragraph",
+              "text": "Agree acceptance criteria before the stability study starts. A drink needs sensory, sediment, analytical and microbiological criteria; a capsule needs uniformity, release and package-protection criteria; a serum needs viscosity, appearance, preservative performance and skin-safety criteria. These tests answer different questions. A large antioxidant-assay value cannot compensate for failed identity, poor release or microbial growth."
+            }
+          ]
+        },
+        {
+          "id": "faq",
+          "heading": "Practical questions",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Is grape seed oil a cheaper substitute? No. This article specifies a polyphenol extract and its fingerprint, whereas seed oil is a different ingredient stream. Do not transfer extract marker assays or clinical results to an oil product merely because both come from seeds. The primary manufacturing paper treats the polyphenol materials as compositionally defined preparations.[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Does “95% OPC” mean better performance? Not without knowing the assay, calibration and oligomer definition. The methods comparison showed that size distribution needs a suitable separation method; a single colourimetric number is not enough.[2] Choose a grade by the finished-product brief and verified profile, not by the largest printed percentage."
+            },
+            {
+              "type": "paragraph",
+              "text": "Can a capsule formula be poured straight into a drink? Treat that as a new formulation. A published capsule contained silica and a gelatin shell, while its quality programme measured capsule-specific uniformity and release.[11] For a drink, select a suitable ingredient form and verify taste, sediment, marker recovery and preservation again."
+            },
+            {
+              "type": "paragraph",
+              "text": "Can the ingredient support a blood-pressure or anti-ageing promise? The oral trial studied one specified extract and did not show uniform superiority across its overall analysis and sex subgroups.[15] The evidence assembled here contains no finished-serum efficacy trial. Keep a formulation concept separate from a substantiated consumer claim."
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "Research cases",
+          "blocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Research",
+                "Material/scale",
+                "Finding and use"
+              ],
+              "rows": [
+                [
+                  "2022 extraction optimization",
+                  "Mixed commercial seeds/powder; 1 g in 50 mL tubes",
+                  "Heated ultrasound reduced time/solvent needs under specified conditions; process-screening starting point[14]"
+                ],
+                [
+                  "Biological work within that paper",
+                  "Sugar-free research fraction; palmitate-treated AML12 mouse hepatocytes",
+                  "Reduced ROS/lipid accumulation; mechanistic cell evidence, not human weight-loss or fatty-liver treatment evidence[14]"
+                ],
+                [
+                  "2000 analytical comparison",
+                  "Grape-seed extracts/products; retrieved abstract lacks total sample count",
+                  "Colorimetry and HPLC answer different questions; useful for specification design[52]"
+                ],
+                [
+                  "2015 commercial authentication",
+                  "21 products and authenticated seed/peanut-skin/pine-bark comparators",
+                  "Nine contained peanut-skin adulteration; supports orthogonal identity controls[33]"
+                ],
+                [
+                  "2021 clinical-supply CMC study",
+                  "Separate seed capsules, resveratrol capsules and grape juice",
+                  "Uniformity/profiles/stability framework, not a clinical-efficacy result[34]"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "A manageable next matrix combines two feedstocks, intact/coarsely broken states and conventional/ultrasound contact with matched thermal histories. Advance two routes to full-stream recovery and size-profile comparisons, then to protein-beverage and capsule testing. The resulting educational content can explain why equal total-polyphenol powders behave differently, instead of presenting chemical radical-scavenging rankings as clinical rankings."
+            }
+          ],
+          "legacy": true
+        },
+        {
+          "id": "patents",
+          "heading": "Relevant patents",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "US6544581B1"
+            },
+            {
+              "type": "paragraph",
+              "text": "B1 issued US patent. Original applicant/assignee: Canandaigua Wine Company, Inc.. Priority / filing / publication: 1999-06-22 / 2000-06-22 / 2003-04-08.[8]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Claim 1 covers a grape-seed polyphenol extraction process using water at about 140–212 °F followed by dual pH treatment. Claim 2 adds acidification to pH 1.5–2.5, pectolytic enzyme treatment and adsorbent resin; claim 5 specifies basification to pH 4.0–6.0. These are claim limitations, not merely the title. Claims 12–15 tie food, beverage, cosmetic and supplement products to the extract of claim 11.[8]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Relevant to seed-polyphenol manufacture and downstream product forms, not to oil pressing. It illustrates why clarification, pH history and resin qualification belong in a process review. It does not validate the three editorial formulations above.[8]"
+            },
+            {
+              "type": "heading",
+              "text": "US7767235B2"
+            },
+            {
+              "type": "paragraph",
+              "text": "B2 issued US patent. Original applicant/assignee: Constellation Brands, Inc.. Priority / filing / publication: 2005-09-28 / 2006-09-27 / 2010-08-03.[9]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Claim 1 defines a grape polyphenol extract by about 5–15% monomers, 5–20% dimers, 3–10% trimers, 2–10% tetramers and 2–10% pentamers by weight, with about 2% or less epicatechin-gallate terminal units. Claim 9 adds a pharmaceutically acceptable excipient to the defined extract; claim 17 concerns a food or beverage comprising that composition. This is a composition-focused granted claim set, not a general claim to every grape seed product.[9]"
+            },
+            {
+              "type": "paragraph",
+              "text": "The description includes grape seed extraction, so the document is relevant to a grape seed polyphenol article even though claim 1 says grapes rather than seeds exclusively. It makes oligomer distribution and galloylation relevant procurement questions. Its family is distinct from the 1999-priority extraction family above.[6][9]"
+            }
+          ]
+        }
+      ],
+      "zh": [
+        {
+          "id": "identity",
+          "heading": "原料身份",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "原花青素是黄烷-3-醇单元连接形成的混合物，不是一个单体分子。2000年的原始方法论文用正相HPLC区分单体、2–7聚体、8–24聚体及更大聚合物；所比较的比色法对分子大小分布只能给出粗略信息。因此，“OPC”百分比若未注明方法、对照物及聚合度定义，不能算完整规格。[2]"
+            },
+            {
+              "type": "paragraph",
+              "text": "采购时区分广谱提取物、选择性富集多酚组分及含载体干燥制剂。要求供应商提供物种与籽部信息、提取溶剂、籽料是否经过前处理或脱脂、干燥载体及比例、检测基准和色谱指纹。总多酚、可沉淀单宁当量及分离测得的低聚部分应分列比较。这些是建议采购控制项，不能把一种检测量改称为另一种。"
+            },
+            {
+              "type": "paragraph",
+              "text": "不能仅凭较高的显色反应值确认葡萄籽真实性。Villani等对21款商业葡萄籽来源产品进行化学表征，报告其中9款掺有花生皮提取物。这是该批样品的结果，不是当前整个市场的掺假率。论文摘要报告了HPLC/UV/MS表征及用于花生皮掺假筛查的TLC方法。[20]"
+            }
+          ]
+        },
+        {
+          "id": "effects",
+          "heading": "作用与人体研究",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "2022年的提取研究在富集组分中检出儿茶素、原花青素B2及低聚和高聚原花青素。生物实验使用棕榈酸处理的小鼠AML12肝细胞；细胞氧化应激和脂质积累下降属于体外结果，不能证明葡萄籽饮品治疗脂肪肝。[10]"
+            },
+            {
+              "type": "paragraph",
+              "text": "一项随机双盲试验纳入80名血压轻度升高的成人，以每日300 mg特定Enovita葡萄籽提取物干预16周。虽然文章标题偏正面，其讨论部分报告总体组间收缩压降低效果相近。按性别分析时，男性部分比较出现差异，女性未显示优于安慰剂。不能据此认定任何葡萄籽提取物都能使所有使用者降压。[15]"
+            },
+            {
+              "type": "paragraph",
+              "text": "该试验排除了服用降压药、他汀类药物或干扰性补充剂的人群，女性受试者为绝经后女性。结果不应外推至被排除人群、孕期、儿童或未经测试的复配产品。[15] 开发中应由合格安全评估人员审核每日摄入量和合并用药，不能从单项试验推导通用安全剂量，也不能宣传原料可替代治疗。"
+            }
+          ]
+        },
+        {
+          "id": "components",
+          "heading": "原料形态与组成",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "原花青素体系涉及单体、低聚体与聚合体；OPC 需明确聚合度范围、方法及对照品。"
+            }
+          ],
+          "legacy": true
+        },
+        {
+          "id": "applications",
+          "heading": "应用选择",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "葡萄籽提取物用于胶囊，首先要解决每粒多酚组成是否一致；用于饮品，要确认目标添加量下的分散性、口感和沉淀是否可接受；用于护肤品，则要验证该批提取物与基质、防腐体系及包装的相容性。下面把这三类产品分别设计，不假定一个高含量粉末能够通用。"
+            },
+            {
+              "type": "paragraph",
+              "text": "本文的葡萄籽提取物（GSE）是来自籽部的多酚原料，含黄烷-3-醇和原花青素，不是葡萄籽油、葡萄皮色素、葡萄汁或单独的白藜芦醇。临床供样质量研究分别表征葡萄籽提取物胶囊、白藜芦醇胶囊及康科德葡萄汁；同属葡萄相关原料，并不代表化学组成可以互换。[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "以下三个方案是小试设计，不是已验证的商业配方、服用剂量建议或功效证据。配伍角色、加料顺序及放行测试属于本文提出的开发建议，是否实施应由当地原料准入、暴露评估和成品测试决定。"
+            }
+          ]
+        },
+        {
+          "id": "formulations",
+          "heading": "三个终端产品配伍方案",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "以下为小试开发方案。按目标市场确定添加量和验收标准，再验证成品的相容性、安全性与稳定性。"
+            }
+          ]
+        },
+        {
+          "id": "processes",
+          "heading": "工艺与设备",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "可采用的工程路线为：籽料分选与身份放行→按试验需要受控破碎→水或水醇提取→固液分离→可选富集和水洗→溶剂回收与浓缩→干燥→均化包装。这是建议工程路线，不代表所有供应商采用同一工艺。下面的研究提取与热水专利属于不同路线，不应拼成所谓已验证的操作规程。[10][8]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Thilakarathna与Rupasinghe在50 mL管内使用1.0 g籽样。优化后的超声辅助条件为47%乙醇、液固比10:1（体积/质量）、53分钟及60 °C。采用甲基纤维素可沉淀单宁法，报告产量为25.3 ± 1.26 mg儿茶素当量/g鲜重基准。这是方法定义的当量产量，不是逐个分子称量得到的25.3 mg纯OPC，也不是工业产量保证。[10]"
+            },
+            {
+              "type": "paragraph",
+              "text": "中试可采用筛分进料系统及配有温度测量的夹套搅拌提取罐。放大上述研究时可试用超声模块，但不能照搬分钟数。应比较混合状态、固体负荷、单位处理质量能耗、温度历程及标志成分回收率，并设置无超声对照。离心机或过滤器按实际滤饼与液体性质选型；只有新增回收量足以抵偿分离负担，才接受更细粉碎。这些属于工程试验建议。"
+            },
+            {
+              "type": "paragraph",
+              "text": "需要富集时，应确认吸附介质适用性，测定穿透、水洗损失、洗脱回收率和清洗效果。热水专利描述了双pH处理、酶处理和吸附树脂路线；这些细节属于该披露，不是所有GSE必须遵循的标准。[8] 采用乙醇路线时，应由现场工程设计配套的密闭溶剂输送、回收、通风及点火源控制；干粉残留溶剂必须检测，不能假定蒸发已除尽。"
+            },
+            {
+              "type": "paragraph",
+              "text": "真空浓缩以及喷雾或真空干燥的选择，应通过物料衡算和稳定性试验决定。每个主要单元都应分别追踪干固形物、总多酚检测值和色谱标志成分。使用干燥载体时需申明并校正检测基准；含量百分比变化可能源于稀释，而不是化学损失。干燥条件应依据出口及物料表现、水分和回收数据制定，不能直接套用实验室提取温度。"
+            }
+          ]
+        },
+        {
+          "id": "standards",
+          "heading": "质量与安全",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "对每批进料，建议设置与真品葡萄籽材料比对的身份指纹、方法明确定义的含量结果，以及载体和溶剂历史声明。根据风险增加水分、微生物、相关农残、元素污染物及残留溶剂检测，限值按市场与产品类别确定。担心掺假时，在主含量测定之外加入针对性筛查。2015年原始研究说明，仅凭总多酚结果不能判定身份。[20]"
+            },
+            {
+              "type": "paragraph",
+              "text": "标志物组合必须适合所要比较的问题。色谱可区分比色结果无法说明的聚合度部分；胶囊质量研究也展示了多种小分子标志物的定量方法。[2][11] 饮品、胶囊或精华都需在实际基质中验证样品提取和回收率，使用不含提取物的基质空白排查干扰，并在储存中持续追踪相同标志物。"
+            },
+            {
+              "type": "paragraph",
+              "text": "稳定性试验开始前先约定接受标准。饮品需要感官、沉淀、分析及微生物标准；胶囊需要均匀度、释放和包装保护标准；精华需要黏度、外观、防腐表现及皮肤安全标准。这些测试回答不同问题。较高的抗氧化测定值不能弥补身份不符、释放不良或微生物生长。"
+            }
+          ]
+        },
+        {
+          "id": "faq",
+          "heading": "实用问答",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "葡萄籽油能作为低价替代吗？不能。本文规定的是多酚提取物及其指纹，籽油属于不同原料物流。不能仅凭二者同出于籽部，就把提取物检测指标或临床结果转用于油产品。原始生产质量论文按明确的化学组成表征多酚制剂。[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "“95% OPC”就代表表现更好吗？首先要知道检测方法、校准方式和低聚定义。方法比较研究表明，聚合度分布需要合适的分离方法，单一比色数值不够。[2] 原料等级应由产品任务和已核实的组成决定，不按标签上最大的百分比选择。"
+            },
+            {
+              "type": "paragraph",
+              "text": "胶囊配方能直接倒进饮品吗？应视为新配方重新开发。已发表的胶囊含二氧化硅并使用明胶囊壳，其质量计划测量的是胶囊的均匀度与释放。[11] 饮品需要重新选择适用原料形态，并验证口感、沉淀、标志物回收及防腐。"
+            },
+            {
+              "type": "paragraph",
+              "text": "能否据此承诺降压或抗衰老？口服试验研究的是一种特定提取物，其总体分析和性别亚组并未一致显示优于安慰剂。[15] 本文所汇集证据没有成品精华功效试验。配方概念与有证据支持的消费者宣称应分开。"
+            }
+          ]
+        },
+        {
+          "id": "insights",
+          "heading": "研究案例",
+          "blocks": [
+            {
+              "type": "table",
+              "headers": [
+                "研究",
+                "材料与规模",
+                "结果",
+                "能用于什么"
+              ],
+              "rows": [
+                [
+                  "2022提取响应面原始实验",
+                  "商业混合品种籽/籽粉，1 g/50 mL管；47%乙醇等特定条件",
+                  "加热超声降低时间与溶剂需求，回收单体至聚合物",
+                  "工艺筛选起点，不是吨级性能承诺[14]"
+                ],
+                [
+                  "同研究生物实验",
+                  "糖去除后的研究提取部分；AML12小鼠肝细胞、棕榈酸模型",
+                  "降低细胞ROS与脂质积累",
+                  "机制与候选研究，不是人体减脂或脂肪肝治疗证据[14]"
+                ],
+                [
+                  "2000原始方法比较",
+                  "葡萄籽提取物及相关产品；摘要未给总样本数",
+                  "比色与HPLC提供不同信息，聚合度谱显著变化",
+                  "建立可比规格与分级思想[52]"
+                ],
+                [
+                  "2015商业真实性调查",
+                  "21商业产品，真实籽/花生皮/松树皮对照",
+                  "9样品含花生皮掺杂",
+                  "指纹和正交筛查的必要性[33]"
+                ],
+                [
+                  "2021临床供样质量研究",
+                  "葡萄籽胶囊、白藜芦醇胶囊、葡萄汁分别测试",
+                  "质量均匀性、化学谱及稳定性评价框架",
+                  "研究供样的CMC控制，不是该论文证明临床有效[34]"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "下一轮建议用两种原料来源、整籽/粗破碎两种状态与常规/超声两种接触方式做可管理的筛选矩阵，温度履历匹配；对最优两路线做全物流回收与聚合度谱比较，再进入蛋白饮料和胶囊两个实际应用。品牌内容可以由此解释“为什么相同总多酚的两款粉表现不同”，而不是把化学自由基清除的排名包装成临床效果排名。"
+            }
+          ],
+          "legacy": true
+        },
+        {
+          "id": "patents",
+          "heading": "相关专利",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "US6544581B1"
+            },
+            {
+              "type": "paragraph",
+              "text": "B1 issued US patent. 原始申请人／受让人: Canandaigua Wine Company, Inc.. 优先权日／申请日／公开日: 1999-06-22 / 2000-06-22 / 2003-04-08.[8]"
+            },
+            {
+              "type": "paragraph",
+              "text": "权利要求1涉及用约140–212 °F水提取葡萄籽，并进行双pH处理的多酚提取工艺。权利要求2增加pH 1.5–2.5酸化、果胶酶处理及吸附树脂；权利要求5规定碱化至pH 4.0–6.0。这些来自权利要求限定，而不是仅凭标题判断。权利要求12–15将食品、饮料、化妆品及补充剂与权利要求11的提取物相联系。[8]"
+            },
+            {
+              "type": "paragraph",
+              "text": "与籽多酚制造及后续产品形态有关，不是榨油工艺。该披露说明工艺评审为何需要考虑澄清、pH历程及树脂确认，但不验证本文三个建议配方。[8]"
+            },
+            {
+              "type": "heading",
+              "text": "US7767235B2"
+            },
+            {
+              "type": "paragraph",
+              "text": "B2 issued US patent. 原始申请人／受让人: Constellation Brands, Inc.. 优先权日／申请日／公开日: 2005-09-28 / 2006-09-27 / 2010-08-03.[9]"
+            },
+            {
+              "type": "paragraph",
+              "text": "权利要求1按质量限定葡萄多酚提取物：单体约5–15%、二聚体5–20%、三聚体3–10%、四聚体2–10%、五聚体2–10%，并要求表儿茶素没食子酸酯末端单元约不超过2%。权利要求9在所定义提取物中加入药学可接受辅料；权利要求17涉及含该组合物的食品或饮料。这组授权权利要求侧重组成，不是对所有葡萄籽产品的笼统权利要求。[9]"
+            },
+            {
+              "type": "paragraph",
+              "text": "说明书包含葡萄籽提取，因此即使权利要求1写的是葡萄而非仅限葡萄籽，该文件仍与葡萄籽多酚原料有关。它提示采购应关注低聚分布和没食子酰化特征。该家族与上述1999年优先权的提取家族不同。[6][9]"
+            }
+          ]
+        }
+      ]
+    },
+    "plans": [
+      {
+        "id": "berry-drink",
+        "title": {
+          "en": "Berry-flavoured grape seed polyphenol drink",
+          "zh": "莓果风味葡萄籽多酚饮品"
+        },
+        "content": {
+          "en": [
+            {
+              "type": "paragraph",
+              "text": "Use a supplier-qualified water-dispersible grape seed extract as the defined polyphenol input; berry flavour and a permitted sweetener build the sensory base, while citric acid adjusts acidity. Water is the vehicle. Keep added protein and mineral fortification out of the first screening batch so that any change in haze can be traced to fewer variables. Do not use grape seed oil as the polyphenol input."
+            },
+            {
+              "type": "paragraph",
+              "text": "Make a blank flavour base first. Separately disperse the extract in a measured portion of water, then add it slowly to the base under moderate stirring. Add diluted acid in increments, record pH and restore final batch mass with water. Compare a blank and three extract levels around the supplier-supported intended use level, recording actual milligrams per serving. Apply the intended preservation or thermal process to each candidate before making a shelf-life decision."
+            },
+            {
+              "type": "paragraph",
+              "text": "Compare astringency, colour, turbidity and sediment immediately, after processing and during storage at the intended and accelerated conditions. Assay marker recovery in the drink, not only in the starting powder. If clarification is required, assay before and after filtration to detect removal of the intended polyphenols. A clear day-one sample does not establish stability. Treat protein, calcium or iron addition as a separate compatibility experiment; do not promise compatibility without that test. Establish microbial controls for the finished drink independently of antioxidant assays."
+            }
+          ],
+          "zh": [
+            {
+              "type": "paragraph",
+              "text": "选用经供应商资料及实测确认可在水中分散的葡萄籽提取物，承担可定量的多酚来源角色；莓果香味与合规甜味剂构成风味基础，柠檬酸调节酸度，水为载体。首轮筛选暂不加入蛋白和强化矿物质，以减少浑浊变化的排查变量。不能以葡萄籽油替代多酚原料。"
+            },
+            {
+              "type": "paragraph",
+              "text": "先配制不含提取物的风味空白基底。另取定量水预分散提取物，在适度搅拌下缓慢加入基底；再分次加入稀释酸液，记录pH，以水补足批次质量。围绕供应商支持的预期使用水平设置三个提取物梯度及空白样，记录每份实际毫克数。各候选样都应经历拟采用的防腐或热加工流程后再评价货架期。"
+            },
+            {
+              "type": "paragraph",
+              "text": "在配制后、加工后，以及目标储存条件和加速条件下，比较涩感、颜色、浊度和沉淀。检测饮品中标志成分的回收率，不能只检测原粉。需要澄清时，应对过滤前后取样测定，排查目标多酚随过滤被去除的情况。当天清澈不能证明长期稳定。蛋白、钙或铁的加入应另设相容性试验，未测试不承诺相容；饮品的微生物控制不能由抗氧化测定代替。"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/landscape/grape-seed/berry-drink.webp",
+          "width": 768,
+          "height": 512,
+          "alt": {
+            "en": "Berry-flavoured grape seed drink with berries, seeds and extract powder.",
+            "zh": "莓果风味葡萄籽饮品、莓果、葡萄籽与提取粉。"
+          },
+          "caption": {
+            "en": "Berry-flavoured grape seed drink with berries, seeds and extract powder.",
+            "zh": "莓果风味葡萄籽饮品、莓果、葡萄籽与提取粉。"
+          }
+        }
+      },
+      {
+        "id": "capsule",
+        "title": {
+          "en": "Standardized grape seed extract capsule",
+          "zh": "标准化葡萄籽提取物胶囊"
+        },
+        "content": {
+          "en": [
+            {
+              "type": "paragraph",
+              "text": "Use a fingerprinted, standardized dry extract as the polyphenol ingredient. Microcrystalline cellulose is a proposed filler where the fill volume requires it; a small, justified amount of colloidal silica can be screened as a flow aid. Select a capsule shell through disintegration and stability testing, rather than assuming shell material is neutral. A published manufacturing study used 450 mg grape seed extract and 50 mg silica in a size 0 hard gelatin capsule; that is a documented study formulation, not a recommended dose or an instruction to copy its relatively large silica fraction.[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Confirm the target extract mass per capsule from the product specification and safety review. Measure bulk density before choosing capsule size. Sieve and weigh the dry materials, geometrically dilute the extract with the filler, then add the flow aid in a short final blending step. Sample multiple blender locations, fill a pilot run and sample the beginning, middle and end. Package selected candidates with a justified moisture barrier; evaluate a desiccant rather than adding one by habit."
+            },
+            {
+              "type": "paragraph",
+              "text": "Set both fill-mass and marker-content uniformity criteria; equal capsule weights do not prove equal polyphenol doses. Check moisture, powder flow, segregation and shell integrity after storage. Assess disintegration and a justified dissolution or release method for selected markers. The primary quality study used gallic acid, catechin, procyanidin B2 and epicatechin as grape seed capsule markers and described UHPLC-QQQ/MS quantification; this is a useful analytical starting point, not automatic method validation for a different product.[11]"
+            }
+          ],
+          "zh": [
+            {
+              "type": "paragraph",
+              "text": "以具有指纹图谱的标准化干提取物提供多酚。需要补足装量体积时，可筛选微晶纤维素作为填充剂；助流可筛选少量且有依据的胶态二氧化硅。囊壳应通过崩解和稳定性测试选择，不预设囊壳材料完全没有影响。一项生产质量研究将450 mg葡萄籽提取物与50 mg二氧化硅装入0号硬明胶胶囊；这是该研究的供样配方，不是推荐剂量，也不意味着应照搬其较高的二氧化硅比例。[11]"
+            },
+            {
+              "type": "paragraph",
+              "text": "依据产品规格和安全评估确定每粒提取物质量，测定堆密度后再选择胶囊规格。干物料过筛称量，采用等量递增方式混合提取物与填充剂，助流剂在末段短时混合加入。混合机多点取样后进行小批灌装，在初、中、末段分别抽样。候选样采用有依据的阻湿包装，是否使用干燥剂应经评估，而非惯例添加。"
+            },
+            {
+              "type": "paragraph",
+              "text": "同时设定装量和标志成分均匀度要求；胶囊等重不代表多酚剂量一致。储存后检查水分、粉体流动性、分层和囊壳完整性，并评价崩解及有依据的标志成分溶出或释放方法。原始质量研究以没食子酸、儿茶素、原花青素B2和表儿茶素作为葡萄籽胶囊标志物，采用UHPLC-QQQ/MS定量；这可作为方法开发起点，但不能直接视为另一款产品已经完成的方法验证。[11]"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/landscape/grape-seed/capsule.webp",
+          "width": 768,
+          "height": 512,
+          "alt": {
+            "en": "Grape seed extract capsules with brown powder and seeds.",
+            "zh": "葡萄籽提取物胶囊、棕色粉体与葡萄籽。"
+          },
+          "caption": {
+            "en": "Grape seed extract capsules with brown powder and seeds.",
+            "zh": "葡萄籽提取物胶囊、棕色粉体与葡萄籽。"
+          }
+        }
+      },
+      {
+        "id": "serum",
+        "title": {
+          "en": "Grape seed extract hydrating gel serum",
+          "zh": "葡萄籽提取物保湿凝胶精华"
+        },
+        "content": {
+          "en": [
+            {
+              "type": "paragraph",
+              "text": "Screen a cosmetic-grade, water-compatible seed extract as a botanical polyphenol ingredient in a simple water-glycerin gel. Glycerin supplies humectancy; a compatible cellulose-based thickener provides texture; a locally permitted preservative system provides microbial protection. The extract is not the emulsifier, not a substitute for preservative and not an oil-phase emollient. The extraction patent includes a dependent cosmetic-product claim, but that does not prove efficacy in this serum.[8]"
+            },
+            {
+              "type": "paragraph",
+              "text": "Hydrate the thickener in the water-glycerin base using its supplier procedure, and prepare an extract predispersion separately. Add the extract only after the base is homogeneous and within the extract supplier’s supported temperature range. Add and distribute the preservative as its supplier specifies, adjust pH gradually, then deaerate and fill. Prepare an extract-free control and two or three extract levels within the supported cosmetic use range. Leave fragrance and extra botanicals out until the base passes compatibility screening."
+            },
+            {
+              "type": "paragraph",
+              "text": "Track colour, odour, pH, viscosity, visible particles and marker retention through heat/cool cycling and storage in the intended package. Compare light exposure where package choice makes it relevant. Challenge-test the final preserved formula and assess irritation and exposure before consumer testing. Any skin-benefit claim needs finished-product evidence; neither a chemical antioxidant result nor the oral clinical trial establishes skin penetration, whitening, collagen protection or sunscreen performance."
+            }
+          ],
+          "zh": [
+            {
+              "type": "paragraph",
+              "text": "在简单的水—甘油凝胶中，筛选化妆品级且适用于水相的葡萄籽提取物作为植物多酚原料。甘油承担保湿作用，相容的纤维素类增稠剂提供质地，当地允许的防腐体系控制微生物。提取物不是乳化剂，不替代防腐剂，也不是油相润肤脂。提取专利确有涉及化妆品的从属权利要求，但不能据此证明本精华的功效。[8]"
+            },
+            {
+              "type": "paragraph",
+              "text": "按增稠剂供应商工艺在水—甘油基底中完成水化，另配提取物预分散液。基底均一并降至提取物供应商支持的温度范围后，再加入提取物；依防腐体系规定加入并混匀，逐步调pH，脱泡灌装。设置无提取物空白，以及符合化妆品用途支持范围的两至三个提取物梯度。基底通过相容性筛选前，先不加入香精和其他植物原料。"
+            },
+            {
+              "type": "paragraph",
+              "text": "在冷热循环及拟用包装的储存试验中，跟踪颜色、气味、pH、黏度、可见颗粒和标志成分保留率；包装选择涉及光照时，应设置明暗对照。对最终防腐配方进行挑战试验，在消费者测试前评价刺激性和暴露。皮肤功效宣称需要成品证据；化学抗氧化结果和口服临床试验都不能证明皮肤渗透、美白、胶原保护或防晒性能。"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/ingredient-plans/landscape/grape-seed/serum.webp",
+          "width": 768,
+          "height": 512,
+          "alt": {
+            "en": "Grape seed gel serum in a pump bottle with a translucent gel sample.",
+            "zh": "葡萄籽凝胶精华泵瓶与半透明凝胶样品。"
+          },
+          "caption": {
+            "en": "Grape seed gel serum in a pump bottle with a translucent gel sample.",
+            "zh": "葡萄籽凝胶精华泵瓶与半透明凝胶样品。"
+          }
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": 2,
+        "title": "Grape seed proanthocyanidins: extraction study (2000)",
+        "url": "https://www.ajevonline.org/content/51/4/383",
+        "accessed": "2026-09-11"
+      },
+      {
+        "id": 5,
+        "title": "US6544581B1",
+        "url": "https://patents.google.com/patent/US6544581B1/en",
+        "accessed": "2026-09-11"
+      },
+      {
+        "id": 6,
+        "title": "US7767235B2",
+        "url": "https://patents.google.com/patent/US7767235B2/en",
+        "accessed": "2026-09-11"
+      },
+      {
+        "id": 10,
+        "title": "Grape seed proanthocyanidin extraction study (2022)",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8877132/fullTextXML",
+        "accessed": "2026-09-11"
+      },
+      {
+        "id": 11,
+        "title": "Characterization of grape-derived materials prepared for a clinical trial (2021)",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8716858/fullTextXML",
+        "accessed": "2026-09-11"
+      },
+      {
+        "id": 15,
+        "title": "Grape seed extract and blood pressure: randomized trial (2021)",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7922661/fullTextXML",
+        "accessed": "2026-09-11"
+      },
+      {
+        "id": 20,
+        "title": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A25306345&format=json&resultType=core",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A25306345&format=json&resultType=core",
+        "accessed": "2026-09-11"
+      },
+      {
+        "id": 8,
+        "title": "US6544581B1 issued patent primary PDF",
+        "url": "https://patentimages.storage.googleapis.com/b8/09/e2/7759f7bfd2bc61/US6544581.pdf",
+        "accessed": "2026-09-11"
+      },
+      {
+        "id": 9,
+        "title": "US7767235B2 issued patent primary PDF",
+        "url": "https://patentimages.storage.googleapis.com/07/01/99/a7af160fae34e7/US7767235.pdf",
+        "accessed": "2026-09-11"
+      }
+    ]
+  }
+]

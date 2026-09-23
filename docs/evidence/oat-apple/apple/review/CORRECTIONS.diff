@@ -1,0 +1,86 @@
+--- author/draft.en.md
++++ review/draft.en.md
+@@ -43,7 +43,7 @@
+ 
+ The analyses also followed different targets. Phenolic recovery used a Folin–Ciocalteau measurement calibrated with gallic acid, alongside phenolic-acid chromatography. Pectin characterization examined sugar composition, molecular-size distribution and methylation, among other properties. Extraction conditions changed the pectin populations recovered. [3, §§2.3, 3.3–3.5]
+ 
+-This study provides a useful sourcing distinction: **“made from apple pomace” describes a starting material, not the identity of the resulting ingredient**. Request which fraction is collected, which soluble or insoluble material is removed, and what remains in the powder. A phenolic extract should not inherit the water-binding specification of the residual fibre; a pectin ingredient should not inherit the phenolic assay of the first extraction stream.
++This study provides a useful sourcing distinction: **“made from apple pomace” describes a starting material, not the identity of the resulting ingredient**. Ask which fraction is collected, which soluble or insoluble components are removed, and what remains in the powder. A phenolic extract should not inherit the water-binding specification of the residual fibre; a pectin ingredient should not inherit the phenolic assay of the first extraction stream.
+ 
+ The paper's laboratory radical-scavenging test is likewise not a finished-food shelf-life test. If an extract is being considered to control oxidation in a formula, compare it against the appropriate control in that food, using its actual processing and storage conditions. That is a separate development question from measuring the incoming extract's phenolic content.
+ 
+@@ -66,13 +66,13 @@
+ | Compound | Percentage of total chromatographic area reported in the study |
+ |---|---:|
+ | Epicatechin | 38.73% |
+-| Chlorogenic acid | 19.86% |
++| Chlorogenic acid | 9.86% |
+ | Phloridzin | 0.73% |
+ | Phloretin | 0.42% |
+ 
+ These are **peak-area percentages**, not mass percentages in pomace or in a commercial dry extract. The paper describes its profile assignments as tentative and uses available standards and mass-spectrometric information in its identification work. The area values therefore must not be recast as a specification for purified phloridzin or used to calculate a serving dose. [5, Table 3]
+ 
+-A separate result in Table 2 is the phenolic extract's HPLC total, reported as **0.56 ± 0.01 g per 100 g of apple pomace**; the results text identifies the basis as fresh weight. The methods express the chromatographic total in **epicatechin equivalents**. This is neither 0.56 g phloridzin nor a 0.56% purity result for dried commercial extract. [5, Table 2; Methods and Results]
++A separate result in Table 2 is the phenolic extract's HPLC total, reported as **0.56 ± 0.01 g per 100 g of apple pomace**; the results text identifies the basis as fresh weight. The paper expresses the chromatographic total in **epicatechin equivalents**. This is neither 0.56 g phloridzin nor a 0.56% purity result for dried commercial extract. [5, Table 2; Methods and Results]
+ 
+ Three reporting questions prevent that error:
+ 
+@@ -80,7 +80,7 @@
+ - **What is it calibrated against?** Phloridzin standard, epicatechin equivalents, gallic acid equivalents or another reference?
+ - **What is the denominator?** Fresh pomace, dried plant material, dry extract or powder as supplied?
+ 
+-For example, converting 0.56 g per 100 g to **5.6 mg per g** changes the unit but does not change the fresh-pomace denominator or the epicatechin-equivalent basis. It still cannot be compared directly with BGG's UV procyanidin percentage. No universal numerical conversion bridges those different measurands.
++For example, converting 0.56 g per 100 g to **5.6 mg per g** changes the unit but does not change the fresh-pomace denominator or the epicatechin-equivalent basis. It still cannot be compared directly with BGG's UV procyanidin percentage. There is no universal conversion factor between these different analytical results.
+ 
+ ## Choose the trial that answers the ingredient's job
+ 
+--- author/draft.zh.md
++++ review/draft.zh.md
+@@ -19,7 +19,7 @@
+ | 采购对象 | 比较时应明确的内容 | 仅凭名称不能判断的内容 |
+ |---|---|---|
+ | 苹果多酚混合提取物 | 植物部位、提取路线、载体、方法明确的总量指标，以及相关色谱组成 | 多酚是否都是根皮苷；总多酚结果是否等于原花青素结果 |
+-| 以根皮苷为指标的原料 | 来源部位与工艺；以明确对照品测定的根皮苷身份和含量 | 是否来自苹果果实；根皮苷与根皮素是否可互换 |
++| 以根皮苷为指标的原料 | 来源部位与工艺；根皮苷的鉴别结果及采用明确对照品测得的含量 | 是否来自苹果果实；根皮苷与根皮素是否可互换 |
+ | 苹果纤维 | 膳食纤维组成、粒径、水化、保水、颜色，以及在配方中的质构表现 | 是否等同于分离果胶或标准化多酚提取物 |
+ | 苹果果胶 | 果胶化学特征、完整牌号、标准化辅料，以及在目标体系中的表现 | 任意苹果粉或苹果纤维能否等量替代 |
+ 
+@@ -43,7 +43,7 @@
+ 
+ 检测对象也随之改变。酚类部分采用以没食子酸校准的Folin–Ciocalteau法，并辅以酚酸色谱分析；果胶部分则分析糖组成、分子大小分布和甲酯化程度等特征。提取条件会改变获得的果胶组分。[3，§§2.3、3.3–3.5]
+ 
+-因此，**“来自苹果渣”只是原料起点，并不能定义最终商品**。询价时应说明收集的是哪一部分，工艺除去了哪些可溶或不溶组分，最终粉末中保留了什么。多酚提取物不能直接沿用残余纤维的保水指标；果胶也不能直接沿用第一步提取液的酚类含量。
++因此，**“来自苹果渣”只是原料起点，并不能定义最终商品**。询价时应请供应商说明收集的是哪一部分，工艺除去了哪些可溶或不溶组分，最终粉末中保留了什么。多酚提取物不能直接沿用残余纤维的保水指标；果胶也不能直接沿用第一步提取液的酚类含量。
+ 
+ 论文中的体外自由基清除试验，同样不等于成品食品的货架期试验。如果希望用某种苹果提取物抑制配方氧化，应在实际食品中设置适当对照，并采用目标加工与储存条件开展比较。这与进厂原料的酚类含量测定，是两个不同的开发问题。
+ 
+@@ -66,13 +66,13 @@
+ | 化合物 | 论文报告的色谱总峰面积占比 |
+ |---|---:|
+ | 表儿茶素 | 38.73% |
+-| 绿原酸 | 19.86% |
++| 绿原酸 | 9.86% |
+ | 根皮苷 | 0.73% |
+ | 根皮素 | 0.42% |
+ 
+ 这些数字是**色谱峰面积占比**，不是果渣或商业干提取物中的质量分数。论文将组成鉴定表述为暂定鉴定，并结合可用对照品与质谱信息进行判断。因此，不能把根皮苷的0.73%峰面积改写成原料含量规格，更不能据此计算每份成品的根皮苷剂量。[5，表3]
+ 
+-另一个容易混淆的数字来自表2：酚类提取部分的HPLC总量为**每100 g苹果渣含0.56 ± 0.01 g**，结果正文说明采用鲜重基准；方法部分则说明色谱总量以**表儿茶素当量**表示。它既不是“0.56 g根皮苷”，也不是“商业干提取物纯度0.56%”。[5，表2及方法、结果部分]
++另一个容易混淆的数字来自表2：酚类提取部分的HPLC总量为**每100 g苹果渣含0.56 ± 0.01 g**，结果正文说明采用鲜重基准；论文同时说明，色谱总量以**表儿茶素当量**表示。它既不是“0.56 g根皮苷”，也不是“商业干提取物纯度0.56%”。[5，表2及方法、结果部分]
+ 
+ 读含量结果时，先核对三个问题：
+ 
+@@ -84,11 +84,11 @@
+ 
+ ## 根据配方任务设计试样比较
+ 
+-开发**含多酚的饮料**时，先筛选原料身份和组成，再以明确的粉末添加量进行比较；如果检测方法确实可比，还可设置相同的酚类或标志成分添加水平。关注实际热加工和储存后的分散性、颜色、涩感、沉淀及目标成分变化。同时报告粉末用量和标志成分用量，有助于看清载体或浓度差异，而不是把差异藏在“相同添加量”里。
++开发**含多酚的饮料**时，先确认原料类别、来源和组成，再以明确的粉末添加量进行比较；如果检测方法确实可比，还可设置相同的酚类或标志成分添加水平。关注实际热加工和储存后的分散性、颜色、涩感、沉淀及目标成分变化。同时报告粉末用量和标志成分用量，有助于看清载体或浓度差异，而不是把差异藏在“相同添加量”里。
+ 
+ 开发**苹果纤维馅料或烘焙配方**时，应比较计划混合条件下的水化、析水、质构和颜色。AFB-200与AFB-250的区分说明：即使都叫苹果纤维，视觉适配性也可能不同。第一轮试验宜控制总加水量和投料顺序，避免把水量调整的作用误判为某种纤维的优势。这里提出的是配方筛选思路，并非对上述商品牌号已经完成的实测结论。
+ 
+-如果任务是**利用果胶成胶或稳定蛋白体系**，则应选定果胶牌号，单独确认其工艺窗口。“苹果来源”本身不能说明凝胶行为或钙反应性。有关凝固窗口与应用级别的选择，可继续阅读[果胶选型文章](/zh/resources/blog/citrus-pectin-gel-selection)。
++如果任务是**利用果胶成胶或稳定蛋白体系**，则应选定果胶牌号，单独确认其工艺窗口。“苹果来源”本身不能说明凝胶行为或钙反应性。有关凝胶形成条件与应用牌号的选择，可继续阅读[果胶选型文章](/zh/resources/blog/citrus-pectin-gel-selection)。
+ 
+ 同一配方需要同时加入多酚提取物和纤维时，宜先分别确认两种原料，再评价复配体系。它们在天然果实中共存，并不能确定加工产品中的适宜比例、物理稳定性或可接受风味。
+ 

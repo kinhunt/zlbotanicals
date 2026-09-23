@@ -1,0 +1,197 @@
+[
+  {
+    "claim_id": "C01",
+    "source_id": "S1",
+    "source_file": "sources/S1.txt",
+    "start_character": 229,
+    "verbatim_excerpt": "Standards: 60% procyanidins powder (UV)\n\nFields of Action: Anti-Fatigue | Anti-Oxidant | Health Support for Skin, Weight Management\n\nDownload ApplePhenonÂ® White Paper\n\n---\n\n# FROM THE LAND OF THE ORIGINAL APPLE\n\nApplePhenonÂ® is carefully extracted from specially selected immature green apples. Using a proprietary gentle extraction process, ApplePhenonÂ® from BGG preserves the highest concentration of apple polyphenols, strong antioxidant activi",
+    "claim": "Named supplier extract: immature green apple, Malus pumila Mill; 60% procyanidins powder (UV).",
+    "units_material_scope_limits": "60%; full UV method, calibrant and moisture basis not given. Not 60% phloridzin; no current-stock, certification, clinical or shelf-life adoption.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C02",
+    "source_id": "S2",
+    "source_file": "sources/S2-dom.txt",
+    "start_character": 1666,
+    "verbatim_excerpt": "Two apple fiber variants differentiated by color Herbacel® AQ® AFB-250 For color-neutral applications with high functionality at the same time Suitable for applications where a bright color is important Versatile for use alongside starches, citrus fiber and gums Herbacel® AQ® AFB-200 Supports a golden brown color tone in your food The stable brown coloring is an added value, especially for baked goods and meat alternatives. Versatile for use alongside starches, citrus fiber and gums Contact & Consulting Brochures Certificates Herbacel® AQ® AFB-200 and Herbacel® AQ® AFB-250 Enhanced texturizing with functional apple fibers Herbacel® AQ® AFB-200 Functional apple fiber – The all-in-one-solution for texture, fiber and color Herbacel® AQ® AFB und Herbacel® AQ® PLus Citrus Toast and sandwich bread with functional fruit fiber Herbarom® and Herbacel® AQ® Natural performance and pleasant appearance – Gluten-free baked goods Herbacel® AQ® AFB Optimized and sugar-reduced orange juice drinks Food Safety System Certification 03.12.2025 — PDF: 987 KB Halal Quality Control Certificate 25.06.2026 — PDF: 2 MB Kosher Certificate 10.03.2026 — PDF: 899 KB ISO 50001 Certificate 24.06.2026 — PDF: 210 KB FDA Certificate 15.10.2024 — PDF: 1 MB Let's make food better! Legal Privacy policy T&Cs Newsletter",
+    "claim": "Named supplier apple fibre AFB-250 vs AFB-200: colour-neutral/bright versus golden brown positioning.",
+    "units_material_scope_limits": "Qualitative supplier descriptions, not independent comparative measurements.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C03",
+    "source_id": "S2",
+    "source_file": "sources/S2-dom.txt",
+    "start_character": 1641,
+    "verbatim_excerpt": "Internal methode no. 193 Two apple fiber variants differentiated by color Herbacel® AQ® AFB-250 For color-neutral applications with high functionality at the same time Suitable for applications where a bright color is important Versatile for use alongside star",
+    "claim": "Supplier water-binding figure references internal method 193.",
+    "units_material_scope_limits": "No numeric figure interpretation; procedure unavailable.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C04",
+    "source_id": "P1",
+    "source_file": "sources/P1.txt",
+    "start_character": 7489,
+    "verbatim_excerpt": "#### 2.2.1. Extraction of polyphenols\n\nThe proposed cascade extraction of polyphenols and pectins from apple pomace is presented in Fig. 1b. For the extraction of polyphenols, apple pomace was milled in wet state using a kitchen blender and suspended in 50% (v/v) ethanol at 1:10 (pomace:solvent) ratio, following a procedure previously developed for sunflower hulls (Carolin Menzel, González-Martínez, Chiralt, & Vilaplana, 2019). The suspension was stirred for 1 h at room temperature in the dark. Ethanol was evaporated using a rotary evaporator (Rotavapor R-210, Büchi Labortechnik AG, Switzerland) at 36 • C under vacuum in the dark and the concentrated phenolic extract was freeze-dried.\n\n#### 2.2.2. Extraction of pectins\n\nSubcritical water extraction (SWE) of polysaccharides from apple pomace was performed using an accelerated solvent extractor system (Dionex, ASE™ 350, Thermo Scientific™ Sunnyvale, CA, USA), following a similar approach previously developed for cereal bran (Ruthes, et al., 2017). The remaining apple pomace after the extraction of polyphenols was freeze-dried, weighed to 2 mg and then mixed with inert material in the extractor cells. Three cycles of sequential extractions were performed at pH 3.0, 5.0 and 7.0 for 5, 10 and 15 min at 120 • C and 140 • C. The extract",
+    "claim": "Wet pressed apple pomace first extracted for phenolics using 50% v/v ethanol, 1:10 pomace:solvent, 1 h room temperature dark.",
+    "units_material_scope_limits": "Laboratory process, not commercial grade identity; ratio reproduced without inventing w/v basis.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C05",
+    "source_id": "P1",
+    "source_file": "sources/P1.txt",
+    "start_character": 8184,
+    "verbatim_excerpt": "#### 2.2.2. Extraction of pectins\n\nSubcritical water extraction (SWE) of polysaccharides from apple pomace was performed using an accelerated solvent extractor system (Dionex, ASE™ 350, Thermo Scientific™ Sunnyvale, CA, USA), following a similar approach previously developed for cereal bran (Ruthes, et al., 2017). The remaining apple pomace after the extraction of polyphenols was freeze-dried, weighed to 2 mg and then mixed with inert material in the extractor cells. Three cycles of sequential extractions were performed at pH 3.0, 5.0 and 7.0 for 5, 10 and 15 min at 120 • C and 140 • C. The extraction solvents were buffered with 0.1 M citrate buffer. The extracts were dialyzed using 3.5 kDa MWCO membranes for 72h and then freeze-dried. Extractions were performed in duplicate for each pH and temperature condition.\n\nAnalytical methods\n\n#### 2.3.1. Starch and protein content\n\nThe starch content of apple pomace was determined in triplicate using the Megazyme total starch assay kit (Megazyme, Wicklow, Ireland). The soluble protein content of apple pomace was determined by the dye-binding Bradford assay (Bradford, 1976). 100 μL dilutions of apple pomace (10 mg/mL) were mixed with 900 μL ",
+    "claim": "Remaining pomace undergoes subcritical-water extraction at 120/140 C, pH 3/5/7, then dialysis and freeze drying.",
+    "units_material_scope_limits": "Different collected fractions; no industrial yield or equal replacement claim.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C06",
+    "source_id": "P1",
+    "source_file": "sources/P1.txt",
+    "start_character": 9685,
+    "verbatim_excerpt": "#### 2.3.2. Total phenolic content\n\nTotal phenolic content (TPC) of the extracted polyphenols was determined using the Folin-Ciocalteau assay. 100 mg/mL solutions of the samples were prepared in 50% ethanol and then filtered on filter paper. 100 μL aliquots of 10x dilutions of the solutions (10 mg/mL) were mixed with 100 μL of Folin-Ciocalteau reagent (2 N). After 2 min, 800 μL of sodium carbonate solution (20%, w/v) was added and the mixtures were incubated at 40 • C for 20 min in the dark. The absorbance was measured spectrophotometrically at 765 nm using a UV-Vis spectrophotometer (Varian Cary 50 UV-VIS, Agilent) against water as blank. Gallic acid solution (0.01-0.08 mg/mL) was used as standard and the TPC of the extracted polyphenols was expressed in gallic acid miliequivalents (mg GAE)/g apple pomace. The measurements were performed in duplicates.\n\n#### 2.3.3. Evaluation of antioxidant activity\n\nThe radical scavenging activity of the extracted polyphenols was determined by the 1,1-diphenyl-2-picrylhydrazyl (DPPH • ) assay in duplicate according to Brand-Williams et al. Brand-Williams, Cuvelier, and Berset (1995) with minor modifications. Briefly, 10 mg/mL solutions (w/v metha",
+    "claim": "Folin-Ciocalteau assay with gallic-acid calibration; phenolic analytical target differs from pectin composition.",
+    "units_material_scope_limits": "mg GAE/g apple pomace is not pure polyphenol mass or dry-extract purity. Do not use the abstract to infer food shelf life.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C07",
+    "source_id": "P2",
+    "source_file": "sources/P2.txt",
+    "start_character": 2424,
+    "verbatim_excerpt": "Phloridzin (phloretin-2′-β-D-glucopyranoside), the principal compound of our research interest, was first isolated from the bark of the apple tree by the French chemist De Koninck in 1835 [1]. It belongs to the chemical class of dihydrochalcones and consists of two aromatic rings linked by a C3 chain with a β-D-glucopyranose moiety [2]. Dihydrochalcones are biosynthesized via a phenylpropanoid pathway that is thoroughly report",
+    "claim": "Phloridzin is phloretin glucoside and a dihydrochalcone.",
+    "units_material_scope_limits": "Phloridzin and phloretin are distinct analytes. Not a therapeutic claim.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C08",
+    "source_id": "P2",
+    "source_file": "sources/P2.txt",
+    "start_character": 20590,
+    "verbatim_excerpt": "Content of phenolic compounds in leaves of 13 cultivars (all values in mg/g of dried weight (DW)).\nCultivarPhenolic Compound (mg/g ± SD)PhloridzinPhloretinChlorogenic AcidRutinQuercitrin‘Melrose’91.17 ± 2.15<LOQ<LOQ3.07 ± 0.563.27 ± 3.73‘Melodie’66.83 ± 2.82<LOQ0.44 ± 2.142.14 ± 3.989.37 ± 2.87‘James Grieve’72.14 ± 0.27<LOD0.97 ± 0.510.70 ± 2.532.91 ± 0.34‘Rubinola’60.10 ± 0.010.37 ± 0.110.32 ± 0.833.83 ± 1.6911.29 ± 0.41‘Goldstar’46.43 ± 0.06<LOQ0.37 ± 7.841.96 ± 1.865.80 ± 0.61‘Meteor’61.69 ± 1.69<LOQ0.48 ± 4.811.16 ± 1.351.89 ± 0.14‘Průsvitné letní’62.19 ± 0.260.35 ± 0.355.58 ± 1.39<LOQ2.94 ± 0.81‘Topaz’94.93 ± 0.08<LOQ1.18 ± 0.441.36 ± 1.759.18 ± 2.51‘Red Bilt’60.74 ± 0.010.53 ± 0.010.52 ± 0.011.33 ± 0.066.03 ± 0.05‘Spartan’98.51 ± 0.220.28 ± 0.401.08 ± 1.611.10 ± 0.102.11 ± 2.30‘Fragrance’53.80 ± 0.05<LOQ<LOQ3.39 ± 0.607.29 ± 0.62‘Gloster’93.80 ± 0.800.54 ± 0.540.76 ± 1.303.60 ± 8.266.02 ± 0.97‘Bohemia Gold’71.70 ± 0.26<LOD0.80 ± 0.371.77 ± 4.646.15 ± 0.98\nConcentrations ± standard deviation (RSD, %) calculated from the mean of three measurements. nd: not detected. ‘-’: The analysis was not performed.\nThe results of the content of all the determined phenolic compounds in apple bark are shown in Table 2—in the second column—and are further detailed in Table 4. The concentration range of all the phenolic compounds ranged from 70.81 mg/g DW (cv. ‘Meteor’) to 113.18 mg/g DW (cv. ‘Spartan’). Táborský et al. determined the highest values of phenolic compounds in apple bark methanolic extracts at a concentration of 95.85 mg/g DW [25]. Also in bark, phloridzin represented the major component of all the cultivars at a concentration range of 54.52 mg/g DW (cv. ‘Goldstar’)–102.69 mg/g DW (cv. ‘Spartan’). Compared to leaves, a significant increase of rutin was observed. Its co",
+    "claim": "Leaves table 3: Goldstar phloridzin 46.43 and Spartan 98.51 mg/g dry weight.",
+    "units_material_scope_limits": "Non-fruit dried plant denominator; no transfer to fruit/powder purity. Table uncertainty label is inconsistent so uncertainties are not republished.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C09",
+    "source_id": "P2",
+    "source_file": "sources/P2.txt",
+    "start_character": 17193,
+    "verbatim_excerpt": "The developed and validated HPLC method was applied for the determination of phenolic compounds in the methanol extracts of apple leaves, bark, and buds. The profiles of the phenolic compounds in cvs. ‘Bohemia Gold’, ‘Fragrance’, ‘Gloster’, ‘Goldstar’, ‘James Grieve’, ‘Melodie’, ‘Melrose’, ‘Meteor’, ‘Průsvitné letní’, ‘Red Bilt’, ‘Rubinola’, ‘Spartan’, and ‘Topaz’ were evaluated. To show the analysis of the plant extract, a chromatogram of apple bark extract at different wavelengths according to the absorption maxima of the phenolic compounds is depicted in Figure 3.\nChromatogram of phenolic compounds from apple bark extract. (1) chlorogenic acid, (2) rutin, (3) quercitrin, (4) phloridzin, (5) phloretin.\nThe sum of all the phenolic compounds in apple leaves, bark, and buds is summarized in Table 2. The reported results indicate that the plant material of an apple tree is an important source of phenolic compounds. Our results are in good agreement with results reported elsewhere [8,9,25].\nContent of all phenolic compounds expressed in mg/g DW obtained from apple leaves, bark, and buds",
+    "claim": "Original plant-part work uses methanol extracts and HPLC; leaves, bark and buds explicitly differentiated.",
+    "units_material_scope_limits": "Analytical study, not food-use authorization for leaves/bark/buds.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C10",
+    "source_id": "P3",
+    "source_file": "sources/P3.txt",
+    "start_character": 10356,
+    "verbatim_excerpt": "Extraction was performed as a solid–liquid, 30-min\nsingle-step\nextraction, assisted with an ultrasonic bath (Fisher Scientific, Pittsbourgh,\nPA, USA) and a controlled temperature (10 °C). To determine the\nbest solvent system for the extraction, two solvent systems were chosen:\n80–20% EtOH–water/acetic acid 5% (S1) and 20–80%\nEtOH–water/acetic acid 5% (S2). Extraction was performed in\nduplicate in Erlenmeyer flasks maintaining a sample/solvent ratio\nof 100 g of sample/250 mL solvent.\nThe extracts were then concentrated\nunder reduced pressure to a\nvolume of 100 mL of acidified water (1% acetic acid) prior to cleaning\nsteps consisting of: (a) a cold ethanol precipitation (with one volume\non cold ethanol during 24 h) that was carried out to remove polar\ncoextracted compounds (such as carbohydrates and proteins that are\nnot soluble in ethanol); and (b) a subsequent liquid–liquid\nextraction (1:1 hexane/water) to remove nonpolar compounds (such as\nchlorophyll) from the sample. The cleaning st",
+    "claim": "Golden Delicious study extraction: ultrasound bath, selected S1 solvent written 80–20% EtOH–water/acetic acid 5%.",
+    "units_material_scope_limits": "Ambiguous original solvent shorthand retained; not reformulated into a precise manufacturing recipe.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C11",
+    "source_id": "P3",
+    "source_file": "sources/P3.txt",
+    "start_character": 22069,
+    "verbatim_excerpt": "compoundtype of phenolicλmax (nm)m/z [M – H]−retention time RT (min)percentage of total area (%)1gallic acidphenolic\nacid2701693.752.402chlorogenic acidphenolic acid242, 32435312.819.863PC B2flavanol238, 28057714.470.884epicatechinflavanol27828915.2838.735caffeic acidphenolic\nacid216, 32417915.942.516Hyperinflavonol255, 35546320.3013.807isoquercetinflavonol260, 35446320.542.958avicularinflavonol258, 35943321.641.109quercitrinflavonol255, 35544722.064.0310cynarosideflavone239, 269, 34044722.484.5611phloretindihydrochalcone28627322.970.4212phloridzinphenolic acid28843523.240.7313quercetinflavonol37030123.913.61\nThe previously tentatively\nidentified compounds were confirmed\nby matching the m/z value to the\nmolecular weight and the retention time established by available standards.\nThe presence of phloridzin is characteristic in apple pomaces but\nis known to be absent in pomaces of other fruit sources.30 It is of particular interest due to its use\nas a pigment by enzymatic oxidation and its ability as an antidiabetic\nagent30,31 and for being one of the most stable phytochemicals\npresent in apple pomaces.32\nTo determine whether\nproanthocyanidins were present, an extract from apple peels was subjected\nto phloroglucinolysis. Phloroglucinolysis is based on the acid-catalyzed\nrupture of t",
+    "claim": "Table 3 epicatechin 38.73, chlorogenic acid 19.86, phloridzin 0.73, phloretin 0.42 percent total chromatographic area.",
+    "units_material_scope_limits": "Area percentages are not mass purity; chromatographic assignments described as tentative. Table misclassifies phloridzin as phenolic acid; chemical category is taken from P2 instead.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C12",
+    "source_id": "P3",
+    "source_file": "sources/P3.txt",
+    "start_character": 19143,
+    "verbatim_excerpt": "sampleTPC HPLCflavonols\nHPLCphenolic extract0.56 ± 0.010.28 ± 0.01ethanol precipitation0.01 ± 0.02 hexane fraction0.05\n± 0.01 \nResults are expressed\nin g per 100\ng of apple pomace.\nApple\npomace extract had a TPC of 0.56 g of polyphenols per 100\ng of apple pomace FW and a flavonol concentration of 0.28 g per 100\ng of apple pomace FW. No chromatographic signal was detected in the\n520 nm wavelength, indicating the absence of anthocyanin-like compounds.\nThe humidity content present in the samples was 86.44 ± 0.86%.\nGolden delicious pomace was obtained from the industrial production\nof apple juice. It has been reported that after pressing only a s",
+    "claim": "Table 2 phenolic extract HPLC total 0.56 ± 0.01 g/100g fresh apple pomace, confirmed fresh basis in following prose.",
+    "units_material_scope_limits": "Not dry extract purity, not phloridzin mass.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C13",
+    "source_id": "P3",
+    "source_file": "sources/P3.txt",
+    "start_character": 17025,
+    "verbatim_excerpt": "Total phenolic content was expressed in epicatechin equivalents, as\nit better represents the nature of the sample (seeing that it is the\nmain polyphenol present); and total flavonoid content was expressed\nin rutin equivalents (see Supporting Information).\nAs shown in Table 1, out of the samples tested, the two extracts with the best\nresults\nwere those coming from ripe apples (for the chromatogram, please see Supporting Information). However, the higher\nTPC was obtained by extracting ripe apple s",
+    "claim": "Chromatographic total expressed in epicatechin equivalents; flavonoid total in rutin equivalents.",
+    "units_material_scope_limits": "Keep calibration basis attached to C12.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C14",
+    "source_id": "P3",
+    "source_file": "sources/P3.txt",
+    "start_character": 21582,
+    "verbatim_excerpt": "The use of\nHPLC-MS was fundamental for the polyphenolic profiling\nsince HPLC with UV–vis detection has its limitations with respect\nto the identification of coeluted phenolic compounds and is not a\nchromatographic technique which can provide molecular structure information.16Table 3 presents the tentatively identified polyphenolic compounds\nalong with their molecular formula and molecular ion (negative ionization\nmode). The tentatively identified compounds can be seen in Figure 1.\n compoundtype of phenolicλmax (nm)m/z [M – H]−retention time RT (min)percentage of total area (%)1gallic acidphenolic\nacid2701693.752.402chlorogenic acidphenolic ac",
+    "claim": "Study calls the Table 3 compounds tentatively identified.",
+    "units_material_scope_limits": "Do not recast table as a fully authenticated pure-marker assay.",
+    "drafts": [
+      "draft.en.md",
+      "draft.zh.md"
+    ]
+  },
+  {
+    "claim_id": "C15",
+    "type": "derived arithmetic",
+    "inputs": "P3 Table 2 0.56 g/100g fresh pomace, epicatechin equivalents",
+    "calculation": "0.56*1000/100 = 5.6 mg/g",
+    "limits": "Same fresh-pomace denominator and equivalent calibration. Not phloridzin mass or dry-extract purity."
+  },
+  {
+    "claim_id": "C16",
+    "type": "editorial procurement/application recommendations",
+    "scope": "Four-way classification, sample inquiry and proposed beverage/fibre/pectin trials",
+    "limits": "Not independently tested supplier performance or a validated manufacturing process; no efficacy, inventory or certification assertions."
+  }
+]
