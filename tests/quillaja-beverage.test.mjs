@@ -28,6 +28,6 @@ for(const lang of ['en','zh']) test(`${lang}: approved quillaja selection is add
  assert.equal(existsSync(`dist/${prefix}products/quillaja/index.html`),false);
  const file=`src/pages/${prefix}solutions/beverages.astro`;
  const old=execFileSync('git',['show',`${base}:${file}`],{encoding:'utf8'});
- const current=readFileSync(file,'utf8').replace(/^import QuillajaSelection[^\n]*\n/m,'').replace(/^<QuillajaSelection[^\n]*\n/m,'').replace(/^<section data-citrus-research[^\n]*\n/m,'').replace(/^<section data-hibiscus-research[^\n]*\n/m,'').replace(/^<section data-astaxanthin-research[^\n]*\n/m,'');
+ const current=readFileSync(file,'utf8').replace(/^import QuillajaSelection[^\n]*\n/m,'').replace(/^<QuillajaSelection[^\n]*\n/m,'').replace(/^<section data-citrus-research[^\n]*\n/m,'').replace(/^<section data-hibiscus-research[^\n]*\n/m,'').replace(/^<section data-citrus-bitterness-research[^\n]*\n/m,'').replace(/^<section data-astaxanthin-research[^\n]*\n/m,'');
  assert.equal(current,old,'existing page source retained byte-for-byte except additive import/module');
 });

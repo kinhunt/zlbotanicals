@@ -1,0 +1,32 @@
+{
+  "original_verdict": "REVISE_LIMITED",
+  "revised_verdict": "PASS_FOR_SECOND_REVIEW",
+  "publication_approval": false,
+  "report": "/data/hermes/research/seo-growth/2026-09-23-citrus-editorial/REPORT.md",
+  "original_manifest_verified": 24,
+  "numeric_visual_csv_matches": 15,
+  "revisions": [
+    "M1 later concentration instead of ultimate mass",
+    "M2 non-significance is not equivalence",
+    "M3 clarification control volume basis 18.5 versus 20 mL",
+    "M4 three harvest dates versus triplicate tubes",
+    "M5 natural Chinese wording"
+  ],
+  "revised_files": [
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-23-citrus-editorial/draft.en.revised.md",
+      "sha256": "9e6a06254aa8005859173931545332f57a421b8a349f0910604fe4971963f781"
+    },
+    {
+      "path": "/data/hermes/research/seo-growth/2026-09-23-citrus-editorial/draft.zh.revised.md",
+      "sha256": "6b8334a2a0c0240cace2325a1a4b7ad8e477671066be88b81e4031eacfbd3b36"
+    }
+  ],
+  "remaining_gates": [
+    "Independent second review of exact revised hashes",
+    "Readable full source titles at integration",
+    "Website metadata, accessible table and any newly rendered figures require integration QA"
+  ],
+  "scientific_blocker_after_revisions": null,
+  "scope": "Archived primary papers, original S2/S3 page images, PR58 main snapshot; no publication, no repository changes"
+}

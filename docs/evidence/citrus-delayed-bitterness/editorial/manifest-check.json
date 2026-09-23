@@ -1,0 +1,98 @@
+[
+  {
+    "file": "EVIDENCE.md",
+    "match": true
+  },
+  {
+    "file": "REVIEW.md",
+    "match": true
+  },
+  {
+    "file": "START-HERE.md",
+    "match": true
+  },
+  {
+    "file": "VISUALS-AND-NUMBERS.md",
+    "match": true
+  },
+  {
+    "file": "draft.en.md",
+    "match": true
+  },
+  {
+    "file": "draft.zh.md",
+    "match": true
+  },
+  {
+    "file": "evidence-quotes.json",
+    "match": true
+  },
+  {
+    "file": "heat-timecourse.csv",
+    "match": true
+  },
+  {
+    "file": "hybrids-flat.txt",
+    "match": true
+  },
+  {
+    "file": "hybrids-full.json",
+    "match": true
+  },
+  {
+    "file": "hybrids-live.raw",
+    "match": true
+  },
+  {
+    "file": "hybrids-live.txt",
+    "match": true
+  },
+  {
+    "file": "ledger.json",
+    "match": true
+  },
+  {
+    "file": "main-readonly-audit.json",
+    "match": true
+  },
+  {
+    "file": "molecules-23-02691-s001.pdf",
+    "match": true
+  },
+  {
+    "file": "newhall-full-wrapped.txt",
+    "match": true
+  },
+  {
+    "file": "newhall-full.txt",
+    "match": true
+  },
+  {
+    "file": "newhall-full.xml",
+    "match": true
+  },
+  {
+    "file": "newhall-supplement.raw",
+    "match": true
+  },
+  {
+    "file": "numeric-cell-check.json",
+    "match": true
+  },
+  {
+    "file": "supplement-page-3.png",
+    "match": true
+  },
+  {
+    "file": "supplement-page-4.png",
+    "match": true
+  },
+  {
+    "file": "supplement-text.txt",
+    "match": true
+  },
+  {
+    "file": "verification.json",
+    "match": true
+  }
+]

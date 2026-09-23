@@ -1,0 +1,5 @@
+{
+  "exit_code": 0,
+  "stdout": "info: stats: 3 prose sentence(s), 0 with declared provenance (0%) — 0 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 3 in ledger (3 with evidence quotes)\ncitations OK\n",
+  "stderr": ""
+}
