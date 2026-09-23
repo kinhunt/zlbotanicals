@@ -1,0 +1,19 @@
+{
+  "at": "2026-09-23T19:28:37.358798+00:00",
+  "command": [
+    "browserman",
+    "script",
+    "run",
+    "--platform",
+    "amazon",
+    "--action",
+    "get_product",
+    "--marketplace",
+    "us",
+    "--params-json",
+    "{\"asin\": \"B0C15XRRDJ\"}",
+    "--json"
+  ],
+  "returncode": 0,
+  "output": "{\"ok\":true,\"command\":\"script.run\",\"browser\":{\"id\":\"c0c44c26-eca6-4638-86fd-ade14ff3aa03\",\"name\":\"cedar-vale\"},\"result\":{\"executionId\":\"exec_970593faf43e4bbc\",\"status\":\"running\"}}\n\n"
+}

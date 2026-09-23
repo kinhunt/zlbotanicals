@@ -1,0 +1,362 @@
+[
+  {
+    "asin": "B0019LPMDY",
+    "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+    "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+    "rawFile": "B0019LPMDY-gallery-v2.json",
+    "rawField": "initial[0].hiRes",
+    "variant": "MAIN",
+    "url": "https://m.media-amazon.com/images/I/71WSEGsOvTL._AC_SL1500_.jpg",
+    "file": "images/B0019LPMDY-01.jpg",
+    "sha256": "a3b883b5cc3cb75124317c9f33e66b484b3e3310c102fa685b2d5188b2e27506",
+    "dimensions": [
+      782,
+      1500
+    ]
+  },
+  {
+    "asin": "B0019LPMDY",
+    "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+    "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+    "rawFile": "B0019LPMDY-gallery-v2.json",
+    "rawField": "initial[1].hiRes",
+    "variant": "PT01",
+    "url": "https://m.media-amazon.com/images/I/71eK0b5PaqL._AC_SL1500_.jpg",
+    "file": "images/B0019LPMDY-02.jpg",
+    "sha256": "ba38dea349dd42655878640394b63dc9c933e7c2b6b67de69a41a571529ca637",
+    "dimensions": [
+      781,
+      1500
+    ]
+  },
+  {
+    "asin": "B0019LPMDY",
+    "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+    "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+    "rawFile": "B0019LPMDY-gallery-v2.json",
+    "rawField": "initial[2].hiRes",
+    "variant": "PT02",
+    "url": "https://m.media-amazon.com/images/I/71MlT53RzXL._AC_SL1500_.jpg",
+    "file": "images/B0019LPMDY-03.jpg",
+    "sha256": "a22d910999c9049e89dcad11f103e76e634fae9ca133247647b537e7fdd4e183",
+    "dimensions": [
+      781,
+      1500
+    ]
+  },
+  {
+    "asin": "B0019LPMDY",
+    "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+    "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+    "rawFile": "B0019LPMDY-gallery-v2.json",
+    "rawField": "initial[3].hiRes",
+    "variant": "PT03",
+    "url": "https://m.media-amazon.com/images/I/61dZ5kGb28L._AC_SL1500_.jpg",
+    "file": "images/B0019LPMDY-04.jpg",
+    "sha256": "6cdc8eba9d8cf68bf1753b8964dae7963b513b6fb4aac9edf96a933063ad6534",
+    "dimensions": [
+      1500,
+      1434
+    ]
+  },
+  {
+    "asin": "B0019LPMDY",
+    "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+    "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+    "rawFile": "B0019LPMDY-gallery-v2.json",
+    "rawField": "initial[4].hiRes",
+    "variant": "PT04",
+    "url": "https://m.media-amazon.com/images/I/81PcicfnDkL._AC_SL1500_.jpg",
+    "file": "images/B0019LPMDY-05.jpg",
+    "sha256": "eabdf924c265e4127efd6ca1a5ef1fcbe9ba54709190952019f405a41108e1ec",
+    "dimensions": [
+      1500,
+      1500
+    ]
+  },
+  {
+    "asin": "B0019LPMDY",
+    "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+    "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+    "rawFile": "B0019LPMDY-gallery-v2.json",
+    "rawField": "initial[5].hiRes",
+    "variant": "PT05",
+    "url": "https://m.media-amazon.com/images/I/71AggOdc+BL._AC_SL1500_.jpg",
+    "file": "images/B0019LPMDY-06.jpg",
+    "sha256": "dc17b8eaf70ab1fb24a8a57399efcb6dd5066993ab20fe2238002951bbdd9ee4",
+    "dimensions": [
+      1500,
+      1500
+    ]
+  },
+  {
+    "asin": "B0019LPMDY",
+    "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+    "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+    "rawFile": "B0019LPMDY-gallery-v2.json",
+    "rawField": "initial[6].hiRes",
+    "variant": "PT06",
+    "url": "https://m.media-amazon.com/images/I/81-8+JOqNAL._AC_SL1500_.jpg",
+    "file": "images/B0019LPMDY-07.jpg",
+    "sha256": "d6a5cf2c53787953e662159bae4ba27064a3a9538515f9dcbe853fdc12d4c538",
+    "dimensions": [
+      1500,
+      1500
+    ]
+  },
+  {
+    "asin": "B0019LPMDY",
+    "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+    "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+    "rawFile": "B0019LPMDY-gallery-v2.json",
+    "rawField": "initial[7].hiRes",
+    "variant": "PT15",
+    "url": "https://m.media-amazon.com/images/I/71JuXqXPhoL._AC_SL1500_.jpg",
+    "file": "images/B0019LPMDY-08.jpg",
+    "sha256": "a26eebc7d73e9a561894512057fc079ca2aad4d16c82b752f10c089426362ee5",
+    "dimensions": [
+      1500,
+      1500
+    ]
+  },
+  {
+    "asin": "B0C15XRRDJ",
+    "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+    "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+    "rawFile": "B0C15XRRDJ-gallery.json",
+    "rawField": "initial[0].hiRes",
+    "variant": "MAIN",
+    "url": "https://m.media-amazon.com/images/I/71IyEZlFwqL._AC_SL1500_.jpg",
+    "file": "images/B0C15XRRDJ-01.jpg",
+    "sha256": "98f5c65c3ff83bf9c8cfb299bae5bcf1c6efcfa530fd9e0ddc3a2a7fbcbd59bf",
+    "dimensions": [
+      1298,
+      1500
+    ]
+  },
+  {
+    "asin": "B0C15XRRDJ",
+    "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+    "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+    "rawFile": "B0C15XRRDJ-gallery.json",
+    "rawField": "initial[1].hiRes",
+    "variant": "PT01",
+    "url": "https://m.media-amazon.com/images/I/81xkweQl8iL._AC_SL1500_.jpg",
+    "file": "images/B0C15XRRDJ-02.jpg",
+    "sha256": "473ebdb876cd72c012ff379c29052632ad5d11e49b74f6e85d28a129e7c09422",
+    "dimensions": [
+      1500,
+      1500
+    ]
+  },
+  {
+    "asin": "B0C15XRRDJ",
+    "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+    "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+    "rawFile": "B0C15XRRDJ-gallery.json",
+    "rawField": "initial[2].hiRes",
+    "variant": "PT02",
+    "url": "https://m.media-amazon.com/images/I/81Dmh4-3N0L._AC_SL1500_.jpg",
+    "file": "images/B0C15XRRDJ-03.jpg",
+    "sha256": "85a403988b2c6644a8530b281046a1ccadae1f2fe50622c9047574a48f3bc188",
+    "dimensions": [
+      1500,
+      1500
+    ]
+  },
+  {
+    "asin": "B0C15XRRDJ",
+    "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+    "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+    "rawFile": "B0C15XRRDJ-gallery.json",
+    "rawField": "initial[3].hiRes",
+    "variant": "PT03",
+    "url": "https://m.media-amazon.com/images/I/71UMTlvQPjL._AC_SL1500_.jpg",
+    "file": "images/B0C15XRRDJ-04.jpg",
+    "sha256": "a36bdabe7d17ee08b39fd2a4a3cb2838edac75c8634b7979f672568217a381e7",
+    "dimensions": [
+      1500,
+      1500
+    ]
+  },
+  {
+    "asin": "B0C15XRRDJ",
+    "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+    "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+    "rawFile": "B0C15XRRDJ-gallery.json",
+    "rawField": "initial[4].hiRes",
+    "variant": "PT04",
+    "url": "https://m.media-amazon.com/images/I/814Imp73L7L._AC_SL1500_.jpg",
+    "file": "images/B0C15XRRDJ-05.jpg",
+    "sha256": "373fba7604ba72b671ac350eee1d8e18cf9258334d9fb5ecb76d900b2aa9ffd4",
+    "dimensions": [
+      1500,
+      1500
+    ]
+  },
+  {
+    "asin": "B0C15XRRDJ",
+    "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+    "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+    "rawFile": "B0C15XRRDJ-gallery.json",
+    "rawField": "initial[5].hiRes",
+    "variant": "PT05",
+    "url": "https://m.media-amazon.com/images/I/81rOWjjJ9YL._AC_SL1500_.jpg",
+    "file": "images/B0C15XRRDJ-06.jpg",
+    "sha256": "f7d96a48f6cf25950f225da0969b4c74932cbd1b2707d599477b582f9c37f321",
+    "dimensions": [
+      1500,
+      1500
+    ]
+  },
+  {
+    "asin": "B0C15XRRDJ",
+    "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+    "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+    "rawFile": "B0C15XRRDJ-gallery.json",
+    "rawField": "initial[6].hiRes",
+    "variant": "PT06",
+    "url": "https://m.media-amazon.com/images/I/81ReMaX9UXL._AC_SL1500_.jpg",
+    "file": "images/B0C15XRRDJ-07.jpg",
+    "sha256": "90ad84a02d85b37c09436b129c1c45e6ece5f5ed12a459674b10bb41fcbcbb78",
+    "dimensions": [
+      1500,
+      1500
+    ]
+  },
+  {
+    "asin": "B0C15XRRDJ",
+    "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+    "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+    "rawFile": "B0C15XRRDJ-gallery.json",
+    "rawField": "initial[7].hiRes",
+    "variant": "PT07",
+    "url": "https://m.media-amazon.com/images/I/71L3w2MmGHL._AC_SL1500_.jpg",
+    "file": "images/B0C15XRRDJ-08.jpg",
+    "sha256": "9fdd780579efad1296fb2c3b70b992761f40fd20b33ed47af0267e6715508597",
+    "dimensions": [
+      1500,
+      1500
+    ]
+  },
+  {
+    "asin": "B0C15XRRDJ",
+    "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+    "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+    "rawFile": "B0C15XRRDJ-gallery.json",
+    "rawField": "initial[8].hiRes",
+    "variant": "PT08",
+    "url": "https://m.media-amazon.com/images/I/81cYQ66VggL._AC_SL1500_.jpg",
+    "file": "images/B0C15XRRDJ-09.jpg",
+    "sha256": "0e1c4d3f2ff282a16cc37080df736e9b6cf6a850ae89393a4954b6007789f209",
+    "dimensions": [
+      1500,
+      1500
+    ]
+  },
+  {
+    "asin": "B010YH0BS4",
+    "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+    "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+    "rawFile": "B010YH0BS4-gallery.json",
+    "rawField": "initial[0].hiRes",
+    "variant": "MAIN",
+    "url": "https://m.media-amazon.com/images/I/81LllnvoO4L._AC_SL1500_.jpg",
+    "file": "images/B010YH0BS4-01.jpg",
+    "sha256": "cf3eeddf5faae00e87fef177c7e751896b0348cdc4bc9bf5dcda0d884112e33d",
+    "dimensions": [
+      1434,
+      1500
+    ]
+  },
+  {
+    "asin": "B010YH0BS4",
+    "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+    "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+    "rawFile": "B010YH0BS4-gallery.json",
+    "rawField": "initial[1].hiRes",
+    "variant": "PT01",
+    "url": "https://m.media-amazon.com/images/I/71geDugI1iL._AC_SL1500_.jpg",
+    "file": "images/B010YH0BS4-02.jpg",
+    "sha256": "eb9abd9341c883bfa77f57172e913a48a08df98b85ced63e4ef74f2777b02751",
+    "dimensions": [
+      879,
+      1500
+    ]
+  },
+  {
+    "asin": "B010YH0BS4",
+    "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+    "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+    "rawFile": "B010YH0BS4-gallery.json",
+    "rawField": "initial[2].hiRes",
+    "variant": "PT02",
+    "url": "https://m.media-amazon.com/images/I/71IcLErJwFL._AC_SL1100_.jpg",
+    "file": "images/B010YH0BS4-03.jpg",
+    "sha256": "4c7553a3a4b288488877231ce710eb3d362a70ea2bdca68cf2fa9bfb697b8934",
+    "dimensions": [
+      992,
+      1069
+    ]
+  },
+  {
+    "asin": "B010YH0BS4",
+    "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+    "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+    "rawFile": "B010YH0BS4-gallery.json",
+    "rawField": "initial[3].hiRes",
+    "variant": "PT03",
+    "url": "https://m.media-amazon.com/images/I/81juTwUxBeL._AC_SL1500_.jpg",
+    "file": "images/B010YH0BS4-04.jpg",
+    "sha256": "a1ba925fb6db7bf009194daf97af940e72715fc9cffa9fc084103111f49d780e",
+    "dimensions": [
+      1500,
+      1500
+    ]
+  },
+  {
+    "asin": "B010YH0BS4",
+    "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+    "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+    "rawFile": "B010YH0BS4-gallery.json",
+    "rawField": "initial[4].hiRes",
+    "variant": "PT04",
+    "url": "https://m.media-amazon.com/images/I/81NZl-d1w8L._AC_SL1500_.jpg",
+    "file": "images/B010YH0BS4-05.jpg",
+    "sha256": "2195403a578eac0faf0c8e1b4d614647c7d62be9c90b9701340a7d38e63b5afd",
+    "dimensions": [
+      1500,
+      1465
+    ]
+  },
+  {
+    "asin": "B010YH0BS4",
+    "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+    "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+    "rawFile": "B010YH0BS4-gallery.json",
+    "rawField": "initial[5].hiRes",
+    "variant": "PT05",
+    "url": "https://m.media-amazon.com/images/I/61t8YVpHTaL._AC_SL1000_.jpg",
+    "file": "images/B010YH0BS4-06.jpg",
+    "sha256": "21b9f1e9dce5718e429e369906b22d439ee95606a562917a04fc627db3c29313",
+    "dimensions": [
+      820,
+      1000
+    ]
+  },
+  {
+    "asin": "B010YH0BS4",
+    "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+    "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+    "rawFile": "B010YH0BS4-gallery.json",
+    "rawField": "initial[6].hiRes",
+    "variant": "PT06",
+    "url": "https://m.media-amazon.com/images/I/71mlcXu1nTL._AC_SL1500_.jpg",
+    "file": "images/B010YH0BS4-07.jpg",
+    "sha256": "e110ef356e09c9b877bcbab91a0e159b2a4de3c270f4ee599f5c90ed7f0d4839",
+    "dimensions": [
+      1305,
+      1500
+    ]
+  }
+]

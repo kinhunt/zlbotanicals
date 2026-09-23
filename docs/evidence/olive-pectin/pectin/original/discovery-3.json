@@ -1,0 +1,129 @@
+[
+  {
+    "query": "\"pectin\" \"LM\" \"specification\" \"citrus\" filetype:pdf",
+    "result": {
+      "success": false,
+      "error": "Keyless Firecrawl search failed: Client error '403 Forbidden' for url 'https://api.firecrawl.dev/v2/search'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403. Set FIRECRAWL_API_KEY (https://firecrawl.dev) or another web backend via `hermes tools` for reliable service."
+    }
+  },
+  {
+    "query": "site.herbstreith-fox.de \"CF 020\"",
+    "result": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "url": "https://scribd.com/doc/126153961/FuE-Amidated-Citrus-Pectins",
+            "title": "FuE Amidated Citrus Pectins | PDF",
+            "description": "recipes.Type of pectin Amid CF 005 Amid CF 010 Amid CF 020 Amid CF 025Calcium reactivity low medium high very highSetting time slow medium rapid extra rapidtypical degree of esterification 35 % 32 % 30 % 28 %typical degree of amidation 15 % 18 % 20 % 22 %Tab.\n\n3.8)Amid CF 010 Amid CF 020Amid CF 025Tab.",
+            "position": 1
+          },
+          {
+            "url": "https://yumpu.com/en/document/view/8381024/the-specialists-for-pectin-herbstreith-fox/23",
+            "title": "22 1. Jams, Marmalades, J",
+            "description": "gelling strength amidated Apple Pectin, \u2022 low-calorie jams, marma- E 440 high calcium reactivity lades, fruit preparations and fruit spreads (TSS 10 - 40 %,\n\ngelling strength amidated Citrus Pectin, \u2022 low-calorie jams, marma- E 440 high calcium reactivity lades, fruit preparations and fruit spreads (TSS 15 - 45 %, pH 3.0 - 4.0) Amid CF 025-D 23 - 28 % 22 - 25 % const.\n\n\u2022 low-calorie jams, marma- E 440 medium calcium reactivity lades, fruit preparations and fruit spreads (TSS 30 - 55 %, pH 3.0 - 3.5) Amid CF 020 27 - 32 % 18 - 23 % const. gelling strength amidated Citrus Pectin, \u2022 low-calorie jams, marma- E 440 high calcium reactivity lades, fruit",
+            "position": 2
+          },
+          {
+            "url": "https://yumpu.com/en/document/view/8381024/the-specialists-for-pectin-herbstreith-fox/29",
+            "title": "28 Pec tins <strong>for</",
+            "description": "gelling strength amidated Citrus Pectin, \u2022 fruit preparations E 440 medium calcium reactivity for yoghurts (TSS 30 - 60 %, pH 3.5 - 4.5) Amid CF 020 27 - 32 % 18 - 23 % const. gelling strength amidated Citrus Pectin, \u2022 fruit preparations E 440 high calcium reactivity for yoghurts (TSS 10 - 40 %, pH 3.5 - 4.5) 2.",
+            "position": 3
+          },
+          {
+            "url": "https://45cat.com/cdalbum/label/cornfed-productions",
+            "title": "Corn-Fed Productions (Netherlands)",
+            "description": "|  | Barry Brown Super Star |  | Corn-Fed ProductionsNetherlands | CF 020 | 2004 | CDR | 1 | | | |  | Dennis Brown Joseph\u2019s Coat Of Many Colors |  | Corn-Fed ProductionsNetherlands | CF 338 | 2019 | CDR |",
+            "position": 4
+          },
+          {
+            "url": "https://energyflashrecords.co.uk/catalogue/title.phtml?product_id=52317",
+            "title": "Lacarno&Burns - Off&On - Chillifunk Records - Vinyl 12 Inch",
+            "description": "(VG+) Artist Lacarno&Burns    Title Off&On    Label Chillifunk Records    Catalogue CF 020    Format Vinyl 12 Inch    Released 1999    Genre UK House    Other",
+            "position": 5
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "site.herbstreith-fox.de \"CM 201\"",
+    "result": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "url": "https://www.scribd.com/doc/130307827/The-Specialists-for-Pectin-09",
+            "title": "Pectin Varieties and Applications Guide | PDF",
+            "description": "The document discusses pectin, a natural gelling agent derived from plant materials. It summarizes that Herbstreith & Fox is a leading producer of pectin worldwide, with decades of experienc\u00e2\u0080\u00a6 ... Introduction and FundamentalsThe Corporate Group Herbstreith & Fox3Pectin \u00e2\u0080\u0093 A Product of Nature4Raw Materials and Pectin Varieties5 Degree of Esterification and Gelling Properties8 Standardization Methods9Packaging \u00e2\u0080\u0093 Standardized & Customized10 Quality Management ISO 900111Regulations for Purity Requirements12 Representations \u00e2\u0080\u0093 worldwide13Gelling Mechanisms of Pectin14Rheological Properties16 Incorporation into the Product Batch17 Classic, Amid, Combi and Instant Pectins18 Fields of ApplicationJams, Jellies, Marmalades and Fruit Preparations20 Baked Products24Confectionery Articles26 Dairy Products28 Beverages and Sherbets30 Delicatessen, Cr\u00c3\u00a8me fra\u00c3\u00aeche and Margarine31Pharmaceutical and Cosmetic Products, Non Food Applications32 ... he Cor po rate Group Herb streith&Fox is world wide a by word for mak ers of high-qual ity pec tins used in the food and non- food in dus try for more than 75 years. Decades of ex pe ri ence with per spec - tives in re search and de vel op ment, in pro duc tion and sales are cer tain ly the foun da tion for the present suc cess in the world market.Tradition and experience alone will notbe enough to be successful intoday\u00e2\u0080\u0099s markets. Only with a modern management, promo-ting innovative thinking and notwishing to be merely copycatsbut pioneers, listening to themarket demands, will it be pos -sible to transform ideas intopromising action.Herbstreith&Fox has always consis-tently followed this corporate philosophy.In this way, convincing innovative pro-ducts at the highest quality level werecreated in the most advanced productionprocesses.Generally speaking, the Corporate GroupHerbstreith&Fox provides us ers of pec-tins with a sophisticated high-quality product range of all types of pectins,which meet the most demanded require-ments in the most var ied areas of appli -cation. ... The pectin works at Neuenb\u00c3\u00bcrg are cradleand headquarters of the whole corporate group.Rotenbach, raw materials and finished goods warehouse with an area of 15,000 m ... The production location at Werder wasacquired in 1990. It is at the same timeheadquarters of Herbafood Ingredients GmbH and agro Food Solution GmbH. ... ectin is a natural substance which ispresent in great amount in many vegetable foodstuff, e.g. fruits and vege-tables. As structural element in the growthgenerating tissue and main com-ponent of the middle lamella in plants itprovides cohesion and stability in tis-sues and cells.Pectin as a name is derived from theGreek word \u00e2\u0080\u009cpectos\u00e2\u0080\u009d, which means ge-latinated, or solidified.Pectin is a rather young product. Thescientist Vauquelin discovered its exi-stence in fruit juices some 200 yearsago. At that time, however, in 1790, the year of birth for pectin, it was not yet called bythat name. The name was first used in1824, when Braconnot continued the re-search started by Vauquelin. He calledthe gel-forming substance pectic acid.Smolenski in 1924 was the first to assu-me a substance from polymeric galactu-ronic acid in pectin. In 1930, Meyer andMark discovered the chain formation of the pectin molecule. And Schneider andBock in 1937 established the formula.The practical potential was recognizedonly at the beginning of the 20th century.The excellent jellifying properties of pec-tin were employed in the production of foodstuff, which marked the beginning of the large-scale production of pectin.",
+            "position": 1
+          },
+          {
+            "url": "https://www.scribd.com/document/907120808/The-Specialists-for-Pectin-Herbstreith-Amp-Fox",
+            "title": "Herbstreith & Fox: Pectin Specialists | PDF | Fruit Preserves",
+            "description": "A required part of this site couldn\u00e2\u0080\u0099t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.",
+            "position": 2
+          },
+          {
+            "url": "https://patents.google.com/patent/DE202010017314U1/en",
+            "title": "Sensory and nutritionally improved foods based on an oil- ...",
+            "description": "DE202010017314U1 - Sensory and nutritionally improved foods based on an oil-in-water emulsion ... Sensory and nutritionally improved foods based on an oil-in-water emulsionDownload PDF## Info ... Publication numberDE202010017314U1DE202010017314U1DE202010017314UDE202010017314UDE202010017314U1DE 202010017314 U1DE202010017314 U1DE 202010017314U1DE 202010017314 UDE202010017314 UDE 202010017314UDE 202010017314 UDE202010017314 UDE 202010017314UDE 202010017314 U1DE202010017314 U1DE 202010017314U1AuthorityDEGermanyPrior art keywordsemulsionweightfoodoilproteinPrior art date2009-04-30Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)Expired - LifetimeApplication numberDE202010017314UOther languagesGerman(de)Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)OPTISENS GMBH, DEOriginal AssigneeOPTISENS GmbHPriority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)2009-04-30Filing date2010-04-30Publication date2011-09-212009-04-30Priority claimed from DE102009019550.5Aexternal-prioritypatent/DE102009019550B4/en2009-04-30Priority claimed from DE102009019551.3Aexternal-prioritypatent/DE102009019551B4/en2010-04-30Application filed by OPTISENS GmbHfiledCriticalOPTISENS GmbH2010-04-30Priority to DE202010017314UpriorityCriticalpatent/DE202010017314U1/en2011-09-21Publication of DE202010017314U1publicationCriticalpatent/DE202010017314U1/en2020-05-01Anticipated expirationlegal-statusCriticalStatusExpired - Lifetimelegal-statusCriticalCurrent## Links",
+            "position": 3
+          },
+          {
+            "url": "https://prozesstechnik.industrie.de/getraenketechnik/stabilisierung-von-sauermilchgetraenken/",
+            "title": "Stabilisierung von Sauermilchgetr\u00c3\u00a4nken.  - prozesstechnik online",
+            "description": "Sauermilchgetr\u00c3\u00a4nke werden fermentativ oder durch direkte S\u00c3\u00a4uerung mit Lebensmittels\u00c3\u00a4uren bzw. Fruchtsaft hergestellt. Ohne Zusatz eines Stabilisators kommt es bei diesen Produkten nach kurzer Zeit zur Ausflockung der Proteine und zur Molkeabscheidung. Abhilfe schaffen hier als Schutzkolloide eingesetzte Pektine wie die hochveresterten Classic-Apfelpektine und Classic-Citrus-pektine. Diese werden als Schutzkolloide bzw. zur Viskosit\u00c3\u00a4tserh\u00c3\u00b6hung eingesetzt. Die Pektine sind auf ein gleichbleibendes Stabilisierungsverhalten in einem definiertem Sauermilchgetr\u00c3\u00a4nk eingestellt. F\u00c3\u00bcr Sauermilchgetr\u00c3\u00a4nke mit hohem Milchanteil und niedrigem Fruchtsaftanteil \u00e2\u0080\u0093 die europ\u00c3\u00a4ische Verbraucherw\u00c3\u00bcnsche nach h\u00c3\u00b6herer Viskosit\u00c3\u00a4t und dadurch vollem Mundgef\u00c3\u00bchl erf\u00c3\u00bcllen -finden die Pektine Classic CM 201 und AM 201 Anwendung. F\u00c3\u00bcr niedrigviskose Sauermilchgetr\u00c3\u00a4nke mit einem niedrigen Milchanteil bzw. Fettgehalt \u00e2\u0080\u0093 wie auf dem asiatischen Markt bevorzugt \u00e2\u0080\u0093 stehen die Pektine Classic CM 203 und CM 203 J zur Verf\u00c3\u00bcgung.",
+            "position": 4
+          },
+          {
+            "url": "https://manuzoid.com/manuals/7y1Ja-Graef%20CM%20201%20Coffee%20Grinder%20User%20manual",
+            "title": "Graef CM 201 Coffee Grinder User manual",
+            "description": "Graef CM 201 Coffee Grinder User manual # Graef CM 201 Coffee Grinder User manual - I've reviewed the instruction manual for the Graef Coffee Grinder models CM 201, CM 202, and CM 203. This document contains information about the device safety, its features, user guidelines, and maintenance. I'm ready to answer your questions about the device\u00e2\u0080\u0099s adjustable grind, timer, security measures and more. - ... CM 201 / CM 202 / CM 203 ... BEFORE USING FOR THE FIRST TIME ... inder and r emove",
+            "position": 5
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "\"GENU\" \"LM-104\" filetype:pdf",
+    "result": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "url": "https://web.mit.edu/digitalapollo/Documents/Chapter8/lemhandbook.pdf",
+            "title": "Apollo Operations Handbook: Lunar Module, Voume I: Subsystems Data.",
+            "description": "\" . LMA790-3-LM 10 and..Subsequent -\nAPOLLO OPERATIONS HANDBOOK\n-LUNAR MODULE LM 10 AND SUBSEQUENT\nVOLUME | SUBSYSTEMS DATA\nApproved hh Kn ALL, v \u201c : Har unton,Ass't Progrdm Director, Support Approved ; .\nW. J. Everett, Program Manager, LM Publications Section\nNAS 9-1100 Exhibit E Paragraph 10.4\nTYPE | DOCUMENT\nPrepared under direction of\n9-83\nMission LM _ Basic Date _1 Fe! ry 1970 Change Date 1 April 1971\nLMA790-3-LM APOLLO OPERATIONS HANDBOOK\nTABLE OF CONTENTS (cont)\nSection\n2.10 Lighting 2... ee et ee 2.10.1 Introduction. 2... 2... ee ee ee 2.10.2 Functional Description... 2...\nee ee tt et -. 1-2 1-2 LM Configuration... 1. 1 1 we we ee tte ee ee ee ~.. 1-4 1-3 LM Overall Dimensions ......... Pn fo) 1-4 Station Reference Measurements ...... a re 1-5 Ascent Stage Structure Configuration . . 1... 0 2 ee ee ee eee ew ee ew 1-7 1-6 Flight Positions. . ..\ncee ee ee 2. 1-65 2. 1-32 LM Guidance Computer - Functional Flow Diagram. ..... ee 2. 1-67 2. 1-33 Display and Keyboard Assembly - Block Diagram. ...... oe 2. 1-78 2.1-34 Abort Sensor Assembly - Block Diagram ... +. 2. ee ee eee eee 2. 1-84 Page iv Mission LM Basic Date 1 February 1970 Change Date 1 April 1971\nLMA790-3-LM APOLLO OPERATIONS HANDBOOK\n6-25 Page vi Mission LM _ Basic Date 1 February 1970 Change Date 1 April 1971\nLMA790-3-LM APOLLO OPERATIONS HANDBOOK\nLIST OF ILLUSTRATIONS (cont)\nFigure No. Page 2.6-13 Carbon Dioxide Partial Pressure Sensor - Functional Schematic. . ..... 2.6-26 2.6-14 High-Pressure Oxygen Control Assembly - Functional Schematic. . ..... 2.\n2.10-11 2.10~4 Interior Lights - Performance and Des: \u2018Data ...........00-...., 2.10-11 3-1 Controls and Displays - Alphabetical In. \u00a9). 2... le ee 3-2\nMission LM _ Basic Date 1 February 1970 Ci. Date 1 April 1971 Page ix x\nLMA790-3- LM APOLLO OPERATIONS HANDBOOK SPACECRAFT\nSECTION 1\nSPACECRAFT\nINTRODUCTION\nThis section includes descriptions of the LM, the LM - SLA - S-IVB connections, the LM-CSM interfaces, and LM stowage provisions. The Apollo-Saturn space vehicle configuration is shown in figure 1-1.\n1.1 LM CONFIGURATION. (See figure 1-2.) |\nThe LM is designed for manned lunar landing missions.\nThe & overall dimensions of LM are given in figure 1-3. Station reference measurements (figure 1-4) are established as follows:\nLM Configuration\nMission LM Basic Date 1 February 1970 Change Date 1 April 1971 Page 1-3\nLMAT90- .-LM APOLLO OPERA? .:)NS HANDBOOK SPACE AFT\n+X Note X\u2014axis design reference points start at -+-200.000. \u00b0 e | x fe) | f +33 000 REF +Y \\ we Re 7 Z\u2014AND Y\u2014AXIS : STATION ZERO H \u00ab+ ye ~Y > X00.000 comiians - an \u2018a +2 ange \u00a2 !\nTHERMAL AND CREW COMPARTMENT TCA CLUSTER SUPPORTS MICROMETEOROID SHIELD 3OOLMS.13\nFigure 1-5. Ascent Stage Structure Configuration\nASCENT STAGE Hl Page 1-6 Mission LM Basic Date 1 February 1970 Change Date 1 April 1971\nLMA790-3-LM APOLLO OPERATIONS HANDBOOK\nThe tunnel is used for transfer of astronauts and equip- ment to the LM from the CM and for transfer of the LM astronauts and equipment to the CM.",
+            "position": 1
+          },
+          {
+            "url": "https://www.nrc.gov/docs/ML0203/ML020310441.pdf",
+            "title": "02/11/2002 Meeting With GE Nuclear Energy To Discuss ...",
+            "description": "02/11/2002 Meeting With GE Nuclear Energy To Discuss ...\nFeb 1, 2002 \u2014 Monday, February 11, 2002 9:00 a.m. - 10:00 a.m. PURPOSE: To discuss the GENE Licensing Topical Report",
+            "position": 2
+          },
+          {
+            "url": "https://lims.ac.uk/documents/mb.pdf",
+            "title": "[PDF] GENA-LM: a family of open-source foundational DNA language models ...",
+            "description": "[PDF] GENA-LM: a family of open-source foundational DNA language models ...\n15 ene 2025 \u00b7 Models focusing exclusively on human data were trained using the preprocessed Human T2T v2 genome assembly combined with its 1000-genome SNP\n > \n[PDF] GENA-LM: a family of open-source foundational DNA language ...\nWe provide pre-trained versions of. GENA-LM, including multispecies and taxon-specific models, demonstrating their capability for fine-tuning\n > \n[PDF] GENA-LM: a family of open-source foundational DNA language ...\n15 Oca 2025 \u00b7 In this work, we introduce GENA language model (GENA-. LM), a family of transformer-based foundational DNA mod- els. After fine-tuning for",
+            "position": 3
+          },
+          {
+            "url": "https://essexfoodingredients.com/product/genu-pectin-type-lm-104-as",
+            "title": "Essex Food Ingredients - GENU\u00ae pectin type LM-104 AS",
+            "description": "Gums & Hydrocolloids\nGENU\u00ae pectin type LM-104 AS\nEssex Item #: 1180645\nAdditional Information\nProduct Requests\nAdditional Information\nAdditional information",
+            "position": 4
+          },
+          {
+            "url": "https://ww2.lackawannacounty.org/uploads/ordinances/104.pdf",
+            "title": "[PDF] Ordinance #104 - Lackawanna County",
+            "description": "[PDF] Ordinance #104 - Lackawanna County\n$11,040,000 General Obligation Bonds, The Preliminary Official Statement prepared with respect to the Bonds is hereby approved. authorized\n > \n[PDF] Ordinance #104 - Lackawanna County\nThis Bond is one of a duly authorized issue of $11,040,000 aggregate principal amount, General Obligation Bonds,. Series of 1996 (the \"Bonds\")",
+            "position": 5
+          }
+        ]
+      }
+    }
+  }
+]

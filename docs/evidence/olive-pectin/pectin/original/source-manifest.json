@@ -1,0 +1,70 @@
+[
+  {
+    "id": 4,
+    "url": "https://explore.azelis.com/en_GB/nz_fh/genu-pectin-lm-104-as",
+    "files": [
+      "sources/azelis-browser-excerpt.txt"
+    ],
+    "scope": "verbatim scoped DOM excerpt from live public page; not signed TDS",
+    "retrieved_utc": "2026-09-23T19:31:40.749576+00:00",
+    "sha256": {
+      "sources/azelis-browser-excerpt.txt": "00232369ffbbe0a8882017a4fd7e2577630562d54e2d51a67ce2c8995420832d"
+    }
+  },
+  {
+    "id": 6,
+    "url": "https://depositonce.tu-berlin.de/bitstreams/e68b266c-b941-4f2f-9dbd-7aedabd8a4d0/download",
+    "files": [
+      "sources/study2017.pdf",
+      "sources/study2017.txt"
+    ],
+    "scope": "original accepted manuscript full text",
+    "retrieved_utc": "2026-09-23T19:31:40.750159+00:00",
+    "sha256": {
+      "sources/study2017.pdf": "0e5aec60e76ce155230eab3844959c91e8c9e4404da5de29f1126d7f27a3aac4",
+      "sources/study2017.txt": "fafcd751f9ead5e217d06720f8bc7aee28342e19685540bd1587fbe3d11dc50e"
+    }
+  },
+  {
+    "id": 11,
+    "url": "https://www.herbstreith-fox.de/wp-content/uploads/2022/03/AWT_Ue_Specialists_for_pectin_en.pdf",
+    "files": [
+      "sources/hf-official-brochure.pdf",
+      "sources/hf-official-brochure.txt"
+    ],
+    "scope": "official supplier application specifications; publication date unconfirmed",
+    "retrieved_utc": "2026-09-23T19:31:40.751238+00:00",
+    "sha256": {
+      "sources/hf-official-brochure.pdf": "eb95b930d5f3e377b49c680917c348a4c44438235b7ac4d38380a2e1a9305b3d",
+      "sources/hf-official-brochure.txt": "0cb010d915784614f32afca9b0f0951bfd1bfce40782b077c21eda288c63d0f7"
+    }
+  },
+  {
+    "id": 12,
+    "url": "https://www.herbstreith-fox.de/wp-content/uploads/2022/03/AWT_Ue_Acidified_milk_products_protein_stabilisation_en.pdf",
+    "files": [
+      "sources/hf-acidified-milk.pdf",
+      "sources/hf-acidified-milk.txt"
+    ],
+    "scope": "official supplier technical application guide",
+    "retrieved_utc": "2026-09-23T19:31:40.755212+00:00",
+    "sha256": {
+      "sources/hf-acidified-milk.pdf": "4add3a028d39231ff8383e9eace1f8ea6ed2ebf4b61765c986594afec42001f5",
+      "sources/hf-acidified-milk.txt": "13ae6c8a2409377efd633d416de830db8265976bd2f08a9b84d489232f43b88d"
+    }
+  },
+  {
+    "id": 13,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7723220/fullTextXML",
+    "files": [
+      "sources/milk-study.xml",
+      "sources/milk-study.txt"
+    ],
+    "scope": "original research full text XML",
+    "retrieved_utc": "2026-09-23T19:31:40.760258+00:00",
+    "sha256": {
+      "sources/milk-study.xml": "ef7d421d33b076fd2b03961aff298370db57668c04d9e27b05eb24d9df230d39",
+      "sources/milk-study.txt": "2055a39961cea11bf789210e893d06129f79ba4e8a64a57e87957ea3d25df14d"
+    }
+  }
+]

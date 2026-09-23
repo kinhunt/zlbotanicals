@@ -1,0 +1,30 @@
+{
+  "status": "PASS_REVIEWED_FOR_INTEGRATION_NOT_PUBLISHED",
+  "manuscripts": {
+    "en": {
+      "sha256": "0ad12b7a9e4dd838ed0057ac7298b1b1baadd66006e904e446a1039233b73621",
+      "citation_verifier_exit": 0,
+      "contains_required_values": true,
+      "author_draft_sha256": "ca3974961c8e4019eaa981c4af38d81041c69e4eac24cf7e404af74227610f27"
+    },
+    "zh": {
+      "sha256": "3fd11c2c5745695b8106b50e8ea74a4e80c52db668caf3578790fb95901536ef",
+      "citation_verifier_exit": 0,
+      "contains_required_values": true,
+      "author_draft_sha256": "fa703c88e56da1e40a2c3173281cf228de1101f4dd1443911ee2e5e003de82ad"
+    }
+  },
+  "aligned_content_units": 30,
+  "actual_figures_viewed": [
+    "main Figure8",
+    "supplement Figure3"
+  ],
+  "figure_digitization": false,
+  "source_ids": [
+    4,
+    5,
+    7,
+    8,
+    9
+  ]
+}

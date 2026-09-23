@@ -1,0 +1,12 @@
+{
+  "at": "2026-09-23T19:30:34.452270+00:00",
+  "command": [
+    "browserman",
+    "script",
+    "inspect",
+    "./research/seo-growth/2026-09-23-night-commerce/gallery.mjs",
+    "--json"
+  ],
+  "returncode": 0,
+  "output": "{\"ok\":true,\"command\":\"script.inspect\",\"browser\":null,\"result\":{\"format\":\"browserman-script-v1\",\"id\":\"research.olive-initial-gallery\",\"name\":\"olive-initial-gallery\",\"version\":\"1.0.0\",\"apiVersion\":\"^1.0.0\",\"description\":\"\",\"sourcePath\":\"/data/hermes/research/seo-growth/2026-09-23-night-commerce/gallery.mjs\",\"params\":null,\"actions\":[{\"name\":\"read\",\"description\":\"\",\"params\":{\"type\":\"object\",\"properties\":{\"asin\":{\"type\":\"string\"}},\"required\":[\"asin\"]},\"concurrency\":{\"scope\":\"browser\"}}]}}\n\n"
+}

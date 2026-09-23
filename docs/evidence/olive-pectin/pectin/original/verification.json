@@ -1,0 +1,16 @@
+{
+  "hashes_verified": true,
+  "hashed_files": 61,
+  "citation_verification": {
+    "en": 0,
+    "zh": 0
+  },
+  "baseline": "eed9907da84c386e4623e564e40f30baabd62a4a",
+  "site_modified": false,
+  "published": false,
+  "independent_review": false,
+  "draft_sha256": {
+    "en": "c177526f03362ba88f2abdb3a8dde87cc4190f62e0cc9db18e02fa94cfa68106",
+    "zh": "247b35ff2b807deac34369652819fb013da81c10e0584209bc1814c0daddcd2d"
+  }
+}

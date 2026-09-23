@@ -1,0 +1,178 @@
+{
+  "en": {
+    "headers": [
+      "Named grade",
+      "DE / DA",
+      "Supplier-described function or calcium reactivity",
+      "Listed application conditions"
+    ],
+    "rows": [
+      {
+        "cells": [
+          "Classic CF 407",
+          "60–66% / —",
+          "HM, slow set",
+          "Jams and fruit preparations; TSS >58%, pH 2.9–3.3"
+        ],
+        "source": 11,
+        "source_pdf_page": 21,
+        "group": "HM gel"
+      },
+      {
+        "cells": [
+          "Classic CF 701",
+          "39–45% / —",
+          "Non-amidated LM, low calcium reactivity",
+          "Low-calorie jams, spreads and jellies; TSS 40–60%, pH 3.0–3.6"
+        ],
+        "source": 11,
+        "source_pdf_page": 22,
+        "group": "LM gel"
+      },
+      {
+        "cells": [
+          "Classic CF 703",
+          "32–38% / —",
+          "Non-amidated LM, high calcium reactivity",
+          "Low-calorie jams, spreads and jellies; TSS ≤45%, pH 3.0–3.6"
+        ],
+        "source": 11,
+        "source_pdf_page": 22,
+        "group": "LM gel"
+      },
+      {
+        "cells": [
+          "Amid CF 010-D",
+          "30–36% / 14–20%",
+          "Amidated LM, medium calcium reactivity",
+          "Low-calorie jams and spreads; TSS 30–55%, pH 3.0–3.5"
+        ],
+        "source": 11,
+        "source_pdf_page": 23,
+        "group": "LMA gel"
+      },
+      {
+        "cells": [
+          "Amid CF 020-C",
+          "27–32% / 18–23%",
+          "Amidated LM, high calcium reactivity",
+          "Low-calorie jams and spreads; TSS 15–45%, pH 3.0–4.0"
+        ],
+        "source": 11,
+        "source_pdf_page": 23,
+        "group": "LMA gel"
+      },
+      {
+        "cells": [
+          "Classic CM 203",
+          ">68% / —",
+          "HM protective colloid",
+          "Low-viscosity fermented milk drinks; pH 3.6–4.2"
+        ],
+        "source": 11,
+        "source_pdf_page": 29,
+        "group": "protein drink"
+      },
+      {
+        "cells": [
+          "Classic CJ 206",
+          "68–76% / —",
+          "HM cloud stabilisation and viscosity increase",
+          "Soft drinks; pH 2.7–4.5"
+        ],
+        "source": 11,
+        "source_pdf_page": 30,
+        "group": "soft drink"
+      }
+    ],
+    "ranking": false
+  },
+  "zh": {
+    "headers": [
+      "具名牌号",
+      "DE／DA",
+      "供方描述的功能或钙反应性",
+      "手册所列适用条件"
+    ],
+    "rows": [
+      {
+        "cells": [
+          "Classic CF 407",
+          "60–66%／—",
+          "HM，慢凝",
+          "果酱及水果制备物；TSS >58%，pH 2.9–3.3"
+        ],
+        "source": 11,
+        "source_pdf_page": 21,
+        "group": "HM gel"
+      },
+      {
+        "cells": [
+          "Classic CF 701",
+          "39–45%／—",
+          "非酰胺化LM，低钙反应性",
+          "低热量果酱、涂抹酱及果冻；TSS 40–60%，pH 3.0–3.6"
+        ],
+        "source": 11,
+        "source_pdf_page": 22,
+        "group": "LM gel"
+      },
+      {
+        "cells": [
+          "Classic CF 703",
+          "32–38%／—",
+          "非酰胺化LM，高钙反应性",
+          "低热量果酱、涂抹酱及果冻；TSS ≤45%，pH 3.0–3.6"
+        ],
+        "source": 11,
+        "source_pdf_page": 22,
+        "group": "LM gel"
+      },
+      {
+        "cells": [
+          "Amid CF 010-D",
+          "30–36%／14–20%",
+          "酰胺化LM，中等钙反应性",
+          "低热量果酱及涂抹酱；TSS 30–55%，pH 3.0–3.5"
+        ],
+        "source": 11,
+        "source_pdf_page": 23,
+        "group": "LMA gel"
+      },
+      {
+        "cells": [
+          "Amid CF 020-C",
+          "27–32%／18–23%",
+          "酰胺化LM，高钙反应性",
+          "低热量果酱及涂抹酱；TSS 15–45%，pH 3.0–4.0"
+        ],
+        "source": 11,
+        "source_pdf_page": 23,
+        "group": "LMA gel"
+      },
+      {
+        "cells": [
+          "Classic CM 203",
+          ">68%／—",
+          "HM，保护胶体",
+          "低黏度发酵乳饮料；pH 3.6–4.2"
+        ],
+        "source": 11,
+        "source_pdf_page": 29,
+        "group": "protein drink"
+      },
+      {
+        "cells": [
+          "Classic CJ 206",
+          "68–76%／—",
+          "HM，稳定浑浊度、提高黏度",
+          "软饮料；pH 2.7–4.5"
+        ],
+        "source": 11,
+        "source_pdf_page": 30,
+        "group": "soft drink"
+      }
+    ],
+    "ranking": false
+  }
+}

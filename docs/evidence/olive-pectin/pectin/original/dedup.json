@@ -1,0 +1,294 @@
+{
+  "revision": "eed9907da84c386e4623e564e40f30baabd62a4a",
+  "paths_scanned": 267,
+  "matches": [
+    {
+      "path": "src/components/ResearchHub.astro",
+      "lines": [
+        [
+          28,
+          "<section data-beetroot-research class=\"border-t pt-8 space-y-4\"><h2 class=\"text-2xl font-bold\"><a class=\"underline text-primary\" href={local('/resources/blog/beet-colour-plant-based-meat')}>{zh?\"甜菜红植物肉烤后为什么还红？甜菜果胶与漆酶的变色思路\":\"Why does beet-red plant-based meat stay red after cooking? Where sugar beet pectin and laccase fit\"}</a></h2><p>{zh?\"区分底色调整与烹调变色，解读甜菜红、甜菜果胶和漆酶研究中的植物肉配方、色度与使用边界。\":\"Compare shade adjustment with beet-red, sugar beet pectin and laccase research for cooking colour transitions in plant-based meat.\"}</p></section>"
+        ]
+      ]
+    },
+    {
+      "path": "src/content/blog/en/astaxanthin-beverage-stability.md",
+      "lines": [
+        [
+          49,
+          "A 2024 model-emulsion study compared two ways to combine sodium caseinate and sugar beet pectin. One formed a protein-stabilized emulsion first and then added pectin; the other premixed the protein and pectin before emulsification.<a href=\"#astaxanthin-ref-3\">[3]</a>"
+        ],
+        [
+          51,
+          "The selected premixed formulation performed better in several acidity and salt tests. For example, the layered emulsion showed pronounced droplet flocculation at pH 3, while the premixed emulsion showed no notable microstructural change across the tested pH values.<a href=\"#astaxanthin-ref-3\">[3]</a> But the two routes used different protein-to-pectin ratios and final biopolymer concentrations, as recorded in the paper's Table 1.<a href=\"#astaxanthin-ref-3\">[3]</a> A development comparison should therefore vary composition alongside addition order, rather than assume that premixing alone produces the improvement."
+        ],
+        [
+          59,
+          "For a **ready-to-drink beverage**, begin with the final liquid matrix and its intended package. The isotonic-beverage experiment gives an orange-red prototype to build on, while the caseinate–pectin experiment identifies addition order and composition as variables worth comparing.<a href=\"#astaxanthin-ref-1\">[1]</a><a href=\"#astaxanthin-ref-3\">[3]</a> Screen candidate dispersions at the drink's actual pH and mineral composition, then carry the promising samples through the intended process and storage conditions."
+        ],
+        [
+          73,
+          "<p id=\"astaxanthin-ref-3\">[3] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11381615/fullTextXML\">Stability of electrostatically stabilized emulsions and its encapsulation of astaxanthin against environmental stresses: Effect of sodium caseinate-sugar beet pectin addition order</a></p>"
+        ]
+      ]
+    },
+    {
+      "path": "src/content/blog/en/beet-colour-plant-based-meat.md",
+      "lines": [
+        [
+          2,
+          "title: \"Why does beet-red plant-based meat stay red after cooking? Where sugar beet pectin and laccase fit\""
+        ],
+        [
+          9,
+          "description: \"Compare shade adjustment with beet-red, sugar beet pectin and laccase research for cooking colour transitions in plant-based meat.\""
+        ],
+        [
+          15,
+          "Making a plant-based patty look red before cooking is not the same task as making it turn an appropriate brown afterward. In a study by Sakai and colleagues, control patties containing beet red and methylcellulose remained visibly red after grilling; formulations combining laccase with sugar beet pectin showed a pronounced red-to-brown change.<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a>"
+        ],
+        [
+          31,
+          "## Sugar beet pectin has a role beyond thickening"
+        ],
+        [
+          33,
+          "Sakai and colleagues’ 2022 work used a genuine plant-based system: pea-based textured vegetable protein, pea protein isolate, olive oil, and beet red. The named sugar beet pectin was GENU pectin type BETA BI-J; the laccase was Amano Enzyme’s LC-Y120.<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a> The findings apply to those tested materials; equal-dose substitution needs its own evaluation."
+        ],
+        [
+          35,
+          "Adding laccase to patties containing beet red and methylcellulose did not produce the pronounced browning seen when laccase and sugar beet pectin were used together.<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a> The a* values in Table 1 make that distinction clear:"
+        ],
+        [
+          43,
+          "<tr><th scope=\"row\">Beet red + sugar beet pectin + laccase</th><td><span class=\"mobile-label\">a* before grilling</span><span class=\"cell-value\">47.9 ± 2.4</span></td><td><span class=\"mobile-label\">a* after grilling</span><span class=\"cell-value\">9.3 ± 1.1</span></td></tr>"
+        ],
+        [
+          44,
+          "<tr><th scope=\"row\">Beet red + methylcellulose + sugar beet pectin + laccase</th><td><span class=\"mobile-label\">a* before grilling</span><span class=\"cell-value\">48.3 ± 3.2</span></td><td><span class=\"mobile-label\">a* after grilling</span><span class=\"cell-value\">9.4 ± 1.6</span></td></tr>"
+        ],
+        [
+          47,
+          "Source: Table 1 of the 2022 study. The a* coordinate is dimensionless; ± values are reproduced as reported.<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a> In this formulation, adding the enzyme and adding the enzyme together with sugar beet pectin were plainly different treatments."
+        ],
+        [
+          49,
+          "In the authors’ proposed mechanism, laccase and oxygen oxidize ferulate groups in sugar beet pectin to form radicals. These act as mediators, helping oxidize the beet pigment; reactions involving ferulate groups and protein tyrosine residues could also produce pectin–protein crosslinks.<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a> This explains why the pectin is being studied as a reaction partner, not just a thickener. The pathway remains a proposal, and the work does not validate ordinary citrus or apple pectin as substitutes."
+        ],
+        [
+          57,
+          "A 2024 follow-up examined reaction products in patties containing soy-based textured vegetable protein, pea protein isolate, sugar beet pectin, and beet red.<a href=\"#beet-colour-plant-based-meat-ref-28\">[28]</a> That is a different base from the 2022 pea-based formulation, rather than a repeat of an identical recipe."
+        ],
+        [
+          71,
+          "<strong>If the main problem is a red cooked interior, consider beet red, sugar beet pectin, and laccase as a research candidate—not a ready-to-use formula.</strong><a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a><a href=\"#beet-colour-plant-based-meat-ref-28\">[28]</a> Keep the existing formula as a control and distinguish pectin-only, enzyme-only, and combined treatments. Judge the outside and cut surface separately, so surface browning does not conceal an unchanged interior."
+        ],
+        [
+          73,
+          "<strong>If texture must stay within a narrow range, screen color and structure together.</strong> The laccase–sugar beet pectin route concerns more than removing redness; the original work also discusses crosslinking, hardness, and water-holding-related behavior.<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a> Define the acceptable texture range before deciding whether the color improvement is useful."
+        ],
+        [
+          83,
+          "<p id=\"beet-colour-plant-based-meat-ref-30\">[30] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8782913/fullTextXML\">https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8782913/fullTextXML</a> — Sakai et al. 2022 — laccase and pectin original full text</p>"
+        ]
+      ]
+    },
+    {
+      "path": "src/content/blog/en/paprika-extract-format-selection.md",
+      "lines": [
+        [
+          19,
+          "For an oil-based seasoning or coloured fat phase, start the sourcing discussion with an oil-standardized colouring extract. For an aqueous sauce, ask about a water-dispersible preparation and its complete composition. For a spicy seasoning, state the pungency requirement separately rather than expecting a red colouring extract to supply it. These are starting points for selecting samples, not confirmed performance in your recipe."
+        ]
+      ]
+    },
+    {
+      "path": "src/content/blog/en/pomegranate-flavour-selection.md",
+      "lines": [
+        [
+          46,
+          "NFC itself was no guarantee of pigment retention. Anthocyanins were not detected in INCPJ2, an HPP-treated NFC juice packaged in PET. The authors proposed residual enzyme activity and oxygen permeation as possible explanations, but this was not a controlled experiment holding juice, packaging and storage conditions constant.<a href=\"#pomegranate-ref-1\">[1]</a> Define the required finished-product colour directly rather than expecting “NFC” or “high polyphenols” to guarantee it."
+        ]
+      ]
+    },
+    {
+      "path": "src/content/blog/zh/astaxanthin-beverage-stability.md",
+      "lines": [
+        [
+          49,
+          "2024年的一项模型乳液研究比较了酪蛋白酸钠与甜菜果胶的两种组合方式：一种先制备蛋白稳定的乳液，再加入果胶；另一种在乳化前先将蛋白与果胶预混。<a href=\"#astaxanthin-ref-3\">[3]</a>"
+        ],
+        [
+          51,
+          "研究选出的预混配方在多项酸度和盐离子试验中表现较好。例如，逐层组装乳液在pH 3时出现明显的油滴絮凝，预混乳液则在所测各pH条件下未见明显的微观结构变化。<a href=\"#astaxanthin-ref-3\">[3]</a> 不过，两条路线采用的蛋白与果胶比例不同，论文表1所列的最终生物聚合物浓度也不同。<a href=\"#astaxanthin-ref-3\">[3]</a> 开发时应同时比较组成与加料顺序，而不是把改善完全归因于预混这一步。"
+        ],
+        [
+          59,
+          "对于**即饮饮料**，从最终液体配方和预期包装出发。等渗饮料研究提供了橙红色样品的开发参考，酪蛋白酸钠—甜菜果胶研究则提示，加料顺序与组成值得一起比较。<a href=\"#astaxanthin-ref-1\">[1]</a><a href=\"#astaxanthin-ref-3\">[3]</a> 先在成品的实际pH和矿物盐组成下筛选分散体系，再让有潜力的样品经历拟采用的加工与贮藏条件。"
+        ],
+        [
+          73,
+          "<p id=\"astaxanthin-ref-3\">[3] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11381615/fullTextXML\">Stability of electrostatically stabilized emulsions and its encapsulation of astaxanthin against environmental stresses: Effect of sodium caseinate-sugar beet pectin addition order</a></p>"
+        ]
+      ]
+    },
+    {
+      "path": "src/content/blog/zh/beet-colour-plant-based-meat.md",
+      "lines": [
+        [
+          2,
+          "title: \"甜菜红植物肉烤后为什么还红？甜菜果胶与漆酶的变色思路\""
+        ],
+        [
+          9,
+          "description: \"区分底色调整与烹调变色，解读甜菜红、甜菜果胶和漆酶研究中的植物肉配方、色度与使用边界。\""
+        ],
+        [
+          15,
+          "给植物肉调出鲜红色，和让它在烹调后变成合适的褐色，是两件事。Sakai等人的植物肉饼试验里，含甜菜红和甲基纤维素的对照组烤后仍明显发红；同一研究中，漆酶与甜菜果胶并用的配方出现了明显的红转褐变化。<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a>"
+        ],
+        [
+          31,
+          "## 甜菜果胶的作用不止于增稠"
+        ],
+        [
+          33,
+          "真正的植物肉体系见于Sakai等人2022年的研究：基底为豌豆来源组织化植物蛋白，配合豌豆分离蛋白、橄榄油和甜菜红；甜菜果胶的具名原料为GENU pectin type BETA BI-J，漆酶为Amano Enzyme的LC-Y120。<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a> 研究结果对应这些具体材料，换用其他原料仍需重新评估。"
+        ],
+        [
+          35,
+          "这项研究中，仅在含甜菜红和甲基纤维素的体系里加入漆酶，并没有产生明显的褐变；漆酶与甜菜果胶并用时，烤后红度下降明显。<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a> 表1给出了更直观的对照："
+        ],
+        [
+          43,
+          "<tr><th scope=\"row\">甜菜红＋甜菜果胶＋漆酶</th><td><span class=\"mobile-label\">烤前a*</span><span class=\"cell-value\">47.9 ± 2.4</span></td><td><span class=\"mobile-label\">烤后a*</span><span class=\"cell-value\">9.3 ± 1.1</span></td></tr>"
+        ],
+        [
+          44,
+          "<tr><th scope=\"row\">甜菜红＋甲基纤维素＋甜菜果胶＋漆酶</th><td><span class=\"mobile-label\">烤前a*</span><span class=\"cell-value\">48.3 ± 3.2</span></td><td><span class=\"mobile-label\">烤后a*</span><span class=\"cell-value\">9.4 ± 1.6</span></td></tr>"
+        ],
+        [
+          47,
+          "数据来源：2022年研究表1。a*无单位，“±”数值按原表保留。<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a> 这几组差异说明，在该研究配方中，“加酶”与“加酶并配合甜菜果胶”不是同一个处理。"
+        ],
+        [
+          49,
+          "按作者提出的机制，漆酶在氧气参与下氧化甜菜果胶上的阿魏酸基团，形成自由基。这些自由基作为反应介体，帮助氧化甜菜色素；阿魏酸基团与蛋白质酪氨酸残基参与的后续反应，还可能形成果胶—蛋白交联。<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a> 因而，这条路线利用的不只是果胶的增稠作用，还有它参与反应的可能性。上述路径仍属于机制解释，普通柑橘果胶或苹果果胶也尚未在该研究中验证为替代品。"
+        ],
+        [
+          57,
+          "2024年的后续研究采用了含大豆组织化蛋白、豌豆分离蛋白、甜菜果胶和甜菜红的肉饼，进一步分析漆酶反应产物。<a href=\"#beet-colour-plant-based-meat-ref-28\">[28]</a> 它与2022年的豌豆基底不是同一配方，不能当成完全相同体系的重复试验。"
+        ],
+        [
+          71,
+          "<strong>如果主要问题是内部烤后仍红，</strong>甜菜红＋甜菜果胶＋漆酶值得作为研究性候选路线，而不是已验证的即用配方。<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a><a href=\"#beet-colour-plant-based-meat-ref-28\">[28]</a> 建议保留现有配方作对照，并区分加果胶、加酶和两者并用的效果；外表面与剖面分别判断，避免用外表的烘烤色掩盖内部没有变化的问题。"
+        ],
+        [
+          73,
+          "<strong>如果不允许改变当前质构，</strong>把颜色与结构放在同一轮筛选中。漆酶和甜菜果胶路线涉及的不只是红色减弱，原始研究也在讨论交联、硬度和持水相关表现。<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a> 建议先设定可接受的质构范围，再判断颜色改善是否值得。"
+        ],
+        [
+          83,
+          "<p id=\"beet-colour-plant-based-meat-ref-30\">[30] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8782913/fullTextXML\">https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8782913/fullTextXML</a> — Sakai et al. 2022 — laccase and pectin original full text</p>"
+        ]
+      ]
+    },
+    {
+      "path": "src/content/blog/zh/hesperidin-material-choice.md",
+      "lines": [
+        [
+          44,
+          "如果胶囊项目明确要求未改性的橙皮苷，就先固定这一身份。若水基食品要求原料进入溶解状态，文件齐全的食品级葡糖基橙皮苷值得另列候选，而不是作为“含量更高的替代品”。"
+        ]
+      ]
+    },
+    {
+      "path": "src/data/deep-ingredients.json",
+      "lines": [
+        [
+          792,
+          "              \"text\": \"EFSA 2019年评估的申请材料涉及罗汉果（Siraitia grosvenorii）果实水提后获得的不同罗汉果甜苷V含量提取物。报告中的25%等级经历水提、果胶酶处理、浓缩与树脂柱；更高甜苷V等级增加再溶解、树脂吸附和洗脱等纯化步骤。25%等级在该申请资料中仍含3–6%葡萄糖、果糖、蔗糖等糖类，更高等级经附加树脂步骤后糖类降至1%以下、报告仅剩葡萄糖。这里是特定申请材料，不是所有商业25%或50%产品的统一糖含量标准。[5]\""
+        ],
+        [
+          804,
+          "              \"text\": \"**果实验收与分选 → 清洗/适度破碎 → 水提 → 果胶酶处理 → 固液分离与澄清 → 可选浓缩 → 树脂吸附 → 水洗去糖与杂质 → 适配洗脱 → 溶剂回收/再浓缩 → 可选二次纯化 → 干燥 → 按甜苷谱与载体标准化。** 果胶酶、浓缩、树脂与更高等级附加纯化有上述 dossier 支持；精确先后顺序、酶处理位置、洗脱剂及设备配置应按拟开发材料验证，本文不把示意流程当作申请人公开的完整生产SOP。[5]\""
+        ],
+        [
+          812,
+          "              \"text\": \"水提把甜苷与其他水可提取成分带入液相。工程建议通过时间序列测定甜苷V质量回收、可溶性固形物与过滤性，选择停止点，而不是一直提高糖度。果胶酶的任务是改变果胶网络，工程上可用于降低黏度和帮助分离；应通过黏度、浊度、过滤周期和甜苷回收证明实际价值。酶活单位、来源、添加量和失活方法需一并定义；只写“酶解提取”无法判断工艺。评估资料证明该申请使用果胶酶，但未在此提供可直接复制的工业酶量、温度或时间。[5]\""
+        ],
+        [
+          891,
+          "              \"text\": \"工程建议：清洗分选与破碎设备控制原料异物和颗粒负担；带搅拌温控的提取罐实现均匀接触；酶处理罐需要可追溯温度、时间和加料；离心/澄清设备降低柱前固体负荷；吸附柱配分段收集、流量及压差监测，使纯度和回收的取舍可被记录。果胶酶与树脂是评估材料实际记载的环节，但本项目没有任何设备供应商性能或自有产线证据。[5]\""
+        ],
+        [
+          991,
+          "              \"text\": \"The applicant materials assessed by EFSA in 2019 concerned water extracts of Siraitia grosvenorii fruit with different mogroside V contents. The 25% grade underwent water extraction, pectinase treatment, concentration and a resin column. Higher grades added redissolution and resin adsorption/elution purification. In that dossier, the 25% grade retained 3–6% saccharides including glucose, fructose and sucrose; additional resin treatment reduced saccharides below 1% in higher grades, with only glucose reported. These figures describe those applicant materials, not universal sugar specifications for every commercial 25% or 50% extract.[5]\""
+        ],
+        [
+          1003,
+          "              \"text\": \"**Fruit receiving/sorting → washing/moderate size reduction → water extraction → pectinase treatment → separation/clarification → optional concentration → resin adsorption → aqueous washing to remove sugars/impurities → suitable elution → solvent recovery/reconcentration → optional second purification → drying → standardisation by mogroside profile and carrier.** Pectinase, concentration, resin treatment and additional purification are supported by the dossier. Exact ordering, enzyme location, eluent and equipment must be validated for the proposed material; this schematic is not the applicant's fully disclosed manufacturing SOP.[5]\""
+        ],
+        [
+          1011,
+          "              \"text\": \"Water extraction transfers mogrosides and other water-extractable constituents into liquid. Use time-series target mass recovery, soluble solids and filterability to set the endpoint, not ever-higher soluble-solids readings. Pectinase modifies pectin networks and can be investigated for viscosity reduction and easier separation. Demonstrate value through viscosity, turbidity, filtration cycles and mogroside recovery. Define activity units, origin, dose and inactivation together; enzyme-assisted extraction alone is not a meaningful process description. The dossier establishes pectinase use but does not supply here a reproducible industrial dose–temperature–time recipe.[5]\""
+        ],
+        [
+          1090,
+          "              \"text\": \"Proposed functions: sorting/washing and cutting control foreign matter and particle loading; an agitated temperature-controlled extractor provides contact; the enzyme vessel records temperature, time and dosing; clarification reduces column solids; adsorption columns with fraction collection, flow and pressure monitoring make purity/recovery decisions traceable. Pectinase and resin are recorded dossier operations, but no equipment-vendor performance or company-owned line has been established here.[5]\""
+        ]
+      ]
+    },
+    {
+      "path": "src/data/ingredient-reader-packs.json",
+      "lines": [
+        [
+          1277,
+          "              \"text\": \"For enriched extract, EFSA’s dossier describes water extraction, pectinase treatment, concentration and a resin column for the nominal 25% V grade. Higher grades undergo additional dissolution and resin adsorption/elution. The dossier’s proposed 25% grade specification allowed 3–6% saccharides; higher-grade specifications were below 1%. These are dossier-specific specifications, not universal properties of all 25% or 50% materials.[20]\""
+        ],
+        [
+          1478,
+          "              \"text\": \"富集提取物方面，EFSA申报资料描述了标称25% V规格的水提、果胶酶处理、浓缩及树脂柱工序；更高规格增加溶解与树脂吸附洗脱。资料中25%规格拟定糖类为3–6%，较高规格为低于1%。这些属于该申报资料的规格，不是所有25%或50%商品的普遍性质。[20]\""
+        ],
+        [
+          4774,
+          "              \"text\": \"权利要求1涉及用约140–212 °F水提取葡萄籽，并进行双pH处理的多酚提取工艺。权利要求2增加pH 1.5–2.5酸化、果胶酶处理及吸附树脂；权利要求5规定碱化至pH 4.0–6.0。这些来自权利要求限定，而不是仅凭标题判断。权利要求12–15将食品、饮料、化妆品及补充剂与权利要求11的提取物相联系。[8]\""
+        ],
+        [
+          8274,
+          "              \"text\": \"Juice powder supplies fruit solids and flavor. A selected food-grade pectin grade supplies the gel network; sugar or syrup sets the solids balance, water enables hydration, and acid sets final taste and the grade-specific gel conditions. The goji ingredient is not assumed to replace pectin.\""
+        ],
+        [
+          8278,
+          "              \"text\": \"Predisperse and hydrate pectin according to its grade. Prepare the syrup and establish the solids target. Incorporate a separately dispersed juice powder under controlled mixing; add acid at the point appropriate to the selected gel system. Deposit, set and condition before packing. Validate temperature and hold time around goji addition rather than using late addition as a substitute for microbial control.\""
+        ],
+        [
+          8288,
+          "              \"text\": \"果汁粉提供果实固形物和风味；选定的食品级果胶建立凝胶网络；糖或糖浆调节固形物，水用于水化，酸调节口味及该果胶等级所需成胶条件。不假定枸杞原料能替代果胶。\""
+        ],
+        [
+          8292,
+          "              \"text\": \"按果胶等级要求预分散并水化。配制糖浆并确定固形物目标，在受控混合下加入另行分散的果汁粉，再按凝胶体系要求的节点加酸。浇注、成型、调理后包装。验证枸杞加料前后的温度与停留时间，不能以末段添加替代微生物控制。\""
+        ]
+      ]
+    },
+    {
+      "path": "src/pages/solutions/food.astro",
+      "lines": [
+        [
+          24,
+          "<section data-beetroot-discovery class=\"section-padding\"><div class=\"container-wide max-w-4xl\"><h2 class=\"text-2xl font-bold\"><a class=\"underline text-primary\" href=\"/resources/blog/beet-colour-plant-based-meat\">Why does beet-red plant-based meat stay red after cooking? Where sugar beet pectin and laccase fit</a></h2><p class=\"mt-4 text-gray-700\">Compare shade adjustment with beet-red, sugar beet pectin and laccase research for cooking colour transitions in plant-based meat.</p></div></section>"
+        ]
+      ]
+    },
+    {
+      "path": "src/pages/zh/solutions/food.astro",
+      "lines": [
+        [
+          24,
+          "<section data-beetroot-discovery class=\"section-padding\"><div class=\"container-wide max-w-4xl\"><h2 class=\"text-2xl font-bold\"><a class=\"underline text-primary\" href=\"/zh/resources/blog/beet-colour-plant-based-meat\">甜菜红植物肉烤后为什么还红？甜菜果胶与漆酶的变色思路</a></h2><p class=\"mt-4 text-gray-700\">区分底色调整与烹调变色，解读甜菜红、甜菜果胶和漆酶研究中的植物肉配方、色度与使用边界。</p></div></section>"
+        ]
+      ]
+    }
+  ]
+}

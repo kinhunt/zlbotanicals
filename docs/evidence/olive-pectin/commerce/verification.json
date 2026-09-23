@@ -1,0 +1,927 @@
+{
+  "scope": "Independent read-only archived evidence verification; no live-page or physical-bottle verification",
+  "sourceRoot": "/data/hermes/research/seo-growth/2026-09-23-night-commerce",
+  "identities": [
+    {
+      "asin": "B0019LPMDY",
+      "galleryTitle": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+      "detailTitle": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+      "url": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+      "galleryCount": 8,
+      "status": "PASS",
+      "nowUPCInDetail": true
+    },
+    {
+      "asin": "B0C15XRRDJ",
+      "galleryTitle": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+      "detailTitle": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+      "url": "https://www.amazon.com/dp/B0C15XRRDJ",
+      "galleryCount": 9,
+      "status": "PASS",
+      "nowUPCInDetail": null
+    },
+    {
+      "asin": "B010YH0BS4",
+      "galleryTitle": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+      "detailTitle": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+      "url": "https://www.amazon.com/dp/B010YH0BS4",
+      "galleryCount": 7,
+      "status": "PASS",
+      "nowUPCInDetail": null
+    }
+  ],
+  "images": [
+    {
+      "asin": "B0019LPMDY",
+      "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+      "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+      "rawFile": "B0019LPMDY-gallery-v2.json",
+      "rawField": "initial[0].hiRes",
+      "variant": "MAIN",
+      "url": "https://m.media-amazon.com/images/I/71WSEGsOvTL._AC_SL1500_.jpg",
+      "file": "images/B0019LPMDY-01.jpg",
+      "sha256": "a3b883b5cc3cb75124317c9f33e66b484b3e3310c102fa685b2d5188b2e27506",
+      "dimensions": [
+        782,
+        1500
+      ],
+      "computedSha256": "a3b883b5cc3cb75124317c9f33e66b484b3e3310c102fa685b2d5188b2e27506",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0019LPMDY",
+      "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+      "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+      "rawFile": "B0019LPMDY-gallery-v2.json",
+      "rawField": "initial[1].hiRes",
+      "variant": "PT01",
+      "url": "https://m.media-amazon.com/images/I/71eK0b5PaqL._AC_SL1500_.jpg",
+      "file": "images/B0019LPMDY-02.jpg",
+      "sha256": "ba38dea349dd42655878640394b63dc9c933e7c2b6b67de69a41a571529ca637",
+      "dimensions": [
+        781,
+        1500
+      ],
+      "computedSha256": "ba38dea349dd42655878640394b63dc9c933e7c2b6b67de69a41a571529ca637",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0019LPMDY",
+      "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+      "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+      "rawFile": "B0019LPMDY-gallery-v2.json",
+      "rawField": "initial[2].hiRes",
+      "variant": "PT02",
+      "url": "https://m.media-amazon.com/images/I/71MlT53RzXL._AC_SL1500_.jpg",
+      "file": "images/B0019LPMDY-03.jpg",
+      "sha256": "a22d910999c9049e89dcad11f103e76e634fae9ca133247647b537e7fdd4e183",
+      "dimensions": [
+        781,
+        1500
+      ],
+      "computedSha256": "a22d910999c9049e89dcad11f103e76e634fae9ca133247647b537e7fdd4e183",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0019LPMDY",
+      "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+      "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+      "rawFile": "B0019LPMDY-gallery-v2.json",
+      "rawField": "initial[3].hiRes",
+      "variant": "PT03",
+      "url": "https://m.media-amazon.com/images/I/61dZ5kGb28L._AC_SL1500_.jpg",
+      "file": "images/B0019LPMDY-04.jpg",
+      "sha256": "6cdc8eba9d8cf68bf1753b8964dae7963b513b6fb4aac9edf96a933063ad6534",
+      "dimensions": [
+        1500,
+        1434
+      ],
+      "computedSha256": "6cdc8eba9d8cf68bf1753b8964dae7963b513b6fb4aac9edf96a933063ad6534",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0019LPMDY",
+      "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+      "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+      "rawFile": "B0019LPMDY-gallery-v2.json",
+      "rawField": "initial[4].hiRes",
+      "variant": "PT04",
+      "url": "https://m.media-amazon.com/images/I/81PcicfnDkL._AC_SL1500_.jpg",
+      "file": "images/B0019LPMDY-05.jpg",
+      "sha256": "eabdf924c265e4127efd6ca1a5ef1fcbe9ba54709190952019f405a41108e1ec",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "computedSha256": "eabdf924c265e4127efd6ca1a5ef1fcbe9ba54709190952019f405a41108e1ec",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0019LPMDY",
+      "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+      "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+      "rawFile": "B0019LPMDY-gallery-v2.json",
+      "rawField": "initial[5].hiRes",
+      "variant": "PT05",
+      "url": "https://m.media-amazon.com/images/I/71AggOdc+BL._AC_SL1500_.jpg",
+      "file": "images/B0019LPMDY-06.jpg",
+      "sha256": "dc17b8eaf70ab1fb24a8a57399efcb6dd5066993ab20fe2238002951bbdd9ee4",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "computedSha256": "dc17b8eaf70ab1fb24a8a57399efcb6dd5066993ab20fe2238002951bbdd9ee4",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0019LPMDY",
+      "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+      "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+      "rawFile": "B0019LPMDY-gallery-v2.json",
+      "rawField": "initial[6].hiRes",
+      "variant": "PT06",
+      "url": "https://m.media-amazon.com/images/I/81-8+JOqNAL._AC_SL1500_.jpg",
+      "file": "images/B0019LPMDY-07.jpg",
+      "sha256": "d6a5cf2c53787953e662159bae4ba27064a3a9538515f9dcbe853fdc12d4c538",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "computedSha256": "d6a5cf2c53787953e662159bae4ba27064a3a9538515f9dcbe853fdc12d4c538",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0019LPMDY",
+      "title": "NOW Supplements, Olive Leaf Extract 500 mg, 120 Veg Caps",
+      "pageUrl": "https://www.amazon.com/dp/B0019LPMDY?th=1",
+      "rawFile": "B0019LPMDY-gallery-v2.json",
+      "rawField": "initial[7].hiRes",
+      "variant": "PT15",
+      "url": "https://m.media-amazon.com/images/I/71JuXqXPhoL._AC_SL1500_.jpg",
+      "file": "images/B0019LPMDY-08.jpg",
+      "sha256": "a26eebc7d73e9a561894512057fc079ca2aad4d16c82b752f10c089426362ee5",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "computedSha256": "a26eebc7d73e9a561894512057fc079ca2aad4d16c82b752f10c089426362ee5",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0C15XRRDJ",
+      "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+      "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+      "rawFile": "B0C15XRRDJ-gallery.json",
+      "rawField": "initial[0].hiRes",
+      "variant": "MAIN",
+      "url": "https://m.media-amazon.com/images/I/71IyEZlFwqL._AC_SL1500_.jpg",
+      "file": "images/B0C15XRRDJ-01.jpg",
+      "sha256": "98f5c65c3ff83bf9c8cfb299bae5bcf1c6efcfa530fd9e0ddc3a2a7fbcbd59bf",
+      "dimensions": [
+        1298,
+        1500
+      ],
+      "computedSha256": "98f5c65c3ff83bf9c8cfb299bae5bcf1c6efcfa530fd9e0ddc3a2a7fbcbd59bf",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0C15XRRDJ",
+      "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+      "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+      "rawFile": "B0C15XRRDJ-gallery.json",
+      "rawField": "initial[1].hiRes",
+      "variant": "PT01",
+      "url": "https://m.media-amazon.com/images/I/81xkweQl8iL._AC_SL1500_.jpg",
+      "file": "images/B0C15XRRDJ-02.jpg",
+      "sha256": "473ebdb876cd72c012ff379c29052632ad5d11e49b74f6e85d28a129e7c09422",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "computedSha256": "473ebdb876cd72c012ff379c29052632ad5d11e49b74f6e85d28a129e7c09422",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0C15XRRDJ",
+      "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+      "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+      "rawFile": "B0C15XRRDJ-gallery.json",
+      "rawField": "initial[2].hiRes",
+      "variant": "PT02",
+      "url": "https://m.media-amazon.com/images/I/81Dmh4-3N0L._AC_SL1500_.jpg",
+      "file": "images/B0C15XRRDJ-03.jpg",
+      "sha256": "85a403988b2c6644a8530b281046a1ccadae1f2fe50622c9047574a48f3bc188",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "computedSha256": "85a403988b2c6644a8530b281046a1ccadae1f2fe50622c9047574a48f3bc188",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0C15XRRDJ",
+      "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+      "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+      "rawFile": "B0C15XRRDJ-gallery.json",
+      "rawField": "initial[3].hiRes",
+      "variant": "PT03",
+      "url": "https://m.media-amazon.com/images/I/71UMTlvQPjL._AC_SL1500_.jpg",
+      "file": "images/B0C15XRRDJ-04.jpg",
+      "sha256": "a36bdabe7d17ee08b39fd2a4a3cb2838edac75c8634b7979f672568217a381e7",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "computedSha256": "a36bdabe7d17ee08b39fd2a4a3cb2838edac75c8634b7979f672568217a381e7",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0C15XRRDJ",
+      "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+      "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+      "rawFile": "B0C15XRRDJ-gallery.json",
+      "rawField": "initial[4].hiRes",
+      "variant": "PT04",
+      "url": "https://m.media-amazon.com/images/I/814Imp73L7L._AC_SL1500_.jpg",
+      "file": "images/B0C15XRRDJ-05.jpg",
+      "sha256": "373fba7604ba72b671ac350eee1d8e18cf9258334d9fb5ecb76d900b2aa9ffd4",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "computedSha256": "373fba7604ba72b671ac350eee1d8e18cf9258334d9fb5ecb76d900b2aa9ffd4",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0C15XRRDJ",
+      "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+      "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+      "rawFile": "B0C15XRRDJ-gallery.json",
+      "rawField": "initial[5].hiRes",
+      "variant": "PT05",
+      "url": "https://m.media-amazon.com/images/I/81rOWjjJ9YL._AC_SL1500_.jpg",
+      "file": "images/B0C15XRRDJ-06.jpg",
+      "sha256": "f7d96a48f6cf25950f225da0969b4c74932cbd1b2707d599477b582f9c37f321",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "computedSha256": "f7d96a48f6cf25950f225da0969b4c74932cbd1b2707d599477b582f9c37f321",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0C15XRRDJ",
+      "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+      "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+      "rawFile": "B0C15XRRDJ-gallery.json",
+      "rawField": "initial[6].hiRes",
+      "variant": "PT06",
+      "url": "https://m.media-amazon.com/images/I/81ReMaX9UXL._AC_SL1500_.jpg",
+      "file": "images/B0C15XRRDJ-07.jpg",
+      "sha256": "90ad84a02d85b37c09436b129c1c45e6ece5f5ed12a459674b10bb41fcbcbb78",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "computedSha256": "90ad84a02d85b37c09436b129c1c45e6ece5f5ed12a459674b10bb41fcbcbb78",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0C15XRRDJ",
+      "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+      "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+      "rawFile": "B0C15XRRDJ-gallery.json",
+      "rawField": "initial[7].hiRes",
+      "variant": "PT07",
+      "url": "https://m.media-amazon.com/images/I/71L3w2MmGHL._AC_SL1500_.jpg",
+      "file": "images/B0C15XRRDJ-08.jpg",
+      "sha256": "9fdd780579efad1296fb2c3b70b992761f40fd20b33ed47af0267e6715508597",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "computedSha256": "9fdd780579efad1296fb2c3b70b992761f40fd20b33ed47af0267e6715508597",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B0C15XRRDJ",
+      "title": "Wild & Organic Olive Leaf Extract Liquid Drops - Immune & Antioxidant - 4oz",
+      "pageUrl": "https://www.amazon.com/dp/B0C15XRRDJ",
+      "rawFile": "B0C15XRRDJ-gallery.json",
+      "rawField": "initial[8].hiRes",
+      "variant": "PT08",
+      "url": "https://m.media-amazon.com/images/I/81cYQ66VggL._AC_SL1500_.jpg",
+      "file": "images/B0C15XRRDJ-09.jpg",
+      "sha256": "0e1c4d3f2ff282a16cc37080df736e9b6cf6a850ae89393a4954b6007789f209",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "computedSha256": "0e1c4d3f2ff282a16cc37080df736e9b6cf6a850ae89393a4954b6007789f209",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B010YH0BS4",
+      "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+      "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+      "rawFile": "B010YH0BS4-gallery.json",
+      "rawField": "initial[0].hiRes",
+      "variant": "MAIN",
+      "url": "https://m.media-amazon.com/images/I/81LllnvoO4L._AC_SL1500_.jpg",
+      "file": "images/B010YH0BS4-01.jpg",
+      "sha256": "cf3eeddf5faae00e87fef177c7e751896b0348cdc4bc9bf5dcda0d884112e33d",
+      "dimensions": [
+        1434,
+        1500
+      ],
+      "computedSha256": "cf3eeddf5faae00e87fef177c7e751896b0348cdc4bc9bf5dcda0d884112e33d",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B010YH0BS4",
+      "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+      "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+      "rawFile": "B010YH0BS4-gallery.json",
+      "rawField": "initial[1].hiRes",
+      "variant": "PT01",
+      "url": "https://m.media-amazon.com/images/I/71geDugI1iL._AC_SL1500_.jpg",
+      "file": "images/B010YH0BS4-02.jpg",
+      "sha256": "eb9abd9341c883bfa77f57172e913a48a08df98b85ced63e4ef74f2777b02751",
+      "dimensions": [
+        879,
+        1500
+      ],
+      "computedSha256": "eb9abd9341c883bfa77f57172e913a48a08df98b85ced63e4ef74f2777b02751",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B010YH0BS4",
+      "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+      "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+      "rawFile": "B010YH0BS4-gallery.json",
+      "rawField": "initial[2].hiRes",
+      "variant": "PT02",
+      "url": "https://m.media-amazon.com/images/I/71IcLErJwFL._AC_SL1100_.jpg",
+      "file": "images/B010YH0BS4-03.jpg",
+      "sha256": "4c7553a3a4b288488877231ce710eb3d362a70ea2bdca68cf2fa9bfb697b8934",
+      "dimensions": [
+        992,
+        1069
+      ],
+      "computedSha256": "4c7553a3a4b288488877231ce710eb3d362a70ea2bdca68cf2fa9bfb697b8934",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B010YH0BS4",
+      "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+      "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+      "rawFile": "B010YH0BS4-gallery.json",
+      "rawField": "initial[3].hiRes",
+      "variant": "PT03",
+      "url": "https://m.media-amazon.com/images/I/81juTwUxBeL._AC_SL1500_.jpg",
+      "file": "images/B010YH0BS4-04.jpg",
+      "sha256": "a1ba925fb6db7bf009194daf97af940e72715fc9cffa9fc084103111f49d780e",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "computedSha256": "a1ba925fb6db7bf009194daf97af940e72715fc9cffa9fc084103111f49d780e",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B010YH0BS4",
+      "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+      "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+      "rawFile": "B010YH0BS4-gallery.json",
+      "rawField": "initial[4].hiRes",
+      "variant": "PT04",
+      "url": "https://m.media-amazon.com/images/I/81NZl-d1w8L._AC_SL1500_.jpg",
+      "file": "images/B010YH0BS4-05.jpg",
+      "sha256": "2195403a578eac0faf0c8e1b4d614647c7d62be9c90b9701340a7d38e63b5afd",
+      "dimensions": [
+        1500,
+        1465
+      ],
+      "computedSha256": "2195403a578eac0faf0c8e1b4d614647c7d62be9c90b9701340a7d38e63b5afd",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B010YH0BS4",
+      "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+      "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+      "rawFile": "B010YH0BS4-gallery.json",
+      "rawField": "initial[5].hiRes",
+      "variant": "PT05",
+      "url": "https://m.media-amazon.com/images/I/61t8YVpHTaL._AC_SL1000_.jpg",
+      "file": "images/B010YH0BS4-06.jpg",
+      "sha256": "21b9f1e9dce5718e429e369906b22d439ee95606a562917a04fc627db3c29313",
+      "dimensions": [
+        820,
+        1000
+      ],
+      "computedSha256": "21b9f1e9dce5718e429e369906b22d439ee95606a562917a04fc627db3c29313",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    },
+    {
+      "asin": "B010YH0BS4",
+      "title": "Olive Leaf Extract Capsules with Real Hydroxytyrosol, 90-ct, from Spain",
+      "pageUrl": "https://www.amazon.com/dp/B010YH0BS4",
+      "rawFile": "B010YH0BS4-gallery.json",
+      "rawField": "initial[6].hiRes",
+      "variant": "PT06",
+      "url": "https://m.media-amazon.com/images/I/71mlcXu1nTL._AC_SL1500_.jpg",
+      "file": "images/B010YH0BS4-07.jpg",
+      "sha256": "e110ef356e09c9b877bcbab91a0e159b2a4de3c270f4ee599f5c90ed7f0d4839",
+      "dimensions": [
+        1305,
+        1500
+      ],
+      "computedSha256": "e110ef356e09c9b877bcbab91a0e159b2a4de3c270f4ee599f5c90ed7f0d4839",
+      "checks": {
+        "hash": true,
+        "url": true,
+        "variant": true,
+        "title": true,
+        "pageUrl": true,
+        "dimensions": true
+      },
+      "status": "PASS"
+    }
+  ],
+  "sourceFilesSHA256": {
+    "ANALYSIS-ENZH.md": "0bb0a91e234aea9325882fc1fd8946089a900bac64f92989d548b5ab47c9c8ab",
+    "B0019LPMDY-detail.json": "a4773ae65dffdbed41f186b5ed4f503cbf1e29ce65a89ec7e8881d20c1d782f0",
+    "B0019LPMDY-dispatch.json": "b6ff0491103569aba05d115514a33faadf6e5bb7037b84db8992c2ab88d3c523",
+    "B0019LPMDY-gallery-v2.json": "b2c0e9203828c0b347b39673dc692146412ac35bc9accf96c0bb23f56fe02331",
+    "B0019LPMDY-gallery.json": "bd8f06fb5d2625f9227bfd3601a5fcf7721cad1e6dd8b98e5f57653431626db1",
+    "B010YH0BS4-detail.json": "d07824bff44ab59e649efe4e6381416a55f2c04c9ba3328d95aed2d34e88038f",
+    "B010YH0BS4-dispatch.json": "d04950af0ca6638d4797c91d9a440b4bfbc6aabc1dfc13bf064df078132068ca",
+    "B010YH0BS4-gallery.json": "c7f85efa52d3852a02b9294402f8490cec241897092292819698ed3a443092c0",
+    "B0C15XRRDJ-detail.json": "c256c7d676af25d8275c74ca002bddd2929ecca3e294c15228f038379ada3560",
+    "B0C15XRRDJ-dispatch.json": "bdf2702acc2994bab059e0ed8f9641f2e709e2133b056271391e558bd5365ee1",
+    "B0C15XRRDJ-gallery.json": "34a3c6ff212f1c01ccd3d1f85575d03a7c39f0138ae75a82cc78a150ff2a33e9",
+    "SHA256SUMS": "6389c57b8245e745c76b30da473d55c8016a1935722de84cf14984f810bc6bfa",
+    "VISION-REVIEW.md": "e98f22588f2d22d213419fb1e3189c8284191295a9427f3751eaca046466ef98",
+    "actions.json": "0cdc6950328b6e2c6ee6916774e2df8d945fe1b11a38c5db219fbf4ecd6c5fc2",
+    "catalog.json": "081c54203bf9abdfee1b81930bf3b25142cb10f1e2fd22783c626f0192b427da",
+    "details.py": "7c83874086bf0752dd7d1c6e3aa9058d4c27d6af48242523300b28a00d5b2773",
+    "download_images.py": "e49fd439e48b23cace61518c2636ad5d34217fc78092b8f9a3b27e2ab6bcd216",
+    "gallery-debug.json": "0fdf3c0f58e4a82ab57a4218886a4da165a2a30b91b83d55e7c977939d2d2760",
+    "gallery-inspect-ok.json": "a055a59b2b91f46899c065c35c683b6b21327b157bc06798ec0488e0b7bb8877",
+    "gallery-inspect-v2.json": "38010c4d6c80ecbe0d5e5a8b2b67d3c6cba7eae59a1d29597da9cd79e9900885",
+    "gallery-inspect.json": "6793cf6526a723b733ac3da8124349406fb5d0bbd04e51bb13c47a3bcc4198e4",
+    "gallery-schema-ok.json": "1bd77b9027c1be7d139330c0cc1fb4d3005479dfb61d6f085606847c4e9ee94a",
+    "gallery-schema.json": "c48eb4fddd22693e2acdce2861221d7cfd04db0b6b34f9129c641d9d07b257dd",
+    "gallery.mjs": "4fb18387421b5b7fe653b68cd54bdce7b6c542f25e2dc673e787015ecd24e865",
+    "image-manifest.json": "9a7063524c656703e0fa87a90c0969fc654162f7f3b08a8ab0ab6d39ff71b4bd",
+    "images/B0019LPMDY-01.jpg": "a3b883b5cc3cb75124317c9f33e66b484b3e3310c102fa685b2d5188b2e27506",
+    "images/B0019LPMDY-02.jpg": "ba38dea349dd42655878640394b63dc9c933e7c2b6b67de69a41a571529ca637",
+    "images/B0019LPMDY-03.jpg": "a22d910999c9049e89dcad11f103e76e634fae9ca133247647b537e7fdd4e183",
+    "images/B0019LPMDY-04.jpg": "6cdc8eba9d8cf68bf1753b8964dae7963b513b6fb4aac9edf96a933063ad6534",
+    "images/B0019LPMDY-05.jpg": "eabdf924c265e4127efd6ca1a5ef1fcbe9ba54709190952019f405a41108e1ec",
+    "images/B0019LPMDY-06.jpg": "dc17b8eaf70ab1fb24a8a57399efcb6dd5066993ab20fe2238002951bbdd9ee4",
+    "images/B0019LPMDY-07.jpg": "d6a5cf2c53787953e662159bae4ba27064a3a9538515f9dcbe853fdc12d4c538",
+    "images/B0019LPMDY-08.jpg": "a26eebc7d73e9a561894512057fc079ca2aad4d16c82b752f10c089426362ee5",
+    "images/B0019LPMDY-contact.jpg": "7332c22f5522746167cfcfe18087265d5a27d7d07eff6596c7762836551e6219",
+    "images/B010YH0BS4-01.jpg": "cf3eeddf5faae00e87fef177c7e751896b0348cdc4bc9bf5dcda0d884112e33d",
+    "images/B010YH0BS4-02.jpg": "eb9abd9341c883bfa77f57172e913a48a08df98b85ced63e4ef74f2777b02751",
+    "images/B010YH0BS4-03.jpg": "4c7553a3a4b288488877231ce710eb3d362a70ea2bdca68cf2fa9bfb697b8934",
+    "images/B010YH0BS4-04.jpg": "a1ba925fb6db7bf009194daf97af940e72715fc9cffa9fc084103111f49d780e",
+    "images/B010YH0BS4-05.jpg": "2195403a578eac0faf0c8e1b4d614647c7d62be9c90b9701340a7d38e63b5afd",
+    "images/B010YH0BS4-06.jpg": "21b9f1e9dce5718e429e369906b22d439ee95606a562917a04fc627db3c29313",
+    "images/B010YH0BS4-07.jpg": "e110ef356e09c9b877bcbab91a0e159b2a4de3c270f4ee599f5c90ed7f0d4839",
+    "images/B010YH0BS4-contact.jpg": "00e3f716cfadbebc1d82b04d644ec08c81c59946717dcb0c49626566e935178c",
+    "images/B0C15XRRDJ-01.jpg": "98f5c65c3ff83bf9c8cfb299bae5bcf1c6efcfa530fd9e0ddc3a2a7fbcbd59bf",
+    "images/B0C15XRRDJ-02.jpg": "473ebdb876cd72c012ff379c29052632ad5d11e49b74f6e85d28a129e7c09422",
+    "images/B0C15XRRDJ-03.jpg": "85a403988b2c6644a8530b281046a1ccadae1f2fe50622c9047574a48f3bc188",
+    "images/B0C15XRRDJ-04.jpg": "a36bdabe7d17ee08b39fd2a4a3cb2838edac75c8634b7979f672568217a381e7",
+    "images/B0C15XRRDJ-05.jpg": "373fba7604ba72b671ac350eee1d8e18cf9258334d9fb5ecb76d900b2aa9ffd4",
+    "images/B0C15XRRDJ-06.jpg": "f7d96a48f6cf25950f225da0969b4c74932cbd1b2707d599477b582f9c37f321",
+    "images/B0C15XRRDJ-07.jpg": "90ad84a02d85b37c09436b129c1c45e6ece5f5ed12a459674b10bb41fcbcbb78",
+    "images/B0C15XRRDJ-08.jpg": "9fdd780579efad1296fb2c3b70b992761f40fd20b33ed47af0267e6715508597",
+    "images/B0C15XRRDJ-09.jpg": "0e1c4d3f2ff282a16cc37080df736e9b6cf6a850ae89393a4954b6007789f209",
+    "images/B0C15XRRDJ-contact.jpg": "fb2ed69f385ad6be7ec6271be1426849d1c1d5df1a141c3742bc5c47a4ae4d95",
+    "ping.json": "96497798070f246c807d78961751b86e6c15048842b32d19d86f93945bb72dd4",
+    "safe_cli.py": "2dcebb405ff98d06b0a1492364a463bc2820efe83d823ceaad7d52a58f8b741b",
+    "schema-product.json": "a7a3da63ce11cf3c9e761f083c2d4a758dc5984247c84871754720ba34600ffa",
+    "schema-search.json": "503f7ffe508111f41479ca5aa53deeeb70ef287dd2371f53cad9508042410d33",
+    "search-result.json": "91392d1ebf55cfd08dd621af9b3cc13db7b0396dafac0b02d7fc773140633ef0",
+    "search.json": "fb51c63e887717bdbe59d6c5a4a998206ad435c7fb28d0d65f2e1e4b4cc88d69"
+  },
+  "upstreamSHA256SUMS": [
+    {
+      "path": "ANALYSIS-ENZH.md",
+      "status": "PASS"
+    },
+    {
+      "path": "B0019LPMDY-detail.json",
+      "status": "PASS"
+    },
+    {
+      "path": "B0019LPMDY-dispatch.json",
+      "status": "PASS"
+    },
+    {
+      "path": "B0019LPMDY-gallery-v2.json",
+      "status": "PASS"
+    },
+    {
+      "path": "B0019LPMDY-gallery.json",
+      "status": "PASS"
+    },
+    {
+      "path": "B010YH0BS4-detail.json",
+      "status": "PASS"
+    },
+    {
+      "path": "B010YH0BS4-dispatch.json",
+      "status": "PASS"
+    },
+    {
+      "path": "B010YH0BS4-gallery.json",
+      "status": "PASS"
+    },
+    {
+      "path": "B0C15XRRDJ-detail.json",
+      "status": "PASS"
+    },
+    {
+      "path": "B0C15XRRDJ-dispatch.json",
+      "status": "PASS"
+    },
+    {
+      "path": "B0C15XRRDJ-gallery.json",
+      "status": "PASS"
+    },
+    {
+      "path": "VISION-REVIEW.md",
+      "status": "PASS"
+    },
+    {
+      "path": "actions.json",
+      "status": "PASS"
+    },
+    {
+      "path": "catalog.json",
+      "status": "PASS"
+    },
+    {
+      "path": "details.py",
+      "status": "PASS"
+    },
+    {
+      "path": "download_images.py",
+      "status": "PASS"
+    },
+    {
+      "path": "gallery-debug.json",
+      "status": "PASS"
+    },
+    {
+      "path": "gallery-inspect-ok.json",
+      "status": "PASS"
+    },
+    {
+      "path": "gallery-inspect-v2.json",
+      "status": "PASS"
+    },
+    {
+      "path": "gallery-inspect.json",
+      "status": "PASS"
+    },
+    {
+      "path": "gallery-schema-ok.json",
+      "status": "PASS"
+    },
+    {
+      "path": "gallery-schema.json",
+      "status": "PASS"
+    },
+    {
+      "path": "gallery.mjs",
+      "status": "PASS"
+    },
+    {
+      "path": "image-manifest.json",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0019LPMDY-01.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0019LPMDY-02.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0019LPMDY-03.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0019LPMDY-04.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0019LPMDY-05.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0019LPMDY-06.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0019LPMDY-07.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0019LPMDY-08.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0019LPMDY-contact.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B010YH0BS4-01.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B010YH0BS4-02.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B010YH0BS4-03.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B010YH0BS4-04.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B010YH0BS4-05.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B010YH0BS4-06.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B010YH0BS4-07.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B010YH0BS4-contact.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0C15XRRDJ-01.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0C15XRRDJ-02.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0C15XRRDJ-03.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0C15XRRDJ-04.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0C15XRRDJ-05.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0C15XRRDJ-06.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0C15XRRDJ-07.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0C15XRRDJ-08.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0C15XRRDJ-09.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "images/B0C15XRRDJ-contact.jpg",
+      "status": "PASS"
+    },
+    {
+      "path": "ping.json",
+      "status": "PASS"
+    },
+    {
+      "path": "safe_cli.py",
+      "status": "PASS"
+    },
+    {
+      "path": "schema-product.json",
+      "status": "PASS"
+    },
+    {
+      "path": "schema-search.json",
+      "status": "PASS"
+    },
+    {
+      "path": "search-result.json",
+      "status": "PASS"
+    },
+    {
+      "path": "search.json",
+      "status": "PASS"
+    }
+  ],
+  "imagesPassed": 24,
+  "moduleSha256": "3ec789b3fdb128f5f1231cfd86bca853747bf48f855115b66cd76e6e6ffc6ce3"
+}

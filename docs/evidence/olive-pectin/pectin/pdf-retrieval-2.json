@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fsn3.1933",
+    "status": 403,
+    "bytes": 5614,
+    "type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7723220/supplementaryFiles",
+    "status": 200,
+    "bytes": 386498,
+    "type": "application/zip"
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1002/fsn3.1933",
+    "status": 200,
+    "bytes": 21817,
+    "type": "application/json"
+  }
+]

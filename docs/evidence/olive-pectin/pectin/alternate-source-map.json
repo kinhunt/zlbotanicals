@@ -1,0 +1,17 @@
+{
+  "source_id": 13,
+  "identity": "Liu et al., DOI 10.1002/fsn3.1933, publisher PDF with university cover sheet",
+  "retrieval": {
+    "url": "https://curis.ku.dk/ws/files/254991979/Stabilization_of_directly_acidified_protein_drinks_by_single_and_mixed_hydrocolloids_combining_particle_size_rheology_tribology_and_sensory_data.pdf",
+    "final_url": "https://curis.ku.dk/ws/files/254991979/Stabilization_of_directly_acidified_protein_drinks_by_single_and_mixed_hydrocolloids_combining_particle_size_rheology_tribology_and_sensory_data.pdf",
+    "status": 200,
+    "bytes": 1222176
+  },
+  "pdf": "milk-study.pdf",
+  "printed_pages": "6433\u20136444",
+  "methods_pdf_pages": [
+    3,
+    4
+  ],
+  "note": "XML remains canonical citation. PDF recovered through OpenAlex-listed University of Copenhagen repository; metadata version label not used as proof of document version."
+}

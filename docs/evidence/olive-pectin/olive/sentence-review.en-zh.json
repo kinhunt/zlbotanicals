@@ -1,0 +1,481 @@
+[
+  {
+    "unit": 1,
+    "en": "# Olive leaf extract in acidic drinks: when liposomes help—and when they do not",
+    "zh": "# 橄榄叶提取物用于酸性饮料：什么时候值得做脂质体包封？",
+    "en_sentences": [
+      "# Olive leaf extract in acidic drinks: when liposomes help—and when they do not"
+    ],
+    "zh_sentences": [
+      "# 橄榄叶提取物用于酸性饮料：什么时候值得做脂质体包封？",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "heading"
+  },
+  {
+    "unit": 2,
+    "en": "A more elaborate delivery system is not automatically a more stable ingredient. In one olive-leaf study, liposomes improved oleuropein retention in a simple acidic model drink, but the unencapsulated extract performed better in a commercial lemonade under the same refrigerated storage period.[4] That reversal is useful for beverage developers: before paying for a carrier, establish what the drink itself does to the compound you want to retain.",
+    "zh": "载体做得更复杂，不代表原料在饮料里就更稳定。一项橄榄叶提取物研究发现：在简单的酸性模拟饮料中，脂质体能提高橄榄苦苷的保留率；但在商业柠檬饮料中，同样经过一段冷藏，未包封提取物的表现反而更好。[4] 对饮料研发来说，这个结果很有价值：决定为包封工艺增加成本之前，应先弄清楚饮料配方本身对目标成分有什么影响。",
+    "en_sentences": [
+      "A more elaborate delivery system is not automatically a more stable ingredient.",
+      "In one olive-leaf study, liposomes improved oleuropein retention in a simple acidic model drink, but the unencapsulated extract performed better in a commercial lemonade under the same refrigerated storage period.[4] That reversal is useful for beverage developers: before paying for a carrier, establish what the drink itself does to the compound you want to retain."
+    ],
+    "zh_sentences": [
+      "载体做得更复杂，不代表原料在饮料里就更稳定。",
+      "一项橄榄叶提取物研究发现：在简单的酸性模拟饮料中，脂质体能提高橄榄苦苷的保留率；但在商业柠檬饮料中，同样经过一段冷藏，未包封提取物的表现反而更好。",
+      "对饮料研发来说，这个结果很有价值：决定为包封工艺增加成本之前，应先弄清楚饮料配方本身对目标成分有什么影响。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 3,
+    "en": "The practical question is not simply whether olive leaf extract dissolves. It is whether a chosen material can deliver an acceptable taste while preserving the intended phenolic composition through processing and storage. Bitterness, oleuropein concentration and an overall antioxidant assay answer different questions; treating one as a substitute for the others can lead to the wrong ingredient decision.",
+    "zh": "真正的问题不只是“橄榄叶提取物能不能溶进去”，而是选定的原料能否在加工和储存之后，同时保有合适的风味与预期的多酚组成。苦味、橄榄苦苷含量和整体抗氧化测定值回答的是不同问题，不能相互替代。",
+    "en_sentences": [
+      "The practical question is not simply whether olive leaf extract dissolves.",
+      "It is whether a chosen material can deliver an acceptable taste while preserving the intended phenolic composition through processing and storage.",
+      "Bitterness, oleuropein concentration and an overall antioxidant assay answer different questions; treating one as a substitute for the others can lead to the wrong ingredient decision."
+    ],
+    "zh_sentences": [
+      "真正的问题不只是“橄榄叶提取物能不能溶进去”，而是选定的原料能否在加工和储存之后，同时保有合适的风味与预期的多酚组成。",
+      "苦味、橄榄苦苷含量和整体抗氧化测定值回答的是不同问题，不能相互替代。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "editorial interpretation/recommendation"
+  },
+  {
+    "unit": 4,
+    "en": "## A powder specification does not describe the liquid you will sell",
+    "zh": "## 粉末规格写清楚了，不等于液体产品也定下来了",
+    "en_sentences": [
+      "## A powder specification does not describe the liquid you will sell"
+    ],
+    "zh_sentences": [
+      "## 粉末规格写清楚了，不等于液体产品也定下来了"
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "heading"
+  },
+  {
+    "unit": 5,
+    "en": "Consider a real purchasing document. Nutraceuticals Group's April 2025 master specification for NIGEHER028501 describes a brownish-greenish fine olive-leaf powder, an indicative 4:1 extract ratio and an assay of at least 6% oleuropein.[5] Its odour and taste description is “Characteristic.”[5] The stated two-year shelf life is conditional on its storage instructions: a clean, cool, dry place below 25°C, with relative humidity below 60% and protection from sunlight.[5]",
+    "zh": "先看一份真实的采购资料。Nutraceuticals Group 于2025年4月发布的 NIGEHER028501 主规格书，将产品描述为棕绿色细粉，提取比例标注为参考值4:1，橄榄苦苷含量要求为不低于6%；气味与滋味写作“Characteristic”，即具有本品特征。文件给出的两年保质期，以规定储存条件为前提：低于25°C、清洁阴凉干燥，相对湿度低于60%，并避免日晒。[5]",
+    "en_sentences": [
+      "Consider a real purchasing document.",
+      "Nutraceuticals Group's April 2025 master specification for NIGEHER028501 describes a brownish-greenish fine olive-leaf powder, an indicative 4:1 extract ratio and an assay of at least 6% oleuropein.[5] Its odour and taste description is “Characteristic.”[5] The stated two-year shelf life is conditional on its storage instructions: a clean, cool, dry place below 25°C, with relative humidity below 60% and protection from sunlight.[5]"
+    ],
+    "zh_sentences": [
+      "先看一份真实的采购资料。",
+      "Nutraceuticals Group 于2025年4月发布的 NIGEHER028501 主规格书，将产品描述为棕绿色细粉，提取比例标注为参考值4:1，橄榄苦苷含量要求为不低于6%；气味与滋味写作“Characteristic”，即具有本品特征。",
+      "文件给出的两年保质期，以规定储存条件为前提：低于25°C、清洁阴凉干燥，相对湿度低于60%，并避免日晒。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 6,
+    "en": "That document is useful for identifying a dry raw material. It does not establish bitterness at your serving concentration, dissolution in a finished drink or two years of liquid stability. In particular, “4:1” and “6% oleuropein” are different specification fields, not interchangeable descriptions of strength.[5]",
+    "zh": "这份文件可以帮助采购识别干粉原料，却没有回答它在每份饮料添加量下有多苦、在成品中如何溶解，更不能把干粉的两年保质期直接写成液体产品的货架期。尤其需要分清：4:1提取比例与6%橄榄苦苷是两个不同的规格项目，并不是同一个“浓度”的两种写法。[5]",
+    "en_sentences": [
+      "That document is useful for identifying a dry raw material.",
+      "It does not establish bitterness at your serving concentration, dissolution in a finished drink or two years of liquid stability.",
+      "In particular, “4:1” and “6% oleuropein” are different specification fields, not interchangeable descriptions of strength.[5]"
+    ],
+    "zh_sentences": [
+      "这份文件可以帮助采购识别干粉原料，却没有回答它在每份饮料添加量下有多苦、在成品中如何溶解，更不能把干粉的两年保质期直接写成液体产品的货架期。",
+      "尤其需要分清：4:1提取比例与6%橄榄苦苷是两个不同的规格项目，并不是同一个“浓度”的两种写法。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 7,
+    "en": "The material used in the liposome study was different: an olive-leaf extract supplied by Oleafit S.r.l., Italy, obtained by maceration in 70% aqueous ethanol and specified at a minimum of 40 wt% oleuropein on a dry-weight basis.[4] The paper is not an application test of the Nutraceuticals Group powder. The comparison matters because “olive leaf extract” alone is not enough information to transfer a result between grades.",
+    "zh": "脂质体论文所用的材料则来自意大利 Oleafit S.r.l.：橄榄叶经70%乙醇水溶液浸提，供应商规定的橄榄苦苷含量为干重基础上不低于40%。[4] 这项研究并没有测试上述 Nutraceuticals Group 的6%粉末。把这两种材料放在一起看，恰恰能说明：仅凭“橄榄叶提取物”这个名称，无法直接套用另一种规格的应用结果。",
+    "en_sentences": [
+      "The material used in the liposome study was different: an olive-leaf extract supplied by Oleafit S.r.l., Italy, obtained by maceration in 70% aqueous ethanol and specified at a minimum of 40 wt% oleuropein on a dry-weight basis.[4] The paper is not an application test of the Nutraceuticals Group powder.",
+      "The comparison matters because “olive leaf extract” alone is not enough information to transfer a result between grades."
+    ],
+    "zh_sentences": [
+      "脂质体论文所用的材料则来自意大利 Oleafit S.r.l.：橄榄叶经70%乙醇水溶液浸提，供应商规定的橄榄苦苷含量为干重基础上不低于40%。",
+      "这项研究并没有测试上述 Nutraceuticals Group 的6%粉末。",
+      "把这两种材料放在一起看，恰恰能说明：仅凭“橄榄叶提取物”这个名称，无法直接套用另一种规格的应用结果。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 8,
+    "en": "Even the study's free-extract pH experiment was not a simple stir-in-water test. The researchers first dissolved extract in ethanol, added buffer, centrifuged out insoluble material and adjusted the final volume.[4] A stable marker in that prepared liquid is not proof that a different powder will produce a clear beverage without the same preparation.",
+    "zh": "就连论文中未包封提取物的pH试验，也不是把粉末直接加入水中搅拌。研究者先用乙醇溶解提取物，再加入缓冲液，离心去除不溶物，最后定容。[4] 这样制得的液体中，某个指标成分保留得较好，不代表另一款粉末无需相同前处理就能做成澄清饮料。",
+    "en_sentences": [
+      "Even the study's free-extract pH experiment was not a simple stir-in-water test.",
+      "The researchers first dissolved extract in ethanol, added buffer, centrifuged out insoluble material and adjusted the final volume.[4] A stable marker in that prepared liquid is not proof that a different powder will produce a clear beverage without the same preparation."
+    ],
+    "zh_sentences": [
+      "就连论文中未包封提取物的pH试验，也不是把粉末直接加入水中搅拌。",
+      "研究者先用乙醇溶解提取物，再加入缓冲液，离心去除不溶物，最后定容。",
+      "这样制得的液体中，某个指标成分保留得较好，不代表另一款粉末无需相同前处理就能做成澄清饮料。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 9,
+    "en": "## Define retention before trying to soften bitterness",
+    "zh": "## 先确定要保留什么，再讨论怎样降低苦味",
+    "en_sentences": [
+      "## Define retention before trying to soften bitterness"
+    ],
+    "zh_sentences": [
+      "## 先确定要保留什么，再讨论怎样降低苦味"
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "heading"
+  },
+  {
+    "unit": 10,
+    "en": "For a product designed around oleuropein, the relevant question is how much oleuropein remains—not just whether the liquid still returns a substantial total-phenol or radical-scavenging result.",
+    "zh": "如果产品以橄榄苦苷为核心成分，研发需要回答的是“橄榄苦苷还剩多少”，而不只是“总酚或自由基清除测定值是否仍然较高”。",
+    "en_sentences": [
+      "For a product designed around oleuropein, the relevant question is how much oleuropein remains—not just whether the liquid still returns a substantial total-phenol or radical-scavenging result."
+    ],
+    "zh_sentences": [
+      "如果产品以橄榄苦苷为核心成分，研发需要回答的是“橄榄苦苷还剩多少”，而不只是“总酚或自由基清除测定值是否仍然较高”。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "editorial interpretation/recommendation"
+  },
+  {
+    "unit": 11,
+    "en": "A separate heat-treatment study examined aqueous olive-leaf extract over pH 2.0–6.0 and temperatures of 5–90°C.[7] Its abstract reports faster oleuropein degradation at pH 2.0, increasing hydroxytyrosol during hydrolysis, but relatively little change in total phenolic content and ABTS radical-scavenging activity.[7] The reported endpoint was chemical composition and reducing capacity, not finished-drink efficacy.",
+    "zh": "另一项热处理研究考察了pH 2.0–6.0、5–90°C条件下的橄榄叶提取物水溶液。[7]该论文摘要报告，pH 2.0下橄榄苦苷降解较快，水解过程中羟基酪醇含量增加，但总酚含量及ABTS自由基清除活性的变化相对较小。[7] 这里测量的是化学组成与还原能力，不是成品饮料的健康功效。",
+    "en_sentences": [
+      "A separate heat-treatment study examined aqueous olive-leaf extract over pH 2.0–6.0 and temperatures of 5–90°C.[7] Its abstract reports faster oleuropein degradation at pH 2.0, increasing hydroxytyrosol during hydrolysis, but relatively little change in total phenolic content and ABTS radical-scavenging activity.[7] The reported endpoint was chemical composition and reducing capacity, not finished-drink efficacy."
+    ],
+    "zh_sentences": [
+      "另一项热处理研究考察了pH 2.0–6.0、5–90°C条件下的橄榄叶提取物水溶液。",
+      "该论文摘要报告，pH 2.0下橄榄苦苷降解较快，水解过程中羟基酪醇含量增加，但总酚含量及ABTS自由基清除活性的变化相对较小。",
+      "这里测量的是化学组成与还原能力，不是成品饮料的健康功效。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 12,
+    "en": "The formulation implication is specific: conversion of one phenolic compound into a different mixture can leave an aggregate assay looking comparatively steady. If the brief is to retain oleuropein, a stable total-phenol result does not settle the question. Conversely, if the aim is a hydroxytyrosol-led material, that is a different composition target, not successful preservation of the original oleuropein specification.",
+    "zh": "对配方而言，关键在于：一种酚类化合物转变成另一组成分后，整体测定结果仍可能看起来变化不大。因此，总酚保持稳定，不能独自证明橄榄苦苷也保持稳定。如果产品目标本来就是富含羟基酪醇的材料，那应当按新的组成目标选料，而不能把它称为原有橄榄苦苷规格得到了保留。",
+    "en_sentences": [
+      "The formulation implication is specific: conversion of one phenolic compound into a different mixture can leave an aggregate assay looking comparatively steady.",
+      "If the brief is to retain oleuropein, a stable total-phenol result does not settle the question.",
+      "Conversely, if the aim is a hydroxytyrosol-led material, that is a different composition target, not successful preservation of the original oleuropein specification."
+    ],
+    "zh_sentences": [
+      "对配方而言，关键在于：一种酚类化合物转变成另一组成分后，整体测定结果仍可能看起来变化不大。",
+      "因此，总酚保持稳定，不能独自证明橄榄苦苷也保持稳定。",
+      "如果产品目标本来就是富含羟基酪醇的材料，那应当按新的组成目标选料，而不能把它称为原有橄榄苦苷规格得到了保留。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "editorial interpretation/recommendation"
+  },
+  {
+    "unit": 13,
+    "en": "Taste needs its own evidence. The abstract of a fruit-smoothie study reports that a trained panel of 11 assessed the bitterness of olive-leaf-extract-fortified smoothies.[8] The reported detection and recognition thresholds were 5.78 and 8.05 mg of OLE polyphenols per 100 g of smoothie—not milligrams of extract powder.[8] At 20 mg polyphenols per 100 g, sucrose reduced perceived bitterness by 24.9%, while sodium chloride did not mask it effectively in that experiment.[8]",
+    "zh": "苦味还需要单独的感官证据。一项果昔研究的摘要报告，11名经过训练的感官评价员评估了添加橄榄叶提取物的果昔。[8] 苦味察觉阈值与识别阈值分别为每100 g产品含5.78 mg和8.05 mg橄榄叶提取物多酚，这里的毫克数不是提取物粉末重量。[8] 在每100 g产品含20 mg多酚的条件下，蔗糖使感知苦味降低24.9%，而氯化钠在该试验中未能有效掩盖苦味。[8]",
+    "en_sentences": [
+      "Taste needs its own evidence.",
+      "The abstract of a fruit-smoothie study reports that a trained panel of 11 assessed the bitterness of olive-leaf-extract-fortified smoothies.[8] The reported detection and recognition thresholds were 5.78 and 8.05 mg of OLE polyphenols per 100 g of smoothie—not milligrams of extract powder.[8] At 20 mg polyphenols per 100 g, sucrose reduced perceived bitterness by 24.9%, while sodium chloride did not mask it effectively in that experiment.[8]"
+    ],
+    "zh_sentences": [
+      "苦味还需要单独的感官证据。",
+      "一项果昔研究的摘要报告，11名经过训练的感官评价员评估了添加橄榄叶提取物的果昔。",
+      "苦味察觉阈值与识别阈值分别为每100 g产品含5.78 mg和8.05 mg橄榄叶提取物多酚，这里的毫克数不是提取物粉末重量。",
+      "在每100 g产品含20 mg多酚的条件下，蔗糖使感知苦味降低24.9%，而氯化钠在该试验中未能有效掩盖苦味。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 14,
+    "en": "The thresholds apply to the tested smoothies, not automatically to clear drinks; the abstract does not give a sucrose concentration to use in a new recipe.[8] Sensory masking and oleuropein retention therefore need separate tests.",
+    "zh": "这些阈值对应的是受试果昔，不能直接套用到澄清饮料；摘要也没有给出可供新配方采用的蔗糖浓度。[8] 因此，掩盖苦味与保留橄榄苦苷需要分开验证。",
+    "en_sentences": [
+      "The thresholds apply to the tested smoothies, not automatically to clear drinks; the abstract does not give a sucrose concentration to use in a new recipe.[8] Sensory masking and oleuropein retention therefore need separate tests."
+    ],
+    "zh_sentences": [
+      "这些阈值对应的是受试果昔，不能直接套用到澄清饮料；摘要也没有给出可供新配方采用的蔗糖浓度。",
+      "因此，掩盖苦味与保留橄榄苦苷需要分开验证。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 15,
+    "en": "## What refrigeration and pH actually showed",
+    "zh": "## 冷藏和pH试验究竟说明了什么？",
+    "en_sentences": [
+      "## What refrigeration and pH actually showed"
+    ],
+    "zh_sentences": [
+      "## 冷藏和pH试验究竟说明了什么？",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "heading"
+  },
+  {
+    "unit": 16,
+    "en": "In a separate experiment within the Food Biophysics study, free extract in buffers was stored at 5°C.[4] After 35 days, the researchers reported approximately 62% oleuropein remaining at pH 2.0, versus approximately 98% at pH 4.0 and 92% at pH 6.0.[4][9] At pH 7.0, retention was approximately 67%.[4][9]",
+    "zh": "《Food Biophysics》论文另设了一组缓冲液试验，将未包封提取物置于5°C储存。[4] 35天后，pH 2.0体系的橄榄苦苷保留率约为62%，pH 4.0与pH 6.0体系分别约为98%和92%；pH 7.0体系则约为67%。[4][9]",
+    "en_sentences": [
+      "In a separate experiment within the Food Biophysics study, free extract in buffers was stored at 5°C.[4] After 35 days, the researchers reported approximately 62% oleuropein remaining at pH 2.0, versus approximately 98% at pH 4.0 and 92% at pH 6.0.[4][9] At pH 7.0, retention was approximately 67%.[4][9]"
+    ],
+    "zh_sentences": [
+      "《Food Biophysics》论文另设了一组缓冲液试验，将未包封提取物置于5°C储存。",
+      "35天后，pH 2.0体系的橄榄苦苷保留率约为62%，pH 4.0与pH 6.0体系分别约为98%和92%；pH 7.0体系则约为67%。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 17,
+    "en": "This is more informative than saying “acid is bad” or “neutral is safe.” Under this experiment's conditions, both the strongly acidic and neutral systems lost more oleuropein than the intermediate-pH systems. The buffers also differed, so these values describe the tested preparations rather than a universal pH specification.[4]",
+    "zh": "这比笼统地说“酸性不好、中性安全”更有参考价值。在该试验条件下，强酸性和中性体系的橄榄苦苷损失都比中间pH体系更明显。不同pH使用的缓冲液也不同，因此这些数值描述的是论文里的具体制备体系，不能直接变成通用pH规格。[4]",
+    "en_sentences": [
+      "This is more informative than saying “acid is bad” or “neutral is safe.” Under this experiment's conditions, both the strongly acidic and neutral systems lost more oleuropein than the intermediate-pH systems.",
+      "The buffers also differed, so these values describe the tested preparations rather than a universal pH specification.[4]"
+    ],
+    "zh_sentences": [
+      "这比笼统地说“酸性不好、中性安全”更有参考价值。",
+      "在该试验条件下，强酸性和中性体系的橄榄苦苷损失都比中间pH体系更明显。",
+      "不同pH使用的缓冲液也不同，因此这些数值描述的是论文里的具体制备体系，不能直接变成通用pH规格。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 18,
+    "en": "For a developer, the result is a reason to compare realistic versions of the intended beverage—not a reason to move every recipe to pH 4 or 6. Selecting a beverage's pH also requires its own food-safety and process design; these chemical-retention results do not validate either.",
+    "zh": "对研发而言，合理的下一步是比较目标饮料实际可用的配方版本，而不是把所有饮料一律调到pH 4或6。饮料的pH还涉及自身的食品安全与加工方案，成分保留试验并没有验证这些条件。",
+    "en_sentences": [
+      "For a developer, the result is a reason to compare realistic versions of the intended beverage—not a reason to move every recipe to pH 4 or 6.",
+      "Selecting a beverage's pH also requires its own food-safety and process design; these chemical-retention results do not validate either."
+    ],
+    "zh_sentences": [
+      "对研发而言，合理的下一步是比较目标饮料实际可用的配方版本，而不是把所有饮料一律调到pH 4或6。",
+      "饮料的pH还涉及自身的食品安全与加工方案，成分保留试验并没有验证这些条件。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "editorial interpretation/recommendation"
+  },
+  {
+    "unit": 19,
+    "en": "## The revealing result: the drink changed the winner",
+    "zh": "## 最有启发性的发现：换了饮料，优势也换了方向",
+    "en_sentences": [
+      "## The revealing result: the drink changed the winner"
+    ],
+    "zh_sentences": [
+      "## 最有启发性的发现：换了饮料，优势也换了方向"
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "heading"
+  },
+  {
+    "unit": 20,
+    "en": "The researchers made olive-leaf liposomes using Phospholipon 90 g, a soybean phosphatidylcholine material from Phospholipid GmbH.[4] Oleuropein encapsulation efficiency was about 34%: the measured oleuropein mass in the separated liposome fraction divided by the measured total in that fraction plus the nonencapsulated supernatant.[4] The denominator was oleuropein, not extract powder or carrier mass. Roughly two-thirds of the measured oleuropein was therefore in the nonencapsulated fraction; the later drink results measured total oleuropein, not just the encapsulated portion.[4]",
+    "zh": "研究者采用 Phospholipid GmbH 的大豆磷脂酰胆碱材料 Phospholipon 90 g 制备橄榄叶提取物脂质体。[4]橄榄苦苷的包封效率约为34%：将分离出的脂质体组分中测得的橄榄苦苷质量，除以该组分与未包封上清液中测得的橄榄苦苷质量之和。[4] 分母是橄榄苦苷，不是提取物粉末或载体质量。因此，测得的橄榄苦苷约有三分之二属于未包封组分；后续饮料试验测定的是总橄榄苦苷，而不只是已包封部分。[4]",
+    "en_sentences": [
+      "The researchers made olive-leaf liposomes using Phospholipon 90 g, a soybean phosphatidylcholine material from Phospholipid GmbH.[4] Oleuropein encapsulation efficiency was about 34%: the measured oleuropein mass in the separated liposome fraction divided by the measured total in that fraction plus the nonencapsulated supernatant.[4] The denominator was oleuropein, not extract powder or carrier mass.",
+      "Roughly two-thirds of the measured oleuropein was therefore in the nonencapsulated fraction; the later drink results measured total oleuropein, not just the encapsulated portion.[4]"
+    ],
+    "zh_sentences": [
+      "研究者采用 Phospholipid GmbH 的大豆磷脂酰胆碱材料 Phospholipon 90 g 制备橄榄叶提取物脂质体。",
+      "橄榄苦苷的包封效率约为34%：将分离出的脂质体组分中测得的橄榄苦苷质量，除以该组分与未包封上清液中测得的橄榄苦苷质量之和。",
+      "分母是橄榄苦苷，不是提取物粉末或载体质量。",
+      "因此，测得的橄榄苦苷约有三分之二属于未包封组分；后续饮料试验测定的是总橄榄苦苷，而不只是已包封部分。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 21,
+    "en": "They then compared free extract and the liposomal preparation in three liquid systems: a commercial Sola limonada lemonade, a pH-matched citrate model containing ascorbic acid, and the same model without ascorbic acid.[4] The model pH was 2.87; the ascorbic-acid model contained 1.2 mg/mL ascorbic acid.[4] The final oleuropein loading was approximately 130 µg/mL, and all drink samples were stored at 5°C for 47 days.[4] The two preparations were compared at matched total oleuropein loading.[4]",
+    "zh": "随后，研究者将未包封提取物与脂质体制备物分别加入三种液体：商业 Sola limonada 柠檬饮料、与其pH相匹配且含抗坏血酸的柠檬酸盐模拟体系，以及不含抗坏血酸的同类模拟体系。[4]模拟体系pH为2.87，含抗坏血酸的版本使用1.2 mg/mL抗坏血酸；饮料中橄榄苦苷最终投料浓度约为130 µg/mL，全部在5°C储存47天。[4] 两条路线按相同的总橄榄苦苷投料浓度进行比较。[4]",
+    "en_sentences": [
+      "They then compared free extract and the liposomal preparation in three liquid systems: a commercial Sola limonada lemonade, a pH-matched citrate model containing ascorbic acid, and the same model without ascorbic acid.[4] The model pH was 2.87; the ascorbic-acid model contained 1.2 mg/mL ascorbic acid.[4] The final oleuropein loading was approximately 130 µg/mL, and all drink samples were stored at 5°C for 47 days.[4] The two preparations were compared at matched total oleuropein loading.[4]"
+    ],
+    "zh_sentences": [
+      "随后，研究者将未包封提取物与脂质体制备物分别加入三种液体：商业 Sola limonada 柠檬饮料、与其pH相匹配且含抗坏血酸的柠檬酸盐模拟体系，以及不含抗坏血酸的同类模拟体系。",
+      "模拟体系pH为2.87，含抗坏血酸的版本使用1.2 mg/mL抗坏血酸；饮料中橄榄苦苷最终投料浓度约为130 µg/mL，全部在5°C储存47天。",
+      "两条路线按相同的总橄榄苦苷投料浓度进行比较。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 22,
+    "en": "The results did not support one winner across all three liquids:",
+    "zh": "三种液体的结果并没有给出同一个优胜者：",
+    "en_sentences": [
+      "The results did not support one winner across all three liquids:"
+    ],
+    "zh_sentences": [
+      "三种液体的结果并没有给出同一个优胜者："
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "editorial interpretation/recommendation"
+  },
+  {
+    "unit": 23,
+    "en": "- **Simple acid model, without ascorbic acid:** approximately 67% oleuropein remained with free extract, compared with 88% in the liposomal preparation.[4]\n- **Acid model with ascorbic acid:** losses were only about 10–13%, with no statistically significant difference reported between the free and liposomal preparations.[4]\n- **Commercial lemonade:** approximately 90% remained with free extract, versus 83% with the liposomal preparation; the authors reported significantly better stability for the free-extract addition.[4]",
+    "zh": "- **不含抗坏血酸的简单酸性模拟体系：**未包封提取物中的橄榄苦苷约保留67%，脂质体制备物约保留88%。[4]\n- **含抗坏血酸的酸性模拟体系：**两种制备物的损失均只有约10%–13%，作者报告两者差异无统计学显著性。[4]\n- **商业柠檬饮料：**未包封提取物约保留90%，脂质体制备物约保留83%；作者报告，前者的稳定性显著更好。[4]",
+    "en_sentences": [
+      "- **Simple acid model, without ascorbic acid:** approximately 67% oleuropein remained with free extract, compared with 88% in the liposomal preparation.[4]\n- **Acid model with ascorbic acid:** losses were only about 10–13%, with no statistically significant difference reported between the free and liposomal preparations.[4]\n- **Commercial lemonade:** approximately 90% remained with free extract, versus 83% with the liposomal preparation; the authors reported significantly better stability for the free-extract addition.[4]"
+    ],
+    "zh_sentences": [
+      "- **不含抗坏血酸的简单酸性模拟体系：**未包封提取物中的橄榄苦苷约保留67%，脂质体制备物约保留88%。",
+      "- **含抗坏血酸的酸性模拟体系：**两种制备物的损失均只有约10%–13%，作者报告两者差异无统计学显著性。",
+      "- **商业柠檬饮料：**未包封提取物约保留90%，脂质体制备物约保留83%；作者报告，前者的稳定性显著更好。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 24,
+    "en": "The useful finding is the change in ranking, not a promise that adding vitamin C will fix every olive-leaf drink. The authors proposed a protective role for ascorbic acid but explicitly called for more work to understand the mechanism.[4] Their work supports screening the actual beverage matrix before choosing encapsulation; it does not establish an ambient shelf life, a production heat treatment or sensory acceptability for the experimental drinks.",
+    "zh": "真正值得借鉴的是结果随液体组成发生了变化，而不是“加维生素C就能解决所有问题”。作者提出抗坏血酸可能具有保护作用，同时明确表示，机制还需要进一步研究。[4] 这支持研发先在实际饮料中比较，再决定是否包封；并不能据此确定常温货架期、生产热处理条件，或这些实验饮料的感官接受度。",
+    "en_sentences": [
+      "The useful finding is the change in ranking, not a promise that adding vitamin C will fix every olive-leaf drink.",
+      "The authors proposed a protective role for ascorbic acid but explicitly called for more work to understand the mechanism.[4] Their work supports screening the actual beverage matrix before choosing encapsulation; it does not establish an ambient shelf life, a production heat treatment or sensory acceptability for the experimental drinks."
+    ],
+    "zh_sentences": [
+      "真正值得借鉴的是结果随液体组成发生了变化，而不是“加维生素C就能解决所有问题”。",
+      "作者提出抗坏血酸可能具有保护作用，同时明确表示，机制还需要进一步研究。",
+      "这支持研发先在实际饮料中比较，再决定是否包封；并不能据此确定常温货架期、生产热处理条件，或这些实验饮料的感官接受度。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 25,
+    "en": "## Turn the evidence into an ingredient decision",
+    "zh": "## 如何据此做出原料选择？",
+    "en_sentences": [
+      "## Turn the evidence into an ingredient decision"
+    ],
+    "zh_sentences": [
+      "## 如何据此做出原料选择？",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "heading"
+  },
+  {
+    "unit": 26,
+    "en": "Start with the product's intended identity. If the brand wants an oleuropein-led olive-leaf drink, write that into the development brief. Specify an individual-compound endpoint alongside any total-polyphenol measurement. If a less bitter, hydrolysed ingredient is being considered instead, treat it as a material-selection change, with a new composition and taste target—not a minor flavour adjustment.",
+    "zh": "首先，把产品想保留的成分写清楚。如果品牌要做的是以橄榄苦苷为核心的橄榄叶饮料，就应在总多酚测定之外，单独设置橄榄苦苷的验收目标。如果改为考虑苦味较低的水解材料，应将其视为一次原料路线调整，重新定义组成和风味目标，而不是一次普通的调味优化。",
+    "en_sentences": [
+      "Start with the product's intended identity.",
+      "If the brand wants an oleuropein-led olive-leaf drink, write that into the development brief.",
+      "Specify an individual-compound endpoint alongside any total-polyphenol measurement.",
+      "If a less bitter, hydrolysed ingredient is being considered instead, treat it as a material-selection change, with a new composition and taste target—not a minor flavour adjustment."
+    ],
+    "zh_sentences": [
+      "首先，把产品想保留的成分写清楚。",
+      "如果品牌要做的是以橄榄苦苷为核心的橄榄叶饮料，就应在总多酚测定之外，单独设置橄榄苦苷的验收目标。",
+      "如果改为考虑苦味较低的水解材料，应将其视为一次原料路线调整，重新定义组成和风味目标，而不是一次普通的调味优化。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "editorial interpretation/recommendation"
+  },
+  {
+    "unit": 27,
+    "en": "Next, give the free extract a fair comparison in the complete proposed drink. The study's commercial lemonade result makes this more than a cost-saving intuition: in that particular refrigerated matrix, a carrier did not improve the measured endpoint.[4] A carrier trial should therefore answer a defined problem that the simpler preparation has failed to solve.",
+    "zh": "其次，让未包封提取物在完整目标配方中获得公平的比较机会。商业柠檬饮料的结果说明，这不仅是省成本的直觉：在那个具体冷藏体系里，增加载体并没有改善测定的橄榄苦苷保留率。[4] 因此，启动包封试验时，最好能说清楚它要解决的是简单制备方式尚未解决的哪个问题。",
+    "en_sentences": [
+      "Next, give the free extract a fair comparison in the complete proposed drink.",
+      "The study's commercial lemonade result makes this more than a cost-saving intuition: in that particular refrigerated matrix, a carrier did not improve the measured endpoint.[4] A carrier trial should therefore answer a defined problem that the simpler preparation has failed to solve."
+    ],
+    "zh_sentences": [
+      "其次，让未包封提取物在完整目标配方中获得公平的比较机会。",
+      "商业柠檬饮料的结果说明，这不仅是省成本的直觉：在那个具体冷藏体系里，增加载体并没有改善测定的橄榄苦苷保留率。",
+      "因此，启动包封试验时，最好能说清楚它要解决的是简单制备方式尚未解决的哪个问题。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 28,
+    "en": "When comparing the two routes, hold the initial oleuropein loading constant rather than comparing equal weights of unlike ingredient preparations. Distinguish total oleuropein in the drink from the amount actually encapsulated. The roughly 34% efficiency in the published experiment illustrates why a carrier's name alone is not a performance specification.[4]",
+    "zh": "比较两条路线时，建议统一初始橄榄苦苷投料浓度，而不是直接比较两种不同制备物的相同重量；同时分清饮料里的总橄榄苦苷与真正被包封的部分。论文约34%的包封效率就说明，载体名称本身不足以成为性能规格。[4]",
+    "en_sentences": [
+      "When comparing the two routes, hold the initial oleuropein loading constant rather than comparing equal weights of unlike ingredient preparations.",
+      "Distinguish total oleuropein in the drink from the amount actually encapsulated.",
+      "The roughly 34% efficiency in the published experiment illustrates why a carrier's name alone is not a performance specification.[4]"
+    ],
+    "zh_sentences": [
+      "比较两条路线时，建议统一初始橄榄苦苷投料浓度，而不是直接比较两种不同制备物的相同重量；同时分清饮料里的总橄榄苦苷与真正被包封的部分。",
+      "论文约34%的包封效率就说明，载体名称本身不足以成为性能规格。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "reported-result"
+  },
+  {
+    "unit": 29,
+    "en": "Finally, decide whether a formulation is succeeding on both axes: retained composition and acceptable flavour. A sweeter drink with declining oleuropein is not the same outcome as a stable oleuropein drink with successful bitterness masking. Nor does a preserved marker compensate for an unacceptable taste.",
+    "zh": "最后，同时看组成和风味是否达到目标。饮料变甜、苦味变弱，但橄榄苦苷不断下降，与“橄榄苦苷得到保留，苦味也被成功掩盖”是两种不同的结果。同样，指标成分保住了，也不能弥补消费者无法接受的味道。",
+    "en_sentences": [
+      "Finally, decide whether a formulation is succeeding on both axes: retained composition and acceptable flavour.",
+      "A sweeter drink with declining oleuropein is not the same outcome as a stable oleuropein drink with successful bitterness masking.",
+      "Nor does a preserved marker compensate for an unacceptable taste."
+    ],
+    "zh_sentences": [
+      "最后，同时看组成和风味是否达到目标。",
+      "饮料变甜、苦味变弱，但橄榄苦苷不断下降，与“橄榄苦苷得到保留，苦味也被成功掩盖”是两种不同的结果。",
+      "同样，指标成分保住了，也不能弥补消费者无法接受的味道。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "editorial interpretation/recommendation"
+  },
+  {
+    "unit": 30,
+    "en": "For sourcing, the most useful opening question is therefore: **“Can this specific olive-leaf material meet our taste and oleuropein-retention targets in this specific liquid, without a carrier—and what evidence would justify adding one?”** That is a stronger starting point than purchasing the highest assay or the most elaborate delivery system first.",
+    "zh": "因此，采购与研发更值得先问的是：**“这款具体的橄榄叶材料，在我们的液体配方中，不加包封载体能否同时达到风味和橄榄苦苷保留目标？又需要什么证据，才值得增加载体？”** 相比一开始就追求最高含量或最复杂的递送形式，这个问题更接近成品真正需要解决的事。",
+    "en_sentences": [
+      "For sourcing, the most useful opening question is therefore: **“Can this specific olive-leaf material meet our taste and oleuropein-retention targets in this specific liquid, without a carrier—and what evidence would justify adding one?”** That is a stronger starting point than purchasing the highest assay or the most elaborate delivery system first."
+    ],
+    "zh_sentences": [
+      "因此，采购与研发更值得先问的是：**“这款具体的橄榄叶材料，在我们的液体配方中，不加包封载体能否同时达到风味和橄榄苦苷保留目标？",
+      "又需要什么证据，才值得增加载体？",
+      "”** 相比一开始就追求最高含量或最复杂的递送形式，这个问题更接近成品真正需要解决的事。",
+      ""
+    ],
+    "review": "Reviewed in full for sense, endpoint, denominator, attribution and natural language; accepted as aligned.",
+    "type": "editorial interpretation/recommendation"
+  }
+]

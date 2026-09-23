@@ -1,0 +1,15 @@
+{
+  "at": "2026-09-23T19:27:45.080143+00:00",
+  "command": [
+    "browserman",
+    "script",
+    "describe",
+    "--platform",
+    "amazon",
+    "--action",
+    "get_product",
+    "--json"
+  ],
+  "returncode": 0,
+  "output": "{\"ok\":true,\"command\":\"script.describe\",\"browser\":{\"id\":\"c0c44c26-eca6-4638-86fd-ade14ff3aa03\",\"name\":\"cedar-vale\"},\"result\":{\"success\":true,\"platform\":{\"id\":\"amazon\",\"displayName\":\"amazon\",\"aliases\":[\"amazon.com\",\"www.amazon.com\",\"amazon.co.uk\",\"www.amazon.co.uk\",\"amazon.de\",\"www.amazon.de\",\"amazon.fr\",\"www.amazon.fr\",\"amazon.it\",\"www.amazon.it\",\"amazon.es\",\"www.amazon.es\",\"amazon.ca\",\"www.amazon.ca\",\"amazon.co.jp\",\"www.amazon.co.jp\",\"amazon.in\",\"www.amazon.in\",\"amazon.com.au\",\"www.amazon.com.au\",\"amazon.com.mx\",\"www.amazon.com.mx\",\"amazon.com.br\",\"www.amazon.com.br\",\"amazon.nl\",\"www.amazon.nl\",\"amazon.se\",\"www.amazon.se\",\"amazon.sg\",\"www.amazon.sg\",\"amazon.ae\",\"www.amazon.ae\",\"amazon.sa\",\"www.amazon.sa\",\"amazon.com.tr\",\"www.amazon.com.tr\",\"amazon.pl\",\"www.amazon.pl\",\"amazon.com.be\",\"www.amazon.com.be\"],\"defaultBaseUrl\":\"https://www.amazon.com\",\"supportsBaseUrl\":true,\"supportsMarketplace\":true,\"actionCount\":2},\"action\":{\"name\":\"get_product\",\"description\":\"Get Amazon product details by URL or ASIN across country marketplaces\",\"params\":{\"url\":\"Amazon product URL (or pass asin/id/text)\",\"asin\":\"Amazon ASIN; used with country/domain when url is omitted\",\"country\":\"optional marketplace country, e.g. us, uk, de, jp, in, ca, au (default us)\",\"domain\":\"optional Amazon domain override, e.g. amazon.de\"},\"concurrency\":{\"scope\":\"tabs\"}}}}\n\n"
+}

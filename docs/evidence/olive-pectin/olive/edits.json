@@ -1,0 +1,146 @@
+[
+  {
+    "language": "en",
+    "before": "Its taste description is “Characteristic.”",
+    "after": "Its odour and taste description is “Characteristic.”",
+    "reason": "Align EN/ZH with specification field."
+  },
+  {
+    "language": "en",
+    "before": "a clean, cool, dry place below 25°C, protected from humidity and sunlight.",
+    "after": "a clean, cool, dry place below 25°C, with relative humidity below 60% and protection from sunlight.",
+    "reason": "Retain actual humidity condition."
+  },
+  {
+    "language": "zh",
+    "before": "低于25°C、清洁阴凉干燥，并避湿、避光。",
+    "after": "低于25°C、清洁阴凉干燥，相对湿度低于60%，并避免日晒。",
+    "reason": "Same storage conditions as EN and source."
+  },
+  {
+    "language": "en",
+    "before": "These are laboratory chemical measurements, not evidence of a finished drink's health effects; only the abstract was available for this paper in this review.",
+    "after": "The reported endpoint was chemical composition and reducing capacity, not finished-drink efficacy.",
+    "reason": "Remove internal retrieval-process narration while retaining scope; abstract already attributed."
+  },
+  {
+    "language": "zh",
+    "before": "本文对这篇论文的使用限于已取得的摘要；这些是实验室化学测定结果，不是成品饮料健康功效的证据。",
+    "after": "这里测量的是化学组成与还原能力，不是成品饮料的健康功效。",
+    "reason": "Remove repeated internal process; preceding sentence says abstract."
+  },
+  {
+    "language": "en",
+    "before": "In an original fruit-smoothie study,",
+    "after": "The abstract of a fruit-smoothie study reports that",
+    "reason": "Declare evidence level once at claim introduction."
+  },
+  {
+    "language": "en",
+    "before": "a trained panel of 11 assessed olive-leaf bitterness.",
+    "after": "a trained panel of 11 assessed the bitterness of olive-leaf-extract-fortified smoothies.[8]",
+    "reason": "Specify tested matrix and add sentence-level citation."
+  },
+  {
+    "language": "zh",
+    "before": "一项水果思慕雪研究使用11人的训练型感官小组评价橄榄叶提取物：",
+    "after": "一项果昔研究的摘要报告，11名经过训练的感官评价员评估了添加橄榄叶提取物的果昔：",
+    "reason": "Natural Chinese and explicit abstract scope."
+  },
+  {
+    "language": "en",
+    "before": "Those abstract-level findings support neither a universal threshold for clear drinks nor a ready-to-use sugar formula. They do make an important distinction: sweetness reduced bitterness perception; the study does not establish that sweetness preserved oleuropein. Equally, a chemical stability experiment cannot tell you that the resulting drink tastes acceptable.",
+    "after": "The thresholds apply to the tested smoothies, not automatically to clear drinks; the abstract does not give a sucrose concentration to use in a new recipe.[8] Sensory masking and oleuropein retention therefore need separate tests.",
+    "reason": "Replace repeated generic limitations with actionable missing dose and matrix limitation."
+  },
+  {
+    "language": "zh",
+    "before": "这些摘要层面的结果，不能变成所有透明饮料通用的苦味阈值，也不足以直接给出加糖配方。它们说明的是：甜味能够降低苦味感知，但这不等于橄榄苦苷得到了保护；反过来，化学稳定性试验也不能证明饮料已经好喝。",
+    "after": "这些阈值对应的是受试果昔，不能直接套用到澄清饮料；摘要也没有给出可供新配方采用的蔗糖浓度。[8] 因此，掩盖苦味与保留橄榄苦苷需要分开验证。",
+    "reason": "Align precise matrix/dose limitation; remove lecture."
+  },
+  {
+    "language": "en",
+    "before": "In the full-text Food Biophysics study, the free-extract buffer series was stored at 5°C.",
+    "after": "In a separate experiment within the Food Biophysics study, free extract in buffers was stored at 5°C.[4]",
+    "reason": "Explicitly distinguish buffer35day from drink47day and remove retrieval narration."
+  },
+  {
+    "language": "zh",
+    "before": "在取得全文的《Food Biophysics》研究中，未包封提取物的缓冲液系列储存在5°C。",
+    "after": "《Food Biophysics》论文另设了一组缓冲液试验，将未包封提取物置于5°C储存。[4]",
+    "reason": "Same trial distinction."
+  },
+  {
+    "language": "en",
+    "before": "At pH 7.0, retention was approximately 67%.[4]",
+    "after": "At pH 7.0, retention was approximately 67%.[4][9]",
+    "reason": "Add directly inspected supplementary Fig3."
+  },
+  {
+    "language": "zh",
+    "before": "pH 7.0体系则约为67%。[4]",
+    "after": "pH 7.0体系则约为67%。[4][9]",
+    "reason": "Supplement figure citation."
+  },
+  {
+    "language": "en",
+    "before": "Oleuropein encapsulation efficiency was about 34%, leaving roughly two-thirds outside the liposomes.[4] “Liposomal” therefore did not mean that all of the oleuropein was protected inside a carrier.",
+    "after": "Oleuropein encapsulation efficiency was about 34%: the measured oleuropein mass in the separated liposome fraction divided by the measured total in that fraction plus the nonencapsulated supernatant.[4] The denominator was oleuropein, not extract powder or carrier mass. Roughly two-thirds of the measured oleuropein was therefore in the nonencapsulated fraction; the later drink results measured total oleuropein, not just the encapsulated portion.[4]",
+    "reason": "Define operational fraction and precise same-analyte denominator; avoid implying all encapsulation internal aqueous core or retention equals encapsulated fraction."
+  },
+  {
+    "language": "zh",
+    "before": "橄榄苦苷的包封效率约为34%，也就是说，约三分之二仍位于脂质体之外。[4] “脂质体”这个名称，并不意味着所有橄榄苦苷都已进入载体并受到保护。",
+    "after": "橄榄苦苷的包封效率约为34%：将分离出的脂质体组分中测得的橄榄苦苷质量，除以该组分与未包封上清液中测得的橄榄苦苷质量之和。[4] 分母是橄榄苦苷，不是提取物粉末或载体质量。因此，测得的橄榄苦苷约有三分之二属于未包封组分；后续饮料试验测定的是总橄榄苦苷，而不只是已包封部分。[4]",
+    "reason": "Precise denominator and operational definition synchronized."
+  },
+  {
+    "language": "en",
+    "before": "These are experimental conditions, not recommended use levels.",
+    "after": "The two preparations were compared at matched total oleuropein loading.[4]",
+    "reason": "Useful comparator explanation replaces generic disclaimer."
+  },
+  {
+    "language": "zh",
+    "before": "这些是研究条件，不是建议添加量。",
+    "after": "两条路线按相同的总橄榄苦苷投料浓度进行比较。[4]",
+    "reason": "Matched total not equal powder."
+  },
+  {
+    "language": "en",
+    "before": "with no significant difference between the free and liposomal preparations.[4]",
+    "after": "with no statistically significant difference reported between the free and liposomal preparations.[4]",
+    "reason": "Attribute significance; no equivalence implication."
+  },
+  {
+    "language": "zh",
+    "before": "差异不显著。[4]",
+    "after": "作者报告两者差异无统计学显著性。[4]",
+    "reason": "Avoid equality implication."
+  },
+  {
+    "language": "en",
+    "before": "Do not let a total-polyphenol figure quietly replace the individual-compound target.",
+    "after": "Specify an individual-compound endpoint alongside any total-polyphenol measurement.",
+    "reason": "Neutral practical tone."
+  },
+  {
+    "language": "zh",
+    "before": "就不要在开发途中悄悄把目标换成总多酚数值。",
+    "after": "就应在总多酚测定之外，单独设置橄榄苦苷的验收目标。",
+    "reason": "Remove admonishing tone."
+  },
+  {
+    "language": "en",
+    "before": "This is a proposed development approach, not a claim that the published formulation is commercially optimal.",
+    "after": "",
+    "reason": "Remove repeated editorial disclaimer; paragraph already recommendation."
+  },
+  {
+    "language": "zh",
+    "before": "这是据研究提出的开发思路，并不意味着该论文配方已经是商业生产的最优方案。",
+    "after": "",
+    "reason": "Same removal."
+  }
+]
