@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.amazon.com/dp/B0BGMGN7H4",
+      "title": "",
+      "accessed": "2026-09-23",
+      "quotes": [
+        {
+          "text": "Our beet juice powder is packed with nutrients and is easy to incorporate into your daily routine.",
+          "added": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.amazon.com/dp/B01N20ON39",
+      "title": "",
+      "accessed": "2026-09-23",
+      "quotes": [
+        {
+          "text": "Organic Beet Root Juice Concentrated Powder",
+          "added": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.amazon.com/dp/B01ENMEXO4",
+      "title": "",
+      "accessed": "2026-09-23",
+      "quotes": [
+        {
+          "text": "Black Cherry Flavor Ingredients: Non-GMO Beetroot Powder, Non-GMO Beetroot Powder (fermented), Natural Black Cherry Flavor, Malic Acid, Magnesium Ascorbate, Stevia Leaf Extract.",
+          "added": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.amazon.com/s?k=beetroot+powder",
+      "title": "",
+      "accessed": "2026-09-23",
+      "quotes": [
+        {
+          "text": "Force Factor Total Beets Organic Beet Root Powder Superfood, Non-GMO",
+          "added": "2026-09-23"
+        }
+      ]
+    }
+  ]
+}

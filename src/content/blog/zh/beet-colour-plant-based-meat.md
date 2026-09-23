@@ -1,0 +1,84 @@
+---
+title: "甜菜红植物肉烤后为什么还红？甜菜果胶与漆酶的变色思路"
+lang: "zh"
+publishDate: "2026-09-23"
+category: "research"
+guideCategory: "application-guides"
+relatedIndustries: ["food"]
+tags: ["Beet red", "Plant-based meat"]
+description: "区分底色调整与烹调变色，解读甜菜红、甜菜果胶和漆酶研究中的植物肉配方、色度与使用边界。"
+relatedProducts: []
+relatedSolutions: []
+sources: []
+---
+
+给植物肉调出鲜红色，和让它在烹调后变成合适的褐色，是两件事。Sakai等人的植物肉饼试验里，含甜菜红和甲基纤维素的对照组烤后仍明显发红；同一研究中，漆酶与甜菜果胶并用的配方出现了明显的红转褐变化。<a href="#beet-colour-plant-based-meat-ref-30">[30]</a>
+
+因此，遇到“生的时候像肉，烤完还是红”的问题，下一步不一定是换一种更耐热的红色原料。更有用的出发点是：你希望保留颜色，还是希望颜色按烹调过程发生变化？这篇文章比较两条路线——调配底色，以及让色素在体系中发生反应——并说明为什么论文里的最佳比例不能直接搬进植物肉配方。
+
+## 先分清：调出褐色，还是让红色发生转变
+
+调色路线的一个例子是Lee等人2023年的研究。他们将甜菜粉与焦糖色组合，同时优化生、熟状态的L*、a*和b*六个响应值；其中L*表示明度，a*为红绿轴，b*为黄蓝轴。<a href="#beet-colour-plant-based-meat-ref-23">[23]</a><a href="#beet-colour-plant-based-meat-ref-30">[30]</a>
+
+不过，这篇题名含“meat analogs”的论文，用的不是大豆或豌豆植物肉：研究人员反复洗涤牛肉以去除肌红蛋白，再把甜菜粉和焦糖色加入这个模型。<a href="#beet-colour-plant-based-meat-ref-23">[23]</a> 用于测色的肉饼经真空包装，在80 °C条件下加热至中心75 °C；论文另有烤箱处理后的外观对比照片。<a href="#beet-colour-plant-based-meat-ref-23">[23]</a> 这个模型有助于理解两种着色原料如何配合，但不能直接确定植物蛋白肉饼的添加量。
+
+文中综合期望度最高的组合是甜菜粉1.32%、焦糖色1.08%，期望度为0.65；第三个优化组合为1.30%和1.51%，期望度为0.60。<a href="#beet-colour-plant-based-meat-ref-23">[23]</a> 这里的期望度是多目标优化指标，不是“与牛肉有65%的相似度”，这些百分比也是论文中的配方添加水平，不是色素纯度。
+
+结果也不是“生熟都完全匹配”。以第一组为例，表3中的a*从生样20.84降到熟样11.04，而牛肉对照从21.76降到6.69；该组b*从19.39升至25.18，牛肉却从18.33降至14.62。<a href="#beet-colour-plant-based-meat-ref-23">[23]</a> 红度下降的方向相同，黄度变化的方向却相反。论文讨论部分更偏向第三组的熟样外观与明度，结论部分则推荐综合期望度最高的第一组，两种推荐采用的判断重点并不相同。<a href="#beet-colour-plant-based-meat-ref-23">[23]</a>
+
+对开发人员的启发是：<strong>不要只用生样红度决定配方。</strong> 先明确成品是否允许焦糖色，再同时考虑生样、熟样和剖面目标。
+
+## 甜菜果胶的作用不止于增稠
+
+真正的植物肉体系见于Sakai等人2022年的研究：基底为豌豆来源组织化植物蛋白，配合豌豆分离蛋白、橄榄油和甜菜红；甜菜果胶的具名原料为GENU pectin type BETA BI-J，漆酶为Amano Enzyme的LC-Y120。<a href="#beet-colour-plant-based-meat-ref-30">[30]</a> 研究结果对应这些具体材料，换用其他原料仍需重新评估。
+
+这项研究中，仅在含甜菜红和甲基纤维素的体系里加入漆酶，并没有产生明显的褐变；漆酶与甜菜果胶并用时，烤后红度下降明显。<a href="#beet-colour-plant-based-meat-ref-30">[30]</a> 表1给出了更直观的对照：
+
+<table class="beetroot-table">
+<caption>研究配方：烤前与烤后a*（无单位）</caption>
+<thead><tr><th scope="col">研究中的配方</th><th scope="col">烤前a*</th><th scope="col">烤后a*</th></tr></thead>
+<tbody>
+<tr><th scope="row">甜菜红＋甲基纤维素，无漆酶</th><td><span class="mobile-label">烤前a*</span><span class="cell-value">48.5 ± 0.9</span></td><td><span class="mobile-label">烤后a*</span><span class="cell-value">47.9 ± 1.0</span></td></tr>
+<tr><th scope="row">甜菜红＋甲基纤维素＋漆酶</th><td><span class="mobile-label">烤前a*</span><span class="cell-value">48.4 ± 0.6</span></td><td><span class="mobile-label">烤后a*</span><span class="cell-value">47.0 ± 2.8</span></td></tr>
+<tr><th scope="row">甜菜红＋甜菜果胶＋漆酶</th><td><span class="mobile-label">烤前a*</span><span class="cell-value">47.9 ± 2.4</span></td><td><span class="mobile-label">烤后a*</span><span class="cell-value">9.3 ± 1.1</span></td></tr>
+<tr><th scope="row">甜菜红＋甲基纤维素＋甜菜果胶＋漆酶</th><td><span class="mobile-label">烤前a*</span><span class="cell-value">48.3 ± 3.2</span></td><td><span class="mobile-label">烤后a*</span><span class="cell-value">9.4 ± 1.6</span></td></tr>
+</tbody></table>
+
+数据来源：2022年研究表1。a*无单位，“±”数值按原表保留。<a href="#beet-colour-plant-based-meat-ref-30">[30]</a> 这几组差异说明，在该研究配方中，“加酶”与“加酶并配合甜菜果胶”不是同一个处理。
+
+按作者提出的机制，漆酶在氧气参与下氧化甜菜果胶上的阿魏酸基团，形成自由基。这些自由基作为反应介体，帮助氧化甜菜色素；阿魏酸基团与蛋白质酪氨酸残基参与的后续反应，还可能形成果胶—蛋白交联。<a href="#beet-colour-plant-based-meat-ref-30">[30]</a> 因而，这条路线利用的不只是果胶的增稠作用，还有它参与反应的可能性。上述路径仍属于机制解释，普通柑橘果胶或苹果果胶也尚未在该研究中验证为替代品。
+
+两篇漆酶研究均来自Amano Enzyme的研究团队；它们提供了原始实验，但不是外部团队独立复现的证据。<a href="#beet-colour-plant-based-meat-ref-28">[28]</a><a href="#beet-colour-plant-based-meat-ref-30">[30]</a>
+
+颜色也不能脱离口感单独优化。该研究还观察到配方处理对硬度、咀嚼性和烹调损失的影响。<a href="#beet-colour-plant-based-meat-ref-30">[30]</a> 对产品开发而言，这意味着一份颜色更接近目标的样品，仍需回到原有的质构要求上判断；仪器测得的质构变化，也不等于消费者更喜欢。
+
+## 反应发生在升温途中，不是“烤箱越热越好”
+
+2024年的后续研究采用了含大豆组织化蛋白、豌豆分离蛋白、甜菜果胶和甜菜红的肉饼，进一步分析漆酶反应产物。<a href="#beet-colour-plant-based-meat-ref-28">[28]</a> 它与2022年的豌豆基底不是同一配方，不能当成完全相同体系的重复试验。
+
+该研究把肉饼放入150 °C烤箱处理15分钟，肉饼内部温度约在第10分钟接近85 °C平台。作者报告提取测得的漆酶残余活性在第10分钟已无法检出，但图1中对应的数据点看起来仍略高于基线。<a href="#beet-colour-plant-based-meat-ref-28">[28]</a> 因此，这组结果更适合说明升温过程中的有限反应窗口，而不是给出精确、通用的失活时刻。 烤箱设定温度、肉饼内部温度和酶活性是三个不同的量。图1支持的是这套样品和升温历程中的反应窗口，不是“所有产品加热10分钟即可褐变”的通用参数。
+
+研究人员从肉饼中提取并分析色素，结合标准品保留时间和溶液反应试验，提出甜菜红苷元（betanidin）先转化为甜菜醛氨酸（betalamic acid）及环多巴（cyclodopa），再形成未知褐色聚合物的路径。<a href="#beet-colour-plant-based-meat-ref-28">[28]</a> “未知”不能省略：文章并没有给最终褐色物质确认完整结构，也没有证明它就是黑色素。<a href="#beet-colour-plant-based-meat-ref-28">[28]</a>
+
+文章另指出，褐色产物经过分子量截留处理时的损失无法定量。<a href="#beet-colour-plant-based-meat-ref-28">[28]</a> 因此，不能从这些色谱结果推导出精确的全量转化率，也不能把色谱峰的变化当作完整的物料衡算。
+
+## 怎样把这些研究变成下一轮有用的打样
+
+本文建议先按产品要解决的问题分流，而不是立刻照抄数字。
+
+<strong>如果主要问题是整体太亮、太粉红，而烹调前后的变化已经可接受，</strong>先比较底色调整路线。甜菜粉与焦糖色的研究说明多颜色目标可以一起优化，但得到的配比仍只对应去肌红蛋白牛肉模型。<a href="#beet-colour-plant-based-meat-ref-23">[23]</a> 建议使用自己的植物蛋白、油相及实际烹调方式建立对照，不照搬文中的“最优配比”。
+
+<strong>如果主要问题是内部烤后仍红，</strong>甜菜红＋甜菜果胶＋漆酶值得作为研究性候选路线，而不是已验证的即用配方。<a href="#beet-colour-plant-based-meat-ref-30">[30]</a><a href="#beet-colour-plant-based-meat-ref-28">[28]</a> 建议保留现有配方作对照，并区分加果胶、加酶和两者并用的效果；外表面与剖面分别判断，避免用外表的烘烤色掩盖内部没有变化的问题。
+
+<strong>如果不允许改变当前质构，</strong>把颜色与结构放在同一轮筛选中。漆酶和甜菜果胶路线涉及的不只是红色减弱，原始研究也在讨论交联、硬度和持水相关表现。<a href="#beet-colour-plant-based-meat-ref-30">[30]</a> 建议先设定可接受的质构范围，再判断颜色改善是否值得。
+
+选择试验原料时，还要区分甜菜粉、商业甜菜红制剂与纯化色素，也要保留酶活单位的分母：2022年补充表S1报告的是50 U/g TVP，不能自行改写为50 U/g最终肉饼。<a href="#beet-colour-plant-based-meat-ref-31">[31]</a> 转入生产前，还需确认具体酶制剂及其酶活规格、目标市场允许的使用条件、标签要求和产品安全工艺。
+
+最终值得带走的不是一个通用比例，而是一个更准确的配方问题：<strong>你需要的是更合适的底色，还是一条可控的烹调变色过程？</strong> 将两者分开，才能避免把原料耐热性、成品外观和加热安全混成同一个判断。褐色外观不应代替产品自己的时间—温度安全验证。
+
+## 来源
+
+<p id="beet-colour-plant-based-meat-ref-23">[23] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10493565/fullTextXML">https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10493565/fullTextXML</a> — Lee et al. 2023 — original full-text XML</p>
+<p id="beet-colour-plant-based-meat-ref-28">[28] <a href="https://www.jstage.jst.go.jp/article/fstr/30/2/30_FSTR-D-23-00182/_html/-char/en">https://www.jstage.jst.go.jp/article/fstr/30/2/30_FSTR-D-23-00182/_html/-char/en</a> — Sakai et al. 2024 — laccase and betanidin original full text</p>
+<p id="beet-colour-plant-based-meat-ref-30">[30] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8782913/fullTextXML">https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8782913/fullTextXML</a> — Sakai et al. 2022 — laccase and pectin original full text</p>
+<p id="beet-colour-plant-based-meat-ref-31">[31] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8782913/supplementaryFiles">https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8782913/supplementaryFiles</a></p>

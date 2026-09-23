@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "scope": "Only reviewed draft.en.md and draft.zh.md; not production validation or publishing approval",
+  "author_original_as_is": "HOLD: apply reviewed correction for Figure1 discrepancy and editorial changes",
+  "author_unchanged_during_review": true,
+  "checked_at_utc": "2026-09-23T13:05:55Z",
+  "files": {
+    "draft.zh.md": "90ea5e098f6472fbbffadd2b07f7f0a098e3c74ff996f83b5835546dc53dc2df",
+    "changes.en.diff": "6d6b7702742683f621a6a32ae24ffa00915f43eaa4cffed63017be958dc62f3d",
+    "draft.en.md": "0db0192fabd7a88dc00103ea939b92bfba4f53daff073eaab90c31c9692fadef",
+    "numeric-check.json": "16eb08a525b2c50ad1b11f5d8169465aded33c0be19d004d52066e7bc5d147a8",
+    "REVIEW.md": "fe70f0d43f2ceb040400990d70fab84ab04884e78af4e41622d6c491e236dada",
+    "author-input-manifest.json": "5117a041031ae3c2dcec3c5c85629a816176571295fe151de2880084001daf29",
+    "publication-ledger.json": "21efb78809ed71db98bab53b9141c5998345c45a6e5ff1b34eb000398764137b",
+    "verification.json": "78a81eabfa6b39bb5287cd530cfc333857f5b1ab2204ee8a894a35079e9f0a9a",
+    "quote-check.json": "77a31c05d7b54e5dcd539207812a6cb63f598a2c6d7ae534ee95a403bab09c6c",
+    "changes.zh.diff": "a50d6dee8d98d65f0c13dbb87b73f05eac8d0810cefd649f8d9279bef2c5ae21"
+  },
+  "citation_verification_exit_codes": {
+    "en": 0,
+    "zh": 0
+  },
+  "browserman_used": false,
+  "website_writes": false
+}

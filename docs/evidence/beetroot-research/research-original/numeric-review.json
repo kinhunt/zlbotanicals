@@ -1,0 +1,316 @@
+{
+  "checks": [
+    {
+      "table": "T3",
+      "rows": [
+        [
+          "Color attribute",
+          "Treatments",
+          "Before cooking",
+          "After cooking",
+          "SEM"
+        ],
+        [
+          "CIE L*",
+          "Beef",
+          "34.00b",
+          "45.05Ba",
+          "1.127"
+        ],
+        [
+          "Solution 1",
+          "36.46b",
+          "48.97Aa",
+          "0.409"
+        ],
+        [
+          "SEM",
+          "1.039",
+          "0.598",
+          ""
+        ],
+        [
+          "Beef",
+          "34.00b",
+          "45.05Ba",
+          "1.127"
+        ],
+        [
+          "Solution 2",
+          "35.75b",
+          "50.01Aa",
+          "0.288"
+        ],
+        [
+          "SEM",
+          "1.037",
+          "1.127",
+          ""
+        ],
+        [
+          "Beef",
+          "34.00b",
+          "45.05a",
+          "1.127"
+        ],
+        [
+          "Solution 3",
+          "33.72b",
+          "46.04a",
+          "0.309"
+        ],
+        [
+          "SEM",
+          "1.038",
+          "0.536",
+          ""
+        ],
+        [
+          "CIE a*",
+          "Beef",
+          "21.76a",
+          "6.69Bb",
+          "0.721"
+        ],
+        [
+          "Solution 1",
+          "20.84a",
+          "11.04Ab",
+          "0.330"
+        ],
+        [
+          "SEM",
+          "0.706",
+          "0.361",
+          ""
+        ],
+        [
+          "Beef",
+          "21.76a",
+          "6.69Bb",
+          "0.721"
+        ],
+        [
+          "Solution 2",
+          "23.68a",
+          "11.38Ab",
+          "0.350"
+        ],
+        [
+          "SEM",
+          "0.705",
+          "0.381",
+          ""
+        ],
+        [
+          "Beef",
+          "21.76a",
+          "6.69Bb",
+          "0.721"
+        ],
+        [
+          "Solution 3",
+          "19.62a",
+          "11.60Ab",
+          "0.194"
+        ],
+        [
+          "SEM",
+          "0.702",
+          "0.254",
+          ""
+        ],
+        [
+          "CIE b*",
+          "Beef",
+          "18.33a",
+          "14.62Bb",
+          "0.900"
+        ],
+        [
+          "Solution 1",
+          "19.39b",
+          "25.18Aa",
+          "0.440"
+        ],
+        [
+          "SEM",
+          "0.758",
+          "0.654",
+          ""
+        ],
+        [
+          "Beef",
+          "18.33a",
+          "14.62Bb",
+          "0.900"
+        ],
+        [
+          "Solution 2",
+          "18.25b",
+          "25.62Aa",
+          "0.351"
+        ],
+        [
+          "SEM",
+          "0.751",
+          "0.607",
+          ""
+        ],
+        [
+          "Beef",
+          "18.33a",
+          "14.62Bb",
+          "0.900"
+        ],
+        [
+          "Solution 3",
+          "20.51b",
+          "26.64Aa",
+          "0.357"
+        ],
+        [
+          "SEM",
+          "0.751",
+          "0.611",
+          ""
+        ]
+      ]
+    },
+    {
+      "table": "T4",
+      "rows": [
+        [
+          "Solutions",
+          "BP (%)",
+          "CC (%)",
+          "Overall desirability"
+        ],
+        [
+          "Solution 1",
+          "1.32",
+          "1.08",
+          "0.65"
+        ],
+        [
+          "Solution 2",
+          "1.80",
+          "1.01",
+          "0.61"
+        ],
+        [
+          "Solution 3",
+          "1.30",
+          "1.51",
+          "0.60"
+        ]
+      ]
+    }
+  ],
+  "limits": [
+    "No dosage conversions; 2023 percentages kept as reported formulation levels, not dry-basis/pigment concentration.",
+    "No 2022 4.4–5.2% cooking-loss claim reused; relative percent versus percentage-point issue avoided.",
+    "2024 body/caption SD vs SEM conflict noted; no error bars reproduced.",
+    "2022 color-table ± retained without assigning an unstated uncertainty definition.",
+    "2022 SI LC U/g TVP retained, not converted to final patty weight."
+  ],
+  "2022_table1_rows": [
+    [
+      "Formulation",
+      "MC",
+      "SBP",
+      "BR",
+      "LC",
+      "Grilling process",
+      "L*",
+      "a*",
+      "b*"
+    ],
+    [
+      "Non-treated patty with BR + MC (control)",
+      " + ",
+      "−",
+      " + ",
+      "−",
+      "Before",
+      "48.7 ± 1.7",
+      "48.5 ± 0.9",
+      "3.9 ± 1.1"
+    ],
+    [
+      "After",
+      "45.1 ± 2.1",
+      "47.9 ± 1.0",
+      "3.9 ± 0.5"
+    ],
+    [
+      "LC-treated patty with BR + MC",
+      " + ",
+      "−",
+      " + ",
+      " + ",
+      "Before",
+      "47.9 ± 3.5",
+      "48.4 ± 0.6",
+      "3.6 ± 1.0"
+    ],
+    [
+      "After",
+      "44.6 ± 1.7",
+      "47.0 ± 2.8",
+      "3.5 ± 0.5"
+    ],
+    [
+      "LC-treated patty with BR + SBP",
+      "−",
+      " + ",
+      " + ",
+      " + ",
+      "Before",
+      "53.7 ± 2.4",
+      "47.9 ± 2.4",
+      "3.8 ± 1.4"
+    ],
+    [
+      "After",
+      "52.7 ± 1.1",
+      "9.3 ± 1.1",
+      "43.5 ± 2.2"
+    ],
+    [
+      "LC-treated patty with BR + MC + SBP",
+      " + ",
+      " + ",
+      " + ",
+      " + ",
+      "Before",
+      "55.6 ± 0.8",
+      "48.3 ± 3.2",
+      "3.7 ± 2.1"
+    ],
+    [
+      "After",
+      "54.1 ± 1.5",
+      "9.4 ± 1.6",
+      "46.6 ± 1.8"
+    ],
+    [
+      "Beef patty",
+      " + ",
+      "−",
+      "−",
+      "−",
+      "Before",
+      "54.8 ± 0.6",
+      "55.1 ± 1.7",
+      "3.5 ± 0.9"
+    ],
+    [
+      "After",
+      "45.2 ± 1.5",
+      "4.0 ± 1.3",
+      "39.7 ± 1.3"
+    ]
+  ],
+  "verification": "Numeric draft values checked against full-text XML table cells; no plot digitization."
+}

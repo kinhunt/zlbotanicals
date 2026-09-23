@@ -1,0 +1,224 @@
+Synergistic effects of laccase and pectin on the color changes and functional properties of meat analogs containing beet red pigment
+
+The widening gap between current supply of meat and its future demand has increased the need to produce plant-based meat analogs. Despite ongoing technical developments, one of the unresolved challenges of plant-based meat analogs is to safely and effectively imitate the appearance of raw and cooked animal-based meat, especially the color. This study aimed to develop a more effective and safe browning system for beet red (BR) in plant-based meat analog patties using laccase (LC) and sugar beet pectin (SBP). First, we investigated the synergistic effects of SBP and LC on BR decolorization of meat analog patties. We discovered that the red tones of LC-treated patties containing BR and SBP were remarkably browned after grilling, compared to patties that did not contain SBP. Notably, this color change by LC + SBP was similar to that of beef patties. Additionally, the hardness of LC-treated meat analog patties containing BR was higher than those that did not contain BR. Interestingly, the presence of SBP and LC enhanced the browning reaction and functional properties of meat analogs containing BR. This is the first report on a browning system for meat analogs containing BR using enzymatic methods to the best of our knowledge.
+
+The widening gap between the current supply of meat and its future demand has increased the need to produce plant-based meat analogs as protein sources1. Developing better plant-based diets would address the current protein crisis and positively impact the environment and human health1. It has been estimated that progression from current omnivore diets to vegan and ovo-lacto vegetarian diets can achieve about 50% and 35% decrease of greenhouse gas emissions, respectively2. Also, numerous studies have reported the health benefits associated with the replacement of animal sources of protein with plant-based proteins, including reduced risks of type 2 diabetes, heart disease, and stroke3,4. Therefore, shifting the global food production system into a more sustainable one by developing plant-based analogs will not only address the future demand for protein sources but also support a healthy lifestyle and protect the environment.
+
+Despite ongoing technical developments, the appearance, flavor, taste, and texture of plant-based meat analogs differ from those of traditional meat products. Among them, one of the unresolved challenges for plant-based meat analogs is their appearance, particularly their color1,5. Color is the first aspect of food products that consumers notice and a major contributor to consumer perception of taste and overall product acceptance6. Fresh, uncooked animal-based meats are bright red due to high oxymyoglobin content. When the meat is cooked, the metmyoglobin content increases, resulting in browning7. In contrast, most uncooked plant-based protein products are yellow or beige in color1. A major goal of research in this field is to simulate the typical browning of cooked animal-based meat by mimicking the red-to-brown color change in meat analogs8. However, few studies have investigated color changes in plant-based meat analogs1,5,9. Therefore, plant-based meat analogs are presently unable to meet the consumer standard established by animal-based meat in terms of appearance and color.
+
+In recent studies on novel, plant-based meat analogs, the red color of the raw product has been obtained by the addition of (1) beet red (BR) pigment or (2) soy leghemoglobin9. (1) BR pigment mainly consists of betanin/betanidin extracted from Beta vulgaris ssp., and is traditionally used as a natural red pigment in the global food industry because of its safety and low cost10–12. B. vulgaris is one of the top ten most potent antioxidant-rich vegetables13. Betalains (including betanin/betanidin) with high antioxidant activity were suggested to have a protective function on certain oxidative stress-related disorders, such as cardiovascular diseases, cancer, aging, and neurodegenerative disorders14. Therefore, BR pigment is an attractive food coloring agent. However, BR as a coloring agent for meat analogs has two limitations. First, meat analogs containing BR might remain red after grilling as betanin is thermo- and photostable. Therefore, it is difficult for consumers and companies to judge their degree of doneness. Second, overheating meat analogs containing BR may result in an unacceptable yellow color1,5,8,9. (2) Leghemoglobin is chemically and structurally similar to myoglobin and imparts cooked-color characteristics similar to those of animal-based meat to meat analogs9,15. However, soy leghemoglobin is a genetically modified protein that is overexpressed in the methylotrophic yeast Pichia pastoris. Some consumers and companies have concerns regarding the risk of using genetically modified proteins in meat analogs.
+
+Further research is needed to simulate the color changing of raw to cooked meat safely and more effectively. Presently, browning of meat analogs is achieved by adding coloring ingredients or other precursor substances. Specifically, caramel colors, malt extracts, reducing sugars, and amino acids are added, masking the red color and imparting the final product with a brown appearance1,5. However, consumers and manufacturers have safety concerns over using these additives. In addition, reducing sugars and amino acids may react to produce mutagenic and carcinogenic compounds, including acrylamide and heterocyclic amine, via the Maillard reaction16,17. Moreover, the additives fail to mask the red color of the pigment completely. Therefore, consumer and manufacturer perceptions have necessitated the development of a safe and more effective browning system for meat analogs.
+
+The currently established dye and pigment decolorization methods are classified into four main categories: physical, oxidative, enzymatic, and biological methods18. Among them, the enzymatic method using laccase (LC; EC 1.10.3.2) has been applied in various industrial scenarios19. LCs are oxidases that couple the reduction of molecular oxygen to the one-electron oxidation of a wide variety of phenols20–22. The substrate-oxidizing activity of LCs can be enhanced using appropriate mediators. Consequently, LCs have been shown to catalyze the oxidation of a broad range of substrates such as phenol and its derivatives, benzenethiols, aromatic amines, and polycyclic aromatic hydrocarbons23–25. Therefore, they are widely used not only for the decolorization of synthetic dyes26,27 but also for bioremediation, detoxification, food processing, and biosensing28.
+
+LC is used not only as a decolorizing enzyme but also as a crosslinking enzyme. Previous studies have reported that LC-catalyzed reactions formed pectin-chitosan films with hazardous gas removal abilities, arabinoxylan gels with higher gel abilities, and ferulate-modified pullulan with swelling properties29–31. In proteins, the exposed tyrosyl side chains serve as substrates for oxidation by LC, resulting in the spontaneous coupling of subsequent protein crosslinks (dityrosine)19,32–35. However, proteins are poor substrates for LC because of the intra-protein location of most tyrosine residues. Therefore, it has been reported that the presence of a macromolecular mediator enhances the LC-catalyzed protein crosslinking reaction33. These mediator-protein crosslinks enhanced the heat resistance, chemical bond strength, viscosity, gel strength, emulsifiability, and foamability of films or foods33,34,36. In our previous study on plant-based meat analog patties, the presence of sugar beet pectin (SBP) as a mediator also enhanced the protein-crosslinking activity of LC, thereby improving the physical and nutritional properties37.
+
+In this study, we focused on developing a more effective and safe browning system for BR in plant-based meat analog patties using an enzymatic method. First, we investigated the synergistic effects of SBP and LC on BR decolorization of meat analog patties. Importantly, we discovered that the red tones of the LC-treated patties containing BR and SBP were remarkably browned after grilling, compared with patties that did not contain SBP. Additionally, the hardness of LC-treated meat analog patties containing BR was higher than those that did not contain BR. Interestingly, the presence of SBP and LC enhanced the browning reaction and functional properties of meat analogs containing BR. To the best of our knowledge, this is the first report on a browning system for meat analogs containing BR using enzymatic methods.
+
+To investigate whether SBP and LC have a synergistic effect on browning plant-based meat analogs, we added LC to pea-based patties containing BR and SBP (Fig. 1). Non-treated patties containing BR + methylcelullose (MC) were used as controls. After grilling, a red liquid resembling fresh meat juices exuded from the control patties, whereas the LC-treated patties containing BR + MC + SBP did not exude liquid (Fig. S1). The red color tones of non-treated and LC-treated patties with BR + MC were not affected by the grilling process (Fig. 1). The color of non-treated patties containing SBP did not change either (data not shown). In contrast, LC-treated patties containing BR + SBP or BR + SBP + MC developed a brown color during grilling.Figure 1The appearance of the outside and inside of the meat analog patties before and after the grilling process.
+
+Figure 1The appearance of the outside and inside of the meat analog patties before and after the grilling process.
+
+The appearance of the outside and inside of the meat analog patties before and after the grilling process.
+
+To investigate the color change in greater detail, the objective color attributes of the patties after grilling were measured using a colorimeter (Fig. 2). The color tone of the LC-treated patties containing BR + MC was slightly different from that of the control (Fig. 2a,b). Compared with the control, the reflectance of LC-treated patties containing BR + SBP or BR + SBP + MC increased in the 500–600 nm range and decreased in the 600–700 nm range (Fig. 2b,d). This indicates that the color of the patties changed from red to brown. Interestingly, the reflectance difference of LC-treated patties containing BR + SBP + MC was higher than that of LC-treated patties containing BR + MC (Fig. 2b,d). We also evaluated the color change of beef patties grilled under the same conditions. Similar to that of the LC-treated patties, the reflectance of beef patties also increased in the 500–600 nm range and decreased in the 600–700 nm range (Fig. 2g,h). The waveform comparisons of non-treated patties containing MC (control) with meat before grilling and LC-treated patties containing BR + SBP or BR + SBP + MC with meat after grilling were similar (Fig. S3). Next, the color of the meat analog patties was characterized using the L*a*b* coordinates (Table 1). It is indicated that a* (redness) decreased and b* (yellowness) increased in LC-treated patties containing BR + SBP or BR + SBP + MC after grilling. Similarly, a* decreased and b* increased under the same conditions in beef patties. The L* value (lightness) of LC-treated patties containing SBP was higher than that of patties without SBP. At the same time, the decrease rate in the L* value of animal-based patties was higher than plant-based patties. These findings of reflectance and L*a*b* values indicated that the browning system for BR by LC + SBP in plant-based patties could effectively imitate the color changes of animal-based patties.Figure 2Reflectance of meat analog patties and beef patties. The reflectance values of (a,b) LC-treated patties containing BR + MC, (c,d) LC-treated patties containing BR + SBP, and (e,f) LC-treated patties containing BR + MC + SBP were measured using a colorimeter. Non-treated patties with BR + MC were used as controls. (g,h) Beef patties before and after grilling.Table 1Objective color measurements (L*a*b*) coordinates of plant-based and animal-based patties.FormulationMCSBPBRLCGrilling processL*a*b*Non-treated patty with BR + MC (control) + − + −Before48.7 ± 1.748.5 ± 0.93.9 ± 1.1After45.1 ± 2.147.9 ± 1.03.9 ± 0.5LC-treated patty with BR + MC + − +  + Before47.9 ± 3.548.4 ± 0.63.6 ± 1.0After44.6 ± 1.747.0 ± 2.83.5 ± 0.5LC-treated patty with BR + SBP− +  +  + Before53.7 ± 2.447.9 ± 2.43.8 ± 1.4After52.7 ± 1.19.3 ± 1.143.5 ± 2.2LC-treated patty with BR + MC + SBP +  +  +  + Before55.6 ± 0.848.3 ± 3.23.7 ± 2.1After54.1 ± 1.59.4 ± 1.646.6 ± 1.8Beef patty + −−−Before54.8 ± 0.655.1 ± 1.73.5 ± 0.9After45.2 ± 1.54.0 ± 1.339.7 ± 1.3
+
+Figure 2Reflectance of meat analog patties and beef patties. The reflectance values of (a,b) LC-treated patties containing BR + MC, (c,d) LC-treated patties containing BR + SBP, and (e,f) LC-treated patties containing BR + MC + SBP were measured using a colorimeter. Non-treated patties with BR + MC were used as controls. (g,h) Beef patties before and after grilling.
+
+Reflectance of meat analog patties and beef patties. The reflectance values of (a,b) LC-treated patties containing BR + MC, (c,d) LC-treated patties containing BR + SBP, and (e,f) LC-treated patties containing BR + MC + SBP were measured using a colorimeter. Non-treated patties with BR + MC were used as controls. (g,h) Beef patties before and after grilling.
+
+Table 1Objective color measurements (L*a*b*) coordinates of plant-based and animal-based patties.FormulationMCSBPBRLCGrilling processL*a*b*Non-treated patty with BR + MC (control) + − + −Before48.7 ± 1.748.5 ± 0.93.9 ± 1.1After45.1 ± 2.147.9 ± 1.03.9 ± 0.5LC-treated patty with BR + MC + − +  + Before47.9 ± 3.548.4 ± 0.63.6 ± 1.0After44.6 ± 1.747.0 ± 2.83.5 ± 0.5LC-treated patty with BR + SBP− +  +  + Before53.7 ± 2.447.9 ± 2.43.8 ± 1.4After52.7 ± 1.19.3 ± 1.143.5 ± 2.2LC-treated patty with BR + MC + SBP +  +  +  + Before55.6 ± 0.848.3 ± 3.23.7 ± 2.1After54.1 ± 1.59.4 ± 1.646.6 ± 1.8Beef patty + −−−Before54.8 ± 0.655.1 ± 1.73.5 ± 0.9After45.2 ± 1.54.0 ± 1.339.7 ± 1.3
+
+Objective color measurements (L*a*b*) coordinates of plant-based and animal-based patties.
+
+It is known that red betanin is oxidized by endogenous peroxidases in living red beets, resulting in color changes due to the formation of yellow betalamic acid and colorless cyclodopa38–40. Peroxidase is a hydrogen peroxide-requiring enzyme. Therefore, peroxidase decolorization of betanin has limited applicability in the food industry because hydrogen peroxide produces unacceptable off-flavors due to lipid oxidation, resulting in quality deterioration41. Peroxidases and LCs oxidize phenols using a similar oxidation mechanism, but only oxygen molecules are required for the laccase reaction19. The reflectance of LC-treated patties containing BR + SBP or BR + SBP + MC increased in the 500–600 nm (yellow) range and decreased in the 600–700 nm (red) range (Fig. 2d,f). These findings suggest that LC-catalyzed oxidation could degrade betanin (red) to betalamic acid (yellow) and cyclodopa (colorless), similar to the peroxidase-catalyzed reaction. The LC used in this study is a commercially available food-grade product that requires oxygen molecules alone to catalyze the reaction19. Betalamic acid has also been identified as a natural yellow pigment in plants42. Cyclodopa, a major metabolite derived from tyrosine, is a precursor of melanin in animals43 and betalain pigment in plants44. Humans have ingested foods containing these compounds for many years. Moreover, betalamic acid has been found beneficial in controlling diabetes mellitus by suppressing pancreatic amylase activities45,46. Therefore, these findings demonstrate a novel, effective, and safe browning process using LC and SBP for plant-based meat analogs containing BR pigment.
+
+The physical properties of meat analog patties containing BR were investigated (Fig. 3). Similar to a previous study37, non-treated patties containing SBP did not display moldability or binding ability. Interestingly, the hardness and chewiness values of LC-treated patties containing MC + BR were slightly higher than those of LC-treated patties containing MC (Fig. 3a,d). Moreover, the hardness and chewiness values of LC-treated patties containing SBP + BR were significantly higher than those of LC-treated patties containing SBP (Fig. 3a,d). While the hardness and chewiness values of these patties were lower than those of the beef patties, the cohesiveness and springiness values were similar to those beef patties (Fig. 3a,d). These findings indicated that LC enhanced the physical properties of plant-based patties containing BR, especially in the presence of SBP.Figure 3Texture profile analysis of meat analog patties containing BR and beef patties. (a) Hardness, (b) Cohesiveness, (c) springiness, (d) chewiness. Data are presented as mean ± standard deviation of five experiments. *p < 0.05, **p < 0.01, Student’s t-test.
+
+Figure 3Texture profile analysis of meat analog patties containing BR and beef patties. (a) Hardness, (b) Cohesiveness, (c) springiness, (d) chewiness. Data are presented as mean ± standard deviation of five experiments. *p < 0.05, **p < 0.01, Student’s t-test.
+
+Texture profile analysis of meat analog patties containing BR and beef patties. (a) Hardness, (b) Cohesiveness, (c) springiness, (d) chewiness. Data are presented as mean ± standard deviation of five experiments. *p < 0.05, **p < 0.01, Student’s t-test.
+
+LC is also known as a protein-crosslinking enzyme. Generally, proteins are poor substrates for LC because of the intra-protein location of most tyrosine residues. It has been reported that the presence of a low-molecular phenolic mediator enhances the LC-catalyzed protein crosslinking reaction47,48. The mediator radicalized by LC can oxidize the intra-protein tyrosine residues where LC cannot directly attack, resulting in protein crosslinking32. Therefore, phenolic mediators such as vanillin, ferulic acid, and catechin could enhance the LC-catalyzed crosslinking reaction49–51. Interestingly, in this study, the presence of BR enhanced the hardness and chewiness attributes of the meat analog patties (Fig. 3). BR pigment consists mainly of betanin, which is a phenolic compound10–12. The presence of BR pigments could enhance LC-catalyzed crosslink reaction. Therefore, we investigated the effects of BR on crosslinks formed by LC, in detail. As shown in Fig. S2, the degree of LC-induced crosslinks increased in the following order: protein + SBP + BR > protein + SBP > protein. These findings suggest that BR could function as an LC mediator and enhance the degree of SBP-protein and protein–protein crosslinking induced by LC. Furthermore, LC in the presence of SBP caused a synergistic browning reaction in plant-based meat analog patties containing BR (Figs. 2 and 3). These findings suggest that SBP acts as a mediator of LC-induced browning in meat analogs containing BR.
+
+Despite ongoing technical developments, the physical properties of existing plant-based meat analogs are still inferior to those of animal-based meat, especially in terms of texture and hardness5,9. It has been reported that the hardness values of plant-based patties are lower than that of animal-based patties52. In fact, the hardness values of LC-treated patties containing SBP + BR and LC-treated patties containing MC + BR was lower than that of beef patties grilled under the same conditions (Fig. 3a). Meat proteins generally exhibit a higher degree of shrinkage. The higher hardness values of animal-based patties have been suggested to be due to muscle protein denaturation, which leads to meat hardening52,53. The hardness and chewiness values of LC-treated patties containing SBP + BR and LC-treated patties containing SBP + MC + BR were similar to or higher than those of previously described plant-based meat analog patties52,54–56. This is because BR and SBP could function as mediators to enhance LC-induced protein crosslinking reactions (Figs. 3 and S2). These findings offer a novel strategy for improving the physical properties of plant-based meat analog patties and getting closer to the meat patty textures.
+
+We measured the cooking loss of the different formulations of plant-based meat analog patties (Fig. 4). Cooking loss, which reflects the degree of meat shrinkage during cooking, is an important indicator of the juiciness and yield of the final product. The cooking loss of patties containing SBP was lower than that of patties without SBP (Fig. 4). The presence of SBP in the formulation reduced the cooking loss by 4.4–5.2%, compared to that in the absence of SBP. Our previous study also reported a similar phenomenon in which LC-induced SBP-protein crosslinks reduced the cooking loss and improved the water/oil holding capacity of meat analog patties37. The use of MC as a binder is associated with the problem of low water/oil holding capacity37,52,57. In fact, a red liquid that looked like fresh meat juices exuded from non-treated patties containing BR + MC after the grilling process (Fig. S1). This is an unacceptable phenomenon for consumers and manufacturers. However, the LC-treated patties containing BR + MC + SBP exuded no such liquid (Fig. S1). This effect also occurred with LC-treated patties containing BR + SBP (data not shown). These findings indicate that enhancing the water holding capacity by adding SBP and LC to the formulation could overcome these unacceptable phenomena and enhance the juiciness of plant-based meat analog patties.Figure 4Cooking loss values of meat analog patties and beef patties. Cooking loss was calculated as the percentage weight difference between the dough before and after grilling. *p < 0.05, Student’s t-test.
+
+Figure 4Cooking loss values of meat analog patties and beef patties. Cooking loss was calculated as the percentage weight difference between the dough before and after grilling. *p < 0.05, Student’s t-test.
+
+Cooking loss values of meat analog patties and beef patties. Cooking loss was calculated as the percentage weight difference between the dough before and after grilling. *p < 0.05, Student’s t-test.
+
+We also measured the cooking loss of beef patties (Fig. 4). The cooking loss value was 36.0%. This is in line with a previous study that reported a 40% cooking loss for commercial beef58. Moreover, Marchi et al. reported that cooking and volume loss values of animal-based burgers were higher than those of plant-based burgers59. This superiority of plant-based burgers could be explained by the greater dietary fiber content, as incorporating dietary fibers in meat products reduced their cooking loss60. Similarly, in this study, the cooking loss value of meat patties was significantly higher than that of plant-based meat analog patties containing dietary fibers such as MC or SBP (Fig. 4). Cooking loss value greatly affects food intake yield for consumers; therefore, plant-based meat analogs could be a major food source in the future. Moreover, dietary fiber in meat analogs is considered to play an essential role in preventing large bowel diseases, ischemic heart diseases, and diabetes mellitus61. Therefore, plant-based meat analog patties offer great promise in compensating the lack of the future protein source supply and contributing to disease prevention.
+
+Furthermore, after the grilling process, the L* value of LC-treated patties with SBP + BR was higher than that of patties containing MC + BR (Table 1). Previous studies reported that L* values increased with increasing water/oil content of plant-based meat analog patties62–64. This is because small globules, such as water or oil, cause more light reflection62,63. Thus, it is suggested that LC-induced SBP-protein crosslinks decreased cooking loss, resulting in the increased L* value of LC-treated patties containing SBP. In contrast to the LC-treated patties with SBP + BR, the L* value of beef patties decreased after grilling (Table 1) as the cooking loss of beef patties was significantly higher than that of plant-based meat analog patties (Fig. 4). Furthermore, in this study, the pre-grilling L* value of LC-treated patties containing SBP + BR was higher than that of patties containing MC + BR (Table 1). This is because SBP itself has good amphiphilic properties, contributed by the protein moiety ferulate and acetyl groups, which impart hydrophobic properties, and the carbohydrate fraction, which imparts hydrophilic properties65,66. This could enhance the redness saturation of the patty before the grilling process. Color is the first and most crucial element that consumers notice in food products6. Therefore, the addition of SBP and LC could enhance the value of plant-based meat analog patties by enhancing their appearance before and after the grilling process.
+
+Figure S4 shows the putative browning and SBP-protein crosslinking reactions involved in plant-based meat analog patties treated with LC. As shown in Reaction 1, ferulates in SBP are oxidized by LC and O2, producing feruloyl radicals. This radical indirectly oxidized betanin by acting as an LC mediator (Reaction 2). Also, betanin would be a substrate for LC because it is a typical phenolic compound (Reaction 3). Betanin (red) is degraded to betalamic acid (yellow) and cyclodopa (colorless) via feruloyl radical-catalyzed indirect oxidation (Reaction 2) and LC-catalyzed direct oxidation (Reaction 3). Therefore, it is suggested that LC-catalyzed oxidation in the presence of SBP synergistically caused a red-to-brown color change in plant-based meat analogs containing BR. In the next step, cyclodopa is formed via Reactions 2 and 3, which is further oxidized to form radicalized cyclodopa (Reaction 4). This radical indirectly oxidizes the ferulates in SBP and the tyrosine residues in protein, producing feruloyl radicals and tyrosyl radicals (Reaction 5). LC-catalyzed oxidation also produces these radicals (Reaction 6). Finally, feruloyl radicals and tyrosyl radicals spontaneously crosslinked, subsequently producing SBP-protein crosslinks (Reaction 7). Therefore, it is suggested that cyclodopa radical-catalyzed indirect oxidation (Reaction 5) and the LC-catalyzed direct oxidation (Reaction 6) act synergistically to form SBP-protein crosslinks, resulting in enhanced physical properties of plant-based meat analog patties. LC-catalyzed oxidation reactions in the presence of SBP effectively facilitated BR browning reactions and SBP-protein crosslinking reaction through the above-mentioned reactions.
+
+In this study, we developed an effective and safe browning system for BR in plant-based meat analog patties using LC + SBP. LC-treated patties containing BR and SBP showed remarkable browning after grilling and were comparable to beef patties. Additionally, LC-treatment improved the hardness of the patties containing BR. Thus SBP and LC enhanced browning as well as the functional properties of meat analogs containing BR. To the best of our knowledge, this is the first report on a browning system for meat analogs containing BR using enzymatic methods and would address the need for a more aesthetically appealing plant-based meat analog. Using our browning system, it would be possible to develop plant-based meat analogs that are more similar in appearance to meat patties and would also perform similarly to the meat patties during grilling. Such plant-based meat analogs would address the increasing demand for plant-based proteins.
+
+Granule-type pea-based textured vegetable protein (TVP) and sugar beet pectin (GENU pectin type BETA BI-J) were obtained from SANSHO Co., Ltd. (Tokyo, Japan). BR pigments and pea protein isolate (PPI) were purchased from KUMAMOTO BEET RED Co., Ltd. (Kumamoto, Japan) and Roquette Frères (Lestrem, France), respectively. Ground beef was obtained from a local supermarket in Nagoya (Japan). LC (LC-Y120; Amano Enzyme Inc., Nagoya, Japan) is a commercially available food-grade product. According to the manufacturer’s instructions, the optimal reaction temperature for LC is 60 °C, with a preferred temperature range of 40–70 °C (> 80% activity).
+
+The base of the TVP matrix was prepared using TVPs and a binder (MC or SBP), followed by the addition of olive oil, BR, and PPI (Table S1). First, dried TVP was immersed in water (1:5 mass-to-volume ratio) for 2 h for hydration. After dehydrating the swollen TVP, it was mixed with 2.0% SBP or 2.0% MC at the final concentration. Thereafter, 5 g water, 8 g olive oil, 2.5 g PPI, and 0.5 g BR were added to each 25 g of TVP matrix. The samples were blended for 60 s using a hand blender. Thereafter, LC was added to the TVP matrix and blended for 60 s. The TVP matrix was molded (60 mm × 40 mm area and 25 mm height). The matrix was then cooked at 150 °C for 15 min and cooled to room temperature (20–25 °C) before being used for further analysis.
+
+Beef patties were prepared using ground beef, water, and MC. (Table S1). First, 2.0% MC at the final concentration and 5 g water were added to 35 g ground beef. The samples were blended for 60 s using a hand blender. Thereafter, the meat patties were molded. The matrix was then cooked at 150 °C for 15 min and cooled to room temperature (20–25 °C) before being used for further analysis.
+
+The color of the cooked meat analogs was measured using a colorimeter (Chroma Meter CM-700d/600d; Konica Minolta, Tokyo, Japan). The color analysis results were expressed according to the Commission International de l’Eclairage (CIE) system and reported as Hunter L* (lightness), a* (redness), and b* (yellowness).
+
+The cooking method and conditions were determined based on the study by Pathare and Roskilly67. The patties were cooked at 150 °C for approximately 15 min, depending on the time taken for the temperature at the center of the meat analog to reach 80 °C. After cooking, the samples were cooled to room temperature (20–25 °C). Cooking loss was calculated as the percentage weight difference between the patty before cooking and after cooking, using the following formula: cooking loss (%) = [(W1 − W2)/W1] × 100; W1 is the weight of the meat analog before grilling (g), and W2 is the weight of the meat analog after grilling (g). The cooking loss of beef patties was estimated following a similar method.
+
+Texture profile analysis was carried out using a COMPAC-100II (Sun Scientific Co., Ltd., Tokyo, Japan) equipped with a cylindrical probe of 31.4 mm area. After grilling, meat analogs and beef patties were prepared for the analysis and cut to a length of 15 mm in order to obtain homogeneous pieces of extrudates. The diameter of each sample was approximately 20 mm. A double compression cycle was performed at 1 mm/s until a recorded deformation of 50% was achieved. Five replicates were used for each sample. The following parameters were evaluated: hardness, the maximum force recorded during the first compression; cohesiveness, the area of work during the second compression divided by the area of work during the first compression; springiness, the distance recorded during the second compression divided by the distance of the first compression; and chewiness, hardness × cohesiveness × springiness.
+
+To investigate the synergistic effects of LC on the formation of crosslinks between proteins, betanidin, and SBP, the degree of crosslinking was measured by SDS-PAGE. 10% (v/v) pea + 1.0% RB pigment solution, 0.5% (v/v) SBP + 1.0% RB pigment solution, and 10% (v/v) pea + 0.5% (v/v) SBP + 1.0% RB pigment solution were assayed in 10.0-mL reaction mixtures containing 100 mM phosphate buffer (pH 7.0) and 250 units of LC. The reaction mixtures were incubated at 40 °C and then stopped by boiling at 100 °C for 5 min. Samples were prepared with an SDS-PAGE buffer (62.5 mM Tris–HCl pH6.8, 10% glycerol, 2% SDS, 5% DTT, and 0.002% BPB) under reducing conditions, and resolved on a 10–20% separating gel using an electrophoresis buffer (25 mM Tris, 19 mM glycine, and 0.1% SDS).
+
+
+Supplementary Information.
+
+Supplementary Information.
+
+Publisher's note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+The online version contains supplementary material available at 10.1038/s41598-022-05091-4.
+
+We would like to thank Editage for English language editing. We thank Ms. Mari Hayakawa for supporting our experiments.
+
+K.S., Y.S., M.O., and S.Y. designed the experiments. K.S. performed all experiments and wrote the manuscript. K.S. is the copyright holder of all photographs used in the manuscript. All authors read and approved the final manuscript.
+
+The authors declare no competing interests.
+
+A review of research on plant-based meat alternatives: Driving forces, history, manufacturing, and consumer attitudes
+
+Vegetarian diets: Planetary health and its alignment with human health
+
+A comprehensive review of the benefits of and the barriers to the switch to a plant-based diet
+
+Meat consumption, health, and the environment
+
+Status of meat alternatives and their potential role in the future meat market—A review
+
+On the psychological impact of food colour
+
+Myoglobin chemistry and meat color
+
+Plant-based meat analogues
+
+An investigation of the formulation and nutritional composition of modern meat analogue products
+
+Recent advances in betalain research
+
+Functional properties of anthocyanins and betalains in plants, food, and in human nutrition
+
+Betanin—A food colorant with biological activity
+
+Natural red pigments from plants and their health benefits—A review
+
+Antiradical, antimicrobial and cytotoxic activities of commercial beetroot pomace
+
+Potential to curb the environmental burdens of American beef consumption using a novel plant-based beef substitute
+
+Formation and reduction of acrylamide in Maillard reaction: A review based on the current state of knowledge
+
+Evaluation of Maillard reaction variables and their effect on heterocyclic amine formation in chemical model systems
+
+Current development in decolorization of synthetic dyes by immobilized laccases
+
+Enzyme-catalyzed protein crosslinking
+
+Biosynthesis and characterization of gold nanoparticles produced by laccase from Paraconiothyrium variabile
+
+Laccase and laccase-mediated systems in the synthesis of organic compounds
+
+Insights into laccase producing organisms, fermentation states, purification strategies, and biotechnological applications
+
+Removal of chlorophenolic derivatives by soil isolated ascomycete of Paraconiothyrium variabile and studying the role of its extracellular laccase
+
+Biodegradation of 2,4-dinitrophenol with laccase immobilized on nanoporous silica beads
+
+Elimination and detoxification of sulfathiazole and sulfamethoxazole assisted by laccase immobilized on porous silica beads
+
+On the mechanism of biotransformation of the anthraquinonic dye acid blue 62 by laccases
+
+Synergistic action of azoreductase and laccase leads to maximal decolourization and detoxification of model dye-containing wastewaters
+
+Amperometric biosensors based on recombinant bacterial laccase CotA for hydroquinone determination
+
+Small laccase from Streptomyces coelicolor catalyzed chitosan–pectin blending film for hazardous gas removal
+
+Enzymatic cross-linking of ferulated arabinoxylan: Effect of laccase or peroxidase catalysis on the gel characteristics
+
+Biomimetic hydrogel by enzymatic crosslinking of pullulan grafted with ferulic acid
+
+Crosslinking food proteins for improved functionality
+
+Crosslinking of food proteins mediated by oxidative enzymes—A review
+
+Effects of small laccase from Streptomyces coelicolor on the solution and gel properties of whey protein isolate
+
+Effect of protein structure on laccase-catalyzed protein oligomerization
+
+Characterization of whey protein isolate and pectin composite film catalyzed by small laccase from Streptomyces coelicolor
+
+Improved functional properties of meat analogs by laccase catalyzed protein and pectin crosslinks
+
+Blanching effect on polyphenol oxidase activity in table beets
+
+Characterization of betacyanin oxidation catalyzed by a peroxidase from Beta vulgaris L. roots
+
+Subcellular localization and isoenzyme pattern of peroxidase and polyphenol oxidase in beet root (Beta vulgaris L.)
+
+A comprehensive review on lipid oxidation in meat and meat products
+
+Betalamic acid, a new naturally occurring pigment
+
+The IFPCS presidential lecture: A chemist’s view of melanogenesis
+
+Biosynthesis of betalains: Yellow and violet plant pigments
+
+Betalains from Amaranthus tricolor L
+
+Natural products as α-amylase and α-glucosidase inhibitors and their hypoglycaemic potential in the treatment of diabetes: An update
+
+Electron transfer mediator systems for bleaching of paper pulp
+
+Influence of mediators on laccase catalyzed radical formation in lignin
+
+Effects of transglutaminase, tyrosinase and freeze-dried apple pomace powder on gel forming and structure of pork meat
+
+Laccase-catalyzed polymerization of tyrosine containing peptides
+
+Formation of protein-oligosaccharide conjugates by laccase and tyrosinase
+
+A novel approach for tuning the physicochemical, textural, and sensory characteristics of plant-based meat analogs with different levels of methylcellulose concentration
+
+Interventions of two-stage thermal sous-vide cooking on the toughness of beef semitendinosus
+
+Effect of binding agents on quality characteristics of mushroom based sausage analogue
+
+Physicochemical and sensorial evaluation of meat analogues produced from dry-fractionated pea and oat proteins
+
+Partial and total replacement of meat by plant-based proteins in chicken sausage: Evaluation of mechanical, physico-chemical and sensory characteristics
+
+Influence of carrageenan addition on turkey meat sausages properties
+
+Formation of contractile 3D bovine muscle tissue for construction of millimetre-thick cultured steak
+
+Detailed characterization of plant-based burgers
+
+Novel trends in development of dietary fiber rich meat products—A critical review
+
+Dietary fibre, ischaemic heart disease and diabetes mellitus
+
+Evaluation of the physicochemical and structural properties and the sensory characteristics of meat analogues prepared with various non-animal based liquid additives
+
+Organogels use in meat processing - Effects of fat/oil type and heating rate
+
+Fat reduction in comminuted meat products-effects of beef fat, regular and pre-emulsified canola oil
+
+Further characterization of acid- and alkalisoluble pectins from sugar beet pulp
+
+Comparison of sugar beet pectin, soybean soluble polysaccharide, and gum arabic as food emulsifiers. 1. Effect of concentration, pH, and salts on the emulsifying properties
+
+Quality and energy evaluation in meat cooking

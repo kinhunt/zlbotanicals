@@ -1,0 +1,42 @@
+{
+  "commit": "115d93addb8e1149b2a5ac147a10b182c024c888",
+  "blog_paths": [
+    "src/content/blog/en/acacia-fibre-emulsification.md",
+    "src/content/blog/en/astaxanthin-beverage-stability.md",
+    "src/content/blog/en/centella-cold-process-stability.md",
+    "src/content/blog/en/chicory-fibre-selection.md",
+    "src/content/blog/en/citrus-delayed-bitterness.md",
+    "src/content/blog/en/cocoa-selection.md",
+    "src/content/blog/en/cranberry-pac-purchasing.md",
+    "src/content/blog/en/elderberry-material-selection.md",
+    "src/content/blog/en/functional-mushroom-market-2026.md",
+    "src/content/blog/en/ginger-selection.md",
+    "src/content/blog/en/ginseng-heat-bitterness.md",
+    "src/content/blog/en/green-tea-energy-beverage-2026.md",
+    "src/content/blog/en/hesperidin-material-choice.md",
+    "src/content/blog/en/hibiscus-color-endpoints.md",
+    "src/content/blog/en/paprika-extract-format-selection.md",
+    "src/content/blog/en/pomegranate-flavour-selection.md",
+    "src/content/blog/en/reishi-sleep-market-2026.md",
+    "src/content/blog/en/saffron-identity.md",
+    "src/content/blog/en/stevia-temporal-sensory.md",
+    "src/content/blog/en/tea-haze-diagnosis.md",
+    "src/content/blog/en/turmeric-golden-milk-market-2026.md",
+    "src/content/blog/en/uk-sdil-milk-tea-2028.md",
+    "src/content/blog/en/vanilla-authentication.md",
+    "src/content/blog/en/vanilla-material-choice.md",
+    "src/content/blog/en/zero-calorie-sweetener-market-2026.md"
+  ],
+  "relevant_mentions": {
+    "src/data/deep-ingredients.json": [
+      "by EFSA in 2019 concerned water extracts of Siraitia grosvenorii fruit with different mogroside V contents. The 25% grade underwent water extraction, pectinase treatment, concentration and a resin column. Higher grades added redissolution and resin adsorption/elution purification. In that dossier, the 25% grade retained 3–6% saccharides including glucose, fructose and sucrose; additional resin treatment reduced saccharides below 1% in higher grad"
+    ],
+    "src/data/ingredient-reader-packs.json": [
+      "          },\n            {\n              \"type\": \"paragraph\",\n              \"text\": \"For enriched extract, EFSA’s dossier describes water extraction, pectinase treatment, concentration and a resin column for the nominal 25% V grade. Higher grades undergo additional dissolution and resin adsorption/elution. The dossier’s proposed 25% grade specification allowed 3–6% saccharides; higher-grade specifications were below 1%. These are dossier-specific"
+    ],
+    "src/content/blog/en/hibiscus-color-endpoints.md": [],
+    "src/content/blog/en/paprika-extract-format-selection.md": [
+      "sk about a water-dispersible preparation and its complete composition. For a spicy seasoning, state the pungency requirement separately rather than expecting a red colouring extract to supply it. These are starting points for selecting samples, not confirmed performance in your recipe.\n\n## The material behind the name\n\nThe 2014 JECFA specification defines paprika extract as a solvent extract of dried ground fruit pods of *Capsicum annuum*. It ide"
+    ]
+  }
+}

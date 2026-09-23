@@ -23,6 +23,7 @@ const { Content, headings } = await post.render();
 const isCentellaStability = post.slug.endsWith('/centella-cold-process-stability');
 const isCitrusBitterness = post.slug.endsWith('/citrus-delayed-bitterness');
 const isCocoa = post.slug.endsWith('/cocoa-selection');
+const isBeetroot = ['beetroot-product-formats', 'beet-colour-plant-based-meat'].some(slug => post.slug.endsWith('/' + slug));
 const isGinger = post.slug.endsWith('/ginger-selection');
 const isPomegranate = post.slug.endsWith('/pomegranate-flavour-selection');
 const isAcacia = post.slug.endsWith('/acacia-fibre-emulsification');
@@ -63,7 +64,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
   heroTitle={post.data.title}
   heroSubtitle={guideCategory[lang].title}
 >
-  <article class:list={["section-padding", {"ginger-reader": isGinger, "cocoa-reader": isCocoa, "pomegranate-reader": isPomegranate, "acacia-reader": isAcacia, "citrus-delayed-bitterness-reader": isCitrusBitterness, "astaxanthin-reader": isAstaxanthin, "chicory-reader": isChicory, "vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
+  <article class:list={["section-padding", {"beetroot-reader": isBeetroot, "ginger-reader": isGinger, "cocoa-reader": isCocoa, "pomegranate-reader": isPomegranate, "acacia-reader": isAcacia, "citrus-delayed-bitterness-reader": isCitrusBitterness, "astaxanthin-reader": isAstaxanthin, "chicory-reader": isChicory, "vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
     <div class="container-wide max-w-4xl">
       <!-- Breadcrumb -->
       <nav aria-label="面包屑导航" class="mb-8 text-sm">
@@ -109,6 +110,8 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
           />
         </div>
       )}
+
+      {isBeetroot && <nav aria-label="文章语言" class="mb-8"><a class="text-primary underline" href={'/resources/blog/' + post.slug.replace('zh/', '')} lang="en">Read in English</a></nav>}
 
       <!-- Main Content -->
       <div class="prose prose-lg max-w-none prose-headings:font-display prose-headings:text-gray-900 prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-table:text-sm">
@@ -191,7 +194,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
       {isAcacia && <nav aria-label="相关应用阅读" class="mt-12 border-t pt-8"><h2 class="text-xl font-semibold mb-4">相关应用阅读</h2><ul class="space-y-3"><li><a class="text-primary underline" href="/zh/solutions/food">食品应用</a></li><li><a class="text-primary underline" href="/zh/solutions/beverages">饮料应用</a></li></ul></nav>}
 
       <!-- CTA -->
-      {!isGinger && !isCocoa && !isPomegranate && !isCitrusBitterness && !isAcacia && !isAstaxanthin && !isChicory && !isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
+      {!isBeetroot && !isGinger && !isCocoa && !isPomegranate && !isCitrusBitterness && !isAcacia && !isAstaxanthin && !isChicory && !isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
         <h3 class="text-xl font-display font-bold text-gray-900">对我们的植物提取物感兴趣？</h3>
         <p class="text-gray-600 mt-2">联系我们获取样品、技术资料或定制配方支持。</p>
         <a
@@ -206,6 +209,23 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
 </PageLayout>
 
 <style>
+  .beetroot-reader :global([id]) {scroll-margin-top:100px}
+  .beetroot-reader :global(nav ol) {flex-wrap:wrap}
+  .beetroot-reader :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}
+  .beetroot-reader :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}
+  .beetroot-reader :global(.beetroot-table) {width:100%;table-layout:fixed;font-size:16px;line-height:1.65}
+  .beetroot-reader :global(.beetroot-table caption) {text-align:left;font-size:16px;font-weight:600;margin-bottom:1rem}
+  .beetroot-reader :global(.beetroot-table th), .beetroot-reader :global(.beetroot-table td) {padding:12px;vertical-align:top}
+  .beetroot-reader :global(.mobile-label) {display:none}
+  @media(max-width:640px) {
+    .beetroot-reader :global(.beetroot-table), .beetroot-reader :global(.beetroot-table tbody), .beetroot-reader :global(.beetroot-table tr), .beetroot-reader :global(.beetroot-table td), .beetroot-reader :global(.beetroot-table th) {display:block;width:100%;box-sizing:border-box}
+    .beetroot-reader :global(.beetroot-table caption) {display:block;width:100%}
+    .beetroot-reader :global(.beetroot-table thead) {display:none}
+    .beetroot-reader :global(.beetroot-table tr) {border:1px solid #d1d5db;border-radius:12px;margin:1rem 0;padding:8px}
+    .beetroot-reader :global(.beetroot-table th[scope=row]) {font-size:17px;background:#f3f4f6}
+    .beetroot-reader :global(.mobile-label) {display:block;font-weight:600;margin-bottom:6px}
+  }
+
   .pomegranate-reader :global([id]) {scroll-margin-top:100px}
   .pomegranate-reader :global(nav ol) {flex-wrap:wrap}
   .pomegranate-reader :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}

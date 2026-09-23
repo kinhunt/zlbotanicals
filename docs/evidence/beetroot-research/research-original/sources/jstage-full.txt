@@ -1,0 +1,551 @@
+Reaction products in the browning system of plant-based meat analogs by laccase and betanidin
+Food Science and Technology Research
+Online ISSN : 1881-3984
+Print ISSN : 1344-6606
+ISSN-L : 1344-6606
+Journal home
+Advance online publication
+All issues
+Virtual issue
+About the journal
+J-STAGE home
+/
+Food Science and Technology Re ...
+/
+Volume 30 (2024) Issue 2
+/
+Article overview
+/
+Full view
+Note
+Reaction products in the browning system of plant-based meat analogs by laccase and betanidin
+Kiyota Sakai
+,
+Masamichi Okada
+,
+Shotaro Yamaguchi
+Author information
+Kiyota Sakai
+Corresponding author
+Amano Enzyme Inc. Innovation Center
+Masamichi Okada
+Amano Enzyme Inc. Innovation Center
+Shotaro Yamaguchi
+Amano Enzyme Inc. Innovation Center
+Corresponding author
+Keywords:
+plant-based meat analog
+,
+beet red
+,
+betanidin
+,
+laccase
+,
+browning reaction
+JOURNAL
+OPEN ACCESS
+FULL-TEXT HTML
+2024
+ Volume 30
+		Issue 2
+		Pages 239-245
+DOI
+https://doi.org/10.3136/fstr.FSTR-D-23-00182
+Browse “Advance online publication” version
+Details
+Published: 2024
+Received: October 11, 2023
+Released on J-STAGE: March 19, 2024
+Accepted: December 08, 2023
+Advance online publication: December 26, 2023
+Revised: -
+Download PDF
+(1598K)
+Download citation
+RIS
+(compatible with EndNote, Reference Manager, ProCite, RefWorks)
+BIB TEX
+(compatible with BibDesk, LaTeX)
+Text
+How to download citation
+Contact us
+&nbsp;
+Abstract
+Despite considerable research and developments in the color properties of plant-based meat analog (PBMA) products, their color changes during the grilling process are one of the main unsolved challenges. Recently, it was reported that a novel browning system for PBMA products containing a red pigment (betanidin) and a multicopper oxidase (laccase; LC) can simulate the color changes (red to brown) of animal meat. However, the reaction products in PBMA using this system have not been analyzed in detail. Thus, this study aimed to clarify the reaction products of betanidin oxidized via LC-catalyzed reaction. It was found that LC-catalyzed oxidation in the PBMA patties degraded betanidin to betalamic acid and cyclodopa, subsequently polymerizing these degradation products to produce unknown brown polymers. These findings provide suggestions for the browning mechanism of PBMA patties containing betanidin via LC-catalyzed oxidation.
+Introduction
+Over the past several decades, the global population has increased rapidly, and the demand for animal-derived meat as a source of protein has increased similarly (
+He
+et al.
+, 2020
+;
+Bakhsh
+et al.
+, 2022
+). Thereby, the imbalance between the current supply and the future demand for protein sources has created a need for the development of better plant-based meat analog (PBMA) products (
+Fehér
+et al.
+, 2020
+). Moreover, many studies have reported the health benefits of the intake of plant-based proteins, related to the risk reduction of some kinds of cancer, type 2 diabetes, stroke, and heart disease, (
+Fehér
+et al.
+, 2020
+). Thus, the scientific community and food industry are currently making efforts to develop PBMA products to solve the protein crisis problem and provide human health benefits (
+Bohrer
+et al.
+, 2019
+).
+Currently, the quality and quantity of PBMA products are insufficient to meet the demand for animal meat or the palatability that humans have become accustomed to since the dawn of history. Reaching this standard requires technologies that simulate the sensory properties that people crave in meat, including texture, color, smell, taste, and cooking experience, based on the biochemical characteristics of meat sensory attributes (
+He
+et al.
+, 2020
+;
+Lee
+et al.
+, 2020
+). One of the unresolved issues in the production of PBMA products is their appearance, particularly the color changes induced by grilling (
+He
+et al.
+, 2020
+;
+Lee
+et al.
+, 2020
+). Generally, ungrilled fresh animal-derived meats display bright red coloration, which is attributed to their high oxymyoglobin content. This oxymyoglobin changes to metmyoglobin through the grilling process, resulting in browning of the meat product (
+Suman and Joseph, 2013
+). Such color changes in meat through the cooking experience are important aspects that consumers notice first and are a major contributor to consumer perception of taste and overall product acceptance (
+Alfaifi
+et al.
+, 2023
+;
+Jeremiah and Gibson, 2003
+;
+O’Quinn
+et al.
+, 2018
+). However, most plant-derived proteins are originally beige to brown in color, regardless of the grilling process (
+Sakai
+et al.
+, 2022b
+). The brown components of plant-derived proteins are mainly melanoidins that are irreversibly bound to lysine and arginine residues (
+Kutzli
+et al.
+, 2021
+). The differences in color properties between animal- and plant-derived proteins make it difficult to simulate the color change (red to brown) of animal-based meat in PBMA products (
+Kyriakopoulou
+et al.
+, 2019
+). Thus, it is necessary to recreate the color changes of animal meat induced by the grilling process in PBMA products.
+Beet red (BR) pigments mainly consist of betanin/betanidin extracted from
+Beta vulgaris
+ssp. and are widely used as the red color of PBMA products because of their safety and low cost (
+Strack
+et al.
+, 2003
+;
+Stintzing and Carle, 2004
+;
+Esatbeyoglu
+et al.
+, 2015
+). However, the red tone of PBMA products containing BR may remain red after grilling because betanidin is thermostable in the products. Therefore, it is difficult to simulate the color change from red to brown during grilling. Recently, to address this challenge,
+Sakai
+et al.
+(2022a)
+proposed a browning system for BR pigments using a multicopper oxidase (laccase; LC; EC 1.10.3.2) oxidation reaction (
+Sakai
+et al.
+, 2022a
+). This novel system can simulate color changes of animal meat induced by the grilling process in PBMA products. However, the reaction products of betanidin in PBMA using this system have not been identified and analyzed in detail. Recently, an increase in clean-label trends has led consumers to demand more detailed explanations from the food industry about the mechanisms and reaction products of chemical reactions in food (
+Maruyama
+et al.
+, 2021
+). Thus, this study aimed to clarify the reaction products of betanidin by LC-catalyzed oxidation.
+In this study, we investigated the residual activity of LC after grilling in an oven. Pigments or reaction products were then extracted from the PBMA products at the stage where laccase may be active. The extracted pigments were analyzed and identified using high performance liquid chromatography (HPLC). Results showed that LC-catalyzed oxidation in the PBMA patties degraded betanidin to betalamic acid and cyclodopa, subsequently polymerizing these degradation products to produce unknown brown polymers. The findings in this study could provide suggestions for the browning mechanism of PBMA patties containing betanidin via LC-catalyzed oxidation.
+Materials and Methods
+Materials
+Granule-type soy-based TVP (textured vegetable protein) was purchased from Marukome Co., Ltd. (Nagano, Japan). BR pigment (mainly contains betanidin) was purchased from KUMAMOTO BEET RED Co., Ltd. (Kumamoto, Japan). Betanidin, cyclodopa, and betalamic acid were synthesized in small quantities by MuseChem Chemicals Inc. (Fairfield, NJ, USA). Sugar beet pectin and pea protein isolate were obtained from SANSHO Co., Ltd. (Tokyo, Japan) and Roquette Frères (Lestrem, France), respectively. LC (Laccase Y120; Amano Enzyme, Inc., Nagoya, Japan) is a commercially available food-grade product.
+Preparation of PBMA patties
+PBMA patties (50 g) were prepared as previously described (
+Sakai
+et al.
+, 2022a
+). First, 25 g of dried TVP was immersed in water (1:5 mass-to-volume ratio) for 2 h for hydration. The TVP increased in weight by approximately 2.5 times to 62.5 g by absorbing water. The TVP was then dehydrated to a weight of 32 g. After dehydration, 32 g of swollen TVP was mixed with 1 g methylcellulose (MC), 5 g water, 1 g sugar beet pectin, 2.5 g pea protein isolate, 8 g olive oil, and 0.5 g BR, and then blended for 60 sec. Subsequently, 20.8 mg (1 250 U) LC was added and blended for 60 sec. The raw patties were immediately molded (60 × 40 × 25 mm [length × width × height]) and then cooked at 150 °C for 15 min in an oven (DGC6800; Miele Japan Corp., Tokyo, Japan). As a result of oven cooking, the patties were grilled on one side under this condition. The internal temperature of the patties was monitored using a 5.0 cm digital thermometer equipped with the oven. The sensor of the thermometer was made of stainless steel, and the entire length of the sensor was inserted to pass through the center point of the PBMA patty with a 60 mm length. After the grilling process, the cooked patties were cooled to room temperature (20-25 °C). Control PBMA patties were prepared under the same conditions except that LC was not added.
+Thermostability of LC
+LC was extracted from the PBMA patties of each grilling process to evaluate its thermostability. Finely crushed patties (10 g) were soaked in water (1:5 mass-to-volume ratio) for 20 min, and 60 mL of the mixtures were centrifuged at 15 000
+g
+for 10 min. After centrifugation, the supernatants were concentrated to 0.6 mL at 5 000
+g
+using an ultrafiltration device (Amicon® Ultra-15 Centrifugal Filter Unit, Merck Millipore, Burlington, MA, USA) with a molecular weight cut-off of 3 000 Da, according to the manufacturer’s instructions. Subsequently, these concentrates were added with 60 mL of 100 mM sodium phosphate buffer (pH 7.0) and concentrated to 0.6 mL under the same conditions. This operation was repeated three times. Using 0.1 mL of buffer exchanged and concentrated LC solution, the LC-catalyzed reaction was assayed in 1.0-mL reaction mixtures containing 100 mM sodium phosphate buffer (pH 7.0) and 5 mM ABTS (2,2′-azino-di-[3-ethylbenzthiazoline sulphonate]). The oxidation of ABTS by LC-catalyzed reaction was monitored at 50 °C for 30 min by following the increase of absorbance at 420 nm (
+Johannes and Majcherczyk, 2000
+). One unit of laccase activity was defined as the amount of enzyme that oxidized 1 µmol ABTS per min. The activity of LC extracted from PBMA patties before the grilling process was set at 100 %. Data are presented as the mean ± standard deviation (error bars) of four independent experiments.
+Extraction of pigments in PBMA patties
+Betanidin reactants were extracted from the PBMA patties at each reaction step. The finely crushed patty (10 g) was soaked in hot water (1:5 mass-to-volume ratio) and 60 mL of the mixture was agitated at 300 rpm for 1 h. After centrifugation at 15 000
+g
+for 10 min, 0.5 mL of the supernatant was deproteinized with a Nanosep® Centrifugal Device (Pall Corporation, Port Washington, NY, USA) with a molecular weight cut-off of 1 000 Da and degreased with acetone (1:1 mass-to-volume ratio). Then, 1.0 mL of this solution was centrifuged at 15 000
+g
+for 10 min.
+LC oxidation of betalamic acid and cyclodopa
+The LC-catalyzed reaction was assayed in 25-µL reaction mixtures containing 100 mM sodium phosphate buffer (pH 7.0), 0.2 mM betalamic acid, 0.2 mM cyclodopa, and 6.7 µg LC (0.8 U; equivalent to the LC concentration added to PBMA patties). A negative control was prepared under the same conditions except without the addition of LC. To simulate the oven-grilling process, the reaction mixtures were heated from 25 to 85 °C at a constant rate of 6 °C/min for 10 min and further incubated at 85 °C for 5 min to denature the LC enzyme using a thermal cycler (Applied Biosystems™; Thermo Fisher Scientific Inc., Stoughton, MA, USA). After the reaction was stopped, LC was removed from the reaction solution using a Nanosep® Centrifugal Device (Pall Corporation) with a molecular weight cut-off of 1 000 Da, as described in the instruction manual.
+Size exclusion chromatograms
+Betanidin reactants were analyzed using HPLC (Nexera X2, Shimadzu, Kyoto, Japan) equipped with a refractive index detector (Shimadzu, Kyoto, Japan). Each injection volume was 10 µL. The reactants were separated using a YMC-Pack Diol-60 (500 × 8.0 mm I.D.) with isocratic elution of 0.1 M KH
+2
+PO
+4
+-K
+2
+HPO
+4
+(pH 7.0) containing 0.2 M NaCl/acetonitrile (70 / 30) for 40 min at a flow rate of 0.7 mL/min and 40 °C.
+To quantify each betanidin reactant, standard curves were generated from plant-based patties spiked to contain 17.8, 89.0, 178.0, and 356.0 µg hippuric acid/g-patty. Under the same conditions, these spiked patties were analyzed by HPLC. In advance, it was checked that the retention time (RT) of hippuric acid was 16.5 min.
+Results and Discussion
+First, the thermostability of LC during the grilling process was investigated (
+Fig. 1
+). As the grilling process progressed, the internal temperature of PBMA patties gradually increased and reached a plateau at 85 °C for 10 min. Similarly, the residual activity of LC in the PBMA patties gradually decreased as the internal temperature increased and was undetectable at 10 min. This result indicated that LC-catalyzed oxidation of betanidin occurred for 10 min and LC was then denatured by overheating. Therefore, we decided to intermittently sample PBMA patties from 0 to 10 min and extract betanidin reactants.
+Fig. 1
+Thermostability of LC in PBMA patties during oven grilling process.
+The PBMA patties were then grilled in an oven (150 °C, 15 min). The thermostability of LC in the PBMA patties (open circles) and the internal temperature of the PBMA patties (closed circles) were measured. Error bars represent the mean ± standard error of the mean of four independent experiments.
+Next, to evaluate the extraction efficiency, hippuric acid as an internal standard substance was extracted from the patty every 5 min during the grilling process. As a result, the extraction efficiency of hippuric acid from patties before (0 min) and after every 5-min grilling process was 80, 78, 83, and 81 % respectively. Under the same conditions, the extraction efficiency of betanidin was 77, 81, 78, and 79 %, respectively. Therefore, the extraction efficiency of hippuric acid and betanidin from PBMA patties was approximately 80 % regardless of the grilling time.
+Then, the reaction products from betanidin obtained via LC oxidation were extracted from the patties and analyzed using gel filtration HPLC (
+Fig. 2
+). During the 15-min grilling process, four peaks were detected. Of these, peaks with RT of 9.5, 12, and 14 min had the same RT as those of betanidin, betalamic acid, and cyclodopa, respectively, when compared to the high purity standards. Each peak was collected, and the fractions with RT of 2–4, 9.5, 12, and 14 min displayed as brown, red, yellow, and colorless, respectively (data not shown).
+Fig. 2
+Identification of reaction products from betanidin oxidized by LC in PBMA patties.
+The reaction products of betanidin were extracted from the PBMA patties. The extracts from LC-catalyzed patties (A) and control patties (B) were analyzed using HPLC. The solutions containing betalamic acid and cyclodopa were incubated in the absence (C) or presence (D) of LC.
+Betanidin (RT 9.5 min) alone was detected in the extract of PBMA patties before the grilling process (0 min) and the concentration was 10.9 µg/g patty (extraction efficiency of 76.8 %) (
+Fig. 2A
+). The betanidin was undetected after the 3-min grilling process, whereas two peaks, betalamic acid (RT 12 min) and cyclodopa (RT 14 min), were observed. These peak levels reached maximum values of 4.5 and 3.6 µg/g patty during the 3-min grilling process and subsequently declined. In living red beets, red betanidin is oxidized by endogenous peroxidases, resulting in the formation of yellow betalamic acid and the colorless cyclodopa (
+Lee and Smith, 1979
+;
+Martínez-Parra and Muñoz, 2001
+;
+Escribano
+et al.
+, 2002
+). Generally, the oxidation reaction mechanisms and their reactants of LCs and peroxidases are not different, except for the requirement of oxygen or hydrogen peroxide in each reaction (
+Buchert
+et al.
+, 2010
+;
+Heck
+et al.
+, 2013
+). Therefore, it was suggested that the LC oxidation of BR in PBMA patties might degrade betanidin (red) to betalamic acid (yellow) and cyclodopa (colorless), similar to the peroxidase-catalyzed reaction in living red beets. Moreover, along with the decrease in peaks of betalamic acid and cyclodopa, unknown brown compounds were detected at RTs of 2–4 min, and their integrated peaks reached a plateau at the 7-min grilling process (
+Fig. 2A
+). Moreover, the peak maxima of unknown brown compounds changed from RT 2.1 (estimated 3 120 g/mol) min to RT 1.9 min (estimated 4 670 g/mol) as the grilling progressed, indicating that the molecular weight of these compounds increased. Therefore,
+Fig. 2
+indicates that betanidine was cleaved into betalamic acid and cyclodopa in the first step, and they were polymerized into unknown brown compounds in the second step. Interestingly, this reaction and phenomenon in this study were consistent with the change in apparent color reported previously (
+Sakai
+et al.
+, 2022a
+).
+The brown compounds at an estimated 3 000–5 000 g/mol were detected in the extract from the PBMA patties, even though compounds with a molecular weight >1 000 Da were cut off in advance (
+Fig. 2A
+). Referring to the manufacturer’s instruction manual, the loss rate (outflow rate to filtration fraction) by cut-off treatment is approximately 10 %, but the smaller the target size, the higher the loss rate. In contrast, the content of pea proteins with larger molecular weights was extremely low in the filtration fraction and undetected using HPLC analysis (
+Fig. 2
+). Therefore, it was suggested that the brown compounds with an estimated molecular weight of 3 000–5 000 g/mol partially or mostly passed through the 1,000 Da cut-off column. In this study, the loss rate of brown compounds after column treatment cannot be quantified, so further research is required in the future.
+Next, we investigated at which step the LC-catalyzed reaction is important for the browning reaction (
+Fig. 2B-D
+). As a result of preparing control PBMA patties containing BR (in the absence of LC), only betanidin was detected in the extract from control patties after the 15-min grilling process (
+Fig. 2B
+). This finding could support that the LC-catalyzed reaction was involved in the oxidative cleavage of betanidine to betalamic acid and cyclodopa. Moreover, as a result of treating betalamic acid and cyclodopa with LC in solution, unknown brown polymers were produced and detected at RTs of 2–3 min (
+Fig. 2D
+), similar to
+Fig. 2A
+. In contrast, no such reaction occurred in the absence of LC (
+Fig. 2C
+). This finding could support that the LC-catalyzed reaction was also involved in the oxidative polymerization of betalamic acid and cyclodopa to brown polymers. Therefore, the two findings suggest that LC-catalyzed oxidation in PBMA patties could degrade betanidin (red) to betalamic acid (yellow) and cyclodopa (colorless), subsequently polymerizing these degradation products to produce unknown brown polymers (
+Fig. 3
+).
+Fig. 3
+Putative LC-catalyzed reactions of color change (red to brown) in PBMA patties.
+Fig. 3
+shows that the LC reaction products of betanidin were betalamic acid, cyclodopa, and unknown brown polymers. Betalamic acid, an intermediate of betanidin synthesis, has been identified as a natural yellow pigment in plants such as beetroot, cactus, and amaranth (
+Kimler
+et al.
+, 1971
+;
+González-Ponce
+et al.
+, 2020
+). Cyclodopa, a major tyrosine-derived metabolite in diverse organisms, is a melanin precursor in animals (
+Ito, 2003
+) and a betalain pigment in plants (
+Gandía-Herrero and García-Carmona, 2013
+). Further, humans and animals have been ingesting foods containing betalamic acid or cyclodopa for many years. In fact, it is known that some commercially available BR pigments include both betalamic acid and cyclodopa as betanidin fragments/metabolites and their safety has been confirmed (
+EFSA, 2015
+). It is possible that the unknown brown polymers (RT 2–4 min) may be melanin-like polymers (
+Fig. 3
+). Melanin is a brownish pigment and is also produced by LC-catalyzed oxidation in animals, plants, insects, and some fungi (
+Ito, 2003
+;
+Glagoleva
+et al.
+, 2020
+;
+Sugumaran and Barek, 2016
+;
+Nosanchuk
+et al.
+, 2015
+). In the melanin production pathway, LC oxidizes phenols (such as cyclodopa, L-dopa, L-tyrosine, and 5-cysteine-dopa) and then these LC-radicalized phenols polymerize with each other, finally producing melanin with a wide molecular weight range (300–10 000 g/mol) (
+Eisenman, 2007
+;
+Jia
+et al.
+, 2017
+;
+Solano
+et al.
+, 2014
+;
+Meng and Kaxiras, 2008
+;
+Brian Nofsinger and Simon, 2001
+;
+Liu and Simon, 2003
+). Also, LC can oxidize the dihydropyridine backbone of betalamic acid because of its broad substrate specificity (
+Simić
+et al.
+, 2020
+;
+Abdel-Mohsen
+et al.
+, 2012
+). These findings suggest that LC could oxidize and radicalize the phenol backbone of cyclodopa and the dihydropyridine backbone of betalamic acid, which are potentially polymerized by each other. Thus, the unknown brown polymers might be formed by polymerizing the betalamic acid and cyclodopa radicalized by LC-catalyzed oxidation.
+Conclusions
+One of the unresolved challenges for PBMA products is the color change induced by grilling. A recent study proposed a novel browning system for PBMA products containing betanidin and laccase to simulate the color changes found in animal meat. However, an increase in clean-label trends has led consumers to demand more detailed explanations about the mechanisms and reaction products of chemical reactions in food. Thus, this study aimed to clarify the reaction products of betanidin oxidation via LC-catalyzed oxidation. As a result, LC-catalyzed oxidation in PBMA patties could degrade betanidin (red) to betalamic acid (yellow) and cyclodopa (colorless), subsequently polymerizing these degradation products to produce unknown brown polymers. These findings provide suggestions for the browning mechanism of PBMA patties containing betanidin via LC-catalyzed oxidation.
+Acknowledgements
+We would like to thank Editage for the English language editing. We thank Ms. Mari Hayakawa for her support during the experiments.
+Author contributions
+KS designed and performed the experiments. KS, MO, and SY managed the project. KS wrote the manuscript. All the authors have read and approved the final version of the manuscript.
+Funding
+This research received no external funding.
+Conflict of interest
+There are no conflicts of interest to declare.
+Data availability
+All data generated or analyzed during this study are included in this published article and its supplementary information files.
+Abbreviations
+BR
+beet red
+LC
+laccase
+PBMA
+plant-based meat analog
+RT
+retention time
+MC
+methylcellulose
+TVP
+textured vegetable protein
+ABTS
+2,2′-azino-di-[3-ethylbenzthiazoline sulphonate]
+References
+Abdel-Mohsen,  H.T.,  Conrad,  J., and  Beifuss,  U. (2012) Laccase-catalyzed oxidation of Hantzsch 1, 4-dihydropyridines to pyridines and a new one pot synthesis of pyridines.
+Green Chem.
+,
+14
+, 2686–2690.
+Alfaifi,  B.M.,  Al-Ghamdi,  S.,  Othman,  M.B.,  Hobani,  A.I., and  Suliman,  G.M. (2023) Advanced Red Meat Cooking Technologies and Their Effect on Engineering and Quality Properties: A Review.
+Foods
+,
+12
+, 2564.
+Bakhsh,  A.,  Lee,  E.Y.,  Ncho,  C.M.,  Kim,  C.J.,  Son,  Y.M.,  Hwang,  Y.H., and  Joo,  S.T. (2022) Quality Characteristics of Meat Analogs through the Incorporation of Textured Vegetable Protein: A Systematic Review.
+Foods
+,
+11
+, 1242.
+Bohrer,  B.M. (2019) An investigation of the formulation and nutritional composition of modern meat analogue products.
+Food Sci. Hum. Wellness
+,
+8
+, 320–329.
+Brian Nofsinger,  J., and  Simon,  J.D. (2001) Radiative Relaxation of Sepia Eumelanin is Affected by Aggregation.
+Photochem. Photobiol.
+,
+74
+, 31–37.
+Buchert,  J.,  Ercili Cura,  D.,  Ma,  H.,  Gasparetti,  C.,  Monogioudi,  E.,  Faccio,  G.,  Mattinen,  M.,  Boer,  H.,  Partanen,  R.,  Selinheimo,  E.,  Lantto,  R., and  Kruus,  K. (2010) Crosslinking food proteins for improved functionality.
+Annu. Rev. Food Sci. Technol.
+,
+1
+, 113–138.
+EFSA Panel on Food Additives and Nutrient Sources added to Food. (2015). Scientific Opinion on the re-evaluation of beetroot red (E 162) as a food additive.
+EFSA J.
+,
+13
+, 4318.
+Eisenman,  H.C.,  Mues,  M.,  Weber,  S.E.,  Frases,  S.,  Chaskes,  S.,  Gerfen,  G., and  Casadevall,  A. (2007)
+Cryptococcus neoformans
+laccase catalyses melanin synthesis from both D- and L-DOPA.
+Microbiology
+,
+153
+, 3954–3962.
+Esatbeyoglu,  T.,  Wagner,  A.E.,  Schini-Kerth,  V.B., and  Rimbach,  G. (2015) Betanin—A food colorant with biological activity.
+Mol. Nutr. Food Res.
+,
+59
+, 36–17.
+Escribano,  J.,  Gandía-Herrero,  F.,  Caballero,  N., and  Pedreño,  M.A. (2002) Subcellular localization and isoenzyme pattern of peroxidase and polyphenol oxidase in beet root
+(Beta vulgaris L.)
+.
+J. Agric. Food Chem.
+50
+, 6123–6129.
+Fehér,  A.,  Gazdecki,  M.,  Véha,  M.,  Szakály,  M., and  Szakály,  Z. (2020) A comprehensive review of the benefits of and the barriers to the switch to a plant-based diet.
+Sustainability
+,
+12
+, 4136.
+Gandía-Herrero,  F., and  García-Carmona,  F. (2013) Biosynthesis of betalains: Yellow and violet plant pigments.
+Trends Plant Sci.
+,
+18
+, 334–343.
+Glagoleva,  A.Y.,  Shoeva,  O.Y., and  Khlestkina,  E.K. (2020) Melanin Pigment in Plants: Current Knowledge and Future Perspectives.
+Front. Plant Sci.
+,
+11
+, 770.
+González-Ponce,  H.A.,  Martínez-Saldaña,  M.C.,  Tepper,  P.G.,  Quax,  W.J.,  Buist-Homan,  M.,  Faber,  K.N., and  Moshage,  H. (2020) Betacyanins, major components in Opuntia red-purple fruits, protect against acetaminophen-induced acute liver failure.
+Food Res. Int.
+,
+137
+, 109461.
+He,  J.,  Evans,  N.M.,  Liu,  H., and  Shao,  S. (2020) A review of research on plant-based meat alternatives: Driving forces,
+history, manufacturing
+, and consumer attitudes.
+Compr. Rev. Food Sci. Food Saf.
+,
+19
+, 2639–2656.
+Heck,  T.,  Faccio,  G.,  Richter,  M., and  Thöny-Meyer,  L. (2013) Enzyme-catalyzed protein crosslinking.
+Appl. Microbiol. Biotechnol.
+,
+97
+, 461–475.
+Ito,  S. (2003) The IFPCS presidential lecture: A chemist’s view of melanogenesis.
+Pigment Cell Res.
+,
+16
+, 230–236.
+Jeremiah,  L.E., and  Gibson,  L.L. (2003) Cooking influences on the palatability of roasts from the beef hip.
+Food Res. Int.
+,
+36
+, 1–9.
+Jia,  W.,  Wang,  Q.,  Fan,  X.,  Dong,  A.,  Yu,  Y., and  Wang,  P. (2017). Laccase-mediated in situ oxidation of dopa for bio-inspired coloration of silk fabric.
+RSC advances
+,
+7
+, 12977–12983.
+Johannes,  C., and  Majcherczyk,  A. (2000) Laccase Activity Tests and Laccase Inhibitors.
+J. Biotechnol.
+,
+78
+, 193–199.
+Kimler,  L.,  Larson,  R.A.,  Messenger,  L.,  Moore,  J.B., and  Mabry,  T.J. (1971) Betalamic acid, a new naturally occurring pigment.
+J. Chem. Soc.
+D.,
+21
+, 1329–1330.
+Kutzli,  I.,  Weiss,  J., and  Gibis,  M. (2021). Glycation of plant proteins via maillard reaction: reaction chemistry, technofunctional properties, and potential food application.
+Foods
+,
+10
+, 376.
+Kyriakopoulou,  K.,  Dekkers,  B., and  van der Goot,  A.J. (2019) Plant-based meat analogues. In “Sustainable Meat Production and Processing” ed. by  C.M.  Galanakis. Academic, Elsevier Inc., pp. 103–126.
+Lee,  C.Y., and  Smith,  N.L. (1979) Blanching effect on polyphenol oxidase activity in table beets.
+J. Food Sci.
+,
+44
+, 82–83.
+Lee,  H.J.,  Yong,  H.I.,  Kim,  M.,  Choi,  Y.S., and  Jo,  C. (2020) Status of meat alternatives and their potential role in the future meat market—A review.
+Asian-Australas J. Anim. Sci.
+,
+33
+, 1533–1543.
+Liu,  Y., and  Simon,  J.D. (2003) Isolation and biophysical studies of natural eumelanins: applications of imaging technologies and ultrafast spectroscopy.
+Pigment Cell Res.
+16
+, 606–618.
+Martínez-Parra,  J., and  Muñoz,  R. (2001) Characterization of betacyanin oxidation catalyzed by a peroxidase from
+Beta vulgaris
+L. roots.
+J. Agric. Food Chem.
+49
+, 4064–4068.
+Maruyama,  S.,  Streletskaya,  N. A., and  Lim,  J. (2021) Clean label: Why this ingredient but not that one?
+Food Qual. Prefer.
+,
+87
+, 104062.
+Meng,  S., and  Kaxiras,  E. (2008) Theoretical models of eumelanin protomolecules and their optical properties.
+Biophys. J.
+,
+94
+, 2095–2105.
+Nosanchuk,  J.D.,  Stark,  R.E., and  Casadevall,  A. (2015) Fungal Melanin: What do We Know About Structure?
+Front. Microbiol.
+6
+, 1463.
+O’Quinn,  T.G.,  Legako,  J.F.,  Brooks,  J.C., and  Miller,  M.F. (2018) Evaluation of the contribution of tenderness, juiciness, and flavor to the overall consumer beef eating experience.
+Transl. Anim. Sci.
+,
+2
+, 26–36.
+Sakai,  K.,  Sato,  Y.,  Okada,  M., and  Yamaguchi,  S. (2022a) Synergistic effects of laccase and pectin on the color changes and functional properties of meat analogs containing beet red pigment.
+Sci. Rep.
+12
+, 1168.
+Sakai,  K.,  Okada,  M., and  Yamaguchi,  S. (2022b) Decolorization and detoxication of plant-based proteins using hydrogen peroxide and catalase.
+Sci. Rep.
+12
+, 22432.
+Simić,  S.,  Jeremic,  S.,  Djokic,  L.,  Božić,  N.,  Vujčić,  Z.,  Lončar,  N.,  Senthamaraikannan,  R.,  Babu,  R.,  Opsenica,  I.M., and  Nikodinovic-Runic,  J. (2020) Development of an efficient biocatalytic system based on bacterial laccase for the oxidation of selected 1,4-dihydropyridines.
+Enzym. Microb. Technol.
+,
+132
+, 109411.
+Solano,  F. (2014) Melanins: Skin pigments and much more types, structural models, biological functions, and formation routes.
+N. J. Sci.
+,
+2014
+, 498276.
+Stintzing,  F.C., and  Carle,  R. (2004) Functional properties of anthocyanins and betalains in plants, food, and in human nutrition.
+Trends Food Sci. Technol.
+,
+15
+, 19–38.
+Strack,  D.,  Vogt,  T., and  Schliemann,  W. (2003) Recent advances in betalain research.
+Phytochemistry
+,
+62
+, 247–269.
+Sugumaran,  M., and  Barek,  H. (2016) Critical Analysis of the Melanogenic Pathway in Insects and Higher Animals.
+Int. J. Mol. Sci.
+,
+17
+, 1753.
+Suman,  S.P., and  Joseph,  P. Myoglobin chemistry and meat color. (2013)
+Rev. Food Sci. Technol.
+,
+4
+, 79–99.
+Figures & tables
+Supplementary materials
+Result List
+Cited by
+© 	2024 by Japanese Society for Food Science and Technology
+This article is licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International] license.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Share
+Share this page
+feedback
+Top
+Register with J-STAGE for free!
+Register
+Already have an account? Sign in
+here

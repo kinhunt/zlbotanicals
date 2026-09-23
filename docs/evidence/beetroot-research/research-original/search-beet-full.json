@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10493565",
+        "title": "Level Optimization of Beet Powder and Caramel Color for Beef Color Simulation in Meat Analogs before and after Cooking",
+        "description": "In a recent study, Sakai et al. (2022) showed that the use of beet pigments—often used to simulate red color in meat analogs—is associated with the appearance of a yellow-like brown color after thermal treatment when used in plant-based analogs. Herein, we simulated the color of raw and cooked beef patty samples by combining beet powder (BP) and caramel color (CC). We hypothesized that CC could partially simultaneously offset the high brightness in raw samples and the excessive CIE b* in cooked samples that was caused by BP.\n\nOptimization of the levels of beet powder (BP) and caramel color (CC) in beef patties In RSM, desirability analysis was used to perform the multi-objective optimization considering a total of six responses: before and after cooking CIE L*, CIE a*, and CIE b*. The independent variables BP and CC were employed to optimize the responses by setting the nominal best characteristics as the color of beef. We obtained three solutions with the highest overall desirability. The setting satisfying the highest desirability values close to 1 is considered to be the optimum condition.\n\npatties, 1.30% of BP and 1.51% of CC can be the optimum condition to simulate beef color.",
+        "position": 1
+      },
+      {
+        "url": "https://kosfaj.org/download/download_pdf?pid=kosfa-43-5-889",
+        "title": "Microsoft Word - 10-kosfa-2023-e45-가제본.docx",
+        "description": "Level Optimization of Beet Powder and Caramel\nColor for Beef Color Simulation in Meat Analogs\nbefore and after Cooking\n\nAbstract  In this study, concentration levels of beet powder (BP) and caramel color\n(CC) were optimized to simulate beef color in meat analogs before and after cooking.\nThe central composite design of response surface methodology (RSM) was used to set\nthe levels of BP and CC, and the CIE L*, CIE a*, and CIE b* were selected as the\nresponses for RSM. After optimization, myoglobin-free beef patties were prepared with\nthree optimized levels of BP and CC. When raw, all the patties had the same color as\nnatural beef; however, CIE L*, CIE a*, and CIE b* were statistically different from those\nof beef after cooking (p<0.05). Moreover, the use of BP and CC induced “browning”\nafter the cooking process, with no excessive yellow color. Therefore, based on the overall\ndesirability in the color optimization using RSM, the combination of BP (1.32%) and CC\n(1.08%) with the highest overall desirability can be used to simulate the color change of\nbeef in meat analogs.",
+        "position": 2
+      },
+      {
+        "url": "https://pure.konkuk.ac.kr/en/publications/level-optimization-of-beet-powder-and-caramel-color-for-beef-colo",
+        "title": "Level Optimization of Beet Powder and Caramel Color for Beef Color Simulation in Meat Analogs before and after Cooking",
+        "description": "Level Optimization of Beet Powder and Caramel Color for Beef Color Simulation in Meat Analogs before and after Cooking Seonmin Lee  , Kyung Jo  , Seul Ki Chan Jeong  , Yun Sang Choi  , Samooel Jung  Chungnam National University  Research output: Contribution to journal › Article › peer-review 9 Scopus citations Abstract In this study, concentration levels of beet powder (BP) and caramel color (CC) were optimized to simulate beef color in meat analogs before and after cooking. The central composite design of response surface methodology (RSM) was used to set the levels of BP and CC, and the CIE L*, CIE a*, and CIE b* were selected as the responses for RSM. After optimization, myoglobin-free beef patties were prepared with three optimized levels of BP and CC. When raw, all the patties had the same color as natural beef; however, CIE L*, CIE a*, and CIE b* were statistically different from those of beef after cooking (p<0.05). Moreover, the use of BP and CC induced “browning” after the cooking process, with no excessive yellow color. Therefore, based on the overall desirability in the color optimization using RSM, the combination of BP (1.32%) and CC (1.08%) with the highest overall desirability can be used to simulate the color change of beef in meat analogs. Original language English Pages (from-to) 889-900  Number of pages 12  Journal Food Science of Animal Resources  Volume 43  Issue number 5  DOIs - https://doi.org/10.5851/kosfa.2023.e45  State Published - 2023  Keywords beet powder caramel color meat analog meat color Fingerprint Dive into the research topics of ‘Level Optimization of Beet Powder and Caramel Color for Beef Color Simulation in Meat Analogs before and after Cooking’.",
+        "position": 3
+      },
+      {
+        "url": "https://scholar.kyobobook.co.kr/article/detail/4050065959432",
+        "title": "Level Optimization of Beet Powder and Caramel Color for Beef Color Simulation in Meat Analogs before and after Cooking - 학지사ㆍ교보문고 스콜라",
+        "description": "학술저널 In this study, concentration levels of beet powder (BP) and caramel color (CC) were optimized to simulate beef color in meat analogs before and after cooking. The central composite design of response surface methodology (RSM) was used to set the levels of BP and CC, and the CIE L*, CIE a*, and CIE b* were selected as the responses for RSM. After optimization, myoglobin-free beef patties were prepared with three optimized levels of BP and CC. When raw, all the patties had the same color as natural beef; however, CIE L*, CIE a*, and CIE b* were statistically different from those of beef after cooking (p<0.05). Moreover, the use of BP and CC induced “browning” after the cooking process, with no excessive yellow color. Therefore, based on the overall desirability in the color optimization using RSM, the combination of BP (1.32%) and CC (1.08%) with the highest overall desirability can be used to simulate the color change of beef in meat analogs.",
+        "position": 4
+      }
+    ]
+  }
+}

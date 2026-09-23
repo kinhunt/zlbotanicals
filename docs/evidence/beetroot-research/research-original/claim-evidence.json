@@ -1,0 +1,1080 @@
+{
+  "atomic_claims": [
+    {
+      "id": "C01",
+      "claim": "Control remains red; combined treatment browns; same treatment distinctions",
+      "source_id": 30,
+      "file": "sources/laccase-2022.txt",
+      "quote": "To investigate whether SBP and LC have a synergistic effect on browning plant-based meat analogs, we added LC to pea-based patties containing BR and SBP (Fig. 1). Non-treated patties containing BR + methylcelullose (MC) were used as controls. After grilling, a red liquid resembling fresh meat juices exuded from the control patties, whereas the LC-treated patties containing BR + MC + SBP did not exude liquid (Fig. S1). The red color tones of non-treated and LC-treated patties with BR + MC were not affected by the grilling process (Fig. 1). The color of non-treated patties containing SBP did not change either (data not shown). In contrast, LC-treated patties containing BR + SBP or BR + SBP + MC developed a brown color during grilling.Figure 1The appearance of the outside and inside of the meat analog patties before and after the grilling process.",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C02",
+      "claim": "2023 uses myoglobin-removed beef, not a plant-based patty",
+      "source_id": 23,
+      "file": "sources/beet-study.txt",
+      "quote": "In a recent study, Sakai et al. (2022) showed\nthat the use of beet pigments—often used to simulate red color in meat\nanalogs—is associated with the appearance of a yellow-like brown color after\nthermal treatment when used in plant-based analogs. Herein, we simulated the color\nof raw and cooked beef patty samples by combining beet powder (BP) and caramel color\n(CC). We hypothesized that CC could partially simultaneously offset the high\nbrightness in raw samples and the excessive CIE b* in cooked samples that was caused\nby BP. We selected beef as reference material and utilized myoglobin-removed beef to\nproduce patties incorporating BP and CC to investigate whether BP and CC can\npotentially replicate beef color even in the meat analogs based on animal tissues.\nThis approach enabled us to assess the impact of BP and CC on the color\ncharacteristics of the patties in the absence of myoglobin. The novelty of this work\nis a multivariate statistical approach using response surface methodology (RSM) to\noptimize the levels of BP and CC to simulate the color of beef before and after\ncooking by considering the interactions between the two pigments.",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C03",
+      "claim": "Six responses and optimization metric",
+      "source_id": 23,
+      "file": "sources/beet-study.txt",
+      "quote": "In RSM, desirability analysis was used to perform the multi-objective\noptimization considering a total of six responses: before and after cooking CIE\nL*, CIE a*, and CIE b*. The independent variables BP and CC were employed to\noptimize the responses by setting the nominal best characteristics as the color\nof beef. We obtained three solutions with the highest overall desirability. The\nsetting satisfying the highest desirability values close to 1 is considered to\nbe the optimum condition. Table 4 shows\nthree combinations of the BP and CC with the highest overall desirability.\nAlthough the overall desirability of 1 was set as the goal (Yolmeh and Jafari, 2017), the six responses\nthat we optimized to simulate BP before and after cooking resulted in overall\ndesirability values between 0.60 and 0.65 for the combined objectives.",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C04",
+      "claim": "Exact percentages and desirability scores",
+      "source_id": 23,
+      "file": "sources/beet-study.txt",
+      "quote": "Table 4.Optimum levels of the variables to achieve the desired color of\nresponse variables (CIE L*, CIE a*, and CIE b* of beef\nsemitendinosus before and after cooking) with\nmaximum overall desirabilitySolutionsBP (%)CC (%)Overall desirabilitySolution 11.321.080.65Solution 21.801.010.61Solution 31.301.510.60BP, beet powder; CC, caramel color.",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C05",
+      "claim": "Exact raw/cooked a* and b* numbers",
+      "source_id": 23,
+      "file": "sources/beet-study.txt",
+      "quote": "Table 3.Color attributes (CIE L*, CIE a*, and CIE b*) of beef\nsemitendinosus and the patty (before and after\ncooking) that were made by the optimized composition according to the\noverall desirabilityColor attributeTreatmentsBefore cookingAfter cookingSEMCIE L*Beef34.00b45.05Ba1.127Solution 136.46b48.97Aa0.409SEM1.0390.598Beef34.00b45.05Ba1.127Solution 235.75b50.01Aa0.288SEM1.0371.127Beef34.00b45.05a1.127Solution 333.72b46.04a0.309SEM1.0380.536CIE a*Beef21.76a6.69Bb0.721Solution 120.84a11.04Ab0.330SEM0.7060.361Beef21.76a6.69Bb0.721Solution 223.68a11.38Ab0.350SEM0.7050.381Beef21.76a6.69Bb0.721Solution 319.62a11.60Ab0.194SEM0.7020.254CIE b*Beef18.33a14.62Bb0.900Solution 119.39b25.18Aa0.440SEM0.7580.654Beef18.33a14.62Bb0.900Solution 218.25b25.62Aa0.351SEM0.7510.607Beef18.33a14.62Bb0.900Solution 320.51b26.64Aa0.357SEM0.7510.611A,BDifferent uppercase letters indicate significant differences between\nmeans (p<0.05).a,bDifferent lowercase letters indicate significant differences between\nmeans (p<0.05).",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C06",
+      "claim": "Discussion favors solution 3 and admits cooked mismatch",
+      "source_id": 23,
+      "file": "sources/beet-study.txt",
+      "quote": "Next, the validation of the optimum values was conducted to evaluate the\nperformance properties of the input parameters. A set of experiments was\nconducted by setting the optimum levels of BP and CC using the same experimental\nsteps to obtain the model, and the output color responses were measured (Table 3). Results showed that the AAD of\nthe patties made by the optimized solutions was below 14%, compared to\nthe predicted values (Supplementary Table S2), indicating that the fitted model\nsuccessfully predicted the responses. There were no significant color\ndifferences between the patties made by the levels of three optimized solutions\nand real raw beef (p>0.05). This indicates that the optimized levels of\nBP and CC could well simulate the color of raw beef. However, after cooking, all\nthe color parameters of the three patties had significant differences compared\nto real cooked beef (p<0.05) except for solution 3 where there was no\nsignificant difference between the CIE L* of the patty and that of the real beef\n(p>0.05). This result implies that the combination of BP and CC could not\naccurately simulate the color of cooked beef. This might be related to the\nrelatively low desirability (Table 4) for\nwhich we had to use six responses during the optimization. Nevertheless, the\noptimized levels of the three solutions showed similar trends in the CIE L*\n(increasing) and the CIE a* (decreasing) after cooking. However, the CIE b* of\nthe patties increased after cooking, while the CIE b* of the real beef decreased\nafter cooking. Moreover, as Figs. 1C and\nD show, the patties that were made by\nthe levels suggested by solutions 1, 2, and 3 exhibited a color appearance\nsimilar to real beef. The combination of BP and CC also successfully simulated\nthe color change from red to brown upon cooking, judged by the reduction of the\nexcessive yellow-like-brown color to some degree. A lower CIE a* in the patties\ncompared to beef was probably due to the color offset caused by the increase in\nthe CIE b*, simulating the thermally induced “browning” of beef.\nIn Fig. 1E, the appearance of oven-cooked\npatties is represented. Solution 3 had the most color similarity to beef, and\nits CIE L* after cooking showed no significant difference from that of beef.\nTherefore, considering the results in both the instrumental color and the\nappearance of the patties, 1.30% of BP and 1.51% of CC can be the\noptimum condition to simulate beef color.",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C07",
+      "claim": "Conclusion favors solution 1",
+      "source_id": 23,
+      "file": "sources/beet-study.txt",
+      "quote": "This study aimed at stimulating the thermally induced color changes that beef\nundergoes during cooking. Combinations of BP and CC were used to replicate the\n“browning” of beef. Five levels of BP and CC were obtained by the\ncentral composite design of RSM. The obtained models for the six responses (CIE L*,\nCIE a*, and CIE b* before and after cooking) had great accuracy in predicting the\nresponse when we monitored the coefficient of determination, p value in lack-of-fit\ntest, residual analysis, and AAD. Using the desirability function, we obtained three\nsolutions for optimized levels of BP and CC: 1.32% of BP and 1.08% of\nCC, 1.80% of BP and 1.01% CC, and 1.30% of BP and 1.51%\nof CC. The patties of which color was designed by combining the optimized levels of\nBP and CC were able to successfully simulate the color of raw beef. However, the\ncooked patties had different colors when compared with the cooked beef.\nNevertheless, the combination of the BP and CC could well simulate the thermally\ninduced increase in the CIE L* and the decrease in the CIE a* caused by cooking.\nMoreover, the appearances of the patties were also comparable with the beef before\nand after cooking. Therefore, the combination of 1.32% of BP and 1.08%\nCC, with the highest overall desirability in this study, can be used to simulate the\nchanges in the beef color from red to brown during cooking.",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C08",
+      "claim": "Material identities and brands",
+      "source_id": 30,
+      "file": "sources/laccase-2022.txt",
+      "quote": "Granule-type pea-based textured vegetable protein (TVP) and sugar beet pectin (GENU pectin type BETA BI-J) were obtained from SANSHO Co., Ltd. (Tokyo, Japan). BR pigments and pea protein isolate (PPI) were purchased from KUMAMOTO BEET RED Co., Ltd. (Kumamoto, Japan) and Roquette Frères (Lestrem, France), respectively. Ground beef was obtained from a local supermarket in Nagoya (Japan). LC (LC-Y120; Amano Enzyme Inc., Nagoya, Japan) is a commercially available food-grade product. According to the manufacturer’s instructions, the optimal reaction temperature for LC is 60 °C, with a preferred temperature range of 40–70 °C (> 80% activity).",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C09",
+      "claim": "Exact table coordinates ± notation",
+      "source_id": 30,
+      "file": "sources/laccase-2022.txt",
+      "quote": "To investigate the color change in greater detail, the objective color attributes of the patties after grilling were measured using a colorimeter (Fig. 2). The color tone of the LC-treated patties containing BR + MC was slightly different from that of the control (Fig. 2a,b). Compared with the control, the reflectance of LC-treated patties containing BR + SBP or BR + SBP + MC increased in the 500–600 nm range and decreased in the 600–700 nm range (Fig. 2b,d). This indicates that the color of the patties changed from red to brown. Interestingly, the reflectance difference of LC-treated patties containing BR + SBP + MC was higher than that of LC-treated patties containing BR + MC (Fig. 2b,d). We also evaluated the color change of beef patties grilled under the same conditions. Similar to that of the LC-treated patties, the reflectance of beef patties also increased in the 500–600 nm range and decreased in the 600–700 nm range (Fig. 2g,h). The waveform comparisons of non-treated patties containing MC (control) with meat before grilling and LC-treated patties containing BR + SBP or BR + SBP + MC with meat after grilling were similar (Fig. S3). Next, the color of the meat analog patties was characterized using the L*a*b* coordinates (Table 1). It is indicated that a* (redness) decreased and b* (yellowness) increased in LC-treated patties containing BR + SBP or BR + SBP + MC after grilling. Similarly, a* decreased and b* increased under the same conditions in beef patties. The L* value (lightness) of LC-treated patties containing SBP was higher than that of patties without SBP. At the same time, the decrease rate in the L* value of animal-based patties was higher than plant-based patties. These findings of reflectance and L*a*b* values indicated that the browning system for BR by LC + SBP in plant-based patties could effectively imitate the color changes of animal-based patties.Figure 2Reflectance of meat analog patties and beef patties. The reflectance values of (a,b) LC-treated patties containing BR + MC, (c,d) LC-treated patties containing BR + SBP, and (e,f) LC-treated patties containing BR + MC + SBP were measured using a colorimeter. Non-treated patties with BR + MC were used as controls. (g,h) Beef patties before and after grilling.Table 1Objective color measurements (L*a*b*) coordinates of plant-based and animal-based patties.FormulationMCSBPBRLCGrilling processL*a*b*Non-treated patty with BR + MC (control) + − + −Before48.7 ± 1.748.5 ± 0.93.9 ± 1.1After45.1 ± 2.147.9 ± 1.03.9 ± 0.5LC-treated patty with BR + MC + − +  + Before47.9 ± 3.548.4 ± 0.63.6 ± 1.0After44.6 ± 1.747.0 ± 2.83.5 ± 0.5LC-treated patty with BR + SBP− +  +  + Before53.7 ± 2.447.9 ± 2.43.8 ± 1.4After52.7 ± 1.19.3 ± 1.143.5 ± 2.2LC-treated patty with BR + MC + SBP +  +  +  + Before55.6 ± 0.848.3 ± 3.23.7 ± 2.1After54.1 ± 1.59.4 ± 1.646.6 ± 1.8Beef patty + −−−Before54.8 ± 0.655.1 ± 1.73.5 ± 0.9After45.2 ± 1.54.0 ± 1.339.7 ± 1.3",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C10",
+      "claim": "Putative ferulate-mediated oxidation and crosslink mechanism",
+      "source_id": 30,
+      "file": "sources/laccase-2022.txt",
+      "quote": "Figure S4 shows the putative browning and SBP-protein crosslinking reactions involved in plant-based meat analog patties treated with LC. As shown in Reaction 1, ferulates in SBP are oxidized by LC and O2, producing feruloyl radicals. This radical indirectly oxidized betanin by acting as an LC mediator (Reaction 2). Also, betanin would be a substrate for LC because it is a typical phenolic compound (Reaction 3). Betanin (red) is degraded to betalamic acid (yellow) and cyclodopa (colorless) via feruloyl radical-catalyzed indirect oxidation (Reaction 2) and LC-catalyzed direct oxidation (Reaction 3). Therefore, it is suggested that LC-catalyzed oxidation in the presence of SBP synergistically caused a red-to-brown color change in plant-based meat analogs containing BR. In the next step, cyclodopa is formed via Reactions 2 and 3, which is further oxidized to form radicalized cyclodopa (Reaction 4). This radical indirectly oxidizes the ferulates in SBP and the tyrosine residues in protein, producing feruloyl radicals and tyrosyl radicals (Reaction 5). LC-catalyzed oxidation also produces these radicals (Reaction 6). Finally, feruloyl radicals and tyrosyl radicals spontaneously crosslinked, subsequently producing SBP-protein crosslinks (Reaction 7). Therefore, it is suggested that cyclodopa radical-catalyzed indirect oxidation (Reaction 5) and the LC-catalyzed direct oxidation (Reaction 6) act synergistically to form SBP-protein crosslinks, resulting in enhanced physical properties of plant-based meat analog patties. LC-catalyzed oxidation reactions in the presence of SBP effectively facilitated BR browning reactions and SBP-protein crosslinking reaction through the above-mentioned reactions.",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C11",
+      "claim": "Hardness and chewiness measured; not consumer preferences",
+      "source_id": 30,
+      "file": "sources/laccase-2022.txt",
+      "quote": "The physical properties of meat analog patties containing BR were investigated (Fig. 3). Similar to a previous study37, non-treated patties containing SBP did not display moldability or binding ability. Interestingly, the hardness and chewiness values of LC-treated patties containing MC + BR were slightly higher than those of LC-treated patties containing MC (Fig. 3a,d). Moreover, the hardness and chewiness values of LC-treated patties containing SBP + BR were significantly higher than those of LC-treated patties containing SBP (Fig. 3a,d). While the hardness and chewiness values of these patties were lower than those of the beef patties, the cohesiveness and springiness values were similar to those beef patties (Fig. 3a,d). These findings indicated that LC enhanced the physical properties of plant-based patties containing BR, especially in the presence of SBP.Figure 3Texture profile analysis of meat analog patties containing BR and beef patties. (a) Hardness, (b) Cohesiveness, (c) springiness, (d) chewiness. Data are presented as mean ± standard deviation of five experiments. *p < 0.05, **p < 0.01, Student’s t-test.",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C12",
+      "claim": "Cooking loss qualitative effect only, do not reuse ambiguous percent reduction",
+      "source_id": 30,
+      "file": "sources/laccase-2022.txt",
+      "quote": "We measured the cooking loss of the different formulations of plant-based meat analog patties (Fig. 4). Cooking loss, which reflects the degree of meat shrinkage during cooking, is an important indicator of the juiciness and yield of the final product. The cooking loss of patties containing SBP was lower than that of patties without SBP (Fig. 4). The presence of SBP in the formulation reduced the cooking loss by 4.4–5.2%, compared to that in the absence of SBP. Our previous study also reported a similar phenomenon in which LC-induced SBP-protein crosslinks reduced the cooking loss and improved the water/oil holding capacity of meat analog patties37. The use of MC as a binder is associated with the problem of low water/oil holding capacity37,52,57. In fact, a red liquid that looked like fresh meat juices exuded from non-treated patties containing BR + MC after the grilling process (Fig. S1). This is an unacceptable phenomenon for consumers and manufacturers. However, the LC-treated patties containing BR + MC + SBP exuded no such liquid (Fig. S1). This effect also occurred with LC-treated patties containing BR + SBP (data not shown). These findings indicate that enhancing the water holding capacity by adding SBP and LC to the formulation could overcome these unacceptable phenomena and enhance the juiciness of plant-based meat analog patties.Figure 4Cooking loss values of meat analog patties and beef patties. Cooking loss was calculated as the percentage weight difference between the dough before and after grilling. *p < 0.05, Student’s t-test.",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C13",
+      "claim": "2022 formulation and cooking conditions",
+      "source_id": 30,
+      "file": "sources/laccase-2022.txt",
+      "quote": "The base of the TVP matrix was prepared using TVPs and a binder (MC or SBP), followed by the addition of olive oil, BR, and PPI (Table S1). First, dried TVP was immersed in water (1:5 mass-to-volume ratio) for 2 h for hydration. After dehydrating the swollen TVP, it was mixed with 2.0% SBP or 2.0% MC at the final concentration. Thereafter, 5 g water, 8 g olive oil, 2.5 g PPI, and 0.5 g BR were added to each 25 g of TVP matrix. The samples were blended for 60 s using a hand blender. Thereafter, LC was added to the TVP matrix and blended for 60 s. The TVP matrix was molded (60 mm × 40 mm area and 25 mm height). The matrix was then cooked at 150 °C for 15 min and cooled to room temperature (20–25 °C) before being used for further analysis.",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C14",
+      "claim": "2024 materials soy not pea TVP",
+      "source_id": 28,
+      "file": "sources/jstage-full.txt",
+      "quote": "Granule-type soy-based TVP (textured vegetable protein) was purchased from Marukome Co., Ltd. (Nagano, Japan). BR pigment (mainly contains betanidin) was purchased from KUMAMOTO BEET RED Co., Ltd. (Kumamoto, Japan). Betanidin, cyclodopa, and betalamic acid were synthesized in small quantities by MuseChem Chemicals Inc. (Fairfield, NJ, USA). Sugar beet pectin and pea protein isolate were obtained from SANSHO Co., Ltd. (Tokyo, Japan) and Roquette Frères (Lestrem, France), respectively. LC (Laccase Y120; Amano Enzyme, Inc., Nagoya, Japan) is a commercially available food-grade product.\nPreparation of PBMA patties\nPBMA patties (50 g) were prepared as previously described (\nSakai\net al.\n, 2022a\n). First, 25 g of dried TVP was immersed in water (1:5 mass-to-volume ratio) for 2 h for hydration. The TVP increased in weight by approximately 2.5 times to 62.5 g by absorbing water. The TVP was then dehydrated to a weight of 32 g. After dehydration, 32 g of swollen TVP was mixed with 1 g methylcellulose (MC), 5 g water, 1 g sugar beet pectin, 2.5 g pea protein isolate, 8 g olive oil, and 0.5 g BR, and then blended for 60 sec. Subsequently, 20.8 mg (1 250 U) LC was added and blended for 60 sec. The raw patties were immediately molded (60 × 40 × 25 mm [length × width × height]) and then cooked at 150 °C for 15 min in an oven (DGC6800; Miele Japan Corp., Tokyo, Japan). As a result of oven cooking, the patties were grilled on one side under this condition. The internal temperature of the patties was monitored using a 5.0 cm digital thermometer equipped with the oven. The sensor of the thermometer was made of stainless steel, and the entire length of the sensor was inserted to pass through the center point of the PBMA patty with a 60 mm length. After the grilling process, the cooked patties were cooled to room temperature (20-25 °C). Control PBMA patties were prepared under the same conditions except that LC was not added.\nThermostability of LC\nLC was extracted from the PBMA patties of each grilling process to evaluate its thermostability. Finely crushed patties (10 g) were soaked in water (1:5 mass-to-volume ratio) for 20 min, and 60 mL of the mixtures were centrifuged at 15 000\ng\nfor 10 min. After centrifugation, the supernatants were concentrated to 0.6 mL at 5 000\ng\nusing an ultrafiltration device (Amicon® Ultra-15 Centrifugal Filter Unit, Merck Millipore, Burlington, MA",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C15",
+      "claim": "2024 cooking and preparation details",
+      "source_id": 28,
+      "file": "sources/jstage-full.txt",
+      "quote": "PBMA patties (50 g) were prepared as previously described (\nSakai\net al.\n, 2022a\n). First, 25 g of dried TVP was immersed in water (1:5 mass-to-volume ratio) for 2 h for hydration. The TVP increased in weight by approximately 2.5 times to 62.5 g by absorbing water. The TVP was then dehydrated to a weight of 32 g. After dehydration, 32 g of swollen TVP was mixed with 1 g methylcellulose (MC), 5 g water, 1 g sugar beet pectin, 2.5 g pea protein isolate, 8 g olive oil, and 0.5 g BR, and then blended for 60 sec. Subsequently, 20.8 mg (1 250 U) LC was added and blended for 60 sec. The raw patties were immediately molded (60 × 40 × 25 mm [length × width × height]) and then cooked at 150 °C for 15 min in an oven (DGC6800; Miele Japan Corp., Tokyo, Japan). As a result of oven cooking, the patties were grilled on one side under this condition. The internal temperature of the patties was monitored using a 5.0 cm digital thermometer equipped with the oven. The sensor of the thermometer was made of stainless steel, and the entire length of the sensor was inserted to pass through the center point of the PBMA patty with a 60 mm length. After the grilling process, the cooked patties were cooled to room temperature (20-25 °C). Control PBMA patties were prepared under the same conditions except that LC was not added.\nThermostability of LC\nLC was extracted from the PBMA patties of each grilling process to evaluate its thermostability. Finely crushed patties (10 g) were soaked in water (1:5 mass-to-volume ratio) for 20 min, and 60 mL of the mixtures were centrifuged at 15 000\ng\nfor 10 min. After centrifugation, the supernatants were concentrated to 0.6 mL at 5 000\ng\nusing an ultrafiltration device (Amicon® Ultra-15 Centrifugal Filter Unit, Merck Millipore, Burlington, MA, USA) with a molecular weight cut-off of 3 000 Da, according to the manufacturer’s instructions. Subsequently, these concentrates were added with 60 mL of 100 mM sodium phosphate buffer (pH 7.0) and concentrated to 0.6 mL under the same conditions. This operation was repeated three times. Using 0.1 mL of buffer exchanged and concentrated LC solution, the LC-catalyzed reaction was assayed in 1.0-mL reaction mixtures containing 100 mM sodium phosphate buffer (pH 7.0) and 5 mM ABTS (2,2′-azino-di-[3-ethylbenzthiazoline sulphonate]). The oxidation of ABTS by LC-catalyzed reaction was monitored at 50 °C for 30 min ",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C16",
+      "claim": "Internal ~85°C at 10min, residual activity undetectable",
+      "source_id": 28,
+      "file": "sources/jstage-full.txt",
+      "quote": "First, the thermostability of LC during the grilling process was investigated (\nFig. 1\n). As the grilling process progressed, the internal temperature of PBMA patties gradually increased and reached a plateau at 85 °C for 10 min. Similarly, the residual activity of LC in the PBMA patties gradually decreased as the internal temperature increased and was undetectable at 10 min. This result indicated that LC-catalyzed oxidation of betanidin occurred for 10 min and LC was then denatured by overheating. Therefore, we decided to intermittently sample PBMA patties from 0 to 10 min and extract betanidin reactants.\nFig. 1\nThermostability of LC in PBMA patties during oven grilling process.\nThe PBMA patties were then grilled in an oven (150 °C, 15 min). The thermostability of LC in the PBMA patties (open circles) and the internal temperature of the PBMA patties (closed circles) were measured. Error bars represent the mean ± standard error of the mean of four independent experiments.\nNext, to evaluate the extraction efficiency, hippuric acid as an internal standard substance was extracted from the patty every 5 min during the grilling process. As a result, the extraction efficiency of hippuric acid from patties before (0 min) and after every 5-min grilling process was 80, 78, 83, and 81 % respectively. Under the same conditions, the extraction efficiency of betanidin was 77, 81, 78, and 79 %, respectively. Therefore, the extraction efficiency of hippuric acid and betanidin from PBMA patties was approximately 80 % regardless of the grilling time.\nThen, the reaction products from betanidin obtained via LC oxidation were extracted from the patties and analyzed using gel filtration HPLC (\nFig. 2\n). During the 15-min grilling process, four peaks were detected. Of these, peaks with RT of 9.5, 12, and 14 min had the same RT as those of betanidin, betalamic acid, and cyclodopa, respectively, when compared to the high purity standards. Each peak was collected, and the fractions with RT of 2–4, 9.5, 12, and 14 min displayed as brown, red, yellow, and colorless, respectively (data not shown).\nFig. 2\nIdentification of reaction products from betanidin oxidized by LC in PBMA patties.\nThe reaction products of betanidin were extracted from the PBMA patties. The extracts from LC-catalyzed patties (A) and control patties (B) were analyzed using HPLC. The solutions containing betalamic ac",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C17",
+      "claim": "Controls and proposed cleavage/polymerization",
+      "source_id": 28,
+      "file": "sources/jstage-full.txt",
+      "quote": "Next, we investigated at which step the LC-catalyzed reaction is important for the browning reaction (\nFig. 2B-D\n). As a result of preparing control PBMA patties containing BR (in the absence of LC), only betanidin was detected in the extract from control patties after the 15-min grilling process (\nFig. 2B\n). This finding could support that the LC-catalyzed reaction was involved in the oxidative cleavage of betanidine to betalamic acid and cyclodopa. Moreover, as a result of treating betalamic acid and cyclodopa with LC in solution, unknown brown polymers were produced and detected at RTs of 2–3 min (\nFig. 2D\n), similar to\nFig. 2A\n. In contrast, no such reaction occurred in the absence of LC (\nFig. 2C\n). This finding could support that the LC-catalyzed reaction was also involved in the oxidative polymerization of betalamic acid and cyclodopa to brown polymers. Therefore, the two findings suggest that LC-catalyzed oxidation in PBMA patties could degrade betanidin (red) to betalamic acid (yellow) and cyclodopa (colorless), subsequently polymerizing these degradation products to produce unknown brown polymers (\nFig. 3\n).\nFig. 3\nPutative LC-catalyzed reactions of color change (red to brown) in PBMA patties.\nFig. 3\nshows that the LC reaction products of betanidin were betalamic acid, cyclodopa, and unknown brown polymers. Betalamic acid, an intermediate of betanidin synthesis, has been identified as a natural yellow pigment in plants such as beetroot, cactus, and amaranth (\nKimler\net al.\n, 1971\n;\nGonzález-Ponce\net al.\n, 2020\n). Cyclodopa, a major tyrosine-derived metabolite in diverse organisms, is a melanin precursor in animals (\nIto, 2003\n) and a betalain pigment in plants (\nGandía-Herrero and García-Carmona, 2013\n). Further, humans and animals have been ingesting foods containing betalamic acid or cyclodopa for many years. In fact, it is known that some commercially available BR pigments include both betalamic acid and cyclodopa as betanidin fragments/metabolites and their safety has been confirmed (\nEFSA, 2015\n). It is possible that the unknown brown polymers (RT 2–4 min) may be melanin-like polymers (\nFig. 3\n). Melanin is a brownish pigment and is also produced by LC-catalyzed oxidation in animals, plants, insects, and some fungi (\nIto, 2003\n;\nGlagoleva\net al.\n, 2020\n;\nSugumaran and Barek, 2016\n;\nNosanchuk\net al.\n, 2015\n). In the melanin production pathway, LC oxidizes phenols (such as cyclodopa, L-dopa, L-tyrosine, and 5-cysteine-dopa) and then these LC-radicalized phenols polymerize with each other, finally producing melanin with a wide molecular weight range (300–10 000 g/mol) (\nEisenman, 2007\n;\nJia\net al.\n, 2017\n;\nSolano\net al.\n, 2014\n;\nMeng and Kaxiras, 2008\n;\nBrian Nofsinger and Simon, 2001\n;\nLiu and Simon, 2003\n). Also, LC can oxidize the dihydropyridine backbone of betalamic acid because of its broad substrate specificity (\nSimić\net al.\n, 2020\n;\nAbdel-Mohsen\net al.\n, 2012\n). These findings suggest that LC could oxidize and radicalize the phenol backbone of cyclodopa and the dihydropyridine backbone of betalamic acid, which are potentially polymerized by each other. Thus, the unknown brown polymers might be formed by polymerizing the betalamic acid and cyclodopa radicalized by LC-catalyzed oxidation.\nConclusions\nOne of the unresolved challenges for PBMA products is the color change induced by grilling. A recent study proposed a novel browning system for PBMA products containing betanidin and laccase to simulate the color changes found in animal meat. However, an increase in clean-label trends has led consumers to demand more detailed explanations about the mechanisms and reaction products of chemical reactions in food. Thus, this study aimed to clarify the reaction products of betanidin oxidation via LC-catalyzed oxidation. As a result, LC-catalyzed oxidation in PBMA patties could degrade betanidin (red) to betalamic acid (yellow) and cyclodopa (colorless), subsequently polymerizing these degradation products to produce unknown brown polymers. These findings provide suggestions for the browning mechanism of PBMA patties containing betanidin via LC-catalyzed oxidation.\nAcknowledgements\nWe would like to thank Editage for the English language editing. We thank Ms. Mari Hayakawa for her support during the experiments.",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C18",
+      "claim": "Cut-off loss cannot be quantified",
+      "source_id": 28,
+      "file": "sources/jstage-full.txt",
+      "quote": "The brown compounds at an estimated 3 000–5 000 g/mol were detected in the extract from the PBMA patties, even though compounds with a molecular weight >1 000 Da were cut off in advance (\nFig. 2A\n). Referring to the manufacturer’s instruction manual, the loss rate (outflow rate to filtration fraction) by cut-off treatment is approximately 10 %, but the smaller the target size, the higher the loss rate. In contrast, the content of pea proteins with larger molecular weights was extremely low in the filtration fraction and undetected using HPLC analysis (\nFig. 2\n). Therefore, it was suggested that the brown compounds with an estimated molecular weight of 3 000–5 000 g/mol partially or mostly passed through the 1,000 Da cut-off column. In this study, the loss rate of brown compounds after column treatment cannot be quantified, so further research is required in the future.\nNext, we investigated at which step the LC-catalyzed reaction is important for the browning reaction (\nFig. 2B-D\n). As a result of preparing control PBMA patties containing BR (in the absence of LC), only betanidin was detected in the extract from control patties after the 15-min grilling process (\nFig. 2B\n). This finding could support that the LC-catalyzed reaction was involved in the oxidative cleavage of betanidine to betalamic acid and cyclodopa. Moreover, as a result of treating betalamic acid and cyclodopa with LC in solution, unknown brown polymers were produced and detected at RTs of 2–3 min (\nFig. 2D\n), similar to\nFig. 2A\n. In contrast, no such reaction occurred in the absence of LC (\nFig. 2C\n). This finding could support that the LC-catalyzed reaction was also involved in the oxidative polymerization of betalamic acid and cyclodopa to brown polymers. Therefore, the two findings suggest that LC-catalyzed oxidation in PBMA patties could degrade betanidin (red) to betalamic acid (yellow) and cyclodopa (colorless), subsequently polymerizing these degradation products to produce unknown brown polymers (\nFig. 3\n).\nFig. 3\nPutative LC-catalyzed reactions of color change (red to brown) in PBMA patties.\nFig. 3\nshows that the LC reaction products of betanidin were betalamic acid, cyclodopa, and unknown brown polymers. Betalamic acid, an intermediate of betanidin synthesis, has been identified as a natural yellow pigment in plants such as beetroot, cactus, and amaranth (\nKimler\net al.\n, 1971\n;\nG",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C19",
+      "claim": "Unknown polymer / possible melanin not confirmed",
+      "source_id": 28,
+      "file": "sources/jstage-full.txt",
+      "quote": "It is possible that the unknown brown polymers (RT 2–4 min) may be melanin-like polymers (\nFig. 3\n). Melanin is a brownish pigment and is also produced by LC-catalyzed oxidation in animals, plants, insects, and some fungi (\nIto, 2003\n;\nGlagoleva\net al.\n, 2020\n;\nSugumaran and Barek, 2016\n;\nNosanchuk\net al.\n, 2015\n). In the melanin production pathway, LC oxidizes phenols (such as cyclodopa, L-dopa, L-tyrosine, and 5-cysteine-dopa) and then these LC-radicalized phenols polymerize with each other, finally producing melanin with a wide molecular weight range (300–10 000 g/mol) (\nEisenman, 2007\n;\nJia\net al.\n, 2017\n;\nSolano\net al.\n, 2014\n;\nMeng and Kaxiras, 2008\n;\nBrian Nofsinger and Simon, 2001\n;\nLiu and Simon, 2003\n). Also, LC can oxidize the dihydropyridine backbone of betalamic acid because of its broad substrate specificity (\nSimić\net al.\n, 2020\n;\nAbdel-Mohsen\net al.\n, 2012\n). These findings suggest that LC could oxidize and radicalize the phenol backbone of cyclodopa and the dihydropyridine backbone of betalamic acid, which are potentially polymerized by each other. Thus, the unknown brown polymers might be formed by polymerizing the betalamic acid and cyclodopa radicalized by LC-catalyzed oxidation.\nConclusions\nOne of the unresolved challenges for PBMA products is the color change induced by grilling. A recent study proposed a novel browning system for PBMA products containing betanidin and laccase to simulate the color changes found in animal meat. However, an increase in clean-label trends has led consumers to demand more detailed explanations about the mechanisms and reaction products of chemical reactions in food. Thus, this study aimed to clarify the reaction products of betanidin oxidation via LC-catalyzed oxidation. As a result, LC-catalyzed oxidation in PBMA patties could degrade betanidin (red) to betalamic acid (yellow) and cyclodopa (colorless), subsequently polymerizing these degradation products to produce unknown brown polymers. These findings provide suggestions for the browning mechanism of PBMA patties containing betanidin via LC-catalyzed oxidation.\nAcknowledgements\nWe would like to thank Editage for the English language editing. We thank Ms. Mari Hayakawa for her support during the experiments.\nAuthor contributions\nKS designed and performed the experiments. KS, MO, and SY managed the project. KS wrote the manuscript. All the authors have read and approved the final version of the manuscript.\nFunding\nThis research received no external funding.\nConflict of interest\nThere are no conflicts of interest to declare.\nData availability\nAll data generated or analyzed during this study are included in this published article and its supplementary information files.\nAbbreviations\nBR\nbeet red\nLC\nlaccase\nPBMA\nplant-based meat analog\nRT\nretention time\nMC\nmethylcellulose\nTVP\ntextured vegetable protein\nABTS\n2,2′-azino-di-[3-ethylbenzthiazoline sulphonate]\nReferences\nAbdel-Mohsen,  H.T.,  Conrad,  J., and  Beifuss,  U. (2012) Laccase-catalyzed oxidation of Hantzsch 1, 4-dihydropyridines to pyridines and a new one pot synthesis of pyridines.\nGreen Chem.\n,\n14\n, 2686–2690.\nAlfaifi,  B.M.,  Al-Ghamdi,  S.,  Othman,  M.B.,  Hobani,  A.I., and  Suliman,  G.M. (2023) Advanced Red Meat Cooking Technologies and Their Effect on Engineering and Quality Properties: A Review.\nFoods\n,\n12\n, 2564.\nBakhsh,  A.,  Lee,  E.Y.,  Ncho,  C.M.,  Kim,  C.J.,  Son,  Y.M.,  Hwang,  Y.H., and  Joo,  S.T. (2022) Quality Characteristics of Meat Analogs through the Incorporation of Textured Vegetable Protein: A Systematic Review.\nFoods\n,\n11\n, 1242.\nBohrer,  B.M. (2019) An investigation of the formulation and nutritional composition of modern meat analogue products.\nFood Sci. Hum. Wellness\n,\n8\n, 320–329.\nBrian Nofsinger,  J., and  Simon,  J.D. (2001) Radiative Relaxation of Sepia Eumelanin is Affected by Aggregation.\nPhotochem. Photobiol.\n,\n74\n, 31–37.\nBuchert,  J.,  Ercili Cura,  D.,  Ma,  H.,  Gasparetti,  C.,  Monogioudi,  E.,  Faccio,  G.,  Mattinen,  M.,  Boer,  H.,  Partanen,  R.,  Selinheimo,  E.,  Lantto,  R., and  Kruus,  K. (2010) Crosslinking food proteins for improved functionality.\nAnnu. Rev. Food Sci. Technol.\n,\n1\n, 113–138.\nEFSA Panel on Food Additives and Nutrient Sources added to Food. (2015). Scientific Opinion on the re-evaluation of",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C20",
+      "claim": "Dose denominator U/g TVP; table 50; not g final patty",
+      "source_id": 31,
+      "file": "sources/laccase-supplement.txt",
+      "quote": "Table S1. Mixing amounts of additives or enzymes in plant-based meat analog patties.\nFormulation\nWet TVP (g)\nGround beef(g)\nWater(g)\nOil(g)\nPPI(g)\nBR(g)\nMC(%)\nSBP(%)\nLC(U/g TVP)\nNon treated patty with BR + MC (Control)\n25\n-\n5\n8\n2.5\n0.5\n2\n-\n-\nLC-treated patty with BR + MC\n25\n-\n5\n8\n2.5\n0.5\n2\n-\n50\nLC-treated patty with BR + SBP\n25\n-\n5\n8\n2.5\n0.5\n-\n2\n50\nLC-treated patty with BR + MC + SBP\n25\n-\n5\n8\n2.5\n0.5\n2\n2\n50\nBeef patty\n-\n35\n5\n-\n-\n-\n2\n-\n-\n\n",
+      "exact_substring_verified": true
+    },
+    {
+      "id": "C21",
+      "claim": "2022/2024 authors are Amano Enzyme affiliated; not independent replication",
+      "source_ids": [
+        28,
+        30
+      ],
+      "file": "sources/laccase-affiliation.txt",
+      "quote": "grid.508898.40000 0004 1763 7331Amano Enzyme Inc. Innovation Center, Kakamigahara, Japan ",
+      "exact_substring_verified": true
+    }
+  ],
+  "draft_paragraph_map": [
+    {
+      "language": "en",
+      "paragraph": 1,
+      "text": "# Why does beet-red plant-based meat stay red after cooking? Where sugar beet pectin and laccase fit",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "en",
+      "paragraph": 2,
+      "text": "Making a plant-based patty look red before cooking is not the same task as making it turn an appropriate brown afterward. In a study by Sakai and colleagues, control patties containing beet red and methylcellulose remained visibly red after grilling; formulations combining laccase with sugar beet pectin showed a pronounced red-to-brown change.[30]",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 3,
+      "text": "If a patty looks convincing raw but stays red when cooked, a more heat-resistant red ingredient is not necessarily the answer. The useful question is whether the formulation needs to preserve its color or change it during cooking. Two routes deserve separate consideration: adjusting the underlying shade and creating a reaction within the food matrix.",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "en",
+      "paragraph": 4,
+      "text": "## Adjusting the shade is not the same as creating a color transition",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "en",
+      "paragraph": 5,
+      "text": "A 2023 study by Lee and colleagues combined beet powder with caramel color, optimizing six responses together: L*, a*, and b* before and after cooking. L* describes lightness, while a* and b* are the red–green and yellow–blue axes.[23][30]",
+      "source_ids": [
+        23,
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 6,
+      "text": "There is an important qualification. Despite “meat analogs” in the title, this experiment did not use a soy- or pea-based patty. The researchers repeatedly washed beef to remove myoglobin, then added the colors to that model.[23] It can help explain the interaction between two coloring ingredients. It does not establish a working inclusion rate for a plant-protein formulation.",
+      "source_ids": [
+        23
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 7,
+      "text": "The combination with the highest overall desirability contained 1.32% beet powder and 1.08% caramel color, with a desirability score of 0.65. Another combination contained 1.30% and 1.51%, respectively, with a score of 0.60.[23] Desirability is a multi-objective optimization score, not “65% similarity to beef.” The percentages are the study’s formulation levels, not pigment purity.",
+      "source_ids": [
+        23
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 8,
+      "text": "Nor did the study achieve an exact match in both states. For the first combination, Table 3 reports a* falling from 20.84 to 11.04 on cooking, compared with 21.76 to 6.69 for beef. Its b* rose from 19.39 to 25.18, whereas the beef value fell from 18.33 to 14.62.[23] Redness moved in the same direction; yellowness did not. The discussion favors the third combination when considering cooked appearance and lightness, while the conclusion recommends the first combination on overall desirability.[23] Those recommendations use different priorities.",
+      "source_ids": [
+        23
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 9,
+      "text": "The practical lesson is to avoid choosing a formula on raw redness alone. Decide whether caramel color fits the product brief, then consider raw appearance, cooked appearance, and the cut surface together. That is a suggested development approach—not a plant-based dosage recommendation derived from the beef model.",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "en",
+      "paragraph": 10,
+      "text": "## Sugar beet pectin has a role beyond thickening",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "en",
+      "paragraph": 11,
+      "text": "Sakai and colleagues’ 2022 work used a genuine plant-based system: pea-based textured vegetable protein, pea protein isolate, olive oil, and beet red. The named sugar beet pectin was GENU pectin type BETA BI-J; the laccase was Amano Enzyme’s LC-Y120.[30] These are the paper’s material identities, not evidence that any pectin or laccase can be substituted at the same level, or that a particular product is currently available.",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 12,
+      "text": "Adding laccase to patties containing beet red and methylcellulose did not produce the pronounced browning seen when laccase and sugar beet pectin were used together.[30] The a* values in Table 1 make that distinction clear:",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 13,
+      "text": "|Study formulation|a* before grilling|a* after grilling|\n|---|---:|---:|\n|Beet red + methylcellulose, without laccase|48.5 ± 0.9|47.9 ± 1.0|\n|Beet red + methylcellulose + laccase|48.4 ± 0.6|47.0 ± 2.8|\n|Beet red + sugar beet pectin + laccase|47.9 ± 2.4|9.3 ± 1.1|\n|Beet red + methylcellulose + sugar beet pectin + laccase|48.3 ± 3.2|9.4 ± 1.6|",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "en",
+      "paragraph": 14,
+      "text": "Values are transcribed from the original Table 1. The a* coordinate is dimensionless; the paper’s ± notation is retained without treating it as a guarantee of manufacturing-batch variability.[30] In this formulation, adding the enzyme and adding the enzyme together with sugar beet pectin were plainly different treatments.",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 15,
+      "text": "The authors propose that ferulate-related structures in sugar beet pectin participate in laccase-mediated oxidation, helping the pigment reaction and connecting it with protein crosslinking.[30] This is a proposed reaction explanation, not a fully established industrial mechanism. Ordinary citrus or apple pectin should therefore not be presented as a validated substitute on this evidence.",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 16,
+      "text": "Both laccase papers came from researchers affiliated with Amano Enzyme. They provide original experimental evidence, not independent replication by an outside team.[28][30]",
+      "source_ids": [
+        28,
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 17,
+      "text": "Color was not the only property affected. The research also examined changes in hardness, chewiness, and cooking loss.[30] A promising color result still needs to meet the product’s texture brief; an instrumental texture result is not evidence of consumer preference.",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 18,
+      "text": "## The useful reaction window is during heating",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "en",
+      "paragraph": 19,
+      "text": "A 2024 follow-up examined reaction products in patties containing soy-based textured vegetable protein, pea protein isolate, sugar beet pectin, and beet red.[28] That is a different base from the 2022 pea-based formulation, rather than a repeat of an identical recipe.",
+      "source_ids": [
+        28
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 20,
+      "text": "In the follow-up, patties were cooked in an oven at 150 °C for 15 minutes. Their internal temperature reached about 85 °C at 10 minutes, when extracted residual laccase activity was no longer detectable.[28] Oven temperature, internal product temperature, and enzyme activity are distinct quantities. Figure 1 describes a reaction window under the study’s conditions, not a universal instruction to heat every product for 10 minutes.",
+      "source_ids": [
+        28
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 21,
+      "text": "The researchers extracted pigments from the patties and combined chromatographic retention-time comparisons with standards and solution reaction experiments. They proposed a pathway in which betanidin is cleaved to betalamic acid and cyclodopa, followed by formation of unknown brown polymers.[28] “Unknown” matters: the final brown material was not fully structurally identified and was not confirmed to be melanin.[28]",
+      "source_ids": [
+        28
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 22,
+      "text": "The authors also state that losses of brown compounds during molecular-weight cut-off treatment could not be quantified.[28] The chromatograms therefore do not establish an exact whole-system conversion yield. They should not be used to imply blanket food-use authorization for the resulting process, either.",
+      "source_ids": [
+        28
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 23,
+      "text": "## Choosing a useful next formulation trial",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "en",
+      "paragraph": 24,
+      "text": "The following are development suggestions, not trials conducted for this article.",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "en",
+      "paragraph": 25,
+      "text": "**If the main problem is a patty that is too pale or pink, while its cooking transition is already acceptable, start with shade adjustment.** The beet-powder/caramel study illustrates joint optimization of several color targets, but its myoglobin-removed beef matrix remains a major limitation.[23] Use the actual plant protein, oil phase, and cooking process rather than copying its optimum percentages.",
+      "source_ids": [
+        23
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 26,
+      "text": "**If the main problem is a red cooked interior, consider beet red, sugar beet pectin, and laccase as a research candidate—not a ready-to-use formula.**[30][28] Keep the existing formula as a control and distinguish pectin-only, enzyme-only, and combined treatments. Judge the outside and cut surface separately, so surface browning does not conceal an unchanged interior.",
+      "source_ids": [
+        28,
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 27,
+      "text": "**If texture must stay within a narrow range, screen color and structure together.** The laccase–sugar beet pectin route concerns more than removing redness; the original work also discusses crosslinking, hardness, and water-holding-related behavior.[30] Define the acceptable texture range before deciding whether the color improvement is useful.",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 28,
+      "text": "Keep the material identities and dose bases intact. Beet powder, a commercial beet-red preparation, and purified pigment are not interchangeable descriptions. In particular, supplementary Table S1 of the 2022 study reports laccase as 50 U/g TVP—not 50 U/g finished patty.[31] This article does not convert that research dose into a production recommendation. The specific enzyme preparation, target-market conditions of use, labeling, and product safety process still require separate confirmation.",
+      "source_ids": [
+        31
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C20"
+      ]
+    },
+    {
+      "language": "en",
+      "paragraph": 29,
+      "text": "The most useful outcome is not a universal percentage. It is a sharper formulation question: **does the product need a better background shade, or a controlled color transition during cooking?** Keeping those tasks separate prevents ingredient heat stability, finished appearance, and cooking safety from becoming the same decision. A brown appearance should not replace the product’s own time–temperature safety validation.",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "en",
+      "paragraph": 30,
+      "text": "",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "zh",
+      "paragraph": 1,
+      "text": "# 甜菜红植物肉烤熟了为什么还红？从调色走向甜菜果胶与漆酶",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "zh",
+      "paragraph": 2,
+      "text": "给植物肉调出鲜红色，和让它在烹调后变成合适的褐色，是两件事。Sakai等人的植物肉饼试验里，含甜菜红和甲基纤维素的对照组烤后仍明显发红；同一研究中，加入漆酶和甜菜果胶的配方才出现显著的红转褐变化。[30]",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 3,
+      "text": "因此，遇到“生的时候像肉，烤完还是红”的问题，下一步不一定是换一种更耐热的红色原料。更有用的出发点是：你希望保留颜色，还是希望颜色按烹调过程发生变化？这篇文章比较两条路线——调配底色，以及让色素在体系中发生反应——并说明为什么论文里的最佳比例不能直接搬进植物肉配方。",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "zh",
+      "paragraph": 4,
+      "text": "## 先分清：调出褐色，还是让红色发生转变",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "zh",
+      "paragraph": 5,
+      "text": "调色路线的一个例子是Lee等人2023年的研究。他们将甜菜粉与焦糖色组合，同时优化生、熟状态的L*、a*和b*六个响应值；其中L*表示明度，a*为红绿轴，b*为黄蓝轴。[23][30]",
+      "source_ids": [
+        23,
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 6,
+      "text": "不过，这篇题名含“meat analogs”的论文，用的不是大豆或豌豆植物肉：研究人员反复洗涤牛肉以去除肌红蛋白，再把甜菜粉和焦糖色加入这个模型。[23] 它适合帮助理解两种着色原料如何配合，不足以证明相同比例在植物蛋白基底里也有效。",
+      "source_ids": [
+        23
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 7,
+      "text": "文中综合期望度最高的组合是甜菜粉1.32%、焦糖色1.08%，期望度为0.65；另一个组合为1.30%和1.51%，期望度为0.60。[23] 这里的期望度是多目标优化指标，不是“与牛肉有65%的相似度”，这些百分比也是论文中的配方添加水平，不是色素纯度。",
+      "source_ids": [
+        23
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 8,
+      "text": "结果也不是“生熟都完全匹配”。以第一组为例，表3中的a*从生样20.84降到熟样11.04，而牛肉对照从21.76降到6.69；该组b*从19.39升至25.18，牛肉却从18.33降至14.62。[23] 红度下降的方向相同，黄度变化的方向却相反。论文讨论部分更偏向第三组的熟样外观与明度，结论部分则推荐综合期望度最高的第一组，两种推荐采用的判断重点并不相同。[23]",
+      "source_ids": [
+        23
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 9,
+      "text": "对开发人员的启发是：**不要只用生样红度决定配方。** 先明确成品是否允许焦糖色，再同时考虑生样、熟样和剖面目标。以上属于试验设计建议，不是这组牛肉模型数据给出的植物肉用量推荐。",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "zh",
+      "paragraph": 10,
+      "text": "## 甜菜果胶不只是在这里增稠",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "zh",
+      "paragraph": 11,
+      "text": "真正的植物肉体系见于Sakai等人2022年的研究：基底为豌豆来源组织化植物蛋白，配合豌豆分离蛋白、橄榄油和甜菜红；甜菜果胶的具名原料为GENU pectin type BETA BI-J，漆酶为Amano Enzyme的LC-Y120。[30] 这些是论文的材料记录，不代表任意果胶、任意漆酶都可等量替换，也不构成当前供货声明。",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 12,
+      "text": "这项研究中，仅在含甜菜红和甲基纤维素的体系里加入漆酶，并没有产生明显的褐变；漆酶与甜菜果胶并用时，烤后红度下降明显。[30] 表1给出了更直观的对照：",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 13,
+      "text": "|研究中的配方|烤前a*|烤后a*|\n|---|---:|---:|\n|甜菜红＋甲基纤维素，无漆酶|48.5 ± 0.9|47.9 ± 1.0|\n|甜菜红＋甲基纤维素＋漆酶|48.4 ± 0.6|47.0 ± 2.8|\n|甜菜红＋甜菜果胶＋漆酶|47.9 ± 2.4|9.3 ± 1.1|\n|甜菜红＋甲基纤维素＋甜菜果胶＋漆酶|48.3 ± 3.2|9.4 ± 1.6|",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "zh",
+      "paragraph": 14,
+      "text": "数值逐项来自原文表1；a*无单位，保留论文的“±”表达，不把它另行解释为批次波动保证。[30] 这几组差异说明，在该研究配方中，“加酶”与“加酶并配合甜菜果胶”不是同一个处理。",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 15,
+      "text": "作者提出，甜菜果胶上的阿魏酸相关结构可以参与漆酶介导的氧化过程，帮助色素反应，同时与蛋白交联过程相联系；这是一套提出的反应解释，而不是已经逐步证实的完整工业机制。[30] 因此，本文不把普通柑橘果胶或苹果果胶当作已经验证的替代品。",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 16,
+      "text": "两篇漆酶研究均来自Amano Enzyme的研究团队；它们提供了原始实验，但不是外部团队独立复现的证据。[28][30]",
+      "source_ids": [
+        28,
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 17,
+      "text": "颜色也不能脱离口感单独优化。该研究还观察到配方处理对硬度、咀嚼性和烹调损失的影响。[30] 对产品开发而言，这意味着一份颜色更接近目标的样品，仍需回到原有的质构要求上判断；本文不把论文中的仪器质构结果写成消费者更喜欢的证据。",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 18,
+      "text": "## 反应发生在升温途中，不是“烤箱越热越好”",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "zh",
+      "paragraph": 19,
+      "text": "2024年的后续研究采用了含大豆组织化蛋白、豌豆分离蛋白、甜菜果胶和甜菜红的肉饼，进一步分析漆酶反应产物。[28] 它与2022年的豌豆基底不是同一配方，不能当成完全相同体系的重复试验。",
+      "source_ids": [
+        28
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 20,
+      "text": "该研究把肉饼放入150 °C烤箱处理15分钟，监测到内部温度约在第10分钟达到85 °C，同时提取测得的漆酶残余活性已无法检出。[28] 烤箱设定温度、肉饼内部温度和酶活性是三个不同的量。图1支持的是这套样品和升温历程中的反应窗口，不是“所有产品加热10分钟即可褐变”的通用参数。",
+      "source_ids": [
+        28
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 21,
+      "text": "研究人员从肉饼中提取并分析色素，结合标准品保留时间和溶液反应试验，提出甜菜红苷元（betanidin）先转化为甜菜醛氨酸（betalamic acid）及cyclodopa，再形成未知褐色聚合物的路径。[28] “未知”不能省略：文章并没有给最终褐色物质确认完整结构，也没有证明它就是黑色素。[28]",
+      "source_ids": [
+        28
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 22,
+      "text": "文章另指出，褐色产物经过分子量截留处理时的损失无法定量。[28] 因此，不能从这些色谱结果推导出精确的全量转化率，更不能顺势宣称新反应体系已获得所有市场的食品使用许可。",
+      "source_ids": [
+        28
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 23,
+      "text": "## 怎样把这些研究变成下一轮有用的打样",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "zh",
+      "paragraph": 24,
+      "text": "本文建议先按产品要解决的问题分流，而不是立刻照抄数字。",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "zh",
+      "paragraph": 25,
+      "text": "**如果主要问题是整体太亮、太粉红，而烹调前后的变化已经可接受，**先比较底色调整路线。甜菜粉与焦糖色的研究说明多颜色目标可以一起优化，但其去肌红蛋白牛肉基底必须保留在解读中。[23] 建议使用自己的植物蛋白、油相及实际烹调方式建立对照，不照搬文中的“最优配比”。",
+      "source_ids": [
+        23
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 26,
+      "text": "**如果主要问题是内部烤后仍红，**甜菜红＋甜菜果胶＋漆酶值得作为研究性候选路线，而不是已验证的即用配方。[30][28] 建议保留现有配方作对照，并区分加果胶、加酶和两者并用的效果；外表面与剖面分别判断，避免用外表的烘烤色掩盖内部没有变化的问题。",
+      "source_ids": [
+        28,
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 27,
+      "text": "**如果不允许改变当前质构，**把颜色与结构放在同一轮筛选中。漆酶和甜菜果胶路线涉及的不只是红色减弱，原始研究也在讨论交联、硬度和持水相关表现。[30] 建议先设定可接受的质构范围，再判断颜色改善是否值得。",
+      "source_ids": [
+        30
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C01",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C21"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 28,
+      "text": "这些建议不是本次实际完成的工厂试验。尤其要区分甜菜粉、商业甜菜红制剂与纯化色素，也要保留酶活单位的分母：2022年补充表S1报告的是50 U/g TVP，不能自行改写为50 U/g最终肉饼。[31] 本文不据此提供商业生产用量；应用前仍需另行确认具体酶制剂、目标市场使用条件、标签要求和产品安全工艺。",
+      "source_ids": [
+        31
+      ],
+      "classification": "sourced_fact_or_explicit_synthesis",
+      "evidence_ids": [
+        "C20"
+      ]
+    },
+    {
+      "language": "zh",
+      "paragraph": 29,
+      "text": "最终值得带走的不是一个通用比例，而是一个更准确的配方问题：**你需要的是更合适的底色，还是一条可控的烹调变色过程？** 将两者分开，才能避免把原料耐热性、成品外观和加热安全混成同一个判断。褐色外观不应代替产品自己的时间—温度安全验证。",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    },
+    {
+      "language": "zh",
+      "paragraph": 30,
+      "text": "",
+      "source_ids": [],
+      "classification": "heading_table_continuation_or_editorial_advice",
+      "evidence_ids": []
+    }
+  ],
+  "editorial_rule": "Uncited recommendations and limitations of transfer are editorial judgments, not performed trials or performance claims."
+}

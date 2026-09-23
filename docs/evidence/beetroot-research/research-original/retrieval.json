@@ -1,0 +1,16 @@
+{
+  "results": [
+    {
+      "url": "https://doi.org/10.3136/fstr.fstr-d-23-00182",
+      "title": "",
+      "content": "",
+      "error": "Keyless Firecrawl extract failed: Client error '403 Forbidden' for url 'https://api.firecrawl.dev/v2/scrape'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403. Set FIRECRAWL_API_KEY (https://firecrawl.dev) for reliable service."
+    },
+    {
+      "url": "https://exberry.com/en/color-insights/new-carrot-based-color-enables-color-changing-red-meat-alternatives",
+      "title": "",
+      "content": "",
+      "error": "Keyless Firecrawl extract failed: Client error '403 Forbidden' for url 'https://api.firecrawl.dev/v2/scrape'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403. Set FIRECRAWL_API_KEY (https://firecrawl.dev) for reliable service."
+    }
+  ]
+}
