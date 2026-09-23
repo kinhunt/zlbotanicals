@@ -31,9 +31,9 @@ A 2021 study combined algal astaxanthin oleoresin with sunflower oil and compare
 ### Reported astaxanthin retention immediately after spray-drying
 
 <table class="astaxanthin-table"><thead><tr><th scope="col">Oil-droplet interface</th><th scope="col">120 °C inlet air</th><th scope="col">160 °C inlet air</th></tr></thead><tbody>
-<tr><th scope="row">Lupin protein</th><td><span class="mobile-label" aria-hidden="true">120 °C inlet air</span>88.5%</td><td><span class="mobile-label" aria-hidden="true">160 °C inlet air</span>87.4%</td></tr>
-<tr><th scope="row">Lupin protein + ι-carrageenan</th><td><span class="mobile-label" aria-hidden="true">120 °C inlet air</span>96.4%</td><td><span class="mobile-label" aria-hidden="true">160 °C inlet air</span>95.3%</td></tr>
-<tr><th scope="row">Lupin protein + ι-carrageenan + chitosan</th><td><span class="mobile-label" aria-hidden="true">120 °C inlet air</span>96.8%</td><td><span class="mobile-label" aria-hidden="true">160 °C inlet air</span>96.0%</td></tr>
+<tr><th scope="row">Lupin protein</th><td><span class="mobile-label">120 °C inlet air</span>88.5%</td><td><span class="mobile-label">160 °C inlet air</span>87.4%</td></tr>
+<tr><th scope="row">Lupin protein + ι-carrageenan</th><td><span class="mobile-label">120 °C inlet air</span>96.4%</td><td><span class="mobile-label">160 °C inlet air</span>95.3%</td></tr>
+<tr><th scope="row">Lupin protein + ι-carrageenan + chitosan</th><td><span class="mobile-label">120 °C inlet air</span>96.8%</td><td><span class="mobile-label">160 °C inlet air</span>96.0%</td></tr>
 </tbody></table>
 
 Source: <a href="#astaxanthin-ref-2">[2]</a>, sections 2.10–2.11 and 3.5. Retention is measured astaxanthin content after drying divided by the study's theoretical content in the powder, multiplied by 100. The assay used solvent extraction and UV–visible absorbance at 478 nm. Temperatures are dryer inlet air temperatures, not measured particle temperatures.
