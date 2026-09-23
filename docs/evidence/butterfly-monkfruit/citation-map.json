@@ -1,0 +1,38 @@
+{
+  "en": {
+    "1": {
+      "new": 9,
+      "url": "https://www.amazon.com/dp/B07B4D9TF3"
+    },
+    "2": {
+      "new": 10,
+      "url": "https://www.amazon.com/dp/B0CP9Q47LK"
+    },
+    "3": {
+      "new": 11,
+      "url": "https://www.amazon.com/dp/B098H7XWQ6"
+    },
+    "4": {
+      "new": 12,
+      "url": "https://www.amazon.com/dp/B0CLBVY6VY"
+    }
+  },
+  "zh": {
+    "1": {
+      "new": 9,
+      "url": "https://www.amazon.com/dp/B07B4D9TF3"
+    },
+    "2": {
+      "new": 10,
+      "url": "https://www.amazon.com/dp/B0CP9Q47LK"
+    },
+    "3": {
+      "new": 11,
+      "url": "https://www.amazon.com/dp/B098H7XWQ6"
+    },
+    "4": {
+      "new": 12,
+      "url": "https://www.amazon.com/dp/B0CLBVY6VY"
+    }
+  }
+}

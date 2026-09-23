@@ -1,0 +1,31 @@
+{
+  "timestamp_utc": "2026-09-23T16:04:51.201011+00:00",
+  "command": [
+    "browserman",
+    "script",
+    "run",
+    "--platform",
+    "amazon",
+    "--marketplace",
+    "us",
+    "--action",
+    "get_product",
+    "--asin",
+    "B0CP9Q47LK",
+    "--json"
+  ],
+  "exit_code": 0,
+  "stdout": {
+    "ok": true,
+    "command": "script.run",
+    "browser": {
+      "id": "[REDACTED]",
+      "name": "cedar-vale"
+    },
+    "result": {
+      "executionId": "exec_c55d6df639824ed4",
+      "status": "running"
+    }
+  },
+  "stderr": ""
+}

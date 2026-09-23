@@ -1,0 +1,910 @@
+Agr. Nat. Resour. 55 (2021) 569–578
+Article history: 
+Received 24 February 2021 
+Revised 2 August 2021 
+Accepted 13 August 2021 
+Available online 31 August 2021
+Keywords:
+Butterfly pea,
+Clitoria ternatea,
+Fluorescence,
+Protein,
+Whey
+Research article
+Effect of sugar and CaCl2 concentration on fluorescence quenching 
+characteristics of whey proteins by delphinidin derivatives from butterfly 
+pea flower
+Tung Thanh Vuonga, Subin Srivichaia, Parichat Hongsprabhasa,b,*
+a Department of Food Science and Technology, Faculty of Agro-Industry, Kasetsart University, Bangkok 10900, Thailand 
+b Center of Excellence on Agricultural Biotechnology (AG-BIO/MHESI), Bangkok 10900, Thailand
+* Corresponding author.
+E-mail address: parichat.h@ku.th (P. Hongsprabhas)
+Abstract
+Article Info
+AGRICULTURE AND
+NATURAL RESOURCES
+The interactions were investigated between the flavonoid delphinidins from butterfly 
+pea (Clitoria ternatea) dried flower and commercial whey protein isolate (WPI) 
+in the presence of osmolytes commonly used in food products, namely sucrose, 
+lactose and CaCl2. Ternatin-B2 (T-B2) was used as a representative anthocyanin quencher 
+since it was the major delphinidin derivative in the water extract of butterfly pea as 
+determined using liquid-chromatography mass spectrometry-ion trap-time of flight. 
+Fluorescence-quenching studies of whey proteins in the WPI revealed the underlying 
+thermodynamics parameters, indicating that the binding of whey proteins to anthocyanins 
+was spontaneous and exothermic within the temperature range 35–65°C, with 0–150 mM 
+added sucrose or lactose or 0–500 mM added CaCl2. H-bonds were the main force 
+responsible for the formation of the whey protein-anthocyanin complexes. Increased 
+temperature lowered the binding constant (Ka) and the number of binding sites (n) on the 
+protein molecules for anthocyanins (p < 0.05). Increasing the sucrose concentration did 
+not significantly affect the Ka and n values (p > 0.05). However, the n values significantly 
+increased when the lactose concentration was above 75 mM. Furthermore, increasing 
+the CaCl2 concentration above 375 mM increased the Ka and n values (p < 0.05). 
+Understanding the binding mechanisms in the formation of whey protein-anthocyanin 
+complexes under different temperatures, osmotic pressures and ionic strengths could help 
+rationalize the selection of ingredients for biomolecular encapsulation of delphinidin 
+derivatives using whey protein isolate as a carrier.
+online 2452-316X print 2468-1458/Copyright © 2021. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/), 
+production and hosting by Kasetsart University of Research and Development Institute on behalf of Kasetsart University.
+https://doi.org/10.34044/j.anres.2021.55.4.07
+Journal homepage: http://anres.kasetsart.org 
+
+570
+T.T. Vuong et al. / Agr. Nat. Resour. 55 (2021) 569–578
+Introduction 
+	
+Bovine whey proteins are soluble proteins separated from 
+casein during cheese and casein manufacturing. The major 
+whey proteins are β-lactoglobulin (β-LG), α-lactalbumin 
+(α-LA), bovine serum albumin (BSA) and immunoglobulins 
+and about 80% of whey proteins are composed of β-LG and 
+α-LA (Schmidt et al. 1984). Whey proteins are an excellent 
+source of branched-chain amino acids compared to caseins and 
+may affect glucose metabolism and muscle protein synthesis 
+(Graf et al., 2011).
+	
+The stability of whey protein globular structure is influenced 
+by sugars and salts solubilized in a water solvent as the addition 
+of both osmolytes causes changes in the water medium, such 
+as a change in osmotic pressure and surface tension, which 
+subsequently change the water structure and its solvent 
+properties (Arakawa and Timasheff, 1982a, b). Sugar and salt 
+osmolytes can also affect the molecular structure of proteins by 
+reacting with proteins directly. The changes in the water solvent 
+and protein properties may enhance or limit protein stability 
+and solubility, depending on the types and the concentrations 
+of sugar and salt used (Arakawa and Timasheff, 1982a, b).
+	
+The conformation of globular whey proteins such as 
+β-LG and BSA can be stabilized using glucose, lactose 
+and sucrose (Arakawa and Timasheff 1982a). Arakawa and 
+Timasheff (1982a) demonstrated that sugars increased the 
+water surface tension. From the thermodynamic point of view, 
+subsequent surface free energy perturbation plays a leading 
+role in preferential protein interaction with sugar molecules. 
+The stabilizing effect of sugars arises from preferential H-bonds 
+between protein and sugar rather than the H-bonds between 
+protein and water (Arakawa and Timasheff, 1982a). Therefore, 
+the replacement of H-bonds helps to maintain the native 
+conformation of globular whey proteins when sugar is present. 
+	
+CaCl2 is also known as a salting-in or destabilizing salt since 
+it binds to proteins and increases the surface tension of water 
+(Arakawa and Timasheff, 1982b). Ca-induced aggregation of 
+whey proteins in whey protein isolate (WPI) was found to be 
+a slow and time-dependent process (Zhu and Damodaran, 1994). 
+The rate and the extent of whey protein aggregation were 
+maximum at 20–40 mM of calcium ions (Zhu and Damodaran, 
+1994) due to both charge dispersion and Ca-crosslinking. 
+Subsequent interactions such as protein-ligand binding may 
+be enhanced for molecular encapsulation of ligands in the 
+presence of Ca2+ ion. For example, bovine α-LA can be used 
+as a carrier for Ca2+ and flavonoids such as genistein and 
+kaempferol (Mohammadi and Moeeni, 2015).
+	
+It is apparent that different osmolytes could influence 
+protein conformations and their susceptibility for further 
+interactions with other compounds. However, there has 
+been limited study on milk minerals such as calcium in the 
+interactions between whey proteins and anthocyanins and 
+this merits further investigation.
+	
+The butterfly pea flower (Clitoria ternatea) is consumed 
+as a fresh flower or a beverage in Asia (Jeyaraj et al., 2020). 
+The polyacylated delphinidins (ternatins) are responsible for 
+the blue-color (Kazuma et al., 2003) and for the health-promoting 
+bioactive compounds of butterfly pea flower petal, namely 
+antioxidative, antibacterial, antifungal, anti-inflammatory, 
+antiproliferative, antidiabetic activities (Jeyaraj et al., 2020).
+	
+Although butterfly pea flower extract has potential use as 
+a natural blue colorant for the food industry, little is known 
+on the interactions of butterfly pea flower anthocyanins in 
+the presence of nutrients such as proteins, carbohydrates and 
+minerals. Such interactions could influence the biological 
+activity and bioavailability levels of both proteins and 
+anthocyanins due to the changes in the conformation and 
+reversibility of the interactions (Acharya et al., 2013; Casanova 
+et al., 2018; Naczk et al., 2006).
+	
+Fluorescence-quenching measurement is one of the most 
+versatile approaches to investigate small ligands binding to 
+proteins as fluorescence emission occurs in protein fluorophores, 
+mainly originating from tryptophan (Trp), tyrosine (Tyr) and 
+phenylalanine (Phe) residues (Lakowicz, 2006). When these 
+residues interact with small ligands like anthocyanin, the 
+intrinsic ﬂuorescence is often lowered, with the decrease in 
+the quantum yield of fluorophore in the presence of ligand 
+being divided into two classes of quenching: static quenching 
+and dynamic quenching (Lakowicz, 2006). Static quenching 
+results from complex formation between protein and ligand, 
+determined by the decrease in the quenching constant when 
+the temperature increases; in contrast, dynamic quenching 
+results from the collision of fluorophore and quencher and 
+increasing the temperature thus increases the quenching 
+constant (Lakowicz, 2006).
+	
+Recently, Vuong and Hongsprabhas (2021) reported 
+the influence of pH levels between 2.5 and 11.0 on the 
+binding mechanisms of delphinidin derivatives extracted from 
+C. ternatea flower on the whey proteins in whey powder 
+(WP) and whey protein isolate (WPI) in the buffered systems. 
+They found that protein-anthocyanin complex formation 
+involved hydrophobic interactions and electrostatic interactions 
+over such a pH range in the buffered systems. In addition to 
+pH, the high contents of indigenous lactose and minerals in 
+
+571
+T.T. Vuong et al. / Agr. Nat. Resour. 55 (2021) 569–578
+WP, compared to those in WPI, played significant roles in 
+determining the strength of the binding forces and the number 
+of binding sites on the whey protein molecules accessible 
+by the delphinidin derivative.
+	
+The current study further explored the influences of sugar 
+and calcium osmolytes on the binding characteristics of whey 
+proteins in WPI to the anthocyanins in the extract of C. ternatea 
+dried flower. It was hypothesized that the protein-stabilizing 
+effect of sugar and the protein-destabilizing effect of CaCl2 
+could further influence protein conformation and subsequent 
+interactions with anthocyanins. The current study attempted 
+to characterize the leading forces involved in the binding 
+mechanisms in the presence of osmolytes commonly used in 
+food products in distilled water instead of a buffered system 
+to minimize the influences of the ionic strength of the buffer. 
+Understanding the influences of osmolytes in the interactions 
+of whey protein-anthocyanin complex could help design 
+the affinity strength between protein and anthocyanin and 
+process parameters for novel delivery systems of delphinidin 
+derivatives using whey protein isolate as a carrier.
+Materials and Methods
+Raw materials
+	
+Dried butterfly pea (C. ternatea) flowers were purchased 
+from a local market in Bangkok, Thailand and kept in a sealed 
+aluminum bag and at -20°C until used. The whey protein isolate 
+(WPI) powder was purchased from Milk Specialties (Eden 
+Prairie, MN, USA). It contained 85.7% protein (Lowry et al., 
+1951), 2.65% ash and 7.23% moisture content (Association 
+of Official Analytical Chemists, 2000). The reducing sugar 
+was determined using the dinitrosalicylic method described 
+by Miller (1959) after the protein had been precipitated using 
+absolute EtOH (Richmond et al., 1982) using lactose for the 
+calibration curve. The WPI contained 2.92% lactose equivalent. 
+Profiling anthocyanins in water extract of butterfly pea flower
+	
+Extraction of anthocyanins from butterfly pea dried flower
+	
+The water extract of butterfly pea flower was prepared 
+using a dried flower-to-distilled water ratio of 1:100 (weight 
+per weight basis) at 80°C for 30 min and passing through 
+a Whatman no. 1 filter paper (Vuong and Hongsprabhas, 2021). 
+The monomeric anthocyanin in the extract was determined 
+using the method described by Lee et al. (2005). The absorbance 
+of samples at the wavelengths of 520 nm and 700 nm was 
+recorded using a TECAN microplate reader (Infinite 200 PRO; 
+Grodig, Austria). The anthocyanin content was expressed 
+as ternatin B2 (T-B2) equivalent, as shown in Equation 1:
+	
+      (1)
+	
+where A = [(A520nm – A700nm)pH 1.0 – (A520nm – A700nm)pH 4.5]; 
+MW = 1,638 g/mol for T-B2; DF is the dilution factor; 
+l = pathlength (measured in centimeters); ε is the molar 
+extinction coefficient = 29,000 L/mol.cm; and 103 is the factor 
+for conversion from grams to milligrams. The calculated 
+concentration of monomeric anthocyanin was expressed 
+as T-B2, the major blue anthocyanin in dried butterfly pea 
+flower determined using liquid-chromatography mass 
+spectrometry-ion trap-time of flight (LCMS-IT-TOF) described 
+below. 
+	
+Profiling of anthocyanins in water extract of butterfly pea 
+dried flower
+	
+The anthocyanins in the water extract of C. ternatea 
+were analyzed using the method described by Srivichai and 
+Hongsprabhas (2020). Briefly, the extract was passed through 
+a C-18 Sep-Pak cartridge (VertiPakTM C18-LP; Vertical 
+Chromatography Co., Nonthaburi, Thailand) previously 
+activated with MeOH, followed by 0.1% HCl (volume per 
+volume; v/v) in deionized water. The flavonoid anthocyanins 
+adsorbed onto the Sep-Pak column while sugars, acids and 
+other water-soluble compounds were removed by washing the 
+mini-column with 5 mL 0.01% HCl.
+	
+Anthocyanins were recovered using 50% EtOH (v/v) 
+containing 0.1% HCl (v/v) and stored at -20°C. Samples 
+were passed through a 0.45 μm filter before analysis. 
+Chromatographic analyses were performed on an LCMS-
+IT-TOF (Shimadzu; Tokyo, Japan) coupled with a Prevail™ 
+C18 column (5 µm, 150 × 4.6 mm). The linear gradient 
+elution program used 0.5% (v/v) aqueous trifluoroacetic acid 
+(phase A) and 80% (v/v) acetonitrile in MeOH (phase B) at 
+a flow rate of 0.05 mL/min. The wavelength of the ultraviolet-
+visible detector was set at 520 nm.
+	
+The mass spectrometry (MS) parameters were: capillary 
+voltage, 4.5 kV; interface temperature, 200°C; heat block 
+temperature, 200°C; and gas flow (N 2), 1.5 L/min. 
+The instrument was operated in positive ion mode, scanning 
+in the range m/z 100–2500, using a collision gas (argon) 
+pressure of 50% and a collision energy of 50% (Srivichai and 
+Hongsprabhas, 2020).
+
+572
+T.T. Vuong et al. / Agr. Nat. Resour. 55 (2021) 569–578
+Fluorescence quenching study of whey proteins using extract 
+of butterfly pea flower
+	
+	
+Effect of T-B2 equivalent concentration on fluorescence 
+quenching characteristics of whey proteins
+	
+WPI solution containing 10 mg/mL protein was prepared 
+in distilled water. The pH of the WPI solution was 5.5. 
+The maximum fluorescence wavelength of protein 
+fluorophore was determined using the TECAN microplate 
+reader to scan the fluorescence emission intensity in the range 
+310–850 nm at 25°C when the excitation wavelength was 
+280 nm. The maximum fluorescence intensity of whey 
+proteins was recorded at 332 nm.
+	
+The binding characteristics between whey proteins and 
+anthocyanins in the water extract in the range 35–65°C were 
+determined by mixing 0.5 mL of protein solution (10 mg 
+protein/mL) with 0.5 mL of extracts containing different 
+concentrations of anthocyanin, based on the molecular 
+weight (MW) of T-B2. The final quencher concentrations 
+[Q] after mixing with protein solution were 0 µM T-B2, 
+2.65 µM T-B2 equivalent, 5.3 µM T-B2 equivalent, 10.6 µM 
+T-B2 equivalent, 15.89 µM T-B2 equivalent, 21.19 µM T-B2 
+equivalent and 26.48 µM T-B2 equivalent. The final protein 
+concentration was 5 mg/mL.
+	
+The reaction was allowed to proceed at 35°C (308.15 K), 
+45°C (318.15 K) and 65°C (338.15 K) in a water-bath for 
+30 min. The Tecan microplate reader was used to evaluate 
+the fluorescence intensity using the excitation wavelength 
+at 280 nm and the fluorescence emission wavelength at 
+332 nm. The binding constant (Ka), the number of binding 
+sites (n) and thermodynamic parameters were calculated 
+based on a double logarithmic plot as shown in Equation 2 
+(Lakowicz, 2006):
+	
+	
+(2)
+	
+where F0 and F are the fluorescence intensities in the 
+absence and presence of anthocyanin quencher, respectively, 
+Ka is the binding constant, n is the number of binding sites 
+and [Q] is the concentration of anthocyanin calculated as 
+T-B2 equivalent.
+	
+	
+Non-covalent forces involved in complex formation of whey 
+proteins and butterfly pea anthocyanins
+	
+Four major non-covalent forces are involved in small 
+molecules and protein binding: H-bonds, van der Waals 
+force, hydrophobic interactions and electrostatic interactions. 
+Determination of the dominant force involved in the binding 
+was based on thermodynamic parameter signs and values. 
+For example, a negative ΔG and a negative ΔH indicate 
+that the binding process is spontaneous and exothermic. 
+When ΔH is positive and ΔS is also positive, the binding 
+process is endothermic and hydrophobic interactions are 
+the main force. However, when ΔH is negative and ΔS 
+is negative, H-bonds are the leading force. The electrostatic 
+interactions play an important role in the binding when ΔH 
+is negative and ΔS is positive (Fisicaro et al., 2004; Acharya 
+et al., 2013; Davidov-Pardo and McClements, 2014; Joye 
+et al., 2015).
+	
+The Gibbs free energy change can be calculated from 
+Ka as described in Equation 3:
+	
+ΔG = –RT ln Ka	
+(3)
+	
+where R is the gas constant (8.14 J/mole K), T is the absolute 
+temperature (K), and Ka is the binding constant obtained from 
+Equation 2 at each temperature.
+	
+The change in enthalpy (ΔH) when there is an increase 
+or decrease in temperature from T1 to T2 was calculated by 
+applying the van’t Hoff equation shown in Equation 4:
+	
+	
+(4)
+	
+where T1 and T2 are the temperatures at which Ka1 and Ka2 
+are measured.
+	
+The entropy change was calculated as described in Equation 5:
+	
+ΔG = ΔH – TΔS	
+(5)
+	
+Effect of osmolyte concentrations on formation of whey 
+protein-anthocyanin complexes 
+	
+WPI solution containing 10 mg/mL protein was prepared 
+in distilled water. An amount (250 µL) of protein solution 
+was mixed with 250 µL of sugar (sucrose or lactose) solutions 
+containing 30 mM, 150 mM, 300 mM, 450 mM and 600 mM 
+sugar to generate different osmotic pressures (π) in the protein 
+solutions before mixing with C. ternatea extract. The osmotic 
+pressure of the osmolytes was calculated using Equation 6:
+ 	
+π = iMRT	
+(6)
+	
+where π is the osmotic pressure (atm), i is the van’t 
+Hoff factor of osmolyte (1 for sugar and 3 for CaCl2 due 
+to dissociation), M is the molar concentration of the solute 
+
+573
+T.T. Vuong et al. / Agr. Nat. Resour. 55 (2021) 569–578
+(mol/L), R is the universal gas constant (0.08206 L⋅atm/mol⋅K), 
+and T is the absolute temperature (K).
+	
+The 5 mg protein/mL mixed solution (500 µL) was further 
+mixed with 500 µL of C. ternatea water extract containing 
+5.3 µM T-B2 equivalent, 10.6 µM T-B2 equivalent, 21.2 
+µM T-B2 equivalent, 31.8 µM T-B2 equivalent, 42.4 µM 
+T-B2 equivalent and 53.0 µM T-B2 equivalent. After mixing, 
+the final concentration of protein was 2.5 mg/mL and the 
+final concentration of added sugar was in the range 0–150 mM.
+	
+The binding characteristics of the whey proteins with 
+C. ternatea extract in the presence of CaCl2 were investigated 
+by preparing a WPI solution containing 10 mg/mL protein 
+in distilled water. An amount (250 µL) of protein solution 
+was mixed with 250 µL of salt solutions containing 100 mM 
+CaCl2, 500 mM CaCl2, 1,000 mM CaCl2, 1,500 mM CaCl2 
+or 2,000 mM CaCl2 to alter the osmotic pressure (π) and 
+the ionic strength (I) of the protein-CaCl2 solutions. The 5 mg 
+protein/mL mixed solution (500 µL) was further mixed with 
+500 µL of C. ternatea water extract containing 5.3 µM T-B2 
+equivalent, 10.6 µM T-B2 equivalent, 21.2 µM T-B2 equivalent, 
+31.8 µM T-B2 equivalent, 42.4 µM T-B2 equivalent and 
+53.0 µM T-B2 equivalent. After mixing, the final concentration 
+of protein was 2.5 mg/mL and the final concentration of 
+added CaCl2 was in the range 0–500 mM.
+	
+The protein-sugar mixed solutions or the protein-CaCl2 
+mixed solutions containing final concentrations of anthocyanin 
+of 2.65 µM T-B2 equivalent, 5.3 µM T-B2 equivalent, 10.6 
+µM T-B2 equivalent, 15.89 µM T-B2 equivalent, 21.19 µM 
+T-B2 equivalent and 26.48 µM T-B2 equivalent were incubated 
+at 35°C (308.15 K), 45°C (318.15 K) and 65°C (338.15 K) 
+in a water-bath for 30 min before reading the fluorescence 
+intensity at an excitation wavelength of 280 nm and 
+an emission wavelength of 332 nm. The fluorescence 
+intensity was recorded to calculate the binding constant (Ka), 
+number of binding sites (n) and thermodynamic parameters, 
+as described above.
+Statistical analysis
+	
+The experiments were carried out in three separate trials. 
+The data were analyzed using analysis of variance at the 
+95% significance level. Tukey’s test was used to determine 
+significant differences among mean values. All statistical 
+analyses were performed using the Graphpad Prizm 
+8.4.2 software (GraphPad Software Inc.; San Diego, CA, 
+USA).
+Results and Discussion
+Profiling anthocyanins in water extract of butterfly pea flower
+	
+Fig. 1 shows the flavonoid anthocyanin chromatograms of 
+the C. ternatea flower water extract. LCMS-IT-TOF identified 
+the anthocyanins in the water extract as ternatin C2 (peak 3), 
+ternatin B4 (peak 4), ternatin B3 (peak 6), ternatin D3 (peak 7), 
+ternatin B2 (peak 8) and ternatin D1 (peak 9), as summarized 
+in Table 1. All these anthocyanins had a delphinidin-based 
+structure and were polyacylated. These results were in good 
+agreement with those recently reviewed by Jeyaraj et al. 
+(2020).
+	
+Peak 3 had a molecular ion precursor [M]+ at 1491 and 
+five fragment ions MS2 m/z at 1243 ([M–malonoylglucoside]+), 
+1080 ([M–malonoylglucoside – glucose] +), 773 
+([M–malonoylglucoside–glucose–p-coumaroylglucoside]+) 
+and 611 ([M–malonoylglucoside–di-glucose–p-
+coumaroylglucoside]+). The MS data suggested that this 
+anthocyanin had one delphinidin unit, five glucose units, 
+one malonic acid unit and two p-coumaric acid units. 
+Peak 3 was tentatively identified as ternatin C2, as reported 
+by Terahara et al. (1998).
+	
+Peak 4 had a molecular ion precursor [M]+ at 1329 and five 
+fragment ions MS2 m/z at 1081 ([M–malonoylglucoside]+), 
+919 ([M–malonoylglucoside–glucose] +), 773 ([M– 
+malonoylglucoside –glucose–p-coumaric acid]+), 611 ([M 
+–malonoylglucoside–di-glucose–p-coumaric acid]+) and 465 
+([M–malonoylglucoside–di-glucose–di-p-coumaric acid]+). 
+The MS data suggested that this anthocyanin contained one 
+delphinidin unit, four glucose units, one malonic acid unit and 
+two p-coumaric acid units. Peak 4 was tentatively identified as 
+ternatin B4, as reported by Terahara et al. (1996).
+Fig. 1	 Liquid chromatography profile of anthocyanins in water extract 
+of Clitoria ternatea dried flower, where peak numbers correspond 
+to anthocyanins in Table 1
+
+574
+T.T. Vuong et al. / Agr. Nat. Resour. 55 (2021) 569–578
+Table 1	 Mass spectrometric data and tentative identification of anthocyanins in water extract of Clitoria ternatea dried flower
+Peak 
+number
+Retention 
+time
+(tR, min)
+Area (%) ± SD
+Molecular 
+ion precursor
+[M]+ (m/z)
+MS2 fragment ion
+(m/z)
+Tentative anthocyanins 
+in water extract of 
+C. ternatea dried flower
+Reference
+1
+37.24
+1.02±0.10
+627
+Unknown
+Unknown
+2
+39.32
+3.49±0.35
+950
+Unknown
+Unknown
+3
+39.95
+4.92±0.49
+1491
+1491[M]+→1243, 1081, 773, 611
+Ternatin C2
+Terahara et al. (1998)
+4
+42.20
+18.50±1.89
+1329
+1329[M]+→ 1081, 919, 773, 611, 465
+Ternatin B4
+Terahara et al. (1996)
+5
+43.06
+1.89±0.19
+465
+Unknown
+Unknown
+6
+43.72
+5.11±0.39
+1638
+1638[M]+→ 1389, 1227, 1081, 919, 611
+Ternatin B3
+Terahara et al. (1996)
+7
+44.73
+3.26±0.38
+1167
+1167[M]+→ 919, 773, 611, 465
+Ternatin D3
+Terahara et al. (1998)
+8
+45.54
+30.57±7.20
+1638
+1638[M]+→1551, 1389, 1227, 1081, 919, 611
+Ternatin B2
+Terahara et al. (1996)
+9
+47.02
+16.87±1.90
+Unknown
+Unknown
+Unknown
+10
+48.06
+14.38±1.52
+1783
+1783[M]+→1535, 1227, 919, 611
+Ternatin D1
+Terahara et al. (1998)
+	
+Peak 6 had a molecular ion precursor [M]+ at 1638 and five 
+fragment ions MS2 m/z at 1389 ([M–malonoylglucoside]+), 
+1227 ([M–malonoylglucoside–glucose] +), 1081 
+([M– malonoylglucoside–glucose–p-coumaric acid]+), 919 
+([M–malonoylglucoside–di-glucose–p-coumaric acid]+) 
+and 611 ([M–malonoylglucoside–di-glucose–di-p-coumaric 
+acid]+). The MS data suggested that this anthocyanin contained 
+one delphinidin unit, five glucose units, one malonic acid 
+unit and three p-coumaric acid units. Peak 6 was tentatively 
+identified as ternatin B3, as reported by Terahara et al. (1996).
+	
+Peak 7 had a molecular ion precursor [M]+ at 1167 and 
+four fragment ions MS2 m/z at 919 ([M–malonoylglucoside]+), 
+733 ([M–malonoylglucoside–p-coumaric acid]+), 611 
+([M– malonoylglucoside–p-coumaric acid–glucose]+) and 
+465 ([M–malonoylglucoside–di-p-coumaric acid–glucose]+). 
+The MS data suggested that this anthocyanin contained one 
+delphinidin unit, three glucose units, one malonic acid unit and 
+two p-coumaric acid units. Peak 7 was tentatively identified as 
+ternatin D3, as reported by Terahara et al. (1998).
+	
+Peak 8 had a molecular ion precursor [M]+ at 1638 and six 
+fragment ions MS2 m/z at 1551 ([M–malonic acid]+), 1389 
+([M–malonic acid–glucose]+), 1227 ([M–malonic acid–di-
+glucose]+), 1081 ([M–malonic acid–di-glucose–p-coumaric 
+acid]+), 919 ([M–malonic acid– tri-glucose–p-coumaric 
+acid]+) and 611 ([M–malonic acid–di-p-coumaric acid–tri-
+glucose– di-p-coumaric acid]+). The MS data suggested that 
+this anthocyanin contained one delphinidin unit, five glucose 
+units, one malonic acid unit and three p-coumaric acid units. 
+Peak 8 was tentatively identified as ternatin B2, as reported by 
+Terahara et al. (1996).
+	
+Peak 10 had a molecular ion precursor [M]+ at 1783 and 
+four fragment ions MS2 m/z at 1535 ([M–malonoylglucoside]+), 
+1227 ([M–malonoylglucoside–p-coumaroylglucoside]+), 
+919 ([M–malonoylglucoside–di-p-coumaroylglucoside]+) 
+and 611 ([M–malonoylglucoside–tri-p-coumaroylglucoside]+). 
+The MS data suggested that this anthocyanin had one 
+delphinidin unit, five glucose units, one malonic acid unit and 
+four p-coumaric acid units. Peak 10 was tentatively identified 
+as ternatin D1, as reported by Terahara et al. (1998).
+	
+The major anthocyanin in the C. ternatea dried flower in 
+the current study was ternatin B2 (T-B2). Further calculation 
+on fluorescence quenching of whey proteins by anthocyanin 
+quencher was calculated based on the T-B2 equivalent 
+concentration. 
+	
+Fluorescence quenching study of whey proteins using water 
+extract of butterfly pea flower
+	
+Fluorescence-quenching measurements elucidated 
+the underlying forces involved in the formation of the whey 
+protein-anthocyanin complex in distilled water. The results 
+showed that the fluorescence quantum yield of protein 
+fluorophores was quenched by C. ternatea extract (Fig. 2). 
+In the absence of C. ternatea extract, WPI solution had the 
+highest fluorescence intensity at 332 nm (Fig. 2A). The addition 
+of C. ternatea extracts containing different anthocyanin 
+concentrations, calculated as T-B2 equivalent, reduced the 
+fluorescence intensity of whey proteins in a concentration-
+dependent manner (Fig. 2B).
+	
+Fig. 3 shows that increasing the temperature from 35°C 
+(308.15 K) to 65°C (338.15 K) significantly decreased the 
+binding constant Ka and the number of binding sites n. 
+The magnitudes of the binding constant Ka were relatively 
+high, indicating that the anthocyanins had a strong affinity 
+
+575
+T.T. Vuong et al. / Agr. Nat. Resour. 55 (2021) 569–578
+with proteins (Acharya et al., 2013). The value of n indicated 
+a single or more than one binding site on the protein molecules. 
+The n value was slightly greater than 1.0 when binding occurred 
+in the range 35–45°C, possibly because of the involvement of 
+both dynamic and static quenching; or more binding sites being 
+available with slightly different binding constants (Acharya 
+et al., 2013). Whey proteins are mixed proteins composed of 
+β-LG, α-LA and BSA. The available Trp residue for quenchers 
+could be different as the temperature increased from 35°C 
+to 45°C. However, when the reaction temperature increased 
+to 65°C, the number of binding sites decreased to less than 
+1.0 (Fig. 2C), probably due to more collisions of proteins and 
+quenchers when the temperature was raised.
+	
+Table 2 reveals that the protein-anthocyanin complex 
+formed simultaneously (negative ΔG). The ΔG values at this 
+magnitude (30 kJ/mol) are considered weak, compared to the 
+energy required for covalent bond formation (approximately 
+400 kJ/mol), according to Koolman and Roehm (2005). 
+Therefore, it was likely that non-covalent binding was 
+responsible for the formation of the protein–anthocyanin 
+complexes in the distilled water. The bindings were exothermic 
+(negative ΔH). The negative ΔH and negative ΔS suggested 
+H-bond involvement as the primary force (Acharya et al., 2013; 
+Chung et al., 2015, He et al., 2016) in the complex formation 
+of delphinidin-based anthocyanins with whey proteins in 
+distilled water.
+Fig. 2	 Fluorescence quenching of whey proteins in WPI by water extract of Clitoria ternatea: (A) fluorescence spectra at different anthocyanin 
+concentrations calculated based on ternatin-B2 (T-B2); (B) log-log plot of ([F0-F]/F) as a function of anthocyanin quencher concentration ([Q]) at 25°C, 
+where R2 = goodness of fit on non-linear curve regression 
+Fig. 3	 Effect of absolute temperature on: (A) binding constant; (B) the number of the binding site on whey protein molecule for anthocyanin binding, 
+where error bars indicate + SD and different lowercase letters above columns indicate significant (p < 0.05) differences 
+
+576
+T.T. Vuong et al. / Agr. Nat. Resour. 55 (2021) 569–578
+Table 2	 Thermodynamic parameters of whey protein-anthocyanin interaction in distilled water calculated based on ternatin-B2
+Temperature
+∆G (kJ/mol)ns
+∆H (kJ/mol)
+∆S (J/mol K)
+°C
+K
+T1 = 35°C
+T2 = 65°C
+35
+308.15
+-30.77±0.23
+-32.948±4.728
+-7.415±4.349
+45
+318.15
+-30.59±0.09
+65
+338.15
+-30.44±0.00
+ΔG = Gibbs free energy change; ΔH = enthalpic change; ΔS = entropic change; T1 and T2 = temperature difference at which the ΔH was calculated.
+Value = means ± SD (n = 3 separate trials) 
+	
+Whey protein solutions containing different sugar 
+osmolyte concentrations were investigated for their binding 
+characteristics with C. ternatea extract at 35 °C, to determine 
+the influences of the medium properties on complex formation 
+(Fig. 4). The Ka values were within the range 11.3×104 
+–16.8×104 M-1 in the lactose solution and 14.4×104–15.7× 104 
+M-1 in the sucrose solution (Fig. 4A; p ≥ 0.05). However, the 
+sugar types significantly affected the number of binding sites 
+on the whey protein molecules accessible by anthocyanins to 
+form a complex (Fig. 4B). At a lactose concentration lower 
+than 37.5 mM, the value of n on whey protein molecules was 
+lower than that at a high lactose concentration and that of 
+sucrose solutions (p < 0.05).
+	
+The microenvironment surrounding the protein molecules 
+induced by sugar osmolytes could alter the protein conformation 
+differently when different sugars were used. Arakawa and 
+Timasheff (1982a) demonstrated that lactose had a stronger 
+cohesive force than sucrose and increased the water surface 
+tension to a greater extent than sucrose. In turn, this resulted 
+in each sugar influencing the conformation of whey proteins 
+differently. This study further illustrated that the conformational 
+changes of whey proteins induced by different sugars could 
+lead to different binding sites on the whey protein molecules 
+accessible by anthocyanins.
+	
+The influences were further investigated of a divalent 
+cation, ionic strength and osmotic pressure on the binding 
+characteristics and complex formation of proteins and 
+anthocyanins. Table 3 shows that increasing the concentration 
+of CaCl2 to above 375 mM (which provided an ionic strength 
+(I) of 1.125 M and osmotic pressure (π) of 28.448 atm) 
+increased the binding constants and the number of binding sites 
+in the complex formation (p < 0.05). A high concentration of 
+CaCl2 could increase the affinity and strengthen the interactions 
+of whey proteins and delphinidin-based anthocyanins. It was 
+also possible that the formation of a Ca-flavonoid complex 
+occurred at high CaCl2 concentration as reported by Castilho 
+et al. (2018) on quercetin and Ca2+. However, more work is 
+needed to elucidate the complexion sites in delphinidin-based 
+anthocyanins.
+Fig. 4	 Effect of sugar type and concentration on: (A) binding constant; (B) number of binding sites of whey proteins with Clitoria ternatea anthocyanins 
+at 35°C calculated based on ternatin-B2T-B2. The osmotic pressure was calculated based on respective added sugar concentrations were 0.190 atm, 
+0.948 atm, 1.897 atm, 2.845 atm and 3.793 atm. Error bars indicate + SD and different lowercase letters above columns indicate significant (p < 0.05) 
+differences.
+
+577
+T.T. Vuong et al. / Agr. Nat. Resour. 55 (2021) 569–578
+	
+Fig. 5 shows that the complex formation was a simultaneous 
+and exothermic process (negative ΔG and ΔH values). 
+The negative values of ΔH and ΔS also suggested that 
+despite the increase in osmotic pressure and ionic strength, 
+the H-bonds remained the leading force in the formation of 
+the whey protein-anthocyanin complex in CaCl2 solution. 
+The result from this study were different from Vuong and 
+Hongsprabhas (2021) that was carried out in buffered systems 
+using 0.1 M citrate buffer, 0.2 M phosphate buffer or 0.1 M 
+carbonate buffer, in which hydrophobic interactions were 
+the main forces involved in the formation of the whey 
+protein-delphinidin complexes. This was probably because 
+the Ca2+ ion could likely bind directly to whey proteins and 
+alter their conformations (Arakawa and Timasheff, 1982b).
+	
+Further investigation is still necessary into the influences 
+of anion types and concentrations on the conformation of 
+whey proteins and subsequent binding mechanisms during 
+whey protein-anthocyanin complex formation. Different 
+anions could perturb the surface free energy of the protein 
+molecules and their conformations differently (Arakawa and 
+Table 3	 Effect of CaCl2 concentration on binding constant and number of binding sites of protein with Clitoria ternatea anthocyanin at 35°C calculated 
+based on ternatin-B2
+[CaCl2] 
+(M)
+Ionic strength       
+(M)
+Calculated osmotic pressure of 
+CaCl2 solution (atm)
+Binding constant × 104 (/M1)
+Number of binding sites 
+0
+0.000
+13.56±4.73c
+0.966±0.027b
+0.025
+0.075
+1.897
+14.76±2.11c
+0.976±0.013b
+0.125
+0.375
+9.483
+14.04±2.28c
+0.970±0.011b
+0.250
+0.750
+18.965
+14.23±3.26c
+0.972±0.017b
+0.375
+1.125
+28.448
+20.63±1.36b
+1.005±0.006a
+0.500
+1.500
+37.930
+26.32±1.94a
+1.025±0.006a
+Means ± SD (n = 3 separate trials) superscripted by different lowercase letters are significantly (p < 0.05) different.
+Timasheff, 1982b) and subsequently result in different binding 
+mechanisms of proteins with anthocyanins.
+	
+In summary, this study further demonstrated that different 
+types and concentrations of the osmolytes commonly used in 
+food product could determine the leading force responsible 
+for the formation of a protein-anthocyanin complex in distilled 
+water, where the proteins solely governed the buffering 
+capacity of the mixed solutions. Understanding the binding 
+mechanisms of complex formation between whey proteins 
+and delphinidin derivatives via H-bonds under different 
+temperatures, osmotic pressures and ionic strengths could help 
+in the design and rationalization of the types and concentrations 
+of osmolyte to manipulate protein conformation and its further 
+interactions with polyacylated delphinidin derivative via 
+reversible H-bonds in the future.
+ 
+Conflict of Interest
+	
+The authors declare that there are no conflicts of interest.
+Fig. 5	 Effect of added CaCl2 concentration on: (A) Gibbs free energy change; (B) enthalpic change; (C) entropic changes in binding of whey proteins 
+with Clitoria ternatea anthocyanins at 35°C calculated based on ternatin-B2, where error bars = + SD
+
+578
+T.T. Vuong et al. / Agr. Nat. Resour. 55 (2021) 569–578
+Acknowledgements 
+	
+The Faculty of Agro-Industry, Kasetsart University, 
+Bangkok, Thailand and the Kasetsart University Financial 
+Support Fund provided a graduate student fellowship to author 
+Vuong. The Kasetsart University Research and Development 
+Institute (KURDI) provided funding and the Center of 
+Excellence on Agricultural Biotechnology (AG-BIO/MHESI) 
+provided use of the HPLC-ELSD during the preliminary 
+characterization of the anthocyanins.
+References 
+Association of Official Analytical Chemists. 2000. Official Methods of 
+Analysis, 17th ed. The Association of Official Analytical Chemists. 
+Gaithersburg, MD, USA. 
+Arakawa, T., Timasheff, S.N. 1982a. Stabilization of protein structure 
+by sugars. Biochemistry 21: 6536–6544. doi.org/10.1021/bi00268a033
+Arakawa, T., Timasheff, S.N. 1982b. Preferential interactions of 
+proteins with salts in concentrated solutions. Biochemistry 21: 
+6545–6552. doi.org/10.1021/bi00268a034
+Acharya, D.P., Sanguansri, L., Augustin, M.A. 2013. Binding of 
+resveratrol with sodium caseinate in aqueous solutions. Food Chem. 
+141: 1050–1054. doi.org/10.1016/j.foodchem.2013.03.037
+Casanova, F., Chapeau, A.L., Hamon, P., Carvalho, A.F., Bouhallab, 
+C.S. 2018. pH- and ionic strength-dependent interaction between 
+cyanidin-3-O-glucoside and sodium caseinate. Food Chem. 267: 
+52–59. doi.org/10.1016/j.foodchem.2017.06.081
+Chung, C., Rojanasasithara, T., Mutilangi, W., McClements, D.J. 2015. 
+Enhanced stability of anthocyanin-based color in model beverage 
+systems through whey protein isolate complexation. Food Res. Intern. 
+76: 761–768. doi.org/10.1016/j.foodres.2015.07.003
+Castilho, T.S.D., Matias, T.B., Nicolini, K.P., Nicolini, J. 2018. Study 
+of interaction between metal ions and quercetin. Food Sci. Hum. 
+Wellness. 7: 215–219. doi.org/10.1016/j.fshw.2018.08.001
+Davidov-Pardo, G., McClements, D.J. 2014. Resveratrol encapsulation: 
+Designing delivery systems to overcome solubility, stability and 
+bioavailability issues. Trends Food Sci. Technol. 38: 88–103. doi.org/
+10.1016/j.tifs.2014.05.003
+Fisicaro, E., Compari, C., Braibanti, A. 2004. Entropy/enthalpy 
+compensation: Hydrophobic effect, micelles and protein complexes. 
+Phys. Chem. Chem. Phys. 6: 4156–4166. doi.org/10.1039/B404327H
+Graf, S., Egert, S., Heer, M. 2011. Effects of whey protein supplements 
+on metabolism: Evidence from human intervention studies. Curr. 
+Opin. Clin. Nutr. Metab. Care. 14: 569–580. doi: 10.1097/MCO.
+0b013e32834b89da 
+He, Z., Xu, M., Zeng, M., Qin, F., Chen, J. 2016. Interactions of milk 
+α- and β-casein with malvidin-3-O-glucoside and on the stability of 
+grape skin anthocyanin extracts. Food Chem. 199: 314–322. doi.org/
+10.1016/j.foodchem.2015.12.035
+Jeyaraj, E.J., Lim, Y.Y., Choo, W.S. 2020. Extraction methods of 
+butterfly pea (Clitoria ternatea) flower and biological activities of 
+its phytochemicals. J. Food Sci. Technol. 58: 2054–2067. doi.org/
+10.1007/s13197-020-04745-3
+Joye, I.J., Davidov-Pardo, G., Ludescher, R.D., McClements, D.J. 2015. 
+Fluorescence quenching study of resveratrol binding to zein and 
+gliadin: Towards a more rational approach to resveratrol encapsulation 
+using water-insoluble proteins. Food Chem. 185: 261–267. doi.org/
+10.1016/j.foodchem.2015.03.128
+Kazuma, K., Noda, N., Suzuki, M. 2003. Flavonoid composition related 
+to petal color in different lines of Clitoria ternatea. Phytochemistry 
+64: 1133–1139. doi.org/10.1016/S0031-9422(03)00504-1
+Koolman, J., Roehm, K.H. 2005. Color Atlas of Biochemistry, 2nd ed. 
+Georg Thieme Verlag. Stuttgart, Germany.
+Lakowicz, J.R. 2006. Principles of Fluorescence Spectroscopy, 3rd ed. 
+Springer. New York, NY, USA.
+Lee, J., Durst, R.W., Wrolstad, R.E. 2005. Determination of 
+total monomeric anthocyanin pigment content of fruit juices, 
+beverages, natural colorants, and wines by the pH differential method: 
+collaborative study. J. AOAC Int. 88: 1269–1278. doi.org/10.1093/
+jaoac/88.5.1269
+Lowry, O.H., Rosebrough, N.J., Farr, A.L., Randall, R.J. 1951. Protein 
+measurement with the Folin phenol reagent. J. Biol. Chem. 193: 
+265–275. doi.org/10.1016/S0021-9258(19)52451-6
+Miller, G. 1959. Use of dinitrosalicylic acid reagent for determination 
+of reducing sugar. Anal. Chem. 31: 426–428. doi.org/10.1021/
+ac60147a030
+Mohammadi, F., Moeeni, M. 2015. Analysis of binding interaction of 
+genistein and kaempferol with bovine α-lactalbumin. J. Funct. Foods. 
+12: 458–467. doi.org/10.1016/j.jff.2014.12.012
+Naczk, M., Grant, S., Zadernowski, R., Barre, E. 2006. Protein precipitating 
+capacity of phenolic of wild blueberry leaves and fruits. Food Chem. 
+96: 640–647. doi.org/10.1016/j.foodchem.2005.03.017
+Richmond, M.L., Barfuss, D.L., Harte, B.R., Gray, J.I., Stine, C.M. 1982. 
+Separation of carbohydrates in dairy products by high performance 
+liquid chromatography. J. Dairy Sci. 65: 1394–1400. doi.org/10.3168/
+jds.S0022-0302(82)82360-6
+Schmidt, R.H., Packard, V.S., Morris, H.A. 1984. Effect of processing 
+on whey protein functionality. J. Dairy Sci. 67: 2723–2733. doi.
+org/10.3168/jds.S0022-0302(84)81630-6
+Srivichai, S., Hongsprabhas, P. 2020. Profiling anthocyanins in 
+Thai purple yams (Dioscorea alata L.). Int. J. Food Sci. 2020: 1594291. 
+doi.org/10.1155/2020/1594291
+Terahara, N., Oda, M., Matsui, T., Osajima, Y., Saito, N., Toki, K., 
+Honda, T. 1996. Five new anthocyanins, ternatins A3, B4, B3, B2, 
+and D2, from Clitoria ternatea flowers. J. Nat. Prod. 59: 139–144. 
+doi.org/10.1021/np960050a 
+Terahara, N., Toki, K., Saito, N., Honda, T., Matsui, T., Osajima, Y. 1998. 
+Eight new anthocyanins, ternatin C1-C5 and D3 and pre-ternatins 
+A3 and C4 from young Clitoria ternatea flowers. J. Nat. Prod. 61: 
+1361–1367. doi.org/10.1021/np980160c
+Vuong, T.T., Hongsprabhas, P. 2021. Influences of pH on binding 
+mechanisms of anthocyanins from butterfly pea flower (Clitoria 
+ternatea) with whey powder and whey protein isolate. Cogent Food 
+Agric. 7: 1889098, doi.org/10.1080/23311932.2021.1889098 
+Zhu, H., Damodaran, S. 1994. Effects of calcium and magnesium ions 
+on aggregation of whey protein isolate and its effect on foaming 
+properties. J. Agric. Food Chem. 42: 856–862. doi.org/10.1021/
+jf00040a003

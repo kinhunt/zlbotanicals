@@ -1,0 +1,153 @@
+{
+  "source_checks": [
+    {
+      "source": 1,
+      "raw_hash_ok": true,
+      "text_hash_ok": true
+    },
+    {
+      "source": 2,
+      "raw_hash_ok": true,
+      "text_hash_ok": true
+    },
+    {
+      "source": 3,
+      "raw_hash_ok": true,
+      "text_hash_ok": true
+    },
+    {
+      "source": 4,
+      "raw_hash_ok": true,
+      "text_hash_ok": true
+    },
+    {
+      "source": 5,
+      "raw_hash_ok": true,
+      "text_hash_ok": true
+    },
+    {
+      "source": 6,
+      "raw_hash_ok": true,
+      "text_hash_ok": true
+    },
+    {
+      "source": 7,
+      "raw_hash_ok": true,
+      "text_hash_ok": true
+    },
+    {
+      "source": 8,
+      "raw_hash_ok": true,
+      "text_hash_ok": true
+    }
+  ],
+  "quote_checks": [
+    {
+      "id": "C01",
+      "exact_quote": true
+    },
+    {
+      "id": "C02",
+      "exact_quote": true
+    },
+    {
+      "id": "C03",
+      "exact_quote": true
+    },
+    {
+      "id": "C04",
+      "exact_quote": true
+    },
+    {
+      "id": "C05",
+      "exact_quote": true
+    },
+    {
+      "id": "C06",
+      "exact_quote": true
+    },
+    {
+      "id": "C07",
+      "exact_quote": true
+    },
+    {
+      "id": "C08",
+      "exact_quote": true
+    },
+    {
+      "id": "C09",
+      "exact_quote": true
+    },
+    {
+      "id": "C10",
+      "exact_quote": true
+    },
+    {
+      "id": "C11",
+      "exact_quote": true
+    },
+    {
+      "id": "C12",
+      "exact_quote": true
+    },
+    {
+      "id": "C13",
+      "exact_quote": true
+    },
+    {
+      "id": "C14",
+      "exact_quote": true
+    }
+  ],
+  "inventory_checks": [
+    {
+      "path": "src/content/blog/en/stevia-temporal-sensory.md",
+      "matches_git": true
+    },
+    {
+      "path": "src/content/blog/en/zero-calorie-sweetener-market-2026.md",
+      "matches_git": true
+    },
+    {
+      "path": "src/content/blog/zh/stevia-temporal-sensory.md",
+      "matches_git": true
+    },
+    {
+      "path": "src/content/blog/zh/zero-calorie-sweetener-market-2026.md",
+      "matches_git": true
+    },
+    {
+      "path": "src/content/products/en/monk-fruit.md",
+      "matches_git": true
+    },
+    {
+      "path": "src/content/products/zh/monk-fruit.md",
+      "matches_git": true
+    },
+    {
+      "path": "src/data/stevia-segregation/en.md",
+      "matches_git": true
+    },
+    {
+      "path": "src/data/stevia-segregation/zh.md",
+      "matches_git": true
+    },
+    {
+      "path": "src/data/deep-ingredients.json",
+      "matches_git": true
+    },
+    {
+      "path": "src/data/ingredient-reader-packs.json",
+      "matches_git": true
+    },
+    {
+      "path": "src/data/ingredient-knowledge.json",
+      "matches_git": true
+    }
+  ],
+  "potency_recalculation": [
+    261.7801047120419,
+    144.0922190201729,
+    106.38297872340426
+  ]
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "url": "https://monkfruitcorp.com/monk-fruit-juice-concentrate",
+    "retrieved": "2026-09-23",
+    "raw_path": "sources/1.html",
+    "text_path": "sources/1.txt",
+    "method": "web_extract recovered page text; direct HTTP403 preserved in html, NOT original successful HTML",
+    "source_type": "official manufacturer/brand webpage",
+    "raw_sha256": "32f2fa940d4b4fe19aca1e53a24e5aac29c57b7c5ee78588325b87f1b649c864",
+    "text_sha256": "1c809fca92012335fa5abff7a2080d3312a922c57d1696315183e363370f5158",
+    "cited": true
+  },
+  {
+    "id": 2,
+    "url": "https://monkfruitcorp.com/monk-fruit-extract",
+    "retrieved": "2026-09-23",
+    "raw_path": "sources/2.html",
+    "text_path": "sources/2.txt",
+    "method": "web_extract recovered page text; direct HTTP403 preserved in html, NOT original successful HTML",
+    "source_type": "official manufacturer/brand webpage",
+    "raw_sha256": "32f2fa940d4b4fe19aca1e53a24e5aac29c57b7c5ee78588325b87f1b649c864",
+    "text_sha256": "1cf972cc53fc9f83480ffd6b64e252eacdc333f1f1a5ec55f5e14976945f3c88",
+    "cited": true
+  },
+  {
+    "id": 3,
+    "url": "https://layncorp.com/monk-fruit",
+    "retrieved": "2026-09-23",
+    "raw_path": "sources/3.html",
+    "text_path": "sources/3.txt",
+    "method": "web_extract recovered page text; direct HTTP403 preserved in html, NOT original successful HTML",
+    "source_type": "official manufacturer/brand webpage",
+    "raw_sha256": "889403e5cfbb7981f7a26aced0d7492524e5397d6996f7fccd67562d2a4a71a3",
+    "text_sha256": "7fb192898befaaa8680c8f9b3a71bd2a48567f2a2304ab2b93dfa284bf13f68a",
+    "cited": false
+  },
+  {
+    "id": 4,
+    "url": "https://www.chempoint.com/products/download?grade=75199&doctype=tds&documentid=01030001139010936249106&language=English",
+    "retrieved": "2026-09-23",
+    "raw_path": "sources/4.pdf",
+    "text_path": "sources/4.txt",
+    "method": "direct requests HTTP200",
+    "source_type": "official distributor specification PDF",
+    "raw_sha256": "90070dbe565d9b81e3697c1410cd8b433ef8409fa41e3c16197fddb342fc0815",
+    "text_sha256": "c1ea6e766f21d3ee0594bb8ff3363020b39887c96c37088f0e2cdb4befe0055f",
+    "cited": true
+  },
+  {
+    "id": 5,
+    "url": "https://www.matakanasuperfoods.com/products/monk-fruit-juice-powder",
+    "retrieved": "2026-09-23",
+    "raw_path": "sources/5.html",
+    "text_path": "sources/5.txt",
+    "method": "direct requests HTTP200",
+    "source_type": "official manufacturer/brand webpage",
+    "raw_sha256": "f4de846ed0c63393a7ca3e5069b736685ac064c3cca86c490fbe21e5bb56dea0",
+    "text_sha256": "45aec62142390bbbfa57a330525725eeb8c7058298b92737dbc242a696c00a80",
+    "cited": true
+  },
+  {
+    "id": 6,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6264705/fullTextXML",
+    "retrieved": "2026-09-23",
+    "raw_path": "sources/6.xml",
+    "text_path": "sources/6.txt",
+    "method": "direct requests HTTP200",
+    "source_type": "original research full text XML",
+    "raw_sha256": "94166dff7f0aa2cdc6c83ffc4949296e1b45a9f0ee601a07a339b83e9a98ac82",
+    "text_sha256": "e17c43918df043666bb927d686b9c56e310f24cb32c0037edb3d8ebb8c98b6b9",
+    "cited": true
+  },
+  {
+    "id": 7,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6266678/fullTextXML",
+    "retrieved": "2026-09-23",
+    "raw_path": "sources/7.xml",
+    "text_path": "sources/7.txt",
+    "method": "direct requests HTTP200",
+    "source_type": "original research full text XML",
+    "raw_sha256": "619d3a4f4f869248b28f8e12dcbcddaf8eb6cc16128b759d85f1507a67918a2d",
+    "text_sha256": "4ef9f5584130863445cd4749cf81b580fb6f6b62fb44f7ec0572cf0e94242711",
+    "cited": true
+  },
+  {
+    "id": 8,
+    "url": "https://www.lakanto.com/products/lakanto-classic-sugar-free-sweetener",
+    "retrieved": "2026-09-23",
+    "raw_path": "sources/8.html",
+    "text_path": "sources/8.txt",
+    "method": "direct requests HTTP200",
+    "source_type": "official manufacturer/brand webpage",
+    "raw_sha256": "8e1276769ea216b0d2c56efc70ea0a5dce9bea2eb0ae39abfc8080ab2624e5e9",
+    "text_sha256": "3302c231a7f27bcc766fc545a26ce57e54c7334e260909d36768f7999695d6f7",
+    "cited": true
+  }
+]

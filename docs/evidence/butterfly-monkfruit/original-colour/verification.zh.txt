@@ -1,0 +1,4 @@
+info: stats: 17 prose sentence(s), 14 with declared provenance (82%) — 14 cited, 0 marked [unverified] (a sentence may be both); 4 distinct source(s) cited, 10 in ledger (6 with evidence quotes)
+warn: registered in the ledger but not cited in this draft: [2], [3], [4], [5], [6], [10]
+warn: 1 sentence(s) carry more than 3 citations
+citations OK

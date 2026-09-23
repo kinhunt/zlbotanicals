@@ -1,0 +1,366 @@
+{
+  "timestamp_utc": "2026-09-23T16:03:30.839438+00:00",
+  "command": [
+    "browserman",
+    "script",
+    "list",
+    "--json"
+  ],
+  "exit_code": 0,
+  "stdout": {
+    "ok": true,
+    "command": "script.list",
+    "browser": {
+      "id": "[REDACTED]",
+      "name": "cedar-vale"
+    },
+    "result": {
+      "success": true,
+      "description": "Use platform.id as --platform. aliases are discovery names/domains, not platform ids. For multi-instance platforms, use --base-url or --marketplace.",
+      "platforms": [
+        {
+          "id": "x",
+          "displayName": "X / Twitter",
+          "aliases": [
+            "x.com",
+            "twitter.com"
+          ],
+          "defaultBaseUrl": "https://x.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 19
+        },
+        {
+          "id": "linkedin",
+          "displayName": "LinkedIn",
+          "aliases": [
+            "linkedin.com",
+            "www.linkedin.com"
+          ],
+          "defaultBaseUrl": "https://www.linkedin.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 17
+        },
+        {
+          "id": "reddit",
+          "displayName": "Reddit",
+          "aliases": [
+            "reddit.com",
+            "www.reddit.com"
+          ],
+          "defaultBaseUrl": "https://www.reddit.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 16
+        },
+        {
+          "id": "medium",
+          "displayName": "Medium",
+          "aliases": [
+            "medium.com"
+          ],
+          "defaultBaseUrl": "https://medium.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 12
+        },
+        {
+          "id": "youtube",
+          "displayName": "YouTube",
+          "aliases": [
+            "youtube.com",
+            "www.youtube.com"
+          ],
+          "defaultBaseUrl": "https://www.youtube.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 12
+        },
+        {
+          "id": "weibo",
+          "displayName": "Weibo",
+          "aliases": [
+            "weibo.com",
+            "www.weibo.com"
+          ],
+          "defaultBaseUrl": "https://weibo.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 10
+        },
+        {
+          "id": "hackernews",
+          "displayName": "Hacker News",
+          "aliases": [
+            "news.ycombinator.com",
+            "hackernews.com",
+            "hn"
+          ],
+          "defaultBaseUrl": "https://news.ycombinator.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 8
+        },
+        {
+          "id": "producthunt",
+          "displayName": "Product Hunt",
+          "aliases": [
+            "producthunt.com",
+            "www.producthunt.com"
+          ],
+          "defaultBaseUrl": "https://www.producthunt.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 4
+        },
+        {
+          "id": "substack",
+          "displayName": "Substack",
+          "aliases": [
+            "substack.com",
+            "www.substack.com"
+          ],
+          "defaultBaseUrl": "https://substack.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 3
+        },
+        {
+          "id": "forem",
+          "displayName": "DEV.to / Forem",
+          "aliases": [
+            "dev.to",
+            "www.dev.to",
+            "forem.com",
+            "www.forem.com"
+          ],
+          "defaultBaseUrl": "https://dev.to",
+          "supportsBaseUrl": true,
+          "supportsMarketplace": false,
+          "actionCount": 8
+        },
+        {
+          "id": "hashnode",
+          "displayName": "Hashnode",
+          "aliases": [
+            "hashnode.com",
+            "www.hashnode.com"
+          ],
+          "defaultBaseUrl": "https://hashnode.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 5
+        },
+        {
+          "id": "xiaohongshu",
+          "displayName": "xiaohongshu",
+          "aliases": [
+            "xiaohongshu.com",
+            "www.xiaohongshu.com"
+          ],
+          "defaultBaseUrl": "https://www.xiaohongshu.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 14
+        },
+        {
+          "id": "bilibili",
+          "displayName": "bilibili",
+          "aliases": [
+            "bilibili.com",
+            "www.bilibili.com"
+          ],
+          "defaultBaseUrl": "https://www.bilibili.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 9
+        },
+        {
+          "id": "zhihu",
+          "displayName": "zhihu",
+          "aliases": [
+            "zhihu.com",
+            "www.zhihu.com",
+            "zhuanlan.zhihu.com"
+          ],
+          "defaultBaseUrl": "https://www.zhihu.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 8
+        },
+        {
+          "id": "xueqiu",
+          "displayName": "xueqiu",
+          "aliases": [
+            "xueqiu.com",
+            "www.xueqiu.com",
+            "mp.xueqiu.com"
+          ],
+          "defaultBaseUrl": "https://xueqiu.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 2
+        },
+        {
+          "id": "eastmoney",
+          "displayName": "eastmoney",
+          "aliases": [
+            "eastmoney.com",
+            "www.eastmoney.com",
+            "quote.eastmoney.com"
+          ],
+          "defaultBaseUrl": "https://quote.eastmoney.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 1
+        },
+        {
+          "id": "10jqka",
+          "displayName": "10jqka",
+          "aliases": [
+            "10jqka.com.cn",
+            "t.10jqka.com.cn",
+            "www.10jqka.com.cn"
+          ],
+          "defaultBaseUrl": "https://t.10jqka.com.cn",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 1
+        },
+        {
+          "id": "douyin",
+          "displayName": "douyin",
+          "aliases": [
+            "douyin.com",
+            "www.douyin.com",
+            "creator.douyin.com"
+          ],
+          "defaultBaseUrl": "https://creator.douyin.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 11
+        },
+        {
+          "id": "taobao",
+          "displayName": "taobao",
+          "aliases": [
+            "taobao.com",
+            "www.taobao.com",
+            "s.taobao.com",
+            "item.taobao.com",
+            "tmall.com",
+            "www.tmall.com",
+            "detail.tmall.com"
+          ],
+          "defaultBaseUrl": "https://www.taobao.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 2
+        },
+        {
+          "id": "google",
+          "displayName": "google",
+          "aliases": [
+            "google.com",
+            "www.google.com"
+          ],
+          "defaultBaseUrl": "https://www.google.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 1
+        },
+        {
+          "id": "amazon",
+          "displayName": "amazon",
+          "aliases": [
+            "amazon.com",
+            "www.amazon.com",
+            "amazon.co.uk",
+            "www.amazon.co.uk",
+            "amazon.de",
+            "www.amazon.de",
+            "amazon.fr",
+            "www.amazon.fr",
+            "amazon.it",
+            "www.amazon.it",
+            "amazon.es",
+            "www.amazon.es",
+            "amazon.ca",
+            "www.amazon.ca",
+            "amazon.co.jp",
+            "www.amazon.co.jp",
+            "amazon.in",
+            "www.amazon.in",
+            "amazon.com.au",
+            "www.amazon.com.au",
+            "amazon.com.mx",
+            "www.amazon.com.mx",
+            "amazon.com.br",
+            "www.amazon.com.br",
+            "amazon.nl",
+            "www.amazon.nl",
+            "amazon.se",
+            "www.amazon.se",
+            "amazon.sg",
+            "www.amazon.sg",
+            "amazon.ae",
+            "www.amazon.ae",
+            "amazon.sa",
+            "www.amazon.sa",
+            "amazon.com.tr",
+            "www.amazon.com.tr",
+            "amazon.pl",
+            "www.amazon.pl",
+            "amazon.com.be",
+            "www.amazon.com.be"
+          ],
+          "defaultBaseUrl": "https://www.amazon.com",
+          "supportsBaseUrl": true,
+          "supportsMarketplace": true,
+          "actionCount": 2
+        },
+        {
+          "id": "weixinmp",
+          "displayName": "WeChat Official Account",
+          "aliases": [
+            "mp.weixin.qq.com",
+            "weixinmp",
+            "wechatmp",
+            "wechat-official-account"
+          ],
+          "defaultBaseUrl": "https://mp.weixin.qq.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 9
+        },
+        {
+          "id": "weixinchannels",
+          "displayName": "WeChat Channels",
+          "aliases": [
+            "channels.weixin.qq.com",
+            "weixinchannels",
+            "wechat-channels"
+          ],
+          "defaultBaseUrl": "https://channels.weixin.qq.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 3
+        },
+        {
+          "id": "shopify-community",
+          "displayName": "Shopify Community",
+          "aliases": [
+            "community.shopify.com",
+            "shopify-community"
+          ],
+          "defaultBaseUrl": "https://community.shopify.com",
+          "supportsBaseUrl": false,
+          "supportsMarketplace": false,
+          "actionCount": 15
+        }
+      ]
+    }
+  },
+  "stderr": ""
+}
