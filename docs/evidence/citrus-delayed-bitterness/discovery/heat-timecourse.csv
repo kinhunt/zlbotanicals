@@ -1,0 +1,16 @@
+treatment_C,juice_storage_day,limonin_mg_L,sd_mg_L,letters,fruit_postharvest_days,replicate_tubes,locator
+25,0,0.38,0.07,Db,55,3,Supplement PDF p3 Table S2 right block; STJ 0; HTJ 25C
+25,1,2.34,0.16,Cb,55,3,Supplement PDF p3 Table S2 right block; STJ 1; HTJ 25C
+25,3,3.19,0.18,Bb,55,3,Supplement PDF p3 Table S2 right block; STJ 3; HTJ 25C
+25,5,3.51,0.21,Aa,55,3,Supplement PDF p3 Table S2 right block; STJ 5; HTJ 25C
+25,10,3.6,0.2,Aa,55,3,Supplement PDF p3 Table S2 right block; STJ 10; HTJ 25C
+70,0,2.15,0.17,Ca,55,3,Supplement PDF p3 Table S2 right block; STJ 0; HTJ 70C
+70,1,2.79,0.18,Ba,55,3,Supplement PDF p3 Table S2 right block; STJ 1; HTJ 70C
+70,3,3.52,0.17,Aab,55,3,Supplement PDF p3 Table S2 right block; STJ 3; HTJ 70C
+70,5,3.62,0.18,Aa,55,3,Supplement PDF p3 Table S2 right block; STJ 5; HTJ 70C
+70,10,3.66,0.19,Aa,55,3,Supplement PDF p3 Table S2 right block; STJ 10; HTJ 70C
+80,0,2.15,0.13,Ca,55,3,Supplement PDF p3 Table S2 right block; STJ 0; HTJ 80C
+80,1,2.89,0.15,Ba,55,3,Supplement PDF p3 Table S2 right block; STJ 1; HTJ 80C
+80,3,3.55,0.17,Aa,55,3,Supplement PDF p3 Table S2 right block; STJ 3; HTJ 80C
+80,5,3.65,0.17,Aa,55,3,Supplement PDF p3 Table S2 right block; STJ 5; HTJ 80C
+80,10,3.68,0.18,Aa,55,3,Supplement PDF p3 Table S2 right block; STJ 10; HTJ 80C

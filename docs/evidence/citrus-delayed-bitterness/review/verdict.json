@@ -1,0 +1,48 @@
+{
+  "verdict": "PASS",
+  "gate": "exact_EN_ZH_content_integration",
+  "publication_approval": false,
+  "review_date": "2026-09-23",
+  "report": "/data/hermes/research/seo-growth/2026-09-23-citrus-final-content/REVIEW.md",
+  "full_drafts_independently_read": true,
+  "blocking_findings": [],
+  "revisions": {"M1": "PASS", "M2": "PASS", "M3": "PASS", "M4": "PASS", "M5": "PASS"},
+  "files": [
+    {"path": "/data/hermes/research/seo-growth/2026-09-23-citrus-editorial/draft.en.revised.md", "sha256": "9e6a06254aa8005859173931545332f57a421b8a349f0910604fe4971963f781"},
+    {"path": "/data/hermes/research/seo-growth/2026-09-23-citrus-editorial/draft.zh.revised.md", "sha256": "6b8334a2a0c0240cace2325a1a4b7ad8e477671066be88b81e4031eacfbd3b36"}
+  ],
+  "evidence_hashes": {
+    "newhall-full.xml": "2d6b8e6c1e0cb4208b90dceaba1c91cdfa523a5496b7e5593cd257eda2d298ca",
+    "molecules-23-02691-s001.pdf": "2d19e978d1ae52ffaf1be96fa8af07bd48bfb82503daf68808d87a0aada2f3eb",
+    "supplement-page-3.png": "95ae20667e927c2284a902c73c1d19e2aa1d812688ad2ba6e72d4829ac0c3b67",
+    "supplement-page-4.png": "deb9c3e2511d4e00d38acb89d4fb4c167790dd22854b603e7bd98ade849619e6",
+    "heat-timecourse.csv": "9e422c7d6dde9e0228def532a6ab7031a3da3978afd863b80f75e9ae65e0c10a"
+  },
+  "verification": {
+    "newhall_xml_body_paragraphs_matched_to_read_fulltext": 31,
+    "actual_supplement_pdf_pages": 5,
+    "actual_pdf_pages_inspected": [3, 4],
+    "original_page_images_visually_read": [3, 4],
+    "body_table_mean_sd_pairs_matched": 6,
+    "timecourse_mean_sd_letter_rows_matched": 15,
+    "S3_day10_control": "1.30 ± 0.10 Aa mg/L",
+    "S3_day10_clarified": "1.15 ± 0.06 Ab mg/L",
+    "control_concentration_denominator_mL": 18.5,
+    "non_significance_not_equivalence_explicit": true,
+    "citation_strict_evidence_EN": "citations OK",
+    "citation_strict_evidence_ZH": "citations OK"
+  },
+  "nonblocking_notes": [
+    "Replace internal source display labels with full paper titles and years at integration.",
+    "L35 ultimate amount wording is a negated inference, not an asserted measured endpoint; no HOLD needed."
+  ],
+  "remaining_integration_QA": [
+    "Accessible mobile table and source links",
+    "Locale metadata and links",
+    "Any newly rendered figure, including exact units, sampling days and treatment labels"
+  ],
+  "scope_exclusions": ["publication", "repository build", "all unused primary-paper figures", "experimental replication", "live source availability"],
+  "input_files_modified": false,
+  "repository_modified": false,
+  "browserman_used": false
+}

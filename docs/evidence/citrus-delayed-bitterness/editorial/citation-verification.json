@@ -1,0 +1,70 @@
+[
+  {
+    "language": "en",
+    "stage": "original",
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-23-citrus-editorial/ledger.json",
+      "verify",
+      "/data/hermes/research/seo-growth/2026-09-23-new-discovery/citrus/draft.en.md",
+      "--evidence",
+      "--strict"
+    ],
+    "exit_code": 0,
+    "stdout": "info: stats: 59 prose sentence(s), 19 with declared provenance (32%) \u2014 19 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 3 in ledger (3 with evidence quotes)\ncitations OK\n",
+    "stderr": ""
+  },
+  {
+    "language": "en",
+    "stage": "revised",
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-23-citrus-editorial/ledger.json",
+      "verify",
+      "/data/hermes/research/seo-growth/2026-09-23-citrus-editorial/draft.en.revised.md",
+      "--evidence",
+      "--strict"
+    ],
+    "exit_code": 0,
+    "stdout": "info: stats: 60 prose sentence(s), 19 with declared provenance (32%) \u2014 19 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 3 in ledger (3 with evidence quotes)\ncitations OK\n",
+    "stderr": ""
+  },
+  {
+    "language": "zh",
+    "stage": "original",
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-23-citrus-editorial/ledger.json",
+      "verify",
+      "/data/hermes/research/seo-growth/2026-09-23-new-discovery/citrus/draft.zh.md",
+      "--evidence",
+      "--strict"
+    ],
+    "exit_code": 0,
+    "stdout": "info: stats: 1 prose sentence(s), 1 with declared provenance (100%) \u2014 1 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 3 in ledger (3 with evidence quotes)\ncitations OK\n",
+    "stderr": ""
+  },
+  {
+    "language": "zh",
+    "stage": "revised",
+    "command": [
+      "python",
+      "/data/hermes/skills/research/grounded-citations/scripts/sources.py",
+      "--ledger",
+      "/data/hermes/research/seo-growth/2026-09-23-citrus-editorial/ledger.json",
+      "verify",
+      "/data/hermes/research/seo-growth/2026-09-23-citrus-editorial/draft.zh.revised.md",
+      "--evidence",
+      "--strict"
+    ],
+    "exit_code": 0,
+    "stdout": "info: stats: 1 prose sentence(s), 1 with declared provenance (100%) \u2014 1 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 3 in ledger (3 with evidence quotes)\ncitations OK\n",
+    "stderr": ""
+  }
+]

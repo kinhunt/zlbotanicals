@@ -1,0 +1,122 @@
+[
+  {
+    "file": "EVIDENCE.md",
+    "bytes": 24636,
+    "sha256": "62f5b7701381aaa1d033d6bca40f75151512c08f39af4524ffbe9839c60902b8"
+  },
+  {
+    "file": "REVIEW.md",
+    "bytes": 4251,
+    "sha256": "f806a93c5aaae2be8ef6c46b360b6eae41687bfa95d1bfdd9b72339aef7a0b1b"
+  },
+  {
+    "file": "START-HERE.md",
+    "bytes": 1350,
+    "sha256": "a5b5509c2e8290d7bcecfb0b07ec6082e82e8a93179b0fb6f0d5e12512750f92"
+  },
+  {
+    "file": "VISUALS-AND-NUMBERS.md",
+    "bytes": 3390,
+    "sha256": "33aa4e8e20e876f7ffdcc3aae2948999019b448c74c43bfe47d740e3d7590128"
+  },
+  {
+    "file": "draft.en.md",
+    "bytes": 10517,
+    "sha256": "13cdf4460801c7dcc97a801c19b3f507cca56f1d5fe0d6b1db5c814f9d361a15"
+  },
+  {
+    "file": "draft.zh.md",
+    "bytes": 9293,
+    "sha256": "7650fd7680e972467bac583da9c15bfbaa569c0f68a21009c7d4377666559282"
+  },
+  {
+    "file": "evidence-quotes.json",
+    "bytes": 24721,
+    "sha256": "d106d46270c1f09403ec58e6f955116577b5f9ecf455bd4fd4d78f19826943ef"
+  },
+  {
+    "file": "heat-timecourse.csv",
+    "bytes": 1297,
+    "sha256": "9e422c7d6dde9e0228def532a6ab7031a3da3978afd863b80f75e9ae65e0c10a"
+  },
+  {
+    "file": "hybrids-flat.txt",
+    "bytes": 75760,
+    "sha256": "709dcc9f023bf0c92ba19dbeb1c2a1a2fc144d7a8d557f67e9037d2656e781c6"
+  },
+  {
+    "file": "hybrids-full.json",
+    "bytes": 6244,
+    "sha256": "b11837a7d91ee0e14f9a18677eb22466d43c0a608a38f8cbcd434ec3ed78087e"
+  },
+  {
+    "file": "hybrids-live.raw",
+    "bytes": 1018897,
+    "sha256": "59c7ce1158cfdcfa5f8cf783ca47cbe550838e0ea595710b9c147ad62cd193c7"
+  },
+  {
+    "file": "hybrids-live.txt",
+    "bytes": 75760,
+    "sha256": "5da9748b884e823a2db2ac042c3f62c59979bcd9614c4f35290ab5110f662c9b"
+  },
+  {
+    "file": "ledger.json",
+    "bytes": 24522,
+    "sha256": "2a3736b9d3b30485dea362b33b1b0f7986996df3a878c7760243f335a27687b7"
+  },
+  {
+    "file": "main-readonly-audit.json",
+    "bytes": 11686,
+    "sha256": "ac228eed2261a001e1fc202ec2f95462acc96cc9c417edc0035be92b23126ff1"
+  },
+  {
+    "file": "molecules-23-02691-s001.pdf",
+    "bytes": 348230,
+    "sha256": "2d19e978d1ae52ffaf1be96fa8af07bd48bfb82503daf68808d87a0aada2f3eb"
+  },
+  {
+    "file": "newhall-full-wrapped.txt",
+    "bytes": 38906,
+    "sha256": "6ec4d54ed619e9a6f2760551d8e1840feeeca09da452d44117df6b5a3fb84c97"
+  },
+  {
+    "file": "newhall-full.txt",
+    "bytes": 38909,
+    "sha256": "def9b1e1738aa3056c38ebfa72de1f7dcf4f6e29c0dc419e41e7381c6d220fda"
+  },
+  {
+    "file": "newhall-full.xml",
+    "bytes": 73574,
+    "sha256": "2d6b8e6c1e0cb4208b90dceaba1c91cdfa523a5496b7e5593cd257eda2d298ca"
+  },
+  {
+    "file": "newhall-supplement.raw",
+    "bytes": 458094,
+    "sha256": "85533ebb4a49a4ff273af192004765d3dec4687a77db789ca1ee261b96225750"
+  },
+  {
+    "file": "numeric-cell-check.json",
+    "bytes": 2121,
+    "sha256": "8b18ab0554147f9373f99daae275f0b1e183dcc19d86cecd30b0a5e94050b5da"
+  },
+  {
+    "file": "supplement-page-3.png",
+    "bytes": 67840,
+    "sha256": "95ae20667e927c2284a902c73c1d19e2aa1d812688ad2ba6e72d4829ac0c3b67"
+  },
+  {
+    "file": "supplement-page-4.png",
+    "bytes": 74103,
+    "sha256": "deb9c3e2511d4e00d38acb89d4fb4c167790dd22854b603e7bd98ade849619e6"
+  },
+  {
+    "file": "supplement-text.txt",
+    "bytes": 5391,
+    "sha256": "db8d512c772de2168f2bb754642947e76d07722a8a8956575f0a1470becc1184"
+  },
+  {
+    "file": "verification.json",
+    "bytes": 1292,
+    "sha256": "32c11d873fb52468dcce0316ec2833f42a11b1eeb39f069c3f0ed8aa6e9c761d"
+  }
+]
