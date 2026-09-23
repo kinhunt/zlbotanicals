@@ -1,0 +1,128 @@
+[
+  [
+    " ",
+    "compound",
+    "type of phenolic",
+    "λmax (nm)",
+    "m/z [M – H]−",
+    "retention time RT (min)",
+    "percentage of total area (%)"
+  ],
+  [
+    "1",
+    "gallic acid",
+    "phenolic\nacid",
+    "270",
+    "169",
+    "3.75",
+    "2.40"
+  ],
+  [
+    "2",
+    "chlorogenic acid",
+    "phenolic acid",
+    "242, 324",
+    "353",
+    "12.81",
+    "9.86"
+  ],
+  [
+    "3",
+    "PC B2",
+    "flavanol",
+    "238, 280",
+    "577",
+    "14.47",
+    "0.88"
+  ],
+  [
+    "4",
+    "epicatechin",
+    "flavanol",
+    "278",
+    "289",
+    "15.28",
+    "38.73"
+  ],
+  [
+    "5",
+    "caffeic acid",
+    "phenolic\nacid",
+    "216, 324",
+    "179",
+    "15.94",
+    "2.51"
+  ],
+  [
+    "6",
+    "Hyperin",
+    "flavonol",
+    "255, 355",
+    "463",
+    "20.30",
+    "13.80"
+  ],
+  [
+    "7",
+    "isoquercetin",
+    "flavonol",
+    "260, 354",
+    "463",
+    "20.54",
+    "2.95"
+  ],
+  [
+    "8",
+    "avicularin",
+    "flavonol",
+    "258, 359",
+    "433",
+    "21.64",
+    "1.10"
+  ],
+  [
+    "9",
+    "quercitrin",
+    "flavonol",
+    "255, 355",
+    "447",
+    "22.06",
+    "4.03"
+  ],
+  [
+    "10",
+    "cynaroside",
+    "flavone",
+    "239, 269, 340",
+    "447",
+    "22.48",
+    "4.56"
+  ],
+  [
+    "11",
+    "phloretin",
+    "dihydrochalcone",
+    "286",
+    "273",
+    "22.97",
+    "0.42"
+  ],
+  [
+    "12",
+    "phloridzin",
+    "phenolic acid",
+    "288",
+    "435",
+    "23.24",
+    "0.73"
+  ],
+  [
+    "13",
+    "quercetin",
+    "flavonol",
+    "370",
+    "301",
+    "23.91",
+    "3.61"
+  ]
+]

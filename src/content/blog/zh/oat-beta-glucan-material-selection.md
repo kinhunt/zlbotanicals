@@ -1,0 +1,93 @@
+---
+title: "饮料用燕麦β-葡聚糖：不要只按分子量选原料"
+lang: "zh"
+publishDate: "2026-09-23"
+category: "research"
+guideCategory: "application-guides"
+relatedIndustries: ["food", "beverages"]
+tags: ["燕麦β-葡聚糖"]
+description: "结合历史检测数据、燕麦基质与现有商业原料，区分分子量、黏度和β-葡聚糖含量，为饮料选料。"
+relatedProducts: []
+relatedSolutions: []
+sources: []
+---
+
+仅凭报告的分子量高低，无法预测哪一种燕麦β-葡聚糖原料会让饮料更稠。一项公开研究比较了两种商业燕麦原料：报告分子量较高的一种，初始检测黏度反而更低；经过体外消化处理后，黏度又发生了变化。这里比较的不是只有β-葡聚糖的纯溶液，而是含有其他燕麦组分的原料。对采购来说，关键在于：分子量描述的是聚合物，不能概括整包粉末遇水后的表现。[Wolever等，2020，表1与方法部分](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)<a href="#oat-beta-glucan-material-selection-ref-1">[1]</a>
+
+因此，饮料项目首先要决定的，并非笼统的“高分子量还是低分子量”，而是采用麸皮成分较多的原料、可溶性燕麦浓缩原料，还是经过定向降解的β-葡聚糖原料，并判断它在实际工艺之后是否仍符合产品目标。原料是什么、含多少β-葡聚糖、制成饮料后有什么表现，需要分别回答。
+
+## 一组商业原料数据，为什么不能排成简单的高低榜
+
+Wolever等人的研究使用了两种商业原料，论文当时将其标为OatWell（OP1）和PromOat（OP2），另有四种实验改性材料。人体试验中，每份含β-葡聚糖的餐前样品均将提供4 g燕麦β-葡聚糖的原料加入200 mL水中，对照则为水，但对应的原料用量分别是OP1 13.7 g、OP2 11.90 g。β-葡聚糖等量，并不意味着粉末等量，更不意味着其他营养组分相同。[论文表1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)<a href="#oat-beta-glucan-material-selection-ref-1">[1]</a>
+
+<table class="oat-apple-table"><caption>历史试验材料：报告的检测平均值±标准差，并非当前供货规格</caption>
+<thead><tr><th scope="col">论文中的历史试验材料</th><th scope="col">报告的β-葡聚糖分子量，kDa</th><th scope="col">初始检测黏度，cP</th><th scope="col">体外消化处理后检测黏度，cP</th></tr></thead><tbody>
+<tr><th scope="row"><span class="mobile-label">论文中的历史试验材料</span><span class="cell-value">OP1：OatWell</span></th><td><span class="mobile-label">报告的β-葡聚糖分子量，kDa</span><span class="cell-value">1,980 ± 265</span></td><td><span class="mobile-label">初始检测黏度，cP</span><span class="cell-value">25 ± 1</span></td><td><span class="mobile-label">体外消化处理后检测黏度，cP</span><span class="cell-value">112 ± 9</span></td></tr>
+<tr><th scope="row"><span class="mobile-label">论文中的历史试验材料</span><span class="cell-value">OP2：PromOat</span></th><td><span class="mobile-label">报告的β-葡聚糖分子量，kDa</span><span class="cell-value">841 ± 110</span></td><td><span class="mobile-label">初始检测黏度，cP</span><span class="cell-value">117 ± 7</span></td><td><span class="mobile-label">体外消化处理后检测黏度，cP</span><span class="cell-value">143 ± 7</span></td></tr>
+</tbody></table>
+
+以上是论文四次平行测定的平均值±标准差，不是这些品牌目前的供货规格。分子量分析采用色谱分离与calcofluor荧光检测。补充方法注明，在快速黏度分析仪中以37°C、160 rpm搅拌5分钟后记录初始黏度，加入酶后在相同温度和转速下再处理120分钟。这些是检测条件，不是饮料生产工艺建议。表中的“消化后”指加入淀粉酶和蛋白酶的<strong>体外检测</strong>，并非直接测量受试者体内的黏度。[表1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)<a href="#oat-beta-glucan-material-selection-ref-1">[1]</a>；[补充方法](https://mdpi-res.com/d_attachment/nutrients/nutrients-12-02275/article_deploy/nutrients-12-02275-s001.pdf)<a href="#oat-beta-glucan-material-selection-ref-3">[3]</a>
+
+这组数据还有一处不能略去的方法描述问题。补充文件写的是将0.5 g样品加入25 mL缓冲液，并称固液比与人体试验一致。如果“样品”指整份商业粉末，这一比例就与表1的人体试验原料用量不符，原文没有澄清。因此，这里只能将其作为<strong>作者报告的检测比较</strong>，不能据此还原受试者喝下的饮料黏度，更不能直接用作采购限值或品牌排名。[补充方法](https://mdpi-res.com/d_attachment/nutrients/nutrients-12-02275/article_deploy/nutrients-12-02275-s001.pdf)<a href="#oat-beta-glucan-material-selection-ref-3">[3]</a>
+
+它仍然提出了有价值的选料问题：现有数据并不支持仅凭分子量，给不同燕麦制品的黏度排序。采购需要同一方法、同一制样口径下的比较；2020年试验中的品牌名称，也不能证明今天该品牌下的每一个牌号都有相同组成。
+
+## 供应商真正提供的选择，比“燕麦提取物”具体得多
+
+Lantmännen目前的PromOat公开资料将其描述为可溶性燕麦麸皮纤维，并强调不溶性纤维很少。产品单页列出<strong>Standard、Gluten-free、Instant和Gluten-free organic</strong>四种版本。这些是实际商业产品的区分，但单页没有给出各版本的分子量规格。不能看到“Instant”，就自行解释成“低分子量”。[厂家产品页](https://www.lantmannenbiorefineries.com/food-ingredients/products/oat-beta-glucan/promoat/)<a href="#oat-beta-glucan-material-selection-ref-4">[4]</a>；[产品单页](https://www.lantmannenbiorefineries.com/siteassets/5.-food-ingredients/ingredienser/havrefiber/3.-promoat/promoat_product-leaflet_241015.pdf)<a href="#oat-beta-glucan-material-selection-ref-6">[6]</a>
+
+含量用语同样值得细读。网页写的是β-葡聚糖含量“最高可达34%”，无麸质版本“最高可达29%”；产品单页则写无麸质版本“含29%”。两份资料都不是包含检测基准、允差和批次结果的完整采购规格。不能把产品介绍中的最高值写成每批最低保证值，也不能默认四个版本浓度相同。[产品页](https://www.lantmannenbiorefineries.com/food-ingredients/products/oat-beta-glucan/promoat/)<a href="#oat-beta-glucan-material-selection-ref-4">[4]</a>；[单页第1—2页](https://www.lantmannenbiorefineries.com/siteassets/5.-food-ingredients/ingredienser/havrefiber/3.-promoat/promoat_product-leaflet_241015.pdf)<a href="#oat-beta-glucan-material-selection-ref-6">[6]</a>
+
+在饮料应用上，厂家强调增黏、顺滑和醇厚口感，并特别提到弱酸性、冷藏应用。产品页和单页另有“耐酸、耐热”的概括性描述，但并未给出完整的时间—温度—pH适用范围，也未证明特定工艺之后分子量能保留多少。这些信息足以支持向厂家索取适用牌号和应用数据，却不能证明该原料能轻松用于口感轻薄、清亮、常温储存的酸性饮料。[厂家应用页](https://www.lantmannenbiorefineries.com/food-ingredients/products/oat-beta-glucan/promoat/applications/)<a href="#oat-beta-glucan-material-selection-ref-5">[5]</a>
+
+## 燕麦基底更稠，释放出来的β-葡聚糖却可能更少
+
+将可溶性浓缩原料与燕麦粉、麸皮型基底比较时，尤其要分清聚合物与整份原料。
+
+Grundy等人研究了燕麦片、由同批燕麦片磨成的粉，以及一种富含β-葡聚糖的麸皮材料BG32。研究比较了本次实验中水热处理前后的样品，在37°C缓冲液中孵育，测定β-葡聚糖释放量、分子量及分离所得上清液的流变表现。这是一项实验室材料研究，不是成品饮料货架期试验。[Grundy等，2017，全文](https://pmc.ncbi.nlm.nih.gov/articles/PMC5388193/)<a href="#oat-beta-glucan-material-selection-ref-2">[2]</a>
+
+在该实验中，蒸煮处理使燕麦粉和燕麦片释放出的β-葡聚糖减少，却使其分离所得液相更黏。作者将这种看似矛盾的现象与富淀粉基质和残留颗粒联系起来。后续酶处理帮助区分了不同组分的贡献：淀粉酶对蒸煮后燕麦粉、燕麦片样品黏度的影响最大；能够降解β-葡聚糖的地衣多糖酶则使BG32样品黏度大幅下降。[结果3.2—3.4节](https://pmc.ncbi.nlm.nih.gov/articles/PMC5388193/)<a href="#oat-beta-glucan-material-selection-ref-2">[2]</a>
+
+采购启示不是“不要加热”，而是：<strong>燕麦基底的稠度，不能替代已溶出且保持完整的β-葡聚糖检测。</strong> 燕麦粉型原料与可溶性浓缩原料可能因为不同组分而获得相近的表观稠度。如果产品任务是补充β-葡聚糖，而不只是增加稠度，选出更稠的烧杯样品，并不等于选对了原料。
+
+同一研究还观察到，部分燕麦粉和燕麦片样品经过很长时间孵育后，β-葡聚糖分子量下降，作者讨论了残留β-葡聚糖酶活性的影响；经过相关酶失活处理的BG32则表现不同。该结果不能预测某条生产线暂存期间会损失多少，但说明原料的酶处理与失活历史值得问清，而不是无关紧要的背景信息。[结果3.3节](https://pmc.ncbi.nlm.nih.gov/articles/PMC5388193/)<a href="#oat-beta-glucan-material-selection-ref-2">[2]</a>
+
+## “用酶降黏”，实际上可能是两件不同的事
+
+燕麦饮料太稠时，只说“加酶处理”还不足以形成研发方案。水解淀粉与降解β-葡聚糖，针对的是体系中不同的黏度来源。
+
+Wolever研究中的低分子量试验材料，也不是给原来的麸皮换了一个分子量标签。其制备经过含β-葡聚糖酶的酶制剂处理、挤压、孵育、热水提取、离心、回收可溶部分、冻干和粉碎，材料组成和结构同时发生了变化。因此，这些结果不能直接预测任意商业“低分子量燕麦β-葡聚糖”的表现，也不能把全部差异都归因于分子链变短。[补充文件中的制备方法](https://mdpi-res.com/d_attachment/nutrients/nutrients-12-02275/article_deploy/nutrients-12-02275-s001.pdf)<a href="#oat-beta-glucan-material-selection-ref-3">[3]</a>
+
+研发时应把目标说清楚。<strong>希望降低淀粉带来的厚重感，同时保留选定的β-葡聚糖特征</strong>，需要核实酶制剂及其在实际基底中的作用证据；<strong>希望主动缩短β-葡聚糖链来调整流动性</strong>，则意味着要重新确认所得原料的分子量分布与β-葡聚糖含量。这里是两条不同的决策路径，并非已经验证的生产配方。只测黏度，无法完成其中任何一条的确认。
+
+## 第一轮试样，就应回答一个具体的采购问题
+
+与其拿一长串粉末按相同添加量盲筛，不如先明确产品最需要比较哪两种原料路线。
+
+<strong>做燕麦风味突出、口感醇厚的饮料：</strong> 可以将现有燕麦粉或麸皮路线与可溶性浓缩原料比较，按有检测依据的β-葡聚糖投入量对齐，并保留原基底作为参照。两者带入的总固形物、淀粉、蛋白质和不溶物差异，本来就是选料的一部分，不应被掩盖。随后再看实际加热、冷却和暂存过程之后，口感是否符合目标。
+
+<strong>做口感轻薄的饮料：</strong> 先确定能接受的稠度，再讨论是否需要最高分子量。厂家所强调的增稠优势，在这个项目里可能恰好构成限制。筛选较低黏度的候选原料时，要弄清差异来自浓度、水化程度、伴随固形物，还是β-葡聚糖本身被刻意降解。前述研究说明，这几种路径不能混为一谈。
+
+<strong>现有燕麦基底已经经过酶处理：</strong> 应在真实基底和工艺条件下确认β-葡聚糖原料，而不是只在水中试配。需要了解用了哪些酶、何时失活，以及有哪些数据支持处理后的β-葡聚糖特征。不能仅凭“酶法工艺”四个字，就推断一定保留或一定降解。
+
+这些是基于文献提出的配方比较建议，不是供应商的性能承诺。批准某个牌号时，应把可识别的供货原料与β-葡聚糖含量及检测基准、必要时的分子量检测方法，以及明确浓度、温度、水化时间和剪切条件的黏度结果对应起来。成品中的组分含量与饮用口感，仍然是两项不同的验收决定。
+
+## 配方做对了，不等于健康宣称已经成立
+
+2020年的研究纳入了16名健康受试者。预先设定的主要终点——血糖峰值升幅，以及次要终点——0—120分钟血糖增量曲线下面积，均未显示处理间的显著差异。早期血糖反应和达峰时间的部分结果来自额外的事后比较。研究获得DSM和VTT支持，作者中也包括这两家机构的员工。它不能为一款新饮料提供血糖功效承诺，更不能据此设定通用的“有效分子量门槛”。[论文结果、局限性与利益披露](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)<a href="#oat-beta-glucan-material-selection-ref-1">[1]</a>
+
+真正有助于推进采购的问题更具体：<strong>哪一种实际供货的燕麦原料，在这套工艺之后，能够兼顾目标β-葡聚糖含量与饮用口感？</strong> 把每份用量、期望稠度、基底组成、酶处理步骤、热加工路线和销售市场带入询价，先确认拟供牌号及其文件，再讨论价格和试样。论文中的材料名称与宣传页上的含量数字，都不能替代这一步。
+
+## 参考来源
+
+<p id="oat-beta-glucan-material-selection-ref-1">[1] <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/">P1: 2020 original randomized crossover study; publisher XML full text and original PDF</a></p>
+
+<p id="oat-beta-glucan-material-selection-ref-2">[2] <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5388193/">P2: 2017 original processing experiment; full publisher-deposited XML</a></p>
+
+<p id="oat-beta-glucan-material-selection-ref-3">[3] <a href="https://mdpi-res.com/d_attachment/nutrients/nutrients-12-02275/article_deploy/nutrients-12-02275-s001.pdf">P1supp: full original supplementary methods PDF</a></p>
+
+<p id="oat-beta-glucan-material-selection-ref-4">[4] <a href="https://www.lantmannenbiorefineries.com/food-ingredients/products/oat-beta-glucan/promoat/">S1: official manufacturer documentation, attributed claims only</a></p>
+
+<p id="oat-beta-glucan-material-selection-ref-5">[5] <a href="https://www.lantmannenbiorefineries.com/food-ingredients/products/oat-beta-glucan/promoat/applications/">S2: official manufacturer documentation, attributed claims only</a></p>
+
+<p id="oat-beta-glucan-material-selection-ref-6">[6] <a href="https://www.lantmannenbiorefineries.com/siteassets/5.-food-ingredients/ingredienser/havrefiber/3.-promoat/promoat_product-leaflet_241015.pdf">S4: official manufacturer documentation, attributed claims only</a></p>

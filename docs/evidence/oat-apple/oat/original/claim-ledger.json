@@ -1,0 +1,72 @@
+[
+  {
+    "id": "C01",
+    "sources": "P1",
+    "location": "Table 1; section 2.3",
+    "supported_claim": "Historical OP1 OatWell and OP2 PromOat; 4g beta-glucan in200mL; ingredient13.7g/11.90g; MW1980±265/841±110kDa; initial25±1/117±7cP; post112±9/143±7cP",
+    "boundary": "Original randomized crossover study,16 healthy subjects; assay values means±SD quadruplicate. No current product specs, no product ranking."
+  },
+  {
+    "id": "C02",
+    "sources": "P1supp",
+    "location": "p1 viscosity method",
+    "supported_claim": "0.5g sample25mL buffer;37°C160rpm5min then amylase/protease120min; in-vitro not measured gut viscosity",
+    "boundary": "Same-ratio claim conflicts with total powder amounts in P1. Preserve uncertainty; do not call equal-beta-glucan viscosity assay or equate to consumed drink."
+  },
+  {
+    "id": "C03",
+    "sources": "P1supp",
+    "location": "p1 hydrolysis method",
+    "supported_claim": "Enzyme/extrusion/incubation/extraction/centrifugation/soluble fraction recovery/freeze-drying/milling",
+    "boundary": "Modified materials not MW-only causal controls or commercial low-MW specifications."
+  },
+  {
+    "id": "C04",
+    "sources": "P1",
+    "location": "Results Table2; Discussion; funding/conflicts",
+    "supported_claim": "Primary peak rise p=.19 and secondary iAUC0-120 p=.20; post-hoc early/time endpoints; DSM VTT support and employee authors",
+    "boundary": "No finished-product efficacy, universal MW threshold or absence-of-any-effect claim."
+  },
+  {
+    "id": "C05",
+    "sources": "P2",
+    "location": "Methods2.1–2.5; results3.2–3.4",
+    "supported_claim": "Oat flakes/flour/BG32;37°C buffer incubation; cooking reduced BG release but increased flour/flake supernatant viscosity; amylase vs lichenase response",
+    "boundary": "Laboratory model, not shelf life. Mechanistic starch explanation attributed. No numerical table values used in public text."
+  },
+  {
+    "id": "C06",
+    "sources": "P2",
+    "location": "Results3.3; methods2.4",
+    "supported_claim": "Late72h MW decline some flour/flake samples, residual enzyme discussion; BG32 enzyme inactivation",
+    "boundary": "No predicted factory loss; calcofluor MW has relative/apparent range limitation."
+  },
+  {
+    "id": "C07",
+    "sources": "S1,S4",
+    "location": "Product page benefits; leafletpp1–2",
+    "supported_claim": "Soluble oat-bran fibre, little insoluble fibre; Standard/GF/Instant/GF organic portfolio",
+    "boundary": "Manufacturer claims; no endorsement/availability/brand representation. Instant does not establish lowMW."
+  },
+  {
+    "id": "C08",
+    "sources": "S1,S4",
+    "location": "Content language",
+    "supported_claim": "Website up to34%,GF up to29%; leaflet GF contains29%",
+    "boundary": "Preserve different wording; no guaranteed minimum/dry or as-supplied basis inferred."
+  },
+  {
+    "id": "C09",
+    "sources": "S1,S2,S4",
+    "location": "Applications beverage; functional benefits",
+    "supported_claim": "Supplier describes viscosity creaminess mildly acidic refrigerated use and acid/heat stable",
+    "boundary": "No validated pH/time/temperature or retained MW; supplier statements only."
+  },
+  {
+    "id": "C10",
+    "sources": "P1,P1supp,P2,S1,S2,S4",
+    "location": "Cross-source original synthesis",
+    "supported_claim": "Separate equal beta-glucan input, whole matrix composition, process and texture; compare real-base candidates; distinguish starch thinning from polymer depolymerization",
+    "boundary": "Editorial recommendations, explicitly not validated recipes or laboratory findings. No numerical performance promise."
+  }
+]

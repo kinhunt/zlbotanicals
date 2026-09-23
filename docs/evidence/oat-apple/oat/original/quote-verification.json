@@ -1,0 +1,74 @@
+[
+  {
+    "source": "P1",
+    "needle": "The sources of OBG",
+    "found": true,
+    "excerpt": "The sources of OBG in 2 of the treatments were commercial oat products (OatWell ® , DSM Nutritional Products, Heerlen, The Netherlands, termed OP1; and PromOat ® , Tate & Lyle, London, UK, termed OP2), while the source of OBG in 4 of the treatments (MW1, MW2, MW3, and MW4) consisted of OP1 which had been treated to reduce the MW of the OBG it contained using a method based on Zurbriggen et al. [ 14 ] and Aktas-Akyildiz et al. [ 15 ]. The details of this procedure are described in  Supplemental Information .\nThe amount of OBG in the test sources was measured using the American Organization of Analytical Chemists approved method 995.16 [ 16 ]. The viscosity of the test OBG sources was measured using a method adapted from the American Association of Cereal Chemists International approved method 32-24.01 [ 17 ]. Viscosity measured by this method has previously been shown to correlate with po"
+  },
+  {
+    "source": "P1",
+    "needle": "There was no significant difference among treatments",
+    "found": true,
+    "excerpt": "There was no significant difference among treatments for the primary endpoint of the glucose peak rise and no significant difference for the secondary endpoint of glucose iAUC0-120.\nAdditional analysis showed that the iAUC0-45 after MW3, MW4, OP1, and OP2 were significantly less than the Control, and, after MW4 and OP1, it took significantly longer for blood glucose to reach a peak than after the Control ( Table 2 ). Glucose iAUC45-120 differed significantly among treatments, but none of the treatments differed from the Control ( Table 2 ).\nWhen expressed as a % of Control, iAUC0-45 was significantly associated with log MW ( p  < 0.0001), log initial viscosity ( p  < 0.01), and log post-digestion viscosity ( p  = 0.006) ( Figure 2 ). Ten-fold (1 log unit) increases in MW, initial viscosity, and post-digestion viscosity, respectively, were associated with ~17, ~16 and ~20% reductions in i"
+  },
+  {
+    "source": "P1",
+    "needle": "Financial and in-kind support",
+    "found": true,
+    "excerpt": "Financial and in-kind support for this study was provided by DSM Nutritional Products Ltd. and VTT Technical Research Centre of Finland Ltd.\nT.M.S.W., his wife, and A.J. are owners and employees of INQUIS Clinical Research, Ltd., a contract research organization; neither they nor INQUIS has any financial interest in any company involved in producing, distributing, or marketing foods or food ingredients and, in particular, no financial interest in DSM or VTT. O.M. and N.R.S. are employees of VTT. A.H. is an employee of INQUIS. R.D. and R.E.S. are employees of DSM Nutritional Products, Basel, Switzerland; they do not have any conflict of interest regarding the publication of this article. S.M.T. has no conflicts of interest to declare.\nClick here for additional data file."
+  },
+  {
+    "source": "P2",
+    "needle": "The hydrothermally treated (cooked) oat flour",
+    "found": true,
+    "excerpt": "The hydrothermally treated (cooked) oat flour and flakes ( Fig. 2 c and d) showed much lower amounts ( P <  0.001) of β-glucan released after 72 h of incubation (28.8 and 25.1% for flour and flakes, respectively) compared with the raw samples (56.3 and 50.5% for flour and flakes, respectively). The presence of starch could explain this phenomenon, since starch and water-soluble polysaccharides are highly likely to compete for the available free water ( Webster, 2011 ). At the beginning of the hydrothermal process, the starch located on the fractured surfaces of the milled oat particles would have hydrated and swollen by absorbing water. The gelatinisation of the readily available starch on the fractured surface, and in the underlying contiguous cell layers (i.e. the encapsulated starch), are likely to have hindered the release and solubility of the β-glucan. Indeed, it is well known that"
+  },
+  {
+    "source": "P2",
+    "needle": "Amylase addition",
+    "found": true,
+    "excerpt": "Amylase addition to the incubated BG32 solution had virtually no effect on viscosity values and shear-thinning behaviour, indicating that the starch in this sample did not contribute to solution rheology ( Fig. 5 a). Instead, the addition of lichenase (which depolymerises β-glucan) induced a major drop in the viscosity of BG32 ( Fig. 5 b), which is consistent with the results from a recent study ( Gamel, Abdel-Aal, Ames, Duss, & Tosh, 2014 ). This behaviour provides convincing evidence that the β-glucan content in BG32 is the major contributor to the rheological behaviour of the incubated BG32 solutions. However, in the case of the oat flake and flour solutions, the enzyme treatments induced some decrease in the viscosity compared with the original cooked samples ( Fig. 4 ,  Fig. 5 ). Treatment with amylase had the greatest impact on the rheological properties, with a decrease of several"
+  },
+  {
+    "source": "P2",
+    "needle": "The cooking method used",
+    "found": true,
+    "excerpt": "The cooking method used in the present study did not succeed in fully inhibiting the β-glucanase activity and longer cooking time with stirring may have been more effective, as previously reported ( Yiu, 1986 ,  Yiu et al., 1987 ). Indeed, this method may have permitted starch gelatinisation, but some of the structural integrity of the oat matrix, including the cell walls as well as the native starch structure, appeared to be preserved (see Microscopy results section). The decrease in MW after 72 h, relative to earlier incubation times, was also more noticeable for the flour than the flakes, suggesting perhaps that β-glucanase activity is preserved in the relatively undamaged cells in the inner regions of oat tissue particles, as in the case of the flakes with large particle size. In contrast, the MW of β-glucan in the BG32 sample remained constant throughout the whole incubation time, s"
+  },
+  {
+    "source": "P2",
+    "needle": "It should be noted that outside",
+    "found": true,
+    "excerpt": "It should be noted that outside a MW range of 10–500 × 10 3  g/mol, the post column calcofluor method yields only relative/apparent molecular weight values ( Rieder, Ballance, & Knutsen, 2015 ). Above a MW of 500 × 10 3  g/mol, the calcofluor method results in an increasing underestimation of the MW compared to other methods such as SEC-RI, but has the advantage of being able to determine β-glucan MW in crude extracts.\nThe MW distribution of guar galactomannan was determined in aqueous solutions at concentrations of 1 mg/mL as previously described ( Rieder et al., 2015a ) and is reported as weight-average molecular weight.\nRaw and cooked oat samples incubated for 1, 2, 5 and 72 h, as described above (section  2.3 .), were centrifuged (1800 g for 10 min) and the supernatant collected for rheological measurements. Also, solutions of purified polymers, guar gum and β-glucan (BG1 and BG2), w"
+  },
+  {
+    "source": "S1",
+    "needle": "Its beta-glucan content is up to 34%",
+    "found": true,
+    "excerpt": "Its beta-glucan content is up to 34%, which makes it easy to achieve the daily dosages required for specific health benefit claims. PromOat is also available as gluten-free. Its beta-glucan content is up to 29%. PromOat Oat beta-glucan is a clean-label fibre, produced from Nordic oats. It is soluble, clean-tasting, and neutral in colour. It can be used in food and beverage formulations for its health and functional benefits. PromOat can also thicken and stabilize emulsions and impart an indulgent creamy mouthfeel. PromOat is part of the range of oat ingredients produced by Lantmännen, which also includes PrOatein Oat protein and Avenacare Oat beta-glucan for cosmetics applications. Contact us Health benefits PromOat Oat beta-glucan – The natural, healthy, functional oat ingredient. PromOat, a unique soluble fibre ingredient from oats, gives your products access to the positive effects as"
+  },
+  {
+    "source": "S1",
+    "needle": "Its beta-glucan content is up to 29%",
+    "found": true,
+    "excerpt": "Its beta-glucan content is up to 29%. PromOat Oat beta-glucan is a clean-label fibre, produced from Nordic oats. It is soluble, clean-tasting, and neutral in colour. It can be used in food and beverage formulations for its health and functional benefits. PromOat can also thicken and stabilize emulsions and impart an indulgent creamy mouthfeel. PromOat is part of the range of oat ingredients produced by Lantmännen, which also includes PrOatein Oat protein and Avenacare Oat beta-glucan for cosmetics applications. Contact us Health benefits PromOat Oat beta-glucan – The natural, healthy, functional oat ingredient. PromOat, a unique soluble fibre ingredient from oats, gives your products access to the positive effects associated with oats, including promotion of healthy cholesterol levels, a low glycaemic response and healthy digestion. It is also a good source of additional fibre to a varie"
+  },
+  {
+    "source": "S2",
+    "needle": "It performs very well in mildly acidic",
+    "found": true,
+    "excerpt": "It performs very well in mildly acidic and refrigerated applications . Contact us for application information Cereals and bars PromOat O at beta-glucan can give the extra touch to granolas, extruded cereals, and porridges. It has a natural fit with oat-based cereals but also works very well in other types of breakfast products or bars. PromOat easily supplements oats to provide enough beta- glucan for heart health claims and can contribute to a fibre claim too. It does not inhibit expansion of extruded cereal pieces and has a clean taste. Contact us for application information Meat analogues PromOat Oat beta-glucan is a soluble oat fibre that can be used in meat analogue. Especially in combination with other hydrocolloids , PromOat enhances your products th rough stabilis ing emulsions, bind ing water and oil , binding the system, and maintaining a stable shape at refrigerated temperatur"
+  },
+  {
+    "source": "S4",
+    "needle": "PromOat Gluten-",
+    "found": true,
+    "excerpt": "PromOat Gluten-free\n•\t\nPromOat Instant\n•\t\nPromOat Gluten-free organic\n\nApplications\nHealth benefits\nHealthy cholesterol levels – PromOat Oat beta-glucan \ncan be used in foods positioned for their bene­ficial \neffects on heart health. High blood cholesterol is a risk \nfactor in the development of coronary heart disease. \nMany clinical trials over the years have shown that \noat beta-glucan helps to maintain blood cholesterol \nconcentrations that are within the normal range. \nIn Europe, the European Commission has granted \nthe following health claim for oat beta-glucan: \n“Oat beta-glucan has been shown to lower/reduce \nblood cholesterol. High cholesterol is a risk factor in \nthe development of coronary heart disease”.\nHealthy blood glucose levels – Use PromOat Oat \nbeta-glucan in foods intended to help maintain \nhealthy blood glucose levels. Oat beta-glucan has \na low glycaemic response. In"
+  },
+  {
+    "source": "S4",
+    "needle": "PromOat is acid",
+    "found": true,
+    "excerpt": "PromOat is acid \nand heat stable, enabling its use in a wide variety of \nindustrial processes.\nFat substitute – PromOat helps rebalance the fat \nand calorie content of recipes due to fat-mimicking \nproperties. PromOat can help create calorie-reduced \nrecipes for indulgent products. Its unique moisture \nbinding and texturing properties allow PromOat to \nbe used to replace some of the fat in recipes without \naffecting the great taste of the products.\n \nInnovation from field to fork\nLantmännen Biorefineries AB is part of Lantmännen, an \nagricultural cooperative and Northern Europe’s leader in \nagriculture, machinery, bioenergy and food products. \nWith research and operations throughout the entire value \nchain, we take responsibility from field to fork.\nContact us\nEmail: foodingredients@lantmannen.com\nPhone: +46 10 556 01 50\nwww.lantmannenbiorefineries.com\nFor more information, please visit "
+  }
+]

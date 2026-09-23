@@ -1,0 +1,496 @@
+{
+  "sha": "d387c94c9b7e802e72ca13c97ffd5716b155e4b6",
+  "hits": [
+    {
+      "path": "src/components/IndustryResources.astro",
+      "matches": [
+        {
+          "line": 11,
+          "text": " cosmetics:['centella-asiatica','licorice-root','green-tea','grape-seed'],"
+        },
+        {
+          "line": 12,
+          "text": " nutraceuticals:['reishi-mushroom','ginseng','turmeric','grape-seed'],"
+        }
+      ]
+    },
+    {
+      "path": "src/content/blog/en/beet-colour-plant-based-meat.md",
+      "matches": [
+        {
+          "line": 49,
+          "text": "In the authors’ proposed mechanism, laccase and oxygen oxidize ferulate groups in sugar beet pectin to form radicals. These act as mediators, helping oxidize the beet pigment; reactions involving ferulate groups and protein tyrosine residues could also produce pectin–protein crosslinks.<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a> This explains why the pectin is being studied as a reaction partner, not just a thickener. The pathway remains a proposal, and the work does not validate ordinary citrus or apple pectin as substitutes."
+        }
+      ]
+    },
+    {
+      "path": "src/content/blog/en/citrus-pectin-gel-selection.md",
+      "matches": [
+        {
+          "line": 81,
+          "text": "For calcium-enriched drinks, H&F's [protein-stabilisation guide](https://www.herbstreith-fox.de/wp-content/uploads/2022/03/AWT_Ue_Acidified_milk_products_protein_stabilisation_en.pdf) identifies an additional consideration. Blockwise free carboxyl groups can make HM citrus pectins calcium-reactive, with increased solution viscosity after calcium addition. The guide recommends adding pectin and calcium separately and notes that less calcium-reactive apple pectins can be advantageous in this application.<a href=\"#citrus-pectin-gel-selection-ref-12\">[12]</a>"
+        }
+      ]
+    },
+    {
+      "path": "src/content/blog/zh/beet-colour-plant-based-meat.md",
+      "matches": [
+        {
+          "line": 49,
+          "text": "按作者提出的机制，漆酶在氧气参与下氧化甜菜果胶上的阿魏酸基团，形成自由基。这些自由基作为反应介体，帮助氧化甜菜色素；阿魏酸基团与蛋白质酪氨酸残基参与的后续反应，还可能形成果胶—蛋白交联。<a href=\"#beet-colour-plant-based-meat-ref-30\">[30]</a> 因而，这条路线利用的不只是果胶的增稠作用，还有它参与反应的可能性。上述路径仍属于机制解释，普通柑橘果胶或苹果果胶也尚未在该研究中验证为替代品。"
+        }
+      ]
+    },
+    {
+      "path": "src/content/blog/zh/beetroot-product-formats.md",
+      "matches": [
+        {
+          "line": 58,
+          "text": "展示标签依次列有甜菜根粉、发酵甜菜根粉、天然黑樱桃香料、苹果酸、抗坏血酸镁，以及来自甜叶菊叶的莱鲍迪苷A。每份为一茶匙、5克，每罐30份。<a href=\"#beetroot-product-formats-ref-3\">[3]</a> 因而，这里的5克是复配成品的份量，不能写成每份含5克甜菜根粉。"
+        }
+      ]
+    },
+    {
+      "path": "src/content/blog/zh/citrus-pectin-gel-selection.md",
+      "matches": [
+        {
+          "line": 81,
+          "text": "对于钙强化饮料，H&F的[蛋白稳定技术手册](https://www.herbstreith-fox.de/wp-content/uploads/2022/03/AWT_Ue_Acidified_milk_products_protein_stabilisation_en.pdf)还指出：成区块分布的游离羧基可使HM柑橘果胶表现出钙反应性，加入钙后溶液黏度会上升。手册建议分别添加果胶和钙，并指出钙反应性较低的苹果果胶在这类应用中可能更有利。<a href=\"#citrus-pectin-gel-selection-ref-12\">[12]</a>"
+        }
+      ]
+    },
+    {
+      "path": "src/content/products/en/grape-seed.md",
+      "matches": [
+        {
+          "line": 2,
+          "text": "name: Grape Seed Extract"
+        },
+        {
+          "line": 5,
+          "text": "description: \"ZL Botanicals supplies grape seed extract for capsules, drinks and topical development.\""
+        },
+        {
+          "line": 6,
+          "text": "image: /images/products/grape-seed.webp"
+        }
+      ]
+    },
+    {
+      "path": "src/content/products/zh/grape-seed.md",
+      "matches": [
+        {
+          "line": 3,
+          "text": "nameEn: Grape Seed Extract"
+        },
+        {
+          "line": 7,
+          "text": "image: /images/products/grape-seed.webp"
+        }
+      ]
+    },
+    {
+      "path": "src/data/deep-ingredients.json",
+      "matches": [
+        {
+          "line": 2096,
+          "text": "              \"text\": \"作者还用100 μL、0.5 mM的Rb1溶液配合2 mM柠檬酸、苹果酸或琥珀酸，在封闭微毛细玻璃管中130°C处理1小时。没有有机酸的水中Rb1相对稳定，有酸时则生成脱糖/脱水产物，包含Rg3(S)、Rg3(R)、Rk1与Rg5。[3] 这个对照把“高温本身”与“高温加酸”分开，是比单独一条工艺得率更有用的证据。建议红参加工记录同时包含水分、可提取酸或滴定酸度、温度时间，而不是只记录蒸了几遍。\""
+        },
+        {
+          "line": 2907,
+          "text": "    \"productId\": \"grape-seed\","
+        },
+        {
+          "line": 2909,
+          "text": "    \"pack\": \"group-c/grape-seed.md\","
+        },
+        {
+          "line": 3147,
+          "text": "              \"text\": \"A grape-seed dossier should follow seed-derived polyphenols and proanthocyanidin profiles, not mix in seed-oil lipid specifications, skin pigment narratives or evidence for isolated resveratrol. An original clinical-supply quality study characterized grape-seed-extract capsules, resveratrol capsules and Concord grape juice separately, developing different analytical procedures.[34] A purchasing identity should specify species, part, fermentation history, whether oil was removed, defatting method, solvent and carrier. Oil and polyphenol recovery are distinct separation objectives and require separate mass balances.\""
+        },
+        {
+          "line": 3246,
+          "text": "              \"text\": \"**Gummies/cosmetics—engineering proposals.** In gummies, jointly evaluate acidity, addition temperature, gel system and water activity. More sugar is not the sole route to reducing perceived astringency, and may change texture/color. For cosmetics, screen pH, metal contact, emulsifier and preservative systems with color, odor, centrifuge stability and chromatographic measurements. Cellular antioxidant activity cannot replace emulsion storage or package-compatibility tests. Active-packaging development additionally requires actual film mechanical properties, migration, challenge testing and food-contact conditions; the repository's existing packaging theme is not used as evidence for every grape-seed application.\""
+        },
+        {
+          "line": 3256,
+          "text": "              \"text\": \"The original method comparison found that colorimetric assays provide only crude size-distribution information, whereas normal-phase HPLC separates monomer, oligomer and larger-polymer regions.[52] A separate HPLC/UV/MS investigation compared 21 commercial products with authenticated grape seed, peanut skin and pine bark extracts, identified peanut-skin adulteration in nine, and developed TLC screening.[33] Nine of 21 describes that sample set, not today's market prevalence. It establishes why total phenolics and antioxidant capacity cannot authenticate botanical source.\""
+        },
+        {
+          "line": 3333,
+          "text": "                  \"Grape-seed extracts/products; retrieved abstract lacks total sample count\","
+        },
+        {
+          "line": 3359,
+          "text": "        \"title\": \"Optimization of the Extraction of Proanthocyanidins from Grape Seeds Using Ultrasonication-Assisted Aqueous Ethanol and Evaluation of Anti-Steatosis Activity In Vitro - PMC\","
+        },
+        {
+          "line": 3366,
+          "text": "        \"title\": \"Chemical investigation of commercial grape seed derived products to assess quality and detect adulteration\","
+        },
+        {
+          "line": 3380,
+          "text": "        \"title\": \"A Comparison of Methods For Quantifying Oligomeric Proanthocyanidins From Grape Seed Extracts | American Journal of Enology and Viticulture\","
+        },
+        {
+          "line": 5178,
+          "text": "              \"text\": \"Resveratrol is not synonymous with grape-seed extract. Botanical preparations may contain resveratrol, its glycoside precursor and other constituents; purified trans-resveratrol is a molecularly defined material; synthetic and microbial sources create different process and regulatory identities. The knotweed study follows resveratrol, polydatin/piceid and emodin, whereas EFSA’s synthetic-material assessment identifies related synthetic compounds and residual diisopropylamine.[41][20]\""
+        }
+      ]
+    },
+    {
+      "path": "src/data/extract-sales.ts",
+      "matches": [
+        {
+          "line": 754,
+          "text": "    \"id\": \"grape-seed\","
+        },
+        {
+          "line": 756,
+          "text": "      \"en\": \"Grape Seed Extract\","
+        },
+        {
+          "line": 764,
+          "text": "      \"en\": \"ZL Botanicals supplies grape seed extract for capsules, drinks and topical development. Our quotation combines seed-derived polyphenol identity, a defined OPC method and powder composition with the handling requirements of your formula.\","
+        },
+        {
+          "line": 856,
+          "text": "        \"en\": \"Grape-seed fractionation changes the oligomer and polymer distribution of its polyphenols.\","
+        },
+        {
+          "line": 864,
+          "text": "        \"en\": \"Grape-seed notes compare berry drinks, capsule powders and cosmetic gel-serum combinations.\","
+        },
+        {
+          "line": 872,
+          "text": "        \"en\": \"Studies of named grape-seed preparations have material-specific outcomes and limitations.\","
+        },
+        {
+          "line": 1322,
+          "text": "      \"en\": \"Is resveratrol another name for grape seed extract?\","
+        },
+        {
+          "line": 1326,
+          "text": "      \"en\": \"No. Resveratrol is a named molecule; grape seed extract is a different mixture. We keep source, trans assay and carrier loading explicit in the quotation.\","
+        }
+      ]
+    },
+    {
+      "path": "src/data/ingredient-knowledge.json",
+      "matches": [
+        {
+          "line": 388,
+          "text": "    \"productId\": \"grape-seed\","
+        },
+        {
+          "line": 389,
+          "text": "    \"canonicalPath\": \"/plant-extracts/ingredients/grape-seed\","
+        },
+        {
+          "line": 414,
+          "text": "          \"en\": \"The grape seed/skin review compares solid–liquid, ultrasound, microwave, pressurized-liquid and supercritical-fluid extraction, and reports that comparisons depend on the compounds and endpoints measured. Seed and skin are not interchangeable feedstocks. For a seed proanthocyanidin brief, propose a same-lot comparison of a stirred extraction vessel and an assisted process with a compatible solvent-recovery system; request recovery and assay comparability, not a universal “best” machine. Packaging-film casting equipment discussed in the review serves a different downstream use from beverage blending.\","
+        },
+        {
+          "line": 427,
+          "text": "          \"en\": \"For food or beverage development, compare astringency, color and protein interactions in the intended matrix. Research on antimicrobial packaging films is not proof that adding extract preserves a drink; preservation and packaging compatibility require separate validation. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Grape seed and skin extracts incorporated into biopolymer packaging films.\","
+        },
+        {
+          "line": 455,
+          "text": "          \"en\": \"Grape seed and skin extracts incorporated into biopolymer packaging films. Packaging-material research, not a clinical study or proof of beverage preservation. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.\","
+        }
+      ]
+    },
+    {
+      "path": "src/data/ingredient-knowledge.ts",
+      "matches": [
+        {
+          "line": 6,
+          "text": "export const productIds = ['green-tea','turmeric','reishi-mushroom','ginseng','ginkgo-biloba','grape-seed','goji-berry','licorice-root','centella-asiatica','monk-fruit','stevia','resveratrol'] as const;"
+        }
+      ]
+    },
+    {
+      "path": "src/data/ingredient-overviews.json",
+      "matches": [
+        {
+          "line": 192,
+          "text": "    \"productId\": \"grape-seed\","
+        },
+        {
+          "line": 199,
+          "text": "      \"en\": \"Vitis seeds, with species, fermentation history and defatting recorded. Grape skins, grape-seed oil and resveratrol are not grape-seed polyphenol extract.\","
+        },
+        {
+          "line": 311,
+          "text": "      \"en\": \"Resveratrol names a molecule, not one plant extract. Botanical knotweed roots/rhizomes, synthetic trans-resveratrol and microbial material require different source records; grape-seed extract is not synonymous.\","
+        }
+      ]
+    },
+    {
+      "path": "src/data/ingredient-reader-packs.json",
+      "matches": [
+        {
+          "line": 4335,
+          "text": "    \"productId\": \"grape-seed\","
+        },
+        {
+          "line": 4337,
+          "text": "    \"sourcePack\": \"c/grape-seed/article.json\","
+        },
+        {
+          "line": 4354,
+          "text": "              \"text\": \"Do not accept a high colour reaction alone as proof of grape seed identity. Villani and colleagues profiled 21 commercial grape seed-derived products and reported nine adulterated with peanut skin extract. That is a finding in the sampled products, not a current market-wide adulteration rate. Their abstract reports HPLC/UV/MS profiling and a TLC screen for peanut-skin adulteration.[20]\""
+        },
+        {
+          "line": 4364,
+          "text": "              \"text\": \"The 2022 extraction study identified catechin, procyanidin B2 and oligomeric/polymeric proanthocyanidins in the enriched fraction. Its biological experiments used palmitic-acid-treated mouse AML12 hepatocytes; reductions in cellular oxidative stress and lipid accumulation were in vitro results, not proof that a grape seed drink treats fatty liver.[10]\""
+        },
+        {
+          "line": 4368,
+          "text": "              \"text\": \"A randomized, double-blind trial enrolled 80 adults with mildly elevated blood pressure and tested the specified Enovita grape seed extract at 300 mg/day for 16 weeks. Despite the positive article title, the discussion reports comparable systolic blood-pressure lowering between groups overall. Sex-stratified analyses found some differences in men, while women did not show superiority over placebo. This does not establish that an unspecified grape seed extract lowers blood pressure in all users.[15]\""
+        },
+        {
+          "line": 4393,
+          "text": "              \"text\": \"For a grape seed extract capsule, the first question is whether each unit delivers a reproducible polyphenol profile. For a drink, it is whether the selected powder disperses at the intended serving level without unacceptable taste or sediment. For skin care, it is whether the actual extract remains compatible with the base, preservative system and package. The plans below treat these as separate development tasks, rather than assuming one high-assay powder fits every format.\""
+        },
+        {
+          "line": 4397,
+          "text": "              \"text\": \"Grape seed extract (GSE) here means a seed-derived polyphenol ingredient containing flavan-3-ols and proanthocyanidins. It is not grape seed oil, grape skin colour, grape juice or isolated resveratrol. A study preparing materials for a clinical trial characterized grape seed extract capsules, resveratrol capsules and Concord grape juice separately; botanical association did not make their compositions interchangeable.[11]\""
+        },
+        {
+          "line": 4447,
+          "text": "              \"text\": \"For each incoming lot, propose an identity fingerprint against authenticated grape seed material, a method-defined potency result and a declared carrier/solvent history. Add risk-based tests for moisture, microbial load, relevant pesticides, elemental contaminants and residual solvents with limits chosen for the market and product category. Where adulteration is a concern, use a targeted screen as well as the main assay. The 2015 primary study shows why a total-polyphenol result alone cannot settle identity.[20]\""
+        },
+        {
+          "line": 4465,
+          "text": "              \"text\": \"Is grape seed oil a cheaper substitute? No. This article specifies a polyphenol extract and its fingerprint, whereas seed oil is a different ingredient stream. Do not transfer extract marker assays or clinical results to an oil product merely because both come from seeds. The primary manufacturing paper treats the polyphenol materials as compositionally defined preparations.[11]\""
+        },
+        {
+          "line": 4505,
+          "text": "                  \"Grape-seed extracts/products; retrieved abstract lacks total sample count\","
+        },
+        {
+          "line": 4541,
+          "text": "              \"text\": \"Claim 1 covers a grape-seed polyphenol extraction process using water at about 140–212 °F followed by dual pH treatment. Claim 2 adds acidification to pH 1.5–2.5, pectolytic enzyme treatment and adsorbent resin; claim 5 specifies basification to pH 4.0–6.0. These are claim limitations, not merely the title. Claims 12–15 tie food, beverage, cosmetic and supplement products to the extract of claim 11.[8]\""
+        },
+        {
+          "line": 4557,
+          "text": "              \"text\": \"Claim 1 defines a grape polyphenol extract by about 5–15% monomers, 5–20% dimers, 3–10% trimers, 2–10% tetramers and 2–10% pentamers by weight, with about 2% or less epicatechin-gallate terminal units. Claim 9 adds a pharmaceutically acceptable excipient to the defined extract; claim 17 concerns a food or beverage comprising that composition. This is a composition-focused granted claim set, not a general claim to every grape seed product.[9]\""
+        },
+        {
+          "line": 4561,
+          "text": "              \"text\": \"The description includes grape seed extraction, so the document is relevant to a grape seed polyphenol article even though claim 1 says grapes rather than seeds exclusively. It makes oligomer distribution and galloylation relevant procurement questions. Its family is distinct from the 1999-priority extraction family above.[6][9]\""
+        },
+        {
+          "line": 4804,
+          "text": "          \"en\": \"Berry-flavoured grape seed polyphenol drink\","
+        },
+        {
+          "line": 4811,
+          "text": "              \"text\": \"Use a supplier-qualified water-dispersible grape seed extract as the defined polyphenol input; berry flavour and a permitted sweetener build the sensory base, while citric acid adjusts acidity. Water is the vehicle. Keep added protein and mineral fortification out of the first screening batch so that any change in haze can be traced to fewer variables. Do not use grape seed oil as the polyphenol input.\""
+        },
+        {
+          "line": 4838,
+          "text": "          \"src\": \"/images/ingredient-plans/landscape/grape-seed/berry-drink.webp\","
+        },
+        {
+          "line": 4842,
+          "text": "            \"en\": \"Berry-flavoured grape seed drink with berries, seeds and extract powder.\","
+        },
+        {
+          "line": 4846,
+          "text": "            \"en\": \"Berry-flavoured grape seed drink with berries, seeds and extract powder.\","
+        },
+        {
+          "line": 4854,
+          "text": "          \"en\": \"Standardized grape seed extract capsule\","
+        },
+        {
+          "line": 4861,
+          "text": "              \"text\": \"Use a fingerprinted, standardized dry extract as the polyphenol ingredient. Microcrystalline cellulose is a proposed filler where the fill volume requires it; a small, justified amount of colloidal silica can be screened as a flow aid. Select a capsule shell through disintegration and stability testing, rather than assuming shell material is neutral. A published manufacturing study used 450 mg grape seed extract and 50 mg silica in a size 0 hard gelatin capsule; that is a documented study formulation, not a recommended dose or an instruction to copy its relatively large silica fraction.[11]\""
+        },
+        {
+          "line": 4869,
+          "text": "              \"text\": \"Set both fill-mass and marker-content uniformity criteria; equal capsule weights do not prove equal polyphenol doses. Check moisture, powder flow, segregation and shell integrity after storage. Assess disintegration and a justified dissolution or release method for selected markers. The primary quality study used gallic acid, catechin, procyanidin B2 and epicatechin as grape seed capsule markers and described UHPLC-QQQ/MS quantification; this is a useful analytical starting point, not automatic method validation for a different product.[11]\""
+        },
+        {
+          "line": 4888,
+          "text": "          \"src\": \"/images/ingredient-plans/landscape/grape-seed/capsule.webp\","
+        },
+        {
+          "line": 4892,
+          "text": "            \"en\": \"Grape seed extract capsules with brown powder and seeds.\","
+        },
+        {
+          "line": 4896,
+          "text": "            \"en\": \"Grape seed extract capsules with brown powder and seeds.\","
+        },
+        {
+          "line": 4904,
+          "text": "          \"en\": \"Grape seed extract hydrating gel serum\","
+        },
+        {
+          "line": 4938,
+          "text": "          \"src\": \"/images/ingredient-plans/landscape/grape-seed/serum.webp\","
+        },
+        {
+          "line": 4942,
+          "text": "            \"en\": \"Grape seed gel serum in a pump bottle with a translucent gel sample.\","
+        },
+        {
+          "line": 4946,
+          "text": "            \"en\": \"Grape seed gel serum in a pump bottle with a translucent gel sample.\","
+        },
+        {
+          "line": 4955,
+          "text": "        \"title\": \"Grape seed proanthocyanidins: extraction study (2000)\","
+        },
+        {
+          "line": 4973,
+          "text": "        \"title\": \"Grape seed proanthocyanidin extraction study (2022)\","
+        },
+        {
+          "line": 4985,
+          "text": "        \"title\": \"Grape seed extract and blood pressure: randomized trial (2021)\","
+        },
+        {
+          "line": 6655,
+          "text": "              \"text\": \"Polydatin (piceid) is the glycoside precursor studied in knotweed hydrolysis, not free trans-resveratrol on an equal-mass basis.[5] A crude plant extract, a hydrolyzed purified ingredient and a carrier complex are different materials. Grape-seed extract is not a substitute name for this molecule; do not infer matching composition from a botanical marketing name.\""
+        },
+        {
+          "line": 6757,
+          "text": "              \"text\": \"Resveratrol is not synonymous with grape-seed extract. Botanical preparations may contain resveratrol, its glycoside precursor and other constituents; purified trans-resveratrol is a molecularly defined material; synthetic sources create different process and regulatory identities. The knotweed study follows resveratrol, polydatin/piceid and emodin, whereas EFSA’s synthetic-material assessment identifies related synthetic compounds and residual diisopropylamine.[5][3]\""
+        }
+      ]
+    },
+    {
+      "path": "src/data/ingredient-sources.json",
+      "matches": [
+        {
+          "line": 90,
+          "text": "    \"scope\": \"Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.\","
+        },
+        {
+          "line": 97,
+          "text": "    \"scope\": \"Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.\","
+        },
+        {
+          "line": 104,
+          "text": "    \"scope\": \"Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.\","
+        },
+        {
+          "line": 111,
+          "text": "    \"scope\": \"Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.\","
+        },
+        {
+          "line": 118,
+          "text": "    \"scope\": \"Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.\","
+        },
+        {
+          "line": 124,
+          "text": "    \"title\": \"Antimicrobial Polymer Films with Grape Seed and Skin Extracts for Food Packaging.\","
+        },
+        {
+          "line": 125,
+          "text": "    \"scope\": \"Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.\","
+        },
+        {
+          "line": 132,
+          "text": "    \"scope\": \"Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.\","
+        },
+        {
+          "line": 139,
+          "text": "    \"scope\": \"Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.\","
+        },
+        {
+          "line": 146,
+          "text": "    \"scope\": \"Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.\","
+        },
+        {
+          "line": 153,
+          "text": "    \"scope\": \"Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.\","
+        },
+        {
+          "line": 160,
+          "text": "    \"scope\": \"Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.\","
+        },
+        {
+          "line": 167,
+          "text": "    \"scope\": \"Metadata and abstract checked; selected open full text for reishi, grape seed, Centella, monk fruit and resveratrol. No health claims adopted.\","
+        }
+      ]
+    },
+    {
+      "path": "src/data/plant-extracts.json",
+      "matches": [
+        {
+          "line": 2070,
+          "text": "      \"slug\": \"grape-seed\","
+        },
+        {
+          "line": 2071,
+          "text": "      \"scienceId\": \"grape-seed\","
+        },
+        {
+          "line": 2075,
+          "text": "          \"title\": \"Grape Seed Extract\","
+        },
+        {
+          "line": 2076,
+          "text": "          \"description\": \"Vitis seeds, with species, fermentation history and defatting recorded. Grape skins, grape-seed oil and resveratrol are not grape-seed polyphenol extract.\","
+        },
+        {
+          "line": 2154,
+          "text": "          \"description\": \"Resveratrol names a molecule, not one plant extract. Botanical knotweed roots/rhizomes, synthetic trans-resveratrol and microbial material require different source records; grape-seed extract is not synonymous.\","
+        }
+      ]
+    },
+    {
+      "path": "src/data/product-dossiers.json",
+      "matches": [
+        {
+          "line": 88,
+          "text": "    \"slug\": \"grape-seed\","
+        }
+      ]
+    },
+    {
+      "path": "src/data/research.json",
+      "matches": [
+        {
+          "line": 202,
+          "text": "    \"title\": \"Antimicrobial Polymer Films with Grape Seed and Skin Extracts for Food Packaging.\","
+        },
+        {
+          "line": 206,
+          "text": "      \"grape-seed\""
+        },
+        {
+          "line": 217,
+          "text": "      \"en\": \"Grape seed and skin extracts incorporated into biopolymer packaging films.\","
+        }
+      ]
+    },
+    {
+      "path": "src/data/science-profiles.json",
+      "matches": [
+        {
+          "line": 299,
+          "text": "    \"id\": \"grape-seed\","
+        },
+        {
+          "line": 303,
+          "text": "      \"en\": \"Vitis seeds, with species, fermentation history and defatting recorded. Grape skins, grape-seed oil and resveratrol are not grape-seed polyphenol extract.\","
+        },
+        {
+          "line": 307,
+          "text": "      \"en\": \"Grape Seed Extract\","
+        },
+        {
+          "line": 355,
+          "text": "      \"en\": \"Resveratrol names a molecule, not one plant extract. Botanical knotweed roots/rhizomes, synthetic trans-resveratrol and microbial material require different source records; grape-seed extract is not synonymous.\","
+        }
+      ]
+    }
+  ]
+}

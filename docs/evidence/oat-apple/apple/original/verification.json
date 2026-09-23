@@ -1,0 +1,76 @@
+{
+  "quote_checks": [
+    {
+      "claim": "C01",
+      "verbatim_match": true
+    },
+    {
+      "claim": "C02",
+      "verbatim_match": true
+    },
+    {
+      "claim": "C03",
+      "verbatim_match": true
+    },
+    {
+      "claim": "C04",
+      "verbatim_match": true
+    },
+    {
+      "claim": "C05",
+      "verbatim_match": true
+    },
+    {
+      "claim": "C06",
+      "verbatim_match": true
+    },
+    {
+      "claim": "C07",
+      "verbatim_match": true
+    },
+    {
+      "claim": "C08",
+      "verbatim_match": true
+    },
+    {
+      "claim": "C09",
+      "verbatim_match": true
+    },
+    {
+      "claim": "C10",
+      "verbatim_match": true
+    },
+    {
+      "claim": "C11",
+      "verbatim_match": true
+    },
+    {
+      "claim": "C12",
+      "verbatim_match": true
+    },
+    {
+      "claim": "C13",
+      "verbatim_match": true
+    },
+    {
+      "claim": "C14",
+      "verbatim_match": true
+    }
+  ],
+  "numeric_EN_ZH_parity": "passed selected source-specific values",
+  "arithmetic": "0.56 g/100g = 5.6 mg/g passed",
+  "repo_sha": "d387c94c9b7e802e72ca13c97ffd5716b155e4b6",
+  "site_edits": false,
+  "browserman_used": false,
+  "independent_editorial_review": "not performed; required parent gate",
+  "draft_sizes": {
+    "en": {
+      "bytes": 13999,
+      "whitespace_words": 1904
+    },
+    "zh": {
+      "bytes": 12395,
+      "whitespace_words": 252
+    }
+  }
+}

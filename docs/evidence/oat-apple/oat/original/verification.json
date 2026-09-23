@@ -1,0 +1,15 @@
+{
+  "drafts_exist": true,
+  "matching_EN_ZH_source_sets": true,
+  "unique_direct_sources": 6,
+  "full_source_archives_mapped": 6,
+  "claim_rows": 10,
+  "en_words": 1545,
+  "zh_characters": 4881,
+  "visual_checks": "5 successful relevant page inspections; one failed missing-image attempt corrected",
+  "review": "Author evidence and bilingual parity check only; independent review pending",
+  "no_browser": true,
+  "no_site_edits": true,
+  "repo_read": "origin/main d387c94c9b7e802e72ca13c97ffd5716b155e4b6",
+  "quoted_excerpts_found": true
+}

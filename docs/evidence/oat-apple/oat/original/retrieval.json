@@ -1,0 +1,66 @@
+[
+  {
+    "id": "P1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7469033/fullTextXML",
+    "status": 200,
+    "bytes": 93985,
+    "retrieved_utc": "2026-09-23T22:39:25.618572+00:00",
+    "scope": "full direct response"
+  },
+  {
+    "id": "S1",
+    "url": "https://www.lantmannenbiorefineries.com/food-ingredients/products/oat-beta-glucan/promoat/",
+    "status": 200,
+    "bytes": 135930,
+    "retrieved_utc": "2026-09-23T22:39:25.618600+00:00",
+    "scope": "full direct response"
+  },
+  {
+    "id": "S2",
+    "url": "https://www.lantmannenbiorefineries.com/food-ingredients/products/oat-beta-glucan/promoat/applications/",
+    "status": 200,
+    "bytes": 142489,
+    "retrieved_utc": "2026-09-23T22:39:25.618618+00:00",
+    "scope": "full direct response"
+  },
+  {
+    "id": "S3",
+    "url": "https://sweoat.com/our-products/oatwell/",
+    "status": 403,
+    "bytes": 52,
+    "retrieved_utc": "2026-09-23T22:39:25.618623+00:00",
+    "scope": "failed body; not evidence"
+  },
+  {
+    "id": "P1pdf",
+    "url": "https://mdpi-res.com/d_attachment/nutrients/nutrients-12-02275/article_deploy/nutrients-12-02275.pdf",
+    "status": 200,
+    "bytes": 817867,
+    "retrieved_utc": "2026-09-23T22:39:25.618626+00:00",
+    "scope": "full direct response"
+  },
+  {
+    "id": "P2",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5388193/fullTextXML",
+    "status": 200,
+    "bytes": 107479,
+    "retrieved_utc": "2026-09-23T22:39:25.618628+00:00",
+    "scope": "full direct response"
+  },
+  {
+    "id": "S4",
+    "url": "https://www.lantmannenbiorefineries.com/siteassets/5.-food-ingredients/ingredienser/havrefiber/3.-promoat/promoat_product-leaflet_241015.pdf",
+    "status": 200,
+    "bytes": 398943,
+    "retrieved_utc": "2026-09-23T22:39:25.618630+00:00",
+    "scope": "full direct response"
+  },
+  {
+    "id": "P1supp",
+    "url": "https://mdpi-res.com/d_attachment/nutrients/nutrients-12-02275/article_deploy/nutrients-12-02275-s001.pdf",
+    "status": 200,
+    "bytes": 137685,
+    "retrieved_utc": "2026-09-23T22:39:25.618635+00:00",
+    "scope": "full direct response"
+  }
+]

@@ -1,0 +1,533 @@
+Determination of Polyphenolic Profile of Apple Pomace
+(Malus domestica Golden Delicious Variety) by HPLC–MS
+Email: esalas@uach.mx.
+Email: mballinas@uach.mx. Tel.: +52 (614) 2366000.
+Apple (Malus domestica Borkh) is
+an appreciated source of polyphenols. Phenolic compounds are known
+as natural antioxidants and have a wide range of applications in different
+industries. Apple pomace has the potential of being an alternative
+source of polyphenols. To determine the polyphenolic profile of apple
+pomace, samples from the skin at two different stages of ripening
+were extracted with 80–20% EtOH–water/acetic acid 5%
+(S1) and 20–80% EtOH–water/acetic acid 5% (S2) in order
+to determine the solvent system. Ripe skins extracted with S1 showed
+a higher total polyphenol content or TPC (1.21 g of polyphenols per
+100 g of fresh weight (FW)) than unripe apple skin, being the most
+effective system tested and a mean degree of polymerization of 2.47.
+Commercial apple pomace was extracted with S1, resulting in a TPC
+of 0.5615 ± 0.007 g of polyphenols per 100 g of FW. Meanwhile,
+the RP-HPLC-MS analysis led to the tentative identification of several
+polyphenolic compounds.
+Received 2023 May 9; Accepted 2023 Nov 29; Revised 2023 Nov 25; Collection date 2024 Jan 9.
+Ever since the introduction
+of the so-called “French paradox”
+and the link between wine intake and lower death rates from coronary
+heart disease was established,1 a new wave
+of interest developed around the components of said beverage. Part
+of the benefits described by Renaud and Lorgeril were thought to be
+attributed to a particular group of biomolecules, casting a much favorable
+light over antioxidants.2
+Among those
+molecules, there is a group of second metabolites known
+as phytochemicals. Within this category, over 10,000 phytochemicals,
+referred to as polyphenols, can be found. They are the second most
+abundant group in plants and are widely studied for their antioxidant
+capacity. Phenolic compounds are divided into simple phenols and polyphenols.
+Simple phenols possess only one aromatic ring, while polyphenols possess
+more aromatic rings. In addition to this characteristic, the aromatic
+rings can be substituted with one or more hydroxyl groups.3,4
+Lately, the use of natural antioxidants has developed, particularly
+in the food, pharmaceutical, and cosmetic industries and mostly due
+to the ability they possess to reduce the damage caused by oxidative
+stress5 without the potential threats of
+synthetic antioxidants.3
+Included
+in the health benefits that have been studied are action
+versus neurodegenerative diseases such as Alzheimer’s disease
+and Parkinson’s disease,6 cardiovascular
+diseases, cancer, asthma, obesity, oral cancer cells,7,8 inflammation, high cholesterol levels, hypertension, type 2 diabetes,
+harmful microbiota,9 positive effect against Salmonella spp., Escherichia coli, and Listeria spp.10,11 Other uses include its addition to meats to preserve them by reducing
+the presence of pathogens, therefore, extending the shelf life of
+beef,11 and baked goods, beverages, and
+dairy.12
+This increase in demand
+of bioactive compounds has resulted in
+the search for alternative sources with high polyphenol content, predominantly
+those supported in the three dimensions of sustainability (social
+progress, environmental protection, and economic development), achieving
+the recovery of byproducts without creating competition against food
+supplies, all this while supporting a zero waste philosophy. However,
+since there are other economically limiting factors such as storage
+(along with some pretreatments needed, like milling or drying), and,
+in some cases, shipping of byproducts, the use of local agricultural
+sources should be encouraged to obtain functional ingredients.
+There are many regional agricultural products that can adhere to
+the requirements and principles listed above, particularly fruits.
+Among the fruits known to have attracted attention as potential phenolic
+sources are different apple cultivars. Apples are one of the main
+fruits cultivated in the northern region of Mexico, and it has been
+reported that its average annual production in the state of Chihuahua
+is around 584,000 tons, representing 77% of the country’s total
+apple production.13 The second main use
+for apples (after consumption as fresh fruit) is juice production.
+Maceration and pressing of apples in juice and cider making causes
+the generation of a solid residue, called apple pomace, as a consequence.
+Apple pomace accounts for up to 20–35% of the weight of
+the fresh fruit.14 Due to its composition,
+its inexpensive nature, and the high volume generated, it is available
+for use. Apple pomace can be of great interest, with a valorization
+that allow us to not only being able to take advantage of the added
+value of the bioactive compounds that remain in the biomass after
+it has been processed but also contributing with providing a sustainable
+alternative solution to the disposal of what would otherwise be considered
+waste susceptible to microbial growth.15,12
+In order to benefit
+from the underutilized functional ingredients
+present in apple pomace, it is of utmost importance to develop the
+right methodology for the extraction and recovery of phenolic compounds
+(due to their sensitive nature) as a means to maintain intact the
+main characteristics that draw attention to fruit and agro-waste derived
+compounds, from an economic point of view, and to allow their maximum
+reutilization. Being the case, the use of ultrasound-assisted extraction
+can overcome some of the principal obstacles faced by traditional
+technologies.
+Ultrasound-assisted extraction (UAE) is typically
+selected as a
+green/environmental friendly recovery procedure, commonly used on
+vegetable materials. Using cavitation (caused by high frequency waves),
+UAE disrupts the cell membranes, enhancing solvent–sample contact
+and therefore promoting the release of potentially bioactive compounds
+with therapeutic properties such as polyphenols. Other great advantages
+over traditional techniques (such as solvent application and leaching)
+for phytochemical extractions are its operation conditions, low temperature
+(adequate for polyphenolic compounds), reduced extraction time, and
+the capacity to increase polyphenol extraction up to 20%, establishing
+UAE as a sustainable alternative.16−18 However, precautionary
+measures must be taken since degradation of phytochemicals can occur
+as consequence of cavitation-caused oxidation19,20).
+With the use of agroindustrial waste to obtain bioactive
+molecules
+with a high-revalorization potential on the rise, the aim of the present
+study is to evaluate the suitability of apple pomace as a source of
+compounds of interest (polyphenols). This can be seen as a first step
+toward an extraction and purification process. At the same time, an
+alternative for the exploitation of waste generated by the apple juice
+and cider-making industries for their revalorization can be explored.
+The obtained agrowaste-derived compounds can then be directed to a
+wide range market of high-value products. This can be seen as early
+efforts to change the conception from “residue” to a
+revalued byproduct that can be treated as a source of polyphenols.
+Furthermore, the possibility of reducing the volume of waste produced
+by apple juice and cider-making industries by extracting underused
+functional ingredients without competing with food sources is also
+a factor that appeals to our work.
+In addition to the transformation
+into an extraction mix comprised
+of high-value compounds, the phenolic nature of apple pomace includes
+a high variety of oxidation products. Their presence within the apple
+pomace makes the characterization of the phenolic compounds more difficult,
+presenting a challenge on its own. Our approach of using oxidized
+polyphenols present in apple pomace can be original considering that
+it is not the usual source of phenolic compounds.
+Materials. For preliminary studies,
+apples (Malus
+domestica Borkh Golden Delicious variety) produced
+in the region of Cuauhtemoc (Chihuahua, Mexico) were acquired in a
+local market at two different maturity stages. “Unripe”
+and “ripe” (commercial maturity) apples were selected.
+Both maturity stages were visually determined.
+Apple pomace,
+obtained after the maceration and pressing of Golden
+Delicious apples, was provided by a locally based juice processing
+facility (Berlanga, Huertas Orgánicas
+de Mexico) located in the region of Cuauhtemoc (Chihuahua, Mexico).
+Ethanol, methanol, hexane, and hydrochloric acid were purchased
+from J.T.Baker (Phillipsburg, NJ, USA) with both methanol and ethanol
+also being purchased from CTR Scientific (Monterrey, N.L., Mexico).
+Likewise, acetic acid was obtained from CTR Scientific (Monterrey,
+Mexico) as well. Phloroglucinol, Folin-Ciocalteu′s phenol reagent,
+gallic acid, chlorogenic acid, epicatechin, caffeic acid, and quercetin
+were used from Sigma-Aldrich (St. Louis, MO, USA). Additionally, sodium
+acetate from Fisher Scientific and ascorbic acid from DEQ (Nuevo Leon,
+Mexico) were used. All of the reagents employed were of analytical
+grade.
+Chromatographic solvents: acetic acid from Sigma-Aldrich
+(St. Louis,
+MO, USA); water and acetonitrile were purchased from Tedia (Fairfield,
+MA, USA) and Sigma-Aldrich (St. Louis, MO, USA), with acetonitrile
+obtained from J.T.Baker (Phillipsburg, NJ, USA) as well; methanol,
+J.T.Baker (Phillipsburg, NJ, USA); and with the addition of formic
+acid purchased from Fluka Analytical (Buchs, Switzerland). All chromatographic
+solvents were HPLC grade.
+Methods: For preliminary studies,
+apples were washed with mild
+soap, rinsed with abundant water (three times), and kept refrigerated
+before being peeled as a preparation step. Afterward, they were peeled,
+leaving as little pulp as possible attached to the skin. The skin
+was stored in resealable plastic bags and kept at freezing temperatures
+(−14 °C) until used. Before storage, the air inside the
+bags was removed.
+Moisture determination of the unripe apple
+skins, ripe apple skins,
+and apple pomace was carried out according to the oven-drying method
+where the samples were placed in a hot air oven, with a set temperature
+of 103 ± 5 °C and allowed to dry for 24 h. After this period,
+the samples were allowed to cool in a desiccator for 1 h before weighting
+them.
+Extraction was performed as a solid–liquid, 30-min
+single-step
+extraction, assisted with an ultrasonic bath (Fisher Scientific, Pittsbourgh,
+PA, USA) and a controlled temperature (10 °C). To determine the
+best solvent system for the extraction, two solvent systems were chosen:
+80–20% EtOH–water/acetic acid 5% (S1) and 20–80%
+EtOH–water/acetic acid 5% (S2). Extraction was performed in
+duplicate in Erlenmeyer flasks maintaining a sample/solvent ratio
+of 100 g of sample/250 mL solvent.
+The extracts were then concentrated
+under reduced pressure to a
+volume of 100 mL of acidified water (1% acetic acid) prior to cleaning
+steps consisting of: (a) a cold ethanol precipitation (with one volume
+on cold ethanol during 24 h) that was carried out to remove polar
+coextracted compounds (such as carbohydrates and proteins that are
+not soluble in ethanol); and (b) a subsequent liquid–liquid
+extraction (1:1 hexane/water) to remove nonpolar compounds (such as
+chlorophyll) from the sample. The cleaning step was intended to remove
+coextracted compounds that would present interference during analysis
+of the samples.
+Once the solvent system was selected, apple
+pomace extractions
+were carried out under the same conditions as the preliminary extractions
+that took place. Following the extraction, apple pomace extracts were
+subjected to a liquid–liquid extraction (1:1 hexane/water)
+to remove coextracted compounds and then rotaevaporated under reduced
+pressure to prepare the samples for characterization.
+Total
+polyphenol content (TPC) was quantified by means of both
+the Folin–Ciocalteu method and reversed-phase high performance
+liquid chromatography (RP-HPLC).
+For Folin–Ciocalteu
+determination of TPC, the analysis was
+carried out using the Folin–Ciocalteu method reported by Singleton21 in which a sample aliquot of 50 μL was
+added to 3 mL of distilled water followed by 200 μL of Folin–Ciocalteu
+reagent. Afterward, the test tubes were closed, thoroughly mixed,
+and kept sheltered from light for 10 min. Once the 10 min were over,
+600 μL of 5% (w/v) sodium carbonate solution were added, closing
+the test tubes and mixing completely. The test tubes were submerged
+in an isothermal bath with the temperature set to 37 °C during
+15 min. After the reaction took place, they were removed from the
+isothermal bath and placed in an ice bed for 15 min. The absorbance
+was measured at 755 nm (Lambda 25 PerkinElmer spectrophotometer, Waltham,
+MA, USA) and reported as gallic acid equivalents (GAE).21
+TPC, as well as the determination of polyphenols
+present compared
+with existing standards, was carried out by HPLC. Five milliliter
+samples were dried under reduced pressure and recovered using 5 mL
+of acidified water (with 1% formic acid). Samples were filtered directly
+onto 2 mL of Type 1 borosilicate glass vials using a 0.45-μm
+nylon membrane. The analysis was carried out using an Agilent 1100
+Series HPLC (Santa Clara, CA, USA) equipped with a Diode Array Detector
+using a reversed phase (RP) column (ZORBAX SB-C18 Solvent Saver 3.0
+× 250 mm; Germany) and a guard column of the same material, operated
+at 30 °C, flow rate of 0.3 mL/min with a 65-min gradient (water-formic
+acid 1% (v/v)(Solvent “A”)/acetonitrile-formic acid
+1% (v/v) (Solvent “B”)) and a return to initial conditions
+over 10 min. The gradient was as follows: Linear gradient from 100%
+A to 90% A in 8 min. 90% A for 2 min. Linear gradient from 90% A to
+80% A from minute 10 to minute 23. Linear gradient from 80% A to 70%
+A for 7 min. Linear gradient from 70% A to 60% A for 15 min. Linear
+gradient from 60% A to 20% A for 5 min. Linear gradient from 20% A
+to 100% B in 5 min. 100% B from minute 55 to 60 and a return to 100%
+A for minute 65.22
+Total phenolic
+compounds were quantified at 280 nm, while the distinction
+between families of polyphenols was done based on the chromatographic
+signal of each compound, the UV spectrum, and the available standards.
+Phenolic acids were quantified based on their absorbance at the 320-nm
+signal. The compounds that showed a higher signal at 360 nm were counted
+as flavonols. This quantification was completed with the remaining
+compounds that presented a stronger signal at 280 nm. TPC, phenolic
+acid content, and flavonol content were reported as epicatechin equivalents
+(mg/L), GAEs (mg/L), and rutin equivalents (mg/L), respectively.
+The identification of the remaining compounds present in the apple
+pomace for which a standard was not available was done by HPLC-DAD/ESI-MS
+(Thermo Scientific LCQ Fleet Ion Trap Mass Spectrometer System). Chromatographic
+separation was achieved at 30 °C, 20 μL injection volume,
+and 0.25 mL/min flow rate, with a gradient of water–formic
+acid 1% (v/v) (Solvent “A”)/acetonitrile–formic
+acid 1% (v/v)(Solvent “B”). The elution gradient was
+adapted from the previously described gradient: Linear gradient from
+95% A to 90% A in 8 min. 90% A for 2 min. Linear gradient from 90%
+A to 80% A from minute 10 to minute 23. Linear gradient from 80% A
+to 70% A from minute 23 to 30. Liner gradient from 70% A to 60% A
+for 15 min. Linear gradient from 60% A to 20% A for 5 min. Linear
+gradient from 20% A to 100% B in 5 min. 100% B from minute 55 to 60
+and a return to 100% A for minute 65. Initial conditions were then
+re-established over a 10-min postrun. Identification of the compounds
+was performed by MS. The mass spectrometer was operated in the negative
+ion mode in the range of m/z 150–2000
+and under the following conditions: source voltage, 4.5 kV; capillary
+voltage, 23.5 V; capillary temperature, 250 °C.
+In order
+to estimate the mean degree of polymerization (mDP) of
+the samples, phloroglucinolysis was carried out as established by
+Kennedy23 and further analyzed by HPLC.
+Preliminary studies
+were performed to determine which of the proposed solvent systems
+was to be used for further extractions. Frozen skins (either from
+unripe or ripe apples) were milled with S1 or S2 in order to minimize
+oxidation of the compounds.24 The tested
+solvents were evaluated based on the TPC of each extract (Table 1). Results were expressed
+as g per 100 g of fresh weight (FW).
+sampleTPC Folin-CiocalteuTPC HPLCphenolic Acids HPLCflavonoids HPLCsamples extracted
+with 80–20%
+EtOH-water/acetic acid 5% (S1)unripe0.44 ± 0.010.48 ± 0.070.06 ± 0.010.06 ± 0.02ripe0.61 ± 0.101.21 ± 0.000.100.15 ± 0.01samples extracted with 20–80%
+EtOH-water/acetic acid 5% (S2)unripe0.33 ± 0.070.41 ± 0.120.06 ± 0.010.07 ± 0.02ripe0.34 ± 0.0010.57 ±
+0.010.05 ± 0.0010.07 ± 0.01
+Results are expressed in g per 100
+g FW.
+Phenolic acids were
+expressed in GAEs since the equivalent is usually
+used for Folin–Ciocalteu and it would ease the comparative.
+Total phenolic content was expressed in epicatechin equivalents, as
+it better represents the nature of the sample (seeing that it is the
+main polyphenol present); and total flavonoid content was expressed
+in rutin equivalents (see Supporting Information).
+As shown in Table 1, out of the samples tested, the two extracts with the best
+results
+were those coming from ripe apples (for the chromatogram, please see Supporting Information). However, the higher
+TPC was obtained by extracting ripe apple skins with S1 (1.21 g per
+100 g of FW) versus the 0.57 g per 100 g of FW extracted with S2.
+It also presented a higher concentration of both phenolic acids (0.10
+g per 100 g FW) and flavonoids (0.15 g per 100 g FW). Therefore, S1
+was selected as the solvent system for further extractions.
+Unriped apple skin presented 75.81 ± 0.05% humidity, while
+the humidity content of ripe apple skin was 76.01 ± 0.44%.
+Based on
+the results from the preliminary studies, apple pomace was extracted
+with S1. 100 g samples were extracted with 250 mL of solvent in a
+solid–liquid extraction. The extracts were then concentrated
+under reduced pressure to a volume of 100 mL followed by two cleaning
+steps: (a) cold ethanol precipitation (to remove sugars, proteins,
+and other polar compounds) and (b) a subsequent liquid–liquid
+extraction with 1:1 hexane/water to remove coextracted compounds (to
+remove chlorophyll, lipids, and other nonpolar compounds).25,26
+The resulting extract was enriched in polyphenols and was
+analyzed by HPLC in order to quantify TPC. In addition to this, the
+precipitate obtained from the cold ethanol precipitation was redissolved
+in acidified water (1% acetic acid) and analyzed by HPLC, in order
+to quantify polyphenols that could have precipitated as well; the
+hexane extract obtained after the liquid–liquid extraction
+was also analyzed to ensure that there was no considerable loss of
+polyphenolic compounds in both cleaning step (the chromatograms are
+available in the Supporting Information).
+Table 2 shows
+the
+TPC values on the samples along with the ethanol precipitation and
+the hexane fraction.
+sampleTPC HPLCflavonols
+HPLCphenolic extract0.56 ± 0.010.28 ± 0.01ethanol precipitation0.01 ± 0.02 hexane fraction0.05
+± 0.01 
+Results are expressed
+in g per 100
+g of apple pomace.
+Apple
+pomace extract had a TPC of 0.56 g of polyphenols per 100
+g of apple pomace FW and a flavonol concentration of 0.28 g per 100
+g of apple pomace FW. No chromatographic signal was detected in the
+520 nm wavelength, indicating the absence of anthocyanin-like compounds.
+The humidity content present in the samples was 86.44 ± 0.86%.
+Golden delicious pomace was obtained from the industrial production
+of apple juice. It has been reported that after pressing only a small
+amount of polyphenols is released into the juice. As a result, a large
+fraction of the compounds remains present in the pomace, since it
+is made of skin, seeds, and pulp residues.27,28 In addition to this, the difference in TPC between apple skin and
+apple pomace can be attributed to the fact that some of the polyphenolic
+compounds are located inside specific tissues of the fruit, making
+the phenolic profile dependent on the parts of the fruit being analyzed.29
+An HPLC analysis was carried out in order to
+identify the main polyphenols present in the apple pomace. The identification
+was made either by use of a standard or by a UV–vis spectrum. Figure 1 presents the HPLC
+chromatogram of polyphenols in samples from commercial apple. The
+identified peaks belong to gallic acid, chlorogenic acid, epicatechin,
+caffeic acid, and quercetin, respectively.
+Chromatogram (at 280
+nm) of main polyphenols present in samples
+from commercial apple pomace (M. domestica) extracted with solvent system 80–20% ethanol–water/acetic
+acid 5% (S1). Peaks are as follows: 1 – gallic acid; 2 –
+chlorogenic acid; 3 – PC B2; 4 – epicatechin; 5 –
+caffeic acid; 6 – hyperin; 7 – isoquercetin; 8 –
+avicularin; 9 – quercitrin; 10 – cynaroside; 11 –
+phloretin; 12 – phloridzin; 13 – quercetin.
+The peaks located between RT (retention time) 23 min and
+RT 28
+min could not be identified by standard or UV–vis spectra.
+However, they displayed a maximum signal at 360 nm, indicating that
+they might belong to the flavonol family (quercetin glycosides).
+Since the identification of compounds by means of HPLC is limited
+to the characteristic UV–vis spectrum and the availability
+of standards, polyphenolic profiling was carried out by HPLC-MS, as
+well as the confirmation of the already identified compounds.
+The use of
+HPLC-MS was fundamental for the polyphenolic profiling
+since HPLC with UV–vis detection has its limitations with respect
+to the identification of coeluted phenolic compounds and is not a
+chromatographic technique which can provide molecular structure information.16Table 3 presents the tentatively identified polyphenolic compounds
+along with their molecular formula and molecular ion (negative ionization
+mode). The tentatively identified compounds can be seen in Figure 1.
+ compoundtype of phenolicλmax (nm)m/z [M – H]−retention time RT (min)percentage of total area (%)1gallic acidphenolic
+acid2701693.752.402chlorogenic acidphenolic acid242, 32435312.819.863PC B2flavanol238, 28057714.470.884epicatechinflavanol27828915.2838.735caffeic acidphenolic
+acid216, 32417915.942.516Hyperinflavonol255, 35546320.3013.807isoquercetinflavonol260, 35446320.542.958avicularinflavonol258, 35943321.641.109quercitrinflavonol255, 35544722.064.0310cynarosideflavone239, 269, 34044722.484.5611phloretindihydrochalcone28627322.970.4212phloridzinphenolic acid28843523.240.7313quercetinflavonol37030123.913.61
+The previously tentatively
+identified compounds were confirmed
+by matching the m/z value to the
+molecular weight and the retention time established by available standards.
+The presence of phloridzin is characteristic in apple pomaces but
+is known to be absent in pomaces of other fruit sources.30 It is of particular interest due to its use
+as a pigment by enzymatic oxidation and its ability as an antidiabetic
+agent30,31 and for being one of the most stable phytochemicals
+present in apple pomaces.32
+To determine whether
+proanthocyanidins were present, an extract from apple peels was subjected
+to phloroglucinolysis. Phloroglucinolysis is based on the acid-catalyzed
+rupture of the interflavanic bond (IB) that links together the constitutive
+subunits of proanthocyanidiǹs constitutive subunits. The cleavage
+of the IB leads to the release of a terminal subunit in addition to
+the formation of an adduct between phloroglucinol and the upper subunit.23
+The formation of the epicatechin–phloroglucinol
+adduct (see the Supporting Information for
+the chromatogram) allowed the estimation of an mDp of 2.47. This not
+only indicates that the extract contains proanthocyanidins but also
+specifies the type B nature of the IB, since type A bonds are not
+susceptible to IB cleavage, maintaining their terminal subunit and,
+therefore, preventing the coupling of the nucleophilic agent and the
+upper subunit from happening.
+The solvents for
+the experimental section were chosen from those typically employed
+(ethanol, methanol, ethyl acetate) for polyphenolic extractions from
+vegetable sources.33 The phenolic content
+extracted is dependent on the solvent used. As such, phenols with
+a low molecular weight, phenolic acids, and flavonoid aglycons can
+be extracted with ethyl acetate. However, in addition to the aforementioned
+compounds, aqueous alcoholic mixtures (which possess a higher polarity)
+are used to extract high molecular weight phenols and flavonoid glycosides
+which, in turn, is reflected in the TPC of the extract.34,35
+The milling of the frozen skins was done after the addition
+of the solvents, in order to minimize oxidation of the compounds as
+ethanol has proven to decrease polyphenol oxidase (PPO) activity.24 It has been shown that polyphenol antioxidant
+capacity can be diminished due to enzymes present within the fruit
+that are released after the cell wall is damaged. It was previously
+reported that the higher the polyphenol content is, the higher the
+enzymatic oxidation catalyzed by PPO can be.28,36,37 As has been shown before by van der Sluis
+et al.,38 epicatechin and chlorogenic acid
+are the main compounds that present a decrease in total concentration
+due to the action of PPO (up to 28 and 25%, respectively). However,
+a positive effect was noted regarding total quercetin glycosides (a
+17% increase).38
+As depicted in Table 1, the fact that the
+two extracts with the higher TPC that were from
+ripe apples are in agreement with the nature of apple pomace, which
+is obtained after the pressing of mature apples for juice production.
+Aside solvent
+type, sample–solvent ratio, and extraction time, other factors
+that affect the yield of polyphenols present in the extracts are temperature
+(as polyphenols are thermolabile and can easily undergo degradation),
+pH (a variable that directly affects the structure of some polyphenolic
+compounds), part of the plant, and particle size39 The latter is the reason behind the milling of the apple
+pomace, in order to homogenize the particle size as much as possible.
+While various apple cultivars can present a TPC that ranges between
+76 and 134 mg/100 g FW when extracted with 80% water/ethanol,40 66.2 to 211.9 mg/100 g FW,38 TPC exhibited by Golden Delicious extracts were 86.30 mg/100
+g fresh fruit when extracted with 70% acetone–30% water.41 Apple pomaces have been reported to have a remaining
+polyphenol concentration of between 2.19 ± 0.09 and 4.59 ±
+0.47 mg GAE/g dry weight when extracted with 70% methanol–30%
+water at (60 ± 2 °C) during 30 min,42 while Golden Delicious pomace 2.87 ± 0.75 mg GAE/g powder and
+3.05 ± 0.82 mg GAE/g powder when extracted with ethanol and methanol,
+respectively.43 This is because the majority
+of polyphenols can be found in the skin, remaining in the pomace.
+When comparing results, it should be taken into consideration whether
+they are expressed in FW or dry weight, as this can be interpreted
+as an increase in the amount of polyphenols present due to the loss
+of humidity.
+Moreover, the differences that can be observed
+within the various
+polyphenolic profiles depend not only on the solvent system used (solvent
+acidity is known to hydrolyze cellulose and pectin, helping release
+the polyphenols embedded in the matrix)44 but also on the cultivar of apple analyzed (apples intended for
+cider-making have a higher TPC than apples for human consumption),3,15 the conditions under which the fruit grew,39,45 whether or not the crop was fertilized,46 the part of the apple being used,47 how
+it was processed, stored, as well as the stage of maturity.
+In regard to the coextraction of other molecules which do not show
+any interest for the purpose of this work, the sample pretreatment
+can be considered an important preparation step, as coextracted compounds
+(mainly lipidic and nonpolar compounds) can interfere with polyphenol
+quantification.16
+The major constituents of apple and apple pomace are reported to
+be chlorogenic acid, epicatechin, quercetin-3-O-glucoside, quercitrin,
+phloridzin, and quercetin,40 hyperin, avicularin,
+and rutin (were also found in M. domestica var. rayada, another apple variety cultivated in Mexico)48 all present in the pomace subject of this study.
+The established polyphenolic profile is in agreement with previously
+reported findings38 that described that
+chlorogenic acid and phloridzin can be found in both peel and pulp,
+while quercetin glycosides and epicatechin are mostly present in apple
+skin (even though they can be found in lower concentrations within
+the pulp). Caffeic acid, catechin, some quercetin glycosides and rutin
+are some other polyphenols that can be extracted from apple pomace.3,15
+In total, 12 compounds were identified during the polyphenolic
+profiling of apple pomace from M. domestica Golden Delicious variety, among them gallic acid, chlorogenic acid,
+epicatechin, caffeic acid, and quercetin. This was achieved by means
+of HPLC (with both standards and UV–vis spectra) and HPLC-DAD/ESI-MS.
+The polyphenolic profiling deemed apple pomace as a suitable source
+of phenolic compounds and a possible economically interesting alternative
+to waste disposal of an otherwise underutilized residue with a potentially
+negative environmental impact.
+The author’s
+would like to thank the Facultad de Ciencias Químicas, Universidad
+Autónoma de Chihuahua (UACH), and the Departamento de Medio
+Ambiente y Energía, Centro de Investigación en Materiales
+Avanzados (CIMAV) for allowing this work to be excecuted within their
+facilities.
+coronary
+heart disease
+neurodegenerative diseases
+cardiovascular diseases
+ultrasound assisted extraction
+high performance
+liquid chromatography
+total polyphenol content
+reversed-phase high performance
+liquid chromatography
+gallic acid equivalents
+reversed phase
+reversed-phase high
+performance liquid chromatography equipped with a Diode Array Detector/Electrospray
+ionization mass spectrometry
+mean degree of polymerization
+fresh weight
+retention time
+interflavanic bond
+polyphenol oxidase
+The Supporting Information is
+available free of charge at https://pubs.acs.org/doi/10.1021/acsomega.3c03218.
+Chromatogram (at 280 nm)
+of sample from ripe apple skin
+extractions; calibration curves for the three different quantifications;
+chromatograms of TPC (at 280 nm) of precipitate from cold ethanol
+precipitation and subsequent liquid–liquid extraction; chromatogram
+(at 280 nm) of sample from commercial apple pomace after phloroglucinolysis
+(PDF)
+Conceptualization,
+E.S. and L.B.-C.; methodology, E.S., L.A.O.-F., L.B.-C., and G.G.-S.;
+formal analysis, B.R.-G. and M.D.R.P.-P.; resources, E.S., L.B.-C.,
+and G.G.-S.; data curation, L.A.O.-F.; writing—original draft,
+L.A.O.-F.; writing—review and editing, E.S. and L.B.-C.; supervision,
+G.G.-S., B.R.-G., and M.D.R.P.-P.; project administration, L.B.-C.;
+funding acquisition, L.B.-C., and E.S. All authors have read and agreed
+to the published version of the manuscript.
+The authors would
+like to thank the Mexican National Council for Science and Technology
+(CONACyT, Mexico) for financial support of a student via a doctoral
+scholarship (number 306675).
+The authors
+declare no competing financial interest.
+Published
+as part of ACS Omegavirtual special issue “Phytochemistry”.
+ao3c03218_si_001.pdf
+ao3c03218_si_001.pdf

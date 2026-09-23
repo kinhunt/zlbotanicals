@@ -1,0 +1,1392 @@
+PAGE 1
+Food Hydrocolloids 145 (2023) 109148
+Available online 4 August 2023
+0268-005X/© 2023 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Modulating temperature and pH during subcritical water extraction tunes 
+the molecular properties of apple pomace pectin as food gels 
+and emulsifiers 
+Secil Yilmaz-Turan a,1, Teod´ora G´al a,1, Patricia Lopez-Sanchez b,c, Mario M. Martinez d, 
+Carolin Menzel a, Francisco Vilaplana a,* 
+a Division of Glycoscience, Department of Chemistry, School of Engineering Sciences in Chemistry, Biotechnology and Health, KTH Royal Institute of Technology, 
+Stockholm, Sweden 
+b Bioeconomy and health, Department Agriculture and Food, RISE Research Institutes of Sweden, Frans Perssons v¨ag 6, G¨oteborg, Sweden 
+c Food Technology, Department of Analytical Chemistry, Nutrition and Food Science, University of Santiago de Compostela, Campus Terra, 27001, Lugo, Spain 
+d Center for Innovative Food (CiFOOD), Department of Food Science, Aarhus University, AgroFood Park 48, Aarhus N, 8200, Denmark   
+A R T I C L E I N F O  
+Keywords: 
+Food waste 
+Apple pomace 
+Pectin 
+Subcritical water 
+Gelling properties 
+Emulsifier 
+A B S T R A C T  
+This study explores the cascade extraction of polyphenols and pectins from apple pomace and their potential 
+application as food emulsifiers. The extraction of polyphenols was achieved by a simple method using ethanol 
+and resulted in remarkable antioxidant activity. Pectic polysaccharides were sequentially extracted (5, 10 and 15 
+min) using subcritical water at two different temperatures (120 ◦C and 140 ◦C) and three different pH conditions 
+(pH 3.0, 5.0 and 7.0). Acidic pH resulted in higher pectin yields when combined with higher temperature, 
+whereas neutral conditions were less selective towards pectin. Pectin with different branching patterns could be 
+isolated by tuning the process conditions. Linear homogalacturonan (HG) was preferentially isolated at milder 
+conditions, whereas more branched rhamnogalacturonan (RG-I) populations required longer extraction times. 
+Subcritical water enabled the extraction of pectins with different degrees of methoxylation (DM) depending on 
+the extraction pH, which enabled the production of pectin acid gels with varying rheological properties. Low DM 
+pectin was directly recovered from apple pomace at lower pH, eliminating the need for its conventional deriv­
+atization from high DM pectin. The emulsifying properties of two apple pomace pectin fractions with high and 
+low methoxyl content were compared; the pectin with higher methoxyl content showed higher emulsifying 
+capacity and stability. This study demonstrates that the relative abundance of the different pectic domains and 
+the methoxylation of pectin can be controlled by subcritical water extraction, which has important implications 
+for the valorization of pectic-rich agricultural wastes into valuable food ingredients.   
+1. Introduction 
+The food industry generates large quantities of residual streams after 
+harvesting and processing, with a significant economic, environmental 
+and social impact. As an example, worldwide apple production has 
+reached 80 million tons annually (FAOSTAT, 2018), providing a vast 
+amount of input to the production of apple juice, cider, syrup, and 
+vinegar. Industrial processing of apple generates a useful by-product, 
+apple pomace, that has been traditionally used as animal feed. Howev­
+er, the recovery rate of apple pomace into feed is generally very low 
+(Lyu, et al., 2020), therefore it is either used as biogas or discarded 
+directly to the soil (Shalini & Gupta, 2010). Although research efforts 
+have been made for efficient waste management for apple pomace 
+(Shalini et al., 2010), smarter and cost-effective strategies are required 
+for its valorization in a biorefinery concept, as it constitutes a rich source 
+of phenolic compounds and dietary fibres. 
+Apple pomace is composed of skin and flesh (95%), seeds (2–4%) and 
+stems of apple (1%); with a content of pectin (3.5–14.3%), cellulose 
+(13%), hemicelluloses (4.3%), starch (5.6%), fat (0.6–4.2%), protein 
+(1.1–4.7%), polyphenols, vitamins and minerals (Lyu, et al., 2020; 
+Perussello, Zhang, Marzocchella, & Tiwari, 2017). The main polyphenol 
+groups present in apple pomace are phenolic acids (p-coumaric, caffeic, 
+* Corresponding author. 
+E-mail address: franvila@kth.se (F. Vilaplana).   
+1 Contributed equally to this work. 
+Contents lists available at ScienceDirect 
+Food Hydrocolloids 
+journal homepage: www.elsevier.com/locate/foodhyd 
+https://doi.org/10.1016/j.foodhyd.2023.109148 
+Received 12 June 2023; Received in revised form 14 July 2023; Accepted 3 August 2023   
+
+PAGE 2
+Food Hydrocolloids 145 (2023) 109148
+2
+chlorogenic, protocatechuic), flavanols (epicatechin, procyanidin B2), 
+dihydrochalcones and flavonols (hyperin, quercetin, avicularin)(Di˜neiro 
+García, Valles, & Picinelli Lobo, 2009; Schieber et al., 2003). The rich 
+content of polyphenols in apple pomace renders it a valuable source to 
+be used as a potential food additive confering oxidative stability. As 
+natural antioxidant compounds, polyphenols derived from plant sources 
+can be incorporated into food and drinks to increase shelf life by pre­
+venting lipid and protein oxidation as well as protecting against mi­
+crobial activity (Bouarab Chibane, Degraeve, Ferhout, Bouajila, & 
+Oulahal, 2019; Falowo, Fayemi, & Muchenje, 2014; Pasrija, Ezhilarasi, 
+Indrani, & Anandharamakrishnan, 2015). Furthermore, plant poly­
+phenols hold potential to be used in cosmetic formulations thus 
+replacing the use of synthetic antioxidants (Gasparrini, et al., 2017; 
+Saewan & Jimtaisong, 2015; Zillich, Schweiggert-Weisz, Eisner, & 
+Kerscher, 2015). 
+As another large constituent of apple pomace, pectin is a structurally 
+heterogeneous polysaccharide typically composed of four domains with 
+distinct branching patterns, namely homogalacturonan (HGA), 
+rhamnogalacturonan-I (RG-I), rhamnogalacturonan-II (RG-II), and 
+xylogalacturonan (XGA) (Fig. 1a). The main sugar constituent of the 
+backbone of the different pectin domains is (1 → 4)-linked-α-D-gal­
+acturonic acid (GalA). HGA is defined as the smooth region of pectin, 
+with acetyl and methyl esterification. XGA consists of an HGA backbone 
+substituted by β-D-xylopyranose (Xyl), and methyl and acetyl esters. RG- 
+I is a heteropolymer of alternating (1 → 2)-linked-α-L-rhamnopyranose 
+(Rha) and (1 → 4)-linked-α-D-galacturonic acid units with substitutions 
+of α-D-galactopyranose (D-Gal) and α-L-arabinofuranose (Ara). RG-II is 
+known as the hairy region of pectin and contains the richest diversity of 
+glycosidic linkages and sugars including L-Ara, L-Rha, D/L-Gal, D-glu­
+curonic acid (GlcA), apiose, aceric acid (3-C′-carboxy-5-deoxy-L-xylose), 
+2-O-methyl-L-fucose, 2-O-methyl-D-xylose, Kdo (3-deoxy-D-manno-2- 
+octulosonic acid) and Dha (3-deoxy-D-lyxo-2-heptulosaric acid). The 
+smooth regions of pectin molecules can form a network via intermo­
+lecular bonds, resulting in gelation (Kastner, et al., 2014), depending on 
+Fig. 1. (a) Molecular structure of pectin in apple pomace, (b) Sequential extraction process of polyphenols and pectin from apple pomace.  
+S. Yilmaz-Turan et al.                                                                                                                                                                                                                         
+
+PAGE 3
+Food Hydrocolloids 145 (2023) 109148
+3
+the degree of methylation (DM). The gelation of high methoxyl pectin 
+(HMP) (DM>50%) is driven by hydrophobic interactions and hydrogen 
+bonds, and occurs in the presence of a co-solute (typically simple sugars) 
+in acidic pH (≤3.5) (Tsoga, Richardson, & Morris, 2004). Low methoxyl 
+pectin (LMP) (DM<50%), on the other hand, requires divalent cations 
+(typically Ca2+) for gelation, which forms intermolecular ionic junction 
+zones between dissociated carboxyl groups. Due to this gelation capac­
+ity, pectin finds wide uses in the food industry as a gelling and thick­
+ening agent. LMP is particularly of interest as viscosifier to produce 
+low-sugar products, specifically targeted for consumers with diabetes 
+or obesity (Mu˜noz-Almagro, Montilla, & Villamiel, 2021). In the food 
+industry, LMP is typically derived from HMP that is extracted from 
+commercial pectin sources (e.g. citrus peel) (May, 1990). This requires 
+the implementation of an additional processing step, increasing pro­
+duction costs. Direct extraction of LMP from plant tissues would, 
+therefore, eliminate these additional steps. Conventional extraction of 
+pectin is carried out using acid solutions and high temperature, despite 
+its water-soluble characteristics. The use of relatively harsh conditions 
+are required to disrupt supramolecular interactions between pectin and 
+other plant cell wall components, which are known to be resistant to 
+extraction (Sista Kameshwar & Qin, 2018). Subcritical water extraction 
+(SWE) constitutes a promising technique for the extraction of matrix 
+polysaccharides from recalcitrant plant cell wall tissues such as wood 
+and grasses (P. O. Kilpel¨ainen et al., 2014; Ruthes et al., 2020). SWE uses 
+water in liquid state at high pressure as a solvent, which undergoes 
+physical changes such as lower viscosity and polarity, facilitating the 
+extraction and diffusion of the target biomolecules (Plaza & Turner, 
+2015). In previous works, we have demonstrated that controlling the pH 
+using specific buffers under SWE is an efficient tool to preserve the 
+native functionalities (i.e acetylation and feruloylation) and to tune the 
+physicochemical characteristics of polysaccharides from plant biomass 
+using a single setup (Rudjito, Jim´enez-Quero, Hamzaoui, Kohnen, & 
+Vilaplana, 2020; Rudjito, Ruthes, Jim´enez-Quero, & Vilaplana, 2019; 
+Ruthes, Martínez-Abad, Tan, Bulone, & Vilaplana, 2017). 
+In this work we hypothesized that the combination of acidic pH 
+under subcritical water conditions would enable the extraction of pec­
+tins from apple pomace residues with a controlled range of DMs. We 
+propose for the first time a cascade extraction process for the sequential 
+recovery of polyphenols and pectin from apple pomace. We evaluated 
+the antioxidant activity of the extracted polyphenols, and we monitored 
+the time evolution of the pectin extraction at two different temperatures 
+(120 ◦C and 140 ◦C) and 3 different pH conditions (pH 3.0, 5.0 and 7.0). 
+The influence of the extraction conditions on the sugar composition, 
+molar mass distribution, degree of methylation and rheological prop­
+erties of the isolated pectins was also analyzed. Finally, as a proof of 
+concept we evaluated the use of the apple pomace pectins extracted by 
+SWE as vegetable oil emulsifiers together with their long-term stability. 
+2. Materials and methods 
+2.1. Materials 
+Apple pomace was kindly provided by V¨add¨o Musteri (Grisslehamn, 
+Sweden) as a pressed fruit cake in wet state. All chemicals, standards and 
+reagents were purchased from Sigma-Aldrich (Sweden). Spectra/Por 3 
+(3.5 kDa MWCO) dialysis membranes were purchased from Spec­
+trumLabs (Repligen, USA). Total starch assay kit was purchased from 
+Megazyme (Wicklow, Ireland) and the dye reagent for the Bradford 
+protein assay was from Bio-Rad Laboratories (Sweden). 
+2.2. Extraction processes 
+2.2.1. Extraction of polyphenols 
+The proposed cascade extraction of polyphenols and pectins from 
+apple pomace is presented in Fig. 1b. For the extraction of polyphenols, 
+apple pomace was milled in wet state using a kitchen blender and 
+suspended in 50% (v/v) ethanol at 1:10 (pomace:solvent) ratio, 
+following a procedure previously developed for sunflower hulls (Carolin 
+Menzel, Gonz´alez-Martínez, Chiralt, & Vilaplana, 2019). The suspension 
+was stirred for 1 h at room temperature in the dark. Ethanol was 
+evaporated using a rotary evaporator (Rotavapor R-210, Büchi Labor­
+technik AG, Switzerland) at 36 ◦C under vacuum in the dark and the 
+concentrated phenolic extract was freeze-dried. 
+2.2.2. Extraction of pectins 
+Subcritical water extraction (SWE) of polysaccharides from apple 
+pomace was performed using an accelerated solvent extractor system 
+(Dionex, ASE™ 350, Thermo Scientific™ Sunnyvale, CA, USA), 
+following a similar approach previously developed for cereal bran 
+(Ruthes, et al., 2017). The remaining apple pomace after the extraction 
+of polyphenols was freeze-dried, weighed to 2 mg and then mixed with 
+inert material in the extractor cells. Three cycles of sequential extrac­
+tions were performed at pH 3.0, 5.0 and 7.0 for 5, 10 and 15 min at 
+120 ◦C and 140 ◦C. The extraction solvents were buffered with 0.1 M 
+citrate buffer. The extracts were dialyzed using 3.5 kDa MWCO mem­
+branes for 72h and then freeze-dried. Extractions were performed in 
+duplicate for each pH and temperature condition. 
+2.3. Analytical methods 
+2.3.1. Starch and protein content 
+The starch content of apple pomace was determined in triplicate 
+using the Megazyme total starch assay kit (Megazyme, Wicklow, 
+Ireland). The soluble protein content of apple pomace was determined 
+by the dye-binding Bradford assay (Bradford, 1976). 100 μL dilutions of 
+apple pomace (10 mg/mL) were mixed with 900 μL of diluted (5x) dye 
+reagent and incubated at room temperature for 15 min. The absorbance 
+of the samples was measured at 595 nm against deionized water as 
+blank. Soluble protein content was calculated (in triplicate) using the 
+standard calibration of bovine serum albumin between 0.025 and 0.2 
+mg/mL. 
+2.3.2. Total phenolic content 
+Total phenolic content (TPC) of the extracted polyphenols was 
+determined using the Folin-Ciocalteau assay. 100 mg/mL solutions of 
+the samples were prepared in 50% ethanol and then filtered on filter 
+paper. 100 μL aliquots of 10x dilutions of the solutions (10 mg/mL) were 
+mixed with 100 μL of Folin-Ciocalteau reagent (2 N). After 2 min, 800 μL 
+of sodium carbonate solution (20%, w/v) was added and the mixtures 
+were incubated at 40 ◦C for 20 min in the dark. The absorbance was 
+measured spectrophotometrically at 765 nm using a UV–Vis spectro­
+photometer (Varian Cary 50 UV-VIS, Agilent) against water as blank. 
+Gallic acid solution (0.01–0.08 mg/mL) was used as standard and the 
+TPC of the extracted polyphenols was expressed in gallic acid mil­
+iequivalents (mg GAE)/g apple pomace. The measurements were per­
+formed in duplicates. 
+2.3.3. Evaluation of antioxidant activity 
+The radical scavenging activity of the extracted polyphenols was 
+determined by the 1,1-diphenyl-2-picrylhydrazyl (DPPH•) assay in 
+duplicate according to Brand-Williams et al. Brand-Williams, Cuvelier, 
+and Berset (1995) with minor modifications. Briefly, 10 mg/mL solu­
+tions (w/v methanol) of the phenolic extracts were mixed with 0.3 mM 
+methanolic DPPH• solution and incubated for 30 min at room temper­
+ature in the dark. The absorbances of the reaction media were measured 
+at 517 nm using a microplate reader (Clariostar Plus, BMG LABTECH). 
+The radical scavenging activity of the samples was calculated based on 
+the decrease in the absorbance of DPPH• and presented as half-maximal 
+effective concentration (EC50) (mg extract/mg DPPH•). 
+2.3.4. Phenolic acid profiling 
+The phenolic acid content of the extracted polyphenols was 
+S. Yilmaz-Turan et al.                                                                                                                                                                                                                         
+
+PAGE 4
+Food Hydrocolloids 145 (2023) 109148
+4
+determined in duplicate using a Waters HPLC system (Waters 2695 
+separation module, Waters 2996 photodiode array detector, USA) 
+coupled to a UV/Vis detector, equipped with a C18 guard column and an 
+SB-C18 separation column (Zorbax SB-C18 5 μm particle size, 4.6 х 250 
+mm, Agilent, Santa Clara, CA, USA). Before the freeze-drying step, the 
+fresh polyphenolic extract was filtered (0.2 μm nylon filter) and then 
+diluted 100 times using water and injected into HPLC. A gradient of 
+methanol and 2% acetic acid was used as the mobile phase at a flow rate 
+of 1 mL/min at 25◦c as described in C. Menzel, Gonzalez-Martinez, 
+Chiralt, and Vilaplana (2019). The standard calibration was performed 
+using caffeic acid, chlorogenic acid, p-coumaric acid and ferulic acid 
+(0.005–0.1 g/L) at 325 nm. 
+2.3.5. Determination of extraction yields 
+Yields of SWE at each condition were determined gravimetrically 
+and calculated on dry basis. The moisture content of apple pomace was 
+determined gravimetrically after freeze-drying. 
+2.3.6. Monosaccharide composition 
+The monosaccharide composition of the apple pomace, SW extracts 
+and residues was analyzed by high-performance anion-exchange chro­
+matography with pulsed amperometric detection (HPAEC-PAD) after 
+methanolysis and acid hydrolysis, respectively. On one hand, the apple 
+pomace and hydrothermal (SWE) extracts were hydrolyzed in triplicate 
+by 2-step methanolysis using 1–2 mg samples (Martínez-Abad, Gium­
+marella, Lawoko, and Vilaplana (2018). Secondly, the apple pomace and 
+residues after SWE were treated by 2-step sulfuric acid hydrolysis in 
+triplicate (Saeman, Moore, Mitchell, & Millett, 1954). 3–4 mg sample 
+was mixed with 72% sulfuric acid and incubated at room temperature 
+for 1 h followed by dilution and hydrolysis at 100 ◦C for 3 h. The samples 
+were then filtered with 0.45 μm nylon filters and diluted with ultrapure 
+water (10x). 
+The hydrolyzed samples were injected into the HPAEC-PAD system 
+(Dionex ICS 3000, Sunnyvale, USA) equipped with a CarboPac PA1 
+column. Two gradient programs were used for the separation of neutral 
+and uronic sugars, respectively (McKee, et al., 2016) and their quanti­
+fication was performed by external standard calibration (0.005–0.1 
+g/L): fucose (Fuc), arabinose (Ara), rhamnose (Rha), galactose (Gal), 
+glucose (Glc), xylose (Xyl), mannose (Man), galacturonic acid (GalA), 
+glucuronic acid (GlcA) and 4-O-methyl glucuronic acid (meGlcA). 
+2.3.7. Molar mass distribution 
+The molar mass distribution of the hydrothermal extracts was 
+determined by size exclusion chromatography (SEC). The samples were 
+dissolved in the SEC eluent consisting of DMSO supplemented with 0.5% 
+(w/w) lithium bromide (LiBr) to give a concentration of 3 mg/mL. The 
+samples were then injected into SEC (SECcurity 1260, Polymer Standard 
+Services, Mainz, Germany) with a refractive index detector using the 
+conditions reported by Ruthes et al. (2017). A standard calibration was 
+performed using pullulan standards (342–708 000 Da). 
+2.3.8. Fourier transform infrared spectrometry (FTIR) 
+Infrared spectra of the selected extracts (120◦C-pH 3.0–10 min, 
+120◦C-pH 5.0–10 min, 120◦C-pH 7.0–10 min, 140◦C-pH 3.0–5 min, 
+140◦C-pH 3.0–10 min, 140◦C-pH 3.0–15 min) were collected using a 
+PerkinElmer Spectrum 100 FTIR instrument (Norwalk, CT) equipped 
+with a single reflection accessory unit (Golden Gate, Graseby Speac Ltd, 
+Kent, England). FTIR data were recorded after 16 scans for each sample 
+at a resolution of 4.0 cm−1 for a spectral range from 4000 to 600 cm−1. 
+The spectra of the samples were automatically smoothed and corrected 
+by the Spectrum software (PerkinElmer). 
+2.3.9. Degree of methylation 
+The degree of methylation (DM) of the extracted pectins was deter­
+mined according to Klavons et al. Klavons and Bennett (1986). The 
+samples were saponified at 20 ◦C overnight using 2 M NaOH and then 
+neutralized by 12 M HCl solution. Oxidation of methyl esters to form­
+aldehyde was carried out using alcohol oxidase solution from Pichia 
+Pastoris (884.5 U) at 25 ◦C for 15 min. The samples were then complexed 
+to diacetyldihydrolutidine by mixing with 0.02 M acetylacetone in 2 M 
+ammonium acetate and 0.05 M acetic acid at 58 ◦C for 15 min. The 
+absorbance of the resulting samples was measured at 412 nm against 
+diluted alcohol oxidase solution as blank. The standard calibration was 
+performed using methanol at 0.01–1.00 mg/mL. The measurements 
+were performed in duplicate. 
+2.4. Gelling properties of the pectin fractions 
+2.4.1. Preparation of pectin gels 
+To evaluate pectin gelation, the selected hydrothermal extracts were 
+dissolved in citrate buffer at pH 3.5 to give a pectin concentration of 5% 
+(w/v). 60% (w/v) sucrose was added to the extracts and the mixtures 
+were heated at 100 ◦C for 10 min for complete solubilization. The 
+samples were stored at 4 ◦C until further analysis. 
+2.4.2. Rheological properties 
+The rheological properties of the pectin gels were measured using a 
+strain-controlled rheometer (ARES G2, TA Instruments, New Castle, DE, 
+USA) at 25 ◦C with a 20 mm diameter plate as upper geometry, and a gap 
+of 50 μm. Viscosity measurements were performed in a shear rate range 
+between 1 and 100 s−1. Viscoelasticity tests were performed by fre­
+quency sweep test with 0.5% oscillation strain, selected from the linear 
+viscoelastic region, and between 1 and 125 rad s−1. 
+2.5. Emulsifying properties of the pectic fractions 
+The emulsifying properties of two selected extracts from apple 
+pomace with high and low methoxyl content were benchmarked with a 
+commercially available high methoxyl citrus pectin control (DM of 71%) 
+gently provided by Ceamsa (Porri˜no, PO, Spain) (Roman, et al., 2021). 
+2.5.1. Preparation of emulsions 
+Oil-in-water emulsions were prepared according to the procedure 
+employed by Alba (Alba, Dimopoulou, & Kontogiorgos, 2021) and 
+Cuevas-Bernardino (Cuevas-Bernardino, Lobato-Calleros, Rom´an-Guer­
+rero, Alvarez-Ramirez, & Vernon-Carter, 2016) with some modifica­
+tions. The aqueous phase of the emulsions were prepared by hydrating 
+the corresponding pectin at 1.1% w/v in 0.01M hydrochloric 
+acid-potassium chloride (HCL/KCL) buffer (pH = 2). Pectin solutions 
+were hydrated under stirring at room temperature until complete hy­
+dration. Pre-emulsions were prepared by adding 2 mL of refined sun­
+flower oil to 18 mL of the pectin solution in order to yield a volume 
+fraction φ = 0.1 and nominal pectin concentration of 1% v/v. The stock 
+emulsion was fabricated at room temperature by high speed homoge­
+nization using an high shear Ultra-Turrax T25 homogenizer (IKA, USA) 
+at a rotational speed of 10,000 rpm during 3 min. Subsequently, an 
+ultrasonication step was applied using a UP200S sonicator (Hielscher 
+Ultrasonics GmbH, Germany) operating at 24 KHz and equipped with a 
+Microtip S3 probe. Ultrasonication was applied for 1 min with pulse 
+ultrasounds (50% per second) at a 100% amplitude. Droplet size dis­
+tribution was measured immediately after the emulsion preparation 
+(fresh). Emulsions were kept at 4 ◦C in order to evaluate their long-term 
+stability up to 10 days (3, 5, 8 and 10 days). 
+2.5.2. Droplet size distribution in emulsions and long term stability 
+Droplet size was measured immediately after making the emulsion. 
+In order to determine the long-term stability of the emulsion, droplet 
+size was measured during 10 days (2, 3, 5, 8, 10 days). The average 
+volume weighted diameter d(3,4) of emulsion droplets was determined 
+in triplicate using a Masterizer 2000 (Malvern Instruments Ltd., Mal­
+vern, UK). Refractive index of pectins and dispersion medium were 
+established at 1.464 and 1.33, respectively. 
+S. Yilmaz-Turan et al.                                                                                                                                                                                                                         
+
+PAGE 5
+Food Hydrocolloids 145 (2023) 109148
+5
+3. Results and discussion 
+3.1. Composition of the starting apple pomace 
+As a by-product of apple processing, apple pomace was evaluated in 
+this study as a rich source of phenolic acids and dietary fibre pectin to be 
+valorized into antioxidant gels and emusifiers. The composition of the 
+initial raw pomace was characterized in terms of moisture, protein and 
+carbohydrate content (Table 1). The apple pomace contained 80.9% 
+moisture as in agreement with previous studies (Fernandes, Ferreira, 
+et al., 2019). Soluble proteins comprised a small portion (1.2%) of apple 
+pomace and carbohydrates constituted its major components. As pec­
+tins, cellulose and hemicelluloses are the main polysaccharides of apple 
+pomace (Perussello, et al., 2017), both sulfuric acid hydrolysis and 
+two-step methanolysis were performed for the estimation of cellulose 
+and pectin/hemicelluloses (neutral and uronic sugars), respectively. 
+Sulfuric acid hydrolysis showed that fructose was the major mono­
+saccharide in the apple pomace, followed by glucose. This glucose was 
+attributed to cellulose, hemicellulose (e.g. xyloglucan and β-glucan) 
+(Fernandes, Silva, et al., 2019) and starch (6.8%). Methanolysis, on the 
+other hand, revealed the high abundance of pectic monosaccharides 
+(GalA, Xyl, Fuc, Ara, Gal, Rha and GlcA), indicating the occurrence of 
+different pectin regions (RG-I, RG-II, XGA and HGA). No fructose was 
+detected after methanolysis, which was attributed to its complete 
+degradation at hydrolysis conditions by furanoid dehydration (Becker, 
+et al., 2021). 
+3.2. Characterization of extracted polyphenols 
+The phenolic content and radical scavenging activity of the ethanolic 
+extract were presented in Table 2. The ethanolic extract yielded a TPC of 
+8.2 mg GAE/g apple pomace, in agreement with previous studies where 
+similar extraction methods were used (Ajila, Brar, Verma, Tyagi, & 
+Val´ero, 2011; Chandrasekar, Martín-Gonz´alez, Hirst, & Ballard, 2015). 
+The content, as well as the profile of phenolics in apple pomace, varies 
+depending on cultivar, the maturity of apple, growing and storage 
+conditions and parts of apple that apple pomace was produced from 
+(Di˜neiro 
+García, 
+et 
+al., 
+2009; 
+Kalinowska, 
+Bielawska, 
+Lewandowska-Siwkiewicz, Priebe, & Lewandowski, 2014). The phenolic 
+acid profile of the freshly extracted polyphenols, as analyzed by HPLC, 
+showed a dominating content of chlorogenic acid (Supplementary 
+Fig. S1) in agreement with previous studies (Di˜neiro García, et al., 2009; 
+Schieber et al., 2003). Five unknown compounds were observed be­
+tween 32 and 37 min of the chromatogram (Supplementary Fig. S1), 
+which may represent various phenolic families such as flavonols or 
+dihydrochalcones (Di˜neiro García, et al., 2009). However, these were 
+not assigned to any phenolic compound as the UV-spectra did not 
+correspond to the available standards. As for the radical scavenging 
+activity of the extracted polyphenols, 19.4 mg extract was necessary to 
+reduce 50% of 1 mg of DPPH•, suggesting a strong antioxidant activity 
+that was attributed to the high phenolic content of the extract. 
+3.3. Subcritical water extraction of apple pomace pectins 
+The influence of extraction parameters (temperature, pH and time) 
+under subcritical water conditions on extraction yields, monosaccharide 
+composition and molar mass distributions of pectins from apple pomace 
+was evaluated. As expected, a higher extraction temperature of 140 ◦C 
+promoted higher extraction yields compared to extraction at 120 ◦C 
+(Fig. 2a); this increase in yields at higher temperatures was observed at 
+all tested pH conditions (pH 3, 5, and 7) but it was more significant at pH 
+7. Interestingly, when evaluating the evolution of the extraction yields 
+with time, the highest yields at 140 ◦C were observed in the first cycle (5 
+min), whereas longer times were required at 120 ◦C to achieve similar 
+yields (Fig. 2b). This confirms that increased temperature promotes 
+mass transfer under subcritical water conditions, resulting in improved 
+extraction kinetics in terms of extracted polysaccharides in shorter 
+times. 
+At 120 ◦C, the total solid yields of SWE at all pH values were similar 
+to each other (Fig. 2b), indicating that different pH conditions do not 
+have a substantial effect on the overall extraction yields at this tem­
+perature. However, at 140 ◦C extraction at neutral conditions (pH 7) 
+resulted in higher overall yields compared to more acidic conditions (pH 
+5 and pH 3), which may indicate on one hand the preferential extraction 
+of specific polysaccharide components at such neutral conditions, and 
+the occurrence of degradation of labile polysaccharide moieties at more 
+acidic conditions. Interestingly, at 140 ◦C, a gradual drop was observed 
+in the total yields at all pH conditions as the extraction time extended, 
+differently from the SWE at 120 ◦C. This could be due to the fact that the 
+available pectins were already accessed at the earlier stage of the ex­
+tractions at this higher temperature. Our results agree with the optimal 
+extraction of pectic polysaccharides at 140 ◦C, preventing extensive 
+pectic 
+degradation 
+at 
+higher 
+temperatures 
+(Benito-Rom´an, 
+Alonso-Ria˜no, Díaz de Cerio, Sanz, & Beltr´an, 2022; Zhang et al., 2022). 
+3.3.1. Time evolution of the monosaccharide composition during SWE 
+The influence of process conditions (temperature, pH and time) on 
+the monosaccharide composition of the extracted fractions under 
+subcritical water was evaluated (Fig. 2c, Table 3). In general, all the 
+extracts showed a predominant content of monosaccharides present in 
+pectins such as GalA, Ara, Gal and Rha, indicating the selective extrac­
+tion of pectic polysaccharides, mainly linear HG and RG-I. The low 
+presence of Fuc and GlcA in all the extracts at different time and pH 
+conditions may indicate that the presence of RG-II was limited. In par­
+allel, the residues exhibited higher content in Glc, Xyl and Man, which 
+indicates that cellulose and hemicelluloses (xylans and mannans) were 
+enriched in the residue and not extracted at the tested SWE conditions. 
+In previous works, higher temperatures (160 ◦C and 170 ◦C) have been 
+applied to isolate polymeric hemicelluloses from different cereal and 
+wood biomasses (P. Kilpel¨ainen et al., 2012; Martínez-Abad, et al., 2018; 
+Rissanen et al., 2014; Rudjito et al., 2020; Ruthes et al., 2017). This 
+Table 1 
+Chemical composition of apple pomace.  
+Moisture (%) 
+80.9 ± 0.2 
+Soluble protein (%) 
+1.2 ± 0.0 
+Total phenolic (mg GAE/g DW) 
+8.2 ± 0.0 
+Starch (%) 
+6.8 ± 1.1  
+Monosaccharide analysis 
+Acid hydrolysis 
+Methanolysis 
+Total Carbohydrate (mg/g DW) 
+879.7 ± 117.3 
+443.5 ± 6.4 
+Ara (%) 
+3.3 
+13.4 
+Fuc (%) 
+4.6 
+1.8 
+Fru (%) 
+59.0 
+n.d. 
+Gal (%) 
+2.2 
+5.9 
+Glc (%) 
+26.8 
+52.2 
+Man (%) 
+0.4 
+1.3 
+Rha (%) 
+n.d. 
+2.0 
+Xyl (%) 
+2.0 
+5.1 
+GalA (%) 
+1.7 
+17.3 
+GlcA (%) 
+n.d. 
+1.0 
+NOTE. The results are presented as averages ± standard deviation. 
+Table 2 
+Characterization of phenolics extracted from apple pomace.   
+Freeze-dried polyphenol extractc 
+Total phenolic content (mg GAE/g)a 
+8.2 ± 0.0 
+Chlorogenic acid content (μg/g)b 
+35.5 ± 0.5 
+EC50 (mg/mg DPPH) 
+19.4 ± 0.9  
+a Total phenolic content was determined using Folin- Ciocalteau reagent. 
+b Chlorogenic acid content was determined by HPLC analysis. 
+c The results are presented as averages ± standard deviation. 
+S. Yilmaz-Turan et al.                                                                                                                                                                                                                         
+
+PAGE 6
+Food Hydrocolloids 145 (2023) 109148
+6
+Fig. 2. Subcritical water extraction (SWE) at pH 3, pH 5 and pH 7 at 120 ◦C and 140 ◦C. (a) Overall gravimetric yields (% dry weight); (b) Time evolution of the 
+gravimetric yields (% dry weight); (c) Monosaccharide composition (%) of extracts (5′, 10′ and 15′) and residue (R). 
+S. Yilmaz-Turan et al.                                                                                                                                                                                                                         
+
+PAGE 7
+Food Hydrocolloids 145 (2023) 109148
+7
+suggests that temperature can be used as a selective factor to preferen­
+tially extract pectins (at temperatures around 140 ◦C) and hemi­
+celluloses (at 160 ◦C and above). 
+The presence of Glc was observed in all the time fractions with a 
+general decreasing trend towards longer extraction times. The Glc 
+content in the initial extracts was ascribed to easily extracted leftover 
+starch, as previously reported (Rudjito, et al., 2019). The presence of Glc 
+was particularly remarkable in the 5-min extracts at pH 7, which sug­
+gests that mild acidic conditions (pH 3 and 5) might either selectively 
+extract pectic polysaccharides or induce degradation of the starch 
+populations. Increasing the pH of the extraction to 7.0 resulted in 
+different monosaccharide profiles than in the acidic conditions, with an 
+increasing trend with longer extraction time. As reported earlier, in the 
+first 5-min of SWE, more glucose was co-extracted together with HG, 
+RG-I and RG-II. Interestingly, the Glc, Man and Xyl contents slightly 
+increased towards the later stages of the extraction particularly at 
+harsher acidic (pH 3) and temperature (140 ◦C) conditions. This suggests 
+the increased extraction of hemicellulose fractions (e.g. xylan, xyloglu­
+can, and mannans) in the apple pomace in these conditions (Fernandes, 
+Silva, et al., 2019). 
+The time evolution of the monosaccharide composition of the 
+extracts at different pH and temperature conditions showed that pectin 
+with different branching patterns could be isolated by tuning the process 
+conditions. Different structural parameters for the pectic regions 
+extracted at different timepoints were calculated from the results of the 
+monosaccharide analysis, including pectin linearity, the ratio of pectin 
+corresponding to the RG-I domain, the length of side chains linked to the 
+RG-I domain, and the ratio of arabinan and galactan domains (Tables 3 
+and 4). In general, the content of GalA was higher at shorter extraction 
+times, and progressively decreasing with longer extraction times for all 
+pH and temperature conditions, whereas a relative overall increase of 
+Rha, Gal, and Ara with extraction times was observed at the different 
+conditions. This indicates that linear HG is preferentially isolated at 
+milder conditions, whereas more complex RG-I, RG-II and potentially 
+xyloglalacturonan populations require longer extraction times. This 
+correlates well with the general decrease in the pectin linearity factor 
+and the overall increase in the ratio of pectin corresponding to the RG-I 
+domain. Similar trends on the relative content of GalA and neutral 
+sugars were observed with increasing temperature in previous subcrit­
+ical water extraction of pectins from apple and citrus peel (Xin Wang, 
+Chen, & Lü, 2014). 
+The high ratio of Gal and Ara with respect to Rha indicate that either 
+Table 3 
+Monosaccharide composition of extracts at 120 ◦C and evaluation of the pectic domains.   
+pH 3 
+pH 5 
+pH 7 
+5′ 
+10′ 
+15′ 
+5′ 
+10′ 
+15′ 
+5′ 
+10′ 
+15′ 
+Fuc (mg/g) 
+3.8 
+2.6 
+1.9 
+3.5 
+2.5 
+3.7 
+3.0 
+3.5 
+4.7 
+Ara (mg/g) 
+149.5 
+325.4 
+127.5 
+85.3 
+208.5 
+298.5 
+80.9 
+265.2 
+281.2 
+Rha (mg/g) 
+6.3 
+12.8 
+n.d. 
+4.9 
+12.1 
+17.1 
+3.0 
+10.3 
+11.9 
+GlcA (mg/g) 
+1.5 
+2.5 
+3.0 
+3.5 
+3.0 
+3.2 
+3.8 
+2.6 
+4.9 
+Gal (mg/g) 
+88.8 
+147.1 
+96.2 
+73.4 
+114.9 
+213.0 
+57.2 
+103.5 
+153.2 
+Glc (mg/g) 
+55.3 
+32.1 
+17.8 
+39.8 
+23.4 
+46.4 
+271.9 
+25.7 
+25.3 
+Xyl (mg/g) 
+9.9 
+9.9 
+10.3 
+8.6 
+7.5 
+17.9 
+9.0 
+7.8 
+11.8 
+Man (mg/g) 
+2.8 
+1.7 
+1.0 
+3.3 
+1.9 
+2.8 
+2.2 
+0.7 
+1.6 
+GalA (mg/g) 
+233.1 
+194.0 
+310.0 
+303.2 
+274.3 
+173.2 
+188.6 
+261.0 
+255.5 
+Total monosaccharide (mg/g) 
+551.2 
+728.1 
+567.7 
+525.6 
+648.1 
+776.0 
+619.4 
+680.4 
+750.1 
+GalA/(Ara + Rha + Gal)a 
+0.8 
+0.3 
+1.1 
+1.5 
+0.7 
+0.3 
+1.1 
+0.5 
+0.5 
+Rha/GalAb 
+0.03 
+0.08 
+n.d. 
+0.02 
+0.05 
+0.12 
+0.02 
+0.05 
+0.06 
+(Gal + Ara)/Rhac 
+40.0 
+39.5 
+n.d. 
+34.4 
+28.4 
+31.7 
+49.3 
+38.3 
+38.8 
+Gal/Arad 
+0.6 
+0.4 
+0.7 
+0.8 
+0.5 
+0.7 
+0.7 
+0.4 
+0.5 
+NOTE. Averages from triplicate measurements. Standard deviations presented in Supplementary Material Table S2. 
+a Pectin linearity (Zhi, et al., 2017). 
+b Portion of the pectin that corresponds to the RG I domain (Zhi, et al., 2017). 
+c Length of the side chain linked to the RG I domain (Zhi, et al., 2017). 
+d Ratio of galactan and arabinan domains. 
+Table 4 
+Monosaccharide composition of extracts at 140 ◦C and evaluation of the pectic domains.  
+pH conditions 
+pH 3 
+pH 5 
+pH 7 
+Extraction times 
+5′ 
+10′ 
+15′ 
+5′ 
+10′ 
+15′ 
+5′ 
+10′ 
+15′ 
+Fuc (mg/g) 
+3.9 
+3.5 
+4.0 
+3.0 
+3.5 
+4.8 
+1.4 
+3.5 
+5.3 
+Ara (mg/g) 
+239.1 
+215.4 
+94.5 
+155.8 
+241.8 
+281.9 
+66.6 
+236.4 
+239.3 
+Rha (mg/g) 
+11.1 
+16.5 
+16.4 
+8.6 
+13.9 
+15.5 
+2.7 
+10.0 
+12.1 
+GlcA (mg/g) 
+3.3 
+3.1 
+2.6 
+6.8 
+2.4 
+2.8 
+2.4 
+3.3 
+2.3 
+Gal (mg/g) 
+125.8 
+234.5 
+254.3 
+98.3 
+161.4 
+206.0 
+35.4 
+116.1 
+174.1 
+Glc (mg/g) 
+44.5 
+41.2 
+63.5 
+32.3 
+38.5 
+42.1 
+80.1 
+23.8 
+29.0 
+Xyl (mg/g) 
+11.9 
+21.8 
+39.7 
+9.4 
+14.0 
+21.5 
+4.3 
+9.2 
+11.0 
+Man (mg/g) 
+3.6 
+3.3 
+5.3 
+3.4 
+4.5 
+3.5 
+1.5 
+1.5 
+9.3 
+GalA (mg/g) 
+302.7 
+239.4 
+191.5 
+356.6 
+253.7 
+164.5 
+131.7 
+272.3 
+230.8 
+Total monosaccharide (mg/g) 
+745.9 
+778.8 
+671.8 
+674.1 
+733.5 
+742.7 
+326.1 
+676.0 
+713.2 
+GalA/(Ara + Rha + Gal)a 
+0.6 
+0.4 
+0.4 
+1.1 
+0.5 
+0.3 
+1.0 
+0.6 
+0.4 
+Rha/GalAb 
+0.04 
+0.08 
+0.10 
+0.03 
+0.06 
+0.11 
+0.02 
+0.04 
+0.06 
+(Gal + Ara)/Rhac 
+34.9 
+28.6 
+22.0 
+31.3 
+30.9 
+33.2 
+39.8 
+37.7 
+36.1 
+Gal/Arad 
+0.5 
+1.0 
+2.5 
+0.6 
+0.6 
+0.7 
+0.5 
+0.5 
+0.7 
+NOTE. Averages from triplicate measurements. Standard deviations presented in Supplementary Material Table S3. 
+a Pectin linearity (Zhi, et al., 2017). 
+b Portion of the pectin that corresponds to the RG I domain (Zhi, et al., 2017). 
+c Length of the side chain linked to the RG I domain (Zhi, et al., 2017). 
+d Ratio of galactan and arabinan domains. 
+S. Yilmaz-Turan et al.                                                                                                                                                                                                                         
+
+PAGE 8
+Food Hydrocolloids 145 (2023) 109148
+8
+the branched domains of RG-I exhibit a large relative length or that free 
+arabinogalactan populations are extracted from the apple pomace. This 
+is in agreement with the weak and reversible bonding of arabinans and 
+galactans to cellulose, which might then favour their extraction (Lin, 
+Lopez-Sanchez, & Gidley, 2015). At pH 3, the Ara content shows a 
+distinct trend for the extraction at 120 ◦C and 140 ◦C. At 120 ◦C, the Ara 
+content is highest at the second cycle (10-min), with a drastic decrease at 
+longer times, whereas at 140 ◦C, the Ara content decreases steadily with 
+extraction time. This could be related to the labile nature of the arabi­
+nofuranose moieties under acidic conditions, which progressively get 
+degraded under the subcritical water conditions. This ‘arabinose 
+peeling’ has also been observed during subcritical water extraction of 
+cereal arabinoxylans (Rudjito et al., 2020), resulting in arabinoxylans 
+with lower degree of substitution. As a result, the choice of specific 
+acidic conditions (pH 3 versus pH 5), enables to control the structure of 
+the arabinan and galactan branches in RG-I. On one hand, the use of pH 
+3 promotes the extraction of RG-I with more galactan content, whereas 
+the use of moderate pH conditions (pH 5) enable the enrichment of the 
+arabinan segments. This is clearly observed in the ratio of galactan and 
+arabinan domains in the hairy regions (Tables 3 and 4). 
+All in one, these results indicate that controlled subcritical water 
+treatment of apple pomace results in higher yields and purities of 
+extracted pectin compared to traditional hot acidic extraction. Indeed, 
+previous studies using different hot acidic solutions (between pH 1 and 
+pH 3, at temperatures between 65 ◦C and 100 ◦C) result in the extraction 
+of pectins with yields between 3 and 14%, requiring in most cases much 
+longer extraction times (between 1h and 4 h (Perussello, et al., 2017). 
+Moreover, controlling the time conditions during SWE enable the 
+fractionation of pectins with different branching structures, with HG 
+being extracted at shorter times and RG-I being enriched at longer 
+extraction times. Finally, the choice of acidic conditions also tunes the 
+relative ratio of arabinan and galactan branches in RG-I, since arabinan 
+is more labile and susceptible to undergo degradation at more acidic and 
+higher temperature conditions. 
+3.3.2. Time evolution of the molar mass distributions during SWE 
+The molar mass distributions, the number- (Mn) and weight-average 
+(Mw) molar masses of the extracted fractions are presented in Fig. 3 and 
+Supplementary Table S1, respectively. Complex multimodal size distri­
+butions and apparent molar masses ranging from 103 Da to 106 Da were 
+observed for almost all temperature and pH conditions, indicating a 
+complex range of macromolecular populations. Fruit pectins usually 
+exhibit heterogeneous molar mass distributions between 10,000 and 
+700,000 Da depending on the fruit source and extraction technique 
+(Colodel & Petkowicz, 2019; Wikiera, Mika, Starzynska-Janiszewska, & 
+Stodolak, 2015), which is similar to the values here reported for the 
+extracted fractions at 120 ◦C and 140 ◦C. 
+In general, it is extremely difficult to assign specific macromolecular 
+populations in terms of molar mass/size to their polysaccharide origin, 
+but general trends can be observed from the apparent molar mass dis­
+tributions from SEC. Considering the extracts at pH 7, a larger peak was 
+observed in the high molar mass region (between 105 – 106 Da) of the 5- 
+min extract as compared to the pH 3.0 and pH 7.0 extracts, which dis­
+appeared with prolonged extraction time (Fig. 3a). This is in alignment 
+with the high glucose content of the 5-min extract at pH 7, corre­
+sponding to starch and β-glucans (Fig. 2c and Table 3). At longer 
+Fig. 3. Molar mass distributions of SW extracts at pH 3, pH 5 and pH 7: (a) 120 ◦C and (b) 140 ◦C.  
+S. Yilmaz-Turan et al.                                                                                                                                                                                                                         
+
+PAGE 9
+Food Hydrocolloids 145 (2023) 109148
+9
+extraction times under neutral conditions, the molar mass distributions 
+did not significantly change as the extraction progressed, which indicate 
+the limited occurrence of hydrolysis as a result of the mild extraction 
+conditions. 
+At pH 5.0, the time evolution of the molar mass distributions of the 
+extracts changed from bimodal to trimodal with increasing extraction 
+time, which confirmed the presence of various pectic regions. Interest­
+ingly, the peak corresponding to larger macromolecular populations 
+(between 105 to 106 Da) increased at longer extraction times especially 
+at 120 ◦C, which might be assigned to an enrichment in the branched 
+RG-I domains. Indeed, in a previous work, we performed preparative 
+fractionation of extracted pectins from spruce bark in terms of their 
+macromolecular, and we performed detailed molecular characterization 
+of the different pectic fractions (Le Normand, Rietzler, Vilaplana, & Ek, 
+2021). The larger molar mass populations could be adscribed to highly 
+branched RG-I domains, whereas the fractions with lower molar masses 
+were enriched with linear homogalacturonan domains and free arabi­
+nogalactan populations. 
+The extracts at acidic conditions (pH 3) exhibit multimodal distri­
+butions as well, although with clear differences compared to the other 
+extraction conditions. The smaller macromolecular populations (be­
+tween 103 and 104) are clearly enriched with increasing extraction time, 
+suggesting that hydrolysis of the polysaccharide chains was promoted in 
+these acidic extractive conditions (Colodel et al., 2019). This trend is 
+clearly observed at higher extractive temperatures, in agreement with 
+the hydrolytic effect of increasing temperature on molar mass previously 
+observed for other biomass sources (Rudjito et al., 2020). In general, 
+neutral (pH 7) or moderate acidic conditions (pH 5) under subcritical 
+water are able to preserve the molar mass of the isolated polysaccharide 
+populations, whereas more aggressive acidic conditions result in higher 
+Fig. 4. a) Chemical structure of selected subcritical water extracts and (b) Viscosity, storage modulus (G′) (solids symbols) and loss modulus (G″) (open symbols) of 
+the samples prepared from the selected extracts at pH 3.5 and with 60% sucrose. NOTE: the pectin sample extracted at 120 ◦C pH3 10′ exhibited a torque irregularity 
+at the 3rd and 5th measurements, so such datapoints have been removed. 
+S. Yilmaz-Turan et al.                                                                                                                                                                                                                         
+
+PAGE 10
+Food Hydrocolloids 145 (2023) 109148
+10
+extraction yields at the expense of hydrolytic degradation. 
+3.3.3. Chemical structure and degree of methylation of selected pectic 
+extracts 
+Based on the purity of the pectic components and the results from the 
+molar mass distributions, the 10-min extracts of SWE at 120 ◦C and all 
+the time extracts of SWE at pH 5 at 140 ◦C were selected to be analyzed 
+in terms of their chemical structure by FTIR (Fig. 4a). FTIR analysis 
+showed typical spectral bands for polysaccharides between 3600 and 
+3000 cm−1, and between 3000 and 2800 cm−1 corresponding to the OH– 
+stretching and C–H stretching, respectively. The C–H stretching vibra­
+tions superimposed upon the broader O–H bands, which was in agree­
+ment with Gnanasambandam et al. (Gnanasambandam & Proctor, 
+2000). The peaks seen in all the extracted fractions at 2950 - 2750 cm−1, 
+1720 cm−1 and 1640-1520 cm−1 were attributed to O–CH3, ester 
+carbonyl (C––O) and carboxylate ion stretching (COO-), respectively, as 
+the extracted pectins were methyl esterified (Gnanasambandam et al., 
+2000). The peaks between 1300 and 700 cm−1 represented the finger­
+print region of pectin, corresponding to glycosidic linkages, C–O–C vi­
+bration, C–C and C–O stretching. 
+The 10-min extracts of SWE at 120 ◦C and of SWE at pH 5 at 140 ◦C 
+were characterized in terms of their degree of methylation (DM) 
+(Table 5). The pH 3.0 and pH 5.0 extracts showed lower DM (<50%), 
+corresponding to low-methoxyl pectin, whereas the 10-min extract of 
+pH 7.0 had the highest DM corresponding to a high-methoxyl pectin. 
+The lower DM of the extract at 120 ◦C likely resulted from acid hydro­
+lysis of pectins as discussed earlier. The pH conditions appeared to have 
+a substantial effect on the DM of the extracted pectins, i.e acidic pH 
+possibly resulted in the cleavage of methyl groups from the galacturonan 
+chains (Sahari, Akbarian, A, & Hamedi, 2003). On the other hand, 
+higher extraction temperature resulted in somewhat higher DM in 
+agreement with Wang et al. X. Wang, Chen, and Lü (2014), which could 
+be attributed to the higher efficiency of subcritical water at higher 
+temperatures resulting in the recovery of more recalcitrant methylated 
+pectin populations (Fig. 2b and c). These four extracts were considered 
+representative of the whole extracts at different pH and temperature 
+conditions in SWE and used for the determination of their gelling 
+behavior. 
+3.4. Gelling behavior of apple pomace pectins extracted by subcritical 
+water 
+The rheological properties of the samples prepared from the selected 
+extracts are presented in Fig. 4b. All samples showed shear thinning 
+behavior, which can be attributed to the weak associations among pectin 
+molecules that can easily be disrupted, resulting in a decreased viscosity 
+with increasing shear rate (Gan, Abdul Manaf, & Latiff, 2010). Among 
+all the samples, 120◦C-pH 7–10 min showed the highest viscosity, which 
+arose from its high DM (Table 3). 
+The storage modulus (G′) and elastic modulus (G″) of the samples 
+prepared from the 10-min extracts were also influenced by the DM. As 
+expected, the sample prepared from 120◦C-pH 3–10 min exhibited 
+typical behavior of a solution (G’ < G″), indicating the restricted inter­
+chain entanglement of pectin molecules due to their low DM. Contrarily, 
+the extract at 120◦C-pH 7–10 min showed an apparent gel behavior in 
+the presence of sucrose at pH 3.5 (G’ > G″), which could be again related 
+to the high DM of the sample. The samples 120◦C-pH 5–10 min and 
+140◦C-pH 5–10 min, on the other hand, showed overlapping G′ and G″ 
+curves over the frequency range (G’ = G″), with a similar slope for both 
+moduli. This suggested that these samples passed through the point of 
+critical crosslinking (Gilsenan, Richardson, & Morris, 2000). The effect 
+of pH on the rheological properties is less significant than the influence 
+of the DM. At pH 3.5, the carboxyl groups of these two extracts could be 
+partially converted to the protonated form, which might suppress elec­
+trostatic repulsion and facilitate intermolecular interactions (Gilsenan, 
+et al., 2000; Lootens et al., 2003). However, the degree of this proton­
+ation does not seem to be sufficient to induce complete gelation of these 
+extracts. 
+3.5. Emulsifying properties of apple pomace pectins extracted by 
+subcritical water 
+The emulsifying properties and long term stability of two selected 
+apple pomace pectin fractions extracted using subcritical water, with 
+high methoxyl content (extract 120◦C-pH 7–10 min with DM of 89.1%) 
+and low methoxyl content (extract 140◦C-pH 5–10 min with DM of 
+28.4%) were evaluated by optical microscopy and laser diffraction at 
+different storage days. The results were compared and benchmarked 
+with a commercial high methoxyl citrus pectin (DM of 71%). In general, 
+the emulsifying properties of pectin fractions depends on the molecular 
+structure of the polysaccharide in terms of molar mass, relative content 
+of linear HG and branched RG-I domains, the size and conformation of 
+the RG-I arabinogalactan side chains, the content of methyl, acetyl and 
+feruloyl substitutions, and the presence of covalenty-bound protein 
+domains (Kpodo, et al., 2018; Ngou´emazong, Christiaens, Shpigelman, 
+Van Loey, & Hendrickx, 2015). Indeed, a balance of the hydrophilic and 
+hydrophobic moieties in the pectic fractions is expected to stabilize the 
+oil and water interfaces, contributing to improved emulsifying ability 
+and stability. 
+The emusions from the commercial citrus pectin (Citrus HMP) 
+showed excellent homogeneity with uniform droplet formation and 
+unimodal particle size distributions of 1 μm (Fig. 5). The control emul­
+sions were very stable during storage conditions, and the particle size 
+distribution at the different storage days were almost superimposed. The 
+apple pomace fraction with high methoxyl content (Apple HMP) also 
+showed homogeneous emulsions with uniform droplet size of approxi­
+mately 1 μm. This could be attributed to the high DM content of this 
+apple pomace extract, which contributes to the formation of fine drop­
+lets stabilized by both the hydrophilic and hydrophobic components of 
+the pectin. However, already after 1 day the stability of the emusions 
+decreased and the formation of larger particles of 10 μm by coalescence 
+was observed. The stability of such emulsions was however conserved 
+after longer storage time, which indicate the potential of these high 
+metoxylated apple pomace pectins as alternative emulsifying agents. 
+The lower stability of the apple pomace pectin fractions compared to the 
+commercial citrus pectin may be due to the purity and the presence of 
+multiple polymeric populations from the molar mass distributions, as 
+the SWE fraction still contained minor amounts of starch and other 
+polysaccharide impurities (Table 3). Indeed, lower purity and the 
+presence of starch has been reported to hinder the emulsifying proper­
+ties of pectic extracts from hawthorn berry (Roman, et al., 2021). 
+Moreover, the balance between linear HG and branched RG-I domains 
+also contributes to the emulsifying stability of the pectins, as the RG-I 
+domains provide steric stabilization, whereas the HG domains 
+contribute to electrostatic stabilization (Ngou´emazong, et al., 2015). 
+Indeed, a HG/RG-I ratio above 2 has been reported to improve the long 
+term stability of emulsions (Kpodo, et al., 2018). In the case of the Apple 
+HMP, it seems that the higher relative abundance of RG-I domains with 
+higher flexibility compared to the linear HG domains seem to result in 
+shorter separation distances between droplets, which might facilitate 
+coalescence during long term storage. Finally, the apple pomace extract 
+Table 5 
+Degree of methylation (DM) of selected extracts.  
+Sample 
+DM (%) 
+120 ◦C-pH 3–10 min 
+8.1 ± 0.1 
+120 ◦C-pH 5–10 min 
+19.5 ± 0.4 
+120 ◦C-pH7-10 min 
+89.1 ± 0.3 
+140 ◦C-pH 5–10 min 
+28.4 ± 0.3 
+NOTE. The results are presented as averages ± standard 
+deviation. 
+S. Yilmaz-Turan et al.                                                                                                                                                                                                                         
+
+PAGE 11
+Food Hydrocolloids 145 (2023) 109148
+11
+with low methoxyl content (Apple LMP) exhibited the worst emulsifying 
+properties and long-term stability, as observed by the heterogenerous 
+and multimodal size distribution of the droplets with multiple particle 
+size populations. Indeed, the emulsions seemed to increasingly coalesce 
+into large particles of sizes between 10 and 100 μm. Moreover, the 
+emulsions from Apple LMP showed creaming behaviour (Supplementary 
+Material Fig. S3), evidencing the poor emulsifying properties of this 
+fraction. This could be again attributed to the heterogeneous composi­
+tion of this pectic extract, the low methoxyl content, and the low relative 
+content of linear HG domains. 
+4. Conclusions 
+This study has shown an efficient way of the valorization of a food 
+waste, i.e. apple pomace, into natural antioxidants and pectin as valu­
+able sources for novel bioactive and techno-functional materials. The 
+extraction of polyphenols from apple pomace was demonstrated to be 
+simple and fast only using 50% ethanol. Chlorogenic acid was identified 
+as the main phenolic acid compound with a significant antioxidant 
+activity. Subcritical water extraction (SWE) was successfully imple­
+mented for the extraction of pectic polysaccharides at different pH, time 
+and temperature conditions. The different conditions in SWE produced 
+different pectin populations with different molecular structure in terms 
+of presence of linear HG and branched RG-I domains, content of methyl 
+group substitutions and molecular size. Linear HG was preferentially 
+isolated at milder conditions, whereas more branched RG-I populations 
+require longer extraction times. Acidic extraction generated low 
+methoxyl pectin that can be potentially used as a gelling agent in low- 
+sugar/low-calorie food products. Neutral pH in SWE produced high 
+methoxyl pectin when combined with high extraction temperature, 
+which yielded the formation of a pectin gel in the presence of sugar at 
+low pH. The emulsifying properties of the apple pomace pectins with 
+high and low methoxyl content were evaluated. The apple pomace 
+pectin with higher methoxyl content showed higher emulsifying ability 
+compared to the low methoxyl extract, resulting in a homogeneous 
+particle size distribution of the droplets upon formation. This study 
+shows that adjusting the time, pH and temperature conditions during 
+subcritical water extraction has large potential to fine tune the 
+Fig. 5. Emulsifying properties of two pectin fractions from apple pomace with high metoxyl content (Apple HMP, 120◦C-pH 7–10 min) and low methoxyl content 
+(Apple LMP, 120◦C-pH 3–10 min) extracted by subcritical water compared to a commercial high methoxyl pectin from citrus (Citrus HMP). (a) Optical microscopy of 
+the oil-in-water emulsions at different storage days (b) Droplet size distribution of pectin emulsions fresh and at different storage days (3, 5, 8, 10 days). 
+S. Yilmaz-Turan et al.                                                                                                                                                                                                                         
+
+PAGE 12
+Food Hydrocolloids 145 (2023) 109148
+12
+molecular structure of pectic polysaccharides in terms of linear HG and 
+branched RG-domains, the ratio of arabinan and galactan side chains, 
+and the methoxyl content, which has a large influence on the techno- 
+functional properties of these food hydrocolloids as gelling and emul­
+sifying agents. 
+CRediT author statement 
+Secil Yilmaz Turan: Investigation, Methodology, Formal analysis, 
+Writing - original draft. 
+Teod´ora G´al: Investigation, Methodology, Formal analysis, Writing - 
+original draft. 
+Patricia Lopez-Sanchez: Investigation, Writing - review & editing. 
+Mario M. Martinez: Investigation, Writing - review & editing. 
+Carolin Menzel: Investigation, Supervision, Writing - review & 
+editing. 
+Francisco Vilaplana: Conceptualization, Supervision, Funding 
+acquisition, Project administration, Writing - review & editing. 
+Declaration of competing interest 
+The authors declare the following financial interests/personal re­
+lationships which may be considered as potential competing interests: 
+Francisco Vilaplana reports financial support was provided by Swedish 
+Research Council Formas. Francisco Vilaplana reports a relationship 
+with Oatly AB that includes: employment. 
+Data availability 
+Data will be made available on request. 
+Acknowledgments 
+The authors acknowledge Isadora Spoerer and Francisco Zamudio 
+(V¨add¨o Musteri, Grisslehamn, Sweden) for providing the apple pomace. 
+FV acknowledges the Swedish Research Council Formas (Project 942- 
+2016-119 and Project 2020–01575) for financial support. 
+Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.foodhyd.2023.109148. 
+References 
+Ajila, C. M., Brar, S. K., Verma, M., Tyagi, R. D., & Val´ero, J. R. (2011). Solid-state 
+fermentation of apple pomace using Phanerocheate chrysosporium – liberation and 
+extraction of phenolic antioxidants. Food Chemistry, 126(3), 1071–1080. 
+Alba, K., Dimopoulou, M., & Kontogiorgos, V. (2021). Baobab polysaccharides as 
+emulsifiers. LWT, 144, 111235. 
+Becker, M., Ahn, K., Bacher, M., Xu, C., Sundberg, A., Willf¨or, S., et al. (2021). 
+Comparative hydrolysis analysis of cellulose samples and aspects of its application in 
+conservation science. Cellulose, 28(13), 8719–8734. 
+Benito-Rom´an, ´O., Alonso-Ria˜no, P., Díaz de Cerio, E., Sanz, M. T., & Beltr´an, S. (2022). 
+Semi-continuous hydrolysis of onion skin wastes with subcritical water: Pectin 
+recovery and oligomers identification. Journal of Environmental Chemical Engineering, 
+10(3), Article 107439. 
+Bouarab Chibane, L., Degraeve, P., Ferhout, H., Bouajila, J., & Oulahal, N. (2019). Plant 
+antimicrobial polyphenols as potential natural food preservatives. Journal of the 
+Science of Food and Agriculture, 99(4), 1457–1474. 
+Bradford, M. M. (1976). A rapid and sensitive method for the quantitation of microgram 
+quantities of protein utilizing the principle of protein-dye binding. Analytical 
+Biochemistry, 72(1), 248–254. 
+Brand-Williams, W., Cuvelier, M. E., & Berset, C. (1995). Use of a free radical method to 
+evaluate antioxidant activity. LWT - Food Science and Technology, 28(1), 25–30. 
+Chandrasekar, V., Martín-Gonz´alez, M. F. S., Hirst, P., & Ballard, T. S. (2015). Optimizing 
+microwave-assisted extraction of phenolic antioxidants from red delicious and 
+jonathan apple pomace. Journal of Food Process Engineering, 38(6), 571–582. 
+Colodel, C., & Petkowicz, C. L. D. (2019). Acid extraction and physicochemical 
+characterization of pectin from cubiu (Solanum sessiliflorum D.) fruit peel. Food 
+Hydrocolloids, 86, 193–200. 
+Cuevas-Bernardino, J. C., Lobato-Calleros, C., Rom´an-Guerrero, A., Alvarez-Ramirez, J., 
+& Vernon-Carter, E. J. (2016). Physicochemical characterisation of hawthorn pectins 
+and their performing in stabilising oil-in-water emulsions. Reactive and Functional 
+Polymers, 103, 63–71. 
+Di˜neiro García, Y., Valles, B. S., & Picinelli Lobo, A. (2009). Phenolic and antioxidant 
+composition of by-products from the cider industry: Apple pomace. Food Chemistry, 
+117(4), 731–738. 
+Falowo, A. B., Fayemi, P. O., & Muchenje, V. (2014). Natural antioxidants against lipid- 
+protein oxidative deterioration in meat and meat products: A review. Food Research 
+International, 64, 171–181. 
+Faostat. (2018). FAO statistics division, 2018 http://www.fao.org/faostat/en/#data/QC. 
+Fernandes, P. A. R., Ferreira, S. S., Bastos, R., Ferreira, I., Cruz, M. T., Pinto, A., et al. 
+(2019). Apple pomace extract as a sustainable food ingredient. Antioxidants, 8(6), 
+189. 
+Fernandes, P. A. R., Silva, A. M. S., Evtuguin, D. V., Nunes, F. M., Wessel, D. F., 
+Cardoso, S. M., et al. (2019). The hydrophobic polysaccharides of apple pomace. 
+Carbohydrate Polymers, 223, Article 115132. 
+Gan, C.-Y., Abdul Manaf, N. H., & Latiff, A. A. (2010). Physico-chemical properties of 
+alcohol precipitate pectin-like polysaccharides from Parkia speciosa pod. Food 
+Hydrocolloids, 24(5), 471–478. 
+Gasparrini, M., Forbes-Hernandez, T. Y., Afrin, S., Reboredo-Rodriguez, P., Cianciosi, D., 
+Mezzetti, B., et al. (2017). Strawberry-based cosmetic formulations protect human 
+dermal fibroblasts against UVA-induced damage. Nutrients, 9(6), 605. 
+Gilsenan, P. M., Richardson, R. K., & Morris, E. R. (2000). Thermally reversible acid- 
+induced gelation of low-methoxy pectin. Carbohydrate Polymers, 41(4), 339–349. 
+Gnanasambandam, R., & Proctor, A. (2000). Determination of pectin degree of 
+esterification by diffuse reflectance Fourier transform infrared spectroscopy. Food 
+Chemistry, 68(3), 327–332. 
+Kalinowska, M., Bielawska, A., Lewandowska-Siwkiewicz, H., Priebe, W., & 
+Lewandowski, W. (2014). Apples: Content of phenolic compounds vs. variety, part of 
+apple and cultivation model, extraction of phenolic compounds, biological 
+properties. Plant Physiology and Biochemistry, 84, 169–188. 
+Kastner, H., Kern, K., Wilde, R., Berthold, A., Einhorn-Stoll, U., & Drusch, S. (2014). 
+Structure formation in sugar containing pectin gels - influence of tartaric acid 
+content (pH) and cooling rate on the gelation of high-methoxylated pectin. Food 
+Chemistry, 144, 44–49. 
+Kilpel¨ainen, P. O., Hautala, S. S., Byman, O. O., Tanner, L. J., Korpinen, R. I., 
+Lillandt, M. K. J., et al. (2014). Pressurized hot water flow-through extraction system 
+scale up from the laboratory to the pilot scale. Green Chemistry, 16(6), 3186–3194. 
+Kilpel¨ainen, P., Lepp¨anen, K., Spetz, P., Kitunen, V., Ilvesniemi, H., Pranovich, A., et al. 
+(2012). Pressurised hot water extraction of acetylated xylan from birch sawdust. 
+Nordic Pulp and Paper Research Journal, 27(4), 680–688. 
+Klavons, J. A., & Bennett, R. D. (1986). Determination of methanol using alcohol oxidase 
+and its application to methyl-ester content of pectins. Journal of Agricultural and Food 
+Chemistry, 34(4), 597–599. 
+Kpodo, F. M., Agbenorhevi, J. K., Alba, K., Oduro, I. N., Morris, G. A., & Kontogiorgos, V. 
+(2018). Structure-function relationships in pectin emulsification. Food Biophysics, 13 
+(1), 71–79. 
+Le Normand, M., Rietzler, B., Vilaplana, F., & Ek, M. (2021). Macromolecular model of 
+the pectic polysaccharides isolated from the bark of Norway spruce (picea abies). 
+Polymers, 13(7), 1106. 
+Lin, D., Lopez-Sanchez, P., & Gidley, M. J. (2015). Binding of arabinan or galactan during 
+cellulose synthesis is extensive and reversible. Carbohydrate Polymers, 126, 108–121. 
+Lootens, D., Capel, F., Durand, D., Nicolai, T., Boulenguer, P., & Langendorff, V. (2003). 
+Influence of pH, Ca concentration, temperature and amidation on the gelation of low 
+methoxyl pectin. Food Hydrocolloids, 17(3), 237–244. 
+Lyu, F., Luiz, S. F., Azeredo, D. R. P., Cruz, A. G., Ajlouni, S., & Ranadheera, C. S. (2020). 
+Apple pomace as a functional and healthy ingredient in food products: A review. 
+Processes, 8(3), 319. 
+Martínez-Abad, A., Giummarella, N., Lawoko, M., & Vilaplana, F. (2018). Differences in 
+extractability under subcritical water reveal interconnected hemicellulose and lignin 
+recalcitrance in birch hardwoods. Green Chemistry, 20(11), 2534–2546. 
+May, C. D. (1990). Industrial pectins: Sources, production and applications. Carbohydrate 
+Polymers, 12(1), 79–99. 
+McKee, L. S., Sunner, H., Anasontzis, G. E., Toriz, G., Gatenholm, P., Bulone, V., et al. 
+(2016). A GH115 alpha-glucuronidase from Schizophyllum commune contributes to 
+the synergistic enzymatic deconstruction of softwood glucuronoarabinoxylan. 
+Biotechnology for Biofuels, 9(1), 2. 
+Menzel, C., Gonzalez-Martinez, C., Chiralt, A., & Vilaplana, F. (2019a). Antioxidant 
+starch films containing sunflower hull extracts. Carbohydrate Polymers, 214, 
+142–151. 
+Menzel, C., Gonz´alez-Martínez, C., Chiralt, A., & Vilaplana, F. (2019b). Antioxidant 
+starch films containing sunflower hull extracts. Carbohydrate Polymers, 214, 
+142–151. 
+Mu˜noz-Almagro, N., Montilla, A., & Villamiel, M. (2021). Role of pectin in the current 
+trends towards low-glycaemic food consumption. Food Research International, 140, 
+Article 109851. 
+Ngou´emazong, E. D., Christiaens, S., Shpigelman, A., Van Loey, A., & Hendrickx, M. 
+(2015). The emulsifying and emulsion-stabilizing properties of pectin: A review. 
+Comprehensive Reviews in Food Science and Food Safety, 14(6), 705–718. 
+Pasrija, D., Ezhilarasi, P. N., Indrani, D., & Anandharamakrishnan, C. (2015). 
+Microencapsulation of green tea polyphenols and its effect on incorporated bread 
+quality. LWT - Food Science and Technology, 64(1), 289–296. 
+Perussello, C. A., Zhang, Z. H., Marzocchella, A., & Tiwari, B. K. (2017). Valorization of 
+apple pomace by extraction of valuable compounds. Comprehensive Reviews in Food 
+Science and Food Safety, 16(5), 776–796. 
+S. Yilmaz-Turan et al.                                                                                                                                                                                                                         
+
+PAGE 13
+Food Hydrocolloids 145 (2023) 109148
+13
+Plaza, M., & Turner, C. (2015). Pressurized hot water extraction of bioactives. Trends in 
+Analytical Chemistry, 71, 39–54. 
+Rissanen, J. V., Gr´enaman, H., Xu, C., Willf¨or, S., Murzin, D. Y., & Salmi, T. (2014). 
+Obtaining spruce hemicelluloses of desired molar mass by using pressurized hot 
+water extraction. ChemSusChem, 7, 2947–2953. 
+Roman, L., Guo, M., Terekhov, A., Grossutti, M., Vidal, N. P., Reuhs, B. L., et al. (2021). 
+Extraction and isolation of pectin rich in homogalacturonan domains from two 
+cultivars of hawthorn berry (Crataegus pinnatifida). Food Hydrocolloids, 113, Article 
+106476. 
+Rudjito, R. C., Jim´enez-Quero, A., Hamzaoui, M., Kohnen, S., & Vilaplana, F. (2020). 
+Tuning the molar mass and substitution pattern of complex xylans from corn fibre 
+using subcritical water extraction. Green Chemistry, 22(23), 8337–8352. 
+Rudjito, R. C., Ruthes, A. C., Jim´enez-Quero, A., & Vilaplana, F. (2019). Feruloylated 
+arabinoxylans from wheat bran: Optimization of extraction process and validation at 
+pilot scale. ACS Sustainable Chemistry & Engineering, 7, 13167–13177. 
+Ruthes, A. C., Martínez-Abad, A., Tan, H.-T., Bulone, V., & Vilaplana, F. (2017). 
+Sequential fractionation of feruloylated hemicelluloses and oligosaccharides from 
+wheat bran using subcritical water and xylanolytic enzymes. Green Chemistry, 19(8), 
+1919–1931. 
+Ruthes, A. C., Rudjito, R. C., Rencoret, J., Guti´errez, A., del Río, J. C., Jim´enez-Quero, A., 
+et al. (2020). Comparative recalcitrance and extractability of cell wall 
+polysaccharides from cereal (wheat, rye, and barley) brans using subcritical water. 
+ACS Sustainable Chemistry & Engineering, 8(18), 7192–7204. 
+Saeman, J. F., Moore, W. E., Mitchell, R. L., & Millett, M. A. (1954). Techniques for the 
+determination of pulp constituents by quantitative paper chromatography. Tappi 
+Journal, 37(8), 336–343. 
+Saewan, N., & Jimtaisong, A. (2015). Natural products as photoprotection. Journal of 
+Cosmetic Dermatology, 14(1), 47–63. 
+Sahari, M. A., Akbarian, M., A, & Hamedi, M. (2003). Effect of variety and acid washing 
+method on extraction yield and quality of sunflower head pectin. Food Chemistry, 83 
+(1), 43–47. 
+Schieber, A., Hilt, P., Streker, P., Endreß, H.-U., Rentschler, C., & Carle, R. (2003). A new 
+process for the combined recovery of pectin and phenolic compounds from apple 
+pomace. Innovative Food Science & Emerging Technologies, 4(1), 99–107. 
+Shalini, R., & Gupta, D. K. (2010). Utilization of pomace from apple processing 
+industries: A review. Journal of Food Science & Technology, 47(4), 365–371. 
+Sista Kameshwar, A. K., & Qin, W. (2018). Structural and functional properties of pectin 
+and lignin–carbohydrate complexes de-esterases: A review. Bioresources and 
+Bioprocessing, 5(1), 43. 
+Tsoga, A., Richardson, R. K., & Morris, E. R. (2004). Role of cosolutes in gelation of high- 
+methoxy pectin. Part 1. Comparison of sugars and polyols. Food Hydrocolloids, 18(6), 
+907–919. 
+Wang, X., Chen, Q., & Lü, X. (2014a). Pectin extracted from apple pomace and citrus peel 
+by subcritical water. Food Hydrocolloids, 38, 129–137. 
+Wang, X., Chen, Q. R., & Lu, X. (2014b). Pectin extracted from apple pomace and citrus 
+peel by subcritical water. Food Hydrocolloids, 38, 129–137. 
+Wikiera, A., Mika, M., Starzynska-Janiszewska, A., & Stodolak, B. (2015). Application of 
+Celluclast 1.5L in apple pectin extraction. Carbohydrate Polymers, 134, 251–257. 
+Zhang, F., Zhang, L., Chen, J., Du, X., Lu, Z., Wang, X., et al. (2022). Systematic 
+evaluation of a series of pectic polysaccharides extracted from apple pomace by 
+regulation of subcritical water conditions. Food Chemistry, 368, Article 130833. 
+Zhi, Z., Chen, J., Li, S., Wang, W., Huang, R., Liu, D., et al. (2017). Fast preparation of 
+RG-I enriched ultra-low molecular weight pectin by an ultrasound accelerated 
+Fenton process. Scientific Reports, 7(1), 541. 
+Zillich, O. V., Schweiggert-Weisz, U., Eisner, P., & Kerscher, M. (2015). Polyphenols as 
+active ingredients for cosmetic products. International Journal of Cosmetic Science, 37 
+(5), 455–464. 
+S. Yilmaz-Turan et al.                                                                                                                                                                                                                         

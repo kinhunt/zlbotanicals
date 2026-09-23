@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="research-article"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">3686</journal-id><journal-id journal-id-type="pmc-domain">acsomega</journal-id><journal-title-group><journal-title>ACS Omega</journal-title><abbrev-journal-title>ACS Omega</abbrev-journal-title></journal-title-group><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10785061</article-id><article-id pub-id-type="pmcaid">10785061</article-id><article-id pub-id-type="pmcaiid">10785061</article-id><article-id pub-id-type="pmid">38222520</article-id><article-id pub-id-type="doi">10.1021/acsomega.3c03218</article-id><title-group><article-title>Determination of Polyphenolic Profile of Apple Pomace
+(<italic>Malus domestica</italic> Golden Delicious Variety) by HPLC–MS</article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>Orozco-Flores</surname><given-names initials="LA">Laura
+A</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Salas</surname><given-names initials="E">Erika</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref rid="cor1" ref-type="author-notes">*</xref></contrib><contrib><name name-style="western"><surname>Rocha-Gutiérrez</surname><given-names initials="B">Beatriz</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Peralta-Pérez</surname><given-names initials="MDR">María Del
+R</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>González-Sánchez</surname><given-names initials="G">Guillermo</given-names></name><xref ref-type="aff" rid="aff2">‡</xref></contrib><contrib><name name-style="western"><surname>Ballinas-Casarrubias</surname><given-names initials="L">Lourdes</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref rid="cor2" ref-type="author-notes">*</xref></contrib></contrib-group><aff id="aff1"><label>†</label>Facultad
+de Ciencias Químicas, Universidad
+Autónoma de Chihuahua (UACH), Circuito Universitario Campus II, Chihuahua, Chihuahua 31125, Mexico</aff><aff id="aff2"><label>‡</label>Departamento
+de Medio Ambiente y Energía, Centro
+de Investigación en Materiales Avanzados (CIMAV), Miguel de Cervantes 120 Complejo
+Industrial Chihuahua, Chihuahua, Chihuahua 31136, Mexico</aff><author-notes><fn id="cor1"><label>*</label><p>Email: <email>esalas@uach.mx</email>.</p></fn><fn id="cor2"><label>*</label><p>Email: <email>mballinas@uach.mx</email>. Tel.: +52 (614) 2366000.</p></fn></author-notes><pub-date><day>15</day><month>12</month><year>2023</year></pub-date><volume>9</volume><issue>1</issue><fpage>196</fpage><page-range>196–203</page-range><pub-history><event event-type="pmc-release"><date><day>13</day><month>1</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© 2023 The Authors. Published by American Chemical Society</copyright-statement><license><license-p>Permits non-commercial access and re-use, provided that author attribution and integrity are maintained; but does not permit creation of adaptations or other derivative works (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">https://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao3c03218.pdf" content-type="pmc-pdf"><?cloudpmc-path e796/10785061/0c45041c1053/ao3c03218.pdf?><?cloudpmc-bucket app?><?size 2086607?></self-uri><abstract id="abstract1"><title>Abstract</title><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="ab-d33e127" xlink:href="ao3c03218_0002.jpg"><?cloudpmc-path blobs/e796/10785061/2e037607b9a3/ao3c03218_0002.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 562?><?original-width 802?><?scaled-height 374?><?scaled-width 534?></graphic><p>Apple (<italic>Malus domestica</italic> Borkh) is
+an appreciated source of polyphenols. Phenolic compounds are known
+as natural antioxidants and have a wide range of applications in different
+industries. Apple pomace has the potential of being an alternative
+source of polyphenols. To determine the polyphenolic profile of apple
+pomace, samples from the skin at two different stages of ripening
+were extracted with 80–20% EtOH–water/acetic acid 5%
+(S1) and 20–80% EtOH–water/acetic acid 5% (S2) in order
+to determine the solvent system. Ripe skins extracted with S1 showed
+a higher total polyphenol content or TPC (1.21 g of polyphenols per
+100 g of fresh weight (FW)) than unripe apple skin, being the most
+effective system tested and a mean degree of polymerization of 2.47.
+Commercial apple pomace was extracted with S1, resulting in a TPC
+of 0.5615 ± 0.007 g of polyphenols per 100 g of FW. Meanwhile,
+the RP-HPLC-MS analysis led to the tentative identification of several
+polyphenolic compounds.</p></abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Received 2023 May 9; Accepted 2023 Nov 29; Revised 2023 Nov 25; Collection date 2024 Jan 9.</p></sec></notes></front><body><sec id="sec1" disp-level="1"><label>1.</label><title>Introduction</title><p>Ever since the introduction
+of the so-called “French paradox”
+and the link between wine intake and lower death rates from coronary
+heart disease was established,<sup><xref rid="ref1" ref-type="bibr">1</xref></sup> a new wave
+of interest developed around the components of said beverage. Part
+of the benefits described by Renaud and Lorgeril were thought to be
+attributed to a particular group of biomolecules, casting a much favorable
+light over antioxidants.<sup><xref rid="ref2" ref-type="bibr">2</xref></sup></p><p>Among those
+molecules, there is a group of second metabolites known
+as phytochemicals. Within this category, over 10,000 phytochemicals,
+referred to as polyphenols, can be found. They are the second most
+abundant group in plants and are widely studied for their antioxidant
+capacity. Phenolic compounds are divided into simple phenols and polyphenols.
+Simple phenols possess only one aromatic ring, while polyphenols possess
+more aromatic rings. In addition to this characteristic, the aromatic
+rings can be substituted with one or more hydroxyl groups.<sup><xref rid="ref3" ref-type="bibr">3</xref>,<xref rid="ref4" ref-type="bibr">4</xref></sup></p><p>Lately, the use of natural antioxidants has developed, particularly
+in the food, pharmaceutical, and cosmetic industries and mostly due
+to the ability they possess to reduce the damage caused by oxidative
+stress<sup><xref rid="ref5" ref-type="bibr">5</xref></sup> without the potential threats of
+synthetic antioxidants.<sup><xref rid="ref3" ref-type="bibr">3</xref></sup></p><p>Included
+in the health benefits that have been studied are action
+versus neurodegenerative diseases such as Alzheimer’s disease
+and Parkinson’s disease,<sup><xref rid="ref6" ref-type="bibr">6</xref></sup> cardiovascular
+diseases, cancer, asthma, obesity, oral cancer cells,<sup><xref rid="ref7" ref-type="bibr">7</xref>,<xref rid="ref8" ref-type="bibr">8</xref></sup> inflammation, high cholesterol levels, hypertension, type 2 diabetes,
+harmful microbiota,<sup><xref rid="ref9" ref-type="bibr">9</xref></sup> positive effect against <italic>Salmonella</italic> spp., <italic>Escherichia coli</italic>, and <italic>Listeria</italic> spp.<sup><xref rid="ref10" ref-type="bibr">10</xref>,<xref rid="ref11" ref-type="bibr">11</xref></sup> Other uses include its addition to meats to preserve them by reducing
+the presence of pathogens, therefore, extending the shelf life of
+beef,<sup><xref rid="ref11" ref-type="bibr">11</xref></sup> and baked goods, beverages, and
+dairy.<sup><xref rid="ref12" ref-type="bibr">12</xref></sup></p><p>This increase in demand
+of bioactive compounds has resulted in
+the search for alternative sources with high polyphenol content, predominantly
+those supported in the three dimensions of sustainability (social
+progress, environmental protection, and economic development), achieving
+the recovery of byproducts without creating competition against food
+supplies, all this while supporting a zero waste philosophy. However,
+since there are other economically limiting factors such as storage
+(along with some pretreatments needed, like milling or drying), and,
+in some cases, shipping of byproducts, the use of local agricultural
+sources should be encouraged to obtain functional ingredients.</p><p>There are many regional agricultural products that can adhere to
+the requirements and principles listed above, particularly fruits.
+Among the fruits known to have attracted attention as potential phenolic
+sources are different apple cultivars. Apples are one of the main
+fruits cultivated in the northern region of Mexico, and it has been
+reported that its average annual production in the state of Chihuahua
+is around 584,000 tons, representing 77% of the country’s total
+apple production.<sup><xref rid="ref13" ref-type="bibr">13</xref></sup> The second main use
+for apples (after consumption as fresh fruit) is juice production.
+Maceration and pressing of apples in juice and cider making causes
+the generation of a solid residue, called apple pomace, as a consequence.</p><p>Apple pomace accounts for up to 20–35% of the weight of
+the fresh fruit.<sup><xref rid="ref14" ref-type="bibr">14</xref></sup> Due to its composition,
+its inexpensive nature, and the high volume generated, it is available
+for use. Apple pomace can be of great interest, with a valorization
+that allow us to not only being able to take advantage of the added
+value of the bioactive compounds that remain in the biomass after
+it has been processed but also contributing with providing a sustainable
+alternative solution to the disposal of what would otherwise be considered
+waste susceptible to microbial growth.<sup><xref rid="ref15" ref-type="bibr">15</xref></sup><sup>,</sup><sup><xref rid="ref12" ref-type="bibr">12</xref></sup></p><p>In order to benefit
+from the underutilized functional ingredients
+present in apple pomace, it is of utmost importance to develop the
+right methodology for the extraction and recovery of phenolic compounds
+(due to their sensitive nature) as a means to maintain intact the
+main characteristics that draw attention to fruit and agro-waste derived
+compounds, from an economic point of view, and to allow their maximum
+reutilization. Being the case, the use of ultrasound-assisted extraction
+can overcome some of the principal obstacles faced by traditional
+technologies.</p><p>Ultrasound-assisted extraction (UAE) is typically
+selected as a
+green/environmental friendly recovery procedure, commonly used on
+vegetable materials. Using cavitation (caused by high frequency waves),
+UAE disrupts the cell membranes, enhancing solvent–sample contact
+and therefore promoting the release of potentially bioactive compounds
+with therapeutic properties such as polyphenols. Other great advantages
+over traditional techniques (such as solvent application and leaching)
+for phytochemical extractions are its operation conditions, low temperature
+(adequate for polyphenolic compounds), reduced extraction time, and
+the capacity to increase polyphenol extraction up to 20%, establishing
+UAE as a sustainable alternative.<sup><xref rid="ref16" ref-type="bibr">16</xref>−<xref rid="ref18" ref-type="bibr">18</xref></sup> However, precautionary
+measures must be taken since degradation of phytochemicals can occur
+as consequence of cavitation-caused oxidation<sup><xref rid="ref19" ref-type="bibr">19</xref>,<xref rid="ref20" ref-type="bibr">20</xref></sup>).</p><p>With the use of agroindustrial waste to obtain bioactive
+molecules
+with a high-revalorization potential on the rise, the aim of the present
+study is to evaluate the suitability of apple pomace as a source of
+compounds of interest (polyphenols). This can be seen as a first step
+toward an extraction and purification process. At the same time, an
+alternative for the exploitation of waste generated by the apple juice
+and cider-making industries for their revalorization can be explored.
+The obtained agrowaste-derived compounds can then be directed to a
+wide range market of high-value products. This can be seen as early
+efforts to change the conception from “residue” to a
+revalued byproduct that can be treated as a source of polyphenols.</p><p>Furthermore, the possibility of reducing the volume of waste produced
+by apple juice and cider-making industries by extracting underused
+functional ingredients without competing with food sources is also
+a factor that appeals to our work.</p><p>In addition to the transformation
+into an extraction mix comprised
+of high-value compounds, the phenolic nature of apple pomace includes
+a high variety of oxidation products. Their presence within the apple
+pomace makes the characterization of the phenolic compounds more difficult,
+presenting a challenge on its own. Our approach of using oxidized
+polyphenols present in apple pomace can be original considering that
+it is not the usual source of phenolic compounds.</p></sec><sec id="sec2" disp-level="1"><label>2.</label><title>Materials and Methods</title><p>Materials. For preliminary studies,
+apples (<italic>Malus
+domestica</italic> Borkh Golden Delicious variety) produced
+in the region of Cuauhtemoc (Chihuahua, Mexico) were acquired in a
+local market at two different maturity stages. “Unripe”
+and “ripe” (commercial maturity) apples were selected.
+Both maturity stages were visually determined.</p><p>Apple pomace,
+obtained after the maceration and pressing of Golden
+Delicious apples, was provided by a locally based juice processing
+facility (<italic>Berlanga</italic>, Huertas Orgánicas
+de Mexico) located in the region of Cuauhtemoc (Chihuahua, Mexico).</p><p>Ethanol, methanol, hexane, and hydrochloric acid were purchased
+from J.T.Baker (Phillipsburg, NJ, USA) with both methanol and ethanol
+also being purchased from CTR Scientific (Monterrey, N.L., Mexico).
+Likewise, acetic acid was obtained from CTR Scientific (Monterrey,
+Mexico) as well. Phloroglucinol, Folin-Ciocalteu′s phenol reagent,
+gallic acid, chlorogenic acid, epicatechin, caffeic acid, and quercetin
+were used from Sigma-Aldrich (St. Louis, MO, USA). Additionally, sodium
+acetate from Fisher Scientific and ascorbic acid from DEQ (Nuevo Leon,
+Mexico) were used. All of the reagents employed were of analytical
+grade.</p><p>Chromatographic solvents: acetic acid from Sigma-Aldrich
+(St. Louis,
+MO, USA); water and acetonitrile were purchased from Tedia (Fairfield,
+MA, USA) and Sigma-Aldrich (St. Louis, MO, USA), with acetonitrile
+obtained from J.T.Baker (Phillipsburg, NJ, USA) as well; methanol,
+J.T.Baker (Phillipsburg, NJ, USA); and with the addition of formic
+acid purchased from Fluka Analytical (Buchs, Switzerland). All chromatographic
+solvents were HPLC grade.</p><p>Methods: For preliminary studies,
+apples were washed with mild
+soap, rinsed with abundant water (three times), and kept refrigerated
+before being peeled as a preparation step. Afterward, they were peeled,
+leaving as little pulp as possible attached to the skin. The skin
+was stored in resealable plastic bags and kept at freezing temperatures
+(−14 °C) until used. Before storage, the air inside the
+bags was removed.</p><p>Moisture determination of the unripe apple
+skins, ripe apple skins,
+and apple pomace was carried out according to the oven-drying method
+where the samples were placed in a hot air oven, with a set temperature
+of 103 ± 5 °C and allowed to dry for 24 h. After this period,
+the samples were allowed to cool in a desiccator for 1 h before weighting
+them.</p><p>Extraction was performed as a solid–liquid, 30-min
+single-step
+extraction, assisted with an ultrasonic bath (Fisher Scientific, Pittsbourgh,
+PA, USA) and a controlled temperature (10 °C). To determine the
+best solvent system for the extraction, two solvent systems were chosen:
+80–20% EtOH–water/acetic acid 5% (S1) and 20–80%
+EtOH–water/acetic acid 5% (S2). Extraction was performed in
+duplicate in Erlenmeyer flasks maintaining a sample/solvent ratio
+of 100 g of sample/250 mL solvent.</p><p>The extracts were then concentrated
+under reduced pressure to a
+volume of 100 mL of acidified water (1% acetic acid) prior to cleaning
+steps consisting of: (a) a cold ethanol precipitation (with one volume
+on cold ethanol during 24 h) that was carried out to remove polar
+coextracted compounds (such as carbohydrates and proteins that are
+not soluble in ethanol); and (b) a subsequent liquid–liquid
+extraction (1:1 hexane/water) to remove nonpolar compounds (such as
+chlorophyll) from the sample. The cleaning step was intended to remove
+coextracted compounds that would present interference during analysis
+of the samples.</p><p>Once the solvent system was selected, apple
+pomace extractions
+were carried out under the same conditions as the preliminary extractions
+that took place. Following the extraction, apple pomace extracts were
+subjected to a liquid–liquid extraction (1:1 hexane/water)
+to remove coextracted compounds and then rotaevaporated under reduced
+pressure to prepare the samples for characterization.</p><p>Total
+polyphenol content (TPC) was quantified by means of both
+the Folin–Ciocalteu method and reversed-phase high performance
+liquid chromatography (RP-HPLC).</p><p>For Folin–Ciocalteu
+determination of TPC, the analysis was
+carried out using the Folin–Ciocalteu method reported by Singleton<sup><xref rid="ref21" ref-type="bibr">21</xref></sup> in which a sample aliquot of 50 μL was
+added to 3 mL of distilled water followed by 200 μL of Folin–Ciocalteu
+reagent. Afterward, the test tubes were closed, thoroughly mixed,
+and kept sheltered from light for 10 min. Once the 10 min were over,
+600 μL of 5% (w/v) sodium carbonate solution were added, closing
+the test tubes and mixing completely. The test tubes were submerged
+in an isothermal bath with the temperature set to 37 °C during
+15 min. After the reaction took place, they were removed from the
+isothermal bath and placed in an ice bed for 15 min. The absorbance
+was measured at 755 nm (Lambda 25 PerkinElmer spectrophotometer, Waltham,
+MA, USA) and reported as gallic acid equivalents (GAE).<sup><xref rid="ref21" ref-type="bibr">21</xref></sup></p><p>TPC, as well as the determination of polyphenols
+present compared
+with existing standards, was carried out by HPLC. Five milliliter
+samples were dried under reduced pressure and recovered using 5 mL
+of acidified water (with 1% formic acid). Samples were filtered directly
+onto 2 mL of Type 1 borosilicate glass vials using a 0.45-μm
+nylon membrane. The analysis was carried out using an Agilent 1100
+Series HPLC (Santa Clara, CA, USA) equipped with a Diode Array Detector
+using a reversed phase (RP) column (ZORBAX SB-C18 Solvent Saver 3.0
+× 250 mm; Germany) and a guard column of the same material, operated
+at 30 °C, flow rate of 0.3 mL/min with a 65-min gradient (water-formic
+acid 1% (v/v)(Solvent “A”)/acetonitrile-formic acid
+1% (v/v) (Solvent “B”)) and a return to initial conditions
+over 10 min. The gradient was as follows: Linear gradient from 100%
+A to 90% A in 8 min. 90% A for 2 min. Linear gradient from 90% A to
+80% A from minute 10 to minute 23. Linear gradient from 80% A to 70%
+A for 7 min. Linear gradient from 70% A to 60% A for 15 min. Linear
+gradient from 60% A to 20% A for 5 min. Linear gradient from 20% A
+to 100% B in 5 min. 100% B from minute 55 to 60 and a return to 100%
+A for minute 65.<sup><xref rid="ref22" ref-type="bibr">22</xref></sup></p><p>Total phenolic
+compounds were quantified at 280 nm, while the distinction
+between families of polyphenols was done based on the chromatographic
+signal of each compound, the UV spectrum, and the available standards.
+Phenolic acids were quantified based on their absorbance at the 320-nm
+signal. The compounds that showed a higher signal at 360 nm were counted
+as flavonols. This quantification was completed with the remaining
+compounds that presented a stronger signal at 280 nm. TPC, phenolic
+acid content, and flavonol content were reported as epicatechin equivalents
+(mg/L), GAEs (mg/L), and rutin equivalents (mg/L), respectively.</p><p>The identification of the remaining compounds present in the apple
+pomace for which a standard was not available was done by HPLC-DAD/ESI-MS
+(Thermo Scientific LCQ Fleet Ion Trap Mass Spectrometer System). Chromatographic
+separation was achieved at 30 °C, 20 μL injection volume,
+and 0.25 mL/min flow rate, with a gradient of water–formic
+acid 1% (v/v) (Solvent “A”)/acetonitrile–formic
+acid 1% (v/v)(Solvent “B”). The elution gradient was
+adapted from the previously described gradient: Linear gradient from
+95% A to 90% A in 8 min. 90% A for 2 min. Linear gradient from 90%
+A to 80% A from minute 10 to minute 23. Linear gradient from 80% A
+to 70% A from minute 23 to 30. Liner gradient from 70% A to 60% A
+for 15 min. Linear gradient from 60% A to 20% A for 5 min. Linear
+gradient from 20% A to 100% B in 5 min. 100% B from minute 55 to 60
+and a return to 100% A for minute 65. Initial conditions were then
+re-established over a 10-min postrun. Identification of the compounds
+was performed by MS. The mass spectrometer was operated in the negative
+ion mode in the range of <italic>m</italic>/<italic>z</italic> 150–2000
+and under the following conditions: source voltage, 4.5 kV; capillary
+voltage, 23.5 V; capillary temperature, 250 °C.</p><p>In order
+to estimate the mean degree of polymerization (mDP) of
+the samples, phloroglucinolysis was carried out as established by
+Kennedy<sup><xref rid="ref23" ref-type="bibr">23</xref></sup> and further analyzed by HPLC.</p></sec><sec id="sec3" disp-level="1"><label>3.</label><title>Results</title><sec id="sec3.1" disp-level="2"><label>3.1.</label><title>Solvent Selection</title><p>Preliminary studies
+were performed to determine which of the proposed solvent systems
+was to be used for further extractions. Frozen skins (either from
+unripe or ripe apples) were milled with S1 or S2 in order to minimize
+oxidation of the compounds.<sup><xref rid="ref24" ref-type="bibr">24</xref></sup> The tested
+solvents were evaluated based on the TPC of each extract (<xref rid="tbl1" ref-type="table">Table <xref rid="tbl1" ref-type="table">1</xref></xref>). Results were expressed
+as g per 100 g of fresh weight (FW).</p><table-wrap id="tbl1" position="float"><?disp-level 3?><label>Table 1</label><caption><title>Total Polyphenol
+Content (TPC) of
+Samples From Skin of Golden Delicious Variety Apples Quantified by
+Folin–Ciocalteu and HPLC<xref rid="t1fn1" ref-type="table-fn"><sup>a</sup></xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/></colgroup><thead><tr><th style="border:none;" align="center" colspan="1" rowspan="1">sample</th><th style="border:none;" align="center" colspan="1" rowspan="1">TPC Folin-Ciocalteu</th><th style="border:none;" align="center" colspan="1" rowspan="1">TPC HPLC</th><th style="border:none;" align="center" colspan="1" rowspan="1">phenolic Acids HPLC</th><th style="border:none;" align="center" colspan="1" rowspan="1">flavonoids HPLC</th></tr></thead><tbody><tr><td colspan="5" style="border:none;" align="left" rowspan="1">samples extracted
+with 80–20%
+EtOH-water/acetic acid 5% (S1)</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">unripe</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.44 ± 0.01</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.48 ± 0.07</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.06 ± 0.01</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.06 ± 0.02</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">ripe</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.61 ± 0.10</td><td style="border:none;" align="left" colspan="1" rowspan="1">1.21 ± 0.00</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.10</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.15 ± 0.01</td></tr><tr><td colspan="5" style="border:none;" align="left" rowspan="1">samples extracted with 20–80%
+EtOH-water/acetic acid 5% (S2)</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">unripe</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.33 ± 0.07</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.41 ± 0.12</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.06 ± 0.01</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.07 ± 0.02</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">ripe</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.34 ± 0.001</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.57 ±
+0.01</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.05 ± 0.001</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.07 ± 0.01</td></tr></tbody></table><table-wrap-foot><fn id="t1fn1"><label>a</label><p>Results are expressed in g per 100
+g FW.</p></fn></table-wrap-foot></table-wrap><p>Phenolic acids were
+expressed in GAEs since the equivalent is usually
+used for Folin–Ciocalteu and it would ease the comparative.
+Total phenolic content was expressed in epicatechin equivalents, as
+it better represents the nature of the sample (seeing that it is the
+main polyphenol present); and total flavonoid content was expressed
+in rutin equivalents (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.3c03218/suppl_file/ao3c03218_si_001.pdf" ext-link-type="uri">Supporting Information</ext-link>).</p><p>As shown in <xref rid="tbl1" ref-type="table">Table <xref rid="tbl1" ref-type="table">1</xref></xref>, out of the samples tested, the two extracts with the best
+results
+were those coming from ripe apples (for the chromatogram, please see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.3c03218/suppl_file/ao3c03218_si_001.pdf" ext-link-type="uri">Supporting Information</ext-link>). However, the higher
+TPC was obtained by extracting ripe apple skins with S1 (1.21 g per
+100 g of FW) versus the 0.57 g per 100 g of FW extracted with S2.
+It also presented a higher concentration of both phenolic acids (0.10
+g per 100 g FW) and flavonoids (0.15 g per 100 g FW). Therefore, S1
+was selected as the solvent system for further extractions.</p><p>Unriped apple skin presented 75.81 ± 0.05% humidity, while
+the humidity content of ripe apple skin was 76.01 ± 0.44%.</p></sec><sec id="sec3.2" disp-level="2"><label>3.2.</label><title>Apple Pomace Extraction</title><p>Based on
+the results from the preliminary studies, apple pomace was extracted
+with S1. 100 g samples were extracted with 250 mL of solvent in a
+solid–liquid extraction. The extracts were then concentrated
+under reduced pressure to a volume of 100 mL followed by two cleaning
+steps: (a) cold ethanol precipitation (to remove sugars, proteins,
+and other polar compounds) and (b) a subsequent liquid–liquid
+extraction with 1:1 hexane/water to remove coextracted compounds (to
+remove chlorophyll, lipids, and other nonpolar compounds).<sup><xref rid="ref25" ref-type="bibr">25</xref>,<xref rid="ref26" ref-type="bibr">26</xref></sup></p><p>The resulting extract was enriched in polyphenols and was
+analyzed by HPLC in order to quantify TPC. In addition to this, the
+precipitate obtained from the cold ethanol precipitation was redissolved
+in acidified water (1% acetic acid) and analyzed by HPLC, in order
+to quantify polyphenols that could have precipitated as well; the
+hexane extract obtained after the liquid–liquid extraction
+was also analyzed to ensure that there was no considerable loss of
+polyphenolic compounds in both cleaning step (the chromatograms are
+available in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.3c03218/suppl_file/ao3c03218_si_001.pdf" ext-link-type="uri">Supporting Information</ext-link>).</p><p><xref rid="tbl2" ref-type="table">Table <xref rid="tbl2" ref-type="table">2</xref></xref> shows
+the
+TPC values on the samples along with the ethanol precipitation and
+the hexane fraction.</p><table-wrap id="tbl2" position="float"><?disp-level 3?><label>Table 2</label><caption><title>TPC of Samples From
+Apple Pomace (Golden
+Delicious Variety) Quantified by HPLC<xref rid="t2fn1" ref-type="table-fn"><sup>a</sup></xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup span="1"><col align="left" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/></colgroup><thead><tr><th style="border:none;" align="center" colspan="1" rowspan="1">sample</th><th style="border:none;" align="center" colspan="1" rowspan="1">TPC HPLC</th><th style="border:none;" align="center" colspan="1" rowspan="1">flavonols
+HPLC</th></tr></thead><tbody><tr><td style="border:none;" align="left" colspan="1" rowspan="1">phenolic extract</td><td style="border:none;" align="center" colspan="1" rowspan="1">0.56 ± 0.01</td><td style="border:none;" align="center" colspan="1" rowspan="1">0.28 ± 0.01</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">ethanol precipitation</td><td style="border:none;" align="center" colspan="1" rowspan="1">0.01 ± 0.02</td><td style="border:none;" align="center" colspan="1" rowspan="1"> </td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">hexane fraction</td><td style="border:none;" align="center" colspan="1" rowspan="1">0.05
+± 0.01</td><td style="border:none;" align="center" colspan="1" rowspan="1"> </td></tr></tbody></table><table-wrap-foot><fn id="t2fn1"><label>a</label><p>Results are expressed
+in g per 100
+g of apple pomace.</p></fn></table-wrap-foot></table-wrap><p>Apple
+pomace extract had a TPC of 0.56 g of polyphenols per 100
+g of apple pomace FW and a flavonol concentration of 0.28 g per 100
+g of apple pomace FW. No chromatographic signal was detected in the
+520 nm wavelength, indicating the absence of anthocyanin-like compounds.</p><p>The humidity content present in the samples was 86.44 ± 0.86%.</p><p>Golden delicious pomace was obtained from the industrial production
+of apple juice. It has been reported that after pressing only a small
+amount of polyphenols is released into the juice. As a result, a large
+fraction of the compounds remains present in the pomace, since it
+is made of skin, seeds, and pulp residues.<sup><xref rid="ref27" ref-type="bibr">27</xref>,<xref rid="ref28" ref-type="bibr">28</xref></sup> In addition to this, the difference in TPC between apple skin and
+apple pomace can be attributed to the fact that some of the polyphenolic
+compounds are located inside specific tissues of the fruit, making
+the phenolic profile dependent on the parts of the fruit being analyzed.<sup><xref rid="ref29" ref-type="bibr">29</xref></sup></p></sec><sec id="sec3.3" disp-level="2"><label>3.3.</label><title>Identification of Main
+Compounds Present in
+Apple Pomace</title><p>An HPLC analysis was carried out in order to
+identify the main polyphenols present in the apple pomace. The identification
+was made either by use of a standard or by a UV–vis spectrum. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> presents the HPLC
+chromatogram of polyphenols in samples from commercial apple. The
+identified peaks belong to gallic acid, chlorogenic acid, epicatechin,
+caffeic acid, and quercetin, respectively.</p><fig id="fig1" position="float"><?disp-level 3?><label>Figure 1</label><caption><p>Chromatogram (at 280
+nm) of main polyphenols present in samples
+from commercial apple pomace (<italic>M. domestica</italic>) extracted with solvent system 80–20% ethanol–water/acetic
+acid 5% (S1). Peaks are as follows: 1 – gallic acid; 2 –
+chlorogenic acid; 3 – PC B2; 4 – epicatechin; 5 –
+caffeic acid; 6 – hyperin; 7 – isoquercetin; 8 –
+avicularin; 9 – quercitrin; 10 – cynaroside; 11 –
+phloretin; 12 – phloridzin; 13 – quercetin.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr1" xlink:href="ao3c03218_0001.jpg"><?cloudpmc-path blobs/e796/10785061/099ac6014e1f/ao3c03218_0001.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 1006?><?original-width 1750?><?scaled-height 402?><?scaled-width 700?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="ao3c03218_0001.gif"><?cloudpmc-path blobs/e796/10785061/75b0941ec1fc/ao3c03218_0001.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>The peaks located between RT (retention time) 23 min and
+RT 28
+min could not be identified by standard or UV–vis spectra.
+However, they displayed a maximum signal at 360 nm, indicating that
+they might belong to the flavonol family (quercetin glycosides).</p><p>Since the identification of compounds by means of HPLC is limited
+to the characteristic UV–vis spectrum and the availability
+of standards, polyphenolic profiling was carried out by HPLC-MS, as
+well as the confirmation of the already identified compounds.</p></sec><sec id="sec3.4" disp-level="2"><label>3.4.</label><title>Polyphenolic Profiling by HPLC-DAD/ESI-MS</title><p>The use of
+HPLC-MS was fundamental for the polyphenolic profiling
+since HPLC with UV–vis detection has its limitations with respect
+to the identification of coeluted phenolic compounds and is not a
+chromatographic technique which can provide molecular structure information.<sup><xref rid="ref16" ref-type="bibr">16</xref></sup><xref rid="tbl3" ref-type="table">Table <xref rid="tbl3" ref-type="table">3</xref></xref> presents the tentatively identified polyphenolic compounds
+along with their molecular formula and molecular ion (negative ionization
+mode). The tentatively identified compounds can be seen in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>.</p><table-wrap id="tbl3" position="float"><?disp-level 3?><label>Table 3</label><caption><title>Mass Spectra Data of the Polyphenolic
+Compounds Tentatively Identified in Apple Pomace (Golden Delicious
+Variety)</title></caption><table frame="hsides" rules="groups" border="0"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th style="border:none;" align="center" colspan="1" rowspan="1"> </th><th style="border:none;" align="center" colspan="1" rowspan="1">compound</th><th style="border:none;" align="center" colspan="1" rowspan="1">type of phenolic</th><th style="border:none;" align="center" colspan="1" rowspan="1">λ<sub>max</sub> (nm)</th><th style="border:none;" align="center" colspan="1" rowspan="1"><italic>m</italic>/<italic>z</italic> [M – H]<sup>−</sup></th><th style="border:none;" align="center" colspan="1" rowspan="1">retention time RT (min)</th><th style="border:none;" align="center" colspan="1" rowspan="1">percentage of total area (%)</th></tr></thead><tbody><tr><td style="border:none;" align="left" colspan="1" rowspan="1">1</td><td style="border:none;" align="left" colspan="1" rowspan="1">gallic acid</td><td style="border:none;" align="left" colspan="1" rowspan="1">phenolic
+acid</td><td style="border:none;" align="left" colspan="1" rowspan="1">270</td><td style="border:none;" align="left" colspan="1" rowspan="1">169</td><td style="border:none;" align="center" colspan="1" rowspan="1">3.75</td><td style="border:none;" align="center" colspan="1" rowspan="1">2.40</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">2</td><td style="border:none;" align="left" colspan="1" rowspan="1">chlorogenic acid</td><td style="border:none;" align="left" colspan="1" rowspan="1">phenolic acid</td><td style="border:none;" align="left" colspan="1" rowspan="1">242, 324</td><td style="border:none;" align="left" colspan="1" rowspan="1">353</td><td style="border:none;" align="center" colspan="1" rowspan="1">12.81</td><td style="border:none;" align="center" colspan="1" rowspan="1">9.86</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">3</td><td style="border:none;" align="left" colspan="1" rowspan="1">PC B2</td><td style="border:none;" align="left" colspan="1" rowspan="1">flavanol</td><td style="border:none;" align="left" colspan="1" rowspan="1">238, 280</td><td style="border:none;" align="left" colspan="1" rowspan="1">577</td><td style="border:none;" align="center" colspan="1" rowspan="1">14.47</td><td style="border:none;" align="center" colspan="1" rowspan="1">0.88</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">4</td><td style="border:none;" align="left" colspan="1" rowspan="1">epicatechin</td><td style="border:none;" align="left" colspan="1" rowspan="1">flavanol</td><td style="border:none;" align="left" colspan="1" rowspan="1">278</td><td style="border:none;" align="left" colspan="1" rowspan="1">289</td><td style="border:none;" align="center" colspan="1" rowspan="1">15.28</td><td style="border:none;" align="center" colspan="1" rowspan="1">38.73</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">5</td><td style="border:none;" align="left" colspan="1" rowspan="1">caffeic acid</td><td style="border:none;" align="left" colspan="1" rowspan="1">phenolic
+acid</td><td style="border:none;" align="left" colspan="1" rowspan="1">216, 324</td><td style="border:none;" align="left" colspan="1" rowspan="1">179</td><td style="border:none;" align="center" colspan="1" rowspan="1">15.94</td><td style="border:none;" align="center" colspan="1" rowspan="1">2.51</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">6</td><td style="border:none;" align="left" colspan="1" rowspan="1">Hyperin</td><td style="border:none;" align="left" colspan="1" rowspan="1">flavonol</td><td style="border:none;" align="left" colspan="1" rowspan="1">255, 355</td><td style="border:none;" align="left" colspan="1" rowspan="1">463</td><td style="border:none;" align="center" colspan="1" rowspan="1">20.30</td><td style="border:none;" align="center" colspan="1" rowspan="1">13.80</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">7</td><td style="border:none;" align="left" colspan="1" rowspan="1">isoquercetin</td><td style="border:none;" align="left" colspan="1" rowspan="1">flavonol</td><td style="border:none;" align="left" colspan="1" rowspan="1">260, 354</td><td style="border:none;" align="left" colspan="1" rowspan="1">463</td><td style="border:none;" align="center" colspan="1" rowspan="1">20.54</td><td style="border:none;" align="center" colspan="1" rowspan="1">2.95</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">8</td><td style="border:none;" align="left" colspan="1" rowspan="1">avicularin</td><td style="border:none;" align="left" colspan="1" rowspan="1">flavonol</td><td style="border:none;" align="left" colspan="1" rowspan="1">258, 359</td><td style="border:none;" align="left" colspan="1" rowspan="1">433</td><td style="border:none;" align="center" colspan="1" rowspan="1">21.64</td><td style="border:none;" align="center" colspan="1" rowspan="1">1.10</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">9</td><td style="border:none;" align="left" colspan="1" rowspan="1">quercitrin</td><td style="border:none;" align="left" colspan="1" rowspan="1">flavonol</td><td style="border:none;" align="left" colspan="1" rowspan="1">255, 355</td><td style="border:none;" align="left" colspan="1" rowspan="1">447</td><td style="border:none;" align="center" colspan="1" rowspan="1">22.06</td><td style="border:none;" align="center" colspan="1" rowspan="1">4.03</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">10</td><td style="border:none;" align="left" colspan="1" rowspan="1">cynaroside</td><td style="border:none;" align="left" colspan="1" rowspan="1">flavone</td><td style="border:none;" align="left" colspan="1" rowspan="1">239, 269, 340</td><td style="border:none;" align="left" colspan="1" rowspan="1">447</td><td style="border:none;" align="center" colspan="1" rowspan="1">22.48</td><td style="border:none;" align="center" colspan="1" rowspan="1">4.56</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">11</td><td style="border:none;" align="left" colspan="1" rowspan="1">phloretin</td><td style="border:none;" align="left" colspan="1" rowspan="1">dihydrochalcone</td><td style="border:none;" align="left" colspan="1" rowspan="1">286</td><td style="border:none;" align="left" colspan="1" rowspan="1">273</td><td style="border:none;" align="center" colspan="1" rowspan="1">22.97</td><td style="border:none;" align="center" colspan="1" rowspan="1">0.42</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">12</td><td style="border:none;" align="left" colspan="1" rowspan="1">phloridzin</td><td style="border:none;" align="left" colspan="1" rowspan="1">phenolic acid</td><td style="border:none;" align="left" colspan="1" rowspan="1">288</td><td style="border:none;" align="left" colspan="1" rowspan="1">435</td><td style="border:none;" align="center" colspan="1" rowspan="1">23.24</td><td style="border:none;" align="center" colspan="1" rowspan="1">0.73</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">13</td><td style="border:none;" align="left" colspan="1" rowspan="1">quercetin</td><td style="border:none;" align="left" colspan="1" rowspan="1">flavonol</td><td style="border:none;" align="left" colspan="1" rowspan="1">370</td><td style="border:none;" align="left" colspan="1" rowspan="1">301</td><td style="border:none;" align="center" colspan="1" rowspan="1">23.91</td><td style="border:none;" align="center" colspan="1" rowspan="1">3.61</td></tr></tbody></table></table-wrap><p>The previously tentatively
+identified compounds were confirmed
+by matching the <italic>m</italic>/<italic>z</italic> value to the
+molecular weight and the retention time established by available standards.</p><p>The presence of phloridzin is characteristic in apple pomaces but
+is known to be absent in pomaces of other fruit sources.<sup><xref rid="ref30" ref-type="bibr">30</xref></sup> It is of particular interest due to its use
+as a pigment by enzymatic oxidation and its ability as an antidiabetic
+agent<sup><xref rid="ref30" ref-type="bibr">30</xref>,<xref rid="ref31" ref-type="bibr">31</xref></sup> and for being one of the most stable phytochemicals
+present in apple pomaces.<sup><xref rid="ref32" ref-type="bibr">32</xref></sup></p></sec><sec id="sec3.5" disp-level="2"><label>3.5.</label><title>Proanthocyanidins</title><p>To determine whether
+proanthocyanidins were present, an extract from apple peels was subjected
+to phloroglucinolysis. Phloroglucinolysis is based on the acid-catalyzed
+rupture of the interflavanic bond (IB) that links together the constitutive
+subunits of proanthocyanidiǹs constitutive subunits. The cleavage
+of the IB leads to the release of a terminal subunit in addition to
+the formation of an adduct between phloroglucinol and the upper subunit.<sup><xref rid="ref23" ref-type="bibr">23</xref></sup></p><p>The formation of the epicatechin–phloroglucinol
+adduct (see the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.3c03218/suppl_file/ao3c03218_si_001.pdf" ext-link-type="uri">Supporting Information</ext-link> for
+the chromatogram) allowed the estimation of an mDp of 2.47. This not
+only indicates that the extract contains proanthocyanidins but also
+specifies the type B nature of the IB, since type A bonds are not
+susceptible to IB cleavage, maintaining their terminal subunit and,
+therefore, preventing the coupling of the nucleophilic agent and the
+upper subunit from happening.</p></sec></sec><sec id="sec4" disp-level="1"><label>4.</label><title>Discussion</title><sec id="sec4.1" disp-level="2"><label>4.1.</label><title>Solvent Selection</title><p>The solvents for
+the experimental section were chosen from those typically employed
+(ethanol, methanol, ethyl acetate) for polyphenolic extractions from
+vegetable sources.<sup><xref rid="ref33" ref-type="bibr">33</xref></sup> The phenolic content
+extracted is dependent on the solvent used. As such, phenols with
+a low molecular weight, phenolic acids, and flavonoid aglycons can
+be extracted with ethyl acetate. However, in addition to the aforementioned
+compounds, aqueous alcoholic mixtures (which possess a higher polarity)
+are used to extract high molecular weight phenols and flavonoid glycosides
+which, in turn, is reflected in the TPC of the extract.<sup><xref rid="ref34" ref-type="bibr">34</xref>,<xref rid="ref35" ref-type="bibr">35</xref></sup></p><p>The milling of the frozen skins was done after the addition
+of the solvents, in order to minimize oxidation of the compounds as
+ethanol has proven to decrease polyphenol oxidase (PPO) activity.<sup><xref rid="ref24" ref-type="bibr">24</xref></sup> It has been shown that polyphenol antioxidant
+capacity can be diminished due to enzymes present within the fruit
+that are released after the cell wall is damaged. It was previously
+reported that the higher the polyphenol content is, the higher the
+enzymatic oxidation catalyzed by PPO can be.<sup><xref rid="ref28" ref-type="bibr">28</xref>,<xref rid="ref36" ref-type="bibr">36</xref>,<xref rid="ref37" ref-type="bibr">37</xref></sup> As has been shown before by van der Sluis
+et al.,<sup><xref rid="ref38" ref-type="bibr">38</xref></sup> epicatechin and chlorogenic acid
+are the main compounds that present a decrease in total concentration
+due to the action of PPO (up to 28 and 25%, respectively). However,
+a positive effect was noted regarding total quercetin glycosides (a
+17% increase).<sup><xref rid="ref38" ref-type="bibr">38</xref></sup></p><p>As depicted in <xref rid="tbl1" ref-type="table">Table <xref rid="tbl1" ref-type="table">1</xref></xref>, the fact that the
+two extracts with the higher TPC that were from
+ripe apples are in agreement with the nature of apple pomace, which
+is obtained after the pressing of mature apples for juice production.</p></sec><sec id="sec4.2" disp-level="2"><label>4.2.</label><title>Apple Pomace Extraction</title><p>Aside solvent
+type, sample–solvent ratio, and extraction time, other factors
+that affect the yield of polyphenols present in the extracts are temperature
+(as polyphenols are thermolabile and can easily undergo degradation),
+pH (a variable that directly affects the structure of some polyphenolic
+compounds), part of the plant, and particle size<sup><xref rid="ref39" ref-type="bibr">39</xref></sup> The latter is the reason behind the milling of the apple
+pomace, in order to homogenize the particle size as much as possible.</p><p>While various apple cultivars can present a TPC that ranges between
+76 and 134 mg/100 g FW when extracted with 80% water/ethanol,<sup><xref rid="ref40" ref-type="bibr">40</xref></sup> 66.2 to 211.9 mg/100 g FW,<sup><xref rid="ref38" ref-type="bibr">38</xref></sup> TPC exhibited by Golden Delicious extracts were 86.30 mg/100
+g fresh fruit when extracted with 70% acetone–30% water.<sup><xref rid="ref41" ref-type="bibr">41</xref></sup> Apple pomaces have been reported to have a remaining
+polyphenol concentration of between 2.19 ± 0.09 and 4.59 ±
+0.47 mg GAE/g dry weight when extracted with 70% methanol–30%
+water at (60 ± 2 °C) during 30 min,<sup><xref rid="ref42" ref-type="bibr">42</xref></sup> while Golden Delicious pomace 2.87 ± 0.75 mg GAE/g powder and
+3.05 ± 0.82 mg GAE/g powder when extracted with ethanol and methanol,
+respectively.<sup><xref rid="ref43" ref-type="bibr">43</xref></sup> This is because the majority
+of polyphenols can be found in the skin, remaining in the pomace.
+When comparing results, it should be taken into consideration whether
+they are expressed in FW or dry weight, as this can be interpreted
+as an increase in the amount of polyphenols present due to the loss
+of humidity.</p><p>Moreover, the differences that can be observed
+within the various
+polyphenolic profiles depend not only on the solvent system used (solvent
+acidity is known to hydrolyze cellulose and pectin, helping release
+the polyphenols embedded in the matrix)<sup><xref rid="ref44" ref-type="bibr">44</xref></sup> but also on the cultivar of apple analyzed (apples intended for
+cider-making have a higher TPC than apples for human consumption),<sup><xref rid="ref3" ref-type="bibr">3</xref>,<xref rid="ref15" ref-type="bibr">15</xref></sup> the conditions under which the fruit grew,<sup><xref rid="ref39" ref-type="bibr">39</xref>,<xref rid="ref45" ref-type="bibr">45</xref></sup> whether or not the crop was fertilized,<sup><xref rid="ref46" ref-type="bibr">46</xref></sup> the part of the apple being used,<sup><xref rid="ref47" ref-type="bibr">47</xref></sup> how
+it was processed, stored, as well as the stage of maturity.</p><p>In regard to the coextraction of other molecules which do not show
+any interest for the purpose of this work, the sample pretreatment
+can be considered an important preparation step, as coextracted compounds
+(mainly lipidic and nonpolar compounds) can interfere with polyphenol
+quantification.<sup><xref rid="ref16" ref-type="bibr">16</xref></sup></p></sec><sec id="sec4.3" disp-level="2"><label>4.3.</label><title>Identification
+of Main Compounds and Polyphenolic
+Profiling by RP-HPLC-DAD/ESI(−)-MS of Apple Pomace</title><p>The major constituents of apple and apple pomace are reported to
+be chlorogenic acid, epicatechin, quercetin-3-O-glucoside, quercitrin,
+phloridzin, and quercetin,<sup><xref rid="ref40" ref-type="bibr">40</xref></sup> hyperin, avicularin,
+and rutin (were also found in <italic>M. domestica</italic> var. rayada, another apple variety cultivated in Mexico)<sup><xref rid="ref48" ref-type="bibr">48</xref></sup> all present in the pomace subject of this study.
+The established polyphenolic profile is in agreement with previously
+reported findings<sup><xref rid="ref38" ref-type="bibr">38</xref></sup> that described that
+chlorogenic acid and phloridzin can be found in both peel and pulp,
+while quercetin glycosides and epicatechin are mostly present in apple
+skin (even though they can be found in lower concentrations within
+the pulp). Caffeic acid, catechin, some quercetin glycosides and rutin
+are some other polyphenols that can be extracted from apple pomace.<sup><xref rid="ref3" ref-type="bibr">3</xref>,<xref rid="ref15" ref-type="bibr">15</xref></sup></p><p>In total, 12 compounds were identified during the polyphenolic
+profiling of apple pomace from <italic>M. domestica</italic> Golden Delicious variety, among them gallic acid, chlorogenic acid,
+epicatechin, caffeic acid, and quercetin. This was achieved by means
+of HPLC (with both standards and UV–vis spectra) and HPLC-DAD/ESI-MS.
+The polyphenolic profiling deemed apple pomace as a suitable source
+of phenolic compounds and a possible economically interesting alternative
+to waste disposal of an otherwise underutilized residue with a potentially
+negative environmental impact.</p></sec></sec><sec id="ack1" sec-type="ack" disp-level="1"><title>Acknowledgments</title><p>The author’s
+would like to thank the Facultad de Ciencias Químicas, Universidad
+Autónoma de Chihuahua (UACH), and the Departamento de Medio
+Ambiente y Energía, Centro de Investigación en Materiales
+Avanzados (CIMAV) for allowing this work to be excecuted within their
+facilities.</p></sec><sec id="dl1" sec-type="glossary" disp-level="1"><title>Glossary</title><def-list><title>Abbreviations Used</title><def-item><term>CHD</term><def><p>coronary
+heart disease</p></def></def-item><def-item><term>NDGD’s</term><def><p>neurodegenerative diseases</p></def></def-item><def-item><term>CVD’s</term><def><p>cardiovascular diseases</p></def></def-item><def-item><term>UAE</term><def><p>ultrasound assisted extraction</p></def></def-item><def-item><term>HPLC</term><def><p>high performance
+liquid chromatography</p></def></def-item><def-item><term>TPC</term><def><p>total polyphenol content</p></def></def-item><def-item><term>RP-HPLC</term><def><p>reversed-phase high performance
+liquid chromatography</p></def></def-item><def-item><term>GAE</term><def><p>gallic acid equivalents</p></def></def-item><def-item><term>RP</term><def><p>reversed phase</p></def></def-item><def-item><term>RP-HPLC-DAD/ESI-MS</term><def><p>reversed-phase high
+performance liquid chromatography equipped with a Diode Array Detector/Electrospray
+ionization mass spectrometry</p></def></def-item><def-item><term>mDP</term><def><p>mean degree of polymerization</p></def></def-item><def-item><term>FW</term><def><p>fresh weight</p></def></def-item><def-item><term>RT</term><def><p>retention time</p></def></def-item><def-item><term>IB</term><def><p>interflavanic bond</p></def></def-item><def-item><term>PPO</term><def><p>polyphenol oxidase</p></def></def-item></def-list></sec><sec id="notes4" disp-level="1"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/10.1021/acsomega.3c03218?goto=supporting-info" ext-link-type="uri">https://pubs.acs.org/doi/10.1021/acsomega.3c03218</ext-link>.</p><list list-type="simple" id="silist"><list-item><p>Chromatogram (at 280 nm)
+of sample from ripe apple skin
+extractions; calibration curves for the three different quantifications;
+chromatograms of TPC (at 280 nm) of precipitate from cold ethanol
+precipitation and subsequent liquid–liquid extraction; chromatogram
+(at 280 nm) of sample from commercial apple pomace after phloroglucinolysis
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.3c03218/suppl_file/ao3c03218_si_001.pdf" ext-link-type="uri">PDF</ext-link>)</p></list-item></list></sec><sec id="notes2" disp-level="1"><title>Author Contributions</title><p>Conceptualization,
+E.S. and L.B.-C.; methodology, E.S., L.A.O.-F., L.B.-C., and G.G.-S.;
+formal analysis, B.R.-G. and M.D.R.P.-P.; resources, E.S., L.B.-C.,
+and G.G.-S.; data curation, L.A.O.-F.; writing—original draft,
+L.A.O.-F.; writing—review and editing, E.S. and L.B.-C.; supervision,
+G.G.-S., B.R.-G., and M.D.R.P.-P.; project administration, L.B.-C.;
+funding acquisition, L.B.-C., and E.S. All authors have read and agreed
+to the published version of the manuscript.</p></sec><sec id="notes1" disp-level="1"><p>The authors would
+like to thank the Mexican National Council for Science and Technology
+(CONACyT, Mexico) for financial support of a student via a doctoral
+scholarship (number 306675).</p></sec><sec id="notes3" disp-level="1"><p>The authors
+declare no competing financial interest.</p></sec><sec id="spn1" disp-level="1"><title>Special Issue</title><p>Published
+as part of <italic>ACS Omega</italic><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/page/virtual-collections.html?journal=acsodf&amp;ref=feature" ext-link-type="uri">virtual special issue</ext-link> “Phytochemistry”.</p></sec><sec id="sec13" disp-level="1"><title>Supplementary Material</title><supplementary-material id="sifile1" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao3c03218_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path e796/10785061/b71641af6c45/ao3c03218_si_001.pdf?><?cloudpmc-bucket app?><?size 599197?><caption><p>ao3c03218_si_001.pdf</p></caption></media></supplementary-material></sec><sec id="ref-list1" sec-type="ref-list" disp-level="1"><title>References</title><sec id="ref-list1_sec2" disp-level="2"><ref-list><ref id="ref1"><mixed-citation id="cit1"><named-content content-type="citation-string">Renaud S.-D.; de Lorgeril M.
+Wine, alcohol, platelets, and the French paradox for
+coronary heart disease. Lancet.
+1992, 339 (8808), 1523–1526. 10.1016/0140-6736(92)91277-F.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/0140-6736(92)91277-F"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="1351198"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Lancet.&amp;title=Wine, alcohol, platelets, and the French paradox for coronary heart disease&amp;author=S.-D. Renaud&amp;author=M. de Lorgeril&amp;volume=339&amp;issue=8808&amp;publication_year=1992&amp;pages=1523-1526&amp;pmid=1351198&amp;doi=10.1016/0140-6736(92)91277-F&amp;"/></mixed-citation></ref><ref id="ref2"><mixed-citation id="cit2"><named-content content-type="citation-string">Quideau S.; Deffieux D.; Douat-Casassus C.; Pouysegu L.
+Plant polyphenols:
+chemical properties, biological activities, and synthesis. Angew. Chem., Int. Ed. Engl.
+2011, 50 (3), 586–621. 10.1002/anie.201000044.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/anie.201000044"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21226137"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Angew. Chem., Int. Ed. Engl.&amp;title=Plant polyphenols: chemical properties, biological activities, and synthesis&amp;author=S. Quideau&amp;author=D. Deffieux&amp;author=C. Douat-Casassus&amp;author=L. Pouysegu&amp;volume=50&amp;issue=3&amp;publication_year=2011&amp;pages=586-621&amp;pmid=21226137&amp;doi=10.1002/anie.201000044&amp;"/></mixed-citation></ref><ref id="ref3"><mixed-citation id="cit3"><named-content content-type="citation-string">Mourtzinos I.; Goula A.. Polyphenols in
+agricultural byproducts and food waste. In Polyphenols in plants, 2nd ed.; Watson R.-R., Ed.; Academic
+Press, 2019; 23–44.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Polyphenols in plants&amp;publication_year=2019&amp;"/></mixed-citation></ref><ref id="ref4"><mixed-citation id="cit4"><named-content content-type="citation-string">Brglez
+Mojzer E.; Knez Hrnčič M.; Škerget M.; Knez Ž; Bren U.
+Polyphenols: Extraction methods,
+antioxidative action, bioavailability and anticarcinogenic effects. Molecules.
+2016, 21 (7), 901. 10.3390/molecules21070901.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/molecules21070901"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6273793"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27409600"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Molecules.&amp;title=Polyphenols: Extraction methods, antioxidative action, bioavailability and anticarcinogenic effects&amp;author=E. Brglez Mojzer&amp;author=M. Knez Hrnčič&amp;author=M. Škerget&amp;author=Ž Knez&amp;author=U. Bren&amp;volume=21&amp;issue=7&amp;publication_year=2016&amp;pages=901&amp;pmid=27409600&amp;doi=10.3390/molecules21070901&amp;"/></mixed-citation></ref><ref id="ref5"><mixed-citation id="cit5"><named-content content-type="citation-string">Conde E.; Díaz Reinoso B.; González-Munoz M.-J.; Moure A.; Domínguez H.; Parajó J.-C.
+Recovery
+and concentration of antioxidants
+from industrial effluents and from processing streams of underutilized
+vegetal biomass. Food Public Health
+2013, 3 (2), 69–91. 10.5923/fph.20130302.01.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.5923/fph.20130302.01"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Food Public Health&amp;title=Recovery and concentration of antioxidants from industrial effluents and from processing streams of underutilized vegetal biomass&amp;author=E. Conde&amp;author=B. Díaz Reinoso&amp;author=M.-J. González-Munoz&amp;author=A. Moure&amp;author=H. Domínguez&amp;volume=3&amp;issue=2&amp;publication_year=2013&amp;pages=69-91&amp;doi=10.5923/fph.20130302.01&amp;"/></mixed-citation></ref><ref id="ref6"><mixed-citation id="cit6"><named-content content-type="citation-string">Costa C.; Tsatsakis A.; Mamoulakis C.; Teodoro M.; Briguglio G.; Caruso E.; Tsoukalas D.; Margina D.; Dardiotis E.; Kouretas D.; Fenga C.
+Current evidence on the effect of
+dietary polyphenols intake on chronic diseases. Food Chem. Toxicol.
+2017, 110, 286–299. 10.1016/j.fct.2017.10.023.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.fct.2017.10.023"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29042289"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Food Chem. Toxicol.&amp;title=Current evidence on the effect of dietary polyphenols intake on chronic diseases&amp;author=C. Costa&amp;author=A. Tsatsakis&amp;author=C. Mamoulakis&amp;author=M. Teodoro&amp;author=G. Briguglio&amp;volume=110&amp;publication_year=2017&amp;pages=286-299&amp;pmid=29042289&amp;doi=10.1016/j.fct.2017.10.023&amp;"/></mixed-citation></ref><ref id="ref7"><mixed-citation id="cit7"><named-content content-type="citation-string">Rana S.; Gupta S.; Rana A.; Bhushan S.
+Functional
+properties,
+phenolic constituents and antioxidant potential of industrial apple
+pomace for utilization as active food ingredient. Food Sci. Hum Wellness.
+2015, 4 (4), 180–187. 10.1016/j.fshw.2015.10.001.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.fshw.2015.10.001"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Food Sci. Hum Wellness.&amp;title=Functional properties, phenolic constituents and antioxidant potential of industrial apple pomace for utilization as active food ingredient&amp;author=S. Rana&amp;author=S. Gupta&amp;author=A. Rana&amp;author=S. Bhushan&amp;volume=4&amp;issue=4&amp;publication_year=2015&amp;pages=180-187&amp;doi=10.1016/j.fshw.2015.10.001&amp;"/></mixed-citation></ref><ref id="ref8"><mixed-citation id="cit8"><named-content content-type="citation-string">Rana S.; Kumar S.; Rana A.; Padwad Y.; Bhushan S.
+Biological
+activity of phenolics enriched extracts from industrial apple pomace. Ind. Crops Prod.
+2021, 160, 113158 10.1016/j.indcrop.2020.113158.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.indcrop.2020.113158"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Ind. Crops Prod.&amp;title=Biological activity of phenolics enriched extracts from industrial apple pomace&amp;author=S. Rana&amp;author=S. Kumar&amp;author=A. Rana&amp;author=Y. Padwad&amp;author=S. Bhushan&amp;volume=160&amp;publication_year=2021&amp;pages=113158&amp;doi=10.1016/j.indcrop.2020.113158&amp;"/></mixed-citation></ref><ref id="ref9"><mixed-citation id="cit9"><named-content content-type="citation-string">Bondonno N.-P.; Bondonno C.-P.; Ward N.-C.; Hodgson J.-M.; Croft K.-D.
+The cardiovascular
+health benefits of apples: Whole fruit vs. isolated compounds. Trends Food Sci. Technol.
+2017, 69, 243–256. 10.1016/j.tifs.2017.04.012.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tifs.2017.04.012"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Trends Food Sci. Technol.&amp;title=The cardiovascular health benefits of apples: Whole fruit vs. isolated compounds&amp;author=N.-P. Bondonno&amp;author=C.-P. Bondonno&amp;author=N.-C. Ward&amp;author=J.-M. Hodgson&amp;author=K.-D. Croft&amp;volume=69&amp;publication_year=2017&amp;pages=243-256&amp;doi=10.1016/j.tifs.2017.04.012&amp;"/></mixed-citation></ref><ref id="ref10"><mixed-citation id="cit10"><named-content content-type="citation-string">Kołodziejczyk K.; Sójka M.; Abadias M.; Viñas I.; Guyot S.; Baron A.
+Polyphenol
+composition, antioxidant
+capacity, and antimicrobial activity of the extracts obtained from
+industrial sour cherry pomace. Ind. Crops Prod.
+2013, 51, 279–288. 10.1016/j.indcrop.2013.09.030.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.indcrop.2013.09.030"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Ind. Crops Prod.&amp;title=Polyphenol composition, antioxidant capacity, and antimicrobial activity of the extracts obtained from industrial sour cherry pomace&amp;author=K. Kołodziejczyk&amp;author=M. Sójka&amp;author=M. Abadias&amp;author=I. Viñas&amp;author=S. Guyot&amp;volume=51&amp;publication_year=2013&amp;pages=279-288&amp;doi=10.1016/j.indcrop.2013.09.030&amp;"/></mixed-citation></ref><ref id="ref11"><mixed-citation id="cit11"><named-content content-type="citation-string">Márquez-Rodríguez A.-S.; Nevárez-Baca S.; Lerma-Hernández J.-C.; Hernández-Ochoa L.-R.; Nevárez-Moorillon G.-V.; Gutiérrez-Méndez N.; Muñoz-Castellanos L.-N.; Salas E.
+In Vitro Antibacterial
+Activity of Hibiscus sabdariffa L. Phenolic Extract and Its In Situ
+Application on Shelf-Life of Beef Meat. Foods
+2020, 9 (8), 1080. 10.3390/foods9081080.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/foods9081080"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7464790"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32784385"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Foods&amp;title=In Vitro Antibacterial Activity of Hibiscus sabdariffa L. Phenolic Extract and Its In Situ Application on Shelf-Life of Beef Meat&amp;author=A.-S. Márquez-Rodríguez&amp;author=S. Nevárez-Baca&amp;author=J.-C. Lerma-Hernández&amp;author=L.-R. Hernández-Ochoa&amp;author=G.-V. Nevárez-Moorillon&amp;volume=9&amp;issue=8&amp;publication_year=2020&amp;pages=1080&amp;pmid=32784385&amp;doi=10.3390/foods9081080&amp;"/></mixed-citation></ref><ref id="ref12"><mixed-citation id="cit12"><named-content content-type="citation-string">Lyu F.; Luiz S.-F.; Azeredo D.-R.-P.; Cruz A.-G.; Ajlouni S.; Ranadheera C.-S.
+Apple pomace
+as a functional and healthy ingredient
+in food products: A Review. Processes
+2020, 8 (3), 319. 10.3390/pr8030319.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/pr8030319"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Processes&amp;title=Apple pomace as a functional and healthy ingredient in food products: A Review&amp;author=F. Lyu&amp;author=S.-F. Luiz&amp;author=D.-R.-P. Azeredo&amp;author=A.-G. Cruz&amp;author=S. Ajlouni&amp;volume=8&amp;issue=3&amp;publication_year=2020&amp;pages=319&amp;doi=10.3390/pr8030319&amp;"/></mixed-citation></ref><ref id="ref13"><mixed-citation id="cit13"><named-content content-type="citation-string">Secretaría de Agricultura,
+Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA) . Planeación Agrícola Nacional
+2017–2030. 1st ed., 2017. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/256430/B_sico-Manzana.pdf" ext-link-type="uri">https://www.gob.mx/cms/uploads/attachment/file/256430/B_sico-Manzana.pdf</ext-link> (accessed 2022–10–08).</named-content></mixed-citation></ref><ref id="ref14"><mixed-citation id="cit14"><named-content content-type="citation-string">Rabetafika H.-N.; Bchir B.; Blecker C.; Richel A.
+Fractionation of apple
+by-products as source of new ingredients: Current situation and perspectives. Trends in Food Sci. Technol.
+2014, 40 (1), 99–114. 10.1016/j.tifs.2014.08.004.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tifs.2014.08.004"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Trends in Food Sci. Technol.&amp;title=Fractionation of apple by-products as source of new ingredients: Current situation and perspectives&amp;author=H.-N. Rabetafika&amp;author=B. Bchir&amp;author=C. Blecker&amp;author=A. Richel&amp;volume=40&amp;issue=1&amp;publication_year=2014&amp;pages=99-114&amp;doi=10.1016/j.tifs.2014.08.004&amp;"/></mixed-citation></ref><ref id="ref15"><mixed-citation id="cit15"><named-content content-type="citation-string">Waldbauer K.; McKinnon R.; Kopp B.
+Apple pomace
+as potential source
+of natural active compounds. Planta Med.
+2017, 83 (12/13), 994–1010. 10.1055/s-0043-111898.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1055/s-0043-111898"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28701021"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Planta Med.&amp;title=Apple pomace as potential source of natural active compounds&amp;author=K. Waldbauer&amp;author=R. McKinnon&amp;author=B. Kopp&amp;volume=83&amp;issue=12/13&amp;publication_year=2017&amp;pages=994-1010&amp;pmid=28701021&amp;doi=10.1055/s-0043-111898&amp;"/></mixed-citation></ref><ref id="ref16"><mixed-citation id="cit16"><named-content content-type="citation-string">Araújo M.; Pimentel F.-B.; Alves R.-C.; Oliveira M.-B.-P.
+Phenolic compounds
+from olive mill wastes: Health effects, analytical approach and application
+as food antioxidants. Trends in Food Sci. Technol.
+2015, 45 (2), 200–211. 10.1016/j.tifs.2015.06.010.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tifs.2015.06.010"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Trends in Food Sci. Technol.&amp;title=Phenolic compounds from olive mill wastes: Health effects, analytical approach and application as food antioxidants&amp;author=M. Araújo&amp;author=F.-B. Pimentel&amp;author=R.-C. Alves&amp;author=M.-B.-P. Oliveira&amp;volume=45&amp;issue=2&amp;publication_year=2015&amp;pages=200-211&amp;doi=10.1016/j.tifs.2015.06.010&amp;"/></mixed-citation></ref><ref id="ref17"><mixed-citation id="cit17"><named-content content-type="citation-string">Virot M.; Tomao V.; Le Bourvellec C.; Renard C.-M.; Chemat F.
+Towards the
+industrial production of antioxidants from food processing by-products
+with ultrasound-assisted extraction. Ultrason
+Sonochemistry.
+2010, 17 (6), 1066–1074. 10.1016/j.ultsonch.2009.10.015.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ultsonch.2009.10.015"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19945900"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Ultrason Sonochemistry.&amp;title=Towards the industrial production of antioxidants from food processing by-products with ultrasound-assisted extraction&amp;author=M. Virot&amp;author=V. Tomao&amp;author=C. Le Bourvellec&amp;author=C.-M. Renard&amp;author=F. Chemat&amp;volume=17&amp;issue=6&amp;publication_year=2010&amp;pages=1066-1074&amp;pmid=19945900&amp;doi=10.1016/j.ultsonch.2009.10.015&amp;"/></mixed-citation></ref><ref id="ref18"><mixed-citation id="cit18"><named-content content-type="citation-string">Medina-Torres N.; Ayora-Talavera T.; Espinosa-Andrews H.; Sánchez-Contreras A.; Pacheco N.
+Ultrasound
+assisted extraction for the recovery of
+phenolic compounds from vegetable sources. Agronomy.
+2017, 7 (3), 47. 10.3390/agronomy7030047.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/agronomy7030047"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Agronomy.&amp;title=Ultrasound assisted extraction for the recovery of phenolic compounds from vegetable sources&amp;author=N. Medina-Torres&amp;author=T. Ayora-Talavera&amp;author=H. Espinosa-Andrews&amp;author=A. Sánchez-Contreras&amp;author=N. Pacheco&amp;volume=7&amp;issue=3&amp;publication_year=2017&amp;pages=47&amp;doi=10.3390/agronomy7030047&amp;"/></mixed-citation></ref><ref id="ref19"><mixed-citation id="cit19"><named-content content-type="citation-string">Vilkhu K.; Mawson R.; Simons L.; Bates D.
+Applications and opportunities
+for ultrasound assisted extraction in the food industry—A Review. Innovative Food Sci. Emerging Technol.
+2008, 9 (2), 161–169. 10.1016/j.ifset.2007.04.014.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ifset.2007.04.014"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Innovative Food Sci. Emerging Technol.&amp;title=Applications and opportunities for ultrasound assisted extraction in the food industry—A Review&amp;author=K. Vilkhu&amp;author=R. Mawson&amp;author=L. Simons&amp;author=D. Bates&amp;volume=9&amp;issue=2&amp;publication_year=2008&amp;pages=161-169&amp;doi=10.1016/j.ifset.2007.04.014&amp;"/></mixed-citation></ref><ref id="ref20"><mixed-citation id="cit20"><named-content content-type="citation-string">Kentish S.; Feng H.
+Applications of power
+ultrasound in food processing. Annu. Rev. Food
+Sci. Technol.
+2014, 5 (1), 263–284. 10.1146/annurev-food-030212-182537.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1146/annurev-food-030212-182537"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24422590"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Annu. Rev. Food Sci. Technol.&amp;title=Applications of power ultrasound in food processing&amp;author=S. Kentish&amp;author=H. Feng&amp;volume=5&amp;issue=1&amp;publication_year=2014&amp;pages=263-284&amp;pmid=24422590&amp;doi=10.1146/annurev-food-030212-182537&amp;"/></mixed-citation></ref><ref id="ref21"><mixed-citation id="cit21"><named-content content-type="citation-string">Singleton V.-L.; Rossi J.-A.
+Colorimetry of total
+phenolics with phosphomolybdic-phosphotungstic
+acid reagents. Am. J. Enol. Vitic.
+1965, 16 (3), 144–158. 10.5344/ajev.1965.16.3.144.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.5344/ajev.1965.16.3.144"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am. J. Enol. Vitic.&amp;title=Colorimetry of total phenolics with phosphomolybdic-phosphotungstic acid reagents&amp;author=V.-L. Singleton&amp;author=J.-A. Rossi&amp;volume=16&amp;issue=3&amp;publication_year=1965&amp;pages=144-158&amp;doi=10.5344/ajev.1965.16.3.144&amp;"/></mixed-citation></ref><ref id="ref22"><mixed-citation id="cit22"><named-content content-type="citation-string">Salas E.; Fulcrand H.; Poncet-Legrand C.; Meudec E.; Köhler N.; Winterhalter P.; Cheynier V.
+Isolation of flavanol-anthocyanin
+adducts by countercurrent chromatography. J.
+Chromatogr Sci.
+2005, 43 (9), 488–493. 10.1093/chromsci/43.9.488.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/chromsci/43.9.488"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16212796"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Chromatogr Sci.&amp;title=Isolation of flavanol-anthocyanin adducts by countercurrent chromatography&amp;author=E. Salas&amp;author=H. Fulcrand&amp;author=C. Poncet-Legrand&amp;author=E. Meudec&amp;author=N. Köhler&amp;volume=43&amp;issue=9&amp;publication_year=2005&amp;pages=488-493&amp;pmid=16212796&amp;doi=10.1093/chromsci/43.9.488&amp;"/></mixed-citation></ref><ref id="ref23"><mixed-citation id="cit23"><named-content content-type="citation-string">Kennedy J.-A.; Jones G.-P.
+Analysis of proanthocyanidin cleavage
+products following
+acid-catalysis in the presence of excess phloroglucinol. J. Agric. Food Chem.
+2001, 49 (4), 1740–1746. 10.1021/jf001030o.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/jf001030o"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11308320"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Agric. Food Chem.&amp;title=Analysis of proanthocyanidin cleavage products following acid-catalysis in the presence of excess phloroglucinol&amp;author=J.-A. Kennedy&amp;author=G.-P. Jones&amp;volume=49&amp;issue=4&amp;publication_year=2001&amp;pages=1740-1746&amp;pmid=11308320&amp;doi=10.1021/jf001030o&amp;"/></mixed-citation></ref><ref id="ref24"><mixed-citation id="cit24"><named-content content-type="citation-string">Kaur C.; Kapoor H.-C.
+Inhibition of enzymatic
+browning in apples, potatoes
+and mushrooms. J. Sci. Ind. Res.
+2000, 59 (5), 389–394.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Sci. Ind. Res.&amp;title=Inhibition of enzymatic browning in apples, potatoes and mushrooms&amp;author=C. Kaur&amp;author=H.-C. Kapoor&amp;volume=59&amp;issue=5&amp;publication_year=2000&amp;pages=389-394&amp;"/></mixed-citation></ref><ref id="ref25"><mixed-citation id="cit25"><named-content content-type="citation-string">Xu J.; Yue R.-Q.; Liu J.; Ho H.-M.; Yi T.; Chen H.-B.; Han Q.-B.
+Structural
+diversity requires individual
+optimization of ethanol concentration in polysaccharide precipitation. Int. J. Biol. Macromol.
+2014, 67, 205–209. 10.1016/j.ijbiomac.2014.03.036.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ijbiomac.2014.03.036"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24680808"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int. J. Biol. Macromol.&amp;title=Structural diversity requires individual optimization of ethanol concentration in polysaccharide precipitation&amp;author=J. Xu&amp;author=R.-Q. Yue&amp;author=J. Liu&amp;author=H.-M. Ho&amp;author=T. Yi&amp;volume=67&amp;publication_year=2014&amp;pages=205-209&amp;pmid=24680808&amp;doi=10.1016/j.ijbiomac.2014.03.036&amp;"/></mixed-citation></ref><ref id="ref26"><mixed-citation id="cit26"><named-content content-type="citation-string">Kim D.-O.; Lee C.-Y.
+Extraction and isolation
+of polyphenolics. Curr. Protoc Food Anal Chem.
+2002, 6 (1), I1–2. 10.1002/0471142913.fai0102s06.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/0471142913.fai0102s06"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Curr. Protoc Food Anal Chem.&amp;title=Extraction and isolation of polyphenolics&amp;author=D.-O. Kim&amp;author=C.-Y. Lee&amp;volume=6&amp;issue=1&amp;publication_year=2002&amp;pages=I1-2&amp;doi=10.1002/0471142913.fai0102s06&amp;"/></mixed-citation></ref><ref id="ref27"><mixed-citation id="cit27"><named-content content-type="citation-string">van
+der Sluis A.-A.; Dekker M.; van Boekel M.-A.
+Activity
+and concentration of polyphenolic antioxidants in apple juice. 3.
+Stability during storage. J. Agric. Food Chem.
+2005, 53 (4), 1073–1080. 10.1021/jf040270r.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/jf040270r"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15713022"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Agric. Food Chem.&amp;title=Activity and concentration of polyphenolic antioxidants in apple juice. 3. Stability during storage&amp;author=A.-A. van der Sluis&amp;author=M. Dekker&amp;author=M.-A. van Boekel&amp;volume=53&amp;issue=4&amp;publication_year=2005&amp;pages=1073-1080&amp;pmid=15713022&amp;doi=10.1021/jf040270r&amp;"/></mixed-citation></ref><ref id="ref28"><mixed-citation id="cit28"><named-content content-type="citation-string">Francini A.; Sebastiani L.
+Phenolic compounds
+in apple (<italic>Malus x domestica</italic> Borkh.): compounds characterization
+and stability during postharvest
+and after processing. Antioxidants.
+2013, 2 (3), 181–193. 10.3390/antiox2030181.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/antiox2030181"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4665438"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26784345"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Antioxidants.&amp;title=Phenolic compounds in apple (Malus x domestica Borkh.): compounds characterization and stability during postharvest and after processing&amp;author=A. Francini&amp;author=L. Sebastiani&amp;volume=2&amp;issue=3&amp;publication_year=2013&amp;pages=181-193&amp;pmid=26784345&amp;doi=10.3390/antiox2030181&amp;"/></mixed-citation></ref><ref id="ref29"><mixed-citation id="cit29"><named-content content-type="citation-string">Perussello C.-A.; Zhang Z.; Marzocchella A.; Tiwari B.-K.
+Valorization of
+apple pomace by extraction of valuable compounds. Compr Rev. Food Sci. Food Saf.
+2017, 16 (5), 776–796. 10.1111/1541-4337.12290.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/1541-4337.12290"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33371603"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Compr Rev. Food Sci. Food Saf.&amp;title=Valorization of apple pomace by extraction of valuable compounds&amp;author=C.-A. Perussello&amp;author=Z. Zhang&amp;author=A. Marzocchella&amp;author=B.-K. Tiwari&amp;volume=16&amp;issue=5&amp;publication_year=2017&amp;pages=776-796&amp;pmid=33371603&amp;doi=10.1111/1541-4337.12290&amp;"/></mixed-citation></ref><ref id="ref30"><mixed-citation id="cit30"><named-content content-type="citation-string">Kammerer D.-R.; Kammerer J.; Valet R.; Carle R.
+Recovery of polyphenols
+from the by-products of plant food processing and application as valuable
+food ingredients. Food Res. Int.
+2014, 65, 2–12. 10.1016/j.foodres.2014.06.012.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.foodres.2014.06.012"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Food Res. Int.&amp;title=Recovery of polyphenols from the by-products of plant food processing and application as valuable food ingredients&amp;author=D.-R. Kammerer&amp;author=J. Kammerer&amp;author=R. Valet&amp;author=R. Carle&amp;volume=65&amp;publication_year=2014&amp;pages=2-12&amp;doi=10.1016/j.foodres.2014.06.012&amp;"/></mixed-citation></ref><ref id="ref31"><mixed-citation id="cit31"><named-content content-type="citation-string">Masumoto S.; Akimoto Y.; Oike H.; Kobori M.
+Dietary phloridzin
+reduces blood glucose levels and reverses Sglt1 expression in the
+small intestine in streptozotocin-induced diabetic mice. J. Agic Food Chem.
+2009, 57 (11), 4651–4656. 10.1021/jf9008197.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/jf9008197"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19413312"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Agic Food Chem.&amp;title=Dietary phloridzin reduces blood glucose levels and reverses Sglt1 expression in the small intestine in streptozotocin-induced diabetic mice&amp;author=S. Masumoto&amp;author=Y. Akimoto&amp;author=H. Oike&amp;author=M. Kobori&amp;volume=57&amp;issue=11&amp;publication_year=2009&amp;pages=4651-4656&amp;pmid=19413312&amp;doi=10.1021/jf9008197&amp;"/></mixed-citation></ref><ref id="ref32"><mixed-citation id="cit32"><named-content content-type="citation-string">Lavelli V.; Corti S.
+Phloridzin and other
+phytochemicals in apple pomace: Stability evaluation
+upon dehydration and storage of dried product. Food Chem.
+2011, 129 (4), 1578–1583. 10.1016/j.foodchem.2011.06.011.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.foodchem.2011.06.011"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Food Chem.&amp;title=Phloridzin and other phytochemicals in apple pomace: Stability evaluation upon dehydration and storage of dried product&amp;author=V. Lavelli&amp;author=S. Corti&amp;volume=129&amp;issue=4&amp;publication_year=2011&amp;pages=1578-1583&amp;doi=10.1016/j.foodchem.2011.06.011&amp;"/></mixed-citation></ref><ref id="ref33"><mixed-citation id="cit33"><named-content content-type="citation-string">Ameer K.; Shahbaz H.-M.; Kwon J.-H.
+Green extraction
+methods for polyphenols
+from plant matrices and their byproducts: A Review. Compr Rev. Food Sci. Food Saf.
+2017, 16 (2), 295–315. 10.1111/1541-4337.12253.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/1541-4337.12253"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33371540"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Compr Rev. Food Sci. Food Saf.&amp;title=Green extraction methods for polyphenols from plant matrices and their byproducts: A Review&amp;author=K. Ameer&amp;author=H.-M. Shahbaz&amp;author=J.-H. Kwon&amp;volume=16&amp;issue=2&amp;publication_year=2017&amp;pages=295-315&amp;pmid=33371540&amp;doi=10.1111/1541-4337.12253&amp;"/></mixed-citation></ref><ref id="ref34"><mixed-citation id="cit34"><named-content content-type="citation-string">Oreopoulou V.; Tzia C.. Utilization of
+plant by-products for the recovery of proteins, dietary fibers, antioxidants,
+and colorants. In Utilization of by-products
+and treatment of waste in the food industry. Proceedings
+of the Integrating Food Science and Engineering Knowledge Into Food
+Studies towards European Sustainable Development (ISEKI-Food); Oreopoulou V.; Russ W., Eds; Springer: Boston, MA., 2007; 3, 209–232.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Utilization of by-products and treatment of waste in the food industry&amp;publication_year=2007&amp;"/></mixed-citation></ref><ref id="ref35"><mixed-citation id="cit35"><named-content content-type="citation-string">Lai W.-T.; Khong N.-M.-H.; Lim S.-S.; Hee Y.-Y.; Sim B.-I.; Lau K.-Y.; Lai O.-M.
+A review:
+Modified agricultural by-products
+for the development and fortification of food products and nutraceuticals. Trends Food Sci. Technol.
+2017, 59, 148–160. 10.1016/j.tifs.2016.11.014.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tifs.2016.11.014"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Trends Food Sci. Technol.&amp;title=A review: Modified agricultural by-products for the development and fortification of food products and nutraceuticals&amp;author=W.-T. Lai&amp;author=N.-M.-H. Khong&amp;author=S.-S. Lim&amp;author=Y.-Y. Hee&amp;author=B.-I. Sim&amp;volume=59&amp;publication_year=2017&amp;pages=148-160&amp;doi=10.1016/j.tifs.2016.11.014&amp;"/></mixed-citation></ref><ref id="ref36"><mixed-citation id="cit36"><named-content content-type="citation-string">Cheynier V.
+Polyphenols
+in foods are more complex than often thought. Am. J. Clin. Nutr.
+2005, 81 (1), 223S–229S. 10.1093/ajcn/81.1.223S.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/ajcn/81.1.223S"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15640485"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am. J. Clin. Nutr.&amp;title=Polyphenols in foods are more complex than often thought&amp;author=V. Cheynier&amp;volume=81&amp;issue=1&amp;publication_year=2005&amp;pages=223S-229S&amp;pmid=15640485&amp;doi=10.1093/ajcn/81.1.223S&amp;"/></mixed-citation></ref><ref id="ref37"><mixed-citation id="cit37"><named-content content-type="citation-string">Morante
+Carriel J.; Agnieszka-Obrebska A.; Bru-Martínez R.; Carranza Patiño M.; Pico-Saltos R.; Nieto Rodriguez E.
+Distribución, localización e inhibidores
+de las polifenol oxidasas en frutos y vegetales usados como alimento. Ciencia y Tecnología.
+2014, 7 (1), 23–31. 10.18779/cyt.v7i1.95.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.18779/cyt.v7i1.95"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Ciencia y Tecnología.&amp;title=Distribución, localización e inhibidores de las polifenol oxidasas en frutos y vegetales usados como alimento&amp;author=J. Morante Carriel&amp;author=A. Agnieszka-Obrebska&amp;author=R. Bru-Martínez&amp;author=M. Carranza Patiño&amp;author=R. Pico-Saltos&amp;volume=7&amp;issue=1&amp;publication_year=2014&amp;pages=23-31&amp;doi=10.18779/cyt.v7i1.95&amp;"/></mixed-citation></ref><ref id="ref38"><mixed-citation id="cit38"><named-content content-type="citation-string">van
+der Sluis A.-A.; Dekker M.; de Jager A.; Jongen W.-M.
+Activity
+and concentration of polyphenolic antioxidants in apple: effect of
+cultivar, harvest year, and storage conditions. J. Agric. Food Chem.
+2001, 49 (8), 3606–3613. 10.1021/jf001493u.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/jf001493u"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11513636"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Agric. Food Chem.&amp;title=Activity and concentration of polyphenolic antioxidants in apple: effect of cultivar, harvest year, and storage conditions&amp;author=A.-A. van der Sluis&amp;author=M. Dekker&amp;author=A. de Jager&amp;author=W.-M. Jongen&amp;volume=49&amp;issue=8&amp;publication_year=2001&amp;pages=3606-3613&amp;pmid=11513636&amp;doi=10.1021/jf001493u&amp;"/></mixed-citation></ref><ref id="ref39"><mixed-citation id="cit39"><named-content content-type="citation-string">Jancheva M.; Grigorakis S.; Loupassaki S.; Makris D.-P.
+Optimized extraction
+of antioxidant polyphenols from Satureja thymbra using newly designed
+glycerol-based natural low-transition temperature mixtures (LTTMs). J. Appl. Res. Med. Aromat Plants.
+2017, 6, 31–40. 10.1016/j.jarmap.2017.01.002.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jarmap.2017.01.002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Appl. Res. Med. Aromat Plants.&amp;title=Optimized extraction of antioxidant polyphenols from Satureja thymbra using newly designed glycerol-based natural low-transition temperature mixtures (LTTMs)&amp;author=M. Jancheva&amp;author=S. Grigorakis&amp;author=S. Loupassaki&amp;author=D.-P. Makris&amp;volume=6&amp;publication_year=2017&amp;pages=31-40&amp;doi=10.1016/j.jarmap.2017.01.002&amp;"/></mixed-citation></ref><ref id="ref40"><mixed-citation id="cit40"><named-content content-type="citation-string">Lachman J.; Šulc M.; Sus J.; Pavlíková O.
+Polyphenol
+content and antiradical activity in different apple varieties. Hort Sci. (Prague).
+2006, 33 (3), 95–102. 10.17221/3745-HORTSCI.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.17221/3745-HORTSCI"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Hort Sci. (Prague).&amp;title=Polyphenol content and antiradical activity in different apple varieties&amp;author=J. Lachman&amp;author=M. Šulc&amp;author=J. Sus&amp;author=O. Pavlíková&amp;volume=33&amp;issue=3&amp;publication_year=2006&amp;pages=95-102&amp;doi=10.17221/3745-HORTSCI&amp;"/></mixed-citation></ref><ref id="ref41"><mixed-citation id="cit41"><named-content content-type="citation-string">Vrhovsek U.; Rigo A.; Tonon D.; Mattivi F.
+Quantitation of polyphenols
+in different apple varieties. J. Agric. Food
+Chem.
+2004, 52 (21), 6532–6538. 10.1021/jf049317z.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/jf049317z"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15479019"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Agric. Food Chem.&amp;title=Quantitation of polyphenols in different apple varieties&amp;author=U. Vrhovsek&amp;author=A. Rigo&amp;author=D. Tonon&amp;author=F. Mattivi&amp;volume=52&amp;issue=21&amp;publication_year=2004&amp;pages=6532-6538&amp;pmid=15479019&amp;doi=10.1021/jf049317z&amp;"/></mixed-citation></ref><ref id="ref42"><mixed-citation id="cit42"><named-content content-type="citation-string">Rana S.; Rana A.; Gupta S.; Bhushan S.
+Varietal influence
+on phenolic constituents and nutritive characteristics of pomace obtained
+from apples grown in western Himalayas. J. Food
+Sci. Technol.
+2021, 58 (1), 166–174. 10.1007/s13197-020-04526-y.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s13197-020-04526-y"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7813901"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33505061"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Food Sci. Technol.&amp;title=Varietal influence on phenolic constituents and nutritive characteristics of pomace obtained from apples grown in western Himalayas&amp;author=S. Rana&amp;author=A. Rana&amp;author=S. Gupta&amp;author=S. Bhushan&amp;volume=58&amp;issue=1&amp;publication_year=2021&amp;pages=166-174&amp;pmid=33505061&amp;doi=10.1007/s13197-020-04526-y&amp;"/></mixed-citation></ref><ref id="ref43"><mixed-citation id="cit43"><named-content content-type="citation-string">Zhang T.; Wei X.; Miao Z.; Hassan H.; Song Y.; Fan M.
+Screening
+for antioxidant and antibacterial activities of phenolics from Golden
+Delicious apple pomace. Chem. Cent J.
+2016, 10 (1), 1–9. 10.1186/s13065-016-0195-7.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1186/s13065-016-0195-7"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4970275"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27486478"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Chem. Cent J.&amp;title=Screening for antioxidant and antibacterial activities of phenolics from Golden Delicious apple pomace&amp;author=T. Zhang&amp;author=X. Wei&amp;author=Z. Miao&amp;author=H. Hassan&amp;author=Y. Song&amp;volume=10&amp;issue=1&amp;publication_year=2016&amp;pages=1-9&amp;pmid=27486478&amp;doi=10.1186/s13065-016-0195-7&amp;"/></mixed-citation></ref><ref id="ref44"><mixed-citation id="cit44"><named-content content-type="citation-string">Sultana B.; Anwar F.
+Flavonols (kaempeferol, quercetin, myricetin) contents of selected
+fruits, vegetables and medicinal plants. Food
+Chem.
+2008, 108 (3), 879–884. 10.1016/j.foodchem.2007.11.053.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.foodchem.2007.11.053"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26065748"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Food Chem.&amp;title=Flavonols (kaempeferol, quercetin, myricetin) contents of selected fruits, vegetables and medicinal plants&amp;author=B. Sultana&amp;author=F. Anwar&amp;volume=108&amp;issue=3&amp;publication_year=2008&amp;pages=879-884&amp;pmid=26065748&amp;doi=10.1016/j.foodchem.2007.11.053&amp;"/></mixed-citation></ref><ref id="ref45"><mixed-citation id="cit45"><named-content content-type="citation-string">Guyot S.; Marnet N.; Sanoner P.; Drilleau J.-F.
+Variability of the
+polyphenolic composition of cider apple (Malus domestica) fruits and
+juices. J. Agric. Food Chem.
+2003, 51 (21), 6240–6247. 10.1021/jf0301798.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/jf0301798"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="14518950"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Agric. Food Chem.&amp;title=Variability of the polyphenolic composition of cider apple (Malus domestica) fruits and juices&amp;author=S. Guyot&amp;author=N. Marnet&amp;author=P. Sanoner&amp;author=J.-F. Drilleau&amp;volume=51&amp;issue=21&amp;publication_year=2003&amp;pages=6240-6247&amp;pmid=14518950&amp;doi=10.1021/jf0301798&amp;"/></mixed-citation></ref><ref id="ref46"><mixed-citation id="cit46"><named-content content-type="citation-string">Fratianni F.; Sada A.; Cipriano L.; Masucci A.; Nazzaro F.
+Biochemical
+characteristics, antimicrobial and mutagenic activity in organically
+and conventionally produced Malus domestica, Annurca. Open Food Sci. J.
+2007, 1 (1), 10–16. 10.2174/1874256400701010010.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2174/1874256400701010010"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Open Food Sci. J.&amp;title=Biochemical characteristics, antimicrobial and mutagenic activity in organically and conventionally produced Malus domestica, Annurca&amp;author=F. Fratianni&amp;author=A. Sada&amp;author=L. Cipriano&amp;author=A. Masucci&amp;author=F. Nazzaro&amp;volume=1&amp;issue=1&amp;publication_year=2007&amp;pages=10-16&amp;doi=10.2174/1874256400701010010&amp;"/></mixed-citation></ref><ref id="ref47"><mixed-citation id="cit47"><named-content content-type="citation-string">Petkovsek M.-M.; Slatnar A.; Stampar F.; Veberic R.
+The influence
+of organic/integrated
+production on the content of phenolic compounds in apple leaves and
+fruits in four different varieties over a 2-year period. J. Sci. Food Agric.
+2010, 90 (14), 2366–2378. 10.1002/jsfa.4093.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/jsfa.4093"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20662009"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Sci. Food Agric.&amp;title=The influence of organic/integrated production on the content of phenolic compounds in apple leaves and fruits in four different varieties over a 2-year period&amp;author=M.-M. Petkovsek&amp;author=A. Slatnar&amp;author=F. Stampar&amp;author=R. Veberic&amp;volume=90&amp;issue=14&amp;publication_year=2010&amp;pages=2366-2378&amp;pmid=20662009&amp;doi=10.1002/jsfa.4093&amp;"/></mixed-citation></ref><ref id="ref48"><mixed-citation id="cit48"><named-content content-type="citation-string">Cerda-Tapia A.; Pérez-Chabela M.-L.; Pérez-Álvarez J.-Á.; Fernández-López J.; Viuda-Martos M.
+Valorization
+of pomace powder obtained from native Mexican apple (<italic>Malus
+domestica</italic> var. rayada): chemical, techno-functional and antioxidant
+properties. Plant Foods Hum Nutr.
+2015, 70 (3), 310–316. 10.1007/s11130-015-0495-4.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s11130-015-0495-4"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26130115"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Plant Foods Hum Nutr.&amp;title=Valorization of pomace powder obtained from native Mexican apple (Malus domestica var. rayada): chemical, techno-functional and antioxidant properties&amp;author=A. Cerda-Tapia&amp;author=M.-L. Pérez-Chabela&amp;author=J.-Á. Pérez-Álvarez&amp;author=J. Fernández-López&amp;author=M. Viuda-Martos&amp;volume=70&amp;issue=3&amp;publication_year=2015&amp;pages=310-316&amp;pmid=26130115&amp;doi=10.1007/s11130-015-0495-4&amp;"/></mixed-citation></ref></ref-list></sec></sec><sec id="_ad93_" xml:lang="en" sec-type="associated-data" disp-level="1"><title>Associated Data</title><sec id="_adsm93_" xml:lang="en" sec-type="supplementary-materials" disp-level="2"><title>Supplementary Materials</title><supplementary-material id="db_ds_supplementary-material1_reqid_" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao3c03218_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path e796/10785061/b71641af6c45/ao3c03218_si_001.pdf?><?cloudpmc-bucket app?><?size 599197?><caption><p>ao3c03218_si_001.pdf</p></caption></media></supplementary-material></sec></sec></body></article>

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "S1",
+    "url": "https://bggworld.com/applephenon-apple-polyphenols/",
+    "http_status": 406,
+    "raw_bytes": 226,
+    "extracted_chars": 3135
+  },
+  {
+    "id": "S2",
+    "url": "https://www.herbafood.de/en/products/functional-and-dietary-fibers/herbacel-aq-afb-200-and-herbacel-aq-afb-250/",
+    "http_status": 200,
+    "raw_bytes": 156812,
+    "extracted_chars": 4244
+  },
+  {
+    "id": "P1",
+    "url": "https://sciencedirect.com/science/article/pii/S0268005X2300694X",
+    "http_status": 403,
+    "raw_bytes": 832806,
+    "extracted_chars": 0
+  }
+]
