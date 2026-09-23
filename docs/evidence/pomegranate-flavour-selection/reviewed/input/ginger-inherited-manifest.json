@@ -1,0 +1,67 @@
+[
+  {
+    "file": "OPPORTUNITY.md",
+    "bytes": 1461,
+    "sha256": "6d4fa083f02a3bc49a28c08b398efaaacb5867dbb5bc2a7f90d45ee76a902799"
+  },
+  {
+    "file": "ginger-review.txt",
+    "bytes": 95387,
+    "sha256": "7b6ce495dd05a100389e66dfcbd8bb90b096872bd57439a5ce228d47f6d83764"
+  },
+  {
+    "file": "ginger-review.xml",
+    "bytes": 187059,
+    "sha256": "c2acb93c31aee75100827ad9bc30db5f6623148271a13f9e2f237893ebff4e8c"
+  },
+  {
+    "file": "ledger.json",
+    "bytes": 3433,
+    "sha256": "ac16f0308c7af249a3ee42c70ac4ad6e21479bb8a940344efb2637103c0d9e91"
+  },
+  {
+    "file": "primary-abstract.txt",
+    "bytes": 1287,
+    "sha256": "d9b0ba7212cb3a119fc976e2cf1e68d999e3f09832f9388101dd5288dd027103"
+  },
+  {
+    "file": "roast-abstract.raw",
+    "bytes": 17,
+    "sha256": "6417c45aae878ff7fe9b70ad452ac5020cc93d25347839763dd9a6efe69e0f76"
+  },
+  {
+    "file": "roast-abstract.txt",
+    "bytes": 17,
+    "sha256": "6417c45aae878ff7fe9b70ad452ac5020cc93d25347839763dd9a6efe69e0f76"
+  },
+  {
+    "file": "roast-crossref.raw",
+    "bytes": 6044,
+    "sha256": "86d09167231c98b90acb89aba948d6acd85e79a164d867d7cb1bee3e2a2b0a0a"
+  },
+  {
+    "file": "roast-crossref.txt",
+    "bytes": 6044,
+    "sha256": "86d09167231c98b90acb89aba948d6acd85e79a164d867d7cb1bee3e2a2b0a0a"
+  },
+  {
+    "file": "roast-pubmed.raw",
+    "bytes": 5778,
+    "sha256": "987bbe8a9440d63cecb2e8382668656f81a047e2f1c2c0aaac0bac05431042d0"
+  },
+  {
+    "file": "roast-pubmed.txt",
+    "bytes": 5742,
+    "sha256": "8d44617d29c5765e5d66a1ec76b5b67e8d4509356f57d1319f88cf62c70cc390"
+  },
+  {
+    "file": "wayback.raw",
+    "bytes": 86,
+    "sha256": "19e6ddcf8c64f6bb4d356e52e7b1838bd9868785941bf61e288711edfe4c5164"
+  },
+  {
+    "file": "wayback.txt",
+    "bytes": 86,
+    "sha256": "19e6ddcf8c64f6bb4d356e52e7b1838bd9868785941bf61e288711edfe4c5164"
+  }
+]

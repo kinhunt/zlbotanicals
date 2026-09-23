@@ -1,0 +1,72 @@
+[
+  {
+    "file": "OPPORTUNITY.md",
+    "bytes": 1573,
+    "sha256": "efb59e23818662591564998086f75423acb51c08bceb55e7bd0653070817a593"
+  },
+  {
+    "file": "crossref-143941.raw",
+    "bytes": 18592,
+    "sha256": "6cfe98d1a004ec18c94e5e871ac3964301daf6dd545ac5abd3bfc770a4d00293"
+  },
+  {
+    "file": "crossref-143941.txt",
+    "bytes": 18592,
+    "sha256": "6cfe98d1a004ec18c94e5e871ac3964301daf6dd545ac5abd3bfc770a4d00293"
+  },
+  {
+    "file": "crossref-144611.raw",
+    "bytes": 19164,
+    "sha256": "d8c02bdf88da0304490dcfad21608c620527b35ed9f0c30dc71596701959ceef"
+  },
+  {
+    "file": "crossref-144611.txt",
+    "bytes": 19164,
+    "sha256": "d8c02bdf88da0304490dcfad21608c620527b35ed9f0c30dc71596701959ceef"
+  },
+  {
+    "file": "elsevier-143941.raw",
+    "bytes": 1936,
+    "sha256": "a446e438ce430fb448563a9965330d56871d1c24ddfdcb93d89ab8217070aa79"
+  },
+  {
+    "file": "elsevier-143941.txt",
+    "bytes": 436,
+    "sha256": "c91204839adfae937fb0dc1229441676f8888e9297ebf516b73f167417c15013"
+  },
+  {
+    "file": "elsevier-144611.raw",
+    "bytes": 1881,
+    "sha256": "1eb3722a4a2f9d91098f4501d19dad47b0914ec213d862f98789b577188e3f94"
+  },
+  {
+    "file": "elsevier-144611.txt",
+    "bytes": 381,
+    "sha256": "aa676ca5a86a3e7b09e29bfc3f04a94ec00ba2a709efec5d248cd4d5e2dc442f"
+  },
+  {
+    "file": "evidence-quotes.json",
+    "bytes": 4237,
+    "sha256": "b0b48530a545b28e1af48234bc922acbf81e117ffd0e8135c80ff479201b4400"
+  },
+  {
+    "file": "ledger.json",
+    "bytes": 5664,
+    "sha256": "7134e32ddd9edfc9c16029b2db30e71137f8c4608d8b21a09b939dafb6c8573e"
+  },
+  {
+    "file": "pomegranate-full-wrapped.txt",
+    "bytes": 43176,
+    "sha256": "899deb29079cc56de682276d9b433ede799e0127851ea6380069b7b6fea6b0f1"
+  },
+  {
+    "file": "pomegranate-full.txt",
+    "bytes": 43172,
+    "sha256": "d2c4a5ce37f8d755a7373f62b8c6212cd8ba7a7b72ce8eae0a39037e4c200e06"
+  },
+  {
+    "file": "pomegranate-full.xml",
+    "bytes": 107619,
+    "sha256": "cf42a34a0726f0dc3d8aeda151327b841c4e69f003a2dfdc67ddf7548c876ca9"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "pmc": "PMC8471094",
+    "row": [
+      "ICPJ7",
+      "3748.8 ± 19.8f",
+      "895.2 ± 1.6g",
+      "23.9%"
+    ]
+  },
+  {
+    "pmc": "PMC8471094",
+    "row": [
+      "INCPJ8",
+      "2614.0 ± 16.5g",
+      "722.8 ± 3.6h",
+      "27.7%"
+    ]
+  },
+  {
+    "pmc": "PMC8471094",
+    "row": [
+      "Sum of anthocyanins",
+      "47.7 ± 0.1a",
+      "n.d.",
+      "74.5 ± 0.1b",
+      "59.7 ± 0.1c",
+      "1.6 ± 0.0d",
+      "2.9 ± 0.0e",
+      "0.8 ± 0.0f",
+      "280.6 ± 0.1g"
+    ]
+  },
+  {
+    "pmc": "PMC11941192",
+    "row": [
+      "Color",
+      "Bright(7.24 ± 0.6)",
+      "Bright (7.20 ± 0.4)",
+      "Bright and uniform(7.12 ± 0.3)",
+      "Bright and uniform(7.02 ± 0.3)",
+      "Bright but slightly deep(6.80 ± 0.4)"
+    ]
+  },
+  {
+    "pmc": "PMC11941192",
+    "row": [
+      "Taste",
+      "Distinct bitterness(5.40 ± 0.3)",
+      "Distinct bitterness(6.13 ± 0.4)",
+      "Medium bitterness(7.48 ± 0.5)",
+      "Mild astringency(8.53 ± 0.2)",
+      "Mild astringency(8.60 ± 0.5)"
+    ]
+  },
+  {
+    "pmc": "PMC11941192",
+    "row": [
+      "Flavor",
+      "Marked characteristic flavor(7.79 ± 0.4)",
+      "Marked characteristic flavor(7.20 ± 0.3)",
+      "Marked characteristic flavor(6.87 ± 0.3)",
+      "Slightly reduced characteristic flavor6.80 ± 0.4)",
+      "Diminished distinctive flavor6.58 ± 0.2)"
+    ]
+  },
+  {
+    "pmc": "PMC11941192",
+    "row": [
+      "Acceptability",
+      "Unacceptable(4.48 ± 0.2)",
+      "Slightly acceptable(5.24 ± 0.4)",
+      "Moderately acceptable(6.93 ± 0.6)",
+      "Acceptable(7.92 ± 0.3)",
+      "Acceptable(7.94 ± 0.2)"
+    ]
+  }
+]

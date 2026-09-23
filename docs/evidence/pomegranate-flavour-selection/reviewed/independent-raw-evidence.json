@@ -1,0 +1,578 @@
+{
+  "PMC8471094": {
+    "title": "Chemical Composition, Antioxidant Activity, and Sensory Characterization of Commercial Pomegranate Juices",
+    "tables": [
+      {
+        "id": "antioxidants-10-01381-t001",
+        "caption": "Fruit origin, cultivation method, and technological aspects of the eight commercial PJs.",
+        "rows": [
+          [
+            "Sample Code",
+            "Fruit Cultivation Method",
+            "Fruit Origin",
+            "Juice Production",
+            "Concentration Process",
+            "Stabilization Technology"
+          ],
+          [
+            "ICPJ1",
+            "Conventional",
+            "Unknown",
+            "From concentrate",
+            "Under vacuum water evaporation",
+            "High-Temperature, Short-Time (HTST) Pasteurization"
+          ],
+          [
+            "INCPJ2",
+            "Conventional",
+            "Italy",
+            "Not from concentrate",
+            "\n",
+            "High-Pressure Processing (HPP)"
+          ],
+          [
+            "SNCPJ3",
+            "Conventional",
+            "Italy",
+            "Not from concentrate",
+            "\n",
+            "High-Temperature, Short-Time (HTST) Pasteurization"
+          ],
+          [
+            "INCPJ4",
+            "Organic",
+            "Greece",
+            "Not from concentrate",
+            "\n",
+            "High-Pressure Processing (HPP)"
+          ],
+          [
+            "SCPJ5",
+            "Organic",
+            "Extra UE",
+            "From concentrate juice",
+            "Water evaporation at atmospheric pressure",
+            "High-Temperature, Short-Time (HTST) Pasteurization"
+          ],
+          [
+            "SCPJ6",
+            "Organic",
+            "Extra UE",
+            "From concentrate",
+            "Water evaporation at atmospheric pressure",
+            "High-Temperature, Short-Time (HTST) Pasteurization"
+          ],
+          [
+            "ICPJ7",
+            "Organic",
+            "Extra UE",
+            "From concentrate",
+            "Water evaporation at atmospheric pressure",
+            "High-Temperature, Short-Time (HTST) Pasteurization"
+          ],
+          [
+            "INCPJ8",
+            "Organic",
+            "Italy",
+            "Not from concentrate",
+            "\n",
+            "High-Temperature, Short-Time (HTST) Pasteurization"
+          ]
+        ],
+        "footnote": null
+      },
+      {
+        "id": "antioxidants-10-01381-t002",
+        "caption": "Total phenols, tannins, and their ratios contained in the eight PJs.",
+        "rows": [
+          [
+            "Samples",
+            "Total Phenols (mg/L)",
+            "Tannins (mg/L)",
+            "Tannins/Total Phenols (%)"
+          ],
+          [
+            "ICPJ1",
+            "2181.2 ± 9.8a",
+            "710.0 ± 8.8a",
+            "32.5%"
+          ],
+          [
+            "INCPJ2",
+            "1632.0 ± 15.7b",
+            "394.8 ± 2.8b",
+            "24.2%"
+          ],
+          [
+            "SNCPJ3",
+            "2326.1 ± 15.2c",
+            "694.0 ± 7.5c",
+            "29.8%"
+          ],
+          [
+            "INCPJ4",
+            "2736.3 ± 8.7d",
+            "601.2 ± 1.6d",
+            "22.0%"
+          ],
+          [
+            "SCPJ5",
+            "1379.9 ± 8.5e",
+            "520.9 ± 0.9e",
+            "37.7%"
+          ],
+          [
+            "SCPJ6",
+            "2181.9 ± 31.6a",
+            "787.6 ± 5.4f",
+            "36.1%"
+          ],
+          [
+            "ICPJ7",
+            "3748.8 ± 19.8f",
+            "895.2 ± 1.6g",
+            "23.9%"
+          ],
+          [
+            "INCPJ8",
+            "2614.0 ± 16.5g",
+            "722.8 ± 3.6h",
+            "27.7%"
+          ]
+        ],
+        "footnote": "The results are the mean of two different determinations ± standard deviation. Different lowercase letters (a–h) in the column indicate that the data are significantly different with respect to each other (p < 0.001)."
+      },
+      {
+        "id": "antioxidants-10-01381-t004",
+        "caption": "Anthocyanins (mg/L) of PJs.",
+        "rows": [
+          [
+            "Compounds",
+            "ICPJ1",
+            "INCPJ2",
+            "SNCPJ3",
+            "INCPJ4",
+            "SCPJ5",
+            "SCPJ6",
+            "ICPJ7",
+            "INCPJ8"
+          ],
+          [
+            "Delphinidin 3,5-diglucoside *",
+            "2.4 ± 0.0a",
+            "n.d.",
+            "23.4 ± 0.0b",
+            "13.6 ± 0.1c",
+            "0.5 ± 0.0d",
+            "0.7 ± 0.0e",
+            "0.3 ± 0.0d",
+            "85.0 ± 0.1f"
+          ],
+          [
+            "Cyanidin 3,5-diglucoside",
+            "30.0 ± 0.0a",
+            "n.d.",
+            "29.7 ± 0.1b",
+            "14.7 ± 0.0c",
+            "1.1 ± 0.0d",
+            "1.7 ± 0.0e",
+            "0.5 ± 0.0f",
+            "65.6 ± 0.0g"
+          ],
+          [
+            "Delphinidin 3-glucoside",
+            "0 ± 0",
+            "n.d.",
+            "9.2 ± 0.0a",
+            "12.8 ± 0.0b",
+            "0 ± 0",
+            "0.2 ± 0.0c",
+            "0 ± 0",
+            "62.5 ± 0.1d"
+          ],
+          [
+            "Cyanidin 3-glucoside",
+            "15.1 ± 0.1a",
+            "n.d.",
+            "12.2 ± 0.0b",
+            "18.5 ± 0.0c",
+            "0 ± 0",
+            "0.3 ± 0.0d",
+            "0 ± 0",
+            "67.5 ± 0.0e"
+          ],
+          [
+            "Sum of anthocyanins",
+            "47.7 ± 0.1a",
+            "n.d.",
+            "74.5 ± 0.1b",
+            "59.7 ± 0.1c",
+            "1.6 ± 0.0d",
+            "2.9 ± 0.0e",
+            "0.8 ± 0.0f",
+            "280.6 ± 0.1g"
+          ]
+        ],
+        "footnote": "* The results are the mean of two different determinations ± standard deviation. Different lowercase letters (a–g) in line indicate that the data are significantly different from each other (p < 0.05)."
+      }
+    ]
+  },
+  "PMC11941192": {
+    "title": "Study on the Effects of Tannase on the De Astringency of Pomegranate Juice",
+    "tables": [
+      {
+        "id": "foods-14-00985-t001",
+        "caption": "Orthogonal experimental conditions.",
+        "rows": [
+          [
+            "Level",
+            "Factor"
+          ],
+          [
+            "A Time/(min)",
+            "B Temperature/°C",
+            "C Enzyme Dosage/(U: 100 mL)"
+          ],
+          [
+            "1",
+            "75",
+            "29",
+            "27.7"
+          ],
+          [
+            "2",
+            "90",
+            "30",
+            "30.8"
+          ],
+          [
+            "3",
+            "105",
+            "31",
+            "33.9"
+          ]
+        ],
+        "footnote": null
+      },
+      {
+        "id": "foods-14-00985-t002",
+        "caption": "Sensory evaluation criteria.",
+        "rows": [
+          [
+            "Project",
+            "Scoring Criteria",
+            "Full Marks"
+          ],
+          [
+            "Color",
+            "Aurantiacus, Uniformly distributed",
+            "10"
+          ],
+          [
+            "Taste",
+            "Moderately sweet and sour, smooth texture",
+            "10"
+          ],
+          [
+            "Flavor",
+            "Mild fruit and vegetable aroma",
+            "10"
+          ],
+          [
+            "Acceptability",
+            "Degree of liking",
+            "10"
+          ]
+        ],
+        "footnote": null
+      },
+      {
+        "id": "foods-14-00985-t003",
+        "caption": "Orthogonal experimental results.",
+        "rows": [
+          [
+            "Experiment Number",
+            "Factor",
+            "Punicalagin Concentration (g/L)",
+            "Ellagic Acid Concentration (g/L)",
+            "Gallic Acid Concentration (g/L)"
+          ],
+          [
+            "ATime/min",
+            "BTemperature/℃",
+            "CEnzyme Dosage/(mL: 100 mL)",
+            "DBlank"
+          ],
+          [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "3.927",
+            "0.130",
+            "2.357"
+          ],
+          [
+            "2",
+            "1",
+            "2",
+            "2",
+            "2",
+            "3.808",
+            "0.132",
+            "2.362"
+          ],
+          [
+            "3",
+            "1",
+            "3",
+            "3",
+            "3",
+            "3.805",
+            "0.137",
+            "2.576"
+          ],
+          [
+            "4",
+            "2",
+            "1",
+            "2",
+            "3",
+            "3.704",
+            "0.142",
+            "2.382"
+          ],
+          [
+            "5",
+            "2",
+            "2",
+            "3",
+            "1",
+            "3.346",
+            "0.143",
+            "2.346"
+          ],
+          [
+            "6",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3.854",
+            "0.131",
+            "1.896"
+          ],
+          [
+            "7",
+            "3",
+            "1",
+            "3",
+            "2",
+            "3.660",
+            "0.139",
+            "2.478"
+          ],
+          [
+            "8",
+            "3",
+            "2",
+            "1",
+            "3",
+            "3.566",
+            "0.137",
+            "2.484"
+          ],
+          [
+            "9",
+            "3",
+            "3",
+            "2",
+            "1",
+            "3.610",
+            "0.133",
+            "2.446"
+          ],
+          [
+            "K1j",
+            "3.847",
+            "3.764",
+            "3.782",
+            "\n",
+            "\n",
+            "\n",
+            "\n"
+          ],
+          [
+            "K2j",
+            "3.635",
+            "3.573",
+            "3.707",
+            "\n",
+            "\n",
+            "\n",
+            "\n"
+          ],
+          [
+            "K3j",
+            "3.612",
+            "3.756",
+            "3.604",
+            "\n",
+            "\n",
+            "\n",
+            "\n"
+          ],
+          [
+            "R",
+            "0.235",
+            "0.191",
+            "0.178",
+            "\n",
+            "\n",
+            "\n",
+            "\n"
+          ],
+          [
+            "k1j",
+            "0.132",
+            "0.137",
+            "0.132",
+            "\n",
+            "\n",
+            "\n",
+            "\n"
+          ],
+          [
+            "k2j",
+            "0.139",
+            "0.138",
+            "0.135",
+            "\n",
+            "\n",
+            "\n",
+            "\n"
+          ],
+          [
+            "k3j",
+            "0.136",
+            "0.134",
+            "0.140",
+            "\n",
+            "\n",
+            "\n",
+            "\n"
+          ],
+          [
+            "R",
+            "0.007",
+            "0.004",
+            "0.008",
+            "\n",
+            "\n",
+            "\n",
+            "\n"
+          ],
+          [
+            "k’1j",
+            "2.432",
+            "2.406",
+            "2.246",
+            "\n",
+            "\n",
+            "\n",
+            "\n"
+          ],
+          [
+            "k’2j",
+            "2.208",
+            "2.397",
+            "2.396",
+            "\n",
+            "\n",
+            "\n",
+            "\n"
+          ],
+          [
+            "k’3j",
+            "2.469",
+            "2.306",
+            "2.467",
+            "\n",
+            "\n",
+            "\n",
+            "\n"
+          ],
+          [
+            "R",
+            "0.261",
+            "0.100",
+            "0.221",
+            "\n",
+            "\n",
+            "\n",
+            "\n"
+          ]
+        ],
+        "footnote": null
+      },
+      {
+        "id": "foods-14-00985-t004",
+        "caption": "Sensory evaluation results of different enzymatic hydrolysis times.",
+        "rows": [
+          [
+            "",
+            "Time/min",
+            "0",
+            "30",
+            "60",
+            "90",
+            "120"
+          ],
+          [
+            "Project",
+            ""
+          ],
+          [
+            "Color",
+            "Bright(7.24 ± 0.6)",
+            "Bright (7.20 ± 0.4)",
+            "Bright and uniform(7.12 ± 0.3)",
+            "Bright and uniform(7.02 ± 0.3)",
+            "Bright but slightly deep(6.80 ± 0.4)"
+          ],
+          [
+            "Taste",
+            "Distinct bitterness(5.40 ± 0.3)",
+            "Distinct bitterness(6.13 ± 0.4)",
+            "Medium bitterness(7.48 ± 0.5)",
+            "Mild astringency(8.53 ± 0.2)",
+            "Mild astringency(8.60 ± 0.5)"
+          ],
+          [
+            "Flavor",
+            "Marked characteristic flavor(7.79 ± 0.4)",
+            "Marked characteristic flavor(7.20 ± 0.3)",
+            "Marked characteristic flavor(6.87 ± 0.3)",
+            "Slightly reduced characteristic flavor6.80 ± 0.4)",
+            "Diminished distinctive flavor6.58 ± 0.2)"
+          ],
+          [
+            "Acceptability",
+            "Unacceptable(4.48 ± 0.2)",
+            "Slightly acceptable(5.24 ± 0.4)",
+            "Moderately acceptable(6.93 ± 0.6)",
+            "Acceptable(7.92 ± 0.3)",
+            "Acceptable(7.94 ± 0.2)"
+          ]
+        ],
+        "footnote": null
+      }
+    ],
+    "dispersion_definition_search": {
+      "standard deviation": 0,
+      "standard error": 0
+    }
+  },
+  "endpoint_assertions": "PASS"
+}

@@ -22,6 +22,7 @@ const { post } = Astro.props;
 const { Content, headings } = await post.render();
 const isCentellaStability = post.slug.endsWith('/centella-cold-process-stability');
 const isCitrusBitterness = post.slug.endsWith('/citrus-delayed-bitterness');
+const isPomegranate = post.slug.endsWith('/pomegranate-flavour-selection');
 const isAcacia = post.slug.endsWith('/acacia-fibre-emulsification');
 const isAstaxanthin = post.slug.endsWith('/astaxanthin-beverage-stability');
 const isChicory = post.slug.endsWith('/chicory-fibre-selection');
@@ -60,7 +61,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
   heroTitle={post.data.title}
   heroSubtitle={guideCategory[lang].title}
 >
-  <article class:list={["section-padding", {"acacia-reader": isAcacia, "citrus-delayed-bitterness-reader": isCitrusBitterness, "astaxanthin-reader": isAstaxanthin, "chicory-reader": isChicory, "vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
+  <article class:list={["section-padding", {"pomegranate-reader": isPomegranate, "acacia-reader": isAcacia, "citrus-delayed-bitterness-reader": isCitrusBitterness, "astaxanthin-reader": isAstaxanthin, "chicory-reader": isChicory, "vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
     <div class="container-wide max-w-4xl">
       <!-- Breadcrumb -->
       <nav aria-label="Breadcrumb" class="mb-8 text-sm">
@@ -188,7 +189,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
       {isAcacia && <nav aria-label="Related application reading" class="mt-12 border-t pt-8"><h2 class="text-xl font-semibold mb-4">Related application reading</h2><ul class="space-y-3"><li><a class="text-primary underline" href="/solutions/food">Food applications</a></li><li><a class="text-primary underline" href="/solutions/beverages">Beverage applications</a></li></ul></nav>}
 
       <!-- CTA -->
-      {!isCitrusBitterness && !isAcacia && !isAstaxanthin && !isChicory && !isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
+      {!isPomegranate && !isCitrusBitterness && !isAcacia && !isAstaxanthin && !isChicory && !isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
         <h3 class="text-xl font-display font-bold text-gray-900">Interested in our botanical extracts?</h3>
         <p class="text-gray-600 mt-2">Contact us for samples, technical documentation, or custom formulation support.</p>
         <a
@@ -203,6 +204,11 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
 </PageLayout>
 
 <style>
+  .pomegranate-reader :global([id]) {scroll-margin-top:100px}
+  .pomegranate-reader :global(nav ol) {flex-wrap:wrap}
+  .pomegranate-reader :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}
+  .pomegranate-reader :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}
+
   .citrus-delayed-bitterness-reader :global([id]) {scroll-margin-top:100px}
   .citrus-delayed-bitterness-reader :global(nav ol) {flex-wrap:wrap}
   .citrus-delayed-bitterness-reader :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}
