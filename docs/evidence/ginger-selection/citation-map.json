@@ -1,0 +1,30 @@
+[
+  {
+    "approved_id": 1,
+    "native_anchor": "ginger-ref-1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8871348/fullTextXML",
+    "title": "Effects of High-Pressure, Hydrothermal, and Enzyme-Assisted Treatment on the Taste and Flavor Profile of Water-Soluble Ginger (Zingiber officinale) Extract",
+    "review_ledger": "reviewed/ledger.json"
+  },
+  {
+    "approved_id": 2,
+    "native_anchor": "ginger-ref-2",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8427268/fullTextXML",
+    "title": "Pungent and volatile constituents of dried Australian ginger",
+    "review_ledger": "reviewed/ledger.json"
+  },
+  {
+    "approved_id": 3,
+    "native_anchor": "ginger-ref-3",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12195494/fullTextXML",
+    "title": "Effect of Thermal Processing by Spray Drying on Key Ginger Compounds",
+    "review_ledger": "reviewed/ledger.json"
+  },
+  {
+    "approved_id": 4,
+    "native_anchor": "ginger-ref-4",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6099745/fullTextXML",
+    "title": "Formation of 6-, 8- and 10-Shogaol in Ginger through Application of Different Drying Methods: Altered Antioxidant and Antimicrobial Activity",
+    "review_ledger": "reviewed/ledger.json"
+  }
+]

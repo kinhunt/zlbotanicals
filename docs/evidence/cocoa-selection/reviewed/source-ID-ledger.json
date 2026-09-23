@@ -1,0 +1,124 @@
+[
+  {
+    "source_id": 1,
+    "url": "https://shop.ofi.com/media/wysiwyg/D-11-A_4.pdf",
+    "title": "deZaan D-11-A TDS 2024 and indicative nutrition 2025",
+    "source_date": "2024-01-01 / 2025-01-01",
+    "archive_access_date": "2026-09-23",
+    "primary_archive": "evidence/d11a-spec.pdf",
+    "primary_sha256": "dd80bdf6586b808bceb189383b87c6b6d68c6d50f39f280d82a123f31a960c9a",
+    "text_archive": "evidence/d11a-spec.txt",
+    "text_sha256": "fcf167affe58516788e2c997a7a9a74626bc1237e07f2f4870f53b7833eb9959",
+    "locator": "PDF physical pages 1–2; technical and indicative nutrition tables",
+    "quotes": [
+      {
+        "text": "pH (in 10% solution) 7.0 – 7.4 ICA 15/1972\nFineness (through 75 µm sieve) 99.5% min. ICA 38/1990 (Water suspension)\nMoisture content 5.0% max. ICA 1/1952",
+        "added": "2026-09-23"
+      },
+      {
+        "text": "D-11-A\n1-Jan-2024\n1-Jan-2023\nKosher Halal\n10.0 – 12.0%\nPage 1 of 1",
+        "added": "2026-09-23"
+      },
+      {
+        "text": "Main components Minerals\nTotal Fat 11,0 g/100g Calcium 150 mg/100g\nMoisture 4,0 g/100g Chloride 10 mg/100g\nProtein 22,0 g/100g Magnesium 550 mg/100g\nTotal carbohydrates* 51,1 g/100g Phosphorous 700 mg/100g\nTheobromine 2,1 g/100g Potassium 3400 mg/100g\nCaffeine 0,2 g/100g Sodium 30 mg/100g\nAsh 9,6 g/100g Iron 35 mg/100g\nZinc 7 mg/100g",
+        "added": "2026-09-23"
+      },
+      {
+        "text": "Dietary Fiber 32,0 g/100g Energy 285 kcal/100g\n-   Soluble fiber 5,5 g/100g Energy from fat 99 kcal/100g\n-   Insoluble fiber 26,5 g/100g\nStarch 11,5 g/100g",
+        "added": "2026-09-23"
+      },
+      {
+        "text": "Nutrient content information is indicative of composition but not intended as definitive or complete. It is not intended for use in determining specific nutrient labeling values in finished \nproducts containing this ingredient as the responsibility for determining label information lies with the finished product manufacturer.",
+        "added": "2026-09-23"
+      },
+      {
+        "text": "D-11-A\n1-Jan-2025\n1-Feb-2022",
+        "added": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "source_id": 2,
+    "url": "https://shop.dezaan.com/s8.html",
+    "title": "deZaan S8 supplier product specification",
+    "source_date": null,
+    "archive_access_date": "2026-09-23",
+    "primary_archive": "evidence/s8.html",
+    "primary_sha256": "8d9c03d53c287081d1a1962e0b403d027ca84e1e45636b95c06e2a803ae99b7e",
+    "text_archive": "evidence/s8.txt",
+    "text_sha256": "91300b17b44a5ff0a84782c60d96085022c8cf696bd23d19606e6a9cbaf9e10e",
+    "locator": "Physical & Chemical Overview; product section only",
+    "quotes": [
+      {
+        "text": "Physical & Chemical Overview\npH\n7.9 - 8.3\npH Range\nHighly Dutched ( > 8)\nFat Content\n10-12%\nCocoa Color\nRed",
+        "added": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "source_id": 3,
+    "url": "https://barry-callebaut.com/en/manufacturers/products/bensdorp-acticoa/100-F017906-AC-722",
+    "title": "Bensdorp Acticoa SKU 100-F017906-AC-722",
+    "source_date": null,
+    "archive_access_date": "2026-09-23",
+    "primary_archive": "evidence/acticoa-extracted.txt",
+    "primary_sha256": "eeeb5ef1f90ac27079e0c21e92507e79126bbdbc05abe8238142fb430fefa989",
+    "text_archive": "evidence/acticoa-extracted.txt",
+    "text_sha256": "eeeb5ef1f90ac27079e0c21e92507e79126bbdbc05abe8238142fb430fefa989",
+    "locator": "Main SKU description and Characteristics; excludes recommendations",
+    "quotes": [
+      {
+        "text": "Cocoa powder with naturally preserved cocoa flavanols. The cocoa flavanols help maintain the elasticity of blood vessels, which contributes to normal blood flow. This cocoa powder has a slightly bitter flavor and a light brown color.\n## Key features\n* range\n* Cocoa\n* Cocoa Powder\n* Certifications\n* Made with Finest Cocoa Beans\n* NK\n* SKU code\n100-F017906-AC-722\n## Product\nActicoa\n## Characteristics\n* Fineness\n1\n* pH\n6.8-7.5 (Light alkalized)",
+        "added": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "source_id": 4,
+    "url": "https://www.fsai.ie/getattachment/cdda55c2-960f-4e26-96c2-d824971b59a3/2015-cocoa-extract.pdf?lang=en-IE",
+    "title": "FSAI cocoa extract substantial equivalence opinion August 2015",
+    "source_date": "2015-08",
+    "archive_access_date": "2026-09-23",
+    "primary_archive": "evidence/fsai.pdf",
+    "primary_sha256": "9134e7f266a4edb5ec6648124d3f749150be57e63f247a7e5f586f5a81a9d868",
+    "text_archive": "evidence/fsai.txt",
+    "text_sha256": "1065f36ea9213a5ed006b966bd5dc9cd2dc70b9a04364242cb4e0c6edf90c026",
+    "locator": "PDF pages 1–3: Introduction, Composition, Intended Uses, Conclusions",
+    "quotes": [
+      {
+        "text": "The production process for the cocoa extract \nand the cocoa powder by Mars is identical, except for the additional extraction step \nused to produce the cocoa extract. Processing is carried out to GMP standards and in \naccordance with HACCP principles. The applicant  uses Indonesian coc oa beans \n(Theobroma cacao L.), from which their Cocoapro® production process produces the \ndefatted cocoa cake . The defatted cocoa cake is then either milled to produce cocoa \npowder or else extracted with aqueous acetone to produce the cocoa extract.",
+        "added": "2026-09-23"
+      },
+      {
+        "text": "The specifications for the cocoa extract and cocoa powder  are provided along with \ndetailed analytical compositional data. A few  differences are evident in the cocoa \nextract such as the presence of silicon dioxide (1% max.) as a processing aid  and the \nrelatively higher content of caffeine, theobromine and flavanols . In addition, a slight \n\n \n2 August 2015 - Food Safety Authority of Ireland \n \nreduction is observed in the l evels of ash, protein, fat, dietary  fibre, iron, sodium and \ncalcium.",
+        "added": "2026-09-23"
+      },
+      {
+        "text": "The cocoa extract  is intended as an alternative  source of cocoa flava nols to Mars’ \ncocoa powder which is currently on the EU market. The applicant proposes to provide \ncocoa extract at  levels of up to  730 mg per serving (375  mg cocoa flavanols)  or 1.2 \ng/day for use as a functional ingredient in foods and food supplements . They will \nadvise that consumers should avoid consuming more than 600  mg of cocoa flavanols \nper day.",
+        "added": "2026-09-23"
+      },
+      {
+        "text": "Having reviewed the information provided by the applicant  in the original application \ndossier and subsequent clarifications , the FSAI is satisfied that under the proposed \nuses and use levels, cocoa extract (Coc oa Via®) produced by Mars Symbioscience is \nsubstantially equiv alent to Mars ’ natural cocoa powder in terms of composition, \nnutritional value, metabolism, intended use and level of undesirable substances.",
+        "added": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "source_id": 5,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:18710243&format=json&resultType=core",
+    "title": "Miller et al. 2008 cocoa alkalization study abstract via Europe PMC",
+    "source_date": "2008",
+    "archive_access_date": "2026-09-23",
+    "primary_archive": "evidence/miller-europepmc.json",
+    "primary_sha256": "cce67c9882ff5680bba92e5f9cdbb07b14b97b43bf72e0f1ab22e6b75e688911",
+    "text_archive": "evidence/miller-abstract.txt",
+    "text_sha256": "5fcb0ba64874567720a00ff46ea823fdce21cf634d89dc98c47ded6c2f3d739e",
+    "locator": "resultList.result[0].abstractText; primary study abstract",
+    "quotes": [
+      {
+        "text": "Cocoa is a food ingredient that is important for the contribution of flavor to foods but is also associated with potential health benefits. The chemistry thought to be responsible for its cardiovascular health benefits is the flavanol (flavan-3-ol) antioxidants. Evidence from the literature indicates that natural cocoas are high in flavanols, but when the cocoa is processed with alkali, also known as Dutch processing or Dutching, the flavanols are substantially reduced. This paper provides a survey of the physical and chemical composition of representative natural cocoas and lightly, medium, and heavily alkalized cocoas. As part of the survey, both brown/black and red/brown alkali-processed cocoas were measured. Natural cocoa powders have an extractable pH of 5.3-5.8. Alkalized cocoa powders were grouped into lightly treated (pH 6.50-7.20), medium-treated (pH 7.21-7.60), and heavily treated (pH 7.61 and higher). The natural, nonalkalized powders had the highest ORAC and total polyphenols and flavanols (including procyanidins). These chemical measurements showed a linear decrease as the extractable pH of the cocoa powder increased. Likewise, the flavanol monomers, oligomers, and polymers all showed a linear decrease with increasing pH of the final cocoa powder. When brown/black cocoa powders were compared to red cocoa powders, similar decreases in flavanols were observed with increased alkalization. The average total flavanol contents were 34.6 +/- 6.8 mg/g for the natural cocoas, 13.8 +/- 7.3 mg/g for the lightly processed cocoas, 7.8 +/- 4.0 mg/g for the medium processed cocoas, and 3.9 +/- 1.8 mg/g for the heavily processed cocoa powders. The observed linear and predictable impact of alkalization on flavanol content is discussed with respect to other reports in the literature as well as what implications it may have on diet and food manufacturing.",
+        "added": "2026-09-23"
+      }
+    ]
+  }
+]

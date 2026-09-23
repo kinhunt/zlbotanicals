@@ -1,0 +1,278 @@
+[
+  {
+    "file": "en/acacia-fibre-emulsification.md",
+    "sha256": "f34761e34bebd22d7885b3407557ce61c146f827b77bd01530b33cbe138d7a4c",
+    "frontmatter": "\ntitle: \"The same gum arabic, different formulation goals: fibre enrichment and food emulsions\"\nlang: \"en\"\npublishDate: \"2026-09-23\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\ntags: [\"Acacia gum\", \"Fibre\", \"Emulsification\"]\ndescription: \"Compare acacia gum fibre specifications, three original retail samples and condition-specific emulsion evidence without confusing dry-basis fibre with emulsification performance.\"\nrelatedProducts: []\nrelatedSolutions: [\"food\", \"beverages\"]\nrelatedIndustries: [\"food\", \"beverages\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/astaxanthin-beverage-stability.md",
+    "sha256": "1b5558c604408a44683773ff9a764ef63133f8f91a21257095d38aa592718dfc",
+    "frontmatter": "\ntitle: \"Astaxanthin drinks: choosing interfaces for liquid and powder formats\"\nlang: \"en\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\ntags: [\"Astaxanthin\", \"Beverage formulation\"]\ndescription: \"Compare astaxanthin beverage research on orange-red dispersions, spray-drying retention and interface preparation for liquid drinks and reconstituted powders.\"\nrelatedProducts: []\nrelatedSolutions: []\nrelatedIndustries: [\"beverages\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/centella-cold-process-stability.md",
+    "sha256": "bfcc594851301c77612d65fdfca31cc27b8e3426191a2bd3f13d8ac539ade83c",
+    "frontmatter": "\ntitle: \"Centella cold-process stability: why a better zeta potential can coexist with a changing emulsion\"\nlang: \"en\"\npublishDate: \"2026-09-20\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"cosmetics\"]\ntags: [\"Centella\", \"cold process\", \"stability\"]\ndescription: \"Separate dilution-dependent zeta potential, 84-day physical stability, marker assays and released mass in a Centella cold-process formulation study.\"\nrelatedProducts: [\"centella-asiatica\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/chicory-fibre-selection.md",
+    "sha256": "72af927eff5ce8dad38fd2d7438e4757014ca24924156e01400e5b3125c694ac",
+    "frontmatter": "\ntitle: \"Buying chicory root fibre: choose the job before the inulin grade\"\nlang: \"en\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\ntags: [\"Chicory fibre\", \"Formulation\"]\ndescription: \"Choose chicory fibre by food task, processing route and as-supplied fibre basis—not a generic purity ranking.\"\nrelatedProducts: []\nrelatedSolutions: [\"food\"]\nrelatedIndustries: [\"food\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/citrus-delayed-bitterness.md",
+    "sha256": "83de7da6a266487e8f4cb11141341a448e8231d6ea82423fa2e2fbd504d1de1f",
+    "frontmatter": "\ntitle: \"Why citrus juice turns bitter later: formation rate is not the same as later concentration\"\nlang: \"en\"\npublishDate: \"2026-09-23\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\ntags:  [\"Citrus juice\", \"Delayed bitterness\"]\ndescription: \"Why citrus juice becomes bitter during storage: distinguish limonin formation rate from later concentration when evaluating heat, acid adjustment and solids separation.\"\nrelatedProducts: []\nrelatedSolutions: []\nrelatedIndustries: [\"beverages\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/cranberry-pac-purchasing.md",
+    "sha256": "fbc2b613a95797988f3d4816028dcf5c6e4f3731ad1d90a5bd5457b4178115ed",
+    "frontmatter": "\ntitle: \"Buying cranberry extract: compare the PAC specification before the price\"\nlang: \"en\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"quality-guides\"\ntags: [\"Cranberry\", \"PAC\", \"DMAC\"]\ndescription: \"Compare cranberry material types, PAC assay standards and reporting bases before comparing qualified prices. Includes three historical BL-DMAC results.\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/elderberry-material-selection.md",
+    "sha256": "bc7cc22ebb771ac1d6eace5ab7610fdfeefb9460a05162cf61e5b891f428c28a",
+    "frontmatter": "\ntitle: \"Choosing Elderberry Extract: Why Two 7% Anthocyanin Ingredients May Be Different Materials\"\nlang: \"en\"\npublishDate: \"2026-09-21\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"sourcing-guides\"\nrelatedIndustries: [\"nutraceuticals\", \"beverages\"]\ntags: [\"Elderberry\", \"HighFiber\"]\ndescription: \"Compare real elderberry ingredient specifications and three retail listings: conventional and HighFiber grades, anthocyanin assay methods, carriers and product roles.\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/functional-mushroom-market-2026.md",
+    "sha256": "bbbfbcdf0f9ae9aa80e98aabe764afad13bf9b37876f16186596691368d9cd75",
+    "frontmatter": "\ntitle: \"Reishi Extract Procurement: Identity, Beta-Glucan and COA Review\"\nlang: en\npublishDate: \"2026-09-07\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"quality-guides\"\nrelatedIndustries: [\"beverages\", \"food\", \"nutraceuticals\"]\ntags: [\"procurement\", \"ingredient selection\", \"application testing\"]\ndescription: \"A buyer’s checklist for comparing reishi materials by species, fungal part, analytical method and batch documentation.\"\nimage: /images/blog/functional-mushroom-market.webp\nsources: []\nrelatedProducts:\n  - reishi-mushroom\nrelatedSolutions:\n  - reishi-sleep-gummy\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/ginseng-heat-bitterness.md",
+    "sha256": "f5a436e1b2d429e1a2a7075145e231e5407338ee0165336e88b51986ab56bf0d",
+    "frontmatter": "\ntitle: \"Ginseng beverages after heat processing: why total ginsenosides and a cold taste test are not enough\"\nlang: \"en\"\npublishDate: \"2026-09-20\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"ginseng\", \"sensory testing\", \"heat processing\"]\ndescription: \"Why ginsenoside recovery and bitterness need separate checks after processing: milk and model-solution evidence, limits and a controlled trial framework.\"\nrelatedProducts: [\"ginseng\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/green-tea-energy-beverage-2026.md",
+    "sha256": "728915b640eadfa680b69184a046a0cae8938043daadcbbd19507870c418532e",
+    "frontmatter": "\ntitle: \"Buying Green Tea Extract for RTD Beverages: A Practical Checklist\"\nlang: en\npublishDate: \"2026-09-07\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"procurement\", \"ingredient selection\", \"application testing\"]\ndescription: \"How to compare EGCG, caffeine, sensory quality and processing fit before choosing a green tea extract for beverages.\"\nimage: /images/blog/green-tea-energy-beverage-2026.webp\nsources: []\nrelatedProducts:\n  - green-tea\n  - monk-fruit\n  - ginseng\nrelatedSolutions:\n  - green-tea-energy-sparkling\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/hesperidin-material-choice.md",
+    "sha256": "a1231497781ed5fb1e798101616f0311e88cc6de7f6b208e060430b7dbfc0f14",
+    "frontmatter": "\ntitle: \"Hesperidin or glucosyl hesperidin? Choose the material before comparing the assay\"\nlang: \"en\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"Hesperidin\", \"Glucosyl hesperidin\"]\ndescription: \"Compare hesperidin, glucosyl hesperidin and protein preparations: four ecommerce examples, assay bases, aqueous evidence and dated EU sourcing conditions.\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/hibiscus-color-endpoints.md",
+    "sha256": "fe735b2c8cd4465bf4f40ea817a6acaffb42c0014e29de11ff7ec21374f9c836",
+    "frontmatter": "\ntitle: \"Hibiscus in fruit drinks: color stability needs more than an anthocyanin assay\"\nlang: \"en\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"Hibiscus\", \"Color\"]\ndescription: \"Research on roselle fruit drinks distinguishes visible color, L*, a*, b* and monomeric anthocyanin measurements, with study-specific limits.\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/paprika-extract-format-selection.md",
+    "sha256": "888cfd48d351b85e9d42eb16a14e949f5004b73502481c0d953c502653371ab5",
+    "frontmatter": "\ntitle: \"Choosing Paprika Extract: Oil-Based Colour or Water-Dispersible Preparation?\"\nlang: \"en\"\npublishDate: \"2026-09-21\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"sourcing-guides\"\nrelatedIndustries: [\"food\"]\ntags: [\"Paprika\", \"Food colour\"]\ndescription: \"Choose oil-standardized or water-dispersible paprika preparations for food applications. Keep colour strength, carotenoid composition and pungency separate.\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/pomegranate-flavour-selection.md",
+    "sha256": "6505441c7ed879a61be92670d9e06667cd3f2b1a4e907d9919587405a28bb7c4",
+    "frontmatter": "\ntitle: \"Choosing pomegranate juice for beverages: fruit character, astringency and polyphenols can pull apart\"\nlang: \"en\"\npublishDate: \"2026-09-23\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\ntags: [\"Pomegranate\", \"Beverages\"]\ndescription: \"Choose pomegranate juice by aroma direction, colour and drying mouthfeel: commercial-juice and tannase studies separate sensory trade-offs from polyphenol specifications.\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/reishi-sleep-market-2026.md",
+    "sha256": "bc9572a106b5b59fd67a927b528e656775bf68b3d923b15b45ddc558c6b87fed",
+    "frontmatter": "\ntitle: \"Reishi Gummy Buyer’s Guide: From Ingredient Brief to Pilot Review\"\nlang: en\npublishDate: \"2026-09-07\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"nutraceuticals\"]\ntags: [\"procurement\", \"ingredient selection\", \"application testing\"]\ndescription: \"How to evaluate reishi ingredients for gummy development without confusing composition, sensory trials and sleep claims.\"\nimage: /images/blog/reishi-sleep-market-2026.webp\nsources: []\nrelatedProducts:\n  - reishi-mushroom\n  - goji-berry\n  - green-tea\nrelatedSolutions:\n  - reishi-sleep-gummy\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/saffron-identity.md",
+    "sha256": "d2f16e7cdbdb1f5644ad209b13bebc5cfe9ba46126263dd09afc3df574bbcddc",
+    "frontmatter": "\ntitle: \"Buying saffron ingredients: why composition, grade and authenticity need different evidence\"\nlang: \"en\"\npublishDate: \"2026-09-21\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"sourcing-guides\"\ntags: [\"Saffron\", \"Authenticity\"]\ndescription: \"A research guide to saffron identity, optical grading and targeted authenticity screening: interpret powder studies without assuming extract validation.\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/stevia-temporal-sensory.md",
+    "sha256": "bf31ff0dffd6c2e240c82d2c43fd71b6a0743e891cdd6423a1e0296939a249e9",
+    "frontmatter": "\ntitle: \"Stevia Aftertaste: Test Sweetness in the Mouth, at 5 Seconds and at 60 Seconds\"\nlang: \"en\"\npublishDate: \"2026-09-20\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"stevia\", \"sensory testing\", \"Reb M\", \"aftertaste\"]\ndescription: \"Separate sweetness from bitterness at three defined moments. A practical stevia beverage screening method, study interpretation and blank sensory worksheet.\"\nrelatedProducts: [\"stevia\"]\nrelatedSolutions: [\"botanical-sweetener-rtd\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/tea-haze-diagnosis.md",
+    "sha256": "3c05c917f09ef3083d4ea299716d6c6df87c100643d48732f3f84d7215852af1",
+    "frontmatter": "\ntitle: \"Why Tea Drinks Turn Cloudy in the Fridge: A Water, Reconstitution and Cold-Storage Diagnostic\"\nlang: \"en\"\npublishDate: \"2026-09-20\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"tea haze\", \"water quality\", \"reconstitution\"]\ndescription: \"Distinguish cold tea haze, powder lumps, browning and surface film with a proposed water × reconstitution × storage development screen.\"\nrelatedProducts: [\"green-tea\"]\nrelatedSolutions: [\"green-tea-energy-sparkling\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/turmeric-golden-milk-market-2026.md",
+    "sha256": "40373777bf2d38a7137dd83861430af96006c6b46c41806446139bef29d910bc",
+    "frontmatter": "\ntitle: \"Choosing Turmeric for Latte Premixes: Powder, Extract or Dispersion?\"\nlang: en\npublishDate: \"2026-09-07\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"ingredient-guides\"\nrelatedIndustries: [\"beverages\", \"food\"]\ntags: [\"procurement\", \"ingredient selection\", \"application testing\"]\ndescription: \"A practical guide to turmeric identity, curcuminoid assays, carriers and reconstitution testing for latte development.\"\nimage: /images/blog/turmeric-golden-milk-market.webp\nsources: []\nrelatedProducts:\n  - turmeric\nrelatedSolutions:\n  - turmeric-golden-latte\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/uk-sdil-milk-tea-2028.md",
+    "sha256": "d084d7b079ef93ebf619f87841d00c1349b5919b99c01388f1c62d68ea8f6c46",
+    "frontmatter": "\ntitle: \"UK milk tea and plant-based drinks: current SDIL rules and proposed 2028 changes\"\nlang: \"en\"\npublishDate: \"2026-09-20\"\ncategory: \"industry-news\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"SDIL\", \"UK\", \"2028\"]\ndescription: \"Current UK SDIL product scope for milk tea and plant-based drinks, proposed 2028 changes, lactose evidence and a blank SKU worksheet.\"\nrelatedProducts: [\"green-tea\", \"stevia\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/vanilla-authentication.md",
+    "sha256": "01183ab1501d6bd52d8338d0388eb5fd7adbb0dd4240ebc16a34f0c5667a51d4",
+    "frontmatter": "\ntitle: \"What Vanilla Isotope Testing Can Tell You—and Why It Is Not a Country-of-Origin Certificate\"\nlang: \"en\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"quality-guides\"\ntags: [\"Vanilla\", \"Authentication\"]\ndescription: \"Read a ten-sample vanilla study: VOC abundance, isotope ratios and ethyl-vanillin tests answer different questions, not a validated country-of-origin guarantee.\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/vanilla-material-choice.md",
+    "sha256": "e73e4fcd02993e7303fde1592ba2a50b314b20d3df269c443ad5876fa4fecfc7",
+    "frontmatter": "\ntitle: \"Buying Vanilla Powder: Ground Beans, Extract-Based Powder, or a Different Product?\"\nlang: \"en\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"quality-guides\"\ntags: [\"Vanilla\", \"Material identity\"]\ndescription: \"Compare ground vanilla beans, extract-based powder and bean paste using manufacturer declarations and US identity standards—not a purity ranking.\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "en/zero-calorie-sweetener-market-2026.md",
+    "sha256": "77a2ad0582b9e5ad3c85e3daa00bf7bf0fb0536fe0ffc7a963a036cb26c7e8ad",
+    "frontmatter": "\ntitle: \"Monk Fruit and Stevia: A Buyer’s Guide to Beverage Sweetener Trials\"\nlang: en\npublishDate: \"2026-09-07\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"sourcing-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"procurement\", \"ingredient selection\", \"application testing\"]\ndescription: \"Compare sweetener composition, carriers, aftertaste and destination-market requirements before approving a beverage blend.\"\nimage: /images/blog/zero-calorie-sweetener-market-2026.webp\nsources: []\nrelatedProducts:\n  - monk-fruit\n  - stevia\n  - green-tea\nrelatedSolutions:\n  - botanical-sweetener-rtd\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/acacia-fibre-emulsification.md",
+    "sha256": "8d7bed183f96c1c30949345f3234ab0b53460737b5f0710467e245e348e7bb2d",
+    "frontmatter": "\ntitle: \"同是阿拉伯胶，做纤维饮品和食品乳化该怎么选？\"\nlang: \"zh\"\npublishDate: \"2026-09-23\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\ntags: [\"Acacia gum\", \"Fibre\", \"Emulsification\"]\ndescription: \"结合三个原始零售样本、包装声明、商业纤维规格与乳化研究，区分阿拉伯胶的纤维投料和油水体系稳定目标。\"\nrelatedProducts: []\nrelatedSolutions: [\"food\", \"beverages\"]\nrelatedIndustries: [\"food\", \"beverages\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/astaxanthin-beverage-stability.md",
+    "sha256": "17083666cf2105849ed789dadde3a6892377741c69430beb540ac71b7cf6f613",
+    "frontmatter": "\ntitle: \"虾青素饮料开发：液体与粉末如何选择油滴界面\"\nlang: \"zh\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\ntags: [\"虾青素\", \"饮料配方\"]\ndescription: \"从橙红色饮料分散体系、喷雾干燥保留率与界面构建研究，比较虾青素即饮饮料和冲调粉的开发路线。\"\nrelatedProducts: []\nrelatedSolutions: []\nrelatedIndustries: [\"beverages\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/centella-cold-process-stability.md",
+    "sha256": "bb2821d5b611561f555c7dfa7d4ed3e7ae0487a7572db8d6c519bd756c9e8e27",
+    "frontmatter": "\ntitle: \"积雪草冷配乳液稳定性：为什么 Zeta 电位变好，体系仍在变化？\"\nlang: \"zh\"\npublishDate: \"2026-09-20\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"cosmetics\"]\ntags: [\"积雪草\", \"冷配\", \"稳定性\"]\ndescription: \"结合积雪草冷配研究，区分稀释后的Zeta电位、84天物理变化、标志物测定与释放质量，理解初始降黏及不同稳定性指标。\"\nrelatedProducts: [\"centella-asiatica\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/chicory-fibre-selection.md",
+    "sha256": "a61495ee09bb9b9340d79bddc9f0c42fb3d7a64a7bd563d838297d0795d40df0",
+    "frontmatter": "\ntitle: \"菊苣纤维怎么选：先定配方任务，再选菊粉规格\"\nlang: \"zh\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\ntags: [\"菊苣纤维\", \"配方应用\"]\ndescription: \"按食品任务、加工路线与交付态纤维含量选择菊苣纤维，区分速分散、高溶解性与质地构建型原料。\"\nrelatedProducts: []\nrelatedSolutions: [\"food\"]\nrelatedIndustries: [\"food\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/citrus-delayed-bitterness.md",
+    "sha256": "b47521e94e99145bf5e1847df0ef6ce82aace8352340cc3c2a19f267677ca944",
+    "frontmatter": "\ntitle: \"柑橘汁为什么放一段时间才变苦：生成更快，不等于后期含量更高\"\nlang: \"zh\"\npublishDate: \"2026-09-23\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\ntags: [\"柑橘汁\", \"延迟苦味\"]\ndescription: \"柑橘汁放置后为何变苦？结合纽荷尔脐橙与杂交品系研究，区分柠檬苦素生成速度和后期浓度，判断加热、调酸、固形物分离及冷冻留样的影响。\"\nrelatedProducts: []\nrelatedSolutions: []\nrelatedIndustries: [\"beverages\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/cranberry-pac-purchasing.md",
+    "sha256": "39ce6e92660d6e12bc222275944bdfee643356793c5685ddaef0903e790ae0ff",
+    "frontmatter": "\ntitle: \"蔓越莓提取物怎么比价：先把PAC检测规格说清楚\"\nlang: \"zh\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"quality-guides\"\ntags: [\"Cranberry\", \"PAC\", \"DMAC\"]\ndescription: \"比较蔓越莓原料类型、PAC检测标准物与结果基准，再核对通过技术评估的报价；以三个历史BL-DMAC样品说明分母与报告差异。\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/elderberry-material-selection.md",
+    "sha256": "1c10a320c79bbafd302c56a20270b2463732b05087f3cbdab437c1cc8b4118f4",
+    "frontmatter": "\ntitle: \"接骨木提取物怎么选：同样7%花青素，为什么不是同一种原料\"\nlang: \"zh\"\npublishDate: \"2026-09-21\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"sourcing-guides\"\nrelatedIndustries: [\"nutraceuticals\", \"beverages\"]\ntags: [\"Elderberry\", \"HighFiber\"]\ndescription: \"从真实供应商规格与三个零售商品看普通及高纤维接骨木原料，厘清花青素检测方法、载体和成品用途，不只按百分比比较报价。\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/functional-mushroom-market-2026.md",
+    "sha256": "51e5a496d70db529de0f57c639034a2f55b5e802be29036ab995abfd52fa59fa",
+    "frontmatter": "\ntitle: \"灵芝提取物采购：身份、β-葡聚糖与 COA 审查\"\nlang: zh\npublishDate: \"2026-09-07\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"quality-guides\"\nrelatedIndustries: [\"beverages\", \"food\", \"nutraceuticals\"]\ntags: [\"采购\", \"原料选型\", \"应用测试\"]\ndescription: \"按物种、使用部位、检测方法和批次文件比较灵芝原料的采购检查表。\"\nimage: /images/blog/functional-mushroom-market.webp\nsources: []\nrelatedProducts:\n  - reishi-mushroom\nrelatedSolutions:\n  - reishi-sleep-gummy\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/ginseng-heat-bitterness.md",
+    "sha256": "0ed4f5dde6fc70b86dfdd03d3563a9359faffb674d1d7d2a488608b45ead0d45",
+    "frontmatter": "\ntitle: \"人参饮料加工后变苦：为什么总皂苷含量和冷样遮苦都不能单独作决定\"\nlang: \"zh\"\npublishDate: \"2026-09-20\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"人参\", \"感官评价\", \"热加工\"]\ndescription: \"西洋参乳饮与人参模型溶液的感官证据：为什么热后风味与总皂苷回收必须分别评价，以及如何设置小试对照。\"\nrelatedProducts: [\"ginseng\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/green-tea-energy-beverage-2026.md",
+    "sha256": "24385f7f908b2f59fd9eccb67dd836b585e71d05933e04510c0a10f37c586d10",
+    "frontmatter": "\ntitle: \"即饮饮料用绿茶提取物采购检查表\"\nlang: zh\npublishDate: \"2026-09-07\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"采购\", \"原料选型\", \"应用测试\"]\ndescription: \"从 EGCG、咖啡因、感官与工艺适配性比较即饮饮料用绿茶提取物。\"\nimage: /images/blog/green-tea-energy-beverage-2026.webp\nsources: []\nrelatedProducts:\n  - green-tea\n  - monk-fruit\n  - ginseng\nrelatedSolutions:\n  - green-tea-energy-sparkling\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/hesperidin-material-choice.md",
+    "sha256": "1b7d981849dd0718c06657d81e1cc14ef74eb8ab574efe464d511a0d7bc38ae4",
+    "frontmatter": "\ntitle: \"橙皮苷还是葡糖基橙皮苷？先选对材料，再比较含量\"\nlang: \"zh\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"橙皮苷\", \"葡糖基橙皮苷\"]\ndescription: \"从四个电商样本出发，比较橙皮苷、葡糖基橙皮苷与含蛋白橙皮苷制备物的成分、含量口径和水相性能，并梳理欧盟用途限量与供货条件。\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/hibiscus-color-endpoints.md",
+    "sha256": "e08492c7ab0ea7c5bd83f7d93a69f3301ffe6648bb65fdce59cd4afa8cf5081f",
+    "frontmatter": "\ntitle: \"洛神花果汁饮料的颜色稳定性，不能只看花色苷含量\"\nlang: \"zh\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"Hibiscus\", \"Color\"]\ndescription: \"从洛神花复配果汁研究区分外观颜色、L*、a*、b*与单体花色苷测定，并保留实验条件和证据边界。\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/paprika-extract-format-selection.md",
+    "sha256": "dafad56e6955e896656441fc879c96cfb8ba8fe8c1dd16668a127176a2eb86cc",
+    "frontmatter": "\ntitle: \"辣椒红原料怎么选：油基提取物，还是水分散制剂？\"\nlang: \"zh\"\npublishDate: \"2026-09-21\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"sourcing-guides\"\nrelatedIndustries: [\"food\"]\ntags: [\"辣椒红\", \"食品着色\"]\ndescription: \"为食品应用选择油基标准化辣椒红提取物或水分散制剂，分清着色强度、类胡萝卜素组成与辣味指标，再确定询样要求。\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/pomegranate-flavour-selection.md",
+    "sha256": "ea333b88e4495ba7856f13755338b5343e97c5703685e9652f239a7d2004c592",
+    "frontmatter": "\ntitle: \"石榴饮料原料怎么选：果香、涩感和多酚不一定同向变化\"\nlang: \"zh\"\npublishDate: \"2026-09-23\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\ntags: [\"Pomegranate\", \"Beverages\"]\ndescription: \"从市售果汁与单宁酶研究区分石榴香气、颜色、涩感和多酚指标，按成品风味方向安排选样与脱涩试验。\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/reishi-sleep-market-2026.md",
+    "sha256": "878e8fa8e7f14c2a1db2363ceec2cacca834a17fc747a54ce960a41e424b5632",
+    "frontmatter": "\ntitle: \"灵芝软糖采购指南：从原料需求到中试审核\"\nlang: zh\npublishDate: \"2026-09-07\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"nutraceuticals\"]\ntags: [\"采购\", \"原料选型\", \"应用测试\"]\ndescription: \"区分组成、感官试验与睡眠宣称，评价软糖开发所需的灵芝原料。\"\nimage: /images/blog/reishi-sleep-market-2026.webp\nsources: []\nrelatedProducts:\n  - reishi-mushroom\n  - goji-berry\n  - green-tea\nrelatedSolutions:\n  - reishi-sleep-gummy\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/saffron-identity.md",
+    "sha256": "41df044d538e7c3e1aad28781abf80d3a14478cfcd871670f80bd6116b82a1e0",
+    "frontmatter": "\ntitle: \"藏红花原料采购：组成、等级与真实性，需要不同的证据\"\nlang: \"zh\"\npublishDate: \"2026-09-21\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"sourcing-guides\"\ntags: [\"藏红花\", \"真实性\"]\ndescription: \"从两项分析研究理解藏红花原料身份、光学分级与定向真实性筛查，分清粉末实验、提取物适用性及检测结论的边界。\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/stevia-temporal-sensory.md",
+    "sha256": "061aa133df9cad46b2124d33d0f96604e43bf8f3480bd3d8b08a50a30f239044",
+    "frontmatter": "\ntitle: \"甜菊饮品余甜怎么测：分开记录口中、吐样后5秒与60秒\"\nlang: \"zh\"\npublishDate: \"2026-09-20\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"甜菊糖苷\", \"感官评价\", \"Reb M\", \"余甜\"]\ndescription: \"苦味少不等于甜味收得快。结合甜菊糖苷原始研究，设计三个时点的甜苦味筛选，附可下载空白记录表。\"\nrelatedProducts: [\"stevia\"]\nrelatedSolutions: [\"botanical-sweetener-rtd\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/tea-haze-diagnosis.md",
+    "sha256": "3a11adbac85744f008d6f7c1c85b7e7fdcdeb7e84add2f62b775dcff2c88324e",
+    "frontmatter": "\ntitle: \"茶饮冷藏后变浑：如何区分水质、复溶与低温聚集问题\"\nlang: \"zh\"\npublishDate: \"2026-09-20\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"冷后浑\", \"水质\", \"复溶\"]\ndescription: \"区分茶饮冷后浑、粉团、褐变与表面膜，以水质×复溶×储存八条件筛选设计规划下一步研发。\"\nrelatedProducts: [\"green-tea\"]\nrelatedSolutions: [\"green-tea-energy-sparkling\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/turmeric-golden-milk-market-2026.md",
+    "sha256": "13a4817f837a7baf2d3f16cea10f34271fa562b6045b78016413e90bb5a15fe9",
+    "frontmatter": "\ntitle: \"姜黄拿铁预调粉采购：粉末、提取物还是分散体？\"\nlang: zh\npublishDate: \"2026-09-07\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"ingredient-guides\"\nrelatedIndustries: [\"beverages\", \"food\"]\ntags: [\"采购\", \"原料选型\", \"应用测试\"]\ndescription: \"围绕姜黄身份、姜黄素类检测、载体和冲调测试，建立拿铁开发采购要求。\"\nimage: /images/blog/turmeric-golden-milk-market.webp\nsources: []\nrelatedProducts:\n  - turmeric\nrelatedSolutions:\n  - turmeric-golden-latte\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/uk-sdil-milk-tea-2028.md",
+    "sha256": "e09cfbff2691b3f2b6d6d5e2b83b3ff93a70f1fe4809c59b817651f48e14d6c8",
+    "frontmatter": "\ntitle: \"英国奶茶与植物基饮品糖税：现行适用条件与2028年调整方案\"\nlang: \"zh\"\npublishDate: \"2026-09-20\"\ncategory: \"industry-news\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"SDIL\", \"UK\", \"2028\"]\ndescription: \"区分英国奶茶与植物基饮品SDIL现行范围、2028年拟调整方案与乳糖证据要求，附空白成品资料表。\"\nrelatedProducts: [\"green-tea\", \"stevia\"]\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/vanilla-authentication.md",
+    "sha256": "fe8b9ce7f6251ae464b97158dd90ec11278e29b655157e7612839a21d4957b5b",
+    "frontmatter": "\ntitle: \"香草同位素检测能证明什么，为什么它不等于产地证明\"\nlang: \"zh\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"quality-guides\"\ntags: [\"Vanilla\", \"Authentication\"]\ndescription: \"解读十份香草样本研究：挥发性成分比例、同位素比值和乙基香兰素检测各自回答不同问题，不能直接变成产地认证。\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/vanilla-material-choice.md",
+    "sha256": "dd5839c9c91336abada98048d49d879cf72b968247c05533df1e3c899b62d1cb",
+    "frontmatter": "\ntitle: \"香草粉采购：先分清豆荚研磨粉、提取物粉和含籽酱\"\nlang: \"zh\"\npublishDate: \"2026-09-22\"\ncategory: \"research\"\nguideCategory: \"quality-guides\"\ntags: [\"Vanilla\", \"Material identity\"]\ndescription: \"通过品牌披露信息与美国身份标准，区分豆荚研磨料、提取物粉和含籽酱；先定义物料，再比较规格与价格。\"\nrelatedProducts: []\nrelatedSolutions: []\nsources: []\n",
+    "ginger_mentions": []
+  },
+  {
+    "file": "zh/zero-calorie-sweetener-market-2026.md",
+    "sha256": "99f5e2f230cf2d44dee280d529a3ab0c21a3fd13e5124a2d2c31a75ec11c6f25",
+    "frontmatter": "\ntitle: \"罗汉果与甜菊糖苷：饮料甜味剂采购与试样指南\"\nlang: zh\npublishDate: \"2026-09-07\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"sourcing-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"采购\", \"原料选型\", \"应用测试\"]\ndescription: \"采购饮料甜味复配料前，比较糖苷组成、载体、后味及目的地要求。\"\nimage: /images/blog/zero-calorie-sweetener-market-2026.webp\nsources: []\nrelatedProducts:\n  - monk-fruit\n  - stevia\n  - green-tea\nrelatedSolutions:\n  - botanical-sweetener-rtd\n",
+    "ginger_mentions": []
+  }
+]

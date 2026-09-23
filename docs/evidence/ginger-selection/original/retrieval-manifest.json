@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=ginger+drying+volatile+gingerol+shogaol+OPEN_ACCESS%3AY+FIRST_PDATE%3A%5B1900-01-01+TO+2026-09-23%5D&format=json&pageSize=80",
+    "file": "raw/search-0.json",
+    "sha256": "fb5dbcd8bc5a4597c461f4d1b78de6d07c7f2fb525bbd893a9f687b886af8083",
+    "status": 200,
+    "retrieved_utc": "2026-09-23T09:51:37.839260+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3Aginger+AND+%28TITLE_ABS%3Aaroma+OR+TITLE_ABS%3Avolatile%29+AND+%28TITLE_ABS%3Aheating+OR+TITLE_ABS%3Adrying%29+AND+OPEN_ACCESS%3AY+FIRST_PDATE%3A%5B1900-01-01+TO+2026-09-23%5D&format=json&pageSize=80",
+    "file": "raw/search-1.json",
+    "sha256": "6417c45aae878ff7fe9b70ad452ac5020cc93d25347839763dd9a6efe69e0f76",
+    "status": 200,
+    "retrieved_utc": "2026-09-23T09:51:37.981074+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8871348/fullTextXML",
+    "file": "raw/PMC8871348.xml",
+    "sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a",
+    "status": 200,
+    "retrieved_utc": "2026-09-23T09:51:38.452963+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8427268/fullTextXML",
+    "file": "raw/PMC8427268.xml",
+    "sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e",
+    "status": 200,
+    "retrieved_utc": "2026-09-23T09:51:39.037612+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12195494/fullTextXML",
+    "file": "raw/PMC12195494.xml",
+    "sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3",
+    "status": 200,
+    "retrieved_utc": "2026-09-23T09:51:39.443343+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6099745/fullTextXML",
+    "file": "raw/PMC6099745.xml",
+    "sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d",
+    "status": 200,
+    "retrieved_utc": "2026-09-23T09:51:39.884236+00:00"
+  }
+]

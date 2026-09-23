@@ -1,0 +1,74 @@
+[
+  {
+    "source_id": 1,
+    "locator": "d11a-spec.txt",
+    "exact_excerpt": "d Fat content ICA 37/1990 (Extraction with petroleum ether) pH (in 10% solution) 7.0 – 7.4 ICA 15/1972 Fineness (through 75 µm sieve) 99.5% min. ICA 38/1990 (Water suspension) Moisture content 5.0% max. ICA 1/1952 Microbiological characteristics Parameter Value Method Standard plate count (cfu/g) 5000 max. ISO 4833-1 Molds (cfu/g) 50 max. ISO 21527-2 Yeasts (cfu/g) 50 max. ISO 21527-2 Enterobacteriaceae (per g) Negative to test ISO 21528-1 E. coli (per g) Negative to test ISO 166649-3 Salmonella (per 4x37",
+    "match": true
+  },
+  {
+    "source_id": 1,
+    "locator": "d11a-spec.txt",
+    "exact_excerpt": "petroleum ether) pH (in 10% solution) 7.0 – 7.4 ICA 15/1972 Fineness (through 75 µm sieve) 99.5% min. ICA 38/1990 (Water suspension) Moisture content 5.0% max. ICA 1/1952 Microbiological characteristics Parameter Value Method Standard plate count (cfu/g) 5000 max. ISO 4833-1 Molds (cfu/g) 50 max. ISO 21527-2 Yeasts (cfu/g) 50 max. ISO 21527-2 Enterobacteriaceae (per g) Negative to test ISO 21528-1 E. coli (per g) Negative to test ISO 166649-3 Salmonella (per 4x375g)** Negative to test ISO 6579-1 * <3% alk",
+    "match": true
+  },
+  {
+    "source_id": 1,
+    "locator": "d11a-spec.txt",
+    "exact_excerpt": "0g Total carbohydrates* 51,1 g/100g Phosphorous 700 mg/100g Theobromine 2,1 g/100g Potassium 3400 mg/100g Caffeine 0,2 g/100g Sodium 30 mg/100g Ash 9,6 g/100g Iron 35 mg/100g Zinc 7 mg/100g Copper 4 mg/100g Fat Vitamins Saturated fat 6,8 g/100g Vitamin A <50 IU/100g Mono-unsaturated fat 3,8 g/100g Vitamin B1 (thiamine) 0,1 mg/100g Poly-unsaturated fat 0,4 g/100g Vitamin B2 (riboflavin) 0,3 mg/100g Trans fat <0,01 g/100g Vitamin B3 (niacin) 2,0 mg/100g Cholesterol <1 mg/100g Vitamin B5 (pantothenic acid) 1",
+    "match": true
+  },
+  {
+    "source_id": 1,
+    "locator": "d11a-spec.txt",
+    "exact_excerpt": "g - Soluble fiber 5,5 g/100g Energy from fat 99 kcal/100g - Insoluble fiber 26,5 g/100g Starch 11,5 g/100g Organic Acid 4,0 g/100g Sugars 1,0 g/100g - Added sugars 0,0 g/100g * Total carbohydrates are defined here as 100 – (fat + moisture + protein + theobromine + caffeine + ash) ** Energy calculated according to USDA handbook 74 (revised). Caloric values: 9 kcal/g for fat; 4 kcal/g for protein and carbohydrates less the amount of insoluble fiber 7 Straits View · Marina One East Tower #14-01, Singapore 01",
+    "match": true
+  },
+  {
+    "source_id": 2,
+    "locator": "s8.txt",
+    "exact_excerpt": "view Specification Download Physical & Chemical Overview pH 7.9 - 8.3 pH Range Highly Dutched ( > 8) Fat Content 10-12% Cocoa Color Red Microbiological E Coli Negative to Test Salmonella Negative to Test Storage & Shelf Life Storage Between 55-65F (15-20C) The visual richness of this cocoa powder is backed up by its powerful but balanced taste. This eye-catching red brown colored cocoa powder has an intense but balanced taste. It is often selected for its versatility in cereal, dairy and bakery recipes. F",
+    "match": true
+  },
+  {
+    "source_id": 2,
+    "locator": "s8.txt",
+    "exact_excerpt": "iew pH 7.9 - 8.3 pH Range Highly Dutched ( > 8) Fat Content 10-12% Cocoa Color Red Microbiological E Coli Negative to Test Salmonella Negative to Test Storage & Shelf Life Storage Between 55-65F (15-20C) The visual richness of this cocoa powder is backed up by its powerful but balanced taste. This eye-catching red brown colored cocoa powder has an intense but balanced taste. It is often selected for its versatility in cereal, dairy and bakery recipes. Flavor An even and balanced taste profile cocoa powder",
+    "match": true
+  },
+  {
+    "source_id": 3,
+    "locator": "acticoa-extracted.txt",
+    "exact_excerpt": "gle main navigation # Acticoa * Acticoa * Acticoa * Acticoa Cocoa powder with naturally preserved cocoa flavanols. The cocoa flavanols help maintain the elasticity of blood vessels, which contributes to normal blood flow. This cocoa powder has a slightly bitter flavor and a light brown color. ## Key features * range * Cocoa * Cocoa Powder * Certifications * Made with Finest Cocoa Beans * NK * SKU code 100-F017906-AC-722 ## Product Acticoa ## Characteristics * Fineness 1 * pH 6.8-7.5 (Light alkalized) ## S",
+    "match": true
+  },
+  {
+    "source_id": 3,
+    "locator": "acticoa-extracted.txt",
+    "exact_excerpt": "722 ## Product Acticoa ## Characteristics * Fineness 1 * pH 6.8-7.5 (Light alkalized) ## Segments * Confectionery ## Applications * Mixing * Decorating * Flavoring ## Ordering ### Product SKU Order codes * 100-F017906-AC-722 100-F017906-AC-722 22.68kg bag Shelf life: 24 months Certifications: Made with Finest Cocoa Beans , NK ## you might also love 22/24 SR ### 22/24 SR Highly dutched, high fat cocoa powder made from high quality West African cocoa beans. Bensdorp * Bensdorp * range * Cocoa * Cocoa Powder",
+    "match": true
+  },
+  {
+    "source_id": 4,
+    "locator": "fsai.txt",
+    "exact_excerpt": " cake is then either milled to produce cocoa powder or else extracted with aqueous acetone to produce the cocoa extract. Composition The specifications for the cocoa extract and cocoa powder are provided along with detailed analytical compositional data. A few differences are evident in the cocoa extract such as the presence of silicon dioxide (1% max.) as a processing aid and the relatively higher content of caffeine, theobromine and flavanols . In addition, a slight 2 August 2015 - Food Safety Authority",
+    "match": true
+  },
+  {
+    "source_id": 4,
+    "locator": "fsai.txt",
+    "exact_excerpt": "ce of silicon dioxide (1% max.) as a processing aid and the relatively higher content of caffeine, theobromine and flavanols . In addition, a slight 2 August 2015 - Food Safety Authority of Ireland reduction is observed in the l evels of ash, protein, fat, dietary fibre, iron, sodium and calcium. The higher level of flavanols in the cocoa extract is an intentional consequence of the extraction step which the applicant may separately seek to exploit in terms of a nutrition or health claim. The proposed use",
+    "match": true
+  },
+  {
+    "source_id": 4,
+    "locator": "fsai.txt",
+    "exact_excerpt": "licant proposes to provide cocoa extract at levels of up to 730 mg per serving (375 mg cocoa flavanols) or 1.2 g/day for use as a functional ingredient in foods and food supplements . They will advise that consumers should avoid consuming more than 600 mg of cocoa flavanols per day. Level of Undesirable Substances Mars’ cocoa extract is manufactured using the same process as for their cocoa powder and therefore quality control including the management of undesirable substance 3 August 2015 - Food Safety A",
+    "match": true
+  },
+  {
+    "source_id": 5,
+    "locator": "miller-abstract.txt",
+    "exact_excerpt": "ses in flavanols were observed with increased alkalization. The average total flavanol contents were 34.6 +/- 6.8 mg/g for the natural cocoas, 13.8 +/- 7.3 mg/g for the lightly processed cocoas, 7.8 +/- 4.0 mg/g for the medium processed cocoas, and 3.9 +/- 1.8 mg/g for the heavily processed cocoa powders. The observed linear and predictable impact of alkalization on flavanol content is discussed with respect to other reports in the literature as well as what implications it may have on diet and food manuf",
+    "match": true
+  }
+]

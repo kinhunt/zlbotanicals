@@ -22,6 +22,8 @@ const { post } = Astro.props;
 const { Content, headings } = await post.render();
 const isCentellaStability = post.slug.endsWith('/centella-cold-process-stability');
 const isCitrusBitterness = post.slug.endsWith('/citrus-delayed-bitterness');
+const isCocoa = post.slug.endsWith('/cocoa-selection');
+const isGinger = post.slug.endsWith('/ginger-selection');
 const isPomegranate = post.slug.endsWith('/pomegranate-flavour-selection');
 const isAcacia = post.slug.endsWith('/acacia-fibre-emulsification');
 const isAstaxanthin = post.slug.endsWith('/astaxanthin-beverage-stability');
@@ -61,7 +63,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
   heroTitle={post.data.title}
   heroSubtitle={guideCategory[lang].title}
 >
-  <article class:list={["section-padding", {"pomegranate-reader": isPomegranate, "acacia-reader": isAcacia, "citrus-delayed-bitterness-reader": isCitrusBitterness, "astaxanthin-reader": isAstaxanthin, "chicory-reader": isChicory, "vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
+  <article class:list={["section-padding", {"ginger-reader": isGinger, "cocoa-reader": isCocoa, "pomegranate-reader": isPomegranate, "acacia-reader": isAcacia, "citrus-delayed-bitterness-reader": isCitrusBitterness, "astaxanthin-reader": isAstaxanthin, "chicory-reader": isChicory, "vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
     <div class="container-wide max-w-4xl">
       <!-- Breadcrumb -->
       <nav aria-label="Breadcrumb" class="mb-8 text-sm">
@@ -189,7 +191,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
       {isAcacia && <nav aria-label="Related application reading" class="mt-12 border-t pt-8"><h2 class="text-xl font-semibold mb-4">Related application reading</h2><ul class="space-y-3"><li><a class="text-primary underline" href="/solutions/food">Food applications</a></li><li><a class="text-primary underline" href="/solutions/beverages">Beverage applications</a></li></ul></nav>}
 
       <!-- CTA -->
-      {!isPomegranate && !isCitrusBitterness && !isAcacia && !isAstaxanthin && !isChicory && !isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
+      {!isGinger && !isCocoa && !isPomegranate && !isCitrusBitterness && !isAcacia && !isAstaxanthin && !isChicory && !isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
         <h3 class="text-xl font-display font-bold text-gray-900">Interested in our botanical extracts?</h3>
         <p class="text-gray-600 mt-2">Contact us for samples, technical documentation, or custom formulation support.</p>
         <a
@@ -446,4 +448,38 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
     .vanilla-material :global(.mobile-label) {display:block;font-size:.9rem;color:#52634e;margin-bottom:.3rem}
   }
 
+
+  .cocoa-reader :global([id]) {scroll-margin-top:100px}
+  .cocoa-reader :global(nav ol) {flex-wrap:wrap}
+  .cocoa-reader :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}
+  .cocoa-reader :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}
+  .cocoa-reader :global(.selection-table) {width:100%;table-layout:fixed;font-size:16px;line-height:1.65}
+  .cocoa-reader :global(.selection-table caption) {text-align:left;font-size:16px;font-weight:600;margin-bottom:1rem}
+  .cocoa-reader :global(.selection-table th), .cocoa-reader :global(.selection-table td) {padding:12px;vertical-align:top}
+  .cocoa-reader :global(.mobile-label) {display:none}
+  @media(max-width:640px) {
+    .cocoa-reader :global(.selection-table), .cocoa-reader :global(.selection-table tbody), .cocoa-reader :global(.selection-table tr), .cocoa-reader :global(.selection-table td), .cocoa-reader :global(.selection-table th) {display:block;width:100%;box-sizing:border-box}
+    .cocoa-reader :global(.selection-table caption) {display:block;width:100%}
+    .cocoa-reader :global(.selection-table thead) {display:none}
+    .cocoa-reader :global(.selection-table tr) {border:1px solid #d1d5db;border-radius:12px;margin:1rem 0;padding:8px}
+    .cocoa-reader :global(.selection-table th[scope=row]) {font-size:17px;background:#f3f4f6}
+    .cocoa-reader :global(.mobile-label) {display:block;font-weight:600;margin-bottom:6px}
+  }
+
+  .ginger-reader :global([id]) {scroll-margin-top:100px}
+  .ginger-reader :global(nav ol) {flex-wrap:wrap}
+  .ginger-reader :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}
+  .ginger-reader :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}
+  .ginger-reader :global(.selection-table) {width:100%;table-layout:fixed;font-size:16px;line-height:1.65}
+  .ginger-reader :global(.selection-table caption) {text-align:left;font-size:16px;font-weight:600;margin-bottom:1rem}
+  .ginger-reader :global(.selection-table th), .ginger-reader :global(.selection-table td) {padding:12px;vertical-align:top}
+  .ginger-reader :global(.mobile-label) {display:none}
+  @media(max-width:640px) {
+    .ginger-reader :global(.selection-table), .ginger-reader :global(.selection-table tbody), .ginger-reader :global(.selection-table tr), .ginger-reader :global(.selection-table td), .ginger-reader :global(.selection-table th) {display:block;width:100%;box-sizing:border-box}
+    .ginger-reader :global(.selection-table caption) {display:block;width:100%}
+    .ginger-reader :global(.selection-table thead) {display:none}
+    .ginger-reader :global(.selection-table tr) {border:1px solid #d1d5db;border-radius:12px;margin:1rem 0;padding:8px}
+    .ginger-reader :global(.selection-table th[scope=row]) {font-size:17px;background:#f3f4f6}
+    .ginger-reader :global(.mobile-label) {display:block;font-weight:600;margin-bottom:6px}
+  }
 </style>
