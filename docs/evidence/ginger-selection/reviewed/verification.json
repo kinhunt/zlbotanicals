@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "scope": "corrected bilingual text only; no publication",
+  "evidence_blocks_checked": 166,
+  "original_files_checked_unchanged": 22,
+  "xml_quote_exact_match": true,
+  "citation_verification": {
+    "en": "citations OK (--evidence --strict)",
+    "zh": "citations OK (--evidence --strict)"
+  },
+  "limitations": [
+    "Archived XML review; no fresh correction-status search",
+    "Figure captions and main-text statements reviewed; figure images and external supplements not inspected",
+    "Citation coverage tool is not a bilingual factual verification gate"
+  ],
+  "calculations": {
+    "ginger_solids_g": 6.7404,
+    "inulin_per_ginger_solids": 5.839416058394161,
+    "nominal_ginger_fraction_inulin_pct": 14.621131270010672,
+    "nominal_ginger_fraction_pea_pct": 15.410009967901527,
+    "nominal_ginger_fraction_starch_pct": 4.689287075867328,
+    "HWE_6G_div_GT": 5.535433070866142,
+    "HPE_6G_div_GT": 4.960629921259843
+  }
+}

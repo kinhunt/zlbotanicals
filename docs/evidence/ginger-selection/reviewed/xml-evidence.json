@@ -1,0 +1,1330 @@
+[
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec1-foods-11-00508 (1. Introduction), direct p 1",
+    "exact_quote": "In modern food, the form and quality are affected by the environment, disease, or culture of a society. In addition, natural raw material cultivation technology and processing technology have influence [1,2]. Consumers prefer products that do not contain chemicals or additives or that are produced using environmentally friendly processing technology, which satisfies the natural environment and health at the same time [3]. The association between processing technology and flavor has a significant impact on product quality [4]. Flavor control during processing requires a high level of skill due to the complexity of the reaction and the formulation or process conditions [5]. Extraction is a method of obtaining certain constituents of an organism from compounds with various matrices [6,7]. In order to increase the extraction efficiency from plants, it is necessary to identify the characteristic structure and properties of plants, and to homogenize it accordingly [8,9]. Most solubilized bioactive compounds are in the form of glycosides; these forms are easy for bio-digestion and absorption and affect action and active effects [10].",
+    "quote_sha256": "41e5b2084b97efe0730a12f2f6a8c32082d824cde2fbc236ef2a158439b935bf",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec1-foods-11-00508 (1. Introduction), direct p 2",
+    "exact_quote": "Because of these advantages, bioactive compounds have been extracted by various methods from general households to industries and are still being used in various ways. Existing extraction techniques include maceration, distillation, decoction, etc. and have disadvantages in the use of a large amount of organic solvent, low yield, high cost, and long extraction time [11,12,13]. In order to compensate for these shortcomings, aqueous extraction [14], supercritical [15], high-pressure [16], ultrasound [17], microwave [18], and enzyme-assisted [19] extraction have been performed and are attractive for solubilizing phytochemical compounds. Due to the high cost of extraction equipment such as high-pressure, supercritical, ultrasonic, and microwave instruments, this process is difficult to perform on small-scale farms or small and medium-sized factories. On the other hand, aqueous enzyme-assisted treatment is relatively easy to apply and environmentally safe for extracting bioactive components [20,21]. The structure of the ginger cell wall is similar to that of other root crops, in which starches such as cellulose and structural proteins are intricately intertwined [22]. In addition, enzyme-assisted treatment is easy to use in combination with other methods as one way to increase the storage properties of ginger. In this study, a combination of enzyme-assisted extraction was tested as a relatively new process for solubilizing an increased active component and flavor profile from ginger.",
+    "quote_sha256": "5e8c711b37349d1e6d8ad1969f906c53e43297e38e00b57df3b265099019d508",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec1-foods-11-00508 (1. Introduction), direct p 3",
+    "exact_quote": "Ginger is a commonly known medicinal root crop and has a distinctive flavor and taste due to its composition of volatile compounds and other components. Volatile compounds are the most important factor in evaluating the flavor of food. Typical flavor components of ginger include α-zingiberene, β-sesquiphellandrene, and β-bisabolene, [23,24] which are monoterpenoid and sesquiterpene (β-sesquiphellandrene, β-bisabolene, etc.) volatile hydrocarbons mainly present in the free form. In addition, non-volatile phenols (oleoresin) are composed of gingerols, shogaols, and zingerone (α-zingiberene) [25]. Gas chromatography-tandem-mass-spectrometry is useful for detecting and identifying volatile substances, but it is not useful for analyzing the properties or pattern information of the identified substances. Instrumental flavor analysis can utilize material states and components through smell rather than subjective analysis using artificial sensory evaluation. Considering that the electronic nose (E-nose) can obtain the overall volatile component information of a sample, analysis in combination with other instruments can be useful for the study of flavor [26]. Electronic noses have been widely used for flavor detection, quality monitoring, and freshness and spoilage evaluation [27,28].",
+    "quote_sha256": "dfe42754877b5fd9cac422ccc150bfd54d11ee03e50a477cc5f648826f8c6e38",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec1-foods-11-00508 (1. Introduction), direct p 4",
+    "exact_quote": "In this study, the taste characteristics (gingerol, shogaol, and amino acid) of extracts treated with various solubilizing methods were objectively compared. In addition, E-nose confirmed the flavor pattern combined with PCA between each extract, and SBSE-TD/GC-MS/MS was performed to compare and analyze volatile compounds between extraction methods. ",
+    "quote_sha256": "11fee808777ac8f6b3526bda4c4a16fe4a5eca0302db334a9f516d4c502e3128",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec2dot1dot1-foods-11-00508 (2.1.1. Enzymes and Chemicals), direct p 1",
+    "exact_quote": "Enzymes: pectinase (pectinex Ultra SP-L, ≥3800 PGNU/mL) and α-amylase (termamyl 2X, 240 KNU/g) were purchased from Novo Nordisk (Bagsvaerd, Denmark).",
+    "quote_sha256": "54da8f002a0233e6ac7d98531a70c6ff8fda0f79dc38c19fbc48c38bcf1ac606",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec2dot1dot1-foods-11-00508 (2.1.1. Enzymes and Chemicals), direct p 2",
+    "exact_quote": "Chemicals: ethanol, methanol, acetonitrile, sodium phosphate, sodium tetraborate, γ-aminobutyric acid (GABA), and taurine were purchased from Sigma-Aldrich Co. (St. Louis, MO, USA). 6-gingerol (6G), 8-gingerol (8G), 10-gingerol (10G), 6-shogaol (6S), 8-shogaol (8S), and 10-shogaol (10S) were purchased from Chromadex (Laguna Hills, CA, USA). Aspartic acid (Asp), glutamic acid (Glu), serine (Ser), histidine (His), glycine (Gly), threonine (Thr), alanine (Ala), arginine (Arg), tyrosine (Tyr), valine (Val), methionine (Met), phenylalanine (Phe), isoleucine (Iso), leucine (Leu), lysine (Lys), proline (Pro), glutamine (Gln), asparagine (Asn), tryptophan (Try), ornitnine (Orn), citrulline (Cit), borate buffer, o-phthalaldehyde reagent, and 9-fluorenylmethylchloroformate reagent were purchased from Agilent (Santa Clara, CA, USA).",
+    "quote_sha256": "265f87302ad95506ff0eb11508f395902ae17f7ed67876cec979860d108f9f97",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec2dot1dot2-foods-11-00508 (2.1.2. Plant Materials and Sample Preparation), direct p 1",
+    "exact_quote": "Fresh ginger (Zingiber officinale Rosc.) was harvested from a farm in Bong-dong, Jeollabuk-do Province, South Korea. The ginger was peeled, washed, and hot-air dried. The dried pieces were cut into slices, pulverized, and stored at –20 °C until use in the experiment.",
+    "quote_sha256": "1832afc99d55e3b8219f121b3adb15c2342cb9868d734d1fcffff8f561ae9fdf",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec2dot2-foods-11-00508 (2.2. Extraction), direct p 1",
+    "exact_quote": "The hydrothermal and high-pressure enzyme-assisted method has been described in our previous study [29]. The various extraction methods of ginger used in the present experiment are shown in Table 1.",
+    "quote_sha256": "fd50e6fcd22ec2d5460f7d4c286900730b2c2e2ba3c140fcdacd1c6e9450469e",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec2dot2dot1-foods-11-00508 (2.2.1. Squeezed Raw Ginger Juice and Tea), direct p 1",
+    "exact_quote": "In addition to the dried form, fresh ginger was ground in a mixer and squeezed (GJ). Ginger tea was prepared with the hot-air-dried ginger powder (HDP, 5 g) at 80 °C for 30 min in 95 mL distilled water (GT).",
+    "quote_sha256": "f5fbdddd918f2adee8af82c7aedb4a65fa0a7264b694b022d9394b459e66d4af",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec2dot2dot2-foods-11-00508 (2.2.2. Hydrothermal Extraction), direct p 1",
+    "exact_quote": "Hydrothermal enzyme-assisted extraction (HWE) was studied using two enzymes, pectinase (breaks down pectin in the cell wall through hydrolysis) and α-amylase (hydrolysate of starch). The HDP (5 g) was extracted in a transparent pouch with distilled water (95 mL) and pectinase (1% w/w, substrate contrast). The enzymatic reaction was performed in a shaking water bath (WiseBath, MaXturdy, Daihan Scientific, Wonju, Korea) at 50 °C for 2 h. After the treated ginger mixture was transferred to a beaker, α-amylase (1% w/w, substrate contrast) was added. The enzymatic reaction was performed in a water bath at 93 °C for 1 h. Finally, the reaction was terminated by boiling the ginger mixture for 5 min and centrifuging (Labogene, Gyro1580MGR, Gyrogen Co., Ltd., Daejeon, Korea) at 2863× g for 10 min. Hydrothermal extraction (HW) was performed without enzyme for comparison to the HWE method. The supernatants were filtered and stored at 4 °C for timely use. In this study, enzyme co-treatment was performed without adjusting the pH. In other studies, pH adjustment did not significantly affect the composition of the extract [30].",
+    "quote_sha256": "6e94df41a5879dfc5d79e0a1a4193fbd942c1207c412b7f66952fe1256477899",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec2dot2dot3-foods-11-00508 (2.2.3. High-Pressure Extraction), direct p 1",
+    "exact_quote": "High-pressure extraction (HP) and high-pressure enzyme-assisted extraction (HPE) were performed using the same procedure as for the HWE and HW described in Section 2.2.2. However, for cell wall hydrolysis, an ultra-high-pressure liquefaction instrument (Chemresys Co., Anyang, Korea) was used at 50 °C, 100 MPa, and 2 h instead of a water bath.",
+    "quote_sha256": "25bff646ff501bd45c6bcd2efaab316a115072854920e103593a89015fc9523b",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec2dot3-foods-11-00508 (2.3. Extraction Yield and Sugar Content Measurement), direct p 1",
+    "exact_quote": "The extraction yields of raw ginger and ginger extraction were calculated on a dry weight basis by dividing the quantity of the obtained product into the initial weights of raw ginger and HDP. Sugar content (Bx°) was measured using a refractometer (ATAGO, PAL-1, Tokyo, Japan). All analyses were conducted in triplicate.",
+    "quote_sha256": "0f311d177feb1ae0648ab188b2ff45f20fa83ed9ecdb3c72189db8f38119e3e1",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec2dot4dot1-foods-11-00508 (2.4.1. Gingerols and Shogaols Analysis), direct p 1",
+    "exact_quote": "The standards and ginger extracts were analyzed on a Shimadzu UPLC system (Nexera X2, Shimadzu, Kyoto, Japan) using the specifications of [30]: injection volume, 2 μL; flow rate, 0.3 mL/min; retention time, 30 min; wavelength, 280 nm; and eluents, 0.1% acetic acid in water (A) and 0.1% acetic acid in acetonitrile (B). The gradient elution had the following profile: 0–0.5 min, 90% A; 0.5–2.5 min, 60% A; 2.5–4.5 min, 45% A; 4.5–6.0 min, 40% A; 6.0–11.5 min, 35% A; 11.5–13.0 min, 30% A; 13.0–14.5 min, 25% A; 14.5–16.0 min, 20% A; 16.0–17.5 min, 15% A; 17.5–25.0 min, 10% A; 25.0–30.0 min, 90% A. In the UPLC analysis, a Kinetex XB.C18 column (1.7 μm, 150 × 2.1 mm, Phenomenex, Torrnace, CA, USA) was used and the column temperature was maintained at 30 °C. The concentrations in each sample were calculated by comparing their response with the corresponding standard curve. The calibration curve for this method has the six calibration standards solutions (6G, 8G, 10G, 6S, 8S, and 10S) each covering the range of 10–1000 μg/mL (calculation by the equations (R2 coefficients): 6G; y = 942.59x + 16,123 (0.9993), 8G; y = 781.68x + 9155 (0.9994), 10G; y = 752.09x + 10,667 (0.9994), 6S; y = 1103.3x + 13,039 (0.9994), 8S; y = 944.76x + 16,414 (0.9994), 10S; y = 558.24x + 6124 (0.9995)).",
+    "quote_sha256": "f0106fb12e2f4ee75220e316a3368616742ae17b28b0453cfabbc9589853c2a0",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec2dot4dot2-foods-11-00508 (2.4.2. Free Amino Acid (AA) Analysis), direct p 1",
+    "exact_quote": "Amino acid analysis was referred to the method of [31]. The standards and ginger extracts also were analyzed on a Thermo HPLC system (Thermo Scientific, Karlsruhe, Germany) with operating parameters of injection volume, 0.5 μL; flow rate, 1.5 mL/min; retention time, 35 min; wavelength, 338 nm; and eluents, 40 mM sodium phosphate, pH 7 (A) and ice-cold lysis/extraction buffer (methanol/acetonitrile/water, 4.5/4.5/1 v/v) (B). The gradient elution had the following profile: 0–3.0 min, 95% A; 3.0–24.0 min, 45% A; 24.0–31.0 min, 10% A; 31.0–35.0 min, 95% A. In the HPLC analysis, a Inno C18 column (5 μm, 150 × 4.6 mm, Youngjin Biochrom, Seongnam, Korea) was used and the column temperature was maintained at 40 °C. A reference amino acid spectrum was obtained by titrating a mixture of amino acids of known concentrations.",
+    "quote_sha256": "446123d4e0a78dbcec32c60629ced229bdccd9ad6cdfcc65a5653bdd51b952af",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec2dot5dot1-foods-11-00508 (2.5.1. Electronic Nose Analysis), direct p 1",
+    "exact_quote": "The volatile compounds in gingers extracted through the different methods were measured using an HERACLES II electronic nose (E-nose) (Alpha MOS, Toulouse, France). The analysis condition was referred to as spirit beverage [32]. Briefly, 20 mL of ginger extract sample was sealed in a glass vial and heated to 40 °C for 20 min at an agitation speed of 500 rpm. Helium was used as the carrier gas, with a flow rate of 1 mL/min. A total volume of 5000 μL was injected into the system at 200 °C. The volatile compounds were absorbed by an embedded volatile concentrator named Tenax TA at 20 °C for 30 s with a split mode of 10 mL/min, and thermal desorption was performed at 240 °C for 30 s. An MXT-5 column was employed for sample separation in parallel mode. The programmed temperature was 50 °C for 2 s, increased to 80 °C at 1 °C/s, and ramped to 250 °C at 3 °C/s for 21 s. The temperature of both flame ionization detectors were set to 260 °C. All the samples were performed in 5 repeats.",
+    "quote_sha256": "0389231b92f89cbfe123f2c93e4376f0952d11a7e098ec0f12bbd47e1fc13e4a",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec2dot5dot2-foods-11-00508 (2.5.2. SBSE-TD/GC-MS/MS Analysis), direct p 1",
+    "exact_quote": "GC–MS/MS was performed on a 7890 B gas chromatograph coupled to a 7000 triple quadrupole mass spectrometer (Agilent Technologies, Palo Alto, CA, USA) system equipped with an Agilent Multimode injector (Agilent Technologies, Palo Alto, CA, USA). The instrument control, data acquisition and analysis were performed with Agilent Mass-Hunter software (Agilent Technologies, Palo Alto, CA, USA). A stir bar coated with a 0.1 mm layer of non-polar polydimethylsiloxane (PDMS, 10 mm × 0.1 mm film thickness) was purchased from Gerstel (Mullheim an der Ruhr, Germany). We injected 20 mL of ginger extract for each condition into a 20 mL vial containing a PDMS-coated stir bar. The vial was sealed and stirred at 800 rpm for 5 h at room temperature. The stir bar was removed from the solution and transferred to a thermal desorption liner (Gerstel, Mullheim an der Ruhr, Germany), mounted on a TDU (Gerstel, Mullheim an der Ruhr, Germany) and analyzed. The PDMS adsorption equilibrium period was determined by a pre-test (pre-test results not shown) [33]. The analysis condition was applied to peach juice [34] and bay berry juice [35]. Chromatographic separations were carried out using a DB–5MS column (60 m × 0.32 mm ID, 0.25 μm) supplied by Agilent Technologies (Palo Alto, CA, USA). Helium and nitrogen were used as quenching gas with a constant flow rate of 1.5 mL/min and collision gas with a constant flow rate of 1.0 mL/min, respectively. Purge flow of the cushion was set as 1.5 mL/min. The injector temperature was 230 °C. Oven temperature program was held at 40 °C for 20 min, ramped with 10 °C/min to 130 °C and was held for 5 min, then ramped with 10 °C/min to 200 °C and was held for 5 min, and ramped with 10 °C/min to 300 °C and was finally held for 5 min. The temperature of the electronic ionization source and the transmission line were 230 °C, and the mass spectrum was obtained by electronic impact at 70 eV. Each volatile compound was represented by an area unit.",
+    "quote_sha256": "308c654a66e6440ca80760c91e6a20fe3456eb8b21b93a95fea751071948737d",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec2dot6-foods-11-00508 (2.6. Statistical Analysis), direct p 1",
+    "exact_quote": "All measurements (contents of yield, sugar, gingerols, shogaols, and amino acids, area of volatile compounds) were performed in triplicate except for the E-nose analysis (5 replicates). One-way ANOVA and Duncan’s test were applied to analyze the difference between the means of volatile compounds, and the difference between groups was analyzed using the independent-sample t-test. SPSS version 18.0 (Statistical Package for Social Sciences, Chicago, IL, USA) was used to process chemical composition, amino acid, and E-nose analysis data. SIMCA® version 17 software (Sartorious, Goettingen, Germany) was used to construct PCA, VIP score, and multivariate analysis data to evaluate the ability of GC-MS/MS to discriminate between samples.",
+    "quote_sha256": "91ba6c7811ecb67a85732f2ed2d85395ef2e9326e214a319dda045fb62ec6d6a",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot1-foods-11-00508 (3.1. Extraction Yield and Sugar Contents), direct p 1",
+    "exact_quote": "The extraction yields of the ginger and sugar contents are shown in Table 1. The extraction yields obtained for HPE (67.60%) and HWE (55.40%) were significantly higher than those of GJ (1.11%) and GT (16.26%) (p < 0.001) and higher than those obtained after extraction from freeze-dried ginger powder by reflux extraction (hydrothermal, 100 °C, 2 h, and 15.35%) [29]. The complex extraction method increased the extraction yield. The sugar content of the ginger extract was significantly higher in HWE (2.57 Bx°) and HPE (2.53 Bx°) (p < 0.001). In general, the enzyme- and non-enzyme extract showed many difference in sugar content. These differences are affected by the sample type, temperature, time, substrate and enzyme concentration, etc [29,30]. Enzymatic hydrolysis increased the extraction yield and sugar content.",
+    "quote_sha256": "ec1b7ff758b191a88b80c14618fd4bec12a3216d2e1f4ce3f1a55f1565619cd1",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot2dot1-foods-11-00508 (3.2.1. Spiciness: Gingerol and Shogaol), direct p 1",
+    "exact_quote": "The components that impart “spiciness” to ginger are gingerols and shogaols, secondary metabolites of the Zingiberaceae family [36]. Shogaol is both spicy and sweet in flavor [37]. In general, spiciness is subjectively evaluated by several factors (type and temperature of food, race, psychological state, living environment, etc.) [38]. Depending on the amounts of extracted gingerol and shogaol compounds, the degree of spiciness can be inferred objectively. Extraction yield indicates that treatment at high-pressure can be more effective than hydrothermal treatment (Table 2). In HDP, the level of 6G increased in HWE and HPE by 5.5 times and 5.0 times, respectively, compared to GT. In addition, 6G, 8G, 10G, 6S, 8S, and 10S showed significant differences between the ginger extract samples (p < 0.001). This combination of enzymes has shown an effect on gingerol and shogaol extraction from Korean ginger [30]. The gingerol and shogaol compounds demonstrated stability in aqueous solution [39]. The effect of high-pressure treatment was demonstrated in beet extract [40] and citrus peel extract [41]. Each gingerol and shogaol compound was affected by the extraction yield of ginger. In particular, the higher was the shogaol content, the stronger was the spicy taste. As a result, gingerol and shogaol were affected by the extraction yield, and there was a slight difference between the high-pressure treatment and the hydrothermal treatment. For applications in industry, high-pressure methods are expensive, whereas hydrothermal preparation is relatively cheap. HWE treatment is very effective in increasing the yield and functional components at the same time. With ginger, considering the production cost, it is judged that hydrothermal treatment is suitable for enzyme-assisted treatment. ",
+    "quote_sha256": "29d6c10f34eba4b807c11a9447d48b2fcc345f3eb79517587309c15441845343",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot2dot2-foods-11-00508 (3.2.2. Bitterness, Umami, Salty, Sourness and Sweetness: Free Amino Acids), direct p 1",
+    "exact_quote": "Protein is broken down or formed by internal and external enzymes to produce various amino acids that determine taste. AA and peptides are important determinants of taste [42]. Among the known AAs, Pro, Val, Leu, Tyr, Phe, and Arg are bitter; Glu and Asp are umami; and Thr, Ala, and Gly are sweet [43]. The AAs corresponding to bitter, umami, and sweet were effectively removed in the enzyme-assisted treatment group (HWE and HPE) (Table 3). In addition, the yield with HWE was lower than that of GJ, and some components in HPE were lower than those in HPE. After identifying the amounts of non-essential AAs (Gln, Asn, Glu, Arg, Ala, Pro, Asp, Ser, Gly, and Try), higher amounts were detected in HW and HP extracts compared to GT extract. As for Glu, which is often expressed as umami taste, HW and HP increased 1.5 to 1.6 times that of GT, respectively, and significantly increased from 2.8 to 3.0 times that of GJ. Val and Leu were smaller in essential AA than in Nigerian ginger, and non-essential AAs were slightly different as Glu, Arg, Ala, and Asp [44]. For other AAs, GT was significantly higher in Orn (43.19 mg/100 g), Cit (33.98 mg/100 g), and GABA (56.97 mg/100 g) (p < 0.001). The pectinase (cell wall degrading enzyme) used in this study was mainly used for clarification of fruit and vegetable juice. The clarification effect of plant extracts or juices can be explained as a result of high molecular compounds in plants forming oxidized proteins and partially removing neutral sugars (galacturonic acid monomers) [45,46]. Previous studies have demonstrated that pectinase is superior as an enzyme that breaks down the cell wall of ginger [29]. In addition, plant proteins hydrolyzed by enzymes or hydrothermal treatment are associated with AAs, peptides, minerals, and volatile compounds [47]. The content of AA affects the flavor according to the treatment method, and the decrease in the content of AA related to taste was shown to result from enzyme treatment [5]. A method for selectively removing AA corresponding to taste has not yet been developed. These results suggest that the enzyme-assisted treatment effectively removes the bitter AA of ginger and neutralizes other tastes, offering a positive effect on industrial applications.",
+    "quote_sha256": "cb283f34576b5088edd51b7626a87a20ad1319caecabb1338795f5a83bf13fd6",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot3dot1-foods-11-00508 (3.3.1. Radar Charts and PCA by E-nose), direct p 1",
+    "exact_quote": "The flavor of plants is mainly generated by volatile components, and the flavor components can be altered through extraction or processing. The main flavor component of extracted and processed ginger has a great influence on the quality of the product and its taste. To identify odor substances contributing to ginger, the E-nose was applied to analyze the volatile compounds and sensory properties of the samples. This analysis was also performed on soy bean paste [51] and jujube [52] to further elucidate the ability of volatile compounds to discriminate samples. A total of 47 volatile components was investigated in raw ginger and five ginger extracts with various extraction methods were applied, 45 in GJ, 45 in GT, 47 in HW, 46 in HWE, 47 in HP, and 47 in HPE. In total, 47 volatile components were detected, including 3 acids, 6 alcohols, 8 aldehydes, 11 esters, 2 aromatic heterocyclic compounds, 10 terpene hydrocarbons, 5 ketones, and 2 aromatic sulfur-containing compounds. The number of volatile compounds in each sample, determining the sensory properties, are shown in Figure 1, and details of the volatile composition are given in Supplementary Material. As shown in Figure 1A and Table S1, the HWE sample had the highest area of volatile compounds, whereas the GT had the lowest. This result indicates the stronger flavor provided by HWE compared to the other five samples. Figure 1B and Table S2 shows the analyzed sensory characteristics as spicy, piquant, fresh, oily, fruity, sweet, nutty, sour, and nature, which correspond to food. The calculated flavor characteristics were classified into 12 spicy, 27 piquant, 19 fresh, 15 oily, 31 fruity, 16 sweet, 3 nutty, 4 sour, and 11 natures. The number of flavor words expressing each ginger sample was 119 words for GJ, 127 words for GT, 134 words for HW, 138 words for HWE, 135 words for HP, and 136 words for HPE. Compared to GJ, each extract showed an increase in spicy, fresh, fruity, and sweet. On the other hand, piquancy increased in HWE- and HPE-treated with enzymes. Variables affecting each sample were explored using PCA, one of the multivariate analysis methods, and the separated result pattern is shown in Figure 1C and Table S3. PCA accounted for 99.76% (PC1), 0.20% (PC2), and 0.03% (PC3) of the overall variance. Squeezed raw ginger juice and five different extracts were well isolated from the PCA. GT and HP samples showed certain similarities in flavor properties, and HW, HWE and HPE samples showed similar flavor profiles. Therefore, the E-nose is an effective tool to discriminate the flavor patterns of ginger extract.",
+    "quote_sha256": "110a4d4bf72d0e4bd4ee77ee29ae9af947e9dc6f178e8d2c28f47296c1686e35",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot3dot2-foods-11-00508 (3.3.2. Comprehensive Analysis of SBSE-TD/GC-MS/MS Volatile Compounds), direct p 1",
+    "exact_quote": "Ginger samples from different extraction methods were analyzed using the SBSE-TD/GC-MS/MS technique to evaluate the volatile compounds in the extract. A total of 54 types of volatile components was investigated in 6 ginger samples, and volatile components of 41 types of GJ, 30 types of GT, 33 types of HW, 32 types of HWE, 35 types of HP, and 34 types of HPE were detected. Volatile compounds were mainly found as 2 acids, 18 alcohols, 6 aldehydes, 1 ester, 21 hydrocarbons, 4 ketones, and 2 phenols. As shown in Figure 2 and Table S4, the HPE sample had the highest area of volatile compounds, while the lowest was observed in GJ. HDP enriches the aromatic compounds. In ginger, the area of the flavor component increased according to the extraction method. As a result of comparison by extraction method and each volatile compound classification, HPE showed the significantly highest levels in alcohols, hydrocarbons, and phenols; HWE was highest in ketones; and GT and HP were highest in aldehydes and esters (p < 0.001). The extraction method that produced the strongest flavor was HPE, and the enzyme-assisted HPE and HWE showed relatively rich flavors compared to the other sample groups.",
+    "quote_sha256": "e62f482e47ce1dcc5f0edad4e4a77207b73db8470b2a5c1362973bd63ae91076",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot3dot2-foods-11-00508 (3.3.2. Comprehensive Analysis of SBSE-TD/GC-MS/MS Volatile Compounds), direct p 2",
+    "exact_quote": "As for acid compounds, two were detected only in GJ, n-hexadecanoic acid (palmitic acid) and octadecanoic acid (stearic acid), which are saturated fatty acids commonly found in vegetable oils. The components accounted for 12 (area%, 3.48%) of the total component ratio.",
+    "quote_sha256": "3da76c3f5bcba4352f8ee5c9decf1243a190207dd95617516c078f65ce7434e3",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot3dot2-foods-11-00508 (3.3.2. Comprehensive Analysis of SBSE-TD/GC-MS/MS Volatile Compounds), direct p 3",
+    "exact_quote": "Alcohol was observed in compounds 11, 11, 11, 13, 13, and 15, respectively, in the GJ, GT, HW, HWE, HP, and HPE samples. Alcohol was the most abundant group in HPE, accounting for 1040 (53.84%) of the total peak area, and GJ was the lowest at 95 (26.77%). The components of terpenes (eucalyptol, linalool, borneol, terpineol, ocimenol, cubebanol, nerolidol, and acorenol, etc.) appearing in spice plants such as flowers and plants were detected. Specifically, a kind of insect pheromone verbenol was detected in the extract groups except GJ. Monoterpenes and sesquiterpenes are volatile terpenoids that have been reported in various plant types [53,54,55].",
+    "quote_sha256": "3fe478e3bb52ac253e76ed004bda9418c2a928d1063c5318bb86d7ab27118295",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot3dot2-foods-11-00508 (3.3.2. Comprehensive Analysis of SBSE-TD/GC-MS/MS Volatile Compounds), direct p 4",
+    "exact_quote": "Aldehyde compounds were observed in the GJ, GT, HW, HWE, HP, and HPE samples as 4, 4, 4, 3, 5, and 4 compounds, respectively. Aldehydes were the most abundant group in GJ, accounting for 73 (20.53%) of the total peak area, and HPE had the lowest at 125 (6.49%). The more complicated was the extraction method, the lower was the ratio of aldehyde compounds. Among the detected aldehyde compounds, components such as citral and neral, which are flavor components specific to ginger, showed a high ratio of GJ.",
+    "quote_sha256": "a05830033b439bcf9ddba1739a484ba04aea9c498b44b9dea1a66a5ed0e8182d",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot3dot2-foods-11-00508 (3.3.2. Comprehensive Analysis of SBSE-TD/GC-MS/MS Volatile Compounds), direct p 5",
+    "exact_quote": "As for the ester compound, one compound was observed in all sample groups. The detected ester compound is bornyl acetate, which is a perfume compound corresponding to an odor. At the same time, this compound was reduced in HWE and HPE treated with enzymes.",
+    "quote_sha256": "b91bd885755ba3057861a542dbc006380aeef042745a3bd7e30804671bfe9ffd",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot3dot2-foods-11-00508 (3.3.2. Comprehensive Analysis of SBSE-TD/GC-MS/MS Volatile Compounds), direct p 6",
+    "exact_quote": "Hydrocarbon compounds were observed in different amounts in the samples, with 18, 10, 12, 10, 12 and 10 compounds detected in the GJ, GT, HW, HWE, HP and HPE samples, respectively. The relative area ratios of hydrocarbon compounds detected in each sample ranged from 122 (34.37%) to 460 (29.47%). HPE was significantly higher among the treatment groups (p < 0.001). In GJ, the components of monoterpenes (β-phellandrene and β-terpinene) were increased, but these components were not detected in four extracts (HW, HWE, HP, and HPE) except GT. The α-terpinene level was smaller than that of GJ in area ratio. Hydrocarbon compounds such as α-funebrene were additionally found in ginger extracted with hot water at 120 °C or higher [56].",
+    "quote_sha256": "6890d08ab4aeb1aba5fc9c580840e0c0a4d7d04fc9386633bf748cab2097aa2a",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot3dot2-foods-11-00508 (3.3.2. Comprehensive Analysis of SBSE-TD/GC-MS/MS Volatile Compounds), direct p 7",
+    "exact_quote": "Ketone compounds were observed in different amounts in the samples, with 4, 2, 3, 3, 2, and 2 compounds detected in the GJ, GT, HW, HWE, HP, and HPE samples, respectively. The relative area ratio of ketone compounds detected in each sample was 47 (13.18%), 203 (13.03%), and 217 (12.12%) for GJ, HW, and HWE, respectively, and 78 (5.57%), 59 (3.53%), and 59 (3.05%) for GT, HP, and HPE. The level of Zingerone, a ketone component showing the sweet flavor of ginger, was found to be high in the hydrothermal treatment (HW 203 and HWE 217).",
+    "quote_sha256": "b314821e1a0cf22a09a2d2f68b072185f1b26f963562d9f385d6c3af202d044b",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot3dot2-foods-11-00508 (3.3.2. Comprehensive Analysis of SBSE-TD/GC-MS/MS Volatile Compounds), direct p 8",
+    "exact_quote": "Only one phenolic compound was detected in GJ and two compounds each in GT, HW, HWE, HP, and HPE. The relative area ratio of phenolic compounds (6-gingerone and 6-shogaol) detected in each sample was highest in HPE at 39 (2.04%) and lowest in GJ at 1 (0.27%). Among the phenolic compounds, shogaol was the spiciest flavor of ginger and was detected in the range of 0.97% to 1.54% in the sample group excluding GJ. These results are the effects of hot-air drying on ginger. Heating to high temperature converts dehydrated-hydrated gingerol to shogaol [41].",
+    "quote_sha256": "ea5086e52b8327fc607c9568a0b061573e4eb70887464a50d5caeccdd1532129",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot3dot2-foods-11-00508 (3.3.2. Comprehensive Analysis of SBSE-TD/GC-MS/MS Volatile Compounds), direct p 9",
+    "exact_quote": "Overall, the HDP extract was rich in alcohol compounds, and GJ had more aldehyde compounds in the extract group. Volatile compounds (zingiberenol, 6-gingerone, and 6-shogaol) corresponding to spicy flavor were further increased by enzyme extraction. Acid compounds were detected only in GJ, and phenolic compounds were high in HPE. These results can be attributed to the processing and extraction conditions of ginger. In HDP, alcohol and aldehyde compounds additionally detected components with a specific insect pheromone odor. These flavor components are inferred as rancid flavor (sour flavor) in Figure 1. Various conditions for solubilization of ginger were major in eliciting aromatic compounds. In the case of mushrooms, it was reported that a unique flavor is formed by the interaction of several volatile compounds with chemical components [57]. The flavor profile of extracts from dry powders has rarely been studied. In conclusion, the increase in flavor compounds of the ginger extract by enzyme treatment suggests that it can be used as an excellent food industry application material.",
+    "quote_sha256": "c6689d6610f1aef0d23a850e9cdf7025ba2abe335254f0d28fbde6ec90ca81b0",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot3dot3-foods-11-00508 (3.3.3. Comparison of Total Volatile Compounds by Extraction Method), direct p 1",
+    "exact_quote": "The results compared by the various extraction methods are shown in Figure 3. The volatile compounds by sample type are shown in Figure 3A, and the flavor of the samples infused with HDP in hydrothermal leaching was significantly increased. Thermal drying by air can seriously affect the plant epidermis and cells, causing structural deformation [58]. Gingerol in ginger is converted to 6S as water is removed by physical factors, and other components are converted into the same molar amounts of gingerol and hexanal by rearrangement [59,60]. In ginger, ingredients with a spicy flavor, such as shogaol, can affect consumer preference. Regardless of hydrothermal and high-pressure, the enzyme-assisted samples had a significant increase in flavor compounds (Figure 3B,C), and there was no effect of high-pressure treatment (Figure 3D). In a study of Australian ginger treated with supercritical carbon dioxide, heat drying reduced alcohol compounds (geraniol and citronellol) while significantly increasing the concentrations of monoterpene and sesquiterpene hydrocarbon compounds [61,62]. The enzyme-assisted treatment effectively enhanced flavor compounds.",
+    "quote_sha256": "12758fe7857c9978cdd8fb60559c29fe1f73e0268dfa9fc566d6eb0da9b8a582",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec3dot3dot4-foods-11-00508 (3.3.4. Different Extraction Methods Affected Ginger Extract Flavor Compounds), direct p 1",
+    "exact_quote": "The extraction method can have a significant effect on the flavor compounds in ginger. This analysis was also performed on limequat fruit [63] and garlic [64] to further elucidate the ability of volatile compounds to discriminate samples. The score plot shows a greater distance between GJ and GT, HW, and HP and between GT, HW, HP, and HWE, HPE, the greater is the change in volatile compounds with extraction method. Further analysis of volatile ginger compounds changes by various extraction methods with PLS-DA. Figure 4B is the result of a permutation test with a permutation number of 500. The permuted green R2 on the left of the graph showed a value of 0.143, and the blue Q2 had a value of –0.683, lower than the original point on the right, indicating the validity of the PLS-DA model. In conclusion, the comparison between ginger extraction methods showed that the PLS-DA model is suitable and has high discriminating power and predictability. Figure 5 and Table S4 shows the screened major volatile constituents of ginger based on VIP values (VIP > 1) and p-values (p < 0.05) by ANOVA. A total of 24 types of volatile compounds corresponding to a VIP score of 1 or more were found, and the citronellal compound had the highest score and the highest influence. The analyzed results further showed the non-negligible effect of the extraction method on the volatile constituents of ginger.",
+    "quote_sha256": "484ffe26b7a50b1b23235ca562b2bc06fc4d44a150398c9425cfd4f3e100599a",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "section sec4-foods-11-00508 (4. Conclusions), direct p 1",
+    "exact_quote": "In this study, the taste characteristics (gingerol, shogaol, and amino acid) of extracts treated with various solubilizing methods were objectively compared. In addition, the E-nose confirmed the flavor pattern combined with PCA between each extract, and SBSE-TD/GC-MS/MS was performed to compare and analyze volatile compounds between extraction methods. HPE and HWE significantly improved the extraction yield of ginger and the contents of gingerol and shogaol, and enzyme treatment effectively removed the bitter taste. The flavors of six types of ginger extracts varied by method, and a total of 54 volatile compounds was identified. After HWE treatment, a strong fruity and piquant flavor was reported. Enzymatic hydrolysis of ginger contributed to the aromatic substances of citronellal, zingerone, and citral. In addition, the spicy flavor was increased as the phenolic components of 6-gingerone and 6-shogaol increased. HWE treatment effectively improved the quality of ginger to a level suitable for additive or industrial applications.",
+    "quote_sha256": "4feb6c071842f854841741e1ffc006d190c9137175663530c63a84c87f059a16",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "table-wrap #foods-11-00508-t001",
+    "exact_quote": "foods-11-00508-t001_Table 1Table 1Extraction yield and sugar content of ginger extract after 6 types of pre-treatment processes.Pre-Treatment MethodSymbolYield (%)Bx°Squeezed juice/rawGJ1.11 ± 0.01 f1.10 ± 0.00 eHot-water/leached/powderGT16.26 ± 0.18 e1.83 ± 0.06 bHydrothermal/powderHW22.66 ± 0.23 d1.20 ±0.00 dHydrothermal/enzyme/powderHWE55.40 ± 1.18 b2.57 ± 0.06 aHigh-pressure/powderHP24.46 ± 0.19 c1.40 ± 0.00 cHigh-pressure/enzyme/powderHPE67.60 ± 0.48 a2.53 ± 0.06 a\nF-value6575.07 ***767.53 ***Data represent mean value ± standard deviation. Vertically, lowercase letters represent significant content differences between extracts (p < 0.05). Bx°, sugar contents; ***, p < 0.001.",
+    "quote_sha256": "89d7192ba9da0adbfe7958ff7315baad3b6c8ca79780d969cae8ba085d22c3a9",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "table-wrap #foods-11-00508-t002",
+    "exact_quote": "foods-11-00508-t002_Table 2Table 2Gingerol and shogaol contents of ginger extracts after 6 types of pre-treatment processes.\nGJGTHWHWEHPHPEF-Value6G (mg/g)0.81 ± 0.00 f1.27 ± 0.02 e2.28 ± 0.03 c7.03 ± 0.01 a2.18 ± 0.03 d6.30 ± 0.01 b50,470.25 ***8G (mg/g)0.17 ± 0.00 f0.22 ± 0.00 e0.50 ± 0.00 c1.67 ± 0.00 a0.47 ± 0.00 d1.53 ± 0.00 b79,353.60 ***10G (mg/g)0.48 ± 0.00 f0.73 ± 0.01 e1.37 ± 0.01 c4.08 ± 0.01 a1.31 ± 0.01 d3.60 ± 0.03 b52,907.18 ***6S (mg/g)0.29 ± 0.00 f0.44 ± 0.00 e0.86 ± 0.00 c2.52 ± 0.01 b0.83 ± 0.00 d2.62 ± 0.01 a116,407.04 ***8S (mg/g)0.00 ± 0.00 d0.00 ± 0.00 d0.04 ± 0.00 c0.39 ± 0.00 b0.04 ± 0.00 c0.41 ± 0.00 a10,460.00 ***10S (mg/g)0.15 ± 0.01 c0.22 ± 0.02 c0.48 ± 0.03 b1.44 ± 0.09 a0.46 ± 0.03 b1.44 ± 0.01 a574.91 ***Data represent mean value ± standard deviation. Horizontally, lowercase letters represent significant content differences between extracts (p < 0.05). GJ, squeezed raw ginger; GT, ginger tea; HW, hydrothermal extraction; HWE, hydrothermal enzyme-assisted extraction; HP, high-pressure extraction; HPE, high-pressure enzyme-assisted extraction; 6G, 6-gingerol; 8G, 8-gingerol; 10G, 10-gingerol; 6S, 6-shogaol; 8S, 8-shogaol; 10S, 10-shogaol; ***, p < 0.001.",
+    "quote_sha256": "c27e6601a7c00c7c0fd06f29f49bb4c2f2e31a5b7b4623cec032ad5be8097661",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "table-wrap #foods-11-00508-t003",
+    "exact_quote": "foods-11-00508-t003_Table 3Table 3Taste, intensity, and amino acid content of ginger extract for the 6 types of pre-treatment processes.\n\nIntensityTasteGJGTHWHWEHPHPEF-ValueEssentialamino acid(mg/100 g)ValSlightBitter14.38 ± 0.51 c86.39 ± 3.88 a81.31 ± 1.46 b6.74 ± 1.58 d76.92 ± 4.59 b2.14 ± 0.27 d725.61 ***LeuExtremeBitter7.33 ± 0.27 d41.85 ± 1.61 c50.03 ± 0.98 a2.45 ± 0.22 e47.02 ± 2.41 b1.56 ± 0.02 e1049.34 ***IsoModerateBitter6.31 ± 0.23 d38.31 ± 1.56 c44.04 ± 1.07 a1.18 ± 0.21 e41.15 ± 2.32 b0.70 ± 0.02 e893.61 ***LysSlightBitter, Salty3.37 ± 0.19 e53.76 ± 1.04 a47.89 ± 0.49 b5.87 ± 0.29 d44.04 ± 2.24 c2.52 ± 0.12 e1689.51 ***ThrSlightSweet11.32 ± 0.35 d50.25 ± 2.22 a46.91 ± 0.90 b0.99 ± 0.02 e43.68 ± 2.78 c1.14 ± 0.05 e739.05 ***PheExtremeBitter4.57 ± 0.16 c28.48 ± 1.07 b31.16 ± 0.61 a1.88 ± 0.17 d29.51 ± 1.59 b2.19 ± 0.02 d957.72 ***MetExtremeBitter5.32 ± 0.21 d7.18 ± 0.08 b7.31 ± 0.13 ab6.43 ± 0.22 c7.71 ± 0.46 a0.40 ± 0.01 e411.70 ***HisExtremeBitter11.28 ± 0.34 c12.39 ± 0.36 c19.95 ± 0.43 a0.17 ± 0.02 d18.04 ± 1.49 b0.36 ± 0.04 d487.65 ***TyrExtremeBitter7.82 ± 0.28 c71.61 ± 3.73 b86.40 ± 1.45 a1.53 ± 0.14 d81.94 ± 4.97 a2.32 ± 0.02 d777.03 ***Non-essentialamino acid(mg/100 g)GlnSlightSweet, Salty, Bitter0.22 ± 0.01ND2.19 ± 0.10ND0.77 ± 0.17NDNSAsn-TastelessNDND120.94 ± 2.60ND108.90 ± 3.79NDNSGluExtremeUmami, Sweet81.21 ± 2.82 c154.42 ± 4.00 b239.90 ± 5.43 a7.62 ± 0.30 d230.30 ± 16.38 a7.63 ± 0.06 d609.76 ***ArgModerateBitter0.13 ± 0.02 e3.49 ± 1.94 cd77.63 ± 1.30 a4.83 ± 0.15 c69.70 ± 2.63 b0.94 ± 0.02 de1988.54 ***AlaModerateUmami, Sweet45.59 ± 1.57 b181.41 ± 7.18 a189.35 ± 3.50 a3.76 ± 0.12 c180.19 ± 11.48 a3.85 ± 0.09 c772.78 ***ProModerateBitter, Sweet7.29 ± 0.48 c2.02 ± 0.58 d70.56 ± 1.64 a0.66 ± 0.03 de64.03 ± 0.57 b0.56 ± 0.01 e5646.38 ***AspExtremeUmami93.46 ± 3.16 c24.27 ± 2.34 d245.80 ± 4.19 a3.66 ± 0.19 e230.38 ± 12.73 b3.13 ± 0.03 e1156.88 ***SerModerateSweet49.24 ± 1.67 c6.82 ± 0.34 d119.63 ± 3.04 a1.19 ± 0.09 e102.99 ± 3.25 b1.38 ± 0.05 e2251.65 ***GlyModerateSweet8.00 ± 0.32 c77.48 ± 3.55 a57.46 ± 1.59 b0.62 ± 0.05 d54.13 ± 3.06 b1.32 ± 0.03 d836.63 ***TrySlightBitter8.46 ± 0.13 b10.70 ± 4.61 b12.11 ± 1.09 ab14.98 ± 0.07 a10.80 ± 1.90 b2.38 ± 0.13 d12.53 ***Otheramino acid(mg/100 g)OrnSlightSour5.18 ± 0.11 de43.19 ± 1.03 a29.13 ± 1.75 b6.58 ± 0.15 d26.15 ± 1.94 c3.25 ± 0.14 e605.70 ***CitExtremeSour26.91 ± 0.92 b33.98 ± 1.71 a11.08 ± 0.43 d18.87 ± 0.16 c10.68 ± 0.73 d1.61 ± 0.10 e560.48 ***GABA-Tasteless6.47 ± 0.21 c56.97 ± 1.85 a56.42 ± 1.17 ab1.78 ± 0.09 d53.53 ± 3.34 b1.18 ± 0.02 d935.86 ***Data represent mean value ± standard deviation. Horizontally, lowercase letters represent significant content differences between extracts (p < 0.05). For the taste and intensity of each amino acid, refer to [48,49,50]; GJ, squeezed raw ginger; GT, ginger tea; HW, hydrothermal extraction; HWE, hydrothermal enzyme-assisted extraction; HP, high-pressure extraction; HPE, high-pressure enzyme-assisted extraction; Val, valine; Leu, leucine; Iso, isoleucine; Lys, lysine; Thr, threonine; Phe, phenylalanine; Met, methionine; His, histidine; Tyr, tyrosine; Gln, glutamine; Asn, asparagine; Glu, glutamic acid; Arg, arginine; Ala, alanine; Pro, proline; Asp, aspartic acid; Ser, serine; Gly, glycine; Try, tryptophan; Orn, ornitnine; Cit, citrulline; GABA, γ-aminobutyric acid; ***, p < 0.001; NS, not significant; ND, not detected; -, no data.",
+    "quote_sha256": "555fb6ba063530e226faf981523d251732e51596b32265e8523129f8a28aea39",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "fig #foods-11-00508-f001",
+    "exact_quote": "Figure 1E-nose results of ginger extracts for 6 types of pre-treatment processes. Radar chart of area units by E-nose (A). Radar chart of sensory descriptors by E-nose (B). 3D model of PCA based on the E-nose data set (C). GJ, squeezed raw ginger; GT, ginger tea; HW, hydrothermal extraction; HWE, hydrothermal enzyme-assisted extraction; HP, high-pressure extraction; HPE, high-pressure enzyme-assisted extraction.",
+    "quote_sha256": "612020a05e5cf6aca96a048191ef1afd08e935dc494bc878859137772e6657ec",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "fig #foods-11-00508-f002",
+    "exact_quote": "Figure 2Volatile compounds identified by SBSE-TD/GC-MS/MS of ginger extracts for 6 types of pre-treatment processes. Significance was compared with one-way ANOVA between the extraction method and the area of compound classification; GJ, squeezed raw ginger; GT, ginger tea; HW, hydrothermal extraction; HWE, hydrothermal enzyme-assisted extraction; HP, high-pressure extraction; HPE, high-pressure enzyme-assisted extraction; ***, p < 0.001.",
+    "quote_sha256": "da4d23adcf4beea754ae1e91b60f0706008c950afc313fb7cc30cf0f390552be",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "fig #foods-11-00508-f003",
+    "exact_quote": "Figure 3Comparison of total volatile compounds by extraction method. Significance was compared by independent-sample t-tests between the extraction methods. Area units of volatile compounds; between GJ and GT (A); between HW and HWE (B); between HP and HPE (C); between HWE and HPE (D); GJ, squeezed raw ginger; GT, ginger tea; HW, hydrothermal extraction; HWE, hydrothermal enzyme-assisted extraction; HP, high-pressure extraction; HPE, high-pressure enzyme-assisted extraction; **, p < 0.01; NS, not significant.",
+    "quote_sha256": "43e9fc9f8c4cceafdf22520cd805f11d23b8e2b4abcc5e81c0e014154e27e576",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "fig #foods-11-00508-f004",
+    "exact_quote": "Figure 4Volatile compounds in ginger extract for 6 types of pre-treatment processes. GJ, squeezed raw ginger; GT, ginger tea; HW, hydrothermal extraction; HWE, hydrothermal enzyme-assisted extraction; HP, high-pressure extraction; HPE, high-pressure enzyme-assisted extraction. The PCA score plot based on the GC-MS/MS data set (A). The PLS-DA results of permutation tests (B).",
+    "quote_sha256": "14802c8a6a21c2c2ec99bc80bce0329b0db2dfb8f8e1d6e10af1a6b5ba097293",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 1,
+    "pmcid": "PMC8871348",
+    "locator": "fig #foods-11-00508-f005",
+    "exact_quote": "Figure 5Volatile characteristics of ginger extract for 6 types of pre-treatment processes by PLS-DA; GJ, squeezed raw ginger; GT, ginger tea; HW, hydrothermal extraction; HWE, hydrothermal enzyme-assisted extraction; HP, high-pressure extraction; HPE, high-pressure enzyme-assisted extraction; VIP > 1; p < 0.05.",
+    "quote_sha256": "6943d699e16eff394ff438d8c0d836fdd1a20170652253b99d24d5ccecf99cb6",
+    "raw_sha256": "ce3310e32f3d16740cd7e085e6d9b3d76cc9661167c1765a90699ce2cdd9ba7a"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec1 (Introduction), direct p 1",
+    "exact_quote": "The rhizomes of ginger (Zingiber officinale Roscoe) are characterised by a pungent flavour, resulting from the presence of gingerol compounds (Kumara et al., 2017), the most abundant of which are [6]-gingerol, [8]-gingerol and [10]-gingerol (Yudthavorasit et al., 2014). Furthermore, numerous derivatives of gingerols are also present in fresh and dried ginger, including shogaols and paradols (Jolad et al., 2004, 2005; Yudthavorasit et al., 2014). In combination with some of these derivatives, gingerols are reported to provide most of the documented medicinal properties of ginger (Govindarajan and Connell, 1983; Grzanna et al., 2005; Kubra and Rao, 2012), as well as its characteristic pungent taste and odour (Fisher and Scott, 2007).",
+    "quote_sha256": "6b40a4c68ebee90aeced5bd09d3821639fb57875b8dce54f76c021f9cf8c22d8",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec1 (Introduction), direct p 2",
+    "exact_quote": "When fresh ginger is dried, gingerols are converted to their respective shogaols (alkene side chain derivatives) through an elimination dehydration reaction (Ghasemzadeh et al., 2018; Huang et al., 2011; Wohlmuth et al., 2005). The proportion of gingerols converted to shogaols depends on the drying temperature, but can approach ∼50% conversion under very high drying temperatures (180 °C) (Ghasemzadeh et al., 2018). As shogaols are twice as pungent as gingerols (Narasimhan & Govindarajan, 1978), this increases the pungency of dried ginger proportionally. Furthermore, shogaols also show higher bioactive and medicinal properties (Ghasemzadeh et al., 2018) compared to their respective gingerols (Wei et al., 2005).",
+    "quote_sha256": "75dd8f28e60f0d1ee173829841f7a1da8a940e46fd48a051bfe26997fda1a653",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec1 (Introduction), direct p 3",
+    "exact_quote": "[6]-paradol, the alkane derivative of [6]-shogaol, can be formed from [6]-shogaol through enzymatic reduction of the alkene bond (Jo et al., 2016), although little has been published on the purported synthesis pathway in ginger. [6]-paradol is present in fresh and dried ginger (Jolad et al., 2005; Nagendra chari et al., 2013), albeit at much lower concentrations compared to the gingerols and shogaols. However, it possesses greater bioavailability and neuroprotective effects compared to 6-shogaol (Choi et al., 2017; Park et al., 2016; Sapkota et al., 2019). Other reported health benefits of [6]-paradol include anti-tumour activity (Chung et al., 2001; Lee and Surh, 1998; Surh et al., 1999), anti-inflammatory activity (Ilic et al., 2014; Saptarini, 2013) and upregulation of metabolic activity and glucose usage providing anti-hyperglycaemic activity (Iwami et al., 2011; Wei et al., 2017). Whilst many of these bioactive properties can also be imparted by gingerols and shogaols, they are slightly less potent compared to the corresponding paradols. Notably, Chen et al. (2012) demonstrated that shogaols are metabolised to paradols in rats, suggesting that consumption of shogaols may have more beneficial health effects than that anticipated from in vitro studies on the bioactivity of shogaols.",
+    "quote_sha256": "f496d2655d949611fa1a580978d0e5d68bfceb729e336a919a1594a54df9fe2f",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec1 (Introduction), direct p 4",
+    "exact_quote": "Previous studies have investigated the volatile constituents of fresh and dried ginger (Jolad et al., 2004, 2005), profiled the variation between different varieties and growing locations (Bailey-Shaw et al., 2008; Wohlmuth et al., 2005), and determined the effects of processing methods such as drying on these constituents (Bartley and Jacobs, 2000). However, there is limited information available on the chemical composition of dried processing-grade ginger, and even fewer studies correlating variations in the chemical constituents with the perceived quality of the ginger. To this end, we characterise the major pungent and volatile constituents of three samples of dried Australian processing-grade ginger.",
+    "quote_sha256": "16eb493f3d2a9b7c443e9322ea615177ee15371d74984d3def0a5c0fb06a6f7f",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec2.1 (Sample processing), direct p 1",
+    "exact_quote": "Three samples of Queensland-grown processing-grade fresh ginger from three different growing years (2017, 2018 and 2019) were dried and powdered. Based on anecdotal information and organoleptic testing, these samples were identified as being low quality (2017 sample), average quality (2018) and high quality (2019).",
+    "quote_sha256": "842b91e0e60b89ce415ee55b99c1402ec026939e5ef985e797c5cf4095e2fb14",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec2.2 (Extraction protocols), direct p 1",
+    "exact_quote": "Polar compounds, such as gingerols and their derivatives, were extracted from the dried ginger samples using the extraction protocol previously reported by our laboratory for the extraction of phenolics (Johnson et al., 2019, 2020a, 2020b). Briefly approximately 0.5 g of dried ginger was combined with 7 mL of 90% aqueous methanol and shaken end-over-end for 60 min. After centrifuging (1000 g; 10 min) and collecting the supernatant, this was repeated with another 7 mL of fresh 90% methanol. The two supernatants were combined and volumetrically made up to 15 mL. Extracts were prepared in triplicate, with results expressed in mg kg−1 (as-is basis). These extracts were used for HPLC profiling of gingerol and its derivatives as well as measuring the total antioxidant and phenolic contents.",
+    "quote_sha256": "d3cdd6890e821dfc4809e2774a7753e30eb63c11ed08800b06b22c6e7ed203a7",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec2.2 (Extraction protocols), direct p 2",
+    "exact_quote": "To extract the volatile compounds for GC-MS analysis, most of which are relatively non-polar in nature, a separate extract was prepared. A portion of ginger powder (0.3000 ± 0.0001 g) was weighed into a glass vial, to which 5 mL of dichloromethane (DCM) was added. The vials were sonicated for 30 min (Soniclean 160TD ultrasonic cleaner; Dudley Park, South Australia) before the supernatant was syringe filtered (0.45 μm PTFE; Livingstone) into mass spectrometry-grade GC-MS vials (Shimadzu).",
+    "quote_sha256": "44849cf391bc6a32010d81cc564adec180ca4b5cde0b13e7276a831300798192",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec2.3 (Measurement of total phenolics and total antioxidant content), direct p 1",
+    "exact_quote": "Total phenolics (TP) were measured in the polar methanolic extracts using the Folin-Ciocalteu method of Singleton and Rossi (1965). The total antioxidant content was estimated using the CUPRAC (cupric reducing antioxidant capacity) assay of Apak et al. (2013). The results were quantified as equivalents of gallic acid (GA) and Trolox equivalents (TE), respectively. Both methods have been previously described by our laboratory (Johnson et al., 2020a, 2020b, 2020c).",
+    "quote_sha256": "9f8d9dc26b25402bc6797e369b03ec911aac99aca7cc3b3e5941270996494e9b",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec2.4 (Gingerol profiling by HPLC), direct p 1",
+    "exact_quote": "Gingerol profiling was performed on the polar extracts using high-performance liquid chromatography (HPLC), following an in-house method previously developed by our laboratory for the analysis of these constituents in dried ginger samples (unpublished data). The 90% methanol extracts were syringe filtered (0.45 μm PTFE; Livingstone) before being directly injected without any further preparation. The separation and quantification of gingerols and 6-shogaol was achieved on an Agilent 1100 HPLC system, comprising a G1313A autosampler, G1322A vacuum degasser, G1311A quaternary pump, G1316A thermostatted column compartment and G1365B multi-wavelength detector module. A reversed phase C18 column was used (Agilent Eclipse XDB-C18; 150 × 4.6 mm; 5 μm pore size) with the column temperature controlled at 27 ± 0.8 °C. An injection volume of 5 μL was used, while a wavelength of 230 nm was used for the quantification of gingerols and 6-shogaol.",
+    "quote_sha256": "f9a63f332fac059829cbcb79931f465b95e9eb20b935151ccc19c4b8d3eb3688",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec2.4 (Gingerol profiling by HPLC), direct p 2",
+    "exact_quote": "A gradient mobile phase of water (A) and methanol (B) was used, beginning at 30% B (0 min), ramping to reach 60% B by 2 min, 63% by 10 min, 65% by 16 min and 100% at 28 min, before holding for a further 5 min. The sample run time was 33 min, followed by a flushing period of 5 min, making an overall run time of 38 min per sample. A flow rate of 1 mL/min was used throughout.",
+    "quote_sha256": "b662bcb6f9a1906b20f608713cb41f698c03a3d575b22fb59001879ec74adfd9",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec2.4 (Gingerol profiling by HPLC), direct p 3",
+    "exact_quote": "The peaks of interest were identified using authentic standards of [6]-gingerol (Toronto Research Chemicals; Toronto, Canada), [8]-gingerol (Glentham Life Sciences; Corsham, United Kingdom), [10]-gingerol (Glentham Life Sciences) and [6]-shogaol (Toronto Research Chemicals), as well as through their UV spectral characteristics. Standard curves of these four compounds were prepared in methanol (10–100 mg L−1) for quantification purposes. All standard curves showed high linearity (R2 = 0.9991–0.9998), with the detector response factors ranging between 4.29 (for [10]-gingerol) to 27.32 (for [6]-shogaol). The typical repeatability of the analysis (for [6]-gingerol) from consecutive injections was 0.10% relative standard deviation (RSD) in the peak area, while the inter-day precision was 0.31% for retention time and 2.02% for peak area (from four injections over the course of a week). Triplicate injections of the sample ginger extract also showed high repeatability (RSD of 0.24% for [6]-gingerol, 0.32% for [8]-gingerol, 0.63% for [10]-gingerol and 0.24% for [6]-shogaol).",
+    "quote_sha256": "ba88ae55f2d7406a7ef5d81e422db41586b5a978a38d05b5de29827d217ac5df",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec2.5 (GC-MS analysis), direct p 1",
+    "exact_quote": "In addition to the pungent gingerols and their derivatives, volatile compounds also play a large role in determining the organoleptic properties and hence the perceived flavour of ginger. Gas chromatography coupled with mass spectrometry (GC-MS) was used to profile the volatile compounds present in the previously described DCM extracts. Although no internal standard was used, care was taken to ensure that the same mass of powdered ginger sample was used in each extraction (±0.0001 g), allowing for semi-quantification of each constituent by its peak area on the total ion chromatogram (TIC).",
+    "quote_sha256": "d4599c08357228c70fa2541f30cada6ddc9cad02eb3da8294b0c7df324e55003",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec2.5 (GC-MS analysis), direct p 2",
+    "exact_quote": "GC-MS analysis was performed on a Shimadzu QP2010 Plus system fitted with an autoinjector/autosampler (AOC-20i/s) and a Shimadzu SH-Rxi-5Sil MS column (29 m × 0.25 mm i.d. × 0.25 μm thickness). Three solvent rinses (in DCM) were performed pre- and post-injection, with two rinses of the needle with the extract prior to injection. The injection volume was 0.5 μL using split mode (split ratio = 15) and an injection temperature of 250 °C. Helium was used as a carrier gas, at a column flow rate of 1.31 mL/min and pressure of 73.2 kPa. The oven temperature began at 50 °C, ramped at 10 °C/min until 130 °C, slowed to 5 °C/min until 200 °C, then returned to a ramp of 10 °C/min until 340 °C, where it held for 3 min to remove any residue from the column. The total run time was 39 min. The ion source and mass spectrometer interface temperatures were both set at 200 °C. The mass spectrometer was set to scanning mode, with acquisition (35–500 m/z) between 2.5 and 37 min. For quantitative purposes, peaks on the total ion chromatogram (TIC) were integrated if their slope was >1000 counts/min and their peak height was >100,000 counts. Compounds were identified from comparison of their mass spectra to the NIST library (https://chemdata.nist.gov/) and from their linear retention indices (LRIs), calculated from their retention times compared against a set of C8–C30 alkane standards, following the method of van Den Dool and Kratz (1963).",
+    "quote_sha256": "2b154c82973903e3f14bf8a7c9c05300662055485ee41e20bd61dbedaa4372f9",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec2.6 (Data analysis), direct p 1",
+    "exact_quote": "Statistical testing was performed in IBM SPSS v. 26 (New York, USA). As all data was approximately normally distributed, one-way ANOVAs were used to compare data between different samples, followed up by post-hoc Tukey testing (at α = 0.05) if a significant result was returned. Plots were created in Microsoft Excel. Where applicable, results are presented as mean ± 1 standard deviation.",
+    "quote_sha256": "160efb43d05e8fbc5ebfb0c7fca877cf60519d4c8d4e9ec244219e871e4cc099",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec3.1 (Antioxidant properties and pungent constituents), direct p 1",
+    "exact_quote": "The total phenolic content and total antioxidant capacity of the dried ginger samples showed a consistent trend, from lowest in the oldest ginger sample (2017) to highest in the 2019 sample (Table 1). However, the difference between the 2018 and 2019 samples was not significantly different. The [6]-gingerol content was significantly different between samples, with the lowest levels in the 2017 ginger and highest in the 2019 ginger (see Fig. 1). For both [8]-gingerol and [10]-gingerol, no significant differences in concentration were found between the 2017 and 2018 samples, while the 2019 sample had significantly higher levels of both compounds. The [6]-shogaol content did not appear to show any clear changes with age, being lowest in the 2019 ginger and highest in the 2018 ginger, but remaining relatively low in the 2017 ginger. However, the ratio of [6]-gingerol to [6]-shogaol did decrease significantly with the sample age, indicating that the youngest (2019) sample contained significantly higher levels of [6]-gingerol compared to its [6]-shogaol content.Table 1Physical and chemical characteristics of the three powdered ginger samples.Table 1Parameter2017 ginger2018 ginger2019 gingerTotal phenolics/mg GAE 100g−1 (n = 3)1834 ± 106a2654 ± 434b3193 ± 297bCUPRAC/mg TE 100g−1 (n = 3)3106 ± 287a4932 ± 244b5440 ± 20b[6]-gingerol/mg kg−1 (n = 3)2215 ± 101a3491 ± 26b5383 ± 270c[8]-gingerol/mg kg−1 (n = 3)674 ± 46a764 ± 17a1167 ± 59b[10]-gingerol/mg kg−1 (n = 3)1475 ± 127a1524 ± 42a2065 ± 58c[6]-shogaol/mg kg−1 (n = 3)836 ± 50b1063 ± 19c709 ± 15aRatio of [6]-gingerol:[6]-shogaol2.65 ± 0.08a3.28 ± 0.04b7.59 ± 0.36cFig. 1HPLC chromatograms of the three powdered ginger samples. The labelled peaks are (1) [6]-gingerol, (2) [6]-shogaol, (3) [8]-gingerol and (4) [10]-gingerol.Fig. 1",
+    "quote_sha256": "4cc99d5e5691826a85323670f43ef8dd8fd9e39242b4c66984568d289314b9fe",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec3.1 (Antioxidant properties and pungent constituents), direct p 2",
+    "exact_quote": "The lack of a clear trend in [6]-shogaol content with increasing age of the sample was consistent with previous research by our laboratory (Johnson et al., 2020d), which found no significant increase in [6]-shogaol with aging, but rather suggested that the equilibrium point for the dehydration of [6]-gingerol into [6]-shogaol may be dependent upon the drying conditions, rather than on the [6]-gingerol concentration. In other words, younger dried ginger samples contained approximately the same amount of [6]-shogaol as the older samples, irrespective of their higher [6]-gingerol levels.",
+    "quote_sha256": "794551e517c31109e07c19416a2bb1ea68502fa1a7ce45fad5ac64c1ae614ada",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec3.2 (GC-MS: volatile constituents), direct p 1",
+    "exact_quote": "The GC-MS profiling of the ginger samples revealed the presence of 100 volatile compounds which were identified from their mass spectral data and linear retention indices (see Supplementary Materials; Table SM1). A total of 54 terpenoid-related compounds were identified, comprising 20 monoterpenes, 27 sesquiterpenes, and 7 diterpenes (Table SM1; Fig. 2).Fig. 2The total ion chromatogram of the three ginger samples. Black = 2019, pink = 2018, blue = 2017. Compound numbers correspond to those provided in Table 2. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)Fig. 2",
+    "quote_sha256": "068008b43c8d3a570d06af04c44a0d01d452a13048faaaa9154d92471f21038e",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec3.2 (GC-MS: volatile constituents), direct p 2",
+    "exact_quote": "The majority of volatile constituents presented in this work had been reported by previous authors (e.g. Chen and Ho, 1988; Cornell and Jordan, 1971; Dhanik et al., 2017; Jiang et al., 2006; Nishidono et al., 2020; Wohlmuth et al., 2006). However, the sesquiterpene shyobunol has only been reported in ginger from Iraq by Shareef et al. (2016).",
+    "quote_sha256": "6f7a09343bf41e9933ac876744fc0ed39b003e095ac4add480e0525e1a85edae",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec3.2 (GC-MS: volatile constituents), direct p 3",
+    "exact_quote": "Although both p-cymene (Nigam et al., 1964; Smith and Robinson, 1981; Wohlmuth et al., 2006) and geraniol (Baldin et al., 2019; Jayashree et al., 2014) have been reported in ginger by numerous researchers, geranyl-p-cymene has only recently been reported by Hazim et al. (2020) from fresh ginger. Similarly, geranyl-α-terpinene was only identified from ginger oil by Ismaeel and Usman (2021). In this work, we also tentatively identified the presence of isomers of shyobunol and geranyl-α-terpinene in the ginger samples.",
+    "quote_sha256": "3f53b6bbeeb84af182c7184c022394cb5b0c11debd8fbb5da40ebb8cd8437f90",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec3.2 (GC-MS: volatile constituents), direct p 4",
+    "exact_quote": "Other compounds that have been identified in this work, which do not appear to have been previously reported in ginger, included limonene glycol and neryl laurate (Table SM1). Limonene glycol has been found in a variety of plants, including oil from the conifer Torreya grandis (Niu et al., 2010) and cardamom oil (Núñez-Carmona et al., 2018). This compound can be produced from the hydrolysis of limonene oxide, which in turn is produced by the oxidation of limonene. D-limonene was detected in the ginger samples (Table SM1), indicating the potential origin of limonene glycol in this matrix. In contrast, neryl laurate has only been reported from a few species, including Rosa damascena (Ansari et al., 2017) and possibly from Cedrus atlantic (Ainane et al., 2019). However, the related ester neryl butyrate is a common constituent from volatile oils derived from aromatic plants (de Carvalho et al., 2020).",
+    "quote_sha256": "acfe932c432874e31b1bd3cdbc06ba83da953204c9550e94344658eb37bcf27e",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec3.2 (GC-MS: volatile constituents), direct p 5",
+    "exact_quote": "In addition, several compounds were tentatively identified from ginger for the first time, including hydroxycitronellol – previously found in the herb Pelargonium crispum (Sadgrove, 2018) and Citrus junos (Park et al., 2004), dihydrofarnesol – previously reported from fragrant orchids (Julsrigival et al., 2013) and Cyclamen spp. (Shibusawa et al., 2018), and 4,6-bis(4-methylpent-3-en-1-yl)-6-methylcyclohexa-1,3-diene-carbaldehyde – previously known from the marine bryozoan Flustra foliacea (Peters et al., 2002). However, as suggested by Holst et al. (1994), this latter compound may potentially be produced from the condensation of citral during the extraction or analysis process, rather than being naturally found in the original sample matrix.",
+    "quote_sha256": "b5fd68e8546a7dbd88141486a743879cefa513334c4aa9077a3b0a35f51ae81d",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec3.2 (GC-MS: volatile constituents), direct p 6",
+    "exact_quote": "Forty-two of the major peaks were selected for quantification and comparison purposes between the three ginger samples, comprising 5 monoterpenes, 14 sesquiterpenes, 3 diterpenes and 20 gingerol-related compounds (termed ‘gingerol derivatives’) (Table 2). Relatively, the 2018 ginger sample had the highest levels of volatiles extracted (summed peak area of 14.9 million arbitrary units), followed by the 2017 sample (9.6 million arbitrary units). The 2019 ginger sample containing the least volatiles (summed peak area of 8.6 million arbitrary units).Table 2GC-MS profiles of the major volatile and pungent constituents of the three dried ginger samples. Data are given as percent of total peak area in each chromatogram. Compound numbers correspond to the chromatogram in Fig. 2.Table 2#Rt (min)LRILit LRI^M+ (m/z)Base peak (m/z)CompoundClass2017 ginger (%)2018 ginger (%)2019 ginger (%)14.3395395313693CampheneMonoterpene0.380.270.2428.411223122815669β-citronellolMonoterpene0.180.300.2138.801247124515469GeraniolMonoterpene0.951.030.73411.001374137619669Geranyl acetateMonoterpene0.640.640.35513.1114821483202132α-curcumeneSesquiterpene1.401.890.69613.3914961495204119ZingibereneSesquiterpene1.422.491.19713.531503150420493α-farneseneSesquiterpene0.671.440.82813.661509150920469β-bisaboleneSesquiterpene0.560.930.34913.991525151820469β-sesquiphellandreneSesquiterpene1.412.310.831014.511550154722259ElemolSesquiterpene0.540.550.411114.701559155622269trans-nerolidolSesquiterpene0.510.580.371215.361591158822269cis-sesquisabinene hydrateSesquiterpene0.430.420.411315.871614162022269ZingiberenolSesquiterpene0.670.630.621416.221631163822269trans-sesquisabinene hydrateSesquiterpene0.390.480.601516.2916351622222121EpiglobulolSesquiterpene0.300.420.271616.3716381638194137ZingeroneGingerol derivative0.500.550.601716.801658165422259β-eudesmolSesquiterpene0.920.970.801817.3816861687222137ShyobunolSesquiterpene1.010.990.931919.901805178127269α-springeneDiterpene2.092.081.292021.0618621853236109CorymboloneMonoterpene0.871.010.542122.7819521980270119Geranyl-p-cymeneDiterpene1.050.540.462224.052029203329069Geranyl linaloolDiterpene0.660.350.452325.1521092113286137Tentative: 4,6-bis(4-methylpent-3-en-1-yl)-6-methylcyclohexa-1,3-diene-carbaldehydeSesquiterpene1.691.811.292426.0221722183266137[4]-gingerolGingerol derivative0.140.310.492526.5422142224276137[6]-isoshogaolGingerol derivative0.510.400.412626.6722262235278137[6]-paradolGingerol derivative1.341.681.782727.3722912289276137[6]-shogaolGingerol derivative23.6821.9618.492827.662319ND290151Me-[6]-shogaolGingerol derivative0.610.710.382927.7623282335292137[6]-gingerdioneGingerol derivative1.901.572.563028.3823872383294137[6]-gingerolGingerol derivative6.049.4512.463128.562403ND308151Me-[6]-gingerolGingerol derivative0.440.480.653228.9724492454336137Acetoxy-[6]-gingerolGingerol derivative0.250.180.973329.252480ND296137[6]-gingerdiolGingerol derivative3.273.494.323429.3724942489338137Isomer of 5-acetoxy-[6]-gingerdiolGingerol derivative0.860.921.163529.4725042506380137Diacetoxy-[6]-gingerdiolGingerol derivative8.727.388.313629.6625262524394151Methyl diacetoxy-[6]-gingerdiolGingerol derivative1.351.402.013729.802541ND320137[8]-gingerdioneGingerol derivative1.000.361.113830.28259525922901771-dehydro-[6]-gingerdioneGingerol derivative2.561.663.343931.2827172720332137[10]-shogaolGingerol derivative6.964.304.164031.6127582762348137[10]-gingerdioneGingerol derivative3.391.493.164134.0230783077430137[6]-gingerdiol (2E)-geranial acetalGingerol derivative1.672.642.804234.533146ND356137Gingerenone AGingerol derivative0.410.480.59Sum of quantified volatiles84.3483.5483.59^literature LRI values: Bartley and Jacobs (2000), El-Sayed (2021), Huang et al. (2012), Nishidono et al. (2020), Singh et al. (2008).ND = no data available.",
+    "quote_sha256": "88f1afe7027e5c930b0f490c752828ccec3142b08da5d4622deb22d76a22a24f",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec3.2 (GC-MS: volatile constituents), direct p 7",
+    "exact_quote": "For the monoterpenes, the 2018 ginger had the highest levels of β-citronellol, geraniol, geranyl acetate and corymbolone. The 2017 sample also had a relatively high content of corymbolone, but low levels of β-citronellol. Within the sesquiterpenes, notable differences between the three samples were observed for α-curcumene, trans-sesquisabinene hydrate and β-sesquiphellandrene. For most of the remaining volatiles, the proportion of each compound was comparable to that found in the other samples.",
+    "quote_sha256": "d5a60979dbe996bd16f743f9b063172f73a786dc9883d280125bec3a12be8562",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec3.3 (GC-MS: pungent compounds), direct p 1",
+    "exact_quote": "In terms of the gingerol-related (pungent) compounds, a total of 35 gingerols and gingerol derivatives were identified, as well as 5 methoxyphenols with a related structure to gingerol. All of the gingerol derivatives were previously identified by Jolad et al. (2005) in dried ginger or by Nishidono et al. (2020) in fresh ginger. The presence of [10]-isoshogaol was notable, as this compound has only been previously reported from ginger by a limited number of authors (Nishidono et al., 2020; Zhan et al., 2008), likely due to its very low concentrations. For example, the average concentration of [6]-shogaol across the samples was found to be 48.8 ± 5.4 (n = 3) times higher than its isomeric form, [6]-isoshogaol, indicating high favourability toward the more conjugated and more stable isomer of [6]-shogaol. This trend would likely hold true for other isoshogaols, such as [10]-isoshogaol. Similarly, [6]-gingerdiol-(2E)-geranial acetal appears to have only been previously identified by a few authors (Jolad et al., 2005; Nishidono et al., 2020).",
+    "quote_sha256": "320a598af2c8f23dec1aa2fbffdc7984796315a7b27037e76618001846b9cc29",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec3.3 (GC-MS: pungent compounds), direct p 2",
+    "exact_quote": "The proportions of most of the pungent constituents were similar between the three samples. The largest differences in the relative proportions of the pungent constituents was found for acetoxy-[6]-gingerol, followed by [4]-gingerol, [10]-gingerdione and methyl-[6]-shogaol. In contrast, the proportions of diacetoxy-[6]-gingerdiol and the 5-acetoxy-[6]-gingerdiol isomer were quite consistent between samples.",
+    "quote_sha256": "cdafbcd3d7efc5a836fad3501703e02368ad8953fb1275a3478908e545fa6e20",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec3.3 (GC-MS: pungent compounds), direct p 3",
+    "exact_quote": "The 2019 ginger had the highest proportion of [6]-gingerol (12.5% of the total peak area) and the lowest proportion of [6]-shogaol (18.5%). After [6]-shogaol and [6]-gingerol, the next greatest constituent was diacetoxy-[6]-gingerdiol, which comprised between 7.4 and 8.7% of the total peak area. [10]-shogaol was also present in relatively high concentrations (4.2–7.0% of the total peak area).",
+    "quote_sha256": "d1629ceff92acb7e66947ae48830954e23565a259276e4e7b6697614280b5059",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec4 (Conclusion), direct p 1",
+    "exact_quote": "Significant differences were found between the three ginger samples in their pungent components, as well as in the volatile terpenes present. The 2019 sample contained much higher levels of 6-gingerol and possessed a higher 6-gingerol:6-shogaol ratio. A total of 54 terpenoid derivatives were identified in the dried ginger samples, alongside 35 gingerol derivatives. Several compounds are reported from ginger for the first time. Further research is recommended to allow the correlation of specific compounds with specific aspects of ginger flavour and quality.",
+    "quote_sha256": "46f4ea6b4fca054c5f523eae4d9833b511a96b39a348c75f052d319c274cba84",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec5 (Funding source), direct p 1",
+    "exact_quote": "This work was supported in part by a New Staff Grant (RSH/5343) awarded by 10.13039/501100001790CQUniversity to one of the authors (MN). One of the authors (JJ) acknowledges support from the 10.13039/100015539Australian Government in the form of a Research Training Program.",
+    "quote_sha256": "f2b1572d7e1311dbada79ea951c4cededa0753834f1e0f5fbb5d0a1c009f2923",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section sec6 (CRediT authorship contribution statement), direct p 1",
+    "exact_quote": "Joel B. Johnson: Data curation, Formal analysis, Investigation, Methodology, Resources, Software, Validation, Visualization, Writing – original draft, Writing – review & editing. Janice S. Mani: Investigation, Writing – review & editing. Simon White: Resources, Writing – review & editing. Philip Brown: Resources, Writing – review & editing. Mani Naiker: Conceptualization, Funding acquisition, Project administration, Resources, Supervision, Writing – review & editing.",
+    "quote_sha256": "fdb233a016d8e032901ece8f8783be50be6f3aaf1c81e70d582ccc0072105ea9",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "section None (Declaration of competing interest), direct p 1",
+    "exact_quote": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+    "quote_sha256": "7c01408011bc89f908a3ec18505dcdda8e1ce7a1c2476ad72a4b8f9a0cffb422",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "table-wrap #tbl1",
+    "exact_quote": "Table 1Physical and chemical characteristics of the three powdered ginger samples.Table 1Parameter2017 ginger2018 ginger2019 gingerTotal phenolics/mg GAE 100g−1 (n = 3)1834 ± 106a2654 ± 434b3193 ± 297bCUPRAC/mg TE 100g−1 (n = 3)3106 ± 287a4932 ± 244b5440 ± 20b[6]-gingerol/mg kg−1 (n = 3)2215 ± 101a3491 ± 26b5383 ± 270c[8]-gingerol/mg kg−1 (n = 3)674 ± 46a764 ± 17a1167 ± 59b[10]-gingerol/mg kg−1 (n = 3)1475 ± 127a1524 ± 42a2065 ± 58c[6]-shogaol/mg kg−1 (n = 3)836 ± 50b1063 ± 19c709 ± 15aRatio of [6]-gingerol:[6]-shogaol2.65 ± 0.08a3.28 ± 0.04b7.59 ± 0.36c",
+    "quote_sha256": "c168c1928945565861a2d1d4fca3f32ab7e1a98e1896f4306b6041958158875e",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "table-wrap #tbl2",
+    "exact_quote": "Table 2GC-MS profiles of the major volatile and pungent constituents of the three dried ginger samples. Data are given as percent of total peak area in each chromatogram. Compound numbers correspond to the chromatogram in Fig. 2.Table 2#Rt (min)LRILit LRI^M+ (m/z)Base peak (m/z)CompoundClass2017 ginger (%)2018 ginger (%)2019 ginger (%)14.3395395313693CampheneMonoterpene0.380.270.2428.411223122815669β-citronellolMonoterpene0.180.300.2138.801247124515469GeraniolMonoterpene0.951.030.73411.001374137619669Geranyl acetateMonoterpene0.640.640.35513.1114821483202132α-curcumeneSesquiterpene1.401.890.69613.3914961495204119ZingibereneSesquiterpene1.422.491.19713.531503150420493α-farneseneSesquiterpene0.671.440.82813.661509150920469β-bisaboleneSesquiterpene0.560.930.34913.991525151820469β-sesquiphellandreneSesquiterpene1.412.310.831014.511550154722259ElemolSesquiterpene0.540.550.411114.701559155622269trans-nerolidolSesquiterpene0.510.580.371215.361591158822269cis-sesquisabinene hydrateSesquiterpene0.430.420.411315.871614162022269ZingiberenolSesquiterpene0.670.630.621416.221631163822269trans-sesquisabinene hydrateSesquiterpene0.390.480.601516.2916351622222121EpiglobulolSesquiterpene0.300.420.271616.3716381638194137ZingeroneGingerol derivative0.500.550.601716.801658165422259β-eudesmolSesquiterpene0.920.970.801817.3816861687222137ShyobunolSesquiterpene1.010.990.931919.901805178127269α-springeneDiterpene2.092.081.292021.0618621853236109CorymboloneMonoterpene0.871.010.542122.7819521980270119Geranyl-p-cymeneDiterpene1.050.540.462224.052029203329069Geranyl linaloolDiterpene0.660.350.452325.1521092113286137Tentative: 4,6-bis(4-methylpent-3-en-1-yl)-6-methylcyclohexa-1,3-diene-carbaldehydeSesquiterpene1.691.811.292426.0221722183266137[4]-gingerolGingerol derivative0.140.310.492526.5422142224276137[6]-isoshogaolGingerol derivative0.510.400.412626.6722262235278137[6]-paradolGingerol derivative1.341.681.782727.3722912289276137[6]-shogaolGingerol derivative23.6821.9618.492827.662319ND290151Me-[6]-shogaolGingerol derivative0.610.710.382927.7623282335292137[6]-gingerdioneGingerol derivative1.901.572.563028.3823872383294137[6]-gingerolGingerol derivative6.049.4512.463128.562403ND308151Me-[6]-gingerolGingerol derivative0.440.480.653228.9724492454336137Acetoxy-[6]-gingerolGingerol derivative0.250.180.973329.252480ND296137[6]-gingerdiolGingerol derivative3.273.494.323429.3724942489338137Isomer of 5-acetoxy-[6]-gingerdiolGingerol derivative0.860.921.163529.4725042506380137Diacetoxy-[6]-gingerdiolGingerol derivative8.727.388.313629.6625262524394151Methyl diacetoxy-[6]-gingerdiolGingerol derivative1.351.402.013729.802541ND320137[8]-gingerdioneGingerol derivative1.000.361.113830.28259525922901771-dehydro-[6]-gingerdioneGingerol derivative2.561.663.343931.2827172720332137[10]-shogaolGingerol derivative6.964.304.164031.6127582762348137[10]-gingerdioneGingerol derivative3.391.493.164134.0230783077430137[6]-gingerdiol (2E)-geranial acetalGingerol derivative1.672.642.804234.533146ND356137Gingerenone AGingerol derivative0.410.480.59Sum of quantified volatiles84.3483.5483.59^literature LRI values: Bartley and Jacobs (2000), El-Sayed (2021), Huang et al. (2012), Nishidono et al. (2020), Singh et al. (2008).ND = no data available.",
+    "quote_sha256": "fb606bb69e3d078bada67e9825a884ccdcfeb9597625e86b629fb3289229404a",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "fig #undfig1",
+    "exact_quote": "Image 1",
+    "quote_sha256": "b92250309a474cc23c607bd2ea58211634208235c32c1e0d95df81c790317d49",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "fig #fig1",
+    "exact_quote": "Fig. 1HPLC chromatograms of the three powdered ginger samples. The labelled peaks are (1) [6]-gingerol, (2) [6]-shogaol, (3) [8]-gingerol and (4) [10]-gingerol.Fig. 1",
+    "quote_sha256": "3dcbf2f6725beed01d8f89b64840a71b7aed4265508bcd782693b2fb2639a71b",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 2,
+    "pmcid": "PMC8427268",
+    "locator": "fig #fig2",
+    "exact_quote": "Fig. 2The total ion chromatogram of the three ginger samples. Black = 2019, pink = 2018, blue = 2017. Compound numbers correspond to those provided in Table 2. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)Fig. 2",
+    "quote_sha256": "7267c905e980a6caee5782531e300d9fe7b56ce56045e307a8af7f5aa4301fd5",
+    "raw_sha256": "84427b44459370ca36f7b38506d13697841943d17912bbbcd338a1ba5d20b89e"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec1-metabolites-15-00350 (1. Introduction), direct p 1",
+    "exact_quote": "Spray drying (drying by liquid atomisation) is a thermal technique widely used in the food, beverages, and nutraceutical industries for converting liquid extracts into stable, dry powders while preserving their functional and organoleptic properties [1]. The process involves atomising a liquid feed into a heated chamber, where rapid evaporation results in the formation of a fine powder. One of the advantages of spray drying is its ability to encapsulate and preserve thermally sensitive bioactive compounds, including phenolics, flavonoids, and essential oils, maintaining the nutritional and bioactive/functional qualities of the original raw material. In addition to preserving chemical goodness, spray drying extends product shelf life and improves handling characteristics, enhancing the stability, flowability, and reconstitution properties of powders.",
+    "quote_sha256": "9f372b9070d32d6770ade08f22d01586b87faf507249e5600271b26820b28be9",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec1-metabolites-15-00350 (1. Introduction), direct p 2",
+    "exact_quote": "Ginger (Zingiber officinale) is a rhizome renowned for its health-promoting compounds, such as gingerols, shogaols, paradols, hydroxyshogaols, gingerenones, and zingerone. Gingerols are the major non-volatile bioactive components in ginger and are primarily responsible for its distinctive pungency. They have been reported to exhibit a wide range of pharmacological activities, including anti-inflammatory, antioxidant, and metabolic effects [2,3]. During thermal processing, 6-gingerol undergoes dehydration, where the hydroxyl group at the C-5 position is eliminated, forming a double bond between C-4 and C-5 to yield 6-shogaol, increasing the overall pungency of ginger [4,5,6]. Notably, 6-gingerol has been shown to reduce inflammation and oxidative stress and is considered a promising candidate for reducing inflammatory markers and lipid enzyme expression in high-fat diet-induced obesity models [7,8]. Similarly, shogaols, particularly 6-shogaol, are potent bisphenolic compounds with anti-inflammatory, antioxidant, and gastroprotective effects, including maintenance of intestinal mucosal integrity [7,9]. Additionally, hydroxyshogaols and gingerenones, such as 6-hydroxyshogaol and gingerenone A/B/C, are formed through oxidative and rearrangement reactions of shogaols during thermal treatment [6]. Methylated analogues like methyl-8-shogaol and methylgingerols may exhibit enhanced thermal stability, allowing them to remain stable or accumulate depending on processing conditions [6]. Other thermally influenced metabolites such as paradols and zingerone—structural analogues of gingerols—also contribute to ginger’s health benefits [2]. Zingerone has been shown to improve hepatotoxicity by regulating oxidative stress, inflammation, and apoptosis in animal models [2]. However, the presence of compounds such as zingerone may indicate loss of certain bioactivities due to degradation [4,5]. These structural changes highlight the importance of controlling temperature and processing time to change the functional (bioactivity) and sensory properties and consumer acceptability of ginger products.",
+    "quote_sha256": "e0e99ac69bb78bbe61a96f114daab859d072943b57535f53e822bff1cb6ac4b0",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec1-metabolites-15-00350 (1. Introduction), direct p 3",
+    "exact_quote": "Spray drying can stabilise the chemistry of bioactives in powder form, facilitating their incorporation into functional food products and supplements, as well as extending product shelf life and improving handling characteristics. Thermal processing during spray drying can cause chemical transformations, such as the dehydration of gingerols to more bioactive shogaols, as mentioned above. The selection of appropriate carrier materials during spray drying can enhance encapsulation efficiency, influence the retention of volatile chemistry, and modify the physical properties of the resulting powders. Carrier agents—such as modified starch, plant proteins, and dietary fibres—are commonly used to aid drying efficiency, protect bioactives, and influence the physicochemical properties of the final powder, with natural carriers increasingly favoured for clean-label formulations. Spray drying can act as a preservation and functional enhancement method, producing ginger-based functional ingredients with extended usability and optimised bioactive content [10,11]. ",
+    "quote_sha256": "4bd6e0ca51b6d2852c1f99d17f6110ab7cd7fd57dc6462cf75815abe5c736bc5",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec1-metabolites-15-00350 (1. Introduction), direct p 4",
+    "exact_quote": "To monitor chemical changes during food and drink processing, metabolomic fingerprinting has emerged as a powerful analytical approach [12,13]. By enabling comprehensive fingerprinting of low molecular weight metabolites, metabolomics provides detailed insights into the biochemical and bioactive transformations that occur under different thermal (such as spray drying), enzymatic, or mechanical treatments [14,15,16]. In the context of ginger processing, fingerprinting can be used to observe near-global chemical changes in products and help in the identification of key transformation products, such as the conversion of gingerols into shogaols and the formation of oxidation products like gingerenones and zingerone [13]. Therefore, metabolomics represents a critical tool for the design and quality control of processed ginger products and other functional food ingredients, aiding in optimising conditions for the preservation or enhancement of health-promoting chemistry.",
+    "quote_sha256": "ff672d8b5c3295d6fbdf8ab9b8b999106e850b433f93cf55e4173e4f5a53a0d3",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec1-metabolites-15-00350 (1. Introduction), direct p 5",
+    "exact_quote": "This study aimed to investigate the impact of spray drying on the bioactive composition of ginger. By employing metabolomic fingerprinting, we monitored the chemical transformations that occurred during the spray-drying process and with different carriers. Additionally, the research evaluated the functional properties of the resulting ginger powders, including their antioxidant activity and total polyphenol content, to determine their potential efficacy in health-promoting applications. The overall aim was to optimise spray-drying conditions to preserve or enhance ginger’s bioactive compounds, contributing to the development of high-quality ginger-based nutraceutical products.",
+    "quote_sha256": "b58cead24c15a3dc1d7e02e1f682d5229535bca524c9e6c7947f29255a6fbda8",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot1-metabolites-15-00350 (2.1. Ginger Preparation), direct p 1",
+    "exact_quote": "Fresh ginger rhizomes used in this study were grown by Adam yn yr Ardd, a Welsh horticulturist that supports community-based, sustainable agriculture. All ginger was cultivated in Wales in non-heated greenhouses, harvested at full maturity, and stored in cool, dry conditions before processing. For processing, the rhizomes were washed under running water to remove surface debris. Peeling was not performed to preserve the outer epidermis. The ginger was chopped into 1–2 cm segments, then processed in a Kenwood Multipro Classic food processor for approximately 3 min to achieve a coarse pulp. The pulp was transferred to a sterile muslin cloth and manually pressed over a bowl to extract the juice. The extraction was repeated until the majority of liquid was removed. The extracted juice underwent low-temperature pasteurisation using the high-temperature short-time (HTST) method, heated to 72 °C for 15 s to reduce microbial load while preserving flavour and phytochemical content. The pasteurised juice was stored in sterilised, food-grade containers at 4 °C.",
+    "quote_sha256": "7799a74a9f167aeff46de6c0e1a550455b25fb7047eb5f8c13d8b05077b6e3ba",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot1-metabolites-15-00350 (2.1. Ginger Preparation), direct p 2",
+    "exact_quote": "The residual ginger pulp was evenly spread on trays and dehydrated using a Buffalo Dehydrator, CS950 (Nisbets, Bristol, UK) at 50 °C for 12 h, or until moisture content was reduced below 10%. The dried pulp was then sealed in airtight containers and stored at room temperature.",
+    "quote_sha256": "e9f0bfd4f6d4b35b48bf1763b06dc0686b45706f1df70b0f21e3e92fc7c328fb",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot2dot1-metabolites-15-00350 (2.2.1. Materials), direct p 1",
+    "exact_quote": "Spray drying was performed using a European Lab ESDT1 Spray Dryer (European Spray Dry Technologies Ltd., Essex, UK). The dryer has an evaporation capacity of approximately 1.5 L/h. The ESDT1 is designed for research and educational applications, offering precise control over drying parameters and efficient processing of heat-sensitive materials.",
+    "quote_sha256": "bed8ef7b84e8a24dfac0d00849f62b280ff99d8765892e987a9e82733fb861a8",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot2dot1-metabolites-15-00350 (2.2.1. Materials), direct p 2",
+    "exact_quote": "The spray-drying assembly comprised an aspirator that maintained negative pressure and directed the drying airflow through the unit, a two-fluid nozzle for atomising the liquid feed into fine droplets, and a vertical drying chamber where atomised droplets were rapidly dried upon contact with hot air. The drying chamber was constructed from borosilicate glass, allowing clear observation of the drying process, and was designed to minimise wall deposition and ensure efficient powder separation.",
+    "quote_sha256": "44d830f655a68920b5028bb609c60142cda94ed86a71bdbe8092e7ae0daf5c6c",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot2dot1-metabolites-15-00350 (2.2.1. Materials), direct p 3",
+    "exact_quote": "The two-fluid nozzle used had an orifice diameter of 0.5 mm, facilitating fine droplet formation and consistent powder morphology. The feed solution was delivered using an integral peristaltic pump at a controlled flow rate, with atomisation air pressure maintained to ensure efficient dispersion into the drying chamber. Drying air was supplied through an adjustable heater unit, with inlet temperatures ranging from 120 °C to 220 °C, and outlet temperatures monitored and maintained between 80 °C and 90 °C, depending on the formulation. The system included a cyclone separator for powder collection, minimising product loss and enabling accurate yield determination. All process parameters were monitored digitally, and system performance remained stable across all trials.",
+    "quote_sha256": "27c0e57e549c7a3108411c5fe98c09a6e8452573da1630f98ece5d1652b04049",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot2dot1-metabolites-15-00350 (2.2.1. Materials), direct p 4",
+    "exact_quote": "Fresh ginger juice, containing 4.92% total soluble solids, was used as the core feed material. The dry matter content of the feed was determined with a halogenic drier MB35 (OHAUS Europe GmbH, Nönikon, Switzerland) at 120 °C until no change in mass occurred anymore. A range of carrier agents were employed to aid encapsulation and improve powder characteristics, including modified starch ((Clear Gum CO03, Rooquette, Lestrem, France), pea protein (Roquette, France), and inulin (Detox Trading, Devon, UK)). Deionised water was used to dilute formulations to appropriate concentrations for atomisation. All materials were food grade and used without further purification.",
+    "quote_sha256": "0b2eac4ec142859e08e384750c3d8fdb3de8323ad915e92b024a222fd01c5c07",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot2dot2-metabolites-15-00350 (2.2.2. Drying Parameters), direct p 1",
+    "exact_quote": "Five formulations were prepared to investigate the influence of carrier type and dilution on powder recovery and stability. One formulation (SD_pure) consisted of ginger juice alone and served as a control. The remaining formulations included one of the selected carriers at specified concentrations, as outlined in Table 1. Carrier concentrations and added water volumes were varied to optimise feed viscosity and drying behaviour, while the ginger juice mass was kept constant at 137 g across all carrier-containing formulations.",
+    "quote_sha256": "56aa431bf0ae35682bdb704ed3be7171a937a8fcf426c59a808b7b200038302c",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot2dot2-metabolites-15-00350 (2.2.2. Drying Parameters), direct p 2",
+    "exact_quote": "Spray drying was carried out under varying inlet and outlet air temperature conditions tailored to each formulation. Inlet temperatures ranged from 160 °C to 180 °C, while outlet temperatures were maintained between 80 °C and 90 °C, depending on the formulation.",
+    "quote_sha256": "cea193fc293000fac31b28e9d6489e3c06b866bb7d7dcb4d9478aa08a3e08acc",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot2dot2-metabolites-15-00350 (2.2.2. Drying Parameters), direct p 3",
+    "exact_quote": "Ginger juice containing 4.92% solids was used across all formulations. Five formulations were prepared (one with no carrier), with the details of compositions and spray drying conditions summarised in Table 1.",
+    "quote_sha256": "56504991ff13583c483248fb6cc930fc8ce8a09761922c1d941cf1c9f0707981",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot3-metabolites-15-00350 (2.3. Sample Preparation for Analysis), direct p 1",
+    "exact_quote": "Dry ginger powders were extracted following a Bligh and Dyer protocol [17,18,19]. Approximately 5 mg of each powdered sample was weighed into triplicate Eppendorf tubes. To each tube, 1 mL of extraction solution (water:methanol:chloroform, 2:5:2, v/v/v) was added. Samples were vortexed for 10 s, then shaken on a Kühner shaker at 4 °C and 140 rpm for 30 min. Following a second 10 s vortex, the samples were sonicated in an ice-chilled water bath for 15 min, and then frozen overnight at −80 °C. Storage in the freezer of the liquid Bligh and Dyer extraction mix is part of the extraction process to remove proteins quantitatively.",
+    "quote_sha256": "0dc6102914ce1d5d14d26535bca66efe9feb5c8d705aeeb9fc451faf2624fc95",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot3-metabolites-15-00350 (2.3. Sample Preparation for Analysis), direct p 2",
+    "exact_quote": "After freezing, samples were again vortexed briefly and centrifuged at 13,000 rpm for 6 min at 4 °C. From each supernatant, 100 µL was transferred to a Liquid Chromatography–Mass Spectrometry (LC-MS) vial containing an insert, and 50 µL was pooled into a new Eppendorf tube labelled master mix (MM) for quality control and matrix matching. The pooled MM sample was thoroughly mixed and centrifuged under the same conditions. Two 200 µL aliquots of the MM were transferred into fresh vials with inserts for analytical quality control injections. A control blank containing only the extraction solution (2:5:2) was prepared and processed alongside the experimental samples. Vials were capped and labelled with the corresponding sample IDs and vial numbers for traceability.",
+    "quote_sha256": "49a6de01eb6ab415c12dfa08f253343f4030edb498232aac6a7764777cdc251c",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot3-metabolites-15-00350 (2.3. Sample Preparation for Analysis), direct p 3",
+    "exact_quote": "For the preparation of liquid ginger juice samples, frozen ginger juice samples were thawed at room temperature, vortexed thoroughly for 20 s, and 500 µL aliquots were transferred into labelled Eppendorf tubes. To each aliquot, 500 µL of chilled PT-methanol was added. Tubes were frozen overnight at −80 °C in preparation for solvent removal via SpeedVac the following day. After drying, the contents were weighed to determine dry matter yield, and approximately 5 mg of the dried juice was scraped into new tubes for extraction using the same procedure described for dry powders. Based on a calculated dry matter content of ~25 mg/mL, an equivalent 100 µL aliquot of juice was taken for standardisation. This was extracted by adding 100 µL H2O, 500 µL MeOH, and 200 µL CHCl3, and then processed according to the dry sample extraction protocol above (starting with the vortexing step). Figure S1 shows a graphical scheme of sample preparation workflow for metabolomics.",
+    "quote_sha256": "6241a9cf29326b01d73e7fca8fbd606af1c1790592801c069a378b20ba27883d",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot4-metabolites-15-00350 (2.4. Antioxidants and Total Polyphenols), direct p 1",
+    "exact_quote": "All dry samples were stored at 4 °C prior to analysis. The juice sample was stored at −20 °C and thawed overnight at 4 °C before processing. The samples were extracted using a 2:1 ratio of solvent to sample, using 1000 µL of acidified 70% methanol solution (methanol: ultrapure water: 1 M HCl 70:29.5:0.5) [20]. For the juice sample, two 500 µL aliquots were transferred to 2 mL Eppendorf tubes. Each aliquot was extracted with 1 mL of acidified 70% methanol. Samples were vortex-mixed and then shaken at 700 rpm at 25 °C in the dark for 1 h on a rotary shaker. After extraction, precipitates were removed by centrifugation at 10,000× g for 10 min at 4 °C. Supernatants were transferred to fresh Eppendorf tubes and stored on ice prior to analysis. For the dried powder samples, duplicate extracts were prepared by weighing 100 mg of each powder into 2 mL Eppendorf tubes and adding 1 mL of acidified 70% methanol. The same extraction, shaking, centrifugation, and storage procedures were followed as for the liquid sample.",
+    "quote_sha256": "012aae2ca5cbb310cdc1f31dfb2367ce4d6c2e880e0a09a9d1a3592221a5206b",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot4-metabolites-15-00350 (2.4. Antioxidants and Total Polyphenols), direct p 2",
+    "exact_quote": "Total antioxidant capacity was measured using the Sigma-Aldrich Antioxidant Assay Kit (Merck, Rahway, NJ, USA, catalogue number MAK334), according to the manufacturer’s instructions. This kit measured total antioxidant capacity in which Cu2+ is reduced by an antioxidant to Cu+, which forms a coloured complex with a dye reagent. The assay was carried out in flat-bottom 96-well plates using 20 µL aliquots of each sample in triplicate. The assay reaction consisted of adding 100 µL of freshly prepared reaction mix from the kit and incubating with gentle shaking at room temperature for 10 min. The colour intensity measured at 570 nm (using an Agilent BioTek Epoch absorbance microplate spectrophotometer) was proportional to the total antioxidant capacity in the sample. Blank values (A570 of 20 µL of ultrapure water) were subtracted from all test samples. The kit supplied the synthetic vitamin E analogue Trolox (6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid) as the standard, which gave a linear detection range of 1.5–1000 µM. Samples exceeding the linear range of the standard curve were diluted with ultrapure water, and the results were corrected by the appropriate dilution factor. The total antioxidant capacity (TAC) of the samples was expressed as µM Trolox equivalents.",
+    "quote_sha256": "d9dc929d614c18d83eb84840ce9ff3dbb8f034471c65d5938d2d8d7d895581f9",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot4-metabolites-15-00350 (2.4. Antioxidants and Total Polyphenols), direct p 3",
+    "exact_quote": "Total phenolic compounds were quantified using the Sigma-Aldrich Phenolic Compounds Assay Kit (Merck, catalogue number MAK365), following the manufacturer’s protocol. In this assay, phenolic compounds coupled with diazonium salts under alkaline conditions to form a stable diazo chromophore, detectable by absorbance at 480 nm. This microplate assay used the flavan-3-ol Catechin as the standard, which gave a linear response between 2 and 10 nmole/well. For each reaction well, 50 µL of sample or diluted standard was mixed with 80 µL of buffer and 20 µL of probe, before incubating with gentle shaking at room temperature for 10 min before measuring the absorbance at 480 nm (A480). Samples were run in triplicate, along with their background controls, which consisted of 50 µL of sample and 100 µL of buffer only. The A480 values of the background controls were subtracted from the A480 values of each sample, before comparing the background-corrected sample A480 values to the Catechin standard curve to obtain the nmole of product (diazo chromophore) generated during the reaction. Samples exceeding the linear range of the standard curve were diluted with ultrapure water as needed. The following calculation was used to determine the mM Catechin equivalents in each sample: Sample phenolic compound concentration (mM or nmol/µL Catechin equivalents).",
+    "quote_sha256": "55f684367125faa67a892654ea0cf5c81991488f16fdbfd4002fb6a8fce93b21",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot5-metabolites-15-00350 (2.5. High-Resolution Flow Infusion Electrospray Ionisation Mass Spectrometry (HR-FIE-MS)), direct p 1",
+    "exact_quote": "While FIE-ESI-MS does not include chromatographic separation, it provides a rapid and reproducible means of acquiring high-resolution metabolic fingerprints across large sample sets. Mass spectra were acquired on a QExactive Plus (Thermo Finnigan, San Jose, CA, USA) mass spectrometer, coupled with a Dionex UltiMate 3000 ultra-performance liquid chromatography (UHPLC) system (Thermo-Scientific, Waltham, MA, USA). Metabolite fingerprints were generated in both positive and negative ionisation modes, in a single run.",
+    "quote_sha256": "da72c81644d41d5cc1716c12755f9f000714043e6f81ec21e995e324af73a763",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot5-metabolites-15-00350 (2.5. High-Resolution Flow Infusion Electrospray Ionisation Mass Spectrometry (HR-FIE-MS)), direct p 2",
+    "exact_quote": "All samples were randomised to minimise batch effects using a computer-generated randomisation sequence and also to account for potential matrix effects from carrier agents. This ensured that different samples were evenly distributed across analytical runs. Samples (20 µL) were injected into a flow of 100 µL min−1 methanol:water (70:30, v/v). Quality control (QC) samples were prepared by pooling aliquots from all sample extracts, and these were injected at regular intervals during each sequence to monitor instrument performance, drift, and ionisation consistency. Ion intensities were acquired between m/z 55 and 1200 for 3.5 min at a resolution setting of 120,000, resulting in 3 (±1) ppm mass accuracy. Tuning and ESI source parameters were set according to the manufacturer’s recommendations. Further details are found in [12,21,22,23,24,25].",
+    "quote_sha256": "8a5e9beaa2656243521055ce7a09ed6fc44ccac728aff3927d81ba961e806d3f",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot6-metabolites-15-00350 (2.6. Data Analysis), direct p 1",
+    "exact_quote": "Following data acquisition, Chromeleon.cmbx files were first exported to .raw files and then converted to the .mzML open file format and centroided [26] using msconvert (Trans Proteomic Pipeline) [27]. Spectral binning was applied using the R package binneR [28], and then standard post-acquisition processing routines were applied, including occupancy and QC filtering. Data were normalised and log2 transformed. Representative total ion count (TIC) chromatograms of the infusion profile of the samples (negative and positive mode) and averaged mass spectrum fingerprints (negative and positive mode) are shown in Figure S2. Putative molecular formulas were generated by using MZedDB [29], an Aberystwyth University database for accurate mass annotation to 3 (±1) ppm accuracy. The ionisation products of the assigned molecular formulas were first searched against the KEGG compound database for putative matches. Initial data analysis including classification was performed in R package metabolyseR. Features were identified to Level 2, as defined by the Metabolomics Standards Initiative (MSI) [30].",
+    "quote_sha256": "6b5931e44cd6317e201056d486492029e0ca4ea19cfdcdf025f1deec43672fae",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec2dot6-metabolites-15-00350 (2.6. Data Analysis), direct p 2",
+    "exact_quote": "Principal Component Analysis (PCA) was performed using the prcomp function in R [31]. Supervised Random Forest (RF) classification was implemented using the randomForest package in R [31]. For all Random Forest models, the number of trees (ntree) used was 1000 and the number of variables considered at each internal node (mtry) was the square root of the total number of variables. Unsupervised RF classification models were plotted following Multi-Dimensional Scaling (MDS). Proximity measures for each individual observation were extracted from RF models and scaled coordinates produced using cmdscale on 1-proximity. Top-ranked features contributing to the MDS models were extracted using re-sampling methods and p-values of False Positive Rates (FPR <= 0.05).",
+    "quote_sha256": "100816f6d77a9d9237ecc761656421e5c21c10f208908f32709e5c0dcfa16e46",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot1-metabolites-15-00350 (3.1. Spray Drying Parameters), direct p 1",
+    "exact_quote": "Spray drying was conducted under the conditions described in Section 2.2. The key physical and processing characteristics of the resulting ginger powders are summarised below.",
+    "quote_sha256": "5327dd12d582ed2a805d15d8ab30876baa382422b8ec02357d6633aa88b36233",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot1-metabolites-15-00350 (3.1. Spray Drying Parameters), direct p 2",
+    "exact_quote": "Modified starch (Clear Gum CO03) was selected for its known film-forming and encapsulation capabilities. In the formulation SD_CO03_478, ginger juice and modified starch were combined with 478 g of water and spray-dried at an inlet temperature of 160 °C and outlet temperature of 80 °C. This process yielded a fine, free-flowing powder with a final moisture content of 2.3%. The powder exhibited good handling properties, with low cohesiveness and rapid solubility, indicating successful encapsulation and drying.",
+    "quote_sha256": "f982c482171679ecdf068eff0d67f370b81ac752db8637a20df82ce07d1855aa",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot1-metabolites-15-00350 (3.1. Spray Drying Parameters), direct p 3",
+    "exact_quote": "In the formulation SD_CO03_800, the water addition was increased to 800 g while maintaining the same carrier-to-ginger juice ratio. Despite the higher inlet temperature of 180 °C and outlet temperature of 90 °C, the resulting powder displayed larger, more agglomerated particles, higher moisture content (4.1%), and noticeable wall deposition within the drying chamber. These observations indicate that excessive water content negatively impacted drying efficiency and powder morphology.",
+    "quote_sha256": "8241f99149fd9b0f49c526e20b74a36fbc3ca46312fb2f8f8280bb0eb1ab9232",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot1-metabolites-15-00350 (3.1. Spray Drying Parameters), direct p 4",
+    "exact_quote": "Pea protein (moisture content 4.4%) was incorporated as a natural, protein-rich carrier in the SD_Pea formulation. However, the formulation exhibited excessive viscosity during processing, which affected atomisation and spray-drying performance. As a result, very little powder was obtained, and significant drying inefficiency was observed due to pump blockage and feed instability.",
+    "quote_sha256": "fcaf2320d6dac00cd72b41d343cc3066ac4e0d4ef56aefb340388c4fcb8125cb",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot1-metabolites-15-00350 (3.1. Spray Drying Parameters), direct p 5",
+    "exact_quote": "In contrast, the SD_Inulin formulation (moisture content 2.1%), which utilised inulin at a 2:1 ratio relative to ginger solids, successfully produced a stable powder. Inulin’s water-binding capacity contributed to effective drying and powder formation, although the resulting powder demonstrated slightly lower flowability compared to the CO03-based formulations.",
+    "quote_sha256": "40ff428d51fb08a2aa3fceb85ea4eecce862ac8685cf1a02f7380cbb03699c99",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot1-metabolites-15-00350 (3.1. Spray Drying Parameters), direct p 6",
+    "exact_quote": "Moisture content was not determined for the spray-dried pure ginger juice sample due to insufficient powder yield for analysis (a non-viable commercial option).",
+    "quote_sha256": "7f37935d5b60d7337b452839789b7a8ddd126d2684c4da8e1ce915d4ec546110",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot1-metabolites-15-00350 (3.1. Spray Drying Parameters), direct p 7",
+    "exact_quote": "The ginger content in the final powders was calculated based on the solid content of the ginger juice. Powders formulated with modified starch exhibited the lowest ginger concentrations (~4.7%), due to the high proportion of carrier relative to ginger solids. In contrast, powders produced with pea protein or inulin alone contained higher ginger contents (~25–33%), reflecting the lower carrier load or higher ginger solids ratio. These differences in formulation composition directly influenced the functional and physical attributes of the final products.",
+    "quote_sha256": "d379fa4318a14ef69b087e5d1bdb35bcd1e88d93aad1e0f77a5b903f3c81e659",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot2-metabolites-15-00350 (3.2. Metabolomics), direct p 1",
+    "exact_quote": "The unsupervised PCA and MDS plots (Figure 1A,B) illustrate the clustering of samples based on their ‘near global’ metabolomic fingerprints. The closeness of individual clusters reflects intra-class similarity, whereas the spatial separation between clusters represents inter-class dissimilarity. This visualisation enables the identification of natural groupings and potential chemistry that differentiates the different groups. Ginger juice (Juice), spray-dried juice without a carrier (SD_Pure), and speed-vacuum concentrated juice (SV_Juice) formed tight, well-separated clusters, indicative of distinct but related metabolic fingerprints. The dehydrated ginger pulp (Dehy_Mill) was positioned close to these groups but did not overlap, suggesting a chemically similar yet distinct profile. The three carrier materials (CO03, Pea, and Inulin) formed clusters that were metabolically distinct from all ginger-derived materials, as expected, and from each other. Next, ginger juice spray-dried with each of these mentioned carriers resulted in samples that were metabolically different from both the unprocessed juice and the carrier controls. Among these, SD_CO03_478 and SD_CO03_800 were similar to each other, forming a partially overlapping cluster, suggesting consistent formulation effects.",
+    "quote_sha256": "1108058cf644e8e683e421bec36d44aa4a21771214a1622bfe9f270d3f03646f",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot2-metabolites-15-00350 (3.2. Metabolomics), direct p 2",
+    "exact_quote": "By looking at each carrier group—CO03, pea protein, and inulin—individually, a more detailed interpretation of metabolomic changes can be seen. Ginger juice spray-dried with CO03 at two temperatures (SD_CO03_478 and SD_CO03_800) showed a high degree of overlap, indicating consistent and highly similar metabolic fingerprints, despite the amount of water added and temperature parameters, as expected. Notably, both formulations were metabolically distinct from the CO03 carrier alone, suggesting that the inclusion of ginger and the spray-drying process caused specific metabolic changes. SD_CO03_478 and SD_CO03_800 also differed markedly from the Juice, SV_Juice, and SD_Juice samples, highlighting the substantial influence of the CO03 carrier on the final metabolomic profile, despite all treatments coming from the same juice input (Figure 2A).",
+    "quote_sha256": "b273bee739d26841545c9780e0f0db57446cac2448ad77e42fded3e6dcd7a4c6",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot2-metabolites-15-00350 (3.2. Metabolomics), direct p 3",
+    "exact_quote": "In the pea protein treatment group, SD_Pea and Pea (carrier) clustered relatively closely together, suggesting that the incorporation of ginger juice did not greatly alter the overall chemical profile. However, when other treatments—CO03 and inulin—were removed from the plot, clearer differences emerged between SD_Pea and Pea, indicating that spray drying may still induce metabolomic changes (Figure 2B). Both samples remained clearly distinct from the Juice, SV_Juice, and SD_Juice clusters. A similar pattern was observed in the inulin group: SD_Inulin and Inulin exhibited high similarity to each other and closely mirrored the response seen with the pea formulations (Figure 2C), suggesting reduced chemical transformation during spray drying when these natural carriers were used.",
+    "quote_sha256": "6540bb691b7eb68e6063d92e1e18746975bce9de2e057e49a21c9ebe9e59286f",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot2-metabolites-15-00350 (3.2. Metabolomics), direct p 4",
+    "exact_quote": "Key ginger bioactives were tentatively identified to Level 2 [30], as shown in Table S1, and their relative intensities were visualised using box plots to observe the changes after thermal processing (Figure 3A–F). This approach allowed for the assessment of how compounds such as gingerols, shogaols, and zingerone were affected by heat treatment (spray drying). The highest intensity of [12]-gingerol was observed in the Dehy_Mill (dehydrated and milled ginger) samples (Figure 3A). Juice, SV_Juice, SD_Pure, SD_CO03_478, and SD_CO03_800 samples exhibited medium levels, while intensities decreased markedly in the other spray-dried samples with pea and inulin carriers. Gingerenone B showed elevated intensities in the Dehy_Mill, Juice, SD_Pure, and SV_Juice samples compared to other groups (Figure 3B). Decreases were seen in spray-dried powders (a medium level) and baseline in the carriers. An increase in 10-shogaol was seen in Dehy_Mill, SD_Pure, SD_CO03_478, and SD_CO03_800 powders, indicating the thermal conversion of gingerols during spray drying. Samples without carrier material (SD_Pure) had the highest levels, followed by CO03-based powders (Figure 3C). Natural carriers such as pea protein and inulin resulted in lower intensities, comparable to unprocessed juice samples. 6-Hydroxyshogaol was elevated in the spray-dried powders with CO03 carriers, suggesting considerable thermal oxidation of shogaols during spray drying (Figure 3D). Other carrier-based formulations and control materials exhibited lower levels. A similar pattern was seen for [6]-Dehydroshogaol, where the spray-dried samples with CO03 showed the highest relative intensities, suggesting that high-temperature processing promotes oxidative degradation and conversion of gingerols to shogaol derivatives with certain carrier materials (Figure 3E). Zingerone levels were also elevated in CO03 samples, indicating thermal decomposition of gingerols. Spray-dried samples containing natural carriers (SD_pea and SD_Inulin) exhibited medium zingerone intensities, suggesting less thermal degradation compared to CO03 (Figure 3F).",
+    "quote_sha256": "55038c1793d179656e6f6a75d87e79b90a7b19665f165f9e64cfb06979fbbc1f",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot3-metabolites-15-00350 (3.3. Antioxidants), direct p 1",
+    "exact_quote": "The antioxidant capacity and total phenolic content of the ginger juice, spray-dried powders, and carrier materials are summarised in Table 2. Dehydrated and milled ginger (Dehy_mill) exhibited the highest antioxidant capacity (1936.25 µmol Trolox equivalents) and a high total phenolic concentration (0.693 mM). Fresh ginger juice (Juice) showed a moderate antioxidant capacity (696.25 µmol Trolox equivalents) with a lower phenolic concentration (0.179 mM). Spray drying without a carrier (SD_Pure) resulted in a reduction in antioxidant capacity (431.46 µmol Trolox equivalents) relative to Dehy_mill, despite exhibiting a similar total phenolic content (0.713 mM). This suggests that while the overall phenolic pool was retained, specific antioxidant-active compounds were lost or degraded during thermal processing. Formulations containing Clear Gum CO03 (SD_CO03_478 and SD_CO03_800) exhibited comparable antioxidant capacities (~377–382 µmol Trolox equivalents) and notably lower phenolic contents (~0.051–0.065 mM).",
+    "quote_sha256": "d3f6361fb5f0bcd7962e30e219f286a788f3a91bc2617415421cd2f7a7634b61",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot3-metabolites-15-00350 (3.3. Antioxidants), direct p 2",
+    "exact_quote": "The sample produced using inulin (SD_Inulin) demonstrated a relatively higher antioxidant capacity (549.17 µmol Trolox equivalents) and moderate phenolic content (0.158 mM). In contrast, the pea protein formulation (SD_pea) exhibited the lowest antioxidant activity among the spray-dried powders (220.21 µmol Trolox equivalents) and a correspondingly low phenolic content (0.075 mM). Analysis of the pure carrier materials revealed minimal antioxidant or phenolic contents. Clear Gum CO03 and Agave Inulin showed negligible antioxidant capacities (0.00 and 18.96 µmol Trolox equivalents, respectively), while pea protein exhibited modest antioxidant activity (87.08 µmol Trolox equivalents), consistent with the previous literature [32].",
+    "quote_sha256": "c8dd35945f5682f8c03aa54cdb1c8fed0131a544f42b661632cc5342fd98171a",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec3dot3-metabolites-15-00350 (3.3. Antioxidants), direct p 3",
+    "exact_quote": "Across all samples, antioxidant capacity did not strongly correlate with total phenolic content, suggesting that possible specific subclasses of phenolics or other non-phenolic antioxidant compounds were differentially affected by the spray-drying process and carrier selection.",
+    "quote_sha256": "60c20f04467e4c1eeb7e63c46552f7c87f22ee5d48d0a7f48e3225791db82a0b",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec4-metabolites-15-00350 (4. Discussion), direct p 1",
+    "exact_quote": "Spray drying has been shown to be an effective technique for both the preservation and enhancement of bioactive compounds in botanicals, particularly through the promotion of thermally induced transformations [33]. When spray drying is performed using the commercial carrier Clear Gum CO03, a marked increase in shogaol analogues (including [10]-, [8]-, and cis-[8]-shogaol), gingerenone B, and oxidation products such as 6-hydroxyshogaol, 6-dehydroshogaol, and zingerone was observed, relative to unprocessed juice. These transformations are consistent with the known thermal degradation and dehydration pathways of gingerols [34], suggesting that CO03 facilitates both dehydration and oxidative rearrangement under spray-drying conditions. However, despite its efficacy, CO03 is considered an ultra-processed ingredient, which may limit its application in clean-label formulations aimed at health-conscious consumers or natural product markets.",
+    "quote_sha256": "30d408abd45e2db1efd2f713a0ae6f0d5100d12bf97436c45537c85f70c22ff8",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec4-metabolites-15-00350 (4. Discussion), direct p 2",
+    "exact_quote": "While CO03 effectively enhanced the thermal transformation of gingerols into more bioactive shogaols, its classification as a modified starch would likely place it within the “ultra-processed” category according to the NOVA classification system [35,36]. However, this label has been increasingly criticised for its lack of scientific rigour, as it does not account for the functional benefits or context of use [37]. In this case, CO03 played a crucial role in stabilising thermolabile compounds and promoting beneficial chemical transformations during spray drying. The term “ultra-processed” may oversimplify complex food technologies and overlook the potential of such ingredients to enhance nutritional quality [38]. Therefore, while regulatory or consumer-facing definitions may categorise CO03 as ultra-processed, a different interpretation is warranted in scientific evaluations focused on functional and bioactive outcomes.",
+    "quote_sha256": "46dfefa3a11c20015477b53d12ec014d0a371c29dea0e0be64d7459060c38d2d",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec4-metabolites-15-00350 (4. Discussion), direct p 3",
+    "exact_quote": "The use of natural carriers such as pea protein and inulin [39], although attractive from a labelling and consumer perception standpoint, resulted in lower relative intensities of all measured bioactives. This suggests limited capacity for bioactive preservation or transformation during spray drying, potentially due to inadequate encapsulation efficiency, protective barrier effects that reduce thermal conversion, or physicochemical incompatibility between the ginger extract and the carrier matrix.",
+    "quote_sha256": "a548c9590b07f3166a22467b07648e7a50c69d01018fe7541e6382e96c6f247f",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec4-metabolites-15-00350 (4. Discussion), direct p 4",
+    "exact_quote": "Spray drying without a carrier produced a shogaol-dominant profile, particularly elevating [10]-, [8]-, and cis-[8]-shogaol, along with gingerenone B. However, no increases were observed for secondary oxidation products such as 6-hydroxyshogaol, 6-dehydroshogaol, or zingerone, suggesting that the absence of a carrier may reduce the extent of oxidative reactions. While this profile is favourable from a bioactivity perspective, the resulting powder exhibited poor handling properties—such as stickiness, agglomeration, and instability—rendering it commercially impractical for large-scale applications. Spray drying impacted the antioxidant and phenolic composition of ginger powders. Dehydrated and milled ginger retained the highest antioxidant activity, whereas spray drying, particularly without a carrier, resulted in antioxidant loss despite preserving total phenolic content. Carrier selection influenced antioxidant retention: powders produced with Clear Gum CO03 exhibited reduced antioxidant activity and phenolic levels, while inulin carriers moderately preserved bioactivity. Pea protein, although inherently antioxidant-active, did not effectively protect ginger compounds during spray drying. The lack of correlation between antioxidant capacity and total phenolics suggests selective degradation of bioactive molecules.",
+    "quote_sha256": "54bbf2471973af4d47f3c9aa684ce5a5bf3147675221ad39557312ab4ebd2ddd",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec4-metabolites-15-00350 (4. Discussion), direct p 5",
+    "exact_quote": "All in all, these findings highlight that the choice of carrier plays a pivotal role in modulating both the chemical profile and functional characteristics of spray-dried ginger powders [39]. The trade-off between enhancing or preserving bioactives and achieving desirable physical and commercial attributes must be carefully balanced. Optimising carrier selection is therefore essential to maximise the therapeutic potential and market acceptability of ginger-based functional food and nutraceutical products.",
+    "quote_sha256": "5e7d239c26a348ea96bde05392ef6cf56cdd90f87d787ede942bde3555b7758a",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section sec5-metabolites-15-00350 (5. Conclusions), direct p 1",
+    "exact_quote": "This study demonstrates that spray drying alters the chemical profile and functional properties of ginger juice, with the choice of carrier influencing this. Modified starch (Clear Gum CO03) promoted the thermal conversion of gingerols into more bioactive shogaols, as well as oxidative products such as 6-hydroxyshogaol and zingerone. However, there was reduced antioxidant capacity and lower total phenolic content, likely due to oxidative degradation. Natural carriers such as pea protein and inulin better preserved antioxidant capacity and native phenolic content but were less effective in promoting bioactive transformation. Spray drying without a carrier maximised shogaol production but resulted in powders with poor physical properties, limiting their practical application. These findings underline the importance of optimising spray-drying parameters and carrier materials to balance bioactive enhancement, product stability, and consumer-driven clean-label requirements in the development of ginger-based functional ingredients.",
+    "quote_sha256": "21b6541dcd7ef5aafb225d493e9ba67008c2eaa347e544dcb985d0f52d076008",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section ack1 (Acknowledgments), direct p 1",
+    "exact_quote": "We would like to thank Mari Arthur from Tetrim Teas and Ymchwil Tetrim Research Cyf (YTR) for their huge amount of support and use of facilities. We also gratefully acknowledge Adam Yr Y Ardd for supplying the fresh ginger material used in this study.",
+    "quote_sha256": "c89ca4be6853b64792d40c337b40f98b3a2ed60351bee1c9ff2da75e4b756f58",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section glossary1 (Abbreviations), direct p 1",
+    "exact_quote": "The following abbreviations are used in this manuscript:\n",
+    "quote_sha256": "082f73b161d90879d144c51232fab74720afa9ce56548455aa52bc66222d5705",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section app1-metabolites-15-00350 (Supplementary Materials), direct p 1",
+    "exact_quote": "The following supporting information can be downloaded at: https://www.mdpi.com/article/10.3390/metabo15060350/s1, Figure S1: A graphical scheme of sample preparation workflow for metabolomics. Figure S2: Total ion count (TIC) chromatograms of the infusion profile of the samples (negative and positive mode), averaged mass spectrum fingerprint (negative and positive mode). Table S1: Key ginger bioactives were tentatively identified to Level 2.",
+    "quote_sha256": "aff7b5fb0e8d452991db9c92c5f12c7544160087805e8961587236c0d420658a",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section notes1 (Author Contributions), direct p 1",
+    "exact_quote": "Conceptualization, A.W.-W. and A.J.L.; methodology, A.W.-W., S.M., A.W., M.B. and A.J.L.; validation, A.W.-W. and A.J.L.; formal analysis, A.W.-W., S.M., M.B. and A.J.L.; investigation, A.W.-W., M.B. and A.J.L.; resources, A.J.L.; writing—original draft preparation, A.W.-W. and A.J.L.; writing—review and editing, A.W.-W. and A.J.L.; supervision, A.J.L.; project administration, A.J.L.; funding acquisition, A.J.L. All authors have read and agreed to the published version of the manuscript.",
+    "quote_sha256": "25fe804d29a95cd23d24bb55d2080d73344dddb4cc0f8294acfcce7b49bd73e3",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section notes2 (Institutional Review Board Statement), direct p 1",
+    "exact_quote": "Not applicable.",
+    "quote_sha256": "a3014a36534d5612e7e04f74fc455b30bd0101d370991d349923efd6cc69ebc0",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section notes3 (Informed Consent Statement), direct p 1",
+    "exact_quote": "Not applicable.",
+    "quote_sha256": "a3014a36534d5612e7e04f74fc455b30bd0101d370991d349923efd6cc69ebc0",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section notes4 (Data Availability Statement), direct p 1",
+    "exact_quote": "Data will be made available on request.",
+    "quote_sha256": "2889f11dc03e8c8b6e955150844095aedbb24a16b3914abd920260117e73e4d9",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section notes5 (Conflicts of Interest), direct p 1",
+    "exact_quote": "The authors declare no conflicts of interest.",
+    "quote_sha256": "d844552709650c02c406fe2e7d85f119e5f568f5b961c18fbe8c40b221d29086",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section funding-statement1 (Funding Statement), direct p 1",
+    "exact_quote": "This research was funded by a BBSRC Biofortification Flexible Mobility Award (FMA) and New Innovators in agri-tech & food technology, Mid & North Wales, Innovate UK, grant number 10133853.",
+    "quote_sha256": "5baa19d92a097f4c654afc4c1951b631441c3e4c952ba771e698c74b41e6aea9",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "section _adda93_ (Data Availability Statement), direct p 1",
+    "exact_quote": "Data will be made available on request.",
+    "quote_sha256": "2889f11dc03e8c8b6e955150844095aedbb24a16b3914abd920260117e73e4d9",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "table-wrap #metabolites-15-00350-t001",
+    "exact_quote": "Table 1Spray-drying formulations and conditions.RecipeCarrier MaterialGinger Juice (g)Carrier (g)Water Added (g)Inlet Temp (°C)Outlet Temp (°C)SD_pureNone137N/A10017088SD_CO03_478Modified Starch (CO03)13713747816080SD_CO03_800Modified Starch (CO03)13713780018090SD_peaPea Protein1373740018090SD_InulinInulin13739.3645017082",
+    "quote_sha256": "495aee6afad345334c82a0fce22bf0cfb6a67894b601e899b13e7446e470cc8d",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "table-wrap #metabolites-15-00350-t002",
+    "exact_quote": "Table 2Antioxidant capacity and total phenolic content.Sample DescriptionAntioxidant Capacity (µmol Trolox Equivalents)Total Phenolic Content (mM)Ginger dehydrated and milled (Dehy_mill)1936.250.693Ginger Juice (Juice)696.250.179Speed Vac Ginger Juice (SV_juice)\nnot available\n\nnot available\nSpray-Dried Pure Ginger Juice (SD_Pure)431.460.713Spray-Dried Ginger Juice, Clear Gum CO03 1:1, 478 mL Water (SD_CO03_478)382.290.065Spray-Dried Ginger Juice, Clear Gum CO03 1:1, 800 mL Water (SD_CO03_800)377.290.051Cleargum CO03 (CO03)00.012Spray-Dried Ginger Juice, Pea Protein (SD_pea)220.210.075Pea Protein (Pea)87.080.033Spray-Dried Ginger Juice, Inulin 3:1 (SD_Inulin)549.170.158Agave Inulin (AgaveInulin)18.960.007",
+    "quote_sha256": "d966459ca10d97d7f58c25141bba5c2e339653183488ed41140291c8bb7c7d15",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "table-wrap #array1",
+    "exact_quote": "Clear gumCO03master mixMMLiquid Chromatography–Mass SpectrometryLC-MSQuality controlQCHigh resolution Flow Infusion Electrospray Ionisation Mass SpectrometryHR-FIE-MSultra-performance liquid chromatographyUHPLCMetabolomics Standards InitiativeMSIPrincipal Component AnalysisPCARandom ForestRFmulti-dimensional scalingMDSFalse Positive RatesFPRhigh-temperature short-timeHTST",
+    "quote_sha256": "4bcf35c153f7ac41edabb9bd1a01cae3faea2eefdd6814d92de08ce265eed735",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "fig #metabolites-15-00350-f001",
+    "exact_quote": "Figure 1Unsupervised Principal Component Analysis (PCA) (A) and Multidimensional Scaling (MDS) (B) based on Random Forest (RF) proximity values applied to Flow Injection Electrospray–High Resolution Mass Spectrometry (FIE-HRMS) chemical metabolomic fingerprint data from ginger samples and carriers. Where Dehy_mill, Ginger dehydrated and milled; Juice, Ginger Juice; SV_juice, speed vac ginger juice; SD_Pure, Spray Dried Pure Ginger Juice; SD_CO03_478, Spray Dried Ginger Juice, Clear Gum CO03 1:1 478 mL Water; SD_CO03_800, Spray Dried Ginger Juice, Clear Gum CO03 1:1 800 mL Water; CO03, Cleargum CO03; SD_pea, Spray Dried Ginger Juice, Pea protein; Pea, Pea Protein; SD_Inulin, Spray Dried Ginger Juice, Inulin 3:1; AgaveInulin, Agave Inulin.",
+    "quote_sha256": "23ac4b23bfaac7d4191886cc0b0e74eadc8235f4a8e59fbfb61d40dcebaeaa33",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "fig #metabolites-15-00350-f002",
+    "exact_quote": "Figure 2Unsupervised Principal Component Analysis (PCA) applied to Flow Injection Electrospray–High Resolution Mass Spectrometry (FIE-HRMS) chemical metabolomic fingerprint data from ginger samples and carriers (A) CO03; (B) Pea protein; (C) Inulin. Where Dehy_mill, Ginger dehydrated and milled; Juice, Ginger Juice; SV_juice, speed vac ginger juice; SD_Pure, Spray Dried Pure Ginger Juice; SD_CO03_478, Spray Dried Ginger Juice, Clear Gum CO03 1:1 478 mL Water; SD_CO03_800, Spray Dried Ginger Juice, Clear Gum CO03 1:1 800 mL Water; CO03, Cleargum CO03; SD_pea, Spray Dried Ginger Juice, Pea protein; Pea, Pea Protein; SD_Inulin, Spray Dried Ginger Juice, Inulin 3:1; AgaveInulin, Agave Inulin.",
+    "quote_sha256": "65f6890fddb577343ea478e3b13c5157c80b35ba44ceed81a5b65e5dc08f9857",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 3,
+    "pmcid": "PMC12195494",
+    "locator": "fig #metabolites-15-00350-f003",
+    "exact_quote": "Figure 3Box plots. (A) [12]-Gingerol; (B) Gingerenone B; (C) 10-shogaol; (D) 6-Hydroxyshogaol; (E) [6]-Dehydroshogaol; (F) Zingerone, where median = central line, box = interquartile range (IQR) (25th–75th percentile), whiskers = 1.5 × IQR, dots = outliers. Where Dehy_mill, Ginger dehydrated and milled; Juice, Ginger Juice; SV_juice, speed vac ginger juice; SD_Pure, Spray Dried Pure Ginger Juice; SD_CO03_478, Spray Dried Ginger Juice, Clear Gum CO03 1:1 478 mL Water; SD_CO03_800, Spray Dried Ginger Juice, Clear Gum CO03 1:1 800 mL Water; CO03, Cleargum CO03; SD_pea, Spray Dried Ginger Juice, Pea protein; Pea, Pea Protein; SD_Inulin, Spray Dried Ginger Juice, Inulin 3:1; AgaveInulin, Agave Inulin.",
+    "quote_sha256": "40f2e5f7005071b4865dbab9fc315f6bd59b65774da0727a20f4936a52a79900",
+    "raw_sha256": "f2ef8a34a1b15e206fa8e098a986c50e9c676520fcc5d6db476222a7b57e2db3"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec1-molecules-23-01646 (1. Introduction), direct p 1",
+    "exact_quote": "Ginger (Zingiber officinale Roscoe) is a well-known spice belonging to the family Zingiberaceae, and is cultivated across the world but especially in Asian countries [1]. Several phytochemicals are found in ginger, including 4-, 6-, 8-, 10-, and 12-gingerols and 6-, 8-, and 10-shogaols, flavonoids, and phenolics [2]. Previous studies have revealed that shogaols are the dehydration products of gingerols and exhibit higher biological activities including anticancer and antioxidant activities [3,4]. Gingerols are the principal constituents of fresh ginger roots, whereas shogaols are found in low amounts in dried and thermally treated roots [5,6]. Previous study by current authors on other ginger variety (var. rubrum Theilade) showed that vacuum oven drying at 45 °C resulted in increasing of 6- and 8-shogaol content and antioxidant activity compared to shade (average temperature of 15 °C) and freeze (−60 °C) drying method [7]. Different methods and techniques such as microwave drying, freeze drying, infrared drying, solar drying, oven drying, and fluidized bed dryer are developed for dehydration of ginger [7,8,9]. Some of these drying methods need to specific equipment and are costly. Artificial dehydration methods are used at the industrial scale, but significantly affect the phytochemical composition and biological activity of the plants because of enzymatic and/or non-enzymatic processes that occur during drying [10,11]. Dehydration by sun is cheap, and then sun drying is the popular method for farmer. The major drawbacks of sun drying (conventional drying method) are dependence on the weather, long drying time, microbial contamination, and low quality of the final products [12]. Then, to avoid the weather dependence and reduce the treatment time, and microbial contamination other drying methods should be introduce in large scale and industry to produce high quality dry rhizomes. Compared with traditional drying methods such as solar drying, hot air drying, and steaming, novel thermal technologies have been studied in attempts to achieve faster drying and improve the quality of fruits and vegetables [13,14]. However, hot air-heated pumpkin slices showed a higher rehydration capacity than those dried by other methods (e.g., microwave) [15,16]. Therefore, proper selection of the drying method is necessary to optimize quality of the finished product. To the best of our knowledge, there is dearth of information on the conversion of gingerols to shogaols in ginger during drying process and its effect on antioxidant and antimicrobial activity. This study assessed effect of different conventional drying methods including open sun drying (OSD) solar tunnel drying (STD) and hot air drying (HAD) and their effects on ginger rhizome quality in terms of 6-, 8-, 10, and 12-gingerol and 6-, 8-, 10, and 12-shogaol contents, essential oil content and antioxidant and antimicrobial activities.",
+    "quote_sha256": "f838dd3c693693f6eac655f31a37d05ddea7e16e1282fc10b9a3574d36d4d48f",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec2dot1-molecules-23-01646 (2.1. Comparison of Gingerols and Shogaols Content between OSD, STD and HAD Method at Different Temperature), direct p 1",
+    "exact_quote": "The contents of gingerols and shogaols in different drying method and temperature are shown in Table 1. OSD ginger exhibited higher contents of 6-, 8-, and 10-gingerols than STD and HAD-treated ginger (p < 0.05). Meanwhile, STD/HAD-treated ginger exhibited considerably higher levels of 6-, 8-, and 10-shogaols than OSD ginger (p < 0.05). HAD treatment, decreased gingerol contents in ginger significantly, but induced 6-, 8- and 10-shogaol formation. Result of this study clearly showed that the conversion of gingerols to shogaols in ginger greatly depended on temperature rate. In HAD method with increasing of temperature rate from 120 °C to 150 °C, concentration of 6- and 8-gingerols increased significantly, but interestingly, 10-gingerol, which was identified at 120 °C, was not detected in 150 °C and 180 °C. With increasing of temperature from 120 °C to 150 °C concentration of 6-, 8- and 10-shogaols also dramatically enhanced. Future increasing in drying temperature to 180 °C resulted in decreasing of all gingerols and shogaols content. These results confirm the impact and advantage of temperature in the conversion of gingerols to shogaols, which is consistent with the results of Huang et al. [17] and Cheng et al. [18]. The results indicate that conventional sun dried ginger containing highest content of gingerols and lowest content of shogaols compared to HAD method. HAD involves the exposure of a product to a continuous air flow to remove moisture. This process is complex because of the different mechanisms behind the heat, mass, water, and energy transport processes. The quality of hot air-dried products is often drastically reduced in comparison to the fresh product. HAD provides improved efficiency for the conversion of heat, increased surface drying uniformity, and decreased drying time, when compared to OSD [18]. As opposed to conventional drying methods, HAD directly interacts with the samples. The heat generated in the wet sample due to the direct transmission and absorption of energy by water molecules leads to rapid internal volumetric drying as a result of the friction generated by rotating dipoles and ion movement. In addition, during this process, mass transfer occurs due to the generation of vapor within the product, which is forced to the surface of the product. Bhattarai et al. [3] reported that the conversion rate of gingerols into shogaols depends on temperature rate and duration. This was also proven in this study. Ho and Su [19] studied the effect of heat treatment (75–150 °C) on conversion of gingerol to shogaol in ginger powder after drying process. The authors reported that heating at 150 °C for 80 min, resulted in inducing of 6-shogaol content. However, in previous study oven dried (at 50 °C) ginger powder was treated with different heating temperature, but, in our study we applied different drying method based on different drying temperature in initial step after harvest.",
+    "quote_sha256": "9a6a5a4ebbaee5cb9453481a2426a2eee0e4a4ab245eb75bca3fe815fc8c5ac1",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec2dot1-molecules-23-01646 (2.1. Comparison of Gingerols and Shogaols Content between OSD, STD and HAD Method at Different Temperature), direct p 2",
+    "exact_quote": "HPLC chromatograms of the extractions of OSD and HAD at 150 °C are shown in Figure 1. As seen, OSD ginger had higher gingerol contents than HAD ginger, but upon application of HAD, gingerol contents decreased while shogaol contents increased. This result supports our previous finding and hypothesis that under high temperature, gingerols will convert to shogaols via dehydration [20].",
+    "quote_sha256": "1fd5335cde9a17025ac7b6b0dd4ac97fb3906d6af0e98d550037132dc0139473",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec2dot1-molecules-23-01646 (2.1. Comparison of Gingerols and Shogaols Content between OSD, STD and HAD Method at Different Temperature), direct p 3",
+    "exact_quote": "The most significant factor in thermochemical conversion processes is temperature [21]. When the temperature was further increased (e.g., 180 °C), shogaol contents significantly decreased (p < 0.05). This could be due to the degradation and polymerization of shogaols during the long heating process. These results confirmed the effectiveness of heat treatment in increasing shogaol content in ginger. On one hand, temperature facilitates the conversion of gingerols into the corresponding shogaols. The β-hydroxy ketone groups of the gingerol compounds is dehydrated thermally to form the corresponding shogaol derivatives; the resultant α,β-unsaturated ketones in shogaols are thermodynamically stable [22]. Relatedly, acidic solutions facilitate the dehydration of 6-gingerol to produce 6-shogaol, which is similar to the present findings [23]. In aqueous solutions, these acids form different anions which can catalyze the conversion of gingerols to the corresponding shogaols. The increase in shogaol content could be due to the combined effects of the high temperature and the acidic catalyst; these factors induce the β-hydroxy ketone moiety in gingerols to be thermally labile and to undergo dehydration. At 180 °C, shogaol contents sharply decreased (p < 0.05). A previous study has shown that the transformation of gingerols into shogaols occurs in aqueous environments [17]. High temperatures lead to faster evaporation of water, thereby inhibiting this transformation [24]. Consequently, degradation and polymerization of shogaols decreased the shogaol contents. Generally, because of HAD at 150 °C represent highest formation of shogaols, this treatment was selected to evaluate effect of different drying time on shogaol contents.",
+    "quote_sha256": "6ba6b1cfd10e88feebcadc585c3539c5ed958a389f17d82cc538a2dcdd69c1b9",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec2dot2-molecules-23-01646 (2.2. Effect of Different Drying Time on Shogaol Contents during HAD), direct p 1",
+    "exact_quote": "In order to evaluation of impact of temperature on shogaol content different drying time was evaluated in HAD (Figure 2). With increasing of drying time from 1 to 6 h, content of shogaols significantly increased, but future increasing of drying time to 7 h, dropt shogaols content significantly. This is due to the degradation and polymerization of shogaols treated for a long time. It has been reported that an increase in temperature leads to a reduction in the water content of SFG [25]. As mentioned previously, the transformation of gingerols into shogaols occurs in an aqueous environment. Consequently, the transformation of gingerols into shogaols was inhibited. Thus, the degradation and polymerization of shogaols caused a decrease in shogaol content [23]. Cheng et al. [18] reported that steam heating treatment (120 °C) for duration of 6 h, induced 6-shogaol content significantly, but after 6 h treatment, content of 6-shogaols slightly decreased.",
+    "quote_sha256": "c9651c2761aea7ae66ecdddc97ffb829cdc01e17fbb8064200a0cb183ceb991c",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec2dot3-molecules-23-01646 (2.3. Effect of Different Drying Method and Temperature on Essential Oil Yield), direct p 1",
+    "exact_quote": "Content of Essential oil was influenced significantly by different drying methods with variable temperatures. As can see from Figure 3, the highest content of essential oil was obtain from OSD followed by STD and HAD respectively, but, no significant difference between OSD and STD was observed. In other hands with increasing of drying temperature from 34 °C (in OSD) to 150 °C (in HAD) content of essential oil dropped significantly due to decomposition/evaporation of essential oils. Decreasing of essential oil content with increasing of drying temperature was reported by previous studies. Result of recent study, demonstrated that shade dried Origanum vulgare L. and Origanum onites L. exhibited highest essential oil yield compared to oven dried samples [26]. In another study, increasing of drying temperature from 30 to 50 °C resulted in decreasing of essential oil content from 1.18% to 0.6% in Lippia citriodora L. [27]. Similar result also were reported by Ayyobi et al. [28] who find that drying of Mentha piperita L. at lower temperature (in shade) resulted in highest essential oil content compared to drying at high temperature (in oven). Then, result of this study showed that, OSD method could be used in order to get highest essential oil yield, compared to STD and HAD (at 150 °C).",
+    "quote_sha256": "4a739b40107c1e0b18225e39c11ed47af2545623d1a04691dbce16049b18b0d2",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec2dot4-molecules-23-01646 (2.4. Evaluation of Antioxidant Activity), direct p 1",
+    "exact_quote": "A substance that offers one or more hydrogen atoms to a radical converting the latter a neutral molecule is referred to as a radical scavenger. This activity is shown as the colour of DPPH turns to yellow from purple (DPPH solution) of the investigated substance because of formation of neutral molecule of DPPH-H upon donation of H atom from the substance. Free radical scavenging ability and reducing power activity are the most reliable antioxidant systems frequently used to elucidate the antioxidant activities of natural products. In our study, the free radical scavenging capacity and the ferric reducing power of the studied extracts were assessed based on DPPH and FRAP tests, respectively. DPPH and FRAP assays are shown to be simple, rapid and highly reproducible. The antioxidant activity of ginger rhizomes dried at different temperatures (OSD, STD, HAD at 150 °C) is shown in Figure 4 and Table 2. The HAD-treated ginger showed higher DPPH-scavenging and FRAP activity than the other drying methods. Therefore, with application of higher temperature in drying process antioxidant activity of ginger was enhanced. Based on the results previously discussed, OSD ginger contained the highest gingerol content, while ginger treated by HAD contained the highest shogaol content. Thus, the highest free radical-scavenging ability of the HAD-treated ginger could be related to high shogaol content. It can be hypothesized that shogaols have higher antioxidant power than gingerols [9]. Recently, Sang et al. [29] reported that 6-, 8-, and 10-shogaols exhibited higher anticancer activity against human lung cancer cells (H1299) than 6-, 8-, and 10 gingerols. Generally, power of free radical scavenging in tested samples for both DPPH and FRAP assay was as follow: HAD > STD > OSD. This results show impact of HAD in order to improving antioxidant activity of ginger rhizomes. HAD ginger exhibited potent antioxidant activity compared to Butylated hydroxytoluene (BHT), while, OSD and STD represent lower free radical scavenging power than BHT. All ginger extracts showed lower antioxidant activity compared to ascorbic acid.",
+    "quote_sha256": "ebf99f83dd369bfe5ed709cf108083851dd9bdf7f71aeea431604dea8a53c1ae",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec2dot4-molecules-23-01646 (2.4. Evaluation of Antioxidant Activity), direct p 2",
+    "exact_quote": "In this study, the IC50 based on DPPH assays for HAD, STD and OSD-treated ginger were 57.8, 83.2, and 98.6 mg/g DW, respectively. Lower IC50 values signify that the extract is able to scavenge an equivalent amount of free radicals at a lower concentration. Then, HAD method can be recommend as a suitable drying method compared to OSD and STD in order to enhance shogaols content and antioxidant activity for future studies.",
+    "quote_sha256": "5a8a4387cc4a4cc6e4983b4af88725731716253d7259a5cd205133267c535bda",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec2dot5-molecules-23-01646 (2.5. Evaluation of Antimicrobial Activity), direct p 1",
+    "exact_quote": "Ginger was reported as a potent antimicrobial agent against both Gram positive and Gram negative bacteria strains [30]. Drying methods have significant effect on antimicrobial activity of ginger [31]. The results of this study showed that HAD extracts had the potent activities against bacteria strains followed by STD and OSD (Table 3). As can see from the result, ginger extract have more potent antimicrobial activity against Gram positive bacteria than Gram negative bacteria strains. This result is consistent with previous studies on antimicrobial activity of ginger [31]. It had observed that the most sensitive pathogen against ginger extracts was Staphylococcus aureus followd by Bacillus cereus, Pseudomonas aeruginosa and Escherichia coli respectively. When comparing antimicrobial activity of OSD with HAD, can find that with increasing of drying temperature antimicrobial activity was increased significantly. Result of phytochemical analysis showed that HAD had lower gingerols and higher shogaols compared to OSD. It can thus be suggested that improvement of antimicrobial activity of ginger which is dried with HAD method could be related to high content of shogaols. Further research should be done to investigate the antimicrobial activity of gingerols and shogaols. Lower and higher MIC value was observed in HAD and OSD respectively (Table 4). Result of recent studies demonstrated that antimicrobial activity of ginger varied when treated with different temperature. Ajayi et al. [31] was reported that ginger rhizomes dried with solar box method exhibited higher antimicrobial activity compared to oven and microwave dried ginger. The results of the antifungal study against the six tested strains, Candida albicans, Geotrichum candidum, Trichophyton rubrum, Aspergillus flavus, Fusarium oxysporum and Scopulariopsis brevicaulis revealed that HAD-treated ginger exhibited potent antifungal activity except against T. rubrum and S. brevicaulis. OSD and STD-treated ginger showed antifungal activity only against C. albicans. Generally, HAD-treated ginger represent highest antifungal activity followed by STD and OSD respectively.",
+    "quote_sha256": "5540c32fa05704cab0b911d824f0d47169e6563ff46406390371509e91935e49",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec3dot1-molecules-23-01646 (3.1. Reagents), direct p 1",
+    "exact_quote": "Methanol, acetonitrile (HPLC grade), glacial acetic acid, 6-, 8-, and 10-gingerol, and 6-, 8-, and 10-shogaol were purchased from Sigma-Aldrich (Petaling Jaya, Malaysia). Distilled deionized water and ultra-pure water were used throughout the study.",
+    "quote_sha256": "cba51cf98560fc2a01b70eac10f6dde5453db4ce761f8a98ff2dcec80f728206",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec3dot2-molecules-23-01646 (3.2. Sample Preparation and Drying Methods), direct p 1",
+    "exact_quote": "Fresh ginger rhizomes were collected from herbal farm located in Islamic Azad university, Tehran, Iran. All rhizomes were washed with clean water and were cut into slices. For drying, 500 g of ginger slices were dried using three different methods with different temperature including OSD, STD and HAD methods. For OSD, rhizomes were dried in open yard with direct sun radiation for 9 days (minimum and maximum temperature was 23 ± 1 °C and 34 ± 2 °C respectively). In STD method, ginger slices were dried in UV-stabilized polyethylene tunnel (3 × 3 m) with the hoop structure (minimum and maximum temperature was 31 ± 1 °C and 47 ± 2 °C respectively). In HAD, ginger slices were dried in an electric convection oven at different drying temperatures (120 °C, 150 °C, and 180 °C). The drying time required at each temperature was determined based on a final moisture content of 10 ± 0.2%.",
+    "quote_sha256": "43791a341df1fae1082fbac2531cca6374b58d64d2bd5a1f8519f0ce37bf6ddc",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec3dot3-molecules-23-01646 (3.3. Preparation of Extracts for HPLC Analysis), direct p 1",
+    "exact_quote": "Briefly, 0.5 g of ginger powder was accurately weighed, suspended in 50 mL of methanol, and sealed. The sample was extracted twice for 30 min each at 40 °C using an ultrasonic bath. Methanol was removed using a rotary evaporator and the residue was kept at −20 °C for future analysis.",
+    "quote_sha256": "9d8101425cc856e9060916d4879a6dd26caa497d1bacda62d43f7442aa526a53",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec3dot4-molecules-23-01646 (3.4. HPLC Analysis), direct p 1",
+    "exact_quote": "A HPLC system (Agilent 1200, Santa Clara, CA, USA) was used to analyze the mixed standards and ginger extracts. Operation parameters were as follows: C18 column (250 × 4.6 mm I.D, 5.0 µm particle size); column oven temperature 48 °C; flow rate 1.0 mL/min; injection volume 20 µL; mobile phase A, water, and B, acetonitrile; Gradient mode 0 min 45% B, 8 min 50% B, 17 min 65% B, 32 min 100% B, 38 min 100% B. Crude ginger extract (5 mg) was dissolved in methanol (5 mL) and filtered through a 0.22 μm nylon filter membrane. Standard solutions of gingerols and shogaols were prepared at 1.0 mg/mL. Concentrations of the compounds in each sample were calculated by comparing their peak areas with the corresponding standards.",
+    "quote_sha256": "ccea64fdb7541224bc78671f87d8f5068bb00bb0593bcbd64c654e8c67f4fd4c",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec3dot5-molecules-23-01646 (3.5. Essential Oil Content), direct p 1",
+    "exact_quote": "Essential oil content of dried ginger with different method was analyzed with hydro distillation method using Clevenger apparatus. Briefly, 100 g of dried ginger was mixed with 1 L distilled water in to conical flask and connected to Clevenger apparatus and heated to the boiling point. After 5 h boiling, oil was separated from aqueous layer [32].",
+    "quote_sha256": "4e2d9d3af342a47e273595ee9833b7c5a7c7e9d14aeb0008b076a21ed63630e2",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec3dot6dot1-molecules-23-01646 (3.6.1. 2,2-Diphenyl-1-picrylhydrazyl (DPPH) Assay), direct p 1",
+    "exact_quote": "The extracts were examined for their hydrogen donating abilities against the DPPH stable free radical. Sample extracts and ascorbic acid (as a control) were adjusted to 100 µL volume with methanol, mixed with 3 mL of 0.1 mM DPPH in methanol, and vortexed well. Solutions were incubated in the dark for 30 min. The scavenging activity of the extracts was measured via absorbance at 517 nm against a methanol blank and the extract concentration required to inhibit 50% of the DPPH was determined as the IC50 [33]. Ascorbic acid and Butylated hydroxytoluene (BHT) were used as positive controls. The following formula was used to calculate the scavenging activity:% inhibition = [(absorbance control − absorbance sample)/absorbance control] × 100(1)",
+    "quote_sha256": "fea0e7dd7d7f9e8842c73e11c4957306b9fe8cd8f70a1f786ba920f4267c914f",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec3dot6dot2-molecules-23-01646 (3.6.2. Ferric Reducing Antioxidant Potential (FRAP) Assay), direct p 1",
+    "exact_quote": "FRAPP assay was used for evaluation of antioxidant activity. Briefly, 200 µL of extracts were mixed with 2.0 mL of FRAP reagent (pH = 3.6). Mixture was incubated in a water bath at 25 °C for 30 min. The absorbance of the solution (blue colour) was read against acetate buffer (the blank) at 593 nm. A standard curve was prepared using concentrations of 100–1000 mM of FeSO4 × 7·H2O [34]. The results are expressed in μM of Fe(II)/g DM.",
+    "quote_sha256": "32d70a582146984195a679f32052133a88ba81907e8d89325f0f0e42d69103bf",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec3dot7dot1-molecules-23-01646 (3.7.1. Preparation of the Extracts), direct p 1",
+    "exact_quote": "Dried ginger rhizomes with different methods were dissolved in dimethyl sulphoxide (DMSO) to obtain different concentrations as follow 6.25, 12.5, 25, 50 and 100 µg/mL. Bacterial strains used in this study were: Escherichia coli AUMC NO. B-53, Pseudomonas aeruginosa AUMC No. B-73 as Gram-negative bacteria and Staphylococcus Aureus AUMC NO. B-54, Bacillus cereus AUMC NO. B-52 as Grampositive bacteria. While, Candida albicans AUMC No. 418, Geotrichum candidum AUMC No. 226, Trichophyton rubrum AUMC No. 1804, Aspergillus flavus AUMC No. 1276, Scopulariopsis brevicaulis AUMC No. 729 and Fusarium oxysporum AUMC No. 5119 were used for determination of antifungal activity. Bacterial and fungal strains were clinical isolates obtained from the IAU (Islamic Azad University). All bacterial strains were cultivated on nutrient agar medium and incubated at 37 °C for 24 h, while fungal strains were cultivated in potato dextrose agar at 28 °C for 48 h. Cefotaxime as a reference antibacterial at a concentration of 20 μg/mL.",
+    "quote_sha256": "5454f6a3c3cae545a209a6eb28b5ec4299be24e8788eb4322d0281d29e349b13",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec3dot7dot2-molecules-23-01646 (3.7.2. Antibacterial Activity), direct p 1",
+    "exact_quote": "Agar cup diffusion method was used to reveal inhibition zones caused by the ginger extracts. For evaluation of antibacterial activity, bacterial cultures were adjusted to 0.5 McFarland turbidity standards and inoculated on nutrient agar plates. Circular wells of 7 mm diameter in the inoculated agar were punched carefully using a sterile cork borer under aseptic conditions. For each well various concentration of extract was applied using sterile micropipette. Plates were incubated at 37 °C for 24 h in the incubators. After incubation the diameter of the clear zone of inhibition surrounding the samples was taken as a measure of the inhibitory power of the sample against the particular test organisms [35]. The assay was carried at three times and any zone of inhibition listed as positive results.",
+    "quote_sha256": "39fd7e86e889372905eca5d05d75265e55be607d5c7d8b5f646b79931483b9fa",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec3dot7dot3-molecules-23-01646 (3.7.3. Antifungal Activity), direct p 1",
+    "exact_quote": "One hundred microliters of inoculums (106 CFU/mL; 0.5 McFarland) of the tested saprophytic fungi equally was spread using a sterile glass spreader onto Sabouraud dextrose agar plates. The plates have been kept to dry, and a sterile borer (7 mm in diameter) was used to punch wells in the agar medium. Thereafter, wells were filled with 50 μL of the plant extract at concentration of 100 mg/mL and allowed to diffuse at room temperature for 2 h. The plates were incubated at 25 °C for 72 h. Sterile DMSO used as negative control while clotrimazole (100 μg/mL) was used as positive control [36].",
+    "quote_sha256": "9bcc2adcd3e2b41b7ca968b18b54e5bac05afeca8ee95bcef87bfbb01df8a0f5",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec3dot7dot4-molecules-23-01646 (3.7.4. Determination of MIC), direct p 1",
+    "exact_quote": "The minimum inhibitory concentration (MIC) of the extracts was resolved for each of the test organisms in triplicates. To 0.5 mL of series diluted concentrations (0.78, 1.56, 3.125, 6.25 and 12.5 µg/mL), 2 mL of nutrient broth was added, then tested organism which previously diluted to 0.5 McFarland turbidity standard (for bacterial isolates) was added to the former mixture. A tube containing nutrient broth only was seeded with the test organisms as described above to act as control. Tubes containing bacterial cultures incubated at 37 °C for 24 h. After incubation, the least concentration of the plant extract that does not allow any visible growth or turbidity of the inoculated test organisms in broth culture was taken as the minimum inhibitory concentration in each case.",
+    "quote_sha256": "b796ca1e98ee1a941572de35e7104ad3967c39ad47f44b145dd17a80b485aa82",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec3dot8-molecules-23-01646 (3.8. Data Analysis), direct p 1",
+    "exact_quote": "Data was analyzed using SAS (Statistical Analysis System, 9.0, SAS Institute, Cary, NC, USA) version 9.2 and Duncan’s multiple range test with significance at the p < 0.05 level. The mean and standard deviation (n = 3) of each standard and sample were calculated.",
+    "quote_sha256": "3e59695c62b546719544049ff3577446510558e4e512bbd07848073f4778df3f",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "section sec4-molecules-23-01646 (4. Conclusions), direct p 1",
+    "exact_quote": "The most obvious finding to emerge from this study is that with application of high temperature in drying process, gingerols were converted to shogaols and following that antioxidant and antimicrobial activities was improved. HAD method simultaneously increased 6-, 8-, and 10-shogaol contents while, OSD method had higher 6-, 8-, and 10-gingerol contents. OSD and STD possessed highest essential oil content than HAD. Furthermore, HAD method can be used to produce high value-added ginger products compared to OSD and STD methods. Data of current study could be useful for future studies in order to optimization of HAD method using response surface methodology in order to get optimum rate of temperature and drying time.",
+    "quote_sha256": "038ef2a21bc97df5e756fe12af5f97e046a84738966bb5b89d635cf24ec80e04",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "table-wrap #molecules-23-01646-t001",
+    "exact_quote": "molecules-23-01646-t001_Table 1Table 1Quantification of 6-, 8-, and 10-gingerols, as well as 6-, 8-, and 10-shogaols in ginger dried with different temperature.SDHADGingerolsOSDSTD120 °C150 °C180 °C6-13.48 ± 2.18 a10.11 ± 2.17 b3.43 ± 0.10 d4.94 ± 0.00 c2.68 ± 0.10 e8-4.08 ± 0.35 a3.29 ± 0.66 b0.31 ± 0.03 d0.43 ± 0.02 c0.15 ± 0.00 e10-5.93 ± 0.73 a3.96 ± 0.84 b0.65 ± 0.07 cNDNDShogaols\n\n\n\n\n6-1.54 ± 0.06 e2.05 ± 0.13 d3.02 ± 0.78 b3.93 ± 0.53 a2.58 ± 0.11 c8-0.21 ± 0.00 e1.55 ± 0.08 d2.16 ± 0.26 b2.62 ± 0.21 a1.73 ± 0.06 c10-0.68 ± 0.04 e1.03 ± 0.03 d2.04 ± 0.18 b3.05 ± 0.33 a1.41 ± 0.02 cSD: sun drying; HAD: hot air drying. OSD; open sun drying; STD: solar tunnel drying; Data were the mean ± standard deviation of triplicate measurements. Different superscript lower case letters in each row indicated significant difference at p < 0.05 (Duncan’s test).",
+    "quote_sha256": "674013a1e8693f418b24bebba03cc11f1093b8fb0441497855d6aa9a8353619f",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "table-wrap #molecules-23-01646-t002",
+    "exact_quote": "molecules-23-01646-t002_Table 2Table 2FRAP activity of ginger extracts, dried with different methods.SamplesFRAP (µM of Fe(II)/g DM)OSD314.5 ± 8.42 eSTD407.1 ± 10.06 dHAD493.8 ± 12.81 bAscorbic acid806.4 ± 20.16 aBHT448.2 ± 12.59 cSD: sun drying; HAD: hot air drying. Data were the mean ± standard deviation of triplicate measurements. Different superscript lower case letters in each row indicated significant difference at p < 0.05 (Duncan’s test).",
+    "quote_sha256": "bc8b90119e8cc98f0a04dff59409142fc094ed73246a84c95936c92c7d79ecd9",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "table-wrap #molecules-23-01646-t003",
+    "exact_quote": "molecules-23-01646-t003_Table 3Table 3Inhibition zone of antimicrobial and antifungal activity of ginger, dried with different methods.StrainsConcentration (µg/mL)OSDSTDHADCefotaxime (20 µg/mL)Clotrimazole (100 µg/mL)B. cereus10014212425NT50101521\n\n2581418\n\n12.571113\n\n6.2561010\n\nS. aureus10012232629NT50101823\n\n2561519\n\n12.5---1114\n\n6.25---912\n\nE. coli1008181822NT5051516\n\n25---1414\n\n12.5---911\n\n6.25------8\n\nP. aeruginosa10010202025NT5081718\n\n2561516\n\n12.541314\n\n6.25---1213\n\nC. albicans100121625NT37G. candidum100------21NT42T. rubrum100---------NT23S. brevicaulis100---------NT35F. oxysporum100------22NT37A. flavus100101420NT36Unit is mm. NT: not-tested.",
+    "quote_sha256": "160f5a79c05ab5d8879c7fecda07230c0e1957fe80d742f103bf2507fad437a1",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "table-wrap #molecules-23-01646-t004",
+    "exact_quote": "molecules-23-01646-t004_Table 4Table 4Minimum inhibition concentration (MIC) of ginger, dried with different methods, against bacteria strains.StrainsOSDSTDHADB. cereus3.1251.561.56S. aureus6.250.780.78E. coli>12.53.1251.56P. aeruginosa6.251.561.56Unit is µg/mL.",
+    "quote_sha256": "711a0db40928b9dcf3b5bbd9b5dc59a281c4a65cbbc80f587d1494e507a225bf",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "fig #molecules-23-01646-f001",
+    "exact_quote": "Figure 1HPLC full chromatogram of ginger extract, dried with OSD (A) and HAD (B) at 150 °C.",
+    "quote_sha256": "b98fd1aedd9c3ee2ff12866c44e74e7936cb51d3b57abc32dd9e4455cc571c57",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "fig #molecules-23-01646-f002",
+    "exact_quote": "Figure 2Effects of different drying time on shogaol contents in HAD (at 150 °C) method. Bars indicate standard deviation of triplicate measurements.",
+    "quote_sha256": "1ea7185a53b7644b36fbc1b774e16baf46c8945d60574f06c2cc4fb4b4b3f5ab",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "fig #molecules-23-01646-f003",
+    "exact_quote": "Figure 3Effect of different drying methods (OSD, STD ant HAD at 150 °C) on essential oil content in ginger. OSD: sun drying, STD: solar tunnel drying and HAD: hot air drying. Bars indicate standard deviation of triplicate measurements.",
+    "quote_sha256": "d98612d0dca387b50f8952dfda448e4e151227389988d2e48c2a88f8b2ccabe0",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  },
+  {
+    "source_id": 4,
+    "pmcid": "PMC6099745",
+    "locator": "fig #molecules-23-01646-f004",
+    "exact_quote": "Figure 4Effect of different drying methods on DPPH activity in ginger extracts. OSD: sun drying, STD: solar tunnel drying and HAD: hot air drying. Bars indicate standard deviation of triplicate measurements.",
+    "quote_sha256": "5a24a40ed571c6ed83d7e62a58def1e15a34d8e571021176f1538a1e61fcd633",
+    "raw_sha256": "72be641b0a80ced13138fcf275a05e395b83a1b614cd959d7462e70ec875dc0d"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "approved_id": 1,
+    "native_anchor": "cocoa-ref-1",
+    "url": "https://shop.ofi.com/media/wysiwyg/D-11-A_4.pdf",
+    "title": "deZaan D-11-A TDS 2024 and indicative nutrition 2025",
+    "review_ledger": "reviewed/source-ID-ledger.json"
+  },
+  {
+    "approved_id": 2,
+    "native_anchor": "cocoa-ref-2",
+    "url": "https://shop.dezaan.com/s8.html",
+    "title": "deZaan S8 supplier product specification",
+    "review_ledger": "reviewed/source-ID-ledger.json"
+  },
+  {
+    "approved_id": 3,
+    "native_anchor": "cocoa-ref-3",
+    "url": "https://barry-callebaut.com/en/manufacturers/products/bensdorp-acticoa/100-F017906-AC-722",
+    "title": "Bensdorp Acticoa SKU 100-F017906-AC-722",
+    "review_ledger": "reviewed/source-ID-ledger.json"
+  },
+  {
+    "approved_id": 4,
+    "native_anchor": "cocoa-ref-4",
+    "url": "https://www.fsai.ie/getattachment/cdda55c2-960f-4e26-96c2-d824971b59a3/2015-cocoa-extract.pdf?lang=en-IE",
+    "title": "FSAI cocoa extract substantial equivalence opinion August 2015",
+    "review_ledger": "reviewed/source-ID-ledger.json"
+  },
+  {
+    "approved_id": 5,
+    "native_anchor": "cocoa-ref-5",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:18710243&format=json&resultType=core",
+    "title": "Miller et al. 2008 cocoa alkalization study abstract via Europe PMC",
+    "review_ledger": "reviewed/source-ID-ledger.json"
+  }
+]

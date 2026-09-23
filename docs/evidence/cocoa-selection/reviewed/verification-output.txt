@@ -1,0 +1,9 @@
+info: stats: 60 prose sentence(s), 13 with declared provenance (22%) — 13 cited, 0 marked [unverified] (a sentence may be both); 5 distinct source(s) cited, 5 in ledger (5 with evidence quotes)
+citations OK
+ 
+draft-en.md d501e2cc12cfa1e56052b544b021c01b025f017fd0b06e9c90b49feeace3d751
+info: stats: 5 prose sentence(s), 5 with declared provenance (100%) — 5 cited, 0 marked [unverified] (a sentence may be both); 5 distinct source(s) cited, 5 in ledger (5 with evidence quotes)
+citations OK
+ 
+draft-zh.md 9919d19e5100e38c80b24f882c1a0694523c516150e69febc53e5e8a2848d755
+PASS: complete literal quotes, citation identities, supplier links, calculations, no ZL supply claim, all original files unchanged.
