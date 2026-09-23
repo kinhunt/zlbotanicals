@@ -1,0 +1,25 @@
+[
+  {
+    "errCode": 503,
+    "errMsg": "Search service is temporarily unavailable. Please retry later."
+  },
+  {
+    "errCode": 503,
+    "errMsg": "Search service is temporarily unavailable. Please retry later."
+  },
+  {
+    "version": "6.9",
+    "hitCount": 0,
+    "request": {
+      "queryString": "EXT_ID:PMC10779248",
+      "resultType": "core",
+      "cursorMark": "*",
+      "pageSize": 30,
+      "sort": "",
+      "synonym": false
+    },
+    "resultList": {
+      "result": []
+    }
+  }
+]

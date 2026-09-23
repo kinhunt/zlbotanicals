@@ -1,0 +1,498 @@
+[
+  {
+    "asin": "B07B4D9TF3",
+    "product_url": "https://www.amazon.com/dp/B07B4D9TF3",
+    "title": "NOW Foods, Organic Monk Fruit, Zero-Calorie Liquid Sweetener, 2 fl. oz",
+    "image_url": "https://m.media-amazon.com/images/I/71mx8qMAD4L._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B07B4D9TF3-00.jpg",
+    "sha256": "8295599a82c4df4828b96d9637b51e8c94721ca1fec01f6f33510a17e0f9306f",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[0].galleryScripts[0] -> colorImages.initial[0].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B07B4D9TF3",
+    "product_url": "https://www.amazon.com/dp/B07B4D9TF3",
+    "title": "NOW Foods, Organic Monk Fruit, Zero-Calorie Liquid Sweetener, 2 fl. oz",
+    "image_url": "https://m.media-amazon.com/images/I/71wsbSLOU2L._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B07B4D9TF3-01.jpg",
+    "sha256": "cfad3a5e16d88878b32bffdef76082786110181efc74232c05bea5becf35aa8c",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[0].galleryScripts[0] -> colorImages.initial[1].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B07B4D9TF3",
+    "product_url": "https://www.amazon.com/dp/B07B4D9TF3",
+    "title": "NOW Foods, Organic Monk Fruit, Zero-Calorie Liquid Sweetener, 2 fl. oz",
+    "image_url": "https://m.media-amazon.com/images/I/71f+gi1EW-L._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B07B4D9TF3-02.jpg",
+    "sha256": "7fe1383a400656fc0603d08f15ed890dc529b85a28b859f4a27ec2075d07355a",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[0].galleryScripts[0] -> colorImages.initial[2].hiRes",
+    "visual_status": "original_full_resolution_label_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B07B4D9TF3",
+    "product_url": "https://www.amazon.com/dp/B07B4D9TF3",
+    "title": "NOW Foods, Organic Monk Fruit, Zero-Calorie Liquid Sweetener, 2 fl. oz",
+    "image_url": "https://m.media-amazon.com/images/I/71yHQDmXQnL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B07B4D9TF3-03.jpg",
+    "sha256": "3d3a4bba2d9a49772e0b7582284d67016ee111064cbe13fefac0f6fbc80bea94",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[0].galleryScripts[0] -> colorImages.initial[3].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B07B4D9TF3",
+    "product_url": "https://www.amazon.com/dp/B07B4D9TF3",
+    "title": "NOW Foods, Organic Monk Fruit, Zero-Calorie Liquid Sweetener, 2 fl. oz",
+    "image_url": "https://m.media-amazon.com/images/I/91QygiGo71L._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B07B4D9TF3-04.jpg",
+    "sha256": "897b4a5e151ef8b3cef92076f26e50392127534acc212150b038324ac4b654b7",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[0].galleryScripts[0] -> colorImages.initial[4].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B07B4D9TF3",
+    "product_url": "https://www.amazon.com/dp/B07B4D9TF3",
+    "title": "NOW Foods, Organic Monk Fruit, Zero-Calorie Liquid Sweetener, 2 fl. oz",
+    "image_url": "https://m.media-amazon.com/images/I/81YOJp+AgSL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B07B4D9TF3-05.jpg",
+    "sha256": "7e39d7d968430cb44d571374de6c359805f1d2f3f17cd65569bef413cab0dc54",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[0].galleryScripts[0] -> colorImages.initial[5].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B07B4D9TF3",
+    "product_url": "https://www.amazon.com/dp/B07B4D9TF3",
+    "title": "NOW Foods, Organic Monk Fruit, Zero-Calorie Liquid Sweetener, 2 fl. oz",
+    "image_url": "https://m.media-amazon.com/images/I/81BzP+ZFWwL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B07B4D9TF3-06.jpg",
+    "sha256": "58e2121f7654edb962d22d74e325c9376a6fe317400b6348e5ea68298a56f170",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[0].galleryScripts[0] -> colorImages.initial[6].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B07B4D9TF3",
+    "product_url": "https://www.amazon.com/dp/B07B4D9TF3",
+    "title": "NOW Foods, Organic Monk Fruit, Zero-Calorie Liquid Sweetener, 2 fl. oz",
+    "image_url": "https://m.media-amazon.com/images/I/81nKuWAByML._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B07B4D9TF3-07.jpg",
+    "sha256": "5b94f18bc86cdfd3365434e798eebfb48041f04f9e937641016176030c1983c6",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[0].galleryScripts[0] -> colorImages.initial[7].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CP9Q47LK",
+    "product_url": "https://www.amazon.com/dp/B0CP9Q47LK",
+    "title": "DureLife Organic 100% Pure Monk Fruit Sweetener, No Erythritol, 5 Oz",
+    "image_url": "https://m.media-amazon.com/images/I/61feYjuS6cL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CP9Q47LK-00.jpg",
+    "sha256": "c8a038c6bae494835897d9b5ef6fd22e94d87dfdd15409e64e4fe294a430a3bb",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[1].galleryScripts[0] -> colorImages.initial[0].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CP9Q47LK",
+    "product_url": "https://www.amazon.com/dp/B0CP9Q47LK",
+    "title": "DureLife Organic 100% Pure Monk Fruit Sweetener, No Erythritol, 5 Oz",
+    "image_url": "https://m.media-amazon.com/images/I/71gDuibapVL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CP9Q47LK-01.jpg",
+    "sha256": "c7c2fe4171a7646d980ce87b24a114e50c925949151b82391bd6dd4fd9b5404c",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[1].galleryScripts[0] -> colorImages.initial[1].hiRes",
+    "visual_status": "original_full_resolution_label_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CP9Q47LK",
+    "product_url": "https://www.amazon.com/dp/B0CP9Q47LK",
+    "title": "DureLife Organic 100% Pure Monk Fruit Sweetener, No Erythritol, 5 Oz",
+    "image_url": "https://m.media-amazon.com/images/I/711nxLXrc9L._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CP9Q47LK-02.jpg",
+    "sha256": "70f8a30ca55b7d11f3d9a751471ece187efb5d8e0c72432daea80b24a8f8b989",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[1].galleryScripts[0] -> colorImages.initial[2].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CP9Q47LK",
+    "product_url": "https://www.amazon.com/dp/B0CP9Q47LK",
+    "title": "DureLife Organic 100% Pure Monk Fruit Sweetener, No Erythritol, 5 Oz",
+    "image_url": "https://m.media-amazon.com/images/I/81eoAwwfDUL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CP9Q47LK-03.jpg",
+    "sha256": "8f6f7426c101eb97e4bd7a8417bc85c3d1cffd0fb44b8c5ca35a0c940e5c4980",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[1].galleryScripts[0] -> colorImages.initial[3].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CP9Q47LK",
+    "product_url": "https://www.amazon.com/dp/B0CP9Q47LK",
+    "title": "DureLife Organic 100% Pure Monk Fruit Sweetener, No Erythritol, 5 Oz",
+    "image_url": "https://m.media-amazon.com/images/I/81KpROO8dRL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CP9Q47LK-04.jpg",
+    "sha256": "ffcd479f203a09c566de584e31c16c986495a4aea3dfabc14eee9e0233704ba8",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[1].galleryScripts[0] -> colorImages.initial[4].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CP9Q47LK",
+    "product_url": "https://www.amazon.com/dp/B0CP9Q47LK",
+    "title": "DureLife Organic 100% Pure Monk Fruit Sweetener, No Erythritol, 5 Oz",
+    "image_url": "https://m.media-amazon.com/images/I/81OW9jCN4QL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CP9Q47LK-05.jpg",
+    "sha256": "f30c09d5827e90515a7e20cce26a9e9c00efb72ed756fabec900f3880ee9a81d",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[1].galleryScripts[0] -> colorImages.initial[5].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CP9Q47LK",
+    "product_url": "https://www.amazon.com/dp/B0CP9Q47LK",
+    "title": "DureLife Organic 100% Pure Monk Fruit Sweetener, No Erythritol, 5 Oz",
+    "image_url": "https://m.media-amazon.com/images/I/81UEcD58iRL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CP9Q47LK-06.jpg",
+    "sha256": "9c81f889d6de1c444fc072291365d769f39b86399b3b7d73bfbe8e4602afbd0e",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[1].galleryScripts[0] -> colorImages.initial[6].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CP9Q47LK",
+    "product_url": "https://www.amazon.com/dp/B0CP9Q47LK",
+    "title": "DureLife Organic 100% Pure Monk Fruit Sweetener, No Erythritol, 5 Oz",
+    "image_url": "https://m.media-amazon.com/images/I/91czsRyXDrL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CP9Q47LK-07.jpg",
+    "sha256": "ad29cf6dbec24ac36ccf91d08dfb49f3a28aad12c3d5a7e9a5b845f6bae77539",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[1].galleryScripts[0] -> colorImages.initial[7].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B098H7XWQ6",
+    "product_url": "https://www.amazon.com/dp/B098H7XWQ6",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Erythritol, 5 Lb",
+    "image_url": "https://m.media-amazon.com/images/I/71LV5C9twqL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B098H7XWQ6-00.jpg",
+    "sha256": "a97a41884244af1695e70008cc82906aa5b4dc8127cc273ecb4dd98c84b0e55c",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[2].galleryScripts[0] -> colorImages.initial[0].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B098H7XWQ6",
+    "product_url": "https://www.amazon.com/dp/B098H7XWQ6",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Erythritol, 5 Lb",
+    "image_url": "https://m.media-amazon.com/images/I/710XGmU8YxL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B098H7XWQ6-01.jpg",
+    "sha256": "a94d1306a127d18384352605658991ad39a9020daee07e919157ebe2b1979811",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[2].galleryScripts[0] -> colorImages.initial[1].hiRes",
+    "visual_status": "original_full_resolution_label_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B098H7XWQ6",
+    "product_url": "https://www.amazon.com/dp/B098H7XWQ6",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Erythritol, 5 Lb",
+    "image_url": "https://m.media-amazon.com/images/I/81+sDLxT13L._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B098H7XWQ6-02.jpg",
+    "sha256": "c0fea7f2e87225afcb2a0ec7c0d132f3201d0c45fe54792f18fe2ec6ba7a5c54",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[2].galleryScripts[0] -> colorImages.initial[2].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B098H7XWQ6",
+    "product_url": "https://www.amazon.com/dp/B098H7XWQ6",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Erythritol, 5 Lb",
+    "image_url": "https://m.media-amazon.com/images/I/71kjt9npRhL._SL1254_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B098H7XWQ6-03.jpg",
+    "sha256": "bb37bc9c75aa2897669fc40a5b1d9d00a619581800fd422c9fd59a2f04c1409b",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[2].galleryScripts[0] -> colorImages.initial[3].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B098H7XWQ6",
+    "product_url": "https://www.amazon.com/dp/B098H7XWQ6",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Erythritol, 5 Lb",
+    "image_url": "https://m.media-amazon.com/images/I/81ozJNI2OLL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B098H7XWQ6-04.jpg",
+    "sha256": "2b41b6b53b5995186c97e71ee9689b056090653a09c07f4ce878577a51d2666b",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[2].galleryScripts[0] -> colorImages.initial[4].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B098H7XWQ6",
+    "product_url": "https://www.amazon.com/dp/B098H7XWQ6",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Erythritol, 5 Lb",
+    "image_url": "https://m.media-amazon.com/images/I/81yUX0TxgGL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B098H7XWQ6-05.jpg",
+    "sha256": "a1d56a41e9c5fee672462f19ff3475442233e276c72e966f3d4ad1634727b279",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[2].galleryScripts[0] -> colorImages.initial[5].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B098H7XWQ6",
+    "product_url": "https://www.amazon.com/dp/B098H7XWQ6",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Erythritol, 5 Lb",
+    "image_url": "https://m.media-amazon.com/images/I/71UKqxTS8xL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B098H7XWQ6-06.jpg",
+    "sha256": "cc2aa50f74b0edec6888e74a9414f637a1223c6c7fa8b80a90392a676547294f",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[2].galleryScripts[0] -> colorImages.initial[6].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B098H7XWQ6",
+    "product_url": "https://www.amazon.com/dp/B098H7XWQ6",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Erythritol, 5 Lb",
+    "image_url": "https://m.media-amazon.com/images/I/81IXS+wrP5L._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B098H7XWQ6-07.jpg",
+    "sha256": "787d872ca063b20c89c17d0fd1056b7a2320a1a87782f11bc0fe16cfab82b03a",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[2].galleryScripts[0] -> colorImages.initial[7].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CLBVY6VY",
+    "product_url": "https://www.amazon.com/dp/B0CLBVY6VY",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Allulose, Classic White, 3 LB",
+    "image_url": "https://m.media-amazon.com/images/I/71T93HuLWTL._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CLBVY6VY-00.jpg",
+    "sha256": "5ae3dc025ead01fa42d74dd8d1b91de9e497fe3ec1387a9ddd3a320a65cad8c9",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[3].galleryScripts[0] -> colorImages.initial[0].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CLBVY6VY",
+    "product_url": "https://www.amazon.com/dp/B0CLBVY6VY",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Allulose, Classic White, 3 LB",
+    "image_url": "https://m.media-amazon.com/images/I/819TE48P46L._SL1500_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CLBVY6VY-01.jpg",
+    "sha256": "a3ccd3b9e372e9c88417d00835d2c8ae697a407da859f7a96b85360297246395",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[3].galleryScripts[0] -> colorImages.initial[1].hiRes",
+    "visual_status": "original_full_resolution_label_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CLBVY6VY",
+    "product_url": "https://www.amazon.com/dp/B0CLBVY6VY",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Allulose, Classic White, 3 LB",
+    "image_url": "https://m.media-amazon.com/images/I/61CeiVo3yjL._SL1080_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CLBVY6VY-02.jpg",
+    "sha256": "0105b136357d05816835db2485ca0dead45523c01eba5ddbe40c898f1a5fb940",
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[3].galleryScripts[0] -> colorImages.initial[2].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CLBVY6VY",
+    "product_url": "https://www.amazon.com/dp/B0CLBVY6VY",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Allulose, Classic White, 3 LB",
+    "image_url": "https://m.media-amazon.com/images/I/61SziqC5bpL._SL1000_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CLBVY6VY-03.jpg",
+    "sha256": "4c1afd21636c2b5ad06926f85e125077916a04c1eb7b507d5512beaf40819d71",
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[3].galleryScripts[0] -> colorImages.initial[3].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CLBVY6VY",
+    "product_url": "https://www.amazon.com/dp/B0CLBVY6VY",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Allulose, Classic White, 3 LB",
+    "image_url": "https://m.media-amazon.com/images/I/61QDcgAc2SL._SL1080_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CLBVY6VY-04.jpg",
+    "sha256": "d5f4aca58aeea34ce0ae6a8498f643475321c44139a77b55adeca4facdb8cf3b",
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[3].galleryScripts[0] -> colorImages.initial[4].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CLBVY6VY",
+    "product_url": "https://www.amazon.com/dp/B0CLBVY6VY",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Allulose, Classic White, 3 LB",
+    "image_url": "https://m.media-amazon.com/images/I/71CZZU18NUL._SL1080_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CLBVY6VY-05.jpg",
+    "sha256": "de4fcb88b37aad41ba5834f7bb5b16d0e47e3e732e55ffea99c40a9a2064ee26",
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[3].galleryScripts[0] -> colorImages.initial[5].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  },
+  {
+    "asin": "B0CLBVY6VY",
+    "product_url": "https://www.amazon.com/dp/B0CLBVY6VY",
+    "title": "Lakanto Classic Monk Fruit Sweetener with Allulose, Classic White, 3 LB",
+    "image_url": "https://m.media-amazon.com/images/I/71oDlDOqrfL._SL1080_.jpg",
+    "path": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/images/B0CLBVY6VY-06.jpg",
+    "sha256": "0267ba0383dac204e534deacf1fc3d651519e3a892bc374d64f93ccb8398d6d1",
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "raw_receipt": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/14-gallery-result.json",
+    "raw_field": "stdout.result.result.rows[3].galleryScripts[0] -> colorImages.initial[6].hiRes",
+    "visual_status": "contact_sheet_individual_tile_inspected",
+    "observations_file": "/data/hermes/research/seo-growth/2026-09-23-evening-commerce/image-observations.md"
+  }
+]

@@ -1,0 +1,1566 @@
+{
+  "version": "6.9",
+  "hitCount": 257,
+  "nextCursorMark": "AoIIQFd3qCg1NTY1MTkxNA==",
+  "nextPageUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28mogroside+OR+%22monk+fruit%22%29+AND+%28sensory+OR+purification+OR+%22juice%22%29+AND+OPEN_ACCESS%3AY&cursorMark=AoIIQFd3qCg1NTY1MTkxNA%3D%3D&resultType=lite&pageSize=40&format=json",
+  "request": {
+    "queryString": "(mogroside OR \"monk fruit\") AND (sensory OR purification OR \"juice\") AND OPEN_ACCESS:Y",
+    "resultType": "lite",
+    "cursorMark": "*",
+    "pageSize": 40,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "42388455",
+        "source": "MED",
+        "pmid": "42388455",
+        "pmcid": "PMC13320431",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13320431"
+          ]
+        },
+        "doi": "10.1016/j.toxrep.2026.102297",
+        "title": "Evaluation of the safety and potential genotoxicity of a high-purity mogroside ingredient containing siamenoside I produced from a modified strain of &lt;i&gt;Yarrowia lipolytica&lt;/i&gt;.",
+        "authorString": "Mihalchik AL, Roberts A, LaCombe J, Lloyd M, Doepker C, Eapen A.",
+        "journalTitle": "Toxicol Rep",
+        "journalVolume": "17",
+        "pubYear": "2026",
+        "journalIssn": "2214-7500",
+        "pageInfo": "102297",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "gen"
+          ]
+        },
+        "firstPublicationDate": "2026-06-20",
+        "firstIndexDate": "2026-07-02"
+      },
+      {
+        "id": "42338566",
+        "source": "MED",
+        "pmid": "42338566",
+        "pmcid": "PMC13283849",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13283849"
+          ]
+        },
+        "doi": "10.1093/hr/uhag103",
+        "title": "Haplotype-resolved T2T genome and population resequencing provide insights into the domestication and mogroside biosynthesis of &lt;i&gt;Siraitia grosvenorii&lt;/i&gt; (Cucurbitaceae).",
+        "authorString": "Kou Y, Wang S, Xie W, Dou L, Pan D, Lai B, Mo F, Yang P, Zeng D, Wei S, Wang H, Zhang Z, Tang S.",
+        "journalTitle": "Hortic Res",
+        "issue": "7",
+        "journalVolume": "13",
+        "pubYear": "2026",
+        "journalIssn": "2662-6810; 2052-7276; ",
+        "pageInfo": "uhag103",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2026-03-18",
+        "firstIndexDate": "2026-06-24"
+      },
+      {
+        "id": "42123944",
+        "source": "MED",
+        "pmid": "42123944",
+        "pmcid": "PMC13165111",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13165111"
+          ]
+        },
+        "doi": "10.3390/nu18091342",
+        "title": "Mogrosides as Dual-Function Sweeteners: A Comprehensive Review of Extraction, Metabolism, Antidiabetic Mechanisms, and Food Applications.",
+        "authorString": "Feng Q, Wang T, Wang Q, Pan H, Zhong Y, Zhuang Y.",
+        "journalTitle": "Nutrients",
+        "issue": "9",
+        "journalVolume": "18",
+        "pubYear": "2026",
+        "journalIssn": "2072-6643",
+        "pageInfo": "1342",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-04-24",
+        "firstIndexDate": "2026-05-15"
+      },
+      {
+        "id": "42620423",
+        "source": "MED",
+        "pmid": "42620423",
+        "pmcid": "PMC13485817",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13485817"
+          ]
+        },
+        "doi": "10.3389/fnut.2026.1894194",
+        "title": "Stevia-derived sweeteners in reduced-sugar foods: formulation strategies, sensory optimization, nutritional evidence, and safety perspectives.",
+        "authorString": "Wang L, Chang T, Jia W, Chen J, Li L, Zhang T, Wang B, Dong C, Cui Y, Liao X.",
+        "journalTitle": "Front Nutr",
+        "journalVolume": "13",
+        "pubYear": "2026",
+        "journalIssn": "2296-861x",
+        "pageInfo": "1894194",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-08-05",
+        "firstIndexDate": "2026-08-22"
+      },
+      {
+        "id": "41584700",
+        "source": "MED",
+        "pmid": "41584700",
+        "pmcid": "PMC12828146",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12828146"
+          ]
+        },
+        "doi": "10.1016/j.chmed.2025.11.005",
+        "title": "A review of &lt;i&gt;Siraitia grosvenorii&lt;/i&gt;: Applications, breeding, and biosynthesis of mogrosides.",
+        "authorString": "Luo Z, Zang Y, Su J, Tang Q, Pan L, Ma X, Wang C, Mo C.",
+        "journalTitle": "Chin Herb Med",
+        "issue": "1",
+        "journalVolume": "18",
+        "pubYear": "2026",
+        "journalIssn": "1674-6384; 2589-3610; ",
+        "pageInfo": "59-76",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "gen",
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2025-11-15",
+        "firstIndexDate": "2026-01-26"
+      },
+      {
+        "id": "41282403",
+        "source": "MED",
+        "pmid": "41282403",
+        "pmcid": "PMC12639530",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12639530"
+          ]
+        },
+        "doi": "10.1155/ijfo/2345722",
+        "title": "From Sweetness to Mouthfeel: A Review on Overcoming Sensory Barriers in Sugar-Free Beverages.",
+        "authorString": "Ramsey I, Liu J, Swiegers JH, Oladokun O.",
+        "journalTitle": "Int J Food Sci",
+        "journalVolume": "2025",
+        "pubYear": "2025",
+        "journalIssn": "2314-5765; 2356-7015; ",
+        "pageInfo": "2345722",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2025-11-22",
+        "firstIndexDate": "2025-11-24"
+      },
+      {
+        "id": "42587844",
+        "source": "MED",
+        "pmid": "42587844",
+        "pmcid": "PMC13464673",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13464673"
+          ]
+        },
+        "doi": "10.3390/foods15152584",
+        "title": "Formulation Optimization of No Added Sugar Cookies Supplemented with Rice Bran Powder and Elderberry Powder.",
+        "authorString": "Wang S, Ma Z, Qi L, Bian W, Xin S, Shi Y, Wang X.",
+        "journalTitle": "Foods",
+        "issue": "15",
+        "journalVolume": "15",
+        "pubYear": "2026",
+        "journalIssn": "2304-8158",
+        "pageInfo": "2584",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-07-23",
+        "firstIndexDate": "2026-08-15"
+      },
+      {
+        "id": "41604252",
+        "source": "MED",
+        "pmid": "41604252",
+        "pmcid": "PMC12851407",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12851407"
+          ]
+        },
+        "doi": "10.1111/1750-3841.70888",
+        "title": "Sensory Characterization of Cookies With Sugar Replacement by Sweeteners Using the Check-All-That-Apply (CATA) Method.",
+        "authorString": "Lima IHO, Brito NLH, Cardoso FAR, Fuchs RHB.",
+        "journalTitle": "J Food Sci",
+        "issue": "2",
+        "journalVolume": "91",
+        "pubYear": "2026",
+        "journalIssn": "1750-3841; 0022-1147; ",
+        "pageInfo": "e70888",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-02-01",
+        "firstIndexDate": "2026-01-29"
+      },
+      {
+        "id": "42280104",
+        "source": "MED",
+        "pmid": "42280104",
+        "pmcid": "PMC13257803",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13257803"
+          ]
+        },
+        "doi": "10.3390/molecules31111798",
+        "title": "Research on Formulation Optimization and Storage Stability of &lt;i&gt;Pueraria lobata&lt;/i&gt; Compound Beverage: Flavor Analysis and Shelf-Life Prediction.",
+        "authorString": "Lou Z, Cui X, Wu B, Wang H, Konsue N, Chan SW, Kang B.",
+        "journalTitle": "Molecules",
+        "issue": "11",
+        "journalVolume": "31",
+        "pubYear": "2026",
+        "journalIssn": "1420-3049",
+        "pageInfo": "1798",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-05-23",
+        "firstIndexDate": "2026-06-12"
+      },
+      {
+        "id": "41008155",
+        "source": "MED",
+        "pmid": "41008155",
+        "pmcid": "PMC12470175",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12470175"
+          ]
+        },
+        "doi": "10.3390/foods14183182",
+        "title": "Beyond Sugar: A Holistic Review of Sweeteners and Their Role in Modern Nutrition.",
+        "authorString": "Dragomir N, Grigore DM, Pogurschi EN.",
+        "journalTitle": "Foods",
+        "issue": "18",
+        "journalVolume": "14",
+        "pubYear": "2025",
+        "journalIssn": "2304-8158",
+        "pageInfo": "3182",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 9,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2025-09-12",
+        "firstIndexDate": "2025-09-27"
+      },
+      {
+        "id": "41777984",
+        "source": "MED",
+        "pmid": "41777984",
+        "pmcid": "PMC12950988",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12950988"
+          ]
+        },
+        "doi": "10.7759/cureus.102674",
+        "title": "Synergistic Actions of Natural Compounds for Enhancing Cognitive and Physical Performance: A Narrative Review.",
+        "authorString": "Panda R, Mayrovitz HN.",
+        "journalTitle": "Cureus",
+        "issue": "1",
+        "journalVolume": "18",
+        "pubYear": "2026",
+        "journalIssn": "2168-8184",
+        "pageInfo": "e102674",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-01-30",
+        "firstIndexDate": "2026-03-04"
+      },
+      {
+        "id": "41228490",
+        "source": "MED",
+        "pmid": "41228490",
+        "pmcid": "PMC12609324",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12609324"
+          ]
+        },
+        "doi": "10.3390/nu17213417",
+        "title": "Natural Sweetness and Bioactivity: The Cardiovascular Promise of Fruits.",
+        "authorString": "Fa\u0142czy\u0144ska A, Miller-Kasprzak E, Rosiejka D, Micha\u0142owska J, B\u0142a\u017cejewska W, Bogda\u0144ska A, Bogda\u0144ski P.",
+        "journalTitle": "Nutrients",
+        "issue": "21",
+        "journalVolume": "17",
+        "pubYear": "2025",
+        "journalIssn": "2072-6643",
+        "pageInfo": "3417",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 4,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2025-10-30",
+        "firstIndexDate": "2025-11-14"
+      },
+      {
+        "id": "40656633",
+        "source": "MED",
+        "pmid": "40656633",
+        "pmcid": "PMC12253991",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12253991"
+          ]
+        },
+        "doi": "10.1155/ijfo/9961176",
+        "title": "The Effect of Commercially Available Sugar Alternatives on &lt;i&gt;Bacillus&lt;/i&gt; Probiotic Viability During Baking.",
+        "authorString": "Payne J, Holt B, Bellmer D, Wahweah D.",
+        "journalTitle": "Int J Food Sci",
+        "journalVolume": "2025",
+        "pubYear": "2025",
+        "journalIssn": "2314-5765; 2356-7015; ",
+        "pageInfo": "9961176",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2025-07-01",
+        "firstIndexDate": "2025-07-14"
+      },
+      {
+        "id": "42314050",
+        "source": "MED",
+        "pmid": "42314050",
+        "pmcid": "PMC13336362",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13336362"
+          ]
+        },
+        "doi": "10.1002/advs.76159",
+        "title": "Tandem Duplication-Driven Neofunctionalization of UDP-Glycosyltransferases Shapes the Diversification of Triterpenoid Saponins in the Cucurbitaceae.",
+        "authorString": "Wang G, Li M, Dai X, Zhang Y, Wu Y, Yan Z, Tian C, Fan H, Liu H, Zhang X, Yang Y, Lu J, Sun Y, Wang Y.",
+        "journalTitle": "Adv Sci (Weinh)",
+        "issue": "51",
+        "journalVolume": "13",
+        "pubYear": "2026",
+        "journalIssn": "2198-3844",
+        "pageInfo": "e76159",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "pfam"
+          ]
+        },
+        "firstPublicationDate": "2026-06-18",
+        "firstIndexDate": "2026-06-19"
+      },
+      {
+        "id": "42073301",
+        "source": "MED",
+        "pmid": "42073301",
+        "pmcid": "PMC13116540",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13116540"
+          ]
+        },
+        "doi": "10.3390/foods15081413",
+        "title": "Ingredients to Mask the Aversive Taste of Medicines: Lessons from the Pharmaceutical and Food Industries and Home Remedies Adopted by Caregivers.",
+        "authorString": "Paul S, Yoo O, Locher C, Lim LY.",
+        "journalTitle": "Foods",
+        "issue": "8",
+        "journalVolume": "15",
+        "pubYear": "2026",
+        "journalIssn": "2304-8158",
+        "pageInfo": "1413",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-04-17",
+        "firstIndexDate": "2026-05-13"
+      },
+      {
+        "id": "40077663",
+        "source": "MED",
+        "pmid": "40077663",
+        "pmcid": "PMC11902030",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC11902030"
+          ]
+        },
+        "doi": "10.3390/nu17050793",
+        "title": "Dietary Guidance, Sensory, Health and Safety Considerations When Choosing Low and No-Calorie Sweeteners.",
+        "authorString": "Sievenpiper JL, Purkayastha S, Grotz VL, Mora M, Zhou J, Hennings K, Goody CM, Germana K.",
+        "journalTitle": "Nutrients",
+        "issue": "5",
+        "journalVolume": "17",
+        "pubYear": "2025",
+        "journalIssn": "2072-6643",
+        "pageInfo": "793",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 15,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "nct",
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2025-02-25",
+        "firstIndexDate": "2025-03-13"
+      },
+      {
+        "id": "42323164",
+        "source": "MED",
+        "pmid": "42323164",
+        "pmcid": "PMC13494110",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13494110"
+          ]
+        },
+        "doi": "10.1016/j.ajcnut.2026.101401",
+        "title": "Brain and physiological responses to flavored waters with different sweeteners: a randomized crossover study in healthy young adults.",
+        "authorString": "Smeets PA, Veit R, Oosterink E, Meijboom S, Risso D, Preissl H, Kullmann S.",
+        "journalTitle": "Am J Clin Nutr",
+        "issue": "2",
+        "journalVolume": "124",
+        "pubYear": "2026",
+        "journalIssn": "0002-9165; 1938-3207; ",
+        "pageInfo": "101401",
+        "pubType": "research-article; randomized controlled trial; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "nct"
+          ]
+        },
+        "firstPublicationDate": "2026-06-20",
+        "firstIndexDate": "2026-06-22"
+      },
+      {
+        "id": "42291810",
+        "source": "MED",
+        "pmid": "42291810",
+        "pmcid": "PMC13253201",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13253201"
+          ]
+        },
+        "doi": "10.1016/j.fochx.2026.104037",
+        "title": "Flavor enhancement of summer-autumn black tea through synergistic processing with mixed fruit juice: a metabolomics analysis.",
+        "authorString": "Liu B, Niu M, Wang Y, Qin R, Cui H, Zhao Y, Yang J, Wei Z, Liang G, Feng Z, Yin J, Luo L.",
+        "journalTitle": "Food Chem X",
+        "journalVolume": "36",
+        "pubYear": "2026",
+        "journalIssn": "2590-1575",
+        "pageInfo": "104037",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-05-26",
+        "firstIndexDate": "2026-06-16"
+      },
+      {
+        "id": "42421923",
+        "source": "MED",
+        "pmid": "42421923",
+        "pmcid": "PMC13344120",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13344120"
+          ]
+        },
+        "doi": "10.3389/fnut.2026.1742961",
+        "title": "Functional sweet tea in China: species, sweet components and anti-metabolic disease effects.",
+        "authorString": "Yan ZY, Wei XF, Deng GM, Yang WB, Gui R, Wang WX, Kang FH, Li J, Liu YH, Xu KP, Wang YK.",
+        "journalTitle": "Front Nutr",
+        "journalVolume": "13",
+        "pubYear": "2026",
+        "journalIssn": "2296-861x",
+        "pageInfo": "1742961",
+        "pubType": "systematic review; systematic-review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-06-24",
+        "firstIndexDate": "2026-07-09"
+      },
+      {
+        "id": "42156408",
+        "source": "MED",
+        "pmid": "42156408",
+        "pmcid": "PMC13448172",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13448172"
+          ]
+        },
+        "doi": "10.1038/s41538-026-00882-9",
+        "title": "Sugar reduction in complex food systems: linking metabolic mechanisms, matrix engineering, and safety evaluation.",
+        "authorString": "Xue H, Hong K, Kang X, Gao Y, Tang Y, Huang W, Zhan J, Liu J, You Y.",
+        "journalTitle": "NPJ Sci Food",
+        "issue": "1",
+        "journalVolume": "10",
+        "pubYear": "2026",
+        "journalIssn": "2396-8370",
+        "pageInfo": "238",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 1,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-05-19",
+        "firstIndexDate": "2026-05-21"
+      },
+      {
+        "id": "42382309",
+        "source": "MED",
+        "pmid": "42382309",
+        "pmcid": "PMC13315813",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13315813"
+          ]
+        },
+        "doi": "10.1002/fsn3.71891",
+        "title": "Steviol Glycosides (E960) From &lt;i&gt;Stevia rebaudiana&lt;/i&gt;: Technological Innovations, Safety Assessment, Regulatory Aspects and Their Role in Sustainable Food Systems.",
+        "authorString": "Manoharan AS, Selvan RK.",
+        "journalTitle": "Food Sci Nutr",
+        "issue": "7",
+        "journalVolume": "14",
+        "pubYear": "2026",
+        "journalIssn": "2048-7177",
+        "pageInfo": "e71891",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-06-29",
+        "firstIndexDate": "2026-07-02"
+      },
+      {
+        "id": "41097404",
+        "source": "MED",
+        "pmid": "41097404",
+        "pmcid": "PMC12526448",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12526448"
+          ]
+        },
+        "doi": "10.3390/molecules30193983",
+        "title": "Cucurbitane Glycosides from &lt;i&gt;Siraitia Grosvenorii&lt;/i&gt; and Their Hepatoprotective Activities.",
+        "authorString": "Mao JN, Huang HX, Xie QL, Chen GY, Wu JJ, Deng Y, Zhan S, Peng Z, Zhou XD, Wang W.",
+        "journalTitle": "Molecules",
+        "issue": "19",
+        "journalVolume": "30",
+        "pubYear": "2025",
+        "journalIssn": "1420-3049",
+        "pageInfo": "3983",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2025-10-04",
+        "firstIndexDate": "2025-10-16"
+      },
+      {
+        "id": "37706210",
+        "source": "MED",
+        "pmid": "37706210",
+        "pmcid": "PMC10495570",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC10495570"
+          ]
+        },
+        "doi": "10.3389/fnut.2023.1253255",
+        "title": "Bibliometric analysis on the literature of monk fruit extract and mogrosides as sweeteners.",
+        "authorString": "Yeung AWK.",
+        "journalTitle": "Front Nutr",
+        "journalVolume": "10",
+        "pubYear": "2023",
+        "journalIssn": "2296-861x",
+        "pageInfo": "1253255",
+        "pubType": "systematic review; systematic-review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 10,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2023-08-29",
+        "firstIndexDate": "2023-09-15"
+      },
+      {
+        "id": "42110208",
+        "source": "MED",
+        "pmid": "42110208",
+        "pmcid": "PMC13156410",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13156410"
+          ]
+        },
+        "doi": "10.1002/fsn3.71776",
+        "title": "Innovations in Herbal Functional Beverages: From Green Formulation and Bioactivity Preservation to Sensory Optimization and Regulatory Safety.",
+        "authorString": "Awlqadr FH, Qadir SA, Altemimi AB, Tlay RH, Saeed MN, Mohammed OA, Abedelmaksoud TG.",
+        "journalTitle": "Food Sci Nutr",
+        "journalVolume": "14",
+        "pubYear": "2026",
+        "journalIssn": "2048-7177",
+        "pageInfo": "e71776",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-05-08",
+        "firstIndexDate": "2026-05-13"
+      },
+      {
+        "id": "41876882",
+        "source": "MED",
+        "pmid": "41876882",
+        "pmcid": "PMC13017982",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13017982"
+          ]
+        },
+        "doi": "10.1007/s00253-026-13802-4",
+        "title": "Revolutionizing sweetness: the multifaceted health benefits of fermented stevia.",
+        "authorString": "Ma Q, Dawa Y, Zhang J.",
+        "journalTitle": "Appl Microbiol Biotechnol",
+        "issue": "1",
+        "journalVolume": "110",
+        "pubYear": "2026",
+        "journalIssn": "0175-7598; 1432-0614; ",
+        "pageInfo": "118",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 1,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-03-24",
+        "firstIndexDate": "2026-03-25"
+      },
+      {
+        "id": "38370044",
+        "source": "MED",
+        "pmid": "38370044",
+        "pmcid": "PMC10867455",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC10867455"
+          ]
+        },
+        "doi": "10.1002/fsn3.3840",
+        "title": "Characterization of gluten-free cupcakes without sucrose based on defatted soybean flour and monk fruit.",
+        "authorString": "Bahraminejad M, Rostami O, Heydari M, Moradian M, Abdolmaleki K.",
+        "journalTitle": "Food Sci Nutr",
+        "issue": "2",
+        "journalVolume": "12",
+        "pubYear": "2024",
+        "journalIssn": "2048-7177",
+        "pageInfo": "1268-1278",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 4,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2023-11-20",
+        "firstIndexDate": "2024-02-19"
+      },
+      {
+        "id": "42140933",
+        "source": "MED",
+        "pmid": "42140933",
+        "pmcid": "PMC13347015",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13347015"
+          ]
+        },
+        "doi": "10.1038/s41419-026-08845-4",
+        "title": "PLSCR1 drives chemoresistance in TNBC via METTL3/IGF2BP3-mediated mRNA stabilization and EGFR-MAPK pathway activation.",
+        "authorString": "Lu Y, Zeng X, Peng S, Zhan Y, Liu W, Zhao R, Li J, Huang Q, Ye T, Yuan Z, Huang P.",
+        "journalTitle": "Cell Death Dis",
+        "issue": "1",
+        "journalVolume": "17",
+        "pubYear": "2026",
+        "journalIssn": "2041-4889",
+        "pageInfo": "624",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 1,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "geo",
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-05-15",
+        "firstIndexDate": "2026-05-17"
+      },
+      {
+        "id": "42073276",
+        "source": "MED",
+        "pmid": "42073276",
+        "pmcid": "PMC13115441",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13115441"
+          ]
+        },
+        "doi": "10.3390/foods15081389",
+        "title": "Sea Buckthorn (&lt;i&gt;Hippophae rhamnoides&lt;/i&gt; L.): Nutritional Significance, Phytochemistry, Molecular Mechanisms, Therapeutic Potential, and Emerging Applications in Food Systems.",
+        "authorString": "Javaid N, Amjad A, Weiskirchen R, Abbas A, Zafar S, Shah M, Javed MS, Afzal K, Zafar U, Israr M.",
+        "journalTitle": "Foods",
+        "issue": "8",
+        "journalVolume": "15",
+        "pubYear": "2026",
+        "journalIssn": "2304-8158",
+        "pageInfo": "1389",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 2,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-04-16",
+        "firstIndexDate": "2026-05-13"
+      },
+      {
+        "id": "42356389",
+        "source": "MED",
+        "pmid": "42356389",
+        "pmcid": "PMC13305536",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13305536"
+          ]
+        },
+        "doi": "10.3390/nu18122002",
+        "title": "Stevia Rebaudiosides Usage as a Sugar Reduction Tool: A Narrative Review of Their Metabolic, Gut Microbiome and Weight Management Effects in Human Clinical Studies.",
+        "authorString": "Scott C, Stamataki N, McLaughlin J.",
+        "journalTitle": "Nutrients",
+        "issue": "12",
+        "journalVolume": "18",
+        "pubYear": "2026",
+        "journalIssn": "2072-6643",
+        "pageInfo": "2002",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-06-20",
+        "firstIndexDate": "2026-06-27"
+      },
+      {
+        "id": "42733900",
+        "source": "MED",
+        "pmid": "42733900",
+        "pmcid": "PMC13571747",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13571747"
+          ]
+        },
+        "doi": "10.1016/j.fochx.2026.104396",
+        "title": "Recent advances in &lt;i&gt;Siraitia grosvenorii&lt;/i&gt; polysaccharides: Extraction, structural characteristics, biological activities and structure-activity relationships.",
+        "authorString": "Luan Y, Zhu S, Yin F, Yan G, Gao J, Huang F, Guo J, Wang C, Ren Y, Zhang N, Sun H.",
+        "journalTitle": "Food Chem X",
+        "journalVolume": "39",
+        "pubYear": "2026",
+        "journalIssn": "2590-1575",
+        "pageInfo": "104396",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-09-01",
+        "firstIndexDate": "2026-09-14"
+      },
+      {
+        "id": "42564026",
+        "source": "MED",
+        "pmid": "42564026",
+        "pmcid": "PMC13441740",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13441740"
+          ]
+        },
+        "doi": "10.3389/fnut.2026.1868916",
+        "title": "Techno-economic assessment for plant seed-based production of Thaumatin II: a natural high intensity protein sweetener.",
+        "authorString": "Gore V, Tus\u00e9 D, Giritch A, Nandi S, McDonald KA.",
+        "journalTitle": "Front Nutr",
+        "journalVolume": "13",
+        "pubYear": "2026",
+        "journalIssn": "2296-861x",
+        "pageInfo": "1868916",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-07-23",
+        "firstIndexDate": "2026-08-07"
+      },
+      {
+        "id": "41440756",
+        "source": "MED",
+        "pmid": "41440756",
+        "pmcid": "PMC12733907",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12733907"
+          ]
+        },
+        "doi": "10.3390/jox15060209",
+        "title": "Sweeteners in E-Cigarettes: A Minireview of Flavoring and Biological Action.",
+        "authorString": "Tkach VV, Morozova TV, Gaiv\u00e3o I, Martins-Bessa A, Ivanushko YG, Martins JIFP, Barros AN.",
+        "journalTitle": "J Xenobiot",
+        "issue": "6",
+        "journalVolume": "15",
+        "pubYear": "2025",
+        "journalIssn": "2039-4705; 2039-4713; ",
+        "pageInfo": "209",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 2,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2025-12-11",
+        "firstIndexDate": "2025-12-24"
+      },
+      {
+        "id": "40100508",
+        "source": "MED",
+        "pmid": "40100508",
+        "pmcid": "PMC11920521",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC11920521"
+          ]
+        },
+        "doi": "10.1186/s13568-025-01864-y",
+        "title": "Biosynthesis and metabolic engineering of natural sweeteners.",
+        "authorString": "Fan B, Liang X, Li Y, Li M, Yu T, Qin Y, Li B, An T, Wang G.",
+        "journalTitle": "AMB Express",
+        "issue": "1",
+        "journalVolume": "15",
+        "pubYear": "2025",
+        "journalIssn": "2191-0855",
+        "pageInfo": "50",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 7,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2025-03-18",
+        "firstIndexDate": "2025-03-19"
+      },
+      {
+        "id": "37283492",
+        "source": "MED",
+        "pmid": "37283492",
+        "pmcid": "PMC10288514",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC10288514"
+          ]
+        },
+        "doi": "10.1021/acs.jafc.3c01144",
+        "title": "Replication of the Taste of Sugar by Formulation of Noncaloric Sweeteners with Mineral Salt Taste Modulator Compositions.",
+        "authorString": "DuBois G, San Miguel R, Hastings R, Chutasmit P, Trelokedsakul A.",
+        "journalTitle": "J Agric Food Chem",
+        "issue": "24",
+        "journalVolume": "71",
+        "pubYear": "2023",
+        "journalIssn": "0021-8561; 1520-5118; ",
+        "pageInfo": "9469-9480",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 7,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2023-06-07",
+        "firstIndexDate": "2023-06-08"
+      },
+      {
+        "id": "41296106",
+        "source": "MED",
+        "pmid": "41296106",
+        "pmcid": "PMC12657585",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12657585"
+          ]
+        },
+        "doi": "10.1007/s12035-025-05331-4",
+        "title": "Mogroside V Ameliorates Spinal Cord Injury by Inhibiting M1 Microglia Polarization.",
+        "authorString": "Xie X, Zhang J, Liu Z, Zhang C, Li J, Yang Y, Zhang H, Yan F, Li C, Xiong H, Lv C.",
+        "journalTitle": "Mol Neurobiol",
+        "issue": "1",
+        "journalVolume": "63",
+        "pubYear": "2025",
+        "journalIssn": "0893-7648; 1559-1182; ",
+        "pageInfo": "181",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 2,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2025-11-26",
+        "firstIndexDate": "2025-11-26"
+      },
+      {
+        "id": "37375251",
+        "source": "MED",
+        "pmid": "37375251",
+        "pmcid": "PMC10303746",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC10303746"
+          ]
+        },
+        "doi": "10.3390/molecules28124697",
+        "title": "Post-Ripening and Key Glycosyltransferase Catalysis to Promote Sweet Mogrosides Accumulation of <i>Siraitia grosvenorii</i> Fruits.",
+        "authorString": "Cui S, Zang Y, Xie L, Mo C, Su J, Jia X, Luo Z, Ma X.",
+        "journalTitle": "Molecules",
+        "issue": "12",
+        "journalVolume": "28",
+        "pubYear": "2023",
+        "journalIssn": "1420-3049",
+        "pageInfo": "4697",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 10,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "Y",
+        "dbCrossReferenceList": {
+          "dbName": [
+            "UNIPROT"
+          ]
+        },
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2023-06-11",
+        "firstIndexDate": "2023-06-28"
+      },
+      {
+        "id": "42255688",
+        "source": "MED",
+        "pmid": "42255688",
+        "pmcid": "PMC13239865",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13239865"
+          ]
+        },
+        "doi": "10.1002/fsn3.71945",
+        "title": "Effects and Mechanisms of Stevioside on Metabolic Dysfunction-Associated Steatotic Liver Disease.",
+        "authorString": "Li K, Zhang C, Kang L, Mu Y, Li Z, Zhang J, Li G.",
+        "journalTitle": "Food Sci Nutr",
+        "issue": "6",
+        "journalVolume": "14",
+        "pubYear": "2026",
+        "journalIssn": "2048-7177",
+        "pageInfo": "e71945",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2026-05-27",
+        "firstIndexDate": "2026-06-09"
+      },
+      {
+        "id": "38567203",
+        "source": "MED",
+        "pmid": "38567203",
+        "pmcid": "PMC10986896",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC10986896"
+          ]
+        },
+        "doi": "10.1002/pei3.10142",
+        "title": "Abundance and diversity of fungal endophytes isolated from monk fruit (&lt;i&gt;Siraitia grosvenorii&lt;/i&gt;) grown in a Canadian research greenhouse.",
+        "authorString": "Ma L, Elmhirst JF, Darvish R, Wegener LA, Henderson D.",
+        "journalTitle": "Plant Environ Interact",
+        "issue": "2",
+        "journalVolume": "5",
+        "pubYear": "2024",
+        "journalIssn": "2575-6265",
+        "pageInfo": "e10142",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 2,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "gen"
+          ]
+        },
+        "firstPublicationDate": "2024-04-02",
+        "firstIndexDate": "2024-04-03"
+      },
+      {
+        "id": "42739009",
+        "source": "MED",
+        "pmid": "42739009",
+        "pmcid": "PMC13567534",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13567534"
+          ]
+        },
+        "doi": "10.3390/nu18172837",
+        "title": "Medicine-Food Homology Plants and Bioactive Compounds in Polyendocrine Metabolic Ovarian Syndrome: Multi-Target Mechanisms and Functional Food Potential-A Review.",
+        "authorString": "Yang Q, Zou L, Huang Y, Zhang Q, He C, Cheng L, Zhao C.",
+        "journalTitle": "Nutrients",
+        "issue": "17",
+        "journalVolume": "18",
+        "pubYear": "2026",
+        "journalIssn": "2072-6643",
+        "pageInfo": "2837",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-08-28",
+        "firstIndexDate": "2026-09-15"
+      },
+      {
+        "id": "42195888",
+        "source": "MED",
+        "pmid": "42195888",
+        "pmcid": "PMC13205887",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13205887"
+          ]
+        },
+        "doi": "10.3390/foods15101684",
+        "title": "Effects of a Combined Front-of-Pack Nutrition Label and Nutrition Education Intervention on Healthier Choices of Freshly Prepared Beverages: An Online Randomized Controlled Trial.",
+        "authorString": "Shi R, Huang J, Sun J.",
+        "journalTitle": "Foods",
+        "issue": "10",
+        "journalVolume": "15",
+        "pubYear": "2026",
+        "journalIssn": "2304-8158",
+        "pageInfo": "1684",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2026-05-12",
+        "firstIndexDate": "2026-05-28"
+      }
+    ]
+  }
+}

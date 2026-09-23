@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8622631/fullTextXML",
+    "status": 200,
+    "bytes": 90893,
+    "text_chars": 35281,
+    "sha256": "f675079c3027990f134be9030d6ac2ca1f974fd890effc34d41cbc7f350ccb21"
+  },
+  {
+    "id": 2,
+    "url": "https://www.tandfonline.com/doi/full/10.1080/23311932.2021.1889098",
+    "status": 403,
+    "bytes": 5631,
+    "text_chars": 58,
+    "sha256": "f44f5c6a5eaed6259a42735ce646ee792b298da9354727af3c48845d5c260755"
+  },
+  {
+    "id": 3,
+    "url": "https://li01.tci-thaijo.org/index.php/anres/article/view/252039",
+    "status": 200,
+    "bytes": 30152,
+    "text_chars": 4204,
+    "sha256": "7e1c2d561b6b8cc15d521405523dfa522fb58328281e79d2605122cea1f94827"
+  },
+  {
+    "id": 4,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10779248/fullTextXML",
+    "status": 200,
+    "bytes": 111268,
+    "text_chars": 37570,
+    "sha256": "4d8b3602cf71c0f50100276b19e5b3300ae20064a5e3e1dd710c9be48ebc7ecd"
+  },
+  {
+    "id": 5,
+    "url": "https://www.federalregister.gov/documents/2025/05/12/2025-08248/listing-of-color-additives-exempt-from-certification-butterfly-pea-flower-extract",
+    "status": 200,
+    "bytes": 10596,
+    "text_chars": 1122,
+    "sha256": "cb68cf8a709c9b99683f316dddd745d2b6680eda3207215657485b84c28daec9"
+  },
+  {
+    "id": 6,
+    "url": "https://www.federalregister.gov/documents/2025/08/21/2025-16045/listing-of-color-additives-exempt-from-certification-butterfly-pea-flower-extract-confirmation-of",
+    "status": 200,
+    "bytes": 10596,
+    "text_chars": 1122,
+    "sha256": "14736878d791058f05c1a4dd5bda529f57f53dd572ed05c3ef2b47fa37f2ef7c"
+  },
+  {
+    "id": 7,
+    "url": "https://li01.tci-thaijo.org/index.php/anres/article/download/252039/172409/1017760",
+    "status": 200,
+    "bytes": 1374646,
+    "sha256": "aa7c6c7698734040d4ba2c78fc8322cf4656aab0ecb15a88ca4227996f6a19b2"
+  },
+  {
+    "id": 8,
+    "url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/html/2025-08248.htm",
+    "status": 200,
+    "bytes": 25665,
+    "sha256": "d2ffd53bfd7b23129dc7bd03a233c78e20417e04de817ae9f026aab7b62cc5a5"
+  },
+  {
+    "id": 9,
+    "url": "https://www.govinfo.gov/content/pkg/FR-2025-08-21/html/2025-16045.htm",
+    "status": 200,
+    "bytes": 4272,
+    "sha256": "78c6b70dd0b3aeace2dbed993c0541fb3955a34e1c3bba26847e2895d7eb27bf"
+  },
+  {
+    "id": 10,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10969496/fullTextXML",
+    "status": 200,
+    "bytes": 114188,
+    "text_chars": 40747,
+    "sha256": "d4568cfd7f2b846c43cb062a19c3070c9b6d05682340674a6f800d1b81aa5371"
+  }
+]

@@ -1,0 +1,1034 @@
+{
+  "version": "6.9",
+  "hitCount": 26,
+  "request": {
+    "queryString": "(TITLE_ABS:mogroside AND (purification OR sensory)) AND OPEN_ACCESS:Y",
+    "resultType": "lite",
+    "cursorMark": "*",
+    "pageSize": 100,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "42338566",
+        "source": "MED",
+        "pmid": "42338566",
+        "pmcid": "PMC13283849",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13283849"
+          ]
+        },
+        "doi": "10.1093/hr/uhag103",
+        "title": "Haplotype-resolved T2T genome and population resequencing provide insights into the domestication and mogroside biosynthesis of &lt;i&gt;Siraitia grosvenorii&lt;/i&gt; (Cucurbitaceae).",
+        "authorString": "Kou Y, Wang S, Xie W, Dou L, Pan D, Lai B, Mo F, Yang P, Zeng D, Wei S, Wang H, Zhang Z, Tang S.",
+        "journalTitle": "Hortic Res",
+        "issue": "7",
+        "journalVolume": "13",
+        "pubYear": "2026",
+        "journalIssn": "2662-6810; 2052-7276; ",
+        "pageInfo": "uhag103",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2026-03-18",
+        "firstIndexDate": "2026-06-24"
+      },
+      {
+        "id": "42280104",
+        "source": "MED",
+        "pmid": "42280104",
+        "pmcid": "PMC13257803",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13257803"
+          ]
+        },
+        "doi": "10.3390/molecules31111798",
+        "title": "Research on Formulation Optimization and Storage Stability of &lt;i&gt;Pueraria lobata&lt;/i&gt; Compound Beverage: Flavor Analysis and Shelf-Life Prediction.",
+        "authorString": "Lou Z, Cui X, Wu B, Wang H, Konsue N, Chan SW, Kang B.",
+        "journalTitle": "Molecules",
+        "issue": "11",
+        "journalVolume": "31",
+        "pubYear": "2026",
+        "journalIssn": "1420-3049",
+        "pageInfo": "1798",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-05-23",
+        "firstIndexDate": "2026-06-12"
+      },
+      {
+        "id": "41584700",
+        "source": "MED",
+        "pmid": "41584700",
+        "pmcid": "PMC12828146",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12828146"
+          ]
+        },
+        "doi": "10.1016/j.chmed.2025.11.005",
+        "title": "A review of &lt;i&gt;Siraitia grosvenorii&lt;/i&gt;: Applications, breeding, and biosynthesis of mogrosides.",
+        "authorString": "Luo Z, Zang Y, Su J, Tang Q, Pan L, Ma X, Wang C, Mo C.",
+        "journalTitle": "Chin Herb Med",
+        "issue": "1",
+        "journalVolume": "18",
+        "pubYear": "2026",
+        "journalIssn": "1674-6384; 2589-3610; ",
+        "pageInfo": "59-76",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "gen",
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2025-11-15",
+        "firstIndexDate": "2026-01-26"
+      },
+      {
+        "id": "42123944",
+        "source": "MED",
+        "pmid": "42123944",
+        "pmcid": "PMC13165111",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13165111"
+          ]
+        },
+        "doi": "10.3390/nu18091342",
+        "title": "Mogrosides as Dual-Function Sweeteners: A Comprehensive Review of Extraction, Metabolism, Antidiabetic Mechanisms, and Food Applications.",
+        "authorString": "Feng Q, Wang T, Wang Q, Pan H, Zhong Y, Zhuang Y.",
+        "journalTitle": "Nutrients",
+        "issue": "9",
+        "journalVolume": "18",
+        "pubYear": "2026",
+        "journalIssn": "2072-6643",
+        "pageInfo": "1342",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-04-24",
+        "firstIndexDate": "2026-05-15"
+      },
+      {
+        "id": "41296106",
+        "source": "MED",
+        "pmid": "41296106",
+        "pmcid": "PMC12657585",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12657585"
+          ]
+        },
+        "doi": "10.1007/s12035-025-05331-4",
+        "title": "Mogroside V Ameliorates Spinal Cord Injury by Inhibiting M1 Microglia Polarization.",
+        "authorString": "Xie X, Zhang J, Liu Z, Zhang C, Li J, Yang Y, Zhang H, Yan F, Li C, Xiong H, Lv C.",
+        "journalTitle": "Mol Neurobiol",
+        "issue": "1",
+        "journalVolume": "63",
+        "pubYear": "2025",
+        "journalIssn": "0893-7648; 1559-1182; ",
+        "pageInfo": "181",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 2,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2025-11-26",
+        "firstIndexDate": "2025-11-26"
+      },
+      {
+        "id": "41903125",
+        "source": "MED",
+        "pmid": "41903125",
+        "pmcid": "PMC13271639",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13271639"
+          ]
+        },
+        "doi": "10.1002/advs.202519972",
+        "title": "NUP85 Mediates Endoplasmic Reticulum Stress through the USP47/ASK1 Signaling Pathway to Regulate the Progression of Liver Fibrosis.",
+        "authorString": "Yang D, Yang H, Pan L, Tian C, Zuo F, Huang S, Li X, Chen M, Qian C, Wang J, Chen Z, Xu T.",
+        "journalTitle": "Adv Sci (Weinh)",
+        "issue": "33",
+        "journalVolume": "13",
+        "pubYear": "2026",
+        "journalIssn": "2198-3844",
+        "pageInfo": "e19972",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "geo",
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-03-28",
+        "firstIndexDate": "2026-03-30"
+      },
+      {
+        "id": "39513415",
+        "source": "MED",
+        "pmid": "39513415",
+        "pmcid": "PMC11631053",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC11631053"
+          ]
+        },
+        "doi": "10.1093/chemse/bjae041",
+        "title": "A receptor-based assay to study the sweet and bitter tastes of sweeteners and binary sweet blends: the SWEET project.",
+        "authorString": "Belloir C, Jeannin M, Karolkowski A, Scott C, Briand L.",
+        "journalTitle": "Chem Senses",
+        "journalVolume": "49",
+        "pubYear": "2024",
+        "journalIssn": "0379-864x; 1464-3553; ",
+        "pageInfo": "bjae041",
+        "pubType": "research support, non-u.s. gov't; research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 10,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2024-01-01",
+        "firstIndexDate": "2024-11-15"
+      },
+      {
+        "id": "39080270",
+        "source": "MED",
+        "pmid": "39080270",
+        "pmcid": "PMC11289153",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC11289153"
+          ]
+        },
+        "doi": "10.1038/s41467-024-50662-w",
+        "title": "Structural insights into the catalytic selectivity of glycosyltransferase SgUGT94-289-3 towards mogrosides.",
+        "authorString": "Cui S, Zhang S, Wang N, Su X, Luo Z, Ma X, Li M.",
+        "journalTitle": "Nat Commun",
+        "issue": "1",
+        "journalVolume": "15",
+        "pubYear": "2024",
+        "journalIssn": "2041-1723",
+        "pageInfo": "6423",
+        "pubType": "research support, non-u.s. gov't; research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 26,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "Y",
+        "dbCrossReferenceList": {
+          "dbName": [
+            "INTERPRO",
+            "PDB"
+          ]
+        },
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "pdb"
+          ]
+        },
+        "firstPublicationDate": "2024-07-30",
+        "firstIndexDate": "2024-07-31"
+      },
+      {
+        "id": "42140933",
+        "source": "MED",
+        "pmid": "42140933",
+        "pmcid": "PMC13347015",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13347015"
+          ]
+        },
+        "doi": "10.1038/s41419-026-08845-4",
+        "title": "PLSCR1 drives chemoresistance in TNBC via METTL3/IGF2BP3-mediated mRNA stabilization and EGFR-MAPK pathway activation.",
+        "authorString": "Lu Y, Zeng X, Peng S, Zhan Y, Liu W, Zhao R, Li J, Huang Q, Ye T, Yuan Z, Huang P.",
+        "journalTitle": "Cell Death Dis",
+        "issue": "1",
+        "journalVolume": "17",
+        "pubYear": "2026",
+        "journalIssn": "2041-4889",
+        "pageInfo": "624",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 1,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "geo",
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2026-05-15",
+        "firstIndexDate": "2026-05-17"
+      },
+      {
+        "id": "40082984",
+        "source": "MED",
+        "pmid": "40082984",
+        "pmcid": "PMC11907933",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC11907933"
+          ]
+        },
+        "doi": "10.1186/s13018-025-05684-5",
+        "title": "Mogroside V enhances bone marrow mesenchymal stem cells osteogenesis under hyperglycemic conditions through upregulating miR-10b-5p and PI3K/Akt signaling.",
+        "authorString": "Lan D, Li K, Ye Z, Luo Y, Li C, Li H.",
+        "journalTitle": "J Orthop Surg Res",
+        "issue": "1",
+        "journalVolume": "20",
+        "pubYear": "2025",
+        "journalIssn": "1749-799x",
+        "pageInfo": "278",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 4,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2025-03-14",
+        "firstIndexDate": "2025-03-14"
+      },
+      {
+        "id": "37375251",
+        "source": "MED",
+        "pmid": "37375251",
+        "pmcid": "PMC10303746",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC10303746"
+          ]
+        },
+        "doi": "10.3390/molecules28124697",
+        "title": "Post-Ripening and Key Glycosyltransferase Catalysis to Promote Sweet Mogrosides Accumulation of <i>Siraitia grosvenorii</i> Fruits.",
+        "authorString": "Cui S, Zang Y, Xie L, Mo C, Su J, Jia X, Luo Z, Ma X.",
+        "journalTitle": "Molecules",
+        "issue": "12",
+        "journalVolume": "28",
+        "pubYear": "2023",
+        "journalIssn": "1420-3049",
+        "pageInfo": "4697",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 10,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "Y",
+        "dbCrossReferenceList": {
+          "dbName": [
+            "UNIPROT"
+          ]
+        },
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2023-06-11",
+        "firstIndexDate": "2023-06-28"
+      },
+      {
+        "id": "39247811",
+        "source": "MED",
+        "pmid": "39247811",
+        "pmcid": "PMC11380452",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC11380452"
+          ]
+        },
+        "doi": "10.7150/ijbs.100905",
+        "title": "FOXA1-dependent PUS1 regulates EIF3b stability in a non-enzymatic pathway mediating prostate cancer bone metastasis.",
+        "authorString": "Wu Y, Peng S, Cheng B, Zhong H, Cen M, Fu J, Luo T, Guo Z, Lai Y, Huang H.",
+        "journalTitle": "Int J Biol Sci",
+        "issue": "11",
+        "journalVolume": "20",
+        "pubYear": "2024",
+        "journalIssn": "1449-2288",
+        "pageInfo": "4566-4584",
+        "pubType": "research support, non-u.s. gov't; research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 11,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2024-08-19",
+        "firstIndexDate": "2024-09-09"
+      },
+      {
+        "id": "35990336",
+        "source": "MED",
+        "pmid": "35990336",
+        "pmcid": "PMC9387942",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC9387942"
+          ]
+        },
+        "doi": "10.3389/fnut.2022.961998",
+        "title": "Effect of different sweeteners on the quality, fatty acid and volatile flavor compounds of braised pork.",
+        "authorString": "He ZG, Zhang Y, Yang MD, Zhang YQ, Cui YY, Du MY, Zhao D, Sun H.",
+        "journalTitle": "Front Nutr",
+        "journalVolume": "9",
+        "pubYear": "2022",
+        "journalIssn": "2296-861x",
+        "pageInfo": "961998",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 12,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "gen",
+            "uniprot",
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2022-08-04",
+        "firstIndexDate": "2022-08-23"
+      },
+      {
+        "id": "37706210",
+        "source": "MED",
+        "pmid": "37706210",
+        "pmcid": "PMC10495570",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC10495570"
+          ]
+        },
+        "doi": "10.3389/fnut.2023.1253255",
+        "title": "Bibliometric analysis on the literature of monk fruit extract and mogrosides as sweeteners.",
+        "authorString": "Yeung AWK.",
+        "journalTitle": "Front Nutr",
+        "journalVolume": "10",
+        "pubYear": "2023",
+        "journalIssn": "2296-861x",
+        "pageInfo": "1253255",
+        "pubType": "systematic review; systematic-review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 10,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2023-08-29",
+        "firstIndexDate": "2023-09-15"
+      },
+      {
+        "id": "32626208",
+        "source": "MED",
+        "pmid": "32626208",
+        "pmcid": "PMC7008860",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC7008860"
+          ]
+        },
+        "doi": "10.2903/j.efsa.2019.5921",
+        "title": "Safety of use of Monk fruit extract as a food additive in different food categories.",
+        "authorString": "EFSA Panel\u00a0on Food Additives and Flavourings (FAF), Younes M, Aquilina G, Engel KH, Fowler P, Frutos Fernandez MJ, F\u00fcrst P, G\u00fcrtler R, Gundert-Remy U, Hus\u00f8y T, Mennes W, Moldeus P, Oskarsson A, Shah R, Waalkens-Berendsen I, W\u00f6lfle D, Degen G, Herman L, Gott D, Leblanc JC, Giarola A, Rincon AM, Tard A, Castle L.",
+        "journalTitle": "EFSA J",
+        "issue": "12",
+        "journalVolume": "17",
+        "pubYear": "2019",
+        "journalIssn": "1831-4732",
+        "pageInfo": "e05921",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 25,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2019-12-11",
+        "firstIndexDate": "2020-07-06"
+      },
+      {
+        "id": "36855540",
+        "source": "MED",
+        "pmid": "36855540",
+        "pmcid": "PMC9968502",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC9968502"
+          ]
+        },
+        "doi": "10.2147/ijn.s395266",
+        "title": "Solubilisation and Enhanced Oral Absorption of Curcumin Using a Natural Non-Nutritive Sweetener Mogroside V.",
+        "authorString": "Zhang J, Zhang Y, Wang H, Chen W, Lu A, Li H, Kang L, Wu C.",
+        "journalTitle": "Int J Nanomedicine",
+        "journalVolume": "18",
+        "pubYear": "2023",
+        "journalIssn": "1176-9114; 1178-2013; ",
+        "pageInfo": "1031-1045",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 9,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2023-02-23",
+        "firstIndexDate": "2023-03-01"
+      },
+      {
+        "id": "31883610",
+        "source": "MED",
+        "pmid": "31883610",
+        "pmcid": "PMC13521049",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13521049"
+          ]
+        },
+        "doi": "10.1016/j.jfda.2019.05.001",
+        "title": "Biotransformation of mogrosides from Siraitia grosvenorii by Ganoderma lucidum mycelium and the purification of mogroside III E by macroporous resins.",
+        "authorString": "Chiu CH, Wang R, Zhuang S, Lin PY, Lo YC, Lu TJ.",
+        "journalTitle": "J Food Drug Anal",
+        "issue": "1",
+        "journalVolume": "28",
+        "pubYear": "2020",
+        "journalIssn": "1021-9498; 2224-6614; ",
+        "pageInfo": "74-83",
+        "pubType": "research support, non-u.s. gov't; research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 17,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2019-05-29",
+        "firstIndexDate": "2020-01-01"
+      },
+      {
+        "id": "30847162",
+        "source": "MED",
+        "pmid": "30847162",
+        "pmcid": "PMC6392867",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC6392867"
+          ]
+        },
+        "doi": "10.1002/fsn3.932",
+        "title": "Hydrolyzation of mogrosides: Immobilized \u03b2-glucosidase for mogrosides deglycosylation from Lo Han Kuo.",
+        "authorString": "Wang HT, Yang JT, Chen KI, Wang TY, Lu TJ, Cheng KC.",
+        "journalTitle": "Food Sci Nutr",
+        "issue": "2",
+        "journalVolume": "7",
+        "pubYear": "2019",
+        "journalIssn": "2048-7177",
+        "pageInfo": "834-843",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 15,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2019-01-29",
+        "firstIndexDate": "2019-03-09"
+      },
+      {
+        "id": "36248741",
+        "source": "MED",
+        "pmid": "36248741",
+        "pmcid": "PMC9557039",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC9557039"
+          ]
+        },
+        "doi": "10.1016/j.isci.2022.105222",
+        "title": "Glycosyltransferase engineering and multi-glycosylation routes development facilitating synthesis of high-intensity sweetener mogrosides.",
+        "authorString": "Li J, Mu S, Yang J, Liu C, Zhang Y, Chen P, Zeng Y, Zhu Y, Sun Y.",
+        "journalTitle": "iScience",
+        "issue": "10",
+        "journalVolume": "25",
+        "pubYear": "2022",
+        "journalIssn": "2589-0042",
+        "pageInfo": "105222",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 25,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "Y",
+        "dbCrossReferenceList": {
+          "dbName": [
+            "UNIPROT"
+          ]
+        },
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "gen",
+            "pdb"
+          ]
+        },
+        "firstPublicationDate": "2022-09-27",
+        "firstIndexDate": "2022-10-18"
+      },
+      {
+        "id": "31718007",
+        "source": "MED",
+        "pmid": "31718007",
+        "pmcid": "PMC6891407",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC6891407"
+          ]
+        },
+        "doi": "10.3390/molecules24224076",
+        "title": "Effects of Forchlorfenuron on the Morphology, Metabolite Accumulation, and Transcriptional Responses of <i>Siraitia grosvenorii</i> Fruit.",
+        "authorString": "Shi H, Liao J, Cui S, Luo Z, Ma X.",
+        "journalTitle": "Molecules",
+        "issue": "22",
+        "journalVolume": "24",
+        "pubYear": "2019",
+        "journalIssn": "1420-3049",
+        "pageInfo": "E4076",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 6,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "Y",
+        "dbCrossReferenceList": {
+          "dbName": [
+            "CHEBI"
+          ]
+        },
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2019-11-11",
+        "firstIndexDate": "2019-11-14"
+      },
+      {
+        "id": "31474867",
+        "source": "MED",
+        "pmid": "31474867",
+        "pmcid": "PMC6707405",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC6707405"
+          ]
+        },
+        "doi": "10.3389/fphar.2019.00915",
+        "title": "Screening Bioactive Compounds of Siraitia grosvenorii by Immobilized \u03b2<sub>2</sub>-Adrenergic Receptor Chromatography and Druggability Evaluation.",
+        "authorString": "Jia X, Liu J, Shi B, Liang Q, Gao J, Feng G, Chang Z, Li Q, Zhang X, Chen J, Zhao X.",
+        "journalTitle": "Front Pharmacol",
+        "journalVolume": "10",
+        "pubYear": "2019",
+        "journalIssn": "1663-9812",
+        "pageInfo": "915",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 12,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2019-08-16",
+        "firstIndexDate": "2019-09-03"
+      },
+      {
+        "id": "25140446",
+        "source": "MED",
+        "pmid": "25140446",
+        "pmcid": "PMC6271920",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC6271920"
+          ]
+        },
+        "doi": "10.3390/molecules190812676",
+        "title": "Cucurbitane glycosides derived from mogroside IIE: structure-taste relationships, antioxidant activity, and acute toxicity.",
+        "authorString": "Wang L, Yang Z, Lu F, Liu J, Song Y, Li D.",
+        "journalTitle": "Molecules",
+        "issue": "8",
+        "journalVolume": "19",
+        "pubYear": "2014",
+        "journalIssn": "1420-3049",
+        "pageInfo": "12676-12689",
+        "pubType": "research support, non-u.s. gov't; research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 27,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2014-08-20",
+        "firstIndexDate": "2014-08-21"
+      },
+      {
+        "id": "22143539",
+        "source": "MED",
+        "pmid": "22143539",
+        "pmcid": "PMC6264705",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC6264705"
+          ]
+        },
+        "doi": "10.3390/molecules16097288",
+        "title": "Development of a process for separation of mogroside V from Siraitia grosvenorii by macroporous resins.",
+        "authorString": "Zhang M, Yang H, Zhang H, Wang Y, Hu P.",
+        "journalTitle": "Molecules",
+        "issue": "9",
+        "journalVolume": "16",
+        "pubYear": "2011",
+        "journalIssn": "1420-3049",
+        "pageInfo": "7288-7301",
+        "pubType": "research support, non-u.s. gov't; research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 9,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2011-08-25",
+        "firstIndexDate": "2011-12-08"
+      },
+      {
+        "id": "30400167",
+        "source": "MED",
+        "pmid": "30400167",
+        "pmcid": "PMC6266678",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC6266678"
+          ]
+        },
+        "doi": "10.3390/nu10111632",
+        "title": "A Comparison of Psychophysical Dose-Response Behaviour across 16 Sweeteners.",
+        "authorString": "Wee M, Tan V, Forde C.",
+        "journalTitle": "Nutrients",
+        "issue": "11",
+        "journalVolume": "10",
+        "pubYear": "2018",
+        "journalIssn": "2072-6643",
+        "pageInfo": "E1632",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 53,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2018-11-02",
+        "firstIndexDate": "2018-11-07"
+      },
+      {
+        "id": "30754652",
+        "source": "MED",
+        "pmid": "30754652",
+        "pmcid": "PMC6384864",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC6384864"
+          ]
+        },
+        "doi": "10.3390/molecules24030627",
+        "title": "Identification of a Novel Specific Cucurbitadienol Synthase Allele in <i>Siraitia grosvenorii</i> Correlates with High Catalytic Efficiency.",
+        "authorString": "Qiao J, Luo Z, Gu Z, Zhang Y, Zhang X, Ma X.",
+        "journalTitle": "Molecules",
+        "issue": "3",
+        "journalVolume": "24",
+        "pubYear": "2019",
+        "journalIssn": "1420-3049",
+        "pageInfo": "E627",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 10,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "gen",
+            "doi"
+          ]
+        },
+        "firstPublicationDate": "2019-02-11",
+        "firstIndexDate": "2019-02-14"
+      },
+      {
+        "id": "21729270",
+        "source": "MED",
+        "pmid": "21729270",
+        "pmcid": "PMC3161973",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC3161973"
+          ]
+        },
+        "doi": "10.1186/1471-2164-12-343",
+        "title": "An efficient approach to finding Siraitia grosvenorii triterpene biosynthetic genes by RNA-seq and digital gene expression analysis.",
+        "authorString": "Tang Q, Ma X, Mo C, Wilson IW, Song C, Zhao H, Yang Y, Fu W, Qiu D.",
+        "journalTitle": "BMC Genomics",
+        "journalVolume": "12",
+        "pubYear": "2011",
+        "journalIssn": "1471-2164",
+        "pageInfo": "343",
+        "pubType": "research support, non-u.s. gov't; research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 138,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "Y",
+        "dbCrossReferenceList": {
+          "dbName": [
+            "EMBL"
+          ]
+        },
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "gen",
+            "brenda"
+          ]
+        },
+        "firstPublicationDate": "2011-07-05",
+        "firstIndexDate": "2011-07-07"
+      }
+    ]
+  }
+}

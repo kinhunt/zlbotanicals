@@ -1,0 +1,126 @@
+--- author/en
++++ review/en
+@@ -1,89 +1,71 @@
+-# Buying monk fruit: why 65 °Brix, 50% mogroside V and a 1:1 sugar replacement are different specifications
++# Buying monk fruit: how to read °Brix, mogroside V percentages and 1:1 sugar-replacement claims
+ 
+-A liquid concentrate, a high-mogroside powder and a spoonable sugar replacement can all arrive under the name “monk fruit.” Their headline numbers answer different questions. One describes a refractometer reading, another the concentration of a named compound, and another how the brand intends consumers to measure a finished blend.
++A monk fruit quotation may describe a liquid concentrate, an enriched powder or a finished sweetener blend. Their headline numbers refer to different properties. FruitSource® lists **65±5 Brix** and **3.30–3.70% mogroside V** on the same concentrate specification.[4] Monk Fruit Corp names its MFC-E50 powder **50% Mogroside V Extract**.[2] Lakanto markets its Classic erythritol–monk fruit blend as a **cup-for-cup sugar replacement**.[8] These are a refractometer reading, a compound-specific specification and a consumer measurement instruction, respectively—not three points on a purity scale.
+ 
+-This distinction is visible in actual commercial documents. A FruitSource® concentrate specification lists **65±5 Brix** alongside **3.30–3.70% mogroside V**. Monk Fruit Corp lists an **MFC-E50, 50% Mogroside V Extract**. Lakanto describes its Classic erythritol–monk fruit product as a **cup-for-cup sugar replacement**.[4][2][8] Those figures are not competing measures of “purity.” Before comparing quotations, identify which kind of material each supplier has priced.
++Reading the denominator changes the purchasing comparison. A concentrate brings its own colour and storage requirements; an extract percentage identifies only part of the composition; a cup-for-cup blend includes ingredients beyond monk fruit. The following examples show how those distinctions appear in actual documents.
+ 
+-## Four commercial examples, four different things to buy
++## Four commercial documents and what their numbers describe
+ 
+-These are observations of supplier or brand documents, not tested samples, a representative market survey or an endorsement. The FruitSource document is dated 20 September 2021; it is a useful published specification example, not confirmation of today's release specification or stock.[4]
++The comparison concerns published supplier and brand information, not laboratory testing or a representative market sample. FruitSource's specification was approved on 20 September 2021 and is used here as a historical document, rather than a current release specification.[4]
+ 
+-| Documented material | What the source actually states | What the buyer should not infer |
++| Documented material | Published specification or declaration | Meaning of the headline number |
+ |---|---|---|
+-| FruitSource® Monk Fruit Concentrate, item AG6522 | Light to dark amber liquid; “Total Solids,” measured by refractometer, 65±5 Brix; “Total Mogroside V,” measured by HPLC, 3.30–3.70%; ingredient list: Luo Han Guo concentrate.[4] | 65% mogroside V, 65% measured sugars, or colourless performance in a clear drink. |
+-| Monk Fruit Corp MFC-E50 | A powder extract grade identified as 50% mogroside V; the same page lists grades from 25% to 70% V.[2] | 100% isolated mogroside V, a full composition declaration, or a guaranteed sweetness multiplier for a finished drink. |
+-| Matakana Monk Fruit Powder | Ingredients: 90% monk fruit extract, described as standardised to a minimum of 7% mogrosides, plus 10% maltodextrin. The description also calls it monk fruit juice powder.[5] | 90% mogroside V, 7% mogroside V, or a carrier-free powder. |
+-| Lakanto Classic Monkfruit Sweetener with Erythritol | Two listed ingredients: erythritol and monk fruit extract; marketed to measure cup for cup like sugar.[8] | A cup of pure extract, a disclosed extract percentage, or identical behaviour to sucrose in every recipe. |
++| FruitSource® Monk Fruit Concentrate, AG6522 | Amber liquid; “Total Solids”: 65±5 Brix by refractometer; “Total Mogroside V”: 3.30–3.70% by HPLC. Ingredient: Luo Han Guo concentrate.[4] | The Brix reading and V assay are separate fields. Neither is a complete sugar profile. |
++| Monk Fruit Corp MFC-E50 | Powder grade named 50% Mogroside V Extract; the page lists V grades from 25% to 70%.[2] | 50% refers specifically to V, not the complete composition or the powder's sweetness in a finished drink. |
++| Matakana Monk Fruit Powder | 90% monk fruit extract, with “standardised to a minimum of 7% mogrosides” in parentheses; 10% maltodextrin.[5] | 90% is an ingredient proportion. The 7% declaration refers to mogrosides, without identifying V separately. |
++| Lakanto Classic Monkfruit Sweetener with Erythritol | Erythritol and monk fruit extract; marketed to measure cup for cup like sugar.[8] | 1:1 is a volume-based replacement instruction for the finished blend. The page does not disclose the extract percentage. |
+ 
+-The useful comparison is not “which brand has the biggest number?” It is **which specification describes the ingredient function you need**.
++## Concentrate: read Brix and the V assay separately
+ 
+-## Read the concentrate on two axes, not one
++FruitSource's sheet assigns different methods to its two specifications: a refractometer for the field labelled “Total Solids” and HPLC for mogroside V.[4] A buyer therefore needs both fields. Treating 65 Brix as 65% V would substitute one measurement for another; treating it as a measured sugar composition would go beyond the data supplied.
+ 
+-The FruitSource document is unusually helpful because it puts a solids-related reading and a compound assay on the same page, with different analytical methods.[4] Treat them as separate acceptance fields. A refractometer result cannot stand in for the HPLC result, and neither field supplies a complete sugar profile.
++The same sheet permits light to dark amber liquid and specifies refrigerated storage at 0–5°C, in a properly sealed container away from direct sunlight, with a stated shelf life of 12 months.[4] Those details affect a beverage project as directly as the assay. For a water-clear drink, colour should be evaluated at the intended dilution. For a fruit-coloured drink, the permitted amber appearance may be acceptable. The refrigerated specification also belongs in the handling-cost comparison, using current instructions for the exact product.
+ 
+-For a beverage developer, the amber appearance is also a real selection issue: the published specification explicitly permits light to dark amber liquid.[4] If the brief is a water-clear drink, ask for an agreed colour test at the intended dilution rather than assuming the word “juice” means visually neutral. If the brief welcomes a fruit-coloured or botanical appearance, the same characteristic may be acceptable. That is an application decision, not a quality ranking.
++The sheet does not identify the V percentage as dry-basis or as-supplied.[4] That distinction must be resolved before converting purchased concentrate mass into grams of V. Keep any such calculation separate from the amount needed to sweeten the beverage: equal V mass is not evidence of equal perceived sweetness.
+ 
+-Handling belongs in the comparison as well. This particular document specifies refrigerated storage at 0–5°C in a properly sealed container away from direct sunlight, with a stated shelf life of 12 months.[4] Do not transfer those conditions to every monk fruit concentrate—or assume a dry extract and this concentrate can share the same storage plan. Obtain the current instructions for the exact product, including what changes after opening.
++## Powder: distinguish extract proportion from compound content
+ 
+-The published concentrate sheet does not explicitly identify the percentage assay as dry-basis or as-supplied. Before converting a quoted drum mass into grams of V, resolve that basis in writing. A missing basis is a question to close, not permission to choose the interpretation that makes the offer look better.
++Matakana's product page calls the material monk fruit juice powder and declares “Monk fruit extract 90% (standardised to a minimum of 7% mogrosides), maltodextrin 10%.”[5] Two levels of composition appear in that sentence: the ingredients used in the powder and the mogroside standardisation associated with the extract.
+ 
+-## Purification and drying solve different problems
++The parentheses attach the standardisation to the extract in the ingredient declaration. They do not provide a V-specific assay or a complete analytical reporting basis. Multiplying 90% by 7% would therefore not establish the finished powder's V content. A V-based purchasing comparison needs a V-specific specification for the supplied powder, with its reporting basis stated.
+ 
+-A high-V powder is not adequately described as “juice with the water removed.” In an original separation study, dried fruit powder was first extracted twice with boiling water; the subsequent HZ 806 resin process used a deionized-water wash followed by 40% aqueous ethanol to elute the target compound.[6] Water extraction and selective separation were distinct operations in that experiment.
++MFC-E50 uses a different kind of number: its name identifies 50% mogroside V.[2] It should be compared with other V specifications on a matched analytical basis, rather than ranked against Matakana's 90% ingredient proportion. A carrier declaration and a compound assay answer different questions; a declared carrier is not itself evidence of adulteration.
+ 
+-This paper supplies a concrete reason to ask about the production route. It does **not** establish how any of the commercial products above were manufactured, and it did not validate their flavour. Likewise, seeing an ethanol elution step in a paper does not tell you the residual solvent in a delivered ingredient. Ask for the supplier's actual route and relevant specification rather than importing a laboratory protocol into the purchase order.
++Selective purification also differs from simply drying a juice. In a 2011 laboratory study, dried fruit powder was extracted twice with boiling water. The subsequent HZ 806 resin separation used a deionized-water wash followed by 40% aqueous ethanol to elute the target compound.[6] This illustrates separate extraction and purification operations, not the manufacturing route or residual-solvent result of any named commercial product. The [monk fruit ingredient guide](/plant-extracts/ingredients/monk-fruit) covers processing and material forms in more detail.
+ 
+-There is a second distinction inside the word “pure.” A product can be an extract without an added carrier while still containing several native compounds. Conversely, a product with a high percentage of “monk fruit extract” can have a much lower percentage of any particular mogroside. On Monk Fruit Corp's page, “50%” refers specifically to V; on Matakana's page, “90%” refers to the extract ingredient fraction.[2][5] Those denominators must stay visible.
++## Finished blend: read 1:1 as a measurement instruction
+ 
+-## A carrier is not the same as a bulk sweetener
++Lakanto Classic lists erythritol and monk fruit extract and describes its use as cup-for-cup replacement of sugar.[8] Here, the unit matters: one cup of the blend replaces one cup of sugar under the brand's instructions. This does not disclose how much extract is in the blend or establish a gram-for-gram replacement for concentrated monk fruit powder.
+ 
+-Matakana's declared maltodextrin and Lakanto's declared erythritol illustrate two different composition questions, not two interchangeable versions of “filler.” Matakana lists 10% maltodextrin in a powder whose other ingredient is monk fruit extract; Lakanto sells an erythritol–extract blend intended for cup-for-cup measurement.[5][8]
++That makes it a different purchasing item from an enriched extract. A developer seeking a concentrated sweetening component still has to design the rest of the formula; someone seeking a ready-to-measure sugar replacement is evaluating the whole blend. Matakana's declared 10% maltodextrin and Lakanto's erythritol–extract composition belong in those respective material descriptions, rather than being collapsed into one generic “filler” category.[5][8]
+ 
+-For procurement, separate three lines:
++Taste descriptions require a separate reading. Monk Fruit Corp describes its concentrate as having a clean sweet taste without bitterness; FruitSource's sheet says only “Sweet.”[1][4] These supplier descriptions do not constitute a controlled comparison. They identify claims to evaluate in the intended food, alongside sweetness intensity, background flavour and lingering taste.
+ 
+-- **Extract identity:** which mogrosides are measured, by which method, and on what reporting basis?
+-- **Added ingredients:** what is present besides the extract, and in what proportion?
+-- **Intended function:** is the purchased material a concentrated sweetening component, a handling premix, or a finished bulk sugar-replacement system?
++## One extract did not have one fixed sweetness multiplier
+ 
+-The Matakana wording is especially instructive. “Minimum 7% mogrosides” does not say “7% mogroside V.” Nor does the page settle every analytical-basis question needed to calculate the final powder's V content.[5] Do not quietly multiply 90% by 7% and report the result as a verified V assay. Ask whether the standardisation belongs to the extract input or the finished powder and request a V-specific result if the project requires one.
++A 2018 study tested 16 sweetener systems with 40 healthy adults. Its monk fruit sample was an **extract containing 50.6% mogroside V**, not isolated V. Solutions were prepared with filtered water, and participants rated sweetness on a general labelled magnitude scale (gLMS), holding a 15 mL sample for five seconds and rating it before expectorating.[7]
+ 
+-A declared carrier is not evidence of adulteration. The procurement failure would be approving one composition and receiving another, or comparing two products as though their declared compositions were the same.
++The paper's model-derived equal-sweetness concentrations changed with the sucrose reference. Concentrations below are expressed as grams of the respective sweetener per 100 mL of solution (% w/v); the monk fruit column refers to the extract, not to V alone.[7]
+ 
+-## “Flavour” needs a separate description
+-
+-A material's taste, a named flavour ingredient and a sweetener blend are not synonyms. The commercial sources above establish different forms and compositions; they do not provide a controlled sensory ranking of all four materials. Monk Fruit Corp describes its concentrate as having a clean sweet taste without bitterness, while the FruitSource specification gives the much narrower sensory description “Sweet.”[1][4] These are supplier descriptions, not proof that either product will be neutral in your tea, dairy base or acid drink.
+-
+-Ask what “flavour” means in the quotation. Is the supplier describing the extract's own sensory character, offering a separate flavour preparation, or proposing a blend containing flavouring? Request the full ingredient declaration before treating these as equivalent offers. The documents reviewed here do not establish a general composition for products sold as “monk fruit flavour.”
+-
+-Keep sweetness intensity, botanical character and unwanted finish as separate acceptance questions. A single V number cannot answer all three; the purchase decision should not depend on translating “clean taste” into an unmeasured promise.
+-
+-## Why one sweetness multiplier cannot set the purchase quantity
+-
+-A 2018 original study offers a more useful check than a universal “times sweeter” claim. It tested 16 sweetener systems with 40 adults, using filtered-water solutions and sweetness ratings on a general labelled magnitude scale. The monk fruit ingredient was **an extract containing 50.6% mogroside V**, not isolated pure V. Participants held a 15 mL sample for five seconds and rated sweetness before expectorating.[7]
+-
+-The paper's model-derived equal-sweetness concentrations changed with the sucrose target:[7]
+-
+-| Sucrose reference, % w/v | Monk fruit extract concentration, % w/v | Reported sweetness potency relative to sucrose |
++| Sucrose reference, % w/v | Model-derived monk fruit extract concentration, % w/v | Reported sweetness potency relative to sucrose |
+ |---|---|---|
+ | 5 | 0.0191 | 262 |
+ | 10 | 0.0694 | 144 |
+ | 15 | 0.141 | 106 |
+ 
+-The numbers concern that extract and that water-test design. They are **not commercial beverage dosing recommendations**, a concentrate-to-powder conversion, or a test of liking, aroma or aftertaste. Their purchasing value is narrower and stronger: the same extract did not have one fixed relative sweetness across the target range.[7]
++*Source: Wee et al. (2018), Table 4; one 50.6%-V extract tested in water. These are model-derived comparisons, not recommended beverage doses.[7]*
+ 
+-For a quotation comparison, therefore, distinguish **equal marker mass** from **equal perceived sweetness**. The first is a composition calculation; the second needs product-specific sensory evidence. Neither can be replaced by comparing two supplier headline multipliers obtained under unspecified conditions.
++Sweetness potency is the sucrose concentration divided by the extract concentration at matched sweetness. The three ratios are approximately 262, 144 and 106: the reported multiplier falls as the reference sweetness rises.[7] A single “times sweeter” figure therefore leaves out a condition essential to interpreting this extract's performance.
+ 
+-## Turn the distinction into a better sample request
++The study measured sweetness intensity, not consumer liking, aroma or aftertaste. Its authors also distinguish results in water from performance in foods and beverages.[7] For purchasing, this supports comparing samples at matched perceived sweetness in the actual base, rather than using the table to calculate a commercial dose or to convert between concentrate and powder.
+ 
+-Instead of asking for “your best monk fruit,” state the decision:
++## Compare cost after establishing the required sample dose
+ 
+-> We are comparing a liquid concentrate and an enriched powder for a specified beverage base. Please identify the exact product, current specification version, full ingredient composition, mogroside V result and reporting basis, other available mogroside and sugar data, colour specification and storage conditions. We will establish the required sweetness in our own base before comparing ingredient cost per batch.
++A useful sample brief identifies the beverage or food base, the material form under consideration, the current composition and V reporting basis, and the colour and storage requirements. Keep the comparison tied to an exact product and specification version. For spoonable replacements, include whether the formula calls for volume-based measurement of a finished blend.
+ 
+-For a dry-mix or spoonable replacement, add the intended measurement basis and whether a premixed bulk ingredient is wanted. For a flavour-sensitive product, define which background note or finish is unacceptable instead of simply requesting “higher purity.”
++Once trials establish an acceptable dose, ingredient cost per batch is the required mass of the supplied ingredient multiplied by its price per unit mass. Handling and storage costs can then be added on the same batch basis. Comparing equal V mass can help examine composition, but it cannot replace that sensory and application step.
+ 
+-Only after an acceptable sample dose is established should a buyer multiply the **mass of the supplied ingredient actually needed** by its quotation and account for the project's handling requirements. No market price or universal saving follows from the public documents above.
+-
+-The practical result is a shorter, more meaningful shortlist: compare concentrates against the concentrate brief, enriched extracts against the high-intensity sweetening brief, and declared blends against the finished-system brief. The name “monk fruit” starts the discussion; the material identity closes it.
++The four documents provide a practical sorting rule: compare Brix with Brix, V assays on a matched basis, ingredient proportions with ingredient proportions, and finished blends as complete systems. For the next stage, the [beverage sweetener trial guide](/resources/blog/zero-calorie-sweetener-market-2026) covers sensory comparison and overall application cost.
+ 
+ ## Sources
+ 

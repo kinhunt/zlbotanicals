@@ -1,0 +1,26 @@
+{
+  "unique_source_ids": true,
+  "contiguous_discovery_ids": true,
+  "quotes_literal": true,
+  "quotes_registered": true,
+  "pdf_magic": true,
+  "pdf_pages": 10,
+  "dedup_no_candidate_matches": true,
+  "citation_evidence_en_exit": 0,
+  "en_cited_ids": [
+    1,
+    7,
+    8,
+    9
+  ],
+  "citation_evidence_zh_exit": 0,
+  "zh_cited_ids": [
+    1,
+    7,
+    8,
+    9
+  ],
+  "claim_blocks": 18,
+  "independent_review": "NOT PERFORMED",
+  "website_modified": false
+}

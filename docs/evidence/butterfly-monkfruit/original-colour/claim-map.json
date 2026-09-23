@@ -1,0 +1,197 @@
+[
+  {
+    "id": "C01",
+    "claim": "pH 0.5–3 magenta; 3–4 purple; 5–8 bright blue",
+    "sources": [
+      1
+    ],
+    "evidence_keys": [
+      "pH-colour"
+    ],
+    "limits": "Laboratory solvent system, not water beverage boundaries"
+  },
+  {
+    "id": "C02",
+    "claim": "Acylated ternatins; stacking / hydration interpretation",
+    "sources": [
+      1,
+      7
+    ],
+    "evidence_keys": [
+      "mechanism",
+      "equivalent-not-pure"
+    ],
+    "limits": "Structural interpretation is proposed, not measured molecular speciation"
+  },
+  {
+    "id": "C03",
+    "claim": "1% HCl–methanol; NaOH-adjusted samples",
+    "sources": [
+      1
+    ],
+    "evidence_keys": [
+      "solvent-method"
+    ],
+    "limits": "Not production extraction instructions"
+  },
+  {
+    "id": "C04",
+    "claim": "At pH7, 576nm decay at day27 =4.7/32.8/51.7/63.6% for4/25/37/50°C",
+    "sources": [
+      1
+    ],
+    "evidence_keys": [
+      "temperature"
+    ],
+    "limits": "Peak absorbance, darkness, not pigment mass or consumer rejection"
+  },
+  {
+    "id": "C05",
+    "claim": "334.2d fitted half-life; quantitative27d, photos65d",
+    "sources": [
+      1
+    ],
+    "evidence_keys": [
+      "half-life",
+      "solvent-method",
+      "temperature"
+    ],
+    "limits": "Not observed334d shelf life, not thermal-process validation"
+  },
+  {
+    "id": "C06",
+    "claim": "Water extraction80°C30min1:100w/w",
+    "sources": [
+      7
+    ],
+    "evidence_keys": [
+      "extraction-method"
+    ],
+    "limits": "Experiment preparation, not optimal production recipe"
+  },
+  {
+    "id": "C07",
+    "claim": "T-B2 equivalents in mixed extract, not pureT-B2",
+    "sources": [
+      7
+    ],
+    "evidence_keys": [
+      "equivalent-not-pure",
+      "extraction-method"
+    ],
+    "limits": "Sample-specific major component"
+  },
+  {
+    "id": "C08",
+    "claim": "WPI stockpH5.5; final5mg/mL baseline vs2.5mg/mL osmolytes;35/45/65°C30min",
+    "sources": [
+      7
+    ],
+    "evidence_keys": [
+      "protein-method",
+      "osmolyte-method"
+    ],
+    "limits": "No claim final mixedpH remained5.5 or high-protein RTD"
+  },
+  {
+    "id": "C09",
+    "claim": "Fluorescence reduced; binding spontaneous/exothermic H-bond interpretation",
+    "sources": [
+      7
+    ],
+    "evidence_keys": [
+      "binding-result"
+    ],
+    "limits": "Inferred forces, not direct shelf-life results"
+  },
+  {
+    "id": "C10",
+    "claim": "Higher temperature loweredKa/n",
+    "sources": [
+      7
+    ],
+    "evidence_keys": [
+      "binding-result"
+    ],
+    "limits": "Not improved encapsulation on heating"
+  },
+  {
+    "id": "C11",
+    "claim": "Sucrose no significantKa/n effect; lactose changesn",
+    "sources": [
+      7
+    ],
+    "evidence_keys": [
+      "sugar-negative",
+      "sucrose-abstract"
+    ],
+    "limits": "No exact lactose threshold adopted due abstract/results wording"
+  },
+  {
+    "id": "C12",
+    "claim": "Ca table0/.375/.500M13.56/20.63/26.32×10^4; above375 wording vs375 row",
+    "sources": [
+      7
+    ],
+    "evidence_keys": [
+      "calcium-table-conflict"
+    ],
+    "limits": "Not fortification recommendation; exact threshold not asserted"
+  },
+  {
+    "id": "C13",
+    "claim": "Buffer contrast hydrophobic vs water H-bonds",
+    "sources": [
+      7
+    ],
+    "evidence_keys": [
+      "buffer-contrast"
+    ],
+    "limits": "Earlier paper not fulltext-verified; explicitly secondary report"
+  },
+  {
+    "id": "C14",
+    "claim": "US historical2025 identity and specified beverage/yogurt fruit preparation uses",
+    "sources": [
+      8
+    ],
+    "evidence_keys": [
+      "US-scope"
+    ],
+    "limits": "Not all powder/complex materials; no global clearance"
+  },
+  {
+    "id": "C15",
+    "claim": "2025 cereals/snacks expansion and effectiveJune26confirmed",
+    "sources": [
+      8,
+      9
+    ],
+    "evidence_keys": [
+      "effective-date"
+    ],
+    "limits": "Dated documents, not complete current-jurisdiction audit"
+  },
+  {
+    "id": "D01",
+    "claim": "Spirulina binding not necessarily higherTm",
+    "sources": [
+      4
+    ],
+    "evidence_keys": [
+      "binding-not-stabilization"
+    ],
+    "limits": "Different excitation channel for resveratrol; discovery only"
+  },
+  {
+    "id": "D02",
+    "claim": "Purple sweetpotato pretreatment tradeoff",
+    "sources": [
+      10
+    ],
+    "evidence_keys": [
+      "pre-treatment"
+    ],
+    "limits": "Violet cultivar; not factory process instruction"
+  }
+]

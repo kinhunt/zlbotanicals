@@ -1,0 +1,35 @@
+{
+  "timestamp_utc": "2026-09-23T16:03:55.310410+00:00",
+  "command": [
+    "browserman",
+    "script",
+    "run",
+    "--platform",
+    "amazon",
+    "--marketplace",
+    "us",
+    "--action",
+    "search",
+    "--query",
+    "monk fruit sweetener",
+    "--limit",
+    "20",
+    "--page",
+    "1",
+    "--json"
+  ],
+  "exit_code": 0,
+  "stdout": {
+    "ok": true,
+    "command": "script.run",
+    "browser": {
+      "id": "[REDACTED]",
+      "name": "cedar-vale"
+    },
+    "result": {
+      "executionId": "exec_60d9ce62969d4e43",
+      "status": "running"
+    }
+  },
+  "stderr": ""
+}

@@ -1,0 +1,93 @@
+{
+  "timestamp_utc": "2026-09-23T16:03:39.570406+00:00",
+  "command": [
+    "browserman",
+    "script",
+    "describe",
+    "--platform",
+    "amazon",
+    "--action",
+    "search",
+    "--json"
+  ],
+  "exit_code": 0,
+  "stdout": {
+    "ok": true,
+    "command": "script.describe",
+    "browser": {
+      "id": "[REDACTED]",
+      "name": "cedar-vale"
+    },
+    "result": {
+      "success": true,
+      "platform": {
+        "id": "amazon",
+        "displayName": "amazon",
+        "aliases": [
+          "amazon.com",
+          "www.amazon.com",
+          "amazon.co.uk",
+          "www.amazon.co.uk",
+          "amazon.de",
+          "www.amazon.de",
+          "amazon.fr",
+          "www.amazon.fr",
+          "amazon.it",
+          "www.amazon.it",
+          "amazon.es",
+          "www.amazon.es",
+          "amazon.ca",
+          "www.amazon.ca",
+          "amazon.co.jp",
+          "www.amazon.co.jp",
+          "amazon.in",
+          "www.amazon.in",
+          "amazon.com.au",
+          "www.amazon.com.au",
+          "amazon.com.mx",
+          "www.amazon.com.mx",
+          "amazon.com.br",
+          "www.amazon.com.br",
+          "amazon.nl",
+          "www.amazon.nl",
+          "amazon.se",
+          "www.amazon.se",
+          "amazon.sg",
+          "www.amazon.sg",
+          "amazon.ae",
+          "www.amazon.ae",
+          "amazon.sa",
+          "www.amazon.sa",
+          "amazon.com.tr",
+          "www.amazon.com.tr",
+          "amazon.pl",
+          "www.amazon.pl",
+          "amazon.com.be",
+          "www.amazon.com.be"
+        ],
+        "defaultBaseUrl": "https://www.amazon.com",
+        "supportsBaseUrl": true,
+        "supportsMarketplace": true,
+        "actionCount": 2
+      },
+      "action": {
+        "name": "search",
+        "description": "Search Amazon products across country marketplaces",
+        "params": {
+          "query": "required product search query (aliases: q, keyword, text)",
+          "country": "optional marketplace country, e.g. us, uk, de, jp, in, ca, au (default us)",
+          "domain": "optional Amazon domain override, e.g. amazon.co.jp",
+          "limit": "optional result limit, default 20, max 50",
+          "page": "optional search page, default 1",
+          "department": "optional Amazon search department/category code",
+          "sort": "optional Amazon sort parameter",
+          "language": "optional Amazon language parameter"
+        },
+        "concurrency": {
+          "scope": "tabs"
+        }
+      }
+    }
+  },
+  "stderr": ""
+}

@@ -1,0 +1,26 @@
+{
+  "main": "880c43562b117bde8d2bb4e8489a78cba07a8259",
+  "quote_checks": 14,
+  "all_quotes_literal": true,
+  "citation_results": {
+    "en": {
+      "exit_code": 0,
+      "draft_sha256": "804dc6b2a7ba56b00be7b37f248407a26df140e1a7747486dbaa5e6502d8dbe8"
+    },
+    "zh": {
+      "exit_code": 0,
+      "draft_sha256": "aa57abf4368c14f8a482008f3fd48ef0901422839675a23e246ec74f0f0e9903"
+    }
+  },
+  "independent_review": false,
+  "website_modified": false,
+  "table4_checked_row": [
+    "Luo han guo",
+    "0.0191",
+    "0.0694",
+    "0.141",
+    "262",
+    "144",
+    "106"
+  ]
+}

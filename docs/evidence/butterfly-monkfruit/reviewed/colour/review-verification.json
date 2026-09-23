@@ -1,0 +1,28 @@
+{
+  "verdict": "PASS",
+  "scope": "reviewed exact ENZH drafts; no publication",
+  "draft_hashes": {
+    "draft.zh.md": "f1b025a3a8d795876168d2b5f880af8fe408fd91bf4f604608438b70273a3209",
+    "draft.en.md": "e35f6e47490d24a5e892c16fc6cf513547b47a407d320d5a4af9a462419b7101"
+  },
+  "author_file_count": 48,
+  "author_files_unchanged": true,
+  "source_raw_hash_matches": 10,
+  "original_literal_quotes_matched": 18,
+  "new_quote_source_id": 8,
+  "citation_evidence_exit": {
+    "en": 0,
+    "zh": 0
+  },
+  "figures_reviewed": [
+    "source1 figure2",
+    "source1 figure4",
+    "source7 figure2",
+    "source7 figure3",
+    "source7 figure4",
+    "source7 table3"
+  ],
+  "figure_retrieval_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8622631/supplementaryFiles",
+  "website_modified": false,
+  "published": false
+}

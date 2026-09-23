@@ -1,0 +1,35 @@
+{
+  "draft.en.md": {
+    "exit_code": 0,
+    "stdout": "info: stats: 26 prose sentence(s), 12 with declared provenance (46%) — 12 cited, 0 marked [unverified] (a sentence may be both); 4 distinct source(s) cited, 4 in ledger (4 with evidence quotes)\ncitations OK\n",
+    "stderr": ""
+  },
+  "draft.zh.md": {
+    "exit_code": 0,
+    "stdout": "info: stats: 6 prose sentence(s), 6 with declared provenance (100%) — 6 cited, 0 marked [unverified] (a sentence may be both); 4 distinct source(s) cited, 4 in ledger (4 with evidence quotes)\ncitations OK\n",
+    "stderr": ""
+  },
+  "image_checks": "31/31 SHA256, initial gallery URL and ASIN identity passed",
+  "visual_review": {
+    "contact_tiles": 31,
+    "full_original_images": [
+      "B07B4D9TF3-02",
+      "B0CP9Q47LK-01",
+      "B098H7XWQ6-01",
+      "B0CLBVY6VY-01",
+      "B0CP9Q47LK-00",
+      "B098H7XWQ6-06"
+    ]
+  },
+  "sha256": {
+    "image-verification.json": "194bbd2c5e044d253f2fa112f3dda210c3088b6d2fcebe3fd348174673dc117e",
+    "REPORT.md": "90f7ac680b8018efd45e238dd7c63152a7627cada93a3d835e32b083911124a3",
+    "draft.zh.md": "eedccc85794d5a87e30abeb4514369a0344b5e1deabcdfc06cc01cd86e625026",
+    "ledger.json": "79c7635f6e212ed1be7849f668d7e3c11adbe31bfa65a445de01ecb951b0ed46",
+    "draft.en.md": "dc481c3c8771b7950c66180799ecedcc8181d5e02f0438c1321567aa980ea83b",
+    "source-B098H7XWQ6.json": "e200f4e78a51290445a5ebc9b884c92bbfbed576dd1ccf91ff99f56cb96ecd17",
+    "source-B0CP9Q47LK.json": "9c0a10695354efc7b51222764aa0892e7b9718ab5145c438805efd95e24fdc43",
+    "source-B07B4D9TF3.json": "23e94bd9c2dc738997802c1c20b7368a4067c1595bc1a589fefeda3b1a98d319",
+    "source-B0CLBVY6VY.json": "9050b47759599b635797f07ea3e9ff5b182b5eb04ada53dc114a4bc564e5f86b"
+  }
+}

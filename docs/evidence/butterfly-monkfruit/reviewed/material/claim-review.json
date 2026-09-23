@@ -1,0 +1,156 @@
+[
+  {
+    "id": "C01",
+    "claim": "Supplier describes concentrate as clean sweet taste without bitterness",
+    "source_id": 1,
+    "source_url": "https://monkfruitcorp.com/monk-fruit-juice-concentrate",
+    "quote": "Like all Monk Fruit Corp’s monk fruit products our monk fruit juice concentrate has a clean sweet taste without bitterness. ",
+    "archive": "sources/1.txt",
+    "scope_limit": "Supplier sensory positioning only; not independent comparison.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  },
+  {
+    "id": "C02",
+    "claim": "Named MFC powder grades 25–70% V including E50",
+    "source_id": 2,
+    "source_url": "https://monkfruitcorp.com/monk-fruit-extract",
+    "quote": "MFC-E70, 70% Mogroside V Extract.\nMFC-E60, 60% Mogroside V Extract.\nMFC-E55, 55% Mogroside V Extract.\nMFC-E50, 50% Mogroside V Extract.\nMFC-E40, 40% Mogroside V Extract.\nMFC-E30P, 30% Mogroside V Extract.\nMFC-E25P, 25% Mogroside V Extract.\n",
+    "archive": "sources/2.txt",
+    "scope_limit": "Web grade names, not lot COA; no assay basis or full composition supplied.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  },
+  {
+    "id": "C03",
+    "claim": "Published AG6522 liquid specification and date",
+    "source_id": 4,
+    "source_url": "https://www.chempoint.com/products/download?grade=75199&doctype=tds&documentid=01030001139010936249106&language=English",
+    "quote": "PRODUCT SPECIFICATION \nDocument #: FSMFC-SD002 \n \nApproval Date: 20 September 2021 \n \nProduct Name: \nFruitSource® Monk Fruit Concentrate \nShelf Life: \n12 months \nItem Number: \nAG6522 \nCountry of Origin: \nChina \nPack Size: \n20 kg pail \nBotanical Name: \nSiraitia grosvenorii \nIngredient List: \nLuo Han Guo (Monk Fruit) Concentrate \n \n \nStorage Information: \nStore refrigerated (0C - 5°C / 32F -41F) in a properly sealed container away from direct sunlight. \n \n \n \n \nAnalysis \nTest Method \nParameters \nAppearance \nSensory \nLight to dark amber liquid \nTaste  \nSensory \nSweet \nTotal Solids \nRefractometer \n65±5 Brix \nTotal Mogroside V \nHPLC \n3.30 – 3.70 % \n",
+    "archive": "sources/4.txt",
+    "scope_limit": "Historic public specification dated 2021, not current supply confirmation. Dry/as-is basis unstated.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  },
+  {
+    "id": "C04",
+    "claim": "Matakana declares extract 90%, minimum 7% mogrosides and maltodextrin 10%",
+    "source_id": 5,
+    "source_url": "https://www.matakanasuperfoods.com/products/monk-fruit-juice-powder",
+    "quote": "Ingredients Monk fruit extract 90% (standardised to a minimum of 7% mogrosides), maltodextrin 10% (from non-GMO corn). No colourings or preservatives. GM free. ",
+    "archive": "sources/5.txt",
+    "scope_limit": "Page wording; not V-specific assay; no verification of powder or standardisation basis.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  },
+  {
+    "id": "C05",
+    "claim": "Lakanto two-ingredient erythritol blend and cup-for-cup positioning",
+    "source_id": 8,
+    "source_url": "https://www.lakanto.com/products/lakanto-classic-sugar-free-sweetener",
+    "quote": "MORE ABOUT THE PRODUCT Lakanto Classic Monkfruit Sweetener is our original sugar replacement, crafted to bring the sweetness you love with none of the sugar. Made with just two ingredients, it measures cup for cup like sugar , making it easy to swap into coffee, baking, cooking, and all your favorite recipes. Whether you're reducing sugar or simply looking for a better everyday sweetener, our Classic Monkfruit with Erythritol Sweetener makes the switch effortless. Product Highlights Measures 1:1 like sugar Zero Calories Zero Net Carbs Made with Monk Fruit Extract & Erythritol Great for baking, cooking, and beverages Keto Friendly Non-GMO Project Verified ",
+    "archive": "sources/8.txt",
+    "scope_limit": "Brand use claim, not universal technical sucrose equivalence; no ingredient percentages.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  },
+  {
+    "id": "C06",
+    "claim": "Lakanto ingredient list",
+    "source_id": 8,
+    "source_url": "https://www.lakanto.com/products/lakanto-classic-sugar-free-sweetener",
+    "quote": "Ingredients Non-GMO Erythritol Monk Fruit Extract ",
+    "archive": "sources/8.txt",
+    "scope_limit": "Two listed ingredients, no ratio.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  },
+  {
+    "id": "C07",
+    "claim": "Original resin study water extraction conditions",
+    "source_id": 6,
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6264705/fullTextXML",
+    "quote": "The fruits of S. grosvenorii were dried in an oven at 105 °C and powdered. Five hundred g of this powder were extracted twice with boiling water (5 L) for 1 h each time. The extracted solution was combined, filtered and then concentrated to 500 mL by a rotary evaporator.\nmolecules-16-07288-t004_Table 4Table 4Chemical and physical characteristic of resins.ResinsPolaritySurface area (m2/g)Particle density (g/mL)Particle diameter (mm)Pore diameter (nm)Moisture content (%)HZ 801non-polar5501.05–1.100.315–1.2510.060–70HZ 818non-polar9001.0–1.100.315–1.259.060–70HPD 700non-polar650-7001.03–1.070.3–1.28.5–965–75AB 8weak-polar480-5201.05–1.090.3–1.2513–1460–70HZ 806mid-polar6001.02–1.120.315–1.2512.068–78\nChemical and physical characteristic of resins.\n3.4. Static Adsorption and Desorption\n",
+    "archive": "sources/6.txt",
+    "scope_limit": "Laboratory study, not process of named suppliers.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  },
+  {
+    "id": "C08",
+    "claim": "Original resin study separates water washing from ethanol elution",
+    "source_id": 6,
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6264705/fullTextXML",
+    "quote": "With the above optimized loading and elution conditions, separation of mogroside V was conducted on an HZ 806 resin column (200 mm × 10 mm I.D.). An amount of 15 g of S. grosvenorii was processed. Figure 7 shows a typical elution profile of mogroside V separation. Elution was performed with 2 BV of deionized water at a flow rate of 1.0 BV/h to remove contaminants. Afterwards, another 5 BVs of 40% ethanol was used to elute the target at the same flow rate.\nThe effect of flow rate on desorption ratio.\nElution profile of mogroside V on HZ 806 resin.\nSeparation was next transferred to the preparative scale and carried out on a 250 mm × 26 mm I.D. chromatography column. The extraction solution of 100 g of S. grosvenorii was loaded onto the HZ 806 resin column. The elution solvents, flow rate, and elution steps were the same as the above optimum conditions. Fractions were collected and analyzed by HPLC. The chromatograms of the extraction solution processed with HZ 806 resin are shown in Figure 8.\nHPLC chromatograms of (A) S. grosvenorii and (B) purified mogroside V.\n2.7. Process Evaluation\n",
+    "archive": "sources/6.txt",
+    "scope_limit": "Specific HZ806 experiment; no residual solvent or sensory inference.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  },
+  {
+    "id": "C09",
+    "claim": "2018 experiment monk fruit sample is 50.6% V extract",
+    "source_id": 7,
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6266678/fullTextXML",
+    "quote": "A wide range of different sweeteners was selected to represent a diverse sample of common commercially available sweeteners. The sweeteners used in this study were sucrose (SIS, NTUC Fairprice Supermarket, Singapore), dextrose monohydrate (Suntop Enterprise, Singapore), fructose (Suntop Enterprise, Singapore), allulose (d-psicose; Matsutani Co., Osaka, Japan), palatinose (isomaltulose; Beneo, Singapore), xylitol (Roquette, Lille, France), sorbitol (Suntop Enterprise, Singapore), mannitol (Roquette, Lille, France), erythritol (iHerb, Perris, CA, USA), acesulfame-K (Celanese, Irving, Texas, USA), sucralose (Tate & Lyle, McIntosh, AL, USA), aspartame (Suntop Enterprise, Singapore), luo han guo extract (50.6% mogroside V; Hunan Huacheng Biotech Inc., Hunan, China) and stevia (68.0% rebaudioside A; Suntop Enterprise, Singapore). The sucrose–allulose mixture was prepared as a 1:1 blend of sucrose and allulose by weight. Table 1 summarises these sweetener properties including energy density, glycaemic index and bulk properties.\n",
+    "archive": "sources/7.txt",
+    "scope_limit": "Ingredient concentration is extract mass, not pure V mass.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  },
+  {
+    "id": "C10",
+    "claim": "40 adult participants",
+    "source_id": 7,
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6266678/fullTextXML",
+    "quote": "Forty healthy adult participants (12 males and 28 females; mean age: 26 ± 6 years) were recruited from the campus of the National University of Singapore (NUS) and surrounding areas. Participants were pre-screened for eligibility, basic taste sensitivity and recruitment criteria including being aged between 21 and 50 years old, normal weight (body mass index (BMI) 20–25 kg/m2), non-smoker, non-denture wearer, no self-reported sinus, taste or smell dysfunction, not currently following a special diet, no specific food dislikes, allergies or intolerances and not phenylketonuric, diabetic or pregnant. Eligible participants provided informed consent and were compensated for their time. This study (reference: 2017/00787) was approved by the Domain Specific Review Board of the National Healthcare Group, Singapore and complies with the Declaration of Helsinki for research involving human subjects.\n",
+    "archive": "sources/7.txt",
+    "scope_limit": "Selected adults, not consumer population representative.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  },
+  {
+    "id": "C11",
+    "claim": "15mL, 5sec, rating before expectoration; water preparation",
+    "source_id": 7,
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6266678/fullTextXML",
+    "quote": "All data were collected using Compusense Cloud software as part of the Compusense Academic Consortium (Compusense Inc., Guleph, ON, Canada), in sensory booths under red lights which conform to international standards for the design of test rooms [26]. Participants were instructed to take the sample (15 mL) in their mouth, hold it for 5 s, and rate the sweetness intensity before expectorating. Between samples, participants were instructed to rinse their mouth with filtered water during the mandatory 45-second inter-stimulus interval, to reduce carryover between samples. Solutions were prepared at least 24 h prior to sensory testing using filtered water and stored at refrigeration temperature. The concentration ranges chosen were based on previously published results for each sweetener [23,27,28], and to reflect the sweetness intensities encountered in commercial food and beverage products. Preliminary testing was done to confirm that the sweetness intensities rated for each sweetener were comparable to one another. \n",
+    "archive": "sources/7.txt",
+    "scope_limit": "Not aroma/aftertaste/liking or actual beverage comparison.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  },
+  {
+    "id": "C12",
+    "claim": "Dose-response curves fitted with Hill equation",
+    "source_id": 7,
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6266678/fullTextXML",
+    "quote": "Dose-response curves were fitted using the software Origin Pro 8.1 (OriginLab, Northampton, MA, USA) with the Hill equation for sigmoidal curves:\n\n\nwhere R is the predicted sweetness intensity, and C is the sweetener concentration expressed in % w/v. Rmin is the minimum sweetness which was constrained to zero, and Rmax is the predicted maximum sweetness achievable. The midway point between Rmin and Rmax is EC50, and the slope of the linear portion of the model is the Hill slope [23]. The fitted parameters are summarised in the supplementary material (Table S2).\n",
+    "archive": "sources/7.txt",
+    "scope_limit": "Equal-sweetness table is model-derived, not recommended dosage.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  },
+  {
+    "id": "C13",
+    "claim": "Table4 monkfruit: 0.0191/0.0694/0.141% w/v and potency262/144/106 at5/10/15% sucrose",
+    "source_id": 7,
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6266678/fullTextXML",
+    "quote": "Table 4Concentrations matching for equi-sweetness and sweetness potency of 15 sweeteners to 5%, 10% and 15% w/v sucrose.SweetenerEqui-Sweet Concentrations (% w/v)Sweetness Potency5% SUC10% SUC15% SUC5% SUC10% SUC15% SUCAcesulfame-K0.02930.08320.17017112088.1Allulose7.113.318.90.710.750.80Aspartame0.02900.08270.134173121112Dextrose7.815.521.60.640.640.69Erythritol6.913.317.80.720.750.84Fructose4.07.411.21.251.361.34\nLuo han guo\n0.01910.06940.141262144106Maltitol5.611.215.80.930.890.95Mannitol8.614.618.60.580.680.81Mixture ‡5.010.714.30.990.931.05Palatinose12.726.434.60.390.380.43Sorbitol6.313.717.90.800.720.83Stevia0.01440.03950.0828348253181Sucralose0.00960.03870.0748521258201Sucrose51015111Xylitol5.19.913.30.981.011.12‡ 1:1 sucrose–allulose mixture (weight basis).\n",
+    "archive": "sources/7.txt",
+    "scope_limit": "Table headers/row independently checked in source XML; water system, one extract.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  },
+  {
+    "id": "C14",
+    "claim": "Potency must be stated with sucrose reference concentration",
+    "source_id": 7,
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6266678/fullTextXML",
+    "quote": "Sweetness potency is the ratio of the concentration of sucrose to that of a sweetener at equivalent sweetness intensities (Equation (3)). A sweetness potency of >1 indicates that a smaller concentration of a sweetener is required to achieve the same sweetness intensity at a particular sucrose concentration and, therefore, the sweetener could be considered as ‘more potent’ than sucrose. Sweetness potency is often quoted as a single value e.g., ‘acesulfame-K is 120 times sweeter than sucrose’, however this value should always be reported with the concentration of sucrose at which it was calculated, since sweeteners often have different sweetness growth rates to sucrose.\n\n2.5.4. Statistical Analysis\nA two-way analysis of variance (ANOVA) was run to confirm absence of first-order and carryover effects. A one-way repeated measures ANOVA analysis was used to test the effect of sweetener type and effect of concentration and statistical significance was set at 5% (α = 0.05). Post hoc pairwise comparisons, using Bonferroni corrections, were used to compare differences in sweetness intensity scores across sweeteners (16 levels) and concentration of sweeteners (6 levels) using the statistical analysis software SPSS (IBM SPSS Statistics for Windows, Version 22.0, IBM Corporation, Armonk, NY, USA).\n",
+    "archive": "sources/7.txt",
+    "scope_limit": "No universal sweetness multiplier.",
+    "independent_verdict": "PASS",
+    "verification": "Exact quote in archived text; document context independently read."
+  }
+]

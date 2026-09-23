@@ -28,8 +28,8 @@ for (const prefix of ['', 'zh/']) {
 }
 
 test('bounded tea serialization preserves every pre-existing sitemap entry byte-for-byte', () => {
-  assert.equal(entries.length, 248);
-  const existing = entries.filter(entry => !teaUrl.test(loc(entry)) && !/\/resources\/blog\/(?:beetroot-product-formats|beet-colour-plant-based-meat|cocoa-selection|ginger-selection|pomegranate-flavour-selection|acacia-fibre-emulsification|citrus-delayed-bitterness|astaxanthin-beverage-stability|chicory-fibre-selection|vanilla-authentication|vanilla-material-choice|cranberry-pac-purchasing|hesperidin-material-choice|hibiscus-color-endpoints|saffron-identity|elderberry-material-selection|paprika-extract-format-selection|ginseng-heat-bitterness|uk-sdil-milk-tea-2028)\/?$/.test(loc(entry)));
+  assert.equal(entries.length, 252);
+  const existing = entries.filter(entry => !teaUrl.test(loc(entry)) && !/\/resources\/blog\/(?:butterfly-pea-protein-beverages|monk-fruit-specification-numbers|beetroot-product-formats|beet-colour-plant-based-meat|cocoa-selection|ginger-selection|pomegranate-flavour-selection|acacia-fibre-emulsification|citrus-delayed-bitterness|astaxanthin-beverage-stability|chicory-fibre-selection|vanilla-authentication|vanilla-material-choice|cranberry-pac-purchasing|hesperidin-material-choice|hibiscus-color-endpoints|saffron-identity|elderberry-material-selection|paprika-extract-format-selection|ginseng-heat-bitterness|uk-sdil-milk-tea-2028)\/?$/.test(loc(entry)));
   assert.equal(existing.length, 208);
   // Frozen pre-remediation sitemap, excluding only the new bilingual tea pair.
   assert.equal(createHash('sha256').update(existing.join('')).digest('hex'),

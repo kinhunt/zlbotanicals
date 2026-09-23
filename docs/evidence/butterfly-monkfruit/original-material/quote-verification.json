@@ -1,0 +1,86 @@
+[
+  {
+    "claim": "C01",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C02",
+    "returncode": 0,
+    "stdout": "[2] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C03",
+    "returncode": 0,
+    "stdout": "[4] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C04",
+    "returncode": 0,
+    "stdout": "[5] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C05",
+    "returncode": 0,
+    "stdout": "[8] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C06",
+    "returncode": 0,
+    "stdout": "[8] evidence attached (2 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C07",
+    "returncode": 0,
+    "stdout": "[6] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C08",
+    "returncode": 0,
+    "stdout": "[6] evidence attached (2 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C09",
+    "returncode": 0,
+    "stdout": "[7] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C10",
+    "returncode": 0,
+    "stdout": "[7] evidence attached (2 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C11",
+    "returncode": 0,
+    "stdout": "[7] evidence attached (3 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C12",
+    "returncode": 0,
+    "stdout": "[7] evidence attached (4 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C13",
+    "returncode": 0,
+    "stdout": "[7] evidence attached (5 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C14",
+    "returncode": 0,
+    "stdout": "[7] evidence attached (6 quote(s))\n",
+    "stderr": ""
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "timestamp_utc": "2026-09-23T16:05:22.179350+00:00",
+  "command": [
+    "browserman",
+    "execution",
+    "wait",
+    "exec_6e362d5a05014556",
+    "--json"
+  ],
+  "exit_code": 0,
+  "stdout": {
+    "ok": true,
+    "command": "execution.wait",
+    "browser": {
+      "id": "[REDACTED]",
+      "name": null
+    },
+    "result": {
+      "id": "exec_6e362d5a05014556",
+      "extensionId": "[REDACTED]",
+      "extensionKey": "[REDACTED]",
+      "status": "completed",
+      "currentStep": "Done",
+      "platform": "amazon",
+      "action": "get_product",
+      "result": {
+        "asin": "B098H7XWQ6",
+        "availability": "In Stock {\"isInternal\":false,\"showInsightsHub\":false,\"isRobot\":false,\"showFaceout\":true,\"merchantId\":\"AVMAALDQF459F\",\"availableBadges\":\"\",\"loggedIn\":false,\"asin\":\"B098H7XWQ6\",\"showBadge\":false,\"ingressFaceout\":\"\",\"availableFaceouts\":\"TK_BOUGHT\"}",
+        "blocked": false,
+        "brand": "Lakanto",
+        "bullets": [
+          "MONKFRUIT INFUSED SWEETNESS WITHOUT THE SUGAR: Lakanto Monkfruit Sweetener with Erythritol is a white sugar substitute, delivering a texture and taste remarkably similar to white sugar without the calories. This sweetener dissolves effortlessly in liquids, performs reliably in baked goods, and provides the rich sweetness you love. Enjoy all the benefits of a sugar replacement in a convenient 5 lb bag for all your baking, cooking, and beverage needs",
+          "MONKFRUIT INFUSED SWEETNESS WITHOUT THE SUGAR: Lakanto Monkfruit Sweetener with Erythritol is a white sugar substitute, delivering a texture and taste remarkably similar to white sugar without the calories. This sweetener dissolves effortlessly in liquids, performs reliably in baked goods, and provides the rich sweetness you love. Enjoy all the benefits of a sugar replacement in a convenient 5 lb bag for all your baking, cooking, and beverage needs",
+          "ZERO CALORIE AND ZERO GLYCEMIC SWEETENER: This monk fruit sweetener contains zero calories and has a zero glycemic index, making it suitable for those monitoring their caloric intake and blood sugar levels while still enjoying sweet flavors",
+          "ZERO CALORIE AND ZERO GLYCEMIC SWEETENER: This monk fruit sweetener contains zero calories and has a zero glycemic index, making it suitable for those monitoring their caloric intake and blood sugar levels while still enjoying sweet flavors",
+          "KETO FRIENDLY AND LOW CARB: Specially formulated for ketogenic and low-carbohydrate diets, this sweetener allows you to maintain your dietary goals without sacrificing the sweetness you crave in your favorite recipes and beverages",
+          "KETO FRIENDLY AND LOW CARB: Specially formulated for ketogenic and low-carbohydrate diets, this sweetener allows you to maintain your dietary goals without sacrificing the sweetness you crave in your favorite recipes and beverages",
+          "GLUTEN FREE AND NON GMO: Made with non-GMO ingredients and completely gluten-free, this sweetener accommodates various dietary restrictions and preferences while providing a clean, natural sweetening option",
+          "GLUTEN FREE AND NON GMO: Made with non-GMO ingredients and completely gluten-free, this sweetener accommodates various dietary restrictions and preferences while providing a clean, natural sweetening option",
+          "VERSATILE SUGAR REPLACEMENT: Use this monk fruit sweetener as a 1:1 replacement for white sugar in coffee, tea, baking, and cooking applications, making it easy to reduce sugar consumption without changing your favorite recipes",
+          "VERSATILE SUGAR REPLACEMENT: Use this monk fruit sweetener as a 1:1 replacement for white sugar in coffee, tea, baking, and cooking applications, making it easy to reduce sugar consumption without changing your favorite recipes"
+        ],
+        "canonicalUrl": "https://www.amazon.com/dp/B098H7XWQ6",
+        "details": {
+          "ASIN": "B098H7XWQ6",
+          "ASIN ‏": "‎ B098H7XWQ6",
+          "Best Sellers Rank": "#964 in Grocery & Gourmet Food (See Top 100 in Grocery & Gourmet Food) #17 in Stevia Sugar Substitutes",
+          "Brand Name": "Lakanto",
+          "Container Type": "Bag",
+          "Customer Reviews": "4.6 4.6 out of 5 stars (84,007) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); });",
+          "Diet Type": "Gluten Free, Keto, Plant Based, Vegan, Vegetarian",
+          "Flavor": "Classic White",
+          "Item Form": "Crystal",
+          "Item Highlight": "White Sugar Substitute from Monk Fruit Extract, Sugar Replacement for Baking, Coffee & Tea, Gluten Free, Non GMO",
+          "Item Package Weight": "2.29 kg",
+          "Item Weight": "5 pounds",
+          "Manufacturer": "Lakanto",
+          "Manufacturer ‏": "‎ Lakanto",
+          "Number of Items": "1",
+          "Number of Pieces": "1",
+          "Product Benefits": "Zero Glycemic,Weight Loss",
+          "Product Dimensions ‏": "‎ 8.13 x 4 x 12 inches; 5 pounds",
+          "Size": "80 Ounce (Pack of 1)",
+          "Specialty": "All Natural Sweetener, Sugar Free, White Sugar Alternative, White Sugar Replacement",
+          "UPC": "843076001911",
+          "UPC ‏": "‎ 843076001911",
+          "Unit Count": "80 Ounce",
+          "Units ‏": "‎ 80 Ounce"
+        },
+        "image": "https://m.media-amazon.com/images/I/41dVly35zrL._SY300_SX300_QL70_FMwebp_.jpg",
+        "marketplace": "https://www.amazon.com",
+        "price": "$44.79",
+        "rating": "4.6",
+        "reviewCount": "(84,007)",
+        "seller": "Saraya USA (Lakanto)",
+        "success": true,
+        "title": "Lakanto Classic Monk Fruit Sweetener with Erythritol, 5 Lb",
+        "url": "https://www.amazon.com/dp/B098H7XWQ6?th=1"
+      },
+      "error": null,
+      "startedAt": "2026-09-23 16:05:08",
+      "completedAt": "2026-09-23 16:05:20"
+    }
+  },
+  "stderr": ""
+}

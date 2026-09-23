@@ -1,0 +1,1127 @@
+{
+  "src/content/blog/en/stevia-temporal-sensory.md": "---\ntitle: \"Stevia Aftertaste: Test Sweetness in the Mouth, at 5 Seconds and at 60 Seconds\"\nlang: \"en\"\npublishDate: \"2026-09-20\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"stevia\", \"sensory testing\", \"Reb M\", \"aftertaste\"]\ndescription: \"Separate sweetness from bitterness at three defined moments. A practical stevia beverage screening method, study interpretation and blank sensory worksheet.\"\nrelatedProducts: [\"stevia\"]\nrelatedSolutions: [\"botanical-sweetener-rtd\"]\nsources: []\n---\n\nA stevia drink can reach the intended sweetness in the mouth yet leave more sweetness after the sip than the sugar reference. Changing to a less bitter material does not necessarily solve that second problem. In a consumer study, Reb M had in-mouth sweetness that was not significantly different from sucrose, but higher sweetness five seconds after expectoration and a higher mean at one minute.<a href=\"#stevia-ref-1\">[1]</a>\n\nFor a formulation screen, record **sweetness and bitterness separately, at defined moments**, rather than compressing the experience into one “aftertaste” score. The method below turns that distinction into a blank working record. It is a proposed development screen informed by published studies, not a validated product-release standard or a report of ZL beverage trials.\n\n<nav aria-label=\"In this guide\">\n<ul>\n<li><a href=\"#stevia-evidence\">What the studies actually found</a></li>\n<li><a href=\"#stevia-method\">Run a three-moment screen</a></li>\n<li><a href=\"#stevia-interpret\">Read the results without overclaiming</a></li>\n<li><a href=\"#stevia-download\">Download the blank worksheet</a></li>\n</ul>\n</nav>\n\n<h2 id=\"stevia-evidence\">Less bitterness and shorter sweet lingering are different targets</h2>\n\nThe 2020 study *Consumer-Based Sensory Characterization of Steviol Glycosides* tested **126 consumers** using deionized-water solutions: 0.10% w/v of each of three materials specified as 95% Reb A, Reb D or Reb M, alongside 14% w/v sucrose. Those are the study's preparation conditions, not recommended beverage use levels. The researchers served 10 mL portions, stored at 4°C before serving, and asked participants to pinch their noses while holding the solution in the mouth.<a href=\"#stevia-ref-1\">[1]</a>\n\nSweetness and bitterness were rated on a 15-cm line scale anchored by “not at all” and “extremely”: while the sample was in the mouth, five seconds after spitting it out, and one minute after spitting it out. The latter two clocks started at **expectoration, not at the first sip**.<a href=\"#stevia-ref-1\">[1]</a>\n\nThree findings matter for a beverage brief:\n\n- **In-mouth sweetness did not settle the aftertaste question.** Reb M and sucrose did not differ significantly in in-mouth sweetness; Reb M had higher sweetness than the other samples at five seconds. At one minute its sweetness was significantly higher than sucrose, but not significantly different from Reb D.<a href=\"#stevia-ref-1\">[1]</a>\n- **Low bitterness was compatible with lingering sweetness.** Reb D and Reb M had low in-mouth bitterness, statistically similar to sucrose in this experiment. Reb A was more bitter, including at the one-minute measurement.<a href=\"#stevia-ref-1\">[1]</a>\n- **The experiment was not an equal-sweetness ranking of all three glycosides.** Reb M's concentration was selected after preliminary testing against sucrose. Reb A and Reb D were then tested at that same concentration; Reb A was significantly less sweet in the mouth than sucrose. A comparison at equal ingredient concentration cannot by itself rank materials at individually adjusted, equal perceived sweetness.<a href=\"#stevia-ref-1\">[1]</a>\n\n“Not significantly different” is not proof of equivalence. Nor does a higher one-minute group mean reveal exactly when sweetness disappeared. These are three observations, not a continuous time–intensity curve. Joining them with a smooth line would imply unmeasured behaviour between the observations.\n\nA separate 2014 paper examined a different temporal design: room-temperature water containing Reb M at 563 mg/L, aspartame at 531 mg/L or 10% sucrose, followed over three minutes with swallowing at five seconds. It reported a later sweetness appearance maximum and longer extinction time for Reb M than sucrose.<a href=\"#stevia-ref-2\">[2]</a> This industry-authored study supports treating timing as a separate sensory dimension, but its swallowing procedure, concentrations and panel differ from the 2020 experiment. Do not combine their observations into one curve.\n\n## Choose the comparison before choosing the dose\n\nFor material screening, there are two useful but different questions. **Equal-dose testing** asks how supplied materials behave at a fixed addition rate. **Matched-sweetness testing** asks which candidate gives the better finish after each has been adjusted towards the same in-mouth sweetness target in the same base. Label the design on the record before tasting; keep the dose-adjustment pilot separate from the main comparison.\n\nFor a drink-development project, start with a sucrose reference in the intended base and a small set of candidate sweetener systems. Record residual sugar, the supplied ingredient dose and its units, glycoside composition and carrier information. A powder's mass is not automatically the mass of Reb M. Use actual specifications to describe the material, without assuming that a commercial blend reproduces the single-material study.\n\nOnce the pilot has set the candidate concentrations, hold the base recipe and preparation process constant. If acid, flavour and sweetener are all changed at once, the screen compares complete recipes; it cannot attribute the difference to the glycoside alone. Keep that broader comparison if it is useful, but name it accurately.\n\n<h2 id=\"stevia-method\">Run a three-moment screen with a clear clock</h2>\n\nThe following is an adaptation for internal development. Use only food-grade samples cleared for tasting under your organisation's safety and participant procedures. Decide the sample count, panel and repeat sessions with a sensory lead; the published sample size is not a universal minimum for your project.\n\n### 1. Fix the conditions and blind the samples\n\nRecord the base version, water, ingredient lot, dose, pH, heat history, storage age, carbonation where relevant, serving volume and actual serving temperature. Keep those conditions common across the intended comparison. Assign unrelated three-digit codes and vary presentation order across assessors so that one candidate is not always tasted last. Retain the code key separately from the assessor's sheet.\n\nDefine the in-mouth hold duration before the session and rehearse the timing with a non-test practice sample. The 2020 paper describes an in-mouth rating but does not specify a fixed hold duration; adding a declared duration makes your adaptation repeatable rather than silently inventing a detail of the published method.<a href=\"#stevia-ref-1\">[1]</a>\n\n### 2. Record six observations, not one overall score\n\nUse the same intensity scale and instructions for all samples. The download proposes a simple 0–10 internal scale, with 0 = not perceived and 10 = extremely intense; agree reference examples before testing. This is **not** the paper's 15-cm scale, and the two sets of scores must not be pooled or compared numerically.\n\n- **In mouth:** during the agreed hold, rate sweetness and bitterness separately. This is a defined observation window, not a measured sweetness-onset time.\n- **Five seconds after expectoration:** start a timer as the sample is spat out; rate the two intensities at the five-second cue.\n- **Sixty seconds after expectoration:** rate the same two intensities at the sixty-second cue. Do not take another sip, rinse or eat a cracker between the in-mouth and sixty-second observations.\n\nA facilitator or audible timer helps keep the assessor from managing the clock and describing the sample at the same time. Put free-text descriptors after the timed observations. If a cue is missed, record the actual time and flag the deviation; do not substitute a remembered rating as though it were on time. Leave missing values blank rather than entering zero.\n\n### 3. Reset between samples and check repeatability\n\nAfter the final observation, use the same agreed palate-cleansing and rest procedure for each sample. If sweetness or bitterness remains, allow further recovery and record it before proceeding. Water and crackers were available between samples in the 2020 study; it does not establish a universally sufficient washout interval for every beverage.<a href=\"#stevia-ref-1\">[1]</a>\n\nInclude a separately coded repeat where practical, and repeat preparations or sessions when a decision rests on a small difference. A repeated rating from one cup checks something different from an independently prepared batch. Preserve assessor, session and preparation IDs so the analyst can distinguish those sources of variation.\n\n### 4. Follow with normal drinking in the real product\n\nUse the expectoration screen to locate a difference, then evaluate shortlisted recipes under their intended drinking conditions. The 2020 study did not ask a liking question, and its authors noted that not swallowing could change the sensory experience.<a href=\"#stevia-ref-1\">[1]</a> Pinching the nose in a water test also does not reproduce an aromatic, carbonated or protein-containing drink.\n\nRun normal-drinking assessment as a separate session, without nose pinching, at the intended serving temperature. Record swallowing rather than expectoration as its timing event if post-swallow measurements are used. Add acceptance or liking questions suited to the target consumer and occasion. Do not merge this session's values with the expectoration dataset or call low bitterness proof of consumer preference.\n\n<h2 id=\"stevia-interpret\">Read each result as a decision about the next trial</h2>\n\nThe cases below are **interpretation examples, not measured results**. Predefine what constitutes an acceptable difference for the product and use repeat observations before acting; no universal pass score is supplied.\n\n**In-mouth sweetness is near the reference, but the sixty-second sweetness is higher.** Keep the conclusion specific: the candidate has more residual sweetness at the measured endpoint under this protocol. A next trial could compare a different glycoside profile or blend, with in-mouth sweetness re-matched first. Simply lowering the dose changes both the initial target and the finish.\n\n**Bitterness falls, but the sweetness endpoint does not.** The material may have improved one attribute without improving the other. Keep both results on the brief instead of renaming the whole sample “cleaner.” Compare the revised recipe in normal drinking before deciding whether the remaining sweetness is unwanted for that product.\n\n**Both in-mouth and sixty-second sweetness are lower.** Before concluding that the material has a shorter finish, check whether the sample was simply less sweet at the start. Return to the matched-sweetness pilot if that was the intended design.\n\n**Scores depend strongly on presentation order or repeats disagree.** Review the timing, carryover, serving temperature, preparation and scale instructions. Keep individual records; a group average can conceal those problems. Ask the sensory lead to choose analysis appropriate to repeated assessor measurements rather than treating every row as an independent consumer.\n\nIf the question is specifically **how fast sweetness appears, when it peaks, or when it disappears**, move beyond this screen to a defined temporal method with denser observations and appropriate assessor training. Three moments locate a potential issue; they do not measure the entire experience.\n\n<h2 id=\"stevia-download\">Download the blank sensory record</h2>\n\n<a href=\"/downloads/stevia-temporal-sensory-en.txt\" download>Download the English worksheet (.txt)</a>. It includes a session setup, blind sample record, six blank intensity fields, timing deviations and a separate normal-drinking follow-up. Copy the sample block for each assessor and coded sample. No example scores or acceptance thresholds are prefilled.\n\nFor material identity and formulation options, see the [stevia ingredient guide](/plant-extracts/ingredients/stevia). For candidate materials and sample enquiries, use [stevia sourcing](/products/stevia); the [beverage application page](/solutions/beverages) covers the wider formulation context. A useful sample brief carries the base type, sucrose reference, candidate dose and the particular failing moment—without requiring disclosure of a confidential full recipe.\n\n## Sources\n\n<p id=\"stevia-ref-1\">[1] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7466183/fullTextXML\">Tao and Cho (2020). Consumer-Based Sensory Characterization of Steviol Glycosides (Rebaudioside A, D, and M).</a> Full text; methods 2.4, results 3.1–3.2, Table 3 and discussion limitations.</p>\n\n<p id=\"stevia-ref-2\">[2] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5302307/fullTextXML\">Prakash, Markosyan and Bunders (2014). Development of Next Generation Stevia Sweetener: Rebaudioside M.</a> Full text; sensory methods and temporal-profile experiment. Author affiliations include The Coca-Cola Company and PureCircle.</p>\n",
+  "src/content/blog/en/zero-calorie-sweetener-market-2026.md": "---\ntitle: \"Monk Fruit and Stevia: A Buyer’s Guide to Beverage Sweetener Trials\"\nlang: en\npublishDate: \"2026-09-07\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"sourcing-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"procurement\", \"ingredient selection\", \"application testing\"]\ndescription: \"Compare sweetener composition, carriers, aftertaste and destination-market requirements before approving a beverage blend.\"\nimage: /images/blog/zero-calorie-sweetener-market-2026.webp\nsources: []\nrelatedProducts:\n  - monk-fruit\n  - stevia\n  - green-tea\nrelatedSolutions:\n  - botanical-sweetener-rtd\n---\n\nUpdated: 2026-09-07. This is a procurement guide, not a market forecast, research review or supplier test report.\n\n## Define what is in the powder\n\nFor monk fruit, specify Mogroside V and relevant additional mogrosides. For stevia, define the steviol glycoside profile rather than only total purity. Obtain full carrier and added-sweetener declarations, source and production route. A concentrated extract and a tabletop blend are different purchasing items.\n\n## Build a sensory comparison that can guide a decision\n\nUse the actual beverage base and compare monk fruit alone, stevia alone and candidate blends at similar perceived sweetness. Record onset, peak sweetness, lingering notes, bitterness and flavor interactions in a blinded evaluation. Repeat after the intended process and storage; do not assume a blend always tastes better.\n\n## Compare total application cost\n\nA kilogram price alone cannot select the better option. Compare documented composition, required trial levels, sensory acceptance, handling losses, testing costs and packaging requirements. Use your own pilot data rather than a universal sweetness multiplier or promised savings.\n\n## Review permitted use and finished-product labeling\n\nConfirm the exact ingredient and food category in the destination market. Zero-sugar and calorie claims require review of all carriers, juices and other ingredients. If adding green tea, assess its caffeine and catechin profile separately; sweetness selection is not a safety assessment.\n\n## Questions to include in your RFQ\n\nSend destination market, intended format, processing conditions, ingredient exclusions and sample needs. Ask for a current specification, batch-specific COA, full composition and risk-based contaminant testing. Specifications and availability are indicative until confirmed in writing; agree acceptance criteria and change-control terms before purchase.\n\n## Related procurement and application guides\n\n- [Monk Fruit Extract](/products/monk-fruit)\n- [Stevia Glycoside Extract](/products/stevia)\n- [Green Tea Extract](/products/green-tea)\n- [Botanical Sweetener RTD Concept](/solutions/botanical-sweetener-rtd)\n\n[Discuss a sourcing brief](/contact).\n",
+  "src/content/blog/zh/stevia-temporal-sensory.md": "---\ntitle: \"甜菊饮品余甜怎么测：分开记录口中、吐样后5秒与60秒\"\nlang: \"zh\"\npublishDate: \"2026-09-20\"\ncategory: \"research\"\nguideCategory: \"application-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"甜菊糖苷\", \"感官评价\", \"Reb M\", \"余甜\"]\ndescription: \"苦味少不等于甜味收得快。结合甜菊糖苷原始研究，设计三个时点的甜苦味筛选，附可下载空白记录表。\"\nrelatedProducts: [\"stevia\"]\nrelatedSolutions: [\"botanical-sweetener-rtd\"]\nsources: []\n---\n\n甜菊饮品在口中已经达到目标甜度，吐样后却仍比蔗糖对照更甜；换成苦味较低的原料，也未必解决甜味拖尾。一项消费者感官研究中，Reb M与蔗糖的口中甜感没有显著差异，但吐样后5秒的甜感更高，1分钟时的平均甜感仍更高。<a href=\"#stevia-ref-1\">[1]</a>\n\n排查这类问题，先把“后味怎么样”拆成两件事：**分别记录甜味和苦味，并明确每次记录的时间。** 下文把论文中的观察方法转成可执行的开发筛选，并附空白记录表。这是依据文献提出的试验方案，不是成品放行标准，也不是ZL已完成的饮料测试。\n\n<nav aria-label=\"本文导航\">\n<ul>\n<li><a href=\"#stevia-evidence\">论文实际发现了什么</a></li>\n<li><a href=\"#stevia-method\">三个时点怎样操作</a></li>\n<li><a href=\"#stevia-interpret\">怎样判断下一轮改什么</a></li>\n<li><a href=\"#stevia-download\">下载空白记录表</a></li>\n</ul>\n</nav>\n\n<h2 id=\"stevia-evidence\">苦味更低与余甜更短，是两个目标</h2>\n\n2020年的《Consumer-Based Sensory Characterization of Steviol Glycosides》研究由**126名消费者**完成。样品以去离子水配制：标称纯度分别为95%的Reb A、Reb D、Reb M原料各配成0.10% w/v溶液，与14% w/v蔗糖溶液比较。这些数值是研究条件，不是饮料推荐添加量。每份样品为10 mL，供样前在4°C冷藏；受试者在口中含样时捏住鼻子。<a href=\"#stevia-ref-1\">[1]</a>\n\n研究采用两端标为“完全没有”和“极强”的15 cm线段量表，分别评价口中、吐样后5秒、吐样后1分钟的甜味和苦味。后两个时点以**吐样为计时起点，而非第一口入口**。<a href=\"#stevia-ref-1\">[1]</a>\n\n对饮料开发最有用的是以下三个发现：\n\n- **口中甜度接近，不代表后段表现接近。** Reb M与蔗糖的口中甜感未见显著差异；吐样后5秒，Reb M比其余样品更甜。1分钟时，Reb M的甜感显著高于蔗糖，但与Reb D没有显著差异。<a href=\"#stevia-ref-1\">[1]</a>\n- **苦味低，仍然可能有余甜。** 在这项试验中，Reb D和Reb M口中苦感较低，与蔗糖没有显著差异；Reb A更苦，且到1分钟时仍有较高苦感。<a href=\"#stevia-ref-1\">[1]</a>\n- **这不是三种糖苷在等甜条件下的排名。** 研究先用预试验选择接近蔗糖甜感的Reb M浓度，再让Reb A和Reb D以同一浓度参加比较。其中Reb A的口中甜感显著低于蔗糖。相同原料浓度的比较，不能直接回答各自调至相近甜度后谁的表现更好。<a href=\"#stevia-ref-1\">[1]</a>\n\n“没有显著差异”不等于证明完全等效。1分钟时平均甜感较高，也不能告诉我们甜味究竟何时消失。这只是三个时点的观察，**不是连续时间—强度曲线**；把三个点连成平滑曲线，会给未测量的中间过程赋予并不存在的精度。\n\n另一篇2014年的研究采用了不同设计：室温水溶液中分别加入563 mg/L Reb M、531 mg/L阿斯巴甜或10%蔗糖，观察3分钟，并在第5秒吞咽。文中报告，Reb M的甜感出现峰值较蔗糖晚，消退时间也更长。<a href=\"#stevia-ref-2\">[2]</a> 这项由企业研究人员撰写的论文支持把“时间表现”单独评价，但其吞咽操作、浓度和评价小组均与2020年研究不同，不能将两篇论文的数据拼成一条曲线。\n\n## 先决定比较问题，再决定用量\n\n原料筛选常有两种不同任务。**同添加量比较**回答固定投料下各原料表现如何；**匹配甜度比较**则先在同一基底中调整各候选用量，使口中甜感接近同一目标，再比较后段表现。试验前就应写明采用哪一种设计，并把调量预试验与正式比较分开。\n\n饮料项目可从实际基底中的蔗糖参照配方和少量候选甜味体系开始。记录保留糖量、供应原料添加量及单位、糖苷组成和载体信息。粉末质量不自动等于Reb M质量，应按真实规格描述原料；商业复配粉也不能直接视为论文中的单一原料。\n\n预试验确定各候选浓度后，固定基底配方与制备工艺。如果同时改酸度、香精和甜味剂，测到的是整套配方差异，不能只归因于某种糖苷。这种比较仍可能有价值，但应明确叫“配方比较”。\n\n<h2 id=\"stevia-method\">三个时点怎样操作：把计时起点写清楚</h2>\n\n以下流程用于内部开发筛选。仅使用已按本单位安全及受试者管理要求获准品评的食品级样品。样品数量、评价人员与重复场次由感官负责人按项目确定，论文中的人数不是所有项目通用的最低要求。\n\n### 1. 固定条件，再给样品盲码\n\n记录基底版本、水、原料批次、添加量、pH、热处理、储存时间、适用时的含气状态、供样体积和实际供样温度。同一比较中的相关条件应一致。使用与原料名称无关的三位数盲码，在不同评价者之间调整供样顺序，避免某个候选永远排在最后。盲码对应表由主持人员单独保存。\n\n试验前规定含样时长，用非正式样品练习一次操作。2020年论文描述了口中评价，但没有规定一个固定含样时长；在自己的方案中写明时长，是为了让操作可重复，而不是补写成论文已经采用的条件。<a href=\"#stevia-ref-1\">[1]</a>\n\n### 2. 记录六项强度，不合成一个总分\n\n所有样品使用同一套量表与说明。下载表采用便于内部筛选的0—10分量表：0表示未感知，10表示极强；正式试验前统一参照例子。**它不是论文的15 cm线段量表**，不能把两套评分混在一起，也不能直接比较分值大小。\n\n- <strong>口中：</strong>在预先约定的含样阶段，分别记甜味和苦味强度。这是固定观察窗口，不是在测“起甜需要几秒”。\n- <strong>吐样后5秒：</strong>吐出样品时开始计时，5秒提示时分别评价甜味、苦味。\n- <strong>吐样后60秒：</strong>在60秒提示时再次评价同样两项。从口中评价至60秒记录结束，不再喝一口，不漱口，也不吃饼干。\n\n由主持人员或声音提示管理时间，避免评价者一边看表一边描述样品。自由描述放在定时评价之后。如果错过提示，记下实际时间并标记偏差，不把凭回忆补填的值当成准时结果。漏记留空，不能填成“0”。\n\n### 3. 样品之间恢复味觉，并检查重复性\n\n完成最后一个时点后，按统一程序清口、休息。若仍有明显甜味或苦味，延长恢复并记录，再进入下一杯。2020年研究在样品之间提供了水和饼干，但并未确立适用于所有饮料的统一清口间隔。<a href=\"#stevia-ref-1\">[1]</a>\n\n条件允许时，加入另编盲码的重复样；若决策依赖细小差异，应安排重新配制或重复场次。同一杯重复打分，与重新配制一批后再测，检查的不是同一种变异。保留评价者编号、场次和配制批次，方便分析时区分。\n\n### 4. 最后回到真实饮用场景\n\n吐样筛选用于定位差异，入选配方还应按实际饮用方式评价。2020年研究没有设置喜好度问题，作者也指出，不吞咽可能改变感官体验。<a href=\"#stevia-ref-1\">[1]</a> 在水溶液中捏鼻测试，不能代替有香气、有气泡或含蛋白质的饮品。\n\n另开一场正常饮用评价，不捏鼻，在预期饮用温度下测试。如记录吞咽后表现，应将吞咽写为计时事件，而不是继续标“吐样后”。根据目标消费者与饮用场景增加接受度或喜好度问题。两场数据分别保存；苦味低不自动证明消费者更喜欢。\n\n<h2 id=\"stevia-interpret\">怎样判断下一轮改什么</h2>\n\n以下是**判读示例，不是实测结果**。试验前先确定产品可以接受多大差异，结合重复结果再决策；本文不设通用合格分数。\n\n**口中甜度接近参照，但60秒时更甜。** 结论应限定为：在本次操作条件与观察终点，候选样的残留甜感更强。下一轮可比较不同糖苷谱或复配方案，但仍应先重新匹配口中甜度。直接减量会同时改变初始目标和后段表现。\n\n**苦味下降，余甜没有下降。** 原料可能改善了一个属性，却没有改善另一个。把两项结果都保留在试验摘要中，比笼统写成“后味更干净”更有用。再通过正常饮用评价，判断这款产品是否需要进一步减少余甜。\n\n**口中和60秒的甜感都更低。** 先检查是不是一开始就不够甜，再判断是否真的改善了收尾。如果原本要做等甜比较，应回到调量预试验。\n\n**结果随供样顺序变化，或重复样差异大。** 先复查计时、残留影响、温度、配制与量表说明。保留个人记录，平均值可能掩盖这些问题。分析时由感官负责人处理同一评价者的重复测量，不把每一行都当成一个独立消费者。\n\n如果真正要回答的是**起甜有多快、峰值何时出现、甜味何时消失**，应进一步采用观察更密集、评价人员经过相应训练的时间感官方法。三个时点能定位值得追查的问题，却不能描述整个过程。\n\n<h2 id=\"stevia-download\">下载空白感官记录表</h2>\n\n<a href=\"/downloads/stevia-temporal-sensory-zh.txt\" download>下载中文记录表（.txt）</a>。表内包含场次设置、盲码样品信息、六项空白强度、计时偏差，以及独立的正常饮用复评栏。每位评价者、每个盲码样品各复制一份样品记录，不预填示例评分或合格阈值。\n\n原料身份与配方思路见[甜菊原料百科](/zh/plant-extracts/ingredients/stevia)，候选原料和询样可进入[甜菊采购页](/zh/products/stevia)，完整应用背景见[饮料解决方案](/zh/solutions/beverages)。询样摘要带上基底类型、蔗糖参照、候选用量，以及究竟哪个时点不理想，通常比一句“要更好喝”更容易形成可比较的样品需求，也无需公开保密完整配方。\n\n## 参考来源\n\n<p id=\"stevia-ref-1\">[1] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7466183/fullTextXML\">Tao与Cho（2020）：Consumer-Based Sensory Characterization of Steviol Glycosides (Rebaudioside A, D, and M)。</a> 已读取全文；重点为2.4节方法、3.1—3.2节结果、表3及讨论中的限制。</p>\n\n<p id=\"stevia-ref-2\">[2] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5302307/fullTextXML\">Prakash、Markosyan与Bunders（2014）：Development of Next Generation Stevia Sweetener: Rebaudioside M。</a> 已读取全文；重点为感官方法与时间表现试验。作者机构包括可口可乐公司与PureCircle。</p>\n",
+  "src/content/blog/zh/zero-calorie-sweetener-market-2026.md": "---\ntitle: \"罗汉果与甜菊糖苷：饮料甜味剂采购与试样指南\"\nlang: zh\npublishDate: \"2026-09-07\"\ncategory: \"ingredient-spotlight\"\nguideCategory: \"sourcing-guides\"\nrelatedIndustries: [\"beverages\"]\ntags: [\"采购\", \"原料选型\", \"应用测试\"]\ndescription: \"采购饮料甜味复配料前，比较糖苷组成、载体、后味及目的地要求。\"\nimage: /images/blog/zero-calorie-sweetener-market-2026.webp\nsources: []\nrelatedProducts:\n  - monk-fruit\n  - stevia\n  - green-tea\nrelatedSolutions:\n  - botanical-sweetener-rtd\n---\n\n更新日期：2026-09-07。本文为采购指南，并非市场预测、研究综述或供应商检测报告。\n\n## 先确定粉末中有什么\n\n罗汉果需明确罗汉果苷 V 及相关其他糖苷；甜菊糖苷需明确单体组成，而不仅是总纯度。索取完整载体、额外甜味剂、来源及生产路线声明。浓缩提取物与餐桌复配料属于不同采购品。\n\n## 建立可用于决策的感官比较\n\n在实际饮料基质中，以感知甜度接近的罗汉果单用、甜菊单用和候选复配进行盲评。记录起甜、甜度峰值、后味、苦味及风味相互影响。拟用工艺和储存后复评，不预设复配必然更好。\n\n## 比较整体应用成本\n\n每公斤价格不能单独决定选型。比较有文件支持的组成、试验所需添加水平、感官接受度、操作损耗、检测成本和包装要求。采用自身中试数据，而非通用甜度倍数或节约承诺。\n\n## 核查许可用途及成品标识\n\n按目的地核实具体原料及食品类别。零糖与热量宣称需审查全部载体、果汁和其他原料。若添加绿茶，应单独评估咖啡因及儿茶素组成；甜度选型不等于安全评估。\n\n## 询价时应提供与确认的问题\n\n请提供目的地市场、目标形态、加工条件、排除成分和样品需求。索取现行规格书、批次 COA、完整组成及按风险制定的污染物检测。书面确认前，规格与供货信息仅作参考；采购前约定验收标准与变更控制条款。\n\n## 相关采购与应用指南\n\n- [罗汉果提取物](/zh/products/monk-fruit)\n- [甜菊糖苷提取物](/zh/products/stevia)\n- [绿茶提取物](/zh/products/green-tea)\n- [植物甜味即饮饮料概念](/zh/solutions/botanical-sweetener-rtd)\n\n[讨论采购需求](/zh/contact).\n",
+  "src/content/products/en/monk-fruit.md": "---\nname: Monk Fruit Extract\nlatinName: Siraitia grosvenorii\nlang: en\ndescription: \"ZL Botanicals supplies monk fruit extract for reduced-sugar drinks, dairy desserts and dry mixes.\"\nimage: /images/products/monk-fruit.webp\nsolutions:\n  - white-peach-sparkling\n  - botanical-sweetener-rtd\n---\n\n## Material identity and selection\n\nFruit extract of *Siraitia grosvenorii*. Mogroside V is a useful procurement marker, but its percentage does not describe the full sweetener composition or taste. Distinguish concentrated extract from carrier-based blends.\n\n## Indicative specification brief\n\nThe following specification topics are indicative, not released specifications, stock availability or actual test results. Grade, numerical limits and methods require written confirmation before purchase.\n\nRequest a defined Mogroside V HPLC assay and, where relevant, the wider mogroside profile. Confirm dry-basis versus as-is reporting and the identity and proportion of every carrier or added sweetener.\n\nCompare color, odor, dissolution, moisture and microbiology using agreed methods. Ask for extraction and purification solvent declarations and a relevant residue panel; natural origin is not evidence of solvent-free processing.\n\n## Application development checks\n\nRun blinded comparisons at matched perceived sweetness in the actual acid, tea or dairy base. Record onset, lingering sweetness, bitterness and interactions with other sweeteners. Repeat after heat treatment and storage; a higher marker assay does not guarantee preferred taste.\n\nConfirm permission for the exact extract and use category in the destination market. Zero-sugar and calorie labels depend on the complete finished product, including carriers and fruit ingredients; ingredient identity does not establish a blood-glucose outcome.\n\n## Documents to request before approval\n\n- A current specification and batch-specific COA tied to the offered lot, including methods, units and acceptance criteria. Distinguish measured from calculated results.\n- Identity, plant part, extraction process and full composition, including carriers and processing aids.\n- A risk-based contaminant panel for relevant pesticides, elemental contaminants, microbiology and residual solvents, with limits agreed for the intended market.\n- Allergen and traceability statements. If certification is required, verify issuer, site, scope and expiry for the exact material; this page does not imply blanket certification.\n- Written packaging, storage, retest or shelf-life basis, sample-to-production equivalence, lead time and change-notification terms.\n\n## Send a useful sourcing brief\n\nShare destination market, application format, intended process, marker priorities, exclusions, sample needs and expected order scale. Request available documentation before trial approval; supply availability and testing scope need confirmation.\n\n[Discuss ingredient sourcing](/contact).\n",
+  "src/content/products/zh/monk-fruit.md": "---\nname: 罗汉果提取物\nnameEn: Monk Fruit Extract\nlatinName: Siraitia grosvenorii\nlang: zh\ndescription: \"振隆供应用于减糖饮料、乳品甜品及干混粉的罗汉果提取物。\"\nimage: /images/products/monk-fruit.webp\nsolutions:\n  - white-peach-sparkling\n  - botanical-sweetener-rtd\n---\n\n## 原料身份与选型\n\n罗汉果提取物来自 *Siraitia grosvenorii* 的果实。罗汉果苷 V 是采购参考标志物，其比例不能完整描述甜味组成或口感。应区分浓缩提取物与含载体复配料。\n\n## 参考规格与询价要点\n\n以下为参考规格议题，并非已发布供货规格、库存承诺或实际检测结果。等级、数值限值与方法均须在采购前书面确认。\n\n索取明确的罗汉果苷 V HPLC 定量方法，必要时了解其他罗汉果苷组成。确认干基或原样报告，以及每种载体和额外甜味成分的名称与比例。\n\n按约定方法比较色泽、气味、溶解情况、水分和微生物指标。索取提取纯化溶剂声明及相应残留检测项目；天然来源不能证明工艺不涉及溶剂。\n\n## 应用开发检查\n\n在真实酸味、茶或乳基质中，以感知甜度接近的样品进行盲评，记录起甜、后甜、苦味及与其他甜味剂的相互影响。热处理及储存后复评；较高标志物含量不保证更受偏好的口感。\n\n核实具体提取物及使用类别在目的地的许可。零糖与热量标识取决于含载体和果料在内的完整成品；不能从原料身份推断血糖反应。\n\n## 批准样品前应索取的文件\n\n- 与拟供批号对应的现行规格书及批次 COA，列明方法、单位、验收标准，区分实测与计算结果。\n- 原料身份、使用部位、提取工艺及完整组成，包括载体与加工助剂。\n- 按风险确定的相关农残、元素污染物、微生物和溶剂残留项目，按目标市场约定限值。\n- 过敏原与溯源声明。如采购要求认证，应核查签发机构、场所、证书范围和有效期，确认涵盖具体原料；本页不作整体认证保证。\n- 书面确认包装、储存、复验期或保质期依据、样品与大货一致性、交期及变更通知机制。\n\n## 如何提交采购需求\n\n请说明目的地市场、应用形态、拟用工艺、关注指标、排除成分、样品需求和预计采购规模。批准试样前先确认可提供文件；供货情况和检测范围需逐项核实。\n\n[咨询原料采购](/zh/contact)。\n",
+  "src/data/stevia-segregation/en.md": "#### Sachet content: read weight and concentration together\n\nA consistent fill weight does not by itself establish a consistent glycoside amount. Record three values for the same sachet: **net powder mass (g), the named glycoside concentration on an as-received basis (mg/g), and glycoside amount (mg/sachet)**.\n\n**Glycoside amount (mg/sachet) = net powder mass (g) × concentration (mg/g).**\n\nFor a unit-conversion example—not a measured sample—a 2 g sachet at 1% w/w contains 20 mg of the named glycoside. Here, 1% w/w means 10 mg/g. In the CSV, enter `1` with `% w/w; as_received`, or `0.01` with `g/g; as_received`; these are two ways to record the same concentration. An assay already reported as mg for the whole sachet should not be multiplied by the sachet weight again. Convert a dry-basis result to the as-received basis before using this equation.\n\nRead the three values together: changing weight with similar concentration points first to filling or weighing; similar weight with changing concentration calls for a closer look at sampling, analysis and the production stage. Neither pattern alone proves segregation.\n\n##### Whole sachet or a portion?\n\nBefore filling, segregation in bulk powder could change the composition delivered to different sachets. After sealing, particle rearrangement alone cannot change the total glycoside amount in an intact sachet with no material loss or degradation. For whole-sachet use, measure whole-sachet recovery. For partial use, measure the portion actually removed and record its mass, position and removal method; do not extrapolate that portion to the whole sachet without evidence that it represents the entire contents.\n\nA useful sampling map is **blender locations → discharge mass intervals → receiving hopper or bulk transfer → individual filled sachets**. Keep filling order and refill or restart events with each sample. For destructive transport comparisons, randomly allocate different sachets from the same production interval to transported and untransported groups; link them with a group ID rather than treating them as the same bag measured twice.\n\n##### One sachet is not several independent samples\n\nUse `sample_id` for the physical sample, `prep_id` for each separately prepared analytical portion and `injection_id` for each instrument injection. Several injections from one preparation are still measurements of one physical sample. Thermo's commercial-stevia application note, for example, reports two injections per sample—not two independently sampled sachets.[10](#research-stevia-rollout-source-10)\n\nKeep the sampling hierarchy when comparing net mass, concentration and mg/sachet. Agree sample numbers and decision rules with the laboratory before collection; repeat injections do not increase the number of independent bags.\n\nUse the <a href=\"/downloads/stevia-segregation-sampling-record.csv\" download>blank sampling record</a> and <a href=\"/downloads/stevia-segregation-material-characterization.csv\" download>material-characterization sheet</a>, with the <a href=\"/downloads/stevia-segregation-reader-en.md\" download>CSV filling guide</a>. The material sheet keeps Dv10/Dv50/Dv90, dispersion conditions and the three density measurements separate. HORIBA's commercial-sweetener study assessed dispersion pressure for each sample before reporting particle size, illustrating why measurement conditions belong beside the result.[11](#research-stevia-rollout-source-11)\n",
+  "src/data/stevia-segregation/zh.md": "#### 小袋含量：把袋重和浓度放在一起看\n\n净重一致，并不代表每袋的糖苷含量一致。对同一袋粉体，分别记录三个量：**净重（g）、指定糖苷的原样基浓度（mg/g），以及每袋糖苷质量（mg/袋）**。\n\n**每袋糖苷质量（mg/袋）＝净重（g）×浓度（mg/g）。**\n\n只看一个单位换算例子，而非实测样品：2 g小袋中，某糖苷的浓度为1% w/w，即10 mg/g，换算后为20 mg/袋。CSV中可以填`1`，单位写`% w/w; as_received`；也可以填`0.01`，单位写`g/g; as_received`。这两种写法表示同一浓度。若实验室已给出整袋糖苷质量，就不要再乘袋重；若结果是干基浓度，须先换算到原样基再使用上述公式。\n\n三个量应联读：浓度接近而袋重变化，先检查灌装计量和称量；袋重接近而浓度变化，则结合取样、分析方法和生产工段查找原因。任何一种组合，都不能单独证明发生了分层。\n\n##### 整袋使用，还是只取一部分？\n\n灌袋前，散装粉体分层可能使不同袋收到不同组成的粉体。封袋后，若包装完整、没有漏失或降解，仅袋内颗粒重排不会改变整袋糖苷总量。整袋使用时，关注整袋回收量；部分取用时，测实际取出部分，并记录其质量、位置和取用方式。没有代表性依据时，不能用这一部分的浓度推算整袋含量。\n\n可沿着**混合机不同位置→累计出料质量区间→接收料斗或散装转运→独立成品袋**建立取样记录，并保留灌装顺序、补料和重启信息。若用破坏性分析比较运输前后，应把同一生产时段的不同袋随机分到运输组与未运输组，用组号关联；不能把它们写成同一袋的两次测量。\n\n##### 一袋样品，不等于多个独立样本\n\n用`sample_id`标识物理样品，用`prep_id`区分分别制备的分析份，用`injection_id`记录每次进样。同一制样液进样多次，仍属于同一份物理样。以Thermo的商品甜菊分析报告为例，文中每样两次指的是进样，不是独立抽取了两袋。[10](#research-stevia-rollout-source-10)\n\n比较净重、浓度和每袋糖苷质量时，应保留这个层级。取样前与实验室确定样本数量和判读规则；重复进样不能增加独立袋数。\n\n配套提供<a href=\"/downloads/stevia-segregation-sampling-record.csv\" download>空白取样记录</a>、<a href=\"/downloads/stevia-segregation-material-characterization.csv\" download>原料物性表</a>及<a href=\"/downloads/stevia-segregation-reader-zh.md\" download>CSV填写说明</a>。物性表将Dv10/Dv50/Dv90、分散条件和三类密度分别记录。HORIBA的商品甜味剂研究先逐样评估分散压力，再报告粒径，说明比较数据时也需要保留测量条件。[11](#research-stevia-rollout-source-11)\n",
+  "src/data/deep-ingredients.json": [
+    {
+      "productId": "monk-fruit",
+      "group": "a",
+      "pack": "group-a/monk-fruit.md",
+      "content": {
+        "zh": [
+          {
+            "id": "processes",
+            "heading": "工艺：罗汉果水煎液与高甜苷提取物是不同产品",
+            "blocks": [
+              {
+                "type": "heading",
+                "text": "1.1 从已读取的工艺证据出发"
+              },
+              {
+                "type": "paragraph",
+                "text": "EFSA 2019年评估的申请材料涉及罗汉果（Siraitia grosvenorii）果实水提后获得的不同罗汉果甜苷V含量提取物。报告中的25%等级经历水提、果胶酶处理、浓缩与树脂柱；更高甜苷V等级增加再溶解、树脂吸附和洗脱等纯化步骤。25%等级在该申请资料中仍含3–6%葡萄糖、果糖、蔗糖等糖类，更高等级经附加树脂步骤后糖类降至1%以下、报告仅剩葡萄糖。这里是特定申请材料，不是所有商业25%或50%产品的统一糖含量标准。[5]"
+              },
+              {
+                "type": "paragraph",
+                "text": "这项证据说明，甜苷纯度上升不仅是“多蒸发一些水”。罗汉果甜苷V是所评估提取物的重要组分，糖类移除发生于选择性吸附/洗脱环节；单纯浓缩通常只会把糖和甜苷同时浓缩。[5] 对采购，“罗汉果浓缩汁”“非选择性水煎液”“甜苷V标准化提取物”“含其他填充物的桌面甜味剂”应分别建立物料身份，而不能都按“monk fruit powder”互相替代。"
+              },
+              {
+                "type": "heading",
+                "text": "1.2 流程、每步目的与物料变化（工程建议，基础步骤来自评估资料）"
+              },
+              {
+                "type": "paragraph",
+                "text": "**果实验收与分选 → 清洗/适度破碎 → 水提 → 果胶酶处理 → 固液分离与澄清 → 可选浓缩 → 树脂吸附 → 水洗去糖与杂质 → 适配洗脱 → 溶剂回收/再浓缩 → 可选二次纯化 → 干燥 → 按甜苷谱与载体标准化。** 果胶酶、浓缩、树脂与更高等级附加纯化有上述 dossier 支持；精确先后顺序、酶处理位置、洗脱剂及设备配置应按拟开发材料验证，本文不把示意流程当作申请人公开的完整生产SOP。[5]"
+              },
+              {
+                "type": "paragraph",
+                "text": "进料阶段建议分别记录鲜果和干果、成熟度与破损腐败情况、糖和甜苷V基线、原料含水量。不同原料历史会改变按鲜重或干重比较的意义，因此采购得率必须注明分母。破碎目的是打开果实组织，便于水进入与可溶物迁移；过度粉碎会增加细粉、过滤负担和非目标组分进入量。分选去除明显不合格果，并不意味着已解决农残或元素杂质，这些风险需要对应检测。"
+              },
+              {
+                "type": "paragraph",
+                "text": "水提把甜苷与其他水可提取成分带入液相。工程建议通过时间序列测定甜苷V质量回收、可溶性固形物与过滤性，选择停止点，而不是一直提高糖度。果胶酶的任务是改变果胶网络，工程上可用于降低黏度和帮助分离；应通过黏度、浊度、过滤周期和甜苷回收证明实际价值。酶活单位、来源、添加量和失活方法需一并定义；只写“酶解提取”无法判断工艺。评估资料证明该申请使用果胶酶，但未在此提供可直接复制的工业酶量、温度或时间。[5]"
+              },
+              {
+                "type": "paragraph",
+                "text": "澄清段将组织碎屑与部分胶体负荷从树脂前移除。工程建议若柱压差快速增加，先查入柱液浊度、胶体与过滤预处理，而不是马上增加泵压。吸附段利用目标物与其他溶质在树脂上的保留差异，不能只按固定小时数切换罐。入柱浓度、流量、床体积、温度、共存杂质和树脂使用次数都应记录；在流出液检测甜苷V达到事先定义的突破点时停止上样，才有助于避免高价目标物流失。"
+              },
+              {
+                "type": "paragraph",
+                "text": "水洗与洗脱需要分段取样。水洗的目标是使未被保留的糖及其他溶质离开，而不是无限洗到电导率最低；过长洗涤可能增加用水或损失弱保留组分。洗脱则需要用适合树脂与目标用途的溶剂体系把保留组分移入收集液，随后回收溶剂。工程建议以甜苷谱、残糖、色泽和回收率决定收集窗口：窗口放宽可能提高总回收但降低纯度，窗口过窄可能只得到漂亮的含量数字却损失大量产品。"
+              },
+              {
+                "type": "paragraph",
+                "text": "若增加二次纯化，应明确它解决的是残糖、颜色、气味还是甜苷谱。EFSA材料确实报告更高甜苷V等级增加树脂步骤并降低糖含量，但没有证明“纯度越高感官永远越好”。[5] 工程建议在相同甜度而非相同粉末质量下盲评纯化前后版本；再把感官差异与各甜苷、残糖及挥发性特征关联。最终干燥时还需区分原生提取物和含载体粉，否则所谓“50%甜苷V”究竟是原生粉干基、供货粉干基还是供货湿基就会产生歧义。"
+              },
+              {
+                "type": "heading",
+                "text": "1.3 路线比较"
+              },
+              {
+                "type": "table",
+                "headers": [
+                  "路线",
+                  "物料特点",
+                  "直接证据",
+                  "关键取舍/失败模式"
+                ],
+                "rows": [
+                  [
+                    "非选择性水煎液",
+                    "不以选择性富集甜苷为目的；不同于树脂富集物",
+                    "FSA决定明确针对鲜/干果非选择性水煎液[7]",
+                    "不可把其新食品身份自动迁移给高纯甜苷；需按实际风味与糖组成设计"
+                  ],
+                  [
+                    "水提加一次树脂处理",
+                    "申请资料中的25%甜苷V等级",
+                    "含3–6%糖类，适用于该 dossier 材料[5]",
+                    "糖类与颜色/气味残留要实测；不能用等级名称保证全行业一致"
+                  ],
+                  [
+                    "附加树脂纯化",
+                    "申请资料中的更高甜苷V等级",
+                    "糖类降至1%以下是申请材料报告[5]",
+                    "增加工时、溶剂与回收损失；在目标甜度下比较感官和成本"
+                  ],
+                  [
+                    "生物转化加树脂",
+                    "改变甜苷结构，而非单纯浓缩",
+                    "原始研究以灵芝菌丝体转化甜苷V为甜苷III E，再用HP-20富集[8]",
+                    "产物身份与杂质谱改变，不能借甜苷V的资料直接覆盖；摘要结果不等于工业验证"
+                  ],
+                  [
+                    "与填充物复配",
+                    "便于桌面计量或替代部分糖的配制甜味剂",
+                    "本文无特定商业复配产品证据，属工程方案",
+                    "填充物决定体积、能量、口感与标签；复配粉不等于纯罗汉果提取物"
+                  ]
+                ]
+              },
+              {
+                "type": "heading",
+                "text": "1.4 生物转化研究：具体数值应带具体产物"
+              },
+              {
+                "type": "paragraph",
+                "text": "Chiu等原始研究用灵芝菌丝体将甜苷V经脱糖基反应转为甜苷III E，报告较高β-葡萄糖苷酶活性，并以HPLC联用质谱及核磁共振进行代谢物鉴定。HP-20纯化将III E纯度从11.71%提高到54.19%，回收率70–76%；摘要所述放大收获为17.38 g III E、纯度55.14%、回收率74.71%。本次通过Europe PMC读取原始论文摘要，未取得全文方法，因此不补写培养罐体积、酶用量或上柱流速，也不将克级收获称为吨级成熟生产。[8]"
+              },
+              {
+                "type": "paragraph",
+                "text": "工程解释：这个例子特别适合说明“含量升高”与“身份改变”的区别。研究不是把原有甜苷V浓缩到55%，而是先转化得到另一种甜苷，再纯化。研发若想探索类似路线，应对转化前后甜苷谱、残余培养基、微生物相关杂质和去除过程建立独立控制；供应商不能把该研究数字直接用在普通甜苷V COA上。"
+              }
+            ]
+          },
+          {
+            "id": "equipment",
+            "heading": "设备：树脂柱之前和之后同样决定成本",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "工程建议：清洗分选与破碎设备控制原料异物和颗粒负担；带搅拌温控的提取罐实现均匀接触；酶处理罐需要可追溯温度、时间和加料；离心/澄清设备降低柱前固体负荷；吸附柱配分段收集、流量及压差监测，使纯度和回收的取舍可被记录。果胶酶与树脂是评估材料实际记载的环节，但本项目没有任何设备供应商性能或自有产线证据。[5]"
+              },
+              {
+                "type": "paragraph",
+                "text": "对于树脂柱，应将选型从“某型号吸附率高”推进到动态突破、洗脱曲线和多循环再生表现；静态瓶内吸附不能代表连续入柱性能。上述原始III E研究确实利用动力学拟合、动态吸附和解吸实验优化HP-20，提供了研究设计方向，具体参数却不能因未读取全文而自行补足。[8] 生产工程还需要检查柱床压实、沟流、溶剂切换时气泡和清洗后污染物残留，避免批次差异被误判为果实含量变化。"
+              },
+              {
+                "type": "paragraph",
+                "text": "减压浓缩和干燥系统应根据真实固形物、起泡、黏壁与目标粉末流动性选择；高含糖和已除糖料液不应自动共用同一干燥配方。QA分析建议采用适合该基质的甜苷V定量与甜苷谱方法，另测糖类、残留溶剂、微生物和水分。EFSA记录申请人提供了提取物中甜苷V的HPLC-UV方法，但当时未提供食品中分析方法；因此原料方法不能直接被认定对酸奶、饼干或饮料已有充分回收率。[5]"
+              }
+            ]
+          },
+          {
+            "id": "applications",
+            "heading": "应用：替代甜味与替代蔗糖的功能是两道题",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "**低糖饮料。** 工程建议先建立剂量—甜度曲线与时间—强度曲线，以蔗糖对照而非统一“几百倍甜度”做配方换算。观察起甜、峰值、后甜、苦味和果香影响，并在目标酸度、碳酸化程度与饮用温度下测试。原料纯度用于算甜苷V投料，但感官上等甜不必与含量呈线性。盲评应控制相同甜度，否则更甜的一组容易被误判为更好。若计划复配其他甜味剂或香气体系，应按目标市场允许用途选择，并测储藏后的整体感官而非只测刚调配的清水。"
+              },
+              {
+                "type": "paragraph",
+                "text": "**酸奶、蛋白饮与植物基产品。** 工程建议以实际蛋白、脂肪和发酵酸度为基质，比较加入发酵前后、热处理前后及不同溶解顺序。检测含量、感官和物理稳定性三者：没有沉淀不代表甜味轮廓不变，甜苷V保持也不代表颜色或风味不变。若降低蔗糖同时减少固形物，应独立调整黏度和口腔饱满度；把甜味剂继续加量不能修复所有稀薄口感。"
+              },
+              {
+                "type": "paragraph",
+                "text": "**烘焙、冷冻甜品和桌面甜味剂。** 工程建议将甜度、体积、含水状态、褐变和质构拆开设计。罗汉果甜苷可以贡献甜味，但用很小质量代替大量糖时，不会自动补回糖提供的配方固形物；需要按照产品目标评估其他填充/质构方案及其标签影响。冻结产品还需验证冻结行为和食用温度下的甜感。桌面复配粉的能量、可计量性与耐湿性由完整配方决定，不能因为其中含罗汉果就宣称整包“无糖、零能量”。"
+              },
+              {
+                "type": "paragraph",
+                "text": "**工艺耐受性的正确读法。** EFSA记载申请人对不同等级原料和模型体系做过温湿度、pH和加热稳定性测试，也指出未提供食品内稳定性数据。[5] 因此，品牌不能把某模型的短时高温稳定性转写为“适用任何烘焙温度和时间”；设备设定温度也不等于食品中心温度。研发应选真实加热、储藏、包装与酸度组合，用成品含量和感官共同判定适用窗口。"
+              }
+            ]
+          },
+          {
+            "id": "standards",
+            "heading": "标准与市场：必须把美国、欧盟评估、英格兰和威尔士区分",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "**美国。** FDA GRN 301官方记录的对象是特定罗汉果果实提取物，用途为按当前良好生产规范在食品中作甜味剂与风味增强剂（肉类和禽类产品除外），并用于桌面甜味剂；记录显示2010年1月15日结案及“FDA has no questions”。这说明针对该通知的GRAS结论，FDA当时没有问题，不是FDA对所有罗汉果制品的统一批准，更不是功效许可。[6]"
+              },
+              {
+                "type": "paragraph",
+                "text": "**欧盟食品添加剂评估。** EFSA 2019意见对提交的25–55%等材料进行安全评估，结论是毒理数据库不足以得出其作为食品添加剂使用安全的结论；涉及代谢物的遗传毒性信息缺口及大鼠亚慢性试验中不能排除的睾丸效应等。这里既不是“已证明任何剂量有害”，也不是批准文件。[5] 该意见描述的是当时申请与证据，不能代替对拟上市材料在当前欧盟清单中的授权检查；本文未声称已完成截至2026年的所有欧盟修订检索。"
+              },
+              {
+                "type": "paragraph",
+                "text": "**英格兰和威尔士。** FSA 2024年6月26日决定明确：由鲜果或干果制成的非选择性水煎液不是新食品，结论适用于英格兰和威尔士；文件指出苏格兰将由FSS发布自己的判断。该决定依据消费历史，不能直接涵盖树脂富集甜苷或生物转化甜苷，也不能泛写为“英国与欧盟全面批准罗汉果甜味剂”。[7] 新食品身份、添加剂用途和食品标签是相关但不同的法规问题。"
+              },
+              {
+                "type": "paragraph",
+                "text": "工程规格建议同时列明物种/部位、鲜干原料史、提取及纯化方式、甜苷V含量与计量基准、其他甜苷谱、糖类、载体、色泽、气味与水分；污染物、残留溶剂和微生物限度按适用市场建立。残糖低不自动等于可标示零糖，需计算成品每份与当地规则；供应商“50%甜苷V”也不说明其余50%是什么。对生物转化材料，还需单列形成过程和非目标转化产物身份。"
+              }
+            ]
+          },
+          {
+            "id": "insights",
+            "heading": "研究：下一步应优先研究感官、基质与动态工艺",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "已读取的证据形成三条不同证据链：EFSA给出申请材料工艺、模型稳定性与安全评估；FDA及FSA说明特定用途或特定材料的监管记录。[5][6][7] 原始III E论文摘要展示结构转化与树脂纯化的实验结果。[8]"
+              },
+              {
+                "type": "paragraph",
+                "text": "后一研究的结果属于III E而非普通甜苷V材料，且只在本次可读摘要的范围内报告。[8] 三条证据不能合并成一句“罗汉果科学证明安全有效、工业成熟”。"
+              },
+              {
+                "type": "paragraph",
+                "text": "研发建议把优先级从泛化健康功效移到更能改善产品的试验：第一，在同批果实水提液上比较酶处理前后过滤性和目标物回收，回答酶是否真正减少总成本；第二，用动态柱试验获取突破与分段洗脱曲线，回答在哪个收集窗口得到可接受风味与回收；第三，用真实饮料或乳制品开展等甜感官和储藏试验，回答高纯等级是否值得其额外成本；第四，验证基质加标回收，避免“稳定”实际上是检测方法不敏感。"
+              },
+              {
+                "type": "heading",
+                "text": "五角色交付物（工程建议）"
+              },
+              {
+                "type": "list",
+                "items": [
+                  "**研发：** 在真实基质和食用温度下的剂量—甜度、时间—强度与货架期感官数据，配实际甜苷谱。",
+                  "**生产工程：** 过滤负荷、柱突破、分段洗脱、再生循环和逐流股甜苷V质量衡算，解释纯度与收率的取舍。",
+                  "**采购：** 原生提取物、载体与糖类组成透明，按等甜使用成本和明确市场身份选样，而不是只比甜苷V百分比。",
+                  "**QA：** 对原料和成品分别验证分析方法，控制树脂/溶剂相关风险，核对法规文件的材料与使用边界。",
+                  "**品牌：** 讲清减少添加糖的配方角色、风味与来源；零糖/零能量等宣称由完整成品计算与当地法规支持，不借植物名保证。"
+                ]
+              }
+            ]
+          }
+        ],
+        "en": [
+          {
+            "id": "processes",
+            "heading": "Processing: aqueous decoctions and enriched mogrosides are different products",
+            "blocks": [
+              {
+                "type": "heading",
+                "text": "1.1 Start with retrieved process evidence"
+              },
+              {
+                "type": "paragraph",
+                "text": "The applicant materials assessed by EFSA in 2019 concerned water extracts of Siraitia grosvenorii fruit with different mogroside V contents. The 25% grade underwent water extraction, pectinase treatment, concentration and a resin column. Higher grades added redissolution and resin adsorption/elution purification. In that dossier, the 25% grade retained 3–6% saccharides including glucose, fructose and sucrose; additional resin treatment reduced saccharides below 1% in higher grades, with only glucose reported. These figures describe those applicant materials, not universal sugar specifications for every commercial 25% or 50% extract.[5]"
+              },
+              {
+                "type": "paragraph",
+                "text": "Higher mogroside purity is therefore not simply more evaporation. Mogroside V is an important component of the assessed extracts; sugar removal occurs in selective adsorption/elution, whereas concentration alone generally concentrates sugars and mogrosides together.[5] Procurement should separately identify fruit concentrate, non-selective decoction, mogroside-V-standardised extract and a tabletop blend containing bulking ingredients rather than treating every monk fruit powder as interchangeable."
+              },
+              {
+                "type": "heading",
+                "text": "1.2 Flow, purpose and material changes — engineering proposal"
+              },
+              {
+                "type": "paragraph",
+                "text": "**Fruit receiving/sorting → washing/moderate size reduction → water extraction → pectinase treatment → separation/clarification → optional concentration → resin adsorption → aqueous washing to remove sugars/impurities → suitable elution → solvent recovery/reconcentration → optional second purification → drying → standardisation by mogroside profile and carrier.** Pectinase, concentration, resin treatment and additional purification are supported by the dossier. Exact ordering, enzyme location, eluent and equipment must be validated for the proposed material; this schematic is not the applicant's fully disclosed manufacturing SOP.[5]"
+              },
+              {
+                "type": "paragraph",
+                "text": "At receiving, separately record fresh/dried status, maturity, damaged/decayed fruit, baseline sugars/mogroside V and moisture. Feed history changes the meaning of fresh- versus dry-mass yields. Size reduction opens tissue for water access and soluble-material transfer; excessive milling increases fines, filtration burden and non-target loading. Sorting visibly unacceptable fruit does not resolve pesticide or elemental-impurity risks, which require corresponding controls."
+              },
+              {
+                "type": "paragraph",
+                "text": "Water extraction transfers mogrosides and other water-extractable constituents into liquid. Use time-series target mass recovery, soluble solids and filterability to set the endpoint, not ever-higher soluble-solids readings. Pectinase modifies pectin networks and can be investigated for viscosity reduction and easier separation. Demonstrate value through viscosity, turbidity, filtration cycles and mogroside recovery. Define activity units, origin, dose and inactivation together; enzyme-assisted extraction alone is not a meaningful process description. The dossier establishes pectinase use but does not supply here a reproducible industrial dose–temperature–time recipe.[5]"
+              },
+              {
+                "type": "paragraph",
+                "text": "Clarification removes debris and some colloidal burden before the resin. If column pressure rises rapidly, investigate feed turbidity, colloids and pretreatment before increasing pump pressure. Adsorption exploits retention differences between targets and other solutes; do not switch tanks solely after a fixed number of hours. Record feed concentration, flow, bed volume, temperature, co-extractives and resin cycle count. Stop loading at a pre-defined mogroside V breakthrough criterion measured in effluent to limit target loss."
+              },
+              {
+                "type": "paragraph",
+                "text": "Sample washing and elution in fractions. Water washing removes unretained sugars and other solutes; it should not continue indefinitely until the lowest conductivity is achieved. Excess washing may consume water or lose weakly retained compounds. Elution transfers retained material into a collection stream using a solvent system suitable for the resin and intended use, followed by solvent recovery. Define collection windows through mogroside profile, residual sugars, colour and recovery: a broad cut may improve recovery but lower purity, while a narrow cut may create an impressive assay with poor overall yield."
+              },
+              {
+                "type": "paragraph",
+                "text": "If a second purification is added, specify whether it addresses sugars, colour, odour or mogroside distribution. EFSA records additional resin steps and lower saccharides in higher grades, not that greater purity always improves sensory quality.[5] Blind-test grades at equal sweetness rather than equal powder mass and relate differences to mogrosides, residual sugars and volatile characteristics. At drying, distinguish native extract from carrier-containing powder; “50% mogroside V” otherwise leaves uncertainty about native-extract dry basis, supplied-powder dry basis or as-is basis."
+              },
+              {
+                "type": "heading",
+                "text": "1.3 Route comparison"
+              },
+              {
+                "type": "table",
+                "headers": [
+                  "Route",
+                  "Material character",
+                  "Direct evidence",
+                  "Trade-off/failure mode"
+                ],
+                "rows": [
+                  [
+                    "Non-selective aqueous decoction",
+                    "Not designed to selectively enrich mogrosides; unlike resin-enriched material",
+                    "FSA decision specifically concerns fresh/dried-fruit non-selective decoctions[7]",
+                    "Novel-food status cannot automatically transfer to purified mogrosides; formulate from actual flavour and sugars"
+                  ],
+                  [
+                    "Water extraction plus one resin treatment",
+                    "The dossier's 25% mogroside V grade",
+                    "3–6% saccharides in those materials[5]",
+                    "Measure residual sugars, colour and odour; a grade name is not an industry-wide guarantee"
+                  ],
+                  [
+                    "Additional resin purification",
+                    "Higher-mogroside-V dossier materials",
+                    "Reported saccharides below 1%[5]",
+                    "More time, solvent and potential target loss; compare sensory quality and cost at target sweetness"
+                  ],
+                  [
+                    "Biotransformation plus resin",
+                    "Changes molecular structure rather than only concentration",
+                    "Ganoderma mycelium converted V to III E, followed by HP-20 enrichment[8]",
+                    "Identity and impurities change; V evidence does not automatically cover the product; abstract results are not industrial validation"
+                  ],
+                  [
+                    "Bulking-ingredient blend",
+                    "Formulated tabletop or partial sugar-replacement product",
+                    "Engineering option; no specific commercial blend verified here",
+                    "Bulking ingredients determine volume, energy, mouthfeel and label; a blend is not pure extract"
+                  ]
+                ]
+              },
+              {
+                "type": "heading",
+                "text": "1.4 Biotransformation: attach numbers to the correct product"
+              },
+              {
+                "type": "paragraph",
+                "text": "Chiu and colleagues used Ganoderma lucidum mycelium to convert mogroside V into mogroside III E through deglycosylation, reporting high β-glucosidase activity and metabolite identification by HPLC with mass spectrometry and NMR. HP-20 purification raised III E purity from 11.71% to 54.19% with 70–76% recovery. The abstract reports a scaled-up harvest of 17.38 g III E at 55.14% purity and 74.71% recovery. This research accessed the original abstract through Europe PMC, not the full methods; culture-vessel volume, enzyme dose and column flow are therefore not supplied, and gram-scale harvest is not called tonne-scale commercial validation.[8]"
+              },
+              {
+                "type": "paragraph",
+                "text": "Engineering interpretation: the experiment illustrates increased content versus changed identity. It did not concentrate unchanged mogroside V to 55%; it formed another mogroside and purified it. A similar development programme requires separate controls for before/after mogroside profiles, culture-medium residues, microbial-associated impurities and their removal. Those numbers cannot be copied into an ordinary mogroside V certificate of analysis."
+              }
+            ]
+          },
+          {
+            "id": "equipment",
+            "heading": "Equipment: both sides of the resin column determine cost",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Proposed functions: sorting/washing and cutting control foreign matter and particle loading; an agitated temperature-controlled extractor provides contact; the enzyme vessel records temperature, time and dosing; clarification reduces column solids; adsorption columns with fraction collection, flow and pressure monitoring make purity/recovery decisions traceable. Pectinase and resin are recorded dossier operations, but no equipment-vendor performance or company-owned line has been established here.[5]"
+              },
+              {
+                "type": "paragraph",
+                "text": "Move resin selection beyond a high batch adsorption percentage towards dynamic breakthrough, elution curves and repeated regeneration. Static bottle adsorption does not establish continuous column performance. The III E paper used kinetic fitting, dynamic adsorption and desorption experiments, offering a design direction without licensing invention of unread full-text parameters.[8] Production development should also examine bed compaction, channelling, bubbles during solvent switching and post-cleaning residues before attributing every batch difference to fruit composition."
+              },
+              {
+                "type": "paragraph",
+                "text": "Choose vacuum concentration and drying around actual solids, foaming, wall deposition and powder flow. A sugar-rich liquid and a largely desugared extract should not automatically share a dryer recipe. QA should use matrix-suitable mogroside V quantification and profiling, plus sugars, residues, microbiology and moisture. EFSA records an applicant HPLC-UV method for extract but no submitted food-matrix analytical method at that time. An ingredient assay is therefore not automatically validated for recovery from yoghurt, biscuits or beverages.[5]"
+              }
+            ]
+          },
+          {
+            "id": "applications",
+            "heading": "Applications: sweetness replacement and sugar functionality are separate tasks",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "**Reduced-sugar beverages.** Establish dose–sweetness and time–intensity curves against sucrose rather than applying one universal hundreds-times-sweeter factor. Examine onset, peak, lingering sweetness, bitterness and fruit-aroma effects at target acidity, carbonation and drinking temperature. Purity helps calculate mogroside V addition, but sensory equivalence need not be linear with content. Blind comparisons should be equisweet to avoid mistaking a sweeter sample for a better one. Any other sweetener or aroma combination must fit the destination's permitted uses, and stored sensory quality matters more than a freshly prepared water test."
+              },
+              {
+                "type": "paragraph",
+                "text": "**Yoghurt, protein drinks and plant-based products.** Use actual protein, fat and fermentation acidity; compare addition before/after fermentation, before/after heating and different dissolution sequences. Assess composition, sensory response and physical stability together: no sediment does not prove an unchanged sweetness profile, and retained mogroside V does not prove unchanged colour or flavour. When reducing sucrose also reduces solids, adjust viscosity and mouthfeel separately rather than increasing high-intensity sweetener to solve thinness."
+              },
+              {
+                "type": "paragraph",
+                "text": "**Bakery, frozen desserts and tabletop blends.** Design sweetness, bulk, water state, browning and texture separately. Small quantities of mogrosides can provide sweetness but cannot automatically replace the solids removed with a large sugar mass. Evaluate bulking/textural options and their label consequences for the product. Frozen products additionally need freezing-behaviour and serving-temperature sensory tests. Energy, measurability and moisture resistance of a tabletop blend depend on the whole formula; monk fruit content alone cannot make the entire pack sugar-free or zero-energy."
+              },
+              {
+                "type": "paragraph",
+                "text": "**Read processing tolerance correctly.** EFSA records applicant temperature/humidity, pH and heating tests on grades and model systems, while explicitly noting the absence of food stability data.[5] A short high-temperature model test cannot establish suitability for every baking temperature and duration; oven setpoint is not food-centre temperature. Validate the actual heat, storage, packaging and acidity combination using both finished-product content and sensory outcomes."
+              }
+            ]
+          },
+          {
+            "id": "standards",
+            "heading": "Standards and markets: distinguish the US, EU assessment, and England/Wales",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "**United States.** FDA's GRN 301 record concerns a specified fruit extract for sweetening and flavour enhancement in foods excluding meat and poultry under current good manufacturing practice, and for tabletop sweeteners. It records closure on 15 January 2010 and “FDA has no questions.” This concerns the notified GRAS conclusion; it is not blanket FDA approval of every monk fruit preparation and not an efficacy authorisation.[6]"
+              },
+              {
+                "type": "paragraph",
+                "text": "**EU food-additive assessment.** EFSA's 2019 opinion assessed submitted materials including 25–55% grades and concluded that the toxicological database was insufficient to conclude on safety as a food additive. Issues included metabolite genotoxicity information and testicular findings in a rat subchronic study whose adversity could not be excluded. That is neither proof that every dose is harmful nor an approval instrument.[5] It describes the application and evidence at that time, not a substitute for checking current EU authorisation of the proposed material. This profile does not claim an exhaustive review of every EU amendment through 2026."
+              },
+              {
+                "type": "paragraph",
+                "text": "**England and Wales.** FSA's 26 June 2024 decision states that non-selective aqueous decoctions from fresh or dried fruit are not novel and applies in England and Wales; it says FSS will issue its own Scottish determination. The consumption-history decision cannot automatically cover resin-enriched or biotransformed mogrosides and cannot be rewritten as full UK/EU approval of monk fruit sweeteners.[7] Novel-food status, additive purpose and labelling are related but different questions."
+              },
+              {
+                "type": "paragraph",
+                "text": "Proposed specifications identify species/part, fresh/dried history, extraction/purification, mogroside V and assay basis, other mogrosides, sugars, carrier, colour, odour and moisture. Set contaminants, solvent residues and microbiology under the applicable market framework. Low residual sugar does not automatically qualify a finished product for zero-sugar labelling; calculate serving composition against local rules. “50% mogroside V” does not explain the other 50%. Biotransformed material also needs formation-process and non-target-product identity documentation."
+              }
+            ]
+          },
+          {
+            "id": "insights",
+            "heading": "Research: prioritise sensory, matrix and dynamic-process questions",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "The retrieved evidence forms distinct chains: EFSA records applicant manufacturing, model stability and safety assessment; FDA/FSA describe specified notified uses or material status.[5][6][7] The original III E abstract reports structural conversion and resin purification.[8]"
+              },
+              {
+                "type": "paragraph",
+                "text": "Its experimental product is III E, not ordinary mogroside V, and only readable abstract-level details are reported here.[8] These chains cannot be collapsed into scientifically proven safe, effective and industrially mature."
+              },
+              {
+                "type": "paragraph",
+                "text": "Prioritise experiments that improve the product over broad health narratives. First, compare filtration and target recovery before/after enzyme treatment on the same fruit extract to test total-cost value. Second, obtain dynamic breakthrough and fractionated elution curves to find acceptable flavour and recovery windows. Third, run equisweet sensory and storage work in a real beverage or dairy matrix to determine whether higher purity earns its added cost. Fourth, verify matrix spike recovery so apparent stability is not merely an insensitive analytical method."
+              },
+              {
+                "type": "heading",
+                "text": "Role-specific deliverables — engineering proposals"
+              },
+              {
+                "type": "list",
+                "items": [
+                  "**R&D:** Dose–sweetness, time–intensity and stored sensory results in the real matrix and serving temperature, linked to mogroside profiles.",
+                  "**Production engineering:** Filtration load, breakthrough, fractionated elution, regeneration and target mass balances explaining purity/recovery choices.",
+                  "**Procurement:** Transparent native extract, carrier and sugar composition; choose on equisweet use cost and clear market identity, not V percentage alone.",
+                  "**QA:** Separately validated ingredient and food assays, resin/solvent-related controls, and regulatory documents matched to material/use boundaries.",
+                  "**Brand:** Explain the formulation role in reducing added sugar, flavour and origin. Zero-sugar/zero-energy claims require complete-formula calculations and local rules, not the plant name alone."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": 5,
+          "title": "EFSA monk fruit additive assessment (2019)",
+          "url": "https://doi.org/10.2903/j.efsa.2019.5921",
+          "accessed": "2026-09-09",
+          "scope": "official scientific assessment"
+        },
+        {
+          "id": 6,
+          "title": "FDA GRN 301 record",
+          "url": "https://hfpappexternal.fda.gov/scripts/fdcc/index.cfm?id=301&set=grasnotices",
+          "accessed": "2026-09-09",
+          "scope": "official regulatory record"
+        },
+        {
+          "id": 7,
+          "title": "FSA non-selective monk fruit decoctions decision (2024)",
+          "url": "https://www.food.gov.uk/other/non-selective-aqueous-decoctions-of-monk-fruit-determination-of-the-status-of-a-novel-food-pursuant-to-article-42-of-assimilated",
+          "accessed": "2026-09-09",
+          "scope": "official determination"
+        },
+        {
+          "id": 8,
+          "title": "Biotransformation and MG III E resin purification (2020)",
+          "url": "https://doi.org/10.1016/j.jfda.2019.05.001",
+          "accessed": "2026-09-09",
+          "scope": "primary research abstract"
+        }
+      ]
+    }
+  ],
+  "src/data/ingredient-reader-packs.json": [
+    {
+      "productId": "monk-fruit",
+      "approval": "editorial-reviewed",
+      "sourcePack": "a/monk-fruit/article.json",
+      "content": {
+        "en": [
+          {
+            "id": "identity",
+            "heading": "Material identity",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Monk fruit, Siraitia grosvenorii, contains mogrosides, a group of cucurbitane glycosides. Mogroside V is a principal sweet component in commercial enriched extracts. The useful food function is concentrated sweetness: a small amount can replace part of sugar’s sweetness, but not automatically its mass, texture or other physical functions.[20]"
+              },
+              {
+                "type": "paragraph",
+                "text": "Whole-fruit decoction, selectively enriched extract and a tabletop blend are different ingredients. A brown fruit infusion can suit a fruit-and-herbal flavour profile; a lighter, refined sweetener serves a different purpose. A granulated “monk fruit sweetener” may obtain most of its volume from another ingredient, so calculate the whole blend rather than treating it as pure mogrosides.[20][26]"
+              }
+            ]
+          },
+          {
+            "id": "effects",
+            "heading": "Effects and human research",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "In Tey and colleagues’ randomized crossover study, 30 healthy men consumed aspartame-, monk-fruit-, stevia- or sucrose-sweetened beverages; the sucrose comparison supplied 65 g sucrose. A standardized breakfast preceded the preload drink and an unrestricted lunch followed one hour later.[22]"
+              },
+              {
+                "type": "paragraph",
+                "text": "The sucrose drink produced a larger initial glucose and insulin response, but responses after lunch were higher with the non-nutritive sweeteners. Total three-hour glucose and insulin areas under the curve did not differ significantly among treatments. Energy saved in the drink was compensated at later meals, and total daily energy intake did not differ. The study supports a distinction between removing sugar from one drink and demonstrating an overall metabolic benefit; it was not a long-term trial in people with diabetes.[22]"
+              },
+              {
+                "type": "paragraph",
+                "text": "Antioxidant or anti-inflammatory findings from isolated mogrosides and laboratory models answer separate questions from sweetening a food. A formulation can be evaluated for sugar reduction, taste and storage stability without making those health claims. The 2019 EFSA assessment is a safety evaluation, not evidence of therapeutic benefit.[20]"
+              }
+            ]
+          },
+          {
+            "id": "components",
+            "heading": "Material forms and composition",
+            "blocks": [
+              {
+                "type": "table",
+                "headers": [
+                  "Form",
+                  "What processing changes",
+                  "Selection consequence"
+                ],
+                "rows": [
+                  [
+                    "Non-selective aqueous decoction",
+                    "Extracts fresh or dried fruit without targeted mogroside enrichment.[26]",
+                    "Retains a broader fruit matrix; assess colour, fruit notes and sugars."
+                  ],
+                  [
+                    "Fruit concentrate",
+                    "Removes water from an extract.",
+                    "Concentrating alone does not selectively remove sugar."
+                  ],
+                  [
+                    "Mogroside-V-standardized extract",
+                    "Uses selective purification such as adsorption and elution.[20]",
+                    "Specify V and the broader mogroside profile, residual sugars and sensory performance."
+                  ],
+                  [
+                    "Carrier or tabletop blend",
+                    "Combines extract with a bulking material or other sweeteners.",
+                    "The blend determines sweetness per gram, bulk, energy and label."
+                  ],
+                  [
+                    "Bioconverted mogrosides",
+                    "Changes glycoside structure; V-to-III E is one research example.[21]",
+                    "A different molecular profile needs its own identity and suitability assessment."
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "id": "applications",
+            "heading": "Application selection",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Sweetness-system development for drinks, fermented foods and reduced-sugar foods."
+              }
+            ]
+          },
+          {
+            "id": "formulations",
+            "heading": "Three product development plans",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "These pilot concepts separate sweetness replacement from the bulk and texture functions of sugar. Compare each finished product with a sucrose control at the same serving temperature."
+              }
+            ]
+          },
+          {
+            "id": "processes",
+            "heading": "Processing and equipment",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "For a fruit decoction, sorting, washing, controlled opening of the fruit, water contact and solid–liquid separation preserve a broad extract. An extraction tank controls time and temperature; a filter removes fruit tissue. Extra evaporation produces a concentrate, not selective mogroside enrichment. Record fresh or dried feed because yields on these bases are not comparable.[20][26]"
+              },
+              {
+                "type": "paragraph",
+                "text": "For enriched extract, EFSA’s dossier describes water extraction, pectinase treatment, concentration and a resin column for the nominal 25% V grade. Higher grades undergo additional dissolution and resin adsorption/elution. The dossier’s proposed 25% grade specification allowed 3–6% saccharides; higher-grade specifications were below 1%. These are dossier-specific specifications, not universal properties of all 25% or 50% materials.[20]"
+              },
+              {
+                "type": "paragraph",
+                "text": "Enzyme treatment should earn its place through lower viscosity, better filtration or improved target recovery. Set enzyme identity, activity units and inactivation conditions for the selected preparation. Before the resin, remove fine solids and colloidal burden; raising pump pressure does not correct an unsuitable feed. Follow mogroside V breakthrough in the outlet to decide when loading should stop.[20][13]"
+              },
+              {
+                "type": "paragraph",
+                "text": "During washing and elution, collect fractions and measure mogrosides, residual sugars, colour and recovery. A narrow fraction may be purer but discard more target; prolonged washing also consumes water and can lose weakly retained compounds. Column equipment serves this selective separation. Drying follows solvent recovery and fraction selection, with the carrier declared in the final assay.[13][20]"
+              }
+            ]
+          },
+          {
+            "id": "standards",
+            "heading": "Quality and safety",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Specify plant identity, fresh/dried feed, native-extract and carrier content, V assay basis, broader mogroside profile and residual saccharides. Compare grades at equal perceived sweetness in the intended food; equal powder mass favours the more concentrated material without answering whether it tastes better or costs less per acceptable serving."
+              },
+              {
+                "type": "paragraph",
+                "text": "EFSA’s 2019 assessment recorded stability studies but found the toxicity database insufficient to conclude on the proposed food-additive safety. That conclusion belongs to that assessment and is not a current global authorization statement. Ingredient assay, sensory stability and legal use are three separate acceptance criteria.[20]"
+              },
+              {
+                "type": "paragraph",
+                "text": "The FSA decision published on 26 June 2024 determined that non-selective aqueous decoctions of fresh or dried monk fruit were not novel, and explicitly applies to England and Wales. The defined material does not include every selectively enriched mogroside preparation. Match the manufacturing description and target market before transferring a regulatory status from one material to another.[26]"
+              }
+            ]
+          },
+          {
+            "id": "faq",
+            "heading": "Practical questions",
+            "blocks": [
+              {
+                "type": "heading",
+                "text": "Does a decoction decision cover enriched mogrosides?"
+              },
+              {
+                "type": "paragraph",
+                "text": "The FSA decision concerns non-selective aqueous decoctions and applies to England and Wales. Match the actual manufacturing route to that material definition.[26]"
+              }
+            ]
+          },
+          {
+            "id": "insights",
+            "heading": "Research cases",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Chiu and colleagues used Ganoderma lucidum mycelium to deglycosylate mogroside V toward mogroside III E, then purified the product using HP-20 macroporous resin. HPLC, mass spectrometry and NMR supported metabolite identification. The work changes molecular structure before separation; it is not simply purification of unchanged V.[21]"
+              },
+              {
+                "type": "paragraph",
+                "text": "Reported III E purity rose from 11.71% to 54.19%, with 70–76% recovery. At the larger scale, the study’s purification table reports 17.38 ± 0.44 g of product containing 55.14 ± 2.44% III E, with 74.71 ± 1.41% recovery. The resin charge was 150 g. Further scale-up would need to control the culture medium, microbial quality and conversion by-products as well as adsorption and fraction collection.[21]"
+              }
+            ]
+          },
+          {
+            "id": "patents",
+            "heading": "Relevant patents",
+            "blocks": [
+              {
+                "type": "heading",
+                "text": "WO2015168779A1"
+              },
+              {
+                "type": "paragraph",
+                "text": "PCT application publication (A1). Original applicant/assignee: ZHANG, Yong Luke; LI, Cunbiao Kevin (WO cover (71)/(72); c/o GLG Life Tech Corporation). Priority / filing / publication: 2014-05-08 / 2015-05-08 / 2015-11-12.[13]"
+              },
+              {
+                "type": "paragraph",
+                "text": "Published claim 1 passes a pre-prepared Siraitia extract through multiple serial columns packed with porous adsorbent resin and elutes V-containing fractions. Claim 5 specifies a primary-extract route including washed and mashed deseeded fruit, saccharification, extraction, filtration, concentration and centrifugation. Claim 6 adds optional colour, salt or impurity removal using membrane filtration, ion exchange or activated carbon. These dependent features should not be mistaken for mandatory elements of claim 1.[13]"
+              },
+              {
+                "type": "paragraph",
+                "text": "The WO front page identifies Yong Luke Zhang and Cunbiao Kevin Li as applicants, with a c/o GLG Life Tech Corporation address; the address organization is not a separately named applicant. US20170150745A1 is a national member of this family, not an additional independent family. The engineering value is staged adsorption and fraction selection, not a guarantee of the advertised purity.[13]"
+              },
+              {
+                "type": "heading",
+                "text": "BR112015002139B1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Brazilian patent grant (B1); Portuguese claims with English machine translation. Original applicant/assignee: Tate & Lyle Ingredients Americas Llc. Priority / filing / publication: 2012-08-01 / 2013-07-31 / 2020-03-10.[14]"
+              },
+              {
+                "type": "paragraph",
+                "text": "Granted Brazilian claim 1 combines V-containing monk fruit extract, rebaudioside A and rebaudioside B. It specifies extract:(Reb A + Reb B) at 51:49–99:1, V:Reb A at 41:59–99:1 and Reb B at least 2 wt% of the defined sweetener components, including any additional steviol glycosides. Both extract-level and active-level ratios matter; substituting a new V grade changes the latter even if extract weight is unchanged.[14]"
+              },
+              {
+                "type": "paragraph",
+                "text": "The record is a Brazilian grant, with original Portuguese claims and an English machine translation on Google Patents. Its relevance is sweetener composition and temporal taste design, distinct from the serial-column extraction family. It does not establish that all monk fruit–stevia combinations are covered or that this blend produces a clinical benefit.[14]"
+              }
+            ]
+          }
+        ],
+        "zh": [
+          {
+            "id": "identity",
+            "heading": "原料身份",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "罗汉果Siraitia grosvenorii含有罗汉果甜苷，属于葫芦烷型糖苷。罗汉果甜苷V是商业富集提取物中的主要甜味组分之一。它在食品中的实用作用是提供高强度甜味：少量即可替代部分蔗糖甜度，却不能自动替代蔗糖的质量、质构和其他物理功能。[20]"
+              },
+              {
+                "type": "paragraph",
+                "text": "全果煎煮液、选择性富集提取物和餐桌甜味剂复配料是不同原料。棕色果实煎液可用于果香草本风味，较浅色的精制甜味料则服务于另一类目标。颗粒状“罗汉果甜味剂”的大部分体积可能来自其他成分，计算时应看完整复配组成，而不是把它视作纯甜苷。[20][26]"
+              }
+            ]
+          },
+          {
+            "id": "effects",
+            "heading": "作用与人体研究",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Tey等的随机交叉研究让30名健康男性分别饮用阿斯巴甜、罗汉果、甜菊或蔗糖增甜饮料，蔗糖对照含65 g蔗糖。受试者先吃标准化早餐，再饮用试验饮料，一小时后自由进食午餐。[22]"
+              },
+              {
+                "type": "paragraph",
+                "text": "蔗糖饮料引起的早期血糖和胰岛素反应较大，但非营养性甜味剂组午餐后反应更高。四种处理的三小时血糖和胰岛素曲线下面积无显著差异；饮料中减少的能量在后续进食中得到补偿，全天能量摄入也无差异。该急性研究测量了健康男性的反应，未评价长期结局或糖尿病人群。[22]"
+              },
+              {
+                "type": "paragraph",
+                "text": "分离甜苷和实验模型中的抗氧化或抗炎发现，与食品增甜回答的是不同问题。配方可以围绕减糖、风味和储存稳定性开展评价，无需附加这些健康宣称。2019年EFSA文件属于安全评估，也不是治疗获益证据。[20]"
+              }
+            ]
+          },
+          {
+            "id": "components",
+            "heading": "原料形态与组成",
+            "blocks": [
+              {
+                "type": "table",
+                "headers": [
+                  "形态",
+                  "加工改变",
+                  "选择时的影响"
+                ],
+                "rows": [
+                  [
+                    "非选择性水煎液",
+                    "以鲜果或干果煎提，不定向富集甜苷。[26]",
+                    "保留较广果实基质，需评价颜色、果味及糖。"
+                  ],
+                  [
+                    "果实浓缩液",
+                    "从提取液中去水。",
+                    "单纯浓缩不能选择性除糖。"
+                  ],
+                  [
+                    "甜苷V标准化提取物",
+                    "通过吸附洗脱等选择性纯化。[20]",
+                    "需规定V及其他甜苷组成、残糖和感官表现。"
+                  ],
+                  [
+                    "载体粉或餐桌复配料",
+                    "提取物与填充成分或其他甜味剂组合。",
+                    "复配组成决定每克甜度、体积、能量和标签。"
+                  ],
+                  [
+                    "生物转化甜苷",
+                    "改变糖苷结构，V转为III E是研究实例。[21]",
+                    "不同分子组成需单独确认身份和适用性。"
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "id": "applications",
+            "heading": "应用选择",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "饮品、发酵食品与减糖食品的甜味体系开发。"
+              }
+            ]
+          },
+          {
+            "id": "formulations",
+            "heading": "三个终端产品配伍方案",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "以下中试方案分别处理甜度替代与糖的填充、质构作用。各成品应与蔗糖对照在相同食用温度下比较。"
+              }
+            ]
+          },
+          {
+            "id": "processes",
+            "heading": "工艺与设备",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "果实煎液可采用分选、清洗、受控破果、水接触及固液分离，保留广谱提取物。提取罐控制时间与温度，过滤移除果实组织。进一步蒸发得到的是浓缩液，不是选择性甜苷富集。原料应注明鲜果或干果，两种基准的得率不能直接比较。[20][26]"
+              },
+              {
+                "type": "paragraph",
+                "text": "富集提取物方面，EFSA申报资料描述了标称25% V规格的水提、果胶酶处理、浓缩及树脂柱工序；更高规格增加溶解与树脂吸附洗脱。资料中25%规格拟定糖类为3–6%，较高规格为低于1%。这些属于该申报资料的规格，不是所有25%或50%商品的普遍性质。[20]"
+              },
+              {
+                "type": "paragraph",
+                "text": "酶处理应通过降低黏度、改善过滤或提高目标物回收来体现价值。按选定酶制剂确定身份、活力单位和失活条件。树脂前先降低细颗粒与胶体负荷；提高泵压不能修复不适合上柱的进料。跟踪出口V穿透情况，以确定停止加载时点。[20][13]"
+              },
+              {
+                "type": "paragraph",
+                "text": "洗涤洗脱时分段收集，测定甜苷、残糖、颜色及回收率。较窄收集段可能更纯，也会丢弃更多目标物；过长水洗会耗水，并可能损失保留较弱的组分。柱设备服务于这种选择性分离。完成溶剂回收和分段选择后再干燥，最终含量需明确载体的计入方式。[13][20]"
+              }
+            ]
+          },
+          {
+            "id": "standards",
+            "heading": "质量与安全",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "规格应明确植物身份、鲜干原料、原生提取物与载体、V含量基准、其他甜苷组成及残留糖。在目标食品中按等感知甜度比较规格；等粉体质量比较只会偏向浓缩程度更高的原料，无法回答是否更好吃或每份合格产品成本更低。"
+              },
+              {
+                "type": "paragraph",
+                "text": "EFSA于2019年的评估记录了稳定性研究，但认为毒理数据库不足以对所申请食品添加剂用途的安全性作出结论。这是该次评估结论，不是现行全球许可状况的声明。原料含量、感官稳定和合法使用是三个不同的验收条件。[20]"
+              },
+              {
+                "type": "paragraph",
+                "text": "FSA于2024年6月26日发布决定，认定鲜果或干果制得的非选择性罗汉果水煎液不属于新食品，并明确适用于英格兰及威尔士。该材料定义并不包含所有选择性富集甜苷制剂。应先匹配制造说明与目标市场，再判断是否能够引用另一种材料的法规身份。[26]"
+              }
+            ]
+          },
+          {
+            "id": "faq",
+            "heading": "实用问答",
+            "blocks": [
+              {
+                "type": "heading",
+                "text": "水煎液的判定是否涵盖富集甜苷？"
+              },
+              {
+                "type": "paragraph",
+                "text": "FSA判定针对非选择性水煎液，适用于英格兰和威尔士。应将实际制造路线与该材料定义相匹配。[26]"
+              }
+            ]
+          },
+          {
+            "id": "insights",
+            "heading": "研究案例",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Chiu等采用灵芝Ganoderma lucidum菌丝体将罗汉果甜苷V脱糖基转向III E，再用HP-20大孔树脂纯化。HPLC、质谱和核磁共振用于支持代谢物鉴定。该路线在分离之前改变分子结构，并非仅纯化未改变的V。[21]"
+              },
+              {
+                "type": "paragraph",
+                "text": "研究报告III E纯度由11.71%提高到54.19%，回收率为70–76%。较大规模试验的纯化表报告获得17.38 ± 0.44 g产品，其中III E纯度为55.14 ± 2.44%，回收率为74.71 ± 1.41%；树脂用量为150 g。进一步放大还需控制培养基、微生物质量和转化副产物，以及吸附和分段收集过程。[21]"
+              }
+            ]
+          },
+          {
+            "id": "patents",
+            "heading": "相关专利",
+            "blocks": [
+              {
+                "type": "heading",
+                "text": "WO2015168779A1"
+              },
+              {
+                "type": "paragraph",
+                "text": "PCT申请公开（A1）. 原始申请人／受让人: ZHANG, Yong Luke; LI, Cunbiao Kevin (WO cover (71)/(72); c/o GLG Life Tech Corporation). 优先权日／申请日／公开日: 2014-05-08 / 2015-05-08 / 2015-11-12.[13]"
+              },
+              {
+                "type": "paragraph",
+                "text": "公开权利要求1将预制罗汉果初提液通入填充多孔吸附树脂的多个串联柱，再洗脱含V组分。权利要求5规定初提路线，包括清洗、去籽破碎、糖化、提取、过滤、浓缩和离心。权利要求6增加膜过滤、离子交换或活性炭处理，以去除颜色、盐或杂质。这些从属特征不能被误认为都是权利要求1的必要要素。[13]"
+              },
+              {
+                "type": "paragraph",
+                "text": "WO首页把Yong Luke Zhang与Cunbiao Kevin Li列为申请人，地址为转交GLG Life Tech Corporation；地址中的公司不是另列的申请人。US20170150745A1属于该家族的国家阶段成员，不能另算一个独立家族。工程参考价值在于分级吸附与分段选择，而非保证达到所述纯度。[13]"
+              },
+              {
+                "type": "heading",
+                "text": "BR112015002139B1"
+              },
+              {
+                "type": "paragraph",
+                "text": "巴西授权专利（B1）；葡萄牙语权利要求及英文机器翻译. 原始申请人／受让人: Tate & Lyle Ingredients Americas Llc. 优先权日／申请日／公开日: 2012-08-01 / 2013-07-31 / 2020-03-10.[14]"
+              },
+              {
+                "type": "paragraph",
+                "text": "巴西授权权利要求1组合含V罗汉果提取物、莱鲍迪苷A及莱鲍迪苷B。它规定提取物:(Reb A + Reb B)为51:49–99:1，V:Reb A为41:59–99:1，Reb B占所定义甜味组分（包括任何额外甜菊糖苷）的至少2 wt%。提取物层级和活性组分层级比例都重要；即使提取物质量不变，更换V规格也会改变后一比例。[14]"
+              },
+              {
+                "type": "paragraph",
+                "text": "该记录为巴西授权，Google Patents保存葡萄牙语原始权利要求及英文机器翻译。参考价值在于甜味组成与时间感官设计，不同于串联柱提取家族；它不表示所有罗汉果与甜菊组合都受其覆盖，也不证明该复配有临床获益。[14]"
+              }
+            ]
+          }
+        ]
+      },
+      "plans": [
+        {
+          "id": "citrus-sparkling",
+          "title": {
+            "en": "Citrus sparkling drink",
+            "zh": "柑橘气泡饮"
+          },
+          "content": {
+            "en": [
+              {
+                "type": "paragraph",
+                "text": "Pair a low-colour mogroside extract with citrus flavour, acidulant and, if useful, a second permitted sweetener. The extract supplies sweetness; the partner sweetener can be screened for onset and lingering taste rather than assumed to act synergistically. The Tate & Lyle family below specifies one monk fruit/Reb A/Reb B combination, not every monk fruit–stevia blend.[14]"
+              },
+              {
+                "type": "paragraph",
+                "text": "Prepare separate dilute sweetener stock solutions so small additions can be measured accurately. Blend into the water phase, add the acid and flavour system, then apply the selected beverage process. Carbonate after the appropriate cooling stage and evaluate the carbonated product, not only a still-water bench sample."
+              },
+              {
+                "type": "paragraph",
+                "text": "Measure sweetness onset, peak and aftertaste against sucrose, including acid bite and carbonic sharpness. Check haze, colour, mogroside recovery and flavour through the intended shelf life. EFSA records ingredient and model-system stability, but also the absence of a supplied food assay in the dossier; validate recovery in the actual drink.[20]"
+              }
+            ],
+            "zh": [
+              {
+                "type": "paragraph",
+                "text": "低色泽甜苷提取物配合柑橘风味、酸味剂，必要时加入另一种适用甜味剂。提取物提供甜味；第二甜味剂用于筛选起甜和后甜表现，不预设存在协同。下述Tate & Lyle家族规定一种罗汉果／莱鲍迪苷A／莱鲍迪苷B组合，并非所有罗汉果与甜菊混合物。[14]"
+              },
+              {
+                "type": "paragraph",
+                "text": "分别配制稀释甜味剂母液，便于准确计量小剂量加入。混入水相后加入酸味与风味体系，再采用选定饮料工艺。在适当冷却阶段后充气，评价充气成品，而不只评价静水小样。"
+              },
+              {
+                "type": "paragraph",
+                "text": "与蔗糖比较起甜、峰值甜度及后味，并纳入酸感和碳酸刺激。按目标货架期检查浑浊、颜色、甜苷回收及风味。EFSA记录了原料与模型体系稳定性，同时指出申报资料未提供食品中分析方法；应在真实饮料中验证检测回收。[20]"
+              }
+            ]
+          },
+          "image": {
+            "src": "/images/ingredient-plans/landscape/monk-fruit/citrus-sparkling.webp",
+            "width": 768,
+            "height": 512,
+            "alt": {
+              "en": "Sparkling citrus drink with monk fruit and citrus peel.",
+              "zh": "柑橘气泡饮、罗汉果与柑橘皮。"
+            },
+            "caption": {
+              "en": "Sparkling citrus drink with monk fruit and citrus peel.",
+              "zh": "柑橘气泡饮、罗汉果与柑橘皮。"
+            }
+          }
+        },
+        {
+          "id": "cultured-dessert",
+          "title": {
+            "en": "Vanilla cultured dairy dessert",
+            "zh": "香草发酵乳甜品"
+          },
+          "content": {
+            "en": [
+              {
+                "type": "paragraph",
+                "text": "Combine a standardized monk fruit extract with a yogurt or cultured-dairy base, vanilla and a separately selected solids or texture system. Monk fruit replaces sweetness; milk solids, protein and the chosen stabilizer provide structure. A higher V assay should not be assumed to improve taste at equal sweetness."
+              },
+              {
+                "type": "paragraph",
+                "text": "Develop and heat-treat the dairy base with its texture ingredients before fermentation. For a stirred product, evaluate a hygienically prepared sweetener/flavour premix added after fermentation alongside a pre-fermentation route. Keep acidification and culture performance under observation rather than assuming removing sucrose leaves fermentation unchanged."
+              },
+              {
+                "type": "paragraph",
+                "text": "Measure whey separation, viscosity, spoon texture, acidity and stored sweetness. Compare aftertaste at refrigerated serving temperature and check that vanilla does not conceal an unacceptable lingering note only in the fresh sample. The nutrition calculation must include lactose, any retained sugar and all bulking ingredients."
+              }
+            ],
+            "zh": [
+              {
+                "type": "paragraph",
+                "text": "标准化罗汉果提取物配合酸奶或发酵乳基底、香草及另行选择的固形物或质构体系。罗汉果替代甜味，乳固形物、蛋白质和所选稳定剂提供结构。V含量更高，不应被直接认定为等甜条件下风味更好。"
+              },
+              {
+                "type": "paragraph",
+                "text": "先加入质构成分开发乳基底，在发酵前完成热处理。搅拌型产品可比较发酵后加入卫生控制下制备的甜味／香味预混料，以及发酵前添加路线。持续观察产酸与菌种表现，不能假定去掉蔗糖后发酵完全不变。"
+              },
+              {
+                "type": "paragraph",
+                "text": "测定乳清析出、黏度、勺取质地、酸度与储存甜味。在冷藏食用温度下比较后味，并确认香草不是只在新鲜样中掩盖了难以接受的拖尾甜感。营养计算需包含乳糖、保留糖及全部填充成分。"
+              }
+            ]
+          },
+          "image": {
+            "src": "/images/ingredient-plans/landscape/monk-fruit/cultured-dessert.webp",
+            "width": 768,
+            "height": 512,
+            "alt": {
+              "en": "Vanilla cultured dairy dessert with monk fruit.",
+              "zh": "香草发酵乳甜品与罗汉果。"
+            },
+            "caption": {
+              "en": "Vanilla cultured dairy dessert with monk fruit.",
+              "zh": "香草发酵乳甜品与罗汉果。"
+            }
+          }
+        },
+        {
+          "id": "oat-cookie",
+          "title": {
+            "en": "Reduced-sugar oat cookie",
+            "zh": "减糖燕麦饼干"
+          },
+          "content": {
+            "en": [
+              {
+                "type": "paragraph",
+                "text": "Pair monk fruit extract with oats, flour, fat and a separately chosen bulking/humectant system. Retain enough conventional sugar if the target texture needs it. High-intensity sweetness cannot reproduce all of sugar’s effects on dough spread, browning and water management; select the physical replacement before increasing extract to fix a weak cookie."
+              },
+              {
+                "type": "paragraph",
+                "text": "Make a uniform low-dose extract premix with part of the dry carrier or flour. Prepare the fat and bulk-sweetener phase, incorporate the remaining dry ingredients and then the extract premix with controlled mixing. Use the intended bake profile, cool fully and package only after assessing moisture equilibration."
+              },
+              {
+                "type": "paragraph",
+                "text": "Compare spread, thickness, breaking force, surface colour, water activity and stored crispness against the sugar control. Check sweetness at the baked stage, not in raw dough. Any polyol or fibre used for bulk needs its own gastrointestinal-tolerance, nutrition and market-use review; those properties do not belong to monk fruit itself."
+              }
+            ],
+            "zh": [
+              {
+                "type": "paragraph",
+                "text": "罗汉果提取物配合燕麦、面粉、脂肪及另行选择的填充／保湿体系。若目标质地需要，可保留部分常规糖。高强度甜味不能再现蔗糖对面团摊展、褐变和水分管理的全部影响；产品结构不足时，应先选择物理替代方案，而非继续加提取物。"
+              },
+              {
+                "type": "paragraph",
+                "text": "用部分干载体或面粉制成低剂量提取物均匀预混料。准备脂肪和大宗甜味成分相，加入其余干料，再受控混入提取物预混料。采用实际烘烤曲线，充分冷却并评价水分平衡后再包装。"
+              },
+              {
+                "type": "paragraph",
+                "text": "与含糖对照比较摊展、厚度、断裂力、表面颜色、水分活度和储存酥脆度。甜度应在烘烤成品中评价，而不是生面团。用于填充的糖醇或纤维还需独立评价胃肠耐受、营养和市场使用要求，这些性质不能归到罗汉果本身。"
+              }
+            ]
+          },
+          "image": {
+            "src": "/images/ingredient-plans/landscape/monk-fruit/oat-cookie.webp",
+            "width": 768,
+            "height": 512,
+            "alt": {
+              "en": "Oat cookies with monk fruit and sweetener powder.",
+              "zh": "燕麦饼干、罗汉果与甜味粉。"
+            },
+            "caption": {
+              "en": "Oat cookies with monk fruit and sweetener powder.",
+              "zh": "燕麦饼干、罗汉果与甜味粉。"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": 13,
+          "title": "WO2015168779A1 - Methods of extraction and purification of luo han guo mogroside v, natural sweetener compositions therewith and uses of said composition",
+          "url": "https://patents.google.com/patent/WO2015168779A1/en",
+          "accessed": "2026-09-11"
+        },
+        {
+          "id": 14,
+          "title": "BR112015002139B1 - Sweetening composition comprising monk fruit extract comprising mogroside v, rebaudioside a and rebaudioside b, and food or drink composition",
+          "url": "https://patents.google.com/patent/BR112015002139B1/en",
+          "accessed": "2026-09-11"
+        },
+        {
+          "id": 20,
+          "title": "EFSA monk fruit safety assessment full text",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7008860/fullTextXML",
+          "accessed": "2026-09-11"
+        },
+        {
+          "id": 21,
+          "title": "Mogroside III E biotransformation primary full text",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13521049/fullTextXML",
+          "accessed": "2026-09-11"
+        },
+        {
+          "id": 22,
+          "title": "Tey 2017 randomized crossover trial abstract",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:27956737&format=json&resultType=core",
+          "accessed": "2026-09-11"
+        },
+        {
+          "id": 26,
+          "title": "FSA Article 4 decision: non-selective monk fruit decoctions",
+          "url": "https://www.gov.uk/government/publications/non-selective-aqueous-decoctions-of-monk-fruit-consultation-request-to-determine-novel-food-status-pursuant-to-article-42-of-retained-regulation-eu-20/non-selective-aqueous-decoctions-of-monk-fruit-determination-of-the-status-of-a-novel-food-pursuant-to-article-42-of-assimilated-regulation-eu-2",
+          "accessed": "2026-09-11"
+        }
+      ]
+    }
+  ],
+  "src/data/ingredient-knowledge.json": [
+    {
+      "productId": "monk-fruit",
+      "canonicalPath": "/plant-extracts/ingredients/monk-fruit",
+      "name": {
+        "en": "Mogroside profile and sweetness system",
+        "zh": "罗汉果甜苷图谱与甜味体系"
+      },
+      "sections": {
+        "processes": {
+          "heading": {
+            "en": "Extraction decisions: Mogroside profile and sweetness system",
+            "zh": "提取工艺：罗汉果甜苷图谱与甜味体系"
+          },
+          "text": {
+            "en": "Separate fruit extract, mogroside-enriched extract and a blended tabletop sweetener in the purchasing brief. Ask for extraction, purification and drying stages, mogroside V and total mogroside methods, and the full blend composition. GRN 000706 describes one notifier’s water extraction and resin/ethanol purification before concentration and drying. Juice concentrate, enriched extract and formulated sweetener therefore must not be treated as a single route. Ask what is retained or removed in each stream, then compare mogroside V, other mogrosides, sugars and blend ingredients. The notice is not a universal manufacturing protocol.",
+            "zh": "采购需求须区分果实提取物、富集甜苷提取物与复配餐桌甜味剂。索取提取、纯化与干燥阶段、罗汉果甜苷 V 及总甜苷检测方法，并披露完整复配成分。 GRN 000706 描述一家申报方的水提与树脂／乙醇纯化，再浓缩干燥。果汁浓缩液、富集提取物和复配甜味剂不能视为同一路线。应问每股物流保留或去除什么，再比较甜苷 V、其他甜苷、糖及复配成分。通知不是通用生产规程。"
+          },
+          "citations": [
+            2
+          ]
+        },
+        "equipment": {
+          "heading": {
+            "en": "Separate clarification, adsorption and drying duties",
+            "zh": "区分澄清、吸附与干燥任务"
+          },
+          "text": {
+            "en": "FDA’s GRN 000706 response describes the notifier’s hot-water extraction, filtration, adsorption-resin treatment, ethanol elution, concentration and spray drying; it is a specific disclosed route, not a recipe for all monk-fruit grades. In a supplier review, ask how a filter handles fruit solids and how a resin column changes the mogroside profile and removes accompanying material. An evaporator removes solvent; it does not replace selective adsorption. Compare liquid concentrate and spray-dried options against the intended blend, carrier and sensory brief. Request eluent recovery and resin-use documentation without assuming that ZL owns the equipment.",
+            "zh": "FDA 的 GRN 000706 回复描述申报方的热水提取、过滤、吸附树脂处理、乙醇洗脱、浓缩与喷雾干燥；这是特定披露路线，不是所有罗汉果规格的生产配方。供应商复核应询问过滤器如何处理果实固形物、树脂柱如何改变甜苷图谱并去除伴随物。蒸发器用于除去溶剂，不能替代选择性吸附。按复配组成、载体和感官目标比较浓缩液与喷干选项。索取洗脱剂回收和树脂使用记录，不假设振隆拥有这些设备。"
+          },
+          "citations": [
+            2
+          ]
+        },
+        "applications": {
+          "heading": {
+            "en": "Application trials: Mogroside profile and sweetness system",
+            "zh": "应用试验：罗汉果甜苷图谱与甜味体系"
+          },
+          "text": {
+            "en": "Compare sweetness onset, lingering taste and botanical notes across acid and heat conditions. A fruit review does not establish the authorization of every enriched grade. This material is optional for a sweetened concept and deliberately excluded from the unsweetened tea concept. Proposed development checks, not completed trials: agree the target market, final matrix and acceptance criteria before requesting samples. The cited reading concerns Siraitia grosvenorii fruit constituents, with attention to mogrosides; grades are heterogeneous.",
+            "zh": "在不同酸度与热处理条件下比较甜味起始、后味及植物风味。果实综述不代表每个富集规格均被许可。此材料可供有甜味概念讨论，但明确不纳入无甜味剂茶概念。以下属于开发核查建议，不是已完成试验：索样前约定目标市场、最终基质与验收指标。引用阅读的材料范围为：罗汉果果实成分，重点包括罗汉果甜苷；不同材料与商品规格并不相同。"
+          },
+          "citations": [
+            22
+          ]
+        },
+        "standards": {
+          "heading": {
+            "en": "US notice-specific use is not global monk-fruit permission",
+            "zh": "美国通知特定用途不等于罗汉果全球许可"
+          },
+          "text": {
+            "en": "FDA’s GRN 000706 letter addresses the notifier’s extract and intended sweetener uses, with infant formula and USDA-jurisdiction foods excluded. It records FDA’s response to a GRAS conclusion, not approval of ZL material. Compare the proposed fruit extract, mogroside profile and blend against the actual notice before using it as regulatory background. The FDA sweetener overview does not establish EU or Chinese eligibility; for EU work consult the current novel-food route and exact preparation rather than translating a US letter into global permission.",
+            "zh": "FDA 的 GRN 000706 函针对申报方提取物及拟定甜味剂用途，排除婴儿配方和美国农业部管辖食品。它记录 FDA 对 GRAS 结论的回复，不是振隆材料批准。作为法规背景使用前，应将拟用果实提取物、甜苷图谱与复配组成对照具体通知。FDA 甜味剂概览不确立欧盟或中国资格；欧盟项目须核对现行新食品路径与具体制备物，不能将美国函件转译成全球许可。"
+          },
+          "citations": [
+            2,
+            3,
+            8
+          ]
+        },
+        "insights": {
+          "heading": {
+            "en": "Research observation: Mogroside profile and sweetness system",
+            "zh": "研究观察：罗汉果甜苷图谱与甜味体系"
+          },
+          "text": {
+            "en": "Siraitia grosvenorii fruit constituents, with attention to mogrosides; grades are heterogeneous. Fruit chemistry and applications; the review does not establish local food permission or finished-product benefits. This is an editorial reading of a literature review, not a trial of the offered SKU. Follow the ingredient-filtered paper records below for the original title and evidence limits. Market-entry decisions require the standards review above; a research trend is not sales-volume evidence or a validated consumer benefit.",
+            "zh": "罗汉果果实成分，重点包括罗汉果甜苷；不同材料与商品规格并不相同。果实化学与应用综述；不能据此确定当地食品许可或成品的健康作用。这里是文献综述的编辑阅读，不是拟供规格的试验。下方按原料筛选的论文记录保留原始标题及证据边界。市场准入决定须结合上方标准复核；研究方向不代表销售规模证据，也不是经验证的消费者获益。"
+          },
+          "citations": [
+            22
+          ]
+        }
+      }
+    }
+  ]
+}

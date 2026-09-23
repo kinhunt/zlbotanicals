@@ -1,0 +1,808 @@
+[
+  {
+    "language": "en",
+    "paragraph": 1,
+    "text": "# Buying monk fruit: why 65 °Brix, 50% mogroside V and a 1:1 sugar replacement are different specifications",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 2,
+    "text": "A liquid concentrate, a high-mogroside powder and a spoonable sugar replacement can all arrive under the name “monk fruit.” Their headline numbers answer different questions. One describes a refractometer reading, another the concentration of a named compound, and another how the brand intends consumers to measure a finished blend.",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 3,
+    "text": "This distinction is visible in actual commercial documents. A FruitSource® concentrate specification lists **65±5 Brix** alongside **3.30–3.70% mogroside V**. Monk Fruit Corp lists an **MFC-E50, 50% Mogroside V Extract**. Lakanto describes its Classic erythritol–monk fruit product as a **cup-for-cup sugar replacement**.[4][2][8] Those figures are not competing measures of “purity.” Before comparing quotations, identify which kind of material each supplier has priced.",
+    "source_ids": [
+      2,
+      4,
+      8
+    ],
+    "claim_evidence_ids": [
+      "C02",
+      "C03",
+      "C05",
+      "C06"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 4,
+    "text": "## Four commercial examples, four different things to buy",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 5,
+    "text": "These are observations of supplier or brand documents, not tested samples, a representative market survey or an endorsement. The FruitSource document is dated 20 September 2021; it is a useful published specification example, not confirmation of today's release specification or stock.[4]",
+    "source_ids": [
+      4
+    ],
+    "claim_evidence_ids": [
+      "C03"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 6,
+    "text": "| Documented material | What the source actually states | What the buyer should not infer |\n|---|---|---|\n| FruitSource® Monk Fruit Concentrate, item AG6522 | Light to dark amber liquid; “Total Solids,” measured by refractometer, 65±5 Brix; “Total Mogroside V,” measured by HPLC, 3.30–3.70%; ingredient list: Luo Han Guo concentrate.[4] | 65% mogroside V, 65% measured sugars, or colourless performance in a clear drink. |\n| Monk Fruit Corp MFC-E50 | A powder extract grade identified as 50% mogroside V; the same page lists grades from 25% to 70% V.[2] | 100% isolated mogroside V, a full composition declaration, or a guaranteed sweetness multiplier for a finished drink. |\n| Matakana Monk Fruit Powder | Ingredients: 90% monk fruit extract, described as standardised to a minimum of 7% mogrosides, plus 10% maltodextrin. The description also calls it monk fruit juice powder.[5] | 90% mogroside V, 7% mogroside V, or a carrier-free powder. |\n| Lakanto Classic Monkfruit Sweetener with Erythritol | Two listed ingredients: erythritol and monk fruit extract; marketed to measure cup for cup like sugar.[8] | A cup of pure extract, a disclosed extract percentage, or identical behaviour to sucrose in every recipe. |",
+    "source_ids": [
+      2,
+      4,
+      5,
+      8
+    ],
+    "claim_evidence_ids": [
+      "C02",
+      "C03",
+      "C04",
+      "C05",
+      "C06"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 7,
+    "text": "The useful comparison is not “which brand has the biggest number?” It is **which specification describes the ingredient function you need**.",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 8,
+    "text": "## Read the concentrate on two axes, not one",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 9,
+    "text": "The FruitSource document is unusually helpful because it puts a solids-related reading and a compound assay on the same page, with different analytical methods.[4] Treat them as separate acceptance fields. A refractometer result cannot stand in for the HPLC result, and neither field supplies a complete sugar profile.",
+    "source_ids": [
+      4
+    ],
+    "claim_evidence_ids": [
+      "C03"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 10,
+    "text": "For a beverage developer, the amber appearance is also a real selection issue: the published specification explicitly permits light to dark amber liquid.[4] If the brief is a water-clear drink, ask for an agreed colour test at the intended dilution rather than assuming the word “juice” means visually neutral. If the brief welcomes a fruit-coloured or botanical appearance, the same characteristic may be acceptable. That is an application decision, not a quality ranking.",
+    "source_ids": [
+      4
+    ],
+    "claim_evidence_ids": [
+      "C03"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 11,
+    "text": "Handling belongs in the comparison as well. This particular document specifies refrigerated storage at 0–5°C in a properly sealed container away from direct sunlight, with a stated shelf life of 12 months.[4] Do not transfer those conditions to every monk fruit concentrate—or assume a dry extract and this concentrate can share the same storage plan. Obtain the current instructions for the exact product, including what changes after opening.",
+    "source_ids": [
+      4
+    ],
+    "claim_evidence_ids": [
+      "C03"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 12,
+    "text": "The published concentrate sheet does not explicitly identify the percentage assay as dry-basis or as-supplied. Before converting a quoted drum mass into grams of V, resolve that basis in writing. A missing basis is a question to close, not permission to choose the interpretation that makes the offer look better.",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 13,
+    "text": "## Purification and drying solve different problems",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 14,
+    "text": "A high-V powder is not adequately described as “juice with the water removed.” In an original separation study, dried fruit powder was first extracted twice with boiling water; the subsequent HZ 806 resin process used a deionized-water wash followed by 40% aqueous ethanol to elute the target compound.[6] Water extraction and selective separation were distinct operations in that experiment.",
+    "source_ids": [
+      6
+    ],
+    "claim_evidence_ids": [
+      "C07",
+      "C08"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 15,
+    "text": "This paper supplies a concrete reason to ask about the production route. It does **not** establish how any of the commercial products above were manufactured, and it did not validate their flavour. Likewise, seeing an ethanol elution step in a paper does not tell you the residual solvent in a delivered ingredient. Ask for the supplier's actual route and relevant specification rather than importing a laboratory protocol into the purchase order.",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 16,
+    "text": "There is a second distinction inside the word “pure.” A product can be an extract without an added carrier while still containing several native compounds. Conversely, a product with a high percentage of “monk fruit extract” can have a much lower percentage of any particular mogroside. On Monk Fruit Corp's page, “50%” refers specifically to V; on Matakana's page, “90%” refers to the extract ingredient fraction.[2][5] Those denominators must stay visible.",
+    "source_ids": [
+      2,
+      5
+    ],
+    "claim_evidence_ids": [
+      "C02",
+      "C04"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 17,
+    "text": "## A carrier is not the same as a bulk sweetener",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 18,
+    "text": "Matakana's declared maltodextrin and Lakanto's declared erythritol illustrate two different composition questions, not two interchangeable versions of “filler.” Matakana lists 10% maltodextrin in a powder whose other ingredient is monk fruit extract; Lakanto sells an erythritol–extract blend intended for cup-for-cup measurement.[5][8]",
+    "source_ids": [
+      5,
+      8
+    ],
+    "claim_evidence_ids": [
+      "C04",
+      "C05",
+      "C06"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 19,
+    "text": "For procurement, separate three lines:",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 20,
+    "text": "- **Extract identity:** which mogrosides are measured, by which method, and on what reporting basis?\n- **Added ingredients:** what is present besides the extract, and in what proportion?\n- **Intended function:** is the purchased material a concentrated sweetening component, a handling premix, or a finished bulk sugar-replacement system?",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 21,
+    "text": "The Matakana wording is especially instructive. “Minimum 7% mogrosides” does not say “7% mogroside V.” Nor does the page settle every analytical-basis question needed to calculate the final powder's V content.[5] Do not quietly multiply 90% by 7% and report the result as a verified V assay. Ask whether the standardisation belongs to the extract input or the finished powder and request a V-specific result if the project requires one.",
+    "source_ids": [
+      5
+    ],
+    "claim_evidence_ids": [
+      "C04"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 22,
+    "text": "A declared carrier is not evidence of adulteration. The procurement failure would be approving one composition and receiving another, or comparing two products as though their declared compositions were the same.",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 23,
+    "text": "## “Flavour” needs a separate description",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 24,
+    "text": "A material's taste, a named flavour ingredient and a sweetener blend are not synonyms. The commercial sources above establish different forms and compositions; they do not provide a controlled sensory ranking of all four materials. Monk Fruit Corp describes its concentrate as having a clean sweet taste without bitterness, while the FruitSource specification gives the much narrower sensory description “Sweet.”[1][4] These are supplier descriptions, not proof that either product will be neutral in your tea, dairy base or acid drink.",
+    "source_ids": [
+      1,
+      4
+    ],
+    "claim_evidence_ids": [
+      "C01",
+      "C03"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 25,
+    "text": "Ask what “flavour” means in the quotation. Is the supplier describing the extract's own sensory character, offering a separate flavour preparation, or proposing a blend containing flavouring? Request the full ingredient declaration before treating these as equivalent offers. The documents reviewed here do not establish a general composition for products sold as “monk fruit flavour.”",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 26,
+    "text": "Keep sweetness intensity, botanical character and unwanted finish as separate acceptance questions. A single V number cannot answer all three; the purchase decision should not depend on translating “clean taste” into an unmeasured promise.",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 27,
+    "text": "## Why one sweetness multiplier cannot set the purchase quantity",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 28,
+    "text": "A 2018 original study offers a more useful check than a universal “times sweeter” claim. It tested 16 sweetener systems with 40 adults, using filtered-water solutions and sweetness ratings on a general labelled magnitude scale. The monk fruit ingredient was **an extract containing 50.6% mogroside V**, not isolated pure V. Participants held a 15 mL sample for five seconds and rated sweetness before expectorating.[7]",
+    "source_ids": [
+      7
+    ],
+    "claim_evidence_ids": [
+      "C09",
+      "C10",
+      "C11",
+      "C12",
+      "C13",
+      "C14"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 29,
+    "text": "The paper's model-derived equal-sweetness concentrations changed with the sucrose target:[7]",
+    "source_ids": [
+      7
+    ],
+    "claim_evidence_ids": [
+      "C09",
+      "C10",
+      "C11",
+      "C12",
+      "C13",
+      "C14"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 30,
+    "text": "| Sucrose reference, % w/v | Monk fruit extract concentration, % w/v | Reported sweetness potency relative to sucrose |\n|---|---|---|\n| 5 | 0.0191 | 262 |\n| 10 | 0.0694 | 144 |\n| 15 | 0.141 | 106 |",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 31,
+    "text": "The numbers concern that extract and that water-test design. They are **not commercial beverage dosing recommendations**, a concentrate-to-powder conversion, or a test of liking, aroma or aftertaste. Their purchasing value is narrower and stronger: the same extract did not have one fixed relative sweetness across the target range.[7]",
+    "source_ids": [
+      7
+    ],
+    "claim_evidence_ids": [
+      "C09",
+      "C10",
+      "C11",
+      "C12",
+      "C13",
+      "C14"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "en",
+    "paragraph": 32,
+    "text": "For a quotation comparison, therefore, distinguish **equal marker mass** from **equal perceived sweetness**. The first is a composition calculation; the second needs product-specific sensory evidence. Neither can be replaced by comparing two supplier headline multipliers obtained under unspecified conditions.",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 33,
+    "text": "## Turn the distinction into a better sample request",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 34,
+    "text": "Instead of asking for “your best monk fruit,” state the decision:",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 35,
+    "text": "> We are comparing a liquid concentrate and an enriched powder for a specified beverage base. Please identify the exact product, current specification version, full ingredient composition, mogroside V result and reporting basis, other available mogroside and sugar data, colour specification and storage conditions. We will establish the required sweetness in our own base before comparing ingredient cost per batch.",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 36,
+    "text": "For a dry-mix or spoonable replacement, add the intended measurement basis and whether a premixed bulk ingredient is wanted. For a flavour-sensitive product, define which background note or finish is unacceptable instead of simply requesting “higher purity.”",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 37,
+    "text": "Only after an acceptable sample dose is established should a buyer multiply the **mass of the supplied ingredient actually needed** by its quotation and account for the project's handling requirements. No market price or universal saving follows from the public documents above.",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 38,
+    "text": "The practical result is a shorter, more meaningful shortlist: compare concentrates against the concentrate brief, enriched extracts against the high-intensity sweetening brief, and declared blends against the finished-system brief. The name “monk fruit” starts the discussion; the material identity closes it.",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "en",
+    "paragraph": 39,
+    "text": "",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 1,
+    "text": "# 罗汉果采购：65 °Brix、50%甜苷V和“等量代糖”，为什么不能放在一起比？",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 2,
+    "text": "同样叫“罗汉果”，供应商报来的可能是一桶浓缩液、一袋高甜苷粉，也可能是一包方便舀取的复配代糖。三个数字看起来都在表达“浓”，实际回答的却是三个问题：折光读数是多少、某一种化合物占多少、品牌建议怎样替代食糖。",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 3,
+    "text": "真实商业资料把这个差别写得很清楚：FruitSource®浓缩液规格同时列出 **65±5 Brix** 和 **3.30–3.70%罗汉果甜苷V**；Monk Fruit Corp的MFC-E50标为 **50%甜苷V提取物**；Lakanto Classic赤藓糖醇—罗汉果复配产品则主打 **按杯等量替代食糖**。[4][2][8] 这些并不是互相竞争的“纯度”。比较报价之前，应先确认报价对应的究竟是哪种材料。",
+    "source_ids": [
+      2,
+      4,
+      8
+    ],
+    "claim_evidence_ids": [
+      "C02",
+      "C03",
+      "C05",
+      "C06"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 4,
+    "text": "## 四份商业资料，实际在卖什么？",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 5,
+    "text": "下表是对供应商或品牌公开文件的观察，不是实购检测、市场代表性抽样或品牌推荐。其中FruitSource文件的批准日期为2021年9月20日，可作为公开规格实例，但不能据此确认今天的放行规格或库存。[4]",
+    "source_ids": [
+      4
+    ],
+    "claim_evidence_ids": [
+      "C03"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 6,
+    "text": "| 资料中的材料 | 原文明确写了什么 | 不能据此认定什么 |\n|---|---|---|\n| FruitSource® Monk Fruit Concentrate，货号AG6522 | 浅至深琥珀色液体；“Total Solids”用折光仪测定，65±5 Brix；“Total Mogroside V”用HPLC测定，3.30–3.70%；配料为罗汉果浓缩物。[4] | 不是65%甜苷V，也不是已测得65%糖，更不保证放进透明饮料后没有颜色。 |\n| Monk Fruit Corp MFC-E50 | 标为50%甜苷V的粉末提取物；同页另列25%至70% V的多个等级。[2] | 不是100%单体甜苷V，也不是完整组成声明，更不是成品饮料的固定甜度倍数。 |\n| Matakana Monk Fruit Powder | 配料为90%罗汉果提取物，括注标准化至至少7% mogrosides，另含10%麦芽糊精；介绍中也称其为罗汉果果汁粉。[5] | 不是90%甜苷V；“7% mogrosides”不能改写为7%甜苷V；也不是无载体粉。 |\n| Lakanto Classic Monkfruit Sweetener with Erythritol | 列出赤藓糖醇和罗汉果提取物两种配料，并以按杯等量代糖作为产品用法。[8] | 一杯产品不是一杯纯提取物；页面并未因此披露提取物比例，也不能保证在所有配方中完全复现蔗糖。 |",
+    "source_ids": [
+      2,
+      4,
+      5,
+      8
+    ],
+    "claim_evidence_ids": [
+      "C02",
+      "C03",
+      "C04",
+      "C05",
+      "C06"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 7,
+    "text": "采购最有用的问题不是“哪家的数字最大”，而是：**哪一项规格，真的对应我要买的功能？**",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 8,
+    "text": "## 浓缩液要分两条线看，不能只盯Brix",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 9,
+    "text": "FruitSource这份资料的价值在于：同一页同时列出固形物相关读数和单体含量，并分别注明折光仪与HPLC两种方法。[4] 验收时应保留为两个独立字段，不能用折光读数替代甜苷V含量；两者也都不是完整糖谱。",
+    "source_ids": [
+      4
+    ],
+    "claim_evidence_ids": [
+      "C03"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 10,
+    "text": "对饮料研发来说，颜色同样是实质性选型条件。这份规格允许的外观范围是浅至深琥珀色。[4] 如果做接近水白透明的饮料，应约定实际稀释倍数下的颜色要求，不能因为它叫“果汁”就默认视觉上中性。如果产品本来接受果汁色或植物色调，同一特征也可能完全可用。这是应用匹配，不是品质高低的排名。",
+    "source_ids": [
+      4
+    ],
+    "claim_evidence_ids": [
+      "C03"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 11,
+    "text": "储存条件也应纳入比价。该文件写明：在0–5°C冷藏、容器妥善密封并避开直射阳光，所列保质期为12个月。[4] 不能把这一要求套给所有罗汉果浓缩液，也不能默认这桶液体和一袋干粉采用同一仓储方案。采购时应索取具体产品的现行说明，特别确认开封后是否另有要求。",
+    "source_ids": [
+      4
+    ],
+    "claim_evidence_ids": [
+      "C03"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 12,
+    "text": "这张公开规格没有明确写出百分含量按干基还是按原样计。把一桶货的质量换算成甜苷V克数之前，应书面确认这一点。文件没写清楚，是待确认项，不是自行选择最有利算法的理由。",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 13,
+    "text": "## 纯化与干燥，不是在做同一件事",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 14,
+    "text": "高V粉末不能简单理解为“把果汁里的水去掉”。一项原始分离研究先将干燥果粉用沸水提取两次，随后在HZ 806树脂分离过程中用去离子水洗涤，再以40%乙醇水溶液洗脱目标组分。[6] 在这项实验里，水提取与选择性分离是明确分开的操作。",
+    "source_ids": [
+      6
+    ],
+    "claim_evidence_ids": [
+      "C07",
+      "C08"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 15,
+    "text": "论文能说明为什么采购时值得追问工艺，却不能证明上表任何商业产品都按这条路线制造，也没有验证这些产品的风味。同样，论文中出现乙醇洗脱，不代表交付原料的溶剂残留是多少。应索取供应商实际采用的路线及相关规格，而不是把实验室方法直接写进采购合同。",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 16,
+    "text": "“纯”字还容易混淆另一层意思：一款产品可以没有外加载体，却仍是含有多种原生成分的提取物；“罗汉果提取物占比很高”，也不等于某一种甜苷占比很高。Monk Fruit Corp的“50%”指V，Matakana的“90%”指配料中提取物所占比例。[2][5] 两个分母不能省略。",
+    "source_ids": [
+      2,
+      5
+    ],
+    "claim_evidence_ids": [
+      "C02",
+      "C04"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 17,
+    "text": "## 载体和大宗甜味配料，不宜都叫“填充物”",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 18,
+    "text": "Matakana声明的麦芽糊精，与Lakanto声明的赤藓糖醇，揭示的是不同的组成问题。前者是一款含10%麦芽糊精、其余配料为罗汉果提取物的粉末；后者是供消费者按杯量取的赤藓糖醇—提取物复配产品。[5][8] 不能把它们当成两种可以随意互换的“填充料”。",
+    "source_ids": [
+      5,
+      8
+    ],
+    "claim_evidence_ids": [
+      "C04",
+      "C05",
+      "C06"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 19,
+    "text": "询样时，最好把三件事分开写：",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 20,
+    "text": "- **提取物身份：**测哪些甜苷，用什么方法，结果按什么基准报告？\n- **外加配料：**提取物之外还有什么，各占多少？\n- **购买目的：**要的是高倍甜味组分、便于操作的预混料，还是已经配好的大宗代糖体系？",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 21,
+    "text": "Matakana的表述尤其值得留意。“至少7% mogrosides”并没有写成“7%甜苷V”，页面也没有解决计算成品V含量所需的全部检测基准问题。[5] 不能顺手用90%乘7%，再把结果当作已经核实的V含量。应先问清标准化指标针对提取物投料还是最终粉末；项目需要V时，再索取V的检测结果。",
+    "source_ids": [
+      5
+    ],
+    "claim_evidence_ids": [
+      "C04"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 22,
+    "text": "如实声明的载体不等于掺假。真正的采购问题是确认了一种组成却交付另一种，或者把已声明组成不同的两款货，当成同一种材料比较。",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 23,
+    "text": "## “风味”也要问清：是自身味道，还是另一种配料？",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 24,
+    "text": "原料本身的味道、单独供应的风味制剂、甜味剂复配料，不是同义词。上面的商业资料能证实不同形态与配料，却没有提供四种材料在统一条件下的感官排名。Monk Fruit Corp形容其浓缩液甜味干净、没有苦味；FruitSource规格对味道的描述则只有“Sweet”。[1][4] 这些是供方描述，不能直接证明某一款放进茶、乳基底或酸性饮料后依然风味中性。",
+    "source_ids": [
+      1,
+      4
+    ],
+    "claim_evidence_ids": [
+      "C01",
+      "C03"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 25,
+    "text": "报价单写“风味”时，应问清供应商是在描述提取物自己的感官特点，还是提供单独的风味制剂，或含香味配料的复配产品。完整配料声明到手之前，不宜将几种报价视为等价。此次查到的文件也不足以给所有名为“罗汉果风味”的商品下一个统一组成定义。",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 26,
+    "text": "验收上，把甜味强度、植物底味、不希望出现的后段味道分开讨论。一个V含量数字不能同时回答这三件事，也不应把“口感干净”自动转化为未经测量的承诺。",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 27,
+    "text": "## 为什么不能靠一个“甜度倍数”确定采购量？",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 28,
+    "text": "一项2018年的原始研究，比通用的“甜多少倍”更能揭示这个问题。研究让40名成年人评价16种甜味体系，以过滤水配制溶液，用广义标记强度量表评价甜味。其罗汉果样品是 **含50.6%甜苷V的提取物**，不是纯V单体。受试者每次含15 mL样品5秒，评价甜味后吐出。[7]",
+    "source_ids": [
+      7
+    ],
+    "claim_evidence_ids": [
+      "C09",
+      "C10",
+      "C11",
+      "C12",
+      "C13",
+      "C14"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 29,
+    "text": "论文根据拟合模型得到的等甜浓度，随蔗糖参照目标而变化：[7]",
+    "source_ids": [
+      7
+    ],
+    "claim_evidence_ids": [
+      "C09",
+      "C10",
+      "C11",
+      "C12",
+      "C13",
+      "C14"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 30,
+    "text": "| 蔗糖参照浓度，% w/v | 罗汉果提取物等甜浓度，% w/v | 相对蔗糖的报告甜度倍数 |\n|---|---|---|\n| 5 | 0.0191 | 262 |\n| 10 | 0.0694 | 144 |\n| 15 | 0.141 | 106 |",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 31,
+    "text": "这些数字属于该提取物和该水溶液实验，**不是商业饮料推荐添加量**，不是浓缩液与粉末的换算表，也没有测喜好度、香气或后味。它对采购的价值很具体：同一款提取物在不同甜度目标下，并没有一个恒定的相对甜度。[7]",
+    "source_ids": [
+      7
+    ],
+    "claim_evidence_ids": [
+      "C09",
+      "C10",
+      "C11",
+      "C12",
+      "C13",
+      "C14"
+    ],
+    "classification": "sourced assertion; see exact quotes and scope"
+  },
+  {
+    "language": "zh",
+    "paragraph": 32,
+    "text": "所以，比价时要区分 **等甜苷V质量** 与 **等感知甜度**。前者是组成核算，后者需要具体产品中的感官证据。两个供应商若没有披露测试条件，仅比较各自宣传的甜度倍数，不能代替这两项工作。",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 33,
+    "text": "## 把“要最好的罗汉果”改成可执行的询样需求",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 34,
+    "text": "一份更有用的询样描述可以这样写：",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 35,
+    "text": "> 我们拟在指定饮料基底中比较液体浓缩物与富集粉末。请提供准确产品名称、现行规格版本、完整配料组成、甜苷V结果及报告基准、可提供的其他甜苷和糖类数据、颜色规格及储存条件。我们会先在实际基底中确定所需甜度，再比较每批产品的原料成本。",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 36,
+    "text": "如果开发的是干混粉或方便舀取的代糖，应加上预期计量方式，以及是否需要供应商提供含大宗配料的预混体系。若产品对底味敏感，就说明哪种底味或收尾不可接受，而不只是笼统要求“纯度更高”。",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 37,
+    "text": "待试样确定可接受的投料量后，再用 **实际需要的供应原料质量** 乘以报价，并纳入项目自身的处理和储存要求。公开文件不能推出当前市场价格，也不能推出通用节省比例。",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 38,
+    "text": "最终的候选名单应更清楚，而不是更长：浓缩液按浓缩液的需求比较，富集提取物按高倍甜味组分的需求比较，已声明组成的复配料按完整体系比较。“罗汉果”三个字只能开始讨论，具体材料身份才能把采购条件落下来。",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  },
+  {
+    "language": "zh",
+    "paragraph": 39,
+    "text": "",
+    "source_ids": [],
+    "claim_evidence_ids": [],
+    "classification": "editorial framing, interpretation, recommendation or table continuation; not a measured trial result"
+  }
+]
