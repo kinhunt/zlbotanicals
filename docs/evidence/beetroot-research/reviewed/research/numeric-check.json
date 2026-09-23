@@ -1,0 +1,40 @@
+{
+  "2022_original_XML_a_star_and_pm": [
+    [
+      48.5,
+      0.9
+    ],
+    [
+      47.9,
+      1.0
+    ],
+    [
+      48.4,
+      0.6
+    ],
+    [
+      47.0,
+      2.8
+    ],
+    [
+      47.9,
+      2.4
+    ],
+    [
+      9.3,
+      1.1
+    ],
+    [
+      48.3,
+      3.2
+    ],
+    [
+      9.4,
+      1.6
+    ]
+  ],
+  "matches_both_revised_tables": true,
+  "2023_manual_XML_review": "T3 and T4 checked; 1.32,1.08,0.65 and 1.30,1.51,0.60; a*:20.84→11.04 vs21.76→6.69; b*:19.39→25.18 vs18.33→14.62",
+  "2024_figure1_conflict": "Text says undetectable at10min; plotted point slightly above baseline. Both revised texts disclose discrepancy.",
+  "dose": "50 U/g TVP retained; no conversion"
+}

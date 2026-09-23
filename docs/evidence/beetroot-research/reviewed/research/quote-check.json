@@ -1,0 +1,171 @@
+[
+  {
+    "id": "C01",
+    "source_ids": [
+      30
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/laccase-2022.txt"
+  },
+  {
+    "id": "C02",
+    "source_ids": [
+      23
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/beet-study.txt"
+  },
+  {
+    "id": "C03",
+    "source_ids": [
+      23
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/beet-study.txt"
+  },
+  {
+    "id": "C04",
+    "source_ids": [
+      23
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/beet-study.txt"
+  },
+  {
+    "id": "C05",
+    "source_ids": [
+      23
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/beet-study.txt"
+  },
+  {
+    "id": "C06",
+    "source_ids": [
+      23
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/beet-study.txt"
+  },
+  {
+    "id": "C07",
+    "source_ids": [
+      23
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/beet-study.txt"
+  },
+  {
+    "id": "C08",
+    "source_ids": [
+      30
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/laccase-2022.txt"
+  },
+  {
+    "id": "C09",
+    "source_ids": [
+      30
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/laccase-2022.txt"
+  },
+  {
+    "id": "C10",
+    "source_ids": [
+      30
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/laccase-2022.txt"
+  },
+  {
+    "id": "C11",
+    "source_ids": [
+      30
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/laccase-2022.txt"
+  },
+  {
+    "id": "C12",
+    "source_ids": [
+      30
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/laccase-2022.txt"
+  },
+  {
+    "id": "C13",
+    "source_ids": [
+      30
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/laccase-2022.txt"
+  },
+  {
+    "id": "C14",
+    "source_ids": [
+      28
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/jstage-full.txt"
+  },
+  {
+    "id": "C15",
+    "source_ids": [
+      28
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/jstage-full.txt"
+  },
+  {
+    "id": "C16",
+    "source_ids": [
+      28
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/jstage-full.txt"
+  },
+  {
+    "id": "C17",
+    "source_ids": [
+      28
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/jstage-full.txt"
+  },
+  {
+    "id": "C18",
+    "source_ids": [
+      28
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/jstage-full.txt"
+  },
+  {
+    "id": "C19",
+    "source_ids": [
+      28
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/jstage-full.txt"
+  },
+  {
+    "id": "C20",
+    "source_ids": [
+      31
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/laccase-supplement.txt"
+  },
+  {
+    "id": "C21",
+    "source_ids": [
+      28,
+      30
+    ],
+    "quote_matches_archive": true,
+    "source_file": "sources/laccase-affiliation.txt"
+  }
+]

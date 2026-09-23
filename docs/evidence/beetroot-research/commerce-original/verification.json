@@ -1,0 +1,35 @@
+{
+  "search_count": 12,
+  "search_success": true,
+  "products": {
+    "B0BGMGN7H4": {
+      "completed": true,
+      "success": true,
+      "asin_match": true,
+      "url_match": true,
+      "gallery_images": 7
+    },
+    "B01N20ON39": {
+      "completed": true,
+      "success": true,
+      "asin_match": true,
+      "url_match": true,
+      "gallery_images": 8
+    },
+    "B01ENMEXO4": {
+      "completed": true,
+      "success": true,
+      "asin_match": true,
+      "url_match": true,
+      "gallery_images": 10
+    }
+  },
+  "images_verified": true,
+  "images_count": 25,
+  "draft_links": {
+    "en": true,
+    "zh": true
+  },
+  "sensitive_identifier_scan": {},
+  "authority": "research files only; no publish or website source writes"
+}

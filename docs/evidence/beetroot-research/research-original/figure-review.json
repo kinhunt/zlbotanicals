@@ -1,0 +1,28 @@
+{
+  "reviewed": [
+    {
+      "file": "sources/laccase-supplement/41598_2022_5091_Fig1_HTML.jpg",
+      "observation": "Non-SBP groups remain red; SBP+LC groups brown outside, yellow-tan inside. Photos not quantitative color matching."
+    },
+    {
+      "file": "sources/beet-supplement/kosfa-43-5-889-g1.jpg",
+      "observation": "Raw/cooked panels and whole-patty photos show approximate resemblance, not exact equality. Used Table 3 for numeric comparisons."
+    },
+    {
+      "file": "sources/jstage-fig1.png",
+      "url": "https://www.jstage.jst.go.jp/article/fstr/30/2/30_FSTR-D-23-00182/_html/-char/Graphics/30_239_001.png",
+      "observation": "Dual y axes: residual activity percent left, internal temperature Celsius right; 10min ~85°C and baseline activity. Exact zero/detection threshold not established."
+    },
+    {
+      "file": "sources/jstage-fig3.png",
+      "url": "https://www.jstage.jst.go.jp/article/fstr/30/2/30_FSTR-D-23-00182/_html/-char/Graphics/30_239_003.png",
+      "observation": "Dashed polymerization arrow and endpoint Unknown polymers (Brown). No confirmed melanin identity."
+    }
+  ],
+  "downloaded_not_visually_reviewed": [
+    "2022 Fig2/3/4",
+    "2023 Fig2/3",
+    "2024 Fig2"
+  ],
+  "note": "No bar-height or peak-area extraction; numeric article content comes from original XML tables and text."
+}

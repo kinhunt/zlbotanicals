@@ -1,0 +1,23 @@
+[
+  {
+    "name": "supplier",
+    "url": "https://exberry.com/en/color-insights/new-carrot-based-color-enables-color-changing-red-meat-alternatives",
+    "final_url": "https://exberry.com/en/color-insights/new-carrot-based-color-enables-color-changing-red-meat-alternatives",
+    "status": 404,
+    "bytes": 110827
+  },
+  {
+    "name": "jstage",
+    "url": "https://doi.org/10.3136/fstr.fstr-d-23-00182",
+    "final_url": "https://www.jstage.jst.go.jp/article/fstr/30/2/30_FSTR-D-23-00182/_article",
+    "status": 200,
+    "bytes": 94069
+  },
+  {
+    "name": "jstage-full",
+    "url": "https://www.jstage.jst.go.jp/article/fstr/30/2/30_FSTR-D-23-00182/_html/-char/en",
+    "final_url": "https://www.jstage.jst.go.jp/article/fstr/30/2/30_FSTR-D-23-00182/_html/-char/en",
+    "status": 200,
+    "bytes": 160470
+  }
+]

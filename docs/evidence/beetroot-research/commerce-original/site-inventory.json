@@ -1,0 +1,81 @@
+{
+  "commit": "115d93addb8e1149b2a5ac147a10b182c024c888",
+  "blog_paths": [
+    "src/content/blog/en/acacia-fibre-emulsification.md",
+    "src/content/blog/en/astaxanthin-beverage-stability.md",
+    "src/content/blog/en/centella-cold-process-stability.md",
+    "src/content/blog/en/chicory-fibre-selection.md",
+    "src/content/blog/en/citrus-delayed-bitterness.md",
+    "src/content/blog/en/cocoa-selection.md",
+    "src/content/blog/en/cranberry-pac-purchasing.md",
+    "src/content/blog/en/elderberry-material-selection.md",
+    "src/content/blog/en/functional-mushroom-market-2026.md",
+    "src/content/blog/en/ginger-selection.md",
+    "src/content/blog/en/ginseng-heat-bitterness.md",
+    "src/content/blog/en/green-tea-energy-beverage-2026.md",
+    "src/content/blog/en/hesperidin-material-choice.md",
+    "src/content/blog/en/hibiscus-color-endpoints.md",
+    "src/content/blog/en/paprika-extract-format-selection.md",
+    "src/content/blog/en/pomegranate-flavour-selection.md",
+    "src/content/blog/en/reishi-sleep-market-2026.md",
+    "src/content/blog/en/saffron-identity.md",
+    "src/content/blog/en/stevia-temporal-sensory.md",
+    "src/content/blog/en/tea-haze-diagnosis.md",
+    "src/content/blog/en/turmeric-golden-milk-market-2026.md",
+    "src/content/blog/en/uk-sdil-milk-tea-2028.md",
+    "src/content/blog/en/vanilla-authentication.md",
+    "src/content/blog/en/vanilla-material-choice.md",
+    "src/content/blog/en/zero-calorie-sweetener-market-2026.md"
+  ],
+  "beet_matches": [
+    {
+      "file": "src/content/blog/en/pomegranate-flavour-selection.md",
+      "matches": [
+        "In this sample set, NFC juices were more associated with pomegranate-fruit, fresh-fruit and beetroot notes. From-concentrate juices were more associated with dried-fruit, candy, caramel, honey and cooked notes, while overall smell intensity was similar between the groups.<a href=\"#pomegranate-ref-1\">[1]</a> Calling one group “more aromatic” misses the point: both can have a noticeable aroma, but communicate a different kind of pomegranate."
+      ]
+    },
+    {
+      "file": "src/content/blog/zh/astaxanthin-beverage-stability.md",
+      "matches": [
+        "2024年的一项模型乳液研究比较了酪蛋白酸钠与甜菜果胶的两种组合方式：一种先制备蛋白稳定的乳液，再加入果胶；另一种在乳化前先将蛋白与果胶预混。<a href=\"#astaxanthin-ref-3\">[3]</a>",
+        "对于**即饮饮料**，从最终液体配方和预期包装出发。等渗饮料研究提供了橙红色样品的开发参考，酪蛋白酸钠—甜菜果胶研究则提示，加料顺序与组成值得一起比较。<a href=\"#astaxanthin-ref-1\">[1]</a><a href=\"#astaxanthin-ref-3\">[3]</a> 先在成品的实际pH和矿物盐组成下筛选分散体系，再让有潜力的样品经历拟采用的加工与贮藏条件。"
+      ]
+    },
+    {
+      "file": "src/content/blog/zh/pomegranate-flavour-selection.md",
+      "matches": [
+        "在这组样品中，NFC果汁更突出“石榴果实”“鲜果”和“甜菜”一类气味；浓缩还原汁则更突出“干制水果”“糖果”“焦糖”“蜂蜜”和“煮熟”一类气味，整体闻香强度却相近。<a href=\"#pomegranate-ref-1\">[1]</a> “更有香气”因此不够准确：两种汁都可能有明显香气，呈现的石榴风味却不同。"
+      ]
+    },
+    {
+      "file": "src/content/blog/zh/saffron-identity.md",
+      "matches": [
+        "2023年的另一项研究采用超高效液相色谱—高分辨串联质谱（UHPLC-HRMS/MS）建立化学指纹方法。研究涉及23份藏红花柱头样品和7份藏红花粉末，并考察了八种潜在植物替代物：红花、金盏花、姜黄、胭脂树、辣椒、山金车、甜菜和石榴。<a href=\"#saffron-ref-1\">[1]</a> 其中石榴的花瓣与种子分别研究，因此“植物材料的种类数”与“植物物种数”并不是同一个口径。<a href=\"#saffron-ref-1\">[1]</a>"
+      ]
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "matches": [
+        "              \"text\": \"关于果实组成的综述把多糖、甜菜碱、类胡萝卜素等作为不同化学家族讨论，并记录不同深加工路径。[9] 研发应按用途选材料：以果味、颜色和复溶为主时研究果汁粉；以某一多糖组分的结构与一致性为主时研究富集/分级材料；以玉米黄质递送为主时建立单独的色素测定与稳定性方案。叶多糖研究不得自动并入果多糖资料；文献里的植物部位是一个实质工艺变量，而非背景注释。\""
+      ]
+    },
+    {
+      "file": "src/data/extract-sales.ts",
+      "matches": [
+        "      \"zh\": \"明确多糖方法、游离糖校正及报告基准。甜菜碱和类胡萝卜素是独立指标，不是多糖的同义词。\""
+      ]
+    },
+    {
+      "file": "src/data/ingredient-overviews.json",
+      "matches": [
+        "      \"zh\": \"游离糖、多糖分子量与组成、甜菜碱及类胡萝卜素是不同目标。\""
+      ]
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "matches": [
+        "              \"text\": \"关于果实组成的综述把多糖、甜菜碱、类胡萝卜素等作为不同化学家族讨论，并记录不同深加工路径。[12] 研发应按用途选材料：以果味、颜色和复溶为主时研究果汁粉；以某一多糖组分的结构与一致性为主时研究富集/分级材料；以玉米黄质递送为主时建立单独的色素测定与稳定性方案。叶多糖研究不得自动并入果多糖资料；文献里的植物部位是一个实质工艺变量，而非背景注释。\""
+      ]
+    }
+  ]
+}

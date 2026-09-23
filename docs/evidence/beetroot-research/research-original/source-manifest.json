@@ -1,0 +1,52 @@
+[
+  {
+    "source_id": 23,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10493565/fullTextXML",
+    "type": "original research full text",
+    "files": [
+      "sources/beet-study.xml",
+      "sources/beet-study.txt"
+    ],
+    "scope": "myoglobin-removed beef model, not plant-based; methods results tables fully retrieved"
+  },
+  {
+    "source_id": 28,
+    "url": "https://www.jstage.jst.go.jp/article/fstr/30/2/30_FSTR-D-23-00182/_html/-char/en",
+    "type": "original research full HTML",
+    "files": [
+      "sources/jstage-full.html",
+      "sources/jstage-full.txt"
+    ],
+    "scope": "soy TVP patties, HPLC plus solution experiments; named supplier-affiliated authors at Amano Enzyme"
+  },
+  {
+    "source_id": 30,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8782913/fullTextXML",
+    "type": "original research full text",
+    "files": [
+      "sources/laccase-2022.xml",
+      "sources/laccase-2022.txt"
+    ],
+    "scope": "pea TVP patties; supplier-affiliated research, not independent multicentre validation"
+  },
+  {
+    "source_id": 31,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8782913/supplementaryFiles",
+    "type": "original supplementary zip / docx",
+    "files": [
+      "sources/laccase-supplement.zip",
+      "sources/laccase-supplement/41598_2022_5091_MOESM1_ESM.docx",
+      "sources/laccase-supplement.txt"
+    ],
+    "scope": "Table S1 dose and formulation; read full textual extraction"
+  },
+  {
+    "source_id": 29,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10493565/supplementaryFiles",
+    "type": "original image/supplement package",
+    "files": [
+      "sources/beet-supplement.zip"
+    ],
+    "scope": "Fig1 visually reviewed; supplement PDF archived but not used for claims"
+  }
+]
