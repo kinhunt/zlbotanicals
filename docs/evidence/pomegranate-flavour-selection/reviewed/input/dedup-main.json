@@ -1,0 +1,36 @@
+{
+  "ref": "78481c022d8dbf57db6fbd8885b03eca19b49f68",
+  "remote": "78481c022d8dbf57db6fbd8885b03eca19b49f68\trefs/heads/main",
+  "hits": {
+    "src/content/blog/en/saffron-identity.md": [
+      "A separate 2023 study developed a chemical-fingerprint approach using UHPLC-HRMS/MS. It examined 23 saffron stigma samples and seven saffron powders, alongside eight potential botanical adulterant species: safflower, calendula, turmeric, achiote, red pepper, mountain arnica, beet and pomegranate.<a href=\"#saffron-ref-1\">[1]</a> Pomegranate petals and seeds were examined separately, so a list of tested plant materials is not the same count as the list of species.<a href=\"#saffron-ref-1\">[1]</a>"
+    ],
+    "src/content/blog/zh/hibiscus-color-endpoints.md": [
+      "2014年的研究将洛神花（玫瑰茄）花萼水提液分别与芒果、番木瓜和番石榴果汁复配，生物活性成分的详细比较采用提取液占40%的配方。<a href=\"#hibiscus-ref-2\">[2]</a> 2015年，同一组四位作者又发表了洛神花—芒果饮料研究，比较玻璃瓶与塑料瓶，以及4°C和28°C下六个月的贮藏结果。<a href=\"#hibiscus-ref-3\">[3]</a> 两篇论文来自同一研究团队，属于相关研究，不能当作相互独立的重复验证。<a href=\"#hibiscus-ref-2\">[2]</a><a href=\"#hibiscus-ref-3\">[3]</a>"
+    ],
+    "src/content/blog/zh/saffron-identity.md": [
+      "2023年的另一项研究采用超高效液相色谱—高分辨串联质谱（UHPLC-HRMS/MS）建立化学指纹方法。研究涉及23份藏红花柱头样品和7份藏红花粉末，并考察了八种潜在植物替代物：红花、金盏花、姜黄、胭脂树、辣椒、山金车、甜菜和石榴。<a href=\"#saffron-ref-1\">[1]</a> 其中石榴的花瓣与种子分别研究，因此“植物材料的种类数”与“植物物种数”并不是同一个口径。<a href=\"#saffron-ref-1\">[1]</a>"
+    ],
+    "src/content/solutions/en/turmeric-golden-latte.md": [
+      "3. Compare sweetness and spice balance without a fixed inclusion recipe. Licorice is optional and requires glycyrrhizin safety review; ginger or pepper sourcing is not established by this concept."
+    ],
+    "src/content/solutions/zh/turmeric-golden-latte.md": [
+      "3. 不套用固定添加配方，比较甜度与香辛平衡。甘草为可选项且需甘草酸安全评估；本概念不确立生姜或胡椒供货。"
+    ],
+    "src/data/extract-sales.ts": [
+      "      \"en\": \"Bitterness and native solids matter in a citrus drink or ginger sachet; flow and blend uniformity matter in a capsule. Intended food use and population require market-specific review.\",",
+      "        \"en\": \"Ginseng formulation notes compare citrus drinks, ginseng–ginger sachets and capsule blends.\","
+    ],
+    "src/data/ingredient-reader-packs.json": [
+      "          \"en\": \"Ginseng ginger instant sachet\",",
+      "              \"text\": \"Select a dry ginseng extract with declared carrier content. Use ginger flavour as a sensory companion, a permitted sweetener to balance the cup, and an appropriate soluble carrier to support handling and dispersion. Ginger is a flavour choice here, not a demonstrated synergistic health treatment.\"",
+      "            \"en\": \"Ginseng ginger instant sachets with powder and prepared infusion.\",",
+      "            \"en\": \"Ginseng ginger instant sachets with powder and prepared infusion.\","
+    ],
+    "src/data/turmeric-formulations.ts": [
+      "      \"en\": \"Golden oat latte with oats, cinnamon and ginger\",",
+      "  {id:'plant-latte',title:'Plant latte or opaque beverage',combination:'Oat or soy base + a food-suitable curcumin dispersion + optional ginger or cinnamon for a spice-led flavour. A dispersion-development route pairs curcumin with MCT oil and an emulsifier system; lecithin is one candidate, not a guarantee of stability.',basis:'Kim et al. studied curcumin in MCT with Tween-20 alone or with soy lecithin or sorbitan monooleate. Their aqueous phase contained sodium azide and bis-tris buffer: use the work to understand phase preparation and droplet growth, not as a beverage recipe.[4]',process:'Trial sequence: prepare the pigment-containing oil phase and hydrate or disperse each emulsifier in its appropriate phase; premix, then homogenize. When using a purchased dispersion, first dilute it in a portion of the beverage base before blending into the batch. Compare the actual base before and after its intended heat treatment.',checks:'Keep the plant protein, salt level and acidity in the test matrix. Check flocculation, oil rings, sediment and particle growth through storage; compare bitterness, spice intensity and mouth coating against an uncoloured base. Choose light-protective packaging after a light-exposure comparison. Do not alkalize the drink just to dissolve the pigment.[10]'},",
+      "  {id:'instant-powder',title:'Instant latte powder',combination:'Oat or coconut powder + a carrier-containing curcumin powder + optional sugar and ginger. The base provides body and flavour; the curcumin preparation supplies colour. For carrier development, soluble starch, a permitted antioxidant such as tocopherol, and a fat are a disclosed combination rather than interchangeable dry-blend ingredients.',basis:'The OmniActive application describes curcumin, antioxidant, hydrophilic carrier and fat being processed together, followed by solvent removal and pulverization. Soluble starch, tocopherols and MCT appear among its claimed ingredient choices.[3]',process:'Trial sequence: obtain a documented carrier powder, sieve it with the base powders, make a small premix, then blend into the remaining batch. If developing the carrier itself, treat solvent processing and drying as a separate ingredient-manufacturing step. Adding starch to crystalline curcumin at the dry blender does not reproduce the disclosed preparation.',checks:'Compare blends at equal assayed curcuminoid content. Measure wetting, clumps and cup sediment using specified water temperature and stirring, then repeat after humid storage. Check powder moisture, caking, blend segregation and flavour; confirm residual-solvent compliance for solvent-processed carriers.'},"
+    ]
+  }
+}

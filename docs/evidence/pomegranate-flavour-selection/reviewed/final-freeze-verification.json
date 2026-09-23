@@ -1,0 +1,19 @@
+{
+  "checked_at_utc": "2026-09-23T07:22:16.524329+00:00",
+  "initial_snapshot_count": 45,
+  "author_freeze_file_count": 45,
+  "initial_snapshot_vs_author_freeze_mismatches": {},
+  "author_current_vs_freeze_mismatches": {},
+  "changed_existing_inputs": {},
+  "new_files_since_snapshot": [
+    "SHA256SUMS.json"
+  ],
+  "reviewed_sha256": {
+    "reviewed.en.md": "f1b4a681a4aff0fd231af275751cf48150427ab0e1e30dfe3c32d1c2ae65b36e",
+    "reviewed.zh.md": "f0c23b4b1fa74fd2fad26a1462ef10caf16942cfa4208308aef996a35e0228e7"
+  },
+  "original_draft_sha256": {
+    "draft.zh.md": "c78e308051e902fe77d179f2b0fef03cf05633c22f05ca670f96354f6e86f7bf",
+    "draft.en.md": "c9c49dcc1463fa847546a3dc4c3f5940fa4ad56e6438d90bcc1466d162cf0bda"
+  }
+}

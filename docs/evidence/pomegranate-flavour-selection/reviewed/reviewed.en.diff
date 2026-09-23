@@ -1,0 +1,25 @@
+--- frozen/draft.en.md
++++ reviewed.en.md
+@@ -30,7 +30,7 @@
+ 
+ In the commercial study, ICPJ7, a from-concentrate juice, had the highest total phenols at 3748.8 ± 19.8 mg GAE/L, but the sum of anthocyanins in Table 4 was only 0.8 ± 0.0 mg/L. NFC sample INCPJ8 contained 2614.0 ± 16.5 mg GAE/L total phenols and 280.6 ± 0.1 mg/L summed anthocyanins.[1] Total phenols were expressed as gallic acid equivalents, whereas anthocyanins were quantified using the paper's cyanidin-3-O-glucoside standard; these are not interchangeable quantities that can be subtracted from one another.[1]
+ 
+-The comparison shows why a total-phenol ranking cannot serve as a red-colour ranking. It does not measure the pigment loss caused by a particular process. The reported uncertainties come from two determinations, not variation across multiple production batches.[1]
++The comparison shows why a total-phenol ranking cannot serve as a red-colour ranking. It does not measure the pigment loss caused by a particular process. These values are means ± standard deviations from two determinations, not estimates of variation across production batches.[1]
+ 
+ NFC itself was no guarantee of pigment retention. Anthocyanins were not detected in INCPJ2, an HPP-treated NFC juice packaged in PET. The authors proposed residual enzyme activity and oxygen permeation as possible explanations, but this was not a controlled experiment holding juice, packaging and storage conditions constant.[1] Define the required finished-product colour directly rather than expecting “NFC” or “high polyphenols” to guarantee it.
+ 
+@@ -42,11 +42,11 @@
+ 
+ The ± values above are reproduced as published; the paper does not define them as standard deviations or standard errors for Table 4.[2]
+ 
+-The table therefore describes **improved acceptance with some loss of characteristic flavour**, not improvement in every attribute. The narrative says flavour and acceptability both improved, contradicting the table. The directions quoted here follow the actual table and should not be generalized to every pomegranate juice.[2]
++For this ten-person panel, the table describes **higher acceptability scores alongside lower characteristic-flavour scores**, rather than improvement in every attribute. The narrative says flavour and acceptability both improved, contradicting the table. The directions quoted here follow the actual table and should not be generalized to every pomegranate juice.[2]
+ 
+ The study also did not score astringency intensity as a separate sensory attribute: its “taste” row mixes descriptions such as “distinct bitterness” and “mild astringency.”[2] Bitterness and astringency deserve separate attention. The commercial-juice study's sensory lexicon defines bitterness as a caffeine- or quinine-like taste and astringency as a dry, puckering mouthfeel associated with tea leaves.[6]
+ 
+-If fresh pomegranate character is the aim, a deastringency trial should therefore consider what is being lost as well as whether acceptance rises. The tannase paper also has inconsistencies in concentration units and enzyme-inactivation conditions, so it is not an adequate basis for prescribing a production enzyme dose or time–temperature schedule.[2]
++If fresh pomegranate character is the aim, a deastringency trial should therefore consider what is being lost as well as whether acceptance rises. The tannase paper also reports conflicting concentration units and different enzyme-inactivation procedures in its preparation and orthogonal-experiment sections, so it is not an adequate basis for prescribing a production enzyme dose or time–temperature schedule.[2]
+ 
+ ## Turn the purchasing question into a flavour brief
+ 

@@ -1,0 +1,574 @@
+[
+  {
+    "language": "en",
+    "line": 1,
+    "original": "# Choosing pomegranate juice for beverages: fruit character, astringency and polyphenols can pull apart",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 3,
+    "original": "Start a pomegranate beverage brief by deciding what to preserve: fresh-fruit aroma, a deep red appearance, or a pronounced drying finish. These are not interchangeable targets. A study of eight commercial pure pomegranate juices found different aroma profiles in from-concentrate and not-from-concentrate products, despite similar overall smell intensity; a separate tannase study reported rising acceptability alongside falling characteristic-flavour scores.[1][2]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 5,
+    "original": "A useful selection strategy is to choose the flavour direction first, then decide which juice and, if necessary, which astringency-reduction treatment fits it. A polyphenol specification describes an ingredient. It does not make that decision for you.",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 7,
+    "original": "## First establish which pomegranate material is being compared",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 9,
+    "original": "The 2021 commercial study examined eight 100% pomegranate juices: four from concentrate and four not from concentrate (NFC). It did not compare four undiluted industrial concentrates with four single-strength juices; it also recorded differences in fruit origin, cultivation, concentration and stabilization technology.[1] Its per-litre measurements refer to the purchased juices, not to specifications for concentrated ingredients.",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 11,
+    "original": "NFC is not a fixed colour or sensory specification either. For example, a Sunmet NFC pomegranate juice technical sheet reviewed on January 7, 2025 specifies at least 14.5°Brix, acidity of 0.60–1.4% w/w as citric acid, bright dark-red colour, good clarity, and an acidic tang with sweetness.[5] Its turbidity limit is **below 100 NTU at 16°Brix**—the measurement condition belongs with the limit.[5] These are that supplier's documented requirements, not a universal NFC standard or measured results for a particular shipment.",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 13,
+    "original": "For a clear pomegranate drink, select juice samples whose colour, clarity and flavour match the brief rather than relying on the NFC label alone. If the formula will also contain a pomegranate extract, evaluate the juice and extract separately. A single polyphenol percentage should not stand in for two different ingredient decisions. The studies below concern juice; they do not establish an equivalent beverage dose for peel extract.",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 15,
+    "original": "## From-concentrate versus NFC can be a difference in character, not simply strength",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 17,
+    "original": "Ten trained assessors evaluated the eight commercial juices using descriptive sensory analysis. They rated appearance, smell, mouthfeel and taste on 9-cm unstructured line scales; this was not a consumer preference ranking.[1]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 19,
+    "original": "In this sample set, NFC juices were more associated with pomegranate-fruit, fresh-fruit and beetroot notes. From-concentrate juices were more associated with dried-fruit, candy, caramel, honey and cooked notes, while overall smell intensity was similar between the groups.[1] Calling one group “more aromatic” misses the point: both can have a noticeable aroma, but communicate a different kind of pomegranate.",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 21,
+    "original": "That observation suggests more useful sampling routes than declaring one format universally better:",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 23,
+    "original": "- **Fresh-fruit-led refreshing drinks:** make recognizable pomegranate-fruit character the first selection criterion, then compare suitable juices in the actual formulation.",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 24,
+    "original": "- **Cooked-fruit-led, darker-profile drinks:** consider dried-fruit, honey or caramel character part of the intended profile when appropriate, rather than automatically treating it as a defect.",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 25,
+    "original": "- **Polyphenol-fortified drinks:** establish an acceptable juice base before evaluating the additional extract. Changing both the juice source and fortification material at once makes sensory differences harder to interpret.",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 27,
+    "original": "These are proposed development routes, not three beverage formulas validated by the paper. The commercial products differed in origin, processing and packaging; their differences cannot all be assigned to concentration alone.[1]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 29,
+    "original": "## More total phenols does not necessarily mean more red pigment",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 31,
+    "original": "In the commercial study, ICPJ7, a from-concentrate juice, had the highest total phenols at 3748.8 ± 19.8 mg GAE/L, but the sum of anthocyanins in Table 4 was only 0.8 ± 0.0 mg/L. NFC sample INCPJ8 contained 2614.0 ± 16.5 mg GAE/L total phenols and 280.6 ± 0.1 mg/L summed anthocyanins.[1] Total phenols were expressed as gallic acid equivalents, whereas anthocyanins were quantified using the paper's cyanidin-3-O-glucoside standard; these are not interchangeable quantities that can be subtracted from one another.[1]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 33,
+    "original": "The comparison shows why a total-phenol ranking cannot serve as a red-colour ranking. It does not measure the pigment loss caused by a particular process. The reported uncertainties come from two determinations, not variation across multiple production batches.[1]",
+    "verdict": "REVISED",
+    "replacements": [
+      {
+        "old": "The reported uncertainties come from two determinations, not variation across multiple production batches.",
+        "new": "These values are means ± standard deviations from two determinations, not estimates of variation across production batches."
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "line": 35,
+    "original": "NFC itself was no guarantee of pigment retention. Anthocyanins were not detected in INCPJ2, an HPP-treated NFC juice packaged in PET. The authors proposed residual enzyme activity and oxygen permeation as possible explanations, but this was not a controlled experiment holding juice, packaging and storage conditions constant.[1] Define the required finished-product colour directly rather than expecting “NFC” or “high polyphenols” to guarantee it.",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 37,
+    "original": "## Reducing astringency can also change the pomegranate character",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 39,
+    "original": "A 2025 tannase study illustrates a useful trade-off. The researchers used a single 25-kg batch of pomegranates and prepared juice while retaining what the paper calls “30% of the aril membrane and peel by weight.”[2] The denominator of that 30% is not further specified: it should not be rewritten as “the finished juice contained 30% peel,” nor assumed to describe an ordinary aril-only juice.[2]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 41,
+    "original": "Ten food-science faculty members and students evaluated four sensory attributes, each with a maximum of 10 points. In Table 4, extending treatment from zero to 90 minutes raised the taste score from 5.40 ± 0.3 to 8.53 ± 0.2 and acceptability from 4.48 ± 0.2 to 7.92 ± 0.3. However, characteristic-flavour scores fell from 7.79 ± 0.4 to 6.80 ± 0.4, and colour scores fell from 7.24 ± 0.6 to 7.02 ± 0.3.[2]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 43,
+    "original": "The ± values above are reproduced as published; the paper does not define them as standard deviations or standard errors for Table 4.[2]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 45,
+    "original": "The table therefore describes **improved acceptance with some loss of characteristic flavour**, not improvement in every attribute. The narrative says flavour and acceptability both improved, contradicting the table. The directions quoted here follow the actual table and should not be generalized to every pomegranate juice.[2]",
+    "verdict": "REVISED",
+    "replacements": [
+      {
+        "old": "The table therefore describes **improved acceptance with some loss of characteristic flavour**, not improvement in every attribute.",
+        "new": "For this ten-person panel, the table describes **higher acceptability scores alongside lower characteristic-flavour scores**, rather than improvement in every attribute."
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "line": 47,
+    "original": "The study also did not score astringency intensity as a separate sensory attribute: its “taste” row mixes descriptions such as “distinct bitterness” and “mild astringency.”[2] Bitterness and astringency deserve separate attention. The commercial-juice study's sensory lexicon defines bitterness as a caffeine- or quinine-like taste and astringency as a dry, puckering mouthfeel associated with tea leaves.[6]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 49,
+    "original": "If fresh pomegranate character is the aim, a deastringency trial should therefore consider what is being lost as well as whether acceptance rises. The tannase paper also has inconsistencies in concentration units and enzyme-inactivation conditions, so it is not an adequate basis for prescribing a production enzyme dose or time–temperature schedule.[2]",
+    "verdict": "REVISED",
+    "replacements": [
+      {
+        "old": "The tannase paper also has inconsistencies in concentration units and enzyme-inactivation conditions, so it is not an adequate basis for prescribing a production enzyme dose or time–temperature schedule.",
+        "new": "The tannase paper also reports conflicting concentration units and different enzyme-inactivation procedures in its preparation and orthogonal-experiment sections, so it is not an adequate basis for prescribing a production enzyme dose or time–temperature schedule."
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "line": 51,
+    "original": "## Turn the purchasing question into a flavour brief",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 53,
+    "original": "A practical next step is to compare candidate juices at the same target drinking strength, retaining a record of each sample's original acidity. A separate formulation round can then establish whether adjusting sweetness and acidity resolves the problem. If the first problem is the wrong aroma character, change the juice candidate before attempting to deastringe it.",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 55,
+    "original": "A more useful purchasing brief might read:",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 57,
+    "original": "> We are selecting juice for a fresh-fruit-led pomegranate beverage. The target is recognizable pomegranate-fruit aroma rather than a predominantly caramel or cooked profile. Please provide NFC and reconstituted from-concentrate samples separately, stating reconstitution strength, the basis used to express acidity, juice origin and treatments already applied. If a pomegranate extract is also offered, list its plant part, composition specification and proposed evaluation approach separately from the juice.",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 59,
+    "original": "For a cooked-fruit-led product, substitute the desired dried-fruit, honey or caramel direction. The objective is not to identify an abstract “best pomegranate ingredient.” It is to choose the right flavour direction, then make explicit trade-offs among colour, drying mouthfeel and polyphenol specifications.",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 61,
+    "original": "## Sources",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 63,
+    "original": "[1] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8471094/fullTextXML — Chemical Composition, Antioxidant Activity, and Sensory Characterization of Commercial Pomegranate Juices (2021)",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 64,
+    "original": "[2] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11941192/fullTextXML — Study on the Effects of Tannase on the De Astringency of Pomegranate Juice (2025)",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 65,
+    "original": "[5] https://sunmetfruit.com/wp-content/uploads/2025/05/NFC-Pomegranate-Juice_TDS.pdf — Sunmet NFC Pomegranate Juice TDS, reviewed January 7 2025",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "en",
+    "line": 66,
+    "original": "[6] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8471094/supplementaryFiles — Supplementary files to commercial pomegranate juice study",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 1,
+    "original": "# 石榴饮料原料怎么选：果香、涩感和多酚不一定同向变化",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 3,
+    "original": "做一款石榴饮料，先明确要保留什么：鲜果般的香气、深红色，还是入口后较强的收敛感？不要把这几个目标合并成“石榴含量越高越好”。一项对八款市售纯石榴汁的研究发现，浓缩还原汁与非浓缩还原汁的香气类型不同，但整体闻香强度相近；另一项单宁酶研究中，接受度上升的同时，特征风味评分反而下降。[1][2]",
+    "verdict": "REVISED",
+    "replacements": [
+      {
+        "old": "不要把这几个目标合并成“石榴含量越高越好”。",
+        "new": "这几个目标需要分别考虑。"
+      }
+    ]
+  },
+  {
+    "language": "zh",
+    "line": 5,
+    "original": "更实用的选料思路，是先确定成品的风味方向，再决定用什么汁、是否需要脱涩。多酚指标可用来描述原料，却不能替代这一决定。",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 7,
+    "original": "## 先认清比较的是哪一种“石榴”",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 9,
+    "original": "2021年的市售果汁研究比较的是八款100%石榴汁：四款浓缩还原汁、四款非浓缩还原汁（NFC），而不是四桶浓缩汁与四桶原汁的直接比较；研究还记录了果实产地、种植方式、浓缩方式及杀菌方式。[1] 因此，文中的每升含量对应所购果汁，不能直接当作浓缩原料的规格。",
+    "verdict": "REVISED",
+    "replacements": [
+      {
+        "old": "而不是四桶浓缩汁与四桶原汁的直接比较",
+        "new": "而不是未稀释的工业浓缩汁与单倍果汁的直接比较"
+      }
+    ]
+  },
+  {
+    "language": "zh",
+    "line": 11,
+    "original": "原料端的“NFC”也不等于一套固定的颜色和口感。例如，Sunmet一份审核日期为2025年1月7日的NFC石榴汁技术规格书，将可溶性固形物列为最低14.5°Brix，酸度列为以柠檬酸计0.60%–1.4%（w/w），同时要求深红色、较好的澄清度及带甜感的酸味。[5] 其中浊度限值是**在16°Brix条件下低于100 NTU**，不能漏掉测量条件，理解成任何浓度下的限值。[5] 这是该供应商的文件要求，不是所有NFC石榴汁的统一标准，也不是对某批货的实测证明。",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 13,
+    "original": "这些信息对配方的意义很直接：如果要做清亮型石榴饮料，就应找颜色、澄清度和风味与目标相符的汁样，而不是只凭“NFC”三个字判断；如果还打算加入石榴提取物，果汁与提取物应分开选样，不要让一个多酚百分比替两种原料作决定。以下研究直接涉及果汁，并不提供果皮提取物在饮料中的等效用量。",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 15,
+    "original": "## 浓缩还原与NFC，区别可能是香气方向，而不只是浓淡",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 17,
+    "original": "八款市售果汁由10名受过训练的评价员进行描述性感官分析。研究采用9厘米长的非结构化线标度，评价颜色、气味、口腔感受和滋味；这不是消费者喜好排名。[1]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 19,
+    "original": "在这组样品中，NFC果汁更突出“石榴果实”“鲜果”和“甜菜”一类气味；浓缩还原汁则更突出“干果”“糖果”“焦糖”“蜂蜜”和“煮熟”一类气味，整体闻香强度却相近。[1] “更有香气”因此不够准确：两种汁都可能闻得到，闻到的却不是同一种石榴印象。",
+    "verdict": "REVISED",
+    "replacements": [
+      {
+        "old": "两种汁都可能闻得到，闻到的却不是同一种石榴印象。",
+        "new": "两种汁都可能有明显香气，呈现的石榴风味却不同。"
+      },
+      {
+        "old": "干果",
+        "new": "干制水果"
+      }
+    ]
+  },
+  {
+    "language": "zh",
+    "line": 21,
+    "original": "用这项观察安排试样，比简单给NFC或浓缩还原汁排高低更有价值：",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 23,
+    "original": "- **鲜果型清爽饮料**：把石榴鲜果感作为主线，优先筛选能呈现这一方向的汁样，再放进实际配方比较。",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 24,
+    "original": "- **熟果型、深色调饮料**：可把干果、蜂蜜或焦糖感纳入目标，不必一概视为缺陷，但要确认它是产品想要的风味。",
+    "verdict": "REVISED",
+    "replacements": [
+      {
+        "old": "干果",
+        "new": "干制水果"
+      },
+      {
+        "old": "熟果型、深色调饮料",
+        "new": "熟果风味饮料"
+      }
+    ]
+  },
+  {
+    "language": "zh",
+    "line": 25,
+    "original": "- **多酚强化型饮料**：先做出可接受的果汁基底，再单独考察提取物加入后的变化，避免同时更换汁源和强化原料，最后无法判断是哪一步改变了口感。",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 27,
+    "original": "这是根据风味差异提出的开发顺序，不是上述论文验证过的三套饮料配方。八款商品的产地、工艺和包装并未保持一致，不能把它们的差异全部归因于浓缩这一个步骤。[1]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 29,
+    "original": "## 多酚高，不代表颜色更红",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 31,
+    "original": "同一组市售果汁中，总酚最高的ICPJ7是浓缩还原汁：总酚为3748.8 ± 19.8 mg GAE/L，而表4所列花青素合计仅为0.8 ± 0.0 mg/L；NFC样品INCPJ8的总酚为2614.0 ± 16.5 mg GAE/L，花青素合计为280.6 ± 0.1 mg/L。[1] 这里的总酚采用没食子酸当量，花青素按论文的矢车菊素-3-O-葡萄糖苷标准定量，两者不是可以相减的同一种含量。[1]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 33,
+    "original": "这组对照说明：不能从总酚排名推导出红色表现的排名。它也没有证明某种工艺必然损失了多少色素——论文表格中的误差来自两次测定，不是多个生产批次之间的波动。[1]",
+    "verdict": "REVISED",
+    "replacements": [
+      {
+        "old": "它也没有证明某种工艺必然损失了多少色素——论文表格中的误差来自两次测定，不是多个生产批次之间的波动。",
+        "new": "这不是同一款汁加工前后的对照，不能用来计算某种工艺造成的色素损失。表中数值为两次测定的均值±标准差，不代表多个生产批次之间的波动。"
+      }
+    ]
+  },
+  {
+    "language": "zh",
+    "line": 35,
+    "original": "NFC本身也不是颜色保证。另一款经高压处理、装在PET瓶中的NFC样品INCPJ2未检出花青素；作者提出残余酶活性及包装透氧等可能解释，但这不是控制包装、果汁和储存条件后的因果试验。[1] 选料时，不妨把“想要什么红色”直接写入成品目标，而不是寄希望于“NFC”“高多酚”自动带来预期色泽。",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 37,
+    "original": "## 脱涩不只是减去一个味道，也可能改变石榴特征",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 39,
+    "original": "2025年的单宁酶研究提供了一个值得细看的取舍。研究用的是同一批25 kg石榴，制汁时保留了原文所称“按重量计30%的囊衣和果皮”。[2] 这个30%的分母没有进一步说明，不能擅自改写成“成品果汁含30%果皮”，也不宜把这种原料直接等同于普通纯籽粒汁。[2]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 41,
+    "original": "10名食品专业师生参与感官评价，每项满分10分。表4中，处理时间从0延长至90分钟时，口感评分由5.40 ± 0.3升至8.53 ± 0.2，接受度由4.48 ± 0.2升至7.92 ± 0.3；但特征风味评分由7.79 ± 0.4降至6.80 ± 0.4，色泽评分也由7.24 ± 0.6降至7.02 ± 0.3。[2]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 43,
+    "original": "上述±数值按原表保留；论文没有说明表4中的±代表标准差还是标准误。[2]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 45,
+    "original": "也就是说，这张表呈现的不是“什么都变好了”，而是**更容易接受，但部分石榴特征有所减弱**。论文正文称风味与接受度都提高，与表格存在冲突；这里保留表中实际列出的方向，不将其写成所有石榴汁都会发生的规律。[2]",
+    "verdict": "REVISED",
+    "replacements": [
+      {
+        "old": "也就是说，这张表呈现的不是“什么都变好了”，而是**更容易接受，但部分石榴特征有所减弱**。",
+        "new": "对这10名评价员而言，表中的结果是**接受度评分升高，特征风味评分降低**，而不是所有指标都改善。"
+      }
+    ]
+  },
+  {
+    "language": "zh",
+    "line": 47,
+    "original": "还要注意，这项研究没有把涩感作为独立的强度评分项目：表中“口感”一栏同时使用“明显苦味”和“轻微涩感”等描述。[2] 苦味与涩感应分开讨论；前述市售果汁研究的感官词表，就将苦味定义为类似咖啡因或奎宁的滋味，将涩感定义为类似茶叶带来的干燥、收敛口腔感受。[6]",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 49,
+    "original": "因此，如果目的是保留石榴鲜果感，脱涩试验不能只看接受度是否上升，还要看产品想保留的特征是否一起被削弱。该单宁酶论文在浓度单位和灭酶条件上另有不一致，不适合直接据此制定量产酶用量或时间温度参数。[2]",
+    "verdict": "REVISED",
+    "replacements": [
+      {
+        "old": "该单宁酶论文在浓度单位和灭酶条件上另有不一致，不适合直接据此制定量产酶用量或时间温度参数。",
+        "new": "该论文另有浓度单位冲突，制汁方法与正交试验章节记载的灭酶程序也不同，不适合直接据此制定量产酶用量或时间—温度参数。"
+      }
+    ]
+  },
+  {
+    "language": "zh",
+    "line": 51,
+    "original": "## 把选料问题改成“哪一种石榴风味适合这款产品”",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 53,
+    "original": "建议先让候选果汁在同一目标饮用浓度下比较，并保留各自原有酸度的记录；再通过另一轮配方调整，判断甜酸平衡是否能解决问题。如果首先遇到的是香气方向不合适，应先换汁样，而不是急着给同一款汁脱涩。",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 55,
+    "original": "在采购沟通中，可以把要求写得更具体：",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 57,
+    "original": "> 寻找用于鲜果型石榴饮料的果汁原料。希望保留石榴果香，不以明显焦糖或煮熟气味为主。请分别提供NFC及浓缩还原后的样品，说明复原浓度、酸度表示方式、果汁来源和已做的处理；如另有石榴提取物，请单列原料部位、成分规格及建议评估方式，不与果汁合并报价口径。",
+    "verdict": "REVISED",
+    "replacements": [
+      {
+        "old": "不与果汁合并报价口径",
+        "new": "与果汁分开说明"
+      }
+    ]
+  },
+  {
+    "language": "zh",
+    "line": 59,
+    "original": "对于偏熟果风味的产品，可以把这段要求中的风味目标换成干果、蜂蜜或焦糖方向。关键不是找到一款抽象的“最好石榴原料”，而是先选对风味方向，再决定颜色、收敛感和多酚指标之间怎样取舍。",
+    "verdict": "REVISED",
+    "replacements": [
+      {
+        "old": "干果",
+        "new": "干制水果"
+      }
+    ]
+  },
+  {
+    "language": "zh",
+    "line": 61,
+    "original": "## 参考资料",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 63,
+    "original": "[1] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8471094/fullTextXML — Chemical Composition, Antioxidant Activity, and Sensory Characterization of Commercial Pomegranate Juices (2021)",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 64,
+    "original": "[2] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11941192/fullTextXML — Study on the Effects of Tannase on the De Astringency of Pomegranate Juice (2025)",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 65,
+    "original": "[5] https://sunmetfruit.com/wp-content/uploads/2025/05/NFC-Pomegranate-Juice_TDS.pdf — Sunmet NFC Pomegranate Juice TDS, reviewed January 7 2025",
+    "verdict": "PASS",
+    "replacements": []
+  },
+  {
+    "language": "zh",
+    "line": 66,
+    "original": "[6] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8471094/supplementaryFiles — Supplementary files to commercial pomegranate juice study",
+    "verdict": "PASS",
+    "replacements": []
+  }
+]

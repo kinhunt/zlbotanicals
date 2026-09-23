@@ -1,0 +1,170 @@
+[
+  {
+    "source_id": 1,
+    "archive": "PMC8471094-readable.txt",
+    "claim": "Eight commercial juices, four CPJ/four NFC; table1 technologies",
+    "verbatim_quote": "Eight 100% PJs were selected, purchased at a store or online, and used for the experiments. The samples were as follows: ICPJ1 (Internet, from concentrate pomegranate juice), INCPJ2 (Internet, not from concentrate pomegranate juice), SNCPJ3 (Store, not from concentrate pomegranate juice), INCPJ4 (Internet, not from concentrate pomegranate juice), SCPJ5 (Store, from concentrate pomegranate juice), SCPJ6 (Store, from concentrate pomegranate juice), ICPJ7 (Internet, from concentrate pomegranate juice), and INCPJ8 (Internet, not from concentrate pomegranate juice). In Table 1, the fruit origin, agronomic, and technological characteristics are reported. Nutritional and energetic values are also reported in Table S1.",
+    "boundary": "Purchased beverage samples, not industrial concentrates; origin/process confounding."
+  },
+  {
+    "source_id": 1,
+    "archive": "PMC8471094-readable.txt",
+    "claim": "10 trained assessors; 9-cm unstructured line scale",
+    "verbatim_quote": "PJs were subjected to a descriptive–quantitative sensory analysis by a panel of 10 people previously trained in sensory analysis according to the ISO 8586: 2012 standard [59] and in the descriptive sensory evaluation of fruit juices and of pomegranate-based products. For the present study, the panel worked during two orientation sessions (90 min each), discussing the main sensory characteristics of commercial juices and pomegranate products. The lexicon used to describe positive attributes and off-flavours was based on that previously developed by other authors [18,60,61,62] and subsequently re-elaborated during the orientation sessions. The 37 selected attributes (Table S3) were divided into four groups, namely appearance, smell, texture/mouthfeel, and taste. All sessions were carried out in a sensory room at 20 °C under normal (warm or cold) lighting conditions. The samples were served in 90-mL covered odourless plastic cups at room temperature (Figure S1). Assessors received and tested the samples in a balanced order, reporting their quantitative evaluations on an unstructured scale, with a 9-cm-long line for each descriptor. The results were included in the multivariate statistical analyses (PCA and PLS models).",
+    "boundary": "Not consumers or a preference trial."
+  },
+  {
+    "source_id": 1,
+    "archive": "PMC8471094-readable.txt",
+    "claim": "Aroma directions and comparable smell intensity",
+    "verbatim_quote": "Analysing the results obtained by the olfactory sensory analysis (see Figure S2b,), we observed that the overall aromatic intensity of the juices was similar for both types but NCPJs were mostly characterized by the following sensations and relative values: 2.9–5.2 for ‘pomegranate,’ 2–3.5, for ‘fresh fruit,’ and 2–4.5 for ‘beetroot’ attributes, which can be related to the typical sensation of the fresh fruit [18,61,73]; on the contrary, the most representative olfactory attributes found in the CPJs were ‘dried fruit’ (2.8–5.5), ‘candies’ (1.7–4.3), ‘caramel’ (2.4–3.6), ‘honey’ (2.8–5), and ‘cooked’ (3.8–5.5), all of these potentially related to the Maillard reaction during the concentration process, which is usually responsible for the production of furans and the ‘caramel,’ ‘honey,’ and ‘cooked’ aromas [61].",
+    "boundary": "Observational comparison; do not infer concentration-only causation."
+  },
+  {
+    "source_id": 1,
+    "archive": "PMC8471094-readable.txt",
+    "claim": "ICPJ7 total phenols 3748.8 ± 19.8 mg/L",
+    "verbatim_quote": "ICPJ7 | 3748.8 ± 19.8f | 895.2 ± 1.6g | 23.9%",
+    "boundary": "GAE basis established in methods."
+  },
+  {
+    "source_id": 1,
+    "archive": "PMC8471094-readable.txt",
+    "claim": "INCPJ8 total phenols 2614.0 ± 16.5 mg/L",
+    "verbatim_quote": "INCPJ8 | 2614.0 ± 16.5g | 722.8 ± 3.6h | 27.7%",
+    "boundary": ""
+  },
+  {
+    "source_id": 1,
+    "archive": "PMC8471094-readable.txt",
+    "claim": "0.8 ± 0.0 vs 280.6 ± 0.1 mg/L summed anthocyanins",
+    "verbatim_quote": "Sum of anthocyanins | 47.7 ± 0.1a | n.d. | 74.5 ± 0.1b | 59.7 ± 0.1c | 1.6 ± 0.0d | 2.9 ± 0.0e | 0.8 ± 0.0f | 280.6 ± 0.1g",
+    "boundary": "Table4 all eight columns preserved; no false nd=zero conversion."
+  },
+  {
+    "source_id": 1,
+    "archive": "PMC8471094-readable.txt",
+    "claim": "GAE total phenol measurement",
+    "verbatim_quote": "The phenolic composition of PJs was evaluated by colorimetric methods using a Cary 100 Scan UV-Visible spectrophotometer (Varian, Walnut Creek, CA, USA). The polyphenols were determined with the Folin–Ciocalteu reagent, according to the Official Method of Analysis, and expressed as mg/L of gallic acid [49]. The analysis of the total tannins was performed by their precipitation with methylcellulose, according to the method proposed by Montedoro and Fantozzi [50].",
+    "boundary": ""
+  },
+  {
+    "source_id": 1,
+    "archive": "PMC8471094-readable.txt",
+    "claim": "Anthocyanin standard",
+    "verbatim_quote": "PJ (5 mL) was acidified with 0.1% hydrochloric acid, filtered with CA 0.45-μm syringe filters (Whatman, Clifton, NJ, USA), and injected into HPLC instrumentation consisting of an Agilent Technologies Model 1100 system with quaternary pump, degasser, autosampler, thermostated column compartment, UV-Vis photodiode detector (DAD), and fluorescence detector (FLD). The ChemStation, also from Agilent Technologies, in addition to controlling the entire instrumentation, performed the processing of the chromatographic data. HPLC analysis of anthocyanins was carried out as reported by Mazza et al. [51]; the column used was an Inertsil ODS-3 150 × 4.6 mm with a particle diameter of 5 µm (GL Sciences Inc., Torrance, CA, USA); the injection volume was 20 µL. For the determination of anthocyanins, the DAD was set to a wavelength of 525 nm. The identification of anthocyanins was carried out on the basis of retention times and the characteristics of the UV-Vis absorption spectrum were as described in the literature [52]. The quantitative evaluation of the anthocyanins present in PJ was performed using cyanidin-3-O-glucoside as a standard.",
+    "boundary": "This exact sentence is contained in full methods paragraph."
+  },
+  {
+    "source_id": 1,
+    "archive": "PMC8471094-readable.txt",
+    "claim": "Analytical duplicate uncertainty",
+    "verbatim_quote": "The results are the mean of two different determinations ± standard deviation. Different lowercase letters (a–h) in the column indicate that the data are significantly different with respect to each other (p < 0.001).",
+    "boundary": "Not independent manufacturing batches."
+  },
+  {
+    "source_id": 1,
+    "archive": "PMC8471094-readable.txt",
+    "claim": "NFC/HPP PET nondetection and author hypothesis",
+    "verbatim_quote": "Anthocyanins belong to the flavonoids class and are the main pigments found in the plant kingdom. Their colours vary from pink through red, purple, and blue, depending on the pH. Besides their use as natural food colourants, the potential health benefits of anthocyanins have been widely demonstrated in the prevention of cardiovascular, neurological, and other chronic diseases, exploiting their antioxidant and anti-inflammatory activities [8,19]. However, anthocyanins are characterized by a strong reactivity, and therefore undergo degradation reactions, mainly due to oxygen, light, temperature, enzymes, and storage time [17]. The anthocyanins determined during the analysis were delphinidin and cyanidin, both in the 3-glucuside and 3,5-diglucoside forms, except for INCPJ2 (Table 4). Unexpectedly, in the INCPJ2 sample (HPP-processed and packaged in a 200-mL PET bottle), anthocyanins were not detected. It could be supposed that HPP treatment did not induce total inactivation of the enzymes involved in the anthocyanin’s degradation. Thus, their residual activity was triggered by a low concentration of dissolved oxygen (due to the gas permeability of PET), causing the total degradation of these molecules. In fact, this loss was not observed in the HPP-treated sample that was stored in glass (INCPJ4).",
+    "boundary": "Packaging mechanism not established causally."
+  },
+  {
+    "source_id": 2,
+    "archive": "PMC11941192-readable.txt",
+    "claim": "Single batch, 30% membrane/peel, thermal inactivation",
+    "verbatim_quote": "The pomegranate fruits used in this study were purchased fresh from a local market. A single 25 kg batch of plump, undamaged fruits was obtained to provide uniform raw material for all the experiments. The preparation of pomegranate juice involved several key steps. First, a portion of pomegranate fruits was selected, washed thoroughly, and then juiced while retaining 30% of the aril membrane and peel by weight. The juice was filtered to obtain fresh pomegranate juice, which was then transferred into bottles, sealed, labeled, and stored at 4 °C for later use. For all the enzymatic hydrolysis experiments, 100 mL of pomegranate juice was used, and tannase was added before incubation in a shaking incubator at various temperatures. After the specified hydrolysis time, the enzyme was inactivated by heating to 90 °C for 5 min to stop the reaction. After cooling to room temperature, 10 mL of the pomegranate juice was transferred to a 15 mL centrifuge tube for subsequent analysis. Sensory evaluation of the pomegranate juice was performed for each sample, followed by further analysis or processing. A single-factor experimental design was used to systematically analyze the effects of the hydrolysis conditions on the punicalagin, ellagic acid, and gallic acid content in pomegranate juice. The enzyme concentration, hydrolysis temperature, and time were treated as independent variables, while other parameters, such as enzyme type, were held constant. All the experiments were conducted in triplicate.",
+    "boundary": "30% denominator not specified; §2.3 90°C 5 min."
+  },
+  {
+    "source_id": 2,
+    "archive": "PMC11941192-readable.txt",
+    "claim": "10-member food-science panel and max10",
+    "verbatim_quote": "A panel of 10 evaluators, comprising faculty members and students specializing in food science, conducted the assessment using a descriptive sensory analysis method. The pomegranate juice was evaluated based on four attributes: color, taste, flavor, and overall acceptability, with a maximum score of 10 points for each attribute. The sensory evaluation criteria are detailed in Table 2.",
+    "boundary": "Not broad consumer preference evidence."
+  },
+  {
+    "source_id": 2,
+    "archive": "PMC11941192-readable.txt",
+    "claim": "Table4 time columns",
+    "verbatim_quote": " | Time/min | 0 | 30 | 60 | 90 | 120",
+    "boundary": "Independent correction: original ledger accidentally quoted Table 3 factor header. Raw Table 4 header verified in XML foods-14-00985-t004; empty leading cell retained."
+  },
+  {
+    "source_id": 2,
+    "archive": "PMC11941192-readable.txt",
+    "claim": "Colour scores",
+    "verbatim_quote": "Color | Bright(7.24 ± 0.6) | Bright (7.20 ± 0.4) | Bright and uniform(7.12 ± 0.3) | Bright and uniform(7.02 ± 0.3) | Bright but slightly deep(6.80 ± 0.4)",
+    "boundary": ""
+  },
+  {
+    "source_id": 2,
+    "archive": "PMC11941192-readable.txt",
+    "claim": "Taste scores and conflated bitter/astringency labels",
+    "verbatim_quote": "Taste | Distinct bitterness(5.40 ± 0.3) | Distinct bitterness(6.13 ± 0.4) | Medium bitterness(7.48 ± 0.5) | Mild astringency(8.53 ± 0.2) | Mild astringency(8.60 ± 0.5)",
+    "boundary": ""
+  },
+  {
+    "source_id": 2,
+    "archive": "PMC11941192-readable.txt",
+    "claim": "Characteristic flavour decrease",
+    "verbatim_quote": "Flavor | Marked characteristic flavor(7.79 ± 0.4) | Marked characteristic flavor(7.20 ± 0.3) | Marked characteristic flavor(6.87 ± 0.3) | Slightly reduced characteristic flavor6.80 ± 0.4) | Diminished distinctive flavor6.58 ± 0.2)",
+    "boundary": ""
+  },
+  {
+    "source_id": 2,
+    "archive": "PMC11941192-readable.txt",
+    "claim": "Acceptability increase",
+    "verbatim_quote": "Acceptability | Unacceptable(4.48 ± 0.2) | Slightly acceptable(5.24 ± 0.4) | Moderately acceptable(6.93 ± 0.6) | Acceptable(7.92 ± 0.3) | Acceptable(7.94 ± 0.2)",
+    "boundary": ""
+  },
+  {
+    "source_id": 2,
+    "archive": "PMC11941192-readable.txt",
+    "claim": "Narrative-table conflict",
+    "verbatim_quote": "Color, taste, flavor, and acceptability are critical indicators for the consumer evaluation of juice products. Pomegranate juice without the addition of tannase exhibits a relatively deep color and pronounced bitterness, which may reduce its acceptability among consumers. In contrast, the pomegranate juice beverage prepared under the experimental conditions displays a bright, uniform color, with a mild taste and balanced acidity. The characteristic flavor is distinctly noticeable, complemented by a pleasant level of bitterness. As shown in Table 4, in terms of color, as the enzymatic hydrolysis time increased, the pomegranate juice gradually turned a light brown, resulting in slightly lower scores. Regarding taste, the juice developed a pleasant balance of sweetness and acidity over time, achieving the highest scores. Additionally, with longer enzymatic hydrolysis, the flavor and acceptability of the juice showed significant improvement, with both attributes receiving higher scores at 90 min, making the juice more popular among consumers.",
+    "boundary": ""
+  },
+  {
+    "source_id": 2,
+    "archive": "PMC11941192-readable.txt",
+    "claim": "Second enzyme inactivation treatment: boiling water10min",
+    "verbatim_quote": "Based on the results of single-factor experiments, the enzyme dosage, enzymatic hydrolysis time, and enzymatic hydrolysis temperature were selected as the main influencing factors. The content of punicalagin was used as the primary evaluation index, along with the concentrations of ellagic acid and gallic acid in the pomegranate juice. An L9 (34) orthogonal experiment was conducted to identify the optimal clarification process. The factors and levels for the orthogonal experiment are shown in Table 1. After the reaction completed, the pomegranate juice was immersed in boiling water for 10 min to pasteurize and inactivate residual enzymes and cooled in an ice water bath.",
+    "boundary": ""
+  },
+  {
+    "source_id": 5,
+    "archive": "sunmet-nfc.txt",
+    "claim": "Supplier specification, not measured stock",
+    "verbatim_quote": " \nTitle \nNFC Pomegranate Juice  \nDocument Number  \nFG- QA-TDS-043 \nReview Date: January 07, 2025 \nRevision No: New \n \nPage 1 of 1 \nApproved By: David Medeiros \nRevision Date: N/A \n \n \nProduct Description: Pomegranate Juice is prepared from wholesome raw materials suitable for use in food products. This product \ncontains no added sugars, acid, flavor, preservatives, or color. This product complies with the Federal Juice HACCP Regulation 21 \nCFR Part 120. \n \nKosher Designation: This product is designated Kosher Pareve in accordance with the Orthodox Union or rabbinical associations \nrecognized by the Orthodox Union. \n \nRaw material Description: \n• \nProcessed from freshly harvested California (USA) grown Pomegranates (Punica Granatum)  \n• \nIdentification Method: Fruit inspection at Sunmet Juice Co. manufacturing plant in Tulare, California \n \n \nCHEMICAL/PHYSICAL \nSPECIFICATON \nMETHOD \nBrix (Soluble Solids) \n14.5° minimum \nRefractometer \npH  \n2.5 to 3.8  \npH Meter \nAcidity \n \n0.60 to 1.4 % w/w as citric \nTitration \nTurbidity \n<100 NTU @ 16°Brix \nTurbidimeter  \nAppearance \nNatural for Pomegranates; bright dark \nred color, good clarity \nVisual Evaluation \nFlavor/Odor \nTypical of Pomegranates, acidic tang \nwith sweetness, free from fermented, \nmetallic, or other objectionable flavors or \nodors \nSensory Evaluation \n \n \nMICROBILOGICAL  \nSPECIFICATON \nMETHOD \nAerobic Plate Count \n<1000 CFU/g \nAOAC 990.12 \nColiform \n<10 CFU/g \nAOAC 991.14 \nYeast \n<100 CFU/g \nAOAC 2014.05 \nMold \n<100 CFU/g \nAOAC 2014.05 \n \n \nLot Code Format:  \n[fruit code (PO), NFC designation (J), Julian date, last digit of the year]    \n e.g.: POJ3219 = Pomegranate Juice NFC produced on 321st day of 2019 \n \n \n                                                                                  \n   Packaging \n• Steel open head drums, 50-gallon fill.  \n• High-Density Polyethylene (HDPE) Pails, 5-gallon fill. \n \nRecommended Storage: Store in original sealed container under frozen conditions ≤0°F (-18°C). \n \nShelf Life: At least 3 years, in unopened containers following recommended storage conditions. \n    \n   Shipping: Ship via refrigerated vans frozen 0°F. \n \n   Ingredient Listing: Pomegranate  \n \nsunmetfruit.com ·  559.366.1052   ·  6150 Hosfield Drive   ·   Tulare, California. 93274 \n \n",
+    "boundary": "Exact acid w/w as citric, 16°Brix turbidity condition."
+  },
+  {
+    "source_id": 6,
+    "archive": "Table S3.txt",
+    "claim": "Separate definitions of bitterness and astringency",
+    "verbatim_quote": "Table S3. Sensory attributes list with definitions used for the sensory evaluation of PJs. \n \nAttributes \nDefinitions  \nAppearance \nBrick-red colour \nColour which might change from the brick red colour to the more or less intense brown \ncolour. \nPurple-red colour \nColour which might change from red colour to more or less intense purple colour. \nCloudy \nOpalescence; difficulty to see trough a transparent glass. \nSmell \nPomegranate fruit \nSour, sweet and fruity aromas. These aromas remind the assessor to a combination of \ngrape, redberry, and other berries such as blackberries, cherries, currants, raspberries. \nVegetable notes like beets and carrots might be also present. \nFresh fruit \nGeneral term for describing sweet, floral and fruity aromas, correlated to a just extracted \nfruit. \nTomato \nAroma associated to the tomato fruit. \nBerry \nSweet, slightly sour aromas related to ripe berries, such as raspberries, blueberries, \nblackberries, currants. \nCherry \nSour, fruity and slightly bitter aromas commonly related to the cherries. \nCooked apple \nSweet slightly fruity and floral aroma, commonly related to a processed apple juice and \ncooked apples. \nPlum \nSweet aromas, typical of dried plum. \nFloral \nSweet and perfumed perception reminding to the flowers. \nAcetic acid \nOdour associated to the acetic acid. \nVegetable-herbal \nTypical aroma of just cut grape vine and stem. \nBrown spices \n(star anise, clove) \nSweet, refreshing and spicy aromas associated with star anise or clove. \nWilted fruit \nSweet honey or caramel-like aromas commonly associated with wilted fruits, such as raisins. \nCandies \nSweet aroma often associated with processed essential oils and usually found in \nproducts such as gummy candies. \nCaramel \nSweet aroma that may include notes of character identified as caramel and commonly \nassociated with honey, brown sugar, caramel or other products that have undergone \nnon-enzymatic browning and Maillard reaction. \nHoney \nSweet, slightly spicy aroma associated with honey. \nBeet \nEarthy and slightly sweet aromas commonly associated with canned or cooked red beets. \nMushroom/Earthy \nAroma similar to moist soil, characteristic of cellars or similar. \nMetallic \nFlavour of a slightly oxidized metal, such as iron, copper and / or a silver teaspoon. \nCooked \nSweet aroma associated with that of caramel and honey. \nTexture/Mouthfeel \nEffervescence \nA feeling of an increased sensation on the tongue that may be due to intense carbonation \nor other causes. Evaluate during first 3–5 s after sample is placed in the mouth. \nTamarind \nAroma associated with tamarind, that is sour, very fruity and refreshing. \nAlcohol \nIntense fruity aroma similar to ethanol, aromatic associated with alcohol from fermented \ngrape (red wine). \nMetallic \nA mouthfeel and aromatics associated “tin” cans, iron copper, or oxidized silver. \nDryness \nA sensation of abrasion and drying of the surface of the teeth. \nHomogeneity \nPresence of fragments found in the mouth. \nWoody \nAroma associated with chopped wood. \nPungent \nA sharp, physically penetrating sensation in the nasal cavity. \nAstringency \nDry puckering mouthfeel associate with tea leaves. \nTaste \nSweet \nTaste associated with a sucrose solution. \nSour \nTaste associated with an acetic acid solution.  \nBitter \nTaste associated with caffeine or quinine. \n \n",
+    "boundary": "Full supplement text retained; definitions not efficacy."
+  },
+  {
+    "source_id": 2,
+    "archive": "PMC11941192-readable.txt",
+    "claim": "Unit conflict: verification mg/L versus Table3 g/L",
+    "verbatim_quote": "Verification experiments were conducted three times under the A3B2C3 conditions, resulting in a punicalagin content of 3.646 mg/L, ellagic acid content of 0.140 mg/L, and gallic acid content of 2.446 mg/L in the pomegranate juice. Another set of three verification experiments under A2B2C3 conditions resulted in a punicalagin content of 3.345 mg/L, ellagic acid content of 0.141 mg/L, and gallic acid content of 2.576 mg/L. Another set of three verification experiments under A3B1C3 conditions resulted in a punicalagin content of 3.595 mg/L, ellagic acid content of 0.138 mg/L, and gallic acid content of 2.546 mg/L. Compared to the eight commercial fruit juices, both ellagic acid and gallic acid were present at relatively high levels [37]. Ultimately, the optimal tannase treatment conditions for astringency removal in pomegranate juice were determined to be A2B2C3, which corresponds to a hydrolysis time of 90 min, a hydrolysis temperature of 30 °C, and a tannase concentration of 33.9 U/100 mL.",
+    "boundary": "Do not normalize or prescribe enzyme-dose conditions."
+  },
+  {
+    "source_id": 2,
+    "archive": "PMC11941192-readable.txt",
+    "claim": "Table3 declares g/L",
+    "verbatim_quote": "Experiment Number | Factor | Punicalagin Concentration (g/L) | Ellagic Acid Concentration (g/L) | Gallic Acid Concentration (g/L)",
+    "boundary": "Conflicts with numerical results in prose."
+  },
+  {
+    "source_id": 2,
+    "archive": "PMC11941192.xml",
+    "claim": "Table4 ± undefined",
+    "verification": "Inspected Table4 XML, no table-wrap-foot; searched all original paragraphs for standard deviation and standard error, zero matches. No assumption of SD/SEM.",
+    "boundary": "Preserve published ±; independence/dispersion denominator unknown."
+  }
+]
