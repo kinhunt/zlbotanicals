@@ -31,9 +31,9 @@ sources: []
 ### 喷雾干燥结束后立即测得的虾青素保留率
 
 <table class="astaxanthin-table"><thead><tr><th scope="col">油滴界面材料</th><th scope="col">120 °C进风温度</th><th scope="col">160 °C进风温度</th></tr></thead><tbody>
-<tr><th scope="row">羽扇豆蛋白</th><td><span class="mobile-label" aria-hidden="true">120 °C进风温度</span>88.5%</td><td><span class="mobile-label" aria-hidden="true">160 °C进风温度</span>87.4%</td></tr>
-<tr><th scope="row">羽扇豆蛋白＋ι-卡拉胶</th><td><span class="mobile-label" aria-hidden="true">120 °C进风温度</span>96.4%</td><td><span class="mobile-label" aria-hidden="true">160 °C进风温度</span>95.3%</td></tr>
-<tr><th scope="row">羽扇豆蛋白＋ι-卡拉胶＋壳聚糖</th><td><span class="mobile-label" aria-hidden="true">120 °C进风温度</span>96.8%</td><td><span class="mobile-label" aria-hidden="true">160 °C进风温度</span>96.0%</td></tr>
+<tr><th scope="row">羽扇豆蛋白</th><td><span class="mobile-label">120 °C进风温度</span>88.5%</td><td><span class="mobile-label">160 °C进风温度</span>87.4%</td></tr>
+<tr><th scope="row">羽扇豆蛋白＋ι-卡拉胶</th><td><span class="mobile-label">120 °C进风温度</span>96.4%</td><td><span class="mobile-label">160 °C进风温度</span>95.3%</td></tr>
+<tr><th scope="row">羽扇豆蛋白＋ι-卡拉胶＋壳聚糖</th><td><span class="mobile-label">120 °C进风温度</span>96.8%</td><td><span class="mobile-label">160 °C进风温度</span>96.0%</td></tr>
 </tbody></table>
 
 来源：<a href="#astaxanthin-ref-2">[2]</a>，第2.10–2.11及3.5节。保留率为干燥后测得的虾青素含量除以研究设定的粉末理论含量，再乘以100。检测采用溶剂提取及478 nm紫外–可见吸光度法。表中温度为干燥机进风温度，并非实测颗粒温度。

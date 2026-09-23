@@ -1,0 +1,318 @@
+[
+  {
+    "route": "/resources/blog/astaxanthin-beverage-stability",
+    "tables": [
+      {
+        "index": 0,
+        "headers": [
+          "Oil-droplet interface",
+          "120 °C inlet air",
+          "160 °C inlet air"
+        ],
+        "cells": [
+          {
+            "index": 0,
+            "label": "120 °C inlet air",
+            "value": "88.5%"
+          },
+          {
+            "index": 1,
+            "label": "160 °C inlet air",
+            "value": "87.4%"
+          },
+          {
+            "index": 2,
+            "label": "120 °C inlet air",
+            "value": "96.4%"
+          },
+          {
+            "index": 3,
+            "label": "160 °C inlet air",
+            "value": "95.3%"
+          },
+          {
+            "index": 4,
+            "label": "120 °C inlet air",
+            "value": "96.8%"
+          },
+          {
+            "index": 5,
+            "label": "160 °C inlet air",
+            "value": "96.0%"
+          }
+        ]
+      }
+    ],
+    "expectedBaseline": "confirmed"
+  },
+  {
+    "route": "/resources/blog/chicory-fibre-selection",
+    "tables": [
+      {
+        "index": 0,
+        "headers": [
+          "Publicly described ingredient",
+          "Manufacturer's distinction",
+          "Application check"
+        ],
+        "cells": [
+          {
+            "index": 0,
+            "label": "Manufacturer's distinction",
+            "value": "Inulin powder for high dispersibility, described as instant. [1]"
+          },
+          {
+            "index": 1,
+            "label": "Application check",
+            "value": "Ask about powder incorporation in your mixing sequence; do not equate “instant” with a clear finished drink."
+          },
+          {
+            "index": 2,
+            "label": "Manufacturer's distinction",
+            "value": "Highly soluble inulin powder. [1]"
+          },
+          {
+            "index": 3,
+            "label": "Application check",
+            "value": "Use a solubility-led brief, with the actual concentration, preparation temperature and storage state specified."
+          },
+          {
+            "index": 4,
+            "label": "Manufacturer's distinction",
+            "value": "Both described as high-performance long-chain inulin for fat replacement, but for low and high processing temperatures respectively. [1]"
+          },
+          {
+            "index": 5,
+            "label": "Application check",
+            "value": "Disclose the thermal route before accepting an apparently similar long-chain grade."
+          },
+          {
+            "index": 6,
+            "label": "Manufacturer's distinction",
+            "value": "Longer-chain, texturizing chicory fibre, with fat-mimetic positioning in higher-moisture systems. [7]"
+          },
+          {
+            "index": 7,
+            "label": "Application check",
+            "value": "Ask for texture development in the actual dessert or spread, not merely a clear beaker test."
+          },
+          {
+            "index": 8,
+            "label": "Manufacturer's distinction",
+            "value": "Liquid oligofructose with binding and low-moisture-system positioning. [7]"
+          },
+          {
+            "index": 9,
+            "label": "Application check",
+            "value": "Include supplied water and solids in the formulation comparison; a syrup is not a powder replacement by weight alone."
+          }
+        ]
+      }
+    ],
+    "expectedBaseline": "confirmed"
+  },
+  {
+    "route": "/resources/blog/citrus-delayed-bitterness",
+    "tables": [
+      {
+        "index": 0,
+        "headers": [
+          "Juice treatment",
+          "Limonin on day 0, mg/L",
+          "Limonin on day 10, mg/L"
+        ],
+        "cells": [
+          {
+            "index": 0,
+            "label": "Limonin on day 0, mg/L",
+            "value": "0.38 ± 0.07"
+          },
+          {
+            "index": 1,
+            "label": "Limonin on day 10, mg/L",
+            "value": "3.60 ± 0.20"
+          },
+          {
+            "index": 2,
+            "label": "Limonin on day 0, mg/L",
+            "value": "2.15 ± 0.17"
+          },
+          {
+            "index": 3,
+            "label": "Limonin on day 10, mg/L",
+            "value": "3.66 ± 0.19"
+          },
+          {
+            "index": 4,
+            "label": "Limonin on day 0, mg/L",
+            "value": "2.15 ± 0.13"
+          },
+          {
+            "index": 5,
+            "label": "Limonin on day 10, mg/L",
+            "value": "3.68 ± 0.18"
+          }
+        ]
+      }
+    ],
+    "expectedBaseline": "fixed-control"
+  },
+  {
+    "route": "/zh/resources/blog/astaxanthin-beverage-stability",
+    "tables": [
+      {
+        "index": 0,
+        "headers": [
+          "油滴界面材料",
+          "120 °C进风温度",
+          "160 °C进风温度"
+        ],
+        "cells": [
+          {
+            "index": 0,
+            "label": "120 °C进风温度",
+            "value": "88.5%"
+          },
+          {
+            "index": 1,
+            "label": "160 °C进风温度",
+            "value": "87.4%"
+          },
+          {
+            "index": 2,
+            "label": "120 °C进风温度",
+            "value": "96.4%"
+          },
+          {
+            "index": 3,
+            "label": "160 °C进风温度",
+            "value": "95.3%"
+          },
+          {
+            "index": 4,
+            "label": "120 °C进风温度",
+            "value": "96.8%"
+          },
+          {
+            "index": 5,
+            "label": "160 °C进风温度",
+            "value": "96.0%"
+          }
+        ]
+      }
+    ],
+    "expectedBaseline": "confirmed"
+  },
+  {
+    "route": "/zh/resources/blog/chicory-fibre-selection",
+    "tables": [
+      {
+        "index": 0,
+        "headers": [
+          "厂家公开列出的材料",
+          "厂家强调的区别",
+          "应用评估重点"
+        ],
+        "cells": [
+          {
+            "index": 0,
+            "label": "厂家强调的区别",
+            "value": "高分散性菊粉，标注为instant。 [1]"
+          },
+          {
+            "index": 1,
+            "label": "应用评估重点",
+            "value": "重点说明投粉与混合顺序；“速分散”不等于成品饮料必然清澈。"
+          },
+          {
+            "index": 2,
+            "label": "厂家强调的区别",
+            "value": "高溶解性菊粉。 [1]"
+          },
+          {
+            "index": 3,
+            "label": "应用评估重点",
+            "value": "写明实际浓度、配制温度和储存状态，而非只问“能不能溶于水”。"
+          },
+          {
+            "index": 4,
+            "label": "厂家强调的区别",
+            "value": "同属用于脂肪替代的长链菊粉，分别面向较低与较高加工温度。 [1]"
+          },
+          {
+            "index": 5,
+            "label": "应用评估重点",
+            "value": "先交代热加工路线，再讨论看似相近的长链牌号。"
+          },
+          {
+            "index": 6,
+            "label": "厂家强调的区别",
+            "value": "较长链、具有质地构建作用的菊苣纤维，强调高水分体系中的类脂肪口感。 [7]"
+          },
+          {
+            "index": 7,
+            "label": "应用评估重点",
+            "value": "评估实际甜品或涂抹食品的质地，而不只做清水杯中的溶解观察。"
+          },
+          {
+            "index": 8,
+            "label": "厂家强调的区别",
+            "value": "液体低聚果糖，强调黏结作用及低水分体系应用。 [7]"
+          },
+          {
+            "index": 9,
+            "label": "应用评估重点",
+            "value": "将液体原料带入的水分与固形物一起计入配方；不能按相同重量直接替换粉体。"
+          }
+        ]
+      }
+    ],
+    "expectedBaseline": "confirmed"
+  },
+  {
+    "route": "/zh/resources/blog/citrus-delayed-bitterness",
+    "tables": [
+      {
+        "index": 0,
+        "headers": [
+          "果汁处理方式",
+          "第0天柠檬苦素，mg/L",
+          "第10天柠檬苦素，mg/L"
+        ],
+        "cells": [
+          {
+            "index": 0,
+            "label": "第0天柠檬苦素，mg/L",
+            "value": "0.38 ± 0.07"
+          },
+          {
+            "index": 1,
+            "label": "第10天柠檬苦素，mg/L",
+            "value": "3.60 ± 0.20"
+          },
+          {
+            "index": 2,
+            "label": "第0天柠檬苦素，mg/L",
+            "value": "2.15 ± 0.17"
+          },
+          {
+            "index": 3,
+            "label": "第10天柠檬苦素，mg/L",
+            "value": "3.66 ± 0.19"
+          },
+          {
+            "index": 4,
+            "label": "第0天柠檬苦素，mg/L",
+            "value": "2.15 ± 0.13"
+          },
+          {
+            "index": 5,
+            "label": "第10天柠檬苦素，mg/L",
+            "value": "3.68 ± 0.18"
+          }
+        ]
+      }
+    ],
+    "expectedBaseline": "fixed-control"
+  }
+]
