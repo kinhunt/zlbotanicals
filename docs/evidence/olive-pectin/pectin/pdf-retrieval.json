@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC7723220",
+    "status": 404,
+    "bytes": 1584,
+    "preview": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\"> \n<html>\n<head>\n<title>NCBI/xpmc21 - WWW Error 404 Diagnostic</title>\n<style type=\"text/css\"> \nh1.error {color: red; font-size: 40pt}\ndiv.diags {text-indent: 0.5in }\n</style> \n</head>\n<body>\n<h1>Can't find the requested web page.</h1>\n\n<p>The page you requested ( h t t p : / / w w w . n c b i . n l m . n i h . g o v / p m c / u t i l s / o a / o a . f c g i ? i d = P M C 7 7 2 3 2 2 0 ) could not be found on our web server.\nThis is usually caused by a error in the web request;\nhowever, it could also be caused by a problem on our server.\nYou might be able to find what you want via \n<a href=\"/entrez/query.fcgi?db=ncbisearch\">NCBI Site Search</a>.  </p>\n<p>If you know what the request should be, please check it and correct it\nif necessary.  If not, you may be able to find the desired page by browsing\nour site at <a href=\"http://www.ncbi.nlm.nih.gov\">http://www.ncbi.nlm.nih.gov</a>.</p>\n<p> If "
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/utils/oa/oa.fcgi?id=PMC7723220",
+    "status": 404,
+    "bytes": 48716,
+    "preview": "\n\n<!DOCTYPE html>\n<html lang=\"en\" >\n    <head >\n\n        <meta charset=\"UTF-8\" />\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta name=\"HandheldFriendly\" content=\"True\" />\n        <meta name=\"MobileOptimized\" content=\"320\" />\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\n        \n        \n\n        \n        \n  <link  rel=\"stylesheet\" href=\"https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/base_style-BxRs1iOp.css\" />\n<script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/base_style-D-jH62-1.js\"></script>\n\n    <link  rel=\"stylesheet\" href=\"https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/exception_style-DfB_Czfm.css\" />\n<script type=\"module\" crossorigin=\"\" src=\"https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/produc"
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7723220/pdf/FSN3-8-6433.pdf",
+    "status": 200,
+    "bytes": 21264,
+    "preview": "<!doctype html><html lang=\"en-US\" dir=\"ltr\"><head><base href=\"https://www.google.com/recaptcha/challengepage/\"><link rel=\"preconnect\" href=\"//www.gstatic.com\"><meta name=\"referrer\" content=\"origin\"><script nonce=\"uIntWy_oO4fG8DMvEvU_Lg\">window['ppConfig'] = {productName: 'RecaptchaChallengePageUi', deleteIsEnforced:  true , sealIsEnforced:  true , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use strict';function k(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}function l(a){var b=typeof Symbol!=\"undefined\"&&Symbol.iterator&&a[Symbol.iterator];if(b)return b.call(a);if(typeof a.length==\"number\")return{next:k(a)};throw Error(String(a)+\" is not an iterable or ArrayLike\");}var m=typeof Object.defineProperties==\"function\"?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};\nfunction n(a){a=[\"object\"==typeof globalThis&&globalThis,a,\"object"
+  },
+  {
+    "url": "https://europepmc.org/articles/PMC7723220/bin/FSN3-8-6433.pdf",
+    "status": 403,
+    "bytes": 5628,
+    "preview": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-yK8vPEGuoJ73vW5kOm2SKk&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font"
+  }
+]

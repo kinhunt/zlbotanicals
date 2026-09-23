@@ -1,0 +1,19 @@
+{
+  "at": "2026-09-23T19:27:52.771476+00:00",
+  "command": [
+    "browserman",
+    "script",
+    "run",
+    "--platform",
+    "amazon",
+    "--action",
+    "search",
+    "--marketplace",
+    "us",
+    "--params-json",
+    "{\"query\":\"olive leaf extract\",\"limit\":16}",
+    "--json"
+  ],
+  "returncode": 0,
+  "output": "{\"ok\":true,\"command\":\"script.run\",\"browser\":{\"id\":\"c0c44c26-eca6-4638-86fd-ade14ff3aa03\",\"name\":\"cedar-vale\"},\"result\":{\"executionId\":\"exec_b03c6f46c8054c77\",\"status\":\"running\"}}\n\n"
+}

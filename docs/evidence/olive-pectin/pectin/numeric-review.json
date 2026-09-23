@@ -1,0 +1,262 @@
+[
+  {
+    "claim": "Classic CF 407",
+    "source": 11,
+    "pdf": "original/sources/hf-official-brochure.pdf",
+    "page": 21,
+    "image": "visual/hf-official-brochure-p21.png",
+    "values": [
+      "60–66%",
+      ">58%",
+      "2.9–3.3"
+    ],
+    "result": "visually verified"
+  },
+  {
+    "claim": "Classic CF 701",
+    "source": 11,
+    "pdf": "original/sources/hf-official-brochure.pdf",
+    "page": 22,
+    "image": "visual/hf-official-brochure-p22.png",
+    "values": [
+      "39–45%",
+      "40–60%",
+      "3.0–3.6"
+    ],
+    "result": "visually verified"
+  },
+  {
+    "claim": "Classic CF 703",
+    "source": 11,
+    "pdf": "original/sources/hf-official-brochure.pdf",
+    "page": 22,
+    "image": "visual/hf-official-brochure-p22.png",
+    "values": [
+      "32–38%",
+      "≤45%",
+      "3.0–3.6"
+    ],
+    "result": "visually verified"
+  },
+  {
+    "claim": "Amid CF 010-D",
+    "source": 11,
+    "pdf": "original/sources/hf-official-brochure.pdf",
+    "page": 23,
+    "image": "visual/hf-official-brochure-p23.png",
+    "values": [
+      "30–36%",
+      "14–20%",
+      "30–55%",
+      "3.0–3.5"
+    ],
+    "result": "visually verified"
+  },
+  {
+    "claim": "Amid CF 020-C",
+    "source": 11,
+    "pdf": "original/sources/hf-official-brochure.pdf",
+    "page": 23,
+    "image": "visual/hf-official-brochure-p23.png",
+    "values": [
+      "27–32%",
+      "18–23%",
+      "15–45%",
+      "3.0–4.0"
+    ],
+    "result": "visually verified"
+  },
+  {
+    "claim": "Classic CM 203",
+    "source": 11,
+    "pdf": "original/sources/hf-official-brochure.pdf",
+    "page": 29,
+    "image": "visual/hf-official-brochure-p29.png",
+    "values": [
+      ">68%",
+      "3.6–4.2"
+    ],
+    "result": "visually verified"
+  },
+  {
+    "claim": "Classic CJ 206",
+    "source": 11,
+    "pdf": "original/sources/hf-official-brochure.pdf",
+    "page": 30,
+    "image": "visual/hf-official-brochure-p30.png",
+    "values": [
+      "68–76%",
+      "2.7–4.5"
+    ],
+    "result": "visually verified"
+  },
+  {
+    "claim": "HM >50%; LM <50%; chemistry and calcium optimum",
+    "source": 11,
+    "page": 8,
+    "image": "visual/hf-definition-p8.png",
+    "result": "visually verified"
+  },
+  {
+    "claim": "GENU LM-104 AS E440 sucrose-standardised; high calcium reactivity; soluble solids20–40%",
+    "source": 4,
+    "evidence": "original/sources/azelis-browser-excerpt.txt",
+    "result": "verified against archived scoped DOM; no original public PDF supplied or claimed"
+  },
+  {
+    "claim": "DM30 vs DM32/DA19; 6g;900g;30wt%;at least triplicate; R=2[Ca2+]/[COO-]",
+    "source": 6,
+    "page": 7,
+    "image": "visual/study2017-p7.png",
+    "result": "visually verified; standard recipe is LM; total-solids figure attributed as authors reported, not recalculated"
+  },
+  {
+    "claim": "100°C→10°C;1K/min",
+    "source": 6,
+    "page": 8,
+    "image": "visual/study2017-p8.png",
+    "result": "visually verified"
+  },
+  {
+    "claim": "Table2 calcium series",
+    "source": 6,
+    "page": 11,
+    "image": "visual/study2017-p11.png",
+    "rows": [
+      [
+        0.73,
+        64.3,
+        60.3,
+        64.4,
+        0.079,
+        10.5
+      ],
+      [
+        0.9,
+        68.2,
+        64.9,
+        68.7,
+        0.085,
+        10.4
+      ],
+      [
+        1.09,
+        75.4,
+        68.1,
+        74.8,
+        0.089,
+        10.1
+      ],
+      [
+        1.28,
+        79.6,
+        70.2,
+        78.8,
+        0.098,
+        10.4
+      ],
+      [
+        1.45,
+        81.8,
+        69.4,
+        null,
+        0.101,
+        9.7
+      ]
+    ],
+    "columns": [
+      "R",
+      "IST°C",
+      "CST°C",
+      "GP°C",
+      "tanδend",
+      "SDRa Pa/min"
+    ],
+    "significance": [
+      "",
+      "***",
+      "***",
+      "*",
+      "***",
+      ""
+    ],
+    "result": "CST not monotonic; SDRa no rising trend and significance cell empty; tanδ increases. Narrative SDRa rise and next-page more-solid-like statement conflict. Both disclosed, no silent repair."
+  },
+  {
+    "claim": "microgels are inferred, not observed",
+    "source": 6,
+    "page": 12,
+    "image": "visual/study2017-p12.png",
+    "result": "visually verified"
+  },
+  {
+    "claim": "pH directions and proposed mechanism",
+    "source": 6,
+    "page": 14,
+    "image": "visual/study2017-p14.png",
+    "result": "visually verified"
+  },
+  {
+    "claim": "Two-material comparison; galacturonan contents differ",
+    "source": 6,
+    "page": 15,
+    "image": "visual/study2017-p15.png",
+    "values": {
+      "LMP": {
+        "DM": 30,
+        "GC": 82,
+        "DA": null,
+        "R": 0.7
+      },
+      "LMAP": {
+        "DM": 32,
+        "GC": 68,
+        "DA": 19,
+        "R": 0.73
+      }
+    },
+    "result": "visually verified; not isolated causal amidation experiment; Table4 LMAP IST65.8 conflicts with Table2 same R IST64.3. No exact IST used in article."
+  },
+  {
+    "claim": "HM calcium-reactive blocks; amidated tolerance; separate addition; apple option; stability criteria",
+    "source": 12,
+    "pages": [
+      7,
+      9,
+      16
+    ],
+    "images": [
+      "visual/hf-acidified-milk-p7.png",
+      "visual/hf-acidified-milk-p9.png",
+      "visual/hf-acidified-milk-p16.png"
+    ],
+    "result": "visually verified; attributed supplier guidance"
+  },
+  {
+    "claim": "DE69 experimental CP Kelco; no botanical origin stated; pH4.0; no calcium fortification factor",
+    "source": 13,
+    "page": 3,
+    "image": "visual/milk-p3.png",
+    "result": "visually verified against PDF materials and preparation; full XML also read"
+  },
+  {
+    "claim": "pectin0.20/0.40%w/w;180–200bar;121°C4s;within one week",
+    "source": 13,
+    "page": 4,
+    "image": "visual/milk-p4.png",
+    "result": "visually verified; inversion ten times before measurements noted in evidence, not shelf-life proof"
+  },
+  {
+    "claim": "minor particle-size changes, viscosity interpretation",
+    "source": 13,
+    "pages": [
+      5,
+      7
+    ],
+    "images": [
+      "visual/milk-p5.png",
+      "visual/milk-p7.png"
+    ],
+    "result": "visually verified narrative and viscosity plot; no invented significance or cross-product ranking"
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "headers": [
+    "Named grade",
+    "DE / DA",
+    "Supplier-described function or calcium reactivity",
+    "Listed application conditions"
+  ],
+  "rows": [
+    [
+      "Classic CF 407",
+      "60–66% / —",
+      "HM, slow set",
+      "Jams and fruit preparations; TSS >58%, pH 2.9–3.3"
+    ],
+    [
+      "Classic CF 701",
+      "39–45% / —",
+      "Non-amidated LM, low calcium reactivity",
+      "Low-calorie jams, spreads and jellies; TSS 40–60%, pH 3.0–3.6"
+    ],
+    [
+      "Classic CF 703",
+      "32–38% / —",
+      "Non-amidated LM, high calcium reactivity",
+      "Low-calorie jams, spreads and jellies; TSS ≤45%, pH 3.0–3.6"
+    ],
+    [
+      "Amid CF 010-D",
+      "30–36% / 14–20%",
+      "Amidated LM, medium calcium reactivity",
+      "Low-calorie jams and spreads; TSS 30–55%, pH 3.0–3.5"
+    ],
+    [
+      "Amid CF 020-C",
+      "27–32% / 18–23%",
+      "Amidated LM, high calcium reactivity",
+      "Low-calorie jams and spreads; TSS 15–45%, pH 3.0–4.0"
+    ],
+    [
+      "Classic CM 203",
+      ">68% / —",
+      "HM protective colloid",
+      "Low-viscosity fermented milk drinks; pH 3.6–4.2"
+    ],
+    [
+      "Classic CJ 206",
+      "68–76% / —",
+      "HM cloud stabilisation and viscosity increase",
+      "Soft drinks; pH 2.7–4.5"
+    ]
+  ]
+}

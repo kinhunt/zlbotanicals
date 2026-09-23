@@ -1,0 +1,4 @@
+{
+  "success": false,
+  "error": "Keyless Firecrawl search failed: Client error '403 Forbidden' for url 'https://api.firecrawl.dev/v2/search'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403. Set FIRECRAWL_API_KEY (https://firecrawl.dev) or another web backend via `hermes tools` for reliable service."
+}

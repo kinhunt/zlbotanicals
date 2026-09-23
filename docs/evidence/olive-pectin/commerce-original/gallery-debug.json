@@ -1,0 +1,13 @@
+{
+  "at": "2026-09-23T19:31:08.604232+00:00",
+  "command": [
+    "browserman",
+    "page",
+    "eval",
+    "--js",
+    "JSON.stringify(Array.from(document.scripts).map(s=>s.textContent).filter(s=>s.includes('colorImages')).map(s=>s.slice(Math.max(0,s.indexOf('colorImages')-10),s.indexOf('colorImages')+1800)))",
+    "--json"
+  ],
+  "returncode": 0,
+  "output": "{\"ok\":true,\"command\":\"page.eval\",\"browser\":{\"id\":\"c0c44c26-eca6-4638-86fd-ade14ff3aa03\",\"name\":\"cedar-vale\"},\"result\":{\"success\":true,\"result\":{\"result\":{\"type\":\"string\",\"value\":\"[]\"}},\"method\":\"Runtime.evaluate\",\"elapsed\":2}}\n\n"
+}

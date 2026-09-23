@@ -1,0 +1,32 @@
+{
+  "article": {
+    "source_id": 4,
+    "url": "https://doi.org/10.1007/s11483-020-09650-y",
+    "scope": "independently read archived full HTML methods/results; original author archive unchanged",
+    "file": "evidence/4.raw"
+  },
+  "figure8": {
+    "url": "https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs11483-020-09650-y/MediaObjects/11483_2020_9650_Fig8_HTML.png",
+    "file": "evidence/figure8-original.png",
+    "status": 200,
+    "inspected": true,
+    "caption_from": "evidence/4.raw",
+    "observed": "a free90/liposome83; b near87/90; c free67/liposome88; approximate visual check only"
+  },
+  "supplement": {
+    "source_id": 9,
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1007%2Fs11483-020-09650-y/MediaObjects/11483_2020_9650_MOESM1_ESM.docx",
+    "file": "evidence/supplement.docx",
+    "status": 200,
+    "inspected_figure": "Figure3 word/media/image3.tiff",
+    "readable_derivative": "evidence/supp-figure3-white.png",
+    "transformation": "RGBA composited onto white, unchanged geometry and data",
+    "observed": "35day endpoints agree approximately with pH2/4/6/7 62.3/98.2/92.3/67.1% text"
+  },
+  "abstract_only": [
+    7,
+    8
+  ],
+  "supplier_spec": 5,
+  "accessed": "2026-09-23"
+}

@@ -1,0 +1,11 @@
+{
+  "render.en": 0,
+  "verify.en": 0,
+  "render.zh": 0,
+  "verify.zh": 0,
+  "bilingual_table_numeric_parity": true,
+  "source_ids_unique": true,
+  "source_still_matches_snapshot": true,
+  "original_copy_integrity": true,
+  "status": "PASS: reviewed research content; not website/release certification"
+}

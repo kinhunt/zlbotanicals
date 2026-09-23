@@ -1,0 +1,12 @@
+{
+  "at": "2026-09-23T19:30:15.724238+00:00",
+  "command": [
+    "browserman",
+    "script",
+    "inspect",
+    "./research/seo-growth/2026-09-23-night-commerce/gallery.mjs",
+    "--json"
+  ],
+  "returncode": 2,
+  "output": "{\"ok\":false,\"error\":{\"code\":\"local_script_load_failed\",\"message\":\"Could not load /data/hermes/research/seo-growth/2026-09-23-night-commerce/gallery.mjs: Cannot find module '/usr/local/lib/node_modules/browserman-cli/scripts/index.js' imported from /data/hermes/research/seo-growth/2026-09-23-night-commerce/gallery.mjs\"}}\n\n"
+}

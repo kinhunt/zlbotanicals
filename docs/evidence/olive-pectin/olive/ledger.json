@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2024/fb/d4fb00044g",
+      "title": "",
+      "accessed": "2026-09-23"
+    },
+    {
+      "id": 2,
+      "url": "https://doi.org/10.1002/jsfa.12371",
+      "title": "",
+      "accessed": "2026-09-23"
+    },
+    {
+      "id": 3,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20722953",
+      "title": "",
+      "accessed": "2026-09-23"
+    },
+    {
+      "id": 4,
+      "url": "https://doi.org/10.1007/s11483-020-09650-y",
+      "title": "González-Ortega R, Šturm L, Skrt M, Di Mattia CD, Pittia P, Poklar Ulrih N. Liposomal Encapsulation of Oleuropein and an Olive Leaf Extract: Molecular Interactions, Antioxidant Effects and Applications in Model Food Systems. Food Biophysics. 2021;16:84–97. Published online 2 October 2020. doi:10.1007/s11483-020-09650-y. Full text.",
+      "accessed": "2026-09-23",
+      "quotes": [
+        {
+          "text": "The standardized OLE powder was kindly provided by Oleafit S.r.l (Isola del Gran Sasso, Italy). This OLE was obtained from leaves of the olive tree Olea europaeia L by maceration in 70% aqueous ethanol. According to the manufacturer specifications, OLE contains a minimum of 40 wt% (dry weight) oleuropein, 3.15 wt% ash, and 3.22 wt% moisture.",
+          "added": "2026-09-23"
+        },
+        {
+          "text": "Phospholipon 90 g (PL-90 g; commercial lipid mixture which contains pure phosphatidylcholine 94.0-102.0% from soybean; lysophosphatidylcholine 4%; tocopherol 0.3% stabilized with ascorbyl palmitate 0.1%) was from Phospholipid GmbH (Köln, Germany).",
+          "added": "2026-09-23"
+        },
+        {
+          "text": "An amount of OLE equivalent to 50 mg oleuropein (i.e., 112.36 mg, at 44.5 wt% in OLE) was dissolved in 1 mL ethanol and then added to 40 mL of the following: 10 mM citric acid/HCl, pH 2.0; 10 mM sodium citrate/citric acid buffer, pH 4.0/ 6.0; and 10 mM sodium phosphate buffer, pH 7.0. The resulting solutions were stirred for 30 min at 300 rpm, and then centrifuged to remove insoluble material (5000 × g , 15 min). The volume of each was then made up to 50 mL with the corresponding buffer (for final 1 mg mL − 1 oleuropein). Finally, 10 mL of each of these OLE pH conditions were transferred to glass test tubes (in triplicate), which were incubated at 5 °C for 35 days. Samples were taken at different predefined times for determination of oleuropein concentrations, using HPLC.",
+          "added": "2026-09-23"
+        },
+        {
+          "text": "The pH stability of oleuropein was determined in free OLE solutions at refrigeration temperatures (5 °C) (Online Resource 1 , Fig. 3 ). It can be seen that the rate of degradation of the oleuropein in the OLE was higher at pHs 2.0 and 7.0, with 74.8% ±1.2% and 77.5% ±2.0%, respectively, remaining after 21 days of storage, and 62.3% ±0.6% and 67.1% ±0.3% after 35 days of storage. On the other hand, at pHs 4.0 and 6.0, these OLE solutions did not show significant oleuropein degradation, with 98.2% ±1.0% and 92.3% ±3.0% remaining after 35 days of storage. Therefore,",
+          "added": "2026-09-23"
+        },
+        {
+          "text": "The nonencapsulated fraction of oleuropein, which accounted for ~ 66% of the total oleuropein in OLE liposomes (thus with ∼34% encapsulated), was rapidly degraded, for a 60.4% loss after 44 h of storage (start, 98.4 ± 0.8 µg mL − 1 ; 44 h, 39.0 ± 1.2 µg mL − 1 ), which rose further to an 86.6% loss after 92 h (13.1 ± 0.1 µg mL − 1 ). On the other hand, the encapsulated fraction showed greater stability, with 70.5% ±2.3% remaining after 92 h of storage, and 48.2% ±1.5% remaining after 500 h of storage (Fig. 7a , inset). This shows the stabilizing effect",
+          "added": "2026-09-23"
+        },
+        {
+          "text": "The OLE and the OLE liposomes (∼1 mg oleuropein mL − 1 ) were incorporated into two model ‘drinks’ and into commercial lemonade, to the final oleuropein concentration of ∼130 µg mL − 1 . The two model drinks were prepared to have the same pH without and with addition of the same vitamin C (L-ascorbic acid) concentration as the commercial lemonade. These thus consisting of 10 mM sodium citrate/citric acid buffer, pH 2.87, without and with 1.2 mg mL − 1 ascorbic acid. All of these drink samples were incubated at 5 °C for 47 days, with analysis at predetermined times for the extraction of the OLE using methanol and chloroform (see previous sections), and determination of the total oleuropein content. Statistical analysis",
+          "added": "2026-09-23"
+        },
+        {
+          "text": "Oleuropein showed good stability in the commercial lemonade drink (Fig. 8a ) in both its free and encapsulated forms, with 90% and 83% remaining, respectively, after these 47 days. Perhaps surprisingly, the oleuropein was significantly more stable ( p < 0.05) with the addition of free OLE compared to OLE liposomes. In the model system with ascorbic acid, there were no significant differences seen, and the oleuropein was particularly stable over the 47 days of storage, with only 10–13% loss. However, in the simpler system without ascorbic acid, the differences were more substantial, and OLE liposomes appeared to have a protective effect on oleuropein stability. The oleuropein concentration in this system with free OLE decreased steadily over the 47 days, with 67% remaining after 47 days, while for OLE liposomes, more oleuropein remained after the 47 days (88%). It appears that ascorbic acid can delay acid hydrolysis of the oleuropein, as seen by its lower degradation in the systems that contained ascorbic acid. Ascorbic acid is known to have synergistic effects with other antioxidants by scavenging free radicals and regenerating oxidized antioxidants [ 19 , 52 ]. Thus, inclusion of antioxidants like ascorbic acid might have similar impacts on oleuropein stability as seen for the protection provided by its encapsulation, although more studies are required to understand the mechanisms involved here.",
+          "added": "2026-09-23"
+        },
+        {
+          "text": "Commercial lemonade nectar was purchased in a local supermarket (Sola limonada; Sola, Pivovarna Lasko Union d.o.o, Slovenia).",
+          "added": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://nutraceuticalsgroup.com/document/nigeher028501-mnspec.pdf",
+      "title": "Nutraceuticals Group. Product Master Specification: Olive Leaf Extract 6% Oleuropein (Olea europaea l.). NIGEHER028501, MNSPEC V03. Issued 1 April 2025. Two-page PDF.",
+      "accessed": "2026-09-23",
+      "quotes": [
+        {
+          "text": "Product Master Specification\nOlive Leaf Extract 6% Oleuropein (Olea europaea l.) - NIGEHER028501 - MNSPEC - V03\nItem Name\nOlive Leaf Extract 6% Oleuropein (Olea europaea l.)\nProduct Code\nNIGEHER028501\nProduct Type\nHerbal Extracts\nIssue Date\n1-Apr-2025\nVersion\nV03\nQA Status\nFinal Approved\nIntended use\nFood use",
+          "added": "2026-09-23"
+        },
+        {
+          "text": "Appearance\nBrownish-greenish, fine powder\nOdour and Taste\nCharacteristic\n Characteristics\n \nLatin Name\nOlea europaea l.\nParts Used\nLeaf\nIdentification\nPositive\nExtract Ratio\n4:1 (indicative)\nAssay\n≥ 6 % (Oleuropein)",
+          "added": "2026-09-23"
+        },
+        {
+          "text": "Storage\nStore in a clean, cool, dry place below 25°C. Protect from humidity (RH < 60) and sunlight.\nPreparation and/or handling before use or \nprocessing\nPlease ask our QA department for detailed instructions\nTransportation\nTransportation suitable for dried food powders\nPackaging\nAll packaging meets EU regulations\nShelf Life\n2 years from manufacture if stored according to conditions above",
+          "added": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://www.iff.com/health-sciences/our-products/benolea",
+      "title": "",
+      "accessed": "2026-09-23"
+    },
+    {
+      "id": 7,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1002/jsfa.12371&format=json&resultType=core",
+      "title": "González-Ortega R, Di Mattia CD, Pittia P, Poklar Ulrih N. Effect of heat treatment on phenolic composition and radical scavenging activity of olive leaf extract at different pH conditions: a spectroscopic and kinetic study. Journal of the Science of Food and Agriculture. 2023;103(4):2047–2056. doi:10.1002/jsfa.12371. Europe PMC abstract record.",
+      "accessed": "2026-09-23",
+      "quotes": [
+        {
+          "text": "The major compound, oleuropein, showed higher degradation at low pH 2.0 and temperature-dependent reaction rates, which fitted well a first-order kinetic model, with an estimated activation energy of 98.03 ± 0.08 kJ mol-1 . Oleuropein hydrolysis resulted in a zero-order increase in hydroxytyrosol concentration at same pH (Ea  = 71.59 ± 1.5 kJ mol-1 ), whereas a 100-fold slower degradation rate was observed at higher pH. Verbascoside was only degraded at pH 6.0, also following first-order kinetics. These changes in oleuropein and hydroxytyrosol concentrations led to significant changes in fluorescence maximum intensities centered around 315 and 360 nm and in the 425-500 nm spectral zone for samples at pH 6.0, which could be associated with verbacoside degradation. Conversely, analysis of total phenolic content and 2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid) radical scavenging activity showed little changes, indicating a rather constant overall reducing capacity of the resulting pool of compounds after thermal treatments.",
+          "added": "2026-09-23"
+        },
+        {
+          "text": "The present study focused on the effect of isothermal treatment (5-90 °C) and pH (2.0-6.0) of aqueous olive leaf phenolic extract solutions on the kinetics of degradation of single and total phenolic compounds and radical scavenging activity, with the objective of predicting and optimizing the thermal treatments in foods enriched with olive leaf extracts.",
+          "added": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:20722953%20AND%20SRC:MED&format=json&resultType=core",
+      "title": "Kranz P, Braun N, Schulze N, Kunz B. Sensory quality of functional beverages: bitterness perception and bitter masking of olive leaf extract fortified fruit smoothies. Journal of Food Science. 2010;75(6):S308–S311. doi:10.1111/j.1750-3841.2010.01698.x. Europe PMC abstract record.",
+      "accessed": "2026-09-23",
+      "quotes": [
+        {
+          "text": "In this research, bitter detection and recognition thresholds of OLE-fortified fruit smoothies were determined by a trained sensory panel (n = 11). Masking of the OLE's bitter taste was investigated with addition of sodium cyclamate, sodium chloride, and sucrose by means of a standardized ranking method and a scale test. Detection (5.78 mg/100 g) and recognition thresholds (8.05 mg/100 g) of OLE polyphenols confirmed the low formulation limits when bitterness was not masked by other substances. At higher polyphenol levels of 20 mg/100 g, sodium cyclamate and sucrose were able to reduce bitter taste perception by 39.9% and 24.9%, respectively, whereas sodium chloride could not effectively mask bitterness.",
+          "added": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1007%2Fs11483-020-09650-y/MediaObjects/11483_2020_9650_MOESM1_ESM.docx",
+      "title": "González-Ortega et al. Online Resource 1: supplementary figures",
+      "accessed": "2026-09-23",
+      "quotes": [
+        {
+          "text": "Stability of oleuropein in OLE solutions",
+          "added": "2026-09-23"
+        }
+      ]
+    }
+  ]
+}

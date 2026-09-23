@@ -1,0 +1,974 @@
+This version is available at https://doi.org/10.14279/depositonce-9769
+This work is licensed under a CC BY-NC-ND 4.0 License (Creative 
+Commons Attribution-NonCommercial-NoDerivatives 4.0 International). For 
+more information see https://creativecommons.org/licenses/by-nc-nd/4.0/.
+Terms of Use
+Kastner, H., Einhorn-Stoll, U., & Drusch, S. (2017). Structure formation in sugar containing pectin gels - 
+Influence of gel composition and cooling rate on the gelation of non-amidated and amidated low-
+methoxylated pectin. Food Hydrocolloids, 73, 13–20. https://doi.org/10.1016/j.foodhyd.2017.06.023
+H. Kastner, U. Einhorn-Stoll, S. Drusch
+Structure formation in sugar containing 
+pectin gels - Influence of gel composition 
+and cooling rate on the gelation of non-
+amidated and amidated low-methoxylated 
+pectin
+Accepted manuscript (Postprint)
+Journal article     |
+
+ 
+1 
+Structure formation in sugar containing pectin gels - Influence of gel composition and 
+cooling rate on the gelation of non-amidated and amidated low-methoxylated pectin 
+ 
+H. Kastner*, U. Einhorn-Stoll, S. Drusch 
+Technische Universität Berlin, Food Technology and Food Material Science, Königin-Luise-Strasse 
+22, D-14195 Berlin, Germany  
+* Corresponding author.; e-mail-address: h.kastner@tu-berlin.de 
+ 
+ 
+Abstract 
+Gel structure formation and gel properties of low-methoxyl pectin (LMP) and low-methoxyl amidated 
+pectin (LMAP) with similar degree of methoxylation have been investigated by oscillatory rheological 
+measurements. The gelling process was examined in a sugar-acid environment matching the 
+conditions in jams and jellies. Factors studied included cooling rate, calcium content and pH. 
+Parameters derived from the rheological measurements comprised the gel point, structuring 
+velocity, initial and critical structuring temperature, average structuring developing rate and loss 
+factor (tandend).  
+The influence of the cooling rate on the gelling process of LMP was moderate and the influence on 
+the final gel properties was significant, tandend decreased with increasing cooling rate. The calcium 
+content significantly affected the structuring process of LMAP and the final gel properties. At high 
+calcium content, the gelling process started at a higher temperature but the resulting gels were less 
+strong. The pH had a significant but partly opposite effect on the gelation of LMP as well as LMAP. 
+The differences in gelation behavior between LMP and LMAP can be explained by the lower 
+number of available blocks of free carboxyl groups in LMAP as well as by the formation of additional 
+hydrogen bonds through the amide groups. 
+ 
+
+ 
+2 
+1 Introduction 
+Pectin is a polysaccharide and extracted from plant cell walls. It is used in the food industry for its 
+gelling, thickening, stabilizing, and emulsifying properties. Variations in pectin structure enable this 
+broad range of commercial applications. Depending on the degree of methoxylated carboxyl groups 
+(degree of methoxylation, DM) pectins are traditionally classified as high-methoxylated pectins 
+(HMP) with DM > 50% and low-methoxylated pectins (LMP) with DM < 50%. Chemical de-
+esterification of HMP in presence of ammonium ions results in low-methoxylated amidated pectin 
+(LMAP). 
+For understanding of the gelling process of pectin it is helpful to review the types of junction zones 
+in pectin gels. A limited number of hydrophobic interactions may be formed between the methyl 
+ester groups immediately at the beginning of the cooling process and induce the gelation (Oakenfull 
+& Scott, 1984). These interactions have a rather low energy, a limited working range of about 2 nm 
+(Walstra, 2002, Chapter 3) and become weaker with decreasing temperature. Upon further cooling, 
+at lower temperatures hydrophilic interactions between undissociated carboxyl groups of the 
+galacturonic acid and/or hydroxyl groups of carboxyl, hydroxyl or amide groups can develop via 
+hydrogen bonds (Oakenfull & Fenwick, 1977; Oakenfull & Scott, 1984). These bonds are also of low 
+energy and with 0.2 nm their working range is even smaller than that of the hydrophobic 
+interactions. That means that the pectin molecules have to come in close contact in order to form a 
+gel network. This can be achieved by a high soluble solid concentration (> 50%) since the resulting 
+reduced water activity allows the approach of pectin chains (Evageliou, Richardson, & Morris, 2000; 
+Kastner et al., 2014; Thakur, Singh, Handa, & Rao, 1997). The influence of the hydrogen bonds 
+gains more importance upon temperature reduction and supports inter-chain association during 
+network formation. These two types of junction zone formation occur during gelation in all types of 
+pectin and are typical for a cold-set gelation (Burey, Bhandari, Howes, & Gidley, 2008). However, 
+gelation of LMP is governed by ionic interactions between dissociated carboxyl groups, typically via 
+calcium ion bridges (Thibault & Ralet, 2003) in an ionotropic gelation (Burey et al., 2008). Calcium 
+bridges represent a third type of junction zone formation and start to form immediately after gel 
+preparation. They are much stronger than hydrophobic and hydrogen bonds and with about 20 nm 
+their working range is rather long (Walstra, 2002, Chapter 3). Pectin gels with combined or 
+dominating ionic junction zones require less soluble solids than HMP gels based on hydrophobic or 
+hydrogen bonds, and can be formed also in sugar-free systems. The ionotropic gelation can take 
+place in pectin solutions without heating (Ström & Williams, 2003; Vincent & Williams, 2009) and 
+can be performed also as isothermal titration at room temperature (Fang et al., 2008). It seems to 
+be possible, however, that ionic interactions formed at higher temperature tend to be initially not 
+stable but their stability will increase during cooling (Cárdenas, Goycoolea, & Rinaudo, 2008; 
+Garnier, Axelos, & Thibault, 1993). In LMAP, junction zones are additionally stabilized by hydrogen 
+
+ 
+3 
+bonds involving the amide group (Alonso-Mougán, Meijide, Jover, Rodrı́guez-Núñez, & Vázquez-
+Tato, 2002; Black & Smit, 1972; Löfgren, Guillotin, & Hermansson, 2006).  
+Structure formation and properties of pectin gels strongly depend on intrinsic and extrinsic factors 
+(Endress & Christensen, 2009; Rolin, Chrestensen, Hansen, Staunstrup, & Sørensen, 2009; Yapo & 
+Gnakri, 2015). Intrinsic factors affecting a system are those related to the composition, e.g. type of 
+pectin and concentration, agent used for pH adjustment, presence of divalent cations or co-solutes 
+like sugar. Important extrinsic (technological) factors are e.g. heating and cooling conditions. The 
+influence of calcium ions depends on the stoichiometric ratio between calcium ions and the 
+dissociated free carboxyl groups. This ratio is calculated as R = 2[Ca2+]/[COO-] (Axelos & Kolb, 
+1990; Capel, Nicolai, Durand, Boulenguer, & Langendorff, 2006; Cárdenas et al., 2008; Garnier et 
+al., 1993; Ström et al., 2007). A theoretical saturation threshold of the R exists at which every 
+calcium ion in the gel is bound to two dissociated carboxyl group. This threshold is affected on one 
+hand by the degree of dissociation of the carboxyl groups and, thus, by the pH in the gel system. 
+The pKa of pectin is about 3.5 (Ralet, Dronnet, Buchholt, & Thibault, 2001), at this pH 50% of the 
+carboxyl groups are dissociated. On the other hand, the binding of calcium to pectin chains also 
+depends on the distribution of these groups (block-wise or random). Ionic interactions require a 
+certain number (blocks) of about 6 to 14 subsequent dissociated carboxyl groups (Liners, Thibault, 
+& Cutsem, 1992; Luzio & Cameron, 2008; Powell, Morris, Gidley, & Rees, 1982) in order to form 
+junction zones named as “egg-boxes”. Vincent and Williams (2009) therefore suggested a modified 
+Reff, in which only dissociated carboxyl groups in blocks are considered. The calculation of their 
+exact number requires, however, detailed knowledge of the pectin molecular structure. Single 
+randomly distributed dissociated carboxyl groups may also interact with calcium ions. In case they 
+are oriented to the outside of the egg-boxes, they could form larger dimer aggregates and even an 
+extended network (Braccini & Pérez, 2001; Fraeye et al., 2009, 2010). Moreover, excess calcium 
+ions may be located in the gap between galacturonic acid molecules and interact with other 
+C-atoms than C6 (Siew, Williams, & Young, 2005), they might course a certain electrostatic 
+repulsion. The number of rather unspecific or random calcium crosslinks will increase with 
+increasing calcium ion content. The degree of methoxylation and the distribution of the carboxyl 
+groups in a more random or more block-wise way can influence the gelling process especially with 
+respect to the ionotropic gelation (Fraeye et al., 2009; Ngouémazong et al., 2012). According to 
+Fraye et al. (2009, 2010) pectin with a dominating block-wise distribution of the dissociated carboxyl 
+groups is able to gel at a lower calcium concentration (R) than pectin with a more random 
+distribution of free carboxyl groups. At higher calcium content (R>1) pectin gels were found to 
+become more cross-linked and elastic and a plateau of the storage modulus (G’) was reached only 
+at very high calcium contents with R up to 5.0. Additional crosslinks might result from random 
+interactions of calcium ions with single carboxyl groups as described above. When the calcium 
+
+ 
+4 
+content becomes too high, precipitation and/or syneresis can occur and the gel strength may be 
+reduced (Fraeye et al., 2010; Grosso & Rao, 1998). Gels prepared from amidated pectins were 
+found to be less sensitive to syneresis (Thakur et al., 1997; Thibault & Ralet, 2003) than those of 
+non-amidated pectins.  
+The complex gelling process and gel properties of pectin systems as well as the influence of 
+different intrinsic and extrinsic factors on the gelation have been successfully examined by a variety 
+of methods including a wide range of rheology-based methods. In the majority of studies, however, 
+only one or two intrinsic factors have been varied, like e.g. pectin concentration, co-solutes, ion 
+concentration, type of ions or acid and alkaline media to adjust the pH (Evageliou et al., 2000; 
+Fraeye et al., 2010; Gigli, Garnier, & Piazza, 2009; Guillotin, Van Kampen, Boulenguer, Schols, & 
+Voragen, 2006; Löfgren et al., 2006; Löfgren & Hermansson, 2007; Lopes da Silva & Gonçalves, 
+1994; Rao & Cooley, 1993; Sousa, Nielsen, Armagan, Larsen, & Sørensen, 2015; Ström et al., 
+2007; Tsoga, Richardson, & Morris, 2004). As a consequence, the results of some of these studies 
+are hardly comparable because of differences in the intrinsic factors of the model system as well as 
+extrinsic factors in the experimental setup, methodology or measuring equipment. In addition, often 
+only one parameter, the classical gel point (GP) defined as crossover of storage modulus G’ and 
+loss modulus G’’ at a certain frequency, was reported (Gigli et al., 2009; Holst, Kjøniksen, Bu, 
+Sande, & Nyström, 2006; Iglesias & Lozano, 2004). In recent years, the rheological characterization 
+of a gelling process was significantly improved by using new parameters like the initial structuring 
+temperature (IST), defined as the temperature at which the first derivation of G’ as a function of time 
+(dG’/dt) differed from zero for the first time, and the critical structuring temperature (CST) as the 
+extrapolated temperature of the first strong increase of dG’/dt (Kastner et al., 2014; Kastner, 
+Einhorn-Stoll, & Senge, 2012a, 2012b; Einhorn-Stoll, Kastner, & Senge, 2012; Einhorn-Stoll, 
+Kastner, Hecht, Zimathies, & Drusch, 2015). This method allows the evaluation of the gelling 
+kinetics and the final gel properties and, thus, gives information about systems without clear gel 
+point. These new parameters are now generally accepted and have been used by several other 
+groups (Garrido, Lozano, & Genovese, 2015; Sousa et al., 2015; Wang, Hua, Yang, Kang, & Zhang, 
+2014). 
+For these reasons, in the last years the overall aim of our group was the investigation of the pectin 
+gelling process and the final gel properties in a broad study, covering all major factors such as 
+pectin type, content of calcium ions, pH and cooling rate. Several results have already been 
+achieved and published and complementary examinations are the subject of the present study. The 
+kinetics of structure formation of HMP gels, a typical cold-set gelation, as well as the properties of 
+the final gels were investigated before at varying cooling rates and pH (Kastner et al., 2014). A high 
+cooling rate promoted early structure formation and resulted in a less elastic gel compared to a low 
+cooling rate. Varying the pH by differences in the acid concentration showed that an optimum range 
+
+ 
+5 
+for the structure formation as well as for the final gel properties at intermediate acid concentration 
+exists. In the present study the influence of the cooling rate on the gelation of LMP will be 
+investigated because it is assumed that here the temperature-independent ionic interactions 
+(ionotropic gelation) will dominate the gelation process and reduce the influence of the cooling rate 
+(cold-set gelation). Moreover, the influence of pH on the gelation of LMP and LMAP will be 
+examined, because it is assumed that a reduced number of dissociated carboxyl groups will 
+considerably alter the gelling kinetics. On the one hand, a reduced number of dissociated carboxyl 
+groups limits the ionic junction zones but on the other hand it supports the formation of hydrogen 
+bonds. The impact of the calcium concentration on LMP gelation was studied already in non-
+amidated LMP gels (Kastner et al., 2012b). It was found that high calcium content caused gelling at 
+higher temperature, a more rapid process and resulted in more elastic and also partly brittle gels. 
+The present study will complete this research complex by analyzing the impact of the calcium 
+concentration also on LMAP. Differences are expected because in LMAP the number of available 
+blocks of free carboxyl groups at a similar DM is lower than in LMP and the role of hydrogen bonds 
+is more pronounced because of the amide groups in the LMAP.  
+ 
+ 
+
+ 
+6 
+2 Materials and methods 
+2.1 Materials 
+Two commercially available citrus pectins were used in the present study. The low-methoxylated 
+pectin with DM 30% and the low-methoxyl amidated pectin with DM 32% and DA 19% have already 
+been characterized in previous studies (Einhorn-Stoll et al., 2015; Einhorn-Stoll, Prinz, & Drusch, 
+2014; Einhorn-Stoll, Kastner, & Drusch, 2014; Kastner et al., 2012b). Citric acid, trisodium citrate 
+dihydrate and calcium chloride dihydrate were of analytical grade (Sigma-Aldrich Chemie GmbH, 
+Taufkirchen, Germany). Sucrose was food grade and purchased locally. 
+2.2 Methods 
+2.2.1 Examination of the structure formation process and final gel structure 
+The gelation of LMP and LMAP was investigated in a sugar-acid environment. The standard gel 
+composition and preparation for LMP gels was the same as in Kastner et al. (2012b): A solution of 
+637.5 g demineralized water, 264 g sucrose, 7.5 mL 54.3% w/v citric acid solution, 15 mL 6% w/v 
+sodium citrate solution, 37.5 mL 2.205% w/v calcium chloride dihydrate solution and 6 g pectin were 
+reduced by boiling to a total mass of 900 g. This standard gel composition was varied depending on 
+the aim of the specific investigation, but the total content of solids was kept constant for all systems 
+at 30 wt.%. All gels were prepared at least in triplicate.  
+In order to investigate the gelling process of LMP gels, three different aspects were considered. (I) 
+For the variation of the cooling conditions, standard LMP gels were cooled with different rates of 
+0.25, 0.50, 0.75, 1.00, 1.50 and 2.00 K/min, comparable to the recent investigation of HMP (Kastner 
+et al., 2014). (II) The influence of calcium on the structuring process of LMAP was studied, under 
+the same conditions like in the study of LMP (Kastner et al., 2012b). Different amounts of 2.205% 
+w/v calcium chloride dihydrate solution were added: 25 mL (4.2 mM/kg gel), 3  mL (5.2 mM/kg gel), 
+37.5 mL (6.2 mM/kg gel), 44 mL (7.3 mM/kg gel), and 50 mL (8.3 mM/kg gel). The resulting 
+stoichiometric ratio between calcium and free carboxyl content R = 2[Ca2+]/[COO-] was 0.73 / 0.90 / 
+1.09 / 1.28 and 1.45, respectively. The regular amount of CaCl2 in the standard procedure was 
+37.5 mL (6.2 mM/kg gel, R = 1.09); variations were made in both directions. (III) The pH influence 
+was tested for both LMP types by adding different amounts of 54.3% w/v citric acid solution. For the 
+LMP, the pH range was from 5.0 to 2.9 with the following volumes of citric acid solution: 1.5 mL 
+(4.7 mM/kg gel), 3.5 mL (11.0 mM/kg gel), 5.5 mL (17.3 mM/kg gel), 7.5 mL (23.6 mM/kg gel), 
+9.5 mL (29.8 mM/kg gel), and 11.5 mL (36.1 mM/kg gel). The regular amount of citric acid in the 
+standard LMP gel was 7.5 mL (23.6 mM/kg gel); variations were made in both directions. The 
+stoichiometric ratio of calcium ions in the LMP gels was R = 0.7. For the LMAP, the pH range was 
+from 5.3 to 3.0 with the following added volumes of citric acid solution: 1.5 mL (4.7 mM/kg gel), 
+
+ 
+7 
+3.5 mL (11.0 mM/kg gel), 5.5  mL (17.3 mM/kg gel), 7.5 mL (23.6 mM/kg gel), and 9.5 mL 
+(29.8 mM/kg gel). The stoichiometric ratio of calcium ions was R = 1.09. The standard cooling rate 
+for all gels of both pectins was held constant at 1 K/min.  
+The viscoelastic behavior of the samples during cooling was characterized by small deformation 
+oscillation measurements using a rheometer Physica MCR 301 (Anton Paar, Ostfildern, Germany) 
+equipped with a profiled rotational cylinder CC27/P1 (diameter 26.66 mm, length 40.01 mm) and 
+Peltier cylinder temperature system TEZ 150P. Samples were transferred onto the pre-heated 
+rheometer (100 °C) and cooled to 10 °C by a standard cooling rate of 1 K/min or in variation from 
+0.25 to 2 K/min, respectively. The dynamic rheological parameters, storage modulus (G’) and loss 
+modulus (G’’), were recorded during cooling at constant frequency of 1 Hz and strain of 10-3 as 
+previously described (Kastner et al., 2012b).  
+The final structure of the gels was characterized by the loss factor at 10 °C (tandend). The pH was 
+determined in the cooled gels using a Lab850 pH-meter (Schott Instruments) and a special 
+penetration electrode (BlueLine 14pH, Schott Instruments).  
+2.2.2 Determination of structuring temperatures and average structure developing rate 
+Different parameters were calculated from the measurements of the temperature sweeps in order to 
+describe the gelling process: The classical gel point (GP) was defined as cross-over of G’ and G’’ 
+with tand = G’’/G’ = 1. Initial structuring temperature (IST) and critical structuring temperature (CST) 
+were determined from the structuring velocity (dG’/dt), the first derivation of G’ as function of time 
+using OriginPro9.1 software (OriginLab Corp., Northampton, USA) (Kastner et al., 2014, 2012a, 
+2012b). The structuring velocity curves were mean curves of at least 3 separate measurements. For 
+the overall structuring process the average structure developing rate (SDRa) was calculated 
+(Kastner et al., 2012b):  
+ 
+2.2.3 Statistical analysis 
+Analysis of variance with a Kruskal-Wallis test (KWANOVA) was carried out in order to examine the 
+significance of effects of cooling rate, calcium concentration (R) and acid concentration (pH) on 
+structuring temperatures (IST, CST, GP), tandend and SDRa. All tests were performed with 
+OriginPro9.1 software (OriginLab Corp., Northampton, USA) at a significance level of 0.05 (95% 
+confidence interval). 
+ 
+ 
+IST
+end
+IST
+end
+a
+t
+t
+G
+G
+SDR
+-
+-
+=
+´
+´
+
+ 
+8 
+3 Results and discussion 
+3.1 Effect of the cooling rate on structure formation and gel properties for LMP 
+Standard LMP gels were cooled at different cooling rate ranging from 0.25 to 2.00 K/min. It was 
+assumed that the formation of junction zones during gelation of LMP was less dependent of 
+temperature than in case of HMP gelation (Kastner et al., 2014). 
+The structuring velocity curve (dG’/dt) of the LMP gels showed a systematic increase with 
+increasing cooling rate (Fig. 1). In case of the lowest cooling rate of 0.25 K/min it seems that the 
+energy content of the system was rather high during the long time keeping at high temperature and 
+the small number of hydrophobic interactions (at the low DM) was not sufficient for a substantial gel 
+formation. The formation of hydrogen bonds was delayed, too. The distance between pectin 
+molecules was large and the ionic bonds were not completely stable, yet (Cárdenas et al., 2008; 
+Garnier et al., 1993). Moreover, calcium ions might be delocalized between the pectin molecules 
+instead of binding closely in bridges and forming a strong gel. The latter effect might be comparable 
+to the counter ion condensation as described by Siew, Williams, and Young (2005). It can be, in 
+general, assumed that a fast cooling (e.g. 2 K/min) supports early formation of calcium bridges, 
+stabilized by the more rapid formation of hydrogen bonds. The IST varied between 59.5 and 65.8 °C 
+(Table 1), the CST differed between 43.4 and 53.6 °C. The GP significantly differed and was 
+between IST and CST for all cooling rates (Table 1). The SDRa of the non-amidated LMP gels was 
+generally low (Table 1). It slightly, but significantly increased with increasing cooling rate because 
+the strong reduction of cooling time dominated the moderate increase of G’.   
+ 
+Fig. 1 
+Influence of the cooling rate (K/min) of standard LMP gel on the structuring velocity (dG’/dt). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+G*
+GW3DPLQ
+WHPSHUDWXUH&
+.PLQ
+
+
+ 
+9 
+FRROLQJUDWH.PLQ
+,67&
+&67&
+*3&
+WDQįHQG
+6'5D3DPLQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+Table 1 Gelling parameters of standard LMP gel in dependence on the cooling rate. IST = initial structuring temperature, 
+CST = critical structuring temperature, GP = gel point, tandend = loss factor as determined after the end of the 
+gelation, SDRa = average structure developing rate. P indicates significant differences: * for P < 0.05, ** for 
+P < 0.01 and *** for P < 0.001. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The final LMP gels were relatively viscous (soft or liquid-like), their tandend was rather high (Table 1). 
+With increasing cooling rate, the tandend significantly but only slightly decreased, indicating that the 
+final gel structure depended only weakly on the cooling rate. Thus, the influence of the cooling rate 
+on junction zone length and the resulting final gel structure, as described for gels with hydrogen 
+bonds such as gelatin (Ziegler & Foegeding, 1990) and HMP gels (Kastner et al., 2014), could not 
+be confirmed for the gelation of LMP via calcium bridges.  
+Comparing the influence of the cooling rate on the structuring behavior of LMP with that of HMP 
+gels (Kastner et al., 2014), similarities as well as differences are found. The cooling rate in all pectin 
+gels had a moderate influence on the structuring temperatures IST and CST but clearly increased 
+the structuring velocity and affected the properties of the final gels. The cooling rate impact on LMP 
+gels differed strongly from that of the HMP. The structuring temperature IST and CST of LMP gels 
+were generally lower than those of HMP gels but also their structuring velocity was much lower. The 
+most important difference with respect to the cooling rate is the difference in the final gel properties 
+as indicated by tandend. Gels behaved completely opposite with increasing tandend for HMP gels and 
+decreasing tandend for LMP gels. The additional junction zones formed via calcium bridges in the 
+LMP altogether reduced the influence of the cooling rate on the pectin gelation. These results 
+confirm the postulated differences in the gelling mechanisms of HMP and LMP in sugar acid gel 
+formulations caused by the additional occurrence of ionic interactions. 
+3.2. Effect of calcium concentration on structure formation and gel properties for LMAP 
+The amount of CaCl2 added to the gels was chosen based on the examination of the impact of 
+calcium on gel formation of non-amidated LMP (Kastner et al., 2012b). The amount of CaCl2 in the 
+standard gel was varied in both directions, so that a stoichiometric ratio between 0.72 and 1.45 
+were reached. The R-values in the LMAP gels were higher than those in the corresponding LMP 
+
+ 
+10 
+5
+,67& &67&
+*3&
+WDQįHQG
+6'5D3DPLQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+gels at the same calcium content. Despite of a similar DM (about 30%) of one LMAP and LMP, the 
+presence of amidated carboxyl groups reduced the number of free dissociated carboxyl groups of 
+LMAP and, thus, ionotropic gelation. Moreover, it was expected that even at similar R-values the 
+results would differ because of the more pronounced role of hydrogen bonds of the amide groups in 
+the cold-set gelation of LMAP.  
+Table 2 Gelling parameters of LMAP gel in dependence on the concentration of calcium. R = stoichiometric ratio of 
+calcium ions, IST = initial structuring temperature, CST = critical structuring temperature, GP = gel point, tandend = 
+loss factor as determined after the end of the gelation, SDRa = average structure developing rate. P indicates 
+significant differences: * for P < 0.05, ** for P < 0.01 and *** for P < 0.001. 
+ 
+ 
+ 
+ 
+ 
+ 
+The structuring velocity curves were similar in shape for all R (data not shown), only the start of the 
+gelling process differed. Below 60 °C, the structuring velocities increased parallel over a range of 
+30 K and achieved a similar level, followed by a subsequent non-linear structure development. The 
+structuring temperatures IST and CST significantly increased with increasing calcium content 
+(Table 2). This is in agreement with Lootens et al. (2003). The IST varied in a relatively broad range 
+(DT = 17.5 K) compared to the CST, which varied in a smaller range (DT = 9.9 K). The GP varied by 
+14.4 K between the samples, at R = 1.45 no GP was detectable. With increasing R, the IST raised 
+faster than the CST. It is assumed that a high calcium content in all gels induced a more rapid initial 
+structure formation by immediately forming calcium bridges between blocks of dissociated free 
+carboxyl groups (ionotropic gelation). The main structuring process as indicated by the CST, 
+however, was not accelerated to the same extent. It seems likely that as a consequence of a 
+surplus of calcium ions and the low share of dissociated carboxyl groups in blocks calcium ions did 
+not only form bridges, but rather bound to one pectin chain and induced an electrostatic repulsion 
+by their positive charge. The latter inhibits the gel stabilization by hydrogen bonds between 
+undissociated carboxyl as well as amide groups (cold set-gelation), which have a much smaller 
+working range and could not crosslink due to the distance between neighbored charged parts of the 
+pectin molecules.  
+The SDRa was rather high and nearly constant, independent on R (Table 2). The loss factor 
+(tandend) of the final LMAP gels was rather low in comparison to the corresponding standard LMP 
+gel cooled at 1 K/min (Table 1). The SDRa slightly, but significantly increased at higher R (Table 2). 
+
+ 
+11 
+The corresponding gels were more solid-like, as it was also described by (Lootens et al., 2003), and 
+showed an increased brittleness. It must be assumed that at the highest calcium concentration local 
+micro-gels as described in Kastner et al. (2014), have been formed rapidly before the start of the 
+measurement, because no clear gel point could be determined for these gels.  
+The presented results of the effect of calcium ions on the structuring process of LMAP as well as 
+those of the previous publication concerning the effect on non-amidated LMP (Kastner et al., 2012b) 
+generally confirm the crucial role of calcium ions in the gelling process of low-methoxylated pectin. 
+Comparing the influence of increasing calcium content on the gelation of non-amidated LMP with 
+amidated LMP of a similar DM, however, considerable differences were found. LMAP required less 
+calcium for starting the structuring process. An increase in calcium ions accelerated structure 
+formation only to a certain extent, because the number of free carboxyl groups with block-wise 
+distribution was smaller. After saturation of these groups with calcium ions, additional calcium may 
+cause repulsion of pectin chains and delay the initial gelling step. The formation of hydrogen bonds 
+of the amide groups, however, considerably contributed to the cold-set gelation at lower 
+temperature and altered the kinetics of the structuring process as well as the properties of the final 
+gels. It has to be kept in mind that the comparison is influenced by the different stoichiometric ratio. 
+However, also a direct comparison of previously reported data on LMP gels (Kastner et al., 2012b) 
+and the LMAP gels of the present study with similar R in the range of 0.7 to 0.9 confirmed the 
+differences described above. 
+3.3 Effect of acid content (pH ≤ 4) on structure formation and gel properties for LMP and LMAP 
+Variation of the concentration of acid in LMP and LMAP gels results in pH-values that varied around 
+3.5, the pKa of pectin (Table 3). As outlined in 3.2, addition of 6.25 mM CaCl2/kg gel meant a 
+different stoichiometric ratio for the two pectin types. R amounted to 0.7 in the LMP gels and to 1.09 
+for the LMAP gels, respectively. Through variation of the pH it is possible to examine, how a 
+reduction of dissociated carboxyl groups and pectin-calcium interactions on the one hand, and a 
+possible increase of hydrogen bonds between undissociated carboxyl groups on the other hand 
+affects gelation.  
+For LMP as well as LMAP, IST and CST decreased significantly with decreasing pH. A clear GP 
+was only found at pH ≤ 3.1 (Table 3). With decreasing pH, the structuring temperatures decreased 
+because of a reduction in the number of dissociated carboxyl groups with block-wise distribution. 
+The latter are necessary for the rapid formation of ionic junction zones via calcium bridges at high 
+temperature and decreased with increasing acid content. Thus, a reduced number of calcium 
+bridges delayed the gelling process (Fig. 2a and b). Limited hydrophobic interactions (only about 
+30% of the carboxyl groups were methoxylated) were not sufficient for a quick effective gelation at 
+
+ 
+12 
+S+
+,67
+&
+&67
+&
+*3
+&
+WDQįHQG
+6'5D
+3DPLQ
+S+
+,67
+&
+&67
+&
+*3
+&
+WDQįHQG
+6'5D
+3DPLQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+FLWULFDFLG
+P0NJJHO
+/03
+/0$3
+temperatures > 50 °C. The structure formation at low pH is mainly due to the action of hydrogen 
+bonds, but this process starts later at lower temperatures. 
+Table 3 Gelling parameters of LMP and LMAP gels in dependence on the concentration of acid. IST = initial structuring 
+temperature, CST = critical structuring temperature, GP = gel point, tandend = loss factor as determined after the 
+end of the gelation, SDRa = average structure developing rate. P indicates significant differences: * for P < 0.05, 
+** for P < 0.01 and *** for P < 0.001. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2 
+ Influence of the acid concentration of (a) LMP gels (R = 0.70) and (b) LMAP gels (R = 1.09) on the structuring 
+velocity (dG’/dt); 1: pH 4.0, 2: pH 3.6 (LMP) or 3.5 (LMAP), 3: pH 3.3, 4: pH 3.1, 5: pH 3.0, 6: pH 2.9. 
+The different level and shape of the structuring velocity curves of the LMP and LMAP gels (Fig. 2) 
+confirm the differences in gelation behavior of the two pectin types. For LMP, the structuring velocity 
+decreased with decreasing pH. Obviously, the increasing number of hydrogen bonds between the 
+non-dissociated carboxyl groups could not compensate the lack of calcium bridges. In case of 
+LMAP, the steep increases of the curves (number 3 to 5) underline the supportive effect of the 
+higher number of hydrogen bonds formed due to the presence of the amide groups. These groups 
+considerably accelerated the gelling process and more than compensated the lack of ionic 
+interactions at lower temperature.  
+
+ 
+13 
+Comparing the SDRa of the LMP and LMAP gelation, the differences were even more evident 
+(Table 3). For LMP, values were rather low with a maximum at the highest pH of 4.0. In contrast, in 
+case of LMAP the SDRa at pH 4.0 was at its minimum, but increased strongly down to pH 3.3 and 
+formed a plateau at lower pH. Also the comparison of the final gel properties (tandend) of the LMP 
+and LMAP showed that the samples behaved differently with decreasing pH (Table 3). LMP gels 
+became more viscous (liquid-like) and the gel structure was less compact. In contrast, LMAP gels 
+became more elastic (solid-like) and the gel structure was in general more compact, independent 
+from the pH. These differences confirmed the impact of the decreasing number of calcium bridges 
+and the positive effect of the hydrogen bonds as discussed above.  
+The presented results are in agreement with literature data. The pectin backbone, the 
+polygalacturonate chain, may undergo a conformational transition with a shift in pH. By lowering the 
+temperature at pH below the pKa, a more compact three-fold helix can be formed by minimizing 
+electrostatic repulsion (Gilsenan, Richardson, & Morris, 2000). Therefore, more carboxyl groups can 
+act as donors in hydrogen bonds. Löfgren et al. (2006) also demonstrated that the pH affects the 
+structuring process and gel properties of pectin. The microstructure of pectin gels at pH 3 and 30% 
+sucrose was open and highly aggregated, compared to gels formed at pH 7 with a denser and more 
+entangled structure. The authors stated that this difference resulted from a lower charge density and 
+more compact conformational structure of the pectin molecules at pH 3. For amidated pectin they 
+reported, that the structure formation at pH 3 was the highest of all tested gels and that the amide 
+groups additionally strengthened the gel network by forming more hydrogen bonds.  
+Comparing the influence of pH on the gelation of LMP and LMAP with that on HMP (Kastner et al., 
+2014), a general decrease of the structuring temperatures with decreasing pH was found for all 
+pectins. The effect was, however, much stronger for the two LMP samples. Once more, the gelling 
+mechanisms were crucial for the understanding. Whereas in case of HMP a decreasing pH led to an 
+increase in non-dissociated carboxyl groups and thus increased the chance for the formation of 
+hydrogen bonds in the cold-set gelation, in case of LMP (and partly also the LMAP) it reduced the 
+number of potential binding sites for calcium ions and, thus, inhibited the ionotropic gelation. 
+Comparing the final gel properties (tandend), the effect of pH was strongest for LMP (strong increase) 
+and lowest for LMAP (weak decrease). Obviously, the gelation of the LMAP was more affected by 
+the formation of hydrogen bonds including the amide group, which seemed to be less pH dependent 
+than those of the carboxyl groups. 
+ 
+ 
+
+ 
+14 
+'0
+
+*&
+
+'$
+
+5
+,67
+&
+&67
+&
+*3
+&
+WDQįHQG
+6'5D
+3DPLQ
+/03
+
+
+
+
+
+
+
+
+
+/0$3
+
+
+
+
+
+
+
+
+
+3.4 Direct comparison of the structuring process of a LMP and a LMAP gelation  
+Finally, a direct comparison of the structuring processes of a non-amidated and an amidated LMP, 
+prepared with comparable calcium content (0.7 for the LMP and 0.73 for the LMAP) and under 
+identical conditions of pH and cooling rate, might illustrate the principal differences between the 
+structure formations of the two pectin types (Fig. 3, Table 4). 
+ 
+Fig. 3 
+Comparison of the structuring velocity curves (dG’/dt) of two LMP and LMAP gels with similar R (0.70, 0.73, 
+respectively) under the same conditions. 
+The structure formation velocities of non-amidated and amidated pectin differed significantly. The 
+initial gelling process of LMP and LMAP was similar (comparable IST) but the real structure 
+formation of the LMAP gel, as characterized by the GP temperature and the CST, started 
+significantly earlier than that of LMP. Also the SDRa and the final gel structure (tandend) differed 
+considerably. The SDRa of the LMAP was more than five times as high as that of the LMP, the LMP 
+gel was much more viscous (“soft”) and the LMAP gels much more elastic (brittle). 
+Table 4 Comparison of LMP and LMAP gels with similar R. DM = degree of methoxylation, GC = galacturonan content, 
+DA = degree of amidation, R = stoichiometric ratio of calcium ions, IST = initial structuring temperature, CST = 
+critical structuring temperature, GP = gel point, tandend = loss factor as determined after the end of the gelation, 
+SDRa = average structure developing rate. P indicates significant differences between LMP and LMAP: * for 
+P < 0.05, ** for P < 0.01 and *** for P < 0.001. 
+ 
+ 
+ 
+Thus, the direct comparison of the two gels clearly confirms the differences in the gelling 
+mechanisms of non-amidated and amidated pectins as discussed above and, especially, the role of 
+the amide group hydrogen bonds on the gelation of amidated LMP.   
+ 
+ 
+
+ 
+15 
+4 Conclusions 
+The general aim of our work on structure formation of pectin gels was a detailed investigation of the 
+influence of different parameters on the gelation kinetic of high-methoxylated, low-methoxylated and 
+amidated pectins and on the different types of junction zones between pectin chains (hydrophobic 
+interactions, hydrogen bonds and calcium-bridges).  
+As expected, the impact of the cooling conditions on LMP gels differed considerably from that on 
+HMP gels. The formation of calcium bridges, which have a low sensitivity to temperature, reduced 
+the effect of the cooling rate on LMP gelation. A delay of structure formation upon decrease of the 
+pH was found for all types of pectin. In case of HMP (Kastner et al., 2014) it led to an increase in 
+non-dissociated carboxyl groups and, thus, increased the chance for the formation of hydrogen 
+bonds. For LMP and partly also LMAP, a decrease of pH reduced the number of potential binding 
+sites for calcium ions and, thus, inhibited the gelation. Moreover, the gelation of LMAP was 
+considerably influenced by the formation of hydrogen bonds including the amide group, which 
+seemed to be less dependent on pH than hydrogen bonds between the carboxyl groups. Comparing 
+a non-amidated and an amidated LMP, differences in the structure formation were also found with 
+respect to the calcium concentration. On the one hand, fast saturation of the low number of 
+dissociated free carboxyl groups in LMAP with calcium ions may result in a reduced number of ionic 
+interactions. On the other hand, the formation of hydrogen bonds involving the amide groups in 
+LMAP may considerably promote the structuring process. A LMAP gel seemed to be more ‘stable’ 
+than a non-amidated LMP gel prepared at the same calcium ratio R.   
+In summary, the results presented confirm the assumptions on the differences in HMP, LMP and 
+LMAP gelation and proof the principal differences in the structure formation of pectin with varying 
+DM in dependence on the gelling conditions. This knowledge is essential because pectin is 
+prepared from biological raw materials with varying structure and, thus, properties. Pectin suppliers 
+adjust their products to specific requirements by adapting the method of extraction and subsequent 
+modification. The type of demethoxylation of the commercial LMP applied in the presented work 
+was not defined in detail. We assume, however, that also the type of the pectin demethoxylation 
+(acidic, enzymatic) may have a certain effect on the gelling process of pectin. Therefore, the impact 
+of different pectin demethoxylation methods on the structuring process will be the subject of our 
+further work.  
+ 
+Acknowledgments 
+The authors would like to thank Karla Kern for the skillful technical assistance during the pectin gel 
+preparation. 
+
+ 
+16 
+References 
+Alonso-Mougán, M., Meijide, F., Jover, A., Rodrı́guez-Núñez, E., & Vázquez-Tato, J. (2002). 
+Rheological behaviour of an amide pectin. Journal of Food Engineering, 55(2), 123–129. 
+https://doi.org/10.1016/S0260-8774(02)00026-2 
+Axelos, M. A. V., & Kolb, M. (1990). Crosslinked biopolymers: Experimental evidence for scalar 
+percolation theory. Physical Review Letters, 64(12), 1457–1460. 
+https://doi.org/10.1103/PhysRevLett.64.1457 
+Black, S. A., & Smit, C. J. B. (1972). The effect of demethylation procedures on the quality of low-
+ester pectins used in dessert gels. Journal of Food Science, 37(5), 730–732. 
+https://doi.org/10.1111/j.1365-2621.1972.tb02737.x 
+Braccini, I., & Pérez, S. (2001). Molecular basis of Ca2+-induced gelation in alginates and pectins:  
+the egg-box model revisited. Biomacromolecules, 2(4), 1089–1096. 
+https://doi.org/10.1021/bm010008g 
+Burey, P., Bhandari, B. R., Howes, T., & Gidley, M. J. (2008). Hydrocolloid Gel Particles: Formation, 
+Characterization, and Application. Critical Reviews in Food Science and Nutrition, 48(5), 361–377. 
+https://doi.org/10.1080/10408390701347801 
+Capel, F., Nicolai, T., Durand, D., Boulenguer, P., & Langendorff, V. (2006). Calcium and acid 
+induced gelation of (amidated) low methoxyl pectin. Food Hydrocolloids, 20(6), 901–907. 
+https://doi.org/10.1016/j.foodhyd.2005.09.004 
+Cárdenas, A., Goycoolea, F. M., & Rinaudo, M. (2008). On the gelling behaviour of “nopal” (Opuntia 
+ficus indica) low methoxyl pectin. Carbohydrate Polymers, 73(2), 212–222. 
+https://doi.org/10.1016/j.carbpol.2007.11.017 
+Einhorn-Stoll, U., Kastner, H., & Drusch, S. (2014). Thermally induced degradation of citrus pectins 
+during storage – Alterations in molecular structure, colour and thermal analysis. Food Hydrocolloids, 
+35, 565–575. https://doi.org/10.1016/j.foodhyd.2013.07.020 
+Einhorn-Stoll, U., Kastner, H., Hecht, T., Zimathies, A., & Drusch, S. (2015). Modification and 
+physico-chemical properties of citrus pectin – Influence of enzymatic and acidic demethoxylation. 
+Food Hydrocolloids, 51, 338–345. https://doi.org/10.1016/j.foodhyd.2015.05.031 
+Einhorn-Stoll, U., Kastner, H., & Senge, B. (2012). Comparison of Molecular Parameters; Material 
+Properties and Gelling behaviour of Commercial Citrus Pectins. In P. A. Williams & G. O. Phillips 
+(Eds.), Gums and Stabilisers for the Food Industry 16 (pp. 199–206). Retrieved from 
+https://doi.org/10.1039/9781849734554-00199 
+
+ 
+17 
+Einhorn-Stoll, U., Prinz, C., & Drusch, S. (2014). Influence of Storage on the Water Binding of 
+Pectin: Determination by DSC. In P. A. Williams & G. O. Phillips (Eds.), Gums and Stabilisers for 
+the Food Industry 17 : The Changing Face of Food Manufacture: The Role of Hydrocolloids (pp. 
+147–154). Retrieved from https://doi.org/10.1039/9781782621300-00147 
+Endress, H. U., & Christensen, S. H. (2009). Pectins. In G. O. Phillips & P. A. Williams (Eds.), 
+Handbook of Hydrocolloids (2nd ed., pp. 274–297). Cambridge: Woodhead Publishing. Retrieved 
+from http://www.sciencedirect.com/science/article/pii/B9781845694142500126 
+Evageliou, V., Richardson, R. K., & Morris, E. R. (2000). Effect of pH, sugar type and thermal 
+annealing on high-methoxy pectin gels. Carbohydrate Polymers, 42(3), 245–259. 
+https://doi.org/10.1016/S0144-8617(99)00191-5 
+Fang, Y., Al-Assaf, S., Phillips, G. O., Nishinari, K., Funami, T., & Williams, P. A. (2008). Binding 
+behavior of calcium to polyuronates: Comparison of pectin with alginate. Carbohydrate Polymers, 
+72(2), 334–341. https://doi.org/10.1016/j.carbpol.2007.08.021 
+Fraeye, I., Colle, I., Vandevenne, E., Duvetter, T., Van Buggenhout, S., Moldenaers, P., … 
+Hendrickx, M. (2010). Influence of pectin structure on texture of pectin–calcium gels. Innovative 
+Food Science & Emerging Technologies, 11(2), 401–409. https://doi.org/10.1016/j.ifset.2009.08.015 
+Fraeye, I., Doungla, E., Duvetter, T., Moldenaers, P., Van Loey, A., & Hendrickx, M. (2009). 
+Influence of intrinsic and extrinsic factors on rheology of pectin–calcium gels. Food Hydrocolloids, 
+23(8), 2069–2077. https://doi.org/10.1016/j.foodhyd.2009.03.022 
+Garnier, C., Axelos, M. A. V., & Thibault, J.-F. (1993). Phase diagrams of pectin-calcium systems: 
+Influence of pH, ionic strength, and temperature on the gelation of pectins with different degrees of 
+methylation. Carbohydrate Research, 240, 219–232. https://doi.org/10.1016/0008-6215(93)84185-9 
+Garrido, J. I., Lozano, J. E., & Genovese, D. B. (2015). Effect of formulation variables on rheology, 
+texture, colour, and acceptability of apple jelly: Modelling and optimization. LWT - Food Science and 
+Technology, 62(1, Part 1), 325–332. https://doi.org/10.1016/j.lwt.2014.07.010 
+Gigli, J., Garnier, C., & Piazza, L. (2009). Rheological behaviour of low-methoxyl pectin gels over an 
+extended frequency window. Food Hydrocolloids, 23(5), 1406–1412. 
+https://doi.org/10.1016/j.foodhyd.2008.09.015 
+Gilsenan, P. M., Richardson, R. K., & Morris, E. R. (2000). Thermally reversible acid-induced 
+gelation of low-methoxy pectin. Carbohydrate Polymers, 41(4), 339–349. 
+https://doi.org/10.1016/S0144-8617(99)00119-8 
+Grosso, C. R. F., & Rao, M. A. (1998). Dynamic rheology of structure development in low-methoxyl 
+
+ 
+18 
+pectin Ca2+ sugar gels. Food Hydrocolloids, 12(3), 357–363. https://doi.org/10.1016/S0268-
+005X(98)00034-4 
+Guillotin, S. E., Van Kampen, J., Boulenguer, P., Schols, H. A., & Voragen, A. G. J. (2006). Degree 
+of blockiness of amide groups as indicator for difference in physical behavior of amidated pectins. 
+Biopolymers, 82(1), 29–37. https://doi.org/10.1002/bip.20456 
+Holst, P. S., Kjøniksen, A.-L., Bu, H., Sande, S. A., & Nyström, B. (2006). Rheological properties of 
+pH-induced association and gelation of pectin. Polymer Bulletin, 56(2–3), 239–246. 
+https://doi.org/10.1007/s00289-005-0489-8 
+Iglesias, M. T., & Lozano, J. E. (2004). Extraction and characterization of sunflower pectin. Journal 
+of Food Engineering, 62(3), 215–223. https://doi.org/10.1016/S0260-8774(03)00234-6 
+Kastner, H., Einhorn-Stoll, U., & Senge, B. (2012a). New parameters for the examination of the 
+pectin gelation process. In P. A. Williams & G. O. Phillips (Eds.), Gums and Stabilisers for the Food 
+Industry 16 (pp. 191–197). Retrieved from https://doi.org/10.1039/9781849734554-00191 
+Kastner, H., Einhorn-Stoll, U., & Senge, B. (2012b). Structure formation in sugar containing pectin 
+gels – Influence of Ca2+ on the gelation of low-methoxylated pectin at acidic pH. Food 
+Hydrocolloids, 27(1), 42–49. https://doi.org/10.1016/j.foodhyd.2011.09.001 
+Kastner, H., Kern, K., Wilde, R., Berthold, A., Einhorn-Stoll, U., & Drusch, S. (2014). Structure 
+formation in sugar containing pectin gels – Influence of tartaric acid content (pH) and cooling rate on 
+the gelation of high-methoxylated pectin. Food Chemistry, 144, 44–49. 
+https://doi.org/10.1016/j.foodchem.2013.06.127 
+Liners, F., Thibault, J.-F., & Cutsem, P. V. (1992). Influence of the degree of polymerization of 
+oligogalacturonates and of esterification pattern of pectin on their recognition by monoclonal 
+antibodies. Plant Physiology, 99, 1099–1104. https://doi.org/10.1104/pp.99.3.1099 
+Löfgren, C., Guillotin, S., & Hermansson, A.-M. (2006). Microstructure and kinetic rheological 
+behavior of amidated and nonamidated LM pectin gels. Biomacromolecules, 7(1), 114–121. 
+https://doi.org/10.1021/bm050459r 
+Löfgren, C., & Hermansson, A.-M. (2007). Synergistic rheological behaviour of mixed HM/LM pectin 
+gels. Food Hydrocolloids, 21(3), 480–486. https://doi.org/10.1016/j.foodhyd.2006.07.005 
+Lootens, D., Capel, F., Durand, D., Nicolai, T., Boulenguer, P., & Langendorff, V. (2003). Influence 
+of pH, Ca concentration, temperature and amidation on the gelation of low methoxyl pectin. Food 
+Hydrocolloids, 17(3), 237–244. https://doi.org/10.1016/S0268-005X(02)00056-5 
+Lopes da Silva, J. A., & Gonçalves, M. P. (1994). Rheological study into the ageing process of high 
+
+ 
+19 
+methoxyl pectin/sucrose aqueous gels. Carbohydrate Polymers, 24(4), 235–245. 
+https://doi.org/10.1016/0144-8617(94)90068-X 
+Luzio, G. A., & Cameron, R. G. (2008). Demethylation of a model homogalacturonan with the salt-
+independent pectin methylesterase from citrus: Part II. Structure–function analysis. Carbohydrate 
+Polymers, 71(2), 300–309. https://doi.org/10.1016/j.carbpol.2007.05.038 
+Ngouémazong, D. E., Tengweh, F. F., Fraeye, I., Duvetter, T., Cardinaels, R., Van Loey, A., … 
+Hendrickx, M. (2012). Effect of de-methylesterification on network development and nature of Ca2+-
+pectin gels: Towards understanding structure–function relations of pectin. Food Hydrocolloids, 
+26(1), 89–98. https://doi.org/10.1016/j.foodhyd.2011.04.002 
+Oakenfull, D., & Fenwick, D. E. (1977). Thermodynamics and mechanism of hydrophobic 
+interaction. Australian Journal of Chemistry, 30(4), 741–752. https://doi.org/10.1071/CH9770741 
+Oakenfull, D., & Scott, A. (1984). Hydrophobic interaction in the gelation of high methoxyl pectins. 
+Journal of Food Science, 49(4), 1093–1098. https://doi.org/10.1111/j.1365-2621.1984.tb10401.x 
+Powell, D. A., Morris, E. R., Gidley, M. J., & Rees, D. A. (1982). Conformations and interactions of 
+pectins: II. Influence of residue sequence on chain association in calcium pectate gels. Journal of 
+Molecular Biology, 155(4), 517–531. https://doi.org/10.1016/0022-2836(82)90485-5 
+Ralet, M.-C., Dronnet, V., Buchholt, H. C., & Thibault, J.-F. (2001). Enzymatically and chemically 
+de-esterified lime pectins: characterisation, polyelectrolyte behaviour and calcium binding 
+properties. Carbohydrate Research, 336(2), 117–125. https://doi.org/10.1016/S0008-
+6215(01)00248-8 
+Rao, M. A., & Cooley, H. J. (1993). Dynamic rheological measurement of structure development in 
+high-methoxyl pectin/fructose gels. Journal of Food Science, 58(4), 876–879. 
+https://doi.org/10.1111/j.1365-2621.1993.tb09381.x 
+Rolin, C., Chrestensen, I. B., Hansen, K. M., Staunstrup, J., & Sørensen, S. (2009). Tailoring pectin 
+with specific shape, composition and esterification pattern. In P. A. Williams & G. O. Phillips (Eds.), 
+Gums and Stabilisers for the Food Industry 15 (pp. 13–25). Cambridge: Royal Society of Chemistry. 
+Retrieved from http://dx.doi.org/10.1039/9781849730747-00013 
+Siew, C. K., Williams, P. A., & Young, N. W. G. (2005). New insights into the mechanism of gelation 
+of alginate and pectin: Charge annihilation and reversal mechanism. Biomacromolecules, 6(2), 963–
+969. https://doi.org/10.1021/bm049341l 
+Sousa, A. G., Nielsen, H. L., Armagan, I., Larsen, J., & Sørensen, S. O. (2015). The impact of 
+rhamnogalacturonan-I side chain monosaccharides on the rheological properties of citrus pectin. 
+
+ 
+20 
+Food Hydrocolloids, 47, 130–139. https://doi.org/10.1016/j.foodhyd.2015.01.013 
+Ström, A., Ribelles, P., Lundin, L., Norton, I., Morris, E. R., & Williams, M. A. K. (2007). Influence of 
+pectin fine structure on the mechanical properties of calcium−pectin and acid−pectin gels. 
+Biomacromolecules, 8(9), 2668–2674. https://doi.org/10.1021/bm070192r 
+Ström, A., & Williams, M. A. K. (2003). Controlled Calcium Release in the Absence and Presence of 
+an Ion-Binding Polymer. The Journal of Physical Chemistry B, 107(40), 10995–10999. 
+https://doi.org/10.1021/jp034322b 
+Thakur, B. R., Singh, R. K., Handa, A. K., & Rao, D. M. A. (1997). Chemistry and uses of pectin — 
+A review. Critical Reviews in Food Science and Nutrition, 37(1), 47–73. 
+https://doi.org/10.1080/10408399709527767 
+Thibault, J.-F., & Ralet, M.-C. (2003). Physico-chemical properties of pectins in the cell walls and 
+after extraction. In F. Voragen, H. Schols, & R. Visser (Eds.), Advances in Pectin and Pectinase 
+Research (pp. 91–105). Springer Netherlands. Retrieved from http://dx.doi.org/10.1007/978-94-017-
+0331-4_7 
+Tsoga, A., Richardson, R. K., & Morris, E. R. (2004). Role of cosolutes in gelation of high-methoxy 
+pectin. Part 1. Comparison of sugars and polyols. Food Hydrocolloids, 18(6), 907–919. 
+https://doi.org/10.1016/j.foodhyd.2004.03.001 
+Vincent, R. R., & Williams, M. A. K. (2009). Microrheological investigations give insights into the 
+microstructure and functionality of pectin gels. Carbohydrate Research, 344(14), 1863–1871. 
+https://doi.org/10.1016/j.carres.2008.11.021 
+Walstra, P. (2002). Physical Chemistry of Foods. New York: Taylor & Francis Inc. 
+Wang, K., Hua, X., Yang, R., Kang, J., & Zhang, W. (2014). Hydrodynamic behavior and gelling 
+properties of sunflower head pectin in the presence of sodium salts. Food Hydrocolloids, 36, 238–
+244. https://doi.org/10.1016/j.foodhyd.2013.09.011 
+Yapo, B. M., & Gnakri, D. (2015). Pectic polysaccharides and their functional properties. In K. G. 
+Ramawat & J.-M. Mérillon (Eds.), Polysaccharides - Bioactivity and Biotechnology (pp. 1729–1746). 
+Springer International Publishing. 
+Ziegler, G. R., & Foegeding, E. A. (1990). The gelation of proteins. In J. E. Kinsella (Ed.), Advances 
+in Food and Nutrition Research (Vol. 34, pp. 203–298). Academic Press. 

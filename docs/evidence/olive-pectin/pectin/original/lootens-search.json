@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://archive.org/stream/TheTheoryOfThePhotographicProcess/aa012_djvu.txt",
+        "title": "Full text of \"The Theory of the Photographic Process\"",
+        "description": "light-sensitivity of the compounds of silver, and the photographic materials discussed are those which are formed by the suspension of halides of silver in a layer of gelatin.",
+        "position": 1
+      },
+      {
+        "url": "https://archive.org/stream/sim_cumulated-index-medicus_1994_35_14/sim_cumulated-index-medicus_1994_35_14_djvu.txt",
+        "title": "Full text of \"Cumulated Index Medicus 1994: Vol 35 Iss 14\"",
+        "description": "ISSN: 0090-1423\n\nprotein-3, bone isoenzyme alkaline tase\n4 forearm bone mineral content in young adults with\nH deficiency of childhood onset. Eur J Endocrinol 1994\nhal 1311-419\nuul A see Main\nJuul AM see Wormsley M\nJuul C see Kroman N\ning PMP research [letter; comment]\n~\u2014 Comment on: Acad\nBS, Thomsen LH, Lund",
+        "position": 2
+      },
+      {
+        "url": "https://orgprints.org/view/type/conference=5Fitem.html",
+        "title": "Organic Eprints - Browse eprints by Type",
+        "description": "Authors |",
+        "position": 3
+      },
+      {
+        "url": "https://ouci.dntb.gov.ua/en/works/40NLqOm9",
+        "title": "Structure-properties correlations in low-methylated pectin hydrogels and aerogels crosslinked by divalent ions",
+        "description": "2069 DOI:  10.1016/j.foodhyd.2009.03.022  Lootens, Influence of pH, Ca concentration, temperature and amidation on the gelation of low methoxyl pectin, Food Hydrocoll, \u2116 17, \u0441.\n\nAdvanced Materials for Thermal Insulation and Drug Delivery Applications, Thesis, Universit\u00e9 Paris sciences et lettres, 2019. https://pastel.hal.science/tel-02420381 (accessed August 7, 2024). Fraeye, Influence of intrinsic and extrinsic factors on rheology of pectin\u2013calcium gels, Food",
+        "position": 4
+      },
+      {
+        "url": "https://orgprints.org/view/doclang/en.refereed.html",
+        "title": "Browse eprints by Document Language",
+        "description": "| # Browse eprints by Document Language Group by: No Grouping | Authors | Refereed |",
+        "position": 5
+      }
+    ]
+  }
+}

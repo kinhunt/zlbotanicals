@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "url": "https://www.herbstreith-fox.de/en/download/full-mouthfeel-and-low-syneresis-in-low-sugar-fruit-spreads/",
+      "title": "",
+      "content": "",
+      "error": "Keyless Firecrawl extract failed: Client error '403 Forbidden' for url 'https://api.firecrawl.dev/v2/scrape'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403. Set FIRECRAWL_API_KEY (https://firecrawl.dev) for reliable service."
+    },
+    {
+      "url": "https://www.herbstreith-fox.de/en/pectins/amid-pectin/",
+      "title": "",
+      "content": "",
+      "error": "Keyless Firecrawl extract failed: Client error '403 Forbidden' for url 'https://api.firecrawl.dev/v2/scrape'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403. Set FIRECRAWL_API_KEY (https://firecrawl.dev) for reliable service."
+    },
+    {
+      "url": "https://depositonce.tu-berlin.de/items/46c0370a-4a9e-401f-9956-7b4f04001e2c",
+      "title": "",
+      "content": "",
+      "error": "Keyless Firecrawl extract failed: Client error '403 Forbidden' for url 'https://api.firecrawl.dev/v2/scrape'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403. Set FIRECRAWL_API_KEY (https://firecrawl.dev) for reliable service."
+    },
+    {
+      "url": "https://explore.azelis.com/en_GB/nz_fh/genu-pectin-lm-104-as",
+      "title": "",
+      "content": "",
+      "error": "Keyless Firecrawl extract failed: Client error '403 Forbidden' for url 'https://api.firecrawl.dev/v2/scrape'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403. Set FIRECRAWL_API_KEY (https://firecrawl.dev) for reliable service."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0268005X02000565",
+      "title": "",
+      "content": "",
+      "error": "Keyless Firecrawl extract failed: Client error '403 Forbidden' for url 'https://api.firecrawl.dev/v2/scrape'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403. Set FIRECRAWL_API_KEY (https://firecrawl.dev) for reliable service."
+    }
+  ]
+}
