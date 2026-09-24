@@ -22,7 +22,7 @@ Keep the first failed bottle intact rather than immediately filtering it. Photog
 
 Lumps present immediately after powder addition make wetting and dispersion the first processes to investigate. A uniform drink that becomes hazy only after cooling calls for a different test of storage-induced aggregation. Treat surface film, or *tea scum*, as another category. The abstract of a tea-scum study reports that calcium and bicarbonate ions in the water mediate film formation; the film cannot simply be explained as deposited calcium carbonate sitting on the tea.<a href="#tea-haze-ref-4">[4]</a> A rim film and a haze throughout the bottle should therefore not share a single fault code.
 
-Record colour separately from haze. In a 2021 water-composition study, slightly alkaline green-tea infusions browned while EGC and EGCG declined over time.<a href="#tea-haze-ref-3">[3]</a> That gives a different explanation from particles merely making the liquid look darker. Where darkening is pronounced without a corresponding change in sediment, investigate final pH, holding time and the catechin profile before specifying a finer filter.
+Record colour separately from haze. In a 2021 water-composition study, slightly alkaline green-tea infusions browned while EGC and EGCG declined over time.<a href="#tea-haze-ref-3">[3]</a> That gives a different explanation from particles merely making the liquid look darker. Where darkening is pronounced without a corresponding change in sediment, investigate final pH, holding time and the catechin profile before specifying a finer filter. That darkening path is taken up in <a href="/resources/blog/tea-browning-diagnosis">Why Tea Drinks Turn Brown Without Turning Hazy</a>.
 
 ## What the tea-cream mechanism tells you to measure
 
