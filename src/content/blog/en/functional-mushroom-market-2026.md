@@ -17,6 +17,8 @@ relatedSolutions:
 
 Updated: 2026-09-07. This is a procurement guide, not a market forecast, research review or supplier test report.
 
+For market context and product formats, read our [functional mushroom market research and reishi extract overview](/research/market/functional-mushrooms#reishi-extract-market). For material identity, testing and batch documentation, continue with the procurement checklist below.
+
 ## Make identity a purchase condition
 
 Reishi is a trade name, not enough to identify every Ganoderma material. Obtain the supplied species, fruiting body or mycelium declaration, growth substrate and processing history. Ganoderma lucidum on a catalog page does not establish the identity of a future batch.
