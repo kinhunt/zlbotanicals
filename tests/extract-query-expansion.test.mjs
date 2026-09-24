@@ -83,13 +83,14 @@ const baseline=file=>execFileSync('git',['show',`${base}:${file}`],{maxBuffer:30
 test('bounded editorial edits retain every plan, source, research case, patent and original public asset',()=>{
  const file='src/data/ingredient-reader-packs.json';
  const before=JSON.parse(baseline(file)),after=JSON.parse(readFileSync(file));
- const allowed={'goji-berry':['components'],stevia:['identity'],'licorice-root':['identity','components'],'centella-asiatica':['components','processes']};
+ const allowed={'goji-berry':['components'],stevia:['identity'],'licorice-root':['identity','components','effects','standards'],'centella-asiatica':['components','processes']};
  for(const old of before){
   const next=after.find(p=>p.productId===old.productId);
   assert.deepEqual(next.plans,old.plans);
-  // I04 adds two reviewed stevia references; all existing entries stay exact.
+  // I04 adds two reviewed stevia references; the licorice reader-pack insertion
+  // appends four reviewed sources (11-14); all existing entries stay exact.
   assert.deepEqual(next.sources.slice(0,old.sources.length),old.sources);
-  assert.equal(next.sources.length,old.sources.length+(old.productId==='stevia'?2:0));
+  assert.equal(next.sources.length,old.sources.length+(old.productId==='stevia'?2:old.productId==='licorice-root'?4:0));
   for(const lang of ['en','zh'])for(const s of old.content[lang]){
    const now=next.content[lang].find(x=>x.id===s.id);
    if(!(allowed[old.productId]||[]).includes(s.id)) assert.deepEqual(now,s,`${old.productId}/${lang}/${s.id}`);
