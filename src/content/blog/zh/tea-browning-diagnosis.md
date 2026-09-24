@@ -76,4 +76,3 @@ sources: []
 <p id="tea-browning-ref-8">[8] <a href="https://europepmc.org/search?query=DOI:%2210.1016/j.foodchem.2008.07.033%22">Effect of water quality on the nutritional components and antioxidant activity of green tea extracts（Food Chemistry, 2009；仅摘要，2026-09-24 取回）</a></p>
 
 <p id="tea-browning-ref-9">[9] <a href="https://europepmc.org/article/MED/16302765">Stability of tea polyphenol (−)-epigallocatechin-3-gallate and formation of dimers and epimers under common experimental conditions（J Agric Food Chem, 2005；仅摘要，2026-09-24 取回）</a></p>
-
