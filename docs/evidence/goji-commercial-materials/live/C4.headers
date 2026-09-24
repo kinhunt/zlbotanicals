@@ -1,0 +1,38 @@
+HTTP/2 200 
+date: Thu, 24 Sep 2026 01:39:38 GMT
+content-type: text/html; charset=utf-8
+x-download-options: noopen
+set-cookie: _shopify_y=df6774b2-3eb2-47c8-80c1-3746084defe8; domain=foodsofnations.com; path=/; expires=Fri, 24 Sep 2027 07:39:37 GMT; SameSite=Lax
+set-cookie: _shopify_s=e1259497-c8db-42f3-825a-b4c712bdfdf4; domain=foodsofnations.com; path=/; expires=Thu, 24 Sep 2026 02:09:37 GMT; SameSite=Lax
+set-cookie: localization=US; path=/; expires=Fri, 24 Sep 2027 01:39:38 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AaDREXcuAAEAOXs9plRJ1qYdz_b7_tQqB0FkG-MfyYlsULeFh3-Jz9vBFqmgqs4l3qqx_2ZxxmLNmYaYMvBHHLi7P8N-Nd5uxSvjrXopj0V844SsS-k4HYZk9plHNwpINsyYmCH-gh9qC1hNmRu5x_jiX5IBjfitGpgPGLpvpOE8KgawByWKlG5xTnxQOZYwBK7XNcwzKrHV46AkgwFgDczFNWYLfVO0FfixUXaL4JpfQaDDGerJrphXk2be9On2IEHtga-jv1kI2Ag7e0CoOLbvtn5BzVl6Uh3XU6kt5AnaqMN-D13anDf5FuQUfKp6zz9d1Z8FTyF3fGyEX9L3UQ6utYHsgQkQUCBOIkPyatz1PuYwB8_4JBiNTLErCA:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaDREXe7AAEAWuKFkUNQnyCOWEdP4YVz2BwXYWOroK4NSn0rmEZWdXiUSHzyAGSf_4fZPMbCmAuV9XJMl3sP9KWif3hAiwzqDvJlhYF48gdNANX73SwCcf8GSMnVJlYRL4JKIxTuQRZ1wtKSbQbP6uUdybg:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaDREXe7AAEAa_UKR7mYPx9uJFw_UNejxcLxhciCEIJWkNHGIlDxxHt8M5a7q9yBOIoBqT6GZ2j_3OLGZd-mPZTi3f8ZfW07QBl6Dvu5M7l3SyXZQDs-ZGXwQzJoWFL2ODCzdk0mxtvxCCseYIB3q21mWtI:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+cf-cache-status: DYNAMIC
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <https://code.jquery.com>; rel="preconnect"; crossorigin, <https://cdnjs.cloudflare.com>; rel="preconnect", <https://cdn.jsdelivr.net>; rel="preconnect"; crossorigin, <https://code.jquery.com/jquery-3.5.0.min.js>; as="script"; rel="preload"; crossorigin; integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=", <https://cdnjs.cloudflare.com/ajax/libs/shopify-cartjs/0.4.3/cart.min.js>; as="script"; rel="preload", <https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.21.1/babel.min.js>; as="script"; rel="preload", <https://cdn.jsdelivr.net/npm/react@16/umd/react.development.js>; as="script"; rel="preload"; crossorigin, <https://cdn.jsdelivr.net/npm/react-dom@16/umd/react-dom.development.js>; as="script"; rel="preload"; crossorigin, <https://cdn.jsdelivr.net/npm/react-is/umd/react-is.production.min.js>; as="script"; rel="preload"; crossorigin, <https://cdn.jsdelivr.net/npm/styled-components/dist/styled-components.min.js>; as="script"; rel="preload", <https://cdn.jsdelivr.net/npm/flickity@2/dist/flickity.pkgd.min.js>; as="script"; rel="preload", <https://cdn.jsdelivr.net/npm/flickity@2/dist/flickity.min.css>; as="style"; rel="preload", <https://api.getgrocerbox.com/shopify/grocerbox.js>; as="script"; rel="preload"
+x-permitted-cross-domain-policies: none
+etag: W/"page_cache:55444373675:ProductDetailsController:19ed82b083ed9dcce34e3e605b31d935:55d5fee23fb9a899ff07991670fb12d6"
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 1490
+shopify-complexity-score-v2: 149
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+access-control-allow-origin: *
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+cdn-cache-control: no-cache, no-store
+content-language: en-US
+accept-ch: Sec-CH-Viewport-Width
+x-shopify-perf-experiments: f_native_liquid_parser/v1
+powered-by: Shopify
+server-timing: processing;dur=156, db;dur=37, db_async;dur=15.127, render;dur=50, asn;desc="51167", edge;desc="FRA", country;desc="FR", theme;desc="161702641884", pageType;desc="product", servedBy;desc="w85x", requestID;desc="8513e2c6-614c-4cec-bd38-a33131de5e4f-1790213977", _y;desc="df6774b2-3eb2-47c8-80c1-3746084defe8", _s;desc="e1259497-c8db-42f3-825a-b4c712bdfdf4", _cmp;desc="3.AMPS_FRGES_f_f_oT44DG8fRs2wB9aTgQqEAQ", _cta;desc="1", _ye;desc="1821771578", _se;desc="1790215778", compressionLevel;desc="5", compressionTime;dur=8.344
+x-dc: gcp-europe-west1,gcp-europe-west1,gcp-europe-west1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cxOi8%2FKcOZwSfDHKwWl6HuZ6hxrRRS7q4LEGbEJAy1W2NqtreJzaKOx5yH%2BEcOWzz5GPIJbYHKPCyEKi3y700KkDL26yL3SLMNqxhtWyr%2Bsj2zEFRzhCPkl3OJbYA%2FvWvs5pNw%3D%3D"}]}
+x-content-type-options: nosniff
+x-request-id: 8513e2c6-614c-4cec-bd38-a33131de5e4f-1790213977
+cf-ray: a3fe1391ab4f8c0d-FRA
+

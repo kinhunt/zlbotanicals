@@ -1,0 +1,533 @@
+{
+  "productId": "goji-berry",
+  "group": "c",
+  "pack": "group-c/goji-berry.md",
+  "content": {
+    "zh": [
+      {
+        "id": "processes",
+        "heading": "工艺维：两条路线必须从第一步就区分",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "0. 从身份分流：不是所有红色粉末都是“枸杞多糖”"
+          },
+          {
+            "type": "paragraph",
+            "text": "枸杞全果粉、果汁粉、粗水提物、脱去游离糖的多糖富集物、进一步按分子量分级的多糖以及类胡萝卜素导向材料，应各建一张身份卡。全果粉保留的组织颗粒与果汁粉的可溶固形物不同；多糖纯化则主动改变果实原有糖、蛋白、多酚和色素的比例。原始多糖研究用乙醇分级和超滤得到三个分子量不同的组分，发现即使总糖接近，单糖组成、蛋白和多酚仍有差异，生物学表现也不相同。[37] 因而“来自枸杞”和“总糖很高”均不足以说明它是哪一种多糖。"
+          },
+          {
+            "type": "paragraph",
+            "text": "关于果实组成的综述把多糖、甜菜碱、类胡萝卜素等作为不同化学家族讨论，并记录不同深加工路径。[9] 研发应按用途选材料：以果味、颜色和复溶为主时研究果汁粉；以某一多糖组分的结构与一致性为主时研究富集/分级材料；以玉米黄质递送为主时建立单独的色素测定与稳定性方案。叶多糖研究不得自动并入果多糖资料；文献里的植物部位是一个实质工艺变量，而非背景注释。"
+          },
+          {
+            "type": "paragraph",
+            "text": "**路线A，果汁粉的工程方案。** 原果分选与清洗 → 打浆/榨汁 → 按清汁或浑浊汁定位选择粗筛、离心或澄清 → 经独立验证的微生物控制步骤 → 必要时低热负荷浓缩 → 载体混合与均质 → 干燥 → 防潮包装。它的目标是保持可接受的风味、颜色、复溶与储存性能，而不是最大限度去掉果实的天然糖。每个澄清步骤都可能改变悬浮组织及其所携带组分，建议把清汁与浑浊汁明确写进材料名。本文未取得可核实的枸杞果汁喷干原始工艺全文，因此不提供冒充枸杞实测的进风温度、载体最佳比例或粉末收率。"
+          },
+          {
+            "type": "paragraph",
+            "text": "糖与有机酸丰富食品的单液滴干燥原始研究，使用果糖、葡萄糖、蔗糖与柠檬酸及其麦芽糊精混合物，结合热质传递模型研究黏性和干燥动力学。[20] 这是模型体系，不是枸杞果汁试验。工程推论是：果汁粉载体应作为粉体玻璃态、黏壁与水分响应的设计变量，而非只用于“稀释活性”。开发时可测吸湿曲线、玻璃化行为、粉末回收率和复溶，再用实际枸杞汁筛选载体含量；载体增加改善可加工性的同时会降低每克商品粉的果实固形物比例，这个算术关系应进入标签与成本核算。"
+          },
+          {
+            "type": "paragraph",
+            "text": "**路线B，粗多糖—分级多糖的真实实验。** 一项2023原始研究采用宁夏中宁采购并鉴别的枸杞，纯水提取两次，离心收集上清并浓缩；先加95%乙醇使体系达到50%乙醇，过夜后去掉沉淀，再把上清调到85%乙醇，放置12小时后收集沉淀，重新溶解、Sevag法去蛋白、浓缩冻干，获得粗多糖。[37] 这里50%阶段去掉沉淀、85%阶段收集沉淀，流向不能写反；“加85%乙醇”也不同于“终浓度85%”。该工艺服务于研究级样品制备，不能把分析级溶剂与去蛋白操作直接默认成食用大生产流程。"
+          },
+          {
+            "type": "paragraph",
+            "text": "同研究将10 g粗多糖溶于60 mL水，先用1 kDa超滤管去掉单糖和部分低聚糖，再经3 kDa与10 kDa超滤管分出1–3、3–10和>10 kDa部分，冻干得到LBPs-1、LBPs-2、LBPs-3。[37] 这明确是克级粗多糖及超滤管分离，不是工业膜站。随后用HPSEC-RID-MALLS测得三个部分的绝对分子量约1.912、7.481和46.239 kDa；膜标称区间和实测分子量是不同信息，前者不能替代后者。[37]"
+          },
+          {
+            "type": "paragraph",
+            "text": "**路线C，超声强化释放的实验依据。** 摘要报告，传统单频超声筛选得到30 min、60°C、20 g/600 mL、300 W/L及28 kHz的条件；随后比较不同超声构型，能量聚集逆流双频的粗多糖得率为38.93%，对置双频为33.60%，能量聚集逆流单频为26.38%。本次保留的摘要和引言片段未给出各构型完整频率组合或脉冲设置，不能将26.38%直接标作传统28 kHz模式的结果。[39] 这些是该方法定义的“粗多糖得率”，不能当作果实含有38.93%的纯结构多糖。由于研究目标和分离方式不同，不应拿它与另一研究的高纯组分得率直接排名。对工程团队的价值是说明声场、频率组合、循环与冷却控制有研究意义，而不是给吨级提取机一个可复制产能数字。"
+          }
+        ]
+      },
+      {
+        "id": "equipment",
+        "heading": "设备维：功能、选择性和失效要一起看",
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "设备",
+              "核心任务",
+              "关键变量与失效",
+              "材料/规模边界"
+            ],
+            "rows": [
+              [
+                "打浆机、榨汁机、粗筛",
+                "释放果汁、控制组织颗粒",
+                "粒度分布、籽皮带入、空气混入、清洗死角",
+                "果汁粉路线工程方案"
+              ],
+              [
+                "搅拌热水提取罐",
+                "用水溶出多糖相关部分",
+                "温度时间、液固比、黏度、固液分离回收",
+                "水提两次是原始研究步骤；大罐配置为建议[37]"
+              ],
+              [
+                "循环双频超声单元",
+                "空化和循环传质强化",
+                "工程建议变量：功率密度、频率、占空比、声场分布与独立冷却；不是已核实的脉冲设置",
+                "研究报告的优化背景：20 g/600 mL；各构型完整设置未取得，不是工厂验证[39]"
+              ],
+              [
+                "乙醇沉淀罐与固液分离",
+                "改变溶剂质量使部分大分子失溶",
+                "终乙醇浓度、加入速率、混合、温度、熟化时间；局部过浓会影响分级",
+                "50%/85%研究分级步骤，工业方案待验证[37]"
+              ],
+              [
+                "超滤/透析过滤",
+                "按表观截留去除小分子并富集大分子",
+                "膜材、跨膜压、通量、浓差极化、污染；不能只看MWCO",
+                "文献使用10 g/60 mL超滤管；切向流是放大候选[37]"
+              ],
+              [
+                "喷雾干燥 / 冻干",
+                "果汁粉可加工性 / 研究组分低温制样",
+                "黏壁与载体稀释 / 周期、塌陷和吸湿；均需测复溶",
+                "冻干用于研究多糖，喷干果汁参数未获得[37]"
+              ],
+              [
+                "阴离子交换与尺寸排阻柱",
+                "制备电荷与尺寸较明确的研究部分",
+                "上样容量、峰池选择、盐去除、稀释及产率",
+                "用于13.72 kDa酸性杂多糖研究，摘要无投料规模[10]"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "**工程建议：超滤不是自动“净化到一种多糖”。** 膜截留取决于分子的水动力尺寸、形状及膜相互作用；所以将相同标称截留量的膜换材质后，应重新测透过液/截留液的糖谱、分子量分布与质量回收。以清水通量判断运行稳定会遗漏真实多糖料液的黏度和污染；试验应记录单位膜面积通量随浓缩倍数的衰减，再决定膜面积和清洗周期。用恒容透析过滤去游离糖时，应监测糖排出而不是只记录加入了多少桶水。"
+          },
+          {
+            "type": "paragraph",
+            "text": "**乙醇和热量的工程账。** 沉淀前过度稀释会显著增加乙醇用量与回收负荷，浓缩过头又会使混合困难；可先用黏度—浓度曲线找可操作窗口。残余蛋白并不总是单纯杂质，某些研究部分含蛋白/多酚结合组分，因此采用更强去蛋白或脱色步骤时要比较目标谱是否改变。[37] 工艺变更的评价不应只写“纯度提升”，而要交代去掉了什么、保留了什么、性能如何变化。"
+          }
+        ]
+      },
+      {
+        "id": "applications",
+        "heading": "应用维：甜味体系与结构组分有不同的实际难题",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "**果汁饮料和冲调粉。** 工程建议以商品粉而非实验室去糖部分做复溶：固定投料浓度、水温与搅拌能量，记录润湿时间、团聚、上清透光、沉淀和色泽。全果粉的不溶纤维不应被误判为果汁粉质量缺陷；反过来，标签称澄清果汁粉却有大量沉积，则应追查原料定义和工艺。糖和载体贡献都进入可溶固形物，但二者对品牌可声明的果实含量意义不同，应分别核算。"
+          },
+          {
+            "type": "paragraph",
+            "text": "**软糖。** 工程建议先做果汁粉与多糖富集物两个独立系列，保持总可溶固形物或含水量可比，再比较凝胶强度、黏附性、颜色、水活度与储存变化。果汁粉带来的糖会改变配方固形物平衡；多糖部分可能改变黏度与凝胶网络，因此相同添加百分数不构成功能等量。用“后添加以保护活性”作为口号不够，必须把加料时温度、停留时间、混合均匀性与微生物控制一起验证。"
+          },
+          {
+            "type": "paragraph",
+            "text": "**多糖结构研究与高值产品。** 对黏度或研究级组分递送，应测特定浓度下流变、盐/pH响应、冻融及加热后分子量谱。去糖、脱蛋白、超声及热处理都可能改变最终材料的相对组成；原始分级研究显示不同部分在ORAC、ABTS与斑马鱼免疫模型中并非相同排序，不能以一个抗氧化数字解释所有应用。[37] 实际开发应选择与产品任务相关的性能响应，例如易分散、低黏度或指定谱保留，而不是盲目追求更高分子量。"
+          },
+          {
+            "type": "paragraph",
+            "text": "**类胡萝卜素与“护眼”内容。** 枸杞整果的人体试验与纯化多糖的细胞试验应分两栏。27名45–65岁参与者的随机、未设盲平行试点研究，以28 g枸杞每周五次、90天，与含6 mg叶黄素和4 mg玉米黄质的补充剂比较，观察黄斑色素光密度等指标。[43] 这不是低剂量果汁粉或去色素多糖胶囊的试验，也不是疾病发生率研究。原料内容可具体解释果实色素与水溶多糖是两条不同研究路径，避免把“红色水果”“多糖含量”与眼部临床结论合成一个未经证明的因果链。"
+          }
+        ]
+      },
+      {
+        "id": "standards",
+        "heading": "标准与方法维：总糖结果不是身份鉴定",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "2023原始分级研究用苯酚—硫酸法、葡萄糖作标准测总糖，并另测蛋白、多酚，使用HPAEC-PAD测单糖组成、HPSEC-RID-MALLS测分子量、FTIR及NMR等研究结构。[37] 这个方法组合本身就是重要知识：总糖含量只是化学账的一部分，必须结合“小糖是否去除”“是否含载体”“分子量是什么”“单糖组成如何”才适合描述多糖材料。未经预处理的果汁粉含量若直接以显色法称“枸杞多糖”，有把游离糖与麦芽糊精计入响应的风险，需对具体方法做加标和分离验证。"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "项目",
+              "果汁粉重点",
+              "多糖富集/分级物重点",
+              "QA方法说明"
+            ],
+            "rows": [
+              [
+                "身份与组成",
+                "果汁/全果、澄清状态、载体比例",
+                "果部位、去糖/去蛋白与分级流程",
+                "商品名称与真实物流对应"
+              ],
+              [
+                "糖定量",
+                "游离糖与载体分别描述",
+                "前处理后总糖及游离糖残留",
+                "葡萄糖当量不是某一种枸杞聚合物质量；空白与回收必需[37]"
+              ],
+              [
+                "分子量",
+                "通常不是果味粉首要指标",
+                "分布、平均量及测定系统",
+                "超滤MWCO不能当实测分子量，SEC标准校准与MALS数据不直接等同[37]"
+              ],
+              [
+                "单糖组成",
+                "依用途选做",
+                "酸水解后组成作批间比较",
+                "不能仅凭单糖列表推断连接顺序；结构需额外证据[10][37]"
+              ],
+              [
+                "类胡萝卜素",
+                "若有相关定位，另行测定及保护",
+                "不应由多糖百分数推断",
+                "人体整果证据不等于去色素组分证据[43]"
+              ],
+              [
+                "物理与储存",
+                "吸湿、结块、色差、复溶、水活度",
+                "复溶、黏度、分子量保持",
+                "同一包装及湿度条件下做真实货架研究"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "**工程建议的可比性协议。** 让供应商同时提交原样与去游离糖后两种结果、载体空白以及实际回收率；若添加麦芽糊精，还应确认前处理是否同样保留它，不能把“乙醇沉淀后测糖”视为自动排除载体。方法转移须记录水解酸、温度时间、检测器与标准物。多糖分子量不同，溶解与过滤损失也可能不同，因此前处理造成的选择性损失需要进入方法不确定度。正式食品/提取物合同还要以适用市场核定污染物、微生物、亚硫酸盐处理信息与标签要求；本次未获得一套覆盖三类材料的现行法定统一标准，不能擅自补出数值。"
+          }
+        ]
+      },
+      {
+        "id": "insights",
+        "heading": "研究维：机制证据要保留材料名称",
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "研究类型",
+              "材料、规模与条件",
+              "结果/意义",
+              "不应混同的对象"
+            ],
+            "rows": [
+              [
+                "原始分级与结构/活性研究，2023",
+                "中宁枸杞；10 g粗多糖/60 mL；1/3/10 kDa超滤管",
+                "获1.912、7.481、46.239 kDa部分，结构与多个活性响应不同",
+                "不是等纯度果汁粉，非工业膜产率[37]"
+              ],
+              [
+                "原始多模式超声研究",
+                "传统单频优化背景：20 g/600 mL，60°C，30 min，300 W/L，28 kHz；后续构型完整频率/脉冲设置未取得",
+                "能量聚集逆流双频38.93%、对置双频33.60%、能量聚集逆流单频26.38%粗多糖得率",
+                "粗得率不是纯多糖含量或吨级产能[39]"
+              ],
+              [
+                "原始结构与细胞研究，2022",
+                "阴离子交换+尺寸排阻得到LICP009-3F-2a，13,720 Da；摘要无投料量",
+                "酸性杂多糖在ARPE-19细胞氧化/高糖损伤模型中有作用",
+                "不是人体视力或普通果汁粉结果[10]"
+              ],
+              [
+                "原始人体随机未设盲试点，2021",
+                "27人，45–65岁；28 g果实、每周五次、90天",
+                "枸杞组部分位置的黄斑色素光密度增加",
+                "生物标志物而非AMD发病预防；不是多糖产品替代试验[43]"
+              ],
+              [
+                "单滴干燥原始工程研究，2004",
+                "单糖/蔗糖/柠檬酸与麦芽糊精的模型液滴",
+                "研究黏性和热质传递",
+                "可启发果汁粉试验，不能作为枸杞最佳喷干温度[20]"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "研发优先事项建议为：为果汁粉建立真实物料固形物与载体质量平衡；为多糖线建立游离糖去除与膜各流分回收；以两种目标应用反向确定需要保留的谱；最后用代表商品批做方法转移和储存验证。这样可形成“果汁成粉为何难、多糖分级为何改变材料、不同研究为何不能只看百分数”的完整知识内容，而不是重复提醒采购索要COA。"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "id": "processes",
+        "heading": "Process: two routes separate from the start",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "0. Split identities before discussing percentages"
+          },
+          {
+            "type": "paragraph",
+            "text": "Whole-fruit powder, juice powder, crude aqueous extract, free-sugar-depleted polysaccharide concentrate, molecular-weight fractions and carotenoid-oriented ingredients require separate identity records. Whole-fruit tissue particles differ from juice solids, and polysaccharide refining intentionally changes sugar, protein, phenolic and pigment proportions. An original fractionation study obtained three size fractions with differences in monosaccharides, proteins, polyphenols and biological responses even where total sugars were similar.[37] Fruit origin and high total sugar therefore do not identify a particular polysaccharide."
+          },
+          {
+            "type": "paragraph",
+            "text": "A processing review treats polysaccharides, betaine and carotenoids as separate chemical families and discusses distinct processing routes.[9] Choose material according to the application: juice powder for fruit flavor/color/reconstitution, enriched/fractionated material for polysaccharide consistency, and a separate pigment-assay/stability program for zeaxanthin delivery. Leaf-polysaccharide papers cannot automatically support fruit-polysaccharide specifications; plant part is a material process variable."
+          },
+          {
+            "type": "paragraph",
+            "text": "**Route A—proposed juice-powder engineering.** Sort/wash fruit → pulp or press → choose coarse screening, centrifugation or clarification for the intended clear/cloudy juice → independently validated microbial control → optional low-thermal-load concentration → carrier mixing/homogenization → drying → moisture-protective packaging. The objective is acceptable flavor, color, reconstitution and storage, not removal of all native fruit sugars. Clarification can alter the suspended tissue and its associated constituents, so clear versus cloudy juice should appear in the identity. A verifiable original goji-juice spray-drying process paper was not obtained; no claimed goji-specific optimum inlet temperature, carrier loading or powder yield is supplied."
+          },
+          {
+            "type": "paragraph",
+            "text": "An original single-droplet engineering study used fructose, glucose, sucrose and citric acid, individually and with maltodextrin, alongside heat/mass-transfer modelling to investigate drying and stickiness.[20] This is a model system, not goji juice. The engineering inference is to treat carrier level as a powder-state, adhesion and moisture-response variable, not merely an active-ingredient diluent. Screen sorption, glass-transition behavior, recovery and reconstitution in actual juice. More carrier simultaneously reduces fruit solids per gram of marketed powder; that mass-balance relationship belongs in costing and labeling."
+          },
+          {
+            "type": "paragraph",
+            "text": "**Route B—an actual crude-polysaccharide/fractionation experiment.** A 2023 original study used authenticated berries purchased in Zhongning, Ningxia. Fruit was extracted twice with purified water, supernatants were collected by centrifugation and concentrated. Adding 95% ethanol to a final 50% ethanol concentration followed by overnight holding produced a precipitate that was discarded. The remaining liquid was adjusted to 85% ethanol; after 12 hours the precipitate was collected, redissolved, deproteinized by the Sevag method, concentrated and freeze-dried.[37] The discarded and retained streams must not be reversed, and adding an 85% ethanol solution is not the same as reaching 85% final ethanol. Analytical-grade solvents/deproteinization are research preparation details, not automatically food-production operations."
+          },
+          {
+            "type": "paragraph",
+            "text": "The researchers dissolved 10 g crude polysaccharides in 60 mL water. A 1 kDa ultrafiltration tube removed monosaccharides/some oligosaccharides; 3 and 10 kDa tubes then produced 1–3, 3–10 and >10 kDa fractions, which were freeze-dried as LBPs-1/2/3.[37] This is a gram-scale tube separation, not an industrial membrane plant. HPSEC-RID-MALLS subsequently measured approximately 1.912, 7.481 and 46.239 kDa. Nominal membrane cutoffs and measured molecular weights are distinct outputs.[37]"
+          },
+          {
+            "type": "paragraph",
+            "text": "**Route C—ultrasound-assisted release.** The abstract reports an optimized traditional single-frequency treatment of 30 min, 60°C, 20 g/600 mL, 300 W/L and 28 kHz. In subsequent configuration comparisons, energy-aggregation counterflow dual-frequency yielded 38.93%, opposite-sit dual-frequency yielded 33.60%, and energy-aggregation counterflow single-frequency yielded 26.38% crude polysaccharides. The retained abstract/introduction does not establish complete frequency pairs or pulse settings for each configuration.[39] These are the study's crude-yield results, not proof that fruit contains 38.93% purified structural polysaccharide. Different isolation/assay endpoints prevent direct ranking against purified-fraction yields. The engineering value concerns field geometry, frequency, circulation and cooling, not a transferable industrial capacity figure."
+          }
+        ]
+      },
+      {
+        "id": "equipment",
+        "heading": "Equipment: function, selectivity and failure",
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Equipment",
+              "Function",
+              "Variables/failures",
+              "Material and scale"
+            ],
+            "rows": [
+              [
+                "Pulper/press/coarse screen",
+                "Release juice and control tissue particles",
+                "Size, seed/skin carryover, air entrainment, cleaning",
+                "Proposed juice route"
+              ],
+              [
+                "Heated stirred extraction vessel",
+                "Water extraction of polysaccharide-related material",
+                "Time/temperature, ratio, viscosity, solid/liquid recovery",
+                "Two aqueous extractions are documented; tank design is proposed[37]"
+              ],
+              [
+                "Recirculating dual-frequency ultrasound",
+                "Cavitation and enhanced contact",
+                "Proposed engineering variables: power density, frequencies, duty cycle, field and independent cooling; not verified pulse settings",
+                "Reported optimization context: 20 g/600 mL; complete per-apparatus settings unavailable, not factory validation[39]"
+              ],
+              [
+                "Ethanol precipitation vessel/separator",
+                "Change solvent quality to fractionate macromolecules",
+                "Final ethanol, addition rate, mixing, temperature, maturation",
+                "Research 50%/85% fractionation; industrial translation unvalidated[37]"
+              ],
+              [
+                "Ultrafiltration/diafiltration",
+                "Remove small molecules and concentrate larger material",
+                "Membrane, pressure, flux, polarization, fouling",
+                "Original 10 g/60 mL tubes; tangential flow is a scale-up candidate[37]"
+              ],
+              [
+                "Spray dryer / freeze dryer",
+                "Juice-powder processability / research-fraction preparation",
+                "Adhesion/carrier dilution versus cycle/collapse/moisture uptake",
+                "Freeze drying documented for fractions; juice spray settings not obtained[37]"
+              ],
+              [
+                "Anion-exchange/size-exclusion columns",
+                "Isolate charge- and size-defined research material",
+                "Loading, pooling, desalting, dilution and yield",
+                "Used for a 13.72 kDa acidic heteropolysaccharide; abstract lacks input mass[10]"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "**Engineering proposals.** Ultrafiltration does not automatically purify one polysaccharide. Retention depends on hydrodynamic size, shape and membrane interactions; changing membrane chemistry at the same nominal cutoff requires renewed permeate/retentate sugar profiles, molecular-weight distributions and recoveries. Water flux does not establish performance with viscous polysaccharide feed. Record flux per membrane area against concentration factor before sizing membrane area and cleaning cycles. During constant-volume diafiltration, track free-sugar removal rather than only wash-water input."
+          },
+          {
+            "type": "paragraph",
+            "text": "Excessive dilution before precipitation increases ethanol and recovery duty, while excessive concentration impairs mixing; use a viscosity/concentration curve to find an operating window. Residual protein is not always simply irrelevant impurity: some studied fractions contain protein/phenolic-associated components. Stronger deproteinization or decolorization should therefore be assessed for changes to the intended material profile.[37] Report what was removed, retained and changed in performance, rather than merely claiming improved purity."
+          }
+        ]
+      },
+      {
+        "id": "applications",
+        "heading": "Applications: fruit solids and structural fractions behave differently",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "**Beverages/instant powders—proposals.** Test the marketed powder, not a laboratory sugar-free fraction, at fixed loading, water temperature and mixing energy. Record wetting, lumping, clarity, sediment and color. Insoluble fiber in whole-fruit powder is not automatically a juice-powder defect; substantial sediment in a declared clear-juice powder, however, calls for an identity/process investigation. Both fruit sugars and carriers contribute soluble solids, but have different implications for declared fruit content and should be calculated separately."
+          },
+          {
+            "type": "paragraph",
+            "text": "**Gummies—proposals.** Run separate juice-powder and polysaccharide-concentrate series with comparable total soluble solids or water content before comparing gel strength, tack, color, water activity and storage changes. Juice sugars alter solids balance, while polymer fractions may change viscosity and gel structure. Equal ingredient percentages are not functional equivalence. “Late addition protects activity” is insufficient without validating addition temperature, holding time, mixing uniformity and microbial control."
+          },
+          {
+            "type": "paragraph",
+            "text": "**Higher-value polysaccharide products.** For rheological or research-fraction applications, test concentration-dependent flow, salt/pH response, freeze/thaw and post-heating molecular-weight profiles. Sugar removal, deproteinization, ultrasound and heat can change the mixture. The original fractionation study found that different fractions did not rank identically across ORAC, ABTS and zebrafish immune models.[37] Choose the response relevant to the product—such as dispersibility, low viscosity or profile retention—instead of automatically maximizing molecular weight."
+          },
+          {
+            "type": "paragraph",
+            "text": "**Carotenoids and eye-health education.** Whole-fruit human studies and isolated-polysaccharide cell studies belong in separate evidence columns. A randomized, unmasked pilot involved 27 adults aged 45–65 consuming 28 g berries five times weekly for 90 days, compared with a supplement containing 6 mg lutein and 4 mg zeaxanthin; endpoints included macular pigment optical density.[43] It did not test low-dose juice powder, depigmented polysaccharide capsules or disease incidence. Explain fruit pigments and water-soluble polysaccharides as distinct research paths rather than joining red color, polysaccharide percentage and clinical eye outcomes into an unsupported causal chain."
+          }
+        ]
+      },
+      {
+        "id": "standards",
+        "heading": "Standards and analytical methods",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The original fractionation paper measured total sugars by phenol–sulfuric acid with glucose calibration, separately measured protein/polyphenols, and used HPAEC-PAD for monosaccharide composition, HPSEC-RID-MALLS for molecular weight, and FTIR/NMR for structure.[37] That combination is itself instructive: total sugar is only one entry in the chemical balance. Free-sugar removal, carriers, size distribution and building-block composition are needed to describe a polysaccharide material. Direct colorimetry of untreated juice powder risks counting free sugars and maltodextrin; this requires specific separation/spike validation rather than assuming the assay is selective."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Test",
+              "Juice powder",
+              "Enriched/fractionated material",
+              "QA interpretation"
+            ],
+            "rows": [
+              [
+                "Identity/composition",
+                "Juice versus whole fruit, clarity, carrier",
+                "Fruit part, sugar/protein removal and fractionation",
+                "Name the actual stream"
+              ],
+              [
+                "Sugar assay",
+                "Free sugars and carriers separately",
+                "Pretreated total sugar plus residual small sugars",
+                "Glucose equivalents are not mass of a unique goji polymer; blanks/recovery matter[37]"
+              ],
+              [
+                "Molecular weight",
+                "Usually secondary to flavor-powder function",
+                "Distribution, averages and system",
+                "MWCO is not a measurement; calibrated SEC and MALS outputs are not automatically interchangeable[37]"
+              ],
+              [
+                "Monosaccharides",
+                "As required by intended use",
+                "Post-hydrolysis batch profile",
+                "Building blocks alone do not establish linkage sequence[10][37]"
+              ],
+              [
+                "Carotenoids",
+                "Separate assay/protection if central to positioning",
+                "Cannot be inferred from polysaccharide percentage",
+                "Whole-fruit clinical evidence is not depigmented-fraction evidence[43]"
+              ],
+              [
+                "Physical/storage",
+                "Moisture uptake, caking, color, reconstitution, water activity",
+                "Reconstitution, viscosity and size retention",
+                "Test realistic humidity and packaging"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "A proposed comparability protocol requests results before and after small-sugar removal, a carrier blank and recovery data. With maltodextrin-containing powder, confirm whether pretreatment also retains the carrier; ethanol precipitation does not automatically exclude it. Record hydrolysis reagent/time/temperature, detector and standards. Size-dependent dissolution or filter losses can bias pretreatment and should enter method uncertainty. Food/extract contracts also require destination-specific contaminant, microbiological, sulfite-treatment and labeling review. A verified current universal legal standard covering all these material categories was not obtained, so numerical legal limits are not invented."
+          }
+        ]
+      },
+      {
+        "id": "insights",
+        "heading": "Research map",
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Type",
+              "Material, scale and conditions",
+              "Finding/use",
+              "Not equivalent to"
+            ],
+            "rows": [
+              [
+                "Original fractionation/structure/activity, 2023",
+                "Zhongning fruit; 10 g crude fraction/60 mL; 1/3/10 kDa tubes",
+                "1.912/7.481/46.239 kDa fractions differ structurally and biologically",
+                "Juice powder or industrial membrane yield[37]"
+              ],
+              [
+                "Original multimode ultrasound",
+                "Traditional single-frequency optimization context: 20 g/600 mL, 60°C, 30 min, 300 W/L, 28 kHz; full subsequent configuration frequency/pulse settings unavailable",
+                "Crude yields: energy-aggregation counterflow dual-frequency 38.93%; opposite-sit dual-frequency 33.60%; energy-aggregation counterflow single-frequency 26.38%",
+                "Pure-polysaccharide content or ton-scale capacity[39]"
+              ],
+              [
+                "Original structure/cell study, 2022",
+                "Anion exchange plus size exclusion; LICP009-3F-2a, 13,720 Da; input scale unavailable in abstract",
+                "Acidic heteropolysaccharide active in ARPE-19 oxidative/high-glucose injury models",
+                "Human visual benefit or ordinary juice-powder performance[10]"
+              ],
+              [
+                "Randomized unmasked human pilot, 2021",
+                "27 adults aged 45–65; 28 g fruit five times/week for 90 days",
+                "Increased MPOD at selected retinal eccentricities",
+                "AMD-incidence prevention or a polysaccharide substitution study[43]"
+              ],
+              [
+                "Original single-droplet engineering, 2004",
+                "Model sugars/acids with maltodextrin",
+                "Drying/stickiness and heat/mass-transfer insight",
+                "A goji-specific spray-drying optimum[20]"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Prioritize a fruit-solids/carrier balance for juice powder, free-sugar removal and all-stream recovery for the polymer line, and application-led selection of the retained profile. Finish with representative marketed-lot method transfer and storage validation. This supports substantial education on why juice is difficult to powder, why fractionation changes material identity and why percentages alone cannot reconcile different studies."
+          }
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "id": 9,
+      "title": "Bioactive Components of Lycium barbarum and Deep-Processing Fermentation Products - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10745962",
+      "accessed": "2026-09-09",
+      "scope": "full text recovered through Europe PMC XML"
+    },
+    {
+      "id": 10,
+      "title": "A polysaccharide from Lycium barbarum L.: Structure and ...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34968548",
+      "accessed": "2026-09-09",
+      "scope": "abstract"
+    },
+    {
+      "id": 20,
+      "title": "Effect of addition of maltodextrin on drying kinetics and stickiness of sugar and acid-rich foods during convective drying: experiments and modelling",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0260877403001717",
+      "accessed": "2026-09-09",
+      "scope": "publisher abstract/limited preview"
+    },
+    {
+      "id": 37,
+      "title": "Comparative Study on the Structural Properties and Bioactivities of Three Different Molecular Weights of Lycium barbarum Polysaccharides",
+      "url": "https://doi.org/10.3390/molecules28020701",
+      "accessed": "2026-09-09",
+      "scope": "full text extraction"
+    },
+    {
+      "id": 39,
+      "title": "Effect of multimode ultrasound assisted extraction on the yield of crude polysaccharides from Lycium Barbarum (Goji)",
+      "url": "https://doi.org/10.1590/1678-457x.14417",
+      "accessed": "2026-09-09",
+      "scope": "abstract and partial article"
+    },
+    {
+      "id": 43,
+      "title": "Goji Berry Intake Increases Macular Pigment Optical Density in Healthy Adults: A Randomized Pilot Trial",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8708314",
+      "accessed": "2026-09-09",
+      "scope": "full text recovered through Europe PMC XML"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "url": "https://foodsofnations.com/products/goji-berry-wolfberry-juice-powder-lycium-barbarum",
+      "title": "",
+      "content": "",
+      "error": "Keyless Firecrawl extract failed: Client error '403 Forbidden' for url 'https://api.firecrawl.dev/v2/scrape'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403. Set FIRECRAWL_API_KEY (https://firecrawl.dev) for reliable service."
+    }
+  ]
+}

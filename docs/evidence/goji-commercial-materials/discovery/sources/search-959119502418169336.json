@@ -1,0 +1,9 @@
+{
+  "query": "goji extract polysaccharides site:botanicin.com",
+  "result": {
+    "success": true,
+    "data": {
+      "web": []
+    }
+  }
+}

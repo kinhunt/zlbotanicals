@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.mdpi.com/1420-3049/28/2/701",
+        "title": "Comparative Study on the Structural Properties and ... - MDPI",
+        "description": "By ethanol-graded precipitation and ultrafiltration membrane separation, one oligosaccharide (LBPs-1, 1.912 kDa) and two polysaccharides (LBPs-2, 7.481 kDa; LBPs-3, 46.239 kDa) were obtained from Lycium barbarum.",
+        "position": 1
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36677759/",
+        "title": "Comparative Study on the Structural Properties and ... - PubMed",
+        "description": "By ethanol-graded precipitation and ultrafiltration membrane separation, one oligosaccharide (LBPs-1, 1.912 kDa) and two polysaccharides (LBPs-2, 7.481 kDa; LBPs-3, 46.239 kDa) were obtained from Lycium barbarum.",
+        "position": 2
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0141813025093006",
+        "title": "A review of Lycium barbarum polysaccharides: Structural ...",
+        "description": "Polysaccharides, as the primary bioactive components in Lycium barbarum (LBP), exhibit diverse pharmacological effects including antioxidant, immunomodulatory, and intestinal microbiota regulating activities, which are closely attributed to their unique structural features.",
+        "position": 3
+      }
+    ]
+  }
+}
