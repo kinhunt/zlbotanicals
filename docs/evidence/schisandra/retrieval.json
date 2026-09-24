@@ -1,0 +1,37 @@
+[
+  {
+    "file": "PMC7766944.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7766944/fullTextXML",
+    "status": 200,
+    "sha256": "3250cd4ab9fdb9412542ef24ec301e0fb195d288f99e6bdd5d7e4c41dab51173",
+    "bytes": 89185
+  },
+  {
+    "file": "PMC7918357.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7918357/fullTextXML",
+    "status": 200,
+    "sha256": "ef04c4156f66c09b1a54836c7f337a1bd7cef2e6d99e04aaa9057fc1269de24c",
+    "bytes": 92439
+  },
+  {
+    "file": "usp.html",
+    "url": "https://doi.usp.org/USPNF/USPNF_M10077_02_01.html",
+    "status": 200,
+    "sha256": "c7ce1b2a0375c240e4bc4d412b872ecfc984ce41236ba54b839316d82fec4978",
+    "bytes": 5111
+  },
+  {
+    "file": "euromed.pdf",
+    "url": "https://euromedgroup.com/wp-content/uploads/Euromed-ProductList-2025.pdf",
+    "status": 200,
+    "sha256": "f3848a6421d01522afd6471d33b07008646010d7b11c96beed6671a17b4114db",
+    "bytes": 846670
+  },
+  {
+    "file": "gochujar.html",
+    "url": "https://gochujar.com/products/cho-loc-won-omija-berry-extract-liquid-660g",
+    "status": 200,
+    "sha256": "f968b029779b4efa3d2b25eacac0af54bbd543024fdc8777fafc8678b4540bd7",
+    "bytes": 392978
+  }
+]

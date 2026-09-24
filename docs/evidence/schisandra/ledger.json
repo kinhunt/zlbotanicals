@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7766944/fullTextXML",
+      "title": "2020 Schisandra deacidification experiment (full XML)",
+      "accessed": "2026-09-24",
+      "quotes": [
+        {
+          "text": "As indicated in Table 1, in defatted extracts, 86.29% organic acid was eliminated from sample A to obtain sample B. Similarly, 88.00% organic acid was eliminated from sample C, and sample D was obtained. Our results demonstrated that the deacidification method can decrease the organic acid remarkably in both defatted and non-defatted ethanol extract of SCF.",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "As shown in Figure 2, schisandrin was the most abundant lignan compound in four samples, accounting for 59–85% of the total lignan. After the deacidification process, the ratio of schisandrin to total lignans increased, while the ratio of the other three lignans decreased. This might be due to the poor polarity and solubility of Schisantherin A, deoxyschizandrin and γ-schizandrin in the deacidification process. By comparing the lignan content of samples A and C, it is evident that nearly 80% of the total lignan is removed by the hexane extraction procedure. After the deacidification process, the lignan loss was also observed. As shown in Table 2, about 70.6 percent of the total lignan from sample A was lost when preparing sample B, and 38.32 percent was lost in the deacidification procedure from C to D. In sample C, the lignan can be extracted with polyphenolic compounds and the total content of lignan in SCF reached 1.14%, which is similar with published results [18].",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "3.0 L 60% ethanol was added to the defatted SC powder obtained as described above. After thorough mixing, the solution was left at room temperature for 1 h, then subjected to reflux extraction for 2 h. The extract was filtered and the debris was extracted again with 3.0 L 60% ethanol. The two extracts were combined and mixed, giving a total of about 6.0 L of defatted extract. Half of the extract (3.0 L) was concentrated directly under vacuum at 50 °C to give sample A (defatted ethanol extract). The other half was concentrated to half volume and subjected to a deacidification process, as described in Figure 1, to give sample B (defatted, deacidified ethanol extract).",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "To prepared the non-defatted SC samples (C and D), 3.0 L 60% ethanol was added to 300 g SC powder and mixed well. The solution was left at room temperature for 1 h, and then subjected to reflux extraction for 2 h. The extract was filtered and the debris was extracted again with 3.0 L 60% ethanol. The two extracts were combined to give about 6.0 L of non-defatted extract. Half of the extract (3.0 L) was concentrated directly under vacuum at 50 °C to give sample C (untreated ethanol extract), while the other half was concentrated to half volume and subjected to a deacidification process, as described in Figure 1, to give sample D (deacidified ethanol extract).",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "The four samples (A, B, C and D) were dissolved in 60% ethanol to give a final concentration of 0.4–2%. The solutions were filtered through 0.45 μm filters and stored for subsequent HPLC and total phenolic assays.",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "The levels of the four main lignans in the different samples were determined using a L-2000 HPLC machine (Hitachi, Tokyo, Japan), equipped with a L-2455 DAD detector, a L-2200 auto-sampler, a L-2130 pump, an AT-330 column heater, and a D2000 Chemstation. The methodology was adopted from a previously published paper [23]. A Plastisic C18 reverse phase column (4.6 × 250 mm, 5 μm) was used. Analytical conditions were as follows: Flow rate 1.0 mL/min, column temperature 30 °C, detection wavelength 250 nm, scanning range 200–400 nm. Experimental conditions were based upon a previous report [23]. Solvent A was a 0.5% phosphoric acid in ACN and solvent B was a 0.5% phosphoric acid aqueous solution. Analyte separation was obtained using the following gradient for solvent A: 51% raised to 61% in 35 min, held at 61% until 45 min, raised to 77% in 20 min, raised again to 100% in 10 min, then reduced to 51% in 5 min and maintained at 51% for 5 min. The sum of the four lignan contents was referred to as the total lignan content. In the HPLC analysis, samples C and D were diluted 5 times, and then the same volume of diluted C and D was injected and analyzed together with undiluted A and B sample solutions. Standard equations of four lignan are as follows: Schisandrin: Y = 2 × 10−6 X + 0.0233 (R2 = 0.9906, linear range: 0.006–0.923 μg); Schisantherin A: Y = 1 × 10−6 X + 0.1697 (R2 = 0.9912, linear range: 0.057–7.382 μg); deoxyschizandrin: Y = 9 × 10−7 X + 0.0243 (R2 = 0.9907, linear range: 0.006–0.945 μg); and γ-schizandrin: Y = 1 × 10−6 X + 0.0444 (R2 = 0.9914, linear range: 0.013–1.925 μg).",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "To determine the organic acid content in the ethanol extracts, citric acid was used as a reference compound [32]. Citric acid was dissolved in distilled water to a final concentration of 26.55 mg/mL and titrated against 0.1001 M NaOH using a pH-25CW Microprocessor pH/mV Meter with an E-201-C combination pH electrode (Shanghai Lida Instrument Company, Shanghai, China) while stirring with a magnetic stirrer (IKA) at 200 rpm. The E-V and (ΔE/ΔV) − V curve was drawn using Excel software. The end-point of the titration was determined from the highest ΔE/ΔV value on the (ΔE/ΔV) − V curve and the steepest slope on the E-V curve. The results showed that 1 mL 0.1001 M NaOH was able to titrate 6.411 mg citric acid (MW = 192.14). Each S. chinenesis ethanol extract (A–D) was dissolved in distilled water to a final concentration of about 1 g/50 mL and filtered. The filtrate was used for titration. The volume of NaOH (0.1001 M) at the end-point was recorded, and the citric acid equivalence of each sample was calculated.",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "All experiments were triple replicated. Values in content and FRSA determination were expressed as mean ± SD. The Student’s t-test was applied in the significance determination of indices between different groups.",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "This method was previously used in citric acid purification, in which the calcium citrate is precipitated and recovered by filtration, and sulfuric acid is then added to convert this precipitate into citric acid and calcium sulfate. By subsequent filtration, the citric acid can be recovered and purified [22]. In the deacidification process used in the present study, after addition of an excess amount of calcium carbonate, the citric acid reacts to give calcium citrate, which is a precipitate in water or ethanol solution. The precipitate can be removed by vacuum filtration. However, due to the excess amount of calcium carbonate, calcium bicarbonate will also be produced, which is insoluble in ethanol, but soluble in water (16.6 g/100 mL, 20 °C). Therefore, subsequently, 1.5 volume of 95% ethanol was added to this solution, and calcium bicarbonate was precipitated and removed by vacuum filtration using a Buchner funnel coupled with a vacuum pump.",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "Table 1 Organic acid content determination of sample A, B, C, and D. SCF: Schisandra chinensis Fructus.\n\n | g SCF/g Extract | Organic Acid (%) | Deacidification Rate (%)\nA | 4.10 ± 0.12 | 33.72 ± 2.07 | --\nB | 5.43 ± 0.20 | 6.23 ± 0.50 | 86.29 ± 0.01\nC | 2.36 ± 0.21 | 36.47 ± 0.65 | --\nD | 2.50 ± 0.13 | 4.47 ± 0.29 | 88.00 ± 0.02",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "Table 2 Levels of total phenolic compounds (TP), free radical scavenging activity (FRSA), total lignans (TL) and organic acids (OA) in the samples A, B, C, and D and the corresponding levels in the crude material (SCF).\n\n | g SCF/g Extract | Total Lignan (%) | Lignan Loss Rate (%) | Total Phenolic (%) | Total Phenolic Loss Rate (%) | FRSA (Vc %) | FRSA Loss Rate (%)\nA | 4.10 ± 0.12 | 0.61 ± 0.04 | --- | 3.30 ± 0.14 | --- | 0.59 ± 0.03 | ---\nB | 5.43 ± 0.20 | 0.24 ± 0.03 a | 70.60 ± 0.05 | 3.18 ± 0.09 | 27.21 ± 0.04 | 0.69 ± 0.02 | 10.93 ± 0.06\nC | 2.36 ± 0.21 | 2.70 ± 0.13 | --- | 5.07 ± 0.11 | --- | 0.82 ± 0.02 | ---\nD | 2.50 ± 0.13 | 1.75 ± 0.22 a | 38.32 ± 0.13 | 2.37 ± 0.12 a | 55.92 ± 0.05 | 0.45 ± 0.05 a | 48.18 ± 0.11\nNote: a represents the significance of p < 0.05 when indices in B were compared with that in A, or indices in D were compared with that in C.",
+          "added": "2026-09-24"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7918357/fullTextXML",
+      "title": "2021 plant-part and omija lignan study (full XML)",
+      "accessed": "2026-09-24",
+      "quotes": [
+        {
+          "text": "The variation in the content of seven lignans in the various parts of S. chinensis was evaluated by HPLC-DAD (Figure 2). The plant parts included the stem, leaf, flower, pulp, and seed. The total lignan content was highest for the seeds, with a value of 47.42 ± 2.81 mg/g·DW (Table 2). This value was more than eight times higher than the lignan contents in the other plant parts. Notably, the flower had the second highest lignan content, with a value of 5.62 ± 0.33 mg/g·DW. The most commonly used part, the pulp, had a similar lignan content (3.20 ± 0.44 mg/g·DW) to that of the leaves (3.67 ± 0.21 mg/g·DW), and a lower content than the flower. The lignan content was lowest in the stem, with a value of 2.22 ± 0.19 mg/g·DW. This result is consistent with a previous report that the leaf of S. chinensis may also be a good source of lignans [11].",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "First, 10 kg of raw fruit was fermented with white sugar (1:1, w/w) in a porcelain container placed outdoors. An aliquot of the resulting beverage was collected after 3, 7, 10, and 12 months and filtered. Separately, 1 kg of raw fruit was fermented for 12 months in three different ways using 1 kg each of white sugar, brown sugar, and fructo-oligosacchrides/white sugar (1:1, w/w). A transparent glass jar with a lid was used as the container for fermentation. After keeping the jar at room temperature during the indicated times, an aliquot of the sample was collected and filtered with gauze. The filtrate was kept at −20 °C before the analysis. The fermentation with alcohol was started with 1 L of commercial 30% ethanol for food processing. After 12 months, an aliquot of the sample was collected and filtered with gauze. The filtrate was used for compositional analysis of the lignans. The Brix of the sample was measured three times using a Pocket Refractometer PAL-1 (Atago Co., Ltd., Tokyo, Japan) with a range of 0.0–53.0% Brix. Refractometer calibration and sample readings were performed according to the manufacturer’s instructions.",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "To prepare the sample, 1 g of freeze-dried pulp, seed, leaf, and stem, and 200 mg of flowers were ground and extracted under sonication with 200 mL of methanol for 2 h. The extracts were centrifuged at 3000 g at 4 °C for 10 min, and the supernatant was filtered with a 0.45 μm PTFE membrane filter (Whatman, New York, NY, USA) for HPLC analysis.",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "Peaks of seven lignans were quantified by an external standard method. Seven lignans were separately dissolved in methanol, and serial dilution was performed to obtain final concentrations of 100, 50, 25, 12.5, 6.25, 3.13, 1.56, 0.78, 0.20, and 0.05 μg/mL. At this chromatographic condition, peaks of the standard lignans were detected at the following tR (min): 11.4 for schisandrol A, 12.9 for schisandrol B, 13.5 for tigloylgomisin H, 14.1 for angeloylgomisin H, 21.1 for schisandrin A, 24.4 for schisandrin B, and 27.0 for schisandrin C (Figure 1 and Figure 2A). The content of lignans in the fruit was calculated from the experimental data of pericarp and seed.",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "This fermentation process is commonly used in Korea and is not affected by specific microbial organisms, such as yeast, bacteria, or mold, due to the osmotic effect of the high sugar concentration (about 50 Brix), which inhibits growth of the microbes; the process conditions are not controlled and specialized equipment is not required [30]. Recently, the importance of a green chemistry strategy has emerged due to the environmental sustainability and the minimalization of harmful chemical exposure [31]. Although further research is needed, this fermentation method employing a high sugar concentration is recommendable in terms of nontoxicity, eco-friendliness, and ready availability of the required systems.",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "All experiments were performed in triplicate, and the data were expressed as mean ± SD (standard deviation) in Excel software. The one-way ANOVA (analysis of variance) was evaluated by the SPSS statistics 21.0 (IBM Corp, Armonk, NY, USA) using Dunnett’s test. The statistically significance was considered at the value of p < 0.05.",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "Table 2 Contents of seven lignans in plant parts of S. chinensis.\nParts | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Total\nStem | 0.28 ± 0.05 f | 0.57 ± 0.04 c | 0.28 ± 0.02 c | 0.15 ± 0.02 e | 0.36 ± 0.04 f | 0.47 ± 0.03 f | 0.12 ± 0.00 f | 2.22 ± 0.19 e\nLeaf | 0.73 ± 0.06 e | 0.38 ± 0.02 d | 0.27 ± 0.01 c | 0.18 ± 0.01 e | 0.78 ± 0.04 d | 0.91 ± 0.05 c | 0.43 ± 0.02 c | 3.67 ± 0.21 b\nFlower | 1.85 ± 0.12 c | 0.57 ± 0.02 c | 0.29 ± 0.01 c | 0.36 ± 0.02 c | 1.08 ± 0.07 c | 1.09 ± 0.06 d | 0.39 ± 0.03 d | 5.62 ± 0.33 c\nPulp | 1.33 ± 0.24 d | 0.26 ± 0.05 e | ND | 0.28 ± 0.04 d | 0.46 ± 0.03 e | 0.66 ± 0.04 e | 0.23 ± 0.03 e | 3.20 ± 0.44 d\nSeed | 21.0 ± 1.00 a | 4.02 ± 0.36 a | 1.66 ± 0.28 a | 3.96 ± 0.32 a | 4.43 ± 0.24 a | 10.6 ± 0.52 a | 1.74 ± 0.09 a | 47.42 ± 2.81 a\nFruit | 11.9 ± 0.54 b | 2.27 ± 0.23 b | 0.89 ± 0.18 b | 2.26 ± 0.18 b | 2.60 ± 0.18 b | 6.02 ± 0.36 b | 1.04 ± 0.05 b | 26.99 ± 1.7 b\nData are expressed as the mean (the average value of content for dry weight, mg/g DW) and SD of three independent experiments. Different letters in the same column indicate significant differences (p < 0.05) between the values. ND means not detected. 1, schisandrol A; 2, schisandrol B; 3, tigloylgomisin H; 4, angeloylgomisin H; 5, schisandrin A; 6, schisandrin B; 7, schisandrin C.",
+          "added": "2026-09-24"
+        },
+        {
+          "text": "Table 3 Contents of seven lignans in an Omija beverage fermented with white sugar during different fermentation times.\nPeriod(Month, m) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Total\n3 m | 7.01 ± 1.30 c | 1.65 ± 0.29 c | 1.03 ± 0.13 c | 2.34 ± 0.44 bc | 0.90 ± 0.16 b | 51.71 ± 5.14 b | 0.65 ± 0.10 a | 65.30 ± 7.55 b\n7 m | 10.42 ± 1.10 b | 2.39 ± 0.07 b | 1.63 ± 0.14 b | 4.33 ± 0.40 a | 1.64 ± 0.11 a | 126.43 ± 19.53 a | 0.69 ± 0.07 a | 147.53 ± 21.42 a\n10 m | 11.96 ± 0.65 a | 2.79 ± 0.29 a | 1.68 ± 0.16 ab | 2.49 ± 0.11 b | 1.73 ± 0.20 a | 133.58 ± 19.30 a | 0.75 ± 0.07 a | 154.97 ± 20.78 a\n12 m | 13.24 ± 2.27 a | 2.87 ± 0.52 a | 1.95 ± 0.30 a | 1.96 ± 0.36 c | 2.00 ± 0.47 a | 147.23 ± 33.09 a | 0.89 ± 0.23 a | 170.14 ± 37.23 a\nData are expressed as the mean (the average value of content for fresh weight, μg /g FW) and SD of three independent experiments. Different letters in the same column indicate significant differences (p < 0.05) between the values. 1, schisandrol A; 2, schisandrol B; 3, tigloylgomisin H; 4, angeloylgomisin H; 5, schisandrin A; 6, schisandrin B; 7, schisandrin C.",
+          "added": "2026-09-24"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://euromedgroup.com/wp-content/uploads/Euromed-ProductList-2025.pdf",
+      "title": "Euromed product list V3.1 2025",
+      "accessed": "2026-09-24",
+      "quotes": [
+        {
+          "text": "SCHISANDRA FRUIT \nSchisandra chinensis Turcz. Baillon\n• > 9% schisandrins",
+          "added": "2026-09-24"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://gochujar.com/products/cho-loc-won-omija-berry-extract-liquid-660g",
+      "title": "Gochujar: Cho Loc Won omija liquid listing",
+      "accessed": "2026-09-24",
+      "quotes": [
+        {
+          "text": "The berries are sifted for quality, then stirred with sugar and left to rest in breathing containers - until they fully release their natural extract. This runny, liquid extract is referred to as “equis” 액기스 or “cheong” 청 in Korea. It's bottled and sold as a convenient way to make Omija Tea at home. Note: If you’ve visited Korea before and tasted Omija tea at a local café – it was made with this natural extract syrup (\"equis\"). Use the liquid extract to make different teas: For Omija Tea: Mix 3 parts hot water : 1 part Omija Extract Syrup For Iced Omija-Ade: Pour 20g of Omija Extract Syrup into a cup. Then add-in carbonated water or sprite (200ml)",
+          "added": "2026-09-24"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://doi.usp.org/USPNF/USPNF_M10077_02_01.html",
+      "title": "USP Northern Schisandra Fruit Dry Extract — public definition preview (2019 citation)",
+      "accessed": "2026-09-24",
+      "quotes": [
+        {
+          "text": "Northern Schisandra Fruit Dry Extract This is a preview of USP-NF/PF content. Subscriber? Access here! Not a subscriber? Learn more! Northern Schisandra Fruit Dry Extract DEFINITION Northern Schisandra Fruit Dry Extract is prepared from the dried ripe fruits of Schisandra chinensis (Turcz.) Baill. (Fam. Schisandraceae) collected in the fall, by extraction with hydroalcoholic\n               mixtures. It contains NLT 90.0% and NMT 110.0% of the labeled amount of schisandrin\n               on the dried basis; NLT 90.0% and NMT 110.0% of the labeled amount of total lignans,\n               calculated as the sum of schisandrin, schisandrol B, schisandrin A (deoxyschisandrin),\n               and schisandrin B (γ-schisandrin) on the dried basis. USP REFERENCE STANDARDS FOR PURCHASE USP Schisandra chinensis Fruit Dry Extract RS USP Schisandrin RS This is a preview of USP-NF/PF content. Subscriber? Access here! Not a subscriber? Learn more! United States Pharmacopeia\n             (2019). Dietary Supplement Monographs, Northern Schisandra Fruit Dry Extract . USP-NF. Rockville, MD: United States Pharmacopeia. DOI: https://doi.org/10.31003/USPNF_M10077_02_01 Privacy policy © \n         The United States Pharmacopeial Convention",
+          "added": "2026-09-24"
+        }
+      ]
+    }
+  ]
+}
