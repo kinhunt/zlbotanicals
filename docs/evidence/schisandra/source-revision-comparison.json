@@ -1,0 +1,18 @@
+{
+  "PMC7766944.xml": {
+    "original_sha256": "3250cd4ab9fdb9412542ef24ec301e0fb195d288f99e6bdd5d7e4c41dab51173",
+    "review_sha256": "3250cd4ab9fdb9412542ef24ec301e0fb195d288f99e6bdd5d7e4c41dab51173"
+  },
+  "PMC7918357.xml": {
+    "original_sha256": "ef04c4156f66c09b1a54836c7f337a1bd7cef2e6d99e04aaa9057fc1269de24c",
+    "review_sha256": "ef04c4156f66c09b1a54836c7f337a1bd7cef2e6d99e04aaa9057fc1269de24c"
+  },
+  "euromed.pdf": {
+    "original_sha256": "f3848a6421d01522afd6471d33b07008646010d7b11c96beed6671a17b4114db",
+    "review_sha256": "f3848a6421d01522afd6471d33b07008646010d7b11c96beed6671a17b4114db"
+  },
+  "usp.html": {
+    "original_sha256": "c7ce1b2a0375c240e4bc4d412b872ecfc984ce41236ba54b839316d82fec4978",
+    "review_sha256": "c7ce1b2a0375c240e4bc4d412b872ecfc984ce41236ba54b839316d82fec4978"
+  }
+}

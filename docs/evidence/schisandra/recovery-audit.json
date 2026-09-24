@@ -1,0 +1,18 @@
+[
+  {
+    "pair": "A\u2192B",
+    "author_acid_removal_percent": 86.29,
+    "author_lignan_loss_percent": 70.6,
+    "acid_mass_loss_inferred_from_rounded_means_NOT_VERIFIED": 86.04966914182226,
+    "lignan_mass_loss_inferred_from_rounded_means_NOT_VERIFIED": 70.2925459650394,
+    "decision": "Do not publish reconstructed recovery or treat rounded means as raw mass-balance data."
+  },
+  {
+    "pair": "C\u2192D",
+    "author_acid_removal_percent": 88.0,
+    "author_lignan_loss_percent": 38.32,
+    "acid_mass_loss_inferred_from_rounded_means_NOT_VERIFIED": 88.42972306004935,
+    "lignan_mass_loss_inferred_from_rounded_means_NOT_VERIFIED": 38.814814814814824,
+    "decision": "Do not publish reconstructed recovery or treat rounded means as raw mass-balance data."
+  }
+]

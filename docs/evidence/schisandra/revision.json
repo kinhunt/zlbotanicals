@@ -1,0 +1,11 @@
+{
+  "revision": "schisandra-consolidated-r1",
+  "review_date": "2026-09-24",
+  "content_sha256": {
+    "article.en.md": "1ae7b8fef2593f16a2bc3cfdd5a23c7fa3f26f9f8e09a063cdf10e1fc9fe89f6",
+    "article.zh.md": "eead94ea09668475cd5ebd620b15921856d566a4985940c4121ad058c480b220"
+  },
+  "input_manifest": "input-hashes.json",
+  "source_scope": "Fresh retrieval of 5 original sources; two full primary XML papers, manufacturer PDF, retailer HTML, USP definition preview; no full USP monograph, site render or current dedup re-run.",
+  "publication_status": "not integrated or published"
+}
