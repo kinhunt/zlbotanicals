@@ -127,5 +127,5 @@ test('built pages render the browning article and its discovery links', () => {
       assert.ok(existsSync(`dist${path}/index.html`), `${path} built`);
     }
   }
-  assert.equal(readdirSync('src/content/blog/zh').filter(f => f.endsWith('.md')).length, 35, 'one new bilingual article per language');
+  assert.equal(readdirSync('src/content/blog/zh').filter(f => f.endsWith('.md')).length, 36, 'one new bilingual article per language');
 });
