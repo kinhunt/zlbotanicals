@@ -1444,6 +1444,14 @@
               "text": "The WHO procedure specifies drying conditions and a weighing endpoint, with provision for the procedure for the material concerned.[1] Request the method identifier and revision, sample preparation and mass, temperature, duration or constant-mass endpoint, and pressure where relevant. Ask the laboratory whether non-water volatile components could contribute to this extract’s loss. Do not relabel a gravimetric LOD result as a water-specific result merely because both are reported as percentages."
             },
             {
+              "heading": "Three balance readings define an LOD result",
+              "text": "An LOD figure comes from three balance readings: the tare (the empty, previously dried weighing bottle alone), the pre-drying total (bottle plus sample before drying starts) and the post-drying total (bottle plus residue when drying stops). WHO's gravimetric procedure places the sample, accurately weighed, in a previously dried and tared flat weighing bottle, and drying ends when two consecutive weighings differ by no more than 5 mg, unless the test procedure specifies otherwise.[1] Calculate: LOD% = (pre-drying total − post-drying total) ÷ (pre-drying total − tare) × 100%. The denominator is the net sample mass — the basis WHO states as “Calculate the loss of weight in mg per g of air-dried material.”[1] The ×100 only writes that same ratio as a percentage. The sample quantity itself follows the applicable test procedure.[1]"
+            },
+            {
+              "heading": "A worked example, and readings that do not compute",
+              "text": "Hypothetical numbers for illustration only — not batch data: tare 42.5000 g, pre-drying total 45.0000 g, post-drying total 44.8750 g. Net sample = 45.0000 − 42.5000 = 2.5000 g; loss = 45.0000 − 44.8750 = 0.1250 g; LOD = 0.1250 ÷ 2.5000 × 100% = 5.00%. Three conditions make the arithmetic invalid: a tare that is not below the pre-drying total, a post-drying total higher than the pre-drying total, and a denominator that is zero or negative. When one appears, recalculate and check the weighing record — which bottle, which reading, which units — instead of turning it into a pass/fail verdict. Whatever percentage survives those checks is an LOD result under its stated conditions; water content, reporting basis and acceptance remain the distinctions covered on this page."
+            },
+            {
               "heading": "Karl Fischer: water-specific does not mean interference-free",
               "text": "Karl Fischer (KF) titration is based on a reaction with water rather than total mass loss; Metrohm also warns that solvent compatibility matters, including aldehydes and ketones, and calls for a solvent blank when samples are dissolved.[3] Ask whether the lab uses volumetric or coulometric KF, direct addition, solvent extraction or an oven, and what demonstrates suitability for the actual extract and carrier matrix. A method name alone does not establish adequate water release or absence of interfering reactions."
             },
@@ -1472,6 +1480,14 @@
             {
               "heading": "干燥失重必须保留条件",
               "text": "WHO程序列明干燥条件与称量终点，并允许按具体材料的检测程序执行。[1] 请索取方法编号及版本、样品前处理与取样量、温度、时间或恒重终点，以及适用时的压力条件。询问实验室：该提取物中的非水挥发性组分是否可能计入损失？不能因为都以百分数报告，就把重量法的干燥失重改称为专属性水分结果。"
+            },
+            {
+              "heading": "干燥失重结果来自三次称量",
+              "text": "干燥失重（LOD）的结果来自三次称量：皮重，指事先干燥的空称量瓶单独称量的质量；干燥前总重，指干燥开始前称量瓶加样品的质量；干燥后总重，指干燥结束时称量瓶连同残渣的质量。WHO 的重量法程序要求把准确称量的样品放进事先干燥并称重的扁形称量瓶，干燥进行到连续两次称量之差不超过 5 mg 为止，具体检验规程另有规定的除外。[1] 计算式：干燥失重(%) = (干燥前总重 − 干燥后总重) ÷ (干燥前总重 − 皮重) × 100%。分母是样品净重——正是 WHO 所说“计算每 1 g 空气干燥样品损失的质量”这一基准[1]；乘以 100 只是把同一比值写成百分数。取样量由适用的检验规程规定。[1]"
+            },
+            {
+              "heading": "演算示例与对不上的读数",
+              "text": "以下数字是假设示例，只用于演示算法，不对应任何真实批次：皮重 42.5000 g，干燥前总重 45.0000 g，干燥后总重 44.8750 g。样品净重 = 45.0000 − 42.5000 = 2.5000 g；损失质量 = 45.0000 − 44.8750 = 0.1250 g；干燥失重 = 0.1250 ÷ 2.5000 × 100% = 5.00%。有三种情况算不出有效结果：皮重不小于干燥前总重、干燥后总重反而高于干燥前总重、分母为零或为负数。出现任何一种时，应重新计算并核对称量原始记录——用的是哪只称量瓶、哪一次读数、单位是否一致——而不是直接给出合格与否的判定。算出的百分数只代表既定条件下的干燥失重；水分属性、报告基准和验收，仍以本页的方法区分为准。"
             },
             {
               "heading": "卡尔费休：水分专属性不等于没有干扰",
