@@ -5035,6 +5035,22 @@
               "text": "A small randomized, double-blind, placebo-controlled trial assigned 50 patients with functional dyspepsia to a specified G. glabra extract (GutGard) or placebo. The extract was given at 75 mg twice daily for 30 days; symptom scores and the Nepean dyspepsia index improved relative to placebo. Its specifications included glabridin ≥3.5%, total flavonoids ≥10% and glycyrrhizin ≤0.5% by weight. This supports a short-term signal for that extract, not an efficacy claim for every DGL chewable or licorice tea.[4]"
             },
             {
+              "type": "heading",
+              "text": "Research material: one name does not establish one specification"
+            },
+            {
+              "type": "paragraph",
+              "text": "The dyspepsia paper discussed above—published online in 2011 in the journal’s 2012 volume—and the 2013 H. pylori paper both specify GutGard with glycyrrhizin ≤0.5% w/w. The 2025 reflux-symptom paper instead states ≤3.0% w/w in both its abstract and intervention methods.[4][11][12] The manufacturer’s US-market page, retrieved on 24 September 2026, says <0.5%, but a commercial webpage cannot substitute for the trial batch’s analytical report.[13] This establishes a difference in specification wording, not a reformulation or a typographical error."
+            },
+            {
+              "type": "paragraph",
+              "text": "The dyspepsia and reflux trials each used 75 mg of extract twice daily, for 30 and 28 days, respectively.[4][12] Multiplying that 150 mg/day by the stated mass-fraction limits gives calculated glycyrrhizin ceilings of 0.75 and 4.5 mg/day—not measured intake or safe daily limits. A batch below 0.5% could also meet a ≤3.0% specification, so the sixfold difference between ceilings does not establish a sixfold increase in exposure. Comparing an offered material with the research material requires the trial batch’s measured result, assay method, reporting basis and contemporaneous specification."
+            },
+            {
+              "type": "paragraph",
+              "text": "The trials also addressed different questions: the early dyspepsia study excluded people with a history of reflux; the 2013 study used 150 mg once daily for 60 days and evaluated H. pylori breath and stool antigen tests; the 2025 trial used GERD-HRQL and GSAS questionnaires in people with mild-to-moderate reflux-related symptoms.[4][11][12] In the 2025 paper’s Table 1, the day-28 GERD-HRQL comparison has p=0.305 before baseline adjustment and p=0.014 after adjustment. That analysis includes 78 GutGard and 87 placebo participants, rather than the original 100 per arm; missing values were not imputed.[12] Gastric emptying and rescue-medication use did not differ significantly between groups, and planned gastric pH and lower oesophageal sphincter pressure measurements were dropped because of pandemic restrictions. This trial therefore does not demonstrate improved gastric emptying or establish that the extract leaves gastric pH unchanged.[12]"
+            },
+            {
               "type": "paragraph",
               "text": "NCCIH concludes that high-quality evidence is insufficient to clearly support licorice for any health condition and that digestive effects of licorice alone remain unclear. It describes preliminary signals for mouth rinses in recurrent canker sores, perioperative gargles or lozenges for post-intubation sore throat, and topical gels for eczema or burns. These studies concern specific preparations and settings, not routine self-treatment of those conditions.[8]"
             },
@@ -5215,6 +5231,14 @@
             {
               "type": "paragraph",
               "text": "NCCIH says oral glycyrrhizin-free licorice might be safe for up to four months; this is not proof for any residual level or indefinite use. Large oral licorice intake during pregnancy is unsafe, and breastfeeding safety is poorly known. This article does not recommend oral licorice supplementation during pregnancy or breastfeeding. Topical licorice may irritate skin, so finished-product tolerance matters even when glycyrrhizin is low.[8]"
+            },
+            {
+              "type": "heading",
+              "text": "Short-term tolerability: preserve the records, not a safety ranking"
+            },
+            {
+              "type": "paragraph",
+              "text": "The 2025 trial excluded pregnancy or breastfeeding, abnormal liver or kidney function and severe reflux symptoms, among other criteria. It reported no serious adverse events and no discontinuations because of adverse events; these observations do not establish general long-term safety.[12] Although the narrative summarizes event frequencies as not significantly different, Table 4 records abdominal pain in 3/97 GutGard versus 13/97 placebo participants, with p=0.016. It is inaccurate to call every comparison nonsignificant, and the discrepancy does not establish a comparative safety advantage.[12] The same table records hyperkalaemia—high, not low, potassium—in 5/97 versus 6/97 participants. Supplementary Table 11 lists all eleven events as mild, with causality classified as “Possible.”[12][14] These records neither establish glycyrrhizin as the cause nor rule out electrolyte risk. The amounts above describe research protocols, not consumer dosing advice."
             }
           ]
         },
@@ -5355,6 +5379,22 @@
             {
               "type": "paragraph",
               "text": "一项随机、双盲、安慰剂对照小型试验将50名功能性消化不良患者分配至特定光果甘草提取物（GutGard）或安慰剂组。提取物用量为每次75 mg、每日两次，持续30天；症状评分及Nepean消化不良指数相对安慰剂改善。该原料规格包括光甘草定≥3.5%、总黄酮≥10%、甘草酸≤0.5%（质量分数）。结果为这一特定提取物提供了短期研究信号，不能推广为所有DGL咀嚼片或甘草茶的功效结论。[4]"
+            },
+            {
+              "type": "heading",
+              "text": "研究材料：同名不等于同一规格"
+            },
+            {
+              "type": "paragraph",
+              "text": "上文消化不良论文（2011 年在线发表，编入 2012 年卷）与 2013 年幽门螺杆菌论文，都将 GutGard 的甘草酸规格写为 ≤0.5% w/w；2025 年反流相关症状论文的摘要和干预方法却均写为 ≤3.0% w/w。[4][11][12] 2026 年 9 月 24 日读取的制造商美国市场页面写的是 <0.5%，但商业网页不能代替试验批次的检测报告。[13] 这只能确认文字上的规格差异，不能据此认定改了配方或论文有笔误。"
+            },
+            {
+              "type": "paragraph",
+              "text": "消化不良和反流两项试验的提取物用量都是每次 75 mg、每日两次，疗程分别为 30 天和 28 天。[4][12] 以每天 150 mg 乘以上述质量分数限值，甘草酸理论上限分别为 0.75 mg/天和 4.5 mg/天；这不是实测摄入量，也不是安全剂量。实际含量低于 0.5% 的批次同样可能符合 ≤3.0% 的规格，不能将上限相差六倍写成实际暴露增加六倍。比较拟用原料与研究材料，还需要试验批次的实测结果、检测方法、计量基准和当时的规格版本。"
+            },
+            {
+              "type": "paragraph",
+              "text": "三项试验回答的也不是同一个问题：早期消化不良试验排除了有反流病史者；2013 年试验采用 150 mg、每日一次、持续 60 天，评价幽门螺杆菌呼气试验和粪便抗原检测；2025 年试验则在轻至中度反流相关症状人群中使用 GERD-HRQL 和 GSAS 量表。[4][11][12] 2025 年表 1 的第 28 天 GERD-HRQL 组间比较，未作基线调整时 p=0.305，作基线调整后 p=0.014；该分析包括提取物组 78 人、安慰剂组 87 人，而非最初各 100 人，缺失值未作插补。[12] 胃排空和救援药物使用未显示显著组间差异，原计划的胃内 pH 和下食管括约肌压力检测也因疫情取消，不能用这项试验证明“改善胃排空”或“不改变胃内 pH”。[12]"
             },
             {
               "type": "paragraph",
@@ -5543,6 +5583,14 @@
             {
               "type": "paragraph",
               "text": "NCCIH表示，不含甘草酸的口服甘草产品使用至四个月可能安全，但这并不能证明任意残留水平或无限期使用都安全。妊娠期大量口服甘草不安全，哺乳期安全性资料不足；本文不建议孕期或哺乳期使用口服甘草补充剂。外用甘草也可能刺激皮肤，即使甘草酸很低，仍需评价成品耐受性。[8]"
+            },
+            {
+              "type": "heading",
+              "text": "短期耐受性：保留原始记录，不作安全性排序"
+            },
+            {
+              "type": "paragraph",
+              "text": "2025 年试验排除了孕哺期、肝肾功能异常和严重反流症状等人群，报告未出现严重不良事件，也无人因不良事件停用试验产品；这不等于长期使用普遍安全。[12] 正文虽概括不良事件频率无显著组间差异，表 4 的腹痛记录却为提取物组 3/97、安慰剂组 13/97，p=0.016，因此不宜照抄为“各项均无差异”，更不能据此宣称哪组更安全。[12] 同表记录的是高钾血症而非低钾，分别为 5/97 和 6/97；补充表 11 将这 11 条事件均列为轻度、因果关系“Possible（可能相关）”。[12][14] 这些记录既未证明甘草酸是致因，也不能排除电解质风险。上述用量仅用于说明研究方案，不是消费者服用建议。"
             }
           ]
         },
@@ -5946,6 +5994,30 @@
         "title": "US20040121031A1 original US application publication",
         "url": "https://patentimages.storage.googleapis.com/20/43/f3/a4c7c97381686c/US20040121031A1.pdf",
         "accessed": "2026-09-11"
+      },
+      {
+        "id": 11,
+        "title": "GutGard in Helicobacter pylori management: randomized placebo-controlled trial (2013)",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3623263/fullTextXML",
+        "accessed": "2026-09-24"
+      },
+      {
+        "id": 12,
+        "title": "GutGard in gastroesophageal reflux symptoms: phase III randomized placebo-controlled trial (2025)",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11892464/fullTextXML",
+        "accessed": "2026-09-24"
+      },
+      {
+        "id": 13,
+        "title": "Natural Remedies GutGard USA: current manufacturer page",
+        "url": "https://naturalremedieshumanhealth.com/gutgard-usa",
+        "accessed": "2026-09-24"
+      },
+      {
+        "id": 14,
+        "title": "2025 GER trial supplementary Tables 1–13 and Figures 1–2",
+        "url": "https://ndownloader.figshare.com/files/51592559",
+        "accessed": "2026-09-24"
       }
     ]
   },
