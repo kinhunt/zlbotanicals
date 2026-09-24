@@ -1,0 +1,20 @@
+{
+  "checks": {
+    "juice_carrier_quote": true,
+    "croda_INCI": true,
+    "extract_UV": true,
+    "solvent_conflict": true,
+    "science_method": true,
+    "science_result": true,
+    "citation_parity": true,
+    "five_gsc_rows": true,
+    "no_cosmetic_in_existing_deep": true
+  },
+  "all_pass": true,
+  "not_done": [
+    "independent editorial review",
+    "site implementation/build",
+    "supplier document qualification"
+  ],
+  "scope": "research artifacts only"
+}

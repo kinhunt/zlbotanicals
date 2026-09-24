@@ -1,0 +1,46 @@
+HTTP/2 301 
+date: Thu, 24 Sep 2026 01:39:38 GMT
+content-type: text/html
+location: https://www.organic-way.com/products/organic-goji-powder
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+alt-svc: h3=":443"; ma=86400
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-cache-status: EXPIRED
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kQaJTlIcykV0QkJnsEv1Bvsl8%2FN%2BsPdT1dPOI04Gktx3m10oIuFst5cdLMW%2F98JfefLDHxX4rue03SPZaryFjVqRWgZ8YS0a6GQP4ND6KnrOk6QwodJU7mEnrMWcl%2FT%2BUk4%3D"}]}
+cf-ray: a3fe1391c932238a-MUC
+
+HTTP/2 301 
+date: Thu, 24 Sep 2026 01:39:38 GMT
+content-type: text/html; charset=UTF-8
+location: https://www.organic-way.com/products/organic-goji-powder/
+server: cloudflare
+permissions-policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+x-redirect-by: WordPress
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+alt-svc: h3=":443"; ma=86400
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-cache-status: EXPIRED
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=oS%2FLej3U3Hp8sXXQ9MKbFFn701slrJP90Vci1%2FlbmO6BTMym6UrkWB9KhZfxNWkoJp9cwuzogxG%2F7js5egWfFJZsmEQbSfJOEKsFfWc3q%2FWetuFzSGk6gQEbAUJYww%2FC94B4QSui"}]}
+cf-ray: a3fe13936b91efb7-MUC
+
+HTTP/2 200 
+date: Thu, 24 Sep 2026 01:39:40 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+vary: Accept-Encoding
+permissions-policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+link: <https://www.organic-way.com/wp-json/>; rel="https://api.w.org/"
+link: <https://www.organic-way.com/wp-json/wp/v2/product/24368>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://www.organic-way.com/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.13.12>;as=style;rel=preload,<https://www.organic-way.com/wp-content/astra-local-fonts/astra-local-fonts.css?ver=4.13.12>;as=style;rel=preload,<https://www.organic-way.com/wp-content/uploads/astra/astra-theme-dynamic-css-post-24368.css?ver=1789440026>;as=style;rel=preload,<https://www.organic-way.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=11.1.2>;as=style;rel=preload,<https://www.organic-way.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=11.1.2>;as=style;rel=preload,<https://www.organic-way.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-layout-grid.min.css?ver=4.13.12>;as=style;rel=preload,<https://www.organic-way.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-smallscreen-grid.min.css?ver=4.13.12>;as=style;rel=preload,<https://www.organic-way.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.13.12>;as=style;rel=preload,<https://www.organic-way.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1>;as=style;rel=preload,<https://www.organic-way.com/wp-content/uploads/astra-addon/astra-addon-6a9a4853cabd88-58297117.css?ver=4.13.2>;as=style;rel=preload
+last-modified: Thu, 24 Sep 2026 01:39:39 GMT
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+alt-svc: h3=":443"; ma=86400
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wDT27ap0Ah7aoXXuKboF3nduOkCaUfv5cxGNZEuKTLiZKqSrgUv7FnPsu9kWn6XL8hh%2FL%2BJlTovfrUCOTwoWXFVZRC4bEfGMI%2FxrAk%2BpUrI46f5wiue4WJgt%2B3le3iuDSH5Oupjd"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-cache-status: EXPIRED
+speculation-rules: "/cdn-cgi/speculation"
+cf-ray: a3fe139709fdefb7-MUC
+

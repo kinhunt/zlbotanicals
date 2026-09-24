@@ -1,0 +1,35 @@
+{
+  "scope": "Independent archived-source editorial review, not site tests or live supplier qualification",
+  "checks": {
+    "author_archive_36_hashes_match": true,
+    "croda_exact_INCI": true,
+    "croda_applications": true,
+    "kalustyans_ingredient_line_raw_html": true,
+    "organicway_solvent_raw_html": true,
+    "organicway_grade_mapping_raw_html": true,
+    "science_original_xml": true,
+    "bilingual_citation_parity": true,
+    "no_competitor_sales_copy": true,
+    "originals_unchanged_at_finish": true
+  },
+  "all_pass": true,
+  "output_sha256": {
+    "encyclopedia-module.en.md": "d5f85360cf020786619ee0f21b57b0ba93c5f17a749681d051b83587674773e6",
+    "sales-cta.en.md": "d31effbb9e2469cd9a2169194084ff0992c35d617c6999a3a2d68439d608a6b6",
+    "sales-cta.zh.md": "d22c30602a46605b291a047ee29041c4c71e30f6ae507be934d79e5bc6f31c4e",
+    "encyclopedia-module.zh.md": "362975b37fc0febd6dd845c3db6478ec81a5dbd18fa58997b4ed7b855421500e",
+    "VERDICT.md": "10b171e1146b879240f311b594a59a32ffb087440c48a720ccc6ef701b2d7dd4"
+  },
+  "source_archive_sha256": {
+    "sources/C1-extract.json": "8f9abb459bb6c3d81d6a216953334121095b49e1f8e01051d9fdf3ffe3fe8121",
+    "sources/C4.html": "7343cabaebca42dbc0886c668d611832bb8a938085404327092028def0edbbb7",
+    "sources/C5.html": "35a2141cb4eb5aaa144828658e5ee1fff9cb61edd1a79506386e998995fab740",
+    "sources/S1.xml": "7cf001d799d7db28e8adc69030593db8898a8706f1bd1551230a14f239bac76c"
+  },
+  "placement": "Existing encyclopedia components subsection; reject sales table insertion",
+  "limitations": [
+    "C1 extracted archive contains omissions; no full raw HTML/TDS",
+    "No live source refresh or site renderer verification",
+    "No certificates, COAs, prices or availability qualified"
+  ]
+}

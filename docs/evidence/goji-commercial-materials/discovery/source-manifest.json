@@ -1,0 +1,50 @@
+{
+  "retrieved_utc": "2026-09-23T23:06:09.583570+00:00",
+  "baseline_commit": "d387c94c9b7e802e72ca13c97ffd5716b155e4b6",
+  "sources": [
+    {
+      "id": "C1",
+      "url": "https://www.crodabeauty.com/en-gb/products/product/2752-fruitliquid_1_goji_1_ec",
+      "archive": "sources/C1-extract.json",
+      "status": "first-party extracted page; INCI and cosmetic uses inspected",
+      "use": "named-liquid identity only"
+    },
+    {
+      "id": "C4",
+      "url": "https://foodsofnations.com/products/goji-berry-wolfberry-juice-powder-lycium-barbarum",
+      "archive": "sources/C4.html",
+      "readable": "sources/C4.txt",
+      "http": 200,
+      "use": "seller ingredient declaration only"
+    },
+    {
+      "id": "C5",
+      "url": "https://organic-way.com/products/organic-goji-powder",
+      "archive": "sources/C5.html",
+      "readable": "sources/C5.txt",
+      "http": 200,
+      "use": "attributed format/UV claim and unresolved solvent wording"
+    },
+    {
+      "id": "S1",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9867462/fullTextXML",
+      "archive": "sources/S1.xml",
+      "readable": "sources/S1.txt",
+      "use": "original fractionation methods/results, not commercial or efficacy validation"
+    },
+    {
+      "id": "C2",
+      "url": "https://joywinnatural.com/fruit-powder/spray-dried-fruit-powder/goji-juice-powder.html",
+      "archive": "sources/C2.html",
+      "http": 403,
+      "use": "excluded"
+    },
+    {
+      "id": "C3",
+      "url": "http://gojix.com/products-and-solutions",
+      "archive": "sources/C3.html",
+      "http": 200,
+      "use": "excluded: JSON success stub, not page"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "C1",
+    "url": "https://www.crodabeauty.com/en-gb/products/product/2752-fruitliquid_1_goji_1_ec",
+    "result": "403 https://www.crodabeauty.com/en-gb/products/product/2752-fruitliquid_1_goji_1_ec",
+    "exit": 0,
+    "stderr": "",
+    "checked": "2026-09-24T01:39:37.886671+00:00"
+  },
+  {
+    "id": "C4",
+    "url": "https://foodsofnations.com/products/goji-berry-wolfberry-juice-powder-lycium-barbarum",
+    "result": "200 https://foodsofnations.com/products/goji-berry-wolfberry-juice-powder-lycium-barbarum",
+    "exit": 0,
+    "stderr": "",
+    "checked": "2026-09-24T01:39:38.088979+00:00"
+  },
+  {
+    "id": "C5",
+    "url": "https://organic-way.com/products/organic-goji-powder",
+    "result": "200 https://www.organic-way.com/products/organic-goji-powder/",
+    "exit": 0,
+    "stderr": "",
+    "checked": "2026-09-24T01:39:40.129779+00:00"
+  }
+]
