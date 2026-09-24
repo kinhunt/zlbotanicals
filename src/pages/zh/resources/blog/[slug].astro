@@ -40,6 +40,7 @@ const isCitrus = post.slug.endsWith('/hesperidin-material-choice');
 const isHibiscus = post.slug.endsWith('/hibiscus-color-endpoints');
 const isSaffron = post.slug.endsWith('/saffron-identity');
 const isTeaHaze = post.slug.endsWith('/tea-haze-diagnosis');
+const isWaterSoluble = post.slug.endsWith('/water-soluble-green-tea-powder-or-liquid');
 const lang = 'zh';
 
 // Get related products
@@ -68,7 +69,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
   heroTitle={post.data.title}
   heroSubtitle={guideCategory[lang].title}
 >
-  <article class:list={["section-padding", {"schisandra-reader": isSchisandra, "oat-apple-reader": isOatApple, "olive-pectin-reader": isOlivePectin, "botanical-comparison-reader": isBotanicalComparison, "beetroot-reader": isBeetroot, "ginger-reader": isGinger, "cocoa-reader": isCocoa, "pomegranate-reader": isPomegranate, "acacia-reader": isAcacia, "citrus-delayed-bitterness-reader": isCitrusBitterness, "astaxanthin-reader": isAstaxanthin, "chicory-reader": isChicory, "vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory")}]}>
+  <article class:list={["section-padding", {"schisandra-reader": isSchisandra, "oat-apple-reader": isOatApple, "olive-pectin-reader": isOlivePectin, "botanical-comparison-reader": isBotanicalComparison, "beetroot-reader": isBeetroot, "ginger-reader": isGinger, "cocoa-reader": isCocoa, "pomegranate-reader": isPomegranate, "acacia-reader": isAcacia, "citrus-delayed-bitterness-reader": isCitrusBitterness, "astaxanthin-reader": isAstaxanthin, "chicory-reader": isChicory, "vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory"), "water-soluble-reader": isWaterSoluble}]}>
     <div class="container-wide max-w-4xl">
       <!-- Breadcrumb -->
       <nav aria-label="面包屑导航" class="mb-8 text-sm">
@@ -574,4 +575,19 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
     .ginger-reader :global(.selection-table th[scope=row]) {font-size:17px;background:#f3f4f6}
     .ginger-reader :global(.mobile-label) {display:block;font-weight:600;margin-bottom:6px}
   }
+
+  .water-soluble-reader :global([id]) {scroll-margin-top:100px}
+  .water-soluble-reader :global(.prose) {max-width:820px;margin-inline:auto;overflow-wrap:anywhere;line-height:1.85}
+  .water-soluble-reader :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}
+  .water-soluble-reader :global(.gt-form-hint) {font-size:.85rem;color:#5b6b5f;margin:1rem 0 .5rem}
+  .water-soluble-reader :global(.gt-form-table) {max-width:100%;overflow-x:auto;margin:.5rem 0 1.5rem;border:1px solid #cad8ce;border-radius:8px;overscroll-behavior-x:contain}
+  .water-soluble-reader :global(.gt-form-table:focus-visible) {outline:3px solid #1b4d3e;outline-offset:3px}
+  .water-soluble-reader :global(.gt-form-table table) {min-width:720px;width:100%;table-layout:fixed;border-collapse:collapse;font-size:.95rem;line-height:1.7;margin:0}
+  .water-soluble-reader :global(.gt-form-table th:first-child), .water-soluble-reader :global(.gt-form-table td:first-child) {width:22%}
+  @media(max-width:640px){
+    .water-soluble-reader :global(.gt-form-table td:first-child) {position:sticky;left:0;background:#fff;font-weight:600;box-shadow:1px 0 0 #dfe6e0}
+    .water-soluble-reader :global(.gt-form-table th:first-child) {position:sticky;left:0;background:#eef3ef;box-shadow:1px 0 0 #dfe6e0;z-index:1}
+  }
+  .water-soluble-reader :global(.gt-form-table th), .water-soluble-reader :global(.gt-form-table td) {padding:.7rem .8rem;text-align:left;vertical-align:top;border-bottom:1px solid #dfe6e0}
+  .water-soluble-reader :global(.gt-form-table th) {background:#eef3ef;font-weight:600}
 </style>

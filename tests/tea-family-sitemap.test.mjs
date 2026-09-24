@@ -28,8 +28,8 @@ for (const prefix of ['', 'zh/']) {
 }
 
 test('bounded tea serialization preserves every pre-existing sitemap entry byte-for-byte', () => {
-  assert.equal(entries.length, 264);
-  const existing = entries.filter(entry => !teaUrl.test(loc(entry)) && !/\/resources\/blog\/(?:schisandra-beverage-materials|oat-beta-glucan-material-selection|apple-extract-phloridzin-fibre-pectin|olive-leaf-beverage-encapsulation|citrus-pectin-gel-selection|butterfly-pea-protein-beverages|monk-fruit-specification-numbers|beetroot-product-formats|beet-colour-plant-based-meat|cocoa-selection|ginger-selection|pomegranate-flavour-selection|acacia-fibre-emulsification|citrus-delayed-bitterness|astaxanthin-beverage-stability|chicory-fibre-selection|vanilla-authentication|vanilla-material-choice|cranberry-pac-purchasing|hesperidin-material-choice|hibiscus-color-endpoints|saffron-identity|elderberry-material-selection|paprika-extract-format-selection|ginseng-heat-bitterness|uk-sdil-milk-tea-2028|tea-browning-diagnosis)\/?$/.test(loc(entry)));
+  assert.equal(entries.length, 266);
+  const existing = entries.filter(entry => !teaUrl.test(loc(entry)) && !/\/resources\/blog\/(?:schisandra-beverage-materials|oat-beta-glucan-material-selection|apple-extract-phloridzin-fibre-pectin|olive-leaf-beverage-encapsulation|citrus-pectin-gel-selection|butterfly-pea-protein-beverages|monk-fruit-specification-numbers|beetroot-product-formats|beet-colour-plant-based-meat|cocoa-selection|ginger-selection|pomegranate-flavour-selection|acacia-fibre-emulsification|citrus-delayed-bitterness|astaxanthin-beverage-stability|chicory-fibre-selection|vanilla-authentication|vanilla-material-choice|cranberry-pac-purchasing|hesperidin-material-choice|hibiscus-color-endpoints|saffron-identity|elderberry-material-selection|paprika-extract-format-selection|ginseng-heat-bitterness|uk-sdil-milk-tea-2028|tea-browning-diagnosis|water-soluble-green-tea-powder-or-liquid)\/?$/.test(loc(entry)));
   assert.equal(existing.length, 208);
   // Frozen pre-remediation sitemap, excluding only the new bilingual tea pair.
   assert.equal(createHash('sha256').update(existing.join('')).digest('hex'),
