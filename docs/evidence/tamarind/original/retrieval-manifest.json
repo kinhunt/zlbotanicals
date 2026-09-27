@@ -1,0 +1,50 @@
+[
+  {
+    "name": "manufacturer",
+    "url": "https://www.mpgfc.co.jp/en/pickup/tamarind/",
+    "status": 200,
+    "raw": "/data/hermes/research/seo-growth/2026-09-27-night-discovery/sources/manufacturer.html",
+    "sha256": "ceb536810fe34fbf62e855b95800751254e1d30b72f4d05cf68a081767fe6da5",
+    "text_chars": 1534
+  },
+  {
+    "name": "distributor",
+    "url": "https://sociusingredients.com/glyloid/",
+    "status": 200,
+    "raw": "/data/hermes/research/seo-growth/2026-09-27-night-discovery/sources/distributor.html",
+    "sha256": "3e4931812ed0bac04efeca721bd30a2e9bf453980ae84f6ee315833054e290cc",
+    "text_chars": 2362
+  },
+  {
+    "name": "tamarind-study",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6480175/fullTextXML",
+    "status": 200,
+    "raw": "/data/hermes/research/seo-growth/2026-09-27-night-discovery/sources/tamarind-study.xml",
+    "sha256": "524c74ca97ce8229136095465d09695fa98ecb880cc67826c6ff7c9eb680978b",
+    "text_chars": 28531
+  },
+  {
+    "name": "carob",
+    "url": "https://carob.es/en/product",
+    "status": 200,
+    "raw": "/data/hermes/research/seo-growth/2026-09-27-night-discovery/sources/carob.html",
+    "sha256": "ca82874367b032868bab6fc42bc55a4c14c0595673965f081af65c136c53e05b",
+    "text_chars": 4770
+  },
+  {
+    "name": "fenugreek",
+    "url": "https://foodingredients.net/products/fenugreek-gum",
+    "status": 200,
+    "raw": "/data/hermes/research/seo-growth/2026-09-27-night-discovery/sources/fenugreek.html",
+    "sha256": "40821a4a0228697540ef243b5a88d04e9c192eab7ab49ecfe761916b231c70bd",
+    "text_chars": 4709
+  },
+  {
+    "name": "brochure",
+    "url": "https://sociusingredients.com/wp-content/uploads/GLYLOID-Tamarind-Seed-Gum-Bulletin-Socius-Ingredients.pdf",
+    "status": 200,
+    "pages": 2,
+    "sha256": "ffeb3369226a722bf52798c2732f1365d905378dd4151ba4b4519427453fe0dd",
+    "text_chars": 2848
+  }
+]

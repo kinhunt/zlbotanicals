@@ -1,0 +1,17 @@
+{
+  "verdict": "PASS corrected EN/ZH for factual/editorial integration only; original pair REVISE",
+  "original_root": "/data/hermes/research/seo-growth/2026-09-27-night-discovery",
+  "reviewed_sha256": {
+    "input-hashes.json": "b12074d8a33a879aecfe5767bd80f275f880f0c4c42f2209b437ea52717d5bce",
+    "tamarind-grade-selection.zh.md": "c847e7b90d3ddcccb0c6b477fd84aa75c1efa3a8bfef6d8683def47206832af1",
+    "ledger.json": "665d88a15978cb24a39e8fc435859ce3106de67409dfddb8eee94b2d40f49d53",
+    "changes.en.diff": "32072d96fb4aa98fbb9fd0d2b60e7e1bf3d1cbcddc54ed7a132c9a0d35d3c3af",
+    "tamarind-grade-selection.en.md": "23d1602276eeae8c993e80eab5f2019c862a45df9d0d3190ffa1816fcd74559f",
+    "bulletin-page-1.png": "011f4309d1ed69c82ede230a4690330eed41dffc69536c3eb87c56a1a45192ab",
+    "bulletin-page-2.png": "d1c8e606d9490369056e7ebf37a1e28ff40bafc13d2b65df4d88a20d4970e237",
+    "REVIEW.md": "2c84ce2bf22d3d5cc9c12599cef1fc9e84857398e8accbe2dffa8688ae5abbc6",
+    "claim-source-ledger.json": "f196b27c4874494c4ad692756d738a5d4eccc538a3d03f4640907c819bdfcfc1",
+    "verify-review.py": "d3ff2e1b9b7a457e11eeaab1f4cd1665a9e186d3320b3d0b7b66ba9efbb48db1",
+    "changes.zh.diff": "c4de7ef9461f4a661c15aa99f390014931ac94639fbcb36640575d4b68f2b15d"
+  }
+}
