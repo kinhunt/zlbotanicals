@@ -1,0 +1,44 @@
+--- original/draft.en.md
++++ reviewed/draft.en.md
+@@ -6,7 +6,7 @@
+ 
+ ## What the clove experiment actually compared
+ 
+-The researchers extracted clove buds with 80% methanol, concentrated the extract and freeze-dried it before encapsulation.[1] They prepared six wall-material blends of maltodextrin (MD, dextrose equivalent 16.5–19.5) and gum arabic (GA), used a stated extract-to-wall-material ratio of 1:4, homogenized the mixtures, froze them at −80 °C and freeze-dried them for about 72 hours.[1] The MD:GA labels describe the carrier blend, not the composition of undiluted clove extract.
++The researchers extracted clove buds with 80% methanol, concentrated the extract and freeze-dried it before encapsulation.[1] They prepared six wall-material blends of maltodextrin (MD, dextrose equivalent 16.5–19.5) and gum arabic (GA), mixed freeze-dried extract with a 30% w/v wall-material solution at a stated ratio of 1:4, homogenized the mixtures, froze them at −80 °C and freeze-dried them for about 72 hours.[1] The MD:GA labels describe the carrier blend, not the composition of undiluted clove extract. The method does not specify the basis of the 1:4 ratio; it should not be read as a verified dry extract-to-carrier mass ratio.[1]
+ 
+ These were laboratory freeze-dried extract powders—not ground cloves, distilled clove oil or a demonstrated commercial spray-dried ingredient.[1] The methanolic extraction route also means the experiment should not be treated as a ready-to-use food-production specification.
+ 
+@@ -14,7 +14,7 @@
+ 
+ ## Similar initial readings, different humid-exposure results
+ 
+-The table below transcribes the original paper's Table 2. Values are means ± standard deviations; the study reports three separate experimental runs.[1]
++The table below reproduces the water-activity and hygroscopicity columns from the original paper's Table 2. Values are means ± standard deviations; the study reports three separate experimental runs.[1]
+ 
+ | Carrier blend, MD:GA | Initial water activity | Reported hygroscopicity, % |
+ |---|---:|---:|
+@@ -33,11 +33,11 @@
+ 
+ ## A lower uptake result does not answer the aroma question
+ 
+-If the purchasing objective includes clove aroma, ask for a relevant chemical result and an application sensory assessment separately. The clove study measured eugenol by HPLC and phenolics by chemical assays; those endpoints are not a sensory-panel measurement of aroma retention.[1] Its Table 4 gives eugenol loading efficiencies of 70.5–75.6%, with no significant formulation effect reported (p = 0.78).[1] That does not support declaring the lowest-uptake blend the best eugenol-retaining blend.
++If the purchasing objective includes clove aroma, ask for a relevant chemical result and an application sensory assessment separately. The clove study measured eugenol by HPLC and phenolics by chemical assays; those endpoints are not a sensory-panel measurement of aroma retention.[1] Its Table 4 gives eugenol loading efficiencies of 70.5–75.6%, with no significant formulation effect reported (p = 0.78).[1] Here, loading efficiency compares the measured eugenol concentration after drying with the theoretical concentration before drying; it is not the eugenol mass fraction of the powder.[1] That does not support declaring the lowest-uptake blend the best eugenol-retaining blend.
+ 
+-An independent spray-drying experiment offers another useful caution. It used 99%-purity eugenol—not whole clove extract—with a fixed MD:GA blend of 3:1 and added soy lecithin, while varying processing conditions across 32 experiments.[3] Its Table 3 reports 96.07% eugenol encapsulation efficiency but only 33.72% product recovery for DF16; DF06 instead gave 47.37% efficiency and 65.35% recovery.[3] A high result on one endpoint did not identify the best overall manufacturing outcome.
++An independent spray-drying experiment offers another useful caution. It used 99%-purity eugenol—not whole clove extract—with a fixed MD:GA blend of 3:1 and added soy lecithin, while varying processing conditions and the eugenol-to-polymer ratio across 32 experiments.[3] Its Table 3 reports 96.07% eugenol encapsulation efficiency but only 33.72% product recovery for DF16; DF06 instead gave 47.37% efficiency and 65.35% recovery.[3] A high result on one endpoint did not identify the best overall manufacturing outcome.
+ 
+-The two papers also use “encapsulation efficiency” differently. The clove paper's measure concerns surface and core phenolics; the eugenol paper compares experimental with theoretical eugenol content.[1][3] Their percentages should not appear together in a carrier-performance ranking. The independent study helps separate processing yield from compound loading; it does not replicate the clove humidity experiment or establish sensory retention.
++The two papers also use “encapsulation efficiency” differently. The clove paper calculates (total core phenolics − surface phenolics) / total core phenolics × 100; the eugenol paper compares experimental with theoretical eugenol content.[1][3] Their percentages should not appear together in a carrier-performance ranking. The independent study helps separate processing yield from compound loading; it does not replicate the clove humidity experiment or establish sensory retention.
+ 
+ ## Why the carrier name alone is not a moisture specification
+ 
+@@ -49,7 +49,7 @@
+ 
+ For a clove powder intended for repeated opening and dispensing, the useful next comparison is between representative candidate powders under an agreed exposure protocol. Request carrier identities and proportions, drying route, initial water activity, and measured uptake under stated humidity, temperature and duration. If flow or caking matters to the application, include those outcomes rather than assuming an uptake percentage predicts them. These are proposed qualification steps, not tests already demonstrated for a supplier's material.
+ 
+-For an aroma-led application, add eugenol content and a sensory comparison in the intended formulation. For a sealed-pack project, test the actual powder–package combination against agreed end-of-life criteria. Neither the seven-day salt-chamber test nor the clove paper's separate sealed-tube storage experiments establish a pouch barrier requirement, a desiccant dose or a shelf life.[1]
++For an aroma-led application, add eugenol content and a sensory comparison in the intended formulation. For a sealed-pack project, test the actual powder–package combination against agreed end-of-life criteria. The clove paper separately tested storage in screw-capped tubes at 4 or 25 °C for 40 days and in sealed tubes at 60 °C for seven days.[1] Neither those storage tests nor the seven-day humidity exposure establish a pouch barrier requirement, a desiccant dose or a shelf life.[1]
+ 
+ The defensible conclusion is narrower—and more useful—than “low water activity means stable.” In this clove experiment, carrier selection changed the reported humidity uptake without producing a significant initial water-activity difference.[1] Use that result to choose the next comparison, not to substitute for package, aroma or finished-product validation.
+ 

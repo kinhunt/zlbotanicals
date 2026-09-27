@@ -1,0 +1,21 @@
+--- prior-reviewed
++++ clove-next
+@@ -41,7 +41,7 @@
+ 
+ ## Why the carrier name alone is not a moisture specification
+ 
+-A separate study of spray-dried elderberry pomace extract illustrates the transfer problem. Its all-MD formulation had a reported moisture content of 5.63 ± 0.15%, compared with 4.10 ± 0.09% for all-GA—the reverse of the endpoint ordering in the freeze-dried clove study.[2][1] The elderberry experiment used a different extract, a stated carrier-to-extract-dry-mass ratio of 1:2 and spray drying at an inlet temperature of 120 ± 1 °C.[2]
++A separate study of spray-dried elderberry pomace extract illustrates the transfer problem. Its all-MD formulation had a reported moisture content of 5.63 ± 0.15%, compared with 4.10 ± 0.09% for all-GA—the reverse of the endpoint ordering in the freeze-dried clove study.[2][1] The elderberry experiment used a different extract and spray drying at an inlet temperature of 120 ± 1 °C.[2] Its methods contain an unresolved ratio discrepancy: the drying section states 1:2 carrier:extract dry mass, while the assay section uses 1:6 extract:carrier to calculate expected compound concentration.[2] The moisture results are cited as reported; neither ratio is used here to calculate a carrier fraction or normalize performance.
+ 
+ This is not evidence that GA reverses its inherent behavior, or that one drying method caused the difference: several features changed between experiments. It is evidence against transferring a finished-powder moisture ranking solely from the carrier names. The elderberry moisture results are also not a replication of seven-day humidity uptake.
+ 
+@@ -55,6 +55,6 @@
+ 
+ ## Sources
+ 
+-[1] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11764740/fullTextXML — Clove freeze-dried GA/MD primary study: original JATS
+-[2] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11899151/fullTextXML — Elderberry pomace spray-drying primary study: original JATS
+-[3] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11510493/fullTextXML — Natural-polymer spray-dried eugenol primary study: original JATS
++[1] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11764740/fullTextXML — PMC11764740 original full-text JATS
++[2] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11899151/fullTextXML — PMC11899151 original full-text JATS
++[3] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11510493/fullTextXML — PMC11510493 original full-text JATS

@@ -1,0 +1,21 @@
+--- prior-reviewed
++++ clove-next
+@@ -41,7 +41,7 @@
+ 
+ ## 仅凭载体名称，不能预判成品水分
+ 
+-另一项接骨木果渣提取物喷雾干燥研究，说明了跨原料套用结论的风险。它的全麦芽糊精组水分为5.63 ± 0.15%，全阿拉伯胶组为4.10 ± 0.09%，这两组的水分高低顺序与丁香冻干研究相反。[2][1] 接骨木研究使用的提取物不同，载体与提取物干物质的比例为1:2，喷雾干燥进风温度为120 ± 1 °C。[2]
++另一项接骨木果渣提取物喷雾干燥研究，说明了跨原料套用结论的风险。它的全麦芽糊精组水分为5.63 ± 0.15%，全阿拉伯胶组为4.10 ± 0.09%，这两组的水分高低顺序与丁香冻干研究相反。[2][1] 接骨木研究使用的提取物不同，喷雾干燥进风温度为120 ± 1 °C。[2] 其方法段还存在未解决的比例矛盾：干燥部分写的是载体与提取物干物质之比1:2，检测部分却按提取物与载体之比1:6计算理论成分浓度。[2] 这里仅引用作者报告的水分结果，不采用任一比例推算载体含量，也不据此换算性能。
+ 
+ 这并不能说明阿拉伯胶的固有性质发生了逆转，也不能单独证明差异由干燥方式造成——两项实验之间同时改变了多个条件。它提醒我们：不能只看载体名称，就把一项实验的成品水分排序套用到另一款粉末上。接骨木研究中的水分结果，也不是七天吸湿试验的重复验证。
+ 
+@@ -55,6 +55,6 @@
+ 
+ ## Sources
+ 
+-[1] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11764740/fullTextXML — Clove freeze-dried GA/MD primary study: original JATS
+-[2] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11899151/fullTextXML — Elderberry pomace spray-drying primary study: original JATS
+-[3] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11510493/fullTextXML — Natural-polymer spray-dried eugenol primary study: original JATS
++[1] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11764740/fullTextXML — PMC11764740 original full-text JATS
++[2] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11899151/fullTextXML — PMC11899151 original full-text JATS
++[3] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11510493/fullTextXML — PMC11510493 original full-text JATS

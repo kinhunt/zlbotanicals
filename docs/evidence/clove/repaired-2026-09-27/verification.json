@@ -1,0 +1,762 @@
+{
+  "passed": 189,
+  "total": 189,
+  "checks": [
+    {
+      "check": "fresh source hash PMC11764740",
+      "pass": true
+    },
+    {
+      "check": "fresh source hash PMC11899151",
+      "pass": true
+    },
+    {
+      "check": "fresh source hash PMC11510493",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/site.zh.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/clove-humidity.test.mjs",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/site.en.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/continuation/PMC11764740.xml",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/continuation/DISCOVERY.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/continuation/clove-table2.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/article.en.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/article.zh.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/PMC11764740.xml",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/REPORT.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/PMC11899151.xml",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/dedup-plant-extracts.json.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/clove-search.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/draft.zh.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/ledger.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/PMC11510493.xml",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/dedup-PlantEncyclopedia.astro.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/PMC11899151.txt",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/clove-targeted-search.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/site-plant-extracts.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/draft.en.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/retrieval-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/elderberry-tables.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/clove-fresh.xml",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/claim-map.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/tables.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/verification.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/chart-data.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/dedup-clove.txt",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/site-PlantEncyclopedia.astro",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/PMC11510493.txt",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/verify.py",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/PMC11764740.txt",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/hashes.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/sources/eugenol-tables.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/ledger.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/PMC11899151.fresh.xml",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/edits.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/changes.en.diff",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/draft.zh.reviewed.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/draft.en.reviewed.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/REVIEW.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/PMC11764740.fresh.xml",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/verification.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/PMC11510493.fresh.xml",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/independent-evidence.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/verify.py",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/changes.zh.diff",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/worktree-evidence/review/hashes.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/PMC11764740.xml",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/REPORT.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/PMC11899151.xml",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/dedup-plant-extracts.json.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/clove-search.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/draft.zh.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/ledger.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/PMC11510493.xml",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/dedup-PlantEncyclopedia.astro.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/PMC11899151.txt",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/clove-targeted-search.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/site-plant-extracts.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/draft.en.md",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/retrieval-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/elderberry-tables.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/clove-fresh.xml",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/claim-map.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/tables.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/verification.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/chart-data.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/dedup-clove.txt",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/site-PlantEncyclopedia.astro",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/PMC11510493.txt",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/verify.py",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/PMC11764740.txt",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/hashes.json",
+      "pass": true
+    },
+    {
+      "check": "preserved preserved/depth/eugenol-tables.json",
+      "pass": true
+    },
+    {
+      "check": "C01 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C02 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C03 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C04 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C05 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C06 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C07 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C08 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C09 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C10 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C11 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C12 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C13 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C14 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C15 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "T1-2 original cells",
+      "pass": true
+    },
+    {
+      "check": "T1-4 original cells",
+      "pass": true
+    },
+    {
+      "check": "T2-1 original cells",
+      "pass": true
+    },
+    {
+      "check": "T2-2 original cells",
+      "pass": true
+    },
+    {
+      "check": "T3-3 original cells",
+      "pass": true
+    },
+    {
+      "check": "C16 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C17 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C18 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C19 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "C20 verbatim original node",
+      "pass": true
+    },
+    {
+      "check": "en row 0:100",
+      "pass": true
+    },
+    {
+      "check": "en row 50:50",
+      "pass": true
+    },
+    {
+      "check": "en row 62.5:37.5",
+      "pass": true
+    },
+    {
+      "check": "en row 75:25",
+      "pass": true
+    },
+    {
+      "check": "en row 87.5:12.5",
+      "pass": true
+    },
+    {
+      "check": "en row 100:0",
+      "pass": true
+    },
+    {
+      "check": "en p values",
+      "pass": true
+    },
+    {
+      "check": "en new ratio conflict retained",
+      "pass": true
+    },
+    {
+      "check": "en at most three distinct source IDs per sentence",
+      "pass": true
+    },
+    {
+      "check": "zh row 0:100",
+      "pass": true
+    },
+    {
+      "check": "zh row 50:50",
+      "pass": true
+    },
+    {
+      "check": "zh row 62.5:37.5",
+      "pass": true
+    },
+    {
+      "check": "zh row 75:25",
+      "pass": true
+    },
+    {
+      "check": "zh row 87.5:12.5",
+      "pass": true
+    },
+    {
+      "check": "zh row 100:0",
+      "pass": true
+    },
+    {
+      "check": "zh p values",
+      "pass": true
+    },
+    {
+      "check": "zh new ratio conflict retained",
+      "pass": true
+    },
+    {
+      "check": "zh at most three distinct source IDs per sentence",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph en:9",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph en:13",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph en:17",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph en:28",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph en:32",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph en:36",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph en:38",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph en:40",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph en:44",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph en:52",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph zh:9",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph zh:13",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph zh:17",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph zh:28",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph zh:32",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph zh:36",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph zh:38",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph zh:40",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph zh:44",
+      "pass": true
+    },
+    {
+      "check": "numeric paragraph zh:52",
+      "pass": true
+    },
+    {
+      "check": "final binding article.en.md",
+      "pass": true
+    },
+    {
+      "check": "final binding sitemap-0.xml",
+      "pass": true
+    },
+    {
+      "check": "final binding preserved-hashes.json",
+      "pass": true
+    },
+    {
+      "check": "final binding claim-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "final binding ledger.json",
+      "pass": true
+    },
+    {
+      "check": "final binding retrieval.json",
+      "pass": true
+    },
+    {
+      "check": "final binding article.zh.md",
+      "pass": true
+    },
+    {
+      "check": "final binding repair.zh.diff",
+      "pass": true
+    },
+    {
+      "check": "final binding worktree-status.after.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding repair.en.diff",
+      "pass": true
+    },
+    {
+      "check": "final binding citation-verification.json",
+      "pass": true
+    },
+    {
+      "check": "final binding sitemap-index.xml",
+      "pass": true
+    },
+    {
+      "check": "final binding REVIEW.md",
+      "pass": true
+    },
+    {
+      "check": "final binding worktree-status.before.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding original-cells.json",
+      "pass": true
+    },
+    {
+      "check": "final binding numeric-claims.json",
+      "pass": true
+    },
+    {
+      "check": "final binding main-tree.json",
+      "pass": true
+    },
+    {
+      "check": "final binding verify.py",
+      "pass": true
+    },
+    {
+      "check": "final binding sources/PMC11764740.xml",
+      "pass": true
+    },
+    {
+      "check": "final binding sources/PMC11899151.xml",
+      "pass": true
+    },
+    {
+      "check": "final binding sources/PMC11510493.xml",
+      "pass": true
+    },
+    {
+      "check": "final binding sources/PMC11899151.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding sources/PMC11510493.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding sources/PMC11764740.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-f2b6a59f6092.html",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-11f03b4a3241.html",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/src__components__PlantEncyclopedia.astro",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-94f1c59d8014.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/src__data__plant-extracts.json",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-1864ee2754b5.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-ebc15496d07f.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/src__content__blog__en__elderberry-material-selection.md",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-94f1c59d8014.html",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-324de4a0e265.html",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-324de4a0e265.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/src__content__blog__en__reishi-sleep-market-2026.md",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/main-content-hits.json",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-f941e636f955.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-f2b6a59f6092.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-11f03b4a3241.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-18a3c071670f.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-1864ee2754b5.html",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-934ca0c8ff68.html",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-18a3c071670f.html",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-f941e636f955.html",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-934ca0c8ff68.txt",
+      "pass": true
+    },
+    {
+      "check": "final binding dedup/live-ebc15496d07f.html",
+      "pass": true
+    }
+  ]
+}

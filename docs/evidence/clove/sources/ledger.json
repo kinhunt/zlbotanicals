@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11764740/fullTextXML",
+      "title": "Clove freeze-dried GA/MD primary study: original JATS",
+      "accessed": "2026-09-27",
+      "quotes": [
+        {
+          "text": "A clove bud was purchased from a local market (Mudbrick Herb Cottage, Queensland, Australia) and ground into a fine powder form using a grinder (Cuisinart® Spice and Nut Grinder, SG-10A, Asquith, NSW, Australia). A three-step extraction process was initiated with 80% methanol at a sample-to-solvent ratio of 1:10 and shaken at 150 rpm in 4 °C for 2 h in a Labwit ZWYR-240 incubator shaker (Ashwood, Victoria, Australia). Then, this slurry was centrifuged (Hettick ROTINA380R Refrigerated Centrifuge; Tuttlingen, Baden-Württemberg, Germany) at 8000× g for 10 min at 4 °C. The supernatant was harvested and filtered through a Whatman No. 1 filter paper. This extraction process was repeated twice with the shaking and centrifugation specifications described above. All supernatants collected were pooled, mixed, and concentrated using a BÜCHI rotary evaporator at 40 °C under reduced pressure until about 95% of the solvent was evaporated. The concentrated extract was stored at −80 °C and subsequently freeze-dried using a Biobase Benchtop freeze dryer (BK-FD10S, Biobase, Jinan, China) for 72 h. The freeze-dried extract powder was used in the encapsulation process.",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "Maltodextrin and GA were used as encapsulating agents in various proportions, as listed in Table 1. The encapsulation process was performed following the procedure of Parvez et al. [12], with some modifications. In brief, distilled water was added to the wall materials to create a 30% w/v solution, then left overnight (4 °C) to ensure complete saturation of the polymer. Freeze-dried clove extract was then mixed with the wall material solution at a 1:4 ratio. This mixture was homogenized using a high-speed homogenizer (Ultra-Turrax® T25; IKA Inc., Wilmington, NC, USA) at 9500 rpm for 15 min at room temperature [15]. The resulting solution was frozen at −80 °C for 24 h and then freeze-dried for about 72 h. After freeze drying, the encapsulated biomass was ground with a pestle and mortar [16]. The encapsulated powders were kept in an airtight amber bottle under refrigeration.",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "Water solubility was determined using the method described by George et al. [15]. Approximately 1 g of the encapsulated powder was mixed with 25 mL of distilled water and mixed vigorously. The mixture was incubated at 35 °C for 30 min and subsequently centrifuged at 4000 rpm for 4 min. The supernatant was transferred to a pre-weighed Petri plate and dried in an oven of 105 °C. Water solubility was calculated as the ratio of the dried mass of supernatant to the initial weight of the powder sample. Water activity was measured at 25 °C using a Novasina LabMaster-aw analyzer (Lanchem, Switzerland).",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "Hygroscopicity was determined following the procedure of Rezende et al. [16]. A 1 g encapsuled powder was transferred in a desiccator with a saturated solution of sodium chloride (relative humidity = 75.3%). The powders were weighed after 7 days, and the amount of adsorbed moisture was determined.",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "Data analysis was run in SAS (version 9.4, SAS Institute Inc., Cary, NC, USA). Before analysis, the dataset was checked again for potential outliers, and a normality test was performed, but no transformation was needed as the data were normal. The data were collected over 3 separate experimental runs. The run was included in the model as a random variable. The results are presented as mean ± standard deviation. A Tukey’s multiple range test was employed for the means comparison. The significance threshold was set at p < 0.05.",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "The loading efficiency of total phenolics and eugenol was calculated as the ratio of their concentration in the freeze-dried encapsulates to their theoretical concentration prior to the freeze-drying process, according to the following Equation [23]:",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "A quantitative analysis of eugenol was performed following an HPLC method developed and validated by Yun et al. [20], with slight modifications. Briefly, liquid chromatography was performed using an Agilent 1200 HPLC system (Agilent Technologies, Santa Clara, CA, USA) attached with a DAD at 280 nm. Eugenol was separated in a Synergi Hydro-RP 80 Å, LC Column (250 mm × 4.6 mm, 4 μm particle size) (Phenomenex, Lane Cove, NSW, Australia). The mobile phase was methanol–water (60 + 40, v/v). A 20 µL aliquot of each sample extract (from the clove extract in encapsulated or non-encapsulated form) was filtered through a 0.45 µm syringe filter (Thermo Fisher Scientific Inc., Waltham, MA, USA) and set for injection at a flow rate of 0.8 mL/min. The column temperature was maintained at 35 °C. Quantification of eugenol was achieved through a calibration curve construction (Supplementary Figure S1) and peak area measurements.",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "The procedure of Saikia et al. [19] was adopted to determine the encapsulation efficiency. Initially, surface phenolics were extracted by mixing 200 mg of the encapsulated sample with 2 mL of a 1:1 methanol–ethanol solution. The mixture was vortexed for 1 min and then filtered using a 0.45 μm acrodisc syringe filter and subjected to quantification of total phenolic using the Folin–Ciocalteu reagent assay as described in Section 2.4. For the harvest of total phenolics entrapped in the core material, a 200 mg encapsulated sample was dissolved in 2 mL of a solvent system with a volumetric ratio of 50:8:42 (v/v/v) of methanol, acetic acid, and water. The mixture was vortexed for 20 min and then subjected to ultrasonic treatment (John Morris Scientific, Melbourne, VIC, Australia). After centrifugation (10 min at 2057× g), the supernatant was collected upon filtration using an acrodisc syringe filter. Total core phenolics were quantified using the Folin–Ciocalteu reagent assay as described in Section 2.4. The encapsulation efficiency was computed using the following Equation:",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "The encapsulated powder and the non-encapsulated clove extract were each divided into two allotments of approximately 2 g each, placed in screw-capped tubes, and stored in the dark at either room temperature (25 °C) or cold temperature (4 °C). The storage duration was 40 days, and the sample collection occurred at 10-day intervals. At each interval, the samples were analyzed for surface and core phenolic content, encapsulation efficiency, antioxidant capacity (using FRAP assay), and eugenol concentration.",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "An accelerated storage stability test was also undertaken to identify which encapsulation formulation offers superior resistance against high temperatures. Approximately 2 g of the encapsulated or non-encapsulated clove extract powder was placed in a sealed tube and stored in an oven at 60 °C for 7 days in the dark. After this incubation period, the total core phenolics (as outlined in Section 2.4), antioxidant activity (using FRAP assay as outlined in Section 2.5), and eugenol concentration (as outlined in Section 2.7) were quantified.",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "Table 2Physicochemical properties and flowability characteristics of clove extract encapsulated with different wall materials.Formulations *Moisture, %Solubility, %WAC, g/gWater ActivityHygroscopicity, %ρbulk, g/cm3ρtapped, g/cm3HRCI, %0MD:100GA5.30 ± 0.33 a89.9 ± 0.76 b0.34 ± 0.080.29 ± 0.0210.1 ± 0.40 a0.310 ± 0.01 b0.409 ± 0.01 b1.32 ± 0.0124.3 ± 0.6550MD:50GA3.24 ± 0.76 b90.0 ± 1.14 b0.34 ± 0.070.26 ± 0.039.10 ± 0.26 a0.314 ± 0.02 b0.406 ± 0.01 b1.29 ± 0.0222.6 ± 1.0162.5MD:37.5GA2.44 ± 0.09 bc91.8 ± 0.73 ab0.35 ± 0.080.24 ± 0.037.17 ± 0.36 b0.307 ± 0.01 b0.408 ± 0.01 b1.33 ± 0.0524.7 ± 2.8575MD:25GA2.98 ± 0.58 b92.5 ± 0.81 a0.33 ± 0.070.23 ± 0.016.67 ± 0.47 b0.309 ± 0.02 b0.408 ± 0.01 b1.32 ± 0.0324.4 ± 1.5787.5MD:12.5GA2.89 ± 0.71 b92.7 ± 0.61 a0.34 ± 0.060.28 ± 0.026.74 ± 0.45 b0.325 ± 0.01 ab0.429 ± 0.01 ab1.32 ± 0.0424.3 ± 2.29100MD:0GA1.39 ± 0.26 c93.3 ± 0.82 a0.32 ± 0.080.28 ± 0.036.70 ± 0.36 b0.353 ± 0.01 a0.439 ± 0.01 a1.25 ± 0.0319.7 ± 2.16p value<0.01<0.010.960.17<0.01<0.01<0.010.150.14* MD = maltodextrin, GA = gum Arabic. Proportion of MD and GA in the formulations is presented in Table 1. WAC = water absorption capacity. ρbulk = bulk density. ρtapped = tapped density. HR = Hausner’s ratio. CI = Carr index a–c Means with different superscripts within a column differ (Tukey’s test).",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "Table 4Solid recovery and loading efficiency of total phenolics and eugenol in clove extract encapsulated with different wall materials.Formulations *Solid Recovery, %Total Phenolics, %Eugenol, %0MD:100GA93.8 ± 1.3078.5 ± 3.1874.2 ± 1.7950MD:50GA93.2 ± 2.0380.1 ± 2.5373.2 ± 2.1462.5MD:37.5GA92.0 ± 2.0179.1 ± 2.8375.6 ± 0.9575MD:25GA93.4 ± 1.3281.6 ± 2.5674.8 ± 0.7187.5MD:12.5GA93.9 ± 0.9279.0 ± 3.5572.4 ± 1.11100MD:0GA92.6 ± 1.9279.5 ± 1.7570.5 ± 2.06p value0.840.690.78* MD = maltodextrin, GA = gum Arabic. Proportion of MD and GA in the formulations is presented in Table 1.",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "Folin–Ciocalteu reagent, gallic acid, ascorbic acid, sodium phosphate, iron chloride hexahydrate, sodium carbonate, 2,4,6-tripyridyl-s-triazine (TPTZ), and eugenol (99% purity; E51791) were purchased from Sigma-Aldrich (Castle Hill, NSW, Australia). Methanol, ethanol, glacial acetic acid, and formic acid were purchased from Thermo Fisher Scientific Inc. (Scoresby, Victoria, Australia). Milli-Q water was collected using a Millipore Milli-Q gradient water purification system (Darmstadt, Germany). Pancreatin was acquired from Southern Biological (Melbourne, Victoria, Australia), and α-amylase from Aspergillus oryzae was purchased from Sigma-Aldrich (Castle Hill, NSW, Australia). Gum Arabic from the acacia tree and maltodextrin (dextrose equivalent 16.5–19.5) were purchased from Sigma-Aldrich (Castle Hill, NSW, Australia).",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "Physicochemical properties of encapsulated powders are reported in Table 2. The 0MD:100GA formulation had the highest moisture content (5.30%), and as the proportion of MD increased in encapsulation formulation, the moisture content decreased, reaching the lowest value of 1.30% in the 100MD:0GA formulation. Consistent with this result, Kang et al. [33] also reported that as the MD concentration increased in the wall materials, as compared to GA, the moisture content of the encapsulates decreased. This effect was attributed to the higher number of hydrophilic groups in GA, which can bind more water molecules, leading to increased moisture content when GA is present in encapsulates in greater proportion [34]. The moisture content is critical for the storage stability of encapsulates, as a higher moisture level may promote the release and degradation of the core material during storage.",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "The encapsulated powders developed in this investigation demonstrated a generally high water solubility, with the highest solubility determined in the encapsulates developed solely of MD (water solubility = 95%) and the lowest in the encapsulates developed only of GA (water solubility = 89.9%). This may suggest that the clove extract encapsulated with greater MD proportion can be readily and rapidly reconstituted. This high solubility observed across the formulations can be attributed to the inherently high solubility of both GA and MD [35], comprising 80% of the encapsulated powders. In support of our findings, previous studies [14,36] have also reported the higher solubility of MD over GA. Solubility is a critical property of encapsulated powders, as the release of bioactive compounds entrapped within the wall materials relies on the dissolution of the encapsulating agent. Encapsulation using appropriate wall materials usually enables the transformation of hydrophobic compounds into more hydrophilic forms, allowing them to be incorporated more efficiently into water-based food matrices [37]. In both food and pharmaceutical industries, low solubility is undesirable because it may limit efficient dissolution in food matrices or incorporation into specific formulations, leading to processing difficulties and reduced bioavailability [38,39].",
+          "added": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11899151/fullTextXML",
+      "title": "Elderberry pomace spray-drying primary study: original JATS",
+      "accessed": "2026-09-27",
+      "quotes": [
+        {
+          "text": "The prepared polymer solutions were dried using a Büchi Mini Spray Dryer B-290 laboratory device (Flawil, Switzerland). Experimental conditions were set as follows: volume of extract 100 mL, feed flow solution 1.2 mL/min, inlet temperature 120 ± 1 °C, outlet temperature 60 ± 2 °C, nozzle diameter tip 150 μm, atomization air flow 831 L/h, and aspiration 100%. Maltodextrin and gum arabic were used as a carrier material (Table 1) in a 1:2 (carrier:dry mass of extract) ratio. The obtained powder was collected in closed glass bottles and protected from air and humidity.",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "foods-14-00723-t001_Table 1Table 1Nomenclature of powders formed using spray-drying process with carriers, maltodextrin and gum arabic.CodeMaltodextrin (%)Gum arabic (%)SD 1100 (1.45 g)0 (0.00 g)SD 280 (1.16 g)20 (0.29 g)SD 360 (0.87 g)40 (0.58 g)SD 440 (0.58 g)60 (0.87 g)SD 520 (0.29 g)80 (1.16 g)SD 60 (0.00 g)100 (1.45 g)",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "foods-14-00723-t002_Table 2Table 2Physical characteristics and flowability of obtained black elderberry pomace microparticles.\nMCEYBDTDCIHRPSSD 15.63 ± 0.15 a83.84 ± 3.39 a160.25 ± 5.07 c266.67 ± 3.79 ab39.91 ± 0.76 a1.66 ± 0.08 a1.73 ± 1.27 cSD 24.95 ± 0.20 b80.00 ± 3.70 a162.63 ± 3.59 bc253.12 ± 6.44 bc35.75 ± 0.90 b1.56 ± 0.06 ab1.94 ± 0.08 bcSD 34.20 ± 0.12 c77.44 ± 3.57 a194.36 ± 5.79 a277.14 ± 3.53 a29.87 ± 0.87 c1.43 ± 0.06 bc2.05 ± 0.10 abSD 43.85 ± 0.10 c75.36 ± 3.54 a178.61 ± 7.99 ab247.22 ± 3.02 c27.75 ± 0.62 c1.38 ± 0.01 c2.20 ± 0.58 aSD 53.95 ± 0.18 c78.23 ± 2.87 a187.23 ± 8.21 a258.33 ± 12.34 bc27.52 ± 1.37 c1.38 ± 0.03 c2.03 ± 1.65 abSD 64.10 ± 0.09 c81.25 ± 1.12 a185.96 ± 1.87 a255.55 ± 3.25 bc27.23 ± 1.11 c1.37 ± 0.02 c2.01 ± 1.02 abDifferent letters within a column indicate a significant difference between samples at p < 0.05. Moisture content, MC; Encapsulation yield, EY; Bulk density, BD; Tapped density, TD; Carr index, CI; Hausner ration, HR; Particle size, PS.",
+          "added": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11510493/fullTextXML",
+      "title": "Natural-polymer spray-dried eugenol primary study: original JATS",
+      "accessed": "2026-09-27",
+      "quotes": [
+        {
+          "text": "EUG 99% purity was donated by Lidervet (Tarragona, Spain). MD (C-Dry™ MD, dextrose equivalent 12–16), and SL (Emultop™ IP) were gifted by Cargill (Barcelona, Spain). GA from acacia tree, spray dried, was purchased from Merck (Darmstadt, Germany). Distilled water and Milli-Q® water (Merck Millipore Milli-Q® Advantage A10) were, respectively, used to prepare the polymeric solutions and to dissolve the microparticles in one assay. Hexane, as an alkanes mixture for analysis and 2-propanol pharma grade, were obtained from Panreac AppliChem (ITW Reagents; Barcelona, Spain). Azulene 99% was acquired from Alfa Aesar (Haverhill, MA, USA).",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "MD and GA were hydrated in distilled water for 24 h at room temperature (24 °C). Afterward, SL was added (0.5% w/w) to a 3:1 (MD:GA) mixture of the polymers. The emulsifying process and the EUG ratio in the emulsion depended on their value in the randomised factorial design. Formulations were prepared by using a high shear homogeniser (Ultra-Turrax® T-25; IKA®-Werke, Staufen, Germany) at 15,000 rpm for 5 min or by means of a paddle stirrer (RW 20 Digital; IKA®-Werke, Staufen, Germany) at 390 rpm for 10 min. A certain volume of EUG was added dropwise while homogenising in all formulations, according to the design of the experiment.",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "A randomised factorial design was prepared by means of the software Statgraphics® Centurion 18 (The Plains, VA, USA) to study the effect of 5 factors elevated at 2 levels by performing 32 experiments. The chosen factors, relevant in the preparation of the emulsions of the spray drying process, are presented in Table 1.",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "Encapsulation efficiency (EE) was calculated from the relation between the experimental and theoretical content of EUG in the polymeric microparticles, thanks to Equation (5):",
+          "added": "2026-09-27"
+        },
+        {
+          "text": "Table 3Studied Formulations in a Scanning Electronic Microscope (SEM) and Their Results.FormulationYield (%)EUG EE (%)d(0.9) (µm)PDIOutlet Temperature (°C)DF0665.3547.3725.732.0171DF1633.7296.07164.524.5538DF2056.1545.6019.602.1767",
+          "added": "2026-09-27"
+        }
+      ]
+    }
+  ]
+}

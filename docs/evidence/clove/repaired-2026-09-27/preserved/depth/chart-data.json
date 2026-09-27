@@ -1,0 +1,52 @@
+{
+  "source_id": 1,
+  "table_id": "foods-14-00237-t002",
+  "columns": [
+    "Carrier MD:GA",
+    "Initial aw",
+    "Reported hygroscopicity %"
+  ],
+  "rows": [
+    [
+      "0MD:100GA",
+      "0.29 ± 0.02",
+      "10.1 ± 0.40 a"
+    ],
+    [
+      "50MD:50GA",
+      "0.26 ± 0.03",
+      "9.10 ± 0.26 a"
+    ],
+    [
+      "62.5MD:37.5GA",
+      "0.24 ± 0.03",
+      "7.17 ± 0.36 b"
+    ],
+    [
+      "75MD:25GA",
+      "0.23 ± 0.01",
+      "6.67 ± 0.47 b"
+    ],
+    [
+      "87.5MD:12.5GA",
+      "0.28 ± 0.02",
+      "6.74 ± 0.45 b"
+    ],
+    [
+      "100MD:0GA",
+      "0.28 ± 0.03",
+      "6.70 ± 0.36 b"
+    ]
+  ],
+  "p_values": {
+    "aw": "0.17",
+    "hygroscopicity": "<0.01"
+  },
+  "notes": [
+    "mean ± SD",
+    "three experimental runs",
+    "hygroscopicity:1g /75.3%RH/7days",
+    "exposure temperature and percentage equation not explicitly reported",
+    "a,b Tukey groups, not ranks"
+  ]
+}

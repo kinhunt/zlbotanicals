@@ -1,0 +1,66 @@
+{
+  "en": [
+    [
+      "used a stated extract-to-wall-material ratio of 1:4",
+      "mixed freeze-dried extract with a 30% w/v wall-material solution at a stated ratio of 1:4"
+    ],
+    [
+      "The MD:GA labels describe the carrier blend, not the composition of undiluted clove extract.",
+      "The MD:GA labels describe the carrier blend, not the composition of undiluted clove extract. The method does not specify the basis of the 1:4 ratio; it should not be read as a verified dry extract-to-carrier mass ratio.[1]"
+    ],
+    [
+      "The table below transcribes the original paper's Table 2.",
+      "The table below reproduces the water-activity and hygroscopicity columns from the original paper's Table 2."
+    ],
+    [
+      "Its Table 4 gives eugenol loading efficiencies of 70.5–75.6%, with no significant formulation effect reported (p = 0.78).[1]",
+      "Its Table 4 gives eugenol loading efficiencies of 70.5–75.6%, with no significant formulation effect reported (p = 0.78).[1] Here, loading efficiency compares the measured eugenol concentration after drying with the theoretical concentration before drying; it is not the eugenol mass fraction of the powder.[1]"
+    ],
+    [
+      "while varying processing conditions across 32 experiments.",
+      "while varying processing conditions and the eugenol-to-polymer ratio across 32 experiments."
+    ],
+    [
+      "The clove paper's measure concerns surface and core phenolics; the eugenol paper compares experimental with theoretical eugenol content.",
+      "The clove paper calculates (total core phenolics − surface phenolics) / total core phenolics × 100; the eugenol paper compares experimental with theoretical eugenol content."
+    ],
+    [
+      "Neither the seven-day salt-chamber test nor the clove paper's separate sealed-tube storage experiments establish a pouch barrier requirement, a desiccant dose or a shelf life.[1]",
+      "The clove paper separately tested storage in screw-capped tubes at 4 or 25 °C for 40 days and in sealed tubes at 60 °C for seven days.[1] Neither those storage tests nor the seven-day humidity exposure establish a pouch barrier requirement, a desiccant dose or a shelf life.[1]"
+    ]
+  ],
+  "zh": [
+    [
+      "文中给出的提取物与壁材比例为1:4；",
+      "文中将冻干提取物与浓度为30% w/v的壁材溶液按1:4混合；"
+    ],
+    [
+      "MD:GA描述的是载体内部的配比，不是纯丁香提取物的组成。",
+      "MD:GA描述的是载体内部的配比，不是纯丁香提取物的组成。方法段没有交代1:4的计量基准，不能直接把它当作已确认的干提取物与载体质量比。[1]"
+    ],
+    [
+      "下表直接采用原论文表2的数据。数值为均值±标准差；研究报告了三次独立开展的实验运行。",
+      "下表摘录原论文表2中的水分活度和吸湿性数据。数值为均值±标准差；作者报告分三次开展实验。"
+    ],
+    [
+      "其表4中丁香酚的负载效率为70.5%–75.6%，报告的配方效应不显著（p = 0.78）。[1]",
+      "其表4中丁香酚的负载效率为70.5%–75.6%，报告的配方效应不显著（p = 0.78）。[1] 这里的负载效率是干燥后实测丁香酚浓度与干燥前理论浓度之比，不是粉末中丁香酚的质量分数。[1]"
+    ],
+    [
+      "在32组实验中改变加工条件。",
+      "在32组实验中改变加工条件及丁香酚与聚合物的比例。"
+    ],
+    [
+      "丁香提取物研究的这一指标涉及表面酚与核心酚；丁香酚研究比较的是实际丁香酚含量与理论含量。",
+      "丁香提取物研究按“（总核心酚−表面酚）/总核心酚×100”计算；丁香酚研究比较的是实际丁香酚含量与理论含量。"
+    ],
+    [
+      "端点排序与丁香冻干研究相反。",
+      "这两组的水分高低顺序与丁香冻干研究相反。"
+    ],
+    [
+      "七天盐溶液湿度暴露试验，以及丁香论文另行开展的密封管储存试验，都不能直接给出包装袋阻隔指标、干燥剂用量或保质期。[1]",
+      "丁香论文还另行开展了储存试验：样品在旋盖管内于4或25 °C储存40天，或在密封管内于60 °C放置七天。[1] 这些储存试验与七天湿度暴露试验，都不能直接给出包装袋阻隔指标、干燥剂用量或保质期。[1]"
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+# Clove recovery — independent source and bilingual review
+
+## Outcome
+Useful EN/ZH research drafts recovered and repaired: `article.en.md` and `article.zh.md`. This is an independent AI review of earlier author/reviewer work, not external human approval or publication verification. Main conclusion survives fresh source checking: initial water activity and subsequent humidity uptake are different measurements. No universal aw guarantee, shelf-life inference, commercial supply assertion or novelty/market-prevalence claim is adopted.
+
+## Preservation
+The detached worktree was at `0d68a64` (PR77), with untracked bilingual site drafts, evidence directory, test and node_modules. All evidence, original/reviewed drafts, charts/data, diffs and test were copied additively under `preserved/`; node_modules was deliberately not copied. The continuation discovery note and original XML/cell table were retained. No originals or worktree files were changed. No generated diagram was found in the clove evidence directories; chart-data.json and prior plot guidance are preserved. A numeric table is sufficient; no new plot or visual claim was fabricated.
+
+## Independent checks, not acceptance by inherited verdict
+Three original JATS documents were freshly retrieved HTTP200 and parsed, including individual td/th cells. Bytes match the earlier archive. `original-cells.json` retains all tables; `claim-ledger.json` binds 25 evidence records to fresh source hashes; `numeric-claims.json` maps every digit-bearing prose paragraph in both drafts to those claims. The six main table rows are checked directly against original cells, not flattened text. Number-word claims (six formulations, three runs, seven days, four b-group formulations) were manually checked against Table2 and Methods2.8.1/2.11.
+
+- Clove Table2: all six aw means/SDs and hygroscopicity means/SDs/letters match. p=0.17 and p<0.01 are reported column tests, not recalculated statistics. 75:25 is only numerically lowest; the four b-group formulations are not distinguished by the reported Tukey lettering. Nonsignificance is not equivalence.
+- Method: 80% methanol, MD DE16.5–19.5, 30%w/v wall solution, stated1:4 mixing, −80°C and about72h verified. The1:4 basis remains unspecified; it is not a verified dry-extract:carrier mass ratio.
+- Uptake:1g, saturated NaCl75.3%RH, seven days. Exposure temperature and calculation basis are not explicit.25°C belongs to initial aw measurement. No equilibrium or dry-basis g/100g label added.
+- Conflicts retained: all-MD moisture1.39% table versus1.30% prose; solubility93.3% versus95%; all-GA89.9% versus abstract>90%. No numerical correction to the source is invented.
+- Clove Table4 eugenol loading70.5–75.6%, p0.78 confirmed. Loading is concentration-relative-to-theoretical, not powder purity. Phenolic encapsulation formula and storage conditions (screw-capped4/25°C40days; sealed60°C7days) were independently reread.
+- Independent eugenol study:99% starting eugenol, fixed3:1MD:GA plus lecithin,32experiments; DF16 EE96.07%/recovery33.72%, DF06 EE47.37%/recovery65.35% confirmed from Table3. It does not replicate clove humidity uptake. Experimental/theoretical eugenol EE is not the clove phenolic EE denominator.
+- Elderberry: Table1 identifies SD1 all-MD and SD6 all-GA; Table2 moisture5.63±0.15% and4.10±0.09% confirmed; inlet120±1°C confirmed. Moisture is the authors' gravimetric label, not an independently water-specific assay. This comparison only cautions against transferring a carrier-name ranking between different extracts/processes.
+
+## New defect found in prior approved copy
+The earlier review correctly repaired the clove solution-ratio ambiguity, but missed a second-source inconsistency. Elderberry Methods2.2 says1:2 carrier:extract dry mass; Methods2.3.4 uses1:6 extract:carrier for expected compound concentration. These are not reciprocal ways of writing the same ratio. Both current language drafts explicitly disclose the conflict and decline carrier-fraction or normalized-performance calculations. Original author/reviewer copies remain preserved. Prior blanket 'no remaining source blockers' verdict must not be treated as review of these final hashes.
+
+No second independent experiment verifies the exact clove humidity numbers, and no author correction resolving the clove prose/table conflicts was established. Fresh retrieval is authenticity/transcription confirmation, not scientific replication. The two additional studies provide bounded comparisons, not corroboration of the six clove values.
+
+## Language and reader value
+Reviewed every aligned body paragraph in EN/ZH. Preserve the substantive experiment → data → statistical meaning → aroma/yield trade-off → transfer limit → purchasing decision structure. Chinese terminology is consistent: 水分活度/吸湿性/负载效率/包埋效率/回收率. Neither article is a translated checklist or generic storage warning. The new ratio caveat is placed only alongside the affected elderberry comparison. The retained table is readable without a chart; SDs are not confidence intervals. Qualification proposals are clearly proposals, not supplier performance claims.
+
+## Deduplication against main and public site
+Read-only GitHub API main tree resolved to `0d68a64fb9d92a54fd6f02cd42a7c108c4471ed6`. Scanned39 pinned files: all English blog entries plus the bilingual plant-extract data and encyclopedia component. No clove article or six-row humidity comparison appeared. Public sitemap and nine relevant live English pages were fetched HTTP200; full HTML/text are archived in `dedup/`. The public sitemap contained no clove route. This scoped check is not a claim of exhaustive full-site text crawl.
+
+Read the existing `/plant-extracts/standards/moisture-vs-loss-on-drying/` body: its task is LOD/KF method, denominator and weighing interpretation, not initial-aw-versus-exposure carrier selection. Keep it as canonical measurement guidance; do not repeat its worksheet. Existing elderberry blog has supplier hygroscopic wording but no clove comparison. Acacia article serves fibre/emulsification selection. Proposed clove draft is a distinct research application question, not a new generic aw or storage page. Existing paused clove work is this same article, not an additional topic to commission.
+
+## Verification boundaries
+`verify.py` checks original cells, all25 evidence records, saved originals, numerical paragraph bindings and final file hashes. Citation source/evidence verification passes with an over-citation warning: the generic verifier groups a multi-sentence paragraph as one sentence. Strict mode therefore failed and is retained in `citation-verification.json`; do not report strict PASS. Manual sentence-level review finds no sentence citing more than three distinct sources. Citation coverage heuristics do not validate Chinese factual meaning or replace this review.
+
+No site integration, rendering, tests, deployment or publication was executed; copied site test is evidence of interrupted work, not an executed test. Remaining release work belongs to a separately authorized site workflow. Read `verification.json` for actual executed check totals and `final-hashes.json` for the exact reviewed artifacts.

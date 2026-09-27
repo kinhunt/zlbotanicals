@@ -1,0 +1,213 @@
+[
+  {
+    "claim": "C01",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C02",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (2 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C03",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (3 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C04",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (4 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C05",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (5 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C06",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (6 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C07",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (7 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C08",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (8 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C09",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (9 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C10",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (10 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C11",
+    "returncode": 0,
+    "stdout": "[2] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C12",
+    "returncode": 0,
+    "stdout": "[3] evidence attached (1 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C13",
+    "returncode": 0,
+    "stdout": "[3] evidence attached (2 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C14",
+    "returncode": 0,
+    "stdout": "[3] evidence attached (3 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C15",
+    "returncode": 0,
+    "stdout": "[3] evidence attached (4 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "T1-2",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (11 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "T1-4",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (12 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "T2-1",
+    "returncode": 0,
+    "stdout": "[2] evidence attached (2 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "T2-2",
+    "returncode": 0,
+    "stdout": "[2] evidence attached (3 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "T3-3",
+    "returncode": 0,
+    "stdout": "[3] evidence attached (5 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C16",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (13 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C17",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (14 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C18",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (15 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C19",
+    "returncode": 0,
+    "stdout": "[1] evidence attached (16 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "claim": "C20",
+    "returncode": 0,
+    "stdout": "[2] evidence attached (4 quote(s))\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "render",
+      "--replace-in",
+      "/data/hermes/research/seo-growth/2026-09-27-clove-next/article.en.md"
+    ],
+    "returncode": 0,
+    "stdout": "Sources block rewritten in /data/hermes/research/seo-growth/2026-09-27-clove-next/article.en.md\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "verify",
+      "/data/hermes/research/seo-growth/2026-09-27-clove-next/article.en.md",
+      "--strict",
+      "--evidence"
+    ],
+    "returncode": 1,
+    "stdout": "info: stats: 38 prose sentence(s), 15 with declared provenance (39%) — 15 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 3 in ledger (3 with evidence quotes)\nwarn: 1 sentence(s) carry more than 3 citations\nverification failed\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "render",
+      "--replace-in",
+      "/data/hermes/research/seo-growth/2026-09-27-clove-next/article.en.md"
+    ],
+    "returncode": 0,
+    "stdout": "Sources block rewritten in /data/hermes/research/seo-growth/2026-09-27-clove-next/article.en.md\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "verify",
+      "/data/hermes/research/seo-growth/2026-09-27-clove-next/article.en.md",
+      "--evidence"
+    ],
+    "returncode": 0,
+    "stdout": "info: stats: 38 prose sentence(s), 15 with declared provenance (39%) — 15 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 3 in ledger (3 with evidence quotes)\nwarn: 1 sentence(s) carry more than 3 citations\ncitations OK\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "render",
+      "--replace-in",
+      "/data/hermes/research/seo-growth/2026-09-27-clove-next/article.zh.md"
+    ],
+    "returncode": 0,
+    "stdout": "Sources block rewritten in /data/hermes/research/seo-growth/2026-09-27-clove-next/article.zh.md\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "verify",
+      "/data/hermes/research/seo-growth/2026-09-27-clove-next/article.zh.md",
+      "--evidence"
+    ],
+    "returncode": 0,
+    "stdout": "info: stats: 6 prose sentence(s), 6 with declared provenance (100%) — 6 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 3 in ledger (3 with evidence quotes)\nwarn: 1 sentence(s) carry more than 3 citations\ncitations OK\n",
+    "stderr": ""
+  }
+]
