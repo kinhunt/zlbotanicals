@@ -1,0 +1,78 @@
+{
+  "sha": "0d68a64fb9d92a54fd6f02cd42a7c108c4471ed6",
+  "scanned": 39,
+  "hits": [
+    {
+      "path": "src/components/PlantEncyclopedia.astro",
+      "url": "https://raw.githubusercontent.com/kinhunt/zlbotanicals/0d68a64fb9d92a54fd6f02cd42a7c108c4471ed6/src/components/PlantEncyclopedia.astro",
+      "sha256": "242be8070356265c498738cbb0b2e6468d4ea536ad644032df17a3e933992288",
+      "matches": [
+        [
+          25,
+          "const relatedLabels: Record<string,string[]> = {\"/plant-extracts/standards/moisture-vs-loss-on-drying\": [\"Water content vs loss on drying\", \"水分与干燥失重\"], \"/plant-extracts/standards/coa-vs-specification\": [\"COA vs specification\", \"检测报告与规格书\"],\"/products/green-tea\": [\"Green tea supply guide\", \"绿茶供货指南\"], \"/products/stevia\": [\"Stevia supply guide\", \"甜菊供货指南\"], \"/products/monk-fruit\": [\"Monk fruit supply guide\", \"罗汉果供货指南\"], \"/products/centella-asiatica\": [\"Centella supply guide\", \"积雪草供货指南\"], \"/solutions/beverages\": [\"Beverage concepts\", \"饮料开发概念\"], \"/solutions/cosmetics\": [\"Cosmetic concepts\", \"化妆品开发概念\"], \"/resources/blog/green-tea-energy-beverage-2026\": [\"Green tea beverage buyer guide\", \"绿茶饮料采购指南\"], \"/resources/blog/zero-calorie-sweetener-market-2026\": [\"Botanical sweetener buyer guide\", \"植物甜味剂采购指南\"], \"/resources/downloads\": [\"Document checklist\", \"文件检查表\"], \"/quality\": [\"Quality review\", \"质量复核\"]};"
+        ]
+      ]
+    },
+    {
+      "path": "src/content/blog/en/elderberry-material-selection.md",
+      "url": "https://raw.githubusercontent.com/kinhunt/zlbotanicals/0d68a64fb9d92a54fd6f02cd42a7c108c4471ed6/src/content/blog/en/elderberry-material-selection.md",
+      "sha256": "bc7cc22ebb771ac1d6eace5ab7610fdfeefb9460a05162cf61e5b891f428c28a",
+      "matches": [
+        [
+          65,
+          "The documents describe the powders as hygroscopic, with a characteristic elderberry taste and astringency, and soluble in water and water/alcohol mixtures.<a href=\"#elderberry-ref-1\">[1]</a><a href=\"#elderberry-ref-2\">[2]</a> Those details help describe what a formulator receives more directly than an extract ratio alone. The whole powder enters the recipe, not just the anthocyanins reported by the laboratory."
+        ]
+      ]
+    },
+    {
+      "path": "src/content/blog/en/reishi-sleep-market-2026.md",
+      "url": "https://raw.githubusercontent.com/kinhunt/zlbotanicals/0d68a64fb9d92a54fd6f02cd42a7c108c4471ed6/src/content/blog/en/reishi-sleep-market-2026.md",
+      "sha256": "bc9572a106b5b59fd67a927b528e656775bf68b3d923b15b45ddc558c6b87fed",
+      "matches": [
+        [
+          32,
+          "Begin with a control gummy and reishi-only prototype. Review bitterness, color, particle distribution, gel setting and water activity before adding other botanicals. Goji can change sugar and solids; tea can introduce caffeine and astringency. Each addition needs a separate reason and safety assessment."
+        ]
+      ]
+    },
+    {
+      "path": "src/data/plant-extracts.json",
+      "url": "https://raw.githubusercontent.com/kinhunt/zlbotanicals/0d68a64fb9d92a54fd6f02cd42a7c108c4471ed6/src/data/plant-extracts.json",
+      "sha256": "885ec157fb655ce5ca0769671303d9bf241592d873082f798230d4cd08032e1c",
+      "matches": [
+        [
+          12,
+          "        \"en\": \"Historical medicinal-plant manual: section 9 distinguishes water from loss on drying; not the 2011 edition, a universal extract limit or market authorization.\","
+        ],
+        [
+          1174,
+          "        \"/plant-extracts/standards/moisture-vs-loss-on-drying\""
+        ],
+        [
+          1422,
+          "      \"slug\": \"moisture-vs-loss-on-drying\","
+        ],
+        [
+          1435,
+          "          \"title\": \"Water content vs loss on drying\","
+        ],
+        [
+          1440,
+          "              \"text\": \"A supplier’s “moisture” line is incomplete without the test method. Loss on drying (LOD) measures mass lost under specified drying conditions, not water alone: WHO’s 1998 medicinal-plant manual explicitly includes both water and volatile matter.[1] For procurement, ask whether the agreed attribute is drying loss or water content before comparing two COAs. This historical manual explains a measurement distinction; it does not establish a current specification for every finished extract.\""
+        ],
+        [
+          1443,
+          "              \"heading\": \"Loss on drying: retain the conditions\","
+        ],
+        [
+          1768,
+          "              \"text\": \"Q3C allows a nonspecific method such as loss on drying when only Class 3 solvents are present and the method is properly validated.[1] That qualified statement is not a license to identify individual solvents from an unexplained LOD value. Equally, it would be wrong to claim Q3C always requires headspace GC for every extract. Request the laboratory’s documented rationale for the chosen procedure and the actual acceptance question.\""
+        ],
+        [
+          1830,
+          "              \"text\": \"Request the exact correction formula and the measurement used in it. If the laboratory uses loss on drying, ask what procedure generated that value and whether it was measured on a representative sample from the same lot. If a water-specific result is used instead, record that distinction. These are different reporting choices; this guide does not supply a universal correction factor or prescribe a moisture method for every extract.\""
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11764740/fullTextXML",
+    "path": "clove-fresh.xml",
+    "utc": "2026-09-27T10:38:47.756528+00:00",
+    "status": 200,
+    "bytes": 218438,
+    "sha256": "72db0fa49292d61696fac6dfaf53c7a909a8c8dbd21c366b01688a2aeca9fcca",
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11899151/fullTextXML",
+    "path": "PMC11899151.xml",
+    "utc": "2026-09-27T10:38:49.958869+00:00",
+    "status": 200,
+    "bytes": 124748,
+    "sha256": "48deb5bf23f5b8a4fec37157c39dc2b37304686821e825e67ae90db3de554a5c",
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=clove%20AND%20(hygroscopicity%20OR%20encapsulation)&format=json&pageSize=30",
+    "path": "clove-search.json",
+    "utc": "2026-09-27T10:38:50.285944+00:00",
+    "status": 200,
+    "bytes": 26074,
+    "sha256": "76e2d6b99b97eea05a1d8e1a0e75423a8109d67ccb37df5c12706ebd05fa4f9e",
+    "content_type": "application/json;charset=UTF-8"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11510493/fullTextXML",
+    "path": "PMC11510493.xml",
+    "status": 200,
+    "utc": "2026-09-27T10:39:29.168303+00:00",
+    "bytes": 174880,
+    "sha256": "a232580759d2ec22ebbb3b0c30c75ba3eec42c7360dda66599eb7081bc436ca7"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11764740/fullTextXML",
+    "path": "PMC11764740.xml",
+    "provenance": "Copied parent original archive; fresh retrieval clove-fresh.xml exactly identical",
+    "bytes": 218438,
+    "sha256": "72db0fa49292d61696fac6dfaf53c7a909a8c8dbd21c366b01688a2aeca9fcca"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=clove+AND+%28%22spray+drying%22+OR+%22hygroscopicity%22+OR+%22maltodextrin%22%29+AND+FIRST_PDATE%3A%5B2000-01-01+TO+2025-12-31%5D&format=json&pageSize=40",
+    "path": "clove-targeted-search.json",
+    "status": 200,
+    "bytes": 35129,
+    "sha256": "0e9ffde3e17b9c7495dddfba557672affda12c7383d08fad7f0000dc5fb67241",
+    "purpose": "discovery only",
+    "utc_recorded": "2026-09-27T10:44:37.849683+00:00"
+  }
+]

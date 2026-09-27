@@ -1,0 +1,26 @@
+[
+  {
+    "id": "PMC11764740",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11764740/fullTextXML",
+    "status": 200,
+    "bytes": 218438,
+    "sha256": "72db0fa49292d61696fac6dfaf53c7a909a8c8dbd21c366b01688a2aeca9fcca",
+    "same_as_depth": true
+  },
+  {
+    "id": "PMC11899151",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11899151/fullTextXML",
+    "status": 200,
+    "bytes": 124748,
+    "sha256": "48deb5bf23f5b8a4fec37157c39dc2b37304686821e825e67ae90db3de554a5c",
+    "same_as_depth": true
+  },
+  {
+    "id": "PMC11510493",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11510493/fullTextXML",
+    "status": 200,
+    "bytes": 174880,
+    "sha256": "a232580759d2ec22ebbb3b0c30c75ba3eec42c7360dda66599eb7081bc436ca7",
+    "same_as_depth": true
+  }
+]
