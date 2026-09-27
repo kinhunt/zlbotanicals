@@ -1,0 +1,96 @@
+{
+  "namespace": "independent carob-review",
+  "mapping": [
+    {
+      "id": 1,
+      "url": "https://carob.es/en/product",
+      "title": "gum",
+      "claim_ids": [
+        "RC01",
+        "RC02",
+        "RC03",
+        "RE02"
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.nordmann.global/en/news-events/news/exquisite-carob-products-from-morocco",
+      "title": "commerce",
+      "claim_ids": [
+        "RC04",
+        "RC05"
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7692711/fullTextXML",
+      "title": "cake",
+      "claim_ids": [
+        "RC06",
+        "RC07",
+        "RC08",
+        "RC09",
+        "RC10",
+        "RC11",
+        "RC12",
+        "RC18",
+        "RC19",
+        "RC20",
+        "N01"
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6096888/fullTextXML",
+      "title": "muffin",
+      "claim_ids": [
+        "RC13",
+        "RC14",
+        "RC15",
+        "RC16"
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7010100/fullTextXML",
+      "title": "efsa",
+      "claim_ids": [
+        "RC17"
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://www.amazon.com/dp/B07JX6YCKR",
+      "title": "Worldwide Botanicals medium roast listing",
+      "claim_ids": [
+        "EC6"
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://www.amazon.com/dp/B0F67QBGL3",
+      "title": "Worldwide Botanicals dark roast listing",
+      "claim_ids": [
+        "EC7"
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://www.amazon.com/AUSTRALIAN-RAW-ORGANIC-CAROB-POWDER/dp/B01D2975KS",
+      "title": "The Australian Carob Co. Raw product detail, 27 September 2026",
+      "claim_ids": [
+        "EC8",
+        "N02"
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://www.amazon.com/s?k=carob+powder",
+      "title": "Amazon US carob powder search, 27 September 2026",
+      "claim_ids": [
+        "EC9"
+      ]
+    }
+  ],
+  "notes": "IDs1–5 deliberately keep source-package URL mapping;6medium7dark8raw9search. Raw registered search result URL retained; canonical detail URL recorded EC8. Figure originals tied to article IDs3/4."
+}

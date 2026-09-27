@@ -1,0 +1,70 @@
+{
+  "ok": true,
+  "command": "execution.wait",
+  "browser": {
+    "id": "c0c44c26-eca6-4638-86fd-ade14ff3aa03",
+    "name": null
+  },
+  "result": {
+    "id": "exec_081032941a38458a",
+    "extensionId": "c0c44c26-eca6-4638-86fd-ade14ff3aa03",
+    "extensionKey": "[REDACTED]",
+    "status": "completed",
+    "currentStep": "Done",
+    "platform": "amazon",
+    "action": "get_product",
+    "result": {
+      "asin": "B0F67QBGL3",
+      "availability": "In Stock {\"isInternal\":false,\"showInsightsHub\":false,\"isRobot\":false,\"showFaceout\":true,\"merchantId\":\"A2M14XAF0T7D3C\",\"availableBadges\":\"\",\"loggedIn\":false,\"asin\":\"B0F67QBGL3\",\"showBadge\":false,\"ingressFaceout\":\"\",\"availableFaceouts\":\"TK_BOUGHT\"}",
+      "blocked": false,
+      "brand": "Visit the Worldwide Botanicals Store",
+      "bullets": [
+        "100% PURE ORGANIC DARK ROAST: Our Carob Powder come in 2 roasts, medium and dark, that are ground into a fine flour. Choose dark roasted carob powder if you want a taste similar to dark cocoa. Dark Carob is the perfect replacement for cocoa in any recipe that calls for dark chocolate. Low fat, low calorie, and less expensive chocolate alternative.",
+        "100% PURE ORGANIC DARK ROAST: Our Carob Powder come in 2 roasts, medium and dark, that are ground into a fine flour. Choose dark roasted carob powder if you want a taste similar to dark cocoa. Dark Carob is the perfect replacement for cocoa in any recipe that calls for dark chocolate. Low fat, low calorie, and less expensive chocolate alternative.",
+        "CAFFEINE-FREE ALTERNATIVE TO CHOCOLATE: Carob contains 24 antioxidants and D-pinitol which increases nutrient absorption for a natural energy boost. No stimulants needed. Carob’s natural sweetness permits the use of less sugar in recipes calling for cocoa which is much more bitter than carob.",
+        "CAFFEINE-FREE ALTERNATIVE TO CHOCOLATE: Carob contains 24 antioxidants and D-pinitol which increases nutrient absorption for a natural energy boost. No stimulants needed. Carob’s natural sweetness permits the use of less sugar in recipes calling for cocoa which is much more bitter than carob.",
+        "MAKE A HOT OR COLD CAROB MILK: Add 2 Tbsp carob powder to 1 cup milk or nondairy milk. Blend into smoothies to boost nutrients and fiber. The natural sweetness of carob will reduce the amount of sweetener needed. Enjoy it hot as a low sugar, caffeine-free hot chocolate replacement",
+        "MAKE A HOT OR COLD CAROB MILK: Add 2 Tbsp carob powder to 1 cup milk or nondairy milk. Blend into smoothies to boost nutrients and fiber. The natural sweetness of carob will reduce the amount of sweetener needed. Enjoy it hot as a low sugar, caffeine-free hot chocolate replacement",
+        "SUSTAINABLY WILD HARVESTED IN THE MEDITERRANEAN: Our organic carob is wild harvested from trees growing in the mountains throughout the Mediterranean. Carob pods are a traditional food with a long history of nourishment going back to the Bible.",
+        "SUSTAINABLY WILD HARVESTED IN THE MEDITERRANEAN: Our organic carob is wild harvested from trees growing in the mountains throughout the Mediterranean. Carob pods are a traditional food with a long history of nourishment going back to the Bible.",
+        "100% GUARANTEE: With over 40 years of experience sourcing premier botanicals, Worldwide Botanicals develops and works in partnership with suppliers to import the highest quality products. We're dedicated to rainforest preservation, organic agriculture and optimal health. Your satisfaction guaranteed.",
+        "100% GUARANTEE: With over 40 years of experience sourcing premier botanicals, Worldwide Botanicals develops and works in partnership with suppliers to import the highest quality products. We're dedicated to rainforest preservation, organic agriculture and optimal health. Your satisfaction guaranteed."
+      ],
+      "canonicalUrl": "https://www.amazon.com/dp/B0F67QBGL3",
+      "details": {
+        "ASIN": "B0F67QBGL3",
+        "ASIN ‏": "‎ B0F67QBGL3",
+        "Age Range Description": "All Ages",
+        "Allergen Information": "Tree Nut Free",
+        "Best Sellers Rank": "#14,505 in Grocery & Gourmet Food (See Top 100 in Grocery & Gourmet Food) #2 in Cooking & Baking Carob",
+        "Brand Name": "Worldwide Botanicals",
+        "Color": "Dark Roast",
+        "Cuisine": "Mediterranean",
+        "Customer Reviews": "4.5 4.5 out of 5 stars (64) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); });",
+        "Flavor": "Dark Roast",
+        "Manufacturer": "Teeccino Caffe, Inc.",
+        "Manufacturer ‏": "‎ Teeccino Caffe, Inc.",
+        "Number of Items": "1",
+        "Number of Pieces": "1",
+        "Package Dimensions ‏": "‎ 10.35 x 6.46 x 2.64 inches; 1.04 pounds",
+        "Size": "Pack of 1",
+        "UPC": "795239101047",
+        "UPC ‏": "‎ 795239101047",
+        "Unit Count": "16 Ounce",
+        "Units ‏": "‎ 16 Ounce"
+      },
+      "image": "https://m.media-amazon.com/images/I/51CbsB7r26L._SX679_.jpg",
+      "marketplace": "https://www.amazon.com",
+      "price": "$14.99",
+      "rating": "4.5",
+      "reviewCount": "(64)",
+      "seller": "Teeccino Caffe",
+      "success": true,
+      "title": "Worldwide Botanicals Organic Carob Powder, Dark Roast – 1 lb – Caffeine Free Cocoa Alternative – Low Fat Super Food with Natural Sweetness– Gluten Free, Kosher, 16 ounces",
+      "url": "https://www.amazon.com/dp/B0F67QBGL3?th=1"
+    },
+    "error": null,
+    "startedAt": "2026-09-27 21:25:17",
+    "completedAt": "2026-09-27 21:25:29"
+  }
+}

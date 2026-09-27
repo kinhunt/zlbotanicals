@@ -1,0 +1,52 @@
+{
+  "status": "independent source-image reading; revised prose requires second review",
+  "cake_figure1": {
+    "file": "figures/foods-09-01586-g001.jpg",
+    "levels": [
+      0,
+      10,
+      30,
+      50,
+      70
+    ],
+    "hardness_letters": [
+      "b",
+      "c",
+      "c",
+      "a",
+      "b"
+    ],
+    "springiness_letters": [
+      "ab",
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "cohesiveness_letters": [
+      "b",
+      "a",
+      "c",
+      "d",
+      "e"
+    ],
+    "finding": "30 vs control cohesiveness already significantly lower; Figure1D wrong repeated axis label; no digitized values"
+  },
+  "muffin_figure1": {
+    "file": "figures/11130_2018_675_Fig1_HTML.jpg",
+    "directions": {
+      "sweet": "carob higher",
+      "bitter": "cocoa higher",
+      "cocoa_taste": "cocoa higher",
+      "beany": "carob higher",
+      "unknown": "carob higher"
+    },
+    "individual_significance": "not marked on radar; no per-descriptor p-value claim"
+  },
+  "muffin_figure2": {
+    "file": "figures/11130_2018_675_Fig2_HTML.jpg",
+    "carob": "7.1 a",
+    "cocoa": "6.9 a",
+    "scale": "9-point hedonic"
+  }
+}

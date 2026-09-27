@@ -1,0 +1,11 @@
+{
+  "article.en.md": "bb2a2c36940f825c665f7ef9b6b1ed27c214820b688f64a62f724f59279152c5",
+  "article.en.diff": "93d26033f90d63610725681065603235c60564d8f5c89e933f4da740d5b7962f",
+  "article.zh.diff": "1ea460058a14c31da76ef18b4f2f5dc830a40d3bc5bb84a5b031b2a60629cc5b",
+  "ledger.json": "4c9cc2b28167b94a46844cb9000259d7158554edaea589a8507a1e0ec7013503",
+  "article.zh.md": "661edcaceaf7ccfacf6004a17a213fcd867481c00740eaab565bf24522bc1aef",
+  "input-SHA256SUMS.json": "be09c481a79428b5262370816b4b64107e80b60840d75ae8bc2b386fccbf12e3",
+  "REVIEW.md": "6dd5d40f2f048dc1cf18092d0e95c2086b6658ebcd5ee3dede5a7dd06f154f26",
+  "verification.json": "4dc48ce792a2433f730aa1dfd4e925e63ea1bcecd1dc0f4f5b4aba26d1442e4d",
+  "exact-replacements.json": "35b515cfc508aebe4b82533fd1167cd1ab1967021034daff01ca90622bd01c59"
+}

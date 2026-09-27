@@ -1,0 +1,512 @@
+[
+  {
+    "source_id": 1,
+    "claim_zh": "LBG来自种子胚乳",
+    "evidence_grade": "C",
+    "bilingual_location": "开篇/任务表",
+    "quote": ".  It comes from milling the endosperm of the carob seed.",
+    "file": "sources/gum.txt",
+    "line": 26,
+    "original_claim_id": "C01",
+    "id": "RC01",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 1,
+    "claim_zh": "PALGUM按黏度粒径色泽分级",
+    "evidence_grade": "C",
+    "bilingual_location": "采购表/胶体小节",
+    "quote": "with a wide range of grades depending on the viscosity and the particle size. We also have gradation of color in our range, from the yellowish quality to the whitest and brightest qualities.",
+    "file": "sources/gum.txt",
+    "line": 41,
+    "original_claim_id": "C02",
+    "id": "RC02",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 1,
+    "claim_zh": "LBG与其他胶协同/成胶为厂家描述",
+    "evidence_grade": "C",
+    "bilingual_location": "胶体小节",
+    "quote": "The chemical structure of the locust bean gum provides a high thickener capacity, developing very viscous solution in an aqueous system. In combination with other hydrocolloids such as xanthan or carrageenan, presents synergism and develops",
+    "file": "sources/gum.txt",
+    "line": 28,
+    "original_claim_id": "C03",
+    "id": "RC03",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 2,
+    "claim_zh": "RCP三焙度和烘焙饮品应用为分销商定位",
+    "evidence_grade": "C",
+    "bilingual_location": "采购表/焙度",
+    "quote": "Thanks to its organoleptic properties, high sugar content and cost-effectiveness, roasted carob powder is a natural cocoa substitute. It can be obtained from the dried pods of the carob tree. Carob Ingredients produces light, medium and dark roasts. These are ideal for use in fine baked goods or cocoa drinks.",
+    "file": "sources/commerce.txt",
+    "line": 145,
+    "original_claim_id": "C04",
+    "id": "RC04",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 2,
+    "claim_zh": "种子蛋白粉40–50%为商业描述，非批次数据",
+    "evidence_grade": "C",
+    "bilingual_location": "第三材料",
+    "quote": "VISCOGUM™ CGP is a natural, vegetable protein flour with a balanced amino acid profile similar to that of soy. It has a protein content of between 40 % and 50 % and has emulsifying properties. Carob Ingredients obtains the flour from the seeds of the carob tree. The flour is gently steam-sterilized to achieve the highest food quality and maintain the protein profile. VISCOGUM™ CGP is 100% natural, gluten-free and non-GMO. The product is used in a wide range of foods, including meat alternatives, desserts, drinks and food supplements.",
+    "file": "sources/commerce.txt",
+    "line": 157,
+    "original_claim_id": "C05",
+    "id": "RC05",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 3,
+    "claim_zh": "去籽烘焙果肉粉身份",
+    "evidence_grade": "A-background",
+    "bilingual_location": "开篇",
+    "quote": "Carob flour, produced from the fruits of Ceratonia siliqua L. after the removal of their seeds and subsequent roasting, has gained increased interest due to its remarkable composition, which is responsible for exerting a preventive action against various diseases [7]. It is characterized by a high content of sugars (>50%, mainly sucrose), dietary fibers (~11%), minerals (Mg, Fe, P, Zn, Ca, K, Na) as well as low protein (3–4%) and lipids (0.2–0.8%) levels and significant amounts of phenolic compounds (e.g., gallic acid, hydrolysable and condensed tannins) and vitamins (e.g., E, D, C, B6, folic acid) [7,8,9]. Carob flour has been used in the production of a wide range of functional food formulations such as bakery goods, sweets, pasta and beverages, either as a natural sweetener or food ingredient. ",
+    "file": "sources/cake.txt",
+    "line": 9,
+    "original_claim_id": "C06",
+    "id": "RC06",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 3,
+    "claim_zh": "试验使用商业烘焙角豆原料，不是自家验证",
+    "evidence_grade": "A",
+    "bilingual_location": "配方研究",
+    "quote": "Wheat flour (12.19 ± 0.06 moisture; 9.37 ± 0.18% protein; 2.05 ± 0.01% ash; 1.05 ± 0.15% fat), commercial margarine (60% fat) (Vitam soft, Upfield Europe BV, Rotterdam, Netherlands), sugar, fresh whole eggs, baking powder (Yiotis S.A., Athens, Greece), and cocoa powder were purchased from the local market. Carob flour (6.70 ± 0.09% moisture; 4.39 ± 0.06% protein; 2.10 ± 0.06% ash; 0.32 ± 0.10% fat; 33.02 ± 0.97% total dietary fiber) was a commercial organic product (roasted) (Creta Carob, Greece). Moisture and fat content were determined based on AACC methods 44-15A and 30-10, respectively, whereas proteins and ash content were determined according to the ICC official methods 105/2, 104/1 and 155, respectively. For the determination of the total dietary fiber, the procedure described in the “Total dietary fibre assay” was used (AACC Method 32-07.01), using the respective test kit provided by Megazyme International Ireland Ltd. (Wicklow, Ireland). Deionized water was used in all formulations.",
+    "file": "sources/cake.txt",
+    "line": 15,
+    "original_claim_id": "C07",
+    "id": "RC07",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 3,
+    "claim_zh": "75g粉基；对照含小麦粉与可可",
+    "evidence_grade": "A",
+    "bilingual_location": "百分比分母",
+    "quote": "A Madeira-type cake was prepared by replacing cocoa powder and, partly, wheat flour with carob flour. The recipes consisted of wheat flour, sugar, margarine, eggs, cocoa and carob flour, as reported in Table 1. The control sample contained wheat flour and cocoa powder, in total, 75 g (100% flour basis).",
+    "file": "sources/cake.txt",
+    "line": 17,
+    "original_claim_id": "C08",
+    "id": "RC08",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 3,
+    "claim_zh": "20人，不完全区组，每处理12次，24h评价",
+    "evidence_grade": "A",
+    "bilingual_location": "接受度",
+    "quote": "The sensory evaluation of the cakes was performed 24 h after baking by 20 trained panelists, aged 30–62 years (11 men and nine women) at the sensory laboratory of the department of the Food Science and Technology of the International Hellenic University. The laboratory is equipped with individual compartments and the tests were performed under white light at room temperature. The panelists were offered 1 cm thick, freshly cut cake slices (without the crust), coded with random three-digit numbers. The samples were presented to each panelist in a balanced incomplete block design (parameters: t = 5 treatments, k = 3 treatments per panelist, b = 20 panelists, n = 12 replicates per treatment, λ = 2 pairs of similar treatments in the design).",
+    "file": "sources/cake.txt",
+    "line": 23,
+    "original_claim_id": "C09",
+    "id": "RC09",
+    "review_status": "20/3/12 counts verified; lambda2 in source inconsistent with BIBD identity; not repeated"
+  },
+  {
+    "source_id": 3,
+    "claim_zh": "50组更硬，超过30后弹性内聚性下降",
+    "evidence_grade": "A",
+    "bilingual_location": "质构取舍",
+    "quote": "Looking at the textural attributes, it was observed (Figure 1C,D) that only the incorporation level of 50% flour basis rendered cakes with a significantly (p < 0.05) harder crumb than the control cocoa cake. At addition levels of 10 and 30% carob flour, the hardness of the crumb was significantly reduced, with no significant changes in the springiness values when compared to the control cake. These cakes have also shown a similar specific volume. By increasing the carob level above 30% flour basis, a significant decrease of the springiness and cohesiveness was noticed. No changes were observed in the adhesiveness values among all the tested samples.",
+    "file": "sources/cake.txt",
+    "line": 37,
+    "original_claim_id": "C10",
+    "id": "RC10",
+    "review_status": "CORRECTED: Figure1 shows cohesiveness already lower at30 vs control",
+    "additional_evidence": "figures/foods-09-01586-g001.jpg; figure-review.json"
+  },
+  {
+    "source_id": 3,
+    "claim_zh": "总体接受度无显著差异，需100消费者验证",
+    "evidence_grade": "A",
+    "bilingual_location": "接受度/开发参考",
+    "quote": "In Table 3, the mean values assigned to the attributes of the cakes that were tested by the panelists are reported. On the basis of the one-way ANOVA applied for all the attributes tested by the panelists, significant differences (p < 0.05) were observed only for the color, sweetness and softness. Panelist ratings of cakes with regard to color were in agreement with the measured values by the chromameter. They evaluated the color of cakes with 30 and 50% carob flour as similar to the cake with 20% cocoa (control). Regarding sweetness, a progressive increase was observed in the perceived sweetness of the cakes with increasing levels of carob flours. This was expected due to the sugar content of the carob flour, on average 40%, as derived from the literature [8]. However, only the cake with 70% carob flour was significantly different from the control. All carob-containing cakes up to a 30% substitution level were considered to have similar softness with the control cake, although with increasing level of substitution beyond this level, the panelists perceived the resulting cakes as less soft. It seems that panelists appreciated all the carob-containing cakes, since their score in overall acceptability was statistically similar to that of the control (Table 3). In absolute values, the cake with 30% carob flour was on the top of the rank scoring of 10.4 in overall acceptability. However, the cake with 50% carob flour gained the highest score for overall acceptability from ~42% of the 12 panelists that were presented with the above sample (data not shown); the above percentage of panelists was the same for the control cake, while for the cakes with 30% and 70% carob it was ~33%. The corresponding percentage for the cake with 10% carob was only ~17%. A standard acceptability test with 100 consumers should be performed to confirm sensory acceptability results. The intensity of the aroma did not differ significantly among samples, while the sample with 50% carob flour scored highest and that with 10% lowest. It should be noted that aroma intensity was not evaluated in terms of cocoa aroma intensity but as the aroma of the baked product. ",
+    "file": "sources/cake.txt",
+    "line": 39,
+    "original_claim_id": "C11",
+    "id": "RC11",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 3,
+    "claim_zh": "图注15%与表1克数/正文20%冲突",
+    "evidence_grade": "A-conflict",
+    "bilingual_location": "研究限制",
+    "quote": "Crumb (A) and crust (B) color, as well as texture parameters (C,D) of control cake ((0% carob, 15% cocoa (f.b.)) and carob cakes prepared with different levels of carob flour. Data represent means ± SD (n = 3). Means that do not share a letter are significantly different (p < 0.05) according to Tukey’s pairwise comparison of means.",
+    "file": "sources/cake.txt",
+    "line": 36,
+    "original_claim_id": "C12",
+    "id": "RC12",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 4,
+    "claim_zh": "5%总配方及大豆25.5/亚麻6.5/小麦6.0/白糖19.0",
+    "evidence_grade": "A",
+    "bilingual_location": "玛芬/糖",
+    "quote": "The composition of muffins had been previously developed in the laboratory and the content of 5% of cocoa or carob powders had been chosen as the most acceptable (among 1, 5, 10 and 15%) in the acceptance test performed by consumers. The ingredient proportions were as follows: soy beans 25.5%, white sugar 19.0%, eggs 14.0%, water 13.0%, sesame oil 9.5%, flax seeds 6.5%, wheat flour 6.0%, cocoa or carob powder 5.0%, baking powder 1 and 0.5% sodium bicarbonate. Initially soy beans were soaked for 12 h and then cooked for 45 min and crushed in a kitchen blender. Flax seeds were ground in a laboratory grinder. Then all the ingredients were mixed in planetary mixer Hendi, model 7 for 6 min at the speed 2 and 9 min at the speed 4 to make a homogeneous mixture. The dough was placed into silicon muffin cups (ø 4.6 cm) and baked for 25 min in the oven preheated to 180 °C. Once baked, the cakes were cooled to room temperature. A fresh product was subjected to sensory and color analysis. The other samples were frozen at −20 °C, lyophilized in a laboratory freeze dryer, crushed and sifted.",
+    "file": "sources/muffin.txt",
+    "line": 18,
+    "original_claim_id": "C13",
+    "id": "RC13",
+    "review_status": "listed formula verified; cooked soybean preparation and weighing-stage uncertainty added"
+  },
+  {
+    "source_id": 4,
+    "claim_zh": "78志愿者接受度九分制；10名描述评价员",
+    "evidence_grade": "A",
+    "bilingual_location": "玛芬",
+    "quote": "A 10-member trained panel performed Quantitative Description Analysis (QDA) of muffins in three sessions. During these sessions the panellists developed the sensory descriptive terms. The chosen descriptors for taste are: sweet, bitter, cocoa, beany, unknown; for aroma: cocoa, ginger bread, sesame, nut, pumpernickel; for texture: delicate, spongy, granular, sandy. The ratings were made on a 10-point scale (0 – imperceptible, 10 – very perceptible). The samples were kept in the covered boxes for 1 h before testing and in this form presented to the assessors. Samples were served to the panellists three times during 8 h at room temperature under daylight with a serving of water. Acceptance test of muffins was conducted by 78 volunteers (22 men and 56 women, 20–45 years). Muffins were evaluated day after baking on the basis of overall acceptance according to 9-point hedonic scale ranking from 1 (“dislike extremely”) to 9 (“like extremely”).",
+    "file": "sources/muffin.txt",
+    "line": 31,
+    "original_claim_id": "C14",
+    "id": "RC14",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 4,
+    "claim_zh": "更甜更豆味/不熟悉味，较少苦味与可可味",
+    "evidence_grade": "A",
+    "bilingual_location": "焙度/玛芬",
+    "quote": "The taste of the carob muffin was found to be sweeter, more beany or unknown, and less bitter than the taste of the cocoa muffins. However, the taste of cocoa was stronger in the cocoa muffins. It is also claimed that it may be substituted for up to 30% or even 75% of cocoa in certain products without a perceivable change in flavor [21, 32].",
+    "file": "sources/muffin.txt",
+    "line": 71,
+    "original_claim_id": "C15",
+    "id": "RC15",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 4,
+    "claim_zh": "接受度7.1/6.9，无显著差异",
+    "evidence_grade": "A",
+    "bilingual_location": "玛芬",
+    "quote": "For general acceptance, carob muffins scored values 7.1 and cocoa muffins 6.9 and no statistically significant differences were found among them (Fig. 2). Although panelists found differences in the perceptibility of aroma, taste and texture descriptors, it did not have any influence on overall acceptance of consumers. In the available literature there is no information about muffins enriched in carob powder which were evaluated by the European’s communities. However there are studies conducted in Canada [34] and Brazil [21] where the products enriched in carob powder obtained lower consumers acceptance. Sensory attributes of carob fortified pasta evaluated by polish consumers were comparable with the reference pasta [20].Fig. 2Acceptance test for the carob and cocoa muffins in a 9-point hedonic scale ranking from 1 (“dislike extremely”) to 9 (“like extremely”). Values bearing different superscripts are statistically significantly different (P < 0.05)",
+    "file": "sources/muffin.txt",
+    "line": 73,
+    "original_claim_id": "C16",
+    "id": "RC16",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 5,
+    "claim_zh": "冷水膨胀，加热达最大溶解；2017综合意见非2026法规",
+    "evidence_grade": "B",
+    "bilingual_location": "水化",
+    "quote": "Locust bean gum is a white to yellowish‐white, nearly odourless powder. It is soluble in hot water and insoluble in ethanol (Commission Regulation (EU) No 231/2012). The substance is insoluble in organic solvents (Lewis, 2007). When the degree of galactose substitution on mannose chain increases (e.g. in tara gum and guar gum), the galactomannans become more soluble in water (Barak and Mudgil, 2014). Locust bean gum swells in cold water, but heating is necessary for maximum solubility. Solutions are cloudy with a white opacity due to the presence of insoluble impurities such as proteins and cellulose. According to industry (Documentation provided to EFSA, document 1), the solubility varies with the molecular weight, solubility declines with increasing molecular weight and increasing concentration.",
+    "file": "sources/efsa.txt",
+    "line": 87,
+    "original_claim_id": "C17",
+    "id": "RC17",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 3,
+    "claim_zh": "表1各组粉体克数，糖/蛋/人造黄油各75g；300g总量与面糊比为透明算术",
+    "evidence_grade": "A-table + D-calculation",
+    "bilingual_location": "配方表/结果比较",
+    "file": "sources/cake-tables.json",
+    "table": 1,
+    "cells": [
+      [
+        "Recipe",
+        "Wheat Flour (g)",
+        "Carob Flour (g)",
+        "Margarine (g)",
+        "Sugar (g)",
+        "Egg (g)",
+        "Cocoa (g)"
+      ],
+      [
+        "0 (control)",
+        "60",
+        "-",
+        "75",
+        "75",
+        "75",
+        "15"
+      ],
+      [
+        "10",
+        "67.5",
+        "7.5",
+        "75",
+        "75",
+        "75",
+        "-"
+      ],
+      [
+        "30",
+        "52.5",
+        "22.5",
+        "75",
+        "75",
+        "75",
+        "-"
+      ],
+      [
+        "50",
+        "37.5",
+        "37.5",
+        "75",
+        "75",
+        "75",
+        "-"
+      ],
+      [
+        "70",
+        "22.5",
+        "52.5",
+        "75",
+        "75",
+        "75",
+        "-"
+      ]
+    ],
+    "original_claim_id": "C18",
+    "id": "RC18",
+    "review_status": "arithmetic verified; denominator tightened to listed300g, baking powder unspecified"
+  },
+  {
+    "source_id": 3,
+    "claim_zh": "比容2.22/1.93/1.78及显著性字母；30与对照不显著，50显著",
+    "evidence_grade": "A-table",
+    "bilingual_location": "配方表/结果比较",
+    "file": "sources/cake-tables.json",
+    "table": 2,
+    "cells": [
+      [
+        "Carob Flour Level (%)",
+        "Cake Batter Density (g/cm3)",
+        "Cake Specific Volume (mL/g)",
+        "Cake Yield (%)"
+      ],
+      [
+        "0",
+        "0.83 ± 0.01 b",
+        "2.22 ± 0.12 a",
+        "8.14 ± 0.40 a"
+      ],
+      [
+        "10",
+        "0.78 ± 0.03 b",
+        "2.01 ± 0.08 ab",
+        "7.10 ±0.32 ab"
+      ],
+      [
+        "30",
+        "0.79 ± 0.01 b",
+        "1.93 ± 0.00 abc",
+        "7.37 ± 0.40 ab"
+      ],
+      [
+        "50",
+        "0.80 ± 0.03 b",
+        "1.78 ± 0.10 bc",
+        "7.45 ± 0.15 ab"
+      ],
+      [
+        "70",
+        "1.30 ± 0.03 a",
+        "1.66 ± 0.02 c",
+        "6.31 ± 0.12 b"
+      ]
+    ],
+    "original_claim_id": "C19",
+    "id": "RC19",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 3,
+    "claim_zh": "接受度10.4与8.9，各组均a，不是显著胜出",
+    "evidence_grade": "A-table",
+    "bilingual_location": "配方表/结果比较",
+    "file": "sources/cake-tables.json",
+    "table": 3,
+    "cells": [
+      [
+        "Carob Flour Level (%)",
+        "Color",
+        "Porosity",
+        "Aroma",
+        "Sweetness",
+        "Softness",
+        "Brittleness",
+        "Overall Acceptability"
+      ],
+      [
+        "0",
+        "7.8 ± 3.3 b",
+        "7.5 ± 2.9 a",
+        "7.5 ± 3.1 a",
+        "6.2 ± 3.0 b",
+        "8.9 ± 1.8 ab",
+        "8.8 ± 2.8 a",
+        "8.9 ± 3.9 a"
+      ],
+      [
+        "10",
+        "3.0 ± 2.7 c",
+        "7.9 ± 2.7 a",
+        "6.3 ± 3.6 a",
+        "7.0 ± 3.1 b",
+        "10.4 ± 3.2 a",
+        "7.1 ± 3.7 a",
+        "9.1 ± 3.0 a"
+      ],
+      [
+        "30",
+        "7.9 ± 3.4 b",
+        "9.2 ± 3.4 a",
+        "7.4 ± 3.9 a",
+        "8.4 ± 2.3 ab",
+        "9.7 ± 2.7 ab",
+        "7.2 ± 2.5 a",
+        "10.4 ± 2.9 a"
+      ],
+      [
+        "50",
+        "10.5 ± 2.5 ab",
+        "11.0 ± 2.5 a",
+        "8.5 ± 3.9 a",
+        "9.1 ± 3.0 ab",
+        "6.9 ± 3.1 b",
+        "5.7 ± 3.4 a",
+        "9.7 ± 2.5 a"
+      ],
+      [
+        "70",
+        "12.6 ± 1.2 a",
+        "11.1 ± 2.3 a",
+        "7.9 ± 3.1 a",
+        "10.8 ± 3.3 a",
+        "6.8 ± 3.5 b",
+        "8.7 ± 4.0 a",
+        "8.5 ± 4.0 a"
+      ]
+    ],
+    "original_claim_id": "C20",
+    "id": "RC20",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": null,
+    "evidence_grade": "D-editorial",
+    "claim_zh": "同基础配方比较焙度；分两轮验证果肉粉/胶；先定味道再减糖；小试记录双分母。均为开发建议非已完成实验。",
+    "bilingual_location": "焙度/糖/结尾开发建议",
+    "original_claim_id": "E01",
+    "id": "RE01",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "source_id": 1,
+    "evidence_grade": "C-negative scoped",
+    "claim_zh": "已读公开页食品级部分没有完整黏度测试协议；唯一1000cps是宠物PF-1000不移植。不是说厂家所有文件都没有协议。",
+    "bilingual_location": "胶体小节",
+    "file": "sources/gum.txt",
+    "original_claim_id": "E02",
+    "id": "RE02",
+    "review_status": "verified within stated source scope"
+  },
+  {
+    "id": "EC6",
+    "source_id": 6,
+    "claim_zh": "medium商品身份与定位（卖家描述，不是等效性能）",
+    "file": "sources/medium-result.json",
+    "json_pointer": "/result/result",
+    "asin": "B07JX6YCKR",
+    "canonical_url": "https://www.amazon.com/dp/B07JX6YCKR",
+    "title": "Worldwide Botanicals Organic Carob Powder, Medium Roast – 1 lb – Caffeine Free Cocoa Alternative – Low Fat Super Food with Natural Sweetness– Gluten Free, Kosher, 16 ounces",
+    "brand": "Visit the Worldwide Botanicals Store",
+    "quotes": [
+      "100% PURE ORGANIC MEDIUM ROAST: Our Carob Powder come in 2 roasts, medium and dark, that are ground into a fine flour. Choose medium roasted carob powder if you want a taste similar to regular cocoa. Medium Carob is the perfect replacement for cocoa in any recipe that calls for milk chocolate. Low fat, low calorie, and less expensive chocolate alternative."
+    ],
+    "review_status": "verified title/brand/bullets only; no health/cost/equivalence endorsement",
+    "exclusions": [
+      "price comparisons",
+      "rank-to-sales inference",
+      "review-count sales inference",
+      "certification verification",
+      "unviewed package images"
+    ]
+  },
+  {
+    "id": "EC7",
+    "source_id": 7,
+    "claim_zh": "dark商品身份与定位（卖家描述，不是等效性能）",
+    "file": "sources/dark-result.json",
+    "json_pointer": "/result/result",
+    "asin": "B0F67QBGL3",
+    "canonical_url": "https://www.amazon.com/dp/B0F67QBGL3",
+    "title": "Worldwide Botanicals Organic Carob Powder, Dark Roast – 1 lb – Caffeine Free Cocoa Alternative – Low Fat Super Food with Natural Sweetness– Gluten Free, Kosher, 16 ounces",
+    "brand": "Visit the Worldwide Botanicals Store",
+    "quotes": [
+      "100% PURE ORGANIC DARK ROAST: Our Carob Powder come in 2 roasts, medium and dark, that are ground into a fine flour. Choose dark roasted carob powder if you want a taste similar to dark cocoa. Dark Carob is the perfect replacement for cocoa in any recipe that calls for dark chocolate. Low fat, low calorie, and less expensive chocolate alternative."
+    ],
+    "review_status": "verified title/brand/bullets only; no health/cost/equivalence endorsement",
+    "exclusions": [
+      "price comparisons",
+      "rank-to-sales inference",
+      "review-count sales inference",
+      "certification verification",
+      "unviewed package images"
+    ]
+  },
+  {
+    "id": "EC8",
+    "source_id": 8,
+    "claim_zh": "raw商品身份与定位（卖家描述，不是等效性能）",
+    "file": "sources/raw-result.json",
+    "json_pointer": "/result/result",
+    "asin": "B01D2975KS",
+    "canonical_url": "https://www.amazon.com/dp/B01D2975KS",
+    "title": "AUSTRALIAN RAW ORGANIC CAROB POWDER",
+    "brand": "Visit the The Australian Carob Co. Store",
+    "quotes": [
+      "AUSTRALIAN RAW ORGANIC CAROB POWDER",
+      "Visit the The Australian Carob Co. Store"
+    ],
+    "review_status": "verified title/brand/bullets only; no health/cost/equivalence endorsement",
+    "exclusions": [
+      "price comparisons",
+      "rank-to-sales inference",
+      "review-count sales inference",
+      "certification verification",
+      "unviewed package images"
+    ]
+  },
+  {
+    "id": "EC9",
+    "source_id": 9,
+    "file": "sources/search-result.json",
+    "claim_zh": "US carob powder query returned8 records; three detail followups",
+    "count": 8,
+    "review_status": "verified eight records, not8brands or market-representative sample"
+  },
+  {
+    "id": "N01",
+    "source_id": 3,
+    "claim_zh": "蛋糕15cm线性量表，不与玛芬九分量表比较",
+    "file": "sources/cake.xml",
+    "location": "2.3 and Table3 footnote",
+    "review_status": "verified"
+  },
+  {
+    "id": "N02",
+    "source_id": 8,
+    "claim_zh": "Raw商品details中Type of item为Video Game；bullets为空",
+    "file": "sources/raw-result.json",
+    "json_pointer": "/result/result/details/Type of item",
+    "review_status": "verified capture anomaly; no claim about physical product"
+  },
+  {
+    "id": "ED01",
+    "source_id": null,
+    "claim_zh": "商品表第三列和末节选样、小试、单独减糖、胶体任务分开为编辑建议；新增文章结构需第二审",
+    "review_status": "editorial inference; not experimentally validated"
+  }
+]
