@@ -1,0 +1,9 @@
+{
+  "baseline": "016b0f5b37bc196bdd7f7e25483eff982d06f9ad",
+  "repo_readonly": "/data/hermes/workspaces/zl-clove-humidity",
+  "scope": "origin/main src text files",
+  "text_files_scanned": 286,
+  "pattern": "tamarind|罗望子|酸角|fenugreek|carob (case insensitive)",
+  "matches": [],
+  "observed_utc": "2026-09-27T17:57:32.923606+00:00"
+}

@@ -1,0 +1,98 @@
+--- original/tamarind-grade-selection.en.md
++++ reviewed/tamarind-grade-selection.en.md
+@@ -1,62 +1,66 @@
+ # Tamarind seed gum for food: choose the hydration route before comparing viscosity
+ 
+-A tamarind seed gum enquiry should start with the process, not with a request for the “highest viscosity.” A commercially offered hot-water-soluble grade and a cold-water-soluble grade can require different preparation routes even when both are sold under the same ingredient family. Socius lists GLYLOID®2A as hot-water soluble, GLYLOID®3S as cold-water soluble and Glyate® as a cold-water-soluble, low-viscosity grade.[2]
+-
+-The useful buying question is therefore: **which grade can develop the required texture within our actual mixing, heating and holding sequence?** This article compares published grade descriptions with a full-text laboratory study. It does not rank brands or establish equivalent replacement doses.
++Start a tamarind seed gum enquiry with the production process, not with a request for the “highest viscosity.” Socius lists GLYLOID®2A as hot-water soluble, GLYLOID®3S as cold-water soluble and Glyate® as a cold-water-soluble, low-viscosity grade.[2] Those distinctions make the first buying question practical: **which grade can develop the required texture within the available mixing, heating and holding sequence?**
+ 
+ ## Seed gum is not tamarind fruit flavour
+ 
+-MP Gokyo describes tamarind seed gum as a material obtained from the seeds of *Tamarindus indica*, rich in the neutral polysaccharide xyloglucan. The same page separately describes culinary use of the fruit in pastes, sauces and beverages.[1] An enquiry for a sour tamarind flavour and an enquiry for a texture modifier should not use “tamarind extract” as their only material definition.
++MP Gokyo describes tamarind seed gum as a material obtained from the seeds of *Tamarindus indica*, which are rich in the neutral polysaccharide xyloglucan. The same page separately describes culinary use of the fruit in pastes, sauces and beverages.[1] An enquiry for a sour tamarind flavour and an enquiry for a texture modifier should not use “tamarind extract” as their only material definition.
+ 
+-There is also an application boundary within the manufacturer's range: the page presents GLYLOID® for food and beverages and TAMAVISCO® for personal care.[1] That distinction is a reason to request documentation for the exact proposed grade and destination market—not to treat a cosmetic grade as interchangeable with a food ingredient.
++The manufacturer's page also presents GLYLOID® for food and beverages and TAMAVISCO® for personal care.[1] Request documentation for the exact proposed grade and destination market rather than treating the two ranges as interchangeable.
+ 
+-## Three grade descriptions, three different purchasing decisions
++## Three published grades, three selection questions
+ 
+-The following is a reading of one distributor's published range, not a complete market survey or a statement of ZL stock.[2]
++Socius, a distributor, describes the following grades on its product page.[2] These are third-party product descriptions, not a comparison of measured performance.
+ 
+-| Published material | What the source actually says | Practical selection consequence |
++| Published grade | Distributor's description | What to check before sampling |
+ |---|---|---|
+-| GLYLOID®2A | Hot-water soluble; heat to a minimum of 80°C for at least 15 minutes.[2] | Consider it only against a process that can accommodate the stated hydration requirement. Do not treat this as a food-safety heat treatment. |
+-| GLYLOID®3S | Cold-water-soluble grade for applications without a heating process.[2] | A candidate for a no-heat route. The public description does not establish its mixing time, mixing energy or finished-product performance. |
+-| Glyate® | Cold-water soluble; low-viscosity grade.[2] | Cold solubility alone does not mean the grade will provide the same thickening as another cold-soluble product. Define the required texture first. |
++| GLYLOID®2A | Hot-water soluble. “Heat to a minimum of 80°C for at least 15 minutes.”[2] | Can the process accommodate this preparation step? This is a hydration instruction, not a food-safety heat treatment. |
++| GLYLOID®3S | Cold-water-soluble grade for applications without a heating process.[2] | Ask for preparation instructions, including mixing time and equipment, for the intended cold process. |
++| Glyate® | Cold-water soluble; “Low-viscosity grade.”[2] | Establish whether the objective is thickening or another function. Cold solubility alone does not establish equivalent thickening. |
+ 
+-For a cold-blended sauce, the first distinction is whether the proposed grade can hydrate in that route. For a cooked fruit preparation, a hot-water-soluble grade may be a process candidate, but suitability still depends on the full formula. These are selection scenarios, not tested recipes. None of the descriptions establishes a universal use level, lowest cost or one-for-one replacement ratio.
++For a cold-blended sauce, first check whether the candidate can hydrate within the available mixing time. For a cooked fruit preparation, compare the stated heating requirement with the actual temperature and hold time. These descriptions help narrow a sample shortlist; they do not supply an equal-dose replacement ratio.
+ 
+-## Why a research viscosity value cannot be copied into a specification
++## Make viscosity figures comparable
+ 
+-A 2019 study extracted a polysaccharide from Yunnan tamarind seeds using acidic hot water and ethanol precipitation. Its rheology samples were prepared by stirring at 80°C for one hour and then resting for 12 hours before analysis.[3] This is not a cold-mixing demonstration, and the material was not identified as any of the commercial grades above.[3]
++A 2019 study extracted a polysaccharide from Yunnan tamarind seeds using acidic hot water and ethanol precipitation. Before rheological analysis, the researchers stirred the samples at 80°C for one hour and then rested them for 12 hours.[3] The material was a laboratory preparation, not an identified GLYLOID®2A, GLYLOID®3S or Glyate® sample; this preparation does not demonstrate cold-process performance.[3]
+ 
+-The paper measured concentration-dependent flow. It reports a Newtonian plateau at low shear rates and shear thinning at higher shear rates and higher concentrations.[3] Meanwhile, the manufacturer's general description includes “Stable viscosity with Newtonian fluid.”[1] These statements should not be turned into a verdict that either all tamarind gum is Newtonian or all tamarind gum must behave identically to the study sample. Grade, concentration and measurement conditions have not been matched.
++The study reported a Newtonian plateau at low shear rates and shear thinning at higher rates and concentrations. Its flow measurements used increasing and decreasing shear-rate sweeps between 1 and 1,000 s⁻¹ at 25°C.[3] MP Gokyo's general description, by contrast, includes “Stable viscosity with Newtonian fluid.”[1] The materials and test conditions have not been matched, so these descriptions do not establish a contradiction—or a common flow specification for all tamarind seed gums.
+ 
+-A viscosity quotation is most useful when it includes the material concentration and its basis, preparation temperature and time, rest period, measurement temperature, and instrument settings. This is an editorial procurement recommendation: ask for those conditions before deciding that one reported number is better than another.
++Before comparing viscosity quotations, ask for:
++
++- **Concentration and basis:** mass per volume or mass per mass, and whether the concentration refers to the supplied powder or a specified component.
++- **Preparation:** water or formula composition, mixing conditions, hydration temperature and time, and rest period.
++- **Measurement:** temperature, instrument and geometry or spindle, and shear rate or rotational speed.
++
++In this paper, concentrations expressed as **% w/v refer to the mass of the prepared TSP material per solution volume**, not a xyloglucan purity specification; 2% w/v means 2 g per 100 mL of solution.[3] Keep that basis when quoting the results rather than silently converting them to a weight percentage in a food recipe.
+ 
+ ## Heat resilience is not constant viscosity while hot
+ 
+-The study's abstract describes good thermal stability, but the results contain a commercially important qualification. At 2% w/v and a shear rate of 2 s⁻¹, apparent viscosity fell from 3.01 to 0.13 Pa·s as the measurement temperature rose from 5 to 85°C.[3] The authors also report that heating and cooling curves coincided well, interpreting this as thermal resilience.[3]
++For a 2% w/v TSP solution at a shear rate of 2 s⁻¹, the study reports apparent viscosity falling from 3.01 to 0.13 Pa·s as temperature rose from 5 to 85°C. The authors also report that the heating and cooling curves coincided well, which they interpreted as thermal resilience.[3]
+ 
+-Those observations answer different questions. Recovery on cooling does not mean the material keeps the same viscosity during hot processing. The experiment used a temperature sweep at 5°C per minute; it was not an industrial hot-fill, retort or shelf-life validation.[3]
++These observations answer different questions. Recovery on cooling does not mean unchanged viscosity during hot processing. The experiment heated and cooled at 5°C per minute; it did not test an industrial hot-fill, retort or shelf-life programme.[3]
+ 
+-For purchasing, compare the texture needed during processing with the texture needed at use. A sample acceptable after cooling may still need a separate evaluation during hot transfer or filling. That is a proposed decision rule, not a claim that this ingredient causes a particular factory failure.
++For sample evaluation, separate the texture needed during hot transfer or filling from the texture needed after cooling. A satisfactory cooled sample answers only the second question.
+ 
+-## Acid tolerance is promising evidence, not a finished-sauce guarantee
++## Check acid, salt and sugar in the intended formula
+ 
+-The same study tested 2% w/v solutions in buffers at pH 1, 4, 7, 10 and 13. The authors described apparent viscosity as almost unchanged across pH 1–10 and significantly lower at pH 13; they also explicitly noted an earlier study with a different response to decreasing pH.[3] The tested points should not be mistaken for measurements at every pH within that interval.
++The study tested 2% w/v TSP in buffers at pH 1, 4, 7, 10 and 13, measuring flow at 25°C. The authors described apparent viscosity as almost unchanged across pH 1–10 and significantly lower at pH 13.[3] Those were discrete test points, not measurements at every pH in the interval. The paper also notes an earlier study with a different response to decreasing pH.[3]
+ 
+-Salt and sugar were separate variables. The paper reports that added salts reduced apparent viscosity to an extent depending on ion type, while sucrose increased it slightly under the tested conditions.[3] The salt experiments included 0.5 M and 1.0 M NaCl, 1.0 M KCl and 1.0 M CaCl₂; the sucrose conditions were 10%, 20% and 30% w/v.[3] These are laboratory test conditions, not formulation recommendations.
++Salt and sucrose were examined separately, again at 2% w/v TSP and 25°C. The conditions included 0.5 M and 1.0 M NaCl, 1.0 M KCl and 1.0 M CaCl₂, and sucrose at 10%, 20% and 30% w/v. The authors report lower apparent viscosity with the salts, to an extent depending on ion type, and a slight increase with sucrose.[3] Here, M denotes mol/L; the sucrose percentages are mass per solution volume, not °Brix.
+ 
+-This makes tamarind seed gum worth investigating where an acidic system also needs texture, but it does not establish a target dose for a commercial sauce, compatibility with every protein or a guarantee against separation. The authors themselves identify interactions with food components as further work.[3]
++These results justify investigating acidic applications, but they do not establish a dosage or stability outcome for a complete sauce. The authors identify interactions with food components as further work.[3] Test the shortlisted grade with the intended acid, salt, sugar and other ingredients, including their actual order of addition.
+ 
+-## “Emulsification” still needs application evidence
++## “Emulsification” needs more than a viscosity result
+ 
+-The distributor's bulletin promotes emulsification and replacement of ingredients such as PGA in sauces and dressings.[6] In the retrieved two-page bulletin, that statement is not accompanied by a specified oil phase, homogenization procedure, droplet-size data or a matched comparison formula.[6] It is a supplier application proposition, not independent proof of replacement equivalence.
++Socius's two-page bulletin says Glyloid “can help stabilize sauces and dressings without the need for ingredients such as PGA.” It provides no specified oil phase, homogenization procedure, droplet-size data or matched comparison formula for that claim.[6] Treat it as a supplier application proposal, not demonstrated replacement equivalence.
+ 
+-A project aimed mainly at changing pour texture has a different acceptance question from a project aimed at preventing oil separation. For the latter, request evidence in a suitably matched emulsion rather than accepting a water-solution viscosity result as the answer. The 2019 study above evaluates solution rheology, not a controlled PGA-replacement trial.[3]
++A project aimed at changing pour behaviour has a different acceptance criterion from one aimed at preventing oil separation. For the latter, request results from a suitably matched emulsion. The 2019 study evaluates solution rheology, not a controlled PGA-replacement trial.[3]
+ 
+-## What to send with a useful sample request
++## What to include in a sample request
+ 
+-Describe the finished product and the actual hydration route first: cold blend or heated preparation, available mixing equipment, available heating and holding time, and the stage at which acid, salts and other ingredients enter. Then specify whether the commercial objective is pour texture, low-viscosity functionality, or emulsion stability. Request the exact grade, composition documentation and viscosity method together.
++Send the finished-product type, target market and actual preparation sequence: cold blend or heated preparation, mixing equipment, available temperature and hold time, and when acid, salts and other ingredients enter. State the required outcome—pour behaviour, mouthfeel or emulsion stability—and how it will be assessed.
+ 
+-Evaluate candidate samples in the intended process before negotiating substitution on price alone. Market-specific food-use status, labelling, sample availability and commercial terms require separate confirmation. The sources reviewed here do not establish ZL inventory, certification, a validated formulation, a universal dosage or a finished-product shelf life.
++Request the exact grade, composition documentation, preparation instructions and viscosity method together. Compare samples in the intended process before negotiating substitution on price alone. Confirm market-specific food-use and labelling requirements for the proposed material separately from its functional suitability.
+ 
+ ## Sources
+ 

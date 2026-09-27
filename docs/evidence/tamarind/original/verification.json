@@ -1,0 +1,46 @@
+{
+  "claim_quotes_verified": 18,
+  "citation_checks": [
+    {
+      "file": "tamarind-grade-selection.en.md",
+      "exit_code": 0,
+      "output": "info: stats: 43 prose sentence(s), 13 with declared provenance (30%) — 13 cited, 0 marked [unverified] (a sentence may be both); 4 distinct source(s) cited, 6 in ledger (6 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [4], [5]\ncitations OK\n"
+    },
+    {
+      "file": "tamarind-grade-selection.zh.md",
+      "exit_code": 0,
+      "output": "info: stats: 10 prose sentence(s), 10 with declared provenance (100%) — 10 cited, 0 marked [unverified] (a sentence may be both); 4 distinct source(s) cited, 6 in ledger (6 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [4], [5]\ncitations OK\n"
+    },
+    {
+      "file": "DISCOVERY.md",
+      "exit_code": 0,
+      "output": "info: stats: 47 prose sentence(s), 5 with declared provenance (11%) — 5 cited, 0 marked [unverified] (a sentence may be both); 6 distinct source(s) cited, 6 in ledger (6 with evidence quotes)\ncitations OK\n"
+    }
+  ],
+  "hashes": {
+    "tamarind-grade-selection.zh.md": "1303d2e70c8fb83a07a945982fcd409b8b377e512bafeef0365dee08c9bf52ce",
+    "DISCOVERY.md": "bd58b773f8da516e28ad8d45c1cd256509682a0b359a0d33c44dcbca1bf3c60c",
+    "ledger.json": "ab007c125972f0566daa00df1a0c58ad41e6e3e6fc1370c4716b32401cc94a8d",
+    "verify-package.py": "a83579c7f96e15b5c347c78986a29369a81273f6aaa4fd6a294d64f298c442ae",
+    "tamarind-grade-selection.en.md": "cd7509d125b860dbd08af44862318b3f5bee895471bd273f5beea5d1e2b63972",
+    "claim-source-ledger.json": "d924b999456dcaa96d58a6d867da093e540223d2694cbdd8070b2cfb10d48bc2",
+    "retrieval-manifest.json": "0686898d517aaa53b14dfe5b1761941ea3814512548c97d60a3eb1b9b9748baf",
+    "sources/manufacturer.txt": "b4cb0411c28c1b1e8bf037f9643ce5d52a881b273f40f613d80768b678f78a38",
+    "sources/carob.txt": "8c969f92f4fd41f5fa403fe29425f25a972b7679b27a59d4f2a516e4233e70d7",
+    "sources/manufacturer.html": "ceb536810fe34fbf62e855b95800751254e1d30b72f4d05cf68a081767fe6da5",
+    "sources/distributor.txt": "ef4e8a4562243e473face121ac18092e6e4f316a739bd10573ec62c76e341e74",
+    "sources/study-tables.json": "4a34c18e7c8165f040bd46578183149177c908738c9ca53034f466ec5fdddf55",
+    "sources/brochure.txt": "e6d0d15402b8a0228bb26b2e55fc77dcce47dff91ac13d25f6e584955f58ca2b",
+    "sources/tamarind-study.xml": "524c74ca97ce8229136095465d09695fa98ecb880cc67826c6ff7c9eb680978b",
+    "sources/carob.html": "ca82874367b032868bab6fc42bc55a4c14c0595673965f081af65c136c53e05b",
+    "sources/fenugreek.html": "40821a4a0228697540ef243b5a88d04e9c192eab7ab49ecfe761916b231c70bd",
+    "sources/fenugreek.txt": "78a6add0bf81bac8503984a76102e341f0da13ed24324c3e1e2395be7fb307b8",
+    "sources/distributor.html": "3e4931812ed0bac04efeca721bd30a2e9bf453980ae84f6ee315833054e290cc",
+    "sources/tamarind-study.txt": "272fb2cab6ef1f588a61cb43337d9c2d68bf19999ee1a88bdff0da6e94b543cd",
+    "sources/brochure.pdf": "ffeb3369226a722bf52798c2732f1365d905378dd4151ba4b4519427453fe0dd",
+    "inventory/editorial-discovery-brief.md": "50d5dea1f2ccb006bef2e991b993d126e97891684c335d3f926c7e953b29ed97",
+    "inventory/dedup-scan.json": "6f2b1e9299488ce3d6258a7326e94b2d50beaf816eafe42e806c49ea493e6e42",
+    "inventory/backlog.json": "c2933bc69c1f9399ed1a19453e0055f19e710e1a9c74a5d0ec79a9248dae79f6"
+  },
+  "scope": "Mechanical evidence/citation integrity, not independent factual/editorial approval"
+}

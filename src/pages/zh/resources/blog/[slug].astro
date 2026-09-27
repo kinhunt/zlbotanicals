@@ -39,6 +39,7 @@ const isVanilla = post.slug.endsWith('/vanilla-material-choice');
 const isCranberry = post.slug.endsWith('/cranberry-pac-purchasing');
 const isCitrus = post.slug.endsWith('/hesperidin-material-choice');
 const isHibiscus = post.slug.endsWith('/hibiscus-color-endpoints');
+const isTamarind = post.slug.endsWith('/tamarind-grade-selection');
 const isGardenia = post.slug.endsWith('/gardenia-blue-us-uses');
 const isClove = post.slug.endsWith('/clove-powder-humidity');
 const isSaffron = post.slug.endsWith('/saffron-identity');
@@ -72,7 +73,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
   heroTitle={post.data.title}
   heroSubtitle={guideCategory[lang].title}
 >
-  <article class:list={["section-padding", {"gardenia-reader": isGardenia, "clove-reader": isClove, "schisandra-reader": isSchisandra, "oat-apple-reader": isOatApple, "olive-pectin-reader": isOlivePectin, "botanical-comparison-reader": isBotanicalComparison, "beetroot-reader": isBeetroot, "ginger-reader": isGinger, "cocoa-reader": isCocoa, "pomegranate-reader": isPomegranate, "acacia-reader": isAcacia, "citrus-delayed-bitterness-reader": isCitrusBitterness, "astaxanthin-reader": isAstaxanthin, "chicory-reader": isChicory, "vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory"), "water-soluble-reader": isWaterSoluble}]}>
+  <article class:list={["section-padding", {"tamarind-reader": isTamarind, "gardenia-reader": isGardenia, "clove-reader": isClove, "schisandra-reader": isSchisandra, "oat-apple-reader": isOatApple, "olive-pectin-reader": isOlivePectin, "botanical-comparison-reader": isBotanicalComparison, "beetroot-reader": isBeetroot, "ginger-reader": isGinger, "cocoa-reader": isCocoa, "pomegranate-reader": isPomegranate, "acacia-reader": isAcacia, "citrus-delayed-bitterness-reader": isCitrusBitterness, "astaxanthin-reader": isAstaxanthin, "chicory-reader": isChicory, "vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory"), "water-soluble-reader": isWaterSoluble}]}>
     <div class="container-wide max-w-4xl">
       <!-- Breadcrumb -->
       <nav aria-label="面包屑导航" class="mb-8 text-sm">
@@ -203,7 +204,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
       {isAcacia && <nav aria-label="相关应用阅读" class="mt-12 border-t pt-8"><h2 class="text-xl font-semibold mb-4">相关应用阅读</h2><ul class="space-y-3"><li><a class="text-primary underline" href="/zh/solutions/food">食品应用</a></li><li><a class="text-primary underline" href="/zh/solutions/beverages">饮料应用</a></li></ul></nav>}
 
       <!-- CTA -->
-      {!isGardenia && !isClove && !isSchisandra && !isOatApple && !isOlivePectin && !isBotanicalComparison && !isBeetroot && !isGinger && !isCocoa && !isPomegranate && !isCitrusBitterness && !isAcacia && !isAstaxanthin && !isChicory && !isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
+      {!isTamarind && !isGardenia && !isClove && !isSchisandra && !isOatApple && !isOlivePectin && !isBotanicalComparison && !isBeetroot && !isGinger && !isCocoa && !isPomegranate && !isCitrusBitterness && !isAcacia && !isAstaxanthin && !isChicory && !isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
         <h3 class="text-xl font-display font-bold text-gray-900">对我们的植物提取物感兴趣？</h3>
         <p class="text-gray-600 mt-2">联系我们获取样品、技术资料或定制配方支持。</p>
         <a
@@ -218,6 +219,23 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
 </PageLayout>
 
 <style>
+  .tamarind-reader :global(.prose) {max-width:820px;margin-inline:auto;line-height:1.85;overflow-wrap:anywhere}
+  .tamarind-reader :global([id]) {scroll-margin-top:100px}
+  .tamarind-reader :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}
+  .tamarind-reader :global(.tamarind-table) {width:100%;table-layout:fixed;border-collapse:collapse}
+  .tamarind-reader :global(.tamarind-table th), .tamarind-reader :global(.tamarind-table td) {padding:1rem;border:1px solid #d1d5db;vertical-align:top;font-size:16px;line-height:1.7}
+  .tamarind-reader :global(.cell-value) {font-variant-numeric:tabular-nums}
+  .tamarind-reader :global(.mobile-label) {display:none}
+  @media(max-width:640px) {
+    .tamarind-reader :global(.tamarind-table), .tamarind-reader :global(.tamarind-table tbody), .tamarind-reader :global(.tamarind-table tr), .tamarind-reader :global(.tamarind-table th), .tamarind-reader :global(.tamarind-table td) {display:block;width:100%;box-sizing:border-box}
+    .tamarind-reader :global(.tamarind-table thead) {display:none}
+    .tamarind-reader :global(.tamarind-table tr) {margin-bottom:1.5rem;border:1px solid #d1d5db;border-radius:8px;overflow:hidden}
+    .tamarind-reader :global(.tamarind-table th), .tamarind-reader :global(.tamarind-table td) {border:0;padding:.85rem 1rem;text-align:left}
+    .tamarind-reader :global(.tamarind-table th) {background:#f3f4f6}
+    .tamarind-reader :global(.mobile-label) {display:block;font-weight:600;margin-bottom:.3rem;color:#374151}
+  }
+
+  .tamarind-reader :global(nav ol) {flex-wrap:wrap}
   .gardenia-reader :global(.prose) {max-width:820px;margin-inline:auto;line-height:1.85;overflow-wrap:anywhere}
   .gardenia-reader :global([id]) {scroll-margin-top:100px}
   .gardenia-reader :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}
