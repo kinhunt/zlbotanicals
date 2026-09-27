@@ -1,0 +1,66 @@
+[
+  {
+    "name": "petition2026",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-08-19/html/2026-16944.htm",
+    "status": 200,
+    "length": 4172,
+    "text_preview": "Federal Register, Volume 91 Issue 159 (Wednesday, August 19, 2026) [Federal Register Volume 91, Number 159 (Wednesday, August 19, 2026)]\n[Proposed Rules]\n[Pages 53545-53546]\nFrom the Federal Register Online via the Government Publishing Office [ www.",
+    "sha256": "986e220ed86efc04a5fbbf6e624a6de7ed44d2767d204a6316be492c32d276dc"
+  },
+  {
+    "name": "status2026",
+    "url": "https://www.hfpappexternal.fda.gov/scripts/fdcc/?id=CAP_6C0343&set=FAP-CAP",
+    "status": 200,
+    "length": 25050,
+    "text_preview": "Food Additive and Color Additive Petitions Under Review or Held in Abeyance Quick Links: Skip to main page content Skip to Search Skip to Topics Menu Skip to Common Links U.S. Food & Drug Administration Food Additive and Color Additive Petitions Unde",
+    "sha256": "f5bb2ff32721365d51610db61154d13eeeb880e0798d5fdb5a1f43596e14cc0b"
+  },
+  {
+    "name": "order2025",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2025-07-15/html/2025-13175.htm",
+    "status": 200,
+    "length": 28593,
+    "text_preview": "Federal Register, Volume 90 Issue 133 (Tuesday, July 15, 2025) [Federal Register Volume 90, Number 133 (Tuesday, July 15, 2025)]\n[Rules and Regulations]\n[Pages 31586-31590]\nFrom the Federal Register Online via the Government Publishing Office [ www.g",
+    "sha256": "e5c875d4d12fb49828b4fcae9bce463a9e1fd1d5cc9d14ba112bad41a02a46ef"
+  },
+  {
+    "name": "FDA regulatory status of Gardenia Blue",
+    "url": "https://www.hfpappexternal.fda.gov/scripts/fdcc/index.cfm?id=GardeniaBlue&set=ColorAdditives",
+    "status": 200,
+    "length": 29618,
+    "text_preview": "Regulatory Status of Color Additives Quick Links: Skip to main page content Skip to Search Skip to Topics Menu Skip to Common Links U.S. Food & Drug Administration Regulatory Status of Color Additives FDA Home Color Additives Ingredient & Packaging I",
+    "sha256": "ad368c25c9d1b02b11c4a807a7bb53c28240338ebba79621c82176cd30c161c3"
+  },
+  {
+    "name": "confirmation",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2025-10-01/html/2025-19166.htm",
+    "status": 200,
+    "length": 4554,
+    "text_preview": "Federal Register, Volume 90 Issue 188 (Wednesday, October 1, 2025) [Federal Register Volume 90, Number 188 (Wednesday, October 1, 2025)]\n[Rules and Regulations]\n[Page 47229]\nFrom the Federal Register Online via the Government Publishing Office [ www.",
+    "sha256": "add2f75bbbb66ce2bf46a6bd355c8120e776460ad2dcd127754c3b74998f86d5"
+  },
+  {
+    "name": "correction-locator",
+    "url": "https://www.federalregister.gov/api/v1/documents.json?conditions[citation]=90%20FR%2037793",
+    "status": 400,
+    "length": 46,
+    "text_preview": "{\"errors\":{\"citation\":\"is not a valid field\"}}",
+    "sha256": "b6a9bc41804cc29577deb1845c6175b0ee61b761d1c0c3234a281d104496a5b7"
+  },
+  {
+    "name": "allergen-docket",
+    "url": "https://www.regulations.gov/document/FDA-2022-FL-2590-0001",
+    "status": 403,
+    "length": 919,
+    "text_preview": "ERROR: The request could not be satisfied 403 ERROR The request could not be satisfied. Request blocked.\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, o",
+    "sha256": "36739f4ec1ef8017f3e982863ee8414b04d809cf8542e5e06b96a3dea6a93ec6"
+  },
+  {
+    "name": "correction",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2025-08-06/html/2025-14905.htm",
+    "status": 200,
+    "length": 2579,
+    "text_preview": "Federal Register, Volume 90 Issue 149 (Wednesday, August 6, 2025) [Federal Register Volume 90, Number 149 (Wednesday, August 6, 2025)]\n[Rules and Regulations]\n[Page 37793]\nFrom the Federal Register Online via the Government Publishing Office [ www.gp",
+    "sha256": "a1cf132098405284f834436a61dbebeac253e2e832ce29e3860a392cff6223e0"
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "citations": [
+    {
+      "file": "gardenia-blue.zh.md",
+      "exit_code": 0,
+      "output": "info: stats: 4 prose sentence(s), 4 with declared provenance (100%) \u2014 4 cited, 0 marked [unverified] (a sentence may be both); 7 distinct source(s) cited, 7 in ledger (7 with evidence quotes)\ncitations OK\n"
+    },
+    {
+      "file": "gardenia-blue.en.md",
+      "exit_code": 0,
+      "output": "info: stats: 54 prose sentence(s), 16 with declared provenance (30%) \u2014 16 cited, 0 marked [unverified] (a sentence may be both); 7 distinct source(s) cited, 7 in ledger (7 with evidence quotes)\ncitations OK\n"
+    },
+    {
+      "file": "REVIEW.md",
+      "exit_code": 0,
+      "output": "info: stats: 58 prose sentence(s), 8 with declared provenance (14%) \u2014 8 cited, 0 marked [unverified] (a sentence may be both); 7 distinct source(s) cited, 7 in ledger (7 with evidence quotes)\ncitations OK\n"
+    }
+  ],
+  "quotes": [
+    {
+      "id": 1,
+      "match": true
+    },
+    {
+      "id": 1,
+      "match": true
+    },
+    {
+      "id": 1,
+      "match": true
+    },
+    {
+      "id": 1,
+      "match": true
+    },
+    {
+      "id": 2,
+      "match": true
+    },
+    {
+      "id": 2,
+      "match": true
+    },
+    {
+      "id": 3,
+      "match": true
+    },
+    {
+      "id": 4,
+      "match": true
+    },
+    {
+      "id": 4,
+      "match": true
+    },
+    {
+      "id": 4,
+      "match": true
+    },
+    {
+      "id": 5,
+      "match": true
+    },
+    {
+      "id": 6,
+      "match": true
+    },
+    {
+      "id": 7,
+      "match": true
+    }
+  ],
+  "original_files_unchanged": true,
+  "original_files_count": 28,
+  "semantic_review": "PASS: bounded analysis; no current allergen-exemption claim"
+}
