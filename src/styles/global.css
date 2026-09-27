@@ -60,6 +60,11 @@
   /* Markdown article tables wider than the viewport scroll inside a focusable
      region; article markdown cannot carry page-scoped styles, so the region is
      styled here. Only pages whose markdown uses .md-table-scroll are affected. */
+  /* T05 source paragraphs: native hash navigation must clear the fixed header. */
+  [id^="tea-scum-ref-"] {
+    scroll-margin-top: 100px;
+  }
+
   .md-table-scroll {
     max-width: 100%;
     overflow-x: auto;
