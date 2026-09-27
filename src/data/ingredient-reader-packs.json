@@ -604,6 +604,14 @@
             },
             {
               "type": "paragraph",
+              "text": "In a four-week study, 25 healthy volunteers applied an oil-in-water (O/W) cream or hydrogel containing Centella extract to their forearms twice daily. The researchers compared the formulations with their extract-free bases and untreated areas, measuring stratum corneum hydration and transepidermal water loss (TEWL). Of the 2.5% and 5% extract levels described in the study text, the authors reported the best moisturizing results with the 5% formulations: hydration increased and TEWL decreased.[15]"
+            },
+            {
+              "type": "paragraph",
+              "text": "The material description matters here. The purchased Herbalia® Centella dried extract was described as containing 10% active constituents, naming madecassic acid, asiatic acid and asiaticoside; madecassoside content was not separately reported. Although the study text specifies 2.5% and 5%, both recipe tables list 3%. The relationship between a separate ethanol-extraction step and the purchased dry extract is also unclear. The study therefore offers moisturizing observations for particular topical formulations, rather than a universal Centella use level or a directly reproducible finished-product recipe.[15]"
+            },
+            {
+              "type": "paragraph",
               "text": "A 2017 systematic review examined oral Centella preparations for cognition and mood. It included five randomized trials of Centella alone and six of Centella-containing products. Meta-analysis found no significant difference from placebo across cognitive domains. Signals in alertness and anger scores did not establish a general memory benefit, and mixed products cannot identify Centella’s independent contribution.[16]"
             },
             {
@@ -801,6 +809,14 @@
             {
               "type": "paragraph",
               "text": "EMA于2022年的评估区分了切碎或粉末药材外用辅助小伤口愈合的传统用途，以及已确立的临床疗效。所评伤口研究出现获益趋势，但样本小、方法问题及提取物描述不完整，未能支持确立疗效的结论。因此，化妆品保湿产品需建立自身人体使用证据，不能把药材传统适应证移作精华液的伤口愈合宣称。[4]"
+            },
+            {
+              "type": "paragraph",
+              "text": "一项为期4周的研究，让25名健康志愿者每天两次在前臂涂抹含积雪草提取物的水包油乳膏（O/W）或水凝胶，并与空白基质及未处理区域比较。研究测量了角质层含水量和经皮水分流失（TEWL）。作者报告，在正文所述的2.5%和5%两种添加水平中，5%配方的保湿表现最好，含水量升高、TEWL下降。[15]"
+            },
+            {
+              "type": "paragraph",
+              "text": "这项研究的材料细节值得一起看。作者将购入的Herbalia® Centella干提取物描述为含10%活性成分，列出的是羟基积雪草酸、积雪草酸和积雪草苷，未单独报告羟基积雪草苷含量。论文正文写2.5%和5%，配方表却都列3%，另有乙醇提取步骤与商品干粉关系交代不清的问题。因此，它提供的是特定外用配方的保湿观察，不能据此推导所有积雪草原料的推荐添加量或直接复现成品。[15]"
             },
             {
               "type": "paragraph",
@@ -1150,6 +1166,12 @@
         "title": "US10980851B2 - Topical skincare compositions comprising Centella asiatica selected triterpenes",
         "url": "https://patents.google.com/patent/US10980851B2/en",
         "accessed": "2026-09-11"
+      },
+      {
+        "id": 15,
+        "title": "Ratz-Łyko et al. (2016). Moisturizing and Antiinflammatory Properties of Cosmetic Formulations Containing Centella asiatica Extract.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4852572/",
+        "accessed": "2026-09-27"
       },
       {
         "id": 16,

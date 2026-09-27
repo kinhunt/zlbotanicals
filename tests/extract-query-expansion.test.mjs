@@ -85,7 +85,13 @@ test('bounded editorial edits retain every plan, source, research case, patent a
  const before=JSON.parse(baseline(file)),after=JSON.parse(readFileSync(file));
  const allowed={'goji-berry':['components'],stevia:['identity'],'licorice-root':['identity','components','effects','standards'],'centella-asiatica':['components','processes']};
  for(const old of before){
-  const next=after.find(p=>p.productId===old.productId);
+  const next=structuredClone(after.find(p=>p.productId===old.productId));
+  // I06's exact approved addition is asserted in centella-topical-human-study.test.mjs.
+  // Remove only that additive pair/source before this historical preservation check.
+  if(old.productId==='centella-asiatica'){
+   next.sources=next.sources.filter(s=>s.id!==15);
+   for(const lang of ['en','zh']) next.content[lang].find(s=>s.id==='effects').blocks.splice(1,2);
+  }
   assert.deepEqual(next.plans,old.plans);
   // I04 adds two reviewed stevia references; the licorice reader-pack insertion
   // appends four reviewed sources (11-14); all existing entries stay exact.
