@@ -1,0 +1,69 @@
+---
+const { lang = 'en' } = Astro.props;
+const zh = lang === 'zh';
+const t = (en: string, cn: string) => zh ? cn : en;
+const prefix = zh ? '/zh' : '';
+const fields = [
+ ['analyte',t('Analyte / marker name','检测项目／标志成分名称'),'text'],
+ ['assayReference',t('Assay reference: batch, method and report','含量依据：批次、方法及报告'),'text'],
+ ['assay',t('Reported assay','报告含量'),'decimal'],
+ ['targetMg',t('Theoretical ingredient-input contribution (mg/bottle)','原料理论投入贡献（mg/瓶）'),'decimal'],
+ ['bottles',t('Planned bottle count (positive integer)','计划瓶数（正整数）'),'numeric'],
+ ['moqKg',t('MOQ (kg; optional)','最小起订量（kg，选填）'),'decimal'],
+ ['packKg',t('Pack size (kg/pack; optional)','包装规格（kg/包，选填）'),'decimal'],
+ ['pricePerKg',t('Price (currency units/kg; optional)','单价（货币单位/kg，选填）'),'decimal'],
+ ['currency',t('Currency label (same currency for all costs)','币种标识（所有成本使用同一币种）'),'text'],
+];
+---
+<section id="tea-cost-calculator" class="tea-cost not-prose" data-lang={lang} aria-labelledby="tc-heading">
+ <h2 id="tc-heading">{t('Tea extract cost calculator','茶提取物成本计算器')}</h2>
+ <p>{t('One powder, one declared analyte and one theoretical input target. Enter your own report and quote; no supplier data is prefilled. This is not a dose recommendation, safety assessment, recovery measurement or finished-product claim.','针对一种粉末、一个明确检测项目及一个理论投入目标。请填入您自己的报告与报价；不预填供应商数据。本工具不提供剂量建议、安全评估、回收率测定或成品宣称。')}</p>
+ <p>{t('Local calculation only: entries are not saved, transmitted or attached to inquiries. No liquid-volume conversion or native-extract denominator is supported.','仅在本机计算：输入不保存、不传输，也不附加到询盘。不支持液体体积换算或原生提取物分母。')}</p>
+ <p id="tc-number-help">{t('Use plain nonnegative decimals with a dot, at most 16 meaningful digits (ignore leading zeros and trailing zeros). No signs, exponents, commas or automatic rounding of unsupported precision. Results are approximate, not financial accounting.','使用点号小数，最多16位有效数字（忽略前导零与末尾零）。不接受正负号、指数或逗号；超出精度时拒绝计算，不自动舍入。结果为近似值，不作财务记账。')}</p>
+ <noscript><p class="notice">{t('JavaScript is off. The calculator is unavailable; use the equations below manually. No values will be submitted.','JavaScript已关闭，计算器不可用；可按下方公式手动计算。不会提交任何数值。')}</p></noscript>
+ <fieldset data-inputs disabled aria-describedby="tc-number-help">
+ <legend>{t('Your report and planning inputs','报告与计划输入')}</legend>
+ <div class="input-grid">
+ {fields.map(([key,label,mode]) => <div><label for={`tc-${key}`}>{label}</label><input id={`tc-${key}`} data-field={key} type="text" inputmode={mode === 'text' ? 'text' : mode === 'numeric' ? 'numeric' : 'decimal'} autocomplete="off" maxlength="350" /></div>)}
+ <div><label for="tc-unit">{t('Report unit (choose explicitly)','报告单位（请明确选择）')}</label><select id="tc-unit" data-field="unit"><option value="">{t('Choose unit','选择单位')}</option><option value="%w/w">% w/w</option><option value="mg/g">mg/g</option></select></div>
+ <div><label for="tc-basis">{t('Report denominator (whole supplied powder)','报告分母（整份供应粉末）')}</label><select id="tc-basis" data-field="basis"><option value="">{t('Choose basis','选择基准')}</option><option value="as-supplied">{t('As supplied','原样基准')}</option><option value="dry-basis">{t('Dry basis','干基')}</option></select></div>
+ </div>
+ <label class="check"><input type="checkbox" data-field="zeroPriceConfirmed" id="tc-zeroPriceConfirmed" />{t('If price is 0, I confirm a genuine zero-price assumption (not an unknown quote).','若单价为0，确认它是明确的零价假设，而非未知报价。')}</label>
+ <fieldset data-correction disabled hidden>
+ <legend>{t('Dry-basis correction only','仅用于干基换算')}</legend>
+ <p>{t('LOD is method-specific mass loss, not necessarily water. The laboratory must confirm that this same-lot measurement and method are appropriate for this assay correction.','LOD是特定方法下的质量损失，不一定等于水分。实验室须确认同批次测量及方法适用于本含量的基准校正。')}</p>
+ <label for="tc-correctionKind">{t('Correction measurement','校正测量')}</label><select data-field="correctionKind" id="tc-correctionKind"><option value="">{t('Choose measurement','选择测量')}</option><option value="LOD">LOD</option><option value="KF">KF</option></select>
+ <label for="tc-correctionPercent">{t('Correction mass percentage (0 ≤ value < 100)','校正质量百分数（0 ≤ 数值 < 100）')}</label><input type="text" inputmode="decimal" id="tc-correctionPercent" data-field="correctionPercent" maxlength="350" autocomplete="off" />
+ <label for="tc-correctionReference">{t('Correction reference: lot, method, conditions','校正依据：批次、方法、条件')}</label><input type="text" id="tc-correctionReference" data-field="correctionReference" maxlength="350" autocomplete="off" />
+ <label class="check"><input type="checkbox" id="tc-sameLotAndMethod" data-field="sameLotAndMethod" />{t('Same-lot and method correspondence confirmed','已确认批次与方法对应关系')}</label>
+ <label class="check"><input type="checkbox" id="tc-appropriateForAssay" data-field="appropriateForAssay" />{t('Laboratory confirms this correction is appropriate for this assay','实验室已确认校正适用于此项含量')}</label>
+ </fieldset>
+ <button type="button" data-calculate>{t('Calculate','计算')}</button>
+ <button type="button" data-clear>{t('Clear all','全部清空')}</button>
+ </fieldset>
+ <p data-status role="status" aria-live="polite">{t('No calculation yet. Complete the required report and target fields.','尚未计算。请填写必要的报告及目标字段。')}</p>
+ <div data-results hidden></div>
+ <details><summary>{t('Equations, limits and declared example','公式、边界与明确假设示例')}</summary>
+ <p>{t('1% w/w = 10 mg/g. A 0.4% report means 4 mg/g, not 40%. Dry-basis conversion: first convert a percentage assay (percentage number × 10) to mg/g. Supplied assay (mg/g) = dry-basis assay (mg/g) × (1 − confirmed correction% / 100). Synthetic arithmetic example: a 0.4% dry-basis assay and an appropriate, confirmed 5% correction give 4 mg/g × 0.95 = 3.8 mg/g supplied powder. Carrier is already inside the whole-powder denominator: do not deduct it again, or infer native extract as 1 − carrier − LOD.','1% w/w = 10 mg/g。报告0.4%即4 mg/g，不是40%。干基换算：先将百分比含量按百分数数值 × 10换成mg/g。供应粉末含量（mg/g）= 干基含量（mg/g）×（1 − 已确认校正百分数/100）。算术假设示例：干基含量0.4%、适用且已确认的校正百分数5%，则4 mg/g × 0.95 = 3.8 mg/g供应粉末。整份粉末分母已包含载体，不再次扣减，也不以1 − 载体 − LOD推算原生提取物。')}</p>
+ <p>{t('g/bottle = target mg/bottle ÷ supplied mg/g. Required kg = g/bottle × bottles ÷ 1000. Order kg = ceil(max(required kg, MOQ kg) ÷ pack kg) × pack kg. Leftover = order − required. Blank MOQ or packaging stays unknown; the calculated order is provisional until terms are confirmed.','g/瓶 = 目标mg/瓶 ÷ 供应粉末mg/g。所需kg = g/瓶 × 瓶数 ÷ 1000。采购kg = 向上取整[max(所需kg, MOQ kg) ÷ 包装kg] × 包装kg。剩余 = 采购 − 所需。MOQ或包装留空表示未知，采购量须待条款确认。')}</p>
+ <p>{t('Consumed cost = required kg × price/kg; order cash = order kg × price/kg. All monetary outputs use the entered currency without exchange conversion. Blank price means unknown, never zero. Freight, tax, trade terms, validity and other costs are not assessed; these are not landed costs or comparable quotations.','耗用成本 = 所需kg × 每kg单价；订单现金支出 = 采购kg × 每kg单价。所有金额均用输入币种，不进行汇率换算。空白单价表示未知，绝不当作零。运费、税费、贸易条款、有效期及其他费用未评估，不代表到岸成本或可直接比较的报价。')}</p>
+ <p>{t('No process-loss adjustment is calculated here: the target is theoretical input, not retained output. For a separately evidenced retained-output target, compensation divides by retention (1 − loss fraction), not multiplication by (1 + loss). For example, an assumed 20% loss requires 125 units of input to retain 100, not 120. Do not feed an unreviewed recovery assumption into this calculator.','本工具不计算工艺损耗补偿：目标为理论投入，不是保留产出。若另有证据支持的保留产出目标，补偿应除以保留率（1 − 损耗比例），而非乘以（1 + 损耗）。例如假设损耗20%，保留100单位需要投入125而非120。不要将未经审核的回收率假设输入本工具。')}</p>
+ <p>{t('Synthetic arithmetic example only, not a supplier specification, price or dose: 40% as-supplied marker, 50 mg/bottle theoretical input, 1,000 bottles, MOQ 5 kg, packs 1 kg, price 100 currency units/kg. Need 0.125 kg; order 5 packs / 5 kg; leftover 4.875 kg; consumption 12.5 currency units (0.0125/bottle); order cash 500 (0.5/planned bottle).','仅为算术假设示例，不是供应商规格、报价或剂量：原样标志成分40%、理论投入50 mg/瓶、1000瓶、MOQ 5 kg、包装1 kg、单价100货币单位/kg。所需0.125 kg；采购5包／5 kg；剩余4.875 kg；耗用成本12.5货币单位（0.0125/瓶）；订单现金支出500（0.5/计划瓶）。')}</p>
+ </details>
+ <p><a href={`${prefix}/plant-extracts/standards/dry-basis-vs-as-received-assay`}>{t('Assay basis guide','检测基准指南')}</a> · <a href={`${prefix}/plant-extracts/basics/carriers-and-native-extract-content`}>{t('Carriers and native extract','载体与原生提取物')}</a> · <a href={`${prefix}/products/green-tea#quote`}>{t('Request a formal quote (no inputs transferred)','索取正式报价（不传递输入）')}</a></p>
+</section>
+<style>
+ .tea-cost {margin:3rem 0;padding:clamp(1rem,3vw,2rem);border:1px solid #bacbbd;border-radius:1rem;background:#f7faf6;color:#203d2b;font-size:1rem;line-height:1.65;overflow-wrap:anywhere;scroll-margin-top:100px}
+ .tea-cost h2 {font-size:1.6rem;font-weight:700;margin:0 0 1rem}.tea-cost p {margin:1rem 0}.tea-cost a {text-decoration:underline}
+ fieldset {min-width:0;border:1px solid #bdcbbf;padding:1rem;margin:1rem 0;border-radius:.5rem}legend {font-weight:700;padding:0 .3rem}.input-grid {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
+ label {display:block;font-weight:600;margin:.6rem 0 .3rem}input:not([type=checkbox]),select {display:block;width:100%;min-width:0;border:1px solid #69806f;border-radius:.3rem;padding:.6rem;background:white;color:#182c20;font:inherit}
+ .check {display:flex;align-items:flex-start;gap:.6rem;font-weight:400}.check input {margin-top:.4rem;flex-shrink:0;width:1.1rem;height:1.1rem}
+ button {padding:.6rem 1rem;border:1px solid #28543a;border-radius:.4rem;margin:.5rem .5rem .5rem 0;background:#28543a;color:white;font-weight:600;min-height:44px}button:disabled {opacity:.5}summary {cursor:pointer;font-weight:600;padding:.6rem 0}
+ :focus-visible {outline:3px solid #a46a08;outline-offset:3px}[hidden] {display:none!important}
+ .tea-cost :global(.result-card) {padding:1rem;margin:1rem 0;background:white;border:1px solid #bdcbbf;border-radius:.5rem}.tea-cost :global(h3) {font-size:1.2rem;font-weight:700;margin:0 0 .5rem}.tea-cost :global(dt) {font-weight:600}.tea-cost :global(dd) {margin:0 0 .75rem}.tea-cost :global(.exact-mass) {font-family:monospace;font-size:.85rem;word-break:break-all}
+ @media(max-width:600px){.input-grid {grid-template-columns:1fr}fieldset {padding:.75rem}}
+</style>
+
+<script>
+ import '../../lib/tea-cost-client.mjs';
+</script>
