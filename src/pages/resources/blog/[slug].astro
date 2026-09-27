@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import TeaCostCalculator from '../../../components/resources/TeaCostCalculator.astro';
 import TeaHazeReader from '../../../components/resources/TeaHazeReader.astro';
 import CentellaStabilityReader from '../../../components/resources/CentellaStabilityReader.astro';
 import { guideCategories } from '../../../data/resource-guides';
@@ -118,6 +119,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
 
       {(isSchisandra || isOatApple || isOlivePectin || isBeetroot || isBotanicalComparison) && <nav aria-label="Article language" class="mb-8"><a class="text-primary underline" href={'/zh/resources/blog/' + post.slug.replace('en/', '')} lang="zh-CN">阅读中文版</a></nav>}
 
+      {post.slug.endsWith('/green-tea-energy-beverage-2026') && <TeaCostCalculator lang={lang} />}
       <!-- Main Content -->
       <div class="prose prose-lg max-w-none prose-headings:font-display prose-headings:text-gray-900 prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-table:text-sm">
         {isTeaHaze ? <TeaHazeReader lang={lang} headings={headings}><Content /></TeaHazeReader> : isCentellaStability ? <CentellaStabilityReader lang={lang} headings={headings}><Content /></CentellaStabilityReader> : <Content />}
