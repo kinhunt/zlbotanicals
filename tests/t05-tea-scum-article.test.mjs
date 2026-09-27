@@ -101,6 +101,6 @@ test('T05 built pages exist, carry exactly one H1 and keep both internal links',
 
 test('T05 baseline counts reflect the two new bilingual pages', () => {
   const count = lang => readdirSync(`${base}${lang}`).filter(f => f.endsWith('.md')).length;
-  assert.equal(count('en'), 38, 'en blog article count including T05');
-  assert.equal(count('zh'), 38, 'zh blog article count including T05');
+  assert.equal(count('en'), 39, 'en blog article count including T05');
+  assert.equal(count('zh'), 39, 'zh blog article count including T05');
 });
