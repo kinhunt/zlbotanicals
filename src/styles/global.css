@@ -56,5 +56,32 @@
   .section-padding {
     @apply py-16 md:py-24 lg:py-32;
   }
+
+  /* Markdown article tables wider than the viewport scroll inside a focusable
+     region; article markdown cannot carry page-scoped styles, so the region is
+     styled here. Only pages whose markdown uses .md-table-scroll are affected. */
+  /* T05 source paragraphs: native hash navigation must clear the fixed header. */
+  [id^="tea-scum-ref-"] {
+    scroll-margin-top: 100px;
+  }
+
+  .md-table-scroll {
+    max-width: 100%;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    margin: 1rem 0;
+    border: 1px solid #cad8ce;
+    border-radius: 8px;
+  }
+
+  .md-table-scroll:focus-visible {
+    outline: 3px solid #1b4d3e;
+    outline-offset: 3px;
+  }
+
+  .md-table-hint {
+    font-size: 0.85rem;
+    color: #53644e;
+  }
 }
 
