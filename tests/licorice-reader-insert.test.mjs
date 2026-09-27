@@ -197,8 +197,13 @@ test('sources 1-10 are untouched and the four new sources follow the existing sc
 test('no other productId pack changed',()=>{
  assert.equal(packs.length,11);
  for(const [id,expected] of Object.entries(OTHER_PACK_SHA)){
-  const pack=packs.find(p=>p.productId===id);
+  const pack=structuredClone(packs.find(p=>p.productId===id));
   assert.ok(pack,`missing pack ${id}`);
+  // I06 has its own exact-prose/addition-only regression; retain this old baseline.
+  if(id==='centella-asiatica'){
+   pack.sources=pack.sources.filter(s=>s.id!==15);
+   for(const lang of ['en','zh']) pack.content[lang].find(s=>s.id==='effects').blocks.splice(1,2);
+  }
   assert.equal(sha(pack),expected,`${id} pack changed`);
  }
 });
