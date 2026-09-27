@@ -1,0 +1,50 @@
+{
+  "input_files_unchanged": true,
+  "exact_replacement_replay": true,
+  "jats_table1_recalculation": [
+    {
+      "group": "0 (control)",
+      "total": 300.0,
+      "powder_total": 75.0,
+      "carob_percent_total": 0.0
+    },
+    {
+      "group": "10",
+      "total": 300.0,
+      "powder_total": 75.0,
+      "carob_percent_total": 2.5
+    },
+    {
+      "group": "30",
+      "total": 300.0,
+      "powder_total": 75.0,
+      "carob_percent_total": 7.5
+    },
+    {
+      "group": "50",
+      "total": 300.0,
+      "powder_total": 75.0,
+      "carob_percent_total": 12.5
+    },
+    {
+      "group": "70",
+      "total": 300.0,
+      "powder_total": 75.0,
+      "carob_percent_total": 17.5
+    }
+  ],
+  "citation_checks": {
+    "en": {
+      "exit_code": 0,
+      "message": "citations OK"
+    },
+    "zh": {
+      "exit_code": 0,
+      "message": "citations OK",
+      "warning": "Chinese sentence coverage metric not meaningful"
+    }
+  },
+  "article_content_verdict": "READY_FOR_INTEGRATION",
+  "web_visual_verdict": "NOT_TESTED",
+  "publication": "NOT_PERFORMED"
+}

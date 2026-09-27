@@ -1,0 +1,146 @@
+[
+  {
+    "path": "sources/cake-tables.json",
+    "sha256": "1f3525fdac630a57ba4e88198a638cc2ed6b1f67add14e6e4a1e7f260a37870c",
+    "bytes": 29334,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-carob/sources/cake-tables.json"
+  },
+  {
+    "path": "sources/cake.txt",
+    "sha256": "f8583496d1332325b68317df8fa8d4b23c4bb6e31672fe890c221ba24569688a",
+    "bytes": 48670,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-carob/sources/cake.txt"
+  },
+  {
+    "path": "sources/cake.xml",
+    "sha256": "e3b5390af4c8cd0b72223024b1caacb5733e46c6371804d819aa88f70c2751d4",
+    "bytes": 211103,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-carob/sources/cake.xml"
+  },
+  {
+    "path": "sources/commerce.html",
+    "sha256": "4c70024b3a593cf7a72c40e55a7b21524c649b8df2ac992d5c144538fb1de6d8",
+    "bytes": 112476,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-carob/sources/commerce.html"
+  },
+  {
+    "path": "sources/commerce.txt",
+    "sha256": "e3e0ba3956b48f8c76c2beeffd6ea53ac673bfaa2b688508cd3f12d122ec5bf1",
+    "bytes": 5334,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-carob/sources/commerce.txt"
+  },
+  {
+    "path": "sources/dark-result.json",
+    "sha256": "a7b5f27e782ae68738fa448031ca6105eef967ee42b3e662a2011ecc0c8d11fc",
+    "bytes": 6202,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-commerce/dark-result.json"
+  },
+  {
+    "path": "sources/dark.txt",
+    "sha256": "73696d999fa53fdee76e7354eb3ed67588dd356344bc24190eea309a70ae8ab7",
+    "bytes": 1711,
+    "origin": "derived exact product text from captured JSON"
+  },
+  {
+    "path": "sources/efsa-tables.json",
+    "sha256": "5c54bdf6c415b0487ee762fb09aa6533cc470c5abcc380fda71bae245885cb28",
+    "bytes": 96138,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-carob/sources/efsa-tables.json"
+  },
+  {
+    "path": "sources/efsa.txt",
+    "sha256": "ed5bd51ea2b46388df12a645bd697d90d97d65ec97bbe36328d7ecf2ccc83db4",
+    "bytes": 205770,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-carob/sources/efsa.txt"
+  },
+  {
+    "path": "sources/efsa.xml",
+    "sha256": "07de543576a88d2b9b11bceef5ebbf3de971672f787fdbefa4d0311c17b41954",
+    "bytes": 533881,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-carob/sources/efsa.xml"
+  },
+  {
+    "path": "sources/gum.html",
+    "sha256": "ca82874367b032868bab6fc42bc55a4c14c0595673965f081af65c136c53e05b",
+    "bytes": 113237,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-carob/sources/gum.html"
+  },
+  {
+    "path": "sources/gum.txt",
+    "sha256": "01a253a15f645dfc8935cc6c529a3ed3cd58a16c2cda43a5e170a129155ecd11",
+    "bytes": 5071,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-carob/sources/gum.txt"
+  },
+  {
+    "path": "sources/medium-result.json",
+    "sha256": "9d8722153b7e1d79dc21ac2210bc1a68d063624aebae9ccd098f2e8ad48da4ee",
+    "bytes": 6500,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-commerce/medium-result.json"
+  },
+  {
+    "path": "sources/medium.txt",
+    "sha256": "ee352782d0855f59fdfea7872b5494b9f9359abcff8cfd3469fa4169a95cd171",
+    "bytes": 1722,
+    "origin": "derived exact product text from captured JSON"
+  },
+  {
+    "path": "sources/muffin-tables.json",
+    "sha256": "e32dfe2275be7e3417afc2b0b13e2c64376a1d102c1a957d0641634ca6dde51b",
+    "bytes": 3216,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-carob/sources/muffin-tables.json"
+  },
+  {
+    "path": "sources/muffin.txt",
+    "sha256": "f38ff47dd7286754e096d35c4a46f9e2aab88c79f0b54b5ea7b53ea3c59e0246",
+    "bytes": 33188,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-carob/sources/muffin.txt"
+  },
+  {
+    "path": "sources/muffin.xml",
+    "sha256": "f9f72cde24b7b04b17de17bf90a25adc4671276df9e8681e6e27d0a1217feb95",
+    "bytes": 78147,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-carob/sources/muffin.xml"
+  },
+  {
+    "path": "sources/raw-result.json",
+    "sha256": "54c7574a7f59e786c660c1ae302c977054b8e458f1c0c41eafc85cc7558168e6",
+    "bytes": 2508,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-commerce/raw-result.json"
+  },
+  {
+    "path": "sources/raw.txt",
+    "sha256": "15ba076118db2194e45ea87457a98ddf69d2c8dc55f84bcaed901ce8b1e8cf12",
+    "bytes": 113,
+    "origin": "derived exact product text from captured JSON"
+  },
+  {
+    "path": "sources/search-result.json",
+    "sha256": "b062ce66688338500d11113ea94fc0628c2bdc3fdc770708d3642e0c1fd5de97",
+    "bytes": 5612,
+    "origin": "/data/hermes/research/seo-growth/2026-09-27-late-commerce/search-result.json"
+  },
+  {
+    "path": "figures/11130_2018_675_Fig1_HTML.jpg",
+    "sha256": "1553c6d5a7e48bf6163a771e76709351b95bf60d2d6d1aaeab6ba5efe7c6fc70",
+    "bytes": 63165,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6096888/supplementaryFiles",
+    "member": "11130_2018_675_Fig1_HTML.jpg",
+    "inspection": "viewed via vision_analyze; letters/directions only"
+  },
+  {
+    "path": "figures/11130_2018_675_Fig2_HTML.jpg",
+    "sha256": "fa3d2b2514a5f5ba872bc33cde7796eb04b75c71a3f57c20726593e60ea99951",
+    "bytes": 27573,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6096888/supplementaryFiles",
+    "member": "11130_2018_675_Fig2_HTML.jpg",
+    "inspection": "viewed via vision_analyze; letters/directions only"
+  },
+  {
+    "path": "figures/foods-09-01586-g001.jpg",
+    "sha256": "a28c761e45732f2c93bb89bb187e6e2d8e99b3a106ee527a5a67a461414b88b0",
+    "bytes": 183125,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7692711/supplementaryFiles",
+    "member": "foods-09-01586-g001.jpg",
+    "inspection": "viewed via vision_analyze; letters/directions only"
+  }
+]

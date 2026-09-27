@@ -1,0 +1,137 @@
+{
+  "ok": true,
+  "command": "execution.wait",
+  "browser": {
+    "id": "c0c44c26-eca6-4638-86fd-ade14ff3aa03",
+    "name": null
+  },
+  "result": {
+    "id": "exec_134249b29d774e7e",
+    "extensionId": "c0c44c26-eca6-4638-86fd-ade14ff3aa03",
+    "extensionKey": "[REDACTED]",
+    "status": "completed",
+    "currentStep": "Done",
+    "platform": "amazon",
+    "action": "search",
+    "result": {
+      "blocked": false,
+      "count": 8,
+      "items": [
+        {
+          "asin": "B085G6NLLX",
+          "availability": "1 Pound (Pack of 1)",
+          "image": "https://m.media-amazon.com/images/I/81tXLgigs4L._AC_UL320_.jpg",
+          "page": 1,
+          "price": "$14.19",
+          "rank": 1,
+          "rating": "4.7",
+          "reviewCount": "2,804 ratings",
+          "sponsored": false,
+          "title": "Anthony's Organic Carob Powder, 1 lb, Gluten Free, Non GMO, Cocoa Powder Alternative, Unsweetened",
+          "url": "https://www.amazon.com/Anthonys-Organic-Powder-Alternative-Unsweetened/dp/B085G6NLLX"
+        },
+        {
+          "asin": "B07JX6YCKR",
+          "availability": "16 Ounce (Pack of 1)",
+          "image": "https://m.media-amazon.com/images/I/71c+SnY6bjL._AC_UL320_.jpg",
+          "page": 1,
+          "price": "$12.99",
+          "rank": 2,
+          "rating": "4.5",
+          "reviewCount": "811 ratings",
+          "sponsored": false,
+          "title": "Worldwide Botanicals Organic Carob Powder, Medium Roast – 1 lb – Caffeine Free Cocoa Alternative – Low Fat Super Food with Natural Sweetness– Gluten Free, Kosher, 16 ounces",
+          "url": "https://www.amazon.com/Worldwide-Botanicals-Delicious-Chocolate-Alternative/dp/B07JX6YCKR"
+        },
+        {
+          "asin": "B06XL18QVV",
+          "availability": "Chocolate1 Pound (Pack of 1)",
+          "image": "https://m.media-amazon.com/images/I/512tH2ADvkL._AC_UL320_.jpg",
+          "page": 1,
+          "price": "$14.99",
+          "rank": 3,
+          "rating": "4.6",
+          "reviewCount": "3,238 ratings",
+          "sponsored": false,
+          "title": "Terrasoul Superfoods Organic Carob Powder, 1 Lb - Cocoa Powder Alternative | High in Fiber",
+          "url": "https://www.amazon.com/Terrasoul-Superfoods-Organic-Carob-Powder/dp/B06XL18QVV"
+        },
+        {
+          "asin": "B06WVL24D1",
+          "availability": "Chocolate1 Pound (Pack of 2)",
+          "image": "https://m.media-amazon.com/images/I/51aqRZ268jL._AC_UL320_.jpg",
+          "page": 1,
+          "price": "$23.99",
+          "rank": 4,
+          "rating": "4.6",
+          "reviewCount": "3,238 ratings",
+          "sponsored": false,
+          "title": "Terrasoul Superfoods Organic Carob Powder, 2 Lbs (2 Pack) - Cocoa Powder Alternative | High in Fiber",
+          "url": "https://www.amazon.com/Terrasoul-Superfoods-Organic-Powder-Pounds/dp/B06WVL24D1"
+        },
+        {
+          "asin": "B06WGZRT1B",
+          "availability": "16 Ounce (Pack of 4)",
+          "image": "https://m.media-amazon.com/images/I/61PoHfZorRL._AC_UL320_.jpg",
+          "page": 1,
+          "price": "$35.99",
+          "rank": 5,
+          "rating": "4.6",
+          "reviewCount": "441 ratings",
+          "sponsored": false,
+          "title": "Terrasoul Superfoods Organic Carob Powder, 4 Lbs (4 Pack) - Cocoa Powder Alternative | High in Fiber",
+          "url": "https://www.amazon.com/Terrasoul-Superfoods-Organic-Powder-Pounds/dp/B06WGZRT1B"
+        },
+        {
+          "asin": "B08V532LV9",
+          "availability": "300 Ounce (Pack of 1)",
+          "image": "https://m.media-amazon.com/images/I/7121f8qDexL._AC_UL320_.jpg",
+          "page": 1,
+          "price": "$9.99",
+          "rank": 6,
+          "rating": "4.4",
+          "reviewCount": "",
+          "sponsored": false,
+          "title": "Creta Carob Organic Carob Powder, 10.6 oz – Cocoa & Chocolate Substitute from Crete, Greece | Caffeine-Free, Gluten-Free, Dairy-Free | No Additives | 100% Pure Carob for Baking & Smoothies",
+          "url": "https://www.amazon.com/Creta-Carob-Organic-Powder-10-6/dp/B08V532LV9"
+        },
+        {
+          "asin": "B0F67QBGL3",
+          "availability": "Pack of 1",
+          "image": "https://m.media-amazon.com/images/I/51CbsB7r26L._AC_UL320_.jpg",
+          "page": 1,
+          "price": "$14.99",
+          "rank": 7,
+          "rating": "4.5",
+          "reviewCount": "64 ratings",
+          "sponsored": false,
+          "title": "Worldwide Botanicals Organic Carob Powder, Dark Roast – 1 lb – Caffeine Free Cocoa Alternative – Low Fat Super Food with Natural Sweetness– Gluten Free, Kosher, 16 ounces",
+          "url": "https://www.amazon.com/Worldwide-Botanicals-Organic-Carob-Powder/dp/B0F67QBGL3"
+        },
+        {
+          "asin": "B01D2975KS",
+          "availability": "by The Australian Carob Co.",
+          "image": "https://m.media-amazon.com/images/I/81xZ-O3JUIL._AC_UL320_.jpg",
+          "page": 1,
+          "price": "$14.76",
+          "rank": 8,
+          "rating": "4.3",
+          "reviewCount": "550 ratings",
+          "sponsored": false,
+          "title": "AUSTRALIAN RAW ORGANIC CAROB POWDER",
+          "url": "https://www.amazon.com/AUSTRALIAN-RAW-ORGANIC-CAROB-POWDER/dp/B01D2975KS"
+        }
+      ],
+      "marketplace": "https://www.amazon.com",
+      "noResults": false,
+      "page": 1,
+      "query": "carob powder",
+      "success": true,
+      "title": "Amazon.com : carob powder",
+      "url": "https://www.amazon.com/s?k=carob+powder"
+    },
+    "error": null,
+    "startedAt": "2026-09-27 21:24:27",
+    "completedAt": "2026-09-27 21:24:38"
+  }
+}

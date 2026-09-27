@@ -1,0 +1,164 @@
+[
+  {
+    "language": "zh",
+    "old": "## 三个真实商品，提出的是不同选样问题",
+    "new": "## 中焙、深焙与Raw：三款商品的定位差异",
+    "reason": "标题去内部选题口吻"
+  },
+  {
+    "language": "en",
+    "old": "## Three real listings, different sampling questions",
+    "new": "## Medium roast, dark roast and Raw: three product positions",
+    "reason": "reader-facing heading"
+  },
+  {
+    "language": "zh",
+    "old": "2026年9月27日，我们查看了Amazon美国站“carob powder”搜索返回的8条商品记录，并进一步查看其中三款商品详情。下表比较的是这些页面的定位，不是实物盲测。[9]\n\n",
+    "new": "",
+    "reason": "删除开篇工作日志；采样范围移至文末方法注"
+  },
+  {
+    "language": "en",
+    "old": "On 27 September 2026, we examined eight records returned by an Amazon US search for “carob powder” and followed up on three product pages. The comparison below concerns their positioning, not a blind tasting.[9]\n\n",
+    "new": "",
+    "reason": "remove retrieval diary; scope retained in endnote"
+  },
+  {
+    "language": "zh",
+    "old": "中焙对应普通可可、牛奶巧克力风味的配方，深焙对应深色可可、黑巧克力风味的配方",
+    "new": "[中焙](https://www.amazon.com/dp/B07JX6YCKR)对应普通可可、牛奶巧克力风味的配方，[深焙](https://www.amazon.com/dp/B0F67QBGL3)对应深色可可、黑巧克力风味的配方",
+    "reason": "商品上下文直链"
+  },
+  {
+    "language": "en",
+    "old": "the medium roast is positioned for regular cocoa and milk-chocolate-style recipes, while the dark roast is positioned for dark cocoa and dark-chocolate-style recipes",
+    "new": "the [medium roast](https://www.amazon.com/dp/B07JX6YCKR) is positioned for regular cocoa and milk-chocolate-style recipes, while the [dark roast](https://www.amazon.com/dp/B0F67QBGL3) is positioned for dark cocoa and dark-chocolate-style recipes",
+    "reason": "contextual product links"
+  },
+  {
+    "language": "zh",
+    "old": "|Worldwide Botanicals中焙",
+    "new": "|[Worldwide Botanicals中焙](https://www.amazon.com/dp/B07JX6YCKR)",
+    "reason": "商品表上下文直链"
+  },
+  {
+    "language": "zh",
+    "old": "|Worldwide Botanicals深焙",
+    "new": "|[Worldwide Botanicals深焙](https://www.amazon.com/dp/B0F67QBGL3)",
+    "reason": "商品表上下文直链"
+  },
+  {
+    "language": "zh",
+    "old": "|The Australian Carob Co.",
+    "new": "|[The Australian Carob Co.](https://www.amazon.com/dp/B01D2975KS)",
+    "reason": "商品表上下文直链"
+  },
+  {
+    "language": "en",
+    "old": "|Worldwide Botanicals medium roast",
+    "new": "|[Worldwide Botanicals medium roast](https://www.amazon.com/dp/B07JX6YCKR)",
+    "reason": "商品表上下文直链"
+  },
+  {
+    "language": "en",
+    "old": "|Worldwide Botanicals dark roast",
+    "new": "|[Worldwide Botanicals dark roast](https://www.amazon.com/dp/B0F67QBGL3)",
+    "reason": "商品表上下文直链"
+  },
+  {
+    "language": "en",
+    "old": "|The Australian Carob Co.",
+    "new": "|[The Australian Carob Co.](https://www.amazon.com/dp/B01D2975KS)",
+    "reason": "商品表上下文直链"
+  },
+  {
+    "language": "zh",
+    "old": "此次详情未返回商品要点",
+    "new": "详情采样不含商品要点",
+    "reason": "保留数据缺口，不写工作日志"
+  },
+  {
+    "language": "en",
+    "old": "no product bullets were returned in this capture",
+    "new": "product bullets are absent from the detail sample",
+    "reason": "concise evidence limitation"
+  },
+  {
+    "language": "zh",
+    "old": "Raw款本次返回的资料还把商品类型列为",
+    "new": "Raw款的详情采样中，商品类型为",
+    "reason": "异常限定于原始采样，不诊断品牌或采集器"
+  },
+  {
+    "language": "zh",
+    "old": "图1图注把对照写成15%可可粉基",
+    "new": "图1图注把对照的可可用量写成粉体基准的15%",
+    "reason": "消除“可可粉基”生硬歧义"
+  },
+  {
+    "language": "zh",
+    "old": "豆味及被称为“unknown”的不熟悉味道更明显",
+    "new": "豆味及未明确命名的味道（原文“unknown”）更明显",
+    "reason": "unknown不擅译成评价员不熟悉"
+  },
+  {
+    "language": "zh",
+    "old": "CAROB S.A.的PALGUM系列",
+    "new": "CAROB S.A.的[PALGUM系列](https://carob.es/en/product)",
+    "reason": "已存来源的品牌/商品上下文外链；不新增来源"
+  },
+  {
+    "language": "en",
+    "old": "its PALGUM range",
+    "new": "its [PALGUM range](https://carob.es/en/product)",
+    "reason": "已存来源的品牌/商品上下文外链；不新增来源"
+  },
+  {
+    "language": "zh",
+    "old": "Nordmann介绍的Carob Ingredients果肉粉",
+    "new": "[Nordmann介绍的Carob Ingredients果肉粉](https://www.nordmann.global/en/news-events/news/exquisite-carob-products-from-morocco)",
+    "reason": "已存来源的品牌/商品上下文外链；不新增来源"
+  },
+  {
+    "language": "en",
+    "old": "Nordmann's introduction to Carob Ingredients",
+    "new": "[Nordmann's introduction to Carob Ingredients](https://www.nordmann.global/en/news-events/news/exquisite-carob-products-from-morocco)",
+    "reason": "已存来源的品牌/商品上下文外链；不新增来源"
+  },
+  {
+    "language": "zh",
+    "old": "Nordmann的VISCOGUM CGP",
+    "new": "Nordmann的[VISCOGUM CGP](https://www.nordmann.global/en/news-events/news/exquisite-carob-products-from-morocco)",
+    "reason": "已存来源的品牌/商品上下文外链；不新增来源"
+  },
+  {
+    "language": "en",
+    "old": "Nordmann's VISCOGUM CGP",
+    "new": "Nordmann's [VISCOGUM CGP](https://www.nordmann.global/en/news-events/news/exquisite-carob-products-from-morocco)",
+    "reason": "已存来源的品牌/商品上下文外链；不新增来源"
+  },
+  {
+    "language": "zh",
+    "old": "黏度测试协议",
+    "new": "黏度测试方法及条件",
+    "reason": "自然技术中文"
+  },
+  {
+    "language": "zh",
+    "old": "或另一个Raw候选",
+    "new": "或单独的Raw款候选样品",
+    "reason": "自然中文且保留跨品牌区分"
+  },
+  {
+    "language": "zh",
+    "old": "## Sources",
+    "new": "## 采样范围\n\n商品定位比较：Amazon.com“carob powder”搜索样本共8条记录，其中3款有详情采样（2026年9月27日）。下述品牌描述仅作选样参考，未进行实物盲测或同配方对照。[9]\n\n## Sources",
+    "reason": "文末紧凑方法注，保留真实样本与时间"
+  },
+  {
+    "language": "en",
+    "old": "## Sources",
+    "new": "## Sampling scope\n\nProduct-positioning comparison: eight Amazon.com search records for “carob powder,” including three detail-page samples (27 September 2026). Brand descriptions inform sample selection; no blind tasting or same-formula product comparison was performed.[9]\n\n## Sources",
+    "reason": "compact methods endnote"
+  }
+]
