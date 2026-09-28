@@ -1,0 +1,2118 @@
+{
+  "scope": "Independent semantic review plus immutable evidence binding. Original claim quotations retained separately; stale upstream no-label limitation is historical, superseded only by explicit vision records. No automated fact-pass from matching source IDs.",
+  "draft_hashes": {
+    "draft.en.md": "e1577776f33b8042e982159a7d9d584c1c1f8b2e8ad1d782b5c12a889f935139",
+    "draft.zh.md": "c7a2dcf5534bde94b153b3e5687c001a9101a2485d98eb2a82ea7341daf0d11b"
+  },
+  "source_semantic_verdicts": {
+    "1": "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict.",
+    "2": "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+    "3": "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured.",
+    "4": "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample.",
+    "5": "Original XML rowspans and Table4 cells reviewed: Alkali UT10.32 CH9.75 MH15.99, SE n=3; WSI 1:4/day not instant mixing.",
+    "6": "Historical PDF visually reviewed: name60/spec≥80/nutrition65 no unit; sieving before expression; not current spec.",
+    "8": "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis.",
+    "9": "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking.",
+    "10": "Original publisher HTML concentration/profile findings; grinding/cooling confounded and cell-media application only.",
+    "11": "Original nested search wrapper count8 with2 Sprout sizes; three selected detail ASINs not market share."
+  },
+  "label_cells": [
+    {
+      "asin": "B01N7CLYX7",
+      "brand": "Sprout Living",
+      "serving_g": "32.5",
+      "portion": "2 scoops",
+      "protein_g": "20",
+      "servings": "About 14",
+      "net_g": "454",
+      "ingredient": "Organic Pressed Pumpkin Seed Powder",
+      "image_indices": [
+        0,
+        5,
+        7
+      ]
+    },
+    {
+      "asin": "B0CWVTCT7G",
+      "brand": "Anthony’s",
+      "serving_g": "8",
+      "portion": "1 Tbsp",
+      "protein_g": "5",
+      "servings": "56",
+      "structured_servings": "30",
+      "net_g": "454",
+      "ingredient": "Organic Toasted Pumpkin Seeds",
+      "image_indices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asin": "B0FWJGBPWM",
+      "brand": "Micro Ingredients",
+      "serving_g": "30 approx.",
+      "portion": "2 scoops",
+      "protein_g": "18",
+      "servings": "30",
+      "net_g": "907",
+      "ingredient": "Organic Pumpkin Seed Protein Powder",
+      "image_indices": [
+        0,
+        1
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "en-001",
+      "language": "en",
+      "text": "# Pumpkin seed protein powder: what cold-pressed, finely milled and easy to mix actually tell you",
+      "sha256": "4ad798d59e73f51e8b7ab3661299a679edf0beaa9d1286f0b746713d44577222",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-002",
+      "language": "en",
+      "text": "A pumpkin protein powder can be sold as a daily protein serving, a simple kitchen ingredient or a smooth addition to coffee and oatmeal. Those are different reasons to buy, even when the product names look almost identical. Our three Amazon detail-page examples illustrate all three approaches: Sprout Living emphasizes cold pressing and protein per serving; Anthony’s emphasizes uncomplicated kitchen use; Micro Ingredients connects fine milling with everyday versatility.[1][2][3]",
+      "sha256": "b9f9cf2d21af73aa498ec5760ef74bbb829900f3bbcd210907e141f2d033dd71",
+      "sources": [
+        1,
+        2,
+        3
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict.",
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source",
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "en-003",
+      "language": "en",
+      "text": "For a product developer, the useful question is not which phrase sounds most advanced. It is which promise the finished product needs to deliver. A powder that works in a blender smoothie has not thereby demonstrated rapid dispersion in a shaker or stability in a bottled drink. Pressing, milling and protein isolation describe different operations, while a mixing instruction describes use rather than a measured material property.[4][8]",
+      "sha256": "3e52062765f9e816b0c224e8bdb0b8f69fd3659f3bf3511c798b1f8f3661890a",
+      "sources": [
+        4,
+        8
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample.",
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003",
+        "S8",
+        "S8-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-004",
+      "language": "en",
+      "text": "## Three listings, three ways of making the same category useful",
+      "sha256": "f05929ff5829d77806bb7253161f64cb8fef984f8cd28b203aa60ab03547203a",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-005",
+      "language": "en",
+      "text": "The original Amazon.com search returned eight rows. Two were different sizes of Sprout Living pumpkin protein, so eight rows should not be read as eight independent brands. Three distinct-brand detail pages were then examined; this is a small positioning sample, not a sales ranking.[11]",
+      "sha256": "99d9810a9f9a2b7a80d434233b9a9f33e6ca4de93348b361e6b9ea3fcfd83cb3",
+      "sources": [
+        11
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original nested search wrapper count8 with2 Sprout sizes; three selected detail ASINs not market share."
+      ],
+      "evidence_claim_ids": [
+        "R11"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-006",
+      "language": "en",
+      "text": "| Detail-page example | What the captured listing emphasizes | What a developer can learn from it |\n|---|---|---|\n| [Sprout Living, B01N7CLYX7](https://www.amazon.com/dp/B01N7CLYX7) | Cold-pressed pumpkin seeds; 20 grams of protein per serving; unflavored powder | Processing provenance and a recognizable protein-serving proposition lead the offer.[1] |\n| [Anthony’s, B0CWVTCT7G](https://www.amazon.com/dp/B0CWVTCT7G) | No added sweeteners or fillers; smoothies, baked goods, water or milk | The powder is positioned as an ingredient the buyer can fit into an existing recipe or routine.[2] |\n| [Micro Ingredients, B0FWJGBPWM](https://www.amazon.com/dp/B0FWJGBPWM) | Single-ingredient and raw wording; finely milled powder; 18 grams of protein per serving; smoothies, baking, oatmeal and coffee | Texture language and a wider set of everyday uses carry the proposition.[3] |",
+      "sha256": "b5d76f7c166d7812c90d20ec78d07829705cfb4ed4d9559fd4e7a4ab8d20ddfc",
+      "sources": [
+        1,
+        2,
+        3
+      ],
+      "verdict": "accepted display cells; adjacent caption source binding",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict.",
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source",
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "en-007",
+      "language": "en",
+      "text": "The distinction matters commercially. Sprout Living gives the buyer a protein-serving anchor. Anthony’s lets the buyer supply the flavor and choose the carrier. Micro Ingredients makes the powder sound usable beyond a conventional shake. These are interpretations of the captured copy, not evidence that the three products come from different industrial process routes.[1][2][3]",
+      "sha256": "086b932fa9affb5fe14693179fa931f58f557e8e6263ad2cb2ddc858e53c5077",
+      "sources": [
+        1,
+        2,
+        3
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict.",
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source",
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "en-008",
+      "language": "en",
+      "text": "### The labels reveal different serving conventions",
+      "sha256": "a578a3a5be2099a03641d9cb316baee944b5d683827d5e492a48db1c9a5ce37f",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-009",
+      "language": "en",
+      "text": "The exact-ASIN galleries add a practical distinction that the headline protein numbers hide: Anthony’s uses a tablespoon-sized portion, while Sprout Living and Micro Ingredients use two-scoop servings.[1][2][3]",
+      "sha256": "8f9208c33d53eb9f6fe99bf57cd2f84ad8340874f379ede96605787f9a71b987",
+      "sources": [
+        1,
+        2,
+        3
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict.",
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source",
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "en-010",
+      "language": "en",
+      "text": "| Seller-label field | Sprout Living | Anthony’s | Micro Ingredients |\n|---|---|---|---|\n| Front net weight | 1 lb (454 g) | 1 lb (454 g) | 2 lb (907 g) |\n| Serving size | 2 scoops (32.5 g) | 1 Tbsp (8 g) | 2 scoops (30 g approx.) |\n| Protein per labeled serving | 20 g | 5 g | 18 g |\n| Servings on nutrition panel | About 14 | 56 | 30 |\n| Listed ingredient | Organic Pressed Pumpkin Seed Powder | Organic Toasted Pumpkin Seeds | Organic Pumpkin Seed Protein Powder |",
+      "sha256": "a7b31566b6750995c8814855ecafc979baab209ff5239effa641a3c1387d8024",
+      "sources": [
+        1,
+        2,
+        3
+      ],
+      "verdict": "accepted display cells; adjacent caption source binding",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict.",
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source",
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "en-011",
+      "language": "en",
+      "text": "Label values from the three selected Amazon galleries; portion sizes differ. Anthony’s original structured listing field says 30 servings, whereas both its back-pouch image and nutrition closeup say 56. The table preserves the label reading rather than reconciling the discrepancy.[1][2][3]",
+      "sha256": "5f38b8d759aced5fdf3b582236b13a5abafd3bbbc859580255e40ead60184d32",
+      "sources": [
+        1,
+        2,
+        3
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict.",
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source",
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "en-012",
+      "language": "en",
+      "text": "**Sprout Living: a protein serving with a simple-ingredient story.** Its 20 g protein declaration belongs to a 32.5 g serving. The front says “One Ingredient” and “Single-Source Protein Powder,” and the ingredient artwork lists organic pressed pumpkin seed powder. That conflicts with the original listing’s structured “Protein Source: Blend” field. The gallery therefore strengthens the evidence for the seller’s single-ingredient positioning; it does not establish the physical composition of a purchased batch. The ingredient line says “Pressed,” while the listing bullets supply the more specific cold-pressed claim.[1]",
+      "sha256": "3fb6ce687d069cc19a9401a8d838861ee46d584cbd0a40fb86fa36b7215020d4",
+      "sources": [
+        1
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg"
+      ]
+    },
+    {
+      "id": "en-013",
+      "language": "en",
+      "text": "**Anthony’s: a small recipe addition with a documented processing description.** The 5 g protein figure belongs to an 8 g tablespoon, not to the larger portions used by the other two brands. Its back pouch describes toasting the seeds, pressing out oil and finely milling the remaining pulp. The front also says “COLD-PRESSED.” Toasting and pressing describe different stages, so their coexistence is not automatically a contradiction; it does mean that cold-pressed should not be read as proof of an entirely unheated product. The actual discrepancy is the serving count: 30 in the original structured field versus 56 in the gallery. Neither a variant change nor a reformulation is established.[2]",
+      "sha256": "3c231c8fad8ff6a0dca414c44cf686c4ec70c1603d54b04632305a744c829f73",
+      "sources": [
+        2
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting."
+      ],
+      "evidence_claim_ids": [
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg"
+      ]
+    },
+    {
+      "id": "en-014",
+      "language": "en",
+      "text": "**Micro Ingredients: a larger pouch for varied daily uses.** Its 2 lb (907 g) front states 18 g protein per serving; the back specifies two scoops, approximately 30 g. The directions separately call for “2 rounded scoops” in smoothies, desserts, juice, oatmeal or yogurt. Alongside the original listing’s coffee and baking suggestions, this creates an everyday-ingredient proposition rather than a sports-only one. Fine-milled and raw remain seller descriptions, not measurements of particle size or processing temperature.[3]",
+      "sha256": "4b5d83054b4b986d57a05b936ad41bc961e92b72a1892e29036b036d2e207b35",
+      "sources": [
+        3
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "en-015",
+      "language": "en",
+      "text": "The label comparison explains portion conventions, not a purity hierarchy. Comparing 5 g, 18 g and 20 g without their serving masses would obscure the central difference. Converting rounded declarations into purported batch protein percentages would add precision the evidence does not supply.",
+      "sha256": "333e3f992cb07d9f713fbe0e2625548d579108907848b5dade69f88b63c088e2",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-016",
+      "language": "en",
+      "text": "For a new product, the opportunity suggested by these examples is to make one use occasion convincing rather than attach every possible use to the same powder. A kitchen ingredient can invite blending and baking without promising instant dissolution. A shake mix needs an explicit preparation method. A coffee addition creates a different sensory expectation again. The sample identifies those possible briefs; it does not tell us which would sell best.",
+      "sha256": "b3c83da41c70ef1b7c02454f14a73710b6e0dc7f6ee1793da80ddbe2772f5aa0",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-017",
+      "language": "en",
+      "text": "## Pressing removes oil; milling makes powder; isolation separates protein",
+      "sha256": "5ce14e8863896af784467bc974c69abbfca1cc53029691ca3c04c6886a1a88e7",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-018",
+      "language": "en",
+      "text": "A supplier’s process description helps explain why “pumpkin protein” need not mean a purified protein isolate. Austrade describes its unroasted concentrate as mechanically partially defatted pumpkin seed material followed by pulverizing. Its roasted grade adds light salting and roasting before mechanical partial defatting, then further processing and milling.[8][9]",
+      "sha256": "8c5af4ef1a719896da516247869f9d966a99364dcb029e9acd9f77ce7271ddfc",
+      "sources": [
+        8,
+        9
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis.",
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "S8",
+        "S8-limits",
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-019",
+      "language": "en",
+      "text": "These descriptions distinguish three jobs:",
+      "sha256": "1710181b53d64d1ddd545a41cb3092c4829696154929c2cc5071d9115ff89939",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-020",
+      "language": "en",
+      "text": "- **Pressing or mechanical partial defatting** changes the seed material by removing part of its oil.\n- **Milling or pulverizing** turns the remaining material into smaller particles. It does not by itself establish how much protein will dissolve.\n- **Protein extraction and isolation** can involve dissolving protein under selected conditions, separating solids, precipitating the protein and drying the recovered fraction. The laboratory route discussed below includes those steps after the press cake has already been milled and further de-oiled.[4][8][9]",
+      "sha256": "86cf469c3dff522073fc345c47181c6467efe1d7671e391e28954da243850ee0",
+      "sources": [
+        4,
+        8,
+        9
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample.",
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis.",
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003",
+        "S8",
+        "S8-limits",
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-021",
+      "language": "en",
+      "text": "The point is not that every supplier must follow that laboratory route. It is that a retail claim about cold pressing cannot be substituted for evidence about protein isolation, and “finely milled” is not a particle-size distribution or a solubility result.",
+      "sha256": "11abedc3ca960d1b229cead63a672b94162d55a65278f25b4b3bc60f522de7db",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-022",
+      "language": "en",
+      "text": "### A real supplier comparison: roasted and unroasted do not share an identical specification",
+      "sha256": "371ba99df8720c263a980f58bc849601f8ebd6a4a2f09ba5bc6edc29dc66247b",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-023",
+      "language": "en",
+      "text": "Austrade’s [unroasted](https://austradeinc.com/product/organic-unroasted-pumpkin-protein-concentrate-60) and [roasted](https://austradeinc.com/product/organic-roasted-pumpkin-protein-concentrate-60) product pages make the distinction concrete.[8][9]",
+      "sha256": "bd619d40eda3ab253c40615a29993331f9fc5e12c33b0ddbb8676507e246bdbf",
+      "sources": [
+        8,
+        9
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis.",
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "S8",
+        "S8-limits",
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-024",
+      "language": "en",
+      "text": "| Supplier-declared field | Organic Unroasted Pumpkin Protein Concentrate 60 | Organic Roasted Pumpkin Protein Concentrate 60 |\n|---|---|---|\n| Named seed material | Shine skin pumpkin, *Cucurbita moschata* | Austrian Styrian pumpkin, *Cucurbita pepo* var. *styriaca* |\n| Protein | ≥60% | ≥57% |\n| Moisture | ≤10% | ≤8% |\n| Fat | ≤10% | ≤17% |\n| Described sensory direction | Mild flavor | Distinctive roasted, nutty flavor; olive-green to brown powder |",
+      "sha256": "dc1301f9ed651559df063cb84092d0a9ac5ca3f23cf5eacfa976b6544900cb3a",
+      "sources": [
+        8,
+        9
+      ],
+      "verdict": "accepted display cells; adjacent caption source binding",
+      "semantic_review": [
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis.",
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "S8",
+        "S8-limits",
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-025",
+      "language": "en",
+      "text": "These are published limits and supplier descriptions, not analyzed batches. The page specifications do not identify a dry-basis convention or protein assay method. In particular, the “60” in the roasted product name must not overwrite its ≥57% protein specification. The different species, processing descriptions and limits also mean this is not a controlled experiment proving what roasting alone changes.[8][9]",
+      "sha256": "95abadcdd01a2d97044164d72d2b38154c5e694bc1bfdde4a32768d8bf31c8f2",
+      "sources": [
+        8,
+        9
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis.",
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "S8",
+        "S8-limits",
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-026",
+      "language": "en",
+      "text": "For recipe development, the useful difference is the intended sensory role. The roasted grade offers an explicit flavor direction for savory concepts; the unroasted grade offers a milder starting point. Neither page supplies comparative beverage dispersion measurements. Their fat limits also do not prove that any particular roasted batch contains more fat than any particular unroasted batch.[8][9]",
+      "sha256": "6fb75ba281418c8ad504f386a3a309d681fbeafccca14a2798252605f880938b",
+      "sources": [
+        8,
+        9
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis.",
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "S8",
+        "S8-limits",
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-027",
+      "language": "en",
+      "text": "An older [Cambridge Commodities specification](https://us.cambridgecommodities.com/ugc-1/1/4/153/spec_sheet.pdf) demonstrates why the whole specification needs reading. Its February 19, 2020 sheet names “Organic Pumpkin Seed Protein 60%,” but the visible protein specification cell reads ≥80%. A separate nutrition page prints “65” in the protein row under “Amount per 100g,” without a unit attached to that entry. Its flowchart shows machine sieving before expression, followed by pumpkin seed cake, milling, packaging, storage and shipping. The process chart is useful evidence of a pressing-and-milling description; the unreconciled protein figures are not a reliable current purchasing specification.[6]",
+      "sha256": "e34b1a4736bce9a4a4cf46ca3dbdc053cee4553ec250a2a4bef0138279161a4d",
+      "sources": [
+        6
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Historical PDF visually reviewed: name60/spec≥80/nutrition65 no unit; sieving before expression; not current spec."
+      ],
+      "evidence_claim_ids": [
+        "S6-visual"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-028",
+      "language": "en",
+      "text": "## Fine particles and soluble protein are different measurements",
+      "sha256": "428ebc491c2b57f0dce1078f4cf560164fd770466c9663468b8f99f725b9e5dd",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-029",
+      "language": "en",
+      "text": "### A laboratory comparison, not a retail mixing test",
+      "sha256": "9f8154a90c2c36d463c229c88973950e017274c97d3d571f6d3f50975e968bfc",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-030",
+      "language": "en",
+      "text": "In a [primary study of pumpkin seed press cake](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9777787/fullTextXML), researchers started with an already milled 300–600 µm fraction, further de-oiled it with hexane, then extracted protein under alkaline conditions and recovered it by precipitation and freeze-drying. That starting sieve fraction is specific to the experiment—not the mesh specification of any retail powder here.[4]",
+      "sha256": "e4058cb21ed4513bb3aa4bce16efbd8577eb78ac412f1d5f2a48f71f7492ce07",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-031",
+      "language": "en",
+      "text": "Original Table 1 reports 60.24 ± 0.05 g protein per 100 g untreated press cake and 68.68 ± 0.13 after further de-oiling; fat changes from 13.38 ± 0.12 to 0.77 ± 0.14 g/100 g. These are means ± half deviation range from duplicate measurements, not commercial grade definitions. The comparison illustrates enrichment by removing another component, before the separate protein-isolation stage.[4]",
+      "sha256": "ac416b68f4e3d71bee0d5cb96a42326cf65c7c2f8a6b62693accc24ec880fbf3",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-032",
+      "language": "en",
+      "text": "The researchers also compared alkaline extraction alone with ultrasound applied before, during or after extraction. Their solubility test used isolated protein at 5 mg/mL, two hours of agitation at room temperature, and centrifugation before measuring protein in the supernatant by Kjeldahl. Solubility here is supernatant protein divided by protein in the initial sample, expressed as a percentage. It was not an instant-drink test.[4]",
+      "sha256": "4f3e7c68853ab6e11f2fbca42a07e4d29181bcf041b96f5e97412be129b1482c",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-033",
+      "language": "en",
+      "text": "| Treatment | Solubility (%) at pH 5 | At pH 7 (%) | At pH 9 (%) |\n|---|---:|---:|---:|\n| Alkaline extraction control | 2.42 ± 0.06 a | 15.17 ± 0.20 a | 37.82 ± 1.07 a |\n| Ultrasound during alkaline extraction, UAE | 6.59 ± 0.99 d | 18.80 ± 0.52 b | 46.87 ± 0.17 c |\n| Ultrasound after alkaline extraction, AE+US | 4.90 ± 0.05 c | 23.07 ± 0.06 c | 46.93 ± 0.61 c |",
+      "sha256": "091152c5e6eb5204756d458ff6d37496afb6fb7f3c6ad264c5ff53b5d3264b02",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted display cells; adjacent caption source binding",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-034",
+      "language": "en",
+      "text": "Selected original Table 3 cells; values are percentages, means ± standard deviations, n=4 as reported. Different letters within the same column indicate a significant difference at p<0.05. Isolates were pooled from two runs on each extraction day before functionality analysis; n=4 should not be presented as four independently manufactured commercial batches.[4]",
+      "sha256": "be8e291887773762e7b7fb6bc6300dd6c6d0474f76b5697a43c6b34f324f7088",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-035",
+      "language": "en",
+      "text": "There is no single winning solubility treatment across these columns: UAE is higher than AE+US at pH 5, AE+US is higher at pH 7, and the two share the same significance group at pH 9. That is more informative than a blanket claim that treating protein after extraction always works best.[4]",
+      "sha256": "515e5341de8c0cd444a4bc113f8db40e56bbb17f9ffbb43200037f6ac55e979e",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-036",
+      "language": "en",
+      "text": "The particle results also resist a simple “smaller is better” summary. Original Table 2 gives AE+US the smallest d90, 179.93 µm, but its d10 is 8.05 µm, higher than the control’s 4.82 µm. The measurements describe volume-based particle diameters in dispersions after alkaline extraction, measured at pH 7 after one day at 6°C. They do not characterize retail dry-powder mesh or prove that all parts of the distribution became smaller.[4]",
+      "sha256": "c6ea973a3157abd15944023096ebe1451c8ca23311f9f83c2e708d37a5bc6019",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-037",
+      "language": "en",
+      "text": "### Preheating does not improve every result",
+      "sha256": "b4b68e41afae76fd99fc934134cb44304b745f68bc2b1914a7ac0b5eb56b9801",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-038",
+      "language": "en",
+      "text": "A [second primary study](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11748320/fullTextXML) separates protein solubility from a water solubility index. Within its alkali-extracted samples, original Table 4 gives protein solubility of 10.32 ± 0.05% for untreated material, 9.75 ± 0.02% after conventional preheating and 15.99 ± 0.04% after microwave preheating (means ± SE, n=3; significance letters c, d and a, respectively). Its general prose suggests preheating improves solubility, but those cells show that conventional preheating did not improve this particular alkali comparison. The water-solubility-index preparation, meanwhile, used a 1:4 sample-to-water ratio and a day of shaking. Neither test establishes consumer mixing speed.[5]",
+      "sha256": "ca9f66686849bdc7e9d49116de29e5e2c5e8e8a67713f9f442653c0b549e1123",
+      "sources": [
+        5
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML rowspans and Table4 cells reviewed: Alkali UT10.32 CH9.75 MH15.99, SE n=3; WSI 1:4/day not instant mixing."
+      ],
+      "evidence_claim_ids": [
+        "P5-0",
+        "P5-1",
+        "P5-2",
+        "P5-3",
+        "T-tbl4"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-039",
+      "language": "en",
+      "text": "Milling can still matter upstream. In a separate [cell-culture-media study](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1602010/full), researchers replaced a heat-generating coffee-grinder preparation with more thorough grinding cooled by liquid nitrogen before protein isolation. They reported higher protein concentrations in the recovered isolates and a changed protein profile. Because grinding intensity and cooling changed together, the experiment cannot isolate a particle-size-only effect; it also cannot validate the mouthfeel or food suitability of a commercial drink powder.[10]",
+      "sha256": "403fc9c6e6c0f1bf486dccde39e0b19cc8fc3a34b205250c974bfb324e090337",
+      "sources": [
+        10
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original publisher HTML concentration/profile findings; grinding/cooling confounded and cell-media application only."
+      ],
+      "evidence_claim_ids": [
+        "P10"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-040",
+      "language": "en",
+      "text": "## Turn the retail promise into a specific development trial",
+      "sha256": "c503f3f52cd178163d02bb9eb25f2be20bad5aa7bb4ac3bd5519651110c0e3df",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-041",
+      "language": "en",
+      "text": "The evidence suggests three different trial briefs, rather than one universal “mixability” score. These are proposed development approaches, not tested recipes:",
+      "sha256": "14a9853880e02083d084f1413d90939a92d44ac617194e27a0210a45ddcb9645",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-042",
+      "language": "en",
+      "text": "**For a blender smoothie ingredient**, keep the smoothie base and blending procedure constant while comparing candidate powders. Evaluate flavor, perceived particles and thickening alongside protein contribution. This tests the kitchen-use promise closest to Anthony’s and Micro Ingredients’ positioning, without treating a smoothie as water.[2][3]",
+      "sha256": "4cf42b442904c6361674e53352c7789968a05e0b39933d6c091c657eb3b68e6a",
+      "sources": [
+        2,
+        3
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "en-043",
+      "language": "en",
+      "text": "**For a shaker drink**, record wetting, visible lumps and sediment separately. Use a defined serving mass, liquid volume, temperature and shaking procedure. A powder can lose visible lumps yet still settle; the analytical soluble-protein fraction answers a different question from those observations. The laboratory methods above explain why a bare “solubility” number is inadequate without its conditions.[4][5]",
+      "sha256": "9d69cdbb29222b99353a8a11cbff643b755e1bdd8d5a57a2ab2d00178811179d",
+      "sources": [
+        4,
+        5
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample.",
+        "Original XML rowspans and Table4 cells reviewed: Alkali UT10.32 CH9.75 MH15.99, SE n=3; WSI 1:4/day not instant mixing."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003",
+        "P5-0",
+        "P5-1",
+        "P5-2",
+        "P5-3",
+        "T-tbl4"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-044",
+      "language": "en",
+      "text": "**For a roasted savory or baked concept**, treat flavor as part of the ingredient’s role, not just a defect to mask. Start with the supplier’s actual roasted specification and judge the finished food for color, flavor and texture. Austrade’s description supports this as a plausible development direction, not as an already validated formula or a fixed substitution ratio.[9]",
+      "sha256": "c54283899478bb0cfd92d17363d6c1becb93ddffd67ed4ec99416dedf2f2b162",
+      "sources": [
+        9
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "en-045",
+      "language": "en",
+      "text": "The strongest pumpkin-protein proposition is therefore a matched combination of material description, use occasion and preparation experience. The original listings show how brands frame that combination. Supplier documents and primary experiments show where the wording stops short of technical proof. Keeping those evidence types separate makes the commercial story more useful—not less.",
+      "sha256": "e2ffbc340cebcab128beab86716f2578837c0e5e3fe0357836e3dc5a562d4d12",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-046",
+      "language": "en",
+      "text": "## Sample and evidence scope",
+      "sha256": "1633242abe834326ca26779782b56b8238bdbca0737cfc517beee73bbee022cd",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "en-047",
+      "language": "en",
+      "text": "The marketplace sample is the original September 28, 2026 Amazon.com search of eight returned records and three distinct-brand details. Duplicate bullets were deduplicated for analysis only; original wrappers are retained. A later same-day inspection of the exact-ASIN initial galleries supplies the label values above. Sprout’s nutrition and ingredient panels are artwork; Anthony’s and Micro’s include back-pouch images. Gallery identity is tied to the listing, not to a purchased physical sample. Supplier limits remain supplier assertions; no purchase, batch COA, independent certification audit or finished-product trial was performed. Scientific results refer to the specified experimental materials, not the three retail products. Prices, review counts, market share and nutrition rankings are deliberately outside this analysis.",
+      "sha256": "a5e86ecd78168f7f80006131094df3a983e1d02fe89eac2ffe6a856097d0cebb",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-001",
+      "language": "zh",
+      "text": "# 南瓜籽蛋白粉：冷压、细磨和易冲调，分别能说明什么？",
+      "sha256": "e7373e4c60071bfe17f00f8036aaa88b4e2b983b1e2f6aa5003af1273359b74a",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-002",
+      "language": "zh",
+      "text": "同样叫南瓜籽蛋白粉，有的产品突出每份蛋白质，有的强调配料简单、厨房百搭，有的则把细腻口感与咖啡、燕麦等日常吃法放在前面。我们选取的三个亚马逊商品详情页正好呈现了这些差别：Sprout Living 主打冷压原料和每份蛋白质，Anthony’s 强调自由搭配，Micro Ingredients 则把“细磨”与多种食用场景联系起来。[1][2][3]",
+      "sha256": "397c85f1156b40e2e86dfacf0a28c57fdfddc35a15296975c5a8209d7f295f62",
+      "sources": [
+        1,
+        2,
+        3
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict.",
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source",
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "zh-003",
+      "language": "zh",
+      "text": "对产品开发者来说，关键不是选一句听起来更先进的工艺宣传，而是明确成品要给消费者怎样的使用体验。适合放进搅拌机做奶昔，不等于在摇摇杯里能迅速分散，更不等于装瓶后可以长期保持均匀。压榨、粉碎和蛋白分离是不同操作；“加入水或牛奶”则是食用建议，本身并不是性能检测结果。[4][8]",
+      "sha256": "665a23a0995a488af8e7dfb8da57b7a58ede7fefc544f0d68e593c1de0d5340e",
+      "sources": [
+        4,
+        8
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample.",
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003",
+        "S8",
+        "S8-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-004",
+      "language": "zh",
+      "text": "## 三个商品样本，卖的是三种使用理由",
+      "sha256": "52ed73d863c9f591fb9bfeb281a7582e2080d7d53a7850ea2066411b2b6c4752",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-005",
+      "language": "zh",
+      "text": "这次原始搜索共返回八条记录，其中两条是 Sprout Living 不同包装大小的南瓜籽蛋白粉，不能把八条记录算作八个独立品牌。随后查看了三个不同品牌的详情页。这个小样本适合分析商品如何定位，不适合推断销量或市场份额。[11]",
+      "sha256": "a9d70bcf8897424bc23f4d954240fa21b2af9d087526599964bffecee90a7774",
+      "sources": [
+        11
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original nested search wrapper count8 with2 Sprout sizes; three selected detail ASINs not market share."
+      ],
+      "evidence_claim_ids": [
+        "R11"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-006",
+      "language": "zh",
+      "text": "| 商品样本 | 页面着重表达的内容 | 对产品定位的启发 |\n|---|---|---|\n| [Sprout Living，B01N7CLYX7](https://www.amazon.com/dp/B01N7CLYX7) | 冷压南瓜籽、每份20克蛋白质、无调味 | 用加工方式和明确的每份蛋白质数字，让消费者迅速理解产品用途。[1] |\n| [Anthony’s，B0CWVTCT7G](https://www.amazon.com/dp/B0CWVTCT7G) | 不添加甜味剂或填充料，可加入奶昔、烘焙食品、水或牛奶 | 把产品当作一种可自由搭配的厨房原料，风味和吃法留给使用者决定。[2] |\n| [Micro Ingredients，B0FWJGBPWM](https://www.amazon.com/dp/B0FWJGBPWM) | 单一原料、生原料、细磨，每份18克蛋白质；列出奶昔、烘焙、燕麦和咖啡等用途 | 借助口感描述和更多日常场景，让蛋白粉不只出现在运动后的饮品里。[3] |",
+      "sha256": "71bff49bf7001161b208a92b637d11222833b6dbd363da9c9fca7d877e20fbde",
+      "sources": [
+        1,
+        2,
+        3
+      ],
+      "verdict": "accepted display cells; adjacent caption source binding",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict.",
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source",
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "zh-007",
+      "language": "zh",
+      "text": "这些差异有实际的商业意义。Sprout Living 先回答“这一份能提供多少蛋白质”；Anthony’s 更接近“你可以把它加进自己的食谱”；Micro Ingredients 则努力降低消费者对使用场景的限制感。这是对原始商品文案的分析，并不能据此认定三款产品采用了三套不同的工业生产工艺。[1][2][3]",
+      "sha256": "71952f5365e8cb6b9d533c0990f3febfb6fd3c3563e827eefdc1e6fb95e6efbf",
+      "sources": [
+        1,
+        2,
+        3
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict.",
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source",
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "zh-008",
+      "language": "zh",
+      "text": "### 标签补上的关键差别：一汤匙，还是两勺？",
+      "sha256": "ac4824d8a97af4dd5757a7459909ee4d622eab7fe1554621a01a7bbd6d784732",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-009",
+      "language": "zh",
+      "text": "查看这三个ASIN对应的商品图片后，每份蛋白质终于有了明确的用量基础：Anthony’s 按一汤匙标示，Sprout Living 和 Micro Ingredients 则按两勺标示。[1][2][3]",
+      "sha256": "19d00695bda26bcfeabf1a31525a5695f187a10a3034d7291afb359911d6ac46",
+      "sources": [
+        1,
+        2,
+        3
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict.",
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source",
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "zh-010",
+      "language": "zh",
+      "text": "| 卖家标签项目 | Sprout Living | Anthony’s | Micro Ingredients |\n|---|---|---|---|\n| 正面净含量 | 1 lb（454克） | 1 lb（454克） | 2 lb（907克） |\n| 每份用量 | 2勺（32.5克） | 1汤匙（8克） | 2勺（约30克） |\n| 标签所列每份蛋白质 | 20克 | 5克 | 18克 |\n| 营养标签所列每袋份数 | 约14份 | 56份 | 30份 |\n| 配料原文 | Organic Pressed Pumpkin Seed Powder | Organic Toasted Pumpkin Seeds | Organic Pumpkin Seed Protein Powder |",
+      "sha256": "f61c4559c5485683a44f76df4e18ed2a3ea287df5d0cc63621698db076d94ce5",
+      "sources": [
+        1,
+        2,
+        3
+      ],
+      "verdict": "accepted display cells; adjacent caption source binding",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict.",
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source",
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "zh-011",
+      "language": "zh",
+      "text": "数据来自三个选定商品的亚马逊图库，各自的每份用量不同。Anthony’s 原始结构化字段写的是30份，背袋照片和营养标签特写却都写56份；表中保留标签读数，不把这一差异擅自合并。[1][2][3]",
+      "sha256": "ad2d6b4383d0894e7fd9671d45d0e15f22c316bae28a829419b0d4aa1979b032",
+      "sources": [
+        1,
+        2,
+        3
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict.",
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source",
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "zh-012",
+      "language": "zh",
+      "text": "**Sprout Living：把每份蛋白质与简单配料联系起来。** 20克蛋白质对应32.5克粉末。包装正面写着“One Ingredient”和“Single-Source Protein Powder”，配料图只列有机压榨南瓜籽粉；原始页面的“Protein Source”字段却写着“Blend”。图库更清楚地展示了品牌的单一原料定位，但这种页面表述差异不能用来判定实物究竟是不是混合蛋白。配料行仅写“Pressed”，更具体的“冷压”来自商品要点。[1]",
+      "sha256": "cf099b208229642e509efaa1830241e2410b1b0761f6811063a247eda4992d15",
+      "sources": [
+        1
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller positioning and exact gallery label declaration; Blend conflict preserved, no physical composition verdict."
+      ],
+      "evidence_claim_ids": [
+        "R1-0",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R1-4",
+        "R1-Protein Source"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg"
+      ]
+    },
+    {
+      "id": "zh-013",
+      "language": "zh",
+      "text": "**Anthony’s：从一汤匙的厨房用量，讲到烘烤、压榨和细磨。** 标签上的5克蛋白质对应8克粉末，与另外两款的较大份量并非同一比较基础。背袋说明先烘烤南瓜籽，再压榨取油，最后将剩余物料细磨成粉；正面同时写着“COLD-PRESSED”。烘烤与压榨是不同工序，两者并存不必然矛盾，但“冷压”显然不能直接理解为全程未经加热。需要保留的明确差异是份数：原始字段30份，图库56份，目前没有证据解释为换规格或改配方。[2]",
+      "sha256": "a76edb5960d780bc77f925729d14da8f42e361977024b6a90502858f35e0d3d5",
+      "sources": [
+        2
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting."
+      ],
+      "evidence_claim_ids": [
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg"
+      ]
+    },
+    {
+      "id": "zh-014",
+      "language": "zh",
+      "text": "**Micro Ingredients：用大袋装和多种吃法融入日常饮食。** 正面2 lb（907克）的包装标出每份18克蛋白质，背面补充每份为两勺、约30克。食用建议另写“2 rounded scoops”，即两满勺，可加入奶昔、甜点、果汁、燕麦或酸奶。结合原始页面的咖啡和烘焙用法，其定位更接近日常食材，而不只是一杯运动蛋白饮。“细磨”和“raw”仍是卖家的产品描述，图片没有提供粒径或工艺温度的实测数据。[3]",
+      "sha256": "5b402053abd0a153e47dea16b050f2154ad3c103846631b9f95f8c1dff112f35",
+      "sources": [
+        3
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "zh-015",
+      "language": "zh",
+      "text": "这张表最有用的地方，是说明品牌怎样定义“一份”，而不是给纯度排高低。脱离用量比较5克、18克和20克，会掩盖真正的区别；再把经过取整的营养标签换算成所谓批次蛋白纯度，也会造成不必要的精确感。",
+      "sha256": "de96f3e16a7021bc582fbf22b5a610e34d3df87a69cf9b0356cbcc5df42b2c78",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-016",
+      "language": "zh",
+      "text": "这组样本给新产品的启发，是先把一种使用场景做好，而不是把所有吃法都写到包装上。厨房用粉可以强调搅拌和烘焙，不必同时许诺速溶；冲饮粉需要清楚的制备方法；加入咖啡又有另一套口感预期。样本能够帮助提出这些开发方向，却不能证明哪一种一定更受市场欢迎。",
+      "sha256": "89c9f5d3b5219a1ac4dd287720366587fdc2825db74b405e6b588397018bd744",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-017",
+      "language": "zh",
+      "text": "## 压榨取油、粉碎成粉、提取蛋白，是三件不同的事",
+      "sha256": "e0689862203f06519db6c6325b90ec5e15e1cf485bbd26162c758e0f1ea2242f",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-018",
+      "language": "zh",
+      "text": "供应商资料可以帮助理解：商品名里的“南瓜籽蛋白”不一定意味着经过纯化的分离蛋白。Austrade 对未烘烤浓缩蛋白的描述是先机械部分脱脂，再粉碎；其烘烤款则先轻度加盐、烘烤，再机械部分脱脂，随后进一步加工和研磨。[8][9]",
+      "sha256": "c7c496f989634617d9911eed0d16db6cb29f9ee4c9dd741aaf1131d7130126fe",
+      "sources": [
+        8,
+        9
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis.",
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "S8",
+        "S8-limits",
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-019",
+      "language": "zh",
+      "text": "由此可以区分三项操作：",
+      "sha256": "d0f580c4ecfbb0676448f62ae64fa77b174360ab26d9540f02b17c3bb328158e",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-020",
+      "language": "zh",
+      "text": "- **压榨或机械部分脱脂**：去掉种籽中的一部分油脂，改变剩余物料的组成。\n- **粉碎或研磨**：把物料变成更小的颗粒，但不能单凭这一步判断有多少蛋白能够溶解。\n- **蛋白提取与分离**：在选定条件下使蛋白进入液相，再分离固体、沉淀蛋白并干燥回收。下文的实验路线是在饼粕已经研磨、进一步脱油之后，才进行这些操作。[4][8][9]",
+      "sha256": "ebd030384c926d45eca7073b8b5168d296c1cc06e1dd77add2cb4a863a85b4ee",
+      "sources": [
+        4,
+        8,
+        9
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample.",
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis.",
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003",
+        "S8",
+        "S8-limits",
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-021",
+      "language": "zh",
+      "text": "这并不意味着所有商品都应该走同一条实验室路线，而是说，冷压的宣传不能代替蛋白分离工艺资料，“细磨”也不能代替粒径分布或溶解性检测。",
+      "sha256": "8889b51a949c207de86ac8ea466e36a5fe27d1b232e63081107fda43a5dddf9f",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-022",
+      "language": "zh",
+      "text": "### 供应商实例：烘烤款与未烘烤款的规格并不相同",
+      "sha256": "274dee2a414e9360b593db6db14cf4a8036905fc34119e8cf075860d7f63ab71",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-023",
+      "language": "zh",
+      "text": "Austrade 公开的[未烘烤款](https://austradeinc.com/product/organic-unroasted-pumpkin-protein-concentrate-60)与[烘烤款](https://austradeinc.com/product/organic-roasted-pumpkin-protein-concentrate-60)资料，提供了比“高蛋白粉”更具体的比较依据。[8][9]",
+      "sha256": "139a1494678bc900add74ab7b8d2078d68e1f551552df6af317673546a2aed4a",
+      "sources": [
+        8,
+        9
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis.",
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "S8",
+        "S8-limits",
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-024",
+      "language": "zh",
+      "text": "| 供应商公开项目 | Organic Unroasted Pumpkin Protein Concentrate 60（未烘烤款） | Organic Roasted Pumpkin Protein Concentrate 60（烘烤款） |\n|---|---|---|\n| 所述种籽 | Shine skin pumpkin，*Cucurbita moschata* | 奥地利施蒂利亚南瓜，*Cucurbita pepo* var. *styriaca* |\n| 蛋白质 | ≥60% | ≥57% |\n| 水分 | ≤10% | ≤8% |\n| 脂肪 | ≤10% | ≤17% |\n| 所述风味、外观 | 风味温和 | 有烘烤形成的坚果风味，粉末为橄榄绿至棕色 |",
+      "sha256": "694f7faf321a7784d8ce074730d4f4b244b5e729a3609485537c8129fc716b13",
+      "sources": [
+        8,
+        9
+      ],
+      "verdict": "accepted display cells; adjacent caption source binding",
+      "semantic_review": [
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis.",
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "S8",
+        "S8-limits",
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-025",
+      "language": "zh",
+      "text": "这些是供应商公布的规格限值和产品描述，不是某一批次的实测结果。页面规格没有注明蛋白质检测方法，也没有明确干基或其他计量基准。尤其要注意，烘烤款名称中的“60”不能覆盖规格栏里的“≥57%”。两款所述物种、加工方式和指标均有差别，也不能把它们当作只改变烘烤条件的对照实验。[8][9]",
+      "sha256": "3495a1d2470c4ca2eefa6a9fd3f6b8f5764af8799f8393b1a61e3072eb65832c",
+      "sources": [
+        8,
+        9
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis.",
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "S8",
+        "S8-limits",
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-026",
+      "language": "zh",
+      "text": "对配方设计而言，首先有用的是风味方向：烘烤款可以围绕自身的坚果香设计咸味食品，未烘烤款则提供较温和的起点。两页都没有给出可供比较的饮料分散性数据。脂肪上限不同，也不意味着任意一批烘烤款的实际脂肪都一定高于未烘烤款。[8][9]",
+      "sha256": "8a2273f21c9b262ff52d3d00e30d31e7bd446fe3b2d2e4024447e280141a0a66",
+      "sources": [
+        8,
+        9
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original supplier HTML: unroasted protein≥60 moisture≤10 fat≤10; material/process attribution only, unspecified assay basis.",
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "S8",
+        "S8-limits",
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-027",
+      "language": "zh",
+      "text": "较早的一份 [Cambridge Commodities 规格文件](https://us.cambridgecommodities.com/ugc-1/1/4/153/spec_sheet.pdf)还提醒我们，规格不能只看商品名。其2020年2月19日生效的规格页写着“Organic Pumpkin Seed Protein 60%”，但原页蛋白质规格单元格为“≥80%”；另一个营养页在“Amount per 100g”栏下把蛋白质列为“65”，该数值旁没有单独标出单位。流程图则显示：机械筛分在压榨之前，压榨得到南瓜籽饼后再研磨、包装、储存和发运。这份流程图可以说明其所述的压榨—研磨路径，互未解释的蛋白数字却不能直接拿来作为当前采购依据。[6]",
+      "sha256": "0154e12fb357a1f36a849740984b49b392251fae301dd3ddc26907dc4be518e7",
+      "sources": [
+        6
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Historical PDF visually reviewed: name60/spec≥80/nutrition65 no unit; sieving before expression; not current spec."
+      ],
+      "evidence_claim_ids": [
+        "S6-visual"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-028",
+      "language": "zh",
+      "text": "## 颗粒细，不代表蛋白溶得多",
+      "sha256": "ed09bcf6c98c01a81c093e401e0dfda8f1edfb79e29a722694e8595b28cfb802",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-029",
+      "language": "zh",
+      "text": "### 实验室比较：看懂条件，再看数值",
+      "sha256": "8cb00dc44202616d34bbbc93b11fba047ba5f8e03a1c1799d461b105d29a18b6",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-030",
+      "language": "zh",
+      "text": "一项[南瓜籽饼粕原始研究](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9777787/fullTextXML)，使用已经研磨的300–600微米粒级，先以己烷进一步脱油，再进行碱性提取、沉淀和冷冻干燥。这里的起始粒级只属于这项实验，不能拿来充当本文任何一款零售粉末的粒度规格。[4]",
+      "sha256": "54e130ba0090a25e73cd4fa240fa7c7551d83052e88e78d44dd4fddc8a976812",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-031",
+      "language": "zh",
+      "text": "原文表1中，未进一步脱油的饼粕蛋白质为60.24 ± 0.05克/100克，进一步脱油后为68.68 ± 0.13克/100克；脂肪则从13.38 ± 0.12降到0.77 ± 0.14克/100克。这里的“±”是两次测定的半极差，不是标准差。这组数据说明，去掉部分非蛋白成分便能提高蛋白质在剩余物料中的占比；后续的蛋白提取与分离仍是另一个步骤。这些数值也不是商业等级的定义。[4]",
+      "sha256": "bda938eab6e916e4c9c37bab9a983ca4b394b09a08f69f55a45043f011e0266a",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-032",
+      "language": "zh",
+      "text": "研究者随后比较了单独碱提与在碱提前、碱提中、碱提后加入超声处理的效果。溶解性测试使用5毫克/毫升的分离蛋白，在室温下搅拌两小时，再离心，以凯氏定氮法测上清液中的蛋白。这里的溶解性，是上清液蛋白量占初始样品蛋白量的百分比。这与消费者冲一杯即饮蛋白粉的过程相去甚远。[4]",
+      "sha256": "506ad537d8e09358a003a214e17f7a808406ea023f98ea6e49c4e33bd919237f",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-033",
+      "language": "zh",
+      "text": "| 处理方式 | pH 5时蛋白溶解性（%） | pH 7时（%） | pH 9时（%） |\n|---|---:|---:|---:|\n| 仅碱提，对照组 | 2.42 ± 0.06 a | 15.17 ± 0.20 a | 37.82 ± 1.07 a |\n| 碱提同时超声，UAE | 6.59 ± 0.99 d | 18.80 ± 0.52 b | 46.87 ± 0.17 c |\n| 碱提后超声，AE+US | 4.90 ± 0.05 c | 23.07 ± 0.06 c | 46.93 ± 0.61 c |",
+      "sha256": "d1f2e4700c967bdf09f8256089875f9bc40f5b92e9739b383418bd1e99eb91dc",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted display cells; adjacent caption source binding",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-034",
+      "language": "zh",
+      "text": "以上选取原文表3的相应单元格。数值单位为%，按原文保留均值±标准差，n=4；同一列中不同字母表示差异显著，p<0.05。功能性测试前，同一天两次提取得到的分离蛋白先行合并，因此不能把n=4说成四个独立生产的商业批次。[4]",
+      "sha256": "336c120e83e47b3effeb6be2ad3f428f9536c1faaa3c0d4c0e3fc2b29f4db2ea",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-035",
+      "language": "zh",
+      "text": "这张表里并没有一个处理方式在所有pH下都占优：pH 5时UAE高于AE+US；pH 7时顺序相反；pH 9时二者属于同一显著性分组。比起笼统地说“碱提后超声最好”，保留这种差别更有助于理解应用条件的重要性。[4]",
+      "sha256": "89a5fa81c7b2248638014f375b4eea57d9e0c2201a2c0b50f3a12669cb750089",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-036",
+      "language": "zh",
+      "text": "粒径结果同样不能简化成“全部变小”。原文表2中，AE+US的d90最小，为179.93微米，但d10为8.05微米，反而高于对照组的4.82微米。该测试是在碱提后的分散体系中进行，样品先在6°C存放一天，再于pH 7下测定体积分布粒径。因此，这些数据既不是零售干粉的筛网规格，也不能证明整个粒径分布都向更小方向移动。[4]",
+      "sha256": "330417a1b4f607355ce82c9a65bcedfe18efc40186ebf9fd9f788a6fe6756ab6",
+      "sources": [
+        4
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-037",
+      "language": "zh",
+      "text": "### 预热并非在所有条件下都有利",
+      "sha256": "bed3438012c3db22fb54ed83f23691e1b0d9d76660c625a011a43d586b35f33e",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-038",
+      "language": "zh",
+      "text": "[另一项原始研究](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11748320/fullTextXML)把“蛋白溶解性”与“水溶性指数”分开测定。其原文表4中，碱提样品未经预热时的蛋白溶解性为10.32 ± 0.05%，常规预热后为9.75 ± 0.02%，微波预热后为15.99 ± 0.04%（均值±标准误，n=3，显著性字母依次为c、d、a）。尽管正文概括性地认为预热有利于溶解，这组单元格却显示：在该碱提比较中，常规预热并没有带来提高。水溶性指数的制样条件又不同，采用样品与水1:4的质量比，并振荡一天。这两种检测都不能直接回答“冲调需要几秒”。[5]",
+      "sha256": "6d6893729c1dca16beeca9a9da6eff4d25bb0fc2983763225a595f6706165289",
+      "sources": [
+        5
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML rowspans and Table4 cells reviewed: Alkali UT10.32 CH9.75 MH15.99, SE n=3; WSI 1:4/day not instant mixing."
+      ],
+      "evidence_claim_ids": [
+        "P5-0",
+        "P5-1",
+        "P5-2",
+        "P5-3",
+        "T-tbl4"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-039",
+      "language": "zh",
+      "text": "研磨在上游当然可能起作用。一项面向[细胞培养基的研究](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1602010/full)，把会产生明显热量的咖啡研磨机处理，改为液氮冷却下更充分的研磨，然后再分离蛋白；作者报告回收分离物中的蛋白浓度提高，蛋白组成也有所变化。不过，研磨程度和冷却条件同时改变，无法把效果单独归因于粒径。这项研究的用途也不是评价饮料，不能用来证明商业蛋白粉的口感或食品适用性。[10]",
+      "sha256": "4771ab2935b1b08307811a04b7ca9e924835579805e41efc788f634b1ead8872",
+      "sources": [
+        10
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original publisher HTML concentration/profile findings; grinding/cooling confounded and cell-media application only."
+      ],
+      "evidence_claim_ids": [
+        "P10"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-040",
+      "language": "zh",
+      "text": "## 把“好用”落实为不同的配方试验",
+      "sha256": "a32960b7ed7d922c22bb5a30f1ad5dc5238d6a9ce8056df8ec7a5ea7f7e35211",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-041",
+      "language": "zh",
+      "text": "结合商品定位和实验方法，可以形成三种不同的开发任务，而不是给所有产品打一个笼统的“易溶解”分数。以下是建议的试验方向，并非已经验证的配方。",
+      "sha256": "e847dc476e923a951a279978888904542114d1d6f3add95df29da3fd09a32612",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-042",
+      "language": "zh",
+      "text": "**如果做搅拌机奶昔用粉**，应固定奶昔基底与搅拌程序，再比较候选粉末。除了蛋白贡献，还要看风味、入口颗粒感和增稠程度。这更接近 Anthony’s 和 Micro Ingredients 所描述的厨房用途，也避免把复杂奶昔当成清水来测试。[2][3]",
+      "sha256": "429d755a52d6a2ea62bdf01336df4e75a4ba972d5a5ac2ceec6d18460ff9ba0a",
+      "sources": [
+        2,
+        3
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Seller kitchen positioning plus toasted/pressed/milled wording; 8g/5g/56 label versus 30 structured field; cold pressing not incompatible with prior toasting.",
+        "Seller everyday uses and approximately 30g/18g/30 label; raw/fine-milled not independently measured."
+      ],
+      "evidence_claim_ids": [
+        "R2-0",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R2-Total Servings Per Container",
+        "R3-0",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R3-4"
+      ],
+      "label_evidence": [
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+        "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg"
+      ]
+    },
+    {
+      "id": "zh-043",
+      "language": "zh",
+      "text": "**如果做摇摇杯冲饮粉**，应分别记录润湿、可见结团和沉降。每份用量、液体体积、温度以及摇匀方法都要固定。没有明显粉团，并不代表静置后不会沉淀；上清液里测出的蛋白比例，与这些肉眼观察也不是同一个指标。前述论文恰好说明，脱离测试条件的“溶解性”数字很难指导冲调体验。[4][5]",
+      "sha256": "8b95a65e93957a5f52caa8c5f37b469d16b317bda619bd0427c6f020eac37eec",
+      "sources": [
+        4,
+        5
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original XML methods and table cells reviewed: supernatant/initial protein denominator, half-range versus SD, pooled n=4, pH-specific order, d10 counterexample.",
+        "Original XML rowspans and Table4 cells reviewed: Alkali UT10.32 CH9.75 MH15.99, SE n=3; WSI 1:4/day not instant mixing."
+      ],
+      "evidence_claim_ids": [
+        "P4-0",
+        "P4-1",
+        "P4-2",
+        "P4-3",
+        "P4-4",
+        "T-foods-11-04029-t001",
+        "T-foods-11-04029-t002",
+        "T-foods-11-04029-t003",
+        "P5-0",
+        "P5-1",
+        "P5-2",
+        "P5-3",
+        "T-tbl4"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-044",
+      "language": "zh",
+      "text": "**如果做烘烤风味的咸味食品或烘焙产品**，可以把原料自身的香味作为配方的一部分，而不只是设法掩盖它。按照具体烘烤款的规格选样，再在成品里判断颜色、风味和质构。Austrade 的描述为这个方向提供了依据，却没有给出已经验证的成品配方或固定替代比例。[9]",
+      "sha256": "3055858253ea3d5c786c4111102961d8ec88399eb0d523db8f7067bf5c941783",
+      "sources": [
+        9
+      ],
+      "verdict": "accepted scoped claim",
+      "semantic_review": [
+        "Original supplier HTML: roasted name60 protein≥57 moisture≤8 fat≤17; no batch or roasting-only ranking."
+      ],
+      "evidence_claim_ids": [
+        "S9",
+        "S9-limits"
+      ],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-045",
+      "language": "zh",
+      "text": "因此，南瓜籽蛋白产品真正需要配合起来的是原料形态、食用场景和制备体验。三个零售样本展示了品牌如何表达这些价值；供应商资料和原始实验则帮助判断，哪些表达已有工艺或数据支持，哪些还需要实际验证。把这些层次分清，才能让产品定位既具体，又经得起追问。",
+      "sha256": "c879876580b84e6f1ad104107c9d4441511a7308cad486c0fd57877313ecf73d",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-046",
+      "language": "zh",
+      "text": "## 样本与证据范围",
+      "sha256": "2dbc492269d31e1aa18653e447dac4a7b3ed5340ea8ae9c7e45b34b528b0a595",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    },
+    {
+      "id": "zh-047",
+      "language": "zh",
+      "text": "本文使用2026年9月28日原始 Amazon.com 搜索返回的八条记录，以及三个不同品牌的商品详情。分析时去除了重复要点，原始采集包装文件完整保留。同日后续查看了对应ASIN的初始商品图库，补充了上文标签数据。Sprout 的营养和配料信息来自标签设计图，Anthony’s 与 Micro 则有背袋照片；图库与商品页的对应关系不等于已核验购买实物。供应商规格仍属供应商声明；没有进行购买、批次COA核验、独立认证审核或成品试验。论文数据只对应各自的实验材料，不对应这三款零售商品。本文不作价格、评价数量、市场份额或营养高低排名。",
+      "sha256": "91c538e5c6ffbd959c81a27ad7604acdc27e6f54cd52af70a31b4036b0039e88",
+      "sources": [],
+      "verdict": "editorial heading, interpretation, connective argument or proposed development approach; not an empirical test result",
+      "semantic_review": [],
+      "evidence_claim_ids": [],
+      "label_evidence": []
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "stdout": "{\"ok\": true, \"command\": \"script.inspect\", \"browser\": null, \"result\": {\"format\": \"browserman-script-v1\", \"id\": \"local.pumpkin-initial-gallery\", \"name\": \"pumpkin-initial-gallery\", \"version\": \"1.0.0\", \"apiVersion\": \"^1.0.0\", \"description\": \"\", \"sourcePath\": \"/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/collector.mjs\", \"params\": null, \"actions\": [{\"name\": \"read\", \"description\": \"\", \"params\": {\"type\": \"object\", \"required\": [\"asin\"], \"properties\": {\"asin\": {\"type\": \"string\"}}}, \"concurrency\": {\"scope\": \"browser\"}}]}}",
+  "stderr": "",
+  "returncode": 0
+}

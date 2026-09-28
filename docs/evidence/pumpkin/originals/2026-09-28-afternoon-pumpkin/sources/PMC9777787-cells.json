@@ -1,0 +1,874 @@
+[
+  {
+    "table": "foods-11-04029-t001",
+    "row": 0,
+    "cell": 0,
+    "text": "Component (g/100 g)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 0,
+    "cell": 1,
+    "text": "Untreated Press Cake",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 0,
+    "cell": 2,
+    "text": "De-Oiled Press Cake",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 1,
+    "cell": 0,
+    "text": "Moisture",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 1,
+    "cell": 1,
+    "text": "4.73 ± 0.32 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 1,
+    "cell": 2,
+    "text": "4.84 ± 0.19 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 2,
+    "cell": 0,
+    "text": "Fat",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 2,
+    "cell": 1,
+    "text": "13.38 ± 0.12 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 2,
+    "cell": 2,
+    "text": "0.77 ± 0.14 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 3,
+    "cell": 0,
+    "text": "Protein",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 3,
+    "cell": 1,
+    "text": "60.24 ± 0.05 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 3,
+    "cell": 2,
+    "text": "68.68 ± 0.13 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 4,
+    "cell": 0,
+    "text": "Total dietary fibre",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 4,
+    "cell": 1,
+    "text": "13.13 ± 0.71 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 4,
+    "cell": 2,
+    "text": "17.39 ± 0.54 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 5,
+    "cell": 0,
+    "text": "Ash",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 5,
+    "cell": 1,
+    "text": "8.02 ± 0.06 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t001",
+    "row": 5,
+    "cell": 2,
+    "text": "9.11 ± 0.07 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 0,
+    "cell": 0,
+    "text": "Treatment",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 0,
+    "cell": 1,
+    "text": "d10 [µm]",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 0,
+    "cell": 2,
+    "text": "d50 [µm]",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 0,
+    "cell": 3,
+    "text": "d90 [µm]",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 1,
+    "cell": 0,
+    "text": "Control",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 1,
+    "cell": 1,
+    "text": "4.82 ± 0.44 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 1,
+    "cell": 2,
+    "text": "72.12 ± 14.58 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 1,
+    "cell": 3,
+    "text": "376.68 ± 38.32 c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 2,
+    "cell": 0,
+    "text": "US+AE",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 2,
+    "cell": 1,
+    "text": "3.49 ± 0.20 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 2,
+    "cell": 2,
+    "text": "31.50 ± 2.51 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 2,
+    "cell": 3,
+    "text": "252.96 ± 24.85 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 3,
+    "cell": 0,
+    "text": "UAE",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 3,
+    "cell": 1,
+    "text": "3.38 ± 0.25 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 3,
+    "cell": 2,
+    "text": "27.59 ± 4.02 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 3,
+    "cell": 3,
+    "text": "245.83 ± 34.60 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 4,
+    "cell": 0,
+    "text": "AE+US",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 4,
+    "cell": 1,
+    "text": "8.05 ± 0.72 c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 4,
+    "cell": 2,
+    "text": "36.25 ± 5.71 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t002",
+    "row": 4,
+    "cell": 3,
+    "text": "179.93 ± 13.24 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 0,
+    "cell": 0,
+    "text": "Treatment",
+    "rowspan": "2",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 0,
+    "cell": 1,
+    "text": "Solubility [%]",
+    "rowspan": "1",
+    "colspan": "4"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 0,
+    "cell": 2,
+    "text": "WBC [g/g dm]",
+    "rowspan": "2",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 1,
+    "cell": 0,
+    "text": "pH 3",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 1,
+    "cell": 1,
+    "text": "pH 5",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 1,
+    "cell": 2,
+    "text": "pH 7",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 1,
+    "cell": 3,
+    "text": "pH 9",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 2,
+    "cell": 0,
+    "text": "Control",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 2,
+    "cell": 1,
+    "text": "35.73 ± 1.42 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 2,
+    "cell": 2,
+    "text": "2.42 ± 0.06 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 2,
+    "cell": 3,
+    "text": "15.17 ± 0.20 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 2,
+    "cell": 4,
+    "text": "37.82 ± 1.07 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 2,
+    "cell": 5,
+    "text": "3.95 ± 0.04 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 3,
+    "cell": 0,
+    "text": "US+AE",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 3,
+    "cell": 1,
+    "text": "37.33 ± 0.41 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 3,
+    "cell": 2,
+    "text": "3.83 ± 0.42 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 3,
+    "cell": 3,
+    "text": "18.72 ± 0.13 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 3,
+    "cell": 4,
+    "text": "39.88 ± 0.30 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 3,
+    "cell": 5,
+    "text": "3.81 ± 0.08 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 4,
+    "cell": 0,
+    "text": "UAE",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 4,
+    "cell": 1,
+    "text": "38.00 ± 0.89 bc",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 4,
+    "cell": 2,
+    "text": "6.59 ± 0.99 d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 4,
+    "cell": 3,
+    "text": "18.80 ± 0.52 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 4,
+    "cell": 4,
+    "text": "46.87 ± 0.17 c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 4,
+    "cell": 5,
+    "text": "3.61 ± 0.21 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 5,
+    "cell": 0,
+    "text": "AE+US",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 5,
+    "cell": 1,
+    "text": "38.84 ± 0.21 c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 5,
+    "cell": 2,
+    "text": "4.90 ± 0.05 c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 5,
+    "cell": 3,
+    "text": "23.07 ± 0.06 c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 5,
+    "cell": 4,
+    "text": "46.93 ±0.61 c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t003",
+    "row": 5,
+    "cell": 5,
+    "text": "3.66 ± 0.15 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 0,
+    "cell": 0,
+    "text": "\n",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 0,
+    "cell": 1,
+    "text": "Control",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 0,
+    "cell": 2,
+    "text": "US+AE",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 0,
+    "cell": 3,
+    "text": "UAE",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 0,
+    "cell": 4,
+    "text": "AE+US",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 1,
+    "cell": 0,
+    "text": "Tden (°C)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 1,
+    "cell": 1,
+    "text": "99.05 ± 4.15 c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 1,
+    "cell": 2,
+    "text": "85.70 ± 2.29 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 1,
+    "cell": 3,
+    "text": "94.20 ± 2.84 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 1,
+    "cell": 4,
+    "text": "92.44 ± 3.58 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 2,
+    "cell": 0,
+    "text": "∆H (J/g)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 2,
+    "cell": 1,
+    "text": "308.6 ± 9.6 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 2,
+    "cell": 2,
+    "text": "371.0 ± 21.6 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 2,
+    "cell": 3,
+    "text": "362.2 ± 10.5 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t004",
+    "row": 2,
+    "cell": 4,
+    "text": "360.8 ± 2.6 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 0,
+    "cell": 0,
+    "text": "\n",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 0,
+    "cell": 1,
+    "text": "Control",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 0,
+    "cell": 2,
+    "text": "US+AE",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 0,
+    "cell": 3,
+    "text": "UAE",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 0,
+    "cell": 4,
+    "text": "AE+US",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 1,
+    "cell": 0,
+    "text": "∆E*",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 1,
+    "cell": 1,
+    "text": "\n",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 1,
+    "cell": 2,
+    "text": "2.02 ± 1.26",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 1,
+    "cell": 3,
+    "text": "1.84 ± 0.34",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 1,
+    "cell": 4,
+    "text": "2.72 ±0.14",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 2,
+    "cell": 0,
+    "text": "L*",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 2,
+    "cell": 1,
+    "text": "71.20 ± 0.48 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 2,
+    "cell": 2,
+    "text": "72.26 ± 1.76 c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 2,
+    "cell": 3,
+    "text": "69.64 ± 0.10 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 2,
+    "cell": 4,
+    "text": "68.78 ± 0.17 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 3,
+    "cell": 0,
+    "text": "\nh\nab\n",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 3,
+    "cell": 1,
+    "text": "78.70 ± 0.10 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 3,
+    "cell": 2,
+    "text": "80.33 ± 1.19 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 3,
+    "cell": 3,
+    "text": "81.05 ± 0.33 bc",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 3,
+    "cell": 4,
+    "text": "81.52 ± 0.08 c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 4,
+    "cell": 0,
+    "text": "C*",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 4,
+    "cell": 1,
+    "text": "21.66 ± 0.38 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 4,
+    "cell": 2,
+    "text": "20.57 ± 1.04 a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 4,
+    "cell": 3,
+    "text": "22.08 ± 0.51 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "foods-11-04029-t005",
+    "row": 4,
+    "cell": 4,
+    "text": "21.29 ± 0.97 ab",
+    "rowspan": "1",
+    "colspan": "1"
+  }
+]

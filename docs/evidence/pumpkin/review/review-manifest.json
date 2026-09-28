@@ -1,0 +1,14 @@
+{
+  "REVIEW.md": "5b0639eb729874edf2f35532f410a494f31c16c0329d34046c852bee182e3d0c",
+  "changes.en.diff": "cc6f3854de0c17e8bbdef3a2c37ab6e5d4cef45fd32a7361b7d43ac2dfa23e10",
+  "changes.zh.diff": "f2c93ad19ec4339d52d171b7f8770954235d95f9adb38d9de0115fa73728ed65",
+  "citations.json": "2a019baec631c0e9ab91678b6c841a5ced044c43fc96776001774f9691068e32",
+  "claim-ledger.json": "178b541f8eea579d58407365bdcae2a2de2fcd7fb7c95f1e5a610c3e5b265777",
+  "draft.en.md": "e1577776f33b8042e982159a7d9d584c1c1f8b2e8ad1d782b5c12a889f935139",
+  "draft.zh.md": "c7a2dcf5534bde94b153b3e5687c001a9101a2485d98eb2a82ea7341daf0d11b",
+  "independent_check.py": "f74191f9ab460d51bfb9541da648fcbf44cbffafbb2aaacdc2d24a633534beca",
+  "original-byte-manifest.json": "1b732b9ab49d34ec33d9d0b2970fe691e08f2cd18afeb2e35171ba56f0886164",
+  "original-claim-evidence.json": "226bc2c5fc1616ad755fec4a601188dc7d5a0a58644c68e6dc945ce9c32ee6b6",
+  "upstream-verification.json": "da954f4a809bf86d2a2b64d665bcd51e3040f218f0bcf590899c498ed4d96a24",
+  "vision-review.json": "dc780829df9186c6b42c53566b58422b84bc366c985f6de65b258a601bdb8476"
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "file": "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+    "sha256": "e58db135c56952510d3d053996fe7cea52d84f23544f8cc0e4a8b0eac7805f31",
+    "asin": "B01N7CLYX7",
+    "raw_field": "initial[0].hiRes",
+    "url": "https://m.media-amazon.com/images/I/81QCeBgXOTL._AC_SL1500_.jpg",
+    "inspection": "individual original via vision_analyze; reviewer read label, not OCR automation"
+  },
+  {
+    "file": "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+    "sha256": "ba589b2d13675f83501dded0e97ae0810699494ec49ebf3bd2e813c7fcc21779",
+    "asin": "B01N7CLYX7",
+    "raw_field": "initial[5].hiRes",
+    "url": "https://m.media-amazon.com/images/I/71fkHBwWcUL._AC_SL1500_.jpg",
+    "inspection": "individual original via vision_analyze; reviewer read label, not OCR automation"
+  },
+  {
+    "file": "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+    "sha256": "7bd36b8d606c64002e34bf998a73815392477f713608732f8801eef7549d8b08",
+    "asin": "B01N7CLYX7",
+    "raw_field": "initial[7].hiRes",
+    "url": "https://m.media-amazon.com/images/I/61oHuBYqOxL._AC_SL1500_.jpg",
+    "inspection": "individual original via vision_analyze; reviewer read label, not OCR automation"
+  },
+  {
+    "file": "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+    "sha256": "092d339d45c2191c22740c7c208bd5e60779dd25ace8741f4b48d6c2edbcabd7",
+    "asin": "B0CWVTCT7G",
+    "raw_field": "initial[0].hiRes",
+    "url": "https://m.media-amazon.com/images/I/81GA6Y9qhEL._AC_SL1500_.jpg",
+    "inspection": "individual original via vision_analyze; reviewer read label, not OCR automation"
+  },
+  {
+    "file": "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+    "sha256": "a70dbb48dc8ebdf2be0915910d3d530b9a2caf3eb8d81de5da0e1bcd2d0cfe9b",
+    "asin": "B0CWVTCT7G",
+    "raw_field": "initial[1].hiRes",
+    "url": "https://m.media-amazon.com/images/I/81r5fgF9gfL._AC_SL1500_.jpg",
+    "inspection": "individual original via vision_analyze; reviewer read label, not OCR automation"
+  },
+  {
+    "file": "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+    "sha256": "b1debcf807f8bb9e627127014c7b3d2825b8e0ad0692631282c5abb417853612",
+    "asin": "B0CWVTCT7G",
+    "raw_field": "initial[2].hiRes",
+    "url": "https://m.media-amazon.com/images/I/61ex5vU82tL._AC_SL1416_.jpg",
+    "inspection": "individual original via vision_analyze; reviewer read label, not OCR automation"
+  },
+  {
+    "file": "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+    "sha256": "6bfceeea053c2f3d33f4ececda8962599c34b0dca76f2850510ebebc967b7479",
+    "asin": "B0FWJGBPWM",
+    "raw_field": "initial[0].hiRes",
+    "url": "https://m.media-amazon.com/images/I/61nNVYokGpL._AC_SL1500_.jpg",
+    "inspection": "individual original via vision_analyze; reviewer read label, not OCR automation"
+  },
+  {
+    "file": "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg",
+    "sha256": "ba9b1600172e6af253f4cb2d7bf2cc0dbe2f3336ddc85dad1c3b59fc50dc2c84",
+    "asin": "B0FWJGBPWM",
+    "raw_field": "initial[1].hiRes",
+    "url": "https://m.media-amazon.com/images/I/81pNIZKO5EL._AC_SL1500_.jpg",
+    "inspection": "individual original via vision_analyze; reviewer read label, not OCR automation"
+  },
+  {
+    "file": "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/cambridge-page1.png",
+    "sha256": "c208afbea494e55a5dca251f768e1f42a57059c79562f4cc932143c38079a181",
+    "observation": "Name60%; Protein Content≥80%; effective2/19/2020",
+    "inspection": "individual original rendered page via vision_analyze"
+  },
+  {
+    "file": "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/cambridge-page3.png",
+    "sha256": "f27ccff56d8720cb1241a05725ca7ae69b12aa08280022f9beeac5a41d6934d1",
+    "observation": "Machine sieving→Expression→Pumpkin seed cake→Milling→Packaging→Storage→Shipping",
+    "inspection": "individual original rendered page via vision_analyze"
+  },
+  {
+    "file": "/data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/cambridge-page4.png",
+    "sha256": "c6452af202a295d01d587d5d27b2fb0eaecf56eafbac2a6eb38605cc849dcb1f",
+    "observation": "Amount per100g protein65; no individual unit",
+    "inspection": "individual original rendered page via vision_analyze"
+  }
+]

@@ -1,0 +1,1882 @@
+[
+  {
+    "table": "tbl1",
+    "row": 0,
+    "cell": 0,
+    "text": "Treatment",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 0,
+    "cell": 1,
+    "text": "Extraction\nTechniques",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 0,
+    "cell": 2,
+    "text": "Extraction\nYield (% (w/w))",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 1,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 1,
+    "cell": 1,
+    "text": "Alkali",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 1,
+    "cell": 2,
+    "text": "34.1 ± 0.05d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 2,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 2,
+    "cell": 1,
+    "text": "50.3 ± 0.09b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 3,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 3,
+    "cell": 1,
+    "text": "55.2 ± 0.21a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 4,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 4,
+    "cell": 1,
+    "text": "Salt",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 4,
+    "cell": 2,
+    "text": "11.2 ± 0.06h",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 5,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 5,
+    "cell": 1,
+    "text": "14.3 ± 0.07g",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 6,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 6,
+    "cell": 1,
+    "text": "16.2 ± 0.05f",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 7,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 7,
+    "cell": 1,
+    "text": "Enzyme-assisted",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 7,
+    "cell": 2,
+    "text": "26.3 ± 0.06e",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 8,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 8,
+    "cell": 1,
+    "text": "34.5 ± 0.19d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 9,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl1",
+    "row": 9,
+    "cell": 1,
+    "text": "36.6 ± 0.26c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 0,
+    "cell": 0,
+    "text": "Treatments",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 0,
+    "cell": 1,
+    "text": "Extraction\nTechniques",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 0,
+    "cell": 2,
+    "text": "Moisture\n(g/100 g dw)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 0,
+    "cell": 3,
+    "text": "Ash (g/100\ng dw)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 0,
+    "cell": 4,
+    "text": "Fat (g/100\ng dw)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 0,
+    "cell": 5,
+    "text": "Protein (g/100\ng dw)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 0,
+    "cell": 6,
+    "text": "Carbohydrate\n(g/100 g dw)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 1,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 1,
+    "cell": 1,
+    "text": "Alkali",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 1,
+    "cell": 2,
+    "text": "9.24 ± 0.03a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 1,
+    "cell": 3,
+    "text": "5.37 ± 0.01abcd",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 1,
+    "cell": 4,
+    "text": "13.41 ± 0.02c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 1,
+    "cell": 5,
+    "text": "59.42 ± 0.11ef",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 1,
+    "cell": 6,
+    "text": "21.82 ± 0.33b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 2,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 2,
+    "cell": 1,
+    "text": "8.67 ± 0.02d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 2,
+    "cell": 2,
+    "text": "5.60 ± 0.01a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 2,
+    "cell": 3,
+    "text": "11.61 ± 0.03f",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 2,
+    "cell": 4,
+    "text": "68.67 ± 0.53b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 2,
+    "cell": 5,
+    "text": "14.14 ± 0.14e",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 3,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 3,
+    "cell": 1,
+    "text": "7.95 ± 0.02f",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 3,
+    "cell": 2,
+    "text": "4.95 ± 0.02e",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 3,
+    "cell": 3,
+    "text": "10.63 ± 0.03g",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 3,
+    "cell": 4,
+    "text": "76.95 ± 0.52a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 3,
+    "cell": 5,
+    "text": "7.51 ± 0.06f",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 4,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 4,
+    "cell": 1,
+    "text": "Salt",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 4,
+    "cell": 2,
+    "text": "8.23 ± 0.03e",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 4,
+    "cell": 3,
+    "text": "5.23 ± 0.02cd",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 4,
+    "cell": 4,
+    "text": "15.19 ± 0.07ab",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 4,
+    "cell": 5,
+    "text": "55.23 ± 0.84g",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 4,
+    "cell": 6,
+    "text": "24.44 ± 0.45a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 5,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 5,
+    "cell": 1,
+    "text": "8.72 ± 0.03cd",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 5,
+    "cell": 2,
+    "text": "5.12 ± 0.05de",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 5,
+    "cell": 3,
+    "text": "15.22 ± 0.06a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 5,
+    "cell": 4,
+    "text": "61.22 ± 0.59de",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 5,
+    "cell": 5,
+    "text": "18.44 ± 0.23c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 6,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 6,
+    "cell": 1,
+    "text": "8.55 ± 0.06d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 6,
+    "cell": 2,
+    "text": "5.55 ± 0.05ab",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 6,
+    "cell": 3,
+    "text": "14.91 ± 0.06b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 6,
+    "cell": 4,
+    "text": "63.55 ± 0.74cd",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 6,
+    "cell": 5,
+    "text": "15.98 ± 0.41de",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 7,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 7,
+    "cell": 1,
+    "text": "Enzyme-assisted",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 7,
+    "cell": 2,
+    "text": "9.13 ± 0.04ab",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 7,
+    "cell": 3,
+    "text": "5.13 ± 0.07de",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 7,
+    "cell": 4,
+    "text": "13.10 ± 0.06d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 7,
+    "cell": 5,
+    "text": "57.13 ± 0.65fg",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 7,
+    "cell": 6,
+    "text": "24.64 ± 0.44a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 8,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 8,
+    "cell": 1,
+    "text": "9.02 ± 0.03b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 8,
+    "cell": 2,
+    "text": "5.42 ± 0.09abc",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 8,
+    "cell": 3,
+    "text": "12.72 ± 0.03e",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 8,
+    "cell": 4,
+    "text": "63.52 ± 0.50cd",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 8,
+    "cell": 5,
+    "text": "18.36 ± 0.26c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 9,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 9,
+    "cell": 1,
+    "text": "8.93 ± 0.04bc",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 9,
+    "cell": 2,
+    "text": "5.3 ± 0.03bcd",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 9,
+    "cell": 3,
+    "text": "10.80 ± 0.05g",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 9,
+    "cell": 4,
+    "text": "66.93 ± 0.63bc",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl2",
+    "row": 9,
+    "cell": 5,
+    "text": "16.97 ± 0.15cd",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 0,
+    "cell": 0,
+    "text": "Samples",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 0,
+    "cell": 1,
+    "text": "α-Helix\n(%)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 0,
+    "cell": 2,
+    "text": "β-Sheet\n(%)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 0,
+    "cell": 3,
+    "text": "β-Turns\n(%)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 0,
+    "cell": 4,
+    "text": "Random Coil\n(%)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 1,
+    "cell": 0,
+    "text": "Control",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 1,
+    "cell": 1,
+    "text": "36.26 ± 0.42a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 1,
+    "cell": 2,
+    "text": "37.46 ± 0.63d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 1,
+    "cell": 3,
+    "text": "17.27 ± 0.12c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 1,
+    "cell": 4,
+    "text": "8.99 ± 0.02c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 2,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 2,
+    "cell": 1,
+    "text": "32.41 ± 0.38b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 2,
+    "cell": 2,
+    "text": "40.36 ± 1.13b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 2,
+    "cell": 3,
+    "text": "17.35 ± 0.12c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 2,
+    "cell": 4,
+    "text": "9.87 ± 0.02b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 3,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 3,
+    "cell": 1,
+    "text": "31.99 ± 0.34c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 3,
+    "cell": 2,
+    "text": "39.76 ± 0.66c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 3,
+    "cell": 3,
+    "text": "18.22 ± 0.44b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 3,
+    "cell": 4,
+    "text": "10.02 ± 0.12a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 4,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 4,
+    "cell": 1,
+    "text": "29.13 ± 0.22d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 4,
+    "cell": 2,
+    "text": "40.81 ± 0.54a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 4,
+    "cell": 3,
+    "text": "20.04 ± 0.47a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl3",
+    "row": 4,
+    "cell": 4,
+    "text": "10.01 ± 0.11ab",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 0,
+    "cell": 0,
+    "text": "Treatments",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 0,
+    "cell": 1,
+    "text": "Extraction\nTechniques",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 0,
+    "cell": 2,
+    "text": "PS (% (w/w))",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 0,
+    "cell": 3,
+    "text": "WSI (w/w))",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 0,
+    "cell": 4,
+    "text": "T2(ms)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 1,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 1,
+    "cell": 1,
+    "text": "Alkali",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 1,
+    "cell": 2,
+    "text": "10.32 ± 0.05c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 1,
+    "cell": 3,
+    "text": "3.31 ± 0.009b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 1,
+    "cell": 4,
+    "text": "127.94 ± 0.774f",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 2,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 2,
+    "cell": 1,
+    "text": "9.75 ± 0.02d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 2,
+    "cell": 2,
+    "text": "2.32 ± 0.03e",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 2,
+    "cell": 3,
+    "text": "229.81 ± 1.21d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 3,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 3,
+    "cell": 1,
+    "text": "15.99 ± 0.04a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 3,
+    "cell": 2,
+    "text": "3.45 ± 0.005a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 3,
+    "cell": 3,
+    "text": "113.02 ± 1.01g",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 4,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 4,
+    "cell": 1,
+    "text": "Salt",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 4,
+    "cell": 2,
+    "text": "7.86 ± 0.01f",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 4,
+    "cell": 3,
+    "text": "2.59 ± 0.02d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 4,
+    "cell": 4,
+    "text": "355.01 ± 2.24a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 5,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 5,
+    "cell": 1,
+    "text": "7.97 ± 0.01f",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 5,
+    "cell": 2,
+    "text": "1.99 ± 0.03 g",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 5,
+    "cell": 3,
+    "text": "319.54 ± 2.87b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 6,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 6,
+    "cell": 1,
+    "text": "8.04 ± 0.02f",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 6,
+    "cell": 2,
+    "text": "2.75 ± 0.007c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 6,
+    "cell": 3,
+    "text": "274.89 ± 1.91c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 7,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 7,
+    "cell": 1,
+    "text": "Enzyme-assisted",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 7,
+    "cell": 2,
+    "text": "9.88 ± 0.02d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 7,
+    "cell": 3,
+    "text": "3.29 ± 0.009b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 7,
+    "cell": 4,
+    "text": "164.09 ± 1.19e",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 8,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 8,
+    "cell": 1,
+    "text": "9.11 ± 0.03e",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 8,
+    "cell": 2,
+    "text": "2.11 ± 0.009f",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 8,
+    "cell": 3,
+    "text": "228.61 ± 4.03d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 9,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 9,
+    "cell": 1,
+    "text": "13.68 ± 0.03b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 9,
+    "cell": 2,
+    "text": "3.41 ± 0.005a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl4",
+    "row": 9,
+    "cell": 3,
+    "text": "125.22 ± 2.78fg",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 0,
+    "cell": 0,
+    "text": "Treatments",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 0,
+    "cell": 1,
+    "text": "Extraction\nTechniques",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 0,
+    "cell": 2,
+    "text": "AA (mg Trolox/g\nsample)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 1,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 1,
+    "cell": 1,
+    "text": "Alkali",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 1,
+    "cell": 2,
+    "text": "15.24 ± 0.02b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 2,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 2,
+    "cell": 1,
+    "text": "14.63 ± 0.07e",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 3,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 3,
+    "cell": 1,
+    "text": "15.54 ± 0.08a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 4,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 4,
+    "cell": 1,
+    "text": "Salt",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 4,
+    "cell": 2,
+    "text": "14.56 ± 0.02f",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 5,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 5,
+    "cell": 1,
+    "text": "14.12 ± 0.09ı",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 6,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 6,
+    "cell": 1,
+    "text": "14.39 ± 0.06h",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 7,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 7,
+    "cell": 1,
+    "text": "Enzyme-assisted",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 7,
+    "cell": 2,
+    "text": "15.08 ± 0.03c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 8,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 8,
+    "cell": 1,
+    "text": "14.44 ± 0.04g",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 9,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl5",
+    "row": 9,
+    "cell": 1,
+    "text": "14.72 ± 0.03d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 0,
+    "cell": 0,
+    "text": "Treatments",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 0,
+    "cell": 1,
+    "text": "Extraction\nTechniques",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 0,
+    "cell": 2,
+    "text": "Water Activity\n(aw)",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 0,
+    "cell": 3,
+    "text": "L*",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 0,
+    "cell": 4,
+    "text": "a*",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 0,
+    "cell": 5,
+    "text": "b*",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 1,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 1,
+    "cell": 1,
+    "text": "Alkali",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 1,
+    "cell": 2,
+    "text": "0.31 ± 0.005a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 1,
+    "cell": 3,
+    "text": "49.57 ± 0.07c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 1,
+    "cell": 4,
+    "text": "4.13 ± 0.03b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 1,
+    "cell": 5,
+    "text": "28.77 ± 0.03c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 2,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 2,
+    "cell": 1,
+    "text": "0.32 ± 0.005a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 2,
+    "cell": 2,
+    "text": "45.17 ± 0.03g",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 2,
+    "cell": 3,
+    "text": "4.27 ± 0.03ab",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 2,
+    "cell": 4,
+    "text": "27.47 ± 0.06d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 3,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 3,
+    "cell": 1,
+    "text": "0.31 ± 0.003a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 3,
+    "cell": 2,
+    "text": "48.67 ± 0.07d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 3,
+    "cell": 3,
+    "text": "4.13 ± 0.02b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 3,
+    "cell": 4,
+    "text": "28.57 ± 0.02c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 4,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 4,
+    "cell": 1,
+    "text": "Salt",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 4,
+    "cell": 2,
+    "text": "0.30 ± 0.005a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 4,
+    "cell": 3,
+    "text": "51.27 ± 0.07a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 4,
+    "cell": 4,
+    "text": "3.33 ± 0.03d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 4,
+    "cell": 5,
+    "text": "30.23 ± 0.03a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 5,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 5,
+    "cell": 1,
+    "text": "0.32 ± 0.002a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 5,
+    "cell": 2,
+    "text": "48.77 ± 0.03 d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 5,
+    "cell": 3,
+    "text": "3.73 ± 0.02c",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 5,
+    "cell": 4,
+    "text": "29.80 ± 0.05 b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 6,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 6,
+    "cell": 1,
+    "text": "0.31 ± 0.003a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 6,
+    "cell": 2,
+    "text": "50.37 ± 0.03b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 6,
+    "cell": 3,
+    "text": "3.43 ± 0.03d",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 6,
+    "cell": 4,
+    "text": "29.97 ± 0.05ab",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 7,
+    "cell": 0,
+    "text": "UT",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 7,
+    "cell": 1,
+    "text": "Enzyme-assisted",
+    "rowspan": "3",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 7,
+    "cell": 2,
+    "text": "0.33 ± 0.003a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 7,
+    "cell": 3,
+    "text": "47.57 ± 0.08e",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 7,
+    "cell": 4,
+    "text": "4.27 ± 0.02ab",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 7,
+    "cell": 5,
+    "text": "26.73 ± 0.05e",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 8,
+    "cell": 0,
+    "text": "CH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 8,
+    "cell": 1,
+    "text": "0.32 ± 0.005a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 8,
+    "cell": 2,
+    "text": "46.77 ± 0.06f",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 8,
+    "cell": 3,
+    "text": "4.43 ± 0.03a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 8,
+    "cell": 4,
+    "text": "26.53 ± 0.03e",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 9,
+    "cell": 0,
+    "text": "MH",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 9,
+    "cell": 1,
+    "text": "0.32 ± 0.006a",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 9,
+    "cell": 2,
+    "text": "47.46 ± 0.02e",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 9,
+    "cell": 3,
+    "text": "4.20 ± 0.05b",
+    "rowspan": "1",
+    "colspan": "1"
+  },
+  {
+    "table": "tbl6",
+    "row": 9,
+    "cell": 4,
+    "text": "26.70 ± 0.05e",
+    "rowspan": "1",
+    "colspan": "1"
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "id": "tbl1",
+    "caption": "Extraction Yield (% (w/w)) of Pumpkin\nSeed Protein Concentrate (PSPC) Samplesa",
+    "rows": [
+      [
+        "Treatment",
+        "Extraction\nTechniques",
+        "Extraction\nYield (% (w/w))"
+      ],
+      [
+        "UT",
+        "Alkali",
+        "34.1 ± 0.05d"
+      ],
+      [
+        "CH",
+        "50.3 ± 0.09b"
+      ],
+      [
+        "MH",
+        "55.2 ± 0.21a"
+      ],
+      [
+        "UT",
+        "Salt",
+        "11.2 ± 0.06h"
+      ],
+      [
+        "CH",
+        "14.3 ± 0.07g"
+      ],
+      [
+        "MH",
+        "16.2 ± 0.05f"
+      ],
+      [
+        "UT",
+        "Enzyme-assisted",
+        "26.3 ± 0.06e"
+      ],
+      [
+        "CH",
+        "34.5 ± 0.19d"
+      ],
+      [
+        "MH",
+        "36.6 ± 0.26c"
+      ]
+    ],
+    "notes": [
+      "aUT (untreated samples), CH (conventional\nheated), and MH (microwave heated). Upper case superscript letters\n(a–h) denote a significant difference at 5% (p < 0.05). Values are expressed as mean ± SE (n = 3)."
+    ]
+  },
+  {
+    "id": "tbl2",
+    "caption": "Proximate Composition Analysis of\nthe Extracted Pumpkin Seed Protein Concentrate (PSPC) Samplesa",
+    "rows": [
+      [
+        "Treatments",
+        "Extraction\nTechniques",
+        "Moisture\n(g/100 g dw)",
+        "Ash (g/100\ng dw)",
+        "Fat (g/100\ng dw)",
+        "Protein (g/100\ng dw)",
+        "Carbohydrate\n(g/100 g dw)"
+      ],
+      [
+        "UT",
+        "Alkali",
+        "9.24 ± 0.03a",
+        "5.37 ± 0.01abcd",
+        "13.41 ± 0.02c",
+        "59.42 ± 0.11ef",
+        "21.82 ± 0.33b"
+      ],
+      [
+        "CH",
+        "8.67 ± 0.02d",
+        "5.60 ± 0.01a",
+        "11.61 ± 0.03f",
+        "68.67 ± 0.53b",
+        "14.14 ± 0.14e"
+      ],
+      [
+        "MH",
+        "7.95 ± 0.02f",
+        "4.95 ± 0.02e",
+        "10.63 ± 0.03g",
+        "76.95 ± 0.52a",
+        "7.51 ± 0.06f"
+      ],
+      [
+        "UT",
+        "Salt",
+        "8.23 ± 0.03e",
+        "5.23 ± 0.02cd",
+        "15.19 ± 0.07ab",
+        "55.23 ± 0.84g",
+        "24.44 ± 0.45a"
+      ],
+      [
+        "CH",
+        "8.72 ± 0.03cd",
+        "5.12 ± 0.05de",
+        "15.22 ± 0.06a",
+        "61.22 ± 0.59de",
+        "18.44 ± 0.23c"
+      ],
+      [
+        "MH",
+        "8.55 ± 0.06d",
+        "5.55 ± 0.05ab",
+        "14.91 ± 0.06b",
+        "63.55 ± 0.74cd",
+        "15.98 ± 0.41de"
+      ],
+      [
+        "UT",
+        "Enzyme-assisted",
+        "9.13 ± 0.04ab",
+        "5.13 ± 0.07de",
+        "13.10 ± 0.06d",
+        "57.13 ± 0.65fg",
+        "24.64 ± 0.44a"
+      ],
+      [
+        "CH",
+        "9.02 ± 0.03b",
+        "5.42 ± 0.09abc",
+        "12.72 ± 0.03e",
+        "63.52 ± 0.50cd",
+        "18.36 ± 0.26c"
+      ],
+      [
+        "MH",
+        "8.93 ± 0.04bc",
+        "5.3 ± 0.03bcd",
+        "10.80 ± 0.05g",
+        "66.93 ± 0.63bc",
+        "16.97 ± 0.15cd"
+      ]
+    ],
+    "notes": [
+      "aUT (untreated samples), CH (conventional\nheated), and MH (microwave heated). Values are expressed in dry weight\n(dw) as mean ± SE (n = 3). Upper case superscript\nletters (a–g) denote a significant difference at 5% (p < 0.05) in each column."
+    ]
+  },
+  {
+    "id": "tbl3",
+    "caption": "Fourier-Transform Infrared Spectroscopy\n(FTIR) Spectra of Control (Purchased Pumpkin Seed) and Alkali-Extracted\n(AE) Pumpkin Seed Protein Concentrate (PSPC) Samplesa",
+    "rows": [
+      [
+        "Samples",
+        "α-Helix\n(%)",
+        "β-Sheet\n(%)",
+        "β-Turns\n(%)",
+        "Random Coil\n(%)"
+      ],
+      [
+        "Control",
+        "36.26 ± 0.42a",
+        "37.46 ± 0.63d",
+        "17.27 ± 0.12c",
+        "8.99 ± 0.02c"
+      ],
+      [
+        "UT",
+        "32.41 ± 0.38b",
+        "40.36 ± 1.13b",
+        "17.35 ± 0.12c",
+        "9.87 ± 0.02b"
+      ],
+      [
+        "CH",
+        "31.99 ± 0.34c",
+        "39.76 ± 0.66c",
+        "18.22 ± 0.44b",
+        "10.02 ± 0.12a"
+      ],
+      [
+        "MH",
+        "29.13 ± 0.22d",
+        "40.81 ± 0.54a",
+        "20.04 ± 0.47a",
+        "10.01 ± 0.11ab"
+      ]
+    ],
+    "notes": [
+      "aControl (Purchased Pumpkin Seed\nFlour), UT (untreated samples), CH (conventional heated), and MH (microwave\nheated). Values are expressed as mean ± SE (n = 3). Upper case superscript letters (a–d) denote a significant\ndifference at 5% (p < 0.05) in each column."
+    ]
+  },
+  {
+    "id": "tbl4",
+    "caption": "Protein Solubility (PS) (% (w/w)),\nWater Solubility Index (WSI), and T2 Relaxation Times (Milliseconds)\nof Extracted Pumpkin Seed Protein Concentrate (PSPC) Samplesa",
+    "rows": [
+      [
+        "Treatments",
+        "Extraction\nTechniques",
+        "PS (% (w/w))",
+        "WSI (w/w))",
+        "T2(ms)"
+      ],
+      [
+        "UT",
+        "Alkali",
+        "10.32 ± 0.05c",
+        "3.31 ± 0.009b",
+        "127.94 ± 0.774f"
+      ],
+      [
+        "CH",
+        "9.75 ± 0.02d",
+        "2.32 ± 0.03e",
+        "229.81 ± 1.21d"
+      ],
+      [
+        "MH",
+        "15.99 ± 0.04a",
+        "3.45 ± 0.005a",
+        "113.02 ± 1.01g"
+      ],
+      [
+        "UT",
+        "Salt",
+        "7.86 ± 0.01f",
+        "2.59 ± 0.02d",
+        "355.01 ± 2.24a"
+      ],
+      [
+        "CH",
+        "7.97 ± 0.01f",
+        "1.99 ± 0.03 g",
+        "319.54 ± 2.87b"
+      ],
+      [
+        "MH",
+        "8.04 ± 0.02f",
+        "2.75 ± 0.007c",
+        "274.89 ± 1.91c"
+      ],
+      [
+        "UT",
+        "Enzyme-assisted",
+        "9.88 ± 0.02d",
+        "3.29 ± 0.009b",
+        "164.09 ± 1.19e"
+      ],
+      [
+        "CH",
+        "9.11 ± 0.03e",
+        "2.11 ± 0.009f",
+        "228.61 ± 4.03d"
+      ],
+      [
+        "MH",
+        "13.68 ± 0.03b",
+        "3.41 ± 0.005a",
+        "125.22 ± 2.78fg"
+      ]
+    ],
+    "notes": [
+      "aUT (untreated samples), CH (conventional\nheated), and MH (microwave heated). Values are expressed as mean ±\nSE (n = 3). Upper case superscript letters (a–g)\ndenote a significant difference at 5% (p < 0.05)\nin each column."
+    ]
+  },
+  {
+    "id": "tbl5",
+    "caption": "Antioxidant Activity (AA) (mg Trolox/g\nSample) of Extracted Pumpkin Seed Protein Concentrate (PSPC) Samplesa",
+    "rows": [
+      [
+        "Treatments",
+        "Extraction\nTechniques",
+        "AA (mg Trolox/g\nsample)"
+      ],
+      [
+        "UT",
+        "Alkali",
+        "15.24 ± 0.02b"
+      ],
+      [
+        "CH",
+        "14.63 ± 0.07e"
+      ],
+      [
+        "MH",
+        "15.54 ± 0.08a"
+      ],
+      [
+        "UT",
+        "Salt",
+        "14.56 ± 0.02f"
+      ],
+      [
+        "CH",
+        "14.12 ± 0.09ı"
+      ],
+      [
+        "MH",
+        "14.39 ± 0.06h"
+      ],
+      [
+        "UT",
+        "Enzyme-assisted",
+        "15.08 ± 0.03c"
+      ],
+      [
+        "CH",
+        "14.44 ± 0.04g"
+      ],
+      [
+        "MH",
+        "14.72 ± 0.03d"
+      ]
+    ],
+    "notes": [
+      "aUT (untreated samples), CH (conventional\nheated), and MH (microwave heated). Values are expressed as mean ±\nSE (n = 3). Upper case superscript letters (a–g)\ndenote a significant difference at 5% (p < 0.05)\nin each column."
+    ]
+  },
+  {
+    "id": "tbl6",
+    "caption": "Water Activity (aw) and Color Analysis (L*, a*, and b*) of Extracted Pumpkin\nSeed Protein Concentrate (PSPC) Samplesa",
+    "rows": [
+      [
+        "Treatments",
+        "Extraction\nTechniques",
+        "Water Activity\n(aw)",
+        "L*",
+        "a*",
+        "b*"
+      ],
+      [
+        "UT",
+        "Alkali",
+        "0.31 ± 0.005a",
+        "49.57 ± 0.07c",
+        "4.13 ± 0.03b",
+        "28.77 ± 0.03c"
+      ],
+      [
+        "CH",
+        "0.32 ± 0.005a",
+        "45.17 ± 0.03g",
+        "4.27 ± 0.03ab",
+        "27.47 ± 0.06d"
+      ],
+      [
+        "MH",
+        "0.31 ± 0.003a",
+        "48.67 ± 0.07d",
+        "4.13 ± 0.02b",
+        "28.57 ± 0.02c"
+      ],
+      [
+        "UT",
+        "Salt",
+        "0.30 ± 0.005a",
+        "51.27 ± 0.07a",
+        "3.33 ± 0.03d",
+        "30.23 ± 0.03a"
+      ],
+      [
+        "CH",
+        "0.32 ± 0.002a",
+        "48.77 ± 0.03 d",
+        "3.73 ± 0.02c",
+        "29.80 ± 0.05 b"
+      ],
+      [
+        "MH",
+        "0.31 ± 0.003a",
+        "50.37 ± 0.03b",
+        "3.43 ± 0.03d",
+        "29.97 ± 0.05ab"
+      ],
+      [
+        "UT",
+        "Enzyme-assisted",
+        "0.33 ± 0.003a",
+        "47.57 ± 0.08e",
+        "4.27 ± 0.02ab",
+        "26.73 ± 0.05e"
+      ],
+      [
+        "CH",
+        "0.32 ± 0.005a",
+        "46.77 ± 0.06f",
+        "4.43 ± 0.03a",
+        "26.53 ± 0.03e"
+      ],
+      [
+        "MH",
+        "0.32 ± 0.006a",
+        "47.46 ± 0.02e",
+        "4.20 ± 0.05b",
+        "26.70 ± 0.05e"
+      ]
+    ],
+    "notes": [
+      "aUT (untreated samples), CH (conventional\nheated), and MH (microwave heated). Values are expressed as mean ±\nSE (n = 3). Upper case superscript letters (a–g)\ndenote a significant difference at 5% (p < 0.05)\nin each column."
+    ]
+  }
+]

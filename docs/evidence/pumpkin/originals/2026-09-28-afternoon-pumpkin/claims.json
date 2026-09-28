@@ -1,0 +1,540 @@
+[
+  {
+    "id": "R1-0",
+    "source": 1,
+    "evidence_file": "sources/sprout.txt",
+    "quote": "USDA Organic (Quality Assurance International)",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "R1-1",
+    "source": 1,
+    "evidence_file": "sources/sprout.txt",
+    "quote": "Made in USA",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "R1-2",
+    "source": 1,
+    "evidence_file": "sources/sprout.txt",
+    "quote": "PURE ORGANIC PLANT PROTEIN - Organic plant protein powder without artificial sweeteners, made from organic, non-GMO AA grade pumpkin seeds that have been cold-pressed.",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "R1-3",
+    "source": 1,
+    "evidence_file": "sources/sprout.txt",
+    "quote": "COMPLETE AMINO ACID PROFILE - 20 grams per serving of complete vegan protein with a balanced array of essential and non-essential amino acids.",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "R1-4",
+    "source": 1,
+    "evidence_file": "sources/sprout.txt",
+    "quote": "PACKED WITH ESSENTIAL FATTY ACIDS - Rich source of essential omega fatty acids 3, 6 and 9 that provide numerous health benefits.",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "R1-Protein Source",
+    "source": 1,
+    "evidence_file": "sources/sprout.txt",
+    "quote": "\"Protein Source\": \"Blend\"",
+    "claim": "Captured field; preserve mismatch or missing serving denominator",
+    "limitation": "No physical composition inference"
+  },
+  {
+    "id": "R2-0",
+    "source": 2,
+    "evidence_file": "sources/anthony.txt",
+    "quote": "Organic Pumpkin Seed Protein Powder",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "R2-1",
+    "source": 2,
+    "evidence_file": "sources/anthony.txt",
+    "quote": "Organic, Gluten Free, Non-GMO, Unflavored, Vegan Friendly",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "R2-2",
+    "source": 2,
+    "evidence_file": "sources/anthony.txt",
+    "quote": "Blend it into your morning smoothie or your favorite baked goods, or simply mix it with water or milk for a refreshing shake!",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "R2-3",
+    "source": 2,
+    "evidence_file": "sources/anthony.txt",
+    "quote": "No added sweeteners or fillers - just ground Pumpkin Seed Protein",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "R2-Total Servings Per Container",
+    "source": 2,
+    "evidence_file": "sources/anthony.txt",
+    "quote": "\"Total Servings Per Container\": \"30\"",
+    "claim": "Captured field; preserve mismatch or missing serving denominator",
+    "limitation": "No physical composition inference"
+  },
+  {
+    "id": "R3-0",
+    "source": 3,
+    "evidence_file": "sources/micro.txt",
+    "quote": "Micro Ingredients offers an organic, plant-based pumpkin seed protein powder made from raw seeds in a clean, single-ingredient formula.",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "R3-1",
+    "source": 3,
+    "evidence_file": "sources/micro.txt",
+    "quote": "Each pouch provides a finely milled powder with 18g of protein per serving, with naturally occurring amino acids and fiber from pumpkin seeds.",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "R3-2",
+    "source": 3,
+    "evidence_file": "sources/micro.txt",
+    "quote": "Smooth and versatile powder that blends easily into smoothies, baking recipes, oatmeal, or coffee, with a neutral unflavored profile for everyday use.",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "R3-3",
+    "source": 3,
+    "evidence_file": "sources/micro.txt",
+    "quote": "A plant-based alternative to dairy-based protein powders, suitable for vegan and plant-based lifestyles, made from pumpkin seeds rather than animal-derived ingredients.",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "R3-4",
+    "source": 3,
+    "evidence_file": "sources/micro.txt",
+    "quote": "Free from common allergens including soy, dairy, gluten, and tree nuts, making it suitable for a variety of dietary preferences.",
+    "claim": "Seller wording and positioning only",
+    "limitation": "No inspected labels, independent nutrition, certification or performance verification"
+  },
+  {
+    "id": "P4-0",
+    "source": 4,
+    "evidence_file": "sources/PMC9777787-paragraphs.txt",
+    "quote": "Milled press cake from pumpkin (Cucurbita pepo L. subsp. pepo var. styriaca GREB.) seed oil production was kindly provided by Estyria Naturprodukte GmbH (St. Ruprecht an der Raab, Austria). Prior to protein isolation, the fraction with a particle size of 300–600 µm was suspended in hexane at a ratio of 1:3 (w/v) for 40 min at room temperature while stirring at 500 rpm (MS-MP8, Witeg Labortechnik GmbH, Germany) [31]. After filtering the slurry through a Whatman #1 filter paper and repeating the hexane extraction twice, the de-oiled material was dried for 16 h at room temperature and stored at 6 °C until use.",
+    "claim": "Milled press cake from pumpkin",
+    "limitation": "Experimental material and conditions only; second paper generalized preheat prose conflicts with Table4 alkali cells"
+  },
+  {
+    "id": "P4-1",
+    "source": 4,
+    "evidence_file": "sources/PMC9777787-paragraphs.txt",
+    "quote": "To identify the most appropriate conditions for the extraction of protein from milled press cake, dispersions in deionized water were adjusted to pH 8.0, 9.5, or 11.0 by using 0.5 N NaOH at a solvent-to-solid ratio of 10:1, 20:1, or 30:1, and then stirred at room temperature for 1 h, 2 h, or 3 h at 500 rpm on a magnetic stirrer. After centrifugation in a Biofuge Stratos (Thermo Scientific, Dreieich, Germany) at 8,000 rpm for 20 min, the supernatant was precipitated at pH 4.5, using HCl, and kept at room temperature for 1 h. After a second centrifugation step, the pellet was dissolved in a small amount of deionized water, pH was set to 7.0, followed by freeze drying (Beta 1–8 LDplus, Martin Christ Gefriertrocknungsanlagen GmbH, Osterode, Germany). The protein content of the isolate was determined by the Kjeldahl method, and protein yield calculated by equation [1] served as the second target variable:(1)Protein yield (%)=mi×cpims×cps × 100 % mi and ms refer to the mass of the isolate and the initial sample, respectively. The protein content of the isolate is given by cpi, while the protein content of the initial sample is indicated by cps.",
+    "claim": "To identify the most appropriate conditions",
+    "limitation": "Experimental material and conditions only; second paper generalized preheat prose conflicts with Table4 alkali cells"
+  },
+  {
+    "id": "P4-2",
+    "source": 4,
+    "evidence_file": "sources/PMC9777787-paragraphs.txt",
+    "quote": "Protein solubility was determined using the method of Gonzalez–Perez [33] with modification. Each protein isolate (pooled samples) was dissolved in deionized water at a final concentration of 5 mg/mL, and solution pH was adjusted to 3, 5, 7, or 9 using 0.5 N NaOH or 0.5 N HCl. Prior to centrifugation at 6,000 rpm for 15 min, the respective solutions were agitated for 2 h at room temperature and 300 rpm. The Kjeldahl procedure was used to determine protein solubility, defined as the amount of protein in the supernatant (p2) related to the amount of protein in the initial sample (p1):(2)Solubility (%)=p2p1×100%",
+    "claim": "Protein solubility was determined using",
+    "limitation": "Experimental material and conditions only; second paper generalized preheat prose conflicts with Table4 alkali cells"
+  },
+  {
+    "id": "P4-3",
+    "source": 4,
+    "evidence_file": "sources/PMC9777787-paragraphs.txt",
+    "quote": "Following one day of storage at 6 °C, the size distributions of the particles in the dispersions after alkaline extraction were measured by laser diffraction (Helos KR with Sucell, Sympatec GmbH, Clausthal–Zellerfeld, Germany) at pH 7.0. Measurements were carried out in the range of 10–15% optical density. After 2 min equilibration under stirring, size distributions were recorded, and the diameters at 10% (d10), 50% (d50), and 90% (d90) volume fractions were taken as particle size indicators. Analysis of each dispersion (four independent extractions per condition) was carried out in triplicate.",
+    "claim": "Following one day of storage",
+    "limitation": "Experimental material and conditions only; second paper generalized preheat prose conflicts with Table4 alkali cells"
+  },
+  {
+    "id": "P4-4",
+    "source": 4,
+    "evidence_file": "sources/PMC9777787-paragraphs.txt",
+    "quote": "A solvent-to-solid ratio of 29, which was determined to be optimum in the preliminary control experiments, was applied in all treatments. Prior to ultrasonic support, dispersions were stirred on a magnetic stirrer at room temperature for 10 min at 500 rpm. In the US+AE treatment, pH was adjusted to the pre-determined optimum (pH 11) after 10 min of continuous ultrasonic application, and then the alkaline extraction was carried out for 60 min. In the UAE treatment, ultrasound was continuously applied for 10 min at optimum pH and solvent-to-solid ratio. In AE+US treatment, the alkaline extraction was carried out under the optimum conditions, followed by 10 min of continuous ultrasonic treatment. In every case, an ice bath was used to keep the temperature at 20 °C. All the treatments were followed by isoelectric precipitation and lyophilization of the isolate. The protein content of each isolate was determined in duplicate. The protein isolates obtained from the two runs performed on a single day were then pooled before further analysis.",
+    "claim": "A solvent-to-solid ratio of 29",
+    "limitation": "Experimental material and conditions only; second paper generalized preheat prose conflicts with Table4 alkali cells"
+  },
+  {
+    "id": "T-foods-11-04029-t001",
+    "source": 4,
+    "claim": "Composition of untreated and de-oiled pumpkin seed press cake.",
+    "evidence_file": "sources/PMC9777787.xml",
+    "table_id": "foods-11-04029-t001",
+    "rows": [
+      [
+        "Component (g/100 g)",
+        "Untreated Press Cake",
+        "De-Oiled Press Cake"
+      ],
+      [
+        "Moisture",
+        "4.73 ± 0.32 a",
+        "4.84 ± 0.19 a"
+      ],
+      [
+        "Fat",
+        "13.38 ± 0.12 a",
+        "0.77 ± 0.14 b"
+      ],
+      [
+        "Protein",
+        "60.24 ± 0.05 a",
+        "68.68 ± 0.13 b"
+      ],
+      [
+        "Total dietary fibre",
+        "13.13 ± 0.71 a",
+        "17.39 ± 0.54 b"
+      ],
+      [
+        "Ash",
+        "8.02 ± 0.06 a",
+        "9.11 ± 0.07 b"
+      ]
+    ],
+    "notes": [
+      "Mean values ± half deviation range (n = 2) in a row labeled with different letters differ significantly (p < 0.05)."
+    ],
+    "limitation": "Original cell order and spans retained; statistics within columns except2022Table1 within rows. n not commercial batches."
+  },
+  {
+    "id": "T-foods-11-04029-t002",
+    "source": 4,
+    "claim": "The particle size of dispersions after alkaline extraction.",
+    "evidence_file": "sources/PMC9777787.xml",
+    "table_id": "foods-11-04029-t002",
+    "rows": [
+      [
+        "Treatment",
+        "d10 [µm]",
+        "d50 [µm]",
+        "d90 [µm]"
+      ],
+      [
+        "Control",
+        "4.82 ± 0.44 b",
+        "72.12 ± 14.58 b",
+        "376.68 ± 38.32 c"
+      ],
+      [
+        "US+AE",
+        "3.49 ± 0.20 a",
+        "31.50 ± 2.51 a",
+        "252.96 ± 24.85 b"
+      ],
+      [
+        "UAE",
+        "3.38 ± 0.25 a",
+        "27.59 ± 4.02 a",
+        "245.83 ± 34.60 b"
+      ],
+      [
+        "AE+US",
+        "8.05 ± 0.72 c",
+        "36.25 ± 5.71 a",
+        "179.93 ± 13.24 a"
+      ]
+    ],
+    "notes": [
+      "US+AE, ultrasonic treatment followed by alkaline extraction; UAE, ultrasonic treatment combined with alkaline extraction; AE+US, alkaline extraction followed by ultrasonic treatment. d10, d50 and d90 refer to particle diameters at 10%, 50% and 90% volume fraction. Mean values ± standard deviations (n = 12) in a column labeled with different letters differ significantly (p < 0.05)."
+    ],
+    "limitation": "Original cell order and spans retained; statistics within columns except2022Table1 within rows. n not commercial batches."
+  },
+  {
+    "id": "T-foods-11-04029-t003",
+    "source": 4,
+    "claim": "Solubility and water binding capacity (WBC in g per g dry matter) of extracted pumpkin seed protein.",
+    "evidence_file": "sources/PMC9777787.xml",
+    "table_id": "foods-11-04029-t003",
+    "rows": [
+      [
+        "Treatment",
+        "Solubility [%]",
+        "WBC [g/g dm]"
+      ],
+      [
+        "pH 3",
+        "pH 5",
+        "pH 7",
+        "pH 9"
+      ],
+      [
+        "Control",
+        "35.73 ± 1.42 a",
+        "2.42 ± 0.06 a",
+        "15.17 ± 0.20 a",
+        "37.82 ± 1.07 a",
+        "3.95 ± 0.04 b"
+      ],
+      [
+        "US+AE",
+        "37.33 ± 0.41 b",
+        "3.83 ± 0.42 b",
+        "18.72 ± 0.13 b",
+        "39.88 ± 0.30 b",
+        "3.81 ± 0.08 b"
+      ],
+      [
+        "UAE",
+        "38.00 ± 0.89 bc",
+        "6.59 ± 0.99 d",
+        "18.80 ± 0.52 b",
+        "46.87 ± 0.17 c",
+        "3.61 ± 0.21 a"
+      ],
+      [
+        "AE+US",
+        "38.84 ± 0.21 c",
+        "4.90 ± 0.05 c",
+        "23.07 ± 0.06 c",
+        "46.93 ±0.61 c",
+        "3.66 ± 0.15 a"
+      ]
+    ],
+    "notes": [
+      "US+AE, ultrasonic treatment followed by alkaline extraction; UAE, ultrasonic treatment combined with alkaline extraction; AE+US, alkaline extraction followed by ultrasonic treatment. Mean values ± standard deviations (n = 4) in a column labeled with different letters differ significantly (p < 0.05)."
+    ],
+    "limitation": "Original cell order and spans retained; statistics within columns except2022Table1 within rows. n not commercial batches."
+  },
+  {
+    "id": "P5-0",
+    "source": 5,
+    "evidence_file": "sources/PMC11748320-paragraphs.txt",
+    "quote": "WSI was determined by the modified version of the method.51 First, the samples were dissolved in distilled water with a 1:4 (w/w) ratio and then put into a shaker (Daihan Scientific Co., Ltd., Korea) at 300 rpm for 1 day to attain complete hydration. Later, the solutions of the samples were centrifugated at 2263g for 20 min. The supernatant and sediment were separated, and their weights were measured. The following equation was calculated for the WSI:3",
+    "claim": "WSI was determined",
+    "limitation": "Experimental material and conditions only; second paper generalized preheat prose conflicts with Table4 alkali cells"
+  },
+  {
+    "id": "P5-1",
+    "source": 5,
+    "evidence_file": "sources/PMC11748320-paragraphs.txt",
+    "quote": "For the analysis, the Lowry method50 was followed. 0.5 mL of the sample (1% (w/v) protein solution) with 2.5 mL of Lowry reagent was mixed and then the mixture was left to stand at 25 °C for 10 min. Following this, 0.25 mL of Folin–Ciocalteu’s phenol reagent was put in the tubes, stirred, and left for 30 min in a dark setting. Finally, a UV/vis Spectrophotometer (Optizen POP, South Korea) was used to read the absorbance values at 750 nm. By division of the initial protein content in the samples, the results were reported as percentages.",
+    "claim": "For the analysis, the Lowry method",
+    "limitation": "Experimental material and conditions only; second paper generalized preheat prose conflicts with Table4 alkali cells"
+  },
+  {
+    "id": "P5-2",
+    "source": 5,
+    "evidence_file": "sources/PMC11748320-paragraphs.txt",
+    "quote": "First, pumpkin seed flour was mixed with water in a ratio of 1:10 (w/v). The pH of this solution was set to 11 by using 1 M NaOH. For the microwave pre-heating, this solution was put into the microwave oven (Kenwood, New Jersey, USA) with a power of 416 W until the temperature reached 50 °C (∼50 s). In the case of conventional pre-heating, the solution was put into the water bath until the temperature reached 50 °C (∼15 min). The solution was then shaken in an orbital shaker (Daihan Scientific Co., Ltd., Korea) at 100 rpm for 1 h and subsequently centrifuged at 2263g for 15 min. The resulting supernatant, containing soluble protein, was adjusted to pH 5 (the isoelectric point of the protein) by using 1 M HCl to precipitate the proteins. These precipitated proteins were recovered by centrifugation at 2263g for 15 min. Finally, the proteins were dried by using a lyophilizer (Beijing Songyuan Huaxing Technology Development Co., Ltd., China) for 36 h. The same procedure for extracting untreated samples was followed, excluding the preheating steps.",
+    "claim": "First, pumpkin seed flour was mixed",
+    "limitation": "Experimental material and conditions only; second paper generalized preheat prose conflicts with Table4 alkali cells"
+  },
+  {
+    "id": "P5-3",
+    "source": 5,
+    "evidence_file": "sources/PMC11748320-paragraphs.txt",
+    "quote": "Similar results were reported by Wang et al.85 in their study on the influence of ionic strength on soy protein solubility, where they showed that higher salt concentrations led to reduced solubility due to protein aggregation with the “salting out” effect. When the results of different heat treatments were examined, the MH samples were found to be solubilized more than the CH and UT samples, respectively (p < 0.05). The reason for the lowest solubility of UT samples can be correlated with the temperature effect. Besides, the reason for MH samples having higher solubility than CH may be that microwave heating can extract proteins under milder conditions, which may help to preserve the native conformation of the proteins and prevent denaturation and aggregation.86 Additionally, microwave energy can damage the cell membrane, and then release intracellular contents, and solubilize the proteins because of the increased internal pressure effect inside the material.87 Within the spontaneous increase in internal pressure, the disintegration of the material would be facilitated, leading to higher extraction yields and more interaction with the water, which would also effectively solubilize more of the proteins. A study by Varghese et al.88 demonstrated similar results in soymilk protein that microwave heating improved protein solubility compared to conventional heating methods with more extraction yield. Besides, as given in the proximate composition analysis part, MH samples had the lowest carbohydrate contents but the highest protein contents. Having fewer carbohydrates in the solution may lead to more protein–water interactions in the solution, thereby increasing the soluble protein content. Overall, the extraction method employed significantly influenced the protein solubility and, by extension, other functional properties.",
+    "claim": "When the results of different heat treatments",
+    "limitation": "Experimental material and conditions only; second paper generalized preheat prose conflicts with Table4 alkali cells"
+  },
+  {
+    "id": "T-tbl4",
+    "source": 5,
+    "claim": "Protein Solubility (PS) (% (w/w)),\nWater Solubility Index (WSI), and T2 Relaxation Times (Milliseconds)\nof Extracted Pumpkin Seed Protein Concentrate (PSPC) Samplesa",
+    "evidence_file": "sources/PMC11748320.xml",
+    "table_id": "tbl4",
+    "rows": [
+      [
+        "Treatments",
+        "Extraction\nTechniques",
+        "PS (% (w/w))",
+        "WSI (w/w))",
+        "T2(ms)"
+      ],
+      [
+        "UT",
+        "Alkali",
+        "10.32 ± 0.05c",
+        "3.31 ± 0.009b",
+        "127.94 ± 0.774f"
+      ],
+      [
+        "CH",
+        "9.75 ± 0.02d",
+        "2.32 ± 0.03e",
+        "229.81 ± 1.21d"
+      ],
+      [
+        "MH",
+        "15.99 ± 0.04a",
+        "3.45 ± 0.005a",
+        "113.02 ± 1.01g"
+      ],
+      [
+        "UT",
+        "Salt",
+        "7.86 ± 0.01f",
+        "2.59 ± 0.02d",
+        "355.01 ± 2.24a"
+      ],
+      [
+        "CH",
+        "7.97 ± 0.01f",
+        "1.99 ± 0.03 g",
+        "319.54 ± 2.87b"
+      ],
+      [
+        "MH",
+        "8.04 ± 0.02f",
+        "2.75 ± 0.007c",
+        "274.89 ± 1.91c"
+      ],
+      [
+        "UT",
+        "Enzyme-assisted",
+        "9.88 ± 0.02d",
+        "3.29 ± 0.009b",
+        "164.09 ± 1.19e"
+      ],
+      [
+        "CH",
+        "9.11 ± 0.03e",
+        "2.11 ± 0.009f",
+        "228.61 ± 4.03d"
+      ],
+      [
+        "MH",
+        "13.68 ± 0.03b",
+        "3.41 ± 0.005a",
+        "125.22 ± 2.78fg"
+      ]
+    ],
+    "notes": [
+      "aUT (untreated samples), CH (conventional\nheated), and MH (microwave heated). Values are expressed as mean ±\nSE (n = 3). Upper case superscript letters (a–g)\ndenote a significant difference at 5% (p < 0.05)\nin each column."
+    ],
+    "limitation": "Original cell order and spans retained; statistics within columns except2022Table1 within rows. n not commercial batches."
+  },
+  {
+    "id": "S8",
+    "source": 8,
+    "evidence_file": "sources/austrade-unroasted.txt",
+    "quote": "comes from 100% organic shine skin pumpkin seeds (Cucurbita moschata) through mechanical partial defatting. Pulverizing the crude pumpkin protein creates a high quality plant protein concentrate. It delivers a minimum protein content of 60% with exceptional nutritional value. This certified organic plant protein offers a high mineral content and a unique amino acid profile. Gentle processing preserves the natural nutritional characteristics and mild flavor profile of Organic Unroasted Pumpkin Protein Concentrate 60. It’s ideal across organic formulations, vegan protein products, and allergen-friendly specialty applications. For formulators seeking certified organic credentials and a neutral sensory profile, it excels in protein bars, beverages, and vegan dairy alternatives. It also performs well across specialty nutrition formulations that require clean label plant protein. ",
+    "claim": "Named material, processing, sensory positioning",
+    "limitation": "Supplier assertion, no independent manufacturing audit or batch analysis"
+  },
+  {
+    "id": "S8-limits",
+    "source": 8,
+    "evidence_file": "sources/austrade-unroasted.txt",
+    "quote": "Specifications Protein ≥ 60% Moisture ≤ 10% Fat ≤ 10% Carbohydrates ≤ 18% Dietary Fiber ≤ 16% ",
+    "claim": "Published protein, moisture and fat limits",
+    "limitation": "Method and dry/as-supplied basis unspecified; bounds do not rank actual batches",
+    "cells": [
+      {
+        "label": "Protein",
+        "value": "≥ 60%",
+        "html": "<div class=\"composition-item\"><span class=\"composition-type\">Protein</span><span class=\"composition-amount\"><span class=\"amount-type\">≥</span> <span class=\"amount-value\">60%</span></span></div>"
+      },
+      {
+        "label": "Moisture",
+        "value": "≤ 10%",
+        "html": "<div class=\"composition-item\"><span class=\"composition-type\">Moisture</span><span class=\"composition-amount\"><span class=\"amount-type\">≤</span> <span class=\"amount-value\">10%</span></span></div>"
+      },
+      {
+        "label": "Fat",
+        "value": "≤ 10%",
+        "html": "<div class=\"composition-item\"><span class=\"composition-type\">Fat</span><span class=\"composition-amount\"><span class=\"amount-type\">≤</span> <span class=\"amount-value\">10%</span></span></div>"
+      },
+      {
+        "label": "Carbohydrates",
+        "value": "≤ 18%",
+        "html": "<div class=\"composition-item\"><span class=\"composition-type\">Carbohydrates</span><span class=\"composition-amount\"><span class=\"amount-type\">≤</span> <span class=\"amount-value\">18%</span></span></div>"
+      },
+      {
+        "label": "Dietary Fiber",
+        "value": "≤ 16%",
+        "html": "<div class=\"composition-item\"><span class=\"composition-type\">Dietary Fiber</span><span class=\"composition-amount\"><span class=\"amount-type\">≤</span> <span class=\"amount-value\">16%</span></span></div>"
+      }
+    ]
+  },
+  {
+    "id": "S9",
+    "source": 9,
+    "evidence_file": "sources/austrade-roasted.txt",
+    "quote": "comes from 100% organic Austrian Styrian pumpkin seeds (Cucurbita pepo var. styriaca). Light salting and roasting precede mechanical partial defatting of the pumpkin seeds. Further processing and milling produce a fine, olive green to brown powder. It delivers a minimum protein content of 57% with a distinctive flavor from the roasting process. Organic Roasted Pumpkin Protein Concentrate 60 offers a high mineral content and robust nutty flavor profile. It suits organic formulations from Soups and Sauces to Beverages and Baked Goods. For formulators developing premium organic products, it delivers ingredient provenance and mineral density. Its distinctive sensory character makes it a traceable, single-ingredient alternative to conventional plant proteins. ",
+    "claim": "Named material, processing, sensory positioning",
+    "limitation": "Supplier assertion, no independent manufacturing audit or batch analysis"
+  },
+  {
+    "id": "S9-limits",
+    "source": 9,
+    "evidence_file": "sources/austrade-roasted.txt",
+    "quote": "Specifications Protein ≥ 57% Moisture ≤ 8% Fat ≤ 17% Total Carbohydrates ≤ 19% Dietary Fiber ≤ 15% ",
+    "claim": "Published protein, moisture and fat limits",
+    "limitation": "Method and dry/as-supplied basis unspecified; bounds do not rank actual batches",
+    "cells": [
+      {
+        "label": "Protein",
+        "value": "≥ 57%",
+        "html": "<div class=\"composition-item\"><span class=\"composition-type\">Protein</span><span class=\"composition-amount\"><span class=\"amount-type\">≥</span> <span class=\"amount-value\">57%</span></span></div>"
+      },
+      {
+        "label": "Moisture",
+        "value": "≤ 8%",
+        "html": "<div class=\"composition-item\"><span class=\"composition-type\">Moisture</span><span class=\"composition-amount\"><span class=\"amount-type\">≤</span> <span class=\"amount-value\">8%</span></span></div>"
+      },
+      {
+        "label": "Fat",
+        "value": "≤ 17%",
+        "html": "<div class=\"composition-item\"><span class=\"composition-type\">Fat</span><span class=\"composition-amount\"><span class=\"amount-type\">≤</span> <span class=\"amount-value\">17%</span></span></div>"
+      },
+      {
+        "label": "Total Carbohydrates",
+        "value": "≤ 19%",
+        "html": "<div class=\"composition-item\"><span class=\"composition-type\">Total Carbohydrates</span><span class=\"composition-amount\"><span class=\"amount-type\">≤</span> <span class=\"amount-value\">19%</span></span></div>"
+      },
+      {
+        "label": "Dietary Fiber",
+        "value": "≤ 15%",
+        "html": "<div class=\"composition-item\"><span class=\"composition-type\">Dietary Fiber</span><span class=\"composition-amount\"><span class=\"amount-type\">≤</span> <span class=\"amount-value\">15%</span></span></div>"
+      }
+    ]
+  },
+  {
+    "id": "P10",
+    "source": 10,
+    "evidence_file": "sources/frontiers-milling.txt",
+    "quote": "The coffee grinder was pushed to its limits efficiently grinding certain pieces of press cake and generated significant heat during the process, which could negatively influence the integrity of the protein isolation and their biological activity. Thus, for the second isolation round we have applied a cryogenic grinder Pulverisette 2 (Fritsch, Cat# 02.2000.00) with liquid nitrogen for cooling to grind the press cakes. As only rapeseed and pumpkin isolates were demonstrating a proliferation inducing activity after the first isolation, we have chosen to work with these. We show that only by applying a more thorough and cooled grinding method the isolation yielded four times higher protein concentrations than previously ( Figure 2B ). Also, the SDS gel with the same protein amounts loaded for both isolations ( Figure 2A ) shows that the fractions corresponding to the plant albumins (around MW = 12–14 kDa), are not enriched in the second isolation. The band corresponding to pumpkin Cuc ma 5 (= 2S albumin), at MW = 12 kDa ( 12 , 13 ) is much fainter in the second isolation, whereas bands corresponding to rapeseed Napins (= 2S albumins), with MW = 12.5–14.5 kDa ( 14 , 15 ), are about of the same intensity. Instead, for pumpkin, the bands at 22–25 and 35–40 kDa are much stronger in the second isolation, which do not correspond to the known pumpkin albumins. For rapeseed isolates, the smear is significantly reduced in the second isolation, probably indicating a lower protein degradation level. ",
+    "claim": "Thorough cooled grinding before isolation and changed protein profile",
+    "limitation": "Grinding/cooling confounded; cell-culture-media application, no food-grade or retail dispersibility inference"
+  },
+  {
+    "id": "R11",
+    "source": 11,
+    "evidence_file": "sources/search.txt",
+    "quote": "Sprout Living Organic Pumpkin Seed Protein Powder, Unflavored, 20 Grams of Plant Based Protein Powder Without Artificial Sweeteners, Non Dairy, Non-GMO, Vegan, Gluten Free (2 Pound, 28 Servings)",
+    "claim": "Eight rows, two Sprout size variants; three selected distinct-brand details",
+    "limitation": "Not8brands; no market share; only3details"
+  },
+  {
+    "id": "S6-visual",
+    "source": 6,
+    "evidence_file": "sources/cambridge.pdf",
+    "pages": [
+      1,
+      3,
+      4
+    ],
+    "claim": "Title60%; rendered protein spec≥80%; protein65 under Amount per100g without own unit; machine sieving→expression→cake→milling",
+    "limitation": "2020 historical inconsistent document, not current spec. Text layer >80% loses equals stroke visible in rendered page.",
+    "visual_files": [
+      "sources/cambridge-page1.png",
+      "sources/cambridge-page3.png",
+      "sources/cambridge-page4.png"
+    ]
+  }
+]

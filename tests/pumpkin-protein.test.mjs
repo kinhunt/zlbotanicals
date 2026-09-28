@@ -1,0 +1,42 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync,existsSync} from 'node:fs';
+import {createHash} from 'node:crypto';
+import {createMarkdownProcessor} from '@astrojs/markdown-remark';
+import {parseFragment} from 'parse5';
+const nodes=n=>[n,...(n.childNodes??[]).flatMap(nodes)];
+const attr=(n,k)=>n.attrs?.find(a=>a.name===k)?.value;
+const text=n=>n.nodeName==='#text'?n.value:(n.childNodes??[]).map(text).join('');
+const plain=s=>s.replace(/[‘’]/g,"'").replace(/[“”]/g,'"').replace(/\s+/g,' ').trim();
+const slug='pumpkin-seed-protein-processing';
+for(const [lang,hash] of Object.entries({en:'e1577776f33b8042e982159a7d9d584c1c1f8b2e8ad1d782b5c12a889f935139',zh:'c7a2dcf5534bde94b153b3e5687c001a9101a2485d98eb2a82ea7341daf0d11b'})) test(`${lang}: reviewed pumpkin prose and all original cells survive integration`,async()=>{
+ assert.ok(existsSync(`src/content/blog/${lang}/${slug}.md`),'reviewed pumpkin article missing');
+ const original=readFileSync(`docs/evidence/pumpkin/review/draft.${lang}.md`,'utf8');
+ assert.equal(createHash('sha256').update(original).digest('hex'),hash);
+ const delta=JSON.parse(readFileSync('docs/evidence/pumpkin/editorial-delta.json','utf8'))[lang];
+ assert.ok(original.includes(delta.old));
+ const body=original.replace(delta.old,delta.new).replace(/^# .+\n/,'').split('\n## Sources\n')[0].replace(/\[\d+\]/g,'');
+ const processor=await createMarkdownProcessor({smartypants:true});
+ const expected=parseFragment((await processor.render(body)).code);
+ const actual=parseFragment(readFileSync(`dist/${lang==='zh'?'zh/':''}resources/blog/${slug}/index.html`,'utf8'));
+ for(const n of nodes(actual)) if((n.nodeName==='a'&&attr(n,'href')?.startsWith('#pumpkin-ref-'))||attr(n,'class')==='mobile-label')n.childNodes=[];
+ const txt=plain(text(actual));
+ for(const n of nodes(expected).filter(n=>['h2','h3','p','li','th','td'].includes(n.nodeName)))assert.ok(txt.includes(plain(text(n))),plain(text(n)));
+ const cells=n=>nodes(n).filter(n=>n.nodeName==='table').map(t=>nodes(t).filter(n=>['th','td'].includes(n.nodeName)).map(n=>plain(text(n))));
+ assert.deepEqual(cells(actual),cells(expected));
+ for(const url of original.split('\n## Sources\n')[1].match(/https:\/\/\S+/g))assert.ok(nodes(actual).some(n=>attr(n,'href')===url),url);
+});
+
+for(const lang of ['en','zh']) test(`${lang}: pumpkin scoped reader and research discovery`,()=>{
+ const prefix=lang==='zh'?'zh/':'';
+ const html=readFileSync(`dist/${prefix}resources/blog/${slug}/index.html`,'utf8');
+ assert.match(html,/pumpkin-reader/);
+ const all=nodes(parseFragment(html));
+ assert.equal(all.filter(n=>n.nodeName==='table').length,4);
+ assert.equal(all.filter(n=>n.nodeName==='caption').length,4);
+ assert.equal(all.filter(n=>attr(n,'class')==='mobile-label').length,56);
+ for(const id of [1,2,3,4,5,6,8,9,10,11])assert.equal(all.filter(n=>attr(n,'id')===`pumpkin-ref-${id}`).length,1);
+ for(const route of ['resources/application-guides','resources/research','resources/blog/sunflower-protein-selection'])assert.ok(readFileSync(`dist/${prefix}${route}/index.html`,'utf8').includes(`/${prefix}resources/blog/${slug}`),route);
+ assert.ok(!html.includes(lang==='en'?'Interested in our botanical extracts?':'对我们的植物提取物感兴趣？'));
+ assert.equal(all.filter(n=>n.nodeName==='th'&&attr(n,'scope')==='row').length,16);
+});

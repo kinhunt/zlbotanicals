@@ -1,0 +1,5 @@
+{
+  "output": "{\"ok\":true,\"command\":\"browser.ping\",\"browser\":{\"id\":\"c0c44c26-eca6-4638-86fd-ade14ff3aa03\",\"name\":\"cedar-vale\"},\"result\":{\"success\":true,\"online\":true,\"browserInfo\":{\"name\":\"Chrome\",\"version\":\"153.0.0.0\",\"platform\":\"MacIntel\"},\"socketId\":\"0Ax89VWpizOO_AM1ACMe\",\"instanceId\":\"1ee269b9-0bb9-40a5-9688-af499d36f78a\",\"connectedAt\":\"2026-09-28T05:59:01.688Z\",\"lastPingAt\":\"2026-09-28T06:31:22.658Z\",\"transport\":\"websocket\",\"timestamp\":\"2026-09-28T06:31:34.650Z\"}}",
+  "exit_code": 0,
+  "error": null
+}

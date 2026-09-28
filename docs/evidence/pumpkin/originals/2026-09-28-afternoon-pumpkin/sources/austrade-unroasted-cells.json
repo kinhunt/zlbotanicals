@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Protein",
+    "value": "≥ 60%",
+    "html": "<div class=\"composition-item\"><span class=\"composition-type\">Protein</span><span class=\"composition-amount\"><span class=\"amount-type\">≥</span> <span class=\"amount-value\">60%</span></span></div>"
+  },
+  {
+    "label": "Moisture",
+    "value": "≤ 10%",
+    "html": "<div class=\"composition-item\"><span class=\"composition-type\">Moisture</span><span class=\"composition-amount\"><span class=\"amount-type\">≤</span> <span class=\"amount-value\">10%</span></span></div>"
+  },
+  {
+    "label": "Fat",
+    "value": "≤ 10%",
+    "html": "<div class=\"composition-item\"><span class=\"composition-type\">Fat</span><span class=\"composition-amount\"><span class=\"amount-type\">≤</span> <span class=\"amount-value\">10%</span></span></div>"
+  },
+  {
+    "label": "Carbohydrates",
+    "value": "≤ 18%",
+    "html": "<div class=\"composition-item\"><span class=\"composition-type\">Carbohydrates</span><span class=\"composition-amount\"><span class=\"amount-type\">≤</span> <span class=\"amount-value\">18%</span></span></div>"
+  },
+  {
+    "label": "Dietary Fiber",
+    "value": "≤ 16%",
+    "html": "<div class=\"composition-item\"><span class=\"composition-type\">Dietary Fiber</span><span class=\"composition-amount\"><span class=\"amount-type\">≤</span> <span class=\"amount-value\">16%</span></span></div>"
+  }
+]

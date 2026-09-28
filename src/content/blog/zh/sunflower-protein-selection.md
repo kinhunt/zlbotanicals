@@ -86,6 +86,8 @@ Heliaflor 的比较表在列出两款原料干物质蛋白下限的同时，还�
 
 其他种子来源原料的选料问题，可参阅[亚麻籽加工与生氰指标](/zh/resources/blog/flax-cyanogenic-material-selection)和[胡芦巴风味与加工](/zh/resources/blog/fenugreek-flavour-processing)。
 
+商品标签与用量的另一组比较，见[南瓜籽蛋白粉：冷压、细磨与冲调](/zh/resources/blog/pumpkin-seed-protein-processing)。
+
 ## 参考来源
 
 <p id="sunflower-ref-1">[1] <a href="https://www.all-organic-treasures.com/food/heliaflor/sunflowerproteins.html">AOT：Heliaflor 加工路线</a></p>

@@ -1,0 +1,326 @@
+[
+  {
+    "asin": "B01N7CLYX7",
+    "gallery_index": 0,
+    "variant": "MAIN",
+    "raw_field": "initial[0].hiRes",
+    "url": "https://m.media-amazon.com/images/I/81QCeBgXOTL._AC_SL1500_.jpg",
+    "file": "images/B01N7CLYX7/01-MAIN.jpg",
+    "sha256": "e58db135c56952510d3d053996fe7cea52d84f23544f8cc0e4a8b0eac7805f31",
+    "bytes": 168949,
+    "dimensions": [
+      1467,
+      1500
+    ],
+    "receipt_sha256": "f3f7a8744d6bb7258eca8a3688288ef71b1967c7d02fa24fc1a7dd2a2b8706ec",
+    "downloaded_at": "2026-09-28T09:05:06.339490+00:00",
+    "inspection": "contact sheet + individual original",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B01N7CLYX7",
+    "gallery_index": 1,
+    "variant": "PT01",
+    "raw_field": "initial[1].hiRes",
+    "url": "https://m.media-amazon.com/images/I/71sy6W16Y8L._AC_SL1500_.jpg",
+    "file": "images/B01N7CLYX7/02-PT01.jpg",
+    "sha256": "c54696fbca73d6731d0206b883f04122452297da2a18bb13943ff03ba1e88942",
+    "bytes": 132058,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "receipt_sha256": "f3f7a8744d6bb7258eca8a3688288ef71b1967c7d02fa24fc1a7dd2a2b8706ec",
+    "downloaded_at": "2026-09-28T09:05:06.696358+00:00",
+    "inspection": "contact sheet; small package text untranscribed",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B01N7CLYX7",
+    "gallery_index": 2,
+    "variant": "PT02",
+    "raw_field": "initial[2].hiRes",
+    "url": "https://m.media-amazon.com/images/I/81XCXHdJieL._AC_SL1500_.jpg",
+    "file": "images/B01N7CLYX7/03-PT02.jpg",
+    "sha256": "f8343a48d3bef8987f6e014ecb2e46778625ef2a44b4eb22fc8934b614adf144",
+    "bytes": 189802,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "receipt_sha256": "f3f7a8744d6bb7258eca8a3688288ef71b1967c7d02fa24fc1a7dd2a2b8706ec",
+    "downloaded_at": "2026-09-28T09:05:07.056390+00:00",
+    "inspection": "contact sheet; small package text untranscribed",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B01N7CLYX7",
+    "gallery_index": 3,
+    "variant": "PT03",
+    "raw_field": "initial[3].hiRes",
+    "url": "https://m.media-amazon.com/images/I/71mxxSe3ziL._AC_SL1500_.jpg",
+    "file": "images/B01N7CLYX7/04-PT03.jpg",
+    "sha256": "b2226c553626612dd0f796e905d9914f9fdacab63cd70795b57983a021bf89e7",
+    "bytes": 133686,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "receipt_sha256": "f3f7a8744d6bb7258eca8a3688288ef71b1967c7d02fa24fc1a7dd2a2b8706ec",
+    "downloaded_at": "2026-09-28T09:05:07.384221+00:00",
+    "inspection": "contact sheet; small package text untranscribed",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B01N7CLYX7",
+    "gallery_index": 4,
+    "variant": "PT04",
+    "raw_field": "initial[4].hiRes",
+    "url": "https://m.media-amazon.com/images/I/81WMsRYwjwL._AC_SL1500_.jpg",
+    "file": "images/B01N7CLYX7/05-PT04.jpg",
+    "sha256": "6e048a32d8a24f5b48577467b27ff9dedf65654673fc00729ed3873911ae7480",
+    "bytes": 211623,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "receipt_sha256": "f3f7a8744d6bb7258eca8a3688288ef71b1967c7d02fa24fc1a7dd2a2b8706ec",
+    "downloaded_at": "2026-09-28T09:05:08.091270+00:00",
+    "inspection": "contact sheet; small package text untranscribed",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B01N7CLYX7",
+    "gallery_index": 5,
+    "variant": "PT05",
+    "raw_field": "initial[5].hiRes",
+    "url": "https://m.media-amazon.com/images/I/71fkHBwWcUL._AC_SL1500_.jpg",
+    "file": "images/B01N7CLYX7/06-PT05.jpg",
+    "sha256": "ba589b2d13675f83501dded0e97ae0810699494ec49ebf3bd2e813c7fcc21779",
+    "bytes": 158052,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "receipt_sha256": "f3f7a8744d6bb7258eca8a3688288ef71b1967c7d02fa24fc1a7dd2a2b8706ec",
+    "downloaded_at": "2026-09-28T09:05:08.580173+00:00",
+    "inspection": "contact sheet + individual original",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B01N7CLYX7",
+    "gallery_index": 6,
+    "variant": "PT06",
+    "raw_field": "initial[6].hiRes",
+    "url": "https://m.media-amazon.com/images/I/71wyHnbRD8L._AC_SL1500_.jpg",
+    "file": "images/B01N7CLYX7/07-PT06.jpg",
+    "sha256": "8a21a1c2fc4e781e093bbefb245ff259a8cb089119b242e335a99932fea481d7",
+    "bytes": 114871,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "receipt_sha256": "f3f7a8744d6bb7258eca8a3688288ef71b1967c7d02fa24fc1a7dd2a2b8706ec",
+    "downloaded_at": "2026-09-28T09:05:08.752073+00:00",
+    "inspection": "contact sheet; small package text untranscribed",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B01N7CLYX7",
+    "gallery_index": 7,
+    "variant": "PT07",
+    "raw_field": "initial[7].hiRes",
+    "url": "https://m.media-amazon.com/images/I/61oHuBYqOxL._AC_SL1500_.jpg",
+    "file": "images/B01N7CLYX7/08-PT07.jpg",
+    "sha256": "7bd36b8d606c64002e34bf998a73815392477f713608732f8801eef7549d8b08",
+    "bytes": 79452,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "receipt_sha256": "f3f7a8744d6bb7258eca8a3688288ef71b1967c7d02fa24fc1a7dd2a2b8706ec",
+    "downloaded_at": "2026-09-28T09:05:08.882797+00:00",
+    "inspection": "contact sheet + individual original",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B0CWVTCT7G",
+    "gallery_index": 0,
+    "variant": "MAIN",
+    "raw_field": "initial[0].hiRes",
+    "url": "https://m.media-amazon.com/images/I/81GA6Y9qhEL._AC_SL1500_.jpg",
+    "file": "images/B0CWVTCT7G/01-MAIN.jpg",
+    "sha256": "092d339d45c2191c22740c7c208bd5e60779dd25ace8741f4b48d6c2edbcabd7",
+    "bytes": 251365,
+    "dimensions": [
+      1346,
+      1500
+    ],
+    "receipt_sha256": "327b934e0d37ebc287cab1dec9523ad7b30031e0d81c5e58dcb253a61c7ab009",
+    "downloaded_at": "2026-09-28T09:05:09.238344+00:00",
+    "inspection": "contact sheet + individual original",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B0CWVTCT7G",
+    "gallery_index": 1,
+    "variant": "PT01",
+    "raw_field": "initial[1].hiRes",
+    "url": "https://m.media-amazon.com/images/I/81r5fgF9gfL._AC_SL1500_.jpg",
+    "file": "images/B0CWVTCT7G/02-PT01.jpg",
+    "sha256": "a70dbb48dc8ebdf2be0915910d3d530b9a2caf3eb8d81de5da0e1bcd2d0cfe9b",
+    "bytes": 209429,
+    "dimensions": [
+      1265,
+      1500
+    ],
+    "receipt_sha256": "327b934e0d37ebc287cab1dec9523ad7b30031e0d81c5e58dcb253a61c7ab009",
+    "downloaded_at": "2026-09-28T09:05:09.490880+00:00",
+    "inspection": "contact sheet + individual original",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B0CWVTCT7G",
+    "gallery_index": 2,
+    "variant": "PT02",
+    "raw_field": "initial[2].hiRes",
+    "url": "https://m.media-amazon.com/images/I/61ex5vU82tL._AC_SL1416_.jpg",
+    "file": "images/B0CWVTCT7G/03-PT02.jpg",
+    "sha256": "b1debcf807f8bb9e627127014c7b3d2825b8e0ad0692631282c5abb417853612",
+    "bytes": 112479,
+    "dimensions": [
+      784,
+      1416
+    ],
+    "receipt_sha256": "327b934e0d37ebc287cab1dec9523ad7b30031e0d81c5e58dcb253a61c7ab009",
+    "downloaded_at": "2026-09-28T09:05:09.691707+00:00",
+    "inspection": "contact sheet + individual original",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B0CWVTCT7G",
+    "gallery_index": 3,
+    "variant": "PT03",
+    "raw_field": "initial[3].hiRes",
+    "url": "https://m.media-amazon.com/images/I/71lRCaf1+UL._AC_SL1500_.jpg",
+    "file": "images/B0CWVTCT7G/04-PT03.jpg",
+    "sha256": "32d313f4bbf96f2d9d042ecb48a68c0ed9898de9e74cb4ac389bb2498398c512",
+    "bytes": 149238,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "receipt_sha256": "327b934e0d37ebc287cab1dec9523ad7b30031e0d81c5e58dcb253a61c7ab009",
+    "downloaded_at": "2026-09-28T09:05:10.496694+00:00",
+    "inspection": "contact sheet; small package text untranscribed",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B0CWVTCT7G",
+    "gallery_index": 4,
+    "variant": "PT04",
+    "raw_field": "initial[4].hiRes",
+    "url": "https://m.media-amazon.com/images/I/71PgX3tAkQL._AC_SL1500_.jpg",
+    "file": "images/B0CWVTCT7G/05-PT04.jpg",
+    "sha256": "86a540c445cb5593a4fa3c59323d37eb68ed3ae948d68675e435bc32d3c3cb15",
+    "bytes": 128244,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "receipt_sha256": "327b934e0d37ebc287cab1dec9523ad7b30031e0d81c5e58dcb253a61c7ab009",
+    "downloaded_at": "2026-09-28T09:05:10.732226+00:00",
+    "inspection": "contact sheet; small package text untranscribed",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B0FWJGBPWM",
+    "gallery_index": 0,
+    "variant": "MAIN",
+    "raw_field": "initial[0].hiRes",
+    "url": "https://m.media-amazon.com/images/I/61nNVYokGpL._AC_SL1500_.jpg",
+    "file": "images/B0FWJGBPWM/01-MAIN.jpg",
+    "sha256": "6bfceeea053c2f3d33f4ececda8962599c34b0dca76f2850510ebebc967b7479",
+    "bytes": 85130,
+    "dimensions": [
+      1103,
+      1500
+    ],
+    "receipt_sha256": "9ea2984fee6a285484db39a386df21fec29f081f699e1ae7c41ef8a39d11a959",
+    "downloaded_at": "2026-09-28T09:05:10.988234+00:00",
+    "inspection": "contact sheet + individual original",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B0FWJGBPWM",
+    "gallery_index": 1,
+    "variant": "PT01",
+    "raw_field": "initial[1].hiRes",
+    "url": "https://m.media-amazon.com/images/I/81pNIZKO5EL._AC_SL1500_.jpg",
+    "file": "images/B0FWJGBPWM/02-PT01.jpg",
+    "sha256": "ba9b1600172e6af253f4cb2d7bf2cc0dbe2f3336ddc85dad1c3b59fc50dc2c84",
+    "bytes": 175874,
+    "dimensions": [
+      1076,
+      1500
+    ],
+    "receipt_sha256": "9ea2984fee6a285484db39a386df21fec29f081f699e1ae7c41ef8a39d11a959",
+    "downloaded_at": "2026-09-28T09:05:11.197184+00:00",
+    "inspection": "contact sheet + individual original",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B0FWJGBPWM",
+    "gallery_index": 2,
+    "variant": "PT02",
+    "raw_field": "initial[2].hiRes",
+    "url": "https://m.media-amazon.com/images/I/81-2KUXInxL._AC_SL1500_.jpg",
+    "file": "images/B0FWJGBPWM/03-PT02.jpg",
+    "sha256": "897e1dab2db51d1add71b1e9ad654361b9f317eb449553a983ad78fb2ba71c1a",
+    "bytes": 200504,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "receipt_sha256": "9ea2984fee6a285484db39a386df21fec29f081f699e1ae7c41ef8a39d11a959",
+    "downloaded_at": "2026-09-28T09:05:11.339351+00:00",
+    "inspection": "contact sheet; small package text untranscribed",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B0FWJGBPWM",
+    "gallery_index": 3,
+    "variant": "PT04",
+    "raw_field": "initial[3].hiRes",
+    "url": "https://m.media-amazon.com/images/I/61iu9qIwFHL._AC_SL1200_.jpg",
+    "file": "images/B0FWJGBPWM/04-PT04.jpg",
+    "sha256": "af86ef7667398a83c28c10480e7719e320a475f033a2b02f43eef287bb5175c8",
+    "bytes": 122152,
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "receipt_sha256": "9ea2984fee6a285484db39a386df21fec29f081f699e1ae7c41ef8a39d11a959",
+    "downloaded_at": "2026-09-28T09:05:11.479350+00:00",
+    "inspection": "contact sheet; small package text untranscribed",
+    "ledger": "LABEL-LEDGER.md"
+  },
+  {
+    "asin": "B0FWJGBPWM",
+    "gallery_index": 4,
+    "variant": "PT05",
+    "raw_field": "initial[4].hiRes",
+    "url": "https://m.media-amazon.com/images/I/717F3q4StIL._AC_SL1500_.jpg",
+    "file": "images/B0FWJGBPWM/05-PT05.jpg",
+    "sha256": "a2a0fdaa4ec70569ad4141ea815cdcd1f2bc4edbf08f259ffb492932e2ccb5a5",
+    "bytes": 155049,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "receipt_sha256": "9ea2984fee6a285484db39a386df21fec29f081f699e1ae7c41ef8a39d11a959",
+    "downloaded_at": "2026-09-28T09:05:12.280621+00:00",
+    "inspection": "contact sheet; small package text untranscribed",
+    "ledger": "LABEL-LEDGER.md"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "file": "sources/sprout.json",
+    "url": "https://www.amazon.com/dp/B01N7CLYX7",
+    "status": "inherited original sanitized wrapper",
+    "bytes": 4591,
+    "sha256": "642fedae2fb492c3cd92102aeefcf15281f3788f8896a96ec713363cf7041772",
+    "retrieved_or_inherited_on": "2026-09-28",
+    "acquisition": "inherited sanitized official BrowserMan wrapper; no new browser use",
+    "source_date": "See original metadata; supplier page update date not established"
+  },
+  {
+    "file": "sources/anthony.json",
+    "url": "https://www.amazon.com/dp/B0CWVTCT7G",
+    "status": "inherited original sanitized wrapper",
+    "bytes": 3447,
+    "sha256": "b9a670f90bc9619f49f252adb70d13512983a06a012a9e5c810ca9107f38b8e0",
+    "retrieved_or_inherited_on": "2026-09-28",
+    "acquisition": "inherited sanitized official BrowserMan wrapper; no new browser use",
+    "source_date": "See original metadata; supplier page update date not established"
+  },
+  {
+    "file": "sources/micro.json",
+    "url": "https://www.amazon.com/dp/B0FWJGBPWM",
+    "status": "inherited original sanitized wrapper",
+    "bytes": 4368,
+    "sha256": "830064a1668feb079f7d87cb145434122fc428bc3a925abc2e2a8690cef9ca19",
+    "retrieved_or_inherited_on": "2026-09-28",
+    "acquisition": "inherited sanitized official BrowserMan wrapper; no new browser use",
+    "source_date": "See original metadata; supplier page update date not established"
+  },
+  {
+    "file": "sources/PMC9777787.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9777787/fullTextXML",
+    "status": 200,
+    "bytes": 129361,
+    "sha256": "25503c3d3facea54ad22e9d976ecc91e2ddb3751bcbd0521fe9b913f621af610",
+    "retrieved_or_inherited_on": "2026-09-28",
+    "acquisition": "requests.get original response bytes",
+    "source_date": "See original metadata; supplier page update date not established"
+  },
+  {
+    "file": "sources/PMC11748320.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11748320/fullTextXML",
+    "status": 200,
+    "bytes": 209938,
+    "sha256": "d7c8df1d4b0e3847c0314a69d1fd45ec6cadd91509667ca0cf086b8c54fd9b4d",
+    "retrieved_or_inherited_on": "2026-09-28",
+    "acquisition": "requests.get original response bytes",
+    "source_date": "See original metadata; supplier page update date not established"
+  },
+  {
+    "file": "sources/cambridge.pdf",
+    "url": "https://us.cambridgecommodities.com/ugc-1/1/4/153/spec_sheet.pdf",
+    "status": 200,
+    "bytes": 1722281,
+    "sha256": "1632826f5c8e500c11afbc3628536470ea8c3edf77f6c883c57290b7a2775424",
+    "retrieved_or_inherited_on": "2026-09-28",
+    "acquisition": "requests.get original response bytes",
+    "source_date": "2020-02-19 effective date (historical)"
+  },
+  {
+    "file": "sources/greenspring.html",
+    "url": "https://www.greenspringnatural.com/60-pumpkin-seed-protein-powder.html",
+    "status": 403,
+    "bytes": 5586,
+    "sha256": "301d962bbca377417f8d6111e80aab7078e5e9e60b13abfb4791fa34e59a1be4",
+    "retrieved_or_inherited_on": "2026-09-28",
+    "acquisition": "requests.get original response bytes",
+    "source_date": "See original metadata; supplier page update date not established"
+  },
+  {
+    "file": "sources/austrade-unroasted.html",
+    "url": "https://austradeinc.com/product/organic-unroasted-pumpkin-protein-concentrate-60",
+    "status": 200,
+    "bytes": 289262,
+    "sha256": "da551fdb9f146c346b404c9006de0604122366c472b7d7b994b279d8c2c55152",
+    "retrieved_or_inherited_on": "2026-09-28",
+    "acquisition": "requests.get original response bytes",
+    "source_date": "See original metadata; supplier page update date not established"
+  },
+  {
+    "file": "sources/austrade-roasted.html",
+    "url": "https://austradeinc.com/product/organic-roasted-pumpkin-protein-concentrate-60",
+    "status": 200,
+    "bytes": 289468,
+    "sha256": "4764dfc544a3b276e5724547d562a7a859f4cb9cacf7256a76cfb3d4c0d27e56",
+    "retrieved_or_inherited_on": "2026-09-28",
+    "acquisition": "requests.get original response bytes",
+    "source_date": "See original metadata; supplier page update date not established"
+  },
+  {
+    "file": "sources/frontiers-milling.html",
+    "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1602010/full",
+    "status": 200,
+    "bytes": 519654,
+    "sha256": "1c42691d9fe10bdd2d005047899614442ce8a2f92d5b327c866bb07c74eabdf0",
+    "retrieved_or_inherited_on": "2026-09-28",
+    "acquisition": "requests.get original response bytes",
+    "source_date": "2025-06-18"
+  },
+  {
+    "file": "inherited/pumpkin-search-completed.json",
+    "url": "https://www.amazon.com/s?k=pumpkin+seed+protein+powder",
+    "status": "inherited original sanitized wrapper",
+    "bytes": 5093,
+    "sha256": "a54d1df6179b671224d4cc8ffa6f9208268907f751c1768f43639a8841a18d76",
+    "retrieved_or_inherited_on": "2026-09-28",
+    "acquisition": "inherited sanitized official BrowserMan wrapper; no new browser use",
+    "source_date": "See original metadata; supplier page update date not established"
+  }
+]
