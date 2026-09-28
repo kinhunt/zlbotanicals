@@ -1,0 +1,865 @@
+[
+  {
+    "source": "extrusion",
+    "kind": "paragraph",
+    "quote": "The alkaline titration method was used for the determination of cyanogenic contents in flaxseed samples [7]. The concentration of tannin in the flaxseed meal samples was measured by Folin–Denis method with minor modifications [8]. Flaxseed mucilage was analyzed according to the method described by Kaewmanee et al. [9]. The oil from flaxseed samples was extracted through solvent extraction technique using soxhlet apparatus (Model: H-2 1045 Extraction Unit, Hoganas, Sweden) according to AACC [10] Method No. 30–25. The fatty acids profile of extracted oil from flaxseed samples was analyzed by the method Ce 1f–96 given in AOCS [11]."
+  },
+  {
+    "source": "extrusion",
+    "kind": "paragraph",
+    "quote": "The raw flaxseed possessed hydrocyanic acid (198.4 ± 0.6 mg/kg), tannin (146.3 ± 0.5 mg/100 g) and mucilage (8.9 ± 0.7 g/100 g), respectively. The concentration of hydrocyanic acid has been the subject of extensive investigation as contributed by Chadha et al. [17], Park et al. [18] and Kobaisy et al. [19] who predicted hydrocyanic acid contents in the range of 120 to 762 mg/kg for flaxseed cultivars. The considerable variations in reported production of cyanogenic compounds may be attributed to a result of adjustment in flaxseed nutritive composition, environmental conditions and plant developmental stage [20]. The description focusing on presence of tannin in whole flaxseed or flaxseed meal has been examined earlier in limited laboratory studies. Amarowicz et al. [21] have found tannin content in defatted flaxseed meal ranged from 125 to 137 mg/100 g. Wanasundara and Shahidi [22] also reported condensed tannin in the range of 130 to 136 mg/100 g flaxseed meal. The mucilage yield from seven different cultivars of whole flaxseed using specific extraction conditions ranged from 1.8 % to 3.6 % of fresh seed weight [9]. These values are lower than those reported in present study. The yield of mucilage largely depends upon the extraction method, time and temperature [23]. The average oil contents in raw flaxseed were found to be 32.2 ± 0.4 g/100 g. The fat content recorded in the present study is quite in agreement with those values reported by Khan et al. [24] who found oil percentage 36.6 g/100 g in flaxseed. The oleic, linolenic and α-linolenic have been found predominant fatty acids in flaxseed meal. The oleic, linoleic and α-linolenic acids found in tested raw flaxseed samples were 18.6 ± 0.3 %, 11.8 ± 0.4 % and 50.2 ± 0.7 %, respectively. The distribution pattern of oleic and linoleic fatty acids were found 14.8–22 % and 16.1–18.2 %, respectively [25]. The α-linolenic as major fatty acid was present in flaxseed. The α-linolenic content found in raw flaxseed in the present study is supported by results of Nykter et al. [26] who found α-linolenic acid in the range of 52.8 % to 60.4 %."
+  },
+  {
+    "source": "extrusion",
+    "kind": "paragraph",
+    "quote": "A single-screw extruder, Extru-tech E325 (Extru-tech, Sabetha, Kansas, USA) was used for the production of detoxified full-fat flaxseed meal. The commercially available single-screw cooker E325 consists of feed delivery system, preconditioning system, extruder barrel, terminal die, knife assemblies and TEFC electric motor as power transmission system (250HP, 1500 RPM and 380 Volt). The extruder barrel assembly consisted of screws (83 mm diameter), barrel (254 mm diameter) and barrel length to diameter ratio of 9:1. The extruder was divided into six zones along the length of the barrel, with zone–1 designated as feed section and zone–6 nearest the die section. The screws and steamlocks configuration were arranged in such a manner to provide a progressively tighter pitch and greater resistance from feed section to die zone. The raw material was propelled from feed section (wide flight tapered screws, zone–1) into the interior of the kneading section (intermediate flight spacing screws, zones-2, 3 and 4) where the material was compressed to increase the degree of fill of the flow channels. In the final cooking section (tight flight screws, zones–5 and 6), temperature and pressure was increased rapidly. The extruder was operated at barrel exit temperature (BET, 100–140 °C), screw speed (SS, 50–150 rpm), feed rate (FR, 30–90 kg/h) and feed moisture (FM, 10–30 %). The moisture content of flaxseed meal was adjusted at 10 %, 20 % and 30 % by injecting distilled water and stored for 12 h at 5 ± 1 °C before extrusion processing. The extruded samples were cooled down to room temperature and divided into 1 kg samples, packed in polypropylene bags and sealed manually. The flours were stored, without light control, at room temperature (20–25 °C), for ninety–days."
+  },
+  {
+    "source": "extrusion",
+    "kind": "paragraph",
+    "quote": "The results of sensory characteristics point out the differences between samples acceptability and also indicate the changes in evaluated sensory properties after 90 days of storage time. The results from Fig. 2 indicated that the extrusion processing and storage negatively affected the preservation of color and aroma of the flaxseed meal samples. The flaxseed meal samples obtained from raw seeds showed color (Fig. 2a) and aroma (Fig. 2b) stability higher than the extruded meal samples. The sensory panel could not almost detect any differences in the sensory properties of fresh or stored raw flaxseed meal samples. Average sensory scores of assigned to color, aroma and overall acceptability (Fig. 2c) attributes varied in a quite narrow range for all extruded flaxseed meal samples at the initial days of storage., regardless of applied extrusion processing conditions. The lowest evaluation scores were recorded for samples extruded at high BET and FM conditions after 90 days. Morais et al. [15] found significant difference for tested sensory parameters among the brown flaxseed whole flour samples treated in oven at 150 °C for 15 minutes and stored for thirty days, and scores remained between equal and slightly below the standard. However; no effect of time of storage on aroma and color attributes was found for raw meal in the same study. The assessors were not able to record a difference in odor characteristics among the fresh and stored flaxseed samples [38]."
+  },
+  {
+    "source": "extrusion",
+    "kind": "table",
+    "id": "Tab1",
+    "rows": [
+      [
+        "Extrusion conditions",
+        "Chemical composition"
+      ],
+      [
+        "Cyanogenic compounds (mg/kg)",
+        "Tannin (mg/100 g)",
+        "Mucilage (g/100 g)",
+        "Oil yield (g/100 g)",
+        "Fatty acids"
+      ],
+      [
+        "Oleic (% of TFA)",
+        "Linoleic (% of TFA)",
+        "α-Linolenic (% of TFA)"
+      ],
+      [
+        "Barrel exit temperature (°C)",
+        "100",
+        "52.3 ± 0.4e",
+        "59.3 ± 0.6e",
+        "7.6 ± 0.2c",
+        "31.6 ± 0.1b",
+        "18.6 ± 0.1a",
+        "11.4 ± 0.2a",
+        "47.7 ± 0.4a"
+      ],
+      [
+        "120",
+        "45.1 ± 0.5f",
+        "51.4 ± 0.6h",
+        "7.1 ± 0.2f",
+        "30.2 ± 0.2c",
+        "18.8 ± 0.2a",
+        "11.3 ± 0.1a",
+        "47.1 ± 0.5a"
+      ],
+      [
+        "140",
+        "31.5 ± 0.6h",
+        "39.2 ± 0.5j",
+        "6.5 ± 0.2h",
+        "29.8 ± 0.2c",
+        "19.1 ± 0.1a",
+        "11.1 ± 0.2a",
+        "46.6 ± 0.6a"
+      ],
+      [
+        "Screw speed (rpm)",
+        "50",
+        "70.5 ± 0.5a",
+        "74.8 ± 0.4a",
+        "7.3 ± 0.3e",
+        "31.3 ± 0.2b",
+        "19.0 ± 0.2a",
+        "11.4 ± 0.2a",
+        "49.0 ± 0.6a"
+      ],
+      [
+        "100",
+        "52.9 ± 0.4e",
+        "53.1 ± 0.6g",
+        "7.5 ± 0.3c",
+        "29.0 ± 0.1d",
+        "18.7 ± 0.2 a",
+        "11.5 ± 0.2a",
+        "48.3 ± 0.5a"
+      ],
+      [
+        "150",
+        "61.8 ± 0.5c",
+        "64.9 ± 0.7c",
+        "7.9 ± 0.2a",
+        "31.5 ± 0.1b",
+        "18.4 ± 0.1a",
+        "11.7 ± 0.1a",
+        "49.1 ± 0.5a"
+      ],
+      [
+        "Feed rate (kg/h)",
+        "30",
+        "59.0 ± 0.5d",
+        "61.9 ± 0.7d",
+        "7.4 ± 0.1d",
+        "31.4 ± 0.2b",
+        "18.9 ± 0.1a",
+        "11.4 ± 0.2a",
+        "49.5 ± 0.6a"
+      ],
+      [
+        "60",
+        "46.3 ± 0.6f",
+        "57.1 ± 0.4f",
+        "6.9 ± 0.3g",
+        "31.3 ± 0.2b",
+        "18.7 ± 0.2a",
+        "11.5 ± 0.3a",
+        "48.4 ± 0.5a"
+      ],
+      [
+        "90",
+        "66.7 ± 0.3b",
+        "72.7 ± 0.8b",
+        "7.7 ± 0.2b",
+        "29.9 ± 0.1c",
+        "18.6 ± 0.2a",
+        "11.6 ± 0.2a",
+        "49.2 ± 0.6a"
+      ],
+      [
+        "Feed moisture (%)",
+        "10",
+        "26.4 ± 0.3i",
+        "35.9 ± 0.4k",
+        "7.0 ± 0.2g",
+        "31.3 ± 0.2b",
+        "18.7 ± 0.2a",
+        "11.4 ± 0.1a",
+        "48.0 ± 0.6a"
+      ],
+      [
+        "20",
+        "43.7 ± 0.4g",
+        "45.9 ± 0.5i",
+        "7.4 ± 0.1d",
+        "32.0 ± 0.1a",
+        "18.5 ± 0.1a",
+        "11.7 ± 0.1a",
+        "48.3 ± 0.5a"
+      ],
+      [
+        "30",
+        "62.4 ± 0.5c",
+        "58.1 ± 0.6f",
+        "7.9 ± 0.2a",
+        "32.1 ± 0.1a",
+        "18.5 ± 0.1a",
+        "11.8 ± 0.2a",
+        "48.6 ± 0.5a"
+      ]
+    ]
+  },
+  {
+    "source": "fermentation",
+    "kind": "paragraph",
+    "quote": "To remove CGs, a specialized fermentation process was conducted using a defined Lactobacillaceae consortium previously isolated and characterized in our laboratory [4,24]. This consortium is predominantly composed of L. plantarum, Limosilactobacillus fermentum, and Lentilactobacillus spp., all of which possess β-glucosidase activity. Importantly, whole-genome shotgun sequencing data previously generated for this consortium [24] include Distributed Accelerated Method for Protein Sequence Alignment with k-mer-based Optimized Network-guided Database Searching (DIAMOND)-annotated functional assignments against the National Center for Biotechnology Information (NCBI) non-redundant protein database, enabling interrogation of glycosyl hydrolase gene families (GH1/GH3) associated with β-glucosidase activity. These metagenomic resources provide a robust foundation supporting the presence of β-glucosidase-encoding genes within the consortium, consistent with its observed ability to hydrolyze CGs. One kilogram of flaxseed was fermented anaerobically at 30 °C for 72 h. Following fermentation, the hull gum was separated via a dehulling process using a Robot Coupe C80 automatic sieve (Robot Coupe, Vincennes, France). The final dehulled flaxseed product was dried overnight at 60 °C to produce CGDF, during which CGs were removed at or below detection limits. To maximize the bioavailability of essential fatty acids and lignans, both raw flaxseed and CGDF were finely ground using a coffee grinder prior to integration into the kimchi matrix [25]."
+  },
+  {
+    "source": "fermentation",
+    "kind": "paragraph",
+    "quote": "Proton nuclear magnetic resonance (1H-NMR) spectroscopy (600 MHz, Bruker Avance III HD, Mississauga, ON, Canada) was employed to quantify temporal changes in water-soluble metabolites during the 6-week fermentation period. The NMR spectra were analyzed using the TopSpin™ 3.8 software (Bruker BioSpin GmbH, Billerica, MA, USA). Kimchi samples (control, flaxseed 0.5–2.0, CGDF 0.5–2.0) were collected at weeks 0, 2, 4, and 6. For metabolite extraction, 1 g of lyophilized kimchi powder was homogenized with 10 mL of 0.1 M phosphate-buffered D2O (pH 7.0) containing 0.01% trimethylsilylpropanoic acid (TSP) as an internal standard for chemical shift (0.00 ppm) and quantification. The linustatin and neolinustatin contents in flaxseed and kimchi samples were quantified by comparison with the internal standard DMF."
+  },
+  {
+    "source": "fermentation",
+    "kind": "paragraph",
+    "quote": "The kimchi production process was based on the standard recipe of the Rural Development Administration of the Republic of Korea, with a total batch weight of 3000 g (Table 1). Salted Napa cabbage accounted for 69% (2070 g) of the total weight, while the seasoning mixture comprised the remaining 31% (930 g). The experimental groups were divided into: (1) a control group (no flaxseed); (2) Ground flaxseed groups (added at 0.5%, 1.0%, and 2.0% of the seasoning weight); and (3) Ground CGDF groups (added at 0.5%, 1.0%, and 2.0% of the seasoning weight). The experimental groups were supplemented with ground CGDF at 0.5%, 1.0%, and 2.0% (w/w) relative to the seasoning paste weight. The specific amounts added were 4.65 g, 9.30 g, and 18.60 g, respectively, per 930 g of seasoning mixture, not the final product weight. All ingredients were thoroughly mixed before being applied to the salted cabbage leaves. The samples were packaged in plastic containers (diameter, 11.5 cm; height, 8.3 cm) and pre-fermented at room temperature for 12 h and subsequently matured at 4 °C for 0, 2, 4, and 6 weeks."
+  },
+  {
+    "source": "fermentation",
+    "kind": "paragraph",
+    "quote": "In scaling this process from bench-scale (35 g) to industrial-scale (1 kg and beyond), several factors become critical: the material-to-liquid ratio, the initial inoculum density, and maintaining anaerobic conditions. While this study successfully demonstrated the detoxification of CGs in a 1 kg batch, further industrial-scale validation (ton-scale) is required to ensure consistent heat transfer and microbial stability. Additionally, starter culture stability tests during repeated subculturing are essential for commercial implementation to ensure that β-glucosidase activity remains consistent without genetic drift."
+  },
+  {
+    "source": "fermentation",
+    "kind": "table",
+    "id": "foods-15-00632-t001",
+    "rows": [
+      [
+        "Ingredients",
+        "Ratio (%)",
+        "Control (g)",
+        "Flax 0.5 (g)",
+        "Flax 1.0 (g)",
+        "Flax 2.0 (g)",
+        "CGDF 0.5 (g)",
+        "CGDF 1.0 (g)",
+        "CGDF 2.0 (g)"
+      ],
+      [
+        "Salted Napa cabbage",
+        "69.0",
+        "2070",
+        "2070",
+        "2070",
+        "2070",
+        "2070",
+        "2070",
+        "2070"
+      ],
+      [
+        "Coarse red pepper powder",
+        "0.8",
+        "24",
+        "24",
+        "24",
+        "24",
+        "24",
+        "24",
+        "24"
+      ],
+      [
+        "Fine red pepper powder",
+        "0.8",
+        "24",
+        "24",
+        "24",
+        "24",
+        "24",
+        "24",
+        "24"
+      ],
+      [
+        "Garlic",
+        "2.5",
+        "75",
+        "75",
+        "75",
+        "75",
+        "75",
+        "75",
+        "75"
+      ],
+      [
+        "Ginger",
+        "0.6",
+        "18",
+        "18",
+        "18",
+        "18",
+        "18",
+        "18",
+        "18"
+      ],
+      [
+        "Salted shrimp",
+        "2.5",
+        "75",
+        "75",
+        "75",
+        "75",
+        "75",
+        "75",
+        "75"
+      ],
+      [
+        "Anchovy sauce",
+        "1.8",
+        "54",
+        "54",
+        "54",
+        "54",
+        "54",
+        "54",
+        "54"
+      ],
+      [
+        "Sugar",
+        "1.8",
+        "54",
+        "54",
+        "54",
+        "54",
+        "54",
+        "54",
+        "54"
+      ],
+      [
+        "Radish",
+        "8.0",
+        "240",
+        "240",
+        "240",
+        "240",
+        "240",
+        "240",
+        "240"
+      ],
+      [
+        "Green onion",
+        "0.8",
+        "24",
+        "24",
+        "24",
+        "24",
+        "24",
+        "24",
+        "24"
+      ],
+      [
+        "Starch powder",
+        "0.4",
+        "12",
+        "12",
+        "12",
+        "12",
+        "12",
+        "12",
+        "12"
+      ],
+      [
+        "Onion",
+        "11.0",
+        "330",
+        "330",
+        "330",
+        "330",
+        "330",
+        "330",
+        "330"
+      ],
+      [
+        "Total Mix (Sub-total)",
+        "100",
+        "3000",
+        "3000",
+        "3000",
+        "3000",
+        "3000",
+        "3000",
+        "3000"
+      ],
+      [
+        "Ground flaxseed a",
+        "",
+        "",
+        "4.65",
+        "9.30",
+        "18.60",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Ground CGDF a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "4.65",
+        "9.30",
+        "18.60"
+      ]
+    ]
+  },
+  {
+    "source": "fermentation",
+    "kind": "table",
+    "id": "foods-15-00632-t002",
+    "rows": [
+      [
+        "Target Compound",
+        "Untreated Flax (Control) a",
+        "Fermented Flax (CGDF) b",
+        "Reduction Status"
+      ],
+      [
+        "Linustatin (mg/kg)",
+        "2414 ± 24",
+        "ND (<500) c",
+        "Depleted"
+      ],
+      [
+        "Neolinustatin (mg/kg)",
+        "3300 ± 30",
+        "ND (<500) c",
+        "Depleted"
+      ],
+      [
+        "Total HCN (mg/kg)",
+        "371 ± 25",
+        "<10",
+        ">97.3% Removed"
+      ]
+    ]
+  },
+  {
+    "source": "efsa",
+    "kind": "paragraph",
+    "quote": "The feed business operator has submitted analytical data and the respective certificates of analysis for the HCN content in five samples before and after the decontamination process (see Section 3.3.2). The analytical method used has been briefly described by the feed business operator and consists of the extraction and enzymatic hydrolysis of the cyanogenic glycosides, followed by quantification of the released HCN. The extraction and hydrolysis was conducted according to the European Standard EN 16160 of 2012,3 whereas the quantification was carried out according to the European Commission Directive 71/250/EEC of 1971.4 Briefly, after extraction with an acidic aqueous solution, the cyanogenic glycosides are hydrolysed at pH 6 and 38°C by a β‐glycosidase to release the bonded HCN. Following water vapour distillation and collection in an alkaline solution, the HCN is measured by potentiometric titration with silver nitrate. In order to control the activity of the β‐glycosidase and to account for losses of HCN, a defined amount of the cyanogenic glycoside amygdalin is added to control samples as an internal standard. The method is suitable to quantify the amount of HCN bonded in cyanogenic glycosides in feed materials of plant origin."
+  },
+  {
+    "source": "efsa",
+    "kind": "paragraph",
+    "quote": "The feed business operator has submitted analytical data and the respective certificates of analysis for the HCN content in five samples before and after the decontamination process (see Section 3.3.2). The analytical method used has been briefly described by the feed business operator and consists of the extraction and enzymatic hydrolysis of the cyanogenic glycosides, followed by quantification of the released HCN. The extraction and hydrolysis was conducted according to the European Standard EN 16160 of 2012,3 whereas the quantification was carried out according to the European Commission Directive 71/250/EEC of 1971.4 Briefly, after extraction with an acidic aqueous solution, the cyanogenic glycosides are hydrolysed at pH 6 and 38°C by a β‐glycosidase to release the bonded HCN. Following water vapour distillation and collection in an alkaline solution, the HCN is measured by potentiometric titration with silver nitrate. In order to control the activity of the β‐glycosidase and to account for losses of HCN, a defined amount of the cyanogenic glycoside amygdalin is added to control samples as an internal standard. The method is suitable to quantify the amount of HCN bonded in cyanogenic glycosides in feed materials of plant origin."
+  },
+  {
+    "source": "efsa",
+    "kind": "paragraph",
+    "quote": "In addition to the samples analysed before and after the process, the analysis of 178 samples containing from 22 up to 85.5% linseed and taken during January 2014 and April 2016 from different decontaminated product batches showed an average content of 12 mg HCN/kg, with a standard deviation of 5 and a maximum of 32 mg HCN/kg."
+  },
+  {
+    "source": "efsa",
+    "kind": "paragraph",
+    "quote": "This opinion considers the use of linseed in animal feed and not linseed cake which is often used as an animal feed ingredient."
+  },
+  {
+    "source": "efsa",
+    "kind": "paragraph",
+    "quote": "The level of HCN in 178 samples taken from various batches did not exceed 32 mg/kg, with an average of 12 mg/kg. Since these levels are below the legal limit of 250 mg/kg HCN as set out in Annex 1 of Directive 2002/32/EC for linseed used as an animal feed, the CONTAM Panel concluded that it is possible to meet the current EU requirements for the quality of linseed with respect to HCN after decontamination. The assessment assumes that the levels of HCN in untreated linseed are within the range of the tested batches. Final proof of sufficient decontamination should always be provided by analysis of the finished product."
+  },
+  {
+    "source": "efsa",
+    "kind": "table",
+    "id": "efs25004-tbl-0001",
+    "rows": [
+      [
+        "",
+        "HCN (mg/kg)"
+      ],
+      [
+        "Batch",
+        "Before",
+        "After"
+      ],
+      [
+        "1",
+        "126",
+        "< 10"
+      ],
+      [
+        "2",
+        "103",
+        "< 10"
+      ],
+      [
+        "3",
+        "97",
+        "11"
+      ],
+      [
+        "4",
+        "86",
+        "< 10"
+      ],
+      [
+        "5",
+        "127",
+        "< 10"
+      ]
+    ]
+  },
+  {
+    "source": "extraction",
+    "kind": "paragraph",
+    "quote": "The seeds of three Polish high-α-linolenate flax varieties (IHAR, Poland) were selected as research material: brown (Szafir variety) and two golden seeds (Oliwin and Jantarol varieties). Flaxseeds were milled using a ZM 200 mil ( 1 mm sieve; Retch, Germany). Defatted meals were prepared from milled flaxseeds (double cold extraction with hexane [22]) and utilised for aqueous and ethanolic extractions. The extracts were stored at 4 °C for further use."
+  },
+  {
+    "source": "extraction",
+    "kind": "paragraph",
+    "quote": "Ethanolic extraction was carried out by the method of Waszkowiak et al. [23]. Defatted flax meal (20 g) was extracted twice with 60 % aqueous ethanol (meal to extraction solvent ratio of 1:7.5, m/v) under constant vigorous shaking (labscale orbital shaker GFL 3005; Germany) at ambient temperature for 1 h. The extract solution was separated from meal by filtration (Munktell & Filtrak filter paper no 1289) and centrifugation (20 min, 1500g). The supernatant was collected, evaporated using rotary vacuum evaporator (Buchi, Switzerland) to remove ethanol, and then freeze-dried."
+  },
+  {
+    "source": "extraction",
+    "kind": "paragraph",
+    "quote": "In the extracts and defatted flaxseed meal (for comparison purposes), cyanogenic glycosides were determined using the GC method as described previously [28, 29] and analysed on an Agilent Technologies (Wilmington, DE, USA) 6890 gas chromatograph equipped with a flame ionisation detector and controlled by an Agilent Chemstation (A.09.03 build 1417). The column was a Supelco (St. Louis, MI, USA) SPB-17 column (30 m × 0.32 mm, 0.25 µm film thickness). The GC oven program was as follows: an initial temperature of 190 °C for 3 min, a 40 °C min−1 ramp to 280 °C, followed by a 4.75 min hold (total run time was 10 min). The hydrogen was used as the carrier gas at a flow of 2.5 mL min−1. Linustatin, neolinustatin, lotaustralin and linamarin were quantified using standard curves made of stock solutions of each standard at 0.500 mg mL−1. Internal standard solutions (methyl-α-d-glucopyranoside and phenyl-β-d-glucopyranoside) were also prepared at 0.500 mg mL−1."
+  },
+  {
+    "source": "extraction",
+    "kind": "paragraph",
+    "quote": "The effect of extraction method (60 % ethanol or aqueous) on cyanogenic glycoside content in the extracts was also studied since these compounds release toxic hydrogen cyanide upon hydrolysis (Table 4). Monitoring of cyanogenic glycoside content in the flaxseed extracts is particularly important when they are intended to be applied as food additives. The contents of cyanogenic diglucosides (linustatin and neolinustatin) and monoglucosides (linamarin and lotaustralin) in extracts and extracted material (defatted flax meals) were analysed. Based on the total cyanogenic glucoside (TCG) content, the hydrogen cyanide (HCN) equivalent was calculated. It represents the amount of cyanide (calculated as HCN) that the sample can release upon total degradation of all its cyanogenic constituents. The TCG content in the flaxseed ethanolic and aqueous extracts were also expressed per gram of defatted flax meal to calculate the TCG yield and to show the effect of extraction method on the content of these compounds in the extracts.Table 4Cyanogenic glucoside content in defatted flax meal and flaxseed extractsFlax varietyCyanogenic glucoside content (μmol g−1) and (mg∙100 g−1) in parenthesesa\nTotal content (μmol g−1)a\nHCN (mg kg−1)Ratio Lin:NeoTCG yieldb\nLinamarinLotaustralinLinustatinNeolinustatinDefatted flaxseed meal Brown Szafir var.0.15 ± 0.02 (3.6 ± 0.5)c\n0.14 ± 0.01 (3.8 ± 0.3)7.14 ± 0.47 (290.5 ± 19.4)3.71 ± 0.25 (157.0 ± 10.4)11.09 ± 0.53300 ± 141.9100 % Golden Oliwin var.0.16 ± 0.01 (3.9 ± 0.3)0.15 ± 0.01 (3.4 ± 0.2)7.81 ± 0.07 (319.7 ± 2.7)3.47 ± 0.04 (147.0 ± 1.7)11.59 ± 0.08313 ± 22.2100 % Golden Jantarol var.0.13 ± 0.01 (3.2 ± 0.3)0.16 ± 0.00 (4.1 ± 0.0)6.46 ± 0.30 (264.4 ± 12.4)2.37 ± 0.13 (100.3 ± 5.4)9.11 ± 0.33246 ± 92.7100 %Aqueous flaxseed extracts Brown Szafir var.0.03 ± 0.01 (0.7 ± 0.1)0.12 ± 0.01 (3.2 ± 0.3)0.36 ± 0.03 (14.9 ± 1.3)0.09 ± 0.00 (3.6 ± 0.0)0.60 ± 0.0316 ± 14.22.3 % (0.25 ± 0.01) Golden Oliwin var.ND0.06 ± 0.01 (1.7 ± 0.2)0.47 ± 0.02 (19.2 ± 0.9)0.09 ± 0.00 (3.6 ± 0.0)0.62 ± 0.0217 ± 15.53.8 % (0.44 ± 0.02) Golden Jantarol var.ND0.06 ± 0.00 (1.6 ± 0.1)0.41 ± 0.02 (16.8 ± 1.0)0.09 ± 0.00 (3.6 ± 0.0)0.56 ± 0.0215 ± 14.84.3 % (0.39 ± 0.01)Ethanolic flaxseed extracts Brown Szafir var.7.88 ± 0.07 (194.8 ± 1.6)2.96 ± 0.09 (77.3 ± 2.4)51.54 ± 0.28 (2110.1 ± 11.3)27.45 ± 0.13 (1162.4 ± 5.4)89.83 ± 0.332428 ± 91.969.8 % (7.74 ± 0.05) Golden Oliwin var.17.44 ± 0.32 (431.2 ± 7.9)6.19 ± 0.12 (161.7 ± 3.0)37.82 ± 0.67 (1548.4 ± 27.6)17.77 ± 0.17 (752.6 ± 7.0)79.23 ± 0.772141 ± 212.166.4 % (7.70 ± 0.09) Golden Jantarol var.12.20 ± 0.24 (301.7 ± 6.0)3.17 ± 0.07 (82.8 ± 1.7)40.80 ± 0.64 (1670.3 ± 26.2)15.07 ± 0.19 (638.2 ± 8.2)71.25 ± 0.711926 ± 192.769.8 % (6.35 ± 0.10)\nND not detected, HCN hydrogen cyanide equivalent\naContents in μmol g−1 of defatted meals or extracts, respectively\nb\nTCG yield TCG content (μmol g−1) in the flaxseed extract was calculated per gram of defatted flax meal (in parenthesis) and expressed as % of the TCG content in defatted meal\ncMean (n = 9) ± SD"
+  },
+  {
+    "source": "extraction",
+    "kind": "paragraph",
+    "quote": "The flaxseed ethanolic extracts contained from 6 to 11 times more total phenolics (TP, after alkaline hydrolysis) and SDG than the aqueous extracts in the case of all tested varieties (golden and brown seeds). TP content (Table 1) ranged from 100.8 to 131.6 mg g−1 in the ethanolic extracts and from 11.5 to 15.7 mg g−1 in the aqueous one; SDG contents were 94.0–107.4 and 9.5–14.5 mg g−1, respectively. This shows that the extraction method greatly affected the content of phenolics in the extracts; the ethanolic extraction was more selective for phenolic compounds than the aqueous one. The results can be explained by difference in polarity of the extraction solvents. Zhang et al. [15] reported that extraction yield of flaxseed lignans increased when the mixture of ethanol and water was applied instead of pure ethanol. They found that the best ethanol concentration was in the range of 56–83 %; however, the extraction yield decreased when the water content in extraction solvent was 50 %. Our preliminary study concerning the effect of ethanol concentration in extraction solvent on phenolic content and antioxidant activity of flaxseed extracts indicated 60 % ethanol as the best for extraction; we found that 60 and 65 % ethanolic extracts showed the highest antiradical activity (DPPH• assay), and that the 60 % one had significantly higher phenolic compound content (both SDG and total phenolics) than the other extracts (unpublished data)."
+  },
+  {
+    "source": "extraction",
+    "kind": "table",
+    "id": "Tab1",
+    "rows": [
+      [
+        "Phenolic compounds",
+        "Ethanolic flaxseed extracts",
+        "Aqueous flaxseed extracts"
+      ],
+      [
+        "Brown Szafir var.",
+        "Golden Oliwin var.",
+        "Golden Jantarol var.",
+        "Brown Szafir var.",
+        "Golden Oliwin var.",
+        "Golden Jantarol var."
+      ],
+      [
+        "SDGa",
+        "107.37 ± 3.00",
+        "77.96 ± 1.00",
+        "94.02 ± 0.95",
+        "9.55 ± 0.13",
+        "10.80 ± 0.13",
+        "14.52 ± 0.22"
+      ],
+      [
+        "SECOb",
+        "21.74 ± 0.60",
+        "15.85 ± 0.20",
+        "19.06 ± 0.19",
+        "2.11 ± 0.03",
+        "2.36 ± 0.03",
+        "3.11 ± 0.04"
+      ],
+      [
+        "p-Coumaric acid glucosidea,c,e",
+        "9.85 ± 0.14",
+        "9.77 ± 0.11",
+        "2.46 ± 0.03",
+        "0.73 ± 0.04",
+        "1.68 ± 0.07",
+        "0.36 ± 0.01"
+      ],
+      [
+        "Caffeic acid glucosidea,c,f",
+        "2.18 ± 0.04",
+        "2.01 ± 0.01",
+        "1.26 ± 0.14",
+        "0.17 ± 0.01",
+        "0.23 ± 0.01",
+        "0.21 ± 0.00"
+      ],
+      [
+        "Ferulic acid glucosidea,c,g",
+        "1.92 ± 0.21",
+        "1.82 ± 0.02",
+        "1.05 ± 0.01",
+        "0.14 ± 0.01",
+        "0.20 ± 0.01",
+        "0.20 ± 0.00"
+      ],
+      [
+        "p-Coumaric acida",
+        "1.30 ± 0.02",
+        "1.26 ± 0.02",
+        "0.34 ± 0.00",
+        "0.16 ± 0.01",
+        "0.19 ± 0.01",
+        "0.09 ± 0.01"
+      ],
+      [
+        "p-Coumaric acidb",
+        "7.33 ± 0.09",
+        "7.78 ± 0.24",
+        "2.05 ± 0.05",
+        "0.51 ± 0.02",
+        "0.68 ± 0.04",
+        "0.42 ± 0.04"
+      ],
+      [
+        "Ferulic acida",
+        "9.04 ± 0.24",
+        "13.69 ± 0.14",
+        "1.71 ± 0.04",
+        "0.76 ± 0.04",
+        "1.88 ± 0.05",
+        "0.37 ± 0.01"
+      ],
+      [
+        "Ferulic acidb",
+        "10.64 ± 0.12",
+        "14.45 ± 0.14",
+        "3.17 ± 0.05",
+        "0.87 ± 0.01",
+        "1.81 ± 0.05",
+        "0.56 ± 0.06"
+      ],
+      [
+        "Caffeic acidb",
+        "2.77 ± 0.03",
+        "1.29 ± 0.02",
+        "0.61 ± 0.02",
+        "0.12 ± 0.01",
+        "0.14 ± 0.00",
+        "0.08 ± 0.01"
+      ],
+      [
+        "p-Hydroxybenzoic acidb",
+        "1.60 ± 0.01",
+        "0.77 ± 0.03",
+        "0.38 ± 0.01",
+        "0.13 ± 0.01",
+        "0.14 ± 0.01",
+        "0.17 ± 0.01"
+      ],
+      [
+        "p-Coumaric acid esterb,d,e",
+        "0.90 ± 0.03",
+        "0.69 ± 0.12",
+        "0.25 ± 0.01",
+        "ND",
+        "ND",
+        "ND"
+      ],
+      [
+        "Ferulic acid esterb,d,g",
+        "3.83 ± 0.42",
+        "1.80 ± 0.41",
+        "0.39 ± 0.03",
+        "ND",
+        "ND",
+        "ND"
+      ],
+      [
+        "Total after alkaline hydrolysisa",
+        "131.65 ± 2.88",
+        "106.51 ± 1.11",
+        "100.83 ± 0.96",
+        "11.50 ± 0.21",
+        "14.98 ± 0.17",
+        "15.73 ± 0.23"
+      ],
+      [
+        "Total after alkaline-acid hydrolysisb",
+        "48.80 ± 0.86",
+        "42.63 ± 0.80",
+        "25.92 ± 0.33",
+        "3.73 ± 0.05",
+        "5.13 ± 0.07",
+        "4.34 ± 0.12"
+      ]
+    ]
+  },
+  {
+    "source": "extraction",
+    "kind": "table",
+    "id": "Tab2",
+    "rows": [
+      [
+        "Antioxidant activity",
+        "Flaxseed variety"
+      ],
+      [
+        "Brown Szafir var.",
+        "Golden Oliwin var.",
+        "Golden Jantarol var."
+      ],
+      [
+        "Ethanolic flaxseed extracts"
+      ],
+      [
+        "Antiradical activity"
+      ],
+      [
+        "DPPH•assay—EC50 (g L−1)",
+        "0.06 ± 0.01b",
+        "0.08 ± 0.01a",
+        "0.08 ± 0.01a"
+      ],
+      [
+        "ABTS•+ assay (mmol Trolox g−1)",
+        "5.06 ± 0.28c",
+        "4.30 ± 0.17b",
+        "3.83 ± 0.17a"
+      ],
+      [
+        "Reducing activity"
+      ],
+      [
+        "FRAP assay (mmol FeS04 g−1)",
+        "4.96 ± 0.19c",
+        "3.80 ± 0.23a",
+        "4.37 ± 0.11b"
+      ],
+      [
+        "Chelating ability—EC50 (g L−1)",
+        "0.12 ± 0.01a",
+        "0.13 ± 0.01a",
+        "0.11 ± 0.01a"
+      ],
+      [
+        "Aqueous flaxseed extracts"
+      ],
+      [
+        "Antiradical activity"
+      ],
+      [
+        "DPPH• assay—EC50 (g L−1)",
+        "0.51 ± 0.02a",
+        "0.43 ± 0.01b",
+        "0.39 ± 0.02b"
+      ],
+      [
+        "ABTS•+ assay (mmol Trolox g−1)",
+        "0.54 ± 0.08b",
+        "0.46 ± 0.04a",
+        "0.50 ± 0.08ab"
+      ],
+      [
+        "Reducing activity"
+      ],
+      [
+        "FRAP assay (mmol FeS04 g−1)",
+        "0.60 ± 0.01b",
+        "0.44 ± 0.01a",
+        "0.61 ± 0.01b"
+      ],
+      [
+        "Chelating ability—EC50 (g L−1)",
+        "2.86 ± 0.18c",
+        "4.28 ± 0.67b",
+        "6.54 ± 0.01a"
+      ]
+    ]
+  },
+  {
+    "source": "extraction",
+    "kind": "table",
+    "id": "Tab4",
+    "rows": [
+      [
+        "Flax variety",
+        "Cyanogenic glucoside content (μmol g−1) and (mg∙100 g−1) in parenthesesa",
+        "Total content (μmol g−1)a",
+        "HCN (mg kg−1)",
+        "Ratio Lin:Neo",
+        "TCG yieldb"
+      ],
+      [
+        "Linamarin",
+        "Lotaustralin",
+        "Linustatin",
+        "Neolinustatin"
+      ],
+      [
+        "Defatted flaxseed meal"
+      ],
+      [
+        "Brown Szafir var.",
+        "0.15 ± 0.02 (3.6 ± 0.5)c",
+        "0.14 ± 0.01 (3.8 ± 0.3)",
+        "7.14 ± 0.47 (290.5 ± 19.4)",
+        "3.71 ± 0.25 (157.0 ± 10.4)",
+        "11.09 ± 0.53",
+        "300 ± 14",
+        "1.9",
+        "100 %"
+      ],
+      [
+        "Golden Oliwin var.",
+        "0.16 ± 0.01 (3.9 ± 0.3)",
+        "0.15 ± 0.01 (3.4 ± 0.2)",
+        "7.81 ± 0.07 (319.7 ± 2.7)",
+        "3.47 ± 0.04 (147.0 ± 1.7)",
+        "11.59 ± 0.08",
+        "313 ± 2",
+        "2.2",
+        "100 %"
+      ],
+      [
+        "Golden Jantarol var.",
+        "0.13 ± 0.01 (3.2 ± 0.3)",
+        "0.16 ± 0.00 (4.1 ± 0.0)",
+        "6.46 ± 0.30 (264.4 ± 12.4)",
+        "2.37 ± 0.13 (100.3 ± 5.4)",
+        "9.11 ± 0.33",
+        "246 ± 9",
+        "2.7",
+        "100 %"
+      ],
+      [
+        "Aqueous flaxseed extracts"
+      ],
+      [
+        "Brown Szafir var.",
+        "0.03 ± 0.01 (0.7 ± 0.1)",
+        "0.12 ± 0.01 (3.2 ± 0.3)",
+        "0.36 ± 0.03 (14.9 ± 1.3)",
+        "0.09 ± 0.00 (3.6 ± 0.0)",
+        "0.60 ± 0.03",
+        "16 ± 1",
+        "4.2",
+        "2.3 % (0.25 ± 0.01)"
+      ],
+      [
+        "Golden Oliwin var.",
+        "ND",
+        "0.06 ± 0.01 (1.7 ± 0.2)",
+        "0.47 ± 0.02 (19.2 ± 0.9)",
+        "0.09 ± 0.00 (3.6 ± 0.0)",
+        "0.62 ± 0.02",
+        "17 ± 1",
+        "5.5",
+        "3.8 % (0.44 ± 0.02)"
+      ],
+      [
+        "Golden Jantarol var.",
+        "ND",
+        "0.06 ± 0.00 (1.6 ± 0.1)",
+        "0.41 ± 0.02 (16.8 ± 1.0)",
+        "0.09 ± 0.00 (3.6 ± 0.0)",
+        "0.56 ± 0.02",
+        "15 ± 1",
+        "4.8",
+        "4.3 % (0.39 ± 0.01)"
+      ],
+      [
+        "Ethanolic flaxseed extracts"
+      ],
+      [
+        "Brown Szafir var.",
+        "7.88 ± 0.07 (194.8 ± 1.6)",
+        "2.96 ± 0.09 (77.3 ± 2.4)",
+        "51.54 ± 0.28 (2110.1 ± 11.3)",
+        "27.45 ± 0.13 (1162.4 ± 5.4)",
+        "89.83 ± 0.33",
+        "2428 ± 9",
+        "1.9",
+        "69.8 % (7.74 ± 0.05)"
+      ],
+      [
+        "Golden Oliwin var.",
+        "17.44 ± 0.32 (431.2 ± 7.9)",
+        "6.19 ± 0.12 (161.7 ± 3.0)",
+        "37.82 ± 0.67 (1548.4 ± 27.6)",
+        "17.77 ± 0.17 (752.6 ± 7.0)",
+        "79.23 ± 0.77",
+        "2141 ± 21",
+        "2.1",
+        "66.4 % (7.70 ± 0.09)"
+      ],
+      [
+        "Golden Jantarol var.",
+        "12.20 ± 0.24 (301.7 ± 6.0)",
+        "3.17 ± 0.07 (82.8 ± 1.7)",
+        "40.80 ± 0.64 (1670.3 ± 26.2)",
+        "15.07 ± 0.19 (638.2 ± 8.2)",
+        "71.25 ± 0.71",
+        "1926 ± 19",
+        "2.7",
+        "69.8 % (6.35 ± 0.10)"
+      ]
+    ]
+  },
+  {
+    "source": "bfr",
+    "kind": "html quote",
+    "quote": "The risk is significantly reduced during baking or cooking, as hydrocyanic acid evaporates easily and the enzymes responsible for its release are inactivated by heat."
+  }
+]

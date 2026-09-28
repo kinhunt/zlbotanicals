@@ -108,3 +108,5 @@ relatedIndustries: ["food"]
 <p id="psyllium-ref-5">[5] <a href="https://www.amazon.com/dp/B007729DSE">NOW Supplements, Psyllium Husk Powder, Soluble Fiber, 12-oz</a></p>
 
 <p id="psyllium-ref-6">[6] <a href="https://www.amazon.com/dp/B06XXN9CTG">Anthony&#x27;s Organic Psyllium Husk Powder, 1.5 lb, Gluten Free, Non GMO, Finely Ground, Keto Friendly</a></p>
+
+若考虑亚麻籽粉或木脂素富集物，可进一步[比较加工与生氰检测终点](/zh/resources/blog/flax-cyanogenic-material-selection)：供应原料中的浓度，不等于相对于起始粉体的回收率。
