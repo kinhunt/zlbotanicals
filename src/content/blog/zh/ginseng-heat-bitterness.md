@@ -86,3 +86,5 @@ sources: []
 <p id="ginseng-heat-ref-2">[2] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21535568%20AND%20SRC:MED&amp;format=json&amp;resultType=core">Sensory properties of ginseng solutions modified by masking agents.</a> 原始摘要；本次未取得完整方法与感官表格。</p>
 
 <p id="ginseng-heat-ref-4">[4] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5628343/fullTextXML">Effect of hydrothermal processing on ginseng extract — full text</a> 全文XML，方法及结果3.1；无人类苦味终点。</p>
+
+作为另一种食品加工案例，[胡芦巴风味与加工分析](/zh/resources/blog/fenugreek-flavour-processing)区分香气与滋味喜好，并说明混合粉组成同时变化为什么会影响对苦味的判断。

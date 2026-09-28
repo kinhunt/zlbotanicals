@@ -1,0 +1,17 @@
+{
+  "independent": {
+    "output": "{\n  \"result\": \"PASS\",\n  \"checks\": 82,\n  \"checked\": [\n    \"frozen hash draft.en.md\",\n    \"frozen hash draft.zh.md\",\n    \"frozen hash ledger.json\",\n    \"frozen hash sources/PMC11971048.xml\",\n    \"frozen hash sources/PMC7447712.html\",\n    \"frozen hash original-table-cells.json\",\n    \"frozen hash claim-ledger.json\",\n    \"original cell archive\",\n    \"Table5 headers\",\n    \"Table5 original cells Control\",\n    \"Table5 original cells B1\",\n    \"Table5 original cells B2\",\n    \"Table5 original cells B3\",\n    \"Table2 sensory header\",\n    \"Table2 temperature row\",\n    \"Table2 interactions nonsignificant\",\n    \"Table5 temperature colour/appearance\",\n    \"T01 claim hash\",\n    \"T01 source hash\",\n    \"T01 original locator evidence\",\n    \"T02 claim hash\",\n    \"T02 source hash\",\n    \"T02 original locator evidence\",\n    \"T03 claim hash\",\n    \"T03 source hash\",\n    \"T03 original locator evidence\",\n    \"T04 claim hash\",\n    \"T04 source hash\",\n    \"T04 original locator evidence\",\n    \"T05 claim hash\",\n    \"T05 source hash\",\n    \"T05 original locator evidence\",\n    \"C01 claim hash\",\n    \"C01 source hash\",\n    \"C01 original locator evidence\",\n    \"C02 claim hash\",\n    \"C02 source hash\",\n    \"C02 original locator evidence\",\n    \"C03 claim hash\",\n    \"C03 source hash\",\n    \"C03 original locator evidence\",\n    \"C04 claim hash\",\n    \"C04 source hash\",\n    \"C04 original locator evidence\",\n    \"C05 claim hash\",\n    \"C05 source hash\",\n    \"C05 original locator evidence\",\n    \"C06 claim hash\",\n    \"C06 source hash\",\n    \"C06 original locator evidence\",\n    \"C07 claim hash\",\n    \"C07 source hash\",\n    \"C07 original locator evidence\",\n    \"C08 claim hash\",\n    \"C08 source hash\",\n    \"C08 original locator evidence\",\n    \"C09 claim hash\",\n    \"C09 source hash\",\n    \"C09 original locator evidence\",\n    \"C10 claim hash\",\n    \"C10 source hash\",\n    \"C10 original locator evidence\",\n    \"en exactly one four-row table\",\n    \"en draft table row 0\",\n    \"en draft table row 1\",\n    \"en draft table row 2\",\n    \"en draft table row 3\",\n    \"en p values\",\n    \"en citation IDs\",\n    \"en reference 1\",\n    \"en reference 2\",\n    \"zh exactly one four-row table\",\n    \"zh draft table row 0\",\n    \"zh draft table row 1\",\n    \"zh draft table row 2\",\n    \"zh draft table row 3\",\n    \"zh p values\",\n    \"zh citation IDs\",\n    \"zh reference 1\",\n    \"zh reference 2\",\n    \"scope EN\",\n    \"scope ZH\"\n  ],\n  \"note\": \"Mechanical invariants supplement the independent full bilingual editorial/source review in REVIEW.md; no browser/render or release claim.\"\n}",
+    "exit_code": 0,
+    "error": null
+  },
+  "citations-en": {
+    "output": "info: stats: 54 prose sentence(s), 17 with declared provenance (31%) — 17 cited, 0 marked [unverified] (a sentence may be both); 2 distinct source(s) cited, 2 in ledger (2 with evidence quotes)\ncitations OK",
+    "exit_code": 0,
+    "error": null
+  },
+  "citations-zh": {
+    "output": "info: stats: 0 prose sentence(s), 0 with declared provenance (0%) — 0 cited, 0 marked [unverified] (a sentence may be both); 2 distinct source(s) cited, 2 in ledger (2 with evidence quotes)\ncitations OK",
+    "exit_code": 0,
+    "error": null
+  }
+}
