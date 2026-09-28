@@ -71,6 +71,8 @@ The buying decision then becomes more specific: which material delivers the desi
 
 For another example of why heat-processing results depend on material and matrix, see [ginseng heat and bitterness](/resources/blog/ginseng-heat-bitterness). To separate sensations during consumption from lingering aftertaste, see the [stevia temporal sensory guide](/resources/blog/stevia-temporal-sensory).
 
+For protein-rich seed ingredients, see [sunflower protein selection: defatting, particle size and phenolic removal](/resources/blog/sunflower-protein-selection).
+
 ## Sources
 
 <p id="fenugreek-ref-1">[1] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11971048/fullTextXML">Commercial fenugreek tinctures: volatile and descriptive aroma study</a></p>

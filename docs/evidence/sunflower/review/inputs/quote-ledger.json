@@ -1,0 +1,116 @@
+[
+  {
+    "source_id": 1,
+    "claim": "Cold pressing then oxygen-excluded controlled grinding",
+    "location": "Production paragraph",
+    "quote": "For the production of Heliaflor ® , hulled sunflower seeds are partially de-oiled by special cold pressing . The sunflower seed press cake resulting from the pressing  is then finely ground under exclusion of oxygen in a specially developed, temperature-controlled and product-friendly process.",
+    "text_path": "evidence/aot-process.txt"
+  },
+  {
+    "source_id": 1,
+    "claim": "45/55 sensory/process positioning and qualitative binding claims",
+    "location": "45 and 55 paragraphs",
+    "quote": "Heliaflor® 45 is characterised by a higher fat content. The water-binding capacity is stronger and the fat-binding capacity slightly lower. Heliaflor® 45 has a brownish colour and a more intensive taste and is suitable for spicy and darker coloured products. Heliaflor ® 55 - additional CO 2 extraction of this product variant reduces the fat content and simultaneously increases the protein content of the final product. This process leads to a higher fat binding capacity and a slightly weaker water binding capacity. This makes the product highly functional. Heliaflor ® 55 is beige in colour and has a relatively neutral taste. It is particularly suitable for products which tolerate minimal off-flavour and little foreign colouring.",
+    "text_path": "evidence/aot-process.txt"
+  },
+  {
+    "source_id": 2,
+    "claim": "Protein dry basis and approximate residual fat: supplier values, not batch results",
+    "location": "Nutrition row; cell map archived",
+    "quote": "Nutrition Energy value: 350 kcal / ca. 1466 kJ (100g) high protein content: min 45 % dry mass high fiber: approx. 18 % medium fat content: approx. 10 % carbohydrates contet: approx. 7% Energy value: 397 kcal / ca. 1673 kJ (100g) high protein content: min 50 % dry mass high fiber: approx. 14 - 23 % low fat content: 8 - 12 % carbohydrates content: 8 - 14 % Energy value. 397 kcal / ca. 1673 kJ (100g) high protein content: min 50 % dry mass high fiber: approx. 14 - 23 % low fat content: 8 - 12 % carbohydrates content: 8 - 14 % Energy value. 305 kcal / ca. 1300 kJ (100g) high protein content: min 55 % dry mass high fiber: approx. 20 % low fat content: max. approx. 2 % carbohydrates content: approx 9 % Water binding capacity",
+    "text_path": "evidence/aot-comparison.txt"
+  },
+  {
+    "source_id": 2,
+    "claim": "Binding thresholds; tension with qualitative ranking; no declared assay conditions",
+    "location": "Water/fat binding table rows",
+    "quote": "Water binding capacity > 160 % (100 g Heliaflor® 45 bind 160g Water) > 160 % (100 g Heliaflor® 50 HO bind min. 160 g Water) > 160 % (100 g Heliaflor® 50 HO bind min. 160 g Water) > 200 % (100 g Heliaflor® 55 bind min. 200 g Water) Fat binding capacity > 60 % (100 g Heliaflor® 45 bind min 60g fat) > 60 % (100 g Heliaflor® 50 HO bind min. 60 g fat) > 60 % (100 g Heliaflor® Extrufix 50 HO bind min. 60 g fat) > 60 % (100 g Heliaflor® 55 bind min. 60 g fat) Amino acids",
+    "text_path": "evidence/aot-comparison.txt"
+  },
+  {
+    "source_id": 3,
+    "claim": "PRO medium/high viscosity versus finer BEV low-viscosity positioning",
+    "location": "Named product paragraphs",
+    "quote": "Sunbloom® PRO is a versatile plant-based protein with remarkable emulsifying properties. Ideal for medium to high viscosity applications such as spreads, sauces, dressings, desserts, and nutrition, this ingredient ensures a smooth, consistent texture, and supports clean-label formulation. SUNBLOOM® BEV Sunbloom® BEV is a finer plant-based protein with similar properties to Sunbloom® PRO. This solution has been designed to enhance mouthfeel in low-viscosity products like milk alternatives, or for protein and fibre enrichment in ready-to-mix, ready-to-drink, and fruit preparations.",
+    "text_path": "evidence/sunbloom-products.txt"
+  },
+  {
+    "source_id": 4,
+    "claim": "SUNPROTEIN commercial Y/G materials; composition supplier provided",
+    "location": "2.1",
+    "quote": "The compounds and chemicals used for producing emulsions and for characterizing sunflower proteins, emulsions, and films included the following: SF concentrates with low chlorogenic acid content (yellowish: Y) and high chlorogenic acid content (greenish: G) (80% crude protein, SUNPROTEIN “Bio Technologies” LLC., Moscow, Russia); cellulose nanocrystals with a length of 91.7 ± 25.3 nm and a mean diameter of 4.3 ± 0.4 nm (CelluForce NCC™, Montreal, Canada); eugenol (C10H12O2; 4-allyl-2-methoxyphenol); β-mercaptoethanol; and Coomassie Brilliant Blue (Sigma Aldrich Co., St. Louis, MO, USA). The manufacturer provided the dry basis proximate composition of the SF concentrates, which consisted of 1.2% carbohydrates, 80.5% proteins, <0.5% lipids, 0.6% fibers, and 5.5% ashes. Banana peel bran was used as raw material to yield the cellulose nanofibers, which was prepared according to techniques delineated by Tibolla et al. [50]. Cellulose nanofibers (with a mean diameter and a length of 3.4 ± 1.3 nm and 1594.0 ± 191 nm, respectively) were obtained through enzymatic hydrolysis using xylanase enzyme (Novozymes, Araucária, PR, Brazil), following the procedures outlined by Tibolla et al. [52]. Sunflower oil was purchased locally (Bunge Alimentos S.A., Gaspar, SC, Brazil) and ultrapure water was produced using a Millipore Milli-Q system. All other chemicals used were of analytical grade.",
+    "text_path": "evidence/sunflower-emulsions.txt"
+  },
+  {
+    "source_id": 4,
+    "claim": "2% w/w, five pHs, 1h room-temperature stirring, centrifuged supernatant Kjeldahl",
+    "location": "2.2.2",
+    "quote": "The solubility profile of YSF and GSF concentrates was assessed using a revised version of the procedure outlined by Malik and Saini [20]. A 2% (w/w) protein solution was prepared and adjusted to pH levels of 3, 5, 7, 9, and 11 using 0.5 N NaOH and 0.5 N HCl. The mixtures were agitated with a magnetic stirrer for 1 h at room temperature. Following stirring, the dispersions were centrifuged at 3000 rpm for 20 min (Thermo IEC, Centra GP8R, Needham Heights, MA, USA). The supernatant was carefully separated, and its protein content was analyzed using the Kjeldahl method. Protein solubility was subsequently calculated using Equation (1).",
+    "text_path": "evidence/sunflower-emulsions.txt"
+  },
+  {
+    "source_id": 4,
+    "claim": "pH11 emulsion preparation; ultrasonication; duplicate preparations; not drink recipe",
+    "location": "2.3",
+    "quote": "The aqueous phase of emulsions was comprised of dispersions containing YSF or GSF (5% w/w; real protein content 4% w/w), glycerol (1.5% w/w), and cellulose nanofibers (CNFs; 0.05% w/w) or cellulose nanocrystals (CNCs; 0.05% w/w), while the oil phase was composed of sunflower oil (3.5% w/w) and eugenol (1.5 % w/w).\n\nSunflower proteins (YSF and GSF) were dissolved in water using a magnetic stirrer at 25 ± 2 °C for 5 min. The pH of the dispersions was adjusted to pH 11 by adding 2 M NaOH while stirring continuously for 30 min. During this period, the pH was tracked and adjusted as needed every 5 min. After solubilizing sunflower proteins, glycerol and CNC or CNF particles were added to the solution and stirred with a magnetic stirrer until fully dissolved, which took approximately 2 h.\n\nAll O/W emulsions (70 g) were prepared using a fixed weight ratio of 5% oil phase to 95% aqueous phase. The dispersions were homogenized with a QR 750 W ultrasonic probe (Ultronique, Indaiatuba, Brazil) operating at a frequency of 20 kHz with a 13 mm diameter titanium probe. The nominal power during emulsification was 525 W, and the homogenization was carried out for 2 min. The dispersions of YSF or GSF, composed of 5% w/w of protein (real protein content 4 % w/w) and 1.5% glycerol (w/w), were used as control samples, called C-YSF and C-GSF. Two replicates of each sample were prepared and characterized as detailed in Section 2.4.",
+    "text_path": "evidence/sunflower-emulsions.txt"
+  },
+  {
+    "source_id": 4,
+    "claim": "Duplicate experiments, at least three readings not independent industrial batches",
+    "location": "2.7",
+    "quote": "Each experiment was conducted in duplicate, with a minimum of three measurements per sample. Statistical evaluation was carried out using Minitab 16® software, employing analysis of variance (ANOVA) and Tukey’s test to determine significant differences (p < 0.05) among the treatments.",
+    "text_path": "evidence/sunflower-emulsions.txt"
+  },
+  {
+    "source_id": 4,
+    "claim": "YSF clarification process and higher CGA in GSF",
+    "location": "3.1",
+    "quote": "The sunflower protein used in our study, characterized by a low chlorogenic acid content (yellowish), was commercially produced by eliminating phenolic compounds through a clarification process (“Bio Technologies” LLC., Russia). Thus, as anticipated, the content of chlorogenic acid in the commercial GSF was higher than in the YSF, as shown in Figure 2a.",
+    "text_path": "evidence/sunflower-emulsions.txt"
+  },
+  {
+    "source_id": 4,
+    "claim": "Reduced solubility near pH5; maxima at pH11; do not transfer to neutral beverage",
+    "location": "3.1",
+    "quote": "As presented in Figure 2b and reported by previous studies, YSF and GSF show reduced solubility close to their isoelectric point (pI = 5) and increased solubility at alkaline pH levels, with maximum solubility observed at pH 11 [20,64]. YSF demonstrated a solubility value of 77%, which was significantly higher than the 45% solubility of GSF. The reduced solubility of GSF was attributed to the strong interactions between chlorogenic acids and protein molecules that resulted in the formation of protein–phenolic complexes [9,10].",
+    "text_path": "evidence/sunflower-emulsions.txt"
+  },
+  {
+    "source_id": 4,
+    "claim": "Narrative has Pa.s versus table mPa.s conflict; table values govern bounded example",
+    "location": "3.2",
+    "quote": "Emulsions made with GSF demonstrated more pronounced increases in viscosity and shear thinning (ƞ at 10 s−1 = 135.2–296.5 Pa.s; n = 0.54–1.59) compared to those made with YSF (ƞ at 10 s−1 = 29.5–86.8 Pa.s; n = 0.67–0.79). This higher viscosity and increased resistance to flow in GSF emulsions could be attributed to more significant aggregation and flocculation of droplets (D32 values in Table 2).",
+    "text_path": "evidence/sunflower-emulsions.txt"
+  },
+  {
+    "source_id": 4,
+    "claim": "Table2 exact values including significance groups; mPa.s header not prose Pa.s",
+    "location": "Table2 E-YSF",
+    "cells": [
+      "E-YSF",
+      "0.90 ± 0.01 d",
+      "3.39 ± 0.02 b",
+      "−35.70 ± 0.26 c",
+      "0.03 ± <0.01 e",
+      "0.79 ± 0.01 b",
+      "29.6 ± 1.8 e"
+    ],
+    "table_path": "evidence/sunflower-emulsions.tables.json"
+  },
+  {
+    "source_id": 4,
+    "claim": "Table2 exact values including significance groups; mPa.s header not prose Pa.s",
+    "location": "Table2 E-GSF",
+    "cells": [
+      "E-GSF",
+      "1.34 ± 0.02 c",
+      "2.67 ± 0.02 cd",
+      "−33.67 ± 0.71 ab",
+      "0.36 ± 0.01 c",
+      "0.59 ± <0.01 f",
+      "135.2 ± 12.6 c"
+    ],
+    "table_path": "evidence/sunflower-emulsions.tables.json"
+  }
+]

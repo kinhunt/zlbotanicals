@@ -1,0 +1,97 @@
+---
+title: "葵花籽蛋白怎么选：脱脂、粒度与去酚，解决的是不同问题"
+lang: "zh"
+category: "research"
+guideCategory: "application-guides"
+description: "从脱脂、粒度和去酚处理比较葵花籽蛋白牌号，区分供应商规格与实验室乳液结果，明确选样和应用验证的边界。"
+tags: ["Sunflower protein", "Processing", "Material selection"]
+relatedProducts: []
+relatedSolutions: []
+sources: []
+publishDate: "2026-09-28"
+relatedIndustries: ["food"]
+---
+
+向供应商询问“葵花籽蛋白粉”，收到的未必是可以直接互换的原料。<a href="https://www.all-organic-treasures.com/food/heliaflor/sunflowerproteins.html">All Organic Treasures</a> 的 Heliaflor 系列以机械压榨后的粉体为基础，其中一个牌号还经过额外的 CO₂ 萃取；<a href="https://www.sunbloom-proteins.com/sunflower-protein/products">Sunbloom</a> 则把产品分成适合较稠体系的 PRO 和颗粒更细、面向低黏度应用的 BEV。<a href="#sunflower-ref-1">[1]</a><a href="#sunflower-ref-3">[3]</a> 另有一项原始研究，比较了同一商业来源中绿原酸含量不同的偏黄色、偏绿色葵花籽蛋白浓缩物。<a href="#sunflower-ref-4">[4]</a>
+
+这三组区别，分别涉及脱脂程度、粉体形态和酚类处理，不能都归结为“蛋白含量越高越好”。开发咸味涂抹酱与浅色植物饮料时，原料需要完成的任务本来就不同。下面把供应商公开的牌号定位与论文实际测得的结果分开看，目的在于缩小选样范围，而不是给品牌排座次。
+
+## 同一种种子，加工路线不同，选样理由也不同
+
+All Organic Treasures 介绍，Heliaflor 使用去壳葵花籽，经冷压榨部分脱油，再在隔绝氧气、控制温度的条件下细磨。<a href="#sunflower-ref-1">[1]</a> 该公司的工艺介绍把 Heliaflor 45 描述为残余脂肪较多、风味较浓、颜色偏褐的材料；Heliaflor 55 则增加了 CO₂ 萃取步骤，颜色呈米色，味道相对中性。<a href="#sunflower-ref-1">[1]</a> 不过，该公司的比较表将 45 写为米色，而非偏褐色；实际选样时应直接评价当前样品的颜色。<a href="#sunflower-ref-2">[2]</a>
+
+这里的关键是：供应商说额外萃取降低了脂肪含量、提高了蛋白质占比，并没有因此给出绿原酸去除指标。<a href="#sunflower-ref-1">[1]</a> 因而，“脱脂更多”不能自动写成“已经去酚”，更不能据此承诺原料在加工后不会变色。
+
+Sunbloom 展示的是另一种分法。它将 PRO 定位于涂抹酱、调味酱、沙拉酱、甜品等中高黏度应用；BEV 被描述为颗粒更细，着重改善植物奶等低黏度产品的口感，也用于即冲、即饮产品及水果制品的蛋白和纤维强化。<a href="#sunflower-ref-3">[3]</a> 在这组比较中，选 BEV 的公开依据是物理形态与应用定位，而不是页面宣称了更高的蛋白百分比。
+
+<table class="sunflower-table">
+<thead><tr><th scope="col">具体牌号</th><th scope="col">原供应商页面提供的信息</th><th scope="col">对选样的实际意义</th></tr></thead><tbody>
+<tr><th scope="row"><span class="mobile-label">具体牌号</span><span class="cell-value">Heliaflor 45</span></th><td><span class="mobile-label">原供应商页面提供的信息</span><span class="cell-value">机械部分脱脂、细磨；比较表列蛋白质最低为干物质的 45%。<a href="#sunflower-ref-2">[2]</a></span></td><td><span class="mobile-label">对选样的实际意义</span><span class="cell-value">如果产品允许保留种子风味，并能利用蛋白之外的组分，可以纳入候选。</span></td></tr>
+<tr><th scope="row"><span class="mobile-label">具体牌号</span><span class="cell-value">Heliaflor 55</span></th><td><span class="mobile-label">原供应商页面提供的信息</span><span class="cell-value">额外 CO₂ 萃取；蛋白质最低为干物质的 55%；工艺页称其风味相对中性。<a href="#sunflower-ref-1">[1]</a><a href="#sunflower-ref-2">[2]</a></span></td><td><span class="mobile-label">对选样的实际意义</span><span class="cell-value">这是另一种脱脂选择，不等于完全水溶，也不等于低绿原酸。</span></td></tr>
+<tr><th scope="row"><span class="mobile-label">具体牌号</span><span class="cell-value">SUNBLOOM PRO</span></th><td><span class="mobile-label">原供应商页面提供的信息</span><span class="cell-value">供应商着重介绍中高黏度体系及乳化用途。<a href="#sunflower-ref-3">[3]</a></span></td><td><span class="mobile-label">对选样的实际意义</span><span class="cell-value">可作为涂抹酱、沙拉酱和甜品项目的选样起点。</span></td></tr>
+<tr><th scope="row"><span class="mobile-label">具体牌号</span><span class="cell-value">SUNBLOOM BEV</span></th><td><span class="mobile-label">原供应商页面提供的信息</span><span class="cell-value">页面称其更细，面向低黏度口感及蛋白、纤维强化。<a href="#sunflower-ref-3">[3]</a></span></td><td><span class="mobile-label">对选样的实际意义</span><span class="cell-value">值得进一步索取与饮料有关的粒度和感官资料，但不能据此认定其适合制成澄清饮料。</span></td></tr>
+</tbody></table>
+
+上述信息来自供应商公开资料，具体牌号及现行规格请向相应供应商确认。
+
+## 蛋白含量高了，配方里改变的不止蛋白
+
+Heliaflor 的比较表在列出两款原料干物质蛋白下限的同时，还把 45 的脂肪写为约 10%，把 55 写为“最高约 2%”。<a href="#sunflower-ref-2">[2]</a> 这些是供应商列出的规格和近似组成，不是实际批次的检测结果。蛋白含量明确按干物质计，脂肪一项则没有单独注明这一基准。
+
+做替换试验时，这个区别很实际。两个蛋白含量下限，并不能说明实际批次之间相差多少。若要按相同蛋白贡献比较，应采用样品按原样计的实测蛋白含量；如果结果按干基报告，还要结合水分换算。由此算出的粉体添加量，以及随之带入的非蛋白组分，都可能不同。两种设计都不能单独保证质构相同。研发可以先决定本轮要回答的是“同样加这么多粉，表现如何”，还是“达到同一蛋白目标，表现如何”，不要把两种结果混在一张排名表里。
+
+这家供应商的公开资料还有一处值得询问的地方：工艺页把 45 的持水能力描述为更强，把 55 描述为略弱；比较表却分别列出 45 的持水能力大于 160%、55 大于 200%。<a href="#sunflower-ref-1">[1]</a><a href="#sunflower-ref-2">[2]</a> 这不足以形成可靠的高低排名。表中给的是下限，并不显示实际测得的容量，公开页面也没有提供足以解释上述表述差异的共同检测方法。
+
+采购时更有价值的做法，是索取当前牌号的测试方法和对应结果，而不是挑一句最符合配方设想的宣传语。持水能力与溶解性也应分开：材料能结合多少水，本身并不能说明离心后上清液里还保留了多少蛋白。
+
+## 去酚，是另一条独立的选料线索
+
+2025 年一项研究提供了供应商描述以外的实测对照。研究使用 “Bio Technologies” LLC 提供的 SUNPROTEIN 葵花籽蛋白浓缩物：绿原酸较低、颜色偏黄的一种记为 YSF；绿原酸较高、颜色偏绿的一种记为 GSF。<a href="#sunflower-ref-4">[4]</a> 论文说明，偏黄材料经过用于去除酚类的澄清处理，并未将这两种研究材料标为 Heliaflor 或 Sunbloom 产品。<a href="#sunflower-ref-4">[4]</a> 两种商业材料的加工经历也有差异，因此不能把全部性能差异都归因于绿原酸。
+
+研究测溶解性的方法是：配制 2% w/w 蛋白溶液，分别调至 pH 3、5、7、9、11，在室温下搅拌一小时，再以 3,000 rpm 离心 20 分钟，采用凯氏定氮法分析上清液中的蛋白。<a href="#sunflower-ref-4">[4]</a> 两种材料都在接近 pH 5 时溶解性较低，在 pH 11 时达到该试验所测的最高水平。<a href="#sunflower-ref-4">[4]</a>
+
+对于饮料采购，这些条件比单独摘录一个“溶解率”更重要。它不是冷水分散测试，不是口感测试，也不是成品饮料的货架期试验。经过调 pH、搅拌和离心后得到的结果，不能证明粉末倒入中性饮料就会消失，也不能证明其始终悬浮、不会沉降，或能够承受目标热处理。
+
+这项研究的用处，是提醒选料时把酚类含量及其处理方式单独列出来。它不支持凭粉末颜色估算绿原酸，也不支持把所有浅色葵花籽蛋白都归入同一种澄清工艺。
+
+## 乳液更稠，不一定代表乳化得更细
+
+同一研究还制备了用于成膜的水包油乳液。试验使用 pH 11 条件，原料包括葵花籽蛋白、甘油、葵花籽油和丁香酚，部分处理另外加入纤维素纳米颗粒；乳化使用 20 kHz 超声探头，名义功率 525 W，处理两分钟。<a href="#sunflower-ref-4">[4]</a> 这是实验室包装材料研究中的成膜用乳液，不是饮料配方，也不能证明材料符合食品级或食品接触用途的要求。商业来源本身并不等于食用适用性已经得到确认。
+
+只比较未额外加入纤维素纳米颗粒的两组乳液，原文表 2 给出的结果如下。<a href="#sunflower-ref-4">[4]</a>
+
+<table class="sunflower-table">
+<thead><tr><th scope="col">指标</th><th scope="col">偏黄色蛋白乳液 E-YSF</th><th scope="col">偏绿色蛋白乳液 E-GSF</th></tr></thead><tbody>
+<tr><th scope="row"><span class="mobile-label">指标</span><span class="cell-value">体积–表面积平均液滴直径 D₃₂</span></th><td><span class="mobile-label">偏黄色蛋白乳液 E-YSF</span><span class="cell-value">0.90 ± 0.01 µm，d 组</span></td><td><span class="mobile-label">偏绿色蛋白乳液 E-GSF</span><span class="cell-value">1.34 ± 0.02 µm，c 组</span></td></tr>
+<tr><th scope="row"><span class="mobile-label">指标</span><span class="cell-value">25 °C、剪切速率 10 s⁻¹ 下的表观黏度</span></th><td><span class="mobile-label">偏黄色蛋白乳液 E-YSF</span><span class="cell-value">29.6 ± 1.8 mPa·s，e 组</span></td><td><span class="mobile-label">偏绿色蛋白乳液 E-GSF</span><span class="cell-value">135.2 ± 12.6 mPa·s，c 组</span></td></tr>
+</tbody></table>
+
+本表应当在**同一行内横向比较字母**：按作者的方差分析和 Tukey 检验，两种材料在这两个指标上的差异均显著（p < 0.05）。论文说明试验做了两次，每个样品至少测量三次。<a href="#sunflower-ref-4">[4]</a> 多次读数不能算成多个独立生产批次。
+
+在这组具体条件下，酚类较高的原料形成了更稠的乳液，但平均液滴也更大。<a href="#sunflower-ref-4">[4]</a> 作者把较高黏度与更明显的聚集、絮凝联系起来讨论。<a href="#sunflower-ref-4">[4]</a> 对商业选料有价值的，正是这个反例：如果只按“让体系变稠的能力”选蛋白，选中的可能是另一种聚集结构，而不一定是更细的乳化状态。
+
+原文还存在单位不一致：表 2 的黏度单位为 mPa·s，邻近讨论段却把范围写成 Pa·s。<a href="#sunflower-ref-4">[4]</a> 上表保留论文表格中的单位；如需引用黏度绝对值进行计算，应先澄清这一差异。这些数据不是葵花籽蛋白食品的规格指标。
+
+## 把差异变成更有用的选样顺序
+
+如果做的是**咸味涂抹酱**，Heliaflor 工艺页对 45 较浓风味的描述，与 Sunbloom 对 PRO 涂抹酱用途的定位，都有助于确定初步样品范围。<a href="#sunflower-ref-1">[1]</a><a href="#sunflower-ref-3">[3]</a> 但最终要回答的仍是：实际样品在本配方里的味道和质构是否合适，而不是哪一页宣传资料把结合水的能力说得最强。
+
+如果做的是**浅色、低黏度饮料**，BEV 的较细粒度定位与 Heliaflor 55 相对中性的感官描述，提出的是不同问题。<a href="#sunflower-ref-1">[1]</a><a href="#sunflower-ref-3">[3]</a> 前者涉及颗粒与口感，后者涉及不同脱脂路线带来的材料特点。可以让候选供应商分别提供样品粒度资料，并在实际基底中评价颜色，以及热处理、储存后的状态。这是建议的选样依据，不是已有证据证明这些牌号在同一饮料里表现如何。
+
+如果项目需要同时考虑**颜色与蛋白功能**，偏黄、偏绿两种浓缩物的研究说明，酚类处理值得单独讨论。<a href="#sunflower-ref-4">[4]</a> 询样时应问清：该牌号是机械浓缩、进一步脱脂，还是另有明确的去酚步骤。不能把研究材料在 pH 11 下的表现，替代成品食品的验证。
+
+因此，比单独报一个蛋白百分比更有效的询盘，是先写用途：“用于浅色、可流动产品的葵花籽蛋白”，或者“用于咸味涂抹酱的葵花籽蛋白”，再补充目标蛋白贡献、可接受的种子风味、加工条件和目标市场。请供应商据此提供可选牌号、现行规格和匹配样品，再用实际配方确定最终选择。
+
+## 延伸阅读
+
+其他种子来源原料的选料问题，可参阅[亚麻籽加工与生氰指标](/zh/resources/blog/flax-cyanogenic-material-selection)和[胡芦巴风味与加工](/zh/resources/blog/fenugreek-flavour-processing)。
+
+## 参考来源
+
+<p id="sunflower-ref-1">[1] <a href="https://www.all-organic-treasures.com/food/heliaflor/sunflowerproteins.html">AOT：Heliaflor 加工路线</a></p>
+
+<p id="sunflower-ref-2">[2] <a href="https://www.all-organic-treasures.com/food/heliaflor/sunflowerproteins-in-comparison.html">AOT：Heliaflor 牌号比较</a></p>
+
+<p id="sunflower-ref-3">[3] <a href="https://www.sunbloom-proteins.com/sunflower-protein/products">Sunbloom：PRO 与 BEV 产品</a></p>
+
+<p id="sunflower-ref-4">[4] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11899123/fullTextXML">Foods 2025, 14:824：葵花籽蛋白乳液与薄膜</a></p>

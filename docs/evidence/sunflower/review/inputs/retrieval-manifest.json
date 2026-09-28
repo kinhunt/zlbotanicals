@@ -1,0 +1,75 @@
+[
+  {
+    "name": "aot-process",
+    "url": "https://www.all-organic-treasures.com/food/heliaflor/sunflowerproteins.html",
+    "final_url": "https://www.all-organic-treasures.com/food/heliaflor/sunflowerproteins.html",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_utc": "2026-09-28T06:25:10.538278+00:00",
+    "raw_path": "evidence/aot-process.html",
+    "sha256": "81f33046101278875599e2c500e69d41ce18cd1dec9444375b4b37fae713fa32",
+    "bytes": 23510,
+    "text_path": "evidence/aot-process.txt",
+    "ledger_output": "[1] https://www.all-organic-treasures.com/food/heliaflor/sunflowerproteins.html"
+  },
+  {
+    "name": "aot-comparison",
+    "url": "https://www.all-organic-treasures.com/food/heliaflor/sunflowerproteins-in-comparison.html",
+    "final_url": "https://www.all-organic-treasures.com/food/heliaflor/sunflowerproteins-in-comparison.html",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_utc": "2026-09-28T06:25:10.919957+00:00",
+    "raw_path": "evidence/aot-comparison.html",
+    "sha256": "55c0138407539c30ba1240d076d4d174eb9c3bb82724da624a6c7ea7ecdac73e",
+    "bytes": 26273,
+    "text_path": "evidence/aot-comparison.txt",
+    "ledger_output": "[2] https://www.all-organic-treasures.com/food/heliaflor/sunflowerproteins-in-comparison.html"
+  },
+  {
+    "name": "sunbloom-products",
+    "url": "https://www.sunbloom-proteins.com/sunflower-protein/products/",
+    "final_url": "https://www.sunbloom-proteins.com/sunflower-protein/products/",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_utc": "2026-09-28T06:25:11.549430+00:00",
+    "raw_path": "evidence/sunbloom-products.html",
+    "sha256": "12dd67f5a77ec8e0088d21e1afb5679d830979d6674d95de5a540d92af1c8800",
+    "bytes": 29240,
+    "text_path": "evidence/sunbloom-products.txt",
+    "ledger_output": "[3] https://www.sunbloom-proteins.com/sunflower-protein/products"
+  },
+  {
+    "name": "sunflower-emulsions",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11899123/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11899123/fullTextXML",
+    "status": 200,
+    "content_type": "application/xml",
+    "retrieved_utc": "2026-09-28T06:25:15.296423+00:00",
+    "raw_path": "evidence/sunflower-emulsions.xml",
+    "sha256": "6cc9f88608b84044f27c6af9551516620da4bd935d953c62b390666f04706291",
+    "bytes": 212761,
+    "text_path": "evidence/sunflower-emulsions.txt",
+    "ledger_output": "[4] https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11899123/fullTextXML"
+  },
+  {
+    "name": "sunflower-cake",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8882756/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8882756/fullTextXML",
+    "status": 500,
+    "content_type": "application/json",
+    "retrieved_utc": "2026-09-28T06:25:17.399771+00:00",
+    "raw_path": "evidence/sunflower-cake.xml",
+    "sha256": "bae5f571537a62c5da485196edeed05e96ff0204e9b6265cdd3311142b927a19",
+    "bytes": 150
+  },
+  {
+    "name": "sunflower-cake-bioc-failed",
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC8882756/unicode",
+    "status": 200,
+    "validation": "FAILED: response starts [Error] : No result can be found; not JSON/full text",
+    "raw_path": "evidence/sunflower-cake-bioc.json",
+    "sha256": "3acc5f4c51ec704cd708d3379196db9f66442a96c9bf275773710e0de0196b52",
+    "bytes": 6148,
+    "retrieved_utc": "2026-09-28T06:26:08.716302+00:00"
+  }
+]

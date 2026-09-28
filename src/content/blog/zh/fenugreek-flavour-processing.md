@@ -71,6 +71,8 @@ relatedIndustries: ["food", "beverages"]
 
 加热结果为什么需要结合原料与食品体系来读？可继续阅读[人参加热与苦味分析](/zh/resources/blog/ginseng-heat-bitterness)。若要把入口感受与残留后味分开记录，可参考[甜菊糖时间感官评价指南](/zh/resources/blog/stevia-temporal-sensory)。
 
+如需比较富含蛋白的种子原料，可参阅[葵花籽蛋白选料：脱脂、粒度与去酚](/zh/resources/blog/sunflower-protein-selection)。
+
 ## 来源
 
 <p id="fenugreek-ref-1">[1] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11971048/fullTextXML">市售胡芦巴酊剂：挥发性成分与描述性香气研究</a></p>
