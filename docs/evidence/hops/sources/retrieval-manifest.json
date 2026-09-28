@@ -1,0 +1,72 @@
+[
+  {
+    "name": "supplier-com",
+    "url": "https://www.hopsteiner.com",
+    "final_url": "https://www.hopsteiner.com/en/fr",
+    "status": 200,
+    "bytes": 55850,
+    "sha256": "06d846a2b790507f6ec344b4b6b77c7a687e5181c45c16f26524172921ace8b3",
+    "file": "supplier-com.raw",
+    "retrieved_utc": "2026-09-28T09:11:25.499406+00:00"
+  },
+  {
+    "name": "supplier-us",
+    "url": "https://hopsteiner.us",
+    "final_url": "https://hopsteiner.us/",
+    "status": 200,
+    "bytes": 69511,
+    "sha256": "680f990e296e323ce9a74b47fc06f5d243c4bd2cd2767cd84073b1111fb2f647",
+    "file": "supplier-us.raw",
+    "retrieved_utc": "2026-09-28T09:11:25.713433+00:00"
+  },
+  {
+    "name": "alcohol-paper",
+    "url": "https://hopsteiner.us/wp-content/uploads/2024/02/Influence-of-alcohol-content-on-dry-hopping-Cocuzza-et-al.-BWI-2023-IV.pdf",
+    "final_url": "https://hopsteiner.us/wp-content/uploads/2024/02/Influence-of-alcohol-content-on-dry-hopping-Cocuzza-et-al.-BWI-2023-IV.pdf",
+    "status": 200,
+    "bytes": 157098,
+    "sha256": "b108a8c7a02ee400cf9609b95d9f332bb94a81021c09b4460cdfc77e6542fc42",
+    "file": "alcohol-paper.raw",
+    "retrieved_utc": "2026-09-28T09:11:26.186324+00:00"
+  },
+  {
+    "name": "products",
+    "url": "https://hopsteiner.us/brewing-products/",
+    "final_url": "https://hopsteiner.us/brewing-products/",
+    "status": 200,
+    "bytes": 77523,
+    "sha256": "d156d07fb70d186238c3d24e664a1699fd7db6d5246d6c7ec5f1b4053bbb612c",
+    "file": "products.raw",
+    "retrieved_utc": "2026-09-28T09:11:37.269074+00:00"
+  },
+  {
+    "name": "oil-selected-free",
+    "url": "https://pim.hopsteiner.de/en/product-data-sheet/slf",
+    "final_url": "https://pim.hopsteiner.de/en/products/slf",
+    "status": 200,
+    "bytes": 18235,
+    "sha256": "9dd81029d122c24c7f85907ae05e19e66c98d54a71997b6a68aacac041377f8d",
+    "file": "oil-selected-free.raw",
+    "retrieved_utc": "2026-09-28T09:11:57.136279+00:00"
+  },
+  {
+    "name": "tetra",
+    "url": "https://pim.hopsteiner.de/en/product-data-sheet/ext",
+    "final_url": "https://pim.hopsteiner.de/en/products/ext",
+    "status": 200,
+    "bytes": 23434,
+    "sha256": "fdea75b13c5d624aebdbf409b8a7856cb36410f8867be3999fe94e738e08aa90",
+    "file": "tetra.raw",
+    "retrieved_utc": "2026-09-28T09:11:57.427822+00:00"
+  },
+  {
+    "name": "iso",
+    "url": "https://pim.hopsteiner.de/en/product-data-sheet/exi",
+    "final_url": "https://pim.hopsteiner.de/en/products/exi",
+    "status": 200,
+    "bytes": 20333,
+    "sha256": "5f14d96012a012c354a8cd329c77850fa1e581e8c4ec0883baec35c7460ffd7b",
+    "file": "iso.raw",
+    "retrieved_utc": "2026-09-28T09:11:57.774493+00:00"
+  }
+]

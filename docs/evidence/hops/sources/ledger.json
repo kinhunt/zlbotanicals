@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.hopsteiner.com",
+      "title": "supplier-com",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": 2,
+      "url": "https://hopsteiner.us",
+      "title": "supplier-us",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": 3,
+      "url": "https://hopsteiner.us/wp-content/uploads/2024/02/Influence-of-alcohol-content-on-dry-hopping-Cocuzza-et-al.-BWI-2023-IV.pdf",
+      "title": "alcohol-paper",
+      "accessed": "2026-09-28",
+      "quotes": [
+        {
+          "text": "The terpene alcohols displayed hardly any ABV dependency",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "In order to avoid any microbial contami- nation (especially in the low ABV samples), the natural preservative Nagardo© was add- ed to all of the 17 single trial beers [10].",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "as all other values indicate the maximum concentration was reached at 3.5 % ABV and above.",
+          "added": "2026-09-28"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://hopsteiner.us/brewing-products",
+      "title": "products",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": 5,
+      "url": "https://pim.hopsteiner.de/en/product-data-sheet/slf",
+      "title": "oil-selected-free",
+      "accessed": "2026-09-28",
+      "quotes": [
+        {
+          "text": "Hop oil Type SELECTED FREE has been specifically developed to improve flavor and taste of alcohol-free and alcohol-reduced beers .",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "pure hop oil diluted in propylene glycol",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "Bittering substances not detectable",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "Hop oil Type SELECTED FREE contains mainly polar hop components, which are especially soluble in alcohol-reduced and alcohol-free beers.",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "During beer aging the aroma components of Hop oil Type SELECTED FREE remain stable and contribute to overall flavor stability.",
+          "added": "2026-09-28"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://pim.hopsteiner.de/en/product-data-sheet/ext",
+      "title": "tetra",
+      "accessed": "2026-09-28",
+      "quotes": [
+        {
+          "text": "Tetra only provides protection against lightstruck flavor in the complete absence of alpha acids and iso-alpha acids.",
+          "added": "2026-09-28"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://pim.hopsteiner.de/en/product-data-sheet/exi",
+      "title": "iso",
+      "accessed": "2026-09-28",
+      "quotes": [
+        {
+          "text": "Iso-Extract can be used post-fermentation to adjust bitterness or to partially replace conventional hop products used to impart bitterness.",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "Never dilute full-strength Iso-Extract with beer, as the lower pH will cause precipitation.",
+          "added": "2026-09-28"
+        }
+      ]
+    }
+  ]
+}

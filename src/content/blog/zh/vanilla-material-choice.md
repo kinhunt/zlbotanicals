@@ -71,6 +71,8 @@ Nielsen-Massey 的粉末页面给出了与香草提取液等体积替换的烹�
 
 香草采购中更值得先解决的问题，并非再列一遍各产地的风味故事，而是避免在谈产地、强度和价格之前，就选错了**原料类别**。
 
+啤酒配方中的选料可参阅[酒花原料选择](/zh/resources/blog/hops-alcohol-free-beer-selection)，分清香气油、苦味提取物与整个工艺的光照异味防护。
+
 ## 来源
 
 <p id="vanilla-ref-1">[1] <a href="https://nielsenmassey.com/products/pure-vanilla-powder-bulk-sizes">Pure Vanilla Powder Bulk Sizes - Nielsen-Massey Vanillas</a></p>

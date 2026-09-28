@@ -71,6 +71,8 @@ For a dessert with visible seeds, change the brief to request both aroma and vis
 
 The commercial opportunity is not another generic vanilla-origin story. It is helping a buyer avoid purchasing the wrong **kind of vanilla ingredient** before negotiating origin, strength and price.
 
+For beer formulation, [hops material selection](/resources/blog/hops-alcohol-free-beer-selection) separates aroma oil from bittering extracts and whole-process lightstruck protection.
+
 ## Sources
 
 <p id="vanilla-ref-1">[1] <a href="https://nielsenmassey.com/products/pure-vanilla-powder-bulk-sizes">Pure Vanilla Powder Bulk Sizes - Nielsen-Massey Vanillas</a></p>

@@ -1,0 +1,52 @@
+{
+  "reviewedDrafts": {
+    "en": "3e387c0ced8d4c8a1eb31dafabf4e8e43663003bdad9d87c46a1a24b0bbc3c29",
+    "zh": "c7ec0d0f006ff93fd50c2ee9c6db635d35c66c5a78271700c45636b85975cd71"
+  },
+  "originalFiles": {
+    "sources/DISCOVERY.md.verification.txt": "656f5c11aaa5f47eb65a918ad17fd9a92bde6cbb9f2457419f218d4bca344ed2",
+    "sources/iso.raw": "5f14d96012a012c354a8cd329c77850fa1e581e8c4ec0883baec35c7460ffd7b",
+    "sources/draft.en.md.verification.txt": "37bba496198fe03f4ab6abbbef7a9a4ef395a5bca842b32a10af51215c09f34b",
+    "sources/alcohol-paper.raw": "b108a8c7a02ee400cf9609b95d9f332bb94a81021c09b4460cdfc77e6542fc42",
+    "sources/aroma-table-page.png": "493f3dbe1f4108864a08a4ae9114bef635a1d0aca6f48c7b7e60629220fe2e05",
+    "sources/DISCOVERY.md": "bab95f5f59d3b0a545da5b5ed19ca1e1f25f32a883758612176520c956ff5974",
+    "sources/draft.zh.md": "987013f59fca59a3787ccaaf476b750c15583deb2873e98015614c3cc9ea5896",
+    "sources/supplier-us.txt": "8a94fccac39b463f343e3d97db8af01e8616732c3f2c53b8a58ebdd18aa3c54d",
+    "sources/ledger.json": "9181454e0e3647e8d18fb26c3d9d4e514c5634962b12d5d5991d7bea95e6f905",
+    "sources/source-claim-ledger.json": "525636f3de362c96abcf10a413a0cdcbd2a0f8aa9e08a69df751922b7f2b732a",
+    "sources/oil-selected-free.raw": "9dd81029d122c24c7f85907ae05e19e66c98d54a71997b6a68aacac041377f8d",
+    "sources/dedup.json": "8cda536b5e1637662d3f41770aeb865f1adf7498bf6483b902c9c9b5dbf72265",
+    "sources/supplier-com.raw": "06d846a2b790507f6ec344b4b6b77c7a687e5181c45c16f26524172921ace8b3",
+    "sources/supplier-us.raw": "680f990e296e323ce9a74b47fc06f5d243c4bd2cd2767cd84073b1111fb2f647",
+    "sources/search-0.json": "c6ffafb3f045c287a97c1ad528ac933bd7d9280feeaed201f0008a65443bd7d5",
+    "sources/products.raw": "d156d07fb70d186238c3d24e664a1699fd7db6d5246d6c7ec5f1b4053bbb612c",
+    "sources/iso.txt": "a8d317ea4c79714784ac05772bf0caa5c31eefd12a5960ffc946acf8c38b0a9d",
+    "sources/search-1.json": "b7886878d710e9fbf962b15e50ba45ad81edce805c52efb6a8ec14fdf43d3831",
+    "sources/draft.en.md": "57ba03fdc4a4c52bbc553d31414f966c5410763fb9410284027bb71740c589b7",
+    "sources/supplier-com.txt": "aa5e58f043b27caf57d4dd3ad11a4ff276616b9fea601eceec16f807ac136129",
+    "sources/alcohol-paper.txt": "b48f62a092239aee053891c0b704bf58d3eacb500ca3ca55f2017178ad5e8e1f",
+    "sources/products.txt": "7e51841243cef66de807b136c1288917f9abad77f978fefc7c180c95bcbaa204",
+    "sources/tetra.raw": "fdea75b13c5d624aebdbf409b8a7856cb36410f8867be3999fe94e738e08aa90",
+    "sources/tetra.txt": "15db66419efc01a55eac742c7ff93ae41d137b2fc7f742368828baf0b337a5f6",
+    "sources/verification.json": "6001527ccacf59b7e65b01fcee7087b154220165bd7c3e10f895a906ba32374b",
+    "sources/draft.zh.md.verification.txt": "d5d8b78e0b53ee4bd4a2df8bcbea5bd96faf7ae8ad8b9debf68994428532bd4a",
+    "sources/verify.py": "6914740305528cd3e05a3284f924fdb183f52bbf0cf567b12f385b8f5487db43",
+    "sources/oil-selected-free.txt": "64856f6706f50c473c2afab7de9648ebb3be699656c8e8357d9dbb9c2cdf5d21",
+    "sources/retrieval-manifest.json": "172f230bb8fb9a90b8415cccc601770f4b2ac27e60430d437a4076e1cbf8a896",
+    "sources/table-conditions.json": "0ee1d951b8ef2d7b931ff2328262706aaf9d0a9220d9b078a08add8c08cf00ff",
+    "review/draft.zh.md": "c7ec0d0f006ff93fd50c2ee9c6db635d35c66c5a78271700c45636b85975cd71",
+    "review/ledger.json": "c865b6825d1459c1b12e4104db2fd083d5c43e986c138371e2f50303e04b6064",
+    "review/verify-independent.py": "8cecb5f1561dbdfd4b9d44d2cd8334a378d6f94c428bdd46a3f814148428c246",
+    "review/original-hashes.before.json": "566aecad156e632c1316b9ca603ab80e07e21cf37eaab82ca969de69448e9d7c",
+    "review/draft.en.md": "3e387c0ced8d4c8a1eb31dafabf4e8e43663003bdad9d87c46a1a24b0bbc3c29",
+    "review/independent-verification.json": "1867189af1b407fc014ba2762518139d197269608d0922a8d27c9b953b61502f",
+    "review/REVIEW.md": "11e24177fb39df2be07b5551e0a5dcd4c0281cfa0fefbed529f6ca5c065a3248",
+    "review/additional-evidence.json": "788bd6a7df311f28a7475a266b9825ce5a2e9bb85ea3060fed4ddb8d8f33f44a"
+  },
+  "editorialDelta": [
+    "ZH 下层发酵→下面发酵; 上层发酵→上面发酵",
+    "Title moved to frontmatter; native citation anchors preserve source IDs 3/5/6/7",
+    "Qualitative Markdown table becomes semantic responsive HTML; all cells unchanged",
+    "Related reading and research discovery added; no sales offer"
+  ]
+}

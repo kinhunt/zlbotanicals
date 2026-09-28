@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": 3,
+    "source_text": "alcohol-paper.txt",
+    "quote": "The following observations and con- clusions are made on the basis of the cor- responding mean values. Single analytical results are not necessarily shown in this excerpt, but in the full study [6]."
+  },
+  {
+    "source_id": 3,
+    "source_text": "alcohol-paper.txt",
+    "quote": "In most cases, the individual results varied within or close to the analytical toler- ance (± 10 %) with a few exceptions [6]."
+  },
+  {
+    "source_id": 5,
+    "source_text": "oil-selected-free.txt",
+    "quote": "Example (addition before / during filtration): up to 3 ml/hl for bottom-fermented beers up to 6 ml/hl for top-fermented beers"
+  },
+  {
+    "source_id": 7,
+    "source_text": "iso.txt",
+    "quote": "Iso-alpha acids 30.0 ± 2.0 % (w/w) HPLC"
+  }
+]

@@ -1,0 +1,279 @@
+{
+  "passed": 68,
+  "total": 68,
+  "checks": [
+    {
+      "name": "source hash supplier-com",
+      "pass": true
+    },
+    {
+      "name": "source response supplier-com",
+      "pass": true
+    },
+    {
+      "name": "source hash supplier-us",
+      "pass": true
+    },
+    {
+      "name": "source response supplier-us",
+      "pass": true
+    },
+    {
+      "name": "source hash alcohol-paper",
+      "pass": true
+    },
+    {
+      "name": "source response alcohol-paper",
+      "pass": true
+    },
+    {
+      "name": "source hash products",
+      "pass": true
+    },
+    {
+      "name": "source response products",
+      "pass": true
+    },
+    {
+      "name": "source hash oil-selected-free",
+      "pass": true
+    },
+    {
+      "name": "source response oil-selected-free",
+      "pass": true
+    },
+    {
+      "name": "source hash tetra",
+      "pass": true
+    },
+    {
+      "name": "source response tetra",
+      "pass": true
+    },
+    {
+      "name": "source hash iso",
+      "pass": true
+    },
+    {
+      "name": "source response iso",
+      "pass": true
+    },
+    {
+      "name": "quote C1",
+      "pass": true
+    },
+    {
+      "name": "quote C2",
+      "pass": true
+    },
+    {
+      "name": "quote C3",
+      "pass": true
+    },
+    {
+      "name": "quote C4",
+      "pass": true
+    },
+    {
+      "name": "quote C5",
+      "pass": true
+    },
+    {
+      "name": "quote C6",
+      "pass": true
+    },
+    {
+      "name": "quote C7",
+      "pass": true
+    },
+    {
+      "name": "quote C8",
+      "pass": true
+    },
+    {
+      "name": "quote C9",
+      "pass": true
+    },
+    {
+      "name": "quote C10",
+      "pass": true
+    },
+    {
+      "name": "quote C11",
+      "pass": true
+    },
+    {
+      "name": "original PDF cells Linalool",
+      "pass": true
+    },
+    {
+      "name": "original PDF cells Geraniol",
+      "pass": true
+    },
+    {
+      "name": "original PDF cells β-Myrcene",
+      "pass": true
+    },
+    {
+      "name": "original PDF cells Isobutyl isobutyrate",
+      "pass": true
+    },
+    {
+      "name": "table label conflict",
+      "pass": true
+    },
+    {
+      "name": "incomplete original unit",
+      "pass": true
+    },
+    {
+      "name": "geraniol dip preserved",
+      "pass": true
+    },
+    {
+      "name": "real PDF",
+      "pass": true
+    },
+    {
+      "name": "citation evidence draft.en.md",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 195.3",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 213.0",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 204.0",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 214.5",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 193.4",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 246.8",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 250.0",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 198.4",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 708",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 13718",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 13974",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 13502",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 166.3",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 238.5",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 238.3",
+      "pass": true
+    },
+    {
+      "name": "draft.en.md table number 237.5",
+      "pass": true
+    },
+    {
+      "name": "citation evidence draft.zh.md",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 195.3",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 213.0",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 204.0",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 214.5",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 193.4",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 246.8",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 250.0",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 198.4",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 708",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 13718",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 13974",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 13502",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 166.3",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 238.5",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 238.3",
+      "pass": true
+    },
+    {
+      "name": "draft.zh.md table number 237.5",
+      "pass": true
+    },
+    {
+      "name": "citation evidence DISCOVERY.md",
+      "pass": true
+    }
+  ],
+  "independent_source_editorial_approval": false
+}
