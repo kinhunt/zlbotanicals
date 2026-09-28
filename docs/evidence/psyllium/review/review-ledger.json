@@ -1,0 +1,466 @@
+[
+  {
+    "id": "C01",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "Species/fractions differ; all milled below 300 micrometres",
+    "boundary": "Not isolated particle-size experiment or optimum mesh.",
+    "source": "S3",
+    "locator": "Methods 2.1",
+    "original_xml_quote": "The study was performed using rice flour provided by Adveni Medical (Brno, Czech Republic). Plantago psyllium seeds, Plantago ovata seeds and Plantago ovata husk were purchased from a local herbal store and were milled in laboratory Hagberg Perten’s mill (Lab Mill type 120), yielding particles smaller than 300 µm. The basic composition of 100 g of raw materials declared by their producers is shown in Table 1. Sodium chloride, sucrose and freeze-dried yeast (Lesaffre Česko, Olomouc, Czech Republic) were also used for bread production. Rice flour and each of Plantago materials were blended at 3, 6 and 9% of rice flour substitution. Rice flour, without supplements, was used as the control sample."
+  },
+  {
+    "id": "C02",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "Mixolab hydration is target-consistency measurement",
+    "boundary": "Not universal neat-husk water absorption ratio; exact cells in S3-tables.json.",
+    "source": "S3",
+    "locator": "Results Table 3 and accompanying text",
+    "original_xml_quote": "Table 3 shows the average results of farinographic tests conducted on rice flour blends with Plantago psyllium seeds (PPS), Plantago ovata seeds (POS) and Plantago ovata husk (POH) at 0, 3, 6 and 9% levels of substitution. Rice flour dough had a hydration of 61.2%, a dough development time of 2.3 min, a dough stability of 1.45 min, a dough softening of 95 FU and a mixing tolerance index (MTI) of 128.4 FU. Both during the analysis of the farinographic profile and the full Mixolab profile, the resistance of the dough made of rice flour alone decreased in the first minutes of mixing. The resistance then stabilized after the rice proteins were hydrated reaching the target dough torque. This effect was eliminated with the use of Plantago additives, which allowed the water to be evenly distributed in the dough in the first stage of mixing (Figure 1). Mixolab water absorption indicates the amount of water needed for obtaining the dough of the consistency of 1.1 ± 0.05 N·m. Each of the additives significantly increased the water absorption of the blend compared to the control, which was rice flour without any addition. Blends with POH incorporation had the highest water absorption, while the lowest were those with PPS. At 9% of the rice flour substitution, the hydration increased by 22.4% (PPS), 23.9% (POS) and 60.3% (POH). According to Santos et al. (2020) [26], the dough resistance at each stage of the Mixolab assay increases with the addition of psyllium if the dough hydration is not increased sufficiently. Thanks to psyllium’s ability to gel and absorb water an increased farinographic water absorption along with an increased proportion of Psyllium have also been observed in studies conducted by Kamaljit et al. (2011) [12] and Mariotti et al. (2009) [17]. Ferrero (2017) [33] showed that the type of hydrocolloid used had a greater impact on water absorption than its share in the dough. Other farinographic parameters, such as dough development time and dough stability, indicate the flour’s strength. The addition of PPS did not affect dough development time. POS and POH additives extended dough development time along with their increasing share. With 9% POS addition, the dough development time was extended from 2.3 to 5.1 min and with POH to 8.8 min. The increase in dough development time was caused by an increased amount of fiber content, which requires longer water absorption [21]. The dough stability was extended only in the case of 9% POH rice flour substitution (from 1.45 to 2.50 min); in other blends, the stability of the dough did not change when compared with the control. The increasing share of PPS contributed to the increased dough softening (to 6% addition) and increasing mixing tolerance index (up to 9% addition). Mixing tolerance index (MTI) is the difference in FU between the top of the curve at the peak and the curve position measured 5 min after reaching the peak; therefore, higher MTI values mean lower resistance of the dough towards mechanical damage [13]. Sim et al. (2015) [13] observed a significant increase in MTI with the addition of non-starch polysaccharides to the dough. On the other hand, in the present study, the increasing share of POS and POH in flour blends resulted in a decrease in both dough softening and MTI. This means that the gels formed by both the seed and the husk of Plantago ovata are strong and resistant to mechanical deformation."
+  },
+  {
+    "id": "C03",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "P95 95% purity, average 250 µm, approximately 80% dietary fibre",
+    "boundary": "Named material description, not supplier-wide certification; purity and fibre different.",
+    "source": "S1",
+    "locator": "Materials",
+    "original_xml_quote": "The psyllium husk powder (VITACEL® Psyllium P95) was supplied by JRS Latinoamericana Ltd. (São Paulo, Brazil). This is a dietary fiber concentrate from milled psyllium husks with 95% purity, an average particle size of 250 µm, and an approximately 80% dietary fiber content, as previously described by Fratelli et al. (2018) [17]. The other ingredients used in the breadmaking process were obtained from a local market."
+  },
+  {
+    "id": "C04",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "Four P/W combinations, flour-weight basis",
+    "boundary": "Joint water/material formulation changes; not psyllium-only dose response.",
+    "source": "S1",
+    "locator": "Methods formulation",
+    "original_xml_quote": "The GFBs were selected based on a previous study by Fratelli et al. (2018) [17] and were prepared with the following combinations: 0.00% P and 100.00% W; 2.86% P and 82.14% W; 7.14% P and 91.10% W; and 17.14% P and 117.86% W fwb (samples named GFB0P, GFB2.86P, GFB7.14P, and GFB17.14P, respectively)."
+  },
+  {
+    "id": "C05",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "Rice 75/cassava 25, egg and milk, calcium propionate present",
+    "boundary": "Not vegan or additive-free recipe; added water not total water.",
+    "source": "S1",
+    "locator": "Methods formulation",
+    "original_xml_quote": "The GFBs were prepared according to the procedure described by Fratelli et al. (2018) [17]. Briefly, the GFBs were prepared with the following formulation (g/100 g fwb): rice flour 75, cassava starch 25, whole egg 25, whole milk powder 10.5, white cane sugar 6, soy oil 6, salt 2, dry yeast 0.8, calcium propionate 0.1, and different combinations of P and W. The breads were prepared by the straight dough method, consisting of mixing the ingredients for 7 min at 110 rpm. The resulting doughs for GFB0P and GFP2.86P (400 g) were directly scraped into baking tins (19 × 7.5 × 5 cm³). Doughs of GFB7.14P and GFB17.14P were molded and then placed into tins. After 90 min of proofing at 40 °C and 85% relative humidity, the breads were baked at 140 °C for 45 min and cooled for 2 h."
+  },
+  {
+    "id": "C06",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "Four GF rows transposed accurately; all psyllium volume groups b, control c; highest psyllium firmness c vs b for lower groups",
+    "boundary": "Means ± SD; volume n3 firmness n6. Do not assert monotonic or significant volume rise across psyllium groups.",
+    "source": "S1",
+    "locator": "Table 1 original JATS cells",
+    "original_tables": [
+      {
+        "id": "foods-10-00954-t001",
+        "rows": [
+          [
+            "",
+            "Gluten-Free Bread †",
+            "Wheat Bread ‡"
+          ],
+          [
+            "GFB0P",
+            "GFB2.86P",
+            "GFB7.14P",
+            "GFB17.14P",
+            "WB1",
+            "WB2"
+          ],
+          [
+            "Specific volume (cm3/g) §",
+            "1.41 c ± 0.02",
+            "2.15 b ± 0.12",
+            "2.06 b ± 0.04",
+            "2.08 b ± 0.05",
+            "2.73 a ± 0.10",
+            "2.84 a ± 0.08"
+          ],
+          [
+            "Height/width ratio §",
+            "0.67 c ± 0.01",
+            "0.90 d ± 0.01",
+            "0.91 d ± 0.04",
+            "1.00 c ± 0.02",
+            "1.29 a ± 0.01",
+            "1.11 b ± 0.01"
+          ],
+          [
+            "Crumb grain §"
+          ],
+          [
+            "Number of cells",
+            "43.50 c ± 0.71",
+            "72.00 c ± 2.83",
+            "132.50 b ± 14.85",
+            "160.50 ab ± 13.44",
+            "172.00 a ± 9.90",
+            "150.50 ab ± 4.95"
+          ],
+          [
+            "Average size (mm2)",
+            "0.17 ab ± 0.02",
+            "0.22 a ± 0.04",
+            "0.13 b ± 0.01",
+            "0.12 b ± 0.01",
+            "0.14 b ± 0.02",
+            "0.14 ab ± 0.01"
+          ],
+          [
+            "Cell area (%)",
+            "11.43 c ± 1.44",
+            "25.50 b ± 5.53",
+            "26.87 ab ± 1.13",
+            "30.83 ab ± 0.24",
+            "37.45 a ± 3.37",
+            "34.06 ab ± 0.64"
+          ],
+          [
+            "Crumb firmness (N)",
+            "24.72 a ± 2.10",
+            "8.27 b ± 0.89",
+            "8.33 b ± 0.71",
+            "6.12 c ± 0.58",
+            "2.71 d ± 0.33",
+            "2.71 d ± 0.43"
+          ],
+          [
+            "Crumb moisture (%) §",
+            "52.46 b ± 0.62",
+            "48.62 d ± 0.04",
+            "49.73 c ± 0.06",
+            "53.45 a ± 0.14",
+            "39.63 e ± 0.23",
+            "36.30 f ± 0.10"
+          ],
+          [
+            "Acceptability scores on a 10-cm scale α"
+          ],
+          [
+            "Aroma",
+            "7.68 b ± 2.19",
+            "7.72 b ± 2.10",
+            "8.36 ab ± 1.97",
+            "8.13 ab ± 1.86",
+            "8.62 ab ± 1.32",
+            "8.75 a ± 1.54"
+          ],
+          [
+            "Texture",
+            "6.96 b ± 2.38",
+            "7.96 ab ± 2.11",
+            "8.02 ab ± 1.78",
+            "8.17 a ± 2.34",
+            "8.19 a ± 1.89",
+            "8.80 a ± 1.41"
+          ],
+          [
+            "Flavor",
+            "7.67 a ± 2.04",
+            "8.09 a ± 1.77",
+            "8.25 a ± 1.51",
+            "8.34 a ± 1.87",
+            "8.52 a ± 1.45",
+            "8.42 a ± 1.55"
+          ]
+        ],
+        "footnote": "† The GFB samples GFB0P, GFB2.86P, GFB7.14P, and GFB17.14P were prepared with 0.00%, 2.86%, 7.14%, and 17.14% psyllium (P) on a flour-weight basis, respectively, and with adjusted water levels. ‡ WB1–standard formulation, WB2–adapted formulation. Values are mean ± standard deviation § (n = 3), (n = 6), α (n = 54). The values followed by a different superscript in each row are significantly different (p < 0.05)."
+      }
+    ]
+  },
+  {
+    "id": "C07",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "Flour-normalized volume up but bread-mass-normalized specific volume down",
+    "boundary": "Different denominators; not invented scale-up yield data.",
+    "source": "S3",
+    "locator": "Results volume discussion",
+    "original_xml_quote": "The quality parameters of gluten-free bread formulations containing different PPS, POS and POH levels are shown in Figure 2. Plantago incorporation had a strong influence on bread quality. The volume of bread obtained from 100 g of flour or a flour blend determines its technological efficiency. This volume was increased by all the applied Plantago additives. The POH addition affected the bread quality to the greatest extent. The use of both Plantago psyllium and Plantago ovata seeds (PPS and POS) resulted in an increase in the volume of bread obtained from 100 g of flour to a small extent and regardless of their share in the blends. On the other hand, the increasing addition of Plantago ovata husk (POH) resulted in a gradual increase in this parameter up to 27% with a 9% share of POH. The bread volume indicates how thin the dough structure may be stretched [13,16]. Aprodu and Banu (2015) [14] also observed an increase in the loaf volume as a result of adding psyllium. The gelling ability of psyllium hydrocolloids allows the structure of the dough with its addition to strengthen the gas cells and support their expansion, leading to an increase in the bread volume [33]. Loaf specific volume (ml/g) indicate the ratio of the bread’s volume to its weight. Due to the use of bread recipes that take into account the water absorption of the blends, higher water retention of blends made the breads heavier. Therefore, the use of Plantago products contributed to a reduction in the bread’s loaf specific volume. As in the case of blends’ water absorption, the greatest effect was observed for POH and the lowest for PPS. In the results of Fratelli et al. (2018) [10], it was possible to improve the loaf specific volume of gluten-free bread with psyllium addition using optimized dough hydration. Kamaljit et al. (2011) [12], Mancebo et al. (2015) [16] and Sim et al. (2015) [13] also described the decrease in the specific volume of bread when POH was added to the dough. Water loss during baking (%) decreased with the use of Plantago additives, proving their strong water-holding capacity. The increasing PPS and POS additives resulted in a gradual decrease in water loss, while the addition of POH significantly reduced water loss, regardless of the amount used."
+  },
+  {
+    "id": "C08",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "Ten students aged 19–24 assessed bread",
+    "boundary": "Small panel; not market-wide consumer preference.",
+    "source": "S3",
+    "locator": "Methods sensory",
+    "original_xml_quote": "After cooling, the breads were weighed and the volume of breads was measured using plastic granulates of rape-seed size. Loaf volume was expressed in ml per 100 g of the flour blend used. Loaf specific volume (mL/g) was calculated by dividing the volume of the bread by its weight. The results are presented as mean values of three measurements of different loaves. Breads were stored for 24 h. Fresh and stored breads were subjected to consumer acceptance evaluation by ten panelists (male and female students of 19–24 years) using 9-point hedonic scale (where 1 meant “extremely dislike” and 9 meant “like very much”). The evaluated parameters were crust and crumb appearance and color, crumb softness, elasticity, porosity, and flavor. Overall acceptability was calculated as the average result of the assessed parameters of each of the objects."
+  },
+  {
+    "id": "C09",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "Fresh ratings not significantly different; acceptance concerns retained",
+    "boundary": "No significant fresh preference ranking; low acceptance is authors conclusion.",
+    "source": "S3",
+    "locator": "Results sensory",
+    "original_xml_quote": "The consumer acceptance of fresh bread and after storage expressed on a 9-point hedonic scale is presented in Figure 3. Despite the lack of statistically significant differences between the scores of fresh bread, it can be noticed that all of the used Plantago additives resulted in deterioration of product acceptance compared to the control rice bread. Among the Plantago-enriched bread, the highest rating was given to bread with 3% PPS and the lowest with 9% POH. Gupta et al. (2014) [3] also reported a decrease in overall quality score with addition of 5 g/100 g of POH. Using the Plantago ovata husk incorporation to gluten-free bread of a level up to 3 g/100 g by Zandonadi et al. (2009) [18] resulted in a good acceptance by individuals with and without celiac disease, and Kamaljit et al. (2011) [12] observed a better overall acceptability of breads with 3% POH incorporation than control. After 24 h of storage the breads with 3 and 6% of PPS incorporation received a higher score than the control bread, while lower scores were given to samples with POH and 9% POS. Comparing the ratings of fresh and stored bread, it was observed that the addition of seeds (PPS and POS) did not contribute to the deterioration of the acceptance of the bread after storage, which occurred in the case of the control rice bread and with the addition of husk (POH)."
+  },
+  {
+    "id": "C10",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "Water visually adjusted to similar consistency",
+    "boundary": "Not generally validated hydration rule; water and psyllium changed together.",
+    "source": "S2",
+    "locator": "Methods hydration",
+    "original_xml_quote": "The amount of water was determined based on a subjective visual evaluation to achieve similar dough consistencies across all formulations. In the case of HPMC, it was observed that for each additional gram, it was necessary to compensate with 5.4 g of water. This value is similar to the calculations made by Kim et al. [23], where a 5% increase in water was added for each gram of HPMC added to whole wheat flour. For psyllium, 4 g of water was added, and for xanthan gum, 3.5 g of water was added for each gram of hydrocolloid. In the study conducted by Belorio et al. [22], it was observed that the water-holding capacity of xanthan and psyllium was 3.64% and 3.42%, respectively."
+  },
+  {
+    "id": "C11",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "FC 9.8 psyllium/159.7 water vs F2 13.2/173.6; HPMC3.6 xanthan3.2. Gumminess35.3±4.9 b vs40.7±7.5 c; hardness both b",
+    "boundary": "g per100g flour/starch; gumminess instrumental, not liking or adhesiveness; no significant crumb-hardness increase",
+    "source": "S2",
+    "locator": "Tables 1 and 6 original JATS cells",
+    "original_tables": [
+      {
+        "id": "foods-13-01691-t001",
+        "rows": [
+          [
+            "Ingredient",
+            "Xanthan Gum (g)",
+            "HPMC (g)",
+            "Psyllium (g)",
+            "Water (g)"
+          ],
+          [
+            "Formula"
+          ],
+          [
+            "FC",
+            "3.2",
+            "3.6",
+            "9.8",
+            "159.7"
+          ],
+          [
+            "F1",
+            "3.2",
+            "4.4",
+            "9.8",
+            "164.0"
+          ],
+          [
+            "F2",
+            "3.2",
+            "3.6",
+            "13.2",
+            "173.6"
+          ],
+          [
+            "F3",
+            "0",
+            "3.6",
+            "9.8",
+            "148.5"
+          ]
+        ],
+        "footnote": "FC: control formula. F1: HPMC increase. F2: psyllium increase. F3: xanthan gum removal."
+      },
+      {
+        "id": "foods-13-01691-t006",
+        "rows": [
+          [
+            "Formula",
+            "Hardness (N)",
+            "Adhesiveness (N·s)",
+            "Cohesiveness",
+            "Gumminess (N)"
+          ],
+          [
+            "FC",
+            "58.9 ± 7.9 b",
+            "−0.04 ± 0.03 a",
+            "0.60 ± 0.02 ab",
+            "35.3 ± 4.9 b"
+          ],
+          [
+            "F1",
+            "60.6 ± 10.2 b",
+            "−0.04 ± 0.03 a",
+            "0.59 ± 0.13 a",
+            "35.5 ± 9.6 b"
+          ],
+          [
+            "F2",
+            "64.7 ± 13.8 b",
+            "−0.05 ± 0.02 a",
+            "0.63 ± 0.05 b",
+            "40.7 ± 7.5 c"
+          ],
+          [
+            "F3",
+            "46.3 ± 11.6 a",
+            "−0.02 ± 0.02 b",
+            "0.60 ± 0.04 ab",
+            "27.8 ± 7.60 a"
+          ]
+        ],
+        "footnote": "The same letter in superscript within the column indicates homogeneous groups established by ANOVA (p < 0.05). FC: control formula. F1: HPMC increase. F2: psyllium increase. F3: xanthan gum removal."
+      }
+    ]
+  },
+  {
+    "id": "C12",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "Gumminess defined as hardness times cohesiveness",
+    "boundary": "Not sensory liking; Chinese 胶着性 distinct from 黏附性.",
+    "source": "S2",
+    "locator": "Results texture",
+    "original_xml_quote": "Gumminess is defined as the product of hardness and cohesiveness. Formulation F2, in which the amount of psyllium was increased, showed the highest gumminess value. This can be attributed to the fact that an increase in psyllium enhances hardness compared to other hydrocolloids like HPMC [13], but it also has an effect on increasing cohesiveness [37]. High cohesiveness values are desirable because they help form a bolus during mastication instead of disintegrating, while low cohesiveness is associated with a greater susceptibility of the bread to crumble [48]. Across all formulations, no differences in crumb cohesiveness were observed compared to the control formulation (FC), although the increase in HPMC in F1 decreased its value compared to F2, which, as mentioned earlier, increased with the addition of psyllium."
+  },
+  {
+    "id": "C13",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "Mold inhibitors, polypropylene bags,22–25C/50–70%RH,3days",
+    "boundary": "No preservative-free shelf life or independent psyllium antimicrobial efficacy.",
+    "source": "S1",
+    "locator": "Methods storage",
+    "original_xml_quote": "The GFBs and WBs were then sprayed with mold inhibitors, packed in polypropylene bags, and stored in controlled conditions (22–25 °C, 50–70% RH) for 3 days. The bread samples were analyzed 0, 24, 48, and 72 h postproduction. Four random loaves were used to monitor instrumental parameters and microbial growth at each storage time. In this way, a total of sixteen loaves were prepared for each bread type."
+  },
+  {
+    "id": "C14",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "Delayed firming and acceptable sensory results for psyllium breads through72h",
+    "boundary": "Bounded to study conditions and co-interventions.",
+    "source": "S1",
+    "locator": "Abstract / results scope",
+    "original_xml_quote": "Psyllium husk powder was investigated for its ability to improve the quality and shelf life of gluten-free bread. Gluten-free bread formulations containing 2.86%, 7.14%, and 17.14% psyllium by flour weight basis were compared to the control gluten-free bread and wheat bread in terms of performance. The effect of time on crumb moisture and firmness, microbial safety, and sensory acceptability using a 10-cm scale was assessed at 0, 24, 48, and 72 h postproduction. Crumb firming was observed during the storage time, especially for the control gluten-free bread, which had a crumb firmness 8-fold higher than that of the wheat bread. Psyllium addition decreased the crumb firmness values by 65–75% compared to those of the control gluten-free bread during 72 h of storage. The longest delay in bread staling was observed with a 17.14% psyllium addition. The psyllium-enriched gluten-free bread was well accepted during 72 h of storage, and the acceptability scores for aroma, texture, and flavor ranged from 6.8 to 8.3, which resembled those of wheat bread. The results showed that the addition of 17.14% psyllium to the formulation improved the structure, appearance, texture, and acceptability of gluten-free bread and delayed bread staling, resembling physical and sensory properties of wheat bread samples during 72 h of storage. Therefore, according to the obtained results, this approach seems to be promising to overcome some of the limitations of gluten-free breadmaking."
+  },
+  {
+    "id": "E01",
+    "original_verdict": "PASS",
+    "final_verdict": "PASS",
+    "claim": "Separate drop-in replacement from recipe-optimized comparison; report loaf mass, volume, specific volume, handling and sensory endpoints",
+    "boundary": "Not tested protocol, universal limits, current supplier capability or health advice"
+  },
+  {
+    "id": "R01",
+    "area": "Source/replicate precision",
+    "original_verdict": "REVISE",
+    "final_verdict": "PASS",
+    "original_sentence_or_state": "Means ± standard deviations; specific volume n = 3, firmness n = 6.",
+    "correction": "Clarify six measurements from three loaves; not six independent batches."
+  },
+  {
+    "id": "R02",
+    "area": "Co-intervention precision",
+    "original_verdict": "REVISE",
+    "final_verdict": "PASS",
+    "original_sentence_or_state": "These are selected psyllium–water combinations, not a single-variable psyllium dose series.",
+    "correction": "Add scraped-versus-moulded handling from S1 Methods; retain positive and contrary results."
+  },
+  {
+    "id": "R03",
+    "area": "Formulation context",
+    "original_verdict": "REVISE",
+    "final_verdict": "PASS",
+    "original_sentence_or_state": "The 2024 study began with a formulation already containing psyllium, HPMC and xanthan gum.",
+    "correction": "Define HPMC; add 91.2/5.5/3.3 starch/flour base and extra17.9g premix to prevent reading denominator as entire dry recipe."
+  },
+  {
+    "id": "R04",
+    "area": "Reader-first English",
+    "original_verdict": "REVISE",
+    "final_verdict": "PASS",
+    "original_sentence_or_state": "These are editorial recommendations for application work, not a published validation protocol.",
+    "correction": "Remove internal editorial language and repetitive supplier-capability closing caveat; retain targeted material/storage limits."
+  },
+  {
+    "id": "R05",
+    "area": "Natural Chinese",
+    "original_verdict": "REVISE",
+    "final_verdict": "PASS",
+    "original_sentence_or_state": "不能直接升级为通用加水规则",
+    "correction": "Replace with 不能直接当作通用加水规则; improve sandwich-loaf wording and replace procedural closing with formulation conclusion."
+  },
+  {
+    "id": "R06",
+    "area": "Original contribution",
+    "original_verdict": "REVISE",
+    "final_verdict": "PASS",
+    "original_sentence_or_state": "No retail material-identity section in input",
+    "correction": "Add three attributed product records; whole husks ≠ whole seeds; Powder metadata and shared bullets not equivalence evidence."
+  },
+  {
+    "id": "R07",
+    "area": "Citation precision",
+    "original_verdict": "REVISE",
+    "final_verdict": "PASS",
+    "original_sentence_or_state": "[1–3]",
+    "correction": "Use separately registered [1][2][3], mechanically render all6 sources; no renumbering of original study sources."
+  },
+  {
+    "id": "R08",
+    "area": "Evidence completeness",
+    "original_verdict": "REVISE",
+    "final_verdict": "PASS",
+    "original_sentence_or_state": "C02 and C07 evidence_quote has ... [truncated]",
+    "correction": "Recover complete load-bearing XML paragraphs in this review ledger, not truncated inherited excerpts."
+  },
+  {
+    "id": "E4",
+    "original_verdict": "NEW",
+    "final_verdict": "PASS",
+    "source_id": 4,
+    "asin": "B000N7DP6G",
+    "observed_title": "NOW Supplements, Whole Psyllium Husks, Soluble Fiber, 16 oz",
+    "observed_item_form": "Powder",
+    "observed_bullets": [
+      "EXCELLENT SOURCE OF FIBER: Soluble fiber from foods such as psyllium seed husks, as part of a diet low in saturated fat and cholesterol, may reduce the risk of heart disease.",
+      "DIRECTIONS: Vigorously mix 1 level tablespoon daily into at least 12 oz. of water or juice and consume immediately",
+      "6 GRAMS OF SOLUBLE FIBER: A serving of psyllium husk powder supplies 6 grams of the 7 grams soluble fiber necessary per day.",
+      "GMP Quality Assured: NPA A-rated GMP certification means that every aspect of the NOW manufacturing process has been examined, including our laboratory/testing methods (for stability, potency, and product formulation).",
+      "Packaged in the USA by a family owned and operated company since 1968."
+    ],
+    "boundary": "Captured listing text only; no inspected label, physical testing, mesh specification or certification verification. No spoon conversion, efficacy or market inference."
+  },
+  {
+    "id": "E5",
+    "original_verdict": "NEW",
+    "final_verdict": "PASS",
+    "source_id": 5,
+    "asin": "B007729DSE",
+    "observed_title": "NOW Supplements, Psyllium Husk Powder, Soluble Fiber, 12-oz",
+    "observed_item_form": "Powder",
+    "observed_bullets": [
+      "EXCELLENT SOURCE OF FIBER: Soluble fiber from foods such as psyllium seed husks, as part of a diet low in saturated fat and cholesterol, may reduce the risk of heart disease",
+      "DIRECTIONS: Vigorously mix 1 level tablespoon daily into at least 12 oz. of water or juice and consume immediately",
+      "6 GRAMS OF SOLUBLE FIBER: A serving of psyllium husk powder supplies 6 grams of the 7 grams soluble fiber necessary per day",
+      "GMP Quality Assured: NPA A-rated GMP certification means that every aspect of the NOW manufacturing process has been examined, including our laboratory/testing methods (for stability, potency, and product formulation)",
+      "Packaged in the USA by a family owned and operated company since 1968"
+    ],
+    "boundary": "Captured listing text only; no inspected label, physical testing, mesh specification or certification verification. No spoon conversion, efficacy or market inference."
+  },
+  {
+    "id": "E6",
+    "original_verdict": "NEW",
+    "final_verdict": "PASS",
+    "source_id": 6,
+    "asin": "B06XXN9CTG",
+    "observed_title": "Anthony's Organic Psyllium Husk Powder, 1.5 lb, Gluten Free, Non GMO, Finely Ground, Keto Friendly",
+    "observed_item_form": "Powder",
+    "observed_bullets": [
+      "USDA Certified Organic Psyllium Husk - Batch Tested and Verified Gluten Free",
+      "Product of India, Packed in California",
+      "Plant Based, Vegan Friendly, Non-GMO with No Additives",
+      "Promotes regularity, helps ease constipation, aids in overall digestive health",
+      "Finely Ground Powder - Add 1-2 Teaspoons to a full glass of water, smoothies and more!"
+    ],
+    "boundary": "Captured listing text only; no inspected label, physical testing, mesh specification or certification verification. No spoon conversion, efficacy or market inference."
+  }
+]
