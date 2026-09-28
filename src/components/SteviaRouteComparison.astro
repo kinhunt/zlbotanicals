@@ -1,0 +1,19 @@
+---
+import {Content as English} from '../data/stevia-route-comparison/en.md';
+import {Content as Chinese} from '../data/stevia-route-comparison/zh.md';
+const {lang}=Astro.props;
+---
+<section id="stevia-route-comparison" data-stevia-route-comparison>
+ <p data-i07-scroll-hint>{lang==='zh'?'窄屏可横向滚动各表；键盘用户可聚焦表格区域后使用左右方向键。':'On narrow screens, scroll each table horizontally; keyboard users can focus the table region and use the arrow keys.'}</p>
+ {lang==='zh'?<Chinese/>:<English/>}
+</section>
+<style>
+ section { scroll-margin-top:6rem; overflow-wrap:anywhere; }
+ section :global(h3), section :global(h4), section :global(h5) { scroll-margin-top:6rem; }
+ section :global(.i07-table-scroll) { max-width:100%; overflow-x:auto; margin-block:1rem; }
+ section :global(.i07-table-scroll:focus-visible) { outline:2px solid #587943; outline-offset:2px; }
+ section :global(table) { width:100%; border-collapse:collapse; }
+ section :global([id^="i07-route-ref-"]) { scroll-margin-top:6rem; }
+ section :global(th), section :global(td) { min-width:10rem; padding:.65rem; vertical-align:top; border-bottom:1px solid #d8e1d0; }
+ section :global(blockquote) { border-left:3px solid #587943; padding-left:1rem; }
+</style>
