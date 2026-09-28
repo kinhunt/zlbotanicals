@@ -1,0 +1,14 @@
+{
+  "verdict": "PASS",
+  "scope": "Exact archived bilingual draft bytes; content/source review only, not rendered implementation or publication.",
+  "origin": "/data/hermes/research/seo-growth/2026-09-28-morning-discovery/fenugreek",
+  "files": {
+    "draft.en.md": "2957d3c6656d8618625597386b92ba7fda077c32e19b17c58c46a36da3144b1b",
+    "draft.zh.md": "8ea2cf2f1b55b5c764af792f4bbf4cdcd9b9381db88a72adf08bc2bdaf9483e0",
+    "ledger.json": "cdd845cf0b2b267229720b45823512b5bf0be93a5b099265b9341d84aedabf40",
+    "sources/PMC11971048.xml": "92db5c8da5c22c9c0139668bed0fdc507d53a4e30e8811479ac97a2468819dd4",
+    "sources/PMC7447712.html": "2d51338ce55a3b15fdc8e11daeb58327f7837898c0b3249350478eb350377ec2",
+    "original-table-cells.json": "f7d7ee7b564c80a702c8689484261db7aaaadafdc7eb25830177a1c945bab360",
+    "claim-ledger.json": "43d5d4cfbd00d8d97e75eeefd0d68f586a1b47b69dec43551207ea9b06ee4394"
+  }
+}

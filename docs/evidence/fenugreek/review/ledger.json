@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11971048/fullTextXML",
+      "title": "Commercial fenugreek tinctures: volatile and descriptive aroma study",
+      "accessed": "2026-09-28",
+      "quotes": [
+        {
+          "text": "Fenugreek tinctures from eight different manufacturers are provided by Courtesy of Zhengzhou Tobacco Research Institute and the general production process of these samples are shown in Figure 1 (Sun, Zhang, and Li 2018a, 2018b).",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "DSA (Descriptive Sensory Analysis) was employed to evaluate the eight fenugreek tincture samples. The evaluation team consist of seven experienced members including five men and two women, aged between 25 and 45 years old. Prior to the evaluation, the whole team was trained according to the ISO 8589 (2007) protocol. Then the members were asked to describe the sensory properties of the sample solution as many as possible. The final evaluation results were comprehensively sort out. Resin, liquorice, burnt, alcohol, fresh, sweet, ointment, baked, woody, herb, bean, green, spicy aroma, fruit, floral, creamy, cocoa, and sour aromas were selected to evaluate the sample solution. The aroma intensity was scored on a 10‐point scale (0 for no aroma and 10 for the strongest aroma). Each sample was evaluated in triplicates.",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "Samples of fenugreek tincture from various manufacturers were scored by DSA shown in Figure 2, and aroma differences were found in different samples. HL‐1, HL‐2, HL‐3, and HL‐5 have similar aroma properties which are mainly burnt, herbal, hay, sweet, and creamy aroma, with slightly different auxiliary aroma. For HL‐4, spicy aroma is predominated with strong sweet and herbal aroma, while burnt, hay, and creamy aroma are relatively weak. The main aroma of HL‐6 are burnt, herbal, hay, and ointment aroma. The most prominent aroma of HL‐7 and HL‐8 are burnt and sweet aroma, but their auxiliary aromas are different. The results show that the eight fenugreek tincture samples have a complex scent with burnt and herbal aroma as the prominent contributors with light sweet, hay, and creamy aroma. Furthermore, the scents of baked, fresh, bean, resin, and sour aroma are relatively weak.",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "is the weight of the internal standard (μg). In this work, the correction factor of each analyte is assumed to be 1.",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "OAV evaluation determines the contributions of each component to the overall flavor (Gemert 2015, 2018; He et al. 2020). The OAV of each component was calculated based on the ratio of its concentration over odor threshold from the aqueous solution. Compounds with OAV > 1 are considered as key flavor components, which contribute to the aroma formation of fenugreek tincture. OVA can be calculated by Equation (2):",
+          "added": "2026-09-28"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7447712",
+      "title": "Germinated fenugreek and oat cookies: processing and sensory results",
+      "accessed": "2026-09-28",
+      "quotes": [
+        {
+          "text": "Whole wheat flour was obtained by milling the cleaned wheat grain to powder and sieving through a 710 µm mesh sieve to obtain fine homogenized flour. The flour was packed in polyethylene (PE) bags and stored for further processing. Fenugreek seeds were washed and soaked in potable water for 24 h at an average temperature of 20 °C both during day and night with a Seed:Water ratio of 1:5 (w/v). Then the unimpeded water was drained off and discarded, and the soaked seeds were rinsed twice by boiled and then cooled water to avoid post contamination during germination. The soaked seed was germinated in plastic materials for 72 h at an average temperature of 20 °C with frequent watering and then oven dried at 60 °C for 12 h (Shalini and Sudesh",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "Sensory evaluation of the cookies in terms of color, appearance, odor, crispness, taste, and overall acceptability was done on a 9-point hedonic scale by ten trained panelists following the recommendations described in (McWatters et al.",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "indicate that taste score of the cookies decrease with increasing proportion of fenugreek and oat, which could be because of the bitter taste of fenugreek. The 3.7 and 3.4 taste scores obtained from B2 and B3 suggest that consumers may not like the taste of these blends, and perhaps increasing the amount of sugar in the recipe a bit may address this concern. The overall acceptability of the cookies also declined with increasing proportion of fenugreek and oat, with Control being the most acceptable and B3 the least acceptable cookie (Table",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "also shows that the main effects of Blend and Temperature are significant on moisture and total carbohydrate (chemical composition); weight and thickness (physical quality); and color (sensory attributes). Only the main effect of Blend was significant on condensed tannin (phytochemical composition), and odor, crispness, taste and overall acceptability (sensory attributes); and only the main effect of Temperature was significant on appearance (sensory attribute) (Table",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "The results of the study clearly showed that the use of germinated fenugreek seed and oat flour with wheat, improves the nutritional content of cookies. Therefore, the germinated fenugreek and oat flour could be blended with wheat flour to produce cookies with enhanced physicochemical properties and acceptable sensory attributes. The study also revealed that higher proportion of fenugreek and oat flour in the composite increases the protein, fiber, ash, energy and mineral contents of the cookies. Specifically, incorporation of around 10% fenugreek flour and 20% oat flour resulted in cookies that have high nutritional content and antioxidant capacity (phytate), and moderate amount of tannin. Although the sensory attributes decreased with increasing proportion of fenugreek and oat, this proportion (B2) baked at 175 °C gives a nutritionally rich and acceptable sensory attributes. Modifying the recipe by increasing the amount of sugar a bit, and increasing the nutritional awareness of consumers by highlighting the benefits of fenugreek and oat supplementation is recommended.",
+          "added": "2026-09-28"
+        },
+        {
+          "text": "). Accordingly, the recipe was: 380 g flour, 201.4 g sugar, 4.18 g baking powder, 3.38 g salt, 100.7 g sunflower oil as shortening, 182.4 ml water, and 10 ml vanilla extract. After kneading and rolling (sheet of 5 mm) the cookie doughs of all four blends were baked for 10 min in 150, 175, and 200 °C temperatures. This makes Temperature the second factor with 3 levels. All 12 combinations of Blend and Temperature were replicated twice.",
+          "added": "2026-09-28"
+        }
+      ]
+    }
+  ]
+}

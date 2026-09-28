@@ -86,3 +86,5 @@ The record leaves observations and acceptance criteria blank; it is a planning a
 <p id="ginseng-heat-ref-2">[2] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21535568%20AND%20SRC:MED&amp;format=json&amp;resultType=core">Sensory properties of ginseng solutions modified by masking agents.</a> Original abstract; full methods and sensory tables not available in this review.</p>
 
 <p id="ginseng-heat-ref-4">[4] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5628343/fullTextXML">Effect of hydrothermal processing on ginseng extract — full text</a> Full-text XML, methods and Results 3.1; no human bitterness endpoint.</p>
+
+For a food-processing comparison, [fenugreek flavour and processing](/resources/blog/fenugreek-flavour-processing) separates aroma from taste liking and explains why changing flour blends can confound a bitterness claim.
