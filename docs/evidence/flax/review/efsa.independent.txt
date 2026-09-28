@@ -1,0 +1,129 @@
+Assessment of a decontamination process for hydrocyanic acid in linseed intended for use in animal feed
+AbstractFollowing a request from the European Commission, the EFSA Panel on Contaminants in the Food Chain (CONTAM) provided a scientific opinion on the assessment of a decontamination process for the enzymatic treatment and subsequent heating of linseed, in order to reduce the amount of hydrocyanic acid (HCN) present as cyanogenic glycosides. Specifically, it is required that the feed decontamination process is compliant with the acceptability criteria specified in the Commission Regulation (EU) 2015/786 of 19 May 2015. With this aim, the CONTAM Panel assessed the data provided by the feed business operator with respect to the efficacy of the process to remove the contaminant from the linseed batches and on information demonstrating that the process does not adversely affect the characteristics and the nature of the product. The data enabled the Panel to conclude that in agreement with the literature the process was able to remove HCN by about 90%, and that it is possible to meet the current EU requirements for quality of linseed with respect to HCN, provided the level of contamination of untreated linseed would be within the range of the tested batches. The Panel noted that the amounts of other products formed during the enzymatic process and remaining in the treated material are not of toxicological concern. The experimental data provided by the feed business operator showed that the characteristics of linseed were not adversely affected by the decontamination process. The CONTAM Panel concluded that, on the basis of the information submitted by the feed business operator, the proposed decontamination process to remove HCN from linseed by means of enzymatic release and subsequent evaporation was compliant with the acceptability criteria provided for in Commission Regulation (EU) 2015/786 of 19 May 2015.
+Scientific Opinion on the assessment of a decontamination process for hydrocyanic acid in linseed intended for use in animal feed
+
+SECTION Introduction
+
+SECTION Background and Terms of Reference as provided by the requestor
+
+SECTION Background
+Directive 2002/32/EC of the European Parliament and of the Council of 7 May 2002 on undesirable substances in animal feed1 provides that the use of products intended for animal feed which contain levels of undesirable substances exceeding the maximum levels laid down in Annex I of that Directive is prohibited.
+Directive 2002/32/EC provides also that Member States are to ensure that measures are taken to guarantee the correct application of any acceptable detoxification process on products intended for animal feed and the conformity of those detoxified products with the provisions of Annex I of that Directive. In order to ensure a uniform assessment across the European Union (EU) of the acceptability of detoxification processes, acceptability criteria for detoxification processes have been established at Union level by Commission Regulation (EU) 2015/786 of 19 May 2015 defining acceptability criteria for detoxification processes applied to products intended for animal feed as provided for in Directive 2002/32/EC of the European Parliament and of the Council.
+The acceptability criteria for detoxification processes established by the Regulation shall ensure that the detoxified feed does not endanger animal and public health and the environment and that the characteristics of the feed are not adversely altered by the detoxification process. The Regulation furthermore provides that the compliance of a detoxification process with those criteria shall be scientifically assessed by the European Food Safety Authority (EFSA) on a request from the Commission.
+The Commission has received the following application referring to a detoxification process for assessment by EFSA of compliance with the acceptability criteria:
+Feed to be decontaminatedProcessContaminant of concernLinseedPhysical processHydrocyanic acid
+
+TABLE
+["Feed to be decontaminated", "Process", "Contaminant of concern"]
+["Linseed", "Physical process", "Hydrocyanic acid"]
+
+SECTION Terms of Reference
+In accordance with Art. 29 (1) of Regulation (EC) No 178/2002, the European Commission asks EFSA for an assessment of this detoxification process for compliance with the acceptability criteria provided for in Commission Regulation (EU) 2015/786 of 19 May 2015.
+
+SECTION Interpretation of the Terms of Reference
+EFSA received from the European Commission a request for scientific opinions on the assessment of applications referring to feed detoxification processes to be compliant with acceptability criteria specified in the Commission Regulation (EU) 2015/786 of 19 May 2015.2 In this context, the term detoxification is interpreted as either decontamination by removing the contaminants or by chemical or biological processes able to reduce the toxicity of the contaminants present. This scientific opinion is dealing with the decontamination processes reported in the above table referring to linseed with the aim to lower the amount of hydrocyanic acid (HCN).
+The EFSA Scientific Panel on Contaminants in the Food Chain (CONTAM Panel) concluded that the Terms of Reference provided by the European Commission were clear and that the opinion for the assessment of this physical decontamination process should mainly focus on data:
+enabling the assessment of the efficacy of the process to remove the contaminants from the feed batches to ensure compliance with the requirements of Directive 2002/32/EC, anddemonstrating that the decontamination process does not adversely affect the characteristics and the nature of the feed.
+
+Information concerning the safe disposal of the removed part of the feed was also considered.
+Since an enzymatic step is included, the Panel was of the view that some of the criteria applicable for a chemical process should also be considered. Data showing that the process is irreversible and that no harmful reaction products of the contaminant are formed should be evaluated.
+
+SECTION Additional information
+The feed business operator has provided the European Commission with information on the proposed decontamination process and its effectiveness as laid down in Directive 2002/32/EC.
+
+SECTION Data and methodologies
+
+SECTION Data
+The feed business operator has submitted information in support to its claim about the efficacy of the decontamination process consisting in the hydrolysis of cyanogenic glycosides, present as endogenous constituents in linseed, to HCN and its subsequent evaporation to lower the amount of hydrocyanic acid. The CONTAM Panel based its assessment on the provided information (Documentation provided to EFSA No 1) to address the Terms of Reference.
+Additional data were submitted by the feed business operator on June 2017 and provided to EFSA (Documentation provided to EFSA No. 2) further to a request for clarification.
+
+SECTION Methodologies
+The CONTAM Panel evaluated the acceptability of the proposed decontamination process as requested by the relevant regulations, specifically Directive 2002/32/EC and Commission Regulation (EU) 2015/786 with their Annexes. Any assessment is conducted in line with the principles described in the EFSA guidance on transparency in the scientific aspects of risk assessment (EFSA, 2009) and following the relevant existing guidance from the EFSA Scientific Committee.
+
+SECTION Assessment
+
+SECTION Identity of the contaminants
+The feed business operator states that the linseed subjected to the decontamination process contained various cyanogenic glycosides (linustatin, neolinustatin, linamarin, lotaustralin). Although no direct analysis of these compounds is provided, their presence in linseed has been amply demonstrated by several laboratories (Smith et al., 1980; Selmar et al., 1988; Frehner et al., 1990). Linustatin and neolinustatin contain a cyanide group chemically fixed as a cyanohydrin with acetone or 2‐butanone, respectively, and stabilised by a β‐glycosidic bond with the diglucoside gentiobiose (Figure 1). Linamarin and lotaustralin are the respective β‐glycosides of glucose instead of gentiobiose.
+In general, cyanogenic glycosides are stored as stable compounds in the vacuoles of plants. However, their glycosidic bond is easily hydrolysed by β‐glycosidase enzymes, which are located separate from the vacuoles in the cell walls. Upon physical destruction of the plant cells, e.g. by chewing or grinding, the hydrolytic enzymes degrade the cyanogenic glycosides with the release of highly toxic hydrocyanic acid. Therefore, cyanogenic glycosides are considered part of the ‘chemical defence’ system of plants (EFSA CONTAM Panel, 2016).
+Consistent with the presence of cyanogenic glycosides in linseed prior to the decontamination process, considerable levels of HCN were measured in five samples obtained by mixing between 50% and 70% raw linseed with wheat bran and sunflower cake. The samples contained between 86 and 127 mg HCN/kg (see Section 3.3.2, Table 1).
+
+SECTION Method of analysis
+The feed business operator has submitted analytical data and the respective certificates of analysis for the HCN content in five samples before and after the decontamination process (see Section 3.3.2). The analytical method used has been briefly described by the feed business operator and consists of the extraction and enzymatic hydrolysis of the cyanogenic glycosides, followed by quantification of the released HCN. The extraction and hydrolysis was conducted according to the European Standard EN 16160 of 2012,3 whereas the quantification was carried out according to the European Commission Directive 71/250/EEC of 1971.4 Briefly, after extraction with an acidic aqueous solution, the cyanogenic glycosides are hydrolysed at pH 6 and 38°C by a β‐glycosidase to release the bonded HCN. Following water vapour distillation and collection in an alkaline solution, the HCN is measured by potentiometric titration with silver nitrate. In order to control the activity of the β‐glycosidase and to account for losses of HCN, a defined amount of the cyanogenic glycoside amygdalin is added to control samples as an internal standard. The method is suitable to quantify the amount of HCN bonded in cyanogenic glycosides in feed materials of plant origin.
+
+SECTION Decontamination process
+The feed business operator has submitted information describing the decontamination process of linseed. The CONTAM Panel reviewed the submitted information and found them sufficiently comprehensive for an assessment.
+An overview of the process is provided below with details excluded because of commercially sensitive information.
+
+SECTION Description of the process
+In principle, the decontamination process involves the process of enzymatic hydrolysis of the cyanogenic glycosides with the release of HCN, followed by evaporation of the liberated HCN. This general approach has been used for centuries by indigenous people in Africa and Amazonia for the decontamination of other food and feed containing high levels of cyanogenic glycosides, in particular cassava (manioc, Nambisan, 2011; Nhassico et al., 2008). The individual steps of the specific processes used for linseed are described only in general terms:
+Mixing and grinding: the addition of one or several materials containing cellulose or starch to disrupt the cells of linseed and bring the β‐glycosidases in contact with the cyanogenic glycosides (see Section 3.1).Short‐term vapour impregnation: to further activate the β‐glycosidases.Maturation: to provide sufficient time for the hydrolytic reaction.Extrusion: the applied pressure and temperature reduces the HCN and water content of the matured material.Drying and cooling: this further decreases the humidity and the temperature to increase stability of the final decontaminated material.
+
+
+SECTION Efficacy and irreversibility of the process
+The feed business operator has provided analytical data for five batches composed of 50–70% raw linseed and 30–50% wheat bran and sunflower cake before and after the decontamination process (Table 1). The level of HCN was between 86 and 127 mg/kg before and below 11 after decontamination, indicating a reduction in HCN ranging from approximately 89–92%.
+In addition to the samples analysed before and after the process, the analysis of 178 samples containing from 22 up to 85.5% linseed and taken during January 2014 and April 2016 from different decontaminated product batches showed an average content of 12 mg HCN/kg, with a standard deviation of 5 and a maximum of 32 mg HCN/kg.
+The process of decontamination is irreversible. Although the HCN is able to react with acetone and 2‐butanone to form an unstable cyanohydrin, this reaction always represents a chemical equilibrium. Stabilisation of the cyanohydrin by forming a glycoside is not feasible without the appropriate enzyme (glucosyltransferase) and co‐substrate (activated glucose). Moreover, the fact that most of the HCN (and also of the volatile acetone and 2‐butanone) are evaporated during the physical part of the process ensures that the decontamination is irreversible.
+
+TABLE efs25004-tbl-0001 Concentration of hydrocyanic acid (HCN) in the tested batches
+["", "HCN (mg/kg)"]
+["Batch", "Before", "After"]
+["1", "126", "< 10"]
+["2", "103", "< 10"]
+["3", "97", "11"]
+["4", "86", "< 10"]
+["5", "127", "< 10"]
+
+SECTION Reaction products
+The degradation of cyanogenic glycosides in linseed by hydrolytic enzymes present in the raw plant material results in the formation of HCN, acetone, 2‐butanone, and the carbohydrates glucose and gentiobiose (see Figure 1). With the exception of HCN, most of which is evaporated during the decontamination process (see Sections 3.3.1 and 3.3.2), none of the other reaction products is of toxicological concern at the concentrations generated. Acetone (boiling point 56°C) and 2‐butanone (boiling point 80°C) are more volatile than water and are therefore expected to mostly evaporate during the extrusion and drying steps of the decontamination process. Therefore, the decontamination process does not result in harmful levels of reaction products remaining in the treated material.
+
+SECTION Characteristics and nature of linseed material
+One of the main characteristics of linseed is the high content (about 50% of the fatty acids present mostly as triacylglycerols in the lipid fraction) of alpha‐linolenic acid (α‐LA, 18:3 n‐3). From a biochemical and chemical perspective, no effect of the decontamination process on the linseed oil is expected: the β‐glycosidase should not affect the ester bonds of triacylglycerols, and HCN or the other products should not be able to react with the double bonds of α‐LA. Moreover, the mild treatment conditions (enzyme, water, and short‐term heating) are not expected to change the other constituents of linseed. Indeed, analysis of five batches of linseed before and after the decontamination process showed that α‐LA, lipid, protein and fibre content were unchanged (Table 2).
+Thus, the decontamination process did not affect the characteristics and nature of the feed.
+
+TABLE efs25004-tbl-0002 Main characteristics of linseed before and after the process
+["", "α‐LA (g/kg)", "Ether extract (%)", "Crude protein (%)", "Crude fibre (%)"]
+["Batch", "Before", "After", "Before", "After", "Before", "After", "Before", "After"]
+["1", "162.1", "167.4", "26.7", "29.6", "19.2", "19.6", "7.9", "7.8"]
+["2", "141.9", "144.0", "24.2", "26.4", "18.5", "19.0", "7.6", "8.3"]
+["3", "122.5", "119.3", "21.3", "20.6", "18.9", "20.5", "13.2", "12.6"]
+["4", "121.1", "119.9", "21.0", "22.5", "19.5", "20.1", "10.2", "10.9"]
+["5", "161.1", "159.5", "28.0", "28.7", "17.7", "17.7", "8.7", "7.9"]
+FOOT α‐LA: alpha‐linolenic acid.
+
+SECTION Disposal of the removed hydrocyanic acid
+The HCN evaporated during extrusion and drying (steps 4 and 5 of the decontamination process, see Section 3.3.1) is released into the atmosphere. An analysis of the atmospheric releases from the ventilation ducts of the production lines in a French plant in 2008 showed that the emission limit was not exceeded.
+
+SECTION Discussion
+The CONTAM Panel assessed the information made available in the documents submitted by the feed business operator and was of the view that sufficient information was available to make an assessment of the proposed decontamination process for hydrocyanic acid in whole linseed. The available data indicated that the efficacy of the decontamination process was about 90%.
+The level of HCN in 178 samples taken from various batches did not exceed 32 mg/kg, with an average of 12 mg/kg. Since these levels are below the legal limit of 250 mg/kg HCN as set out in Annex 1 of Directive 2002/32/EC for linseed used as an animal feed, the CONTAM Panel concluded that it is possible to meet the current EU requirements for the quality of linseed with respect to HCN after decontamination. The assessment assumes that the levels of HCN in untreated linseed are within the range of the tested batches. Final proof of sufficient decontamination should always be provided by analysis of the finished product.
+Due to the specificity of enzymatic reaction, there are no significant effects of the decontamination process on the nutritional characteristics of linseed.
+During the decontamination process, HCN is emitted in the atmosphere which should respect any national limits.
+The CONTAM Panel noted that it is the responsibility of the Member State to ensure that measures are taken to guarantee the correct application of any acceptable decontamination process on products intended for animal feed and the conformity of those decontaminated products with the provisions included in the Commission Regulation (EU) 2015/786 and its Annexes.
+
+SECTION Uncertainty analysis
+According to the interpretation of the Terms of Reference, the assessment of a physical decontamination process should mainly focus on the evaluation of the efficacy of the process to remove the contaminants and on the evidence that the characteristics and the nature of the product are not adversely affected.
+Efficacy of the process: The method used is based on a well‐established process that has been described in the scientific literature. Because of the large number of treated samples analysed and the small variation of the HCN content, there is little uncertainty in the fact that the process will be effective in lowering HCN levels. The efficacy of the process was not explicitly demonstrated at the upper range of cyanogenic glycoside levels found in untreated linseed. There are some remaining uncertainties that may arise from the operation of the process, such as the control of temperatures. These factors may be checked by regular monitoring of the finished product.
+This opinion considers the use of linseed in animal feed and not linseed cake which is often used as an animal feed ingredient.
+Characteristics of the product: The nutritional characteristics of the treated linseed material have been demonstrated by the feed business operator not to be changed. There is little chance that hazardous substances are remaining in the treated material.
+
+SECTION Conclusions
+In relation to the Terms of Reference, the CONTAM Panel concluded:
+on the basis of the information submitted by the feed business operators the proposed decontamination process is effective in reducing HCN from linseed;the process does not lead to any detrimental changes in the nature of linseed;the proposed decontamination process to remove HCN from linseed, was assessed to be compliant with the acceptability criteria provided in Commission Regulation (EU) 2015/786 of 19 May 2015.
+
+
+SECTION Documentation provided to EFSA
+
+Dossier ‘Linseed physical detoxification process’ Valorex, France, June 2016.Additional information submitted by Valorex, France (21 June 2017) in response to a request from the EFSA CONTAM Panel.
+
+
+SECTION Abbreviations
+
+α‐LAalpha‐linolenic acidCONTAM PanelEFSA Panel on Contaminants in the Food ChainHCNhydrocyanic acid
+
+Guidance of the Scientific Committee on transparency in the scientific aspects of risk assessment carried out by EFSA. Part 2: general principles
+Scientific opinion on the acute health risks related to the presence of cyanogenic glycosides in raw apricot kernels and products derived from raw apricot kernels
+Pattern of the cyanide‐potential in developing fruits: implications for plants accumulating cyanogenic monoglucosides (Phaseolus lunatus) or cyanogenic diglucosides in their seeds (Linum usitatissimum, Prunus amygdalis)
+Strategies for elimination of cyanogens from cassava for reducing toxicity and improving food safety
+Review: rising African cassava production, diseases due to high cyanide intake and control measures
+Mobilization and utilization of cyanogenic glycosides. The linustatin pathway
+Linustatin and neolinustatin: cyanogenic glycosides of linseed meal that protect animals against selenium toxicity

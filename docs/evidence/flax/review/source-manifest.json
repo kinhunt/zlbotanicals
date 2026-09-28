@@ -1,0 +1,42 @@
+[
+  {
+    "name": "extrusion",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4541741/fullTextXML",
+    "file": "sources/extrusion.xml",
+    "sha256": "0da52f3271a83fae0b5b91c869cc9db7fc51cf5666548c314676165b76e9dedc",
+    "bytes": 83946,
+    "status": 200
+  },
+  {
+    "name": "fermentation",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12939840/fullTextXML",
+    "file": "sources/fermentation.xml",
+    "sha256": "dfb0e3ad43c8c5499aba846bc74ea08a4bc8a264f9fc43b78dec2af630d67418",
+    "bytes": 102908,
+    "status": 200
+  },
+  {
+    "name": "bfr",
+    "url": "https://www.bfr.bund.de/en/notification/hydrocyanic-acid-and-cadmium-in-linseeds/",
+    "file": "sources/bfr.html",
+    "sha256": "fee59d9ae20b220c306464513dacf2b41f34c0a525944d02663c247cca03e680",
+    "bytes": 309737,
+    "status": 200
+  },
+  {
+    "name": "efsa",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7009918/fullTextXML",
+    "file": "sources/efsa.xml",
+    "sha256": "6eb7638338a66fbbc69a9a96a7224c52efa7a6ae31a439621a3f53b2cb0633de",
+    "bytes": 53274,
+    "status": 200
+  },
+  {
+    "name": "extraction",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4661209/fullTextXML",
+    "file": "sources/extraction.xml",
+    "sha256": "49c75e7bbcf524297da6cb363e63bbb4573afa54720d39a90513cd9682887567",
+    "bytes": 106255,
+    "status": 200
+  }
+]

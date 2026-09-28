@@ -39,6 +39,7 @@ const isVanilla = post.slug.endsWith('/vanilla-material-choice');
 const isCranberry = post.slug.endsWith('/cranberry-pac-purchasing');
 const isCitrus = post.slug.endsWith('/hesperidin-material-choice');
 const isHibiscus = post.slug.endsWith('/hibiscus-color-endpoints');
+const isFlax = post.slug.endsWith('/flax-cyanogenic-material-selection');
 const isFenugreek = post.slug.endsWith('/fenugreek-flavour-processing');
 const isPsyllium = post.slug.endsWith('/psyllium-gluten-free-bread-water');
 const isCarob = post.slug.endsWith('/carob-powder-cocoa-baking');
@@ -76,7 +77,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
   heroTitle={post.data.title}
   heroSubtitle={guideCategory[lang].title}
 >
-  <article class:list={["section-padding", {"fenugreek-reader": isFenugreek, "psyllium-reader": isPsyllium, "carob-reader": isCarob, "tamarind-reader": isTamarind, "gardenia-reader": isGardenia, "clove-reader": isClove, "schisandra-reader": isSchisandra, "oat-apple-reader": isOatApple, "olive-pectin-reader": isOlivePectin, "botanical-comparison-reader": isBotanicalComparison, "beetroot-reader": isBeetroot, "ginger-reader": isGinger, "cocoa-reader": isCocoa, "pomegranate-reader": isPomegranate, "acacia-reader": isAcacia, "citrus-delayed-bitterness-reader": isCitrusBitterness, "astaxanthin-reader": isAstaxanthin, "chicory-reader": isChicory, "vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory"), "water-soluble-reader": isWaterSoluble}]}>
+  <article class:list={["section-padding", {"flax-reader": isFlax, "fenugreek-reader": isFenugreek, "psyllium-reader": isPsyllium, "carob-reader": isCarob, "tamarind-reader": isTamarind, "gardenia-reader": isGardenia, "clove-reader": isClove, "schisandra-reader": isSchisandra, "oat-apple-reader": isOatApple, "olive-pectin-reader": isOlivePectin, "botanical-comparison-reader": isBotanicalComparison, "beetroot-reader": isBeetroot, "ginger-reader": isGinger, "cocoa-reader": isCocoa, "pomegranate-reader": isPomegranate, "acacia-reader": isAcacia, "citrus-delayed-bitterness-reader": isCitrusBitterness, "astaxanthin-reader": isAstaxanthin, "chicory-reader": isChicory, "vanilla-authentication-reader": isVanillaAuthentication, "vanilla-material": isVanilla, "cranberry-pac": isCranberry, "citrus-material": isCitrus, "hibiscus-color": isHibiscus, "saffron-identity": isSaffron, "elderberry-material": post.slug.endsWith("/elderberry-material-selection"), "paprika-format": post.slug.endsWith("/paprika-extract-format-selection"), "sdil": post.slug.endsWith("/uk-sdil-milk-tea-2028"), "ginseng-heat": post.slug.endsWith("/ginseng-heat-bitterness"), "stevia-temporal": post.slug.endsWith("/stevia-temporal-sensory"), "water-soluble-reader": isWaterSoluble}]}>
     <div class="container-wide max-w-4xl">
       <!-- Breadcrumb -->
       <nav aria-label="Breadcrumb" class="mb-8 text-sm">
@@ -207,7 +208,7 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
       {isAcacia && <nav aria-label="Related application reading" class="mt-12 border-t pt-8"><h2 class="text-xl font-semibold mb-4">Related application reading</h2><ul class="space-y-3"><li><a class="text-primary underline" href="/solutions/food">Food applications</a></li><li><a class="text-primary underline" href="/solutions/beverages">Beverage applications</a></li></ul></nav>}
 
       <!-- CTA -->
-      {!isFenugreek && !isPsyllium && !isCarob && !isTamarind && !isGardenia && !isClove && !isSchisandra && !isOatApple && !isOlivePectin && !isBotanicalComparison && !isBeetroot && !isGinger && !isCocoa && !isPomegranate && !isCitrusBitterness && !isAcacia && !isAstaxanthin && !isChicory && !isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
+      {!isFlax && !isFenugreek && !isPsyllium && !isCarob && !isTamarind && !isGardenia && !isClove && !isSchisandra && !isOatApple && !isOlivePectin && !isBotanicalComparison && !isBeetroot && !isGinger && !isCocoa && !isPomegranate && !isCitrusBitterness && !isAcacia && !isAstaxanthin && !isChicory && !isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class="mt-12 p-8 bg-primary/5 rounded-2xl text-center">
         <h3 class="text-xl font-display font-bold text-gray-900">Interested in our botanical extracts?</h3>
         <p class="text-gray-600 mt-2">Contact us for samples, technical documentation, or custom formulation support.</p>
         <a
@@ -222,6 +223,26 @@ const guideCategory = guideCategories.find(category => category.slug === post.da
 </PageLayout>
 
 <style>
+  .flax-reader :global(.prose) {max-width:820px;margin-inline:auto;line-height:1.85;overflow-wrap:anywhere}
+  .flax-reader :global([id]) {scroll-margin-top:100px}
+  .flax-reader :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}
+  .flax-reader :global(.flax-table) {width:100%;table-layout:fixed;border-collapse:collapse}
+  .flax-reader :global(.flax-table th), .flax-reader :global(.flax-table td) {padding:1rem;border:1px solid #d1d5db;vertical-align:top;font-size:16px;line-height:1.7}
+  .flax-reader :global(.cell-value) {font-variant-numeric:tabular-nums}
+  .flax-reader :global(.mobile-label) {display:none}
+  @media(max-width:640px) {
+    .flax-reader :global(.flax-table), .flax-reader :global(.flax-table tbody), .flax-reader :global(.flax-table tr), .flax-reader :global(.flax-table th), .flax-reader :global(.flax-table td) {display:block;width:100%;box-sizing:border-box}
+    .flax-reader :global(.flax-table thead) {display:none}
+    .flax-reader :global(.flax-table tr) {margin-bottom:1.5rem;border:1px solid #d1d5db;border-radius:8px;overflow:hidden}
+    .flax-reader :global(.flax-table th), .flax-reader :global(.flax-table td) {border:0;padding:.85rem 1rem;text-align:left}
+    .flax-reader :global(.flax-table th) {background:#f3f4f6}
+    .flax-reader :global(.mobile-label) {display:block;font-weight:600;margin-bottom:.3rem;color:#374151}
+  }
+
+  .flax-reader :global(nav ol) {flex-wrap:wrap}
+  .flax-reader :global(caption) {text-align:left;font-size:16px;font-weight:600;padding:1rem 0;width:100%}
+  @media (max-width:640px) {.flax-reader :global(caption) {display:block}}
+
   .fenugreek-reader :global(.prose) {max-width:820px;margin-inline:auto;line-height:1.85;overflow-wrap:anywhere}
   .fenugreek-reader :global([id]) {scroll-margin-top:100px}
   .fenugreek-reader :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}
