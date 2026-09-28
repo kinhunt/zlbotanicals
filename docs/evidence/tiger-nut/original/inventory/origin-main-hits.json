@@ -1,0 +1,1126 @@
+{
+  "sha": "23d0ec5305091b7ea35d2a7fd1b1ecb84d1fafe5",
+  "files_scanned": 313,
+  "hits": [
+    {
+      "file": "src/articles/functional-mushrooms.en.md",
+      "line": 5,
+      "text": "Our Amazon research obtained 18 product detail records across 15 brands. The most useful finding is not which mushroom is “hottest,” but how differently products describe their materials and quantities. The sample includes fruiting-body extracts, mycelium with fermented substrate, single-mushroom capsules, coffee with collagen, and gummies containing other botanical ingredients."
+    },
+    {
+      "file": "src/articles/functional-mushrooms.en.md",
+      "line": 30,
+      "text": "Blended capsules show a similar contrast. [FreshCap Ultimate](https://www.amazon.com/dp/B07NY3WR4L) lists six mushrooms and uses the blend-level phrase “100% whole fruiting body mushrooms.” [Host Defense MyCommunity](https://www.amazon.com/dp/B002WJ1BZK) lists 17 species and describes mycelium grown on organic brown rice, referring to both mycelium and fermented rice substrate. Species count does not establish composition or individual ingredient doses.<a href=\"#market-v4-ref-14\" aria-label=\"Source 14\">[14]</a><a href=\"#market-v4-ref-15\" aria-label=\"Source 15\">[15]</a>"
+    },
+    {
+      "file": "src/articles/functional-mushrooms.en.md",
+      "line": 34,
+      "text": "A useful comparison therefore separates species, tissue source, fermented substrate, extraction form and quantity per serving. These fields are not a ranking of efficacy or material quality. In particular, a blend-level fruiting-body statement does not establish the anatomical material used for every ingredient, including chaga."
+    },
+    {
+      "file": "src/articles/functional-mushrooms.en.md",
+      "line": 79,
+      "text": "Liquids need their own units as well. [Host Defense reishi liquid](https://www.amazon.com/dp/B0062RC9ZO) supplies dropper instructions and refers to mycelium and fermented rice substrate. Dropper frequency alone does not establish extract mass in milligrams.<a href=\"#market-v4-ref-8\" aria-label=\"Source 8\">[8]</a>"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 3,
+      "text": "import en from '../../docs/evidence/quillaja/quillaja-selection.en.md?raw';"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 4,
+      "text": "import chinese from '../../docs/evidence/quillaja/quillaja-selection.zh.md?raw';"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 10,
+      "text": "const markdown=lines.join('\\n').replace(/^## /gm,'### ').replace(/\\[([12])\\]/g,'<a href=\"#quillaja-ref-$1\">[$1]</a>');"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 23,
+      "text": "const href=`${zh?'/zh':''}/request-quote?request=application&source=beverages&application=${encodeURIComponent(zh?'皂树提取物饮料寻源项目':'Quillaja beverage sourcing project')}`;"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 25,
+      "text": "<section id=\"quillaja-grade-selection\" class=\"section-padding quillaja\" aria-labelledby=\"quillaja-title\">"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 26,
+      "text": " <div class=\"container-wide quillaja-reader\">"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 27,
+      "text": "  <h2 id=\"quillaja-title\">{title.replace(/^# /,'')}</h2>"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 28,
+      "text": "  <div class=\"quillaja-body\"><Fragment set:html={html}/></div>"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 29,
+      "text": "  <a class=\"quillaja-cta\" href={href}>{zh?'咨询皂树提取物寻源项目':'Discuss a quillaja sourcing project'} →</a>"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 30,
+      "text": "  <aside class=\"quillaja-references\" aria-labelledby=\"quillaja-sources-title\">"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 31,
+      "text": "   <h3 id=\"quillaja-sources-title\">{zh?'来源':'Sources'}</h3>"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 32,
+      "text": "   <ul>{references.map(ref=><li id={`quillaja-ref-${ref.id}`}><span>[{ref.id}] </span><a href={ref.url}>{ref.label}</a></li>)}</ul>"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 37,
+      "text": " .quillaja{background:#fafbf8;border-block:1px solid #e1e7db;scroll-margin-top:7rem}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 38,
+      "text": " .quillaja-reader{max-width:868px}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 40,
+      "text": " .quillaja-body :global(p){margin:1.2rem 0;line-height:1.8;color:#374151}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 41,
+      "text": " .quillaja-body :global(h3){font-size:1.3rem;font-weight:650;line-height:1.4;margin:2rem 0 1rem;color:#243c2b}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 42,
+      "text": " .quillaja :global(a){color:#365b36;text-decoration:underline;text-underline-offset:3px}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 43,
+      "text": " .quillaja-body :global(table){width:100%;table-layout:fixed;border-collapse:collapse;margin:1.5rem 0;font-size:.95rem;line-height:1.65}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 44,
+      "text": " .quillaja-body :global(th),.quillaja-body :global(td){padding:1rem;vertical-align:top;text-align:left;border:1px solid #d7e0cf;overflow-wrap:anywhere}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 45,
+      "text": " .quillaja-body :global(th){background:#eaf0e4;font-weight:650}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 46,
+      "text": " .quillaja-body :global(th:first-child){width:23%}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 47,
+      "text": " .quillaja-body :global(td:first-child){font-weight:650}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 48,
+      "text": " .quillaja-cta{display:inline-block;font-weight:650;margin:1rem 0}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 49,
+      "text": " .quillaja-references{border-top:1px solid #d7e0cf;padding-top:1.5rem;margin-top:1.5rem;font-size:.9rem;line-height:1.65}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 50,
+      "text": " .quillaja-references h3{font-size:1.1rem;font-weight:650}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 51,
+      "text": " .quillaja-references li{margin-top:.7rem;overflow-wrap:anywhere;scroll-margin-top:7rem}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 53,
+      "text": "  .quillaja-body :global(table),.quillaja-body :global(tbody),.quillaja-body :global(tr),.quillaja-body :global(td){display:block;width:100%}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 54,
+      "text": "  .quillaja-body :global(thead){position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 55,
+      "text": "  .quillaja-body :global(tbody tr){border:1px solid #d7e0cf;border-radius:.5rem;margin:1rem 0;overflow:hidden;background:white}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 56,
+      "text": "  .quillaja-body :global(td){border:0;border-top:1px solid #e3e9dd;padding:.8rem 1rem;font-weight:400}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 57,
+      "text": "  .quillaja-body :global(td:first-child){border:0;background:#eaf0e4;font-weight:650}"
+    },
+    {
+      "file": "src/components/QuillajaSelection.astro",
+      "line": 58,
+      "text": "  .quillaja-body :global(td::before){content:attr(data-label);display:block;font-size:.8rem;color:#52614a;font-weight:650;margin-bottom:.3rem}"
+    },
+    {
+      "file": "src/components/ResearchCards.astro",
+      "line": 23,
+      "text": " {!products.length && <aside class=\"rounded-xl border p-5\" data-carob-discovery><h3 class=\"text-lg font-semibold\">{zh?'角豆粉替可可：焙度、配比与质构':'Carob powder for cocoa: roast, recipe basis and texture'}</h3><p class=\"mt-3\">{zh?'区分商品定位与烘焙研究，按目标风味和配方基准选样。':'Distinguish retail positioning from baking evidence before choosing samples.'}</p><a class=\"inline-block underline text-primary mt-3\" href={getLocalizedPath('/resources/blog/carob-powder-cocoa-baking',lang)}>{zh?'阅读选型指南':'Read the selection guide'}</a></aside>}"
+    },
+    {
+      "file": "src/content/blog/en/beetroot-product-formats.md",
+      "line": 58,
+      "text": "The displayed label lists beetroot powder and fermented beetroot powder, followed by natural black cherry flavour, malic acid, magnesium ascorbate and rebaudioside A from stevia leaf. It gives a serving size of one teaspoon (5 g) and 30 servings per container.<a href=\"#beetroot-product-formats-ref-3\">[3]</a> This is a formulated product; the 5 g serving is not a declaration of 5 g of beetroot powder."
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 2,
+      "text": "title: \"Choosing Carob Powder for Cocoa Replacement: Roast Level, Recipe Basis and Cake Texture\""
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 6,
+      "text": "description: \"Compare carob roast positioning, cake recipe bases and texture evidence before replacing cocoa; distinguish pulp powder from locust bean gum.\""
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 7,
+      "text": "tags: [\"Carob\", \"Cocoa\", \"Baking\"]"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 15,
+      "text": "Start with the cocoa flavor you want to retain. Worldwide Botanicals gives its two retail powders different roles: the [medium roast](https://www.amazon.com/dp/B07JX6YCKR) is positioned for regular cocoa and milk-chocolate-style recipes, while the [dark roast](https://www.amazon.com/dp/B0F67QBGL3) is positioned for dark cocoa and dark-chocolate-style recipes. These are the seller's suggested uses, not results of an equivalence test.<a href=\"#carob-ref-6\">[6]</a><a href=\"#carob-ref-7\">[7]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 17,
+      "text": "That distinction is more useful than looking for a generic “cocoa substitute.” It helps define the first sample comparison. Deciding how much to use, whether to change wheat flour and whether the cake will become denser still requires formulation evidence. Two baking studies illustrate the central issue: **similar acceptance does not mean identical flavor, and a published percentage is not necessarily a cocoa replacement rate.**<a href=\"#carob-ref-3\">[3]</a><a href=\"#carob-ref-4\">[4]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 21,
+      "text": "<table class=\"carob-table\">"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 23,
+      "text": "<tr><th scope=\"row\"><span class=\"mobile-label\">Product and ASIN</span><span class=\"cell-value\"><a href=\"https://www.amazon.com/dp/B07JX6YCKR\">Worldwide Botanicals medium roast</a>, B07JX6YCKR</span></th><td><span class=\"mobile-label\">How the listing positions it</span><span class=\"cell-value\">Uses “regular cocoa” and recipes calling for milk chocolate as reference points.<a href=\"#carob-ref-6\">[6]</a></span></td><td><span class=\"mobile-label\">Question for a sample trial</span><span class=\"cell-value\">Do sweetness, cocoa taste and baked aroma work together in the target cake?</span></td></tr>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 24,
+      "text": "<tr><th scope=\"row\"><span class=\"mobile-label\">Product and ASIN</span><span class=\"cell-value\"><a href=\"https://www.amazon.com/dp/B0F67QBGL3\">Worldwide Botanicals dark roast</a>, B0F67QBGL3</span></th><td><span class=\"mobile-label\">How the listing positions it</span><span class=\"cell-value\">Uses “dark cocoa” and recipes calling for dark chocolate as reference points.<a href=\"#carob-ref-7\">[7]</a></span></td><td><span class=\"mobile-label\">Question for a sample trial</span><span class=\"cell-value\">Does the baked product achieve the intended color and flavor, rather than merely starting with a darker powder?</span></td></tr>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 25,
+      "text": "<tr><th scope=\"row\"><span class=\"mobile-label\">Product and ASIN</span><span class=\"cell-value\"><a href=\"https://www.amazon.com/dp/B01D2975KS\">The Australian Carob Co.</a>, B01D2975KS</span></th><td><span class=\"mobile-label\">How the listing positions it</span><span class=\"cell-value\">Titled “Raw,” under The Australian Carob Co.; product bullets are absent from the detail sample.<a href=\"#carob-ref-8\">[8]</a></span></td><td><span class=\"mobile-label\">Question for a sample trial</span><span class=\"cell-value\">If the aim is a deliberately carob-flavored product, is this worth testing alongside roasted candidates?</span></td></tr>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 28,
+      "text": "The medium and dark products belong to the same brand, making them useful examples of how a seller segments its range by target flavor. The Raw product is not that brand's third roast level. A cross-brand comparison can also introduce differences in raw material and processing, so any observed difference cannot automatically be attributed to roasting alone.<a href=\"#carob-ref-6\">[6]</a><a href=\"#carob-ref-7\">[7]</a><a href=\"#carob-ref-8\">[8]</a> The Raw detail capture also labels the item type “Video Game,” inconsistent with its title. We therefore use only its title and brand as positioning evidence, not as confirmation of processing temperature, nutrition or quality.<a href=\"#carob-ref-8\">[8]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 30,
+      "text": "A milk-chocolate-style use case does not establish that a powder can replace the milk chocolate in a recipe gram for gram. Nor do these listings define “dark cocoa” as a specified alkalization level or pH.<a href=\"#carob-ref-6\">[6]</a><a href=\"#carob-ref-7\">[7]</a> A useful sample request should therefore state whether the existing ingredient is cocoa powder or chocolate, and which flavor attributes must be retained—not simply request medium or dark roast."
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 32,
+      "text": "These pages offer positioning, not a controlled performance comparison. We do not adopt their health, low-calorie, cost-saving or “perfect replacement” claims, or infer sales from search positions and review counts. Roast choices also exist in industrial supply: [Nordmann's introduction to Carob Ingredients](https://www.nordmann.global/en/news-events/news/exquisite-carob-products-from-morocco) lists light, medium and dark roasted pulp powders for baked goods and cocoa drinks, but provides no same-recipe comparison across those roasts.<a href=\"#carob-ref-2\">[2]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 34,
+      "text": "## “30% carob” does not mean replacing 30% of the cocoa"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 36,
+      "text": "A 2020 Madeira-type cake study used commercial roasted flour from Creta Carob, not the three retail samples above. Its 100% flour basis was the combined 75 g of wheat flour, cocoa and carob flour.<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 38,
+      "text": "<table class=\"carob-table\">"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 39,
+      "text": "<thead><tr><th scope=\"col\">Study treatment</th><th scope=\"col\">Wheat flour</th><th scope=\"col\">Cocoa powder</th><th scope=\"col\">Carob pulp flour</th><th scope=\"col\">Carob share of the listed 300 g ingredient total, calculated here</th></tr></thead><tbody>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 40,
+      "text": "<tr><th scope=\"row\"><span class=\"mobile-label\">Study treatment</span><span class=\"cell-value\">Control</span></th><td><span class=\"mobile-label\">Wheat flour</span><span class=\"cell-value\">60 g</span></td><td><span class=\"mobile-label\">Cocoa powder</span><span class=\"cell-value\">15 g</span></td><td><span class=\"mobile-label\">Carob pulp flour</span><span class=\"cell-value\">0</span></td><td><span class=\"mobile-label\">Carob share of the listed 300 g ingredient total, calculated here</span><span class=\"cell-value\">0</span></td></tr>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 41,
+      "text": "<tr><th scope=\"row\"><span class=\"mobile-label\">Study treatment</span><span class=\"cell-value\">10</span></th><td><span class=\"mobile-label\">Wheat flour</span><span class=\"cell-value\">67.5 g</span></td><td><span class=\"mobile-label\">Cocoa powder</span><span class=\"cell-value\">0</span></td><td><span class=\"mobile-label\">Carob pulp flour</span><span class=\"cell-value\">7.5 g</span></td><td><span class=\"mobile-label\">Carob share of the listed 300 g ingredient total, calculated here</span><span class=\"cell-value\">2.5%</span></td></tr>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 42,
+      "text": "<tr><th scope=\"row\"><span class=\"mobile-label\">Study treatment</span><span class=\"cell-value\">30</span></th><td><span class=\"mobile-label\">Wheat flour</span><span class=\"cell-value\">52.5 g</span></td><td><span class=\"mobile-label\">Cocoa powder</span><span class=\"cell-value\">0</span></td><td><span class=\"mobile-label\">Carob pulp flour</span><span class=\"cell-value\">22.5 g</span></td><td><span class=\"mobile-label\">Carob share of the listed 300 g ingredient total, calculated here</span><span class=\"cell-value\">7.5%</span></td></tr>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 43,
+      "text": "<tr><th scope=\"row\"><span class=\"mobile-label\">Study treatment</span><span class=\"cell-value\">50</span></th><td><span class=\"mobile-label\">Wheat flour</span><span class=\"cell-value\">37.5 g</span></td><td><span class=\"mobile-label\">Cocoa powder</span><span class=\"cell-value\">0</span></td><td><span class=\"mobile-label\">Carob pulp flour</span><span class=\"cell-value\">37.5 g</span></td><td><span class=\"mobile-label\">Carob share of the listed 300 g ingredient total, calculated here</span><span class=\"cell-value\">12.5%</span></td></tr>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 44,
+      "text": "<tr><th scope=\"row\"><span class=\"mobile-label\">Study treatment</span><span class=\"cell-value\">70</span></th><td><span class=\"mobile-label\">Wheat flour</span><span class=\"cell-value\">22.5 g</span></td><td><span class=\"mobile-label\">Cocoa powder</span><span class=\"cell-value\">0</span></td><td><span class=\"mobile-label\">Carob pulp flour</span><span class=\"cell-value\">52.5 g</span></td><td><span class=\"mobile-label\">Carob share of the listed 300 g ingredient total, calculated here</span><span class=\"cell-value\">17.5%</span></td></tr>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 47,
+      "text": "Each treatment also contained 75 g margarine, 75 g sugar and 75 g egg; these weights come from the paper's Table 1.<a href=\"#carob-ref-3\">[3]</a> **Treatment 30 removed all 15 g of cocoa, added 22.5 g of carob and reduced wheat flour from 60 to 52.5 g.** Treatment 10 removed the cocoa while increasing wheat flour to 67.5 g. This was not a series that changed only the fraction of cocoa replaced.<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 49,
+      "text": "The final column is a calculation on the listed ingredient total, not the baked product's mass. The materials section mentions baking powder, but Table 1 gives no amount, so the table explains the substitution structure rather than providing a complete replication recipe. Figure 1's caption also labels the control as 15% cocoa on a flour basis, conflicting with Table 1's 15 g ÷ 75 g = 20% and the 20% stated in the text. The comparison here follows the tabulated weights.<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 53,
+      "text": "Twenty trained panelists assessed the cakes 24 hours after baking, with three samples per person and 12 assessments per treatment. The study used a 15 cm line scale. Overall acceptability averaged 10.4 for treatment 30 and 8.9 for the control, but every treatment shares the letter “a” for this attribute in Table 3. The higher mean does not establish a preference advantage.<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 55,
+      "text": "Physical properties also need to be read separately. Table 2 gives specific volume as 2.22 ± 0.12 mL/g for the control (a), 1.93 ± 0.00 for treatment 30 (abc) and 1.78 ± 0.10 for treatment 50 (bc). Treatment 30 and the control share a letter and are not significantly different; treatment 50 and the control do not, and treatment 50 has significantly lower specific volume. Failure to detect a significant difference is not evidence of equivalence.<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 57,
+      "text": "Figure 1 adds an important texture distinction. Treatment 50 had a significantly harder crumb than the control, while treatments 10 and 30 were significantly softer. Treatment 30 did not differ significantly from the control in springiness, **but its cohesiveness was already significantly lower**; this change did not begin only above 30%. Springiness and cohesiveness declined further at treatments 50 and 70.<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 59,
+      "text": "For a project aiming to retain a relatively soft cake while changing flavor, treatment 30 is a useful trial reference—not an optimum with unchanged texture. The authors also called for a standard acceptance test with 100 consumers to confirm the sensory findings.<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 63,
+      "text": "A 2018 muffin study used either 5.0% cocoa or 5.0% carob powder. Here, 5% belongs to the authors' listed whole-formula proportions, not a 75 g flour basis. The formula also contained 25.5% soybeans, 6.5% flaxseeds and 6.0% wheat flour.<a href=\"#carob-ref-4\">[4]</a> The soybeans were soaked for 12 hours, cooked for 45 minutes and blended. They should not be interpreted as 25.5% dry soy flour; the paper does not clearly state whether that proportion was weighed before or after soaking.<a href=\"#carob-ref-4\">[4]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 65,
+      "text": "In a nine-point hedonic test with 78 volunteers, carob muffins scored 7.1 and cocoa muffins 6.9, with no statistically significant difference.<a href=\"#carob-ref-4\">[4]</a> A separate descriptive assessment by ten trained panelists found the carob muffins sweeter, less bitter and weaker in cocoa taste, with stronger beany and “unknown” taste notes.<a href=\"#carob-ref-4\">[4]</a> The development opportunity is a different flavor that remains acceptable, not a promise that substitution will go unnoticed."
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 67,
+      "text": "The muffin scores should not be compared numerically with the cake scores: a nine-point hedonic scale and a 15 cm line scale were used with different participants and recipes.<a href=\"#carob-ref-3\">[3]</a><a href=\"#carob-ref-4\">[4]</a> Neither study lowered added sugar as part of its carob comparison. The muffin formula retained 19.0% white sugar, and each cake formula retained 75 g sugar. Greater perceived sweetness is not a successful sugar-reduction trial.<a href=\"#carob-ref-3\">[3]</a><a href=\"#carob-ref-4\">[4]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 71,
+      "text": "Pulp powder is the relevant candidate for changing cocoa flavor. If the task is thickening or stabilizing an aqueous system, investigate seed-endosperm-derived locust bean gum, or LBG, separately. CAROB S.A. differentiates its [PALGUM range](https://carob.es/en/product) by viscosity, particle size and color, and describes synergistic interactions with xanthan and carrageenan.<a href=\"#carob-ref-1\">[1]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 73,
+      "text": "Request the exact grade and its test conditions. EFSA's 2017 scientific opinion describes LBG as swelling in cold water and requiring heating for maximum solubility; this does not prescribe one hydration temperature and time for every commercial grade.<a href=\"#carob-ref-5\">[5]</a> The food-grade section of the public PALGUM page also does not provide a complete viscosity test protocol.<a href=\"#carob-ref-1\">[1]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 75,
+      "text": "One further distinction matters: Nordmann's [VISCOGUM CGP](https://www.nordmann.global/en/news-events/news/exquisite-carob-products-from-morocco) is a seed-derived protein flour, described commercially as containing 40–50% protein and promoted for emulsification. LBG-VISCOGUM on the same page is locust bean gum. The shared VISCOGUM name does not make them the same ingredient, and the protein range is not a test report for a purchased batch.<a href=\"#carob-ref-2\">[2]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 79,
+      "text": "Keep the existing formula as a control, then select medium roast, dark roast or a separate Raw candidate according to the desired flavor. In the first comparison, hold other conditions constant and record carob, cocoa and wheat flour in grams. Record both the powder-fraction percentage and the percentage of all weighed ingredients. Compare baked color, sweetness, cocoa taste, specific volume, softness and cohesiveness before deciding whether to change roast or inclusion level."
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 83,
+      "text": "A useful purchasing conversation can start with: “We want to reduce this cocoa powder while retaining this color and texture.” That gives a supplier more to work with than “30% carob.” Third-party products illustrate selection options; actual supply specifications, documentation and samples still require confirmation."
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 87,
+      "text": "Product-positioning comparison: eight Amazon.com search records for “carob powder,” including three detail-page samples (27 September 2026). Brand descriptions inform sample selection; no blind tasting or same-formula product comparison was performed.<a href=\"#carob-ref-9\">[9]</a>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 91,
+      "text": "<p id=\"carob-ref-1\">[1] <a href=\"https://carob.es/en/product\">gum</a></p>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 93,
+      "text": "<p id=\"carob-ref-2\">[2] <a href=\"https://www.nordmann.global/en/news-events/news/exquisite-carob-products-from-morocco\">commerce</a></p>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 95,
+      "text": "<p id=\"carob-ref-3\">[3] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7692711/fullTextXML\">cake</a></p>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 97,
+      "text": "<p id=\"carob-ref-4\">[4] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6096888/fullTextXML\">muffin</a></p>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 99,
+      "text": "<p id=\"carob-ref-5\">[5] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7010100/fullTextXML\">efsa</a></p>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 101,
+      "text": "<p id=\"carob-ref-6\">[6] <a href=\"https://www.amazon.com/dp/B07JX6YCKR\">Worldwide Botanicals medium roast listing</a></p>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 103,
+      "text": "<p id=\"carob-ref-7\">[7] <a href=\"https://www.amazon.com/dp/B0F67QBGL3\">Worldwide Botanicals dark roast listing</a></p>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 105,
+      "text": "<p id=\"carob-ref-8\">[8] <a href=\"https://www.amazon.com/AUSTRALIAN-RAW-ORGANIC-CAROB-POWDER/dp/B01D2975KS\">The Australian Carob Co. Raw product detail, 27 September 2026</a></p>"
+    },
+    {
+      "file": "src/content/blog/en/carob-powder-cocoa-baking.md",
+      "line": 107,
+      "text": "<p id=\"carob-ref-9\">[9] <a href=\"https://www.amazon.com/s?k=carob+powder\">Amazon US carob powder search, 27 September 2026</a></p>"
+    },
+    {
+      "file": "src/content/blog/en/citrus-pectin-gel-selection.md",
+      "line": 37,
+      "text": "<tr><th scope=\"row\"><span class=\"mobile-label\">Named grade</span><span class=\"cell-value\">Classic CM 203</span></th><td><span class=\"mobile-label\">DE / DA</span><span class=\"cell-value\">&gt;68% / —</span></td><td><span class=\"mobile-label\">Supplier-described function or calcium reactivity</span><span class=\"cell-value\">HM protective colloid</span></td><td><span class=\"mobile-label\">Listed application conditions</span><span class=\"cell-value\">Low-viscosity fermented milk drinks; pH 3.6–4.2</span></td></tr>"
+    },
+    {
+      "file": "src/content/blog/en/citrus-pectin-gel-selection.md",
+      "line": 73,
+      "text": "H&F lists Classic CM 203 as a protective colloid for low-viscosity fermented milk drinks, alongside other grades intended for gels and yoghurt texture.<a href=\"#citrus-pectin-gel-selection-ref-11\">[11]</a> That application distinction matters when a low-sugar drink needs to remain thin."
+    },
+    {
+      "file": "src/content/blog/en/flax-cyanogenic-material-selection.md",
+      "line": 65,
+      "text": "## Fermented flaxseed: read the detection limit before “complete removal”"
+    },
+    {
+      "file": "src/content/blog/en/flax-cyanogenic-material-selection.md",
+      "line": 67,
+      "text": "A 2026 kimchi study used flaxseed processed with a defined Lactobacillaceae consortium, followed by degumming and drying, before incorporation into kimchi.<a href=\"#flax-ref-2\">[2]</a> It therefore does not show that simply adding raw flaxseed to a fermented food will achieve the same result."
+    },
+    {
+      "file": "src/content/blog/en/flax-cyanogenic-material-selection.md",
+      "line": 71,
+      "text": "Other details limit direct transfer: the work describes a 1 kg flaxseed batch and calls for further industrial-scale validation; its abstract says eight weeks of kimchi fermentation, while methods and results describe six weeks.<a href=\"#flax-ref-2\">[2]</a> The addition levels of 0.5%, 1.0% and 2.0% refer to the seasoning mixture, not the weight of the entire kimchi product.<a href=\"#flax-ref-2\">[2]</a> These findings support further process investigation, not a ready-made inclusion recommendation."
+    },
+    {
+      "file": "src/content/blog/en/flax-cyanogenic-material-selection.md",
+      "line": 83,
+      "text": "For an extruded meal intended for a cereal or bakery development project, evaluate residual cyanogenic content alongside the meal's oil, flavour and storage behaviour. For a lignan-rich extract, keep the marker assay and cyanogenic assay separate, and confirm whether the quoted concentration belongs to the starting meal, the dried extract or the supplied blend. For a fermented material, establish the complete process history and the meaning of every “ND” result before comparing it with a heat-treated grade."
+    },
+    {
+      "file": "src/content/blog/en/flax-cyanogenic-material-selection.md",
+      "line": 95,
+      "text": "<p id=\"flax-ref-2\">[2] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12939840/fullTextXML\">Fermented flaxseed in kimchi: analytical limits and process scope</a></p>"
+    },
+    {
+      "file": "src/content/blog/en/hops-alcohol-free-beer-selection.md",
+      "line": 34,
+      "text": "The recommended addition is on the cold side, typically before filtration. For addition before or during filtration, the supplier gives examples of up to 3 mL/hL for bottom-fermented beers and up to 6 mL/hL for top-fermented beers. These refer to the supplied product, not undiluted hop oil: they equal up to 0.03 and 0.06 mL/L respectively. The sheet proposes small additions to bottled beer with a microliter syringe to help establish a suitable amount.<a href=\"#hops-ref-5\">[5]</a>"
+    },
+    {
+      "file": "src/content/blog/en/hops-alcohol-free-beer-selection.md",
+      "line": 52,
+      "text": "Iso-Extract is an aqueous solution of potassium salts of iso-alpha acids, specified at 30.0 ± 2.0% by mass by HPLC. It is intended for post-fermentation bitterness adjustment. Its sheet warns against prediluting the full-strength concentrate with beer because the lower pH causes precipitation, while recommending dosing into the beer stream where vigorous mixing is assured.<a href=\"#hops-ref-7\">[7]</a>"
+    },
+    {
+      "file": "src/content/blog/en/schisandra-beverage-materials.md",
+      "line": 57,
+      "text": "The paper calls the process “fermentation,” while also discussing high-sugar osmotic conditions as inhibiting microbial growth.<a href=\"#schisandra-ref-2\">[2]</a> Its measurements establish a time-dependent composition in this particular fruit–sugar preparation, not a selected-microorganism mechanism or probiotic effect. The liquid-sample values also have a different mass basis from the dry seed and pulp results above."
+    },
+    {
+      "file": "src/content/blog/en/uk-sdil-milk-tea-2028.md",
+      "line": 44,
+      "text": "For the milk exemption, HMRC includes animal milk, reconstituted or recombined milk, fermented milk, buttermilk and specified whey forms; cream is not included in its definition of milk.<a href=\"#sdil-ref-4\">[4]</a> A formulation record should consequently distinguish actual qualifying milk from cream, creamer and the overall quantity of dairy-derived ingredients. “Contains dairy” is not a substitute for that record."
+    },
+    {
+      "file": "src/content/blog/en/uk-sdil-milk-tea-2028.md",
+      "line": 90,
+      "text": "The 2028 draft also contains a specific drinking-yoghurt exclusion: at least 90ml fermented milk per 100ml prepared drink, with no other liquids added for the purpose of making it more drinkable.<a href=\"#sdil-ref-7\">[7]</a> Adding yoghurt to a tea drink is not enough to establish that exclusion. Products close to this boundary need the actual formulation and process reviewed against the final text."
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 15,
+      "text": "选角豆粉，先说清楚想保留哪一种可可风味。Worldwide Botanicals的两款商品就做了不同定位：[中焙](https://www.amazon.com/dp/B07JX6YCKR)对应普通可可、牛奶巧克力风味的配方，[深焙](https://www.amazon.com/dp/B0F67QBGL3)对应深色可可、黑巧克力风味的配方。这是卖家的选用建议，不是两款粉已经通过了等效替代测试。<a href=\"#carob-ref-6\">[6]</a><a href=\"#carob-ref-7\">[7]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 17,
+      "text": "这一分法比笼统地寻找“可可替代品”更有用。它让第一轮选样有了方向；但要确定加多少、是否调整小麦粉、成品会不会变紧实，还得回到具体配方。两项烘焙研究恰好说明：**接受度相近，不等于味道相同；论文里的百分比，也不一定是可可替换率。**<a href=\"#carob-ref-3\">[3]</a><a href=\"#carob-ref-4\">[4]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 21,
+      "text": "<table class=\"carob-table\">"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 23,
+      "text": "<tr><th scope=\"row\"><span class=\"mobile-label\">商品及ASIN</span><span class=\"cell-value\"><a href=\"https://www.amazon.com/dp/B07JX6YCKR\">Worldwide Botanicals中焙</a>，B07JX6YCKR</span></th><td><span class=\"mobile-label\">页面如何定位</span><span class=\"cell-value\">以“regular cocoa”和需要牛奶巧克力风味的配方作为参照。<a href=\"#carob-ref-6\">[6]</a></span></td><td><span class=\"mobile-label\">选样时值得验证什么</span><span class=\"cell-value\">在目标蛋糕中，甜味、可可味及烘烤香气是否协调？</span></td></tr>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 24,
+      "text": "<tr><th scope=\"row\"><span class=\"mobile-label\">商品及ASIN</span><span class=\"cell-value\"><a href=\"https://www.amazon.com/dp/B0F67QBGL3\">Worldwide Botanicals深焙</a>，B0F67QBGL3</span></th><td><span class=\"mobile-label\">页面如何定位</span><span class=\"cell-value\">以“dark cocoa”和需要黑巧克力风味的配方作为参照。<a href=\"#carob-ref-7\">[7]</a></span></td><td><span class=\"mobile-label\">选样时值得验证什么</span><span class=\"cell-value\">成品是否达到所需深色和风味，而不只是原粉看起来更深？</span></td></tr>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 25,
+      "text": "<tr><th scope=\"row\"><span class=\"mobile-label\">商品及ASIN</span><span class=\"cell-value\"><a href=\"https://www.amazon.com/dp/B01D2975KS\">The Australian Carob Co.</a>，B01D2975KS</span></th><td><span class=\"mobile-label\">页面如何定位</span><span class=\"cell-value\">标题以“Raw”定位，品牌为The Australian Carob Co.；详情采样不含商品要点。<a href=\"#carob-ref-8\">[8]</a></span></td><td><span class=\"mobile-label\">选样时值得验证什么</span><span class=\"cell-value\">如果项目本来就要开发角豆自身的风味，是否值得与焙烤款并列试样？</span></td></tr>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 28,
+      "text": "中焙和深焙属于同一品牌，适合用来理解卖家怎样按目标风味区分产品；Raw款则不能当作这个品牌的“第三档焙度”。跨品牌比较还会混入原料和加工差异，不能把所有差别都归因于是否焙烤。<a href=\"#carob-ref-6\">[6]</a><a href=\"#carob-ref-7\">[7]</a><a href=\"#carob-ref-8\">[8]</a> Raw款的详情采样中，商品类型为“Video Game”，与标题不相符；因此这里只采用标题及品牌作定位观察，不据此确认加工温度、营养或品质。<a href=\"#carob-ref-8\">[8]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 30,
+      "text": "更重要的是，“牛奶巧克力风味场景”不等于能按重量直接替掉配方中的牛奶巧克力；“dark cocoa”也没有在这些页面中被定义为某个碱化度或pH规格。<a href=\"#carob-ref-6\">[6]</a><a href=\"#carob-ref-7\">[7]</a> 因此，选样单应写明原配方用的是可可粉还是巧克力，以及需要保留的风味，而不要只写“用中焙”或“用深焙”。"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 32,
+      "text": "这三款页面给出了产品定位，却没有构成同配方的性能对照。我们的比较不采用其中的健康、低热量、节省成本或“完美替代”宣称，也不从搜索位置和评论数推算销量。工业原料端同样有焙度选择：[Nordmann介绍的Carob Ingredients果肉粉](https://www.nordmann.global/en/news-events/news/exquisite-carob-products-from-morocco)分浅、中、深焙，列出的应用包括烘焙食品和可可类饮品；其页面没有给出三种焙度的同配方对比结果。<a href=\"#carob-ref-2\">[2]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 36,
+      "text": "2020年的Madeira型蛋糕研究使用Creta Carob的商业焙烤角豆粉，而不是上面三款零售样品。研究把小麦粉、可可粉和角豆粉合计的75克作为100%粉体基准。<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 38,
+      "text": "<table class=\"carob-table\">"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 47,
+      "text": "各组另有75克人造黄油、75克糖和75克蛋，以上克数来自原论文表1。<a href=\"#carob-ref-3\">[3]</a> **30组已经完全去掉15克可可粉，加入22.5克角豆粉，并把小麦粉从60克减到52.5克。** 10组则在去掉可可的同时，把小麦粉增加到67.5克；这不是一系列只改变可可替换率的实验。<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 49,
+      "text": "表中最右列只对列明的配料总量做换算，不是烘焙后成品的质量分数。论文材料部分列有泡打粉，但表1未给出其用量，因此这张表适合解释配比，不能作为完整复刻配方。图1图注把对照的可可用量写成粉体基准的15%，也与表1的15克÷75克＝20%及正文20%不一致；这里采用表1克数。<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 53,
+      "text": "蛋糕感官试验由20名受训评价员完成，每人评3个样品，每组得到12次评价，测试在烘焙24小时后进行。研究使用15厘米线性量表：30组总体接受度均值10.4，对照8.9，但表3所有组别该指标的显著性字母均为a，不能据此说30组更受欢迎。<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 55,
+      "text": "物性结果也需要分项读。表2中，对照比容为2.22±0.12 mL/g（a），30组为1.93±0.00（abc），50组为1.78±0.10（bc）。30组和对照共享字母，未显示显著差异；50组和对照不共享字母，比容显著较低。未检出显著差异并不证明两者等效。<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 57,
+      "text": "图1给出的质构信息更细：50组蛋糕芯比对照显著更硬，10组和30组则显著更软；30组的弹性与对照未显示显著差异，**但内聚性已经显著低于对照**，并非要到超过30%时才发生变化。50组、70组的弹性和内聚性进一步降低。<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 59,
+      "text": "因此，若目标是在改变风味的同时保留较柔软的蛋糕，30组可以作为配方试验的参考点，而不是“质构不变”的最佳用量。原作者也提出，应再做100名消费者的标准接受度测试来确认感官结果。<a href=\"#carob-ref-3\">[3]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 63,
+      "text": "2018年的玛芬研究分别使用5.0%可可粉或角豆粉。这里的5%属于作者列出的整个配方比例，不是75克粉体基准；配方还含25.5%大豆、6.5%亚麻籽和6.0%小麦粉。<a href=\"#carob-ref-4\">[4]</a> 大豆先浸泡12小时、煮45分钟再打碎，不能把它直接理解成25.5%的干大豆粉；论文没有清楚说明这一比例在浸泡前还是浸泡后称量。<a href=\"#carob-ref-4\">[4]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 65,
+      "text": "78名志愿者在九分喜好量表上给角豆玛芬7.1分、可可玛芬6.9分，两者无统计显著差异。<a href=\"#carob-ref-4\">[4]</a> 另由10名受训评价员进行的描述性评价显示，角豆样品更甜、苦味和可可味较弱，豆味及未明确命名的味道（原文“unknown”）更明显。<a href=\"#carob-ref-4\">[4]</a> 这说明开发可以以“不同但仍受欢迎”为目标，而不必承诺消费者尝不出替换。"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 67,
+      "text": "这项玛芬研究与前面的蛋糕研究也不能互比分数：一个是九分喜好量表，一个是15厘米线性量表，评价人群和配方都不同。<a href=\"#carob-ref-3\">[3]</a><a href=\"#carob-ref-4\">[4]</a> 两项研究的外加糖都没有随角豆用量降低——玛芬白糖为19.0%，蛋糕各组糖均为75克；甜味变化并不是减糖成功的证据。<a href=\"#carob-ref-3\">[3]</a><a href=\"#carob-ref-4\">[4]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 71,
+      "text": "如果采购目的是改变可可风味，考察的是果肉粉；如果目标是增稠或稳定含水体系，才需要单独考察种子胚乳来源的角豆胶（locust bean gum，LBG）。CAROB S.A.的[PALGUM系列](https://carob.es/en/product)按黏度、粒径和颜色区分等级，厂家还介绍了与黄原胶、卡拉胶复配的协同作用。<a href=\"#carob-ref-1\">[1]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 73,
+      "text": "询样时应要求完整牌号和测试条件。EFSA的2017年科学意见描述，LBG在冷水中膨胀，达到最大溶解程度需要加热；这并没有规定所有商业牌号统一的水化温度和时间。<a href=\"#carob-ref-5\">[5]</a> PALGUM公开页也未在食品级部分给出完整的黏度测试方法及条件。<a href=\"#carob-ref-1\">[1]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 75,
+      "text": "另外，Nordmann的[VISCOGUM CGP](https://www.nordmann.global/en/news-events/news/exquisite-carob-products-from-morocco)是种子蛋白粉，商业页面标示蛋白含量40–50%并推广乳化用途；同页的LBG-VISCOGUM则是角豆胶。不能仅凭VISCOGUM这个名称把两者当成同一种原料，40–50%也不是所购批次的实测报告。<a href=\"#carob-ref-2\">[2]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 87,
+      "text": "商品定位比较：Amazon.com“carob powder”搜索样本共8条记录，其中3款有详情采样（2026年9月27日）。下述品牌描述仅作选样参考，未进行实物盲测或同配方对照。<a href=\"#carob-ref-9\">[9]</a>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 91,
+      "text": "<p id=\"carob-ref-1\">[1] <a href=\"https://carob.es/en/product\">gum</a></p>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 93,
+      "text": "<p id=\"carob-ref-2\">[2] <a href=\"https://www.nordmann.global/en/news-events/news/exquisite-carob-products-from-morocco\">commerce</a></p>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 95,
+      "text": "<p id=\"carob-ref-3\">[3] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7692711/fullTextXML\">cake</a></p>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 97,
+      "text": "<p id=\"carob-ref-4\">[4] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6096888/fullTextXML\">muffin</a></p>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 99,
+      "text": "<p id=\"carob-ref-5\">[5] <a href=\"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7010100/fullTextXML\">efsa</a></p>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 101,
+      "text": "<p id=\"carob-ref-6\">[6] <a href=\"https://www.amazon.com/dp/B07JX6YCKR\">Worldwide Botanicals medium roast listing</a></p>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 103,
+      "text": "<p id=\"carob-ref-7\">[7] <a href=\"https://www.amazon.com/dp/B0F67QBGL3\">Worldwide Botanicals dark roast listing</a></p>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 105,
+      "text": "<p id=\"carob-ref-8\">[8] <a href=\"https://www.amazon.com/AUSTRALIAN-RAW-ORGANIC-CAROB-POWDER/dp/B01D2975KS\">The Australian Carob Co. Raw product detail, 27 September 2026</a></p>"
+    },
+    {
+      "file": "src/content/blog/zh/carob-powder-cocoa-baking.md",
+      "line": 107,
+      "text": "<p id=\"carob-ref-9\">[9] <a href=\"https://www.amazon.com/s?k=carob+powder\">Amazon US carob powder search, 27 September 2026</a></p>"
+    },
+    {
+      "file": "src/content/products/en/stevia.md",
+      "line": 14,
+      "text": "Steviol glycosides associated with *Stevia rebaudiana* need a defined composition. Leaf-extracted, converted and fermentation-derived materials may need different identity and regulatory documentation."
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "line": 1112,
+      "text": "              \"text\": \"**Yoghurt, protein drinks and plant-based products.** Use actual protein, fat and fermentation acidity; compare addition before/after fermentation, before/after heating and different dissolution sequences. Assess composition, sensory response and physical stability together: no sediment does not prove an unchanged sweetness profile, and retained mogroside V does not prove unchanged colour or flavour. When reducing sucrose also reduces solids, adjust viscosity and mouthfeel separately rather than increasing high-intensity sweetener to solve thinness.\""
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "line": 3147,
+      "text": "              \"text\": \"A grape-seed dossier should follow seed-derived polyphenols and proanthocyanidin profiles, not mix in seed-oil lipid specifications, skin pigment narratives or evidence for isolated resveratrol. An original clinical-supply quality study characterized grape-seed-extract capsules, resveratrol capsules and Concord grape juice separately, developing different analytical procedures.[34] A purchasing identity should specify species, part, fermentation history, whether oil was removed, defatting method, solvent and carrier. Oil and polyphenol recovery are distinct separation objectives and require separate mass balances.\""
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "line": 3878,
+      "text": "        \"title\": \"Bioactive Components of Lycium barbarum and Deep-Processing Fermentation Products - PMC\","
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "line": 4609,
+      "text": "              \"text\": \"Total steviol glycosides describe refinement; individual Reb A/D/M proportions describe composition; manufacturing route describes the origin and transformation of the material. These should remain separate specifications.[7][8] FSANZ A1268 summarizes the JECFA framework as leaf extraction, microbial fermentation, enzyme conversion of major to minor glycosides, and additional enzyme-catalyzed glucosylation.[8]\""
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "line": 4633,
+      "text": "                  \"Fermentation\","
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "line": 4635,
+      "text": "                  \"Seed/fermentation, cell removal, protein removal and purification\","
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "line": 4648,
+      "text": "              \"text\": \"Producing an enzyme by fermentation does not mean that the resulting glycoside was made by direct fermentation from sugar. Drying cannot chemically convert Reb A into Reb M; selective crystallization, mother-liquor recovery and blending can change proportions without bioconversion.[7][8]\""
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "line": 4664,
+      "text": "              \"text\": \"Avansya’s 2020 A1222 application describes Yarrowia lipolytica fermentation of simple sugars, followed by heat treatment, centrifugation/microfiltration/clarification, optional ultrafiltration, resin adsorption, ion exchange, decolorization, crystallization and mother-liquor recovery.[7] Section B.5.3 gives fermentation pH 4.5–6.5 and subsequent heat treatment of 75–95°C for 5 minutes to 1 hour. These are applicant-specific commercial process ranges; the public passage provides no corresponding vessel or batch size and is not a universal fermentation or kill-step standard.[7]\""
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "line": 4767,
+      "text": "              \"text\": \"These are proposed tests, not completed formulation results. Procurement should compare cost at an accepted sensory and processing outcome. A switch among extraction, conversion and fermentation should trigger a comparison of full profile, residuals, dissolution and label evidence, even when the major glycoside name is unchanged.\""
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "line": 4803,
+      "text": "              \"text\": \"Enzymatic and fermentation research changes access to minor glycosides. The 2021 biosynthesis review and the two FSANZ document sets provide complementary scientific and process contexts.[37][8][7] Titer, productivity, conversion, target proportion and downstream recovery must be considered together: richer target composition may simplify crystallization, while cell/protein/medium removal creates additional load.\""
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "line": 4836,
+      "text": "                  \"Calling fermentation direct leaf extraction or universally bitterness-free\""
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "line": 4842,
+      "text": "              \"text\": \"Evidence limits: the 2025 leaf paper was available at abstract level; its yield percentages were not used. Fermentation conditions come from a full applicant dossier without public vessel size. Broad health language in the 2024 review was not adopted. No company capacity, universal optimum or therapeutic/glucose-management claim is made.\""
+    },
+    {
+      "file": "src/data/deep-ingredients.json",
+      "line": 5425,
+      "text": "              \"text\": \"Evidence limits: the knotweed full text was recovered from Europe PMC XML; EFSA’s full opinion came from a BfR-hosted PDF. The 2015 stability paper was available only as an abstract, so no complete curves or general shelf life are given. The full 2022 annex/current consolidated Union list was not recovered. Grape-source and fermentation-engineering parameters remain insufficient and were not invented.\""
+    },
+    {
+      "file": "src/data/extract-sales.ts",
+      "line": 1190,
+      "text": "      \"en\": \"Leaf extraction, fermentation and enzyme conversion require distinct identity and regulatory records. Crude stevia leaf is not equivalent to a refined sweetener ingredient.\","
+    },
+    {
+      "file": "src/data/extract-sales.ts",
+      "line": 1220,
+      "text": "        \"en\": \"Stevia documentation support matches leaf-extraction, fermentation or conversion records to the selected grade and market.\","
+    },
+    {
+      "file": "src/data/extract-sales.ts",
+      "line": 1230,
+      "text": "        \"en\": \"Leaf extraction, fermentation and enzyme conversion use different processing and purification steps.\","
+    },
+    {
+      "file": "src/data/ingredient-knowledge.json",
+      "line": 800,
+      "text": "          \"en\": \"The 2024 steviol-glycoside review covers extraction and purification technologies but its abstract does not establish equipment settings. First distinguish leaf extraction from fermentation-based or modified-glycoside production. For a leaf-derived brief, ask how solids separation and a proposed purification system change the individual glycoside profile, and request solvent recovery and drying-carrier information. Do not specify an extraction tank for a fermentation route or assume a dryer changes Reb A into Reb M. Compare pilot samples in the intended sweetener blend before accepting an equipment proposal.\","
+    },
+    {
+      "file": "src/data/ingredient-knowledge.json",
+      "line": 827,
+      "text": "          \"en\": \"FDA distinguishes certain high-purity steviol glycosides covered by GRAS notices from stevia leaf and crude extracts, which are not permitted as sweeteners in the US. Match the individual glycosides, production route and intended use to the relevant record; do not transfer a leaf-extract notice to every fermentation or modified grade. For EU or China projects request a separate additive/category and specification review. A supplier’s assay percentage is not evidence that the finished blend meets local labeling and use conditions.\","
+    },
+    {
+      "file": "src/data/ingredient-overviews.json",
+      "line": 71,
+      "text": "      \"en\": \"Sweetness-system development for drinks, fermented foods and reduced-sugar foods.\","
+    },
+    {
+      "file": "src/data/ingredient-overviews.json",
+      "line": 199,
+      "text": "      \"en\": \"Vitis seeds, with species, fermentation history and defatting recorded. Grape skins, grape-seed oil and resveratrol are not grape-seed polyphenol extract.\","
+    },
+    {
+      "file": "src/data/ingredient-overviews.json",
+      "line": 283,
+      "text": "      \"en\": \"Stevia rebaudiana leaves are the botanical input for leaf extraction. Fermentation-derived and enzyme-converted glycosides have different starting materials and cannot simply be described as leaf extracts.\","
+    },
+    {
+      "file": "src/data/ingredient-overviews.json",
+      "line": 299,
+      "text": "      \"en\": \"Leaf extraction recovers existing glycosides; selective crystallization changes proportions. A minor-glycoside target may instead involve enzyme conversion or fermentation with distinct residual and regulatory checks. Sugar replacement also needs solids/texture design.\","
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 1275,
+      "text": "              \"text\": \"Sweetness-system development for drinks, fermented foods and reduced-sugar foods.\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 1663,
+      "text": "              \"text\": \"Develop and heat-treat the dairy base with its texture ingredients before fermentation. For a stirred product, evaluate a hygienically prepared sweetener/flavour premix added after fermentation alongside a pre-fermentation route. Keep acidification and culture performance under observation rather than assuming removing sucrose leaves fermentation unchanged.\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 1953,
+      "text": "              \"text\": \"The black-ginseng patent below combines steaming, coating, further treatment, extraction, enzymes and yeast fermentation. It is one disclosed route, not a definition of all black ginseng and not a recommendation to add each operation to an existing factory. Fermentation and enzyme steps require their own endpoint, hygiene and composition controls.[2]\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 2058,
+      "text": "              \"text\": \"Published claim 1 combines first steaming, application of an edible coating, second steaming with ultraviolet treatment, hot-water extraction, alpha-amylase and cellulase treatment, and Saccharomyces cerevisiae fermentation. The translated claims name dependent coating options. This is a combined processing claim, not simply repeated steaming.[2]\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 2632,
+      "text": "                  \"A separate raw-material and fermentation specification\","
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 3307,
+      "text": "              \"text\": \"Proposed order: disperse extract in a milk side-stream, combine with the standardized milk base, and compare addition before the validated heat treatment with a separately decontaminated aseptic addition route if heating damages performance. Cool to the starter supplier’s inoculation condition, add cultures, ferment to a defined endpoint, cool promptly, then package under hygienic control. Do not add untreated botanical powder after the kill step merely to follow a laboratory recipe. The cited study heated milk at 85°C for five minutes, cooled to 45°C and added reishi before fermentation; this is a study condition, not a universal factory schedule.[31]\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 6058,
+      "text": "              \"text\": \"Stevia rebaudiana leaf extract starts with the leaves of the stevia plant, but the name alone does not state how far the material has been refined. Crude leaf extracts, purified steviol glycosides and formulated tabletop sweeteners are different ingredients. Stevioside and rebaudiosides A, D and M are individual glycosides; both their proportions and total glycoside content help define a sweetener. Fermentation and enzyme conversion are separate production routes.[1][2][5]\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 6128,
+      "text": "              \"text\": \"FSANZ A1268 describes four manufacturing approaches: extraction from leaves, microbial fermentation, enzymatic conversion of major to minor glycosides, and enzyme-catalysed glucosylation that adds further glucose units.[2] Leaf extraction recovers glycosides already in the plant; purification removes co-extractives. Targeted conversion starts with an existing glycoside substrate and changes its sugar substitution. Direct fermentation makes glycosides from simple carbon feed through a production organism. Extended glucosylation produces a distribution that must not automatically be labelled pure Reb M.[1][2]\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 6132,
+      "text": "              \"text\": \"An enzyme manufactured by fermentation can be used later to convert leaf-derived glycosides. That does not make the final glycoside a product of direct fermentation from sugar. A1268 concerns three enzymes from GM E. coli K-12 for bioconversion; FSANZ approved the draft variation on 25 October 2023 and issued the approval report on 3 November 2023.[2] Keep production-enzyme identity, substrate identity and final glycoside identity in separate records.\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 6136,
+      "text": "              \"text\": \"Avansya’s application dated 18 December 2020 describes Reb MD made with Yarrowia lipolytica, including fermentation followed by heat treatment, cell separation, optional ultrafiltration, resin adsorption, ion exchange, decolorization and crystallization.[1] This is an applicant manufacturing dossier, not independent confirmation of every factory performance claim and not proof that filing an application equals approval. Proposed process development should balance feed, intermediate glycosides, isolated product and losses; a high conversion result is incomplete without downstream recovery.\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 6144,
+      "text": "              \"text\": \"For a proposed leaf line, use extraction vessels and solid-liquid separation before purification. For a fermentation line, qualify the seed/fermentation vessels and cell-removal train; for conversion, qualify the reaction vessel and enzyme removal against actual substrates and protein burden. These are engineering recommendations derived from the distinct manufacturing routes, not one universal equipment list.[1][2] Record resin breakthrough, elution cuts, color, conductivity and glycoside mass. During crystallization, assay crystals and mother liquor separately and trend the effect of recycle.\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 6166,
+      "text": "              \"text\": \"A route change calls for renewed comparison of profile, residues, dissolution and labeling evidence. Residual solvents should follow the actual purification history; absence of smell is not an analytical result. For enzyme or fermentation ingredients, obtain production-organism and residual protein/DNA control evidence appropriate to the assessed route.[1][2] FDA’s alert is specific to its US regulatory context and distinguishes dietary supplements from conventional foods.[5] A full current China/EU food-category and route-permission crosswalk was not completed; confirm it before launch.\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 6180,
+      "text": "              \"text\": \"Does fermentation mean live engineered organisms are added to the drink? The manufacturing route and final purified material are separate. A1222 describes organism removal and downstream purification, while A1268 assesses enzyme processing aids for conversion.[1][2] Ask for final-product controls rather than inferring either presence or absence of residues from the word fermentation.\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 6198,
+      "text": "              \"text\": \"Enzymatic and fermentation research changes access to minor glycosides. The 2021 biosynthesis review and the two FSANZ document sets provide complementary scientific and process contexts.[37][8][7] Titer, productivity, conversion, target proportion and downstream recovery must be considered together: richer target composition may simplify crystallization, while cell/protein/medium removal creates additional load.\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 6231,
+      "text": "                  \"Calling fermentation direct leaf extraction or universally bitterness-free\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 6237,
+      "text": "              \"text\": \"Evidence limits: the 2025 leaf paper was available at abstract level; its yield percentages were not used. Fermentation conditions come from a full applicant dossier without public vessel size. Broad health language in the 2024 review was not adopted. No company capacity, universal optimum or therapeutic/glucose-management claim is made.\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 6272,
+      "text": "              \"text\": \"Granted claims 1 and 2 start with Reb A and/or stevioside, use respectively recombinant microorganisms or their enzyme preparation expressing Oryza sativa EUGT11 and Stevia rebaudiana UGT76G1, and purify Reb D and/or Reb M. They require the specified E. coli or Pichia pastoris hosts and gene modifications: pgm/glgC/agp knockouts and, for E. coli, ushA replacement with a T5 operon containing Basp and ugpA. Claims 3/4 add sucrose and trisodium citrate. This is not every enzyme route and not de novo fermentation from sugar alone.[9]\""
+    },
+    {
+      "file": "src/data/ingredient-reader-packs.json",
+      "line": 8474,
+      "text": "        \"title\": \"Bioactive components and deep-processing fermentation products (review)\","
+    },
+    {
+      "file": "src/data/market-v4.json",
+      "line": 123,
+      "text": "          \"material_claim\": \"mycelium_and_fermented_substrate_claim\","
+    },
+    {
+      "file": "src/data/market-v4.json",
+      "line": 134,
+      "text": "            \"en\": \"Mycelium and fermented substrate stated\""
+    },
+    {
+      "file": "src/data/market-v4.json",
+      "line": 221,
+      "text": "          \"material_claim\": \"mycelium_and_fermented_substrate_claim\","
+    },
+    {
+      "file": "src/data/market-v4.json",
+      "line": 232,
+      "text": "            \"en\": \"Mycelium and fermented substrate stated\""
+    },
+    {
+      "file": "src/data/market-v4.json",
+      "line": 517,
+      "text": "      \"mycelium_and_fermented_substrate_claim\": {"
+    },
+    {
+      "file": "src/data/market-v4.json",
+      "line": 519,
+      "text": "        \"en\": \"Mycelium and fermented substrate stated\""
+    },
+    {
+      "file": "src/data/market-v4.json",
+      "line": 595,
+      "text": "      \"material\": \"mycelium_and_fermented_substrate_claim\","
+    },
+    {
+      "file": "src/data/market-v4.json",
+      "line": 651,
+      "text": "      \"material\": \"mycelium_and_fermented_substrate_claim\","
+    },
+    {
+      "file": "src/data/plant-extracts.json",
+      "line": 2092,
+      "text": "          \"description\": \"Vitis seeds, with species, fermentation history and defatting recorded. Grape skins, grape-seed oil and resveratrol are not grape-seed polyphenol extract.\","
+    },
+    {
+      "file": "src/data/science-profiles.json",
+      "line": 303,
+      "text": "      \"en\": \"Vitis seeds, with species, fermentation history and defatting recorded. Grape skins, grape-seed oil and resveratrol are not grape-seed polyphenol extract.\","
+    },
+    {
+      "file": "src/data/science-profiles.json",
+      "line": 342,
+      "text": "      \"en\": \"Stevia rebaudiana leaves are the botanical input for leaf extraction. Fermentation-derived and enzyme-converted glycosides have different starting materials and cannot simply be described as leaf extracts.\","
+    },
+    {
+      "file": "src/data/stevia-route-comparison/en.md",
+      "line": 3,
+      "text": "When replacing leaf-extracted steviol glycosides with enzymatically produced Reb M or a fermentation-derived ingredient, price and “≥95% total glycosides” are not enough. Different EU entries anchor their assays to eleven glycosides together, Reb M alone, Reb D plus Reb A, or a total that includes glucosylated derivatives. The same percentage does not necessarily measure the same substances.<a href=\"#i07-route-ref-1\">[1]</a>"
+    },
+    {
+      "file": "src/data/stevia-route-comparison/en.md",
+      "line": 18,
+      "text": "| Fermentation, E 960b(i) | A simple sugar source fermented by *Yarrowia lipolytica* VRM (CBS 147477), followed by purification | At least 95% Reb M, D, A and B together on the dried basis—not at least 95% Reb M alone.<a href=\"#i07-route-ref-1\">[1]</a><a href=\"#i07-route-ref-4\">[4]</a> |"
+    },
+    {
+      "file": "src/data/stevia-route-comparison/en.md",
+      "line": 27,
+      "text": "**An enzyme made by fermentation does not make the final glycoside a sugar-fermentation product.** The E 960c definitions above start from leaf-derived glycosides, whereas E 960b(i) starts with fermentation of a simple sugar source. Follow the complete substrate-to-product process, rather than the phrase “fermentation technology”.<a href=\"#i07-route-ref-1\">[1]</a>"
+    },
+    {
+      "file": "src/data/stevia-route-comparison/en.md",
+      "line": 60,
+      "text": "The supplementary-specification section of the 2025 issue 11 gazette gives an enzymatic-route organism table using *E. coli* K-12 and refers the other quality specifications for that item to Announcement 2024 No. 2. It separately describes fermentation-derived material, including glucose as substrate, an inactivation step and total steviol glycosides at ≥95.0% on the dried basis.<a href=\"#i07-route-ref-9\">[9]</a> Request the announcement, organism and donor information corresponding to the supplier’s actual process; do not treat organism tables from different announcements as interchangeable attachments for one process."
+    },
+    {
+      "file": "src/data/stevia-route-comparison/en.md",
+      "line": 72,
+      "text": "FSANZ’s **12 May 2021 A1207 approval report** provides a concrete example: Amyris’s fermentation-derived Reb M met the described purity parameters but not the particular production method in the existing specification, prompting an amendment to that specification. The case concerned production method, without extending existing permitted food categories or maximum use levels.<a href=\"#i07-route-ref-11\">[11]</a>"
+    },
+    {
+      "file": "src/data/stevia-route-comparison/en.md",
+      "line": 74,
+      "text": "FSANZ’s consumer explanation, updated **26 November 2025**, distinguishes leaf extraction, enzymatic conversion of leaf extracts and fermentation from sugar, while giving labelling examples such as “sweetener (960)”.<a href=\"#i07-route-ref-10\">[10]</a> Consumer ingredient wording therefore need not identify the manufacturing route; procurement still needs the process dossier. Neither document replaces a current Code check for a particular purchased material, and EU E-number suffixes should not be imported as Australian/New Zealand labelling requirements."
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 48,
+      "text": "const isCarob = post.slug.endsWith('/carob-powder-cocoa-baking');"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 83,
+      "text": "  <article class:list={[\"section-padding\", {\"hops-reader\": isHops, \"pumpkin-reader\": isPumpkin, \"sunflower-reader\": isSunflower, \"flax-reader\": isFlax, \"fenugreek-reader\": isFenugreek, \"psyllium-reader\": isPsyllium, \"carob-reader\": isCarob, \"tamarind-reader\": isTamarind, \"gardenia-reader\": isGardenia, \"clove-reader\": isClove, \"schisandra-reader\": isSchisandra, \"oat-apple-reader\": isOatApple, \"olive-pectin-reader\": isOlivePectin, \"botanical-comparison-reader\": isBotanicalComparison, \"beetroot-reader\": isBeetroot, \"ginger-reader\": isGinger, \"cocoa-reader\": isCocoa, \"pomegranate-reader\": isPomegranate, \"acacia-reader\": isAcacia, \"citrus-delayed-bitterness-reader\": isCitrusBitterness, \"astaxanthin-reader\": isAstaxanthin, \"chicory-reader\": isChicory, \"vanilla-authentication-reader\": isVanillaAuthentication, \"vanilla-material\": isVanilla, \"cranberry-pac\": isCranberry, \"citrus-material\": isCitrus, \"hibiscus-color\": isHibiscus, \"saffron-identity\": isSaffron, \"elderberry-material\": post.slug.endsWith(\"/elderberry-material-selection\"), \"paprika-format\": post.slug.endsWith(\"/paprika-extract-format-selection\"), \"sdil\": post.slug.endsWith(\"/uk-sdil-milk-tea-2028\"), \"ginseng-heat\": post.slug.endsWith(\"/ginseng-heat-bitterness\"), \"stevia-temporal\": post.slug.endsWith(\"/stevia-temporal-sensory\"), \"water-soluble-reader\": isWaterSoluble}]}>"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 214,
+      "text": "      {!isHops && !isPumpkin && !isSunflower && !isFlax && !isFenugreek && !isPsyllium && !isCarob && !isTamarind && !isGardenia && !isClove && !isSchisandra && !isOatApple && !isOlivePectin && !isBotanicalComparison && !isBeetroot && !isGinger && !isCocoa && !isPomegranate && !isCitrusBitterness && !isAcacia && !isAstaxanthin && !isChicory && !isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class=\"mt-12 p-8 bg-primary/5 rounded-2xl text-center\">"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 349,
+      "text": "  .carob-reader :global(.prose) {max-width:820px;margin-inline:auto;line-height:1.85;overflow-wrap:anywhere}"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 350,
+      "text": "  .carob-reader :global([id]) {scroll-margin-top:100px}"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 351,
+      "text": "  .carob-reader :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 352,
+      "text": "  .carob-reader :global(.carob-table) {width:100%;table-layout:fixed;border-collapse:collapse}"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 353,
+      "text": "  .carob-reader :global(.carob-table th), .carob-reader :global(.carob-table td) {padding:1rem;border:1px solid #d1d5db;vertical-align:top;font-size:16px;line-height:1.7}"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 354,
+      "text": "  .carob-reader :global(.cell-value) {font-variant-numeric:tabular-nums}"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 355,
+      "text": "  .carob-reader :global(.mobile-label) {display:none}"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 357,
+      "text": "    .carob-reader :global(.carob-table), .carob-reader :global(.carob-table tbody), .carob-reader :global(.carob-table tr), .carob-reader :global(.carob-table th), .carob-reader :global(.carob-table td) {display:block;width:100%;box-sizing:border-box}"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 358,
+      "text": "    .carob-reader :global(.carob-table thead) {display:none}"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 359,
+      "text": "    .carob-reader :global(.carob-table tr) {margin-bottom:1.5rem;border:1px solid #d1d5db;border-radius:8px;overflow:hidden}"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 360,
+      "text": "    .carob-reader :global(.carob-table th), .carob-reader :global(.carob-table td) {border:0;padding:.85rem 1rem;text-align:left}"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 361,
+      "text": "    .carob-reader :global(.carob-table th) {background:#f3f4f6}"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 362,
+      "text": "    .carob-reader :global(.mobile-label) {display:block;font-weight:600;margin-bottom:.3rem;color:#374151}"
+    },
+    {
+      "file": "src/pages/resources/blog/[slug].astro",
+      "line": 365,
+      "text": "  .carob-reader :global(nav ol) {flex-wrap:wrap}"
+    },
+    {
+      "file": "src/pages/solutions/beverages.astro",
+      "line": 4,
+      "text": "import QuillajaSelection from '../../components/QuillajaSelection.astro';"
+    },
+    {
+      "file": "src/pages/solutions/beverages.astro",
+      "line": 16,
+      "text": "<QuillajaSelection lang=\"en\" />"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 48,
+      "text": "const isCarob = post.slug.endsWith('/carob-powder-cocoa-baking');"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 83,
+      "text": "  <article class:list={[\"section-padding\", {\"hops-reader\": isHops, \"pumpkin-reader\": isPumpkin, \"sunflower-reader\": isSunflower, \"flax-reader\": isFlax, \"fenugreek-reader\": isFenugreek, \"psyllium-reader\": isPsyllium, \"carob-reader\": isCarob, \"tamarind-reader\": isTamarind, \"gardenia-reader\": isGardenia, \"clove-reader\": isClove, \"schisandra-reader\": isSchisandra, \"oat-apple-reader\": isOatApple, \"olive-pectin-reader\": isOlivePectin, \"botanical-comparison-reader\": isBotanicalComparison, \"beetroot-reader\": isBeetroot, \"ginger-reader\": isGinger, \"cocoa-reader\": isCocoa, \"pomegranate-reader\": isPomegranate, \"acacia-reader\": isAcacia, \"citrus-delayed-bitterness-reader\": isCitrusBitterness, \"astaxanthin-reader\": isAstaxanthin, \"chicory-reader\": isChicory, \"vanilla-authentication-reader\": isVanillaAuthentication, \"vanilla-material\": isVanilla, \"cranberry-pac\": isCranberry, \"citrus-material\": isCitrus, \"hibiscus-color\": isHibiscus, \"saffron-identity\": isSaffron, \"elderberry-material\": post.slug.endsWith(\"/elderberry-material-selection\"), \"paprika-format\": post.slug.endsWith(\"/paprika-extract-format-selection\"), \"sdil\": post.slug.endsWith(\"/uk-sdil-milk-tea-2028\"), \"ginseng-heat\": post.slug.endsWith(\"/ginseng-heat-bitterness\"), \"stevia-temporal\": post.slug.endsWith(\"/stevia-temporal-sensory\"), \"water-soluble-reader\": isWaterSoluble}]}>"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 214,
+      "text": "      {!isHops && !isPumpkin && !isSunflower && !isFlax && !isFenugreek && !isPsyllium && !isCarob && !isTamarind && !isGardenia && !isClove && !isSchisandra && !isOatApple && !isOlivePectin && !isBotanicalComparison && !isBeetroot && !isGinger && !isCocoa && !isPomegranate && !isCitrusBitterness && !isAcacia && !isAstaxanthin && !isChicory && !isSaffron && !isHibiscus && !isCitrus && !isCranberry && !isVanilla && !isVanillaAuthentication && <div class=\"mt-12 p-8 bg-primary/5 rounded-2xl text-center\">"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 349,
+      "text": "  .carob-reader :global(.prose) {max-width:820px;margin-inline:auto;line-height:1.85;overflow-wrap:anywhere}"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 350,
+      "text": "  .carob-reader :global([id]) {scroll-margin-top:100px}"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 351,
+      "text": "  .carob-reader :global(:focus-visible) {outline:3px solid #a77b16;outline-offset:3px}"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 352,
+      "text": "  .carob-reader :global(.carob-table) {width:100%;table-layout:fixed;border-collapse:collapse}"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 353,
+      "text": "  .carob-reader :global(.carob-table th), .carob-reader :global(.carob-table td) {padding:1rem;border:1px solid #d1d5db;vertical-align:top;font-size:16px;line-height:1.7}"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 354,
+      "text": "  .carob-reader :global(.cell-value) {font-variant-numeric:tabular-nums}"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 355,
+      "text": "  .carob-reader :global(.mobile-label) {display:none}"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 357,
+      "text": "    .carob-reader :global(.carob-table), .carob-reader :global(.carob-table tbody), .carob-reader :global(.carob-table tr), .carob-reader :global(.carob-table th), .carob-reader :global(.carob-table td) {display:block;width:100%;box-sizing:border-box}"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 358,
+      "text": "    .carob-reader :global(.carob-table thead) {display:none}"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 359,
+      "text": "    .carob-reader :global(.carob-table tr) {margin-bottom:1.5rem;border:1px solid #d1d5db;border-radius:8px;overflow:hidden}"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 360,
+      "text": "    .carob-reader :global(.carob-table th), .carob-reader :global(.carob-table td) {border:0;padding:.85rem 1rem;text-align:left}"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 361,
+      "text": "    .carob-reader :global(.carob-table th) {background:#f3f4f6}"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 362,
+      "text": "    .carob-reader :global(.mobile-label) {display:block;font-weight:600;margin-bottom:.3rem;color:#374151}"
+    },
+    {
+      "file": "src/pages/zh/resources/blog/[slug].astro",
+      "line": 365,
+      "text": "  .carob-reader :global(nav ol) {flex-wrap:wrap}"
+    },
+    {
+      "file": "src/pages/zh/solutions/beverages.astro",
+      "line": 4,
+      "text": "import QuillajaSelection from '../../../components/QuillajaSelection.astro';"
+    },
+    {
+      "file": "src/pages/zh/solutions/beverages.astro",
+      "line": 16,
+      "text": "<QuillajaSelection lang=\"zh\" />"
+    }
+  ]
+}

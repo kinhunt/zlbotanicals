@@ -1,0 +1,110 @@
+---
+title: "油莎豆发酵饮料怎么选料：先确定基底，再比较菌种"
+lang: "zh"
+category: "research"
+guideCategory: "application-guides"
+description: "油莎豆发酵饮料如何选料：区分压榨基底、超细粉与脱脂粉，核对复合发酵剂菌数、加糖条件、香气评价及采购要求。"
+tags: ["油莎豆", "发酵饮料", "原料选择"]
+relatedProducts: []
+relatedSolutions: []
+sources: []
+publishDate: "2026-09-28"
+relatedIndustries: ["beverages"]
+---
+
+开发油莎豆发酵饮料，不能只买一袋油莎豆粉，再配上一款酸奶发酵剂。首先要明确进入发酵罐的是什么：压榨、筛滤后的饮料基底，保留全部粉体的分散液，还是采用脱脂粉重新配制的体系。
+
+一项2025年的研究提供了很有参考价值的起点。研究者在油莎豆、角豆和米饮料中比较了四种商业乳酸菌发酵剂，并考察组成、香气及模拟消化后的活菌情况。其中，油莎豆基底经过切碎、粉碎、压榨与筛滤，并不是简单的粉末加水。[<a href="#tiger-nut-ref-1">1</a>] 本文查阅的供应商Tigernuts Traders列有超细粉、传统粉和脱脂粉等产品。[<a href="#tiger-nut-ref-5">5</a>][<a href="#tiger-nut-ref-6">6</a>]
+
+这一方向值得探索的，是具有明确风味和组成的发酵植物基底，而不是凭“发酵”二字直接获得低糖、高蛋白或经临床证明的益生菌卖点。下文以一项实验室研究和一家供应商的产品资料为依据；论文并未对这些商业粉体等级做发酵对比。
+
+## 名称相同，不代表进入发酵的物料相同
+
+论文的起始配料为80%水、20%油莎豆（*Cyperus esculentus*），随后进行提取与筛滤。研究者测得未发酵饮料的初始可溶性固形物读数为5.5 °Brix。[<a href="#tiger-nut-ref-1">1</a>] 因此，不能把投料中的20%写成成品保留了20%的油莎豆固形物；单凭°Brix，也不能判断某个菌种实际能利用多少葡萄糖。
+
+采购时，应把下面三条路线分开考虑。论文只测试了第一种基底；后两种是可供筛选的原料，不是已经证明可以直接替换的方案：
+
+<table class="tiger-nut-table">
+<caption>候选原料路线——研究基底与供应商描述的原料</caption>
+<thead><tr><th scope="col">候选路线</th><th scope="col">现有资料实际描述了什么</th><th scope="col">比较菌种前应先明确什么</th></tr></thead><tbody>
+<tr><th scope="row"><span class="mobile-label">候选路线</span><span class="cell-value">压榨、筛滤的油莎豆基底</span></th><td><span class="mobile-label">现有资料实际描述了什么</span><span class="cell-value">这是发酵论文使用的材料，是加工后的饮料，不是全粉悬浮液。[<a href="#tiger-nut-ref-1">1</a>]</span></td><td><span class="mobile-label">比较菌种前应先明确什么</span><span class="cell-value">提取收率、保留固形物、额外添加物，以及交付基底的完整热处理历史。</span></td></tr>
+<tr><th scope="row"><span class="mobile-label">候选路线</span><span class="cell-value">超细油莎豆粉</span></th><td><span class="mobile-label">现有资料实际描述了什么</span><span class="cell-value">Tigernuts Traders介绍了自有研磨技术，以及按客户技术规格开展调整的做法。[<a href="#tiger-nut-ref-5">5</a>]</span></td><td><span class="mobile-label">比较菌种前应先明确什么</span><span class="cell-value">粒径分布、分散与沉降情况，以及客户后续是否去除不溶物。“细”不等于已证明可溶，也不等于已验证发酵表现。</span></td></tr>
+<tr><th scope="row"><span class="mobile-label">候选路线</span><span class="cell-value">脱脂油莎豆粉</span></th><td><span class="mobile-label">现有资料实际描述了什么</span><span class="cell-value">Tigernuts Traders目录中，Defatted Tigernuts Flour每100 g标示脂肪9.1 g、膳食纤维25 g。[<a href="#tiger-nut-ref-6">6</a>]</span></td><td><span class="mobile-label">比较菌种前应先明确什么</span><span class="cell-value">这种标称脱脂、含有膳食纤维的原料是否适合目标饮料，以及加工后各成分实际保留多少。目录值不是批次实测，也不是成品营养值。</span></td></tr>
+</tbody></table>
+
+脱脂粉并非无脂粉。同一目录页还写着“May contain traces of allergens”（可能含有微量过敏原），但该处没有列出具体种类。[<a href="#tiger-nut-ref-6">6</a>] 应据此索取现行过敏原声明，而不是自行推定某种污染物，也不能宣称绝对无过敏原。
+
+超细粉产品页提到，供应商正在开发多个版本，其中包括灭菌版本。[<a href="#tiger-nut-ref-5">5</a>] 这不代表所有超细粉都按灭菌品交付。采购规格应写清本次材料实际接受了什么处理，而不是直接沿用网站上介绍的开发能力。
+
+## 论文选出的发酵条件，究竟优化了什么？
+
+研究者先将饮料在85 °C处理五分钟。油莎豆基底送到实验室后，因检测到微生物负荷，又在80 °C处理十分钟；之后报告未检出活菌落。[<a href="#tiger-nut-ref-1">1</a>] 这是对研究样品及检测结果的描述，不能作为另一种原料的通用热处理规程，也不能据此声称商业无菌。
+
+四个VEGE编号代表商业复合发酵剂，并非四株单一菌株。因此，菌落计数反映的是发酵剂与饮料组合的结果，不能据此判断其中每株菌各自的生长或存活情况。[<a href="#tiger-nut-ref-1">1</a>]
+
+试验采用250 mL烧瓶，每瓶装入150 mL饮料，比较30与37 °C，随后在37 °C下考察三个葡萄糖添加水平。油莎豆组分别为不额外添加、添加7.5 g/100 mL、添加15 g/100 mL。[<a href="#tiger-nut-ref-1">1</a>] 这些是试验投料量，不是工厂推荐用量，更不是发酵结束后的残糖结果。
+
+作者综合pH下降过程与菌落计数，选用37 °C和中间葡萄糖添加量开展后续试验。不过，正文概括的“中间水平获得最佳菌数”，并不适用于原始表格中的每一种油莎豆发酵剂。[<a href="#tiger-nut-ref-1">1</a>]
+
+### 原始菌落计数：没有一个加糖水平在所有行都最高
+
+下表将论文表2中的均值和±项统一换算为 **×10⁸ CFU/mL**。论文统计方法一般将结果描述为均值±标准差，但表2未给出这些行内比较的显著性字母，也没有逐格注明准确重复数。[<a href="#tiger-nut-ref-1">1</a>]
+
+<table class="tiger-nut-table">
+<caption>油莎豆菌落计数——来源[1]表2；均值±标准差，×10⁸ CFU/mL</caption>
+<thead><tr><th scope="col">发酵剂</th><th scope="col">不额外添加葡萄糖</th><th scope="col">葡萄糖7.5 g/100 mL</th><th scope="col">葡萄糖15 g/100 mL</th></tr></thead><tbody>
+<tr><th scope="row"><span class="mobile-label">发酵剂</span><span class="cell-value">VEGE022</span></th><td><span class="mobile-label">不额外添加葡萄糖</span><span class="cell-value">3.70 ± 0.10</span></td><td><span class="mobile-label">葡萄糖7.5 g/100 mL</span><span class="cell-value">4.25 ± 0.15</span></td><td><span class="mobile-label">葡萄糖15 g/100 mL</span><span class="cell-value">4.50 ± 0.30</span></td></tr>
+<tr><th scope="row"><span class="mobile-label">发酵剂</span><span class="cell-value">VEGE033</span></th><td><span class="mobile-label">不额外添加葡萄糖</span><span class="cell-value">4.45 ± 0.35</span></td><td><span class="mobile-label">葡萄糖7.5 g/100 mL</span><span class="cell-value">4.50 ± 0</span></td><td><span class="mobile-label">葡萄糖15 g/100 mL</span><span class="cell-value">2.50 ± 0.015</span></td></tr>
+<tr><th scope="row"><span class="mobile-label">发酵剂</span><span class="cell-value">VEGE053</span></th><td><span class="mobile-label">不额外添加葡萄糖</span><span class="cell-value">2.06 ± 0.255</span></td><td><span class="mobile-label">葡萄糖7.5 g/100 mL</span><span class="cell-value">2.15 ± 0.165</span></td><td><span class="mobile-label">葡萄糖15 g/100 mL</span><span class="cell-value">2.35 ± 0.385</span></td></tr>
+<tr><th scope="row"><span class="mobile-label">发酵剂</span><span class="cell-value">VEGE061</span></th><td><span class="mobile-label">不额外添加葡萄糖</span><span class="cell-value">3.95 ± 1.65</span></td><td><span class="mobile-label">葡萄糖7.5 g/100 mL</span><span class="cell-value">3.15 ± 0.15</span></td><td><span class="mobile-label">葡萄糖15 g/100 mL</span><span class="cell-value">6.30 ± 1.10</span></td></tr>
+</tbody></table>
+
+三列加糖水平试验均在37 °C下进行，属于重新开展的一轮发酵，与前面的温度比较不是同一轮试验。表2没有逐项给出菌落计数的取样时间，不应把整张表统一标成“发酵24小时结果”。±0按原文保留，不能解释为不存在生物学变异。[<a href="#tiger-nut-ref-1">1</a>]
+
+VEGE061在中间加糖量下的平均菌数，低于另外两个水平；VEGE022和VEGE053则在最高添加量下出现最高均值。这不是显著性排名，原表没有证明这些行内差异显著。[<a href="#tiger-nut-ref-1">1</a>] 但这些数值说明：“综合考虑后选定的发酵条件”和“每款发酵剂获得最高菌数的条件”不是一回事。
+
+图2A回答的是另一个问题：中间加糖量下，pH总体上下降得更早，而油莎豆各曲线在最后一个绘图时点、约24小时处，接近pH 4。[<a href="#tiger-nut-ref-1">1</a>] 图中没有足够数据支持精确计算pH下降速率。终点菌数与达到目标酸度所需的时间，回答的是两个不同问题。
+
+如果项目目标是减少糖添加，论文中“不额外加葡萄糖”的油莎豆组仍测得一定数量的活菌，是值得继续研究的线索，却不是无添加糖商业饮料已验证成功的证明。“不额外加葡萄糖”也不等于“无糖”。成品残糖、目标酸度、菌种表现与完整工艺的安全性，需要一起确认。
+
+## 某项抗氧化检测升高，不等于整体更好
+
+同一论文也能帮助避免另一种常见简化：油莎豆饮料的ORAC在24小时出现短时高点，TEAC却在发酵后下降；可溶性总酚总体与未发酵样品相近或更低，VEGE061早期出现例外。这些是观测到的变化方向，不代表每个时间点之间的差异都达到统计显著。[<a href="#tiger-nut-ref-1">1</a>] 原图3和正文都保留了这些不同方向。
+
+这些指标不应合并成一句“抗氧化能力全面提高”。ORAC与TEAC是实验室检测方法，不能互换，更不能直接代表成品对人体的健康价值。如果香气、酸度或其他指标已经不理想，就不应仅为追求某一检测高值而延长发酵。供应商对植物原料的抗氧化介绍，也不能替代发酵饮料本身的证据。
+
+## 香气评价适合筛样，不足以判断消费者偏好
+
+该研究的初步感官试验由11名未经训练的评价者完成，方法写明按0–3分评价香气特征的强度。[<a href="#tiger-nut-ref-1">1</a>] 评价者打的是香气强度分，而不是喜好分。果香更强，并不自动等于更多消费者更喜欢。
+
+原文还有一处必须说明的报告差异：图5雷达图使用0–100刻度，方法却写0–3，已获取的正文没有解释换算方式。讨论部分提到“乳酸／黄油样”香气，但图上的轴为acid、sour、sweet、fruity、rancid、floral、herbal。[<a href="#tiger-nut-ref-1">1</a>] 因而，这里不摘录雷达图数值，也不把“黄油样”写成直接评分的项目。
+
+作者还提示VEGE061油莎豆样品出现更多酸败气味，但图中酸败气味的曲线整体较低、彼此接近。[<a href="#tiger-nut-ref-1">1</a>] 这支持在后续开发中保留异味评价，却不能证明具体氧化机制，也不能断言使用该发酵剂就必然产生明显风味缺陷。
+
+更有解释力的样品比较，是先固定饮料基底、加糖量和处理条件，只改变发酵剂。找到有希望的菌种—基底组合后，再判断是否值得更换粉体等级或提取路线，并接受相应的配方调整。这是建议的开发思路，不是本文已经完成的试验。
+
+## 发酵后菌数高，不代表消化后仍高
+
+研究者选取VEGE061发酵饮料进行INFOGEST 2.0模拟消化。原图6及结果段显示，油莎豆和角豆样品的可培养菌数明显下降，米饮料消化后的菌数相对较高。[<a href="#tiger-nut-ref-1">1</a>] 因此，筛选用于活菌饮料的发酵剂时，不能只看发酵结束时的菌数。
+
+方法中，研究者加入消化液，完成模拟消化后离心，再取作为生物可及部分的上清液进行菌落计数。[<a href="#tiger-nut-ref-1">1</a>] CFU/mL反映的是每毫升样品中的可培养菌数。加液稀释和取上清都会影响消化前后的比较，因此不能把浓度变化直接换算成起始全部微生物的存活率。这项试验也没有评价人体内的定植情况或健康效果。
+
+论文没有开展储存稳定性评价，作者也将其列为局限。[<a href="#tiger-nut-ref-1">1</a>] 它不能给出商用原料的货架期、保质期末活菌数或已经验证的益生菌宣称。计划保留活菌的饮料，与发酵后再热处理的饮料，对应两种不同的产品开发方案，需要不同证据。
+
+## 把研究转化成可用的采购决策
+
+第一轮询样时，应把“优质”“超细”等描述换成可以核对的原料信息和规格。询样需求可以这样写：
+
+> 我们正在评估用于发酵饮料的油莎豆基底。请说明植物名称及使用部位、全粉、脱脂粉或液体基底等具体形态、研磨或提取工艺、载体及额外添加的糖，以及交付前采用的热处理条件。粉体请提供粒径测试方法和分布；液体基底请提供按供应状态报告的固形物及相关组成。我们将使用选定发酵剂，在目标配方中评价样品。请对已明确的材料报价，并注明仍在开发中的规格或处理方式。
+
+关键不是寻找“植物含量最高”的供应商，而是比较哪一种来源、形态和规格明确的原料，能在目标工艺中兼顾风味、酸化速度、分散与沉降表现，以及目标组成。现有研究说明油莎豆值得进入开发视野，但菌数表格、不同检测指标的变化，以及模拟消化后的损失，都不支持用一个发酵条件承诺所有理想结果。[<a href="#tiger-nut-ref-1">1</a>]
+
+询价时，请提供目标市场、饮料形态、保留活菌或发酵后热处理的计划、糖目标及现有加工条件。这些信息能让[饮料应用沟通](/zh/solutions/beverages)与[原料报价](/zh/request-quote)更具体。特定等级、文件、库存与应用表现，仍需按项目另行确认。
+
+## 参考来源
+
+<p id="tiger-nut-ref-1">[1] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12071967/fullTextXML">https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12071967/fullTextXML</a> — PMC12071967</p>
+
+<p id="tiger-nut-ref-5">[5] <a href="https://www.tigernuts.com/products/extra-fine-tigernuts-flour">https://www.tigernuts.com/products/extra-fine-tigernuts-flour</a></p>
+
+<p id="tiger-nut-ref-6">[6] <a href="https://www.tigernuts.com/pdf/Catalogue_Tigernuts_Traders_-_Food_ENG.pdf">https://www.tigernuts.com/pdf/Catalogue_Tigernuts_Traders_-_Food_ENG.pdf</a></p>

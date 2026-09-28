@@ -1,0 +1,7036 @@
+[
+  {
+    "id": "foods-14-01447-t001",
+    "label": "Table 1",
+    "caption": "Composition of the commercial starters.",
+    "rows": [
+      [
+        {
+          "text": "Danisco®VEGE022 ",
+          "tag": "th",
+          "align": "left",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Danisco®VEGE033 ",
+          "tag": "th",
+          "align": "left",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Danisco®VEGE053 ",
+          "tag": "th",
+          "align": "left",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Danisco®VEGE061 ",
+          "tag": "th",
+          "align": "left",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "StreptococcusthermophilusLactobacillusdelbrueckii subsp.bulgaricusLactobacillus\nacidophilus NCFM®Bifidobacteriumanimalis subsp.lactis HN019 ®Lactobacillus plantarum",
+          "tag": "td",
+          "align": "left",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "StreptococcusthermophilusLactobacillusdelbrueckii subsp.bulgaricus",
+          "tag": "td",
+          "align": "left",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "StreptococcusthermophilusLactobacillusdelbrueckiisubsp. bulgaricusLactobacillusacidophilus NCFM®Bifidobacterium\nanimalis subsp.lactis HN019 ®",
+          "tag": "td",
+          "align": "left",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "StreptococcusthermophilusLactobacillusdelbrueckii subsp.bulgaricusLactobacillus\nacidophilus NCFM®Bifidobacteriumanimalis subsp.lactis HN019 ®Lactobacillus\nparacasei",
+          "tag": "td",
+          "align": "left",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ]
+    ],
+    "footnotes": []
+  },
+  {
+    "id": "foods-14-01447-t002",
+    "label": "Table 2",
+    "caption": "Colony counts (CFU/mL) after fermentations at different temperatures (30 and 37 °C) and different levels of glucose addition for tiger nut, carob and rice beverages.",
+    "rows": [
+      [
+        {
+          "text": "Sample",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Starter",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "30 °C",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "37 °C",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Level 1 *",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Level 2 **",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Level 3 ***",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Tiger nut",
+          "tag": "td",
+          "rowspan": "5",
+          "align": "center",
+          "valign": "middle",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE022",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.38 × 108 ± 1.17 × 108",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.00 × 108 ± 3.15 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.70 × 108 ± 1.00 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.25 × 108 ± 1.50 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.50 × 108 ± 3.00 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE033",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.05 × 107 ± 1.20 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.02 × 108 ± 3.00 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.45 × 108 ± 3.50 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.50 × 108 ± 0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.50 × 108 ± 1.50 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE053",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.77 × 105 ± 1.25 × 104",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.00 × 108 ± 0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.06 × 108 ± 2.55 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.15 × 108 ± 1.65 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.35 × 108 ± 3.85 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE061",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.59 × 107 ± 3.51 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.04 × 108 ± 5.50 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.95 × 108 ± 1.65 × 108",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.15 × 108 ± 1.50 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.30 × 108 ± 1.10 × 108",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE022",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.26 × 106 ± 7.05 × 105",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "7.80 × 107 ± 1.70 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.35 × 107 ± 8.50 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.10 × 108 ± 5.00 × 105",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.35 × 107 ± 4.50 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Carob",
+          "tag": "td",
+          "rowspan": "4",
+          "align": "center",
+          "valign": "middle",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE033",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.43 × 107 ± 5.35 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.08 × 107 ± 2.00 × 105",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.57 × 107 ± 3.00 × 105",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.00 × 107 ± 1.00 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.45 × 107 ± 3.50 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE053",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.40 × 107 ± 3.10 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.60 × 105 ± 2.80 × 105",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.55 × 107 ± 8.00 × 105",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.70 × 107 ± 1.00 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.25 × 107 ± 5.50 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE061",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.80 × 107 ± 2.40 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.92 × 107 ± 2.88 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.45 × 107 ± 3.50 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.30 × 107 ± 1.60 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.85 × 107 ± 5.00 × 105",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE022",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "7.50 × 107 ± 4.00 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "7.00 × 107 ± 2.00 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.73 × 108 ± 1.85 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.45 × 108 ± 3.50 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.42 × 108 ± 1.40 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Rice",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE033",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.09 × 107 ± 3.41 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.06 × 106 ± 4.54 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.70 × 106 ± 9.00 × 105",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.75 × 107 ± 6.50 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.60 × 106 ± 4.00 × 105",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE053",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.50 × 107 ± 1.40 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.40 × 107 ± 2.00 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.85 × 106 ± 2.05 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "7.00 × 106 ± 2.00 × 106",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.15 × 106 ± 5.00 × 104",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE061",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.47 × 108 ± 1.15 × 108",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.55 × 107 ± 4.65 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.75 × 106 ± 5.00 × 104",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.70 × 108 ± 8.00 × 107",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d.",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ]
+    ],
+    "footnotes": [
+      "All tests at different sugar levels were conducted at 37 °C. Level 1 *: no glucose added. Level 2 **: 7.5 g/100 mL of glucose for rice and tiger nut beverages and 15 g/100 mL for carob beverages. Level 3 ***: 15 g/100 mL of glucose for rice and tiger nut beverages and 30 g/100 mL for carob beverages. n.d.: Not determined."
+    ]
+  },
+  {
+    "id": "foods-14-01447-t003",
+    "label": "Table 3",
+    "caption": "Peak integration (×106) area values from the EICs of the phytochemical compounds identified by UHPLC-QTOF in non-fermented and fermented tiger nut beverages employing different LAB consortia (VEGE022, VEGE033, VEGE053 and VEGE061) for 24 h.",
+    "rows": [
+      [
+        {
+          "text": "No.",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Metabolites",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Non-Fermented",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE022 ",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE033 ",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE053 ",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE061",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Citric acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "101.39 ± 4.00 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "99.24 ± 2.52 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "91.88 ± 7.32 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "92.06 ± 10.13 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "111.63 ± 19.11 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "2",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Homovanillic acid *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.59 ± 0.97 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.00 ± 0.36 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.51 ± 0.49 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.78 ± 1.17 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.91 ± 0.70 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "3",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "L-leucic acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.37 ± 0.20 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.34 ± 0.29 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "7.86 ± 1.92 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.03 ± 0.69 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.48 ± 1.77 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "4",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "S-leucic acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "37.16 ± 1.60 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.56 ± 0.20 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.14 ± 1.59 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.33 ± 1.57 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.38 ± 1.10 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "5",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\nKaempferol 3′,7-diglucoside *\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.46 ± 0.08 a(3.30 ± 0.25 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.18 ± 0.02 bc(2.47 ± 0.07 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.32 ± 0.12 ab(2.88 ± 0.36 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.02 ± 0.03 c(1.97 ± 0.10 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.06 ± 0.13 c(2.09 ± 0.41 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "6",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4-vinylphenol *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.81 ± 0.14 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "40.20 ± 0.04 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.70 ± 0.47 ac",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.38 ± 1.07 ac",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.22 ± 0.23 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "7",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Ethyl vanillin *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "19.20 ± 0.34 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "30.35 ± 0.22 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.13 ± 4.43 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "17.4 ± 8.55 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.42 ± 2.02 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "8",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Ferulic acid *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.34 ± 0.01 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.88 ± 2.07 bc",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.59 ± 0.14 ac",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.62 ± 0.43 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "9",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Sinapoyl alcohol",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.91 ± 0.06 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.21 ± 0.01 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.11 ± 0.17 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.89 ± 0.25 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.0 ± 0.36 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "10",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Dehydrodivanillin *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.89 ± 0.01 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.92 ± 0.01 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.58 ± 0.01 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.60 ± 0.04 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "11",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Trihydroxy octadecenoic acid isomer a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "28.89 ± 0.46 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "28.35 ± 1.59 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "30.27 ± 5.20 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "17.70 ± 2.81 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "13.01 ± 0.60 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "12",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Trihydroxy octadecenoic acid isomer b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "22.69 ± 1.17 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "20.62 ± 0.86 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "22.69 ± 1.32 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.20 ± 3.32 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.20 ± 0.66 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "13",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Dihydroxyoleic acid isomer a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "45.88 ± 0.88 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "26.49 ± 1.61 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "32.42 ± 5.75 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "25.83 ± 1.54 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.86 ± 3.60 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "14",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Dihydroxyoleic acid isomer b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "43.76 ± 090 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "26.96 ± 3.15 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "27.09 ± 7.98 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "19.90 ± 2.18 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.02 ± 2.69 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "15",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Dihydroxystearic acid isomer a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "18.43 ± 0.04 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "28.86 ± 17.43 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "32.14 ± 0.12 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.27 ± 1.60 ac",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.95 ± 17.11 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "16",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Dihydroxystearic acid isomer b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "71.66 ± 1.55 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "84.16 ± 2.12 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "81.49 ± 8.91 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "71.82 ± 3.28 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.28 ± 16.45 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "17",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Hydroxylinoleic acid isomer a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "46.87 ± 0.46 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "37.24 ± 5.45 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "27.20 ± 3.53 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "40.02 ± 1.49 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "7.04 ± 9.47 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "18",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Hydroxyoleic acid isomer a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "36.46 ± 0.80 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.43 ± 0.99 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.20 ± 3.28 bc",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.75 ± 5.14 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.30 ± 3.26 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "19",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Hydroxyoleic acid isomer b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.91 ± 0.14 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.46 ± 0.18 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.92 ± 0.56 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.24 ± 0.45 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.36 ± 0.50 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ]
+    ],
+    "footnotes": [
+      "* Phenolic compounds. EICs: Extracted Ion Chromatograms Metabolites. Metabolites highlighted in bold were quantified with external standards. n.d.: not detected. Different letters (a–c) in the same row indicate statistically significant differences (p value < 0.05) according to one-way ANOVA followed by LSD post-hoc test. Bold value indicates that phenolic-derived metabolites were quantified with an external standard (µM)."
+    ]
+  },
+  {
+    "id": "foods-14-01447-t004",
+    "label": "Table 4",
+    "caption": "Peak integration (×106) area values from the EICs of the phytochemical compounds identified by UHPLC-QTOF in carob beverages non-fermented and fermented with different consortiums of LAB (VEGE022, VEGE033, VEGE053 and VEGE061) for 72 h.",
+    "rows": [
+      [
+        {
+          "text": "No",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Metabolites",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Non-Fermented",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE022",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE033 ",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE053 ",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE061",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2-Dehydro-D-xylonate",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "19.27 × 106 ± 0.35 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "36.15 ± 3.98 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.76 ± 12.50 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "22.35 ± 1.13 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "21.93 × 106 ± 0.96 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "2",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Citric acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "19.27 × 106 ± 1.00 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.25 ± 2.63 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "37.38 ± 35.25 abc",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "54.17 ± 7.24 ac",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "62.97 × 106 ± 0.70 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "3",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2-Deoxy-D-Ribose",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "43.56 × 106 ± 1.00 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "44.62 ± 2.82 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "32.08 ±35.85 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "45.55 ± 11.68 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "52.22 × 106 ± 1.44 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "4",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "(R)-2-Methylmalate",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "20.69 × 106 ± 0.77 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "33.79 ± 2.86 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "27.05 ± 12.88 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "26.97 ± 10.41 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "32.12 × 106 ± 5.02 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "5",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2-Galloylglucose *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "19.91 × 106 ± 0.64 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.82 ± 0.10 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.80 ± 0.15 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.83 ± 0.12 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.09 × 106 ± 11.92 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "6",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Succinic acid *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "16.13 × 106 ± 0.15 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.68 ± 1.09 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "13.17 ± 6.36 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.19 ± 2.74 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.36 × 106 ± 0.80 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "7",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2-Methylcitrate",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "13.00 × 106 ± 0.03 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "18.46 ± 1.61 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.79 ± 15.23 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.16 ± 10.83 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "18.83 × 106 ± 1.29 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "8",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Gallic acid *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "98.84 × 106 ± 1.97 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "53.80 ± 61.87 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "98.48 ± 1.45 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.42 ± 0.17 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.57 × 106 ± 0.64 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "9",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2-O-Galloylsucrose *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "70.68 × 106 ± 0.78 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "105.35 ± 2.67 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "57.77 ± 72.28 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "87.87 ± 26.28 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "107.79 × 106 ± 0.47 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "10",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Phloroglucinol *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d.a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "67.89 ± 4.31 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "11",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Ethylmalonic acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "19.79 ± 2.41 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.10 ± 11.75 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "16.30 ± 5.94 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "18.93 × 106 ± 1.01 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "12",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "b-D-Xylopyranosyl-(1-4)-a-L-rhamnopyranosyl-(1-2)-L-arabinose",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "21.28 × 106 ± 1.64 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "13.78 ± 0.34 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.29 ± 9.94 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.08 ± 5.58 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.05 × 106 ± 0.98 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "13",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "a-L-Fucopyranosyl-(1-2)-b-D-galactopyranosyl-(1-2)-D-xylose",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "28.67 × 106 ± 2.14 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "49.37 ± 0.55 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "25.20 ± 32.56 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "55.94 ± 9.01 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "63.31 × 106 ± 2.93 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "14",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Cynaroside A *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "34.46 ± 0.51 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "16.16 ± 22.57 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "24.35 ± 13.82 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "32.33 × 106 ± 1.00 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "15",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3′-Methoxyfukiic acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "17.47 ± 0.49 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.95 ± 7.17 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "16.01 ± 0.05 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.35 × 106 ± 0.16 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "16",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Gallic acid 4-O-(6-galloylglucoside) *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "33.81 ± 0.34 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "18.62 ± 21.92 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "25.14 ± 12.04 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "23.62 × 106 ± 0.68 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "17",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3-propylmalic acid *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "38.58 × 106 ± 0.64 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "48.32 ± 0.96 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "34.11 ± 20.41 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "30.26 ± 20.07 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "40.31 × 106 ± 1.96 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "18",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3-O-Methylgallate *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "13.49 × 106 ± 0.75 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.32 ± 0.11 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "24.95 ± 18.09 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.99 ± 6.81 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.70 × 106 ± 0.75 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "19",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Eriocitrin *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "22.60 × 106 ± 1.06 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.30 ± 0.27 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "7.89 ± 10.99 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.90 ± 3.51 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.75 × 106 ± 3.01 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "20",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Gallotannin *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "49.03 ± 1.10 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "28.75 ± 36.05 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "45.65 ± 13.48 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "50.31 × 106 ± 4.46 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "21",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Gallotannin (isomer) *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "47.24 ± 0.47 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "28.97 ± 34.57 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "39.88 ± 18.85 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "50.24 × 106 ± 4.29 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "22",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Delphinidin 3-O-3″,6″-O-dimalonylglucoside *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.62 ± 0.08 bc",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.84 ± 3.38 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.44 ± 0.82 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.29 × 106 ± 0.34 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "23",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\nEllagic acid+ *\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "126.29 × 106 ± 15.64 a(126.05 ± 15.65 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "71.10 ± 0.19 ab(70.86 ± 0.19 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "40.72 ± 44.40 b(40.48 ± 44.40 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "65.48 ± 10.63 b(65.24 ± 10.63 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "72.20 ± 0.90 ab(71.96 ± 0.90 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "24",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\nMyricitrin+ *\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "25.83 × 106 ± 0.99 a(76.88 ± 2.98 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "27.00 ± 0.64 a(80.38 ± 1.92 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "13.20 ± 18.27 a(38.99 ± 54.81 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "23.79 ± 4.68 a(70.75 ± 14.05 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "28.90 ±2.84 a(86.09 ± 8.51 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "25",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\nQuercetin 3-O-glucoside+ *\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.38 × 106 ± 1.62 a(45.53 ± 4.87 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.30 ± 0.66 ab(30.29 ± 1.98 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.01 ± 6.91 b(14.42 ± 20.74 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.79 ± 0.04 ab(28.74 ± 0.13 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.44 ± 0.59 ab(27.70 ± 1.77 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "26",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Benzoic acid *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "19.86 ± 0.12 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.58 ± 14.22 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.11 ± 9.65 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "16.85 ± 2.37 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "27",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\nQuercetin 3-arabinoside+ *\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "27.09 × 106 ± 0.67 a(80.64 ± 2.01 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "18.18 ± 0.23 a(53.93 ± 0.68 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.52 ± 14.23 a(33.93 ± 42.70 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.81 ± 7.13 a(46.82 ± 21.40 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "22.08 ± 0.73 a(65.63 ± 2.19 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "28",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\nQuercitrin+ *\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "150.54 × 106 ± 4.97 a(451.00 ± 14.92 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "108.17 ± 0.76 a(323.89 ± 2.28 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "58.02 ± 79.22 a(173.45 ± 237.66 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "97.13 ± 22.39 a(290.77 ± 67.17 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "110.72 ± 5.87 a(331.54 ± 17.61 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "29",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Isochinomin",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.13 × 106 ± 0.86 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.27 ± 0.40 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "7.20 ± 10.03 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "7.43 ± 5.60 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.84 ± 0.22 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "30",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Kaempferide 7-glucoside *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.83 ± 0.56 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.86 ± 7.94 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.91 ± 5.60 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.80 ± 1.08 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "31",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\nPhloretin 2′-O-glucuronide+ *\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "67.98 × 106 ± 4.01 a(203.32 ± 12.03 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "55.37 ± 1.21 a(165.50 ± 3.64 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "29.63 ± 41.40 a(88.28 ± 124.22 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "53.95 ± 7.61 a(161.24 ± 22.84 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "55.12 ± 0.20 a(164.76 ± 0.61 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "32",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\nApigenin 7-O-glucoside+ *\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "19.16 × 106 ± 0.73 × 106 a(56.87 ± 2.19 μM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.26 ± 1.41 ab(36.15 ± 4.24 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "7.04 ± 9.31 b(20.50 ± 27.93 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.47 ± 2.31 ab(33.79 ± 6.95 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.85 ± 0.07 ab(34.92 ± 0.21 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "33",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n6-Hydroxykaempferol+ *\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "22.91 × 106 ± 1.96 a(68.12 ± 5.89 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "26.75 ± 0.38 a(79.64 ± 1.14 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.70 ± 20.54 a(43.49 ± 61.62 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "23.43 ± 1.84 a(69.66 ± 5.52 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "20.51 ± 0.73 a(60.90 ± 2.19 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "34",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Eriodictyol *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "212.65 × 106 ± 0.56 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.28 ± 15.74 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.47 ± 9.00 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "21.11 ± 5.84 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "35",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Luteolin *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "99.00 ± 1.40 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "50.266 ± 69.82 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "92.15 ± 9.25 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "96.96 ± 0.70 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "36",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\nQuercetin+ *\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "28.86 × 106 ± 1.19 a(85.97 ± 3.57 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "36.35 ± 6.77 a(108.44 ± 20.31 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.64 ± 21.70 a(46.31 ± 65.10 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "23.61 ± 11.89 a(70.20 ± 35.68 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "28.27 ± 17.01 a(84.18 ± 51.05 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "37",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\nIsorhamnetin+ *\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "21.44 ± 0.65 b(63.71 ± 1.95 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.18 ± 12.80 ab(26.93 ± 39.39 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.64 ± 3.06 b(46.31 ± 9.19 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "19.87 ± 3.26 b\n(58.99 ± 9.77 µM)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "38",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9S,12S,13S-trihydroxy-10E-octadecenoic acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "59.05 × 106 ± 1.31 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "154.98 ± 2.15 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "55.37 ± 77.59 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "74.88 ± 86.75 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "132.46 ± 3.12 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "39",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3′,5′-Dihydroxyflavanone *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "17.14 ±0.16 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.61 ± 7.60 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "16.40 ± 0.64 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "16.56 ± 0.46 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "40",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Octadecanedioic acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "44.63 × 106 ± 0.85 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "25.19 ± 1.17 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.64 ± 16.08 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.81 ± 12.17 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "24.06 ± 0.70 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "41",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9,10-DiHOME",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "57.42 × 106 ± 1.82 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "36.72 ± 0.85 ab\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "16.78 ± 21.98 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "23.09 ± 11.12 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "22.96 ± 7.78 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "42",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "L-Menthyl acetoacetate",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.73 ± 1.24 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.84 ± 9.43 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.67 ± 4.77 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.91 ± 0.17 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "43",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9,10-dihydroxy stearic acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "44.72 ± 6.50 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "26.97 ± 33.54 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "42.40 ± 10.13 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "44.06 ± 6.36 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "44",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Laserpitin",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.29 ± 0.52 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.32 ± 16.56 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "18.01 ± 6.28 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.11 ± 2.33 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "45",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "alpha, alpha’-Trehalose 6-palmitate",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "22.41 × 106 ± 0.80 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.23 ± 0.26 b\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.31 ± 7.34 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.42 ± 1.84 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.02 ± 1.41 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "46",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12R-hydroxy-9Z-octadecenoic acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "16.94 × 106 ± 0.69 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "56.62 ± 0.71 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "32.22 ± 42.29 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "41.43 ± 30.28 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "59.85 ± 2.83 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "47",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "16-hydroxy hexadecanoic acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "32.18 × 106 ± 2.91 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.03 ± 1.44 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.73 ± 9.07 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "13.10 ± 12.60 ac",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "42.62 ± 12.02 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ]
+    ],
+    "footnotes": [
+      "* Phenolic compounds. EICs: Extracted Ion Chromatograms Metabolites. Metabolites highlighted in bold were quantified with external standards. n.d.: not detected. Different letters (a–c) in the same row indicate statistically significant differences (p value < 0.05) according to one-way ANOVA followed by LSD post-hoc test. Bold value indicates that phenolic-derived metabolites were quantified with an external standard (µM)."
+    ]
+  },
+  {
+    "id": "foods-14-01447-t005",
+    "label": "Table 5",
+    "caption": "Peak integration (×106) area values from the EICs of the phytochemical compounds identified by UHPLC-QTOF in rice beverages non-fermented or fermented with different consortiums of lactic acid bacteria (VEGE022, VEGE033, VEGE053 and VEGE061) for 24 h.",
+    "rows": [
+      [
+        {
+          "text": "No.",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Metabolites",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Non-Fermented",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE022 ",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE033 ",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE053 ",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "VEGE061 ",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Citric acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "7.36 ± 1.21 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.29 ± 0.06 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.01 ± 2.35 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.93 ± 0.75 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.84 ± 1.07 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "2",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "L-leucic acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.30 ± 0.13 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.33 ± 0.05 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.34 ± 0.86 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.19 ± 1.34 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.14 ± 0.63 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "3",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "S-leucic acid",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.32 ± 0.09 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.29 ± 0.01 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "24.24 ± 8.47 bc",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "18.24 ± 18.69 abc",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "31.67 ±1.49 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "4",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "p-coumaric acid *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.91 ± 0.12 a\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.20 ± 0.01 b\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.87 ± 0.07 c\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.86 ± 0.50 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.86 ± 0.13 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "5",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Ethyl vanillin *",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.38 ± 0.62 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.09 ± 2.58 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.43 ± 6.12 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.17 ± 1.10 bc",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "6",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Sinapoyl alcohol",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.78 ± 0.37 ab\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.80 ± 0.11 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.42 ± 0.39 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.22 ± 2.97 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.73 ± 0.454 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "7",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Trihydroxy octadecenoic acid isomer a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "79.88 ± 94.54 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "112.14 ± 8.77 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "120.86 ± 1.10 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "104.55 ± 38.82 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "142.30 ± 3.81 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "8",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Trihydroxy octadecenoic acid isomer b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "108.79 ± 92.68 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "51.52 ± 6.75 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "72.97 ± 3.38 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "53.91 ± 24.22 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "77.29 ± 5.28 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "9",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Dihydroxyoleic acid isomer a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "26.19 ± 2.76 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "55.09 ± 2.22 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "31.16± 4.17 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "36.50± 3.08 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "23.29 ± 29.70 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "10",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Dihydroxyoleic acid isomer b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "57.21 ± 4.37 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "56.98 ± 4.79 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "36.85 ± 1.19 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "51.56 ± 2.43 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "61.67 ± 10.41 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "11",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Dihydroxystearic acid isomer a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.5 ± 0.64 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "17.44 ± 3.36 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.27 ± 1.41 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.24 ± 8.96 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.37 ± 0.35 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "12",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Dihydroxystearic acid isomer b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.83 ± 1.15 a\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.92 ± 0.60 b\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.94 ± 0.30 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.30 ± 0.88 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.68 ± 0.28 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "13",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Hydroxylinoleic acid isomer a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "89.01 ± 14.77 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "28.38 ± 6.32 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.63 ± 0.50 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.11 ± 0.64 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.78 ± 0.88 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "14",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Hydroxyoleic acid isomer a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "18.13 ± 0.24 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.62 ± 0.15 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.98 ± 0.05 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.47 ± 0.50 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.84 ± 0.57 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "15",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Hydroxyoleic acid isomer b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.49 ± 3.10 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.65 ± 0.13 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.99 ± 0.72 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.88 ± 0.96 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.40 ±0.20 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ]
+    ],
+    "footnotes": [
+      "* Phenolic compounds. EICs: Extracted Ion Chromatograms Metabolites. n.d.: not detected. Different letters (a–c) in the same row indicate statistically significant differences (p value < 0.05) according to one-way ANOVA followed by LSD post-hoc test."
+    ]
+  },
+  {
+    "id": "foods-14-01447-t006",
+    "label": "Table 6",
+    "caption": "Proximate composition expressed in g/100 g in the non-fermented (NF) and fermented with different LAB consortium tiger nut, carob and rice beverages. Saturated fat is calculated as % of total fatty acids.",
+    "rows": [
+      [
+        {
+          "text": "Sample",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Starter",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Energetic Value (kcal)",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Total Fat",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Saturated Fat",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Carbohydrates",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Protein",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Total Fiber",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Moisture",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Ash",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Tiger nut",
+          "tag": "td",
+          "rowspan": "5",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "colspan": "1"
+        },
+        {
+          "text": "NF",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "56.126 ± 0.332 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.197 ± 0.045 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "18.66 ± 0.45 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.311 ± 0.218 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.863 ± 0.0008 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.031 ± 0.0063 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "86.52 ± 0.0012 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.048 ± 0.0003 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE022",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "55.746 ± 1.648 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.242 ± 0.112 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "20.41 ± 0.10 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.978 ± 0.227 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.980 ± 0.100 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.042 ± 0.0121 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "86.66 ± 0.0033 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.047 ± 0.0004 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE033",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "55.006 ± 0.938 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.320 ± 0.485 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "17.96 ± 0.06 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.787 ± 0.926 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.840 ± 0.07 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.260 ± 0.0082 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "86.96 ±0.0036 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.051 ± 0.0002 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE053",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "58.509 ± 0.884 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.461 ± 0.014 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "17.72 ± 0.21 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.423 ± 0.225 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.770 ± 0.07 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.046 ± 0.0265 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "86.17 ± 0.0026 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.049 ± 0.0002 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE061",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "56.083 a ± 4.695 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.831 ± 0.160 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "16.70 ± 0.53 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.207 ± 1.062 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.770 ± 0.07 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.071 + 0.0629 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "86.61 ± 0.0020 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.045 ± 0.0002 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Carob",
+          "tag": "td",
+          "rowspan": "5",
+          "align": "center",
+          "valign": "middle",
+          "colspan": "1"
+        },
+        {
+          "text": "NF",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.210 ± 0.423 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.064 ± 0.010 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "35.60 ± 3.31 ac",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.302 ± 0.121 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.09 ± 0.00",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.231 ± 0.1898 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "96.30 ± 0.0011 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.028 ± 0.0002 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE022",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "61.703 ± 0.636 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.071 ± 0.012 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "39.98 ± 3.26 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.129 ± 0.181 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.12 ± 0.00 bc",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.357 ± 0.2186 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "83.45 ± 0.0016 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.026 ± 0.000 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE033",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "63.342 ± 3.373 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.060 ± 0.014 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "44.18 ± 1.32 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "17.083 ± 0.813 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.102 ± 0.00 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.017 ± 0.0125 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "81.88 ± 0.008 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.024 ± 0.0007 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE053",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "59.482 ± 0.153 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.052 ± 0.004 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "37.96 ± 2.06 ac",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.671 ± 0.058 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.072 ± 0.0073 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.701 ± 0.1349 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "83.63 ± 0.004 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.027 ± 0.0002 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE061",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "58.016 ± 0.378 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.044 ± 0.007 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "13.71 ± 8.12 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.283 ± 0.100 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.102 ± 0.0128 ac",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d.a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "84.68 ± 0.009 d",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.025 ± 0.0002 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Rice",
+          "tag": "td",
+          "rowspan": "5",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "colspan": "1"
+        },
+        {
+          "text": "NF",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.170 ± 0.584 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.186 ± 0.040 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "19.52 ± 1.00 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d.a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.256 ± 0.0466 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.01 ± 0.005 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "98.68 a ± 0.003 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.016 ± 0.0007 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE022",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "34.572 ± 4.254 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.257 ± 0.053 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "42.72 ± 11.8 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "7.824 ± 1.163 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.244 ± 0.0139 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "n.d. a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "90.92 b ± 0.001 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.023 ± 0.07 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE033",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "41.859 ± 5.656 bc",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.281 ± 0.099 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "36.07 ± 0.85 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.567 ± 1.209 bc",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.220 ± 0.0115 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.02 ± 0.033 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "88.94 bc ± 0.001 a",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.035 ± 0.0002 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE053",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "45.991 ± 0.459 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.214 ± 0.000 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "37.33 ± 4.27 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.777 ± 0.189 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.298 ± 0.0154 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.05 ± 0.0352 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "87.68 c ± 0.004 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.032 ± 0.0001 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "VEGE061",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "44.172 ± 0.937 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.386 ± 0.0922 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "32.03 ± 2.36 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.735 ± 0.086 bc",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.240 ± 0.0066 b",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.03 ± 0.005 ab",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "88.86 ± 0.002 bc",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.035 ± 0.0007 c",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ]
+    ],
+    "footnotes": [
+      "Different letters (a–c) in the same column and in the same sample indicate statistically significant differences (p value < 0.05) according to one-way ANOVA followed by LSD post-hoc test. n.d: Not detected."
+    ]
+  }
+]

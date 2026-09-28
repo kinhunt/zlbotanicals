@@ -1,0 +1,242 @@
+Functional Exploitation of Carob, Oat Flour, and Whey Permeate as Substrates for a Novel Kefir-Like Fermented Beverage: An Optimized Formulation
+This study investigated the fortification of a carob-based kefir-like beverage (KLB) with whey permeate (WP) and oat flour (OF). The response surface method was used to show the effect of WP and OF concentrations on lactic acid bacteria and yeast cell densities, pH, total titratable acidity (TTA), total phenolics content (TCP), DPPH radical scavenging activity, and overall acceptability (OA) in KLB. The statistical design provided thirteen formulations where OF concentration varied from 3% to 5% and WP from 10% to 15%. The enrichment of carob pods decoction with WP and OF had a positive effect on biomass production. Overall fermentation was shown to increase TPC of KLB. Furthermore, OF supplementation led to the higher levels of TPC and antiradical activity. WP negatively affected OA at linear and quadratic levels, whereas no effect of OF was observed at the linear level. The optimum point was found by using WP at 11.51% and OF at 4.77%. Optimized KLB resulted in an enrichment of bioavailable phenolics derivatives and highly digestible proteins.
+1. Introduction
+Functional beverages represent one of the fastest-growing segments in a novel food category and an attractive topic of study for researchers [1]. Milk kefir is an ancient fermented beverage, and it has been associated to the framework of functional foods due to its recognized health-promoting activities, such as antitumoral, cholesterol-lowering, and immunomodulatory effects [2]. Several bacteria and yeasts isolated from kefir were also classified as potential probiotics [3,4,5]. Ingestion of probiotics may exert a positive repercussion on human health, through several mechanisms interfering with the absorption of nutrients, the immune response, and the maintenance of the intestinal barrier functions [6]. Kefir grains consist of a polysaccharide matrix, which vehicles a complex microbial consortium mainly composed of lactic acid bacteria in symbiotic association with yeasts and acetic acid bacteria [7]. They ferment sugar substrates to produce organic acids, CO2, ethanol, and multiple volatile flavor [8]. Different biotechnological innovations were previously proposed to develop a kefir-like beverage with improved sensory, nutritional, and functional features. For instance, kefir grains were used to ferment non-dairy substrates, such as tea and plant juices, to produce functional beverages enriched in bioactive compounds or able to vehicle potential health-promoting bacteria [9]. Under the conditions of our study, we investigated the fortification of a carob-based kefir-like beverage (KLB) with WP and OF. Carob fruit is known to prevent some chronic diseases and to provide human health benefits (e.g., cholesterol-lowering, anticancer, hypoglycemic, and antimicrobial effects) [10,11]. It is a rich source of natural bioactive compounds such as dietary fiber and polyphenols [12]. Its antioxidant capacity is mainly related to its high level of phenolic compounds, including flavonoids and condensed tannins [13]. The high content of fermentable sugars make carob a suitable substrate for the growth of lactic bacteria and yeasts, although the deficiency in proteins and fatty acids might make nutritional supplements necessary for microbial growth [14,15,16]. Fortification of functional beverages with prebiotic such as OF [17] might support the growth of microorganisms during fermentation other than by providing nutrients and bioactive compounds for humans. Oat is a valuable source of unsaturated fatty acids [18] and low-cost proteins [19]. Epidemiological studies linked the consumption of oat grains to a lower risk of diabetes, obesity, and certain cancers [20]. These beneficial effects would be related to the synergy between fibers, antioxidants, vitamins, and minerals. Finally, the positive contribution of lactic acid bacteria on nutritional and sensory properties of cereal-based matrices due to the increased phenolics availability, antioxidant activity, and overall intensity of odor and flavor should be not overlooked [21]. WP, a by-product of the cheese-making industry, was previously described as valuable growth medium for probiotic bacteria, able to ensure a high microbial viability [22]. The use of WP as natural antioxidant in foods was also proposed [23]. Furthermore, the addition of whey to fermented products allows the enhancement of prebiotic properties [24]. 
+Since the functional potential of KLB results from the interactions between different matrices and microbial activities, we used the response surface methodology (RSM) to optimize the KLB formulation.
+The aim of this study was to optimize the formulation of a functional KLB, which was fortified with various amount of WP and OF to improve the health-promoting features and sensory properties of KLB. A central composite design (CCD) was used to analyze the interactions between the independent variables, producing a mathematical model describing the investigated system. This approach allowed the determination of the optimal WP and OF supplementation levels to maximize the cell density of lactic acid bacteria and yeasts, the DPPH radical scavenging activities, the total phenolics content, and the consumer acceptability of KLB. Phenolic profile and protein digestibility were further evaluated for the optimized beverage.
+2. Material and Methods
+2.1. Raw Materials and KEFIR Grains
+Kefir grains belonged to LETMi laboratory (Tunis, Tunisia) and consisted of a symbiotic consortium of lactic acid bacteria (Leuconostoc spp., Lactobacillus spp., and Lactococcus spp.) and yeasts (Saccharomyces spp. and Zygosaccharomyces spp.), as previously characterized [25]. Grains were routinely propagated in pasteurized cow’s milk at room temperature (ca. 25 °C). After filtration, grains were collected and used to inoculate the mixtures [26]. 
+Whey permeates (WP) was supplied by a dairy industry (Béja, Tunisia) and used at different concentration ranging from 10% to 15% (w/v) (WP composition: proteins 3%, lactose 85%, and ash 7%). Oat flour (OF) was obtained from a local supermarket (Tunis, Tunisia) (14.8% proteins, carbohydrates 66.3%) and used at different concentrations ranging from 3% to 5% (w/v). Carob decoction (15 °Brix) was obtained by boiling carob pods (100 g carob pods/150 mL distilled water) for 30 min. After cooling, the decoction was filtered with Whatman paper and stored until uses.
+2.2. KLB Preparation
+KLB formulation (Table 1 and Table 2) was developed using carob decoction (50%) and a mixture of WP and OF (50%). The WP–OF suspension was prepared by adding the corresponding amounts of WP and OF to distilled water. All beverages were pasteurized at 90 °C for 5 min before the addition of kefir grains. An overnight grown culture of kefir grain was inoculated (5%, v/v) into 300 mL of KLB. The suspensions were fermented in 500 mL Erlenmeyer flasks at 30 °C. Samples were drawn at 24 h and analyzed for viability of lactic acid bacteria and yeasts, pH, total titratable acidity (TTA), total phenolics content (TPC), and DPPH radical scavenging activity.
+2.3. Experimental Design
+Whey permeates and oat flour concentration were the two variables used to study the interaction and the quadratic effects on pH, TTA, lactic acid bacteria and yeast growth, TPC, DPPH radical scavenging, and the overall acceptability (OA). Thirteen experiments were supported by using a central composite design (CCD) at five coded levels of −1.41, −1, 0, 1, and 1.41 (Table 1 and Table 2) with five-repeated central point [27]. The responses’ functions (Y) were related to the coded variables (xi, i = 1, 2) by a second-order polynomial using this equation: Y = b0 + b1 X1+b2 X2 +b12 X12 + b11 X12 + b22 X22(1)
+Coefficients were b0 (constant), b1, b2 (linear), b11, b22 (quadratic), and interaction b12 of the model and were calculated by NEMROD-W software (version 99901, LPRAI Company).
+The effect of independent variables was explained according the following equations:Lactic acid bacteria = 9.180 + 0.171 X1 + 0.161 X2 −0.466 X21 − 0.473 X22; R2 = 0.986(2)
+Yeasts = 6.051 + 0.131 X1 + 0.080 X2 −0.175 X21 − 0.146 X22 –0.043 X1X2; R2 = 0.925(3)
+pH = 4.258 + 0.047 X1 + 0.032 X2 +0.035 X21 +0.012 X22; R2 = 0.861(4)
+TTA = 1.054 + 0.029 X1 − 0.078 X21 − 0.08 X22 − 0.032 X1X2; R2 = 0.920 (5)
+TPC = 14.556 + 3.866 X2 +1.893 X21 + 3.624 X22 + 1.094 X1X2; R2 = 0.835(6)
+DPPH= 73.211 − 0.855 X1 + 4.167 X2 + 2.255 X21 + 1.072 X22 + 2.557 X1X2; R2 = 0.816(7)
+OA= 3.464 − 0.163 X1 − 0.070 X21 − 0.170 X22 − 0.20 X1X2; R2 = 0.965(8)
+2.4. Determination of pH and TTA
+The values of pH were determined by a pH-meter (Mettler-Toledo EL20) with a food penetration probe. TTA was determined on 10 g of kefir homogenized with 90 mL of distilled water and using 0.1 N NaOH to reach pH 8.1 and expressed as percentage (w/w) of lactic acid [28].
+2.5. Microbiological Analyses
+Lactic acid bacteria were enumerated on MRS (de Man, Rogosa, and Sharpe) agar plates containing cycloheximide (0.005%, w/v) using serial dilution. Plates were incubated at 37 °C for 48 h. Yeasts were counted on potato dextrose agar (PDA) with chloramphenicol (500 µg/mL) to inhibit the growth of bacteria. Viable counts were enumerated after incubation at 30 °C for 72 h. Results were expressed as log of colony-forming units per ml of fermented beverage (log CFU/mL).
+2.6. Determination of Total Phenolic Compounds (TPC)
+The method of the Folin–Ciocalteau was used by mixing 100 µL of diluted KLB with 500 µL reagent. After shaking, samples were incubated for 3 min and then 1.250 mL of sodium carbonate (20%, w/v) were added. The mixtures were incubated for 60 min at room temperature. The absorbance was measured at 750 nm. Results were expressed as mg gallic acid equivalents per mL of beverage [29].
+2.7. DPPH Radical Scavenging Activity 
+Radical scavenging activity was assayed using the radical 2,2-diphenyl-1-picrylhydrazyl (DPPH) as reported by [30]. Seven-hundred µL of methanolic solution of DPPH were added to 700 µL of sample. After mixing and keeping at room temperature for 30 min, the absorbance was measured at 517 nm. The antioxidant activity was recorded as DPPH radical scavenging activity (%).
+2.8. Consumer Rating of Sensory Attributes
+A group of 60 people (33 male, 27 female, and age 20–49) were requested to provide their score for color, taste, odor (aroma intensity), texture (consistency), and overall acceptability (OA) according to an increasing hedonic scale from 1 (extremely disliked) to 5 (extremely liked). An aliquot of 20 mL of KLB was shown in transparent bottles. 
+The average score for each KLB formulation was computed and used as a response for optimization.
+2.9. Analyses of Phenolics Profiles 
+The phenolics profile of KLB was investigated through liquid chromatography electrospray ionization tandem mass spectrometry (LC-ESI-MS/MS) analysis, according to the method previously validated by Tlais et al. [31]. A UHPLC Dionex 3000 (Thermo Fisher Scientific, Germany), was used, coupled to a TSQ Quantum™ Access MAX Triple Quadrupole Mass Spectrometer (Thermo Fisher Scientific, Germany), equipped with an electrospray source. Briefly, separation was with a Waters Acquity HSS T3 column (1.8 μm, 100 mm × 2.1 mm) (Milford, MA, USA), kept at 40 °C. Mobile phase A was water containing 0.1% formic acid; mobile phase B was acetonitrile containing 0.1% formic acid. The flow was 0.4 mL min−1, and the gradient profile was: 0 min, 2% B; from 0 to 3 min, linear gradient to 20% B; from 3 to 4.3 min, isocratic 20% B; from 4.3 to 9 min, linear gradient to 45% B; from 9 to 11 min, linear gradient to 100% B; from 11 to 13 min, wash at 100% B; from 13.01 to 15 min, back to the initial conditions of 5% B. The injection volume was 3 μL. Target phenols were detectable under multiple reaction monitoring mode, and the compounds were identified based on their reference standard, retention time, and qualifier and quantifier ion (Table S1).
+Separation, identification, and quantification of microbial derivatives of phenolic acids were performed according to the method validated by Filannino et al. [32]. The HPLC system Ultimate 3000 (Dionex, Germering, Germany) was used, equipped with a Kinetex C18 Phenomenex (150 × 4.6 mm with a particle size of 5 μm) column (Thermo Fisher Scientific), a photodiode array detector (PAD 3000), low-pressure pump Ultimate 3000, and an injector loop Rheodyne (Rheodyne, USA, volume 20 μL). Briefly, the injected volume was 10 μL, and the column oven was set at 35 °C. Mobile phase consisted of (A) water + 0.1% trifluoroacetic acid (TFA) and (B) acetonitrile + 0.1% TFA. A linear gradient program at a flow rate of 1.0 mL min−1 was used: 0.0–5.0 min from 5% to 10% (B), 5.0–25 min from 10% to 40% (B), 25–45 min from 40% to 90% (B), then 90% (B) for 5 min and 45–50 min from 90% to 5% (B). PAD analyses of phenolic acid derivatives were performed at 280, 310, and 320 nm wavelengths (Figure S1).
+Chromeleon Software version 7 (Dionex, Germering, Germany) was used for instrument control, data acquisition, and data analysis.
+2.10. In Vitro Protein Digestibility
+The in vitro protein digestibility was determined on KLB both prior and after the fermentation by the method proposed by Akeson and Stahmann [33] with some modifications [34]. Samples were subjected to a sequential enzyme treatment mimicking the in vivo digestion in the gastro-intestinal tract, and protein digestibility was expressed as the percentage of the total protein, which was solubilized after enzyme hydrolysis.
+2.11. Statistical Analysis
+Analyses were carried out in triplicate on three biological replicates for each condition. Data were subjected to analysis of variance (ANOVA) test for multiple comparisons (one-way ANOVA followed by Tukey’s procedure at p < 0.05), using the statistical software Statistica 7.0 (StatSoft, Tulsa, OK, USA).
+3. Results and Discussion
+3.1. Response Surface Methodology (RSM) Implementation
+Carob is an excellent source of phytochemicals, including phenolic compounds [35]. We applied the RSM to optimize the formulation of a carob-based KLB fortified with WP and OF, aiming at increasing the growth and the viability of lactic acid bacteria and yeasts, the DPPH radical scavenging activity, and the total phenolics content. The process variables investigated during fermentations were WP and OF concentrations. WP was used due to its high content of oligosaccharides [24,36], whereas OF was used as a source of amino acids, unsaturated fatty acids, and dietary fibers [37,38]. Such components have been shown to exert health-promoting effects in humans [37,38], as well as playing a positive role in promoting the microbial growth during KLB fermentation and microbial viability as source of a potential probiotic activity [17,24]. 
+The responses to the effects of WP (X1) and OF (X2) (each one at five levels and in the combinations) in terms of lactic acid bacteria and yeast cell densities, pH, TTA, TPC, DPPH radical scavenging activity, and OA, were shown in Table 2. Based on the statistical analysis, the proposed model resulted adequately, possessing no significant lack of fit and with very satisfactory values of the R2 for the majority of the responses. The closer the value of R2 to unity, the better the empirical models fit the actual data (Table S2).
+3.2. Effect of Independent Variables on Lactic Acid Bacteria and Yeasts Growth
+Response surface was used to illustrate the effect of WP and OF concentrations on the growth of lactic acid bacteria and yeasts in KLB. The response surfaces and contour plots are shown in Figure 1A,B.
+Lactic acid bacteria and yeast cell densities varied from 7.85 ± 0.08 to 9.29 ± 0.09 and 5.47 ± 0.27 to 6.05 ± 0.29 log CFU/mL, respectively (Table 2). The enrichment of carob decoction with OF and WP led to a significant improvement of microbial growth. When carob was used as sole carbon and nitrogen source (data not shown), the lactic acid bacteria growth was limited. Bouhadi et al. [15] previously showed an increase of lactic acid bacteria growth and lactate production when the carob syrup was enriched with sweet cheese. The promoting effect of oat on the growth of probiotic bacteria and their use as a probiotic carrier was also described by several authors [39,40,41]. The results of LAB and yeast counts were in accordance with those shown by Sabokbar et al. [42], using whey and apple juice as growth media.
+The effects of WP and OF on growth of yeasts and lactic acid bacteria at linear, quadratic, and interaction levels are shown in Table 3. The sign of the coefficients for these parameters at the linear level is positive, confirming their synergistic effects. However, negative interaction was found between WP and OF on yeast growth (b12, p < 0.001). Quadratic effects were also negative for lactic acid bacteria and yeasts responses.
+The three-dimensional response surface was used to understand the interaction between the two factors and to visualize the combined effects of factors on lactic acid bacteria and yeasts growth (Figure 1A,B). The shapes of the contour plots can explain the interaction between the variables [43]. Elliptical contour plots indicated the interactions. However, circular ones indicated that the interactions between the variables are negligible. Therefore, the interactions between OF and WP were negligible on lactic acid bacteria and yeast growth. 
+3.3. Effect of Independent Variables on pH and TTA
+The pH and TTA values ranged from 4.25 ± 0.02 to 4.39 ± 0.02 and 0.79% ± 0.02% to 1.07% ± 0.04% (w/w), respectively. WP affected positively the pH and TTA responses for linear effect (Table 3). According to Ismaiel et al. [44], lactose is the most suitable carbon source for kefir-associated microorganisms, giving the highest values of biomass and lactic acid concentration. Lactic acid is needed to ensure proper flavor and prolonged shelf life of the kefir beverage. However, the pH values are not correlated with the TTA, likely due to the different buffering capacity of WP and OF. The pH and TTA were found to be in function of the linear and quadratic effects of WP and OF. The linear and quadratic effects were both positive for pH, which explained the observed behavior of the curve, as shown in Figure 2A. As shown by linear coefficients, WP and OF positively affected the pH and TTA. Nevertheless, the quadratic coefficients of WP and OF were negative for TTA (Figure 2B). On the other hand, the interactive effect between WP and OF was not significant for pH, but it was significant for TTA (Table 3). 
+3.4. Effect of Independent Variables on TPC and Antiradical Activity
+The increase in TPC was linked to the linear effect of OF (p < 0.001), to the quadratic effect of both WP and OF (p < 0.05), and to the interactive effect of WP and OF (p < 0.001) (Table 3). Phenolic compounds of carob mostly comprise hydroxybenzoic acids, flavonols, flavan-3-ols, and gallotannins [45]. Although the richness of KLB in phenolic compounds is also attributable to the carob decoction, OF was found to have a significant positive effect on TPC. Oat is rich in phenolic compounds, especially ferulic acid [46]. Furthermore, avenanthramides, which are hydroxycinnamoyl anthranilate alkaloids, are found exclusively in oats [20,47,48]. Positive interaction was found between WP and OF on TPC response, as showed by elliptical contour plots (Figure 3A).
+Analysis of variance (ANOVA) was carried out to determine the significance of WP and OF and their quadratic and interactive levels on TPC (Table 3). 
+Health benefits of phenolic compounds are typically related to their antioxidant activity, which is associated with their ability to donate hydrogen or electrons to free radicals, offering protection against oxidative processes and chronic disease [49,50]. Linear, quadratic, and interactive effect of OF and WP on radical scavenging activity of KLB are significant. Linear and quadratic effect of OF are positive (b2 > 0 and b22 > 0) (Table 3). These results indicate that OF supplementation enhanced the antiradical activity of KLB, likely due to the abundance of antioxidant compounds in oat, which include not only phenolics, but also tocopherols, tocotrienols, and sterols.
+WP negatively affected the DPPH radical scavenging activity (b1 < 0, p < 0.05). Mariken et al. [51] found that the antioxidant capacity of a mixture of phenolic compounds, and protein is less than the sum of the antioxidant capacity of phenolic and protein separately. However, the interactive levels of the variables WP and OF were positive (b12 > 0, p < 0.01), as shown by contour plots (Figure 3B). DPPH results showed high antioxidant activities, as reported by Randazzo et al. 2016 [52] 
+KLB fermentation affected both the TPC and antiradical activity (Table 4). In all fermented KLB samples, the TPC values were significantly (p < 0.05) higher with respect to the unfermented samples. 
+These results can be explained through the enzymatic activities of microorganisms (e.g., β-glycosidase, esterase), which are responsible for release of non-extractable phenolics [53]. The released metabolites likely led to an increase of the antiradical activity of KLB [30,53,54,55,56,57,58]. The experiment n°4 showed the highest levels of DPPH radical scavenging activity and TPC. In fact, DPPH radical scavenging activity and TPC increased from 68.84% to 85.7% and from 12.55 to 27.69 mg GAE/mL, respectively. Fermentation might be also responsible for releasing peptides or amino acids from WP, which are able to donate hydrogen atoms to DPPH radicals [59].
+3.5. Effect of Independent Variables on CONSUMER Rating of Sensory Attributes
+The influence of OF and WP, alone or combined, on the OA of KLB samples is represented in Table 3. The R2 of models (Table 3) was close to 1 (0.965), indicating that variation in responses could adequately be explained by the concentration of ingredients. Furthermore, the statistical analysis of variance showed a non-significant lack of fit for the models, suggesting that the terms included in the models are sufficient to describe the true surface of responses.
+The beverages took scores in the range of 2.8 to 3.6 in a five-point hedonic scale. WP negatively affected OA at linear (b1 < 0.001) and quadratic levels (b11 < 0, p <0.05) (Table 3), whereas no significant effect of OF was observed at the linear level. Previous studies showed that an adequate thermal treatment is necessary for the development of oat aroma [60,61]. According to the consumer rating, high WP contents led to the detection of an unpleasant odor in fermented KLB samples and a decrease of OA. This result is in accordance with previous studies, where WP was associated to low sensory acceptance [30,62]. OA was also negatively affected at the quadratic level of OF (b22 < 0, p < 0.001) and at the interactive levels (WP/OF) (Figure 4). 
+3.6. Verification of the Model
+The optimum point was verified by using WP at 11.51% and OF at 4.77% for the validation of the model. The confirmation was repeated three times. Results are shown in Table 5. 
+3.7. Effect of Fermentation on Bioactive and Nutritional Compounds of KLB
+Eleven phenolics were identified and quantified into the unfermented optimized mixture, including phenolic acids and flavonoids (Figure 5). Gallic acid was the most represented compound (17.93 ± 0.33 mg L−1). 
+After fermentation, the phenolics profile in KLB that resulted was modified with respect to the unfermented mixture (Figure 5). Main changes were related to the release of catechin and hyperoside, and to the conversion of phenolic acids to microbial derivatives, like dihydroferulic acid, ethyl catechol, and p-Vinyl phenol, respectively (Figure 5). The release of catechin and hyperoside was likely due to the degradation of phenolics-associated carbohydrates and proteins and to the breakdown of oligomeric flavonoids [31,63,64]. The metabolism of phenolic acids has been described in both lactic acid bacteria and yeasts [58,65,66,67]. Dihydroferulic acid is the reduced derivative of ferulic acid. The decarboxylation of p-coumaric acid led to p-Vinyl p-Vinyl phenol. Ethyl catechol resulted from the reduction of vinyl derivative of caffeic acid [65]. Most of these microbial derivatives exert biological activities [58], and they may contribute to the aroma attributes of fermented foods. p-Vinyl phenol is considered a food additive and is approved as a flavoring agent. Ethyl derivatives are considered the most important flavor components of fermented soy sauce, although they may cause off flavor in wine [68]. 
+After fermentation, KLB resulted in higher (p < 0.05) protein digestibility (94% ± 1%) with respect to the unfermented mixture (89% ± 1%). Recent developments in functional beverages focused on protein intake, since cereals and others plant matrices contain several compounds that can prevent protein digestibility [68,69]. Proteolysis operated by the endogenous enzymes as well by microbial enzymatic activities likely affected the increased protein digestibility; however, the degradation of antinutritional factors, some of which are responsible for binding proteins, must be considered as co-responsible for such increase in fermented KLB.
+4. Conclusions
+Our results showed that central composite designs might represent a useful tool to optimize the formulation of a functional carob-based KLB fortified with low cost and highly nutritional matrices, like WP and OF. Such substrates modulated the microbial growth in a dose-depending manner, as well as the antiradical activity, TPC, and acceptability of fermented KLB. By using 11.51% WP and 4.77% OF, we obtained the KLB with the best fit of desirability. The optimized formulation resulted in KLB enriched in bioavailable phenolics derivatives and highly digestible proteins.
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary Materials
+The following are available online at https://www.mdpi.com/2304-8158/10/2/294/s1: Table S1: Mass transitions (MRM) and instrumental parameters optimized for phenolic compounds analyzed by LC-ESI-MS/MS, Table S2: Analysis of variance for each response (lactic acid bacteria and yeasts cell counts, pH, total titratable acidity [TTA], total phenolics content [TPC], DPPH radical scavenging activity, and overall acceptability [OA]), Figure S1: Separation by HPLC (280 nm) of microbial derivatives of phenolic acids in methanol/water-soluble extracts obtained from the unfermented mixture (A) and fermented KLB (B). 
+Click here for additional data file.
+Author Contributions
+Conceptualization: S.M.; data curation: S.M.; formal analysis: A.M.; investigation: S.M., P.F., and A.Z.A.T.; methodology: P.F. and A.M.; software: A.M.; supervision: P.F. and L.A.; writing—original draft: S.M. and L.A.; writing—review and editing: S.M., P.F., R.D.C. and L.A. All authors have read and agreed to the published version of the manuscript.
+Funding
+This research received no external funding.
+Data Availability Statement
+The datasets generated for this study are available on request to the corresponding author.
+Conflicts of Interest
+The authors declare no conflict of interest.
+References
+Opportunities and challenges for functional and medicinal beverages: Current and future trends
+Microbiological, biochemical, and functional aspects of sugary kefir fermentation—A review
+Kefir—A complex probiotic
+Yeasts from kefir grains: Isolation, identification, and probiotic characterization
+Selection of lactic acid bacteria from Brazilian kefir grains for potential use as starter or probiotic cultures
+Role of the Microbiota in Immunity and inflammation
+Milk kefir: Composition, microbial cultures, biological activities, and related products
+Effect of different healing activity of kefir and kefiran extract
+Probiotication of Fruit Juices by Supplemented Culture of lactobacillus acidophilus
+Nutritional characterization of carobs and traditional carob products
+Functional Components of Carob Fruit: Linking the Chemical and Biological Space
+Gastroprotective effect of carob (Ceratonia siliqua L.) against ethanol-inducedoxidative stress in rat
+Carob pods (Ceratonia siliqua L.) as a source of polyphenolic antioxydants
+Kinetic of batch production of lactic acid from carob pods syrup
+Improving of lactic acid production by Lactobacillus plantarum from carob pods syrup
+Fibres as carriers for Lactobacillus rhamnosus during freeze-drying and storage in apple juice and chocolate-coated breakfast cereals
+Oat lipids
+Whole-grain oats (Avena sativa L.) as a carrier of lactic acid bacteria and a supplement rich in angiotensin I-converting enzyme inhibitory peptides through solid-state fermentation
+Health benefits of oat: Current evidence and molecular mechanisms
+Manufacture and characterization of a yogurt-like beverage made with oat flakes fermented by selected lactic acid bacteria
+Whey permeate containing galacto-oligosaccharides as a medium for biomass production and spray drying of Lactobacillus plantarum CIDCA 83114
+Production of antioxidant hydrolyzates from a whey protein concentrate with thermolysin: Optimization by response surface methodology
+Use of whey permeate containing in situ synthesised galacto-oligosaccharides for the growth and preservation of Lactobacillus plantarum
+Microbialflora assiated with Tunisian household kefir
+Evaluation d el’effet protecteur du lait de chèvre fermenté par le kefir et enrichi à la caroube contre l’ulcère gastrique induit par l’étahnol chez le rat
+Characterization of pomegranate juice and whey based novel beverage fermented by kefir grains
+Phenolic fortification of yogurt using grape and callus extracts
+Development of a Novel Whey Date Beverage Fermented with Kefir Grains Using Response Surface Methodology
+Biotechnological re-cycling of apple by-products: A reservoir model to produce a dietary supplement fortified with biogenic phenolic compounds
+Lactic acid fermentation enriches the profile of biogenic fatty acid derivatives of avocado fruit (Persea americana Mill.)
+A pepsin-pancreatin digest index of protein quality
+Use of sourdough made with quinoa (Chenopodium quinoa) flour and autochthonous selected lactic acid bacteria for enhancing the nutritional, textural and sensory features of white bread
+Carob as cocoa substitute: A review on composition, health benefits and food applications
+The biotechnological potential of whey
+Prebiotic Dietary Fiber and Gut Health: Comparing the in Vitro Fermentations of Beta-Glucan, Inulin and Xylooligosaccharide
+Nutraceurical functions of bêta-glucans
+Development of fermented oat flour beverage as a potential probiotic vehicle
+Co-production of lactic acid and Lactobacillus rhamnosus cells from whey permeate with nutrient supplements
+Fermentation adaptability of three probiotic Lactobacillus strains to oat, germinated oat and malted oat substrates
+Optimization of processing conditions to improve antioxidant activities of apple juice and whey based novel beverage fermented by kefir grains
+Response surface optimization of l-(+)- lactic acid roduction using corn steep liquor as an alternative nitrogen source by Lactobacillus rhamnosus CGMCC 1466
+Some physicochemical analyses of kefir produced under different fermentation conditions
+Utilization of Carob Fruit as Sources of Phenolic Compounds with Antioxidant Potential: Extraction Optimization and Application in Food Models
+Contents of phenolic acids, alkyl- and alkenylresorcinols, and avenanthramides in commercial grain products
+Phenolic compounds of cereals and their antioxidant capacity
+Composition and content of phenolic acids and avenanthramides in commercial oat products: Are oats an important polyphenol source for consumers
+Bioavailability and bioefficacy of polyphenols in humans. I. Review of 97 bioavailability studies
+Functional Properties of Polyphenols in Grains and Effects of Physicochemical Processing on Polyphenols
+Interactions between Flavonoids and Proteins: Effect on the Total Antioxidant Capacity
+Development of new non-dairy beverages from Mediterranean fruit juices fermented with water kefir microorganisms
+Microbiological, Biochemical, and Functional Aspects of Fermented Vegetable and Fruit Beverages
+Development of a beverage from red grape juice fermented with the Kombucha consortium
+Manufacture of a beverage from cactus pear juice using tea fungus fermentation
+Development of kefir-based probiotic beverages with DNA protection and antioxidant activities using soybean hydrolyzed extract, colostrum and honey
+Lactic Acid Fermentation of Pomegranate Juice as a Tool to Improve Antioxidant Activity
+Metabolic and functional paths of lactic acid bacteria in plant foods: Get out of the labyrinth
+Total phenolic content and antioxidant activities of pomegranate juice and whey based novel beverage fermented by kefir grains
+Gas chromatography-mass spectroscopy investigations on the flavor chemistry of oat groats
+Effect of heat treatment on the flavor of oat flakes
+Functional Fermented Whey Foods: Their Role in Human Health
+Stability and metabolism of Arbutus unedo bioactive compounds (phenolics and antioxidants) under in vitro digestion and colonic fermentation
+Non-extractable polyphenols, a major dietary antioxidant: Occurrence, metabolic fate and health effects
+Hydroxycinnamic acids used as external acceptors of electrons: An energetic advantage for strictly heterofermentative lactic acid bacteria
+New insights on the features of the vinyl phenol reductase from the wine-spoilage yeast Dekkera/Brettanomyces bruxellensis
+Factors affecting the hydroxycinnamate decarboxylase/vinylphenol reductase activity of Dekkera/Brettanomyces: Application for Dekkera/Brettanomyces control in red wine making
+Biotransformation of phenolics by Lactobacillus plantarum in fermented foods
+Design and Characterization of a Novel Fermented Beverage from Lentil Grains
+Use of selected lactic acid bacteria and quinoa flour for manufacturing novel yogurt-like beverages
+(A) Response surface and contour plots representing the effect of WP and OF on lactic acid bacteria cell counts (X1: WP; X2: OF). (B) Response surface and contour plots representing the effect of WP and OF on yeast cell counts (X1: WP; X2: OF).
+(A) Response surface and contour plots representing the effect of WP and OF on pH values (X1: WP; X2: OF). (B) Response surface and contour plots representing the effect of WP and OF on TTA (X1: WP; X2: OF).
+(A) Response surface and contour plots representing the effect of WP and OF on total polyphenol content (X1: WP; X2: OF). (B) Response surface and contour plots representing the effect of WP and OF on DPPH radical scavenging activity (%) (X1: WP; X2: OF).
+Response surface and contour plots representing the effect of WP and OF on overall acceptability (X1: WP; X2: OF).
+Concentration (mg L−1) of phenolic compounds identified into the unfermented mixture (white bars) and fermented KLB (black bars). Data were subjected to one-way ANOVA; pair-comparison of treatment means was achieved by Tukey’s procedure at p < 0.05. For each compound, bars with different superscript letters differ significantly (p < 0.05).
+foods-10-00294-t001_Table 1Table 1Independent variables (whey permeates, WP; oat flour, OF) and their levels in the central composite design.Variable Parameter(%, w/v)Ranges and Level−1.41−1011.41X1WP1010.7312.514.2715X2OF33.2944.715
+Independent variables (whey permeates, WP; oat flour, OF) and their levels in the central composite design.
+foods-10-00294-t002_Table 2Table 2Matrix of the central composite design (CCD) and observed responses to the percentages of WP and OF for the response variables (lactic acid bacteria (LAB) and yeasts cells count, pH, total titratable acidity (TTA), total phenolics content (TPC), DPPH radical scavenging activity, and overall acceptability (OA)).ExpN°Coded VariablesResponses VariablesWP (% w/v) Actual ValuesCoded ValuesOat Flour (% w/v) Actual valuesCoded ValuesLAB Cells Count (log CFU/mL)Yeasts Cells Count (log CFU/mL)pHTTA (%)TPC (mg EGA/mL)DPPH Radical Scavenging Activity (%)OA (5 Point Hedonic Scale)X1X2(Y1)(Y2)(Y3)(Y4)(Y5)(Y6)110.73 (−1)−13.29 −17.85 ± 0.085.47 ± 0.274.21 ± 0.010.79 ± 0.0219.365 ± 0.2474.27 ± 0.333.20 ± 0.52214.27 (1)13.29−18.17 ± 0.15.73 ± 0.244.29 ± 0.020.96 ± 0.0217.369 ± 0.5367.90 ± 0.0233.30 ± 0.57310.73 (−1)−14.7118.25 ± 0115.70 ± 0.284.31 ± 0.030.86 ± 0.0225.317 ± 0.2881.84 ± 0.513.50 ± 0.61414.27 (1)14.7118.55 ± 0.095.79 ± 0.264.42 ± 0.020.90 ± 0.0227.697 ± 0.9885.70 ± 0.392.80 ± 0.62510.00 −1.414.0008.02 ± 0.125.51 ± 0.294.26 ± 0.030.91 ± 0.0415.625 ± 0.3378.36 ± 0.293.60 ± 0.68615.001.414.0008.55 ± 0.16.00 ± 0.254.39 ± 0.020.92 ± 0.0216.328 ± 0.375.30 ± 0.623.10 ± 0.52712.5003.00−1.418.09 ± 0.095.69 ± 0.274.27 ± 0.040.90 ± 0.0514.259 ± 0.3871.65 ± 0.423.20 ± 0.41812.5005.001.418.45 ± 0.125.94 ± 0.294.29 ± 0.030.92 ± 0.0224.617 ± 0.2877.28 ± 0.253.10 ± 0.64912.5004.0009.10 ± 0.106.05 ± 0.264.25 ± 0.021.05 ± 0.0314.070 ± 0.4174.61 ± 0.343.40 ± 0.501012.5004.0009.11 ± 0.096.05 ± 0.294.27 ± 0.031.05 ± 0.0514.780 ± 0.6572.44 ± 0.293.45 ± 0.601112.5004.0009.21 ± 0.106.04 ± 0.254.25 ± 0.021.05 ± 0.0214.680 ± 0.5273.38 ± 0.353.42 ± 0.531212.5004.0009.19 ± 0.116.05 ± 0.284.27 ± 0.031.05 ± 0.0314.680 ± 0.4472.93 ± 0.223.55 ± 0.601312.5004.0009.29 ± 0.096.05 ± 0.244.25 ± 0.011.07 ± 0.0414.570 ± 0.3272.69 ± 0.413.50 ± 0.61TPC, Total polyphenol content mg EGA/mL. DPPH%, DPPH radical scavenging activity%.
+Matrix of the central composite design (CCD) and observed responses to the percentages of WP and OF for the response variables (lactic acid bacteria (LAB) and yeasts cells count, pH, total titratable acidity (TTA), total phenolics content (TPC), DPPH radical scavenging activity, and overall acceptability (OA)).
+TPC, Total polyphenol content mg EGA/mL. DPPH%, DPPH radical scavenging activity%.
+foods-10-00294-t003_Table 3Table 3Analysis of variance for each response Y1 (lactic acid bacteria cells count), Y2 (yeasts cell count), Y3 (pH), Y4 (TTA), Y5 (TPC), Y6 (DPPH radical scavenging activity), and Y7 (OA) (linear, quadratic and interaction).SourceTitleY1Y2Y3Y4Y5Y6Y7CoefficientSignif.%CoefficientSignif.%CoefficientSignif.%CoefficientSignif.%CoefficientSignif.%Coefficient Signif.%CoefficientSignifi.%Model
+
+
+
+
+
+
+
+
+
+
+
+
+
+b09.180***6.051***4.258***1.054***14.556***73.211***3.464***Linear
+
+
+
+
+
+
+
+
+
+
+
+
+
+b10.171***0.131***0.047***0.029**0.17215.8−0.855*−0.163***b20.161***0.080***0.032**0.00614.73.866***4.167***−0.0436.6Quadratic
+
+
+
+
+
+
+
+
+
+
+
+
+
+b11−0.466***-0.175***0.035**−0.078***1.893***2.255**−0.070*b22−0.473***-0.146***0.012*−0.080***3.624***1.072*−0.170***Interaction
+
+
+
+
+
+
+
+
+
+
+
+
+
+b12−0.00590.1-0.043***0.00824.2−0.032**1.094**2.557**−0.200***
+R2
+0.986 
+0.925 
+0.861 
+0.920 
+0.835
+0.816 
+0.965 
+Adj-R20.975
+0.872
+0.762
+0.862
+0.717
+0.684
+0.940
+(* p < 0.05, ** p < 0.01, and *** p < 0.001).
+Analysis of variance for each response Y1 (lactic acid bacteria cells count), Y2 (yeasts cell count), Y3 (pH), Y4 (TTA), Y5 (TPC), Y6 (DPPH radical scavenging activity), and Y7 (OA) (linear, quadratic and interaction).
+(* p < 0.05, ** p < 0.01, and *** p < 0.001).
+foods-10-00294-t004_Table 4Table 4DPPH radical scavenging activity and total phenolics content measured before and after KLB fermentation.Independant VariablesDPPH Radical Scavenging Activity (%)TPC (mg GAE/mL)UnfermentedFermentedUnfermentedFermentedExp 168.49 ef ± 0.6774.27 de ± 0.469.59 a ± 0.3419.36 e ± 0.55Exp 265.60 a ± 0.4467.90 a ± 0.5514.04 f ± 0.4417.36 d ± 0.37Exp 370.53 g ± 0.6181.84 g ± 0.8910.73 b ± 0.5225.31 f ± 0.63Exp 468.84 ef ± 0.5585.70 h ± 0.7712.55 e ± 0.6627.69 g ± 0.34Exp 575.12 h ± 0.4178.36 f ± 0.6914.33 f ± 0.4815.62 bc ± 0.62Exp 668.43 de ± 0.5275.30 e ± 0.5511.75 cde ± 0.3316.32 c ± 0.87Exp 766.41 ab ± 0.5271.65 b ± 0.7310.88 bc ± 0.4214.25 a ± 0.60Exp 869.40 f ± 0.6577.28 f ± 0.629.22 a ± 0.4924.61 f ± 0.68Exp 966.91 bc ± 0.4374.61 e ± 0.5111.50 bcd ± 0.6814.07 a ± 0.34Exp 1066.86 bc ± 0.3572.44 bc ± 0.8711.60 bcd ± 0.5514.78 ab ± 0.67Exp 1167.57 cd ± 0.6373.38 cd ± 0.6911.92 de ± 0.4614.68 ab ± 0.47Exp 1267.17 bc ± 0.7372.93 c ± 0.4911.88 de ± 0.7714.68 ab ± 0.72Exp1366.81 bc ± 0.4572.69 bc ± 0.6711.64 cd ± 0.6214.57 a ± 0.56Means ± standard error with the same letter did not differ significantly (p < 0.05). (Thirteen experiments as conducted by the central composite design representing thirteen KLB). 
+DPPH radical scavenging activity and total phenolics content measured before and after KLB fermentation.
+Means ± standard error with the same letter did not differ significantly (p < 0.05). (Thirteen experiments as conducted by the central composite design representing thirteen KLB). 
+foods-10-00294-t005_Table 5Table 5Predicted and experimental value for optimized formulation of KLB.Response VariableOptimum ConditionsExperimentalPredictedpH4.32 ± 0.024.29TTA (%)0.95 ± 0.040.96Lactic acid bacteria cells count (Log CFU/mL)8.62 ± 0.158.57Yeasts cells count (Log CFU/mL)5.80 ± 0.265.87DPPH radical scavenging activity (%)79.80 ± 0.4678.59TPC mg GAE/mL 21.40 ± 0.5322.76OA (5 point hedonic scale)3.44 ± 0.463.41Mean values ± SD (n = 3).
+Predicted and experimental value for optimized formulation of KLB.
+Mean values ± SD (n = 3).

@@ -1,0 +1,42 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync,existsSync} from 'node:fs';
+import {createHash} from 'node:crypto';
+import {createMarkdownProcessor} from '@astrojs/markdown-remark';
+import {parseFragment} from 'parse5';
+const slug='tiger-nut-fermented-drinks';
+for(const lang of ['en','zh']) test(`${lang}: tiger nut localized discovery and accessible native reader`,()=>{
+ const prefix=lang==='zh'?'zh/':'';
+ const html=readFileSync(`dist/${prefix}resources/blog/${slug}/index.html`,'utf8');
+ assert.match(html,/tiger-nut-reader/);
+ assert.ok(!html.includes(lang==='en'?'Interested in our botanical extracts?':'对我们的植物提取物感兴趣？'));
+ for(const route of ['resources/application-guides','resources/blog/oat-beta-glucan-material-selection'])assert.ok(readFileSync(`dist/${prefix}${route}/index.html`,'utf8').includes(`/${prefix}resources/blog/${slug}`),route);
+ const all=nodes(parseFragment(html));
+ assert.equal(all.filter(n=>attr(n,'class')==='mobile-label').length,25);
+ assert.equal(all.filter(n=>attr(n,'class')==='mobile-label'&&attr(n,'aria-hidden')==='true').length,0);
+ assert.ok(all.some(n=>attr(n,'href')===`/${lang==='en'?'zh/':''}resources/blog/${slug}`));
+});
+test('tiger nut complete original and independent review evidence preserved',()=>{
+ const hashes=JSON.parse(readFileSync('docs/evidence/tiger-nut/source-manifest.json','utf8'));
+ assert.equal(Object.keys(hashes).length,74);
+ for(const [path,hash] of Object.entries(hashes))assert.equal(createHash('sha256').update(readFileSync('docs/evidence/tiger-nut/'+path)).digest('hex'),hash,path);
+});
+const nodes=n=>[n,...(n.childNodes??[]).flatMap(nodes)];
+const attr=(n,k)=>n.attrs?.find(a=>a.name===k)?.value;
+const text=n=>n.nodeName==='#text'?n.value:(n.childNodes??[]).map(text).join('');
+const norm=s=>s.replace(/[‘’]/g,"'").replace(/[“”]/g,'"').replace(/\s+/g,' ').trim();
+for(const lang of ['en','zh']) test(`${lang}: tiger nut reviewed prose and every table cell preserved`,async()=>{
+ assert.ok(existsSync(`src/content/blog/${lang}/${slug}.md`),'reviewed tiger nut article missing');
+ const original=readFileSync(`docs/evidence/tiger-nut/review/tiger-nut-fermentation.${lang}.md`,'utf8');
+ const processor=await createMarkdownProcessor({smartypants:true});
+ const expected=parseFragment((await processor.render(original.replace(/^# .+\n/,'').split('\n## Sources\n')[0])).code);
+ const actual=parseFragment(readFileSync(`dist/${lang==='zh'?'zh/':''}resources/blog/${slug}/index.html`,'utf8'));
+ for(const n of nodes(actual))if(attr(n,'class')==='mobile-label')n.childNodes=[];
+ const txt=norm(text(actual));
+ for(const n of nodes(expected).filter(n=>['h2','h3','p','li'].includes(n.nodeName)))assert.ok(txt.includes(norm(text(n))),norm(text(n)));
+ const tables=n=>nodes(n).filter(n=>n.nodeName==='table').map(t=>nodes(t).filter(n=>['th','td'].includes(n.nodeName)).map(n=>norm(text(n))));
+ assert.deepEqual(tables(actual),tables(expected));assert.equal(tables(actual).length,2);
+ for(const id of ['1','5','6'])assert.equal(nodes(actual).filter(n=>attr(n,'id')===`tiger-nut-ref-${id}`).length,1);
+ for(const url of original.match(/https:\/\/[^\s]+/g))assert.ok(nodes(actual).some(n=>attr(n,'href')===url),url);
+ assert.ok(!txt.includes('降酸'));assert.ok(!txt.includes('**'));
+});

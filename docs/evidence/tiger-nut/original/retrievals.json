@@ -1,0 +1,40 @@
+[
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12071967/fullTextXML",
+    "file": "sources/PMC12071967.xml",
+    "bytes": 277098
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8875529/fullTextXML",
+    "file": "sources/PMC8875529.xml",
+    "bytes": 144494
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7912806/fullTextXML",
+    "file": "sources/PMC7912806.xml"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11759640/fullTextXML",
+    "file": "sources/PMC11759640.xml"
+  },
+  {
+    "url": "https://www.tigernuts.com/products/extra-fine-tigernuts-flour/",
+    "file": "sources/supplier0.html",
+    "status": 200
+  },
+  {
+    "url": "https://www.tigernuts.com/pdf/Catalogue_Tigernuts_Traders_-_Food_ENG.pdf",
+    "file": "sources/supplier1.pdf",
+    "status": 200
+  },
+  {
+    "url": "https://naturesflavors.com/collections/cardamom",
+    "file": "sources/supplier2.html",
+    "status": 200
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12071967/supplementaryFiles",
+    "file": "sources/PMC12071967.assets.zip",
+    "status": 200
+  }
+]
