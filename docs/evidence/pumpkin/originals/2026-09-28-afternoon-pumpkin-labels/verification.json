@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "images_downloaded": 18,
+  "images_visually_inspected": 18,
+  "individual_original_images_inspected": 8,
+  "whole_images_unexamined": 0,
+  "checks": [
+    {
+      "asin": "B01N7CLYX7",
+      "initial_images": 8,
+      "url_title_input_binding": true,
+      "balanced_json_parity": true
+    },
+    {
+      "asin": "B0CWVTCT7G",
+      "initial_images": 5,
+      "url_title_input_binding": true,
+      "balanced_json_parity": true
+    },
+    {
+      "asin": "B0FWJGBPWM",
+      "initial_images": 5,
+      "url_title_input_binding": true,
+      "balanced_json_parity": true
+    }
+  ],
+  "scope": "No composition, certification, safety or ranking verification. Fine print limitations in ledger."
+}

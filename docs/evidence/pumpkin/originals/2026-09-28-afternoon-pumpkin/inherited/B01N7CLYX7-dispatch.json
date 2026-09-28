@@ -1,0 +1,5 @@
+{
+  "output": "{\"ok\":true,\"command\":\"script.run\",\"browser\":{\"id\":\"c0c44c26-eca6-4638-86fd-ade14ff3aa03\",\"name\":\"cedar-vale\"},\"result\":{\"executionId\":\"exec_7e28389069bb4eed\",\"status\":\"running\"}}",
+  "exit_code": 0,
+  "error": null
+}

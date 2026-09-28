@@ -1,0 +1,1487 @@
+{
+  "status": "PASS",
+  "checks": 370,
+  "scope": "Read-only byte/cell/identity/display regression; semantic and visual findings are separately recorded, no deployment approval",
+  "results": [
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/DECISION.md",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/HANDOFF.md",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/artifact-manifest.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/build_evidence.py",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/citation-verification.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/citations.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/claims.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/draft.en.md",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/draft.zh.md",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/B01N7CLYX7-dispatch.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/B01N7CLYX7.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/B0CWVTCT7G-dispatch.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/B0CWVTCT7G.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/B0FWJGBPWM-dispatch.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/B0FWJGBPWM.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/OBSERVATIONS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/actions.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/catalog.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/detail-schema.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/ping.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/pumpkin-search-completed.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/pumpkin-search.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/inherited/schema.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/source-manifest.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/PMC11748320-cells.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/PMC11748320-paragraphs.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/PMC11748320-tables.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/PMC11748320.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/PMC11748320.xml",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/PMC9777787-cells.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/PMC9777787-paragraphs.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/PMC9777787-tables.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/PMC9777787.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/PMC9777787.xml",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/anthony.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/anthony.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/austrade-roasted-cells.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/austrade-roasted-tables.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/austrade-roasted.html",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/austrade-roasted.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/austrade-unroasted-cells.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/austrade-unroasted-tables.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/austrade-unroasted.html",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/austrade-unroasted.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/cambridge-page1.png",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/cambridge-page3.png",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/cambridge-page4.png",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/cambridge.pdf",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/cambridge.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/frontiers-milling.html",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/frontiers-milling.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/greenspring.html",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/greenspring.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/micro.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/micro.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/search.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/sprout.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/sprout.txt",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/verification.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/verify.py",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/B01N7CLYX7-contact.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/B01N7CLYX7-gallery.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/B01N7CLYX7-receipt.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/B0CWVTCT7G-contact.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/B0CWVTCT7G-gallery.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/B0CWVTCT7G-receipt.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/B0FWJGBPWM-contact.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/B0FWJGBPWM-gallery.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/B0FWJGBPWM-receipt.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/LABEL-LEDGER.md",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/SHA256SUMS",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/actions.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/catalog.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/collector.mjs",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/image-provenance.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/03-PT02.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/04-PT03.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/05-PT04.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/07-PT06.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/04-PT03.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/05-PT04.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/03-PT02.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/04-PT04.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/05-PT05.jpg",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/local-inspect.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/local-schema.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/original-sample-binding.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/ping.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/schema.json",
+      "pass": true
+    },
+    {
+      "check": "immutable original /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/verification.json",
+      "pass": true
+    },
+    {
+      "check": "frozen review REVIEW.md",
+      "pass": true
+    },
+    {
+      "check": "frozen review changes.en.diff",
+      "pass": true
+    },
+    {
+      "check": "frozen review changes.zh.diff",
+      "pass": true
+    },
+    {
+      "check": "frozen review citations.json",
+      "pass": true
+    },
+    {
+      "check": "frozen review claim-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "frozen review draft.en.md",
+      "pass": true
+    },
+    {
+      "check": "frozen review draft.zh.md",
+      "pass": true
+    },
+    {
+      "check": "frozen review independent_check.py",
+      "pass": true
+    },
+    {
+      "check": "frozen review original-byte-manifest.json",
+      "pass": true
+    },
+    {
+      "check": "frozen review original-claim-evidence.json",
+      "pass": true
+    },
+    {
+      "check": "frozen review upstream-verification.json",
+      "pass": true
+    },
+    {
+      "check": "frozen review vision-review.json",
+      "pass": true
+    },
+    {
+      "check": "ALL original XML cells and spans PMC9777787",
+      "pass": true
+    },
+    {
+      "check": "ALL original XML cells and spans PMC11748320",
+      "pass": true
+    },
+    {
+      "check": "T1 protein actual cells",
+      "pass": true
+    },
+    {
+      "check": "T1 fat actual cells",
+      "pass": true
+    },
+    {
+      "check": "T1 uncertainty is half range",
+      "pass": true
+    },
+    {
+      "check": "d10 increases",
+      "pass": true
+    },
+    {
+      "check": "d90 minimum only not whole distribution",
+      "pass": true
+    },
+    {
+      "check": "UAE higher pH5",
+      "pass": true
+    },
+    {
+      "check": "AE+US higher pH7",
+      "pass": true
+    },
+    {
+      "check": "same statistical group pH9",
+      "pass": true
+    },
+    {
+      "check": "Alkali binding rowspan3",
+      "pass": true
+    },
+    {
+      "check": "T4 original PS and significance letters",
+      "pass": true
+    },
+    {
+      "check": "CH<UT<MH alkali",
+      "pass": true
+    },
+    {
+      "check": "T4 uncertainty SE not SD",
+      "pass": true
+    },
+    {
+      "check": "2022 method 5 mg/mL",
+      "pass": true
+    },
+    {
+      "check": "2022 method agitated for 2 h",
+      "pass": true
+    },
+    {
+      "check": "2022 method amount of protein in the supernatant",
+      "pass": true
+    },
+    {
+      "check": "2022 method amount of protein in the initial sample",
+      "pass": true
+    },
+    {
+      "check": "2022 method two runs performed on a single day were then pooled",
+      "pass": true
+    },
+    {
+      "check": "2022 method four independent extractions per condition",
+      "pass": true
+    },
+    {
+      "check": "2022 method Duncan",
+      "pass": true
+    },
+    {
+      "check": "2025 method 1:4 (w/w)",
+      "pass": true
+    },
+    {
+      "check": "2025 method 300 rpm for 1 day",
+      "pass": true
+    },
+    {
+      "check": "2025 method Lowry",
+      "pass": true
+    },
+    {
+      "check": "2025 method Tukey",
+      "pass": true
+    },
+    {
+      "check": "2025 method Each trial was repeated in triplicate",
+      "pass": true
+    },
+    {
+      "check": "ALL supplier original DOM limits austrade-unroasted",
+      "pass": true
+    },
+    {
+      "check": "supplier derived cells faithful austrade-unroasted",
+      "pass": true
+    },
+    {
+      "check": "ALL supplier original DOM limits austrade-roasted",
+      "pass": true
+    },
+    {
+      "check": "supplier derived cells faithful austrade-roasted",
+      "pass": true
+    },
+    {
+      "check": "search denominator8",
+      "pass": true
+    },
+    {
+      "check": "two Sprout sizes",
+      "pass": true
+    },
+    {
+      "check": "detail scoped identity B01N7CLYX7",
+      "pass": true
+    },
+    {
+      "check": "gallery input/URL identity B01N7CLYX7",
+      "pass": true
+    },
+    {
+      "check": "gallery raw array parse B01N7CLYX7",
+      "pass": true
+    },
+    {
+      "check": "detail scoped identity B0CWVTCT7G",
+      "pass": true
+    },
+    {
+      "check": "gallery input/URL identity B0CWVTCT7G",
+      "pass": true
+    },
+    {
+      "check": "gallery raw array parse B0CWVTCT7G",
+      "pass": true
+    },
+    {
+      "check": "detail scoped identity B0FWJGBPWM",
+      "pass": true
+    },
+    {
+      "check": "gallery input/URL identity B0FWJGBPWM",
+      "pass": true
+    },
+    {
+      "check": "gallery raw array parse B0FWJGBPWM",
+      "pass": true
+    },
+    {
+      "check": "original Blend field",
+      "pass": true
+    },
+    {
+      "check": "original Anthony30 retained",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B01N7CLYX7/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B01N7CLYX7/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B01N7CLYX7/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B01N7CLYX7/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B01N7CLYX7/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B01N7CLYX7/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B01N7CLYX7/03-PT02.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B01N7CLYX7/03-PT02.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B01N7CLYX7/03-PT02.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B01N7CLYX7/04-PT03.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B01N7CLYX7/04-PT03.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B01N7CLYX7/04-PT03.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B01N7CLYX7/05-PT04.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B01N7CLYX7/05-PT04.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B01N7CLYX7/05-PT04.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B01N7CLYX7/06-PT05.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B01N7CLYX7/06-PT05.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B01N7CLYX7/06-PT05.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B01N7CLYX7/07-PT06.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B01N7CLYX7/07-PT06.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B01N7CLYX7/07-PT06.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B01N7CLYX7/08-PT07.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B01N7CLYX7/08-PT07.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B01N7CLYX7/08-PT07.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B0CWVTCT7G/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B0CWVTCT7G/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B0CWVTCT7G/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B0CWVTCT7G/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B0CWVTCT7G/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B0CWVTCT7G/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B0CWVTCT7G/03-PT02.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B0CWVTCT7G/03-PT02.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B0CWVTCT7G/03-PT02.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B0CWVTCT7G/04-PT03.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B0CWVTCT7G/04-PT03.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B0CWVTCT7G/04-PT03.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B0CWVTCT7G/05-PT04.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B0CWVTCT7G/05-PT04.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B0CWVTCT7G/05-PT04.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B0FWJGBPWM/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B0FWJGBPWM/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B0FWJGBPWM/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B0FWJGBPWM/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B0FWJGBPWM/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B0FWJGBPWM/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B0FWJGBPWM/03-PT02.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B0FWJGBPWM/03-PT02.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B0FWJGBPWM/03-PT02.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B0FWJGBPWM/04-PT04.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B0FWJGBPWM/04-PT04.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B0FWJGBPWM/04-PT04.jpg",
+      "pass": true
+    },
+    {
+      "check": "original JPEG images/B0FWJGBPWM/05-PT05.jpg",
+      "pass": true
+    },
+    {
+      "check": "exact initial hiRes images/B0FWJGBPWM/05-PT05.jpg",
+      "pass": true
+    },
+    {
+      "check": "receipt binding images/B0FWJGBPWM/05-PT05.jpg",
+      "pass": true
+    },
+    {
+      "check": "manual vision bound bytes /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "manual vision bound bytes /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/06-PT05.jpg",
+      "pass": true
+    },
+    {
+      "check": "manual vision bound bytes /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B01N7CLYX7/08-PT07.jpg",
+      "pass": true
+    },
+    {
+      "check": "manual vision bound bytes /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "manual vision bound bytes /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "manual vision bound bytes /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0CWVTCT7G/03-PT02.jpg",
+      "pass": true
+    },
+    {
+      "check": "manual vision bound bytes /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/01-MAIN.jpg",
+      "pass": true
+    },
+    {
+      "check": "manual vision bound bytes /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin-labels/images/B0FWJGBPWM/02-PT01.jpg",
+      "pass": true
+    },
+    {
+      "check": "manual vision bound bytes /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/cambridge-page1.png",
+      "pass": true
+    },
+    {
+      "check": "manual vision bound bytes /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/cambridge-page3.png",
+      "pass": true
+    },
+    {
+      "check": "manual vision bound bytes /data/hermes/research/seo-growth/2026-09-28-afternoon-pumpkin/sources/cambridge-page4.png",
+      "pass": true
+    },
+    {
+      "check": "all original claim evidence retained",
+      "pass": true
+    },
+    {
+      "check": "exact accepted draft en",
+      "pass": true
+    },
+    {
+      "check": "ALL article blocks mapped en",
+      "pass": true
+    },
+    {
+      "check": "block en-001",
+      "pass": true
+    },
+    {
+      "check": "block en-002",
+      "pass": true
+    },
+    {
+      "check": "block en-003",
+      "pass": true
+    },
+    {
+      "check": "block en-004",
+      "pass": true
+    },
+    {
+      "check": "block en-005",
+      "pass": true
+    },
+    {
+      "check": "block en-006",
+      "pass": true
+    },
+    {
+      "check": "block en-007",
+      "pass": true
+    },
+    {
+      "check": "block en-008",
+      "pass": true
+    },
+    {
+      "check": "block en-009",
+      "pass": true
+    },
+    {
+      "check": "block en-010",
+      "pass": true
+    },
+    {
+      "check": "block en-011",
+      "pass": true
+    },
+    {
+      "check": "block en-012",
+      "pass": true
+    },
+    {
+      "check": "block en-013",
+      "pass": true
+    },
+    {
+      "check": "block en-014",
+      "pass": true
+    },
+    {
+      "check": "block en-015",
+      "pass": true
+    },
+    {
+      "check": "block en-016",
+      "pass": true
+    },
+    {
+      "check": "block en-017",
+      "pass": true
+    },
+    {
+      "check": "block en-018",
+      "pass": true
+    },
+    {
+      "check": "block en-019",
+      "pass": true
+    },
+    {
+      "check": "block en-020",
+      "pass": true
+    },
+    {
+      "check": "block en-021",
+      "pass": true
+    },
+    {
+      "check": "block en-022",
+      "pass": true
+    },
+    {
+      "check": "block en-023",
+      "pass": true
+    },
+    {
+      "check": "block en-024",
+      "pass": true
+    },
+    {
+      "check": "block en-025",
+      "pass": true
+    },
+    {
+      "check": "block en-026",
+      "pass": true
+    },
+    {
+      "check": "block en-027",
+      "pass": true
+    },
+    {
+      "check": "block en-028",
+      "pass": true
+    },
+    {
+      "check": "block en-029",
+      "pass": true
+    },
+    {
+      "check": "block en-030",
+      "pass": true
+    },
+    {
+      "check": "block en-031",
+      "pass": true
+    },
+    {
+      "check": "block en-032",
+      "pass": true
+    },
+    {
+      "check": "block en-033",
+      "pass": true
+    },
+    {
+      "check": "block en-034",
+      "pass": true
+    },
+    {
+      "check": "block en-035",
+      "pass": true
+    },
+    {
+      "check": "block en-036",
+      "pass": true
+    },
+    {
+      "check": "block en-037",
+      "pass": true
+    },
+    {
+      "check": "block en-038",
+      "pass": true
+    },
+    {
+      "check": "block en-039",
+      "pass": true
+    },
+    {
+      "check": "block en-040",
+      "pass": true
+    },
+    {
+      "check": "block en-041",
+      "pass": true
+    },
+    {
+      "check": "block en-042",
+      "pass": true
+    },
+    {
+      "check": "block en-043",
+      "pass": true
+    },
+    {
+      "check": "block en-044",
+      "pass": true
+    },
+    {
+      "check": "block en-045",
+      "pass": true
+    },
+    {
+      "check": "block en-046",
+      "pass": true
+    },
+    {
+      "check": "block en-047",
+      "pass": true
+    },
+    {
+      "check": "four reviewed tables en",
+      "pass": true
+    },
+    {
+      "check": "context link enB01N7CLYX7",
+      "pass": true
+    },
+    {
+      "check": "context link enB0CWVTCT7G",
+      "pass": true
+    },
+    {
+      "check": "context link enB0FWJGBPWM",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value en≥57%",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value en≥60%",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value en≥80%",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value en60.24",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value en68.68",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value en13.38",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value en0.77",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value en10.32",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value en9.75",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value en15.99",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value en32.5",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value en56",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value en907",
+      "pass": true
+    },
+    {
+      "check": "blocked source excluded en",
+      "pass": true
+    },
+    {
+      "check": "manual vision cell row en| Serving size | 2 scoops (32.5 g) | 1 Tbsp (8 g) | 2 scoops (30 g approx.) |",
+      "pass": true
+    },
+    {
+      "check": "manual vision cell row en| Protein per labeled serving | 20 g | 5 g | 18 g |",
+      "pass": true
+    },
+    {
+      "check": "manual vision cell row en| Servings on nutrition panel | About 14 | 56 | 30 |",
+      "pass": true
+    },
+    {
+      "check": "literal ingredient row en",
+      "pass": true
+    },
+    {
+      "check": "original scientific row in enControl",
+      "pass": true
+    },
+    {
+      "check": "original scientific row in enUAE",
+      "pass": true
+    },
+    {
+      "check": "original scientific row in enAE+US",
+      "pass": true
+    },
+    {
+      "check": "exact reference map en",
+      "pass": true
+    },
+    {
+      "check": "exact accepted draft zh",
+      "pass": true
+    },
+    {
+      "check": "ALL article blocks mapped zh",
+      "pass": true
+    },
+    {
+      "check": "block zh-001",
+      "pass": true
+    },
+    {
+      "check": "block zh-002",
+      "pass": true
+    },
+    {
+      "check": "block zh-003",
+      "pass": true
+    },
+    {
+      "check": "block zh-004",
+      "pass": true
+    },
+    {
+      "check": "block zh-005",
+      "pass": true
+    },
+    {
+      "check": "block zh-006",
+      "pass": true
+    },
+    {
+      "check": "block zh-007",
+      "pass": true
+    },
+    {
+      "check": "block zh-008",
+      "pass": true
+    },
+    {
+      "check": "block zh-009",
+      "pass": true
+    },
+    {
+      "check": "block zh-010",
+      "pass": true
+    },
+    {
+      "check": "block zh-011",
+      "pass": true
+    },
+    {
+      "check": "block zh-012",
+      "pass": true
+    },
+    {
+      "check": "block zh-013",
+      "pass": true
+    },
+    {
+      "check": "block zh-014",
+      "pass": true
+    },
+    {
+      "check": "block zh-015",
+      "pass": true
+    },
+    {
+      "check": "block zh-016",
+      "pass": true
+    },
+    {
+      "check": "block zh-017",
+      "pass": true
+    },
+    {
+      "check": "block zh-018",
+      "pass": true
+    },
+    {
+      "check": "block zh-019",
+      "pass": true
+    },
+    {
+      "check": "block zh-020",
+      "pass": true
+    },
+    {
+      "check": "block zh-021",
+      "pass": true
+    },
+    {
+      "check": "block zh-022",
+      "pass": true
+    },
+    {
+      "check": "block zh-023",
+      "pass": true
+    },
+    {
+      "check": "block zh-024",
+      "pass": true
+    },
+    {
+      "check": "block zh-025",
+      "pass": true
+    },
+    {
+      "check": "block zh-026",
+      "pass": true
+    },
+    {
+      "check": "block zh-027",
+      "pass": true
+    },
+    {
+      "check": "block zh-028",
+      "pass": true
+    },
+    {
+      "check": "block zh-029",
+      "pass": true
+    },
+    {
+      "check": "block zh-030",
+      "pass": true
+    },
+    {
+      "check": "block zh-031",
+      "pass": true
+    },
+    {
+      "check": "block zh-032",
+      "pass": true
+    },
+    {
+      "check": "block zh-033",
+      "pass": true
+    },
+    {
+      "check": "block zh-034",
+      "pass": true
+    },
+    {
+      "check": "block zh-035",
+      "pass": true
+    },
+    {
+      "check": "block zh-036",
+      "pass": true
+    },
+    {
+      "check": "block zh-037",
+      "pass": true
+    },
+    {
+      "check": "block zh-038",
+      "pass": true
+    },
+    {
+      "check": "block zh-039",
+      "pass": true
+    },
+    {
+      "check": "block zh-040",
+      "pass": true
+    },
+    {
+      "check": "block zh-041",
+      "pass": true
+    },
+    {
+      "check": "block zh-042",
+      "pass": true
+    },
+    {
+      "check": "block zh-043",
+      "pass": true
+    },
+    {
+      "check": "block zh-044",
+      "pass": true
+    },
+    {
+      "check": "block zh-045",
+      "pass": true
+    },
+    {
+      "check": "block zh-046",
+      "pass": true
+    },
+    {
+      "check": "block zh-047",
+      "pass": true
+    },
+    {
+      "check": "four reviewed tables zh",
+      "pass": true
+    },
+    {
+      "check": "context link zhB01N7CLYX7",
+      "pass": true
+    },
+    {
+      "check": "context link zhB0CWVTCT7G",
+      "pass": true
+    },
+    {
+      "check": "context link zhB0FWJGBPWM",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value zh≥57%",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value zh≥60%",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value zh≥80%",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value zh60.24",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value zh68.68",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value zh13.38",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value zh0.77",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value zh10.32",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value zh9.75",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value zh15.99",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value zh32.5",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value zh56",
+      "pass": true
+    },
+    {
+      "check": "critical bilingual value zh907",
+      "pass": true
+    },
+    {
+      "check": "blocked source excluded zh",
+      "pass": true
+    },
+    {
+      "check": "manual vision cell row zh| 每份用量 | 2勺（32.5克） | 1汤匙（8克） | 2勺（约30克） |",
+      "pass": true
+    },
+    {
+      "check": "manual vision cell row zh| 标签所列每份蛋白质 | 20克 | 5克 | 18克 |",
+      "pass": true
+    },
+    {
+      "check": "manual vision cell row zh| 营养标签所列每袋份数 | 约14份 | 56份 | 30份 |",
+      "pass": true
+    },
+    {
+      "check": "literal ingredient row zh",
+      "pass": true
+    },
+    {
+      "check": "original scientific row in zhControl",
+      "pass": true
+    },
+    {
+      "check": "original scientific row in zhUAE",
+      "pass": true
+    },
+    {
+      "check": "original scientific row in zhAE+US",
+      "pass": true
+    },
+    {
+      "check": "exact reference map zh",
+      "pass": true
+    }
+  ]
+}

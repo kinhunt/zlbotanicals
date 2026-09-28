@@ -86,6 +86,8 @@ The most useful purchasing request therefore names the application before the pe
 
 Compare other seed-derived materials in [flaxseed processing and cyanogenic specifications](/resources/blog/flax-cyanogenic-material-selection) and [fenugreek flavour and processing](/resources/blog/fenugreek-flavour-processing).
 
+For a retail-label comparison, see [pumpkin seed protein: cold pressing, milling and mixing](/resources/blog/pumpkin-seed-protein-processing).
+
 ## Sources
 
 <p id="sunflower-ref-1">[1] <a href="https://www.all-organic-treasures.com/food/heliaflor/sunflowerproteins.html">AOT: Heliaflor processing</a></p>

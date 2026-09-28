@@ -1,0 +1,747 @@
+{
+  "status": "PASS",
+  "checks": 185,
+  "scope": "offline integrity, literal quote, source-cell and draft regressions; not independent acceptance",
+  "results": [
+    {
+      "check": "source SHA256 sources/sprout.json",
+      "pass": true
+    },
+    {
+      "check": "source SHA256 sources/anthony.json",
+      "pass": true
+    },
+    {
+      "check": "source SHA256 sources/micro.json",
+      "pass": true
+    },
+    {
+      "check": "source SHA256 sources/PMC9777787.xml",
+      "pass": true
+    },
+    {
+      "check": "source SHA256 sources/PMC11748320.xml",
+      "pass": true
+    },
+    {
+      "check": "source SHA256 sources/cambridge.pdf",
+      "pass": true
+    },
+    {
+      "check": "source SHA256 sources/greenspring.html",
+      "pass": true
+    },
+    {
+      "check": "source SHA256 sources/austrade-unroasted.html",
+      "pass": true
+    },
+    {
+      "check": "source SHA256 sources/austrade-roasted.html",
+      "pass": true
+    },
+    {
+      "check": "source SHA256 sources/frontiers-milling.html",
+      "pass": true
+    },
+    {
+      "check": "source SHA256 inherited/pumpkin-search-completed.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 DECISION.md",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 HANDOFF.md",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 build_evidence.py",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 citations.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 claims.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 draft.en.md",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 draft.zh.md",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/B01N7CLYX7-dispatch.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/B01N7CLYX7.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/B0CWVTCT7G-dispatch.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/B0CWVTCT7G.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/B0FWJGBPWM-dispatch.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/B0FWJGBPWM.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/OBSERVATIONS.md",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/actions.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/catalog.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/detail-schema.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/ping.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/pumpkin-search-completed.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/pumpkin-search.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 inherited/schema.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 source-manifest.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/PMC11748320-cells.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/PMC11748320-paragraphs.txt",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/PMC11748320-tables.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/PMC11748320.txt",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/PMC11748320.xml",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/PMC9777787-cells.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/PMC9777787-paragraphs.txt",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/PMC9777787-tables.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/PMC9777787.txt",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/PMC9777787.xml",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/anthony.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/anthony.txt",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/austrade-roasted-cells.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/austrade-roasted-tables.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/austrade-roasted.html",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/austrade-roasted.txt",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/austrade-unroasted-cells.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/austrade-unroasted-tables.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/austrade-unroasted.html",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/austrade-unroasted.txt",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/cambridge-page1.png",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/cambridge-page3.png",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/cambridge-page4.png",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/cambridge.pdf",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/cambridge.txt",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/frontiers-milling.html",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/frontiers-milling.txt",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/greenspring.html",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/greenspring.txt",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/micro.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/micro.txt",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/search.txt",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/sprout.json",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 sources/sprout.txt",
+      "pass": true
+    },
+    {
+      "check": "artifact SHA256 verify.py",
+      "pass": true
+    },
+    {
+      "check": "literal quote R1-0",
+      "pass": true
+    },
+    {
+      "check": "literal quote R1-1",
+      "pass": true
+    },
+    {
+      "check": "literal quote R1-2",
+      "pass": true
+    },
+    {
+      "check": "literal quote R1-3",
+      "pass": true
+    },
+    {
+      "check": "literal quote R1-4",
+      "pass": true
+    },
+    {
+      "check": "literal quote R1-Protein Source",
+      "pass": true
+    },
+    {
+      "check": "literal quote R2-0",
+      "pass": true
+    },
+    {
+      "check": "literal quote R2-1",
+      "pass": true
+    },
+    {
+      "check": "literal quote R2-2",
+      "pass": true
+    },
+    {
+      "check": "literal quote R2-3",
+      "pass": true
+    },
+    {
+      "check": "literal quote R2-Total Servings Per Container",
+      "pass": true
+    },
+    {
+      "check": "literal quote R3-0",
+      "pass": true
+    },
+    {
+      "check": "literal quote R3-1",
+      "pass": true
+    },
+    {
+      "check": "literal quote R3-2",
+      "pass": true
+    },
+    {
+      "check": "literal quote R3-3",
+      "pass": true
+    },
+    {
+      "check": "literal quote R3-4",
+      "pass": true
+    },
+    {
+      "check": "literal quote P4-0",
+      "pass": true
+    },
+    {
+      "check": "literal quote P4-1",
+      "pass": true
+    },
+    {
+      "check": "literal quote P4-2",
+      "pass": true
+    },
+    {
+      "check": "literal quote P4-3",
+      "pass": true
+    },
+    {
+      "check": "literal quote P4-4",
+      "pass": true
+    },
+    {
+      "check": "original table rows foods-11-04029-t001",
+      "pass": true
+    },
+    {
+      "check": "original table rows foods-11-04029-t002",
+      "pass": true
+    },
+    {
+      "check": "original table rows foods-11-04029-t003",
+      "pass": true
+    },
+    {
+      "check": "literal quote P5-0",
+      "pass": true
+    },
+    {
+      "check": "literal quote P5-1",
+      "pass": true
+    },
+    {
+      "check": "literal quote P5-2",
+      "pass": true
+    },
+    {
+      "check": "literal quote P5-3",
+      "pass": true
+    },
+    {
+      "check": "original table rows tbl4",
+      "pass": true
+    },
+    {
+      "check": "literal quote S8",
+      "pass": true
+    },
+    {
+      "check": "literal quote S8-limits",
+      "pass": true
+    },
+    {
+      "check": "literal quote S9",
+      "pass": true
+    },
+    {
+      "check": "literal quote S9-limits",
+      "pass": true
+    },
+    {
+      "check": "literal quote P10",
+      "pass": true
+    },
+    {
+      "check": "literal quote R11",
+      "pass": true
+    },
+    {
+      "check": "rendered PDF image sources/cambridge-page1.png",
+      "pass": true
+    },
+    {
+      "check": "rendered PDF image sources/cambridge-page3.png",
+      "pass": true
+    },
+    {
+      "check": "rendered PDF image sources/cambridge-page4.png",
+      "pass": true
+    },
+    {
+      "check": "8 original search rows",
+      "pass": true
+    },
+    {
+      "check": "2 Sprout size variants",
+      "pass": true
+    },
+    {
+      "check": "detail identity B01N7CLYX7",
+      "pass": true
+    },
+    {
+      "check": "exact inherited bytes B01N7CLYX7",
+      "pass": true
+    },
+    {
+      "check": "detail identity B0CWVTCT7G",
+      "pass": true
+    },
+    {
+      "check": "exact inherited bytes B0CWVTCT7G",
+      "pass": true
+    },
+    {
+      "check": "detail identity B0FWJGBPWM",
+      "pass": true
+    },
+    {
+      "check": "exact inherited bytes B0FWJGBPWM",
+      "pass": true
+    },
+    {
+      "check": "unresolved Blend field",
+      "pass": true
+    },
+    {
+      "check": "Table1 protein cells",
+      "pass": true
+    },
+    {
+      "check": "Table1 fat cells",
+      "pass": true
+    },
+    {
+      "check": "AE+US d10 grows not shrinks",
+      "pass": true
+    },
+    {
+      "check": "AE+US d90",
+      "pass": true
+    },
+    {
+      "check": "UAE higher at pH5",
+      "pass": true
+    },
+    {
+      "check": "pH9 same group not superiority",
+      "pass": true
+    },
+    {
+      "check": "second study alkali UT CH MH original cells",
+      "pass": true
+    },
+    {
+      "check": "alkali spans three treatment rows",
+      "pass": true
+    },
+    {
+      "check": "supplier limits austrade-unroasted",
+      "pass": true
+    },
+    {
+      "check": "supplier literal cell austrade-unroasted Protein",
+      "pass": true
+    },
+    {
+      "check": "supplier literal cell austrade-unroasted Moisture",
+      "pass": true
+    },
+    {
+      "check": "supplier literal cell austrade-unroasted Fat",
+      "pass": true
+    },
+    {
+      "check": "supplier literal cell austrade-unroasted Carbohydrates",
+      "pass": true
+    },
+    {
+      "check": "supplier literal cell austrade-unroasted Dietary Fiber",
+      "pass": true
+    },
+    {
+      "check": "supplier limits austrade-roasted",
+      "pass": true
+    },
+    {
+      "check": "supplier literal cell austrade-roasted Protein",
+      "pass": true
+    },
+    {
+      "check": "supplier literal cell austrade-roasted Moisture",
+      "pass": true
+    },
+    {
+      "check": "supplier literal cell austrade-roasted Fat",
+      "pass": true
+    },
+    {
+      "check": "supplier literal cell austrade-roasted Total Carbohydrates",
+      "pass": true
+    },
+    {
+      "check": "supplier literal cell austrade-roasted Dietary Fiber",
+      "pass": true
+    },
+    {
+      "check": "cited source set en",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 60.24",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 68.68",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 13.38",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 0.77",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 2.42",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 15.17",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 37.82",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 6.59",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 18.80",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 46.87",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 4.90",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 23.07",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 46.93",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 179.93",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 8.05",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 4.82",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 10.32",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 9.75",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence en 15.99",
+      "pass": true
+    },
+    {
+      "check": "contextual product link en B01N7CLYX7",
+      "pass": true
+    },
+    {
+      "check": "contextual product link en B0CWVTCT7G",
+      "pass": true
+    },
+    {
+      "check": "contextual product link en B0FWJGBPWM",
+      "pass": true
+    },
+    {
+      "check": "actual supplier comparators en",
+      "pass": true
+    },
+    {
+      "check": "blocked source unused en",
+      "pass": true
+    },
+    {
+      "check": "cited source set zh",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 60.24",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 68.68",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 13.38",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 0.77",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 2.42",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 15.17",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 37.82",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 6.59",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 18.80",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 46.87",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 4.90",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 23.07",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 46.93",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 179.93",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 8.05",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 4.82",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 10.32",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 9.75",
+      "pass": true
+    },
+    {
+      "check": "bilingual numeric presence zh 15.99",
+      "pass": true
+    },
+    {
+      "check": "contextual product link zh B01N7CLYX7",
+      "pass": true
+    },
+    {
+      "check": "contextual product link zh B0CWVTCT7G",
+      "pass": true
+    },
+    {
+      "check": "contextual product link zh B0FWJGBPWM",
+      "pass": true
+    },
+    {
+      "check": "actual supplier comparators zh",
+      "pass": true
+    },
+    {
+      "check": "blocked source unused zh",
+      "pass": true
+    }
+  ]
+}
