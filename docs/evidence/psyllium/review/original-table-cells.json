@@ -1,0 +1,1091 @@
+{
+  "S1": [
+    {
+      "id": "foods-10-00954-t001",
+      "rows": [
+        [
+          "",
+          "Gluten-Free Bread †",
+          "Wheat Bread ‡"
+        ],
+        [
+          "GFB0P",
+          "GFB2.86P",
+          "GFB7.14P",
+          "GFB17.14P",
+          "WB1",
+          "WB2"
+        ],
+        [
+          "Specific volume (cm3/g) §",
+          "1.41 c ± 0.02",
+          "2.15 b ± 0.12",
+          "2.06 b ± 0.04",
+          "2.08 b ± 0.05",
+          "2.73 a ± 0.10",
+          "2.84 a ± 0.08"
+        ],
+        [
+          "Height/width ratio §",
+          "0.67 c ± 0.01",
+          "0.90 d ± 0.01",
+          "0.91 d ± 0.04",
+          "1.00 c ± 0.02",
+          "1.29 a ± 0.01",
+          "1.11 b ± 0.01"
+        ],
+        [
+          "Crumb grain §"
+        ],
+        [
+          "Number of cells",
+          "43.50 c ± 0.71",
+          "72.00 c ± 2.83",
+          "132.50 b ± 14.85",
+          "160.50 ab ± 13.44",
+          "172.00 a ± 9.90",
+          "150.50 ab ± 4.95"
+        ],
+        [
+          "Average size (mm2)",
+          "0.17 ab ± 0.02",
+          "0.22 a ± 0.04",
+          "0.13 b ± 0.01",
+          "0.12 b ± 0.01",
+          "0.14 b ± 0.02",
+          "0.14 ab ± 0.01"
+        ],
+        [
+          "Cell area (%)",
+          "11.43 c ± 1.44",
+          "25.50 b ± 5.53",
+          "26.87 ab ± 1.13",
+          "30.83 ab ± 0.24",
+          "37.45 a ± 3.37",
+          "34.06 ab ± 0.64"
+        ],
+        [
+          "Crumb firmness (N)",
+          "24.72 a ± 2.10",
+          "8.27 b ± 0.89",
+          "8.33 b ± 0.71",
+          "6.12 c ± 0.58",
+          "2.71 d ± 0.33",
+          "2.71 d ± 0.43"
+        ],
+        [
+          "Crumb moisture (%) §",
+          "52.46 b ± 0.62",
+          "48.62 d ± 0.04",
+          "49.73 c ± 0.06",
+          "53.45 a ± 0.14",
+          "39.63 e ± 0.23",
+          "36.30 f ± 0.10"
+        ],
+        [
+          "Acceptability scores on a 10-cm scale α"
+        ],
+        [
+          "Aroma",
+          "7.68 b ± 2.19",
+          "7.72 b ± 2.10",
+          "8.36 ab ± 1.97",
+          "8.13 ab ± 1.86",
+          "8.62 ab ± 1.32",
+          "8.75 a ± 1.54"
+        ],
+        [
+          "Texture",
+          "6.96 b ± 2.38",
+          "7.96 ab ± 2.11",
+          "8.02 ab ± 1.78",
+          "8.17 a ± 2.34",
+          "8.19 a ± 1.89",
+          "8.80 a ± 1.41"
+        ],
+        [
+          "Flavor",
+          "7.67 a ± 2.04",
+          "8.09 a ± 1.77",
+          "8.25 a ± 1.51",
+          "8.34 a ± 1.87",
+          "8.52 a ± 1.45",
+          "8.42 a ± 1.55"
+        ]
+      ],
+      "footnote": "† The GFB samples GFB0P, GFB2.86P, GFB7.14P, and GFB17.14P were prepared with 0.00%, 2.86%, 7.14%, and 17.14% psyllium (P) on a flour-weight basis, respectively, and with adjusted water levels. ‡ WB1–standard formulation, WB2–adapted formulation. Values are mean ± standard deviation § (n = 3), (n = 6), α (n = 54). The values followed by a different superscript in each row are significantly different (p < 0.05)."
+    },
+    {
+      "id": "foods-10-00954-t002",
+      "rows": [
+        [
+          "",
+          "Crumb Porosity",
+          "Crumb Moisture",
+          "Crumb Firmness",
+          "Aroma",
+          "Texture",
+          "Flavor"
+        ],
+        [
+          "Crumb porosity",
+          "1.000",
+          "0.303",
+          "0.722",
+          "0.844",
+          "0.963",
+          "0.946"
+        ],
+        [
+          "Crumb moisture",
+          "0.303",
+          "1.000",
+          "0.369",
+          "0.313",
+          "0.376",
+          "0.143"
+        ],
+        [
+          "Crumb firmness",
+          "0.722",
+          "0.369",
+          "1.000",
+          "0.324",
+          "0.782",
+          "0.529"
+        ],
+        [
+          "Aroma",
+          "0.844",
+          "0.313",
+          "0.324",
+          "1.000",
+          "0.764",
+          "0.886"
+        ],
+        [
+          "Texture",
+          "0.963",
+          "0.376",
+          "0.782",
+          "0.764",
+          "1.000",
+          "0.883"
+        ],
+        [
+          "Flavor",
+          "0.946",
+          "0.143",
+          "0.529",
+          "0.886",
+          "0.883",
+          "1.000"
+        ]
+      ],
+      "footnote": "Values in bold indicate a strong relationship (>0.7) between the six variables evaluated."
+    }
+  ],
+  "S2": [
+    {
+      "id": "foods-13-01691-t001",
+      "rows": [
+        [
+          "Ingredient",
+          "Xanthan Gum (g)",
+          "HPMC (g)",
+          "Psyllium (g)",
+          "Water (g)"
+        ],
+        [
+          "Formula"
+        ],
+        [
+          "FC",
+          "3.2",
+          "3.6",
+          "9.8",
+          "159.7"
+        ],
+        [
+          "F1",
+          "3.2",
+          "4.4",
+          "9.8",
+          "164.0"
+        ],
+        [
+          "F2",
+          "3.2",
+          "3.6",
+          "13.2",
+          "173.6"
+        ],
+        [
+          "F3",
+          "0",
+          "3.6",
+          "9.8",
+          "148.5"
+        ]
+      ],
+      "footnote": "FC: control formula. F1: HPMC increase. F2: psyllium increase. F3: xanthan gum removal."
+    },
+    {
+      "id": "foods-13-01691-t002",
+      "rows": [
+        [
+          "Formula",
+          "G″ Storage Modulus (Pa)",
+          "G″ Loss Modulus (Pa)",
+          "Tan δ (G″/G′)"
+        ],
+        [
+          "FC",
+          "11,410 ± 310 b",
+          "3431 ± 60 b",
+          "0.301 ± 0.003 b"
+        ],
+        [
+          "F1",
+          "11,533 ± 25 b",
+          "3517 ± 41 b",
+          "0.305 ± 0.004 b"
+        ],
+        [
+          "F2",
+          "11,210 ± 236 b",
+          "3207 ± 106 a",
+          "0.286 ± 0.005 a"
+        ],
+        [
+          "F3",
+          "9305 ± 296 a",
+          "3507 ± 179 b",
+          "0.377 ± 0.007 c"
+        ]
+      ],
+      "footnote": "The same letter in superscript within the column indicates homogeneous groups established by ANOVA (p < 0.05). FC: control formula. F1: HPMC increase. F2: psyllium increase. F3: xanthan gum removal."
+    },
+    {
+      "id": "foods-13-01691-t003",
+      "rows": [
+        [
+          "Formula",
+          "Force (N)",
+          "Area (N·s)"
+        ],
+        [
+          "FC",
+          "135 ± 47 c",
+          "949 ± 57 c"
+        ],
+        [
+          "F1",
+          "88 ± 8 a",
+          "621 ± 28 a"
+        ],
+        [
+          "F2",
+          "101 ± 4 ab",
+          "708 ± 211 ab"
+        ],
+        [
+          "F3",
+          "129 ± 30 bc",
+          "904 ± 331 bc"
+        ]
+      ],
+      "footnote": "The same letter in superscript within the column indicates homogeneous groups established by ANOVA (p < 0.05). FC: control formula. F1: HPMC increase. F2: psyllium increase. F3: xanthan gum removal."
+    },
+    {
+      "id": "foods-13-01691-t004",
+      "rows": [
+        [
+          "Formula",
+          "Doughxw (%)",
+          "Doughaw",
+          "Crustxw (%)",
+          "Crustaw",
+          "Crumbxw (%)",
+          "Crumbaw",
+          "CrumbpH"
+        ],
+        [
+          "FC",
+          "50.7 ± 1.5 ab",
+          "0.911 ± 0.006 ab",
+          "24.8 ± 3.4 a",
+          "0.908 ± 0.016 b",
+          "45.8 ± 1.7 ab",
+          "0.937 ± 0.003 a",
+          "5.13 ± 0.07 a"
+        ],
+        [
+          "F1",
+          "51.9 ± 0.1 bc",
+          "0.909 ± 0.004 ab",
+          "26.5 ± 2.7 a",
+          "0.899 ± 0.034 b",
+          "45.5 ± 1.4 ab",
+          "0.940 ± 0.004 b",
+          "5.21 ± 0.16 b"
+        ],
+        [
+          "F2",
+          "53.0 ± 0.1 c",
+          "0.899 ± 0.013 a",
+          "29.5 ± 6.3 a",
+          "0.921 ± 0.018 c",
+          "47.1 ± 1.7 b",
+          "0.944 ± 0.002 c",
+          "5.22 ± 0.07 b"
+        ],
+        [
+          "F3",
+          "49.8 ± 0.2 a",
+          "0.921 ± 0.014 b",
+          "24.6 ± 7.3 a",
+          "0.871 ± 0.028 a",
+          "44.1 ± 2.6 a",
+          "0.939 ± 0.007 ab",
+          "5.32 ± 0.05 c"
+        ]
+      ],
+      "footnote": "The same letter in superscript within the column indicates homogeneous groups established by ANOVA (p < 0.05). FC: control formula. F1: HPMC increase. F2: psyllium increase. F3: xanthan gum removal."
+    },
+    {
+      "id": "foods-13-01691-t005",
+      "rows": [
+        [
+          "",
+          "FC",
+          "F1",
+          "F2",
+          "F3"
+        ],
+        [
+          "L* dough",
+          "75.4 ± 0.4 b",
+          "75.4 ± 0.2 b",
+          "74.7 ± 0.3 a",
+          "76.1 ± 0.3 c"
+        ],
+        [
+          "a* dough",
+          "0.30 ± 0.06 a",
+          "0.33 ± 0.06 a",
+          "0.48 ± 0.07 b",
+          "0.56 ± 0.07 c"
+        ],
+        [
+          "b* dough",
+          "9.64 ± 0.15 a",
+          "9.87 ± 0.13 b",
+          "10.06 ± 0.15 c",
+          "10.35 ± 0.25 d"
+        ],
+        [
+          "∆E dough",
+          "",
+          "0.46 ± 0.26 a",
+          "0.83 ± 0.32 b",
+          "1.19 ± 0.30 c"
+        ],
+        [
+          "L* crumb",
+          "65 ± 2 a",
+          "65 ± 2 a",
+          "64 ± 3 a",
+          "64 ± 3 a"
+        ],
+        [
+          "a* crumb",
+          "1.1 ± 0.3 b",
+          "1.1 ± 0.3 b",
+          "1.5 ± 0.4 c",
+          "0.9 ± 0.4 a"
+        ],
+        [
+          "b* crumb",
+          "11.5 ± 0.9 c",
+          "11.2 ± 0.8 bc",
+          "11.0 ± 0.9 ab",
+          "10.8 ± 1 a"
+        ],
+        [
+          "∆E crumb",
+          "",
+          "2.6 ± 1.6 a",
+          "2.6 ± 1.5 a",
+          "3.1 ± 1.8 a"
+        ],
+        [
+          "L* crust",
+          "54 ± 3 b",
+          "53 ± 3 b",
+          "54 ± 3 b",
+          "51 ± 2 a"
+        ],
+        [
+          "a* crust",
+          "9.6 ± 1.1 b",
+          "9.3 ± 0.9 b",
+          "8.7 ± 1.6 a",
+          "9.6 ± 0.8 b"
+        ],
+        [
+          "b* crust",
+          "20.8 ± 2.5 b",
+          "20.4 ± 1.9 b",
+          "18.8 ± 2.8 a",
+          "19.4 ± 2.4 a"
+        ],
+        [
+          "∆E crust",
+          "",
+          "4.4 ± 1.6 a",
+          "4.6 ± 1.5 ab",
+          "5.1 ± 1.8 b"
+        ]
+      ],
+      "footnote": "L*: Lightening, a*: red-green; b*: yellow-blue. The same letter in superscript within rows indicates homogeneous groups established by ANOVA (p < 0.05). FC: control formula. F1: HPMC increase. F2: psyllium increase. F3: xanthan gum removal."
+    },
+    {
+      "id": "foods-13-01691-t006",
+      "rows": [
+        [
+          "Formula",
+          "Hardness (N)",
+          "Adhesiveness (N·s)",
+          "Cohesiveness",
+          "Gumminess (N)"
+        ],
+        [
+          "FC",
+          "58.9 ± 7.9 b",
+          "−0.04 ± 0.03 a",
+          "0.60 ± 0.02 ab",
+          "35.3 ± 4.9 b"
+        ],
+        [
+          "F1",
+          "60.6 ± 10.2 b",
+          "−0.04 ± 0.03 a",
+          "0.59 ± 0.13 a",
+          "35.5 ± 9.6 b"
+        ],
+        [
+          "F2",
+          "64.7 ± 13.8 b",
+          "−0.05 ± 0.02 a",
+          "0.63 ± 0.05 b",
+          "40.7 ± 7.5 c"
+        ],
+        [
+          "F3",
+          "46.3 ± 11.6 a",
+          "−0.02 ± 0.02 b",
+          "0.60 ± 0.04 ab",
+          "27.8 ± 7.60 a"
+        ]
+      ],
+      "footnote": "The same letter in superscript within the column indicates homogeneous groups established by ANOVA (p < 0.05). FC: control formula. F1: HPMC increase. F2: psyllium increase. F3: xanthan gum removal."
+    },
+    {
+      "id": "foods-13-01691-t007",
+      "rows": [
+        [
+          "Formula",
+          "Number of Cells (Cells/cm2)",
+          "Mean Cell Size (cm2)"
+        ],
+        [
+          "FC",
+          "11 ± 2 b",
+          "0.0083 ± 0.0004 a"
+        ],
+        [
+          "F1",
+          "11 ± 2 b",
+          "0.0083 ± 0.0007 a"
+        ],
+        [
+          "F2",
+          "8 ± 4 a",
+          "0.0084 ± 0.0007 a"
+        ],
+        [
+          "F3",
+          "12 ± 1 c",
+          "0.0082 ± 0.0007 a"
+        ]
+      ],
+      "footnote": "The same letter in superscript within the column indicates homogeneous groups established by ANOVA (p < 0.05). FC: control formula. F1: HPMC increase. F2: psyllium increase. F3: xanthan gum removal."
+    }
+  ],
+  "S3": [
+    {
+      "id": "foods-11-00536-t001",
+      "rows": [
+        [
+          "",
+          "Rice Flour",
+          "Plantago psyllium Seeds",
+          "Plantago ovata Seeds",
+          "Plantago ovata Husk"
+        ],
+        [
+          "Energy value",
+          "1484 kJ/349 kcal",
+          "1133 kJ/275 kcal",
+          "1133 kJ/275 kcal",
+          "749 kJ/178 kcal"
+        ],
+        [
+          "Fat",
+          "0.6 g",
+          "7.2 g",
+          "7.3 g",
+          "0.0 g"
+        ],
+        [
+          "Saccharides",
+          "79.0 g",
+          "63.1 g",
+          "64.0",
+          "77.4 g"
+        ],
+        [
+          "Protein",
+          "7.0 g",
+          "14.4 g",
+          "14.0 g",
+          "0.4 g"
+        ]
+      ],
+      "footnote": ""
+    },
+    {
+      "id": "foods-11-00536-t002",
+      "rows": [
+        [
+          "Sample",
+          "Rice Flour",
+          "Plantago Addition",
+          "Sucrose",
+          "Yeast",
+          "Salt"
+        ],
+        [
+          "Control",
+          "100",
+          "0",
+          "1.86",
+          "1.80",
+          "1.5"
+        ],
+        [
+          "3 PPS",
+          "97",
+          "3",
+          "1.86",
+          "1.80",
+          "1.5"
+        ],
+        [
+          "6 PPS",
+          "94",
+          "6",
+          "1.86",
+          "1.80",
+          "1.5"
+        ],
+        [
+          "9 PPS",
+          "91",
+          "9",
+          "1.86",
+          "1.80",
+          "1.5"
+        ],
+        [
+          "3 POS",
+          "97",
+          "3",
+          "1.86",
+          "1.80",
+          "1.5"
+        ],
+        [
+          "6 POS",
+          "94",
+          "6",
+          "1.86",
+          "1.80",
+          "1.5"
+        ],
+        [
+          "9 POS",
+          "91",
+          "9",
+          "1.86",
+          "1.80",
+          "1.5"
+        ],
+        [
+          "3 POH",
+          "97",
+          "3",
+          "1.86",
+          "1.80",
+          "1.5"
+        ],
+        [
+          "6 POH",
+          "94",
+          "6",
+          "1.86",
+          "1.80",
+          "1.5"
+        ],
+        [
+          "9 POH",
+          "91",
+          "9",
+          "1.86",
+          "1.80",
+          "1.5"
+        ]
+      ],
+      "footnote": "PPS: Plantago psyllium seeds; POS: Plantago ovata seeds; POH: Plantago ovata husk."
+    },
+    {
+      "id": "foods-11-00536-t003",
+      "rows": [
+        [
+          "Blend",
+          "Hydration (%)",
+          "Dough Development Time (min)",
+          "Dough Stability (min)",
+          "Dough Softening (FU)",
+          "Mixing Tolerance Index (FU)"
+        ],
+        [
+          "Control",
+          "61.2 ± 0.49 g",
+          "2.30 ± 0.14 g",
+          "1.45 ± 0.07 b",
+          "95.0 ± 2.66 c",
+          "128.4 ± 0.74 d"
+        ],
+        [
+          "PPS",
+          "3%",
+          "70.3 ± 1.34 f",
+          "2.45 ± 0.07 fg",
+          "1.45 ± 0.07 b",
+          "103.5 ± 0.71 b",
+          "156.5 ± 1.88 c"
+        ],
+        [
+          "6%",
+          "73.7 ± 1.44 d",
+          "2.55 ± 0.07 fg",
+          "1.45 ± 0.07 b",
+          "116.0 ± 1.41 a",
+          "164.4 ± 2.13 b"
+        ],
+        [
+          "9%",
+          "74.9 ± 1.46 cd",
+          "2.55 ± 0.21 fg",
+          "1.45 ± 0.07 b",
+          "116.5 ± 2.12 a",
+          "174.2 ± 0.63 a"
+        ],
+        [
+          "POS",
+          "3%",
+          "70.8 ± 0.71 ef",
+          "3.55 ± 0.07 e",
+          "1.55 ± 0.07 b",
+          "88.0 ± 1.41 de",
+          "109.4 ± 0.52 f"
+        ],
+        [
+          "6%",
+          "74.6 ± 0.64 cd",
+          "4.25 ± 0.07 d",
+          "1.55 ± 0.07 b",
+          "87.0 ± 1.41 e",
+          "97.9 ± 1.13 g"
+        ],
+        [
+          "9%",
+          "75.8 ± 0.62 c",
+          "5.10 ± 0.14 c",
+          "1.60 ± 0.14 b",
+          "87.0 ± 1.41 e",
+          "91.0 ± 0.90 h"
+        ],
+        [
+          "POH",
+          "3%",
+          "71.9 ± 0.85 de",
+          "2.65 ± 0.07 f",
+          "1.55 ± 0.07 b",
+          "94.5 ± 2.12 cd",
+          "120.1 ± 0.26 e"
+        ],
+        [
+          "6%",
+          "84.5 ± 1.41 b",
+          "6.55 ± 0.07 b",
+          "1.65 ± 0.21 b",
+          "93.5 ± 1.41 cde",
+          "109.1 ± 0.17 f"
+        ],
+        [
+          "9%",
+          "98.1 ± 1.89 a",
+          "8.80 ± 0.14 a",
+          "2.50 ± 0.28 a",
+          "88.5 ± 0.71 cde",
+          "98.6 ± 0.63 g"
+        ]
+      ],
+      "footnote": "Values represent the means of two replicates. Small letters (a, b, c, etc.) in the same column denote significant differences according to Duncan’s test (p ≤ 0.05). PPS: Plantago psyllium seeds; POS: Plantago ovata seeds; POH: Plantago ovata husk."
+    },
+    {
+      "id": "foods-11-00536-t004",
+      "rows": [
+        [
+          "Blend",
+          "C2 (N·m)",
+          "C3 (N·m)",
+          "C4 (N·m)",
+          "C5 (N·m)",
+          "C5–C4 (N·m)"
+        ],
+        [
+          "Control",
+          "0.578 ± 0.007 d",
+          "1.613 ± 0.028 a",
+          "1.367 ± 0.019 a",
+          "2.008 ± 0.006 a",
+          "0.642 ± 0.013 a"
+        ],
+        [
+          "PPS",
+          "3%",
+          "0.482 ± 0.003 e",
+          "1.390 ± 0.042 d",
+          "1.204 ± 0.025 b",
+          "1.678 ± 0.016 c",
+          "0.475 ± 0.040 b"
+        ],
+        [
+          "6%",
+          "0.485 ± 0.006 e",
+          "1.360 ± 0.016 d",
+          "1.090 ± 0.003 de",
+          "1.518 ± 0.008 e",
+          "0.428 ± 0.011 bc"
+        ],
+        [
+          "9%",
+          "0.483 ± 0.004 e",
+          "1.396 ± 0.010 d",
+          "1.020 ± 0.003 e",
+          "1.376 ± 0.002 g",
+          "0.356 ± 0.003 cd"
+        ],
+        [
+          "POS",
+          "3%",
+          "0.583 ± 0.036 d",
+          "1.447 ± 0.010 c",
+          "1.220 ± 0.020 b",
+          "1.723 ± 0.004 b",
+          "0.503 ± 0.016 b"
+        ],
+        [
+          "6%",
+          "0.655 ± 0.006 c",
+          "1.472 ± 0.014 bc",
+          "1.188 ± 0.007 bc",
+          "1.674 ± 0.010 c",
+          "0.486 ± 0.017 b"
+        ],
+        [
+          "9%",
+          "0.700 ± 0.002 b",
+          "1.514 ± 0.015 b",
+          "1.110 ± 0.017 cd",
+          "1.568 ± 0.013 d",
+          "0.458 ± 0.004 b"
+        ],
+        [
+          "POH",
+          "3%",
+          "0.655 ± 0.021 c",
+          "1.484 ± 0.006 bc",
+          "1.116 ± 0.025 cd",
+          "1.716 ± 0.008 b",
+          "0.601 ± 0.044 a"
+        ],
+        [
+          "6%",
+          "0.693 ± 0.008 b",
+          "1.479 ± 0.030 bc",
+          "1.094 ± 0.025 de",
+          "1.455 ± 0.011 f",
+          "0.361 ± 0.013 cd"
+        ],
+        [
+          "9%",
+          "0.772 ± 0.017 a",
+          "1.483 ± 0.004 bc",
+          "0.977 ± 0.039 f",
+          "1.277 ± 0.016 h",
+          "0.300 ± 0.040 d"
+        ]
+      ],
+      "footnote": "Values represent the means of two replicates. Small letters (a, b, c, etc.) in the same column denote significant differences according to Duncan’s test (p ≤ 0.05). PPS: Plantago psyllium seeds; POS: Plantago ovata seeds; POH: Plantago ovata husk."
+    },
+    {
+      "id": "foods-11-00536-t005",
+      "rows": [
+        [
+          "Blend",
+          "Resistance to Extension (N)",
+          "Dough Energy (N·mm)",
+          "Dough Extensibility (mm)"
+        ],
+        [
+          "Control",
+          "0.123 ± 0.007 f",
+          "0.863 ± 0.016 d",
+          "10.806 ± 1.291 a"
+        ],
+        [
+          "PPS",
+          "3%",
+          "0.136 ± 0.016 ef",
+          "0.885 ± 0.014 d",
+          "9.099 ± 1.268 a"
+        ],
+        [
+          "6%",
+          "0.183 ± 0.018 cde",
+          "0.869 ± 0.013 d",
+          "10.664 ± 0.479 a"
+        ],
+        [
+          "9%",
+          "0.230 ± 0.026 c",
+          "0.976 ± 0.021 d",
+          "13.930 ± 1.274 a"
+        ],
+        [
+          "POS",
+          "3%",
+          "0.165 ± 0.016 def",
+          "1.140 ± 0.018 d",
+          "11.543 ± 1.152 a"
+        ],
+        [
+          "6%",
+          "0.224 ± 0.012 c",
+          "1.539 ± 0.025 c",
+          "11.795 ± 1.284 a"
+        ],
+        [
+          "9%",
+          "0.318 ± 0.036 b",
+          "1.964 ± 0.022 b",
+          "11.130 ± 0.726 a"
+        ],
+        [
+          "POH",
+          "3%",
+          "0.214 ± 0.014 cd",
+          "1.452 ± 0.016 c",
+          "12.273 ± 1.488 a"
+        ],
+        [
+          "6%",
+          "0.342 ± 0.016 b",
+          "2.049 ± 0.028 b",
+          "11.617 ± 1.097 a"
+        ],
+        [
+          "9%",
+          "0.480 ± 0.026 a",
+          "2.905 ± 0.026 a",
+          "12.020 ± 1.489 a"
+        ]
+      ],
+      "footnote": "Values represent the means of eight replicates. Small letters (a, b, c, etc.) in the same column denote significant differences according to Duncan’s test (p ≤ 0.05). PPS: Plantago psyllium seeds; POS: Plantago ovata seeds; POH: Plantago ovata husk."
+    },
+    {
+      "id": "foods-11-00536-t006",
+      "rows": [
+        [
+          "Blend",
+          "Hardness (N)",
+          "Cohesiveness (%)",
+          "Springiness (%)",
+          "Chewiness (-)",
+          "Resilience (%)"
+        ],
+        [
+          "Fresh",
+          "Stored",
+          "Fresh",
+          "Stored",
+          "Fresh",
+          "Stored",
+          "Fresh",
+          "Stored",
+          "Fresh",
+          "Stored"
+        ],
+        [
+          "Control",
+          "26.73 ± 2.21 a",
+          "23.85 ± 2.30 ab",
+          "0.73 ± 0.04 b",
+          "0.68 ± 0.04 bc",
+          "0.69 ± 0.03 b",
+          "0.68 ± 0.04 b",
+          "13.45 ± 1.12 a",
+          "10.94 ± 0.79 abcd",
+          "0.44 ± 0.03 a",
+          "0.39 ± 0.04 ab"
+        ],
+        [
+          "PPS",
+          "3%",
+          "22.00 ± 2.78 ab",
+          "14.65 ± 1.37 d",
+          "0.72 ± 0.02 b",
+          "0.72 ± 0.08 abc",
+          "0.73 ± 0.03 ab",
+          "0.76 ± 0.05 b",
+          "11.34 ± 1.09 ab",
+          "8.04 ± 0.43 d",
+          "0.40 ± 0.01 a",
+          "0.41 ± 0.06 ab"
+        ],
+        [
+          "6%",
+          "16.95 ± 2.58 bcd",
+          "17.88 ± 0.15 cd",
+          "0.76 ± 0.02 ab",
+          "0.74 ± 0.04 ab",
+          "0.80 ± 0.07 ab",
+          "0.74 ± 0.09 b",
+          "10.46 ± 1.55 abc",
+          "9.99 ± 1.04 abcd",
+          "0.45 ± 0.02 a",
+          "0.44 ± 0.02 a"
+        ],
+        [
+          "9%",
+          "13.89 ± 1.18 cd",
+          "20.51 ± 1.28 bc",
+          "0.75 ± 0.03 ab",
+          "0.68 ± 0.02 bc",
+          "0.80 ± 0.08 ab",
+          "0.72 ± 0.05 b",
+          "8.43 ± 1.05 bcd",
+          "13.41 ± 1.61 a",
+          "0.44 ± 0.01 a",
+          "0.37 ± 0.03 b"
+        ],
+        [
+          "POS",
+          "3%",
+          "11.62 ± 1.65 de",
+          "17.48 ± 1.75 cd",
+          "0.75 ± 0.05 ab",
+          "0.73 ± 0.04 abc",
+          "0.70 ± 0.09 b",
+          "0.66 ± 0.08 b",
+          "6.14 ± 1.10 cd",
+          "8.41 ± 0.83 cd",
+          "0.47 ± 0.05 a",
+          "0.43 ± 0.03 a"
+        ],
+        [
+          "6%",
+          "14.31 ± 1.86 cd",
+          "17.59 ± 1.39 cd",
+          "0.77 ± 0.06 ab",
+          "0.73 ± 0.03 abc",
+          "0.72 ± 0.05 ab",
+          "0.73 ± 0.07 b",
+          "7.97 ± 0.84 cd",
+          "9.34 ± 0.79 bcd",
+          "0.46 ± 0.04 a",
+          "0.42 ± 0.01 ab"
+        ],
+        [
+          "9%",
+          "19.81 ± 0.16 bc",
+          "23.44 ± 1.72 ab",
+          "0.79 ± 0.02 ab",
+          "0.72 ± 0.00 abc",
+          "0.73 ± 0.04 ab",
+          "0.78 ± 0.05 b",
+          "11.46 ± 1.04 ab",
+          "13.18 ± 0.66 a",
+          "0.45 ± 0.03 a",
+          "0.40 ± 0.01 ab"
+        ],
+        [
+          "POH",
+          "3%",
+          "21.87 ± 2.71 ab",
+          "24.75 ± 1.90 a",
+          "0.79 ± 0.03 ab",
+          "0.66 ± 0.02 c",
+          "0.77 ± 0.08 ab",
+          "0.77 ± 0.04 b",
+          "13.09 ± 1.25 ab",
+          "12.68 ± 1.38 ab",
+          "0.47 ± 0.02 a",
+          "0.37 ± 0.04 ab"
+        ],
+        [
+          "6%",
+          "15.26 ± 2.20 bcd",
+          "19.26 ± 1.44 c",
+          "0.79 ± 0.02 ab",
+          "0.75 ± 0.03 ab",
+          "0.82 ± 0.10 ab",
+          "0.82 ± 0.09 ab",
+          "9.93 ± 0.65 abc",
+          "11.74 ± 1.45 abc",
+          "0.45 ± 0.01 a",
+          "0.42 ± 0.01 ab"
+        ],
+        [
+          "9%",
+          "5.89 ± 0.39 e",
+          "9.00 ± 0.26 e",
+          "0.81 ± 0.01 a",
+          "0.77 ± 0.02 a",
+          "0.88 ± 0.11 a",
+          "0.86 ± 0.09 ab",
+          "4.28 ± 0.81 d",
+          "5.98 ± 0.43 e",
+          "0.43 ± 0.04 a",
+          "0.40 ± 0.03 ab"
+        ]
+      ],
+      "footnote": "Values represent the means of three replicates. Small letters (a, b, c, etc.) in the same column denote significant differences according to Duncan’s test (p ≤ 0.05). PPS: Plantago psyllium seeds; POS: Plantago ovata seeds; POH: Plantago ovata husk."
+    }
+  ]
+}

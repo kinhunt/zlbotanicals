@@ -1,0 +1,444 @@
+{
+  "status": "PASS",
+  "passed": 109,
+  "total": 109,
+  "checks": [
+    {
+      "check": "sha256:REVIEW.md",
+      "pass": true
+    },
+    {
+      "check": "sha256:citation-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "sha256:corrected.en.md",
+      "pass": true
+    },
+    {
+      "check": "sha256:corrected.zh.md",
+      "pass": true
+    },
+    {
+      "check": "sha256:inputs/HANDOFF.md",
+      "pass": true
+    },
+    {
+      "check": "sha256:inputs/claim-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "sha256:inputs/draft.en.md",
+      "pass": true
+    },
+    {
+      "check": "sha256:inputs/draft.zh.md",
+      "pass": true
+    },
+    {
+      "check": "sha256:inputs/source-manifest.json",
+      "pass": true
+    },
+    {
+      "check": "sha256:original-table-cells.json",
+      "pass": true
+    },
+    {
+      "check": "sha256:review-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "sha256:sources/B000N7DP6G-result.json",
+      "pass": true
+    },
+    {
+      "check": "sha256:sources/B007729DSE-result.json",
+      "pass": true
+    },
+    {
+      "check": "sha256:sources/B06XXN9CTG-result.json",
+      "pass": true
+    },
+    {
+      "check": "sha256:sources/S1.txt",
+      "pass": true
+    },
+    {
+      "check": "sha256:sources/S1.xml",
+      "pass": true
+    },
+    {
+      "check": "sha256:sources/S2.txt",
+      "pass": true
+    },
+    {
+      "check": "sha256:sources/S2.xml",
+      "pass": true
+    },
+    {
+      "check": "sha256:sources/S3.txt",
+      "pass": true
+    },
+    {
+      "check": "sha256:sources/S3.xml",
+      "pass": true
+    },
+    {
+      "check": "sha256:sources/powder-search-result.json",
+      "pass": true
+    },
+    {
+      "check": "sha256:sources/psyllium-search-result.json",
+      "pass": true
+    },
+    {
+      "check": "sha256:verify.py",
+      "pass": true
+    },
+    {
+      "check": "original source hash:S1",
+      "pass": true
+    },
+    {
+      "check": "original source hash:S2",
+      "pass": true
+    },
+    {
+      "check": "original source hash:S3",
+      "pass": true
+    },
+    {
+      "check": "S1 volume cells and letters",
+      "pass": true
+    },
+    {
+      "check": "S1 firmness cells and letters",
+      "pass": true
+    },
+    {
+      "check": "S2 gumminess significant letters",
+      "pass": true
+    },
+    {
+      "check": "S2 hardness shared letters",
+      "pass": true
+    },
+    {
+      "check": "S2 formulation exact rows",
+      "pass": true
+    },
+    {
+      "check": "S3 original9percent hydration cells",
+      "pass": true
+    },
+    {
+      "check": "en table 1.41 ± 0.02",
+      "pass": true
+    },
+    {
+      "check": "en table 2.15 ± 0.12",
+      "pass": true
+    },
+    {
+      "check": "en table 2.06 ± 0.04",
+      "pass": true
+    },
+    {
+      "check": "en table 2.08 ± 0.05",
+      "pass": true
+    },
+    {
+      "check": "en table 24.72 ± 2.10",
+      "pass": true
+    },
+    {
+      "check": "en table 8.27 ± 0.89",
+      "pass": true
+    },
+    {
+      "check": "en table 8.33 ± 0.71",
+      "pass": true
+    },
+    {
+      "check": "en table 6.12 ± 0.58",
+      "pass": true
+    },
+    {
+      "check": "en number 2.86",
+      "pass": true
+    },
+    {
+      "check": "en number 82.14",
+      "pass": true
+    },
+    {
+      "check": "en number 7.14",
+      "pass": true
+    },
+    {
+      "check": "en number 91.10",
+      "pass": true
+    },
+    {
+      "check": "en number 17.14",
+      "pass": true
+    },
+    {
+      "check": "en number 117.86",
+      "pass": true
+    },
+    {
+      "check": "en number 74.9",
+      "pass": true
+    },
+    {
+      "check": "en number 75.8",
+      "pass": true
+    },
+    {
+      "check": "en number 98.1",
+      "pass": true
+    },
+    {
+      "check": "en number 61.2",
+      "pass": true
+    },
+    {
+      "check": "en number 159.7",
+      "pass": true
+    },
+    {
+      "check": "en number 173.6",
+      "pass": true
+    },
+    {
+      "check": "en number 40.7 ± 7.5",
+      "pass": true
+    },
+    {
+      "check": "en number 35.3 ± 4.9",
+      "pass": true
+    },
+    {
+      "check": "en number 91.2",
+      "pass": true
+    },
+    {
+      "check": "en number 5.5",
+      "pass": true
+    },
+    {
+      "check": "en number 3.3",
+      "pass": true
+    },
+    {
+      "check": "en number 17.9",
+      "pass": true
+    },
+    {
+      "check": "en no internal draft label",
+      "pass": true
+    },
+    {
+      "check": "en strict citation/evidence",
+      "pass": true
+    },
+    {
+      "check": "zh table 1.41 ± 0.02",
+      "pass": true
+    },
+    {
+      "check": "zh table 2.15 ± 0.12",
+      "pass": true
+    },
+    {
+      "check": "zh table 2.06 ± 0.04",
+      "pass": true
+    },
+    {
+      "check": "zh table 2.08 ± 0.05",
+      "pass": true
+    },
+    {
+      "check": "zh table 24.72 ± 2.10",
+      "pass": true
+    },
+    {
+      "check": "zh table 8.27 ± 0.89",
+      "pass": true
+    },
+    {
+      "check": "zh table 8.33 ± 0.71",
+      "pass": true
+    },
+    {
+      "check": "zh table 6.12 ± 0.58",
+      "pass": true
+    },
+    {
+      "check": "zh number 2.86",
+      "pass": true
+    },
+    {
+      "check": "zh number 82.14",
+      "pass": true
+    },
+    {
+      "check": "zh number 7.14",
+      "pass": true
+    },
+    {
+      "check": "zh number 91.10",
+      "pass": true
+    },
+    {
+      "check": "zh number 17.14",
+      "pass": true
+    },
+    {
+      "check": "zh number 117.86",
+      "pass": true
+    },
+    {
+      "check": "zh number 74.9",
+      "pass": true
+    },
+    {
+      "check": "zh number 75.8",
+      "pass": true
+    },
+    {
+      "check": "zh number 98.1",
+      "pass": true
+    },
+    {
+      "check": "zh number 61.2",
+      "pass": true
+    },
+    {
+      "check": "zh number 159.7",
+      "pass": true
+    },
+    {
+      "check": "zh number 173.6",
+      "pass": true
+    },
+    {
+      "check": "zh number 40.7 ± 7.5",
+      "pass": true
+    },
+    {
+      "check": "zh number 35.3 ± 4.9",
+      "pass": true
+    },
+    {
+      "check": "zh number 91.2",
+      "pass": true
+    },
+    {
+      "check": "zh number 5.5",
+      "pass": true
+    },
+    {
+      "check": "zh number 3.3",
+      "pass": true
+    },
+    {
+      "check": "zh number 17.9",
+      "pass": true
+    },
+    {
+      "check": "zh no internal draft label",
+      "pass": true
+    },
+    {
+      "check": "zh strict citation/evidence",
+      "pass": true
+    },
+    {
+      "check": "ASIN identity:B000N7DP6G",
+      "pass": true
+    },
+    {
+      "check": "Powder attribute:B000N7DP6G",
+      "pass": true
+    },
+    {
+      "check": "ASIN identity:B007729DSE",
+      "pass": true
+    },
+    {
+      "check": "Powder attribute:B007729DSE",
+      "pass": true
+    },
+    {
+      "check": "ASIN identity:B06XXN9CTG",
+      "pass": true
+    },
+    {
+      "check": "Powder attribute:B06XXN9CTG",
+      "pass": true
+    },
+    {
+      "check": "psyllium-search-result.json eight records",
+      "pass": true
+    },
+    {
+      "check": "powder-search-result.json eight records",
+      "pass": true
+    },
+    {
+      "check": "26 review entries final PASS",
+      "pass": true
+    },
+    {
+      "check": "complete original quote C01",
+      "pass": true
+    },
+    {
+      "check": "complete original quote C02",
+      "pass": true
+    },
+    {
+      "check": "complete original quote C03",
+      "pass": true
+    },
+    {
+      "check": "complete original quote C04",
+      "pass": true
+    },
+    {
+      "check": "complete original quote C05",
+      "pass": true
+    },
+    {
+      "check": "complete original quote C07",
+      "pass": true
+    },
+    {
+      "check": "complete original quote C08",
+      "pass": true
+    },
+    {
+      "check": "complete original quote C09",
+      "pass": true
+    },
+    {
+      "check": "complete original quote C10",
+      "pass": true
+    },
+    {
+      "check": "complete original quote C12",
+      "pass": true
+    },
+    {
+      "check": "complete original quote C13",
+      "pass": true
+    },
+    {
+      "check": "complete original quote C14",
+      "pass": true
+    }
+  ],
+  "scope": "Integrity and exact-source regression only; semantic/editorial decisions are recorded in REVIEW.md."
+}

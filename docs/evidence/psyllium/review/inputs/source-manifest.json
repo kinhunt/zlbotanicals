@@ -1,0 +1,52 @@
+[
+  {
+    "id": "S1",
+    "pmcid": "PMC8145964",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8145964/fullTextXML",
+    "archive": "sources/S1.xml",
+    "sha256": "1ed1c50c7234cb934aeff35c724f94649e2150b6f4a6e413f7d9b68b45b70619",
+    "bytes": 94130,
+    "retrieved_date_utc": "2026-09-28",
+    "scope": "Original full-text JATS; S1-S3 read for draft; R1 citation-chain context; X1 candidate validation only"
+  },
+  {
+    "id": "S2",
+    "pmcid": "PMC11172051",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11172051/fullTextXML",
+    "archive": "sources/S2.xml",
+    "sha256": "70f94df07ba8b10cebfe178d700ae8c1a02be12dc7aff2e03edace711397f607",
+    "bytes": 133696,
+    "retrieved_date_utc": "2026-09-28",
+    "scope": "Original full-text JATS; S1-S3 read for draft; R1 citation-chain context; X1 candidate validation only"
+  },
+  {
+    "id": "S3",
+    "pmcid": "PMC8870862",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8870862/fullTextXML",
+    "archive": "sources/S3.xml",
+    "sha256": "ff805be0cb95181227ca18bc7d697593402496fbb88dc29010e32bd4c1518a58",
+    "bytes": 121663,
+    "retrieved_date_utc": "2026-09-28",
+    "scope": "Original full-text JATS; S1-S3 read for draft; R1 citation-chain context; X1 candidate validation only"
+  },
+  {
+    "id": "X1",
+    "pmcid": "PMC4541741",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4541741/fullTextXML",
+    "archive": "sources/X1.xml",
+    "sha256": "0da52f3271a83fae0b5b91c869cc9db7fc51cf5666548c314676165b76e9dedc",
+    "bytes": 83946,
+    "retrieved_date_utc": "2026-09-28",
+    "scope": "Original full-text JATS; S1-S3 read for draft; R1 citation-chain context; X1 candidate validation only"
+  },
+  {
+    "id": "R1",
+    "pmcid": "PMC12455465",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12455465/fullTextXML",
+    "archive": "sources/psyllium-review.xml",
+    "sha256": "314dbb422c08564f2929759f85ff9c7b65eb772c5389e3dcd7e61a5f939f27e0",
+    "bytes": 309097,
+    "retrieved_date_utc": "2026-09-28",
+    "scope": "Original full-text JATS; S1-S3 read for draft; R1 citation-chain context; X1 candidate validation only"
+  }
+]
