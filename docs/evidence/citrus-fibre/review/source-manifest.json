@@ -1,0 +1,56 @@
+[
+  {
+    "file": "sources/S1xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12311739/fullTextXML?x=20260928",
+    "status": 200,
+    "scope": "Complete original JATS; primary",
+    "sha256": "8302356381bb01fc111e0b0a8975a2adc73d80e95d6b97a9bd297d186335bb0e",
+    "bytes": 139858,
+    "review_scope": "Independent archived-byte review; no fresh retrieval claimed"
+  },
+  {
+    "file": "sources/S2xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10572798/fullTextXML?x=20260928",
+    "status": 200,
+    "scope": "Complete original JATS; primary",
+    "sha256": "ccbef3077773ec6fc48904841c2217da1d4e006a11d16c1c6695b69c8ac6bb12",
+    "bytes": 157257,
+    "review_scope": "Independent archived-byte review; no fresh retrieval claimed"
+  },
+  {
+    "file": "sources/S4",
+    "url": "https://www.tateandlyle.com/ingredient/clean-label-nutrava-citrus-fiber",
+    "status": 200,
+    "scope": "Complete manufacturer HTML; primary commercial positioning",
+    "sha256": "b1c7e00ba7a44806ec0bb62a16bb021aa7c36956c1e201e845684c771968fabd",
+    "bytes": 77802,
+    "review_scope": "Independent archived-byte review; no fresh retrieval claimed"
+  },
+  {
+    "file": "sources/S3",
+    "url": "https://www.cpkelco.com/wp-content/uploads/2024/05/cpk-website-cf-yogurt-fruit-prep-recipe-card-2024.pdf?download=1",
+    "status": 403,
+    "scope": "FAILED PDF retrieval; excluded",
+    "sha256": "32f2fa940d4b4fe19aca1e53a24e5aac29c57b7c5ee78588325b87f1b649c864",
+    "bytes": 146,
+    "review_scope": "Independent archived-byte review; no fresh retrieval claimed"
+  },
+  {
+    "file": "sources/PMC12311739.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12311739/",
+    "status": 200,
+    "scope": "INVALID challenge page, not article",
+    "sha256": "2837c6b61850e84b079a90623da9469687207516d5b3193374fafc7fe58e293d",
+    "bytes": 21217,
+    "review_scope": "Independent archived-byte review; no fresh retrieval claimed"
+  },
+  {
+    "file": "sources/PMC10572798.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10572798/",
+    "status": 200,
+    "scope": "INVALID challenge page, not article",
+    "sha256": "cca0c03bf569ad7ed6e172c1ccdc51db9472974092b81e626f9b06fce7f8e274",
+    "bytes": 21217,
+    "review_scope": "Independent archived-byte review; no fresh retrieval claimed"
+  }
+]

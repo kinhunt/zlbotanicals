@@ -1,0 +1,2306 @@
+{
+  "S1": [
+    {
+      "id": "tbl1",
+      "label": "1",
+      "caption": "Response Values Obtained with the Run Points of the Created CCRD Experimental Design",
+      "rows": [
+        [
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "run"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "citrus fiber concentration (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "homogenization pressure (bar)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "WHC (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "sedimentation (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "creaming index (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "pH"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "viscosity (mPa·s)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "torque (mN·m)"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.100"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "300"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "82.90 ± 0.71"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "3.96 ± 0.29"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "29.31 ± 0.11"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.65 ± 0.03"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "94.36 ± 0.79"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.424 ± 0.011"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "2"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.462"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "200"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "97.60 ± 0.57"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.00 ± 0.00"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.00 ± 0.00"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.64 ± 0.01"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "225.80 ± 1.22"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.941 ± 0.009"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "3"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.250"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "200"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "86.05 ± 0.35"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.00 ± 0.00"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.00 ± 0.00"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.64 ± 0.05"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "138.30 ± 0.55"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.621 ± 0.023"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "4"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.250"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "341.4"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "90.72 ± 0.68"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.00 ± 0.00"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.00 ± 0.00"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.64 ± 0.01"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "157.80 ± 0.81"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.709 ± 0.005"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "5"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.400"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "300"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "95.35 ± 0.49"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.75 ± 0.12"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "2.46 ± 0.22"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.63 ± 0.02"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "201.60 ± 1.08"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.905 ± 0.027"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.038"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "200"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "75.65 ± 0.49"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "17.50 ± 1.18"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "59.42 ± 0.82"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.64 ± 0.04"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "76.91 ± 0.24"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.346 ± 0.012"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "7"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.100"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "100"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "77.00 ± 0.85"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "17.96 ± 0.53"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "59.15 ± 2.07"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.65 ± 0.02"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "77.99 ± 0.30"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.350 ± 0.006"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "8"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.250"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "58.5"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "79.25 ± 0.35"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.58 ± 0.82"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "31.27 ± 0.71"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.64 ± 0.01"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "124.50 ± 0.43"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.559 ± 0.024"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "9"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.250"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "200"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "85.55 ± 0.21"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.00 ± 0.00"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "2.46 ± 0.22"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.63 ± 0.03"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "126.40 ± 0.46"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.568 ± 0.018"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "10"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.250"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "200"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "85.34 ± 0.37"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.00 ± 0.00"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.69 ± 0.11"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.64 ± 0.04"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "134.20 ± 0.58"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.603 ± 0.025"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "11"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.400"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "100"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "92.36 ± 0.23"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.00 ± 0.00"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.00 ± 0.00"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.63 ± 0.01"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "161.10 ± 0.66"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.724 ± 0.014"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "model"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "linear"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "quadratic"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "quadratic"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "linear"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "p value"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.0473*"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.0002*"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.0002*"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.0001*"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "R 2"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.9686"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.9923"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.9932"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.9638"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "adjusted R 2"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.9607"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.9845"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.9864"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.9547"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "predicted R 2"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.9299"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.9449"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.9545"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.9241"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          }
+        ]
+      ],
+      "footnote": "a*; significant **; not significant, mean ± standard deviation. All analysis performed at least in triplicate."
+    },
+    {
+      "id": "tbl2",
+      "label": "2",
+      "caption": "Optimum Point Obtained by CCRD Analysis Results of Optimum Point Sample",
+      "rows": [
+        [
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "products"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "WHC (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "sedimentation (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "creaming index (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "pH"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "viscosity (mPa·s)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "torque (mN·m)"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "optimum predicted"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "95.79"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.63"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "196.90"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.834"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "optimum experimental"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "95.95 ± 0.78"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.62 ± 0.02"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "197.22 ± 0.91"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.855 ± 0.027"
+          }
+        ]
+      ],
+      "footnote": "and: not detected. The standard deviation is represented by ± values (n = 3). Different letters in each column (according to the Tukey test) are statistically significantly different (p < 0.05)."
+    },
+    {
+      "id": "tbl3",
+      "label": "3",
+      "caption": "Analysis Results of Optimum Point Sample",
+      "rows": [
+        [
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "products"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "L*"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "a*"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "b*"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Z-ave (nm)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "zeta potential (mV)"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "optimum sample"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "50.37 ± 0.37"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "8.46 ± 0.16"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "9.62 ± 0.32"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "630.53 ± 25.39"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "–27.90 ± 0.29"
+          }
+        ]
+      ],
+      "footnote": "aThe standard deviation is represented by ± values (n = 3). Different letters in each column (according to the Tukey test) are statistically significantly different (p < 0.05)."
+    },
+    {
+      "id": "tbl4",
+      "label": "4",
+      "caption": "EDS Results of Milk-Based Cocoa Beverages without Hydrocolloid and Optimum Point Sample",
+      "rows": [
+        [
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "products"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "C (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "N (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "O (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Na (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "P (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Cl (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "K (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Ca (%)"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "no hydrocolloid"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "69.30 ± 0.15a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.63 ± 0.83a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "16.63 ± 0.18b"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.56 ± 0.06a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.00b"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.38 ± 0.11a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "3.79 ± 0.10"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.72 ± 0.38a"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "optimum sample"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "64.75 ± 3.89"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "5.77 ± 0.23"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "22.71 ± 2.78a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.43 ± 0.10"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.40 ± 0.06a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.33 ± 0.21"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "4.15 ± 0.80a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.00 ± 0.11b"
+          }
+        ]
+      ],
+      "footnote": "aThe standard deviation is represented by ± values (n = 3). Different letters in each column (according to the Tukey test) are statistically significantly different (p < 0.05)."
+    },
+    {
+      "id": "tbl5",
+      "label": "5",
+      "caption": "9 Months Storage Results of Optimum Point Sample",
+      "rows": [
+        [
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "months"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "WHC (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "sedimentation (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "creaming index (%)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "pH"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "viscosity (mPa·s)"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "torque (mN·m)"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "95.80 ± 0.42a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.63 ± 0.02a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "204.95 ± 6.29a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.857 ± 0.010a"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "2"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "95.45 ± 0.49a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.61 ± 0.01a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "213.45 ± 3.46a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.896 ± 0.005a"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "3"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "94.80 ± 0.14a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.60 ± 0.03a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "225.90 ± 4.53b"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.941 ± 0.007a"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "4"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "93.75 ± 1.06a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.58 ± 0.02a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "238.43 ± 3.80bc"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.996 ± 0.006a"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "5"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "93.18 ± 0.32a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.01 ± 0.0008a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.58 ± 0.04a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "244.38 ± 4.61c"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.020 ± 0.007a"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "92.85 ± 0.21a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.01 ± 0.0011a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.56 ± 0.01a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "259.70 ± 3.11cd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.084 ± 0.004b"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "7"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "91.03 ± 0.32a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.02 ± 0.0016a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.53 ± 0.04a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "276.69 ± 3.44d"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.153 ± 0.011b"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "8"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "90.30 ± 0.14b"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.02 ± 0.0021a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.51 ± 0.03a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "290.08 ± 2.52e"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.212 ± 0.009b"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "9"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "89.65 ± 0.35b"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "nd"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.03 ± 0.0016a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6.49 ± 0.05a"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "305.10 ± 6.08e"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.278 ± 0.012b"
+          }
+        ]
+      ],
+      "footnote": "and: not detected. The standard deviation is represented by ± values (n = 3). Different letters in each column (according to the Tukey test) are statistically significantly different (p < 0.05)."
+    }
+  ],
+  "S2": [
+    {
+      "id": "foods-12-03663-t001",
+      "label": "Table 1",
+      "caption": "Fat-, carbohydrate-, protein-, total dietary fiber- and salt content for the used plant dietary fiber compounds (CF AQ—Citrus Fiber AQ Plus; CF Cl—Citrus fiber classic; AF—Apple fiber; OF—Oat fiber; PF—Pea fiber).",
+      "rows": [
+        [
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Fat Content[%]"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Carbohydrate Content[%]"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Protein Content[%]"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Salt Content[%]"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Total Dietary Fiber Content[%]"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "CF AQ"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "≤1"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "≤1"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "5"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.30"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "90"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "CF Cl"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "<1"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "6"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.40"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "64–82"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "AF"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "≤1"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "≤1"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "9"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.00"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "85"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "OF"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "≤1"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "≤1"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "≤1"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.10"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "≥90"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "PF"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "7"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "7"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.03"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "70–90"
+          }
+        ]
+      ],
+      "footnote": ""
+    },
+    {
+      "id": "foods-12-03663-t002",
+      "label": "Table 2",
+      "caption": "Insoluble and soluble dietary fiber content [% DM] of the used plant dietary fiber compounds (CF AQ—Citrus fiber AQ Plus; CF Cl—Citrus fiber classic; AF—Apple fiber; OF—Oat fiber; PF—Pea fiber).",
+      "rows": [
+        [
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": ""
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Insoluble Dietary Fiber Content [% DM]"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Soluble Dietary Fiber Content [% DM]"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "CF AQ"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "74.56 ± 0.34"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "14.57 ± 0.83"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "CF Cl"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "39.80 ± 0.16"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "23.30 ± 0.22"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "AF"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "71.91 ± 1.05"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "11.14 ± 0.66"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "OF"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "94.27 ± 0.40"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.21 ± 0.50"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "PF"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "72.91 ± 0.01"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "4.39 ± 0.35"
+          }
+        ]
+      ],
+      "footnote": ""
+    },
+    {
+      "id": "foods-12-03663-t003",
+      "label": "Table 3",
+      "caption": "Amount of fiber added to suspensions containing fiber and water in a total mass of 200 g.",
+      "rows": [
+        [
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Sample"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Mass of Fiber in Untreated Suspensions [g/100 g]"
+          },
+          {
+            "tag": "th",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "Mass of Fiber in Treated Suspensions [g/100 g]"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "CF AQ"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.00 ± 0.01"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.25 ± 0.01"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "CF Cl"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.50 ± 0.01"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.50 ± 0.01"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "AF"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.00 ± 0.01"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "0.50 ± 0.01"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "OF"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.00 ± 0.01"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.00 ± 0.01"
+          }
+        ],
+        [
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "PF"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.00 ± 0.01"
+          },
+          {
+            "tag": "td",
+            "rowspan": "1",
+            "colspan": "1",
+            "text": "1.00 ± 0.01"
+          }
+        ]
+      ],
+      "footnote": ""
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "C01",
+    "source": "S4",
+    "locator": "Application areas Beverage; Condiments & soups",
+    "claim": "Supplier positions citrus fibre for mouthfeel/stabilisation and enrichment; attributed portfolio claim.",
+    "decision": "supported in corrected copies with scopes in REVIEW.md"
+  },
+  {
+    "id": "C02",
+    "source": "S2",
+    "locator": "Methods2.1,2.3.1; Table2 rows CF AQ,CF Cl",
+    "claim": "Exact named materials and four dry-matter fibre values; AOAC991.43; not current specifications.",
+    "decision": "supported in corrected copies with scopes in REVIEW.md"
+  },
+  {
+    "id": "C03",
+    "source": "S2",
+    "locator": "Methods2.2; Results Figure7 discussion",
+    "claim": "1wt%,pH7,150s,225kJ/L,not exceeding 40C; CF AQ greater thickening response despite lower soluble fibre; not homogeniser equivalence.",
+    "decision": "supported in corrected copies with scopes in REVIEW.md"
+  },
+  {
+    "id": "C04",
+    "source": "S1",
+    "locator": "Methods2.1–2.2",
+    "claim": "Zest donated by CP Kelco; milk3%fat/protein; sugar6%,cocoa1%,phosphate1%,sorbate0.05%;75C before homogenisation95C4min after.",
+    "decision": "supported in corrected copies with scopes in REVIEW.md"
+  },
+  {
+    "id": "C05",
+    "source": "S1",
+    "locator": "Table1 runs7,1,11,5",
+    "claim": "Four original row relationships: 8 dose/pressure fields plus 12 mean±SD endpoint cells. Added WHC improvement and centre-point creaming variation to avoid one-sided interpretation.",
+    "decision": "supported in corrected copies with scopes in REVIEW.md"
+  },
+  {
+    "id": "C06",
+    "source": "S1",
+    "locator": "Methods2.4–2.7;Table1 footnote",
+    "claim": "21days4±1C layer-height assays;25C100rpmR2viscosity; analytic triplicates not independent batches.",
+    "decision": "supported in corrected copies with scopes in REVIEW.md"
+  },
+  {
+    "id": "C07",
+    "source": "S1",
+    "locator": "Results3.1 versus Table1 run5",
+    "claim": "Prose universal zero-sedimentation threshold has explicit counterexample.",
+    "decision": "supported in corrected copies with scopes in REVIEW.md"
+  },
+  {
+    "id": "C08",
+    "source": "S1",
+    "locator": "Results3.2.1;Table2",
+    "claim": "Model optimum0.400%272.67bar; measured197.22±0.91mPa.s and nd separation, not universal dose.",
+    "decision": "supported in corrected copies with scopes in REVIEW.md"
+  },
+  {
+    "id": "C09",
+    "source": "S1",
+    "locator": "Table5 all rows",
+    "claim": "Full9month table retained: sedimentation nd all9, creaming nd only first4, WHC falls and viscosity rises; letters/SD/n=3 unchanged, no stored sensory claim.",
+    "decision": "supported in corrected copies with scopes in REVIEW.md"
+  },
+  {
+    "id": "C10",
+    "source": "S1",
+    "locator": "Methods2.14 compared with2.4–2.5",
+    "claim": "Nine-month subsection temperature unreported; physical table not microbial safety. Scoped absence observation.",
+    "decision": "supported in corrected copies with scopes in REVIEW.md"
+  },
+  {
+    "id": "C11",
+    "source": "editorial",
+    "locator": "Draft final sections",
+    "claim": "Grade/process co-selection and project-specific sourcing are proposed recommendations, not performed trials or supply promises.",
+    "decision": "supported in corrected copies with scopes in REVIEW.md"
+  }
+]

@@ -111,3 +111,5 @@ Liu等人的直接酸化蛋白饮料研究使用了[CP Kelco的实验性HM果胶
 <p id="citrus-pectin-gel-selection-ref-12">[12] <a href="https://www.herbstreith-fox.de/wp-content/uploads/2022/03/AWT_Ue_Acidified_milk_products_protein_stabilisation_en.pdf">https://www.herbstreith-fox.de/wp-content/uploads/2022/03/AWT_Ue_Acidified_milk_products_protein_stabilisation_en.pdf</a> — hf-acidified-milk</p>
 
 <p id="citrus-pectin-gel-selection-ref-13">[13] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7723220/fullTextXML">https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7723220/fullTextXML</a> — Liu et al. 2020 directly acidified protein drinks</p>
+
+若采购对象是用于饮料口感与悬浮的混合柑橘纤维，而非纯化果胶，可参阅[柑橘纤维牌号与加工条件的联合选型](/zh/resources/blog/citrus-fibre-grade-process)。
