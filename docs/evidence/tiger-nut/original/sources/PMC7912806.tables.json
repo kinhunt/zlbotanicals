@@ -1,0 +1,4300 @@
+[
+  {
+    "id": "foods-10-00294-t001",
+    "label": "Table 1",
+    "caption": "Independent variables (whey permeates, WP; oat flour, OF) and their levels in the central composite design.",
+    "rows": [
+      [
+        {
+          "text": "Variable ",
+          "tag": "th",
+          "rowspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "colspan": "1"
+        },
+        {
+          "text": "Parameter(%, w/v)",
+          "tag": "th",
+          "rowspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "colspan": "1"
+        },
+        {
+          "text": "Ranges and Level",
+          "tag": "th",
+          "colspan": "5",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "−1.41",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−1",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.41",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "X1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "WP",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.73",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.5",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.27",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "X2",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "OF",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.29",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.71",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ]
+    ],
+    "footnotes": []
+  },
+  {
+    "id": "foods-10-00294-t002",
+    "label": "Table 2",
+    "caption": "Matrix of the central composite design (CCD) and observed responses to the percentages of WP and OF for the response variables (lactic acid bacteria (LAB) and yeasts cells count, pH, total titratable acidity (TTA), total phenolics content (TPC), DPPH radical scavenging activity, and overall acceptability (OA)).",
+    "rows": [
+      [
+        {
+          "text": "ExpN°",
+          "tag": "th",
+          "rowspan": "3",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "colspan": "1"
+        },
+        {
+          "text": "Coded Variables",
+          "tag": "th",
+          "colspan": "4",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1"
+        },
+        {
+          "text": "Responses Variables",
+          "tag": "th",
+          "colspan": "7",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "WP (% w/v) Actual Values",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Coded Values",
+          "tag": "th",
+          "rowspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "colspan": "1"
+        },
+        {
+          "text": "Oat Flour (% w/v) Actual values",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Coded Values",
+          "tag": "th",
+          "rowspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "colspan": "1"
+        },
+        {
+          "text": "LAB Cells Count (log CFU/mL)",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Yeasts Cells Count (log CFU/mL)",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "pH",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "TTA (%)",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "TPC (mg EGA/mL)",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "DPPH Radical Scavenging Activity (%)",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "OA (5 Point Hedonic Scale)",
+          "tag": "th",
+          "rowspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "X1",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "X2",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "(Y1)",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "(Y2)",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "(Y3)",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "(Y4)",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "(Y5)",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "(Y6)",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.73 (−1)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.29 ",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "7.85 ± 0.08",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.47 ± 0.27",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.21 ± 0.01",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.79 ± 0.02",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "19.365 ± 0.24",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "74.27 ± 0.33",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.20 ± 0.52",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "2",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.27 (1)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.29",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.17 ± 0.1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.73 ± 0.24",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.29 ± 0.02",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.96 ± 0.02",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "17.369 ± 0.53",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "67.90 ± 0.023",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.30 ± 0.57",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "3",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.73 (−1)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.71",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.25 ± 011",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.70 ± 0.28",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.31 ± 0.03",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.86 ± 0.02",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "25.317 ± 0.28",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "81.84 ± 0.51",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.50 ± 0.61",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "4",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.27 (1)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.71",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.55 ± 0.09",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.79 ± 0.26",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.42 ± 0.02",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.90 ± 0.02",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "27.697 ± 0.98",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "85.70 ± 0.39",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.80 ± 0.62",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "5",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.00 ",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−1.41",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.00",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.02 ± 0.12",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.51 ± 0.29",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.26 ± 0.03",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.91 ± 0.04",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.625 ± 0.33",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "78.36 ± 0.29",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.60 ± 0.68",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "6",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.00",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.41",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.00",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.55 ± 0.1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.00 ± 0.25",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.39 ± 0.02",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.92 ± 0.02",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "16.328 ± 0.3",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "75.30 ± 0.62",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.10 ± 0.52",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "7",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.50",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.00",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−1.41",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.09 ± 0.09",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.69 ± 0.27",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.27 ± 0.04",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.90 ± 0.05",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.259 ± 0.38",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "71.65 ± 0.42",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.20 ± 0.41",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "8",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.50",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.00",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.41",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.45 ± 0.12",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.94 ± 0.29",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.29 ± 0.03",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.92 ± 0.02",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "24.617 ± 0.28",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "77.28 ± 0.25",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.10 ± 0.64",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "9",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.50",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.00",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.10 ± 0.10",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.05 ± 0.26",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.25 ± 0.02",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.05 ± 0.03",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.070 ± 0.41",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "74.61 ± 0.34",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.40 ± 0.50",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "10",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.50",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.00",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.11 ± 0.09",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.05 ± 0.29",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.27 ± 0.03",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.05 ± 0.05",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.780 ± 0.65",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "72.44 ± 0.29",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.45 ± 0.60",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "11",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.50",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.00",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.21 ± 0.10",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.04 ± 0.25",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.25 ± 0.02",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.05 ± 0.02",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.680 ± 0.52",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "73.38 ± 0.35",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.42 ± 0.53",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "12",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.50",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.00",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.19 ± 0.11",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.05 ± 0.28",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.27 ± 0.03",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.05 ± 0.03",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.680 ± 0.44",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "72.93 ± 0.22",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.55 ± 0.60",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "13",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.50",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.00",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.29 ± 0.09",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.05 ± 0.24",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.25 ± 0.01",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.07 ± 0.04",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.570 ± 0.32",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "72.69 ± 0.41",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.50 ± 0.61",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ]
+    ],
+    "footnotes": [
+      "TPC, Total polyphenol content mg EGA/mL. DPPH%, DPPH radical scavenging activity%."
+    ]
+  },
+  {
+    "id": "foods-10-00294-t003",
+    "label": "Table 3",
+    "caption": "Analysis of variance for each response Y1 (lactic acid bacteria cells count), Y2 (yeasts cell count), Y3 (pH), Y4 (TTA), Y5 (TPC), Y6 (DPPH radical scavenging activity), and Y7 (OA) (linear, quadratic and interaction).",
+    "rows": [
+      [
+        {
+          "text": "SourceTitle",
+          "tag": "th",
+          "rowspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "colspan": "1"
+        },
+        {
+          "text": "Y1",
+          "tag": "th",
+          "colspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1"
+        },
+        {
+          "text": "Y2",
+          "tag": "th",
+          "colspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1"
+        },
+        {
+          "text": "Y3",
+          "tag": "th",
+          "colspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1"
+        },
+        {
+          "text": "Y4",
+          "tag": "th",
+          "colspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1"
+        },
+        {
+          "text": "Y5",
+          "tag": "th",
+          "colspan": "2",
+          "align": "center",
+          "valign": "top",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1"
+        },
+        {
+          "text": "Y6",
+          "tag": "th",
+          "colspan": "2",
+          "align": "center",
+          "valign": "top",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1"
+        },
+        {
+          "text": "Y7",
+          "tag": "th",
+          "colspan": "2",
+          "align": "center",
+          "valign": "top",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Coefficient",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Signif.%",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Coefficient",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Signif.%",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Coefficient",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Signif.%",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Coefficient",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Signif.%",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Coefficient",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Signif.%",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Coefficient",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": " Signif.%",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Coefficient",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Signifi.%",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Model",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "b0",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.180",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.051",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.258",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.054",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.556",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "73.211",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.464",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Linear",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "b1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.171",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.131",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.047",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.029",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "**",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.172",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.8",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−0.855",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "*",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−0.163",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "b2",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.161",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.080",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.032",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "**",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.006",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.7",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.866",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.167",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−0.043",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "6.6",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Quadratic",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "b11",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−0.466",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "-0.175",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.035",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "**",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−0.078",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.893",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.255",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "**",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−0.070",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "*",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "b22",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−0.473",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "-0.146",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.012",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "*",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−0.080",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.624",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.072",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "*",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−0.170",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Interaction",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "top",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "b12",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−0.005",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "90.1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "-0.043",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.008",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "24.2",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−0.032",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "**",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "1.094",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "**",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "2.557",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "**",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "−0.200",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "***",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "\nR2\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.986 ",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.925 ",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.861 ",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.920 ",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.835",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.816 ",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.965 ",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Adj-R2",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.975",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.872",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.762",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.862",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.717",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.684",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.940",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "\n",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ]
+    ],
+    "footnotes": [
+      "(* p < 0.05, ** p < 0.01, and *** p < 0.001)."
+    ]
+  },
+  {
+    "id": "foods-10-00294-t004",
+    "label": "Table 4",
+    "caption": "DPPH radical scavenging activity and total phenolics content measured before and after KLB fermentation.",
+    "rows": [
+      [
+        {
+          "text": "Independant Variables",
+          "tag": "th",
+          "rowspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "colspan": "1"
+        },
+        {
+          "text": "DPPH Radical Scavenging Activity (%)",
+          "tag": "th",
+          "colspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1"
+        },
+        {
+          "text": "TPC (mg GAE/mL)",
+          "tag": "th",
+          "colspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Unfermented",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Fermented",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Unfermented",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Fermented",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Exp 1",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "68.49 ef ± 0.67",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "74.27 de ± 0.46",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.59 a ± 0.34",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "19.36 e ± 0.55",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Exp 2",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "65.60 a ± 0.44",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "67.90 a ± 0.55",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.04 f ± 0.44",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "17.36 d ± 0.37",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Exp 3",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "70.53 g ± 0.61",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "81.84 g ± 0.89",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.73 b ± 0.52",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "25.31 f ± 0.63",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Exp 4",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "68.84 ef ± 0.55",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "85.70 h ± 0.77",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "12.55 e ± 0.66",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "27.69 g ± 0.34",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Exp 5",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "75.12 h ± 0.41",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "78.36 f ± 0.69",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.33 f ± 0.48",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "15.62 bc ± 0.62",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Exp 6",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "68.43 de ± 0.52",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "75.30 e ± 0.55",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.75 cde ± 0.33",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "16.32 c ± 0.87",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Exp 7",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "66.41 ab ± 0.52",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "71.65 b ± 0.73",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "10.88 bc ± 0.42",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.25 a ± 0.60",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Exp 8",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "69.40 f ± 0.65",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "77.28 f ± 0.62",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "9.22 a ± 0.49",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "24.61 f ± 0.68",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Exp 9",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "66.91 bc ± 0.43",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "74.61 e ± 0.51",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.50 bcd ± 0.68",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.07 a ± 0.34",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Exp 10",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "66.86 bc ± 0.35",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "72.44 bc ± 0.87",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.60 bcd ± 0.55",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.78 ab ± 0.67",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Exp 11",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "67.57 cd ± 0.63",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "73.38 cd ± 0.69",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.92 de ± 0.46",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.68 ab ± 0.47",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Exp 12",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "67.17 bc ± 0.73",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "72.93 c ± 0.49",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.88 de ± 0.77",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.68 ab ± 0.72",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Exp13",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "66.81 bc ± 0.45",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "72.69 bc ± 0.67",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "11.64 cd ± 0.62",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "14.57 a ± 0.56",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ]
+    ],
+    "footnotes": [
+      "Means ± standard error with the same letter did not differ significantly (p < 0.05). (Thirteen experiments as conducted by the central composite design representing thirteen KLB). "
+    ]
+  },
+  {
+    "id": "foods-10-00294-t005",
+    "label": "Table 5",
+    "caption": "Predicted and experimental value for optimized formulation of KLB.",
+    "rows": [
+      [
+        {
+          "text": "Response Variable",
+          "tag": "th",
+          "rowspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "colspan": "1"
+        },
+        {
+          "text": "Optimum Conditions",
+          "tag": "th",
+          "colspan": "2",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-top:solid thin;border-bottom:solid thin",
+          "rowspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Experimental",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "Predicted",
+          "tag": "th",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "pH",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.32 ± 0.02",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "4.29",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "TTA (%)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.95 ± 0.04",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "0.96",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Lactic acid bacteria cells count (Log CFU/mL)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.62 ± 0.15",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "8.57",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Yeasts cells count (Log CFU/mL)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.80 ± 0.26",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "5.87",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "DPPH radical scavenging activity (%)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "79.80 ± 0.46",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "78.59",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "TPC mg GAE/mL ",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "21.40 ± 0.53",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "22.76",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "OA (5 point hedonic scale)",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.44 ± 0.46",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        },
+        {
+          "text": "3.41",
+          "tag": "td",
+          "align": "center",
+          "valign": "middle",
+          "style": "border-bottom:solid thin",
+          "rowspan": "1",
+          "colspan": "1"
+        }
+      ]
+    ],
+    "footnotes": [
+      "Mean values ± SD (n = 3)."
+    ]
+  }
+]

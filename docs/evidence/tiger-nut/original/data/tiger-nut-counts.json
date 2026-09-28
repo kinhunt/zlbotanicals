@@ -1,0 +1,26 @@
+[
+  {
+    "starter": "VEGE022",
+    "no_added_glucose": "3.70 × 108 ± 1.00 × 107",
+    "glucose_7_5_g_per_100mL": "4.25 × 108 ± 1.50 × 107",
+    "glucose_15_g_per_100mL": "4.50 × 108 ± 3.00 × 107"
+  },
+  {
+    "starter": "VEGE033",
+    "no_added_glucose": "4.45 × 108 ± 3.50 × 107",
+    "glucose_7_5_g_per_100mL": "4.50 × 108 ± 0",
+    "glucose_15_g_per_100mL": "2.50 × 108 ± 1.50 × 106"
+  },
+  {
+    "starter": "VEGE053",
+    "no_added_glucose": "2.06 × 108 ± 2.55 × 107",
+    "glucose_7_5_g_per_100mL": "2.15 × 108 ± 1.65 × 107",
+    "glucose_15_g_per_100mL": "2.35 × 108 ± 3.85 × 107"
+  },
+  {
+    "starter": "VEGE061",
+    "no_added_glucose": "3.95 × 108 ± 1.65 × 108",
+    "glucose_7_5_g_per_100mL": "3.15 × 108 ± 1.50 × 107",
+    "glucose_15_g_per_100mL": "6.30 × 108 ± 1.10 × 108"
+  }
+]

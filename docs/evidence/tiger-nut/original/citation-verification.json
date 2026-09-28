@@ -1,0 +1,20 @@
+[
+  {
+    "file": "tiger-nut-fermentation.en.md",
+    "exit_code": 0,
+    "stdout": "info: stats: 68 prose sentence(s), 19 with declared provenance (28%) \u2014 19 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 7 in ledger (7 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [2], [3], [4], [7]\ncitations OK\n",
+    "stderr": ""
+  },
+  {
+    "file": "tiger-nut-fermentation.zh.md",
+    "exit_code": 0,
+    "stdout": "info: stats: 4 prose sentence(s), 4 with declared provenance (100%) \u2014 4 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 7 in ledger (7 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [2], [3], [4], [7]\ncitations OK\n",
+    "stderr": ""
+  },
+  {
+    "file": "DISCOVERY.md",
+    "exit_code": 0,
+    "stdout": "info: stats: 50 prose sentence(s), 3 with declared provenance (6%) \u2014 3 cited, 0 marked [unverified] (a sentence may be both); 6 distinct source(s) cited, 7 in ledger (7 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [3]\ncitations OK\n",
+    "stderr": ""
+  }
+]

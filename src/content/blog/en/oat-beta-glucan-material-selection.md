@@ -16,6 +16,8 @@ A higher reported molecular weight is not enough to predict which oat beta-gluca
 
 For a drink project, the purchasing decision is therefore not simply “high or low molecular weight.” It is whether to introduce a bran-rich material, a more soluble oat concentrate, or a material whose beta-glucan has deliberately been shortened—and whether that choice still makes sense after the intended process. Ingredient identity, beta-glucan content and the behaviour of the prepared drink need separate answers.
 
+For a fermented plant drink, the [tiger nut base selection guide](/resources/blog/tiger-nut-fermented-drinks) distinguishes a pressed beverage from whole or defatted flour before comparing commercial starters.
+
 ## A historical assay comparison—not a current ingredient ranking
 
 Wolever and colleagues studied two commercial sources, identified at the time as OatWell (OP1) and PromOat (OP2), alongside four experimentally modified materials. Each beta-glucan preload in the human study supplied 4 g of oat beta-glucan added to 200 mL water; the control was water alone. This required 13.7 g of OP1 or 11.90 g of OP2; equal beta-glucan amounts did not mean equal powder amounts or equal accompanying nutrients. [Full paper, Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7469033/)<a href="#oat-beta-glucan-material-selection-ref-1">[1]</a>

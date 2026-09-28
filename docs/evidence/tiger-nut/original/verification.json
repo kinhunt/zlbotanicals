@@ -1,0 +1,495 @@
+{
+  "status": "PASS",
+  "checks": 122,
+  "scope": "offline provenance and exact original-cell regression; not independent content approval",
+  "results": [
+    {
+      "check": "sha256 DISCOVERY.md",
+      "pass": true
+    },
+    {
+      "check": "sha256 UNCERTAINTIES.md",
+      "pass": true
+    },
+    {
+      "check": "sha256 citation-verification.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 claims.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 data/tiger-nut-counts.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 inventory/QuillajaSelection.astro",
+      "pass": true
+    },
+    {
+      "check": "sha256 inventory/backlog.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 inventory/carob-powder-cocoa-baking.md",
+      "pass": true
+    },
+    {
+      "check": "sha256 inventory/clove-powder-humidity.md",
+      "pass": true
+    },
+    {
+      "check": "sha256 inventory/origin-main-hits.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 ledger.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 retrievals.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 source-index.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC11759640.tables.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC11759640.txt",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC11759640.xml",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC12071967.assets.zip",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC12071967.tables.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC12071967.txt",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC12071967.xml",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC7912806.tables.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC7912806.txt",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC7912806.xml",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC8875529.tables.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC8875529.txt",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC8875529.xml",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/PMC9579224.failed-response",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/discovery0.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/discovery1.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/discovery2.json",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/figures/foods-14-01447-g001.jpg",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/figures/foods-14-01447-g002.jpg",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/figures/foods-14-01447-g003.jpg",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/figures/foods-14-01447-g004.jpg",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/figures/foods-14-01447-g005.jpg",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/figures/foods-14-01447-g006.jpg",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/supplier0.html",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/supplier0.txt",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/supplier1-page5.png",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/supplier1-page8.png",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/supplier1.pdf",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/supplier1.txt",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/supplier2.html",
+      "pass": true
+    },
+    {
+      "check": "sha256 sources/supplier2.txt",
+      "pass": true
+    },
+    {
+      "check": "sha256 tiger-nut-fermentation.en.md",
+      "pass": true
+    },
+    {
+      "check": "sha256 tiger-nut-fermentation.zh.md",
+      "pass": true
+    },
+    {
+      "check": "sha256 verify.py",
+      "pass": true
+    },
+    {
+      "check": "PMC12071967 full body",
+      "pass": true
+    },
+    {
+      "check": "PMC12071967 all original table cells/attributes/footnotes",
+      "pass": true
+    },
+    {
+      "check": "PMC8875529 full body",
+      "pass": true
+    },
+    {
+      "check": "PMC8875529 all original table cells/attributes/footnotes",
+      "pass": true
+    },
+    {
+      "check": "PMC7912806 full body",
+      "pass": true
+    },
+    {
+      "check": "PMC7912806 all original table cells/attributes/footnotes",
+      "pass": true
+    },
+    {
+      "check": "PMC11759640 full body",
+      "pass": true
+    },
+    {
+      "check": "PMC11759640 all original table cells/attributes/footnotes",
+      "pass": true
+    },
+    {
+      "check": "starter identity VEGE022",
+      "pass": true
+    },
+    {
+      "check": "VEGE022 no_added_glucose exact original cell",
+      "pass": true
+    },
+    {
+      "check": "VEGE022 glucose_7_5_g_per_100mL exact original cell",
+      "pass": true
+    },
+    {
+      "check": "VEGE022 glucose_15_g_per_100mL exact original cell",
+      "pass": true
+    },
+    {
+      "check": "starter identity VEGE033",
+      "pass": true
+    },
+    {
+      "check": "VEGE033 no_added_glucose exact original cell",
+      "pass": true
+    },
+    {
+      "check": "VEGE033 glucose_7_5_g_per_100mL exact original cell",
+      "pass": true
+    },
+    {
+      "check": "VEGE033 glucose_15_g_per_100mL exact original cell",
+      "pass": true
+    },
+    {
+      "check": "starter identity VEGE053",
+      "pass": true
+    },
+    {
+      "check": "VEGE053 no_added_glucose exact original cell",
+      "pass": true
+    },
+    {
+      "check": "VEGE053 glucose_7_5_g_per_100mL exact original cell",
+      "pass": true
+    },
+    {
+      "check": "VEGE053 glucose_15_g_per_100mL exact original cell",
+      "pass": true
+    },
+    {
+      "check": "starter identity VEGE061",
+      "pass": true
+    },
+    {
+      "check": "VEGE061 no_added_glucose exact original cell",
+      "pass": true
+    },
+    {
+      "check": "VEGE061 glucose_7_5_g_per_100mL exact original cell",
+      "pass": true
+    },
+    {
+      "check": "VEGE061 glucose_15_g_per_100mL exact original cell",
+      "pass": true
+    },
+    {
+      "check": "en normalized VEGE022 3.70 ± 0.10",
+      "pass": true
+    },
+    {
+      "check": "en normalized VEGE022 4.25 ± 0.15",
+      "pass": true
+    },
+    {
+      "check": "en normalized VEGE022 4.50 ± 0.30",
+      "pass": true
+    },
+    {
+      "check": "en normalized VEGE033 4.45 ± 0.35",
+      "pass": true
+    },
+    {
+      "check": "en normalized VEGE033 4.50 ± 0",
+      "pass": true
+    },
+    {
+      "check": "en normalized VEGE033 2.50 ± 0.015",
+      "pass": true
+    },
+    {
+      "check": "en normalized VEGE053 2.06 ± 0.255",
+      "pass": true
+    },
+    {
+      "check": "en normalized VEGE053 2.15 ± 0.165",
+      "pass": true
+    },
+    {
+      "check": "en normalized VEGE053 2.35 ± 0.385",
+      "pass": true
+    },
+    {
+      "check": "en normalized VEGE061 3.95 ± 1.65",
+      "pass": true
+    },
+    {
+      "check": "en normalized VEGE061 3.15 ± 0.15",
+      "pass": true
+    },
+    {
+      "check": "en normalized VEGE061 6.30 ± 1.10",
+      "pass": true
+    },
+    {
+      "check": "en exact source scope",
+      "pass": true
+    },
+    {
+      "check": "en sensory contradiction retained",
+      "pass": true
+    },
+    {
+      "check": "en digestion denominator/protocol retained",
+      "pass": true
+    },
+    {
+      "check": "en glucose additions explicit",
+      "pass": true
+    },
+    {
+      "check": "zh normalized VEGE022 3.70 ± 0.10",
+      "pass": true
+    },
+    {
+      "check": "zh normalized VEGE022 4.25 ± 0.15",
+      "pass": true
+    },
+    {
+      "check": "zh normalized VEGE022 4.50 ± 0.30",
+      "pass": true
+    },
+    {
+      "check": "zh normalized VEGE033 4.45 ± 0.35",
+      "pass": true
+    },
+    {
+      "check": "zh normalized VEGE033 4.50 ± 0",
+      "pass": true
+    },
+    {
+      "check": "zh normalized VEGE033 2.50 ± 0.015",
+      "pass": true
+    },
+    {
+      "check": "zh normalized VEGE053 2.06 ± 0.255",
+      "pass": true
+    },
+    {
+      "check": "zh normalized VEGE053 2.15 ± 0.165",
+      "pass": true
+    },
+    {
+      "check": "zh normalized VEGE053 2.35 ± 0.385",
+      "pass": true
+    },
+    {
+      "check": "zh normalized VEGE061 3.95 ± 1.65",
+      "pass": true
+    },
+    {
+      "check": "zh normalized VEGE061 3.15 ± 0.15",
+      "pass": true
+    },
+    {
+      "check": "zh normalized VEGE061 6.30 ± 1.10",
+      "pass": true
+    },
+    {
+      "check": "zh exact source scope",
+      "pass": true
+    },
+    {
+      "check": "zh sensory contradiction retained",
+      "pass": true
+    },
+    {
+      "check": "zh digestion denominator/protocol retained",
+      "pass": true
+    },
+    {
+      "check": "zh glucose additions explicit",
+      "pass": true
+    },
+    {
+      "check": "C01 literal quote",
+      "pass": true
+    },
+    {
+      "check": "C02 literal quote",
+      "pass": true
+    },
+    {
+      "check": "C03 literal quote",
+      "pass": true
+    },
+    {
+      "check": "C04 literal quote",
+      "pass": true
+    },
+    {
+      "check": "C05 literal quote",
+      "pass": true
+    },
+    {
+      "check": "C06 literal quote",
+      "pass": true
+    },
+    {
+      "check": "C07 literal quote",
+      "pass": true
+    },
+    {
+      "check": "C08 literal quote",
+      "pass": true
+    },
+    {
+      "check": "C09 literal quote",
+      "pass": true
+    },
+    {
+      "check": "C10 literal quote",
+      "pass": true
+    },
+    {
+      "check": "C11 literal quote",
+      "pass": true
+    },
+    {
+      "check": "C12 literal quote",
+      "pass": true
+    },
+    {
+      "check": "VEGE061 middle-glucose not maximum mean",
+      "pass": true
+    },
+    {
+      "check": "film lower inhibition original cell",
+      "pass": true
+    },
+    {
+      "check": "unique source IDs",
+      "pass": true
+    },
+    {
+      "check": "unique source URLs",
+      "pass": true
+    },
+    {
+      "check": "source evidence 1",
+      "pass": true
+    },
+    {
+      "check": "source evidence 5",
+      "pass": true
+    },
+    {
+      "check": "source evidence 6",
+      "pass": true
+    }
+  ]
+}

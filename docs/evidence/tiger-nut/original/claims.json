@@ -1,0 +1,98 @@
+[
+  {
+    "id": "C01",
+    "claim": "Material identity and preparation",
+    "source_id": 1,
+    "file": "sources/PMC12071967.txt",
+    "location": "2.2. Beverage Preparation",
+    "quote": "The raw materials tiger nut (Cyperus esculentus), rice (Oryza sativa) and carob (Ceratonia siliqua) were provided by local farmers. Three types of plant-based beverages were elaborated with these ingredients by a local company (Monvital, Valencia, Spain). The raw materials were chopped and crushed to facilitate pressing and extraction to prepare sifted beverages with the following composition: (i) tiger nut beverage: water (80%) and tiger nut (20%); (ii) carob beverage: water (90%) and carob (10%); and (iii) rice beverage: water (91.9%), rice (8%) and sea salt (0.1%). After manufacturing, the beverages were heat-treated at 85 °C for 5 min. They were then allowed to cool and stored under refrigeration. Once the sample was received at the laboratory, a plate count was performed as a control analysis. The rice and carob beverages showed no evidence of colonies. However, due to microbial load, the tiger nut beverage received an extra heat treatment at 80 °C for 10 min, and no viable colonies were then detected."
+  },
+  {
+    "id": "C02",
+    "claim": "Flask scale and glucose additions",
+    "source_id": 1,
+    "file": "sources/PMC12071967.txt",
+    "location": "2.4. Fermentation Process",
+    "quote": "Fermentations for each type of beverage were carried out in 250 mL flasks containing 150 mL of beverage. The corresponding quantity of inoculum was added according to the manufacturer’s instructions. The flasks were incubated at 30 or 37 °C for 24–72 h to determine the best temperature and time conditions. The pH was measured every 2 h to monitor fermentation, which was considered finished when it reached 4/4.5. To contribute to a more efficient fermentation, different levels of glucose were added: level 1—no glucose addition; level 2—a glucose addition of 7.5 g/100 mL for rice and tiger nut beverages and 15 g/100 mL for the carob beverage; level 3—a glucose addition of 15 g/100 mL for the rice and tiger nut beverage and 30 g/100 mL for the carob beverage."
+  },
+  {
+    "id": "C03",
+    "claim": "Count table and scope of statistics",
+    "source_id": 1,
+    "file": "sources/PMC12071967.txt",
+    "location": "Table2 / 2.12",
+    "quote": "Results are generally expressed as the mean ± standard deviation from 3–5 replicates in at least two different experiments. For data with multiple groups, an analysis of variance (ANOVA) followed by post hoc tests, such as Tukey’s multiple comparison test or the Least Significant Difference (LSD) test, were carried out. For analyses that do not involve groups, a Student’s t-test was performed. In all instances, statistical significance was established if the null hypothesis was rejected at the p < 0.05 level."
+  },
+  {
+    "id": "C04",
+    "claim": "Authors intermediate-glucose generalisation conflicts selected cells",
+    "source_id": 1,
+    "file": "sources/PMC12071967.txt",
+    "location": "3.1",
+    "quote": "Across all three beverages, with sugar level 2 (7.5 g of sugar/100 mL for rice and tiger nut beverages and 15 g/100 mL for carob beverage), the best microbial counts and the fastest pH drop were achieved. Sugar levels 1 and 3 resulted in higher pH values and lower microbial counts, being particularly notable in level 3, where high glucose concentrations likely caused significant inhibition of microbial growth due to osmotic stress. Therefore, the optimal fermentation conditions were set at 37 °C and level 2 of sugar addition."
+  },
+  {
+    "id": "C05",
+    "claim": "TEAC negative direction",
+    "source_id": 1,
+    "file": "sources/PMC12071967.txt",
+    "location": "3.2.3",
+    "quote": "In the tiger nut beverages, values ranged between 318.9 and 876.7 µM Trolox/L, showing a decrease after fermentation, and similar values were observed for all LAB starters at 12 h of fermentation. Studies directly assessing the antioxidant properties of tiger nut beverages are scarce, and even fewer, including fermentation, all of them with variable results. In one of these studies, Hernández-Olivas et al. [43] found values of 44.8 μmol Trolox/g and 24.4 μmol Trolox/g in tiger nut beverages without and with added sugars, respectively, while Llorens et al. [33] found 12.5 μmol TE/g in unfermented rice beverage. Additionally, Badejo et al. [16] found a 13% inhibition of ABTS+ radical in “horchata” made from fresh tiger nut extract, with a slight increase in inhibition after tuber germination. Regarding fermentation and contrary to our results, Satir [12] found a significant increase in TEAC values after fermentation, obtaining values of 4.61 and 5.98 mM Trolox/mL for yellow and brown variety beverages, respectively, and values of 7.55 and 7.96 mM Trolox/mL for their corresponding fermented beverages. This fact implies that the effect of fermentation on antioxidant compounds is LAB species-specific and also depends on fermentation conditions and the type of food matrix."
+  },
+  {
+    "id": "C06",
+    "claim": "Small intensity panel, not liking",
+    "source_id": 1,
+    "file": "sources/PMC12071967.txt",
+    "location": "2.9",
+    "quote": "A preliminary sensory test was carried out with 11 non-trained panelists. The panelists gave their consent to take part in the study and for us to use their information, and the appropriate protocols for protecting the rights and privacy of all participants were used. Samples of unfermented and fermented rice, carob and tiger nut beverages were named with random codes and offered to the panelists in an isolated room. The panelists had to rate the beverages according to the aroma descriptors “acid”, “sour”, “sweet”, “fruity”, “rancid”, “herbal”, and “floral” in values ranging from 0 (attribute not present) to a maximum of 3 (present and very intense)."
+  },
+  {
+    "id": "C07",
+    "claim": "Digestion dilution and supernatant collection",
+    "source_id": 1,
+    "file": "sources/PMC12071967.txt",
+    "location": "2.10",
+    "quote": "The fermented tiger nut, carob and rice beverages underwent an in vitro gastrointestinal digestion procedure according to the INFOGEST 2.0 method [28] in order to evaluate the survival of the LAB and, thus, their probiotic potential. The simulated salivary fluid (SSF), simulated gastric fluid (SGF), and simulated intestinal fluid (SIF) were prepared using this method. Briefly, 5 g of each fermented beverage was mixed with 3.5 mL of SSF, 0.5 mL of α-amylase solution (to obtain a final concentration of 75 U/mL), 25 µL of 0.3 M calcium chloride and 975 µL of ultrapure water to obtain a final volume of 10 mL. The oral bolus was placed in a shaker bath for 2 min at 37 °C and 95 rpm. Upon completion of the oral phase, 7.5 mL of SGF, 0.98 mL of rabbit gastric extract (to obtain a final concentration of 60 U lipase/mL), 0.62 mL of pepsin solution (to obtain a final concentration of 2000 U/mL) and 5 µL of 0.3 M calcium chloride were added and mixed manually for one min. The pH of the mixture was adjusted to 3, and ultrapure water was added up to a volume of 20 mL. The gastric mixture was placed again in a shaker bath for 2 h under the same conditions. To simulate the intestinal conditions, 11 mL of SIF, 5 mL of pancreatin solution (to obtain a final concentration of 100 U/mL), 40 µL of 0.3 M calcium chloride, and 2.5 mL bovine bile solution (to obtain a final concentration of 10 mM) were added to gastric digesta. The final mixture was manually stirred for one min, adjusted to pH 7, and ultrapure water was added to a final volume of 40 mL. Finally, digesta was incubated in a shaking bath for 2 h at 37 °C and 95 rpm and subsequently centrifuged (90 min, 4 °C, 3100× g) to obtain the supernatant, corresponding to the bioaccessible fraction. Digestions were performed in duplicate."
+  },
+  {
+    "id": "C08",
+    "claim": "Post-digestion counting of bioaccessible fraction",
+    "source_id": 1,
+    "file": "sources/PMC12071967.txt",
+    "location": "2.11",
+    "quote": "The bioaccessible fractions from the digestion of the fermented beverages were analyzed to determine the presence of viable bacteria after in vitro digestion (INFOGEST 2.0), as described in Section 2.5."
+  },
+  {
+    "id": "C09",
+    "claim": "Storage limitation",
+    "source_id": 1,
+    "file": "sources/PMC12071967.txt",
+    "location": "Conclusion",
+    "quote": "The relatively short fermentation period (up to 72 h) and the absence of storage stability assessments also represent areas for improvement. Furthermore, laboratory-scale production might not fully reflect the challenges of industrial-scale manufacturing. These limitations provide clear directions for future research, which should focus on the following: (1) exploring a wider range of LAB strains and customized consortia; (2) developing improved probiotic protection methods specific to each plant matrix; (3) investigating extended fermentation periods and storage conditions; (4) scaling up production processes; and (5) evaluating the bioaccessibility of antioxidant phytochemical compounds and the bioactivity of these fermented and unfermented beverages in preclinical models to unravel their potential beneficial health effects. Our research group is currently addressing several of these aspects to build upon the foundation established in this study."
+  },
+  {
+    "id": "C10",
+    "claim": "Rancid prose versus low radar traces",
+    "source_id": 1,
+    "file": "sources/PMC12071967.txt",
+    "location": "3.5",
+    "quote": "In the case of tiger nut beverages, fermentation allowed the production of ‘lactic/buttery’ and ‘fruity/floral’ aromas. This fact aligns with the metabolic activity of LAB, which generates diacetyl and esters responsible for these sensory characteristics [83]. Fermentation with L. plantarum in a tiger nut yogurt with 20% date palm achieved the highest acceptability scores [84]. However, consortium VEGE061 exhibits more rancid notes, likely due to lipid oxidation or undesirable by-products common in fat-rich substrates. For carob beverages, fermentation significantly alters the sensory profile, particularly in ‘cheese/sweat’ and ‘undergrowth’ aromas, possibly due to the presence of isobutyric acid, as reported by other studies [85,86]. VEGE061 shows a more balanced aroma, indicating better strain performance. Additional research has shown that fermentation with L. plantarum in carob flour intensifies the cocoa aroma and decreases the astringent and earthy notes, which is consistent with our results for the VEGE061 consortium, which contains several Lactobacillus strains and showed a more balanced aroma profile [44]. Considering rice beverages, their carbohydrate-rich composition offers a favorable matrix, with VEGE033 and VEGE061 showing a positive aroma balance, highlighting their potential for delivering probiotics with appealing sensory qualities [87]."
+  },
+  {
+    "id": "C11",
+    "claim": "Sterilised variation under development, not blanket delivered status",
+    "source_id": 5,
+    "file": "sources/supplier0.txt",
+    "location": "product page",
+    "quote": "Our team is currently working on many variations (including a sterilised version) of this high-performance flour in collaboration with some of the most prestigious companies in the food industry. A versatile, tasty and original superfood ingredient for the development of new products. The features are optimised and adjusted to customer needs and market expectations. Tigernuts’ guarantee: quality and availability, always. raw ecological vegan gluten free kosher halal ORGANIC The ecological cultivation of our tigernuts Increasing the production of ORGANIC tigernuts is one of our main commitments. On the one hand, it is a natural response to growing consumer demand, expressed through our custom"
+  },
+  {
+    "id": "C12",
+    "claim": "Defatted grade page8 fat9.1 fibre25 per100g and traces warning",
+    "source_id": 6,
+    "file": "sources/supplier1.txt",
+    "location": "PDF page8",
+    "quote": "PAGE 8\nDEFATTED TIGERNUTS FLOUR\nAn exclusive product, unique in the market \nExceptionally fine grains: the finest tiger nut flour on the market \nHigher fiber content than other tiger nut flours\nNutrition information \npor 100 g\nEnergy\n1540 kJ / 368 kcal\nFat\nof which saturates\nof which monounsaturates \nof which polyunsaturates\n9.1 g\n2.1 g\n5.8 g\n1.2 g\nCarbohydrate\nof which sugars\n54 g\n23 g\nFibre\n25 g \nProtein\n5.2 g\nSalt\n0.025 g\n          The finest flour from Tigernuts. The combination of high-tech \nprocesses with Tigernuts know-how makes it possible to obtain \nan ingredient with a lower fat content and more nutrients.\nDo you want to know how our Defatted Tigernuts Flour can improve the ingredient list of your products?\nContact our team for personalised advice.\n100%\n90%\n80%\n70%\n60%\n50%\n40%\n30%\n20%\n10%\n0%\n< 200 µm\n< 355µm > 200 µm\n< 500 µm > 355 µm\n< 710 µm > 500 µm\n87% inferior a 355µm\n5%\n60%\n27%\n8%\nMay contain traces of allergens.\n"
+  }
+]

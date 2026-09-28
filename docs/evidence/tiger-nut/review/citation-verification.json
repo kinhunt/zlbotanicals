@@ -1,0 +1,80 @@
+[
+  {
+    "file": "tiger-nut-fermentation.en.md",
+    "args": [
+      "render",
+      "--replace-in",
+      "/data/hermes/research/seo-growth/2026-09-28-night-tigernut-review/tiger-nut-fermentation.en.md"
+    ],
+    "result": {
+      "output": "Sources block rewritten in /data/hermes/research/seo-growth/2026-09-28-night-tigernut-review/tiger-nut-fermentation.en.md",
+      "exit_code": 0,
+      "error": null
+    }
+  },
+  {
+    "file": "tiger-nut-fermentation.en.md",
+    "args": [
+      "verify",
+      "/data/hermes/research/seo-growth/2026-09-28-night-tigernut-review/tiger-nut-fermentation.en.md",
+      "--evidence"
+    ],
+    "result": {
+      "output": "info: stats: 73 prose sentence(s), 20 with declared provenance (27%) — 20 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 7 in ledger (7 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [2], [3], [4], [7]\ncitations OK",
+      "exit_code": 0,
+      "error": null
+    }
+  },
+  {
+    "file": "tiger-nut-fermentation.zh.md",
+    "args": [
+      "render",
+      "--replace-in",
+      "/data/hermes/research/seo-growth/2026-09-28-night-tigernut-review/tiger-nut-fermentation.zh.md"
+    ],
+    "result": {
+      "output": "Sources block rewritten in /data/hermes/research/seo-growth/2026-09-28-night-tigernut-review/tiger-nut-fermentation.zh.md",
+      "exit_code": 0,
+      "error": null
+    }
+  },
+  {
+    "file": "tiger-nut-fermentation.zh.md",
+    "args": [
+      "verify",
+      "/data/hermes/research/seo-growth/2026-09-28-night-tigernut-review/tiger-nut-fermentation.zh.md",
+      "--evidence"
+    ],
+    "result": {
+      "output": "info: stats: 4 prose sentence(s), 4 with declared provenance (100%) — 4 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 7 in ledger (7 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [2], [3], [4], [7]\ncitations OK",
+      "exit_code": 0,
+      "error": null
+    }
+  },
+  {
+    "file": "REVIEW.md",
+    "args": [
+      "render",
+      "--replace-in",
+      "/data/hermes/research/seo-growth/2026-09-28-night-tigernut-review/REVIEW.md"
+    ],
+    "result": {
+      "output": "Sources block rewritten in /data/hermes/research/seo-growth/2026-09-28-night-tigernut-review/REVIEW.md",
+      "exit_code": 0,
+      "error": null
+    }
+  },
+  {
+    "file": "REVIEW.md",
+    "args": [
+      "verify",
+      "/data/hermes/research/seo-growth/2026-09-28-night-tigernut-review/REVIEW.md",
+      "--evidence"
+    ],
+    "result": {
+      "output": "info: stats: 73 prose sentence(s), 9 with declared provenance (12%) — 9 cited, 0 marked [unverified] (a sentence may be both); 6 distinct source(s) cited, 7 in ledger (7 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [7]\ncitations OK",
+      "exit_code": 0,
+      "error": null
+    }
+  }
+]
