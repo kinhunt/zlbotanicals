@@ -1,0 +1,20 @@
+{
+  "decision": "ACCEPT CORRECTED RESEARCH COPY ONLY",
+  "checks_passed": 563,
+  "checks_total": 563,
+  "exit_code": 0,
+  "binding_sha256": "9501231731b2e119ca97a332bf1e869c0352a197d9f3ec709073cef696151022",
+  "verification_sha256": "50f35873a89f8dfb1621ee47d5719149e53ad891855a095ce900f35cec349d18",
+  "original_input_files_unchanged": 41,
+  "rendered_gate": "NOT RUN",
+  "publication": "NOT AUTHORIZED / NOT PERFORMED",
+  "source_access_issues": [
+    "PMC HTML archives are challenge pages; original JATS used",
+    "S3/S3pdf original archives are 403 HTML; excluded"
+  ],
+  "remaining_gates": [
+    "authorized repository integration and real tests",
+    "rendered desktop/mobile table and any future chart inspection",
+    "separate release authorization"
+  ]
+}

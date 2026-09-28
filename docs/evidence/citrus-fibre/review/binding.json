@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "date": "2026-09-28",
+  "scope": "Corrected research acceptance only; no rendered/publication approval",
+  "files": {
+    "REVIEW.md": {
+      "sha256": "11352dff5adae750b6aae1fb05ad337cecf08e075dcff3f40483d4ee84a5145b",
+      "bytes": 11898
+    },
+    "citrus-fibre.en.md": {
+      "sha256": "185db7a38815945cd23490721843350d69d049eec5073b2b9a7b6e9321f6a8ec",
+      "bytes": 10782
+    },
+    "citrus-fibre.zh.md": {
+      "sha256": "74d0d8ce2dc16eff8908930bcc078c266edda3de1a07d2673caa910ce68c0b40",
+      "bytes": 9793
+    },
+    "claim-map.json": {
+      "sha256": "d8cbb83e85b35bad02b4d48a73d5006a6833d037fb1bf2961d61c54867cb98cf",
+      "bytes": 3318
+    },
+    "original-input-hashes.json": {
+      "sha256": "cb10c99387903b3b340c849e766211292e01f7d1c588f51df8abf554101e4e59",
+      "bytes": 4319
+    },
+    "original-tables.json": {
+      "sha256": "11cfe5e07c23e3b9c2e5735f783e08e56e1d56654ce30511391aab39052a775a",
+      "bytes": 52826
+    },
+    "source-manifest.json": {
+      "sha256": "9b83c17a2e5adde28130af00c5ef90907a65ee48b8937f4dd9d901b69600ca45",
+      "bytes": 2334
+    },
+    "sources/PMC10572798.html": {
+      "sha256": "cca0c03bf569ad7ed6e172c1ccdc51db9472974092b81e626f9b06fce7f8e274",
+      "bytes": 21217
+    },
+    "sources/PMC12311739.html": {
+      "sha256": "2837c6b61850e84b079a90623da9469687207516d5b3193374fafc7fe58e293d",
+      "bytes": 21217
+    },
+    "sources/S1xml": {
+      "sha256": "8302356381bb01fc111e0b0a8975a2adc73d80e95d6b97a9bd297d186335bb0e",
+      "bytes": 139858
+    },
+    "sources/S2xml": {
+      "sha256": "ccbef3077773ec6fc48904841c2217da1d4e006a11d16c1c6695b69c8ac6bb12",
+      "bytes": 157257
+    },
+    "sources/S3": {
+      "sha256": "32f2fa940d4b4fe19aca1e53a24e5aac29c57b7c5ee78588325b87f1b649c864",
+      "bytes": 146
+    },
+    "sources/S4": {
+      "sha256": "b1c7e00ba7a44806ec0bb62a16bb021aa7c36956c1e201e845684c771968fabd",
+      "bytes": 77802
+    },
+    "supplier-full-text.txt": {
+      "sha256": "45f18010fa8c46478800e2faa31eeb65e70a5767a02c85e3871d7a8b482ac8da",
+      "bytes": 6440
+    },
+    "verify.py": {
+      "sha256": "efafc8e53c37b1bcc2b2ddb871a4ed13225318de58b2adaff97c082380650248",
+      "bytes": 5955
+    }
+  }
+}

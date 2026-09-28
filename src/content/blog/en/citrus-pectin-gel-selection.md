@@ -111,3 +111,5 @@ The final selection should link the complete grade specification to observed per
 <p id="citrus-pectin-gel-selection-ref-12">[12] <a href="https://www.herbstreith-fox.de/wp-content/uploads/2022/03/AWT_Ue_Acidified_milk_products_protein_stabilisation_en.pdf">https://www.herbstreith-fox.de/wp-content/uploads/2022/03/AWT_Ue_Acidified_milk_products_protein_stabilisation_en.pdf</a> — hf-acidified-milk</p>
 
 <p id="citrus-pectin-gel-selection-ref-13">[13] <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7723220/fullTextXML">https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7723220/fullTextXML</a> — Liu et al. 2020 directly acidified protein drinks</p>
+
+For mixed citrus fibre bought for beverage body and suspension rather than purified pectin, see [choosing the fibre grade and process together](/resources/blog/citrus-fibre-grade-process).

@@ -127,5 +127,5 @@ test('built pages render the browning article and its discovery links', () => {
       assert.ok(existsSync(`dist${path}/index.html`), `${path} built`);
     }
   }
-  assert.equal(readdirSync('src/content/blog/zh').filter(f => f.endsWith('.md')).length, 47, 'bilingual article inventory including gardenia, tamarind and carob');
+  assert.equal(readdirSync('src/content/blog/zh').filter(f => f.endsWith('.md')).length, 48, 'bilingual article inventory including gardenia, tamarind and carob');
 });
