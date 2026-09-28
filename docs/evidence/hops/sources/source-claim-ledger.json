@@ -1,0 +1,79 @@
+[
+  {
+    "claim_id": "C1",
+    "source_id": 5,
+    "source_text": "oil-selected-free.txt",
+    "quote": "Hop oil Type SELECTED FREE has been specifically developed to improve flavor and taste of alcohol-free and alcohol-reduced beers .",
+    "boundary": "Named supplier positioning, not independent performance or all nonalcoholic beverages."
+  },
+  {
+    "claim_id": "C2",
+    "source_id": 5,
+    "source_text": "oil-selected-free.txt",
+    "quote": "pure hop oil diluted in propylene glycol",
+    "boundary": "Carrier is propylene glycol; not carrier-free oil."
+  },
+  {
+    "claim_id": "C3",
+    "source_id": 5,
+    "source_text": "oil-selected-free.txt",
+    "quote": "Bittering substances not detectable",
+    "boundary": "Supplier specification; detection method/limit not given here. Not absolute zero."
+  },
+  {
+    "claim_id": "C4",
+    "source_id": 5,
+    "source_text": "oil-selected-free.txt",
+    "quote": "Hop oil Type SELECTED FREE contains mainly polar hop components, which are especially soluble in alcohol-reduced and alcohol-free beers.",
+    "boundary": "Supplier characterization; batch concentrations not supplied."
+  },
+  {
+    "claim_id": "C5",
+    "source_id": 6,
+    "source_text": "tetra.txt",
+    "quote": "Tetra only provides protection against lightstruck flavor in the complete absence of alpha acids and iso-alpha acids.",
+    "boundary": "Conditional lightstruck protection, not universal aroma/shelf-life stability."
+  },
+  {
+    "claim_id": "C6",
+    "source_id": 7,
+    "source_text": "iso.txt",
+    "quote": "Iso-Extract can be used post-fermentation to adjust bitterness or to partially replace conventional hop products used to impart bitterness.",
+    "boundary": "Beer bitterness adjustment, not aroma replacement."
+  },
+  {
+    "claim_id": "C7",
+    "source_id": 7,
+    "source_text": "iso.txt",
+    "quote": "Never dilute full-strength Iso-Extract with beer, as the lower pH will cause precipitation.",
+    "boundary": "Concentrate predilution warning, not prohibition on properly dosed addition to flowing beer."
+  },
+  {
+    "claim_id": "C8",
+    "source_id": 3,
+    "source_text": "alcohol-paper.txt",
+    "quote": "The terpene alcohols displayed hardly any ABV dependency",
+    "boundary": "Study authors qualitative conclusion; individual geraniol data nonmonotonic."
+  },
+  {
+    "claim_id": "C9",
+    "source_id": 3,
+    "source_text": "alcohol-paper.txt",
+    "quote": "In order to avoid any microbial contami- nation (especially in the low ABV samples), the natural preservative Nagardo© was add- ed to all of the 17 single trial beers [10].",
+    "boundary": "Not preservative-free hop water or food safety validation."
+  },
+  {
+    "claim_id": "C10",
+    "source_id": 3,
+    "source_text": "alcohol-paper.txt",
+    "quote": "as all other values indicate the maximum concentration was reached at 3.5 % ABV and above.",
+    "boundary": "Author explanation speculates sampling error for geraniol; preserve actual lower value, no correction."
+  },
+  {
+    "claim_id": "C11",
+    "source_id": 5,
+    "source_text": "oil-selected-free.txt",
+    "quote": "During beer aging the aroma components of Hop oil Type SELECTED FREE remain stable and contribute to overall flavor stability.",
+    "boundary": "Supplier assertion only; no duration, light dose, packaging or data on this page."
+  }
+]

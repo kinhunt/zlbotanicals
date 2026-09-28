@@ -1,0 +1,70 @@
+{
+  "source_id": 3,
+  "pdf_page": 3,
+  "printed_page": 4,
+  "printed_label": "Table 3",
+  "prose_label": "Table 4",
+  "printed_unit": "μG/",
+  "context_unit": "µg/l in surrounding ketone and terpene-alcohol prose; incomplete table heading not silently repaired",
+  "columns": [
+    "base beer",
+    "N1–N3",
+    "L1–L3",
+    "M1–M3",
+    "H1–H3"
+  ],
+  "ABV_percent": [
+    0.4,
+    0.5,
+    3.5,
+    7.0,
+    10.5
+  ],
+  "rows": {
+    "Linalool": [
+      "n.d.",
+      195.3,
+      213.0,
+      204.0,
+      214.5
+    ],
+    "Geraniol": [
+      "n.d.",
+      193.4,
+      246.8,
+      250.0,
+      198.4
+    ],
+    "β-Myrcene": [
+      "n.d.",
+      708,
+      13718,
+      13974,
+      13502
+    ],
+    "Isobutyl isobutyrate": [
+      "n.d.",
+      166.3,
+      238.5,
+      238.3,
+      237.5
+    ]
+  },
+  "conditions": {
+    "base": "commercial thermally dealcoholised wheat beer",
+    "hops": "Solero Type 90 pellets, crop 2020",
+    "dose": "250 g/hl",
+    "vessel": "20 litre NC kegs, loose pellets",
+    "contact": "semi-static, 14 days, 5 °C",
+    "design": "purified ethanol adjustment; three dry-hopped samples per ABV; one unhopped control per ABV; one original base = 17 trials",
+    "preservative": "Nagardo in all 17, dosage not stated in retrieved excerpt",
+    "measurement": "group mean analytical concentrations, not sensory intensity or commercial-extract recovery",
+    "limitations": "closed system and low yeast noted by authors for exceptional myrcene; no 0.0% water, shelf-life or extract head-to-head experiment"
+  },
+  "contradictions": [
+    "Geraniol H=198.4 lower than M=250.0; author sampling-error suggestion unverified",
+    "beta-acid prose below 6.4% versus table maximum 6.4%; do not use a strict less-than statement",
+    "humulinone prose conclusion no effect overgeneralizes displayed N-to-L change; no universal claim",
+    "limonene named beta in table versus alpha in later prose; excluded from draft"
+  ]
+}

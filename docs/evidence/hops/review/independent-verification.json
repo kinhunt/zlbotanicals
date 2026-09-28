@@ -1,0 +1,239 @@
+{
+  "passed": 57,
+  "total": 57,
+  "checks": [
+    {
+      "check": "All original files unchanged, including verifier outputs",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte hash supplier-com",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte size supplier-com",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte hash supplier-us",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte size supplier-us",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte hash alcohol-paper",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte size alcohol-paper",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte hash products",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte size products",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte hash oil-selected-free",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte size oil-selected-free",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte hash tetra",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte size tetra",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte hash iso",
+      "pass": true
+    },
+    {
+      "check": "Raw-byte size iso",
+      "pass": true
+    },
+    {
+      "check": "Four-page PDF",
+      "pass": true
+    },
+    {
+      "check": "Original PDF row including base n.d.: Linalool",
+      "pass": true
+    },
+    {
+      "check": "Original PDF row including base n.d.: Geraniol",
+      "pass": true
+    },
+    {
+      "check": "Original PDF row including base n.d.: β-Myrcene",
+      "pass": true
+    },
+    {
+      "check": "Original PDF row including base n.d.: Isobutyl isobutyrate",
+      "pass": true
+    },
+    {
+      "check": "Incomplete source unit preserved",
+      "pass": true
+    },
+    {
+      "check": "Original table-label conflict",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote C1",
+      "pass": true
+    },
+    {
+      "check": "Quote exists in parsed ORIGINAL supplier HTML C1",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote C2",
+      "pass": true
+    },
+    {
+      "check": "Quote exists in parsed ORIGINAL supplier HTML C2",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote C3",
+      "pass": true
+    },
+    {
+      "check": "Quote exists in parsed ORIGINAL supplier HTML C3",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote C4",
+      "pass": true
+    },
+    {
+      "check": "Quote exists in parsed ORIGINAL supplier HTML C4",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote C5",
+      "pass": true
+    },
+    {
+      "check": "Quote exists in parsed ORIGINAL supplier HTML C5",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote C6",
+      "pass": true
+    },
+    {
+      "check": "Quote exists in parsed ORIGINAL supplier HTML C6",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote C7",
+      "pass": true
+    },
+    {
+      "check": "Quote exists in parsed ORIGINAL supplier HTML C7",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote C8",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote C9",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote C10",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote C11",
+      "pass": true
+    },
+    {
+      "check": "Quote exists in parsed ORIGINAL supplier HTML C11",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote 3",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote 3",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote 5",
+      "pass": true
+    },
+    {
+      "check": "Quote exists in parsed ORIGINAL supplier HTML 5",
+      "pass": true
+    },
+    {
+      "check": "Literal source quote 7",
+      "pass": true
+    },
+    {
+      "check": "Quote exists in parsed ORIGINAL supplier HTML 7",
+      "pass": true
+    },
+    {
+      "check": "Dose conversion pellets",
+      "pass": true
+    },
+    {
+      "check": "Dose conversion diluted oil",
+      "pass": true
+    },
+    {
+      "check": "Citation evidence draft.en.md",
+      "pass": true
+    },
+    {
+      "check": "One qualitative matrix, no ambiguous quantitative table draft.en.md",
+      "pass": true
+    },
+    {
+      "check": "Dose/basis parity draft.en.md",
+      "pass": true
+    },
+    {
+      "check": "No public workflow approval language draft.en.md",
+      "pass": true
+    },
+    {
+      "check": "Citation evidence draft.zh.md",
+      "pass": true
+    },
+    {
+      "check": "One qualitative matrix, no ambiguous quantitative table draft.zh.md",
+      "pass": true
+    },
+    {
+      "check": "Dose/basis parity draft.zh.md",
+      "pass": true
+    },
+    {
+      "check": "No public workflow approval language draft.zh.md",
+      "pass": true
+    }
+  ],
+  "scope": "Offline original-byte, quote, original-cell, unit and corrected-draft checks; not fresh HTTP, scientific replication or publication approval",
+  "corrected_draft_hashes": {
+    "draft.en.md": "3e387c0ced8d4c8a1eb31dafabf4e8e43663003bdad9d87c46a1a24b0bbc3c29",
+    "draft.zh.md": "c7ec0d0f006ff93fd50c2ee9c6db635d35c66c5a78271700c45636b85975cd71"
+  }
+}

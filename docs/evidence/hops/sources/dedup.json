@@ -1,0 +1,39 @@
+[
+  {
+    "command": [
+      "git",
+      "rev-parse",
+      "origin/main"
+    ],
+    "exit": 0,
+    "stdout": "4e7d4f21a7629fed8713a74539b91df95de5d2e4\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "git",
+      "status",
+      "--porcelain"
+    ],
+    "exit": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "git",
+      "grep",
+      "-n",
+      "-i",
+      "-E",
+      "hops|hop extract|humulus|\u9152\u82b1|\u5564\u9152\u82b1",
+      "origin/main",
+      "--",
+      "src/content",
+      "src/data"
+    ],
+    "exit": 1,
+    "stdout": "",
+    "stderr": ""
+  }
+]
