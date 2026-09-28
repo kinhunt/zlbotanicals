@@ -1,0 +1,1704 @@
+{
+  "jats": [
+    {
+      "id": "foods-14-00824-t001",
+      "caption": "Composition of the film-forming emulsions.",
+      "rows": [
+        [
+          {
+            "text": "Composition",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">Composition</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "YSF(5% w/w)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">YSF<break />(5% <italic>w</italic>/<italic>w</italic>)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "GSF(5% w/w)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">GSF<break />(5% <italic>w</italic>/<italic>w</italic>)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "Glycerol(1.5% w/w)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">Glycerol<break />(1.5% <italic>w</italic>/<italic>w</italic>)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "Sunflower Oil(3.5% w/w)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">Sunflower Oil<break />(3.5% <italic>w</italic>/<italic>w</italic>)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "CNC(0.05% w/w)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">CNC<break />(0.05% <italic>w</italic>/<italic>w</italic>)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "CNF(0.05% w/w)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">CNF<break />(0.05% <italic>w</italic>/<italic>w</italic>)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "C-YSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">C-YSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "C-GSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">C-GSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-YSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-YSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-GSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-GSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-YSF-CNC",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-YSF-CNC</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-GSF-CNC",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-GSF-CNC</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-YSF-CNF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-YSF-CNF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-GSF-CNF",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">E-GSF-CNF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">\n</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "x",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">x</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ]
+      ],
+      "foot": "YSF: yellowish sunflower protein; GSF: greenish sunflower protein; CNC: cellulose nanocrystal; and CNF: cellulose nanofiber."
+    },
+    {
+      "id": "foods-14-00824-t002",
+      "caption": "D32, span, zeta potential, and rheological parameters (k: consistency index; n: flow behavior index; η: apparent viscosity) of yellowish (C-YSF) and greenish (C-GSF) sunflower protein dispersions, emulsions prepared only with the yellowish (E-YSF) and greenish (E-GSF) sunflower protein dispersions, and sunflower protein-based emulsions added with cellulose nanocrystals (E-YSF-CNC or E-GSF-CNC) or cellulose nanofibers (E-YSF-CNF or E-GSF-CNF).",
+      "rows": [
+        [
+          {
+            "text": "Composition",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">Composition</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "D32 (μm)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">D<sub>32</sub> (μm)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "Span",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">Span</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "Zeta Potential (mV)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">Zeta Potential <break />(mV)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "k (Pa.sn)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">k (Pa.s<sup>n</sup>)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "n",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">n</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "η at 10 s−1(mPa.s)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">η at 10 s<sup>−1</sup><break />(mPa.s)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "C-YSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">C-YSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "3.52 ± 0.24 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">3.52 ± 0.24 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.79 ± 0.05 f",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.79 ± 0.05 <sup>f</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "−32.87 ± 0.77 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">−32.87 ± 0.77 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.01 ± <0.01 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.01 ± &lt;0.01 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.87 ± <0.01 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.87 ± &lt;0.01 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "21.0 ± 0.3 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">21.0 ± 0.3 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-YSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-YSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.90 ± 0.01 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.90 ± 0.01 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "3.39 ± 0.02 b",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">3.39 ± 0.02 <sup>b</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "−35.70 ± 0.26 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">−35.70 ± 0.26 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.03 ± <0.01 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.03 ± &lt;0.01 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.79 ± 0.01 b",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.79 ± 0.01 <sup>b</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "29.6 ± 1.8 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">29.6 ± 1.8 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-YSF-CNC",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-YSF-CNC</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.93 ±< 0.01 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.93 ±&lt; 0.01 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "3.61 ± 0.01 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">3.61 ± 0.01 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "−36.67 ± 0.67 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">−36.67 ± 0.67 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.05 ± <0.01 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.05 ± &lt;0.01 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.73 ± <0.01 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.73 ± &lt;0.01 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "35.9 ± 0.6 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">35.9 ± 0.6 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-YSF-CNF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-YSF-CNF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.98 ± 0.01 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.98 ± 0.01 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "3.55 ± 0.04 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">3.55 ± 0.04 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "−37.15 ± 0.44 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">−37.15 ± 0.44 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.13 ± <0.01 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.13 ± &lt;0.01 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.67 ± <0.01 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.67 ± &lt;0.01 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "86.8 ± 8.1 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">86.8 ± 8.1 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "C-GSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">C-GSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "2.95 ± 0.05 b",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">2.95 ± 0.05 <sup>b</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.86 ± 0.01 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.86 ± 0.01 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "−33.39 ± 0.95 ab",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">−33.39 ± 0.95 <sup>ab</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.11 ± 0.01 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.11 ± 0.01 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.69 ± <0.01 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.69 ± &lt;0.01 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "67.5 ± 0.3 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">67.5 ± 0.3 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-GSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-GSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.34 ± 0.02 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.34 ± 0.02 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "2.67 ± 0.02 cd",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">2.67 ± 0.02 <sup>cd</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "−33.67 ± 0.71 ab",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">−33.67 ± 0.71 <sup>ab</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.36 ± 0.01 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.36 ± 0.01 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.59 ± <0.01 f",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.59 ± &lt;0.01 <sup>f</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "135.2 ± 12.6 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">135.2 ± 12.6 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-GSF-CNC",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-GSF-CNC</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.31 ± 0.02 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.31 ± 0.02 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "2.73 ± 0.04 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">2.73 ± 0.04 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "−34.73 ± 0.88 bc",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">−34.73 ± 0.88 <sup>bc</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.47 ± 0.02 b",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.47 ± 0.02 <sup>b</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.54 ± <0.01 g",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.54 ± &lt;0.01 <sup>g</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "165.6 ± 9.1 b",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">165.6 ± 9.1 <sup>b</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-GSF-CNF",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">E-GSF-CNF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.38 ± 0.01 c",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">1.38 ± 0.01 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "2.63 ± 0.02 d",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">2.63 ± 0.02 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "−34.98 ± 0.97 c",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">−34.98 ± 0.97 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.68 ± 0.01 a",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">0.68 ± 0.01 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.54 ± <0.01 g",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">0.54 ± &lt;0.01 <sup>g</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "296.5 ± 7.6 a",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">296.5 ± 7.6 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ]
+      ],
+      "foot": "Means with the same letters in the same column do not show statistical differences (p > 0.05)."
+    },
+    {
+      "id": "foods-14-00824-t003",
+      "caption": "Thickness, tensile strain, elongation at break, Young’s modulus, and water vapor permeability (WVP) of films obtained from yellowish (C-YSF) and greenish (C-GSF) sunflower protein dispersions, emulsions prepared only with the yellowish (E-YSF) and greenish (E-GSF) sunflower protein dispersions, and sunflower protein-based emulsions added with cellulose nanocrystals (E-YSF-CNC or E-GSF-CNC) or cellulose nanofibers (E-YSF-CNF or E-GSF-CNF).",
+      "rows": [
+        [
+          {
+            "text": "FilmComposition",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">Film<break />Composition</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "Thickness(mm)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">Thickness<break />(mm)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "Tensile Strength (MPa)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">Tensile Strength (MPa)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "Elongation at Break (%)Flexibility",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">Elongation at Break (%)<break />Flexibility</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "Young’s Modulus (MPa)Rigidez",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">Young’s <break />Modulus (MPa)<break />Rigidez</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "Water Vapor Permeability (g/m.s.Pa)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">Water Vapor Permeability (g/m.s.Pa)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "C-YSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">C-YSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.10 ± <0.01 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.10 ± &lt;0.01 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "6.0 ± 0.5 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">6.0 ± 0.5 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "100.5 ± 8.5 b",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">100.5 ± 8.5 <sup>b</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.80 ± 0.05 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.80 ± 0.05 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.15 ± 0.09 abc",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.15 ± 0.09 <sup>abc</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-YSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-YSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.22 ± 0.02 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.22 ± 0.02 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.5 ± 0.2 de",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.5 ± 0.2 <sup>de</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "109.9 ± 5.4 bc",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">109.9 ± 5.4 <sup>bc</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.14 ± 0.02 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.14 ± 0.02 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.94 ± 0.02 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.94 ± 0.02 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-YSF-CNC",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-YSF-CNC</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.16 ± 0.02 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.16 ± 0.02 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.5 ± 0.1 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.5 ± 0.1 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "92.6 ± 9.0 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">92.6 ± 9.0 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.15 ± 0.01 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.15 ± 0.01 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.39 ± 0.15 ab",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.39 ± 0.15 <sup>ab</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-YSF-CNF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-YSF-CNF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.18 ± 0.02 b",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.18 ± 0.02 <sup>b</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.9 ± <0.1 cd",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.9 ± &lt;0.1 <sup>cd</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "65.6 ± 9.1 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">65.6 ± 9.1 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.18 ± 0.02 de",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.18 ± 0.02 <sup>de</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.47 ± 0.03 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.47 ± 0.03 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "C-GSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">C-GSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.13 ± 0.02 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.13 ± 0.02 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "4.4 ± 0.3 b",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">4.4 ± 0.3 <sup>b</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "149.7 ± 3.2 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">149.7 ± 3.2 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.43 ± 0.04 b",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.43 ± 0.04 <sup>b</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.42 ± 0.18 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.42 ± 0.18 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-GSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-GSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.19 ± 0.01 bc",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.19 ± 0.01 <sup>bc</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "2.1 ± <0.1 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">2.1 ± &lt;0.1 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "99.1 ± 3.8 bc",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">99.1 ± 3.8 <sup>bc</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.19 ± 0.02 de",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.19 ± 0.02 <sup>de</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.99 ± 0.04 bc",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.99 ± 0.04 <sup>bc</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-GSF-CNC",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-GSF-CNC</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.21 ± 0.04 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.21 ± 0.04 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.9 ± 0.2 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.9 ± 0.2 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "62.0 ± 9.4 de",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">62.0 ± 9.4 <sup>de</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.22 ± 0.06 cd",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.22 ± 0.06 <sup>cd</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.36 ± 0.05 ab",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.36 ± 0.05 <sup>ab</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-GSF-CNF",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">E-GSF-CNF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.20 ± 0.01 ab",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">0.20 ± 0.01 <sup>ab</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "2.2 ± 0.2 c",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">2.2 ± 0.2 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "52.8 ± 6.4 e",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">52.8 ± 6.4 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.25 ± 0.02 c",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">0.25 ± 0.02 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.33 ± 0.12 abc",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">1.33 ± 0.12 <sup>abc</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ]
+      ],
+      "foot": "Means with the same letters in the same column do not show statistical differences (p > 0.05)."
+    },
+    {
+      "id": "foods-14-00824-t004",
+      "caption": "Color parameters of films obtained from yellowish (C-YSF) and greenish (C-GSF) sunflower protein dispersions, emulsions prepared only with yellowish (E-YSF) and greenish (E-GSF) sunflower protein dispersions, and sunflower protein-based emulsions added with cellulose nanocrystals (E-YSF-CNC or E-GSF-CNC) or cellulose nanofibers (E-YSF-CNF or E-GSF-CNF).",
+      "rows": [
+        [
+          {
+            "text": "FilmComposition",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">Film<break />Composition</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "L*",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">L*</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "a*",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">a* </th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "b*",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">b* </th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "h (°)",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">h (°)</th>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "C*",
+            "xml": "<th align=\"center\" valign=\"middle\" style=\"border-top:solid thin;border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">C* </th>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "C-YSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">C-YSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "10.4 ± 0.7 cd",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">10.4 ± 0.7 <sup>cd</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.0 ± 0.2 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.0 ± 0.2 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.4 ± <0.1 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.4 ± &lt;0.1 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "19.5 ± 3.7 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">19.5 ± 3.7 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.1 ± 0.2 e",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.1 ± 0.2 <sup>e</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-YSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-YSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "26.5 ± 0.9 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">26.5 ± 0.9 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "6.9 ± 0.5 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">6.9 ± 0.5 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "18.0 ± 0.2 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">18.0 ± 0.2 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "69.1 ± 1.4 bcd",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">69.1 ± 1.4 <sup>bcd</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "19.3 ± 0.1 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">19.3 ± 0.1 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-YSF-CNC",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-YSF-CNC</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "25.7 ± 0.6 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">25.7 ± 0.6 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "5.6 ± 0.9 b",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">5.6 ± 0.9 <sup>b</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "19.2 ± 1.2 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">19.2 ± 1.2 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "73.7 ± 2.8 abc",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">73.7 ± 2.8 <sup>abc</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "20.0 ± 1.1 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">20.0 ± 1.1 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-YSF-CNF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-YSF-CNF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "26.9 ± 0.6 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">26.9 ± 0.6 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "3.6 ± 0.5 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">3.6 ± 0.5 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "15.7 ± 0.4 b",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">15.7 ± 0.4 <sup>b</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "77.2 ± 1.8 a",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">77.2 ± 1.8 <sup>a</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "16.1 ± 0.4 b",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">16.1 ± 0.4 <sup>b</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "C-GSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">C-GSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "19.6 ± 0.4 b",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">19.6 ± 0.4 <sup>b</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "2.0 ± 0.1 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">2.0 ± 0.1 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "6.3 ± 0.2 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">6.3 ± 0.2 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "74.2 ± 4.0 ab",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">74.2 ± 4.0 <sup>ab</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "6.6 ± 0.2 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">6.6 ± 0.2 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-GSF",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-GSF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "9.2 ± 0.2 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">9.2 ± 0.2 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "0.9 ± 0.1 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">0.9 ± 0.1 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "2.1 ± 0.1 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">2.1 ± 0.1 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "66.2 ± 3.0 cd",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">66.2 ± 3.0 <sup>cd</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "2.3 ± 0.1 de",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">2.3 ± 0.1 <sup>de</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-GSF-CNC",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">E-GSF-CNC</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "11.5 ± 0.6 c",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">11.5 ± 0.6 <sup>c</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.2 ± 0.1 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">1.2 ± 0.1 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "3.2 ± 0.3 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">3.2 ± 0.3 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "69.0 ± 2.5 bcd",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">69.0 ± 2.5 <sup>bcd</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "3.5 ± 0.3 d",
+            "xml": "<td align=\"center\" valign=\"middle\" rowspan=\"1\" colspan=\"1\">3.5 ± 0.3 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "E-GSF-CNF",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">E-GSF-CNF</td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "10.7 ± 0.9 cd",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">10.7 ± 0.9 <sup>cd</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "1.0 ± 0.1 d",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">1.0 ± 0.1 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "2.1 ± 0.2 d",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">2.1 ± 0.2 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "65.7 ± 2.2 d",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">65.7 ± 2.2 <sup>d</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          },
+          {
+            "text": "2.3 ± 0.2 de",
+            "xml": "<td align=\"center\" valign=\"middle\" style=\"border-bottom:solid thin\" rowspan=\"1\" colspan=\"1\">2.3 ± 0.2 <sup>de</sup></td>",
+            "colspan": "1",
+            "rowspan": "1"
+          }
+        ]
+      ],
+      "foot": "Means with the same letters in the same column do not show statistical differences (p > 0.05)."
+    }
+  ],
+  "supplier": [
+    [
+      [
+        {
+          "text": "",
+          "html": "<th class=\"head_0 col_first unsortable\"> </th>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "Heliaflor®  45",
+          "html": "<th class=\"head_1\">Heliaflor®  45</th>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "Heliaflor®  50 HO",
+          "html": "<th class=\"head_2\">Heliaflor®  50 HO</th>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "Heliaflor®  Extrufix 50 HO",
+          "html": "<th class=\"head_3\">Heliaflor®  Extrufix 50 HO</th>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "Heliaflor®  55",
+          "html": "<th class=\"head_4 col_last\">Heliaflor®  55</th>",
+          "colspan": "1",
+          "rowspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Production",
+          "html": "<th class=\"col_0 col_first\" scope=\"row\">Production</th>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "Peeled Sunflowerkernels are partially defatted by special mechanical pressing – patent pending - Grinding: fine Organic farming according to Regulation (EG 834/2007) Made in Germany Production according to HACCP and AOT-Audit Extensive controls in accredited laboratories",
+          "html": "<td class=\"col_1\">Peeled Sunflowerkernels <br/>\nare partially defatted by <br/>\nspecial mechanical <br/>\npressing – patent pending<br/>\n<br/>\n-<br/>\n<br/>\nGrinding: fine<br/>\n<br/>\nOrganic farming <br/>\naccording to <br/>\nRegulation (EG 834/2007)<br/>\n<br/>\nMade in Germany<br/>\n<br/>\nProduction according <br/>\nto HACCP and AOT-Audit<br/>\n<br/>\nExtensive controls in accredited laboratories</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "Partially defatted by mechanical pressing -- Grinding: fine Organic farming according to Regulation (EG 834/2007) Made in Germany Production according to HACCP and AOT-Audit Extensive controls in accredited laboratories",
+          "html": "<td class=\"col_2\">Partially defatted by <br/>\nmechanical pressing<br/>\n<br/>\n<br/>\n<br/>\n--<br/>\n<br/>\nGrinding: fine<br/>\n<br/>\nOrganic farming <br/>\naccording to <br/>\nRegulation (EG 834/2007)<br/>\n<br/>\nMade in Germany<br/>\n<br/>\nProduction according <br/>\nto HACCP and AOT-Audit<br/>\n<br/>\nExtensive controls in <br/>\naccredited laboratories</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "Partially defatted by mechanical pressing -- Grinding: slightly coarser Organic farming according to Regulation (EG 834/2007) Made in Germany Production according to HACCP and AOT-Audit Extensive controls in accredited laboratories",
+          "html": "<td class=\"col_3\">Partially defatted by <br/>\nmechanical pressing<br/>\n<br/>\n<br/>\n<br/>\n--<br/>\n<br/>\nGrinding: slightly coarser<br/>\n<br/>\nOrganic farming <br/>\naccording to <br/>\nRegulation (EG 834/2007)<br/>\n<br/>\nMade in Germany<br/>\n<br/>\nProduction according <br/>\nto HACCP and AOT-Audit<br/>\n<br/>\nExtensive controls in <br/>\naccredited laboratories</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "Peeled Sunflowerkernels are partially defatted by special mechanical pressing – patent pending CO²-extracted Grinding: fine Organic farming according to Regulation (EG 834/2007) Made in Germany Production according to HACCP and AOT-Audit Extensive controls in accredited laboratories",
+          "html": "<td class=\"col_4 col_last\">Peeled Sunflowerkernels <br/>\nare partially defatted by <br/>\nspecial mechanical <br/>\npressing – patent pending<br/>\n<br/>\nCO²-extracted<br/>\n<br/>\nGrinding: fine<br/>\n<br/>\nOrganic farming <br/>\naccording to <br/>\nRegulation (EG 834/2007)<br/>\n<br/>\nMade in Germany<br/>\n<br/>\nProduction according to <br/>\nHACCP and AOT-Audit<br/>\n<br/>\nExtensive controls in <br/>\naccredited laboratories</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Sensory property",
+          "html": "<th class=\"col_0 col_first\" scope=\"row\">Sensory property</th>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "• powder • flavour and odor are products typical • appearance: beige",
+          "html": "<td class=\"col_1\">• powder<br/>\n• flavour and odor are products typical<br/>\n• appearance: beige</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "• powder • flavour and odor are products typical • appearance: beige-brown",
+          "html": "<td class=\"col_2\">• powder<br/>\n• flavour and odor are products typical<br/>\n• appearance: beige-brown</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "• coarse powder • flavour and odor are products typical • appearance: beige-brown",
+          "html": "<td class=\"col_3\">• coarse powder<br/>\n• flavour and odor are products typical<br/>\n• appearance: beige-brown</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "• powder • flavour and odor are products typical • appearance: light-beige",
+          "html": "<td class=\"col_4 col_last\">• powder<br/>\n• flavour and odor are products typical<br/>\n• appearance: light-beige</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Nutrition",
+          "html": "<th class=\"col_0 col_first\" scope=\"row\">Nutrition</th>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "Energy value: 350 kcal / ca. 1466 kJ (100g) high protein content: min 45 % dry mass high fiber: approx. 18 % medium fat content: approx. 10 % carbohydrates contet: approx. 7%",
+          "html": "<td class=\"col_1\">Energy value: 350 kcal /<br/>\nca. 1466 kJ (100g)<br/>\n<br/>\nhigh protein content: <br/>\nmin 45 % dry mass<br/>\n<br/>\nhigh fiber: <br/>\napprox. 18 %<br/>\n<br/>\nmedium fat content: <br/>\napprox. 10 %<br/>\n<br/>\ncarbohydrates contet:<br/>\napprox. 7%</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "Energy value: 397 kcal / ca. 1673 kJ (100g) high protein content: min 50 % dry mass high fiber: approx. 14 - 23 % low fat content: 8 - 12 % carbohydrates content: 8 - 14 %",
+          "html": "<td class=\"col_2\">Energy value: 397 kcal / <br/>\nca. 1673 kJ (100g)<br/>\n<br/>\nhigh protein content: <br/>\nmin 50 % dry mass<br/>\n<br/>\nhigh fiber: <br/>\napprox. 14 - 23 %<br/>\n<br/>\nlow fat content: <br/>\n8 - 12 %<br/>\n<br/>\ncarbohydrates content: <br/>\n8 - 14 %</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "Energy value. 397 kcal / ca. 1673 kJ (100g) high protein content: min 50 % dry mass high fiber: approx. 14 - 23 % low fat content: 8 - 12 % carbohydrates content: 8 - 14 %",
+          "html": "<td class=\"col_3\">Energy value. 397 kcal / <br/>\nca. 1673 kJ (100g)<br/>\n<br/>\nhigh protein content: <br/>\nmin 50 % dry mass<br/>\n<br/>\nhigh fiber: <br/>\napprox. 14 - 23 %<br/>\n<br/>\nlow fat content: <br/>\n8 - 12 %<br/>\n<br/>\ncarbohydrates content: <br/>\n8 - 14 %</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "Energy value. 305 kcal / ca. 1300 kJ (100g) high protein content: min 55 % dry mass high fiber: approx. 20 % low fat content: max. approx. 2 % carbohydrates content: approx 9 %",
+          "html": "<td class=\"col_4 col_last\">Energy value. 305 kcal / <br/>\nca. 1300 kJ (100g)<br/>\n<br/>\nhigh protein content: <br/>\nmin 55 % dry mass<br/>\n<br/>\nhigh fiber: <br/>\napprox. 20 %<br/>\n<br/>\nlow fat content: <br/>\nmax. approx. 2 %<br/>\n<br/>\ncarbohydrates content: <br/>\napprox 9 %</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Water binding capacity",
+          "html": "<th class=\"col_0 col_first\" scope=\"row\">Water binding capacity</th>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "> 160 % (100 g Heliaflor® 45 bind 160g Water)",
+          "html": "<td class=\"col_1\">&gt; 160 % <br/>\n(100 g <br/>\nHeliaflor® 45 <br/>\nbind 160g Water)</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "> 160 % (100 g Heliaflor® 50 HO bind min. 160 g Water)",
+          "html": "<td class=\"col_2\">&gt; 160 % <br/>\n(100 g <br/>\nHeliaflor® 50 HO <br/>\nbind min. 160 g Water)</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "> 160 % (100 g Heliaflor® 50 HO bind min. 160 g Water)",
+          "html": "<td class=\"col_3\">&gt; 160 % <br/>\n(100 g <br/>\nHeliaflor® 50 HO <br/>\nbind min. 160 g Water)</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "> 200 % (100 g Heliaflor® 55 bind min. 200 g Water)",
+          "html": "<td class=\"col_4 col_last\">&gt; 200 % <br/>\n(100 g <br/>\nHeliaflor® 55 <br/>\nbind min. 200 g Water)</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        }
+      ],
+      [
+        {
+          "text": "Fat binding capacity",
+          "html": "<th class=\"col_0 col_first\" scope=\"row\">Fat binding capacity</th>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "> 60 % (100 g Heliaflor® 45 bind min 60g fat)",
+          "html": "<td class=\"col_1\">&gt; 60 % <br/>\n(100 g <br/>\nHeliaflor® 45 <br/>\nbind min 60g fat)</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "> 60 % (100 g Heliaflor® 50 HO bind min. 60 g fat)",
+          "html": "<td class=\"col_2\">&gt; 60 % <br/>\n(100 g <br/>\nHeliaflor® 50 HO <br/>\nbind min. 60 g fat)</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "> 60 % (100 g Heliaflor® Extrufix 50 HO bind min. 60 g fat)",
+          "html": "<td class=\"col_3\">&gt; 60 % <br/>\n(100 g <br/>\nHeliaflor® Extrufix 50 HO <br/>\nbind min. 60 g fat)</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        },
+        {
+          "text": "> 60 % (100 g Heliaflor® 55 bind min. 60 g fat)",
+          "html": "<td class=\"col_4 col_last\">&gt; 60 % <br/>\n(100 g <br/>\nHeliaflor® 55 <br/>\nbind min. 60 g fat)</td>",
+          "colspan": "1",
+          "rowspan": "1"
+        }
+      ]
+    ]
+  ]
+}
